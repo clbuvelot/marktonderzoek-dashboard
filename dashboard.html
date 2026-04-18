@@ -314,6 +314,14 @@
       <select id="f-dienst"><option value="">Alle opdrachtgevers</option></select>
     </div>
     <div class="filter-group">
+      <label>Status</label>
+      <select id="f-pubtype">
+        <option value="">Alle</option>
+        <option value="gegund">Gegund</option>
+        <option value="lopend">Lopend</option>
+      </select>
+    </div>
+    <div class="filter-group">
       <label>Procedure</label>
       <select id="f-procedure">
         <option value="">Alle procedures</option>
@@ -482,7 +490,7 @@ function initFilters() {
   populateSelect("f-jaar", jaren);
   populateSelect("f-dienst", diensten);
 
-  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr"].forEach(id =>
+  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr","f-pubtype"].forEach(id =>
     document.getElementById(id).addEventListener("change", () => { showAll = false; render(); }));
   document.getElementById("f-term").addEventListener("input", () => { showAll = false; render(); });
   document.getElementById("show-more-btn").addEventListener("click", () => { showAll = true; render(); });
@@ -505,6 +513,7 @@ function getFiltered() {
   const dienst = document.getElementById("f-dienst").value;
   const procedure = document.getElementById("f-procedure").value;
   const betr = document.getElementById("f-betr").value;
+  const pubtype = document.getElementById("f-pubtype").value;
   const term = document.getElementById("f-term").value.toLowerCase().trim();
 
   return DATA.filter(r => {
@@ -517,6 +526,7 @@ function getFiltered() {
     if (procedure && r.procedure_type !== procedure) return false;
     if (betr === "hoog" && (cl(r).betrouwbaarheid || 0) < 0.6) return false;
     if (betr === "laag" && (cl(r).betrouwbaarheid || 0) >= 0.6) return false;
+    if (pubtype && (r.publicatie_type || "gegund") !== pubtype) return false;
     if (term && !(r.titel || "").toLowerCase().includes(term)) return false;
     return true;
   });
@@ -550,6 +560,7 @@ function updateActiveFilters() {
     "f-dienst": document.getElementById("f-dienst"),
     "f-procedure": document.getElementById("f-procedure"),
     "f-betr": document.getElementById("f-betr"),
+    "f-pubtype": document.getElementById("f-pubtype"),
   };
   Object.entries(vals).forEach(([id, sel]) => {
     if (sel.value) filters.push({id, label: sel.options[sel.selectedIndex].text});
@@ -572,7 +583,7 @@ function clearFilter(id) {
 }
 
 function resetFilters() {
-  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr"].forEach(id => document.getElementById(id).value = "");
+  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr","f-pubtype"].forEach(id => document.getElementById(id).value = "");
   document.getElementById("f-term").value = "";
   showAll = false;
   render();
@@ -696,7 +707,7 @@ function render() {
   document.getElementById("tbl-body").innerHTML = rows.length
     ? rows.map(r => `
       <tr>
-        <td title="${r.titel || ""}"><a href="${r.url || "#"}" target="_blank">${r.titel || "—"}</a></td>
+        <td title="${r.titel || ""}"><a href="${r.url || "#"}" target="_blank">${r.titel || "—"}</a>${r.publicatie_type === 'lopend' ? ' <span style="background:#e1f5ee;color:#0f6e56;font-size:10px;padding:1px 6px;border-radius:99px;font-weight:600;margin-left:4px;">lopend</span>' : ''}</td>
         <td class="muted" title="${r.aanbestedende_dienst || ""}">${r.aanbestedende_dienst || "—"}</td>
         <td class="muted" title="${cl(r).thema || ""}">${cl(r).thema || "—"}</td>
         <td><span class="badge ${cl(r).methodiek_kwantitatief ? 'badge-kwant' : 'badge-niet'}" title="${cl(r).methodiek || ""}">${(cl(r).methodiek || "—").replace(" / niet gespecificeerd","").slice(0,28)}</span></td>
