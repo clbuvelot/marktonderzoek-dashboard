@@ -5,719 +5,688 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Marktonderzoek kwantitatieve beleidsevaluatie — Ecorys</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  :root {
-    --bg: #f8f7f4;
-    --surface: #ffffff;
-    --surface2: #f1efe8;
-    --border: #e0ddd6;
-    --text: #1a1a18;
-    --text2: #5f5e5a;
-    --text3: #888780;
-    --blue: #185fa5;
-    --blue-light: #e6f1fb;
-    --teal: #0f6e56;
-    --teal-light: #e1f5ee;
-    --coral: #993c1d;
-    --coral-light: #faece7;
-    --amber: #854f0b;
-    --amber-light: #faeeda;
-    --accent: #378add;
-    --accent2: #1d9e75;
-  }
+:root {
+  /* Ecorys primaire kleuren */
+  --ecorys-blue: #006EB8;
+  --ecorys-light-blue: #3FA7DF;
+  --ecorys-dark-grey: #4C4C4C;
+  --ecorys-grey: #C9D4D9;
+  /* Ecorys accent kleuren */
+  --ecorys-green: #2FA26D;
+  --ecorys-orange: #EA5437;
+  --ecorys-dark-blue: #273582;
+  --ecorys-purple: #2D285F;
 
-  body {
-    font-family: 'DM Sans', 'Helvetica Neue', sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    font-size: 14px;
-    line-height: 1.6;
-  }
+  /* Dashboard tokens */
+  --bg: #F4F7FA;
+  --surface: #ffffff;
+  --surface2: #EDF3F8;
+  --border: #D0DDE8;
+  --text: #1A1A2E;
+  --text2: var(--ecorys-dark-grey);
+  --text3: #8A9BAD;
+  --blue: var(--ecorys-blue);
+  --blue-bg: #E5F2FB;
+  --teal: var(--ecorys-green);
+  --teal-bg: #E3F5ED;
+  --amber: #B35A00;
+  --amber-bg: #FEF3E6;
+  --accent: var(--ecorys-blue);
+  --ai-color: var(--ecorys-dark-blue);
+  --ai-bg: #EAECF8;
+  --ai-border: #B0B6E0;
+}
 
-  header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 56px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
+body { font-family: 'Open Sans','Helvetica Neue',sans-serif; background: var(--bg); color: var(--text); font-size: 14px; line-height: 1.6; }
 
-  .logo { font-size: 15px; font-weight: 600; letter-spacing: -0.3px; }
-  .logo span { color: var(--accent); }
+header {
+  background: var(--ecorys-dark-blue);
+  padding: 0 2rem;
+  display: flex; align-items: center; justify-content: space-between;
+  height: 60px; position: sticky; top: 0; z-index: 200;
+}
+.logo {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px; font-weight: 700; color: white;
+  display: flex; align-items: center; gap: 14px; letter-spacing: 0;
+}
+.logo-divider { width: 1px; height: 24px; background: rgba(255,255,255,0.3); }
+.logo-sub { font-size: 12px; font-weight: 500; color: rgba(255,255,255,0.75); letter-spacing: 0; }
+.header-right { font-size: 12px; color: rgba(255,255,255,0.6); }
+.header-right span { color: var(--ecorys-light-blue); font-weight: 600; }
 
-  .scope-bar {
-    background: var(--amber-light);
-    border-bottom: 1px solid #ef9f27;
-    padding: 8px 2rem;
-    font-size: 12px;
-    color: var(--amber);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
+.scope-bar { background: var(--amber-bg); border-bottom: 2px solid var(--ecorys-orange); padding: 8px 2rem; font-size: 12px; color: var(--amber); }
 
-  .scope-bar strong { font-weight: 600; }
+main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; }
 
-  main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; }
+/* ── Filter systeem ── */
+.filter-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 1rem; border-top: 3px solid var(--ecorys-blue); }
+.filter-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-start; }
 
-  .filters {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 1rem 1.25rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: flex-end;
-    margin-bottom: 1.25rem;
-  }
+.filter-item { position: relative; }
 
-  .filter-group { display: flex; flex-direction: column; gap: 4px; }
-  .filter-group label { font-size: 11px; color: var(--text3); font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
+.filter-btn {
+  display: flex; align-items: center; gap: 6px;
+  padding: 6px 10px; font-size: 12px; font-weight: 500;
+  font-family: 'Open Sans', sans-serif;
+  border: 1px solid var(--border); border-radius: 4px;
+  background: var(--surface); color: var(--text2);
+  cursor: pointer; white-space: nowrap; transition: all 0.15s;
+  user-select: none;
+}
+.filter-btn:hover { background: var(--surface2); border-color: var(--ecorys-blue); color: var(--ecorys-blue); }
+.filter-btn.active { background: var(--blue-bg); border-color: var(--ecorys-blue); color: var(--ecorys-blue); }
+.filter-btn.active-ai { background: var(--ai-bg); border-color: var(--ai-border); color: var(--ai-color); }
 
-  select, input[type=text] {
-    font-size: 13px;
-    padding: 7px 10px;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    background: var(--surface);
-    color: var(--text);
-    outline: none;
-    transition: border-color 0.15s;
-  }
+.ai-badge {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; border-radius: 50%;
+  background: var(--ecorys-dark-blue); color: white; font-size: 8px; font-weight: 700;
+  flex-shrink: 0;
+}
 
-  select:focus, input[type=text]:focus { border-color: var(--accent); }
-  input[type=text] { width: 180px; }
+.filter-count {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-width: 18px; height: 18px; border-radius: 99px;
+  background: var(--ecorys-blue); color: white; font-size: 10px; font-weight: 600; padding: 0 4px;
+}
+.filter-count.ai { background: var(--ecorys-dark-blue); }
 
-  .btn {
-    padding: 7px 14px;
-    font-size: 13px;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    background: var(--surface);
-    color: var(--text2);
-    cursor: pointer;
-    transition: all 0.15s;
-  }
-  .btn:hover { background: var(--surface2); color: var(--text); }
+/* Dropdown */
+.filter-dropdown {
+  position: absolute; top: calc(100% + 6px); left: 0; z-index: 300;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
+  min-width: 240px; max-width: 320px;
+  box-shadow: 0 4px 20px rgba(0,58,110,0.12);
+  display: none;
+}
+.filter-dropdown.open { display: block; }
 
-  .filter-tag {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 3px 10px 3px 10px;
-    background: var(--blue-light);
-    color: var(--blue);
-    border-radius: 99px;
-    font-size: 11px;
-    font-weight: 500;
-  }
+.dropdown-header { padding: 10px 12px 6px; border-bottom: 1px solid var(--border); }
+.dropdown-title { font-size: 11px; font-weight: 600; color: var(--text3); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; font-family: 'Montserrat', sans-serif; }
+.dropdown-search { width: 100%; padding: 5px 8px; font-size: 12px; border: 1px solid var(--border); border-radius: 4px; background: var(--surface2); color: var(--text); outline: none; font-family: 'Open Sans', sans-serif; }
+.dropdown-search:focus { border-color: var(--ecorys-blue); }
 
-  .filter-tag button { background: none; border: none; cursor: pointer; color: var(--blue); font-size: 14px; line-height: 1; padding: 0; }
+.betr-toggle {
+  padding: 8px 12px; border-bottom: 1px solid var(--border);
+  background: var(--ai-bg);
+}
+.betr-label { font-size: 11px; color: var(--ai-color); font-weight: 600; margin-bottom: 4px; display: flex; align-items: center; gap: 4px; font-family: 'Montserrat', sans-serif; }
+.betr-options { display: flex; gap: 4px; }
+.betr-opt {
+  padding: 3px 8px; font-size: 11px; border-radius: 3px;
+  border: 1px solid var(--ai-border); cursor: pointer;
+  color: var(--ai-color); background: var(--surface);
+  transition: all 0.1s; font-family: 'Open Sans', sans-serif;
+}
+.betr-opt.selected { background: var(--ecorys-dark-blue); color: white; border-color: var(--ecorys-dark-blue); }
 
-  .active-filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 1rem; min-height: 0; }
+.dropdown-options { max-height: 220px; overflow-y: auto; padding: 4px 0; }
+.dropdown-option {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 12px; font-size: 12px; cursor: pointer;
+  transition: background 0.1s;
+}
+.dropdown-option:hover { background: var(--surface2); }
+.dropdown-option input[type=checkbox] { width: 13px; height: 13px; cursor: pointer; accent-color: var(--ecorys-blue); flex-shrink: 0; }
+.dropdown-option.ai-opt input { accent-color: var(--ecorys-dark-blue); }
+.option-label { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.option-count { font-size: 10px; color: var(--text3); flex-shrink: 0; }
 
-  .metrics {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
-    margin-bottom: 1.25rem;
-  }
+.dropdown-footer { padding: 8px 12px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; }
+.dropdown-footer button { font-size: 11px; color: var(--ecorys-blue); background: none; border: none; cursor: pointer; padding: 0; font-family: 'Open Sans', sans-serif; }
+.dropdown-footer button:hover { text-decoration: underline; }
 
-  .metric {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 1rem 1.25rem;
-  }
+.active-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; min-height: 0; }
+.tag {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: 500;
+  background: var(--blue-bg); color: var(--ecorys-blue); border: 1px solid #B5D4F4;
+}
+.tag.ai-tag { background: var(--ai-bg); color: var(--ai-color); border-color: var(--ai-border); }
+.tag button { background: none; border: none; cursor: pointer; color: inherit; font-size: 13px; line-height: 1; padding: 0; opacity: 0.7; }
+.tag button:hover { opacity: 1; }
 
-  .metric-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
-  .metric-value { font-size: 28px; font-weight: 600; letter-spacing: -1px; line-height: 1; }
-  .metric-sub { font-size: 12px; color: var(--text3); margin-top: 4px; }
+.btn-reset { font-size: 12px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 4px; background: var(--surface); color: var(--text3); cursor: pointer; font-family: 'Open Sans', sans-serif; }
+.btn-reset:hover { background: var(--surface2); color: var(--text); border-color: var(--ecorys-blue); }
 
-  .metric.highlight { border-color: var(--accent); }
-  .metric.highlight .metric-value { color: var(--blue); }
+/* Metriek cards */
+.metrics { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 12px; margin-bottom: 1.25rem; }
+.metric { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1rem 1.25rem; }
+.metric-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; font-family: 'Montserrat', sans-serif; font-weight: 600; }
+.metric-value { font-size: 28px; font-weight: 700; letter-spacing: -1px; line-height: 1; font-family: 'Montserrat', sans-serif; }
+.metric-sub { font-size: 12px; color: var(--text3); margin-top: 4px; }
+.metric.highlight { border-color: var(--ecorys-blue); border-top: 3px solid var(--ecorys-blue); }
+.metric.highlight .metric-value { color: var(--ecorys-blue); }
 
-  .charts {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.25rem;
-    margin-bottom: 1.25rem;
-  }
+/* Charts */
+.charts { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-bottom: 1.25rem; }
+.chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; }
+.chart-title { font-size: 11px; font-weight: 700; color: var(--text2); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 1rem; display: flex; align-items: center; justify-content: space-between; font-family: 'Montserrat', sans-serif; }
+.legend { display: flex; gap: 12px; }
+.legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--text3); font-family: 'Open Sans', sans-serif; }
+.legend-dot { width: 8px; height: 8px; border-radius: 2px; }
 
-  .chart-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 1.25rem;
-  }
+/* Bars */
+.bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-bottom: 1.25rem; }
+.bar-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+.bar-label { font-size: 12px; color: var(--text2); width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-shrink: 0; }
+.bar-track { flex: 1; background: var(--surface2); border-radius: 2px; height: 10px; }
+.bar-fill { height: 10px; border-radius: 2px; }
+.bar-count { font-size: 12px; font-weight: 600; min-width: 24px; text-align: right; color: var(--text2); font-family: 'Montserrat', sans-serif; }
 
-  .chart-title {
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--text2);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 1rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+/* Tabel */
+.table-card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; overflow: hidden; margin-bottom: 1.25rem; }
+.table-header { padding: 1rem 1.25rem; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; background: var(--surface2); }
+.table-title { font-size: 11px; font-weight: 700; color: var(--text2); text-transform: uppercase; letter-spacing: 0.5px; font-family: 'Montserrat', sans-serif; }
+.table-count { font-size: 12px; color: var(--text3); }
+table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+colgroup col:nth-child(1) { width: 28%; }
+colgroup col:nth-child(2) { width: 18%; }
+colgroup col:nth-child(3) { width: 13%; }
+colgroup col:nth-child(4) { width: 14%; }
+colgroup col:nth-child(5) { width: 11%; }
+colgroup col:nth-child(6) { width: 9%; }
+colgroup col:nth-child(7) { width: 7%; }
+thead th { font-size: 11px; font-weight: 700; color: white; text-transform: uppercase; letter-spacing: 0.4px; padding: 10px 14px; text-align: left; background: var(--ecorys-blue); font-family: 'Montserrat', sans-serif; }
+tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
+tbody tr:hover { background: var(--surface2); }
+td { padding: 8px 14px; font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+td.muted { color: var(--text3); }
+.badge { display: inline-block; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 600; font-family: 'Montserrat', sans-serif; }
+.badge-kwant { background: #E3F5ED; color: var(--ecorys-green); }
+.badge-niet { background: var(--surface2); color: var(--text3); }
+.badge-lopend { background: #E5F2FB; color: var(--ecorys-blue); }
+.betr-dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-left: 4px; vertical-align: middle; }
+.show-more { padding: 12px; text-align: center; border-top: 1px solid var(--border); }
+a { color: var(--ecorys-blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.no-data { padding: 3rem; text-align: center; color: var(--text3); font-size: 13px; }
+.ai-label { font-size: 10px; color: var(--ecorys-dark-blue); background: var(--ai-bg); padding: 1px 5px; border-radius: 3px; font-weight: 700; margin-left: 4px; font-family: 'Montserrat', sans-serif; }
 
-  .legend { display: flex; gap: 12px; }
-  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--text3); }
-  .legend-dot { width: 8px; height: 8px; border-radius: 2px; }
-
-  .chart-wrap { position: relative; }
-
-  .bottom-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.25rem;
-    margin-bottom: 1.25rem;
-  }
-
-  .bar-row {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 8px;
-  }
-
-  .bar-label { font-size: 12px; color: var(--text2); width: 160px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-shrink: 0; }
-  .bar-track { flex: 1; background: var(--surface2); border-radius: 3px; height: 12px; }
-  .bar-fill { height: 12px; border-radius: 3px; transition: width 0.3s; }
-  .bar-count { font-size: 12px; font-weight: 500; min-width: 24px; text-align: right; color: var(--text2); }
-
-  .table-card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-  }
-
-  .table-header {
-    padding: 1rem 1.25rem;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-
-  .table-title { font-size: 12px; font-weight: 600; color: var(--text2); text-transform: uppercase; letter-spacing: 0.5px; }
-  .table-count { font-size: 12px; color: var(--text3); }
-
-  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-  colgroup col:nth-child(1) { width: 28%; }
-  colgroup col:nth-child(2) { width: 20%; }
-  colgroup col:nth-child(3) { width: 14%; }
-  colgroup col:nth-child(4) { width: 16%; }
-  colgroup col:nth-child(5) { width: 14%; }
-  colgroup col:nth-child(6) { width: 8%; }
-
-  thead th {
-    font-size: 11px;
-    font-weight: 600;
-    color: var(--text3);
-    text-transform: uppercase;
-    letter-spacing: 0.4px;
-    padding: 10px 14px;
-    text-align: left;
-    border-bottom: 1px solid var(--border);
-    background: var(--surface2);
-  }
-
-  tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
-  tbody tr:hover { background: var(--surface2); }
-  tbody tr:last-child { border-bottom: none; }
-
-  td { padding: 9px 14px; font-size: 12px; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-
-  td.muted { color: var(--text3); }
-
-  .badge {
-    display: inline-block;
-    padding: 2px 7px;
-    border-radius: 99px;
-    font-size: 10px;
-    font-weight: 600;
-  }
-
-  .badge-kwant { background: var(--teal-light); color: var(--teal); }
-  .badge-niet { background: var(--surface2); color: var(--text3); }
-
-  .show-more {
-    padding: 12px;
-    text-align: center;
-    border-top: 1px solid var(--border);
-  }
-
-  a { color: var(--blue); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-
-  .no-data {
-    padding: 3rem;
-    text-align: center;
-    color: var(--text3);
-    font-size: 13px;
-  }
-
-  @media (max-width: 900px) {
-    .charts, .bottom-grid, .metrics { grid-template-columns: 1fr; }
-  }
+@media(max-width:900px){ .charts,.bottom-grid,.metrics{ grid-template-columns:1fr; } }
 </style>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
 <header>
-  <div class="logo">Ecorys <span>|</span> Marktonderzoek beleidsevaluatie</div>
-  <div style="font-size:12px;color:var(--text3);">TenderNed 2019–2026</div>
+  <div class="logo">
+    Ecorys
+    <div class="logo-divider"></div>
+    <span class="logo-sub">Marktonderzoek beleidsevaluatie</span>
+  </div>
+  <div class="header-right">TenderNed 2012–2026 &nbsp;·&nbsp; <span>AI</span> = AI-geschatte classificatie</div>
 </header>
 
 <div class="scope-bar">
-  <strong>Let op scope:</strong> alleen Europees aanbestede opdrachten via TenderNed (CPV 732xx / 793xx). Onderhandse opdrachten, raamcontracten en Tsender-publicaties zijn niet meegerekend. Winnaarsinformatie is deels onvolledig.
+  <strong>Let op scope:</strong> alleen Europees aanbestede opdrachten via TenderNed. Onderhandse opdrachten, raamcontracten en Tsender-publicaties zijn niet meegerekend. Winnaarsinformatie is deels onvolledig.
 </div>
 
 <main>
 
-  <div class="filters">
-    <div class="filter-group">
-      <label>Thema</label>
-      <select id="f-thema"><option value="">Alle thema's</option></select>
-    </div>
-    <div class="filter-group">
-      <label>Methodiek</label>
-      <select id="f-methodiek"><option value="">Alle methodieken</option></select>
-    </div>
-    <div class="filter-group">
-      <label>Kwantitatief</label>
-      <select id="f-kwant">
-        <option value="">Alle</option>
-        <option value="1">Alleen kwantitatief</option>
-        <option value="0">Niet kwantitatief</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Jaar</label>
-      <select id="f-jaar"><option value="">Alle jaren</option></select>
-    </div>
-    <div class="filter-group">
-      <label>Opdrachtgever</label>
-      <select id="f-dienst"><option value="">Alle opdrachtgevers</option></select>
-    </div>
-    <div class="filter-group">
-      <label>Status</label>
-      <select id="f-pubtype">
-        <option value="">Alle</option>
-        <option value="gegund">Gegund</option>
-        <option value="lopend">Lopend</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Procedure</label>
-      <select id="f-procedure">
-        <option value="">Alle procedures</option>
-        <option value="Openbaar">Alleen openbaar</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Betrouwbaarheid</label>
-      <select id="f-betr">
-        <option value="">Alle</option>
-        <option value="hoog">Hoog (&ge;0.6)</option>
-        <option value="laag">Laag (&lt;0.6)</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Trefwoord in titel</label>
-      <input type="text" id="f-term" placeholder="bijv. evaluatie">
-    </div>
-    <button class="btn" onclick="resetFilters()">Wis filters</button>
-  </div>
+<div class="filter-panel">
+  <div class="filter-row" id="filter-row"></div>
+  <div class="active-tags" id="active-tags"></div>
+</div>
 
-  <div class="active-filters" id="active-filters"></div>
+<div class="metrics">
+  <div class="metric"><div class="metric-label">Opdrachten</div><div class="metric-value" id="s-totaal">—</div><div class="metric-sub" id="s-sub">—</div></div>
+  <div class="metric highlight"><div class="metric-label">Kwantitatief <span class="ai-label">AI</span></div><div class="metric-value" id="s-kwant">—</div><div class="metric-sub" id="s-kwant-sub"></div></div>
+  <div class="metric"><div class="metric-label">Opdrachtgevers</div><div class="metric-value" id="s-opdrachtgevers">—</div></div>
+  <div class="metric"><div class="metric-label">Winnaars</div><div class="metric-value" id="s-winnaars">—</div><div class="metric-sub" style="font-size:11px;color:var(--text3);">van aanbestedingen met bekende winnaar</div></div>
+</div>
 
-  <div class="metrics">
-    <div class="metric">
-      <div class="metric-label">Opdrachten</div>
-      <div class="metric-value" id="s-totaal">—</div>
-      <div class="metric-sub" id="s-totaal-sub"></div>
-    </div>
-    <div class="metric highlight">
-      <div class="metric-label">Kwantitatief</div>
-      <div class="metric-value" id="s-kwant">—</div>
-      <div class="metric-sub" id="s-kwant-sub"></div>
-    </div>
-    <div class="metric">
-      <div class="metric-label">Unieke opdrachtgevers</div>
-      <div class="metric-value" id="s-opdrachtgevers">—</div>
-    </div>
-    <div class="metric">
-      <div class="metric-label">Unieke winnaars</div>
-      <div class="metric-value" id="s-winnaars">—</div>
-      <div class="metric-sub" style="color:var(--text3);font-size:11px;">van aanbestedingen met bekende winnaar</div>
-    </div>
-  </div>
-
-  <div class="charts">
-    <div class="chart-card">
-      <div class="chart-title">
-        Opdrachten per jaar
-        <div class="legend">
-          <div class="legend-item"><div class="legend-dot" style="background:#1d9e75;"></div>Kwantitatief</div>
-          <div class="legend-item"><div class="legend-dot" style="background:#b4b2a9;"></div>Overig</div>
-        </div>
-      </div>
-      <div class="chart-wrap" style="height:220px;">
-        <canvas id="c-trend" role="img" aria-label="Opdrachten per jaar opgesplitst naar kwantitatief en overig">Trenddata per jaar</canvas>
+<div class="charts">
+  <div class="chart-card">
+    <div class="chart-title">Opdrachten per jaar
+      <div class="legend">
+        <div class="legend-item"><div class="legend-dot" style="background:#2FA26D;"></div>Kwantitatief</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#C9D4D9;"></div>Overig</div>
       </div>
     </div>
-    <div class="chart-card">
-      <div class="chart-title">Verdeling methodiek</div>
-      <div class="chart-wrap" style="height:220px;">
-        <canvas id="c-methodiek" role="img" aria-label="Verdeling evaluatiemethodieken">Methodiekverdeling</canvas>
-      </div>
-    </div>
+    <div style="position:relative;height:220px;"><canvas id="c-trend" role="img" aria-label="Trend">Trenddata</canvas></div>
   </div>
+  <div class="chart-card">
+    <div class="chart-title">Verdeling methodiek <span class="ai-label">AI</span></div>
+    <div style="position:relative;height:220px;"><canvas id="c-methodiek" role="img" aria-label="Methodiek">Methodiek</canvas></div>
+  </div>
+</div>
 
-  <div class="bottom-grid">
-    <div class="chart-card">
-      <div class="chart-title">Top opdrachtgevers</div>
-      <div id="h-opdrachtgevers"></div>
-    </div>
-    <div class="chart-card">
-      <div class="chart-title">Top winnaars</div>
-      <div id="h-winnaars"></div>
-      <div style="font-size:11px;color:var(--text3);margin-top:8px;">Alleen aanbestedingen met bekende winnaar</div>
-    </div>
-  </div>
+<div class="bottom-grid">
+  <div class="chart-card"><div class="chart-title">Top opdrachtgevers</div><div id="h-opdrachtgevers"></div></div>
+  <div class="chart-card"><div class="chart-title">Top winnaars</div><div id="h-winnaars"></div><div style="font-size:11px;color:var(--text3);margin-top:8px;">Alleen aanbestedingen met bekende winnaar</div></div>
+</div>
 
-  <div class="table-card" style="margin-bottom:1.25rem;">
-    <div class="table-header">
-      <div class="table-title">Concurrentiekaart</div>
-      <div class="table-count" id="conc-count"></div>
-    </div>
-    <div style="overflow-x:auto;">
-      <table style="table-layout:auto;">
-        <thead>
-          <tr>
-            <th>Bureau</th>
-            <th style="text-align:right;">Gewonnen</th>
-            <th style="text-align:right;">Kwant. %</th>
-            <th>Sterkste thema</th>
-            <th>Sterkste methodiek</th>
-          </tr>
-        </thead>
-        <tbody id="conc-body"></tbody>
-      </table>
-    </div>
-    <div style="padding:10px 14px;font-size:11px;color:var(--text3);border-top:1px solid var(--border);">
-      Alleen aanbestedingen met bekende winnaar. Onderhandse opdrachten en raamcontracten ontbreken.
-    </div>
+<div class="table-card" style="margin-bottom:1.25rem;">
+  <div class="table-header"><div class="table-title">Concurrentiekaart</div><div class="table-count" id="conc-count"></div></div>
+  <div style="overflow-x:auto;">
+    <table style="table-layout:auto;">
+      <thead><tr><th>Bureau</th><th style="text-align:right;">Gewonnen</th><th style="text-align:right;">Kwant. %</th><th>Sterkste thema</th><th>Sterkste methodiek</th></tr></thead>
+      <tbody id="conc-body"></tbody>
+    </table>
   </div>
+  <div style="padding:10px 14px;font-size:11px;color:var(--text3);border-top:1px solid var(--border);">Alleen aanbestedingen met bekende winnaar. Onderhandse opdrachten en raamcontracten ontbreken.</div>
+</div>
 
-  <div class="table-card">
-    <div class="table-header">
-      <div class="table-title">Opdrachten</div>
-      <div class="table-count" id="tbl-count"></div>
-    </div>
-    <div style="overflow-x:auto;">
-      <table>
-        <colgroup><col><col><col><col><col><col></colgroup>
-        <thead>
-          <tr>
-            <th>Titel</th>
-            <th>Opdrachtgever</th>
-            <th>Thema</th>
-            <th>Methodiek</th>
-            <th>Winnaar</th>
-            <th>Jaar</th>
-          </tr>
-        </thead>
-        <tbody id="tbl-body"></tbody>
-      </table>
-    </div>
-    <div class="show-more" id="show-more" style="display:none;">
-      <button class="btn" id="show-more-btn">Toon alle resultaten</button>
-    </div>
+<div class="table-card">
+  <div class="table-header"><div class="table-title">Opdrachten</div><div class="table-count" id="tbl-count"></div></div>
+  <div style="overflow-x:auto;">
+    <table>
+      <colgroup><col><col><col><col><col><col><col></colgroup>
+      <thead><tr>
+        <th>Titel</th><th>Opdrachtgever</th>
+        <th>Thema <span class="ai-label">AI</span></th>
+        <th>Methodiek <span class="ai-label">AI</span></th>
+        <th>Winnaar</th><th>Jaar</th><th>Betr.</th>
+      </tr></thead>
+      <tbody id="tbl-body"></tbody>
+    </table>
   </div>
+  <div class="show-more" id="show-more" style="display:none;">
+    <button class="btn-reset" id="show-more-btn">Toon alle resultaten</button>
+  </div>
+</div>
 
 </main>
 
 <script>
 let DATA = [];
-let chartTrend = null;
-let chartMethodiek = null;
+let chartTrend = null, chartMethodiek = null;
 let showAll = false;
 
+// ── Filterdefinities ──────────────────────────────────────────────────────────
+// isAI: true = veld is AI-geschat, heeft betrouwbaarheidsscore
+// betrField: welk classificatieveld bevat de betrouwbaarheid voor dit filter
+const FILTERS = [
+  { id: "publicatie_type", label: "Status",         isAI: false, source: "record", multi: true },
+  { id: "aanbestedende_dienst", label: "Opdrachtgever", isAI: false, source: "record", multi: true },
+  { id: "jaar",            label: "Jaar",            isAI: false, source: "record", multi: true },
+  { id: "procedure_type",  label: "Procedure",       isAI: false, source: "record", multi: true },
+  { id: "thema",           label: "Thema",           isAI: true,  source: "cl", betrField: "thema_betrouwbaarheid", multi: true },
+  { id: "methodiek",       label: "Methodiek",       isAI: true,  source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
+  { id: "methodiek_kwantitatief", label: "Kwantitatief", isAI: true, source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
+  { id: "evaluatiefase",   label: "Evaluatiefase",   isAI: true,  source: "cl", betrField: "evaluatiefase_betrouwbaarheid", multi: true },
+  { id: "herhalingskans",  label: "Herhalingskans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
+  { id: "causaliteitsvraag", label: "Causaal effect", isAI: true, source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
+  { id: "consortiumkans",  label: "Consortiumkans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
+  { id: "opdrachtgrootte", label: "Opdrachtgrootte", isAI: true,  source: "cl", betrField: "opdrachtgrootte_betrouwbaarheid", multi: true },
+];
+
+// Filter state: { [filterId]: { values: Set, betrouwbaar: bool } }
+const filterState = {};
+FILTERS.forEach(f => { filterState[f.id] = { values: new Set(), betrouwbaar: false }; });
+
+// ── Hulpfuncties ──────────────────────────────────────────────────────────────
 function cl(r) { return r.classificatie || {}; }
 function jaar(r) { const d = r.publicatiedatum || ""; return d.length >= 4 ? d.slice(0,4) : ""; }
 
+function getFieldValue(r, filterId) {
+  const f = FILTERS.find(x => x.id === filterId);
+  if (!f) return null;
+  if (filterId === "jaar") return jaar(r);
+  if (f.source === "record") return r[filterId] ?? null;
+  const val = cl(r)[filterId];
+  if (filterId === "methodiek_kwantitatief") return val ? "Ja" : "Nee";
+  if (filterId === "causaliteitsvraag") return val ? "Ja" : "Nee";
+  if (filterId === "consortiumkans") return val ? "Ja" : "Nee";
+  return val ?? null;
+}
+
+function getBetrouwbaarheid(r, filterId) {
+  const f = FILTERS.find(x => x.id === filterId);
+  if (!f || !f.betrField) return 1.0;
+  return cl(r)[f.betrField] ?? 0;
+}
+
+// ── Data laden ────────────────────────────────────────────────────────────────
 async function loadData() {
   try {
     const resp = await fetch("data/geclassificeerd_met_winnaar.json");
-    if (!resp.ok) throw new Error("Niet gevonden");
+    if (!resp.ok) throw new Error();
     DATA = await resp.json();
-    console.log("Geladen:", DATA.length, "records");
   } catch(e) {
-    document.querySelector("main").innerHTML = `
-      <div class="no-data">
-        <p style="font-size:15px;font-weight:500;margin-bottom:8px;">Databestand niet gevonden</p>
-        <p>Zorg dat <code>data/geclassificeerd_met_winnaar.json</code> aanwezig is<br>en start de server via: <code>python -m http.server 8000</code></p>
-      </div>`;
+    document.querySelector("main").innerHTML = `<div class="no-data"><p style="font-size:15px;font-weight:500;margin-bottom:8px;">Databestand niet gevonden</p><p>Zorg dat <code>data/geclassificeerd_met_winnaar.json</code> aanwezig is<br>en start de server via: <code>python -m http.server 8000</code></p></div>`;
     return;
   }
-  initFilters();
+  buildFilters();
   render();
 }
 
-function initFilters() {
-  const themas = [...new Set(DATA.map(r => cl(r).thema).filter(Boolean))].sort();
-  const methodieken = [...new Set(DATA.map(r => cl(r).methodiek).filter(Boolean))].sort();
-  const jaren = [...new Set(DATA.map(jaar).filter(Boolean))].sort();
-  const diensten = [...new Set(DATA.map(r => r.aanbestedende_dienst).filter(Boolean))].sort();
+// ── Filter UI bouwen ──────────────────────────────────────────────────────────
+function buildFilters() {
+  const row = document.getElementById("filter-row");
 
-  populateSelect("f-thema", themas);
-  populateSelect("f-methodiek", methodieken);
-  populateSelect("f-jaar", jaren);
-  populateSelect("f-dienst", diensten);
+  FILTERS.forEach(f => {
+    const div = document.createElement("div");
+    div.className = "filter-item";
+    div.id = `fi-${f.id}`;
 
-  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr","f-pubtype"].forEach(id =>
-    document.getElementById(id).addEventListener("change", () => { showAll = false; render(); }));
-  document.getElementById("f-term").addEventListener("input", () => { showAll = false; render(); });
-  document.getElementById("show-more-btn").addEventListener("click", () => { showAll = true; render(); });
+    // Verzamel unieke waarden
+    const waardenMap = {};
+    DATA.forEach(r => {
+      const v = getFieldValue(r, f.id);
+      const vals = Array.isArray(v) ? v : [v];
+      vals.forEach(val => {
+        if (val === null || val === undefined || val === "") return;
+        const key = String(val);
+        waardenMap[key] = (waardenMap[key] || 0) + 1;
+      });
+    });
+    // Jaar oplopend sorteren, overige op aantal
+    const waarden = f.id === "jaar"
+      ? Object.entries(waardenMap).sort((a,b) => a[0].localeCompare(b[0]))
+      : Object.entries(waardenMap).sort((a,b) => b[1]-a[1]);
+
+    const btn = document.createElement("button");
+    btn.className = "filter-btn" + (f.isAI ? "" : "");
+    btn.innerHTML = (f.isAI ? `<span class="ai-badge">AI</span>` : "") + f.label + `<span class="filter-count${f.isAI?' ai':''}" id="fc-${f.id}" style="display:none">0</span>`;
+    btn.onclick = (e) => { e.stopPropagation(); toggleDropdown(f.id); };
+
+    // Dropdown
+    const dd = document.createElement("div");
+    dd.className = "filter-dropdown";
+    dd.id = `dd-${f.id}`;
+
+    let betrHtml = "";
+    if (f.isAI) {
+      betrHtml = `
+        <div class="betr-toggle" id="bt-${f.id}">
+          <div class="betr-label"><span class="ai-badge">AI</span> Betrouwbaarheid van deze schatting</div>
+          <div class="betr-options">
+            <span class="betr-opt selected" data-v="alle" onclick="setBetr('${f.id}','alle',this)">Alle</span>
+            <span class="betr-opt" data-v="hoog" onclick="setBetr('${f.id}','hoog',this)">Hoog (≥0.6)</span>
+            <span class="betr-opt" data-v="laag" onclick="setBetr('${f.id}','laag',this)">Laag (&lt;0.6)</span>
+          </div>
+        </div>`;
+    }
+
+    const optionsHtml = waarden.map(([val, n]) => `
+      <label class="dropdown-option${f.isAI?' ai-opt':''}">
+        <input type="checkbox" value="${val.replace(/"/g,'&quot;')}" onchange="toggleValue('${f.id}',this)">
+        <span class="option-label" title="${val}">${val}</span>
+        <span class="option-count">${n}</span>
+      </label>`).join("");
+
+    dd.innerHTML = `
+      <div class="dropdown-header">
+        <div class="dropdown-title">${f.isAI?'<span class="ai-badge">AI</span> ':''}${f.label}</div>
+        <input class="dropdown-search" type="text" placeholder="Zoek..." oninput="filterOptions(this,'${f.id}')">
+      </div>
+      ${betrHtml}
+      <div class="dropdown-options" id="do-${f.id}">${optionsHtml}</div>
+      <div class="dropdown-footer">
+        <button onclick="selectAll('${f.id}')">Alles selecteren</button>
+        <button onclick="clearFilter('${f.id}')">Wissen</button>
+      </div>`;
+
+    div.appendChild(btn);
+    div.appendChild(dd);
+    row.appendChild(div);
+  });
+
+  // Reset knop
+  const resetDiv = document.createElement("div");
+  resetDiv.innerHTML = `<button class="btn-reset" onclick="resetAll()">Wis alle filters</button>`;
+  row.appendChild(resetDiv);
+
+  // Klik buiten sluit dropdowns
+  document.addEventListener("click", () => closeAllDropdowns());
 }
 
-function populateSelect(id, values) {
-  const sel = document.getElementById(id);
-  values.forEach(v => {
-    const o = document.createElement("option");
-    o.value = v; o.textContent = v;
-    sel.appendChild(o);
+function toggleDropdown(id) {
+  const isOpen = document.getElementById(`dd-${id}`).classList.contains("open");
+  closeAllDropdowns();
+  if (!isOpen) document.getElementById(`dd-${id}`).classList.add("open");
+}
+
+function closeAllDropdowns() {
+  document.querySelectorAll(".filter-dropdown.open").forEach(d => d.classList.remove("open"));
+}
+
+function filterOptions(input, id) {
+  const q = input.value.toLowerCase();
+  document.querySelectorAll(`#do-${id} .dropdown-option`).forEach(opt => {
+    opt.style.display = opt.querySelector(".option-label").textContent.toLowerCase().includes(q) ? "" : "none";
   });
 }
 
-function getFiltered() {
-  const thema = document.getElementById("f-thema").value;
-  const methodiek = document.getElementById("f-methodiek").value;
-  const kwant = document.getElementById("f-kwant").value;
-  const jaarVal = document.getElementById("f-jaar").value;
-  const dienst = document.getElementById("f-dienst").value;
-  const procedure = document.getElementById("f-procedure").value;
-  const betr = document.getElementById("f-betr").value;
-  const pubtype = document.getElementById("f-pubtype").value;
-  const term = document.getElementById("f-term").value.toLowerCase().trim();
+function toggleValue(filterId, checkbox) {
+  const val = checkbox.value;
+  if (checkbox.checked) {
+    filterState[filterId].values.add(val);
+  } else {
+    filterState[filterId].values.delete(val);
+  }
+  updateFilterBtn(filterId);
+  showAll = false;
+  render();
+}
 
+function setBetr(filterId, level, el) {
+  el.closest(".betr-options").querySelectorAll(".betr-opt").forEach(o => o.classList.remove("selected"));
+  el.classList.add("selected");
+  filterState[filterId].betrouwbaar = level;
+  showAll = false;
+  render();
+}
+
+function selectAll(filterId) {
+  document.querySelectorAll(`#do-${filterId} input[type=checkbox]`).forEach(cb => {
+    cb.checked = true;
+    filterState[filterId].values.add(cb.value);
+  });
+  updateFilterBtn(filterId);
+  showAll = false;
+  render();
+}
+
+function clearFilter(filterId) {
+  document.querySelectorAll(`#do-${filterId} input[type=checkbox]`).forEach(cb => cb.checked = false);
+  filterState[filterId].values.clear();
+  filterState[filterId].betrouwbaar = false;
+  // Reset betr toggle
+  const bt = document.getElementById(`bt-${filterId}`);
+  if (bt) { bt.querySelectorAll(".betr-opt").forEach(o => { o.classList.remove("selected"); if (o.dataset.v==="alle") o.classList.add("selected"); }); }
+  updateFilterBtn(filterId);
+  showAll = false;
+  render();
+}
+
+function resetAll() {
+  FILTERS.forEach(f => clearFilter(f.id));
+}
+
+function updateFilterBtn(filterId) {
+  const f = FILTERS.find(x => x.id === filterId);
+  const n = filterState[filterId].values.size;
+  const btn = document.querySelector(`#fi-${filterId} .filter-btn`);
+  const counter = document.getElementById(`fc-${filterId}`);
+  counter.textContent = n;
+  counter.style.display = n > 0 ? "inline-flex" : "none";
+  btn.className = "filter-btn" + (n > 0 ? (f.isAI ? " active-ai" : " active") : "");
+  btn.innerHTML = (f.isAI ? `<span class="ai-badge">AI</span>` : "") + f.label + `<span class="filter-count${f.isAI?' ai':''}" id="fc-${filterId}" style="${n>0?'':'display:none'}">${n}</span>`;
+  btn.onclick = (e) => { e.stopPropagation(); toggleDropdown(filterId); };
+  updateActiveTags();
+}
+
+function updateActiveTags() {
+  const container = document.getElementById("active-tags");
+  const tags = [];
+  FILTERS.forEach(f => {
+    const state = filterState[f.id];
+    state.values.forEach(v => {
+      tags.push({ filterId: f.id, value: v, isAI: f.isAI, label: f.label });
+    });
+    if (state.betrouwbaar && state.betrouwbaar !== "alle" && state.values.size > 0) {
+      tags.push({ filterId: f.id, value: `betr: ${state.betrouwbaar}`, isAI: true, label: f.label, isBetr: true });
+    }
+  });
+  container.innerHTML = tags.map(t => `
+    <span class="tag${t.isAI?' ai-tag':''}">
+      <span style="opacity:0.6;margin-right:2px;">${t.label}:</span>${t.value}
+      ${!t.isBetr ? `<button onclick="removeTag('${t.filterId}','${t.value.replace(/'/g,"\\'")}')">×</button>` : ''}
+    </span>`).join("");
+}
+
+function removeTag(filterId, value) {
+  filterState[filterId].values.delete(value);
+  const cb = document.querySelector(`#do-${filterId} input[value="${value.replace(/"/g,'&quot;')}"]`);
+  if (cb) cb.checked = false;
+  updateFilterBtn(filterId);
+  showAll = false;
+  render();
+}
+
+// ── Filteren ──────────────────────────────────────────────────────────────────
+function getFiltered() {
   return DATA.filter(r => {
-    if (thema && cl(r).thema !== thema) return false;
-    if (methodiek && cl(r).methodiek !== methodiek) return false;
-    if (kwant === "1" && !cl(r).methodiek_kwantitatief) return false;
-    if (kwant === "0" && cl(r).methodiek_kwantitatief) return false;
-    if (jaarVal && jaar(r) !== jaarVal) return false;
-    if (dienst && r.aanbestedende_dienst !== dienst) return false;
-    if (procedure && r.procedure_type !== procedure) return false;
-    if (betr === "hoog" && (cl(r).betrouwbaarheid || 0) < 0.6) return false;
-    if (betr === "laag" && (cl(r).betrouwbaarheid || 0) >= 0.6) return false;
-    if (pubtype && (r.publicatie_type || "gegund") !== pubtype) return false;
-    if (term && !(r.titel || "").toLowerCase().includes(term)) return false;
+    for (const f of FILTERS) {
+      const state = filterState[f.id];
+      if (state.values.size === 0) continue;
+
+      const rawVal = getFieldValue(r, f.id);
+      const vals = Array.isArray(rawVal) ? rawVal.map(String) : [String(rawVal ?? "")];
+      const hasMatch = [...state.values].some(sel => vals.includes(sel));
+      if (!hasMatch) return false;
+
+      // Betrouwbaarheidsdrempel voor AI-velden
+      if (f.isAI && state.betrouwbaar && state.betrouwbaar !== "alle") {
+        const betr = getBetrouwbaarheid(r, f.id);
+        if (state.betrouwbaar === "hoog" && betr < 0.6) return false;
+        if (state.betrouwbaar === "laag" && betr >= 0.6) return false;
+      }
+    }
     return true;
   });
 }
 
-function topN(arr, key, n = 10) {
+// ── Render ────────────────────────────────────────────────────────────────────
+function topN(arr, key, n=10) {
   const cnt = {};
-  arr.forEach(r => { const v = r[key] || ""; if(v) cnt[v] = (cnt[v] || 0) + 1; });
-  return Object.entries(cnt).sort((a,b) => b[1]-a[1]).slice(0,n);
+  arr.forEach(r => { const v = r[key]||""; if(v) cnt[v]=(cnt[v]||0)+1; });
+  return Object.entries(cnt).sort((a,b)=>b[1]-a[1]).slice(0,n);
 }
 
 function renderBars(containerId, entries, color) {
-  const max = entries[0]?.[1] || 1;
+  const max = entries[0]?.[1]||1;
   document.getElementById(containerId).innerHTML = entries.length
-    ? entries.map(([label, n]) => `
-        <div class="bar-row">
-          <div class="bar-label" title="${label}">${label}</div>
-          <div class="bar-track"><div class="bar-fill" style="width:${Math.round(100*n/max)}%;background:${color};"></div></div>
-          <div class="bar-count">${n}</div>
-        </div>`).join("")
+    ? entries.map(([label,n])=>`<div class="bar-row"><div class="bar-label" title="${label}">${label}</div><div class="bar-track"><div class="bar-fill" style="width:${Math.round(100*n/max)}%;background:${color};"></div></div><div class="bar-count">${n}</div></div>`).join("")
     : `<div style="color:var(--text3);font-size:12px;padding:1rem 0;">Geen data</div>`;
 }
 
-function updateActiveFilters() {
-  const filters = [];
-  const vals = {
-    "f-thema": document.getElementById("f-thema"),
-    "f-methodiek": document.getElementById("f-methodiek"),
-    "f-kwant": document.getElementById("f-kwant"),
-    "f-jaar": document.getElementById("f-jaar"),
-    "f-dienst": document.getElementById("f-dienst"),
-    "f-procedure": document.getElementById("f-procedure"),
-    "f-betr": document.getElementById("f-betr"),
-    "f-pubtype": document.getElementById("f-pubtype"),
-  };
-  Object.entries(vals).forEach(([id, sel]) => {
-    if (sel.value) filters.push({id, label: sel.options[sel.selectedIndex].text});
-  });
-  const term = document.getElementById("f-term").value.trim();
-  if (term) filters.push({id: "f-term", label: `"${term}"`});
-
-  document.getElementById("active-filters").innerHTML = filters.map(f => `
-    <span class="filter-tag">${f.label}
-      <button onclick="clearFilter('${f.id}')" title="Verwijder filter">&times;</button>
-    </span>`).join("");
-}
-
-function clearFilter(id) {
-  const el = document.getElementById(id);
-  if (el.tagName === "SELECT") el.value = "";
-  else el.value = "";
-  showAll = false;
-  render();
-}
-
-function resetFilters() {
-  ["f-thema","f-methodiek","f-kwant","f-jaar","f-dienst","f-procedure","f-betr","f-pubtype"].forEach(id => document.getElementById(id).value = "");
-  document.getElementById("f-term").value = "";
-  showAll = false;
-  render();
+function betrKleur(score) {
+  if (!score && score !== 0) return "#ccc";
+  if (score >= 0.7) return "#1d9e75";
+  if (score >= 0.4) return "#ef9f27";
+  return "#e24b4a";
 }
 
 function render() {
   const filtered = getFiltered();
   const n = filtered.length;
   const kwant = filtered.filter(r => cl(r).methodiek_kwantitatief).length;
-  const opdrachtgevers = new Set(filtered.map(r => r.aanbestedende_dienst).filter(Boolean)).size;
-  const metWinnaar = filtered.filter(r => r.winnaar);
-  const winnaars = new Set(metWinnaar.map(r => r.winnaar).filter(Boolean)).size;
+  const opdrachtgevers = new Set(filtered.map(r=>r.aanbestedende_dienst).filter(Boolean)).size;
+  const metWinnaar = filtered.filter(r=>r.winnaar);
+  const winnaars = new Set(metWinnaar.map(r=>r.winnaar).filter(Boolean)).size;
 
   document.getElementById("s-totaal").textContent = n;
-  document.getElementById("s-totaal-sub").textContent = `van ${DATA.length} totaal`;
-  document.getElementById("s-kwant").textContent = n ? Math.round(100*kwant/n) + "%" : "—";
+  document.getElementById("s-sub").textContent = `van ${DATA.length} totaal`;
+  document.getElementById("s-kwant").textContent = n ? Math.round(100*kwant/n)+"%" : "—";
   document.getElementById("s-kwant-sub").textContent = n ? `${kwant} van ${n} opdrachten` : "";
   document.getElementById("s-opdrachtgevers").textContent = opdrachtgevers;
   document.getElementById("s-winnaars").textContent = winnaars;
 
-  updateActiveFilters();
-
+  // Trend chart
   const perJaar = {};
   filtered.forEach(r => {
-    const j = jaar(r);
-    if (!j) return;
-    if (!perJaar[j]) perJaar[j] = {tot: 0, kw: 0};
+    const j = jaar(r); if (!j) return;
+    if (!perJaar[j]) perJaar[j] = {tot:0,kw:0};
     perJaar[j].tot++;
     if (cl(r).methodiek_kwantitatief) perJaar[j].kw++;
   });
   const jaren = Object.keys(perJaar).sort();
-
   if (chartTrend) chartTrend.destroy();
   chartTrend = new Chart(document.getElementById("c-trend"), {
-    type: "bar",
-    data: {
-      labels: jaren,
-      datasets: [
-        {label:"Kwantitatief", data: jaren.map(j => perJaar[j].kw), backgroundColor: "#1d9e75", borderRadius: 3},
-        {label:"Overig", data: jaren.map(j => perJaar[j].tot - perJaar[j].kw), backgroundColor: "#b4b2a9", borderRadius: 3}
-      ]
-    },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      plugins: {legend: {display: false}},
-      scales: {
-        x: {stacked: true, ticks: {font: {size: 11}}, grid: {display: false}},
-        y: {stacked: true, ticks: {font: {size: 11}}, grid: {color: "rgba(0,0,0,0.05)"}}
-      }
-    }
+    type:"bar",
+    data:{ labels:jaren, datasets:[
+      {label:"Kwantitatief", data:jaren.map(j=>perJaar[j].kw), backgroundColor:"#2FA26D", borderRadius:2},
+      {label:"Overig", data:jaren.map(j=>perJaar[j].tot-perJaar[j].kw), backgroundColor:"#C9D4D9", borderRadius:2}
+    ]},
+    options:{responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}},
+      scales:{x:{stacked:true,ticks:{font:{size:10}},grid:{display:false}}, y:{stacked:true,ticks:{font:{size:10}},grid:{color:"rgba(0,0,0,0.05)"}}}}
   });
 
-  const perMethodiek = {};
-  filtered.forEach(r => {
-    const m = cl(r).methodiek || "Onbekend";
-    perMethodiek[m] = (perMethodiek[m] || 0) + 1;
-  });
-  const mEntries = Object.entries(perMethodiek).sort((a,b) => b[1]-a[1]).slice(0,8);
-  const kwantMethodieken = new Set(["Quasi-experimenteel","Statistisch / econometrisch","MKBA","RCT / experiment"]);
-
+  // Methodiek chart
+  const perM = {};
+  filtered.forEach(r => { const m=cl(r).methodiek||"Onbekend"; perM[m]=(perM[m]||0)+1; });
+  const mEntries = Object.entries(perM).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const kwantM = new Set(["Quasi-experimenteel","Statistisch / econometrisch","MKBA","RCT / experiment"]);
   if (chartMethodiek) chartMethodiek.destroy();
   chartMethodiek = new Chart(document.getElementById("c-methodiek"), {
-    type: "bar",
-    data: {
-      labels: mEntries.map(([m]) => m.length > 32 ? m.slice(0,30) + "…" : m),
-      datasets: [{
-        label: "Opdrachten",
-        data: mEntries.map(([,n]) => n),
-        backgroundColor: mEntries.map(([m]) => kwantMethodieken.has(m) ? "#1d9e75" : "#378add"),
-        borderRadius: 3
-      }]
-    },
-    options: {
-      indexAxis: "y", responsive: true, maintainAspectRatio: false,
-      plugins: {legend: {display: false}},
-      scales: {
-        x: {ticks: {font: {size: 11}}, grid: {color: "rgba(0,0,0,0.05)"}},
-        y: {ticks: {font: {size: 10}}, grid: {display: false}}
-      }
-    }
+    type:"bar",
+    data:{labels:mEntries.map(([m])=>m.replace(" / niet gespecificeerd","").replace("Doeltreffendheidsevaluatie","Doeltreffendheid").slice(0,32)), datasets:[{label:"", data:mEntries.map(([,n])=>n), backgroundColor:mEntries.map(([m])=>kwantM.has(m)?"#2FA26D":"#006EB8"), borderRadius:2}]},
+    options:{indexAxis:"y", responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}},
+      scales:{x:{ticks:{font:{size:10}},grid:{color:"rgba(0,0,0,0.05)"}}, y:{ticks:{font:{size:10}},grid:{display:false}}}}
   });
 
-  renderBars("h-opdrachtgevers", topN(filtered, "aanbestedende_dienst"), "#378add");
-  renderBars("h-winnaars", topN(metWinnaar, "winnaar"), "#1d9e75");
+  renderBars("h-opdrachtgevers", topN(filtered,"aanbestedende_dienst"), "#006EB8");
+  renderBars("h-winnaars", topN(metWinnaar,"winnaar"), "#2FA26D");
 
   // Concurrentiekaart
   const bureauData = {};
   metWinnaar.forEach(r => {
-    const b = r.winnaar;
-    if (!b) return;
-    if (!bureauData[b]) bureauData[b] = {tot: 0, kw: 0, themas: {}, methodieken: {}};
+    const b = r.winnaar; if (!b) return;
+    if (!bureauData[b]) bureauData[b]={tot:0,kw:0,themas:{},methodieken:{}};
     bureauData[b].tot++;
     if (cl(r).methodiek_kwantitatief) bureauData[b].kw++;
-    const t = cl(r).thema; if (t) bureauData[b].themas[t] = (bureauData[b].themas[t]||0)+1;
-    const m = cl(r).methodiek; if (m) bureauData[b].methodieken[m] = (bureauData[b].methodieken[m]||0)+1;
+    const t=cl(r).thema; if(t) bureauData[b].themas[t]=(bureauData[b].themas[t]||0)+1;
+    const m=cl(r).methodiek; if(m) bureauData[b].methodieken[m]=(bureauData[b].methodieken[m]||0)+1;
   });
-  const concurrenten = Object.entries(bureauData)
-    .map(([b, d]) => ({
-      bureau: b, tot: d.tot, kw: d.kw,
-      kpct: d.tot ? Math.round(100*d.kw/d.tot) : 0,
-      thema: Object.entries(d.themas).sort((a,b)=>b[1]-a[1])[0]?.[0] || "—",
-      methodiek: Object.entries(d.methodieken).sort((a,b)=>b[1]-a[1])[0]?.[0] || "—",
-    }))
-    .sort((a,b) => b.tot - a.tot);
-
-  document.getElementById("conc-count").textContent = `${concurrenten.length} bureaus`;
-  document.getElementById("conc-body").innerHTML = concurrenten.slice(0,20).map(c => {
-    const isEcorys = c.bureau.toUpperCase().includes("ECORYS");
-    return `<tr style="${isEcorys ? 'background:var(--amber-light);font-weight:500;' : ''}">
+  const conc = Object.entries(bureauData).map(([b,d])=>({
+    bureau:b, tot:d.tot, kw:d.kw,
+    kpct:d.tot?Math.round(100*d.kw/d.tot):0,
+    thema:Object.entries(d.themas).sort((a,b)=>b[1]-a[1])[0]?.[0]||"—",
+    methodiek:Object.entries(d.methodieken).sort((a,b)=>b[1]-a[1])[0]?.[0]||"—",
+  })).sort((a,b)=>b.tot-a.tot);
+  document.getElementById("conc-count").textContent = `${conc.length} bureaus`;
+  document.getElementById("conc-body").innerHTML = conc.slice(0,20).map(c=>{
+    const isE = c.bureau.toUpperCase().includes("ECORYS");
+    return `<tr style="${isE?'background:#FEF3E6;font-weight:600;border-left:3px solid #EA5437;':''}">
       <td title="${c.bureau}">${c.bureau}</td>
       <td style="text-align:right;">${c.tot}</td>
-      <td style="text-align:right;color:${c.kpct>=50?'var(--teal)':'var(--text2)'};">${c.kpct}%</td>
+      <td style="text-align:right;color:${c.kpct>=50?'#2FA26D':'var(--text2)'};">${c.kpct}%</td>
       <td class="muted">${c.thema}</td>
       <td class="muted">${c.methodiek.replace(" / niet gespecificeerd","")}</td>
     </tr>`;
   }).join("") || `<tr><td colspan="5" class="no-data">Geen winnaarsdata voor deze selectie</td></tr>`;
 
-  const rows = showAll ? filtered : filtered.slice(0, 50);
-  document.getElementById("tbl-count").textContent = `${n} resultaten${n > 50 && !showAll ? " — eerste 50 getoond" : ""}`;
-
+  // Opdrachtenlijst
+  const rows = showAll ? filtered : filtered.slice(0,50);
+  document.getElementById("tbl-count").textContent = `${n} resultaten${n>50&&!showAll?" — eerste 50 getoond":""}`;
   document.getElementById("tbl-body").innerHTML = rows.length
-    ? rows.map(r => `
-      <tr>
-        <td title="${r.titel || ""}"><a href="${r.url || "#"}" target="_blank">${r.titel || "—"}</a>${r.publicatie_type === 'lopend' ? ' <span style="background:#e1f5ee;color:#0f6e56;font-size:10px;padding:1px 6px;border-radius:99px;font-weight:600;margin-left:4px;">lopend</span>' : ''}</td>
-        <td class="muted" title="${r.aanbestedende_dienst || ""}">${r.aanbestedende_dienst || "—"}</td>
-        <td class="muted" title="${cl(r).thema || ""}">${cl(r).thema || "—"}</td>
-        <td><span class="badge ${cl(r).methodiek_kwantitatief ? 'badge-kwant' : 'badge-niet'}" title="${cl(r).methodiek || ""}">${(cl(r).methodiek || "—").replace(" / niet gespecificeerd","").slice(0,28)}</span></td>
-        <td class="muted" title="${r.winnaar || ""}">${r.winnaar || "—"}</td>
-        <td class="muted" style="text-align:right;">${jaar(r) || "—"}</td>
-      </tr>`).join("")
-    : `<tr><td colspan="6" class="no-data">Geen resultaten voor deze filters</td></tr>`;
+    ? rows.map(r => {
+        const betr = cl(r).betrouwbaarheid;
+        const isLopend = r.publicatie_type === "lopend";
+        return `<tr>
+          <td title="${r.titel||""}"><a href="${r.url||"#"}" target="_blank">${r.titel||"—"}</a>${isLopend?` <span class="badge badge-lopend">lopend</span>`:""}
+          </td>
+          <td class="muted" title="${r.aanbestedende_dienst||""}">${r.aanbestedende_dienst||"—"}</td>
+          <td class="muted" title="${cl(r).thema||""}">${cl(r).thema||"—"}</td>
+          <td><span class="badge ${cl(r).methodiek_kwantitatief?'badge-kwant':'badge-niet'}" title="${cl(r).methodiek||""}">${(cl(r).methodiek||"—").replace(" / niet gespecificeerd","").slice(0,24)}</span></td>
+          <td class="muted" title="${r.winnaar||""}">${r.winnaar||"—"}</td>
+          <td class="muted" style="text-align:right;">${jaar(r)||"—"}</td>
+          <td style="text-align:center;"><span class="betr-dot" style="background:${betrKleur(betr)}" title="Betrouwbaarheid: ${betr?Math.round(betr*100)+'%':'onbekend'}"></span></td>
+        </tr>`;
+      }).join("")
+    : `<tr><td colspan="7" class="no-data">Geen resultaten voor deze filters</td></tr>`;
 
   const moreDiv = document.getElementById("show-more");
-  moreDiv.style.display = n > 50 && !showAll ? "block" : "none";
+  moreDiv.style.display = n>50&&!showAll ? "block" : "none";
+  document.getElementById("show-more-btn").onclick = () => { showAll=true; render(); };
 }
 
 loadData();
