@@ -3,7 +3,7 @@ name: Update TenderNed Dataset
 on:
   workflow_dispatch:        # handmatig triggeren via dashboard of GitHub UI
   schedule:
-    - cron: '0 6 * * 1'    # elke maandag om 06:00 UTC (automatisch)
+    - cron: '0 6 * * *'    # elke dag om 06:00 UTC
 
 jobs:
   update:
