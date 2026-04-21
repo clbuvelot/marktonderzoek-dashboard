@@ -196,6 +196,7 @@ thead th { font-size: 11px; font-weight: 700; color: white; text-transform: uppe
 tbody tr { border-bottom: 1px solid var(--border); transition: background 0.1s; }
 tbody tr:hover { background: var(--surface2); }
 td { padding: 8px 14px; font-size: 12px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+tr.detail-row td { white-space: normal; overflow: visible; }
 td.muted { color: var(--text3); }
 .badge { display: inline-block; padding: 2px 7px; border-radius: 3px; font-size: 10px; font-weight: 600; font-family: 'Montserrat', sans-serif; }
 .badge-kwant { background: #E3F5ED; color: var(--ecorys-green); }
@@ -233,6 +234,8 @@ tbody tr.detail-row.hidden { display: none; }
   font-size: 12px;
   color: var(--text2);
   line-height: 1.6;
+  white-space: normal;
+  word-break: break-word;
 }
 .detail-field { margin-bottom: 10px; }
 .detail-label {
