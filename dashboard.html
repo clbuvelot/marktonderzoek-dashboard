@@ -208,6 +208,50 @@ a:hover { text-decoration: underline; }
 .no-data { padding: 3rem; text-align: center; color: var(--text3); font-size: 13px; }
 .ai-label { font-size: 10px; color: var(--ecorys-dark-blue); background: var(--ai-bg); padding: 1px 5px; border-radius: 3px; font-weight: 700; margin-left: 4px; font-family: 'Montserrat', sans-serif; }
 
+/* ── Uitklapbare rijen ── */
+tbody tr.data-row { cursor: pointer; }
+tbody tr.data-row:hover { background: var(--surface2); }
+tbody tr.data-row.open { background: var(--blue-bg); }
+tbody tr.data-row td.expand-toggle { width: 28px; padding: 8px 6px 8px 14px; color: var(--text3); font-size: 13px; user-select: none; }
+tbody tr.detail-row td { padding: 0; background: var(--surface2); border-bottom: 2px solid var(--ecorys-blue); }
+tbody tr.detail-row.hidden { display: none; }
+.detail-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0;
+  padding: 16px 20px;
+  border-top: 1px solid var(--border);
+}
+.detail-col { padding: 0 16px; border-right: 1px solid var(--border); }
+.detail-col:first-child { padding-left: 0; }
+.detail-col:last-child { border-right: none; }
+.detail-omschrijving {
+  grid-column: 1 / -1;
+  padding: 0 0 12px 0;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--text2);
+  line-height: 1.6;
+}
+.detail-field { margin-bottom: 10px; }
+.detail-label {
+  font-size: 10px; font-weight: 700; color: var(--text3);
+  text-transform: uppercase; letter-spacing: 0.5px;
+  font-family: 'Montserrat', sans-serif; margin-bottom: 3px;
+}
+.detail-value { font-size: 12px; color: var(--text2); }
+.detail-value.ai { color: var(--ecorys-dark-blue); }
+.detail-pill {
+  display: inline-block; padding: 2px 7px; border-radius: 3px;
+  font-size: 10px; font-weight: 600; font-family: 'Montserrat', sans-serif;
+  background: var(--ai-bg); color: var(--ai-color);
+  margin: 2px 2px 2px 0;
+}
+.detail-pill.ja { background: var(--teal-bg); color: var(--ecorys-green); }
+.detail-pill.nee { background: var(--surface2); color: var(--text3); }
+.detail-link { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); grid-column: 1 / -1; font-size: 12px; }
+
 @media(max-width:900px){ .charts,.bottom-grid,.metrics{ grid-template-columns:1fr; } }
 </style>
 </head>
@@ -276,8 +320,9 @@ a:hover { text-decoration: underline; }
   <div class="table-header"><div class="table-title">Opdrachten</div><div class="table-count" id="tbl-count"></div></div>
   <div style="overflow-x:auto;">
     <table>
-      <colgroup><col><col><col><col><col><col><col></colgroup>
+      <colgroup><col style="width:24px"><col><col><col><col><col><col><col></colgroup>
       <thead><tr>
+        <th style="width:24px;"></th>
         <th>Titel</th><th>Opdrachtgever</th>
         <th>Thema <span class="ai-label">AI</span></th>
         <th>Methodiek <span class="ai-label">AI</span></th>
@@ -667,26 +712,129 @@ function render() {
   // Opdrachtenlijst
   const rows = showAll ? filtered : filtered.slice(0,50);
   document.getElementById("tbl-count").textContent = `${n} resultaten${n>50&&!showAll?" — eerste 50 getoond":""}`;
-  document.getElementById("tbl-body").innerHTML = rows.length
-    ? rows.map(r => {
-        const betr = cl(r).betrouwbaarheid;
-        const isLopend = r.publicatie_type === "lopend";
-        return `<tr>
-          <td title="${r.titel||""}"><a href="${r.url||"#"}" target="_blank">${r.titel||"—"}</a>${isLopend?` <span class="badge badge-lopend">lopend</span>`:""}
-          </td>
-          <td class="muted" title="${r.aanbestedende_dienst||""}">${r.aanbestedende_dienst||"—"}</td>
-          <td class="muted" title="${cl(r).thema||""}">${cl(r).thema||"—"}</td>
-          <td><span class="badge ${cl(r).methodiek_kwantitatief?'badge-kwant':'badge-niet'}" title="${cl(r).methodiek||""}">${(cl(r).methodiek||"—").replace(" / niet gespecificeerd","").slice(0,24)}</span></td>
-          <td class="muted" title="${r.winnaar||""}">${r.winnaar||"—"}</td>
-          <td class="muted" style="text-align:right;">${jaar(r)||"—"}</td>
-          <td style="text-align:center;"><span class="betr-dot" style="background:${betrKleur(betr)}" title="Betrouwbaarheid: ${betr?Math.round(betr*100)+'%':'onbekend'}"></span></td>
-        </tr>`;
-      }).join("")
-    : `<tr><td colspan="7" class="no-data">Geen resultaten voor deze filters</td></tr>`;
+
+  if (!rows.length) {
+    document.getElementById("tbl-body").innerHTML = `<tr><td colspan="8" class="no-data">Geen resultaten voor deze filters</td></tr>`;
+  } else {
+    document.getElementById("tbl-body").innerHTML = rows.map((r, i) => {
+      const betr = cl(r).betrouwbaarheid;
+      const isLopend = r.publicatie_type === "lopend";
+      const rid = `row-${i}`;
+
+      // Detailvelden
+      const omschrijving = (r.omschrijving || "").slice(0, 600) + ((r.omschrijving||"").length > 600 ? "…" : "");
+      const skills = (cl(r).skills || []).join(", ") || "—";
+      const databronnen = (cl(r).databronnen || []).join(", ") || "—";
+      const subthema = cl(r).subthema || "—";
+      const evaluatiefase = cl(r).evaluatiefase || "—";
+      const herhalingskans = cl(r).herhalingskans || "—";
+      const causaliteit = cl(r).causaliteitsvraag;
+      const consortium = cl(r).consortiumkans;
+      const toelichting = cl(r).toelichting || "—";
+      const waarde = r.waarde_definitief ? `€ ${Math.round(r.waarde_definitief).toLocaleString("nl-NL")}` : (r.gunningswaarde ? `€ ${Math.round(r.gunningswaarde).toLocaleString("nl-NL")} (geschat)` : "—");
+      const procedure = r.procedure_type || "—";
+
+      const dataRow = `<tr class="data-row" onclick="toggleDetail('${rid}')">
+        <td class="expand-toggle" id="icon-${rid}">▶</td>
+        <td title="${r.titel||""}"><a href="${r.url||"#"}" target="_blank" onclick="event.stopPropagation()">${r.titel||"—"}</a>${isLopend?` <span class="badge badge-lopend">lopend</span>`:""}</td>
+        <td class="muted" title="${r.aanbestedende_dienst||""}">${r.aanbestedende_dienst||"—"}</td>
+        <td class="muted" title="${cl(r).thema||""}">${cl(r).thema||"—"}</td>
+        <td><span class="badge ${cl(r).methodiek_kwantitatief?'badge-kwant':'badge-niet'}" title="${cl(r).methodiek||""}">${(cl(r).methodiek||"—").replace(" / niet gespecificeerd","").slice(0,24)}</span></td>
+        <td class="muted" title="${r.winnaar||""}">${r.winnaar||"—"}</td>
+        <td class="muted" style="text-align:right;">${jaar(r)||"—"}</td>
+        <td style="text-align:center;"><span class="betr-dot" style="background:${betrKleur(betr)}" title="Betrouwbaarheid: ${betr?Math.round(betr*100)+'%':'onbekend'}"></span></td>
+      </tr>`;
+
+      const detailRow = `<tr class="detail-row hidden" id="${rid}">
+        <td colspan="8">
+          <div class="detail-panel">
+            ${omschrijving ? `<div class="detail-omschrijving">${omschrijving}</div>` : ""}
+
+            <div class="detail-col">
+              <div class="detail-field">
+                <div class="detail-label">Subthema <span class="ai-label">AI</span></div>
+                <div class="detail-value ai">${subthema}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Evaluatiefase <span class="ai-label">AI</span></div>
+                <div class="detail-value ai">${evaluatiefase}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Opdrachtgrootte <span class="ai-label">AI</span></div>
+                <div class="detail-value ai">${cl(r).opdrachtgrootte || "—"}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Waarde</div>
+                <div class="detail-value">${waarde}</div>
+              </div>
+            </div>
+
+            <div class="detail-col">
+              <div class="detail-field">
+                <div class="detail-label">Skills <span class="ai-label">AI</span></div>
+                <div class="detail-value">${(cl(r).skills||[]).length ? (cl(r).skills||[]).map(s=>`<span class="detail-pill">${s}</span>`).join("") : "—"}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Databronnen <span class="ai-label">AI</span></div>
+                <div class="detail-value ai" style="font-size:11px;">${databronnen}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Procedure</div>
+                <div class="detail-value">${procedure}</div>
+              </div>
+            </div>
+
+            <div class="detail-col">
+              <div class="detail-field">
+                <div class="detail-label">Causaal effect gevraagd <span class="ai-label">AI</span></div>
+                <div class="detail-value"><span class="detail-pill ${causaliteit?'ja':'nee'}">${causaliteit ? "Ja" : "Nee"}</span></div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Herhalingskans <span class="ai-label">AI</span></div>
+                <div class="detail-value"><span class="detail-pill">${herhalingskans}</span></div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Consortiumkans <span class="ai-label">AI</span></div>
+                <div class="detail-value"><span class="detail-pill ${consortium?'ja':'nee'}">${consortium ? "Ja — mixed methods" : "Nee"}</span></div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">AI toelichting</div>
+                <div class="detail-value" style="font-size:11px;color:var(--text3);font-style:italic;">${toelichting}</div>
+              </div>
+            </div>
+
+            <div class="detail-link">
+              <a href="${r.url||"#"}" target="_blank">→ Bekijk op TenderNed</a>
+              ${r.winnaar ? ` &nbsp;·&nbsp; Winnaar: <strong>${r.winnaar}</strong>` : ""}
+              ${r.datum_gunning ? ` &nbsp;·&nbsp; Gegund: ${r.datum_gunning}` : ""}
+            </div>
+          </div>
+        </td>
+      </tr>`;
+
+      return dataRow + detailRow;
+    }).join("");
+  }
 
   const moreDiv = document.getElementById("show-more");
   moreDiv.style.display = n>50&&!showAll ? "block" : "none";
   document.getElementById("show-more-btn").onclick = () => { showAll=true; render(); };
+}
+
+function toggleDetail(rid) {
+  const detailRow = document.getElementById(rid);
+  const icon = document.getElementById(`icon-${rid}`);
+  const dataRow = icon.closest("tr");
+  const isOpen = !detailRow.classList.contains("hidden");
+  if (isOpen) {
+    detailRow.classList.add("hidden");
+    dataRow.classList.remove("open");
+    icon.textContent = "▶";
+  } else {
+    detailRow.classList.remove("hidden");
+    dataRow.classList.add("open");
+    icon.textContent = "▼";
+  }
 }
 
 loadData();
