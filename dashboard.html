@@ -349,6 +349,8 @@ let showAll = false;
 // betrField: welk classificatieveld bevat de betrouwbaarheid voor dit filter
 const FILTERS = [
   { id: "publicatie_type", label: "Status",         isAI: false, source: "record", multi: true },
+  { id: "europees",        label: "Nationaal/Europees", isAI: false, source: "record", multi: true },
+  { id: "type_opdracht_omschrijving", label: "Aard opdracht", isAI: false, source: "record", multi: true },
   { id: "aanbestedende_dienst", label: "Opdrachtgever", isAI: false, source: "record", multi: true },
   { id: "jaar",            label: "Jaar",            isAI: false, source: "record", multi: true },
   { id: "procedure_type",  label: "Procedure",       isAI: false, source: "record", multi: true },
@@ -374,6 +376,7 @@ function getFieldValue(r, filterId) {
   const f = FILTERS.find(x => x.id === filterId);
   if (!f) return null;
   if (filterId === "jaar") return jaar(r);
+  if (filterId === "europees") return r.europees === true ? "Europees" : r.europees === false ? "Nationaal" : null;
   if (f.source === "record") return r[filterId] ?? null;
   const val = cl(r)[filterId];
   if (filterId === "methodiek_kwantitatief") return val ? "Ja" : "Nee";
@@ -734,6 +737,9 @@ function render() {
       const toelichting = cl(r).toelichting || "—";
       const waarde = r.waarde_definitief ? `€ ${Math.round(r.waarde_definitief).toLocaleString("nl-NL")}` : (r.gunningswaarde ? `€ ${Math.round(r.gunningswaarde).toLocaleString("nl-NL")} (geschat)` : "—");
       const procedure = r.procedure_type || "—";
+      const aard = r.type_opdracht_omschrijving || "—";
+      const europees_label = r.europees === true ? "Europees" : r.europees === false ? "Nationaal" : "—";
+      const sluitingsdatum = r.sluitingsdatum ? r.sluitingsdatum.slice(0,10) : "—";
 
       const dataRow = `<tr class="data-row" onclick="toggleDetail('${rid}')">
         <td class="expand-toggle" id="icon-${rid}">▶</td>
@@ -780,8 +786,20 @@ function render() {
                 <div class="detail-value ai" style="font-size:11px;">${databronnen}</div>
               </div>
               <div class="detail-field">
+                <div class="detail-label">Aard opdracht</div>
+                <div class="detail-value">${aard}</div>
+              </div>
+              <div class="detail-field">
                 <div class="detail-label">Procedure</div>
                 <div class="detail-value">${procedure}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Aanbesteding</div>
+                <div class="detail-value">${europees_label}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Sluitingsdatum</div>
+                <div class="detail-value">${sluitingsdatum}</div>
               </div>
             </div>
 
