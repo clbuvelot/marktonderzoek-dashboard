@@ -1,0 +1,2385 @@
+=== Document: nota van inlichtingen nr. 1 ea mutatieherkenning op landbouwareaal def ===
+Nota van Inlichtingen nr. 1   
+ 
+Datum: 23 juni 2023 
+ 
+Referentienummer: IUC 202303074 
+ 
+In deze nota van inlichtingen geeft de aanbestedende dienst antwoord op de gestelde 
+vragen en opmerkingen geplaatst in het kader van de Europese aanbesteding 
+Mutatieherkenning op landbouwareaal 
+ 
+Deze nota van inlichtingen maakt deel uit van het Aanbestedingsdocument 
+Mutatieherkenning op landbouwareaal (met referentie IUC 202303074 , van 9 juni 2023). 
+ 
+• De verzending van de 2e nota van inlichtingen staat gepland op 
+vrijdag 7 juli 2023. Deze staat nu op “maandag” 7 juli 2023 maar dat is onjuist. 
+ 
+Vraag nr. Vraag Herkomst in document 
+Vraag 1 Op pagina 9 staan de taken die buiten de reikwijdte van het 
+huidige project vallen. Kunt u toelichten wat ‘Het verwerken 
+van de gevonden mutaties is niet aan de orde’ inhoudt? 
+ 
+ 
+Antwoord De gevonden mutaties moeten uiteindelijk in de 
+Basisregistratie Grootschalige Topografie (BGT) - en 
+daarmee het in referentieregister - worden verwerkt. Dit zal 
+worden gedaan door RVO zelf. 
+ 
+ 
+Vraag 2 Met betrekking tot de Aptitude-test wordt in paragraaf 2.2 
+vermeld dat 'De binnen het gebied liggende 
+referentiepercelen zullen door RVO worden geleverd in een 
+bestand geodatabase.' Kunt u bevestigen of deze gegevens 
+alleen uit de plotcontouren zullen bestaan, of ook enkele 
+attributen bevatten? 
+ 
+ 
+Antwoord Het geleverde bestand bestaat uit een geometrie (polygoon) 
+met daarin een tweetal attributen. Deze attributen zijn voor 
+de herkenbaarheid voor RVO, zoals een FunctioneelID en 
+een SectorID. Verder zal het bestand geen attributen 
+bevatten. 
+ 
+ 
+Vraag 3 Met betrekking tot de Aptitude-test zegt het document dat 
+'U dient deze percelen door middel van automatische 
+mutatieherkenning te beoordelen op fouten (zichtbaar op de 
+HR foto van 2022) binnen de geometrie van de geleverde 
+referentiepercelen'. Zou kunnen bevestigen of de fouten in 
+het plotoverzicht verwijzen naar mutaties of iets anders? 
+Wordt bij deze opdracht ook de HR foto 2022 aangeleverd? 
+ 
+ 
+Antwoord Per abuis staat in de tekst het woord: ‘fouten’. Het betreft 
+echter alleen mutaties. 
+ 
+
+ 
+Er worden referentiepercelen geleverd (geometrieën) 
+waarvan bekend is dat er in sommige percelen mutaties in 
+zullen zitten. Deze zullen door middel van automatische 
+mutatieherkenning moeten worden gedetecteerd. 
+ 
+Voor uitvoering van de Proeve van Bekwaamheid wordt er 
+geen HR foto 2022 geleverd. Er kan gebruik worden 
+gemaakt van de open data van Beeldmateriaal, te vinden 
+op: Beeldmateriaal 
+ 
+Vraag 4 Met betrekking tot de output van de Aptitude test wordt 
+gevraagd om het attribuut ‘Waarschijnlijkheid van de 
+mutatie (indien meerdere mutaties, dan blijkt dit uit de mee 
+gebleken waarschijnlijkheden per vector/mutatie)’ toe te 
+voegen aan de uiteindelijke output. Kunt u meer details 
+geven over wat dit kenmerk zou moeten 
+vertegenwoordigen? 
+ 
+ 
+Antwoord De mate van zekerheid van de voorspelling. Dit moet een 
+getal zijn tussen de 0 en 1, waarbij 1 een 100% zekerheid 
+in de voorspelling en 0 geen. 
+ 
+ 
+Vraag 5 Moet het uiteindelijke model/algoritme open source zijn? 
+ 
+ 
+Antwoord Nee. 
+ 
+Maar zie ook 3.3.2 eis 8. In het geval van een audit moet 
+de leverancier wel toegang verlenen tot de broncode aan de 
+(externe) auditor. 
+ 
+ 
+Vraag 6 “Onderstaande eisen zijn van toepassing op de uitvoering 
+van de daadwerkelijke dienstverlening.” 
+Betekent dit dat de eisen (zoals eis 1 “kwantitatieve 
+beschrijving modelkwaliteit”) pas opgeleverd dienen te 
+worden tijdens uitvoering van de opdracht, en niet als 
+onderdeel van de indiening van de offerte? 
+ 
+Par. 3.1 
+Antwoord Deze informatie dient niet opgeleverd te worden voor uw 
+inschrijving maar (na gunning) bij de uitvoering van de 
+opdracht. 
+ 
+ 
+Vraag 7 Wat wordt bedoeld met “modelkeuze per object”? Wat is de 
+onderliggende informatie die RVO hier wil hebben? 
+ 
+Par. 3.1 - eis 4 
+Antwoord Inzicht geven in de gemaakte keuzes en aannames, zoals 
+bijvoorbeeld over het filteren van smalle mutaties langs de 
+grenzen door bijvoorbeeld een veranderd waterpeil. 
+ 
+ 
+Vraag 8 Klopt het dat deze eis kan worden geïnterpreteerd als “In 
+maximaal 5% van de “niet-gemuteerd” percelen mogen in 
+werkelijkheid 1 of meerdere mutaties aanwezig zijn”? 
+ 
+Par. 3.1 - eis 5 
+Antwoord Dit klopt. Uit de percelen die uiteindelijk geleverd worden 
+met het label: ‘niet-gemuteerd’, mogen van deze percelen 
+in maximaal 5% van de gevallen alsnog een mutatie 
+bevatten. 
+ 
+ 
+Vraag 9 Hoe wordt performance bij modeltraining bepaald door 
+RVO? 
+Moet deze worden opgeleverd als onderdeel van de offerte 
+of bij uitvoer van de opdracht? 
+ 
+Par. 3.1 - eis 6 
+Antwoord Voor de Proeve van Bekwaamheid wordt een steekproef 
+getrokken van de aangeleverde referentiepercelen en die 
+worden handmatig beoordeeld op de kwaliteit en kwantiteit 
+(5.2.4 onderdeel 1 en 2). Voor het eindproduct wordt ook 
+een steekproef van de totale populatie getrokken om te 
+bepalen of de minimale kwaliteit en kwantiteit gehaald 
+wordt (3.1 eis 5 en 7). 
+ 
+In beide gevallen worden de classificaties vergeleken met 
+de uitkomsten van de handmatige controle door RVO. 
+ 
+ 
+Vraag 10 Hoe wordt de 5% uitgerekend? Kan hiervoor een precieze 
+formule worden gegeven? 
+ 
+Par. 3.1 - eis 6 
+ 
+Antwoord RVO wil garantie over de behaalde resultaten van de Proeve 
+van Bekwaamheid generaliseren naar de uitkomsten van de 
+totale populatie. Daarom zouden we willen zien dat de 
+maximale afwijking op de kwantiteit maximaal 5% is met 
+een minimale ondergrens van 80%. 
+Uit ervaringen van de afgelopen jaren blijkt dat het 
+percentage mutaties rond de 10% zit. Wanneer blijkt dat er 
+wel meer dan 20% mutaties in de totale populatie zijn 
+wordt de opdrachtnemer hier niet op afgerekend. Alle als 
+gemuteerd geclassificeerde percelen zullen handmatig 
+worden gecontroleerd en verwerkt in het register. 
+ 
+ 
+Vraag 11 Wordt hier bedoeld dat er maximaal 20% van de percelen 
+worden aangeleverd als “gemuteerd”? 
+ 
+Par. 3.1 - eis 7 
+Antwoord Dat klopt. Zie antwoord op vraag 10. 
+ 
+ 
+Vraag 12 Als er daadwerkelijk minder of meer dan 20% van de 
+percelen gewijzigd zijn, hoe moet er dan worden omgegaan 
+met het tekort/teveel aan gewijzigde percelen? 
+ 
+Par. 3.1 - eis 7 
+Antwoord Er hoeft niet geoptimaliseerd te worden op 20%. De wens is 
+een zo hoog mogelijk percentage niet-gemuteerd, met 
+voldoende kwaliteit. Verder zie antwoord op vraag 10. 
+ 
+ 
+Vraag 13 Hoe definieert RVO waarschijnlijkheid? Hoe kan kwaliteit 
+van waarschijnlijkheid worden bepaald? 
+ 
+Par. 3.2 - eis 2 
+Antwoord De mate van zekerheid van de voorspelling. Dit moet een 
+getal zijn tussen de 0 en 1, waarbij 1 een 100% zekerheid 
+in de voorspelling en 0 geen. (zie antwoord vraag 15). 
+ 
+De kwaliteit van 95% binnen de categorie ‘niet-gemuteerd’ 
+moet ten alle tijden worden gehaald.  De kwaliteit van de 
+waarschijnlijkheid wordt bepaald in relatie tot het behalen 
+van dat doel. 
+ 
+ 
+Vraag 14 Hoe gaat RVO waarschijnlijkheid gebruiken in haar 
+processen? 
+ 
+Par. 3.2 - eis 2 
+Antwoord Belangrijk in de processen van RVO is om een zo hoog 
+mogelijk percentage niet-gemuteerd te krijgen waarbij de 
+minimale kwaliteit 95% moet zijn. Mocht blijken dat een 
+lagere cut-off van de waarschijnlijkheid minimaal de 
+kwaliteit van 95% heeft, dan kan RVO gezamenlijk met de 
+gegunde partij bepalen om deze cut-off waarde te hanteren. 
+Deze cut-off waarde zal dan worden gebruikt om het label 
+‘mutatie’ of ‘geen-mutatie’ aan het perceel toe te kennen. 
+ 
+ 
+Vraag 15 Moet waarschijnlijkheid een getal tussen 0 en 1 zijn of kan 
+het ook in een andere range liggen of een kwalitatieve 
+waarschijnlijkheid zijn? 
+ 
+Par. 3.2 - eis 2 
+Antwoord RVO gaat uit van een getal dat ligt tussen de 0 en 1. Indien 
+de (toekomstige) opdrachtnemer – na gunning - met een 
+andere range wil werken is dit in overleg mogelijk. Wij 
+verwachten wel een kwantitatieve waarschijnlijkheid en 
+geen kwalitatieve waarschijnlijkheid. 
+ 
+` 
+Vraag 16 NEN3610 2011 is vervangen door versie 2022. Kan deze 
+norm ook worden gehanteerd? 
+ 
+Par. 3.2 - eis 8 
+Antwoord Klopt maar wij willen deze eis aanpassen dat enkel, 
+NEN3610-2022 is toegestaan. 
+ 
+ 
+Vraag 17 File Geodatabase wordt niet genoemd in de NEN 3610 2011 
+norm. In het beschrijvend document van deze aanbesteding 
+(p. 8) staat dat File Geodatabase het gewenste eindproduct 
+is. Welke delen van de norm zijn van belang voor deze 
+opdracht? 
+ 
+Par. 3.2 - eis 8 
+Antwoord Er is besloten dat het voor de leveranciers mogelijk moet 
+zijn om naast een File Geodatabase ook een GeoPackage 
+(GPKG) aan te leveren. Dit is wel conform de NEN 3610 
+2022 norm. 
+ 
+ 
+Vraag 18 Welke gegevens die worden geleverd door het RVO aan de 
+opdrachtnemer zijn Persoonsgegevens? Zijn in de 
+aanlevering van de referentielaag door RVO ten opzichte 
+waarvan de mutatieherkenning moet plaatsvinden 
+Persoonsgegevens aanwezig? 
+ 
+Voor de uitvoer van de mutatieherkenning is enkel de 
+geometrie nodig, met een (geanonimiseerd en niet door 
+partijen anders dan RVO terug te leiden naar personen) 
+identifier zodat de resultaten weer door RVO terug te leiden 
+zijn aan de oorspronkelijke percelen. Zouden deze gegevens 
+dan nog tellen als Persoonsgegevens? 
+ 
+Verwerkersovereenkomst 
+ARVODI-2018 
+Antwoord Er zijn twee stromen gegevens. Enerzijds de levering van 
+data (percelen) van opdrachtgever naar opdrachtnemer. 
+Hierin zitten geen persoonsgegevens. Anderzijds is er het 
+contact met uitwisseling van persoonsgegevens tussen 
+opdrachtgever naar opdrachtnemer. Dit omvat al het 
+contact tussen personen. Hiervoor dienen de privacyregels 
+in acht genomen te worden. 
+ 
+ 
+Vraag 19 Request to provide more time for aptitude test, at least a 
+week. 
+ 
+General 
+Antwoord Nee de planning is vastgesteld. Het model kan getraind 
+worden in de periode voorafgaand aan de Proeve van 
+Bekwaamheid. Voor de beperkte uitvoeringstijd na publicatie 
+van de dataset is bewust gekozen. Dit zorgt ervoor dat de 
+resultaten niet handmatig verbeterd worden. Het is de 
+bedoeling dat er een volledig geautomatiseerde Proeve van 
+Bekwaamheid wordt aangeleverd. 
+ 
+ 
+Vraag 20 Can the tender be bid by Indian entity? 
+ 
+ 
+General 
+Antwoord Neen, een geïnteresseerde uit India kan niet inschrijven op 
+deze aanbesteding. India is (nog) geen lid bij de GPA en 
+tevens zien wij geen afwijkende motieven om deze 
+aanbesteding open te stellen voor inschrijvers uit India. 
+ 
+ 
+Vraag 21 Can the services be commenced from offshore that is India? 
+ 
+General 
+Antwoord Zie antwoord op vraag 20. Het werk kan uitgevoerd worden 
+buiten Europa, maar gezien het antwoord van vraag 20 is 
+dit niet aan de orde. 
+ 
+Daarbij verwijzen wij naar de verwerkersovereenkomst 
+bijlage 03a, aanvullende eisen: clouddata moet opgeslagen 
+worden in Europa. Hiernaar moet gehandeld worden. 
+ 
+ 
+Vraag 22 Please can you share the AOI for the 550,000 plots? 
+ 
+General 
+Antwoord Deze zal bij gunning worden geleverd aan de gegunde 
+partij. Een oude versie van de dataset kan worden 
+gedownload via de ‘Publieke Dienstverlening Op de Kaart’ 
+(PDOK). Zie voor de oude dataset: Introductie - PDOK 
+ 
+ 
+Vraag 23 What is the resolution of aerial imagery provided? 
+ 
+ 
+General 
+Antwoord Via Beeldmateriaal is er een luchtfoto beschikbaar 8 cm 
+beschikbaar. Deze is als open-data beschikbaar: Download 
+luchtfoto's | Beeldmateriaal Nederland 
+ 
+ 
+Vraag 24 How many sq.km or the number of plots we need to 
+complete for aptitude test? 
+ 
+ 
+General 
+Antwoord Er worden twee gebieden aangeleverd van 10x15 km. Deze 
+zullen in totaal circa 6000 percelen bevatten. 
+ 
+ 
+ 
+Vraag 25 Quality standard EN 45000 is mandatory to apply for the 
+tender. We have ISO 9001 for quality will it suffice? 
+ 
+ 
+General 
+Antwoord Als u de kwaliteitseis (4.3.3 Kwaliteitszorg) op bladzijde 17 
+en 18 , bedoelt dan voldoet een geldig ISO 9001:2015 
+certificaat hieraan. 
+ 
+ 
+Vraag 26 As mentioned current year aerial imagery and reference 
+register will be provided by client , kindly confirm. 
+ 
+General 
+Antwoord Bij gunning van opdracht zal RVO de dataset met 
+referentiepercelen leveren aan de gegunde partij. 
+Bij gunning opdracht zal ook de HR foto worden geleverd, 
+maar niet voor de PvB. 
+ 
+ 
+Vraag 27 The price offered in price annex 02 must be within the range 
+of €45,000 to €80,000 per year, excluding G/W/E VAT.- 
+what is G/W/E 
+ 
+Financial 
+Doc –Annex -2 
+Antwoord Wij kunnen niet vinden wat u bedoelt met G/W/E VAT ? 
+Deze afkorting staat niet benoemd in bijlage 02 (Prijs). 
+ 
+ 
+Vraag 28 As a foreign company delivering work to the Netherlands, 
+this would be considered an export for us. Consequently, 
+VAT is not applicable for us to charge on our invoice. Could 
+you please provide further details on the requirements for 
+Zero VAT 
+Invoicing requirements  - It concerns a fixed contract price.   
+The following payment schedule applies:   a payment twice  
+Financial 
+Doc – Descriptive 
+document EA Mutation 
+recognition on 
+agricultural land IUC 
+202303074 version 1.0 
+def 
+a year,  one half at the  start of the journey, and the second  
+half at delivery – 
+ 
+Clause -3.5 
+Antwoord Er is geen eensluidend antwoord te geven omdat er veel 
+afhankelijk is van de situatie van het uitvoeren van de 
+dienstverlening (door u). U zult dat zelf moeten afwegen en 
+toetsen. Zie bladzijde:  14 en 15 (3.5 Eisen met betrekking 
+tot belastingen)van het beschrijvend document. 
+ 
+Over het tweede deel van uw vraag, zie het antwoord van 
+vraag 29. 
+ 
+ 
+Vraag 29 Based on my understanding, please confirm if the following 
+is correct: The contract duration is for 4 years, starting from 
+January 1, 2024, to December 31, 2027. For the first year, I 
+can send the invoice on January 1, 2024, and the second 
+invoice on July 1, 2024. The payment will be released on the 
+same date, and this invoicing and payment cycle will 
+continue on the same schedule until the end of the fifth 
+year. Kindly validate if my understanding aligns with your 
+document. 
+ 
+Financial 
+Antwoord De ingangsdatum is 1 oktober en de werkzaamheden zullen 
+op 15 november moeten zijn afgerond. Dat zal elk jaar in 
+overleg plaatsvinden. De oplevering van de werkzaamheden 
+zullen in overleg in twee delen worden gesplitst, Noord en 
+Zuid Nederland. Na oplevering van elk deel kan, na 
+goedkeuring ervan (prestatieverklaring), worden 
+gefactureerd. 
+ 
+ 
+Vraag 30 What is the proposed insurance limit for this project? 
+ 
+Financial 
+Antwoord Die kunnen wij niet stellen voor u. Wij hebben inzicht 
+gegeven over de eisen en wensen en de financiële omvang 
+van de opdracht. U dient zelf, voor uw bedrijfsvoering, deze 
+afweging te maken, in hoeverre u risico’s wil afdekken. 
+ 
+ 
+Vraag 31 Is het ook een wens van RVO om de in de Basisregistratie 
+Grootschalige Topografie (BGT ) verwerkte mutaties door 
+hen zelf, door andere bronhouders en aannemers, te 
+controleren a.h.v. de in deze opdracht te produceren 
+mutatieberichten? 
+ 
+Verwerking in bgt p7. 
+Antwoord Nee. Gevonden mutaties worden zelf door medewerkers van 
+RVO verwerkt in de Basisregistratie Grootschalige 
+Topografie (BGT). 
+ 
+ 
+Vraag 32 Opdrachtgever vraagt om mutatieklassen. De daarop 
+volgende handmatige verwerking is gebaat bij een 
+eenduidige werkinstructie. Heeft de opdrachtgever daar 
+richtlijnen voor of aanvullende wensen? 
+ 
+Verwerking in bgt p7. 
+Antwoord De wens is om de polygonen uiteindelijk geclassificeerd 
+terug te krijgen. De uiteindelijke klassen kunnen voor het 
+ingaan van de opdracht worden bepaald in overleg tussen 
+opdrachtgever en gegunde partij. 
+ 
+Er hoeft geen richtlijn aan de classificatie te worden gesteld. 
+ 
+ 
+Vraag 33 Op pagina 9 wordt aangegeven dat voor de PvB de mutaties 
+zichtbaar moeten zijn op de luchtfoto van 2022. Wordt de 
+luchtfoto aangeleverd door RVO samen met 
+referentiepercelen? Betreft dit dan de referentiepercelen van 
+2022 of van 2021? 
+Aanbestedingsdocument 
+P9 
+ 
+Antwoord Voor uitvoering van de Proeve van Bekwaamheid wordt er 
+geen HR foto 2022 geleverd. Er kan gebruik worden 
+gemaakt van de open data van Beeldmateriaal, te vinden 
+op: Beeldmateriaal. 
+ 
+Daarnaast worden voor de Proeve van Bekwaamheid de 
+actuele referentiepercelen (2022 en later) geleverd, die 
+beoordeeld zullen moeten worden op de HR foto 2022. 
+ 
+ 
+Vraag 34 Op pagina 8 wordt aangegeven: “RVO gebruikt de hoge 
+resolutie luchtfoto van het dan geldende jaar”. Klopt het dat 
+mutaties in de eerste levering voor 2023 dus zichtbaar 
+moeten zijn op de luchtfoto van 2023? 
+ 
+Aanbestedingsdocument 
+P8 
+Antwoord Dat klopt. Deze levering kan dus ook pas plaats vinden 
+indien de luchtfoto 2023 beschikbaar is. 
+ 
+ 
+Vraag 35 Op pagina 8 wordt aangegeven dat de percelen dienen te 
+worden beoordeeld binnen de aangeleverde geometrie. Wat 
+te doen met mutaties die aansluitend buiten de geometrie 
+vallen (bijvoorbeeld door een verkeerde perceelsgrens in de 
+kaart)? Is het niet wenselijk om een buffer om de 
+perceelsgrens aan te houden of iets dergelijks? 
+ 
+Aanbestedingsdocument 
+P8 
+Antwoord Voor het eindproduct en de Proeve van Bekwaamheid is het 
+alleen van belang dat een mutatie binnen de geometrie van 
+het referentieperceel ligt. Een mutatie die zowel binnen als 
+buiten de geometrie zal vallen moet gedetecteerd worden. 
+De reden is dat er namelijk ook een gedeelte van de mutatie 
+binnen de geometrie plaatsvindt. 
+ 
+ 
+Vraag 36 P21: wensen ten aanzien van de levering: Er wordt een 
+beoordeling gegeven voor de beschrijving van de bronnen 
+die gebruikt worden. Kunt u aangeven wanneer een hoge 
+score en wanner een lage score wordt gegeven? Wordt het 
+gebruik van meerdere bronnen positief beoordeeld en zoja, 
+hoe dan? 
+ 
+Aanbestedingsdocument 
+P21 
+Antwoord Als wij de door u voorgestelde bron kwalificeren als een 
+bron waarmee de dienstverlening voldoet (bv satellietfoto’s 
+of orthobeelden), dan scoren we dat als een voldoende. 
+ 
+Mocht u meerdere bronnen gebruiken die de kwaliteit van 
+het product aantoonbaar (bv door een referentieproject te 
+benoemen) verbeteren in aanvulling op de basisbron, dan 
+kan dit leiden tot een hogere waardering. Wij kunnen hier 
+slechts indicatief op in gaan, omdat wij de mogelijkheden 
+(tot de inzet van meerdere bronnen) hier niet in kennen. 
+ 
+ 
+Vraag 37 P21: wensen PvB: Onderdeel 2 betreft een score voor het 
+percentage niet gemuteerd. Dit percentage is afhankelijk 
+van de kwaliteit/actualiteit van de kaart en de jaarlijkse 
+dynamiek.  Kunt u aangeven waarom dit 
+beoordelingscriterium wordt toegepast, want we begrijpen 
+het niet: indien er om redenen buiten onze invloed veel 
+mutaties zijn krijgen wij weinig punten? 
+ 
+Aanbestedingsdocument 
+P21 
+Antwoord De wens van RVO is om een zo hoog mogelijk percentage 
+percelen te krijgen met label: ‘niet gemuteerd’. Daarom 
+wordt de leverancier uitgedaagd om dit percentage zo hoog 
+mogelijk te krijgen, waarbij de kwaliteit uiteraard niet 
+vergeten wordt. 
+ 
+ 
+Indien er in het gebied veel mutaties zitten, zal dit voor alle 
+partijen gelden. Het gebied van de Proeve van 
+Bekwaamheid is voor alle partijen hetzelfde. 
+ 
+Vraag 38 Bij de beoordeling van de Proeve van Bekwaamheid wordt in 
+de tabel voor kwaliteit 80 punten gegeven voor een kwaliteit 
+tussen de “95% en 97.9%”. Dit moet volgens ons zijn “97% 
+en 97.9%”. Is dit juist? 
+ 
+Aanbestedingsdocument 
+P23 
+Antwoord Dat is juist. 
+ 
+ 
+Vraag 39 In de ‘Publieke Dienstverlening Op de Kaart’ (PDOK) worden 
+landbouwpercelen gepubliceerd als BRP-lagen. Is een BRP-
+perceel identiek aan een referentieperceel (op een zelfde 
+moment bijvoorbeeld) als benoemd in de uitvraag of zijn er 
+definitieverschillen. 
+ 
+Aanbestedingsdocument 
+Alle bladzijden 
+Antwoord Dat is juist. De BRP gewaspercelen zijn identiek aan een 
+referentieperceel. Laatste versie van de BRP gewaspercelen 
+die op ‘Publieke Dienstverlening Op de Kaart’ (PDOK) staat 
+is van 2022, en is verouderd ten opzichte van het bestand 
+wat aangeleverd wordt in de PvB. 
+ 
+ 
+Vraag 40 Worden andere databestanden dan ESRI Geodatabase ook 
+geaccepteerd tijdens de proef van bekwaamheid? Nu wordt 
+het zonder ESRI-licentie erg moeilijk gemaakt. 
+ 
+Pagina 8/9 
+Antwoord Zie het antwoord op vraag 17. 
+ 
+ 
+Vraag 41 Er worden een aantal keer metrics, model performance 
+en/of confusion matrix genoemd in dit document. Waarop 
+moeten deze metrics worden bepaald? Is er een dataset met 
+voorbeelden van mutaties beschikbaar (een ground truth)? 
+ 
+Pagina 11, 13 
+Antwoord Er is geen ground truth beschikbaar, u kunt een deel van de 
+ground truth echter wel baseren op de classificaties uit de 
+Basisregistratie Grootschalige Topografie (BGT). Er is wel 
+een tekstdocument beschikbaar met voorbeelden van 
+mutaties, deze is vrij compleet. 
+ 
+Wij verwachten dat de gegunde partij zelf invulling zal 
+geven aan hoe de verschillende metrics worden bepaald. 
+ 
+ 
+Vraag 42 De definitie van de mutaties laat ruimte voor interpretatie. 
+Verrommeling klinkt bijvoorbeeld redelijk subjectief. Zijn er 
+uitgebreidere beschrijvingen beschikbaar? Of voorbeelden? 
+ 
+Pagina 8 
+Antwoord Er is een document beschikbaar met voorbeelden van 
+mutaties. Zie bijlage “voorbeeld mutaties”. 
+ 
+ 
+Vraag 43 In de Proeve van Bekwaamheid wordt een vectorbestand 
+met de locatie van de mutatie verwacht met een 
+classificatie. In hoeverre worden de lokalisatie en 
+classificatie van mutaties meegenomen bij de beoordeling 
+van de PVB? Wij zagen dit niet terugkomen in hoofdstuk 5. 
+ 
+Hoofdstuk 2, 5 
+Antwoord Dit wordt niet meegenomen in de beoordeling van de PvB. 
+ 
+ 
+ 
+Einde nota van inlichtingen nr. 1
+
+=== Document: nota van inlichtingen nr. 2 ea mutatieherkenning op landbouwareaal def ===
+Nota van Inlichtingen nr. 2    
+ 
+Datum: 7 juli 2023 
+ 
+Referentienummer: IUC 202303074 
+ 
+In deze nota van inlichtingen geeft de aanbestedende dienst antwoord op de gestelde 
+vragen en opmerkingen geplaatst in het kader van de Europese aanbesteding 
+Mutatieherkenning op landbouwareaal. 
+ 
+Deze nota van inlichtingen maakt deel uit van het Aanbestedingsdocument  
+(met referentie IUC 202303074, van 9 juni 2023). 
+ 
+ 
+Vraag nr. Vraag Herkomst in document 
+Vraag 1 We kunnen ons goed voorstellen dat mutaties binnen het 
+perceel gezocht moeten worden en dat zal voor het 
+overgrote deel ook zo zijn. Echter we kennen voorbeelden 
+waar een referentieperceel te klein getekend is, of dat er 
+toch een uitbreiding van het perceel naar buiten toe is 
+(verkleining van het erf, bijvoorbeeld.). Zoals u het 
+antwoord nu formuleert, bent u niet in deze mutaties 
+geïnteresseerd in het kader van deze opdracht. Is dat 
+juist? 
+-- 
+Antwoord Dat is juist. Binnen de reikwijdte van deze opdracht zijn 
+we alleen geïnteresseerd in mutaties binnen de geometrie 
+van de referentiepercelen.  
+ 
+ 
+ 
+Rectificatie:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let op: In het beschrijvend document wordt aangegeven 
+dat een mutatie pas gedetecteerd hoeft te worden als 
+deze meer dan 90 dagen op het perceel aanwezig is. 
+Aangezien er slechts beoordeeld wordt op 1 bron, nl. de 
+HR foto van het jaar 2022, wordt dit criterium losgelaten. 
+Als op de HR foto een gedeelte van het perceel niet meer 
+landbouwkundig gebruikt wordt, en dus gezien moet 
+worden als mutatie, dan moet deze gedetecteerd worden 
+in de Proeve van Bekwaamheid. 
+ 
+Beschrijvend document 
+blz. 9, Proeve van 
+Bekwaamheid. 
+ 
+ 
+Einde nota van inlichtingen nr. 2
+
+=== Document: nota van inlichtingen 2023-07-07-1 ===
+Nota van inlichtingen Mutatieherkenning op landbouwareaal
+Pagina 1 van 5 Datum genereren nota van inlichtingen: 7 jul. 2023
+Aanbesteding: Mutatieherkenning op landbouwareaal
+Aanbestedende Dienst: Ministerie van Economische Zaken en Klimaat, Rijksdienst voor 
+Ondernemend Nederland (RVO)
+Referentie: IUC 202303074
+Toelichting:
+Reeds beschreven in de separaat verstuurde NvI nr. 1
+Ref.nr. Onderwerp:
+1 Metrics
+Vraag:
+Er worden een aantal keer metrics, model performance en/of confusion 
+matrix genoemd in dit document. Waarop moeten deze metrics worden 
+bepaald? Is er een dataset met voorbeelden van mutaties beschikbaar (een 
+ground truth)?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Proeve van Bekwaamheid
+Vraag:
+Worden andere databestanden dan ESRI Geodatabase ook geaccepteerd 
+tijdens de proef van bekwaamheid? Nu wordt het zonder ESRI-licentie erg 
+moeilijk gemaakt.
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Definities classificatie
+Vraag:
+De definitie van de mutaties laat ruimte voor interpretatie. Verrommeling 
+Nota van inlichtingen Mutatieherkenning op landbouwareaal
+Pagina 2 van 5 Datum genereren nota van inlichtingen: 7 jul. 2023
+klinkt bijvoorbeeld redelijk subjectief. Zijn er uitgebreidere beschrijvingen 
+beschikbaar? Of voorbeelden?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Beoordeling PvB
+Vraag:
+In de Proeve van Bekwaamheid wordt een vectorbestand met de locatie van 
+de mutatie verwacht met een classificatie. In hoeverre worden de lokalisatie 
+en classificatie van mutaties meegenomen bij de beoordeling van de PVB? 
+Wij zagen dit niet terugkomen in hoofdstuk 5.
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Verwerking in bgt p7
+Vraag:
+Vraag 1 Is het ook een wens van RVO om de in de BGT verwerkte mutaties 
+door hen zelf, door andere bronhouders en aannemers, te controleren a.h.v. 
+de in deze opdracht te produceren mutatieberichten Verwerking in bgt p7.
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Verwerking in bgt p7.
+Nota van inlichtingen Mutatieherkenning op landbouwareaal
+Pagina 3 van 5 Datum genereren nota van inlichtingen: 7 jul. 2023
+Vraag:
+Vraag 2 Opdrachtgever vraagt om mutatieklassen. De daarop volgende 
+handmatige verwerking is gebaat bij een eenduidige werkinstructie. Heeft de 
+opdrachtgever daar richtlijnen voor of aanvullende wensen? Verwerking in 
+bgt p7.
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+7 Aanbestedingsdocument P9
+Vraag:
+Vraag 3 Op pagina 9 wordt aangegeven dat voor de PvB de mutaties 
+zichtbaar moeten zijn op de luchtfoto van 2022. Wordt de luchtfoto 
+aangeleverd door RVO samen met referentiepercelen? Betreft dit dan de 
+referentiepercelen van 2022 of van 2021? Aanbestedingsdocument
+P9
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+8 Aanbestedingsdocument P8
+Vraag:
+Vraag 4 op pagina 8 wordt aangegeven: “RVO gebruikt de hoge resolutie 
+luchtfoto van het dan geldende jaar”. Klopt het dat mutaties in de eerste 
+levering voor 2023 dus zichtbaar moeten zijn op de luchtfoto van 2023?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Nota van inlichtingen Mutatieherkenning op landbouwareaal
+Pagina 4 van 5 Datum genereren nota van inlichtingen: 7 jul. 2023
+Ref.nr. Onderwerp:
+9 Aanbestedingsdocument P8
+Vraag:
+Vraag 5 Op pagina 8 wordt aangegeven dat de percelen dienen te worden 
+beoordeeld binnen de aangeleverde geometrie. Wat te doen met mutaties die 
+aansluitend buiten de geometrie vallen (bijvoorbeeld door een verkeerde 
+perceelsgrens in de kaart)? Is het niet wenselijk om een buffer om de 
+perceelsgrens aan te houden of iets dergelijks?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 Aanbestedingsdocument P21
+Vraag:
+Vraag 6 P21: wensen ten aanzien van de levering: Er wordt een beoordeling 
+gegeven voor de beschrijving van de bronnen die gebruikt worden. Kunt u 
+aangeven wanneer een hoge score en wanner een lage score wordt gegeven? 
+Wordt het gebruik van meerdere bronnen positief beoordeeld en zoja, hoe 
+dan? Aanbestedingsdocument
+P21
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 Aanbestedingsdocument P21
+Vraag:
+Vraag 7 P21: wensen PvB: Onderdeel 2 betreft een score voor het 
+percentage niet gemuteerd. Dit percentage is afhankelijk van de kwaliteit
+/actualiteit van de kaart en de jaarlijkse dynamiek. Kunt u aangeven waarom 
+dit beoordelingscriterium wordt toegepast, want we begrijpen het niet: indien 
+er om redenen buiten onze invloed veel mutaties zijn krijgen wij weinig 
+Nota van inlichtingen Mutatieherkenning op landbouwareaal
+Pagina 5 van 5 Datum genereren nota van inlichtingen: 7 jul. 2023
+punten?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+12 Aanbestedingsdocument P23
+Vraag:
+Vraag 8 Bij de beoordeling van de PvB wordt in de tabel voor kwaliteit 80 
+punten gegeven voor een kwaliteit tussen de “95% en 97.9%”. Dit moet 
+volgens ons zijn “97% en 97.9%”. Is dit juist?
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+Ref.nr. Onderwerp:
+13 referntieperceelsdefinitie
+Vraag:
+Vraag 9 In PDOK worden landbouwpercelen gepubliceerd als BRP-lagen. Is 
+een BRP-perceel identiek aan een referentieperceel (op een zelfde moment 
+bijvoorbeeld) als benoemd in de uitvraag of zijn er definitieverschillen
+Antwoord:
+Zie de nota van inlichtingen nr. 1 en bijlage.
+Percelen: P  1 Mutatieherkenning op landbouwareaal
+Beantwoord op: 23 jun. 2023
+Label: Inhoud
+
+=== Document: digitale-brochure-gedragscode-integriteit-rijk-2020 (1) ===
+Gedragscode  
+Integriteit Rijk
+2020
+
+Gedragscode  
+Integriteit Rijk
+2020
+
+7
+Inhoud
+1 Inleiding 8
+1.1 Waarom deze gedragscode? 8
+1.2 Status en werkingssfeer van deze gedragscode 9
+2  Goed werkgeverschap, werknemerschap en 
+ambtenaarschap 10
+2.1 Een goede overheids werkgever 10
+2.2 Een goede overheidswerknemer en ambtenaar 11
+3 Waarden integriteit 12
+3.1 Onafhankelijkheid en onpartijdigheid 12
+3.2 Betrouwbaarheid en zorgvuldigheid 12
+3.3 Eigen verantwoordelijkheid 13
+4  Belangenverstrengeling en gebruik publieke 
+middelen 14
+4.1 Geschenken, diensten  
+en andere voordelen of beloningen 14
+4.2 Uitnodigingen, commerciële activiteiten en 
+sponsoring 15
+4.3 (Privé)gebruik van overheids-middelen  
+en -voorzieningen 16
+4.4 Financiële belangen en handel in effecten 17
+4.5 Nevenwerkzaamheden en onverenigbare  
+functies 18
+4.6 Afkoelingsperiode bij gevoelige overstap  
+naar ander werk  19
+4.7 Omgang met lobbyisten 19
+4.8 Inkoop, inhuur en aanbesteding  20
+4.9 Betrokkenheid bij onafhankelijk onderzoek en 
+(wetenschappelijke) integriteit 21
+5 Informatie en communicatie 23
+5.1 Zorgvuldig omgaan met informatie 23
+5.2 Externe contacten en meningsuitingen 25
+5.3 Onlinecommunicatie en sociale media  26
+6 Werk- en privérelaties 28
+6.1 Omgangsvormen 28
+6.2 Privérelaties 30
+7 Buitenland 32
+7.1  Waar je in het algemeen rekening mee moet 
+houden 32
+7.2 Aanvullingen op specifieke onderwerpen 32
+8 Preventie en handhaving 35
+8.1 Indiensttreding en afleggen eed of belofte 35
+8.2 Het voeren van het goede gesprek 35
+8.3 Aandacht voor kwetsbare functies en  
+kwetsbare ambtenaren 36
+8.4 De rol van de vertrouwenspersoon 36
+8.5 Integriteitsschendingen 37
+8.6 Nadere informatie en advies  38
+Model Integriteitsverklaring 
+Rijk voor externen 39
+Wijzigingstabel 40
+8
+1 Inleiding
+1.1 Waarom deze gedragscode?
+Het belang van een integere overheid
+Nederland is een democratische rechtsstaat. Het motto van de 
+Rijksoverheid is: ‘De Rijksoverheid. Voor Nederland.’ Als rijksambte-
+naar lever je een bijdrage aan het functioneren van ons land. 
+Vertrouwen is noodzaak
+Burgers moeten op de overheid kunnen vertrouwen. Burgers  
+zijn in veel opzichten afhankelijk van de overheid. Bovendien 
+kunnen overheidsbesluiten diep ingrijpen in het functioneren van 
+burgers. Daarom moet de overheid integer zijn. Dat wil zeggen  
+dat de overheid in haar functioneren eerlijk en betrouwbaar is,  
+de burgers correct behandelt en respectvol bejegent. Bovendien 
+moet de overheid zichzelf ten voorbeeld stellen: als je wilt dat 
+burgers zich fatsoenlijk gedragen, zal je dat als overheid ook 
+moeten doen. 
+Integriteitsbewustzijn en de functie van de gedragscode
+Integriteit van de overheid komt tot uiting in gedrag van bestuur-
+ders en ambtenaren. Dus ook in jouw gedrag als rijksambtenaar. 
+Daarvoor is nodig dat je weet wat het betekent om voor de 
+rijksoverheid te werken en vanuit welke beginselen je hoort te 
+handelen om integer te zijn. Maar dat is niet genoeg. Integriteit 
+gaat pas werkelijk leven in de dagelijkse praktijk en in de gesprek-
+ken die je met elkaar hierover voert. Waar loop je in jouw functie 
+tegenaan en welk gedrag wordt er in die situatie van je verwacht?
+Integriteit is mensenwerk
+Het is heel normaal dat je daarbij soms twijfelt. Normen en 
+waarden zijn niet altijd duidelijk toepasbaar en kunnen ook  
+strijdig zijn met elkaar. Ook kan jouw persoonlijke integriteit in 
+conflict komen met jouw ambtelijke integriteit. Je bent en blijft 
+zelf verantwoordelijk voor je gedrag. Maar je hebt wel een kader 
+nodig waaraan je jouw gedrag kunt toetsen. 
+Gedragscode als kader 
+voor integer handelen
+De gedragscode integriteit Rijk geeft je een kader voor integer 
+handelen. Maar de gedragscode kan nooit in elke denkbare 
+situatie voorzien. Bovendien wijzigen de omstandigheden 
+voortdurend door nieuwe ontwikkelingen. Je moet dus altijd zelf 
+blijven nadenken en je bewust blijven van wat het betekent om  
+‘in het hier en nu’ rijksambtenaar te zijn en daarnaar te handelen. 
+Blijf jezelf steeds afvragen of je jouw gedrag als goed ambtenaar 
+kunt verantwoorden. 
+De gedragscode maakt transparant wat wij binnen de 
+Rijksoverheid met elkaar onder integriteit en integer handelen 
+verstaan. Hierdoor wordt helder wat wij van elkaar verwachten en 
+wat burgers en externe partijen van ons kunnen verwachten, 
+zodat zij daar rekening mee kunnen houden. De gedragscode 
+heeft daarmee ook een beschermende functie: deze helpt je om 
+risico’s te onderkennen, weerstand te bieden aan verleidingen en 
+druk van buitenaf te weerstaan. Je kunt immers zowel intern als 
+extern persoonlijk op jouw integriteit worden aangesproken en ter 
+verantwoording worden geroepen. 
+Ten slotte gelden er allerlei concrete regels en verplichtingen die 
+betrekking hebben op integriteit en schrijft de Ambtenarenwet het 
+gebruik van een gedragscode voor. 
+Met de gedragscode wordt aan die regels meer bekendheid 
+gegeven en gestreefd naar een uniforme uitleg en toepassing 
+daarvan. Dit kan worden bereikt door aan de hand van de 
+gedragscode dilemma’s en vraagstukken over integriteit met 
+elkaar te bespreken. 
+Praat erover!
+In deze gedragscode wordt veel waarde gehecht aan het 
+bespreekbaar maken van integriteit. De invulling van wat onder 
+integer gedrag moet worden verstaan, is iets wat wij met elkaar 
+moeten doen. Je hebt elkaar hiervoor nodig. 
+Het is daarbij erg belangrijk dat dit op een veilige manier kan 
+gebeuren en dat de organisatie daar niet verkrampt op reageert. 
+Dit vraagt veel van zowel medewerkers als leidinggevenden, zowel 
+op de werkvloer als in de ambtelijke top. Velen denken – ten 
+onrechte – al snel aan klokkenluiden als er een integriteits-
+vraagstuk aan de orde wordt gesteld en bij ambtenaren bestaat 
+nog teveel het schrikbeeld van de klokkenluider met wie het 
+uiteindelijk niet goed afloopt. En dat is jammer. Want hoe 
+makkelijker wij er met elkaar over kunnen praten, hoe normaler 
+het wordt om integriteit bij al onze beslissingen bewust te 
+betrekken. Dit geldt zowel voor beslissingen in ons werk, als voor 
+beslissingen over de organisatie van ons werk. 
+9
+1.2 Status en werkingssfeer van 
+deze gedragscode
+Relatie tot integriteitsbeleid en organisatiegedragscodes
+Integriteitsbeleid omvat meer dan het bevorderen van goed 
+ambtelijk handelen. Deze gedragscode richt zich, als onderdeel 
+van integriteitsbeleid, vooral op het gedrag van ambtenaren en 
+geeft ambtenaren essentiële informatie. Het gaat ook om 
+omgangsvormen van ambtenaren met elkaar. Daarbij is de 
+gedragscode aanvullend op bestaande regelgeving en vervangt 
+die niet. De gedragscode kan worden gezien als een hulpmiddel 
+voor verdere invulling van die regelgeving. 
+Deze gedragscode geldt voor de rijksoverheid als minimumkader 
+voor integer handelen. Dit neemt niet weg dat integer handelen 
+altijd binnen de context van de organisatie moet worden bezien. 
+Op organisatieniveau is nadere specificatie en invulling daarom 
+mogelijk. Daarbij is het belangrijk om goed uit te leggen waarom 
+dit nodig is. Men mag daarbij niet minder strikt zijn dan deze 
+gedragscode. 
+Voor rijksambtenaren. Maar ook voor externen!
+Deze gedragscode is rechtstreeks op jou van toepassing als je een 
+arbeidsovereenkomst hebt met de Staat en de cao Rijk op jou van 
+toepassing is. In deze gedragscode word je ambtenaar of 
+rijksambtenaar genoemd en wordt jouw werkgever aangeduid 
+met het verzamelbegrip rijk(soverheid). In de cao is aangegeven 
+wie er werkgever in de zin van de cao Rijk kan zijn.
+Voor iedereen die 
+werkt voor het rijk
+Er zijn ook mensen werkzaam voor de Staat die geen ambtenaar 
+zijn maar wel binnen een ambtelijke context werkzaamheden 
+verrichten. Te denken valt aan stagiairs, uitzendkrachten of 
+anderszins extern ingehuurde krachten of zzp-ers. Het zal voor 
+een burger niet duidelijk zijn en ook niet uitmaken of hij te maken 
+heeft met een ambtenaar, of met zo’n externe medewerker die de 
+rijksoverheid op dat moment toevallig vertegenwoordigt. Daarom 
+moet de gedragscode ook bij externen nadrukkelijk onder de 
+aandacht worden gebracht en wordt hen gevraagd een integri-
+teitsverklaring te ondertekenen (een model is als bijlage bij deze 
+gedragscode gevoegd). 
+In feite is deze gedragscode er dus voor iedereen die werkt voor 
+het rijk.
+
+10
+2  Goed werkgeverschap, 
+werknemerschap en 
+ambtenaarschap
+Artikel 7:611 Burgerlijk Wetboek  
+(goed werkgever- en werknemerschap)
+Artikel 4 Ambtenarenwet 2017  
+(integriteitsbeleid, gedragscode).
+Artikel 6, eerste lid Ambtenarenwet 2017  
+(goed ambtenaarschap)
+Artikel 5, eerste lid, aanhef en onderdeel a en artikel 7 
+Ambtenarenwet 2017 en Uitvoeringsbesluit Ambtenarenwet 2017  
+(eed of belofte).
+2.1 Een goede overheids werkgever
+Zorgplicht, integriteitsbeleid en personeelsbeleid
+De overheidswerkgever heeft, net als iedere andere werkgever, 
+een zorgplicht voor zijn werknemers, de ambtenaren. Een  
+goede overheidswerkgever gedraagt zich ten opzichte van zijn 
+ambtenaren behoorlijk, maakt geen misbruik van bevoegdheden, 
+respecteert de rechten en het privéleven van ambtenaren, zorgt 
+voor goede arbeidsomstandigheden en een veilige werkomge-
+ving. Een volwaardig integriteitsbeleid is eveneens onderdeel van 
+de zorgplicht van de overheidswerkgever. 
+Dit betekent onder andere dat jouw werkgever jou beschermt 
+tegen integriteitsrisico’s door de organisatie en werkprocessen 
+daarop in te richten (bijvoorbeeld functiescheiding), voorzieningen 
+te treffen (bijvoorbeeld een vertrouwenspersoon) en een 
+gedragscode op te stellen voor ‘goed ambtelijk handelen’. 
+Het scheppen van een veilig werkklimaat is ook een belangrijke 
+verantwoordelijkheid van de werkgever en een absolute rand-
+voorwaarde om integriteitsvraagstukken binnen de organisatie 
+bespreekbaar te maken. In dit verband mag de loyaliteit die van 
+de medewerkers wordt verwacht niet ten koste gaan van het 
+vrijelijk kunnen aankaarten van door hen ervaren integriteits-
+schendingen of misstanden binnen de organisatie. 
+Integriteit als speerpunt van 
+personeelsbeleid
+Integriteit moet bij elke ambtenaar ‘tussen de oren zitten’ en het 
+management heeft daarin het voortouw. Voortdurende aandacht 
+voor integriteit is nodig. Integriteit hoort thuis in alle aspecten van 
+het werk, de bedrijfsvoering en het personeelsbeleid: werving, 
+selectie en introductie van personeel, werkinstructies, werkoverleg, 
+opleiding en training, functionerings- en exitgesprekken. Bij de 
+organisatie van het werk hoort integriteit bewust te worden 
+meegewogen. Het management speelt hierin een belangrijke rol en 
+heeft tot taak het integriteitsbeleid uit te dragen in woord en daad.
+ 
+Leiderschap: de dubbele pet van leidinggevenden
+De werkgever wordt in de praktijk vertegenwoordigd door het 
+(bestuurlijk) management, de leidinggevenden op zowel bestuur-
+lijk als operationeel niveau. Zij vervullen een tweeledige rol, 
+namelijk als goed ambtenaar en als goed werkgever. 
+Leidinggevenden behoren medewerkers in staat te stellen om aan 
+de gestelde (integriteits)verwachtingen te voldoen, waaronder de 
+verwachting dat zij elkaar aanspreken op gedrag. Daarnaast 
+hebben leidinggevenden een zelfstandige taak om medewerkers 
+aan te spreken op niet integer gedrag en zo nodig maatregelen te 
+treffen. Zij kunnen daarbij alleen geloofwaardig zijn als zij zelf het 
+goede voorbeeld geven. Dit betekent nogal wat voor leidingge-
+venden. Van hen wordt inspirerend leiderschap en voorbeeldge-
+drag verlangd met betrekking tot integriteit. Zij moeten zich hier 
+voortdurend van bewust zijn, laten zien dat integriteit belangrijk is 
+en zich in het onderwerp verdiepen. Het is van belang dat zij 
+integriteitsrisico’s tijdig herkennen, benoemen en vervolgens op 
+de juiste manier aanpakken. Dat zij dilemma’s in alle openheid 
+bespreken, positief gedrag belonen en de medewerkers met raad 
+en daad terzijde (kunnen) staan. Daarbij horen zij de medewerkers 
+die niet integer gedrag aan de orde stellen ook te steunen en waar 
+nodig te beschermen. Alleen dan kunnen medewerkers zich veilig 
+genoeg voelen om elkaar en de leiding aan te spreken op niet 
+integer gedrag.
+11
+Voorbeeldfunctie 
+leidinggevenden:  
+dit gaat niet vanzelf!
+Bovenstaande betekent dat de werkgever ook nadrukkelijk een 
+verantwoordelijkheid heeft naar leidinggevenden toe, namelijk 
+hen in staat moet stellen en waar nodig moet begeleiden om hun 
+rol naar behoren te kunnen vervullen. Verder is collegiaal beraad 
+tussen leidinggevenden onderling belangrijk om te toetsen of er 
+op een juiste manier invulling wordt gegeven aan de rol van het 
+management. 
+Ter versterking van het integriteitsbewustzijn van medewerkers en 
+leidinggevenden kan de gedragscode worden gebruikt bij training 
+en opleiding.
+2.2 Een goede overheidswerknemer 
+en ambtenaar
+Sinds 1 januari 2020 is jouw ambtelijke aanstelling gewijzigd in  
+een arbeidsovereenkomst. Als goed overheidswerknemer kom je 
+ten opzichte van jouw werkgever de verplichtingen die uit de 
+arbeidsrelatie voortvloeien na. Maar je blijft ook ambtenaar en 
+moet daarom voldoen aan de verplichtingen die de 
+Ambtenarenwet jou oplegt en je als goed ambtenaar gedragen. 
+Van jou wordt ambtelijk vakmanschap verwacht. Als goed 
+ambtenaar hoor jij je werk goed, betrokken én gewetensvol te 
+doen. Trouw aan de publieke taak staat hierbij voorop. Dit doet 
+een groot beroep op jouw oordeelsvermogen, omdat iedere 
+situatie weer anders is. Daarbij dien je het algemeen belang en 
+houd je rekening met de gerechtvaardigde belangen van degenen 
+die een beroep op jou doen. Dit vereist betrokkenheid, wijsheid en 
+moed. Betrokkenheid bij jouw organisatie en bij het algemene 
+belang dat je dient. Wijsheid om in moeilijke situaties de juiste 
+afweging te kunnen maken en moed om daadkrachtig te zijn en je 
+morele oordeel om te zetten in moreel handelen. Verwacht wordt 
+dat jij hierin jouw eigen verantwoordelijkheid neemt en bereid 
+bent om jouw keuzes vooraf of achteraf te laten toetsen.  
+Bij het nemen van eigen verantwoordelijkheid hoort ook dat je 
+integriteitsvraagstukken bespreekt met collega’s en met je 
+leidinggevende, of eventueel met de vertrouwenspersoon. Dit is 
+geen teken van zwakte of onkunde maar juist van ambtelijke 
+professionaliteit.
+Loyaliteitsconflicten
+Er kunnen zich bijzonder lastige situaties voordoen waarbij jouw 
+ambtelijke professionaliteit je in een loyaliteitsconflict brengt en je 
+op dat moment zult moeten beslissen hoe je daarmee omgaat. 
+Belangrijk is dat je de juiste procedures volgt. Een vertrouwens-
+persoon kan je daarbij helpen. 
+Goed gedrag binnen en buiten diensttijd
+Je werk gewetensvol doen gebeurt in de dagelijkse praktijk en is 
+niet werkplek en werktijd gebonden. We leven in een digitale 
+wereld, waarbij sprake is van flexibele werkvormen met een 
+dunne scheidslijn tussen werk en privé. Het is belangrijk om je dit 
+te realiseren, omdat ook je privégedrag van invloed kan zijn op 
+jouw goed ambtenaarschap. Dit komt in deze gedragscode 
+herhaaldelijk naar voren.
+Ook privégedrag telt
+Deze gedragscode helpt je om integer te handelen en zo mede 
+invulling te geven aan het goed ambtenaarschap. Door vooral te 
+letten op de achterliggende bedoeling van de gedragscode en de 
+hierna te bespreken waarden, word je ook geholpen om de juiste 
+keuzes te maken in situaties waarin de code niet direct voorziet. 
+Kom je er zelf niet uit, maak het dan aan de hand van deze 
+gedragscode met elkaar bespreekbaar.
+12
+3 Waarden integriteit
+3.1 Onafhankelijkheid en 
+onpartijdigheid
+Burgers en externe partijen moeten erop kunnen vertrouwen dat 
+de overheid niet bevooroordeeld of partijdig is en dat beslissingen 
+op objectieve gronden worden genomen. Daarom moet je als 
+ambtenaar onafhankelijk en onpartijdig zijn. Het algemeen belang 
+dat je dient staat voorop en jouw persoonlijk belang is daaraan 
+ondergeschikt. Je mag je niet laten leiden door eigen belang of 
+oneigenlijke motieven. Eigen belang is bijvoorbeeld dat je 
+persoonlijk voordeel hebt bij een bepaalde beslissing die je als 
+ambtenaar neemt. Van oneigenlijke motieven is bijvoorbeeld 
+sprake als je bij jouw beslissing discrimineert. 
+Geen belangen-
+verstrengeling en geen 
+vriendjespolitiek
+Belangenverstrengeling treedt op als je zelf direct of indirect 
+belanghebbende of partij bent bij een beslissing waar je als 
+ambtenaar invloed op hebt. Dit kan ook het geval zijn als niet 
+jijzelf, maar jouw partner, een vriend of kennis belang heeft bij die 
+beslissing. Je kunt ook onder druk gezet worden of verleid worden 
+door anderen om in jouw werk hun belangen te dienen. 
+Belangenverstrengeling, of zelfs de schijn ervan, moet je zien te 
+voorkomen. Praat erover. Door op tijd in te grijpen neem je jezelf 
+en de organisatie in bescherming.
+3.2 Betrouwbaarheid en 
+zorgvuldigheid
+Voor de burger moet jij als vertegenwoordiger van de overheid 
+betrouwbaar zijn. Dat wil zeggen dat je hem correct behandelt, 
+afspraken en toezeggingen nakomt en waarmaakt wat je belooft. 
+Dit heeft te maken met geloofwaardigheid: van jou en van de 
+overheidsorganisatie die jij vertegenwoordigt.
+
+13
+Zeg wat je doet en  
+doe wat je zegt
+Betrouwbaar zijn betekent ook dat je zorgvuldig omgaat met de 
+bevoegdheden, middelen en informatie waarover je als ambte-
+naar beschikt. Bijvoorbeeld, door het – al dan niet bewust – lekken 
+van (gevoelige of vertrouwelijke) informatie wordt het vertrouwen 
+in de overheid geschaad. Bevoegdheden en informatie gebruik je 
+alleen voor het doel waarvoor je ze hebt verkregen. Je deelt 
+vertrouwelijke informatie niet met anderen. Bij besluitvorming 
+weeg je alle relevante belangen af. En je gaat zuinig en efficiënt 
+om met overheidsmiddelen, waaraan door de belastingbetaler 
+wordt bijgedragen.
+Gebruik bevoegdheid, 
+middelen en informatie 
+zorgvuldig
+Ook in de omgang met anderen ben je betrouwbaar en zorgvuldig. 
+Van jou wordt naar de ander correct, fatsoenlijk, en respectvol 
+gedrag verwacht. Je neemt de ander serieus en respecteert diens 
+privacy. Zowel in relatie tot burgers en externe partijen als in 
+relatie tot collega’s, dus ook leidinggevenden en ondergeschikten.
+Wees zorgvuldig in de 
+omgang met anderen
+3.3 Eigen verantwoordelijkheid
+Tegenwoordig is sprake van steeds meer direct contact tussen 
+ambtenaren en burgers, de overheid is toegankelijker geworden 
+en er wordt gebruik gemaakt van allerlei netwerken en snelle en 
+moderne communicatiemiddelen. Als ambtenaar ben je daarbij 
+steeds zichtbaarder voor het publiek. De keerzijde hiervan is dat 
+incidenten snel worden uitvergroot en politiek worden gemaakt. 
+Dit stelt hoge eisen aan jouw vaardigheden en veronderstelt een 
+hoge mate van eigen verantwoordelijkheid in jouw handelen. 
+Elkaar aanspreken en 
+verantwoording afleggen
+Je zult je bewust moeten zijn van je zichtbaarheid en van het feit 
+dat je voortdurend aanspreekbaar bent op jouw gedrag. Dit maakt 
+dat je verantwoordelijkheid moet nemen voor jouw gedrag en 
+daarover ook (achteraf) verantwoording aflegt. Maar er wordt ook 
+verantwoordelijkheid van je verwacht voor de integriteit van de 
+organisatie als geheel. Dit vergt dat je niet afzijdig blijft, de ander 
+steunt bij het maken van de juiste afwegingen en zo nodig de 
+ander aanspreekt als sprake is van niet integer gedrag. 
+De hierboven besproken waarden geven een algemene richting 
+aan ons handelen. Voor sommige onderwerpen gelden echter 
+meer specifieke normen en regels. Die worden hierna behandeld.
+14
+4  Belangenverstrengeling en 
+gebruik publieke middelen
+4.1 Geschenken, diensten  
+en andere voordelen of 
+beloningen
+Artikel 8, eerste lid, aanhef en onderdeel e Ambtenarenwet 
+2017 (giften en degelijke)
+Artikelen 177 en 363 Wetboek van Strafrecht  
+(omkoping ambtenaar)
+Als ambtenaar ben je in je werk betrouwbaar, onafhankelijk en 
+onpartijdig. Je behandelt in je werk relaties gelijkwaardig en houdt 
+professionele afstand. Je gebruikt je contacten in je werk niet om 
+anderen of jezelf oneigenlijk, dus zonder dat daar een goede 
+zakelijke reden voor is, te bevoordelen. 
+Omkoping en aanvaarding geschenken, diensten of 
+andere voordelen
+Het verlenen van gunsten aan relaties op wat voor manier dan ook 
+en je daarvoor laten belonen of bevoordelen, is strafbaar. We 
+noemen dat ambtelijke omkoping. Ook de schijn van omkoping 
+moet je zien te voorkomen. 
+Om die reden is wettelijk vastgelegd dat je in relatie tot jouw werk 
+niet zomaar geschenken mag aannemen van anderen. Dat mag 
+alleen als je daar toestemming voor hebt. Met geschenken bedoelen 
+we niet alleen giften, maar ook andere voordelen in de vorm van 
+beloningen, vergoedingen, spaar- of kortingsregelingen (zoals 
+airmiles of frequent flyer punten), diensten, gunsten, of beloften. 
+Laat je niet verleiden door 
+geschenken en voordelen
+Het is ondoenlijk om onder elke omstandigheid vooraf toestem-
+ming te vragen als iemand je iets aanbiedt. Daarom gelden er 
+bepaalde uitgangspunten. Openheid en bespreekbaarheid zijn 
+daarbij belangrijke randvoorwaarden: dit helpt niet alleen om 
+verleidingen te herkennen en de juiste afweging daarin te maken, 
+maar bevordert ook het vertrouwen in elkaar. 
+Uitgangspunten voor geschenken, diensten en voordelen: 
+• bewaak je onafhankelijkheid: de achtergrond van het aanbod is 
+bepalend;
+• neem geen overdreven dure geschenken aan (in de regel 
+accepteer je sowieso geen geschenken van meer dan €50,-);
+• houd rekening met beleefdheidsnormen; 
+• wees open over de situatie, wat betekent dat je:
+ - er melding van maakt (voor- of achteraf) bij jouw 
+leidinggevende;
+ - dilemma’s bespreekt met je leidinggevende en collega’s;
+ - geen geschenken ontvangt op je huisadres;
+ - via het werk verkregen voordelen (zoals spaarpunten) niet 
+privé gebruikt. 
+Wat betekent dat in de praktijk?
+Denk altijd na over wie jou op welk moment iets aanbiedt en wat 
+de achtergrond daarvan kan zijn. Is sprake van een beleefdheids-
+uitwisseling, zonder bijbedoelingen? Dan is er meestal geen 
+bezwaar om het aan te nemen. Denk bijvoorbeeld aan een bos 
+bloemen of fles wijn als bedankje voor een op verzoek gegeven 
+presentatie. 
+Of krijg je een relatiegeschenk van een externe relatie, die jou 
+mogelijk gunstig wil stemmen bij toekomstige beslissingen, 
+bijvoorbeeld het toekennen van vervolgopdrachten? Loopt er 
+misschien zelfs een aanbestedingstraject waar die externe relatie 
+in meedingt? De waarde van het geschenk is dan niet bepalend. 
+Het gaat erom of jouw onafhankelijkheid kan worden aangetast. 
+Laat je in dat geval niet verleiden. Accepteer het aanbod niet en leg 
+uit waarom, zodat de schenker dat begrijpt en er in het vervolg 
+rekening mee kan houden. 
+Ga voor jezelf na of een geschenk niet overdreven duur is. Een 
+kostbare fles champagne als bedankje voor een presentatie lijkt 
+niet goed in verhouding. Gebruikelijk is dat je een geschenk met 
+een waarde van meer dan €50,- sowieso niet aanneemt. In 
+sommige situaties, bijvoorbeeld bij buitenlandse relaties, kan dat 
+anders liggen. Toepasselijke gebruiken en omgangsvormen kunnen 
+dan vereisen dat je het geschenk uit beleefdheid aanneemt, ook als 
+dat duurder is. 
+Als je een geschenk (in eerste instantie) aanneemt of het wordt je 
+bijvoorbeeld toegezonden, kan dat verschillende gevolgen hebben: 
+je mag het houden, je moet het terugsturen/alsnog het aanbod 
+weigeren, of je moet het afstaan. Voor het afstaan kunnen 
+verschillende afspraken van toepassing zijn: denk aan verloting, 
+verdeling, tentoonstelling, bestemming voor algemeen gebruik of 
+voor een goed doel. Als er aanleiding voor is, bijvoorbeeld uit 
+veiligheidsoverwegingen, kan ook vernietiging noodzakelijk zijn.
+15
+Denk hierover na:
+• Een geschenk hoeft niet tastbaar te zijn, het kan bijvoorbeeld 
+ook gaan om een uitnodiging, het verlenen van een dienst, of 
+het aanbieden van korting in de privésfeer;
+• Je bent kwetsbaarder voor beïnvloeding of het wekken van de 
+schijn van beïnvloeding als je met een zakelijke relatie privécon-
+tact hebt of zelfs bevriend bent. De grens tussen privé en werk is 
+dan moeilijk te trekken.
+4.2 Uitnodigingen, commerciële 
+activiteiten en sponsoring
+Uitnodigingen
+Netwerken kan deel uitmaken van je functie. Daarbij kan het 
+voorkomen dat je uitnodigingen krijgt van externe partijen. Daar 
+mag je best op ingaan, zolang je er maar verstandig mee omgaat 
+en de omstandigheden in het oog houdt. Het ingaan op uitnodi-
+gingen moet functioneel, sober (passend bij de omstandigheden) 
+en doelmatig zijn. Ook de wederkerigheid van uitnodigingen is 
+een aspect om rekening mee te houden.
+Laat jezelf niet fêteren
+Evenals bij het aannemen van geschenken, geldt voor het ingaan 
+op uitnodigingen dat de context waarbinnen dit plaatsvindt van 
+belang is. Een zakelijke bespreking combineren met een etentje? 
+Dat hoeft niet verkeerd te zijn. Maar het op uitnodiging van een 
+externe zakenrelatie bijwonen van een sportevenement in de 
+VIP-lounge ligt gevoelig. En als die zakenrelatie toevallig ook 
+meedingt naar een opdracht, heb je echt een probleem. 
+Uitgangspunten voor uitstapjes, reizen, etentjes en 
+evenementen:
+• bespreek uitnodigingen vooraf;
+• vraag je af of het voldoende functioneel is;
+• betaal (zoveel mogelijk) zelf;
+• declareer gemaakte kosten conform de daarvoor bestaande 
+regels. 
+Om je niet onnodig in de problemen te brengen geldt de afspraak 
+dat uitnodigingen met elkaar worden besproken, met je leidingge-
+vende en met collega’s in het werkoverleg. Zo kun je van elkaar en 
+van voorkomende situaties leren. Het is niet zo dat je nooit iets op 
+kosten van de ander mag accepteren: dat hangt helemaal af van 
+de situatie, de voor die situatie algemeen aanvaarde omgangsvor-
+men en de omvang van de kosten. Waar het om gaat is dat je, als 
+je een uitnodiging van een externe partij accepteert, jouw 
+onafhankelijkheid bewaakt en jezelf niet op ongepaste wijze laat 
+‘fêteren’. 
+Commerciële activiteiten
+Het komt regelmatig voor dat ambtenaren vanuit hun deskundig-
+heid worden uitgenodigd om op te treden als spreker, of bijvoor-
+beeld als lid van een deskundigenpanel, op een commercieel 
+georganiseerd congres of symposium. Anderen, onder wie ook 
+weer collega- ambtenaren, komen daar dan tegen betaling van 
+(soms hoge) toegangsgelden naar luisteren. Dat wringt. In de 
+eerste plaats omdat de rijksoverheid streeft naar kennisdeling, 
+zonder dit te commercialiseren. In de tweede plaats omdat 
+efficiënt moet worden omgegaan met de besteding van 
+overheidsmiddelen. 
+Aan de andere kant is een dergelijke samenwerking van deze tijd 
+en kan het zeker nuttig en wenselijk zijn om dit, soms ook op 
+commercieel gebied, te doen. Bijvoorbeeld als de activiteit 
+belangrijk is voor het ontwikkelen, uitleggen, of uitdragen van 
+beleid. Het management bepaalt of dit het geval is. Ook hier geldt 
+dat transparantie en openheid noodzakelijk zijn om een goede 
+afweging te kunnen maken.
+Geen commercialisering 
+van overheidskennis
+Uitgangspunten voor commerciële activiteiten binnen de 
+ambtelijke functie, zoals het spreken op congressen e.d.: 
+• geen medewerking tenzij uitdrukkelijk anders wordt 
+afgesproken;
+• je bespreekt het vooraf met je leidinggevende;
+• je laat je er niet voor betalen. 
+Commerciële activiteiten kunnen ook plaatsvinden als nevenacti-
+viteit. In dat geval gelden de regels voor nevenwerkzaamheden. 
+Ook heb je te maken met de regels voor externe communicatie. 
+Beide onderwerpen worden in deze gedragscode behandeld. 
+Sponsoring
+Voorzichtigheid is geboden ten aanzien van sponsoring en 
+fondswerving van personeelsactiviteiten. Bij sponsoring valt te 
+denken aan externe financiering van activiteiten van sportclubs, of 
+andere personeelsverenigingen of –stichtingen waarvan het 
+lidmaatschap is voorbehouden aan rijksambtenaren. Hoewel 
+dergelijke verenigingen en stichtingen niet onder de rijksoverheid 
+vallen, kunnen zij wel met de rijksoverheid in verband worden 
+gebracht. 
+Externe financiering kan (de schijn van) belangenverstrengeling 
+met zich meebrengen, bijvoorbeeld als die sponsor een belang-
+rijke opdracht voor de rijksoverheid uitvoert, een raamcontract 
+met (een onderdeel van) de rijksoverheid heeft afgesloten, of een 
+opdracht uitvoert bij het dienstonderdeel waar ook de personeels-
+activiteit plaatsvindt.
+Wil ik mij met deze sponsor 
+inlaten?
+16
+Ook kan sponsoring van personeelsactiviteiten een ongewenst effect 
+hebben op het imago van de rijksoverheid of een onderdeel daarvan. 
+Het is belangrijk om je van deze risico’s bewust te zijn. Interne 
+fondswerving of sponsoring komt ook voor, zoals bij een privé-initi-
+atief van een ambtenaar die voor een goed doel deelneemt aan een 
+run of tour. Voor zover hieraan een bijdrage uit publieke middelen 
+plaatsvindt, zal dit qua kosten zeer beperkt moeten blijven en bij 
+voorkeur in de facilitaire sfeer (t-shirts/bidons) zijn. 
+Uitgangspunten voor sponsoring:
+• ga er verstandig en transparant mee om;
+• voorkom belangenverstrengeling;
+• leg het bij twijfel voor aan de ambtelijke leiding.
+Op deze wijze voorkom je dat je ongewild in de problemen raakt.
+4.3 (Privé)gebruik van overheids-
+middelen en -voorzieningen
+Gedragsregeling voor de digitale werkomgeving van 23 juni 
+2016 en eventuele aanvullende organisatiespecifieke regelingen.
+Voor je werk krijg je de beschikking over overheidsmiddelen en 
+–voorzieningen, zoals een computer, laptop of tablet, een 
+smartphone, allerlei kantoorartikelen, print- en kopieerappara-
+tuur. Ook krijg je toegang tot het internet en intranet, ontvang je 
+een toegangspas en kun je voor je werk gebruik maken van 
+bedrijfsvervoer of openbaar vervoer. Van jou als ambtenaar wordt 
+verwacht dat je daar op betrouwbare en zorgvuldige wijze mee 
+omgaat.
+Gepast gebruik voor het werk
+Respecteer het feit dat het om overheidsmiddelen gaat die je voor 
+het werk ter beschikking worden gesteld. Gebruik ze voor het doel 
+waarvoor je ze hebt gekregen en ga er voorzichtig en zuinig, dus 
+zonder verspilling mee om.
+Geen verspilling van 
+overheidsgeld
+Houdt ook rekening met eventuele bijzondere gebruiksvoorwaar-
+den en beveiligingsvoorschriften, of contractvoorwaarden die zijn 
+gesteld. Voor het gebruik van internet, e-mail en andere digitale 
+middelen gelden specifieke regels. Rijksbreed geldt de 
+Gedragsregeling voor de digitale werkomgeving. Voor jouw 
+organisatie kunnen aanvullende regels of procedures gelden. Het 
+downloaden van illegale software, het bekijken, downloaden of 
+verspreiden van pornografische, racistische, discriminerende, 
+beledigende, aanstootgevende of (seksueel) intimiderende 
+teksten en afbeeldingen, of het versturen van berichten die 
+(kunnen) aanzetten tot haat en/of geweld, is verboden.
+Zorgvuldig gebruik van middelen en voorzieningen betekent ook 
+dat je alleen zakelijk en werkelijk gemaakte kosten declareert die 
+niet al op andere wijze vergoed worden (denk bijvoorbeeld aan 
+representatiekostenvergoeding), de mobiliteitskaart niet voor 
+privéreizen gebruikt en je toegangspas niet aan anderen uitleent.
+
+17
+Gepast privégebruik
+Bij moderne arbeidsverhoudingen past het niet privégebruik van 
+bedrijfsmiddelen en –voorzieningen geheel te verbieden. 
+Omgekeerd zal je ook wel eens eigen middelen gebruiken voor het 
+werk. Houd voor ogen dat het overheidsmiddelen, dus publieke 
+middelen betreft die – uiteindelijk – uit belastinggeld worden 
+gefinancierd.
+Gepast privégebruik mag, tenzij uitdrukkelijk anders is afgespro-
+ken of bepaald. Misbruik, dat wil zeggen overdadig, onnodig, 
+storend of schadelijk privégebruik, is niet toegestaan. Het is 
+ondoenlijk om vooraf precies aan te geven wanneer er sprake is 
+van misbruik en wanneer niet. Dit doet een beroep op je eigen 
+verantwoordelijkheid en oordeelsvermogen. Er is altijd sprake van 
+een grijs gebied: bespreek daarom in voorkomende gevallen met 
+je leidinggevende wat wel of niet mag. Wees transparant, 
+kostenbewust en maak hierover afspraken.
+ 
+Voorbeelden van niet-toegestaan privégebruik: 
+• doelbewust voor privégebruik downloaden van grote 
+hoeveelheden data (bijv. films, muziek, spellen) op kosten 
+van de werkgever;
+• veelvuldig, langdurig of omvangrijk voor jezelf kopiëren  
+op het werk;
+• veelvuldig of langdurig privé bellen, chatten of internetsites 
+bezoeken tijdens het werk;
+• privé bestellingen plaatsen of boekingen doen via je 
+werkaccount;
+• zonder toestemming spullen van het werk voor jezelf mee 
+naar huis nemen;
+• het verhandelen of te koop aanbieden van spullen van  
+het werk. 
+Dienstauto’s
+Als aan jou een auto van de dienst of via de dienst (leaseauto) ter 
+beschikking is gesteld, ga hier dan zorgvuldig mee om en houd je 
+aan de voorschriften. Een dienstauto kan soms als zodanig 
+herkenbaar zijn, wees je daarvan bewust. Privégebruik is toege-
+staan indien en voor zover je daar schriftelijk toestemming voor 
+hebt verkregen. Voor de privékilometers draag je een eigen 
+bijdrage af.
+4.4 Financiële belangen en  
+handel in effecten
+Artikel 5, eerste lid, aanhef en onderdeel d Ambtenarenwet 
+2017 (verplichtingen werkgever inzake aanwijzing risicofuncties, 
+financiële belangen en registratieplicht)
+Artikel 8, eerste lid, aanhef en onderdelen c en de 
+Ambtenarenwet 2017 (verbod op bepaalde financiële belangen)
+Artikel 8, tweede lid, aanhef en onderdeel b Ambtenarenwet 
+2017 (meld- en informatieplicht aangewezen ambtenaar inzake 
+financiële belangen)
+Mogelijk heb je financiële belangen in één of meer bedrijven, 
+handel je in effecten of ben je van plan dat te gaan doen. Dit kan 
+risico’s opleveren, bijvoorbeeld door belangenverstrengeling of 
+voorkennis van koersgevoelige informatie. Jouw werkgever heeft 
+de plicht om functies aan te wijzen die op dit punt extra risicovol 
+zijn en voor jou geldt in dat geval de plicht om die financiële 
+belangen te melden.
+ 
+Uitgangspunten voor financiële belangen:
+• de werkgever wijst risicovolle functies aan in de organisatie;
+• meld financiële belangen die de belangen van de dienst  
+kunnen raken;
+• financiële belangen die schadelijk zijn voor de dienst zijn 
+verboden; 
+• houd vertrouwelijke, koersgevoelige informatie waarover je als 
+ambtenaar beschikt geheim en gebruik deze niet om jezelf of 
+anderen te bevoordelen.
+Voor de meldplicht bij aangewezen functies geldt dat er een relatie 
+moet zijn met jouw ambtelijke functie en er is pas sprake van een 
+verbod als door de financiële belangen het goed functioneren van 
+jou, of dat van de dienst, niet meer is verzekerd. 
+Openheid en bespreekbaarheid zijn belangrijk. Denk ook aan 
+financiële belangen van jouw partner, want zijn dat niet indirect 
+jouw belangen? Twijfel je of je moet melden, betrek dan je 
+leidinggevende of een vertrouwenspersoon erbij. Sommige 
+organisaties hebben hiervoor een speciaal aangestelde functiona-
+ris, de compliance officer.
+18
+4.5 Nevenwerkzaamheden en 
+onverenigbare functies
+Artikel 5, eerste lid, aanhef en onderdeel b Ambtenarenwet 
+2017 (registratieplicht werkgever inzake nevenwerkzaamheden)
+Artikel 5, eerste lid, aanhef en onderdeel c Ambtenarenwet 
+2017 (verplichting werkgever tot openbaarmaking van geregistreerde 
+nevenwerkzaamheden van bepaalde ambtenaren) 
+Artikel 8, eerste lid, aanhef en onderdeel a Ambtenarenwet 
+2017 (verbod op verrichten bepaalde nevenwerkzaamheden)
+Artikel 8, tweede lid, aanhef en onderdeel a Ambtenarenwet 
+2017 (meldplicht ambtenaar van bepaalde nevenwerkzaamheden)
+Wet Incompatibiliteiten Staten-Generaal en Europees 
+Parlement (onverenigbare functies)
+Wat zijn nevenwerkzaamheden?
+Nevenwerkzaamheden zijn alle werkzaamheden die je naast je 
+werk als ambtenaar verricht, betaald of onbetaald en ongeacht de 
+omvang, duur en vorm waarin je dit doet. Zij maken geen deel uit 
+van je werkzaamheden als ambtenaar en vinden plaats in eigen 
+tijd (dit kan ook verlof zijn). Ook het op persoonlijke titel schrijven 
+van een artikel of spreken op een congres valt hieronder. 
+De Rijksoverheid moedigt ambtenaren aan om in hun vrije tijd 
+vrijwilligerswerk te doen, of bestuurlijke taken te vervullen in 
+gemeenteraden, verenigingen of stichtingen. En het uitoefenen 
+van commerciële activiteiten, een betaalde baan of eigen bedrijf 
+naast een ambtelijke functie is steeds normaler. Die wisselwerking 
+tussen markt, maatschappij en overheid biedt veel kansen en 
+voordelen. Meestal geeft dit geen problemen Maar soms wel, 
+door (de schijn van) belangenverstrengeling of een ongewenst 
+effect op het imago van jou als ambtenaar of het imago van de 
+dienst. Daarom gelden er regels voor nevenwerkzaamheden.
+Uitgangspunten voor nevenwerkzaamheden: 
+• meld nevenwerkzaamheden die de belangen van de dienst 
+kunnen raken;
+• nevenwerkzaamheden die jouw functioneren of het functione-
+ren van de dienst schaden zijn verboden;
+• herbeoordeel nevenwerkzaamheden bij gewijzigde 
+omstandigheden;
+• gemelde, toegestane nevenwerkzaamheden van leden van de 
+topmanagementgroep worden (met de voorwaarden) openbaar 
+gemaakt.
+Meldplicht en weging integriteitsrisico
+Er geldt een meld- en registratieplicht voor nevenwerkzaamheden 
+die in relatie tot jouw ambtelijke functievervulling de belangen 
+van de dienst kunnen raken. Aangezien het jouw nevenwerkzaam-
+heden zijn, zal je in eerste instantie zelf moeten beoordelen of 
+deze onder de meldplicht vallen of niet. Nevenwerkzaamheden 
+die op geen enkele manier het dienstbelang kunnen raken hoef je 
+niet te melden. Twijfel je, bespreek dan met jouw leidinggevende 
+of een vertrouwenspersoon of je de nevenwerkzaamheden 
+formeel meldt en laat registreren. Voor de registratie van 
+nevenwerkzaamheden zijn speciale formulieren beschikbaar (via 
+P-Direkt/P&O). 
+Sta hierbij stil voor de afweging of je nevenwerkzaamheden 
+moet melden: 
+• vertonen de nevenwerkzaamheden overeenkomsten met jouw 
+ambtelijke functie en werkterrein?
+• heb je voor de nevenwerkzaamheden te maken met hetzelfde 
+netwerk (personen, bedrijven en instanties) als in jouw 
+ambtelijke functie?
+• heb je door jouw ambtelijke functie de nevenwerkzaamheden 
+verkregen?
+• maak je in de nevenwerkzaamheden gebruik of heb je voordeel 
+van informatie, of specifieke kennis en vaardigheden uit jouw 
+ambtelijke functie?
+• hoe omvangrijk zijn de nevenwerkzaamheden wat tijd en/of 
+verdiensten betreft?
+• wat voor reputatie heeft de organisatie, branche of persoon 
+waarvoor je de nevenwerkzaamheden verricht?
+• hoe kan er in de openbaarheid tegen de nevenwerkzaamheden 
+worden aangekeken?
+• kost de nevenfunctie zo veel tijd en energie dat jouw ambtelijke 
+functie eronder kan lijden? 
+• leiden de nevenwerkzaamheden tot een overtreding van de 
+Arbeidstijdenwet?
+Nevenwerkzaamheden? 
+Alleen als het kan
+Melding en registratie van nevenwerkzaamheden stellen jouw 
+leidinggevende in staat om de toelaatbaarheid ervan vooraf 
+toetsen en risico’s tijdig te ondervangen. Zo worden zowel de 
+dienst als jijzelf beschermd. Samen onderzoek je of zich daadwer-
+kelijk een integriteitsrisico voordoet en welke maatregelen jijzelf 
+of jouw leidinggevende daartegen kan nemen. Zo nodig stelt jouw 
+leidinggevende nadere voorwaarden. Besteed er regelmatig 
+aandacht aan en herbeoordeel de situatie bij gewijzigde omstan-
+digheden (in de nevenwerkzaamheden of de ambtelijke functie). 
+Verboden nevenwerkzaamheden en onverenigbaarheid 
+van functies
+Er geldt een verbod op nevenwerkzaamheden als door jouw 
+nevenwerkzaamheden het goed functioneren van jou als 
+ambtenaar, of het goed functioneren van de dienst, niet langer is 
+verzekerd. Bijvoorbeeld als zij jouw beschikbaarheid en inzetbaar-
+heid voor de ambtelijke functie, jouw imago als ambtenaar of het 
+imago van de dienst waarvoor je werkt ongewenst beïnvloeden en 
+dit niet met minder vergaande maatregelen dan een verbod is te 
+ondervangen. Als het niet is op te lossen, dan zal je die neven-
+19
+werkzaamheden zolang je jouw ambtelijke functie blijft vervullen 
+niet mogen starten of ermee moeten stoppen. 
+Ook als op jouw functievervulling op zichzelf geen aanmerkingen 
+zijn te maken kan het verband tussen de nevenwerkzaamheden en 
+het uitoefenen van de functie in openbare dienst onaanvaardbaar 
+zijn. Als jouw nevenwerkzaamheden maken dat aan jouw 
+betrouwbaarheid kan worden getwijfeld, heeft dit namelijk 
+invloed op het vertrouwen dat in jou als ambtenaar en in de 
+overheid wordt gesteld. Dit kan jouw goed functioneren of het 
+goed functioneren van de dienst waarvoor je werkt op een 
+onaanvaardbare manier in de weg staan. In sommige gevallen 
+kunnen nevenwerkzaamheden naar buiten toe de schijn oproepen 
+dat de noodzakelijke onafhankelijke opstelling in jouw ambtelijke 
+functie niet is gewaarborgd. Deze schijn alleen al kan zo onwense-
+lijk zijn dat het jouw goed functioneren of het goed functioneren 
+van de dienst te zeer belemmert. De aard van jouw functie en 
+werkzaamheden speelt hierbij een belangrijke rol. Sommige 
+functies zijn wat dit betreft kwetsbaarder dan andere en zullen 
+striktere eisen stellen aan nevenwerkzaamheden. Maar ook de 
+aard van de nevenwerkzaamheden speelt een rol. Bijvoorbeeld, 
+als met de nevenwerkzaamheden zelf een grondrecht wordt 
+uitgeoefend, zullen die nevenwerkzaamheden minder snel 
+verboden kunnen worden.
+Wettelijk is vastgelegd dat rijksambtenaren hun functie niet 
+kunnen vervullen in combinatie met het lidmaatschap van de 
+Eerste of Tweede Kamer of het Europees Parlement, dit is 
+onverenigbaar. Voor alle duidelijkheid: andere politieke functies of 
+een bestuursfunctie bij een vakbond zijn niet uitgesloten naast je 
+werk als ambtenaar. 
+4.6 Afkoelingsperiode bij gevoelige 
+overstap naar ander werk 
+Wanneer is er sprake van een gevoelige overstap?
+In uitzonderlijke gevallen kan de overstap vanuit de rijksdienst naar 
+ander werk gevoelig liggen omdat daar integriteitsrisico’s aan 
+verbonden zijn. Te denken valt aan een overstap vanuit een 
+kwetsbare functie (zie de tekst onder 8.3) naar werk dat als 
+nevenfunctie meldplichtig of zelfs verboden zou zijn. Het gaat erom 
+dat de belangen van de dienst kunnen botsen met de belangen van 
+jouw nieuwe werk, als zelfstandige of in dienst van een werkgever. 
+Nieuwe baan? Pas op voor 
+botsing van belangen
+Het is belangrijk om vooruit te denken, mogelijke risico’s te 
+onderkennen en die bespreekbaar te maken. Je neemt daarmee 
+zowel de dienst als jezelf in bescherming. Dit vereist openheid en 
+wederzijds vertrouwen. Met alleen het naleven van de geheim-
+houdingsplicht ben je er vaak nog niet.
+Uitgangspunten voor een gevoelige overstap: 
+• wees transparant over je nieuwe werk en meld de  
+overstap tijdig;
+• bespreek de risico’s;
+• spreek een afkoelingsperiode af: dit is altijd maatwerk. 
+Afkoelingsperiode voorafgaand aan uitdiensttreding
+Om problemen voor te zijn, kan een afkoelingsperiode helpen. 
+Hiermee wordt bedoeld dat je voorafgaand aan de overstap al een 
+bepaalde afstand neemt van jouw ambtelijke functie. Door 
+afspraken te maken over bijvoorbeeld de toegang tot bepaalde 
+informatie, of de taken en verantwoordelijkheden die je hebt tot 
+het moment van overgang. 
+Wederzijds kunnen ook afspraken worden gemaakt om een 
+persoonlijke confrontatie vanuit jouw nieuwe werk gedurende een 
+bepaalde periode te vermijden. Wat het beste werkt zal per 
+situatie verschillen, maar jouw medewerking is noodzakelijk en 
+het heeft pas effect als je bereid bent een gevoelige overstap tijdig 
+te melden bij jouw leidinggevende. Met jouw belangen moet wel 
+voldoende rekening gehouden worden. 
+4.7 Omgang met lobbyisten
+Artikel 5.3 WHO Framework Convention on Tobacco Control 
+(verbod tabakslobby in WHO-Kaderverdrag inzake 
+tabaksontmoediging)
+Circulaire lobbyverbod bewindspersonen van 1 oktober 2017 
+(lobbyverbod gewezen bewindspersonen)
+Je kunt in je werk te maken krijgen met lobbyisten. Dat zijn 
+belangenbehartigers die besluitvorming proberen in hun voordeel 
+te beïnvloeden. Dat mag. Maar ben je je daarvan wel altijd 
+bewust? En hoe ga je er vervolgens mee om? 
+Zorg dat je jouw werk transparant én onafhankelijk kunt doen. 
+Wees je bewust van de belangen van lobbyisten en van de 
+verschillende mogelijkheden van beïnvloeding. Dat kan heel direct 
+gebeuren (door bijvoorbeeld een bezoek of uitnodiging), maar 
+ook meer indirect (bijvoorbeeld door medefinanciering van 
+onderzoek dat invloed heeft op beleid). 
+Overleg met je collega’s of leidinggevende waar die situaties in 
+jouw werk aanwezig kunnen zijn.
+Soms is het algemeen belang er mee gediend om contacten met 
+lobbyisten te vermijden. 
+In specifieke gevallen is dat ook vastgelegd, bijvoorbeeld ten aanzien 
+van contacten met de tabaksindustrie. Op grond van internationale 
+afspraken mag je de vaststelling en uitvoering van overheidsbeleid 
+niet laten beïnvloeden door de commerciële en andere gevestigde 
+belangen van de tabaksindustrie. Als er toch contacten plaatsvinden, 
+staat transparantie voorop. Dit betekent onder andere dat verslagen 
+van toegestaan overleg met de tabaksindustrie openbaar worden 
+20
+gemaakt op de website van de betrokken overheidsorganisatie.
+ Een ander verbod dat is vastgelegd is het lobbyverbod voor 
+bewindspersonen gedurende twee jaar na hun aftreden, om (de 
+schijn van) belangverstrengeling tegen te gaan. Voor jou betekent 
+dit dat je gedurende die periode vanuit jouw ambtelijk functione-
+ren geen zakelijke contacten mag onderhouden met de gewezen 
+bewindspersoon op diens voormalig beleidsterrein. Als je op enige 
+manier met zo’n situatie te maken krijgt, dan verwijs je door naar 
+jouw Secretaris Generaal.
+4.8 Inkoop, inhuur en 
+aanbesteding 
+Artikel 8, eerste lid, aanhef en onderdeel b Ambtenarenwet 
+2017 (verbod deelneming aan aannemingen en leveringen voor 
+openbare diensten) 
+Aanbestedingswet 2012 en Aanbestedingsbesluit van 11 februari 
+2013. 
+Wet normering topinkomens van 15 november 2012;
+Brief minister BZK aan TK van 11 mei 2001, kst-32501-15 (norm 
+voor totale uitgaven externe inhuur en maximumuurtarief buiten 
+mantelcontracten); 
+Besluit vaststelling Algemene Rijksvoorwaarden voor inkoop 
+(ARBIT-2018, ARIV-2018, ARVODI-2018);
+Circulaire afbouw van de inhuurvorm payrolling bij de sector 
+Rijk van 1 april 2014;
+Circulaire Grensbedragen voor procedures Aanbestedingswet 
+2012 onder de Europese drempelwaarde van 3 augustus 2015;
+Aanbevelingen ADR-rapport van 7 januari 2015;
+Wat zijn de regels?
+Inkoop, inhuur en aanbesteding is een specialistisch vakgebied. Je 
+kunt algemene informatie vinden op het rijksweb, maar het is 
+verstandig om in voorkomend geval een inkoopspecialist te 
+raadplegen. Daarnaast kunnen de kaders snel verouderen en de 
+uitvoeringsregels en procedures bovendien per organisatie 
+verschillen, bijvoorbeeld over het uitbrengen van offertes of over 
+verplichte inschakeling van een Inkoop uitvoeringscentrum (IUC). 
+De medezeggenschap heeft een eigen positie en valt voor hun 
+inkoopbehoefte (bijvoorbeeld voor externe advisering) niet onder 
+de standaardregels en -procedures. Zij bepaalt zelf wie zij inhuurt 
+of inkoopt en meldt dit bij de bestuurder.
+Als je ermee te maken hebt, stel jezelf dan goed op de hoogte van 
+de regels en procedures die op dat moment voor jouw organisatie 
+gelden en leeft deze na. Zowel voor ambtenaren die een bepaalde 
+inkoopbehoefte hebben als voor hun adviseurs, waar onder de 
+inkoopspecialisten, geldt dat waakzaamheid ten aanzien van 
+integriteitsrisico’s is geboden. Het inkoopproces hoort zorgvuldig 
+en onpartijdig te gebeuren. Iedere schijn van ongeoorloofde 
+beïnvloeding moet worden voorkomen. Het gaat immers om de 
+besteding van overheidsmiddelen.
+ 
+Het is belangrijk dat de juiste inkoopprocedure wordt gevolgd, 
+ook als sprake is van vervolgopdrachten. Slechts tot een bepaald 
+grensbedrag is één-op-één opdrachtverlening mogelijk. 
+Daarboven vindt concurrentiestelling plaats. Vanaf een bepaald 
+drempelbedrag is een aanbesteding volgens Europese richtlijnen 
+verplicht. Bij aanbestedingen die openbaar toegankelijk zijn kan 
+iedere geïnteresseerde onderneming zich aanmelden of een 
+offerte indienen. Bij overige aanbestedingen bepaalt de aanbeste-
+dende dienst aan wie er een offerte wordt gevraagd. Belangrijk bij 
+één op één opdrachtverlening is dat je zakelijk kan motiveren aan 
+wie je de opdracht gunt of, als sprake is van één of meerdere 
+offertes, aan wie je een offerte vraagt. Daarmee verantwoord je 
+de beslissing en maak je de overwegingen transparant.
+ 
+Houd je verre van belangenverstrengeling en vriendjespolitiek. 
+Meerdere aanbieders kunnen met elkaar concurreren op prijs en 
+kwaliteit. Doel hiervan is gelijke kansen, keuzes op basis van 
+zakelijke argumenten en geen verspilling van overheidsgeld. 
+Uitgangspunten voor inkoop, inhuur en aanbesteding:
+• eerlijke concurrentie staat voorop;
+• houd je aan de geldende regels en procedures;
+• waak voor verleidingen en voorkom (de schijn van)  
+bevoordeling, beïnvloeding of belangenverstrengeling;
+• ga zorgvuldig om met beschikbare informatie;
+• voorkom dat je onterecht toezeggingen doet of  
+verwachtingen wekt; 
+• waarborg onafhankelijke besluitvorming.
+De regels en procedures voor inkoop en aanbesteding bevatten 
+integriteitswaarborgen voor eerlijke concurrentie en het tegen-
+gaan van (schijnbare) belangenverstrengeling en vriendjespolitiek. 
+Het is bijvoorbeeld niet de bedoeling dat je invloed kunt uitoefe-
+nen op het proces als je bij de andere partij privécontacten hebt. 
+Mocht je hier tegenaan lopen, dan meld je dit vooraf, zodat 
+geregeld kan worden dat niet jij, maar een ander de kwestie 
+behandelt. Ook zakelijke contacten kunnen je op een onwenselijke 
+manier beïnvloeden en je met allerlei lokkertjes (bijvoorbeeld 
+geschenken, voordelen, uitnodigingen) verleiden. Vooral bij 
+langdurige contacten is het van belang om alert te blijven. 
+21
+Blijf ook scherp in 
+vertrouwde relaties
+Ter voorkoming van problemen behoren er meerdere personen 
+betrokken te zijn bij de besluitvorming over inkoop, inhuur en 
+aanbesteding en doe je gesprekken met leveranciers bij voorkeur 
+met zijn tweeën. Dit neemt jouw eigen verantwoordelijkheid 
+echter niet weg.
+Externe arbeid, ook door voormalige ambtenaren
+Het door externen laten verrichten van arbeid valt onder de inkoop- 
+en aanbestedingsregels en hiervoor gelden aanvullende kaders, zoals 
+een maximering van tarieven. Deze kaders gelden onverminderd als 
+voormalige ambtenaren, als zelfstandig ondernemer of in dienst van 
+een werkgever, opnieuw voor de rijksoverheid gaan werken. 
+Aanvullende uitgangspunten voor externe arbeid:
+• gebruik van externe arbeid moet altijd goed uit te leggen zijn; 
+• weersta verleiding of druk om af te wijken van de  
+geldende kaders;
+• behandel kandidaten voor externe arbeid neutraal en op  
+gelijke wijze;
+• beslis op basis van zakelijke argumenten en verantwoord  
+die beslissing;
+• wees ten aanzien van voormalige ambtenaren extra alert.
+De rijksoverheid heeft als beleid dat structurele arbeid op basis 
+van een arbeidsovereenkomst wordt verricht. Met externe arbeid 
+moet daarom zeer zorgvuldig worden omgegaan: je moet het 
+goed kunnen verantwoorden. 
+Is de organisatie aangewezen op externe arbeid, dan staat eerlijke 
+concurrentie voorop en moet (de schijn van) belangenverstrenge-
+ling en vriendjespolitiek worden voorkomen. Dit speelt vooral een 
+rol als je zelf invloed hebt op het verlenen van een opdracht. Sta 
+hier bij stil voordat je een offerte aanvraagt.
+Als opdrachtverlener zal je kritisch moeten zijn naar jezelf en de 
+verleiding moeten weerstaan om een kandidaat die je al kent te 
+bevoordelen boven andere kandidaten. Je kunt dan bijvoorbeeld 
+iemand bij de selectieprocedure betrekken die geen persoonlijke 
+banden heeft met de kandidaat. 
+Wees je ervan bewust dat de schijn van belangenverstrengeling, van 
+vriendjespolitiek of van een andere vorm van niet integer handelen 
+snel is gewekt als je overweegt om een voormalige ambtenaar als 
+externe te laten werken. In dat geval is het nog belangrijker dat je 
+het goed kunt uitleggen en verantwoorden. Kun je dit niet, vraag 
+dan geen offerte aan. Zo is het bijvoorbeeld ongewenst als een 
+voormalige ambtenaar die met een vertrekpremie de rijksoverheid 
+heeft verlaten, via de achterdeur weer als externe wordt binnenge-
+haald om hetzelfde werk te doen. Ook ligt het opnieuw binnenhalen 
+van voormalige ambtenaren voor hetzelfde werk tegen flink hogere 
+kosten gevoelig. Beide voorbeelden roepen, al dan niet terecht het 
+beeld op van een geldverspillende overheid. 
+Een ander aandachtspunt is dat je als manager een opdracht soms 
+al op voorhand wil toebedelen aan iemand, bijvoorbeeld omdat je 
+diegene daar bijzonder geschikt voor vindt of omdat in het kader 
+van een vertrekregeling met een medewerker daar afspraken over 
+wilt maken. Ook in zo’n geval mogen geen uitzonderingen worden 
+gemaakt op de regels. Je kunt niet zomaar werk toebedelen aan 
+iemand die je kent. De keuze moet altijd op objectieve gronden 
+worden gemaakt en onderbouwd en het grensbedrag voor 
+één-op-één gunning mag niet worden overschreden. 
+Als je meerdere offertes moet aanvragen, dan moet er ook sprake 
+zijn van echte, onpartijdige concurrentie. Zeker als (top)manager is 
+het belangrijk om hier het goede voorbeeld te geven. 
+(Gewezen) ambtenaren als aanbieders  
+van producten of diensten
+Zowel intern als extern moet elke schijn van belangenver- 
+strengeling worden vermeden. Als ambtenaar in dienst van de 
+rijksoverheid mag je daarom geen producten of diensten aan de 
+rijksoverheid verkopen, tenzij je daarvoor toestemming krijgt.  
+Die toestemming wordt zelden verleend. 
+Ook is het in het kader van het scheiden van belangen niet 
+wenselijk om als ambtenaar commerciële reclame te maken voor 
+jezelf bij jouw werkgever of collega’s. 
+Ben je eenmaal uit dienst, dan geldt er geen algemeen verbod 
+meer voor het verkopen van producten of diensten en kun je 
+volgens de daarvoor geldende regels deelnemen aan de inkoop- 
+en aanbestedingsprocedures van de rijksoverheid. Als voormalig 
+ambtenaar blijft de geheimhoudingsplicht voor jou van kracht. 
+4.9 Betrokkenheid bij 
+onafhankelijk onderzoek en 
+(wetenschappelijke) integriteit
+Nederlandse gedragscode wetenschappelijke integriteit, 
+vernieuwd met ingang van 1 oktober 2018. Deze is overgenomen door 
+diverse Rijkskennisinstellingen, zoals het KNMI, RIVM, etc. 
+Binnen de rijksoverheid wordt bij beleidsvoorbereiding, evaluatie 
+en anderszins vaak gebruik gemaakt van onafhankelijke onderzoe-
+ken. Het kunnen onderzoeken zijn die in eigen opdracht of in 
+opdracht van anderen worden uitgevoerd. Sommige onderzoeks-
+instanties maken zelf deel uit van de rijksoverheid, zoals de 
+planbureaus en de Auditdienst Rijk (ADR). 
+Als ambtenaar kun je in verschillende rollen actief of meer passief 
+betrokken zijn bij zo’n onderzoek: als onderzoeker, als opdrachtge-
+ver, als expert die kennis of informatie deelt met de onderzoekers, 
+als lid van een begeleidingscommissie of als lid van een doelgroep 
+waarop het onderzoek betrekking heeft. In alle gevallen dient de 
+onafhankelijkheid van het onderzoek onomstreden te zijn.
+22
+Uitgangspunten voor ambtelijke bijdrage aan  
+onafhankelijke onderzoeken:
+• wees rolvast en transparant over jouw inbreng;
+• stem jouw rol en inbreng af met je leidinggevende;
+• stuur in geen geval op de uitkomst van het onderzoek.
+Om (de schijn van) ongeoorloofde beïnvloeding te voorkomen, is 
+het belangrijk dat je als betrokkene vanuit een strikte rol en 
+heldere rolopvatting handelt, open bent over jouw bijdrage en dit 
+in alle gevallen vooraf met jouw leidinggevende bespreekt. 
+Sta voor kwaliteit en 
+onafhankelijkheid van 
+onderzoek
+Betrokkenheid als expert
+Wanneer je als buitenstaander en vanuit een functioneel belang 
+inbreng levert aan een onafhankelijk onderzoek, past een 
+terughoudende rol waarbij je wegblijft van elke schijn van 
+beïnvloeding die de onafhankelijkheid van het onderzoek aantast. 
+Wees open over jouw inbreng en stem jouw bijdrage intern goed 
+af. Zorg dat je jouw inhoudelijke bijdrage bij de publicatie van het 
+onderzoek, in het onderzoeksverslag of in de onderzoeksverant-
+woording vermeldt of laat vermelden. 
+Betrokkenheid als opdrachtgever
+Handel je vanuit de opdrachtgeversrol, dan zal er altijd een mate 
+van beïnvloeding zijn op aspecten van het onderzoek. Van jou 
+wordt verwacht dat je alle benodigde informatie, dilemma’s en 
+data meegeeft aan de onderzoeker. Daar moet je niet terughou-
+dend in zijn, omdat dat wezenlijk van invloed kan zijn op de 
+kwaliteit van het onderzoek. 
+Er is ruimte voor dialoog over de onderzoeksvraag, de onder-
+zoeksopzet of de validiteit van het onderzoek. Maar je laat de 
+onderzoeker altijd in alle veiligheid en onafhankelijkheid zijn werk 
+doen en stuurt niet op de uitkomst van het onderzoek, ook als het 
+onderzoek tot een politiek-maatschappelijk minder gewenste 
+uitkomst leidt.
+Betrokkenheid als onderzoeker
+Ben je zelf onderzoeker, dan heb je vaak te maken met specifieke 
+integriteitswaarborgen en controlerende instanties, opgelegd 
+vanuit internationale en nationale wet- en regelgeving en 
+vakgerichte (beroeps)codes en richtlijnen. Voor wetenschapsbe-
+oefenaars bestaat er een specifieke gedragscode ter waarborging 
+van de wetenschappelijke integriteit (zie kader) en een controle-
+rend adviesorgaan: het LOWI (Landelijk Orgaan Wetenschappelijke 
+Integriteit). In de gedragscode voor wetenschapsbeoefenaars 
+staan veel algemene geldende uitgangspunten voor kwaliteit en 
+onafhankelijkheid van onderzoek: het onderzoek moet nauwge-
+zet, volledig en objectief zijn, controleerbaar en toetsbaar en je 
+moet er als onderzoeker open en realistisch over communiceren. 
+Prestatiedruk mag geen afbreuk doen aan de kwaliteit van het 
+onderzoek.
+Sommige organisaties hebben een Chief Science Officer en/of een 
+Vertrouwenspersoon Wetenschappelijke Integriteit aangesteld. 
+Hier kunnen medewerkers terecht die vragen hebben over 
+wetenschappelijke integriteit.
+
+23
+5 Informatie en communicatie
+5.1 Zorgvuldig omgaan met 
+informatie
+Algemene verordening gegevensbescherming van 27 april 2016 
+Artikel 110 Grondwet (uitgangspunt van openbaarheid)
+Artikel 68 Grondwet (inlichtingenplicht bewindspersonen)
+Wet openbaarheid van bestuur (wordt vervangen door de Wet open 
+overheid) (informatieplicht bestuursorgaan)
+artikel 2:5 Algemene wet bestuursrecht (geheimhouding)
+artikel 20 Wet op de ondernemingsraden (geheimhouding)
+Artikel 9 Ambtenarenwet 2017 (geheimhoudingsplicht ambtenaar en 
+gewezen ambtenaar) 
+Besluit voorschrift informatiebeveiliging rijksdienst 2007 – VIR 
+2007; Baseline Informatiebeveiliging Rijksdienst (BIR 2012) (BIR 
+2017); Beveiligingsvoorschrift Rijk 2013 – BVR 2013; 
+Besluit voorschrift informatiebeveiliging Rijksdienst Bijzondere 
+Informatie 2013 – VIR BI 2013; 
+Gedragsregeling voor de digitale werkomgeving van 23 juni 
+2016
+In- en extern delen van informatie
+De overheid neemt openbaarmaking in acht bij de uitoefening van 
+haar taken. Dit is grondwettelijk vastgelegd. Het uitgangspunt van 
+openbaarheid geldt voor alle informatie die betrekking heeft op 
+het gevoerde beleid, inclusief de voorbereiding en de uitvoering 
+daarvan. 
+Er zijn wel uitzonderingen, namelijk als het openbaren van 
+gegevens in strijd is met het belang van de staat. Dan worden 
+gegevens niet openbaar gemaakt. Dit is bijvoorbeeld het geval als 
+de staatsveiligheid in gevaar komt, of als het gaat om bescher-
+ming van vertrouwelijk gedeelde bedrijfs- of fabricagegegevens, 
+of van de persoonlijke levenssfeer (privacy). Een uitzondering 
+geldt ook voor persoonlijke beleidsopvattingen van bewindsper-
+sonen, bestuurders en ambtenaren wanneer de informatie 
+onderwerp is van intern beraad. Zo kunnen zij zich intern vrij 
+blijven uiten.
+Bij de Rijksoverheid willen we zo open mogelijk informatie extern 
+delen. Op eigen initiatief, of omdat erom wordt gevraagd. Het is 
+goed om je dat te realiseren, omdat je als ambtenaar voortdurend 
+omgaat met informatie: deze bij anderen ophaalt, met anderen 
+deelt of zelf produceert. 
+Wees open en  
+bewaak vertrouwelijkheid  
+waar nodig
+Het extern delen van informatie is onmisbaar om je werk goed te 
+kunnen doen. Je stelt anderen daardoor in staat om met jou 
+samen te werken. En door het extern delen van informatie stel je 
+burgers en media in staat om de totstandkoming en uitvoering 
+van beleid te volgen. 
+Ook het intern delen van informatie is van groot belang. Realiseer 
+je daarbij dat je in een politieke context werkt, waarbij de minister 
+richting het parlement verantwoordelijk is voor het beleid én de 
+ambtenaren die werkzaam zijn op het departement. Als informa-
+tie politiek van belang is, moet de bewindspersoon het parlement 
+hierover tijdig op de hoogte stellen. Als de informatie die je onder 
+je hebt van belang is voor de minister en/of de Kamer, is het dus 
+zaak de minister hierover zo snel mogelijk via de lijn te 
+informeren. 
+Uitgangspunten voor het omgaan met informatie (zie 
+ook de paragraaf hierna over ‘externe contacten’):
+• deel informatie voor zover je die hoort te delen;
+• bewaak de vertrouwelijkheid van informatie;
+• gebruik doelgebonden informatie alleen voor het doel waar-
+voor die is verstrekt;
+• presenteer (onderzoeks)informatie objectief en transparant. 
+Vertrouwelijke informatie (geheimhoudingsplicht)
+Informatie die al openbaar is kun je altijd zowel in- als extern 
+delen. Op het delen van informatie die nog niet openbaar is,  
+kan echter spanning staan met de geheimhoudingsplicht: de plicht 
+om vertrouwelijke informatie vertrouwelijk te behandelen. De 
+geheimhoudingsplicht blijft ook na uitdiensttreding gelden. De 
+vertrouwelijkheid van informatie moet je blijven bewaken. 
+Of en in welke mate informatie vertrouwelijk is, is niet altijd 
+duidelijk. Je moet dan voor jezelf goed nagaan in hoeverre je 
+informatie vertrouwelijk moet houden. Dit geldt zowel voor  
+het in- als extern delen van informatie. Is de informatie als 
+vertrouwelijk bestempeld? Gelden er uitzonderingsgronden 
+24
+voor openbaarmaking? Moet je de informatie bijvoorbeeld eerst 
+anonimiseren? Ben je bevoegd om de informatie te delen? Met 
+wie mag je de informatie delen? Vanaf welk moment mag je de 
+informatie delen? Twijfel je eraan of informatie vertrouwelijk is, 
+bespreek dat dan met jouw leidinggevende of met een deskundi-
+ge binnen jouw organisatie (bijvoorbeeld een WOB-coördinator).
+ 
+Bij het functioneel uitwisselen van vertrouwelijke informatie, is 
+van belang dat je de informatie alleen gebruikt voor het doel 
+waarvoor die is verstrekt en dat je niet meer en ook niet minder 
+informatie opvraagt en uitwisselt dan nodig is. Kun je gevraagde 
+informatie vanwege vertrouwelijkheid niet delen, leg dan uit 
+waarom dat niet kan.
+Het tegengaan van informatielekken
+Vertrouwelijke informatie dient bij jou veilig te zijn. Dit betekent 
+niet alleen dat je geen vertrouwelijke informatie ‘lekt’, maar ook 
+dat je die niet laat rondslingeren of anderen daartoe toegang 
+verschaft. Dit vereist dat je zorgvuldig omgaat met informatie en 
+informatiedragers (zoals tablet, smartphone, usb-stick) en 
+rekening houdt met specifieke (informatie)beveiligingsregels. 
+Informeer bij jouw werkgever naar beschikbare middelen en 
+voorzieningen voor als je bijvoorbeeld met toestemming in de 
+trein werkt.
+Blijf alert. Wat vertel je thuis over het werk? Wie luistert mee als je 
+over het werk praat? Wie heeft er toegang tot je computer, je tablet 
+of je smartphone van het werk? Liggen er vertrouwelijke stukken 
+op je bureau? Heb je vertrouwelijke dossiers bij je? Wees je bewust 
+van de risico’s, let op je spullen en let op je woorden. Gaat er toch 
+iets mis, meld dit dan direct (zie hiervoor de tekst onder 8.6).
+Het presenteren van (onderzoeks)informatie
+Zorgvuldig omgaan met informatie betekent ook dat je geen 
+relevante informatie (bewust) achterhoudt of manipuleert als dat 
+jou of de organisatie beter uitkomt. Als in de besluitvorming van 
+de overheid bijvoorbeeld bepaalde gevoelige (onderzoeks)
+informatie wordt betrokken, wordt het algemeen belang alleen 
+gediend als alle beschikbare informatie objectief in beeld komt en 
+mee kan worden gewogen. 
+Als er gegronde redenen zijn om bepaalde informatie toch buiten 
+beschouwing te laten, gebeurt dit in overleg, openlijk en beargu-
+menteerd en leg je dit vast. Achteraf kan dan altijd worden 
+nagegaan waarom dit is gebeurd. 
+
+25
+5.2 Externe contacten en 
+meningsuitingen
+ 
+Artikel 68 Grondwet (informatieplicht bewindspersonen)
+Artikel 9 Ambtenarenwet 2017 (geheimhoudingsplicht ambtenaar 
+en gewezen ambtenaar)  
+Artikel 10 Ambtenarenwet 2017 (inperking grondrechten vrijheid 
+van meningsuiting en recht op vereniging, vergadering en betoging)
+Aanwijzingen externe contacten rijksambtenaren van 19 mei 
+1998, m.n. Aanwijzingen 3, 4, 5, 7, 11 (contacten met Kamerleden) en 12 
+(contacten met journalisten)
+Leidraad voor de toepassing van deze aanwijzingen van 23 
+januari 2007 voor contacten met Kamerleden (geeft nadere uitleg voor 
+veel voorkomende soorten informatieverzoeken, zoals juridische en 
+wetstechnische bijstand, parlementair onderzoek, rondetafelgesprek, 
+werkbezoek);
+Handreiking online communicatie rijksambtenaren 6 maart 2019
+CAO Rijk 2020 Hoofdstuk 15 en Bijlage 1 (verplichte advisering 
+Adviescommissie grondrechten en functie-uitoefening ambtenaren bij 
+bestraffing)
+Externe contacten vanuit je functie
+In je functie heb je regelmatig contacten met anderen, ook buiten 
+de organisatie. De mate waarin dat zich voordoet, hangt af van de 
+functie die je vervult. Communicatie en wederzijdse uitwisseling 
+met de buitenwereld zijn een goede zaak en passen in deze tijd, 
+waarin we steeds meer samenwerken met burgers, bedrijven en 
+maatschappelijke organisaties. 
+Als ambtenaar in functie 
+spreek je niet voor jezelf 
+Het maakt verschil of je als privépersoon of als ambtenaar 
+communiceert. Als rijksambtenaar ben je (uiteindelijk) werkzaam 
+voor de minister en in de uitoefening van je ambtelijke functie 
+vertegenwoordig je (uiteindelijk) de minister in jouw externe 
+contacten. Realiseer je dus altijd dat je als ambtenaar in functie 
+spreekt namens de minister.
+Contacten met de media
+Wees je bij contacten met de media bewust van jouw positie als 
+ambtenaar. Functionele contacten met de media lopen via collega’s 
+van Voorlichting/Communicatie. Het is niet wenselijk dat je zelf 
+journalisten te woord staat. Word je rechtstreeks benaderd, verwijs 
+dan door of overleg met de collega’s van Voorlichting/Communicatie 
+over de wijze waarop de journalist het beste kan worden bediend.
+Contacten met Kamerleden
+In tegenstelling tot wat soms wordt gedacht, zijn functionele 
+contacten met Kamerleden voor ambtenaren niet verboden. Maar 
+als ambtenaar moet je in de contacten met Kamerleden, evenals in 
+contacten met andere externen, de ministeriële verantwoordelijk-
+heid respecteren. Het is immers de bewindspersoon (minister of 
+staatssecretaris) die verantwoording aflegt aan de Kamer over het 
+gevoerde beleid. 
+De Kamer heeft daarbij recht op inlichtingen. Dit betekent dat er 
+informatie kan worden uitgewisseld tussen ambtenaren en 
+Kamerleden. In alle gevallen beperk je je als ambtenaar tot het 
+verstrekken van feitelijke informatie. Beleidsopvattingen zijn 
+voorbehouden aan de bewindspersoon. 
+Om de ministeriële verantwoordelijkheid te waarborgen, verlopen 
+contacten tussen Kamerleden en ambtenaren zo veel mogelijk in 
+aanwezigheid van de bewindspersoon en beslist de minister bij 
+verzoeken om contacten met ambtenaren.
+ 
+Je kunt als ambtenaar gevraagd worden om achtergrondinformatie 
+geven in de vorm van vaktechnische briefings. Ook hiervoor geldt 
+dat je je beperkt tot het verstrekken van informatie van feitelijke 
+aard. Je legt geen verantwoording af over het gevoerde of te voeren 
+beleid; dit is aan de minister. Het geven van een briefing doe je 
+alleen na akkoord van de minister en in overleg met de collega’s van 
+Voorlichting/Communicatie en de parlementaire contactpersoon.
+Praktische werkwijze op de ministeries:
+Het is de bedoeling dat Tweede Kamerleden op verzoek, snel 
+en op een eenvoudige manier toegang kunnen krijgen tot 
+feitelijke informatie die op de ministeries aanwezig is. Hiervoor 
+bestaat bij de ministeries een procedure zodat Kamerleden 
+niet voor elke informatiebehoefte formele Kamervragen 
+hoeven te stellen. Bij elk ministerie is een parlementair 
+contactpersoon aangewezen waar Kamerleden telefonisch of 
+per e-mail terecht kunnen als zij feitelijke informatie willen 
+hebben die openbaar is. De parlementair contactpersoon 
+verstrekt de informatie zelf, of vraagt de ter zake deskundige 
+ambtenaar om de informatie te verstrekken of toelichting te 
+geven. Als het gaat om niet-openbare informatie, wordt het 
+verzoek voorgelegd aan de verantwoordelijke 
+bewindspersoon. 
+Uitgangspunten voor contacten met Kamerleden:
+• vraag vooraf toestemming, dit geldt ook voor vaktechnische 
+briefings;
+• verstrek alleen feitelijke informatie: uit geen persoonlijke 
+meningen of beleidsopvattingen en leg geen verantwoording af 
+over gevoerd beleid; 
+• neem de geheimhoudingsplicht in acht;
+• openbare informatie kun je rechtstreeks verstrekken, geadvi-
+26
+seerd wordt om de bewindspersoon hier via de lijn en de 
+parlementair contactpersoon over in te lichten;
+• niet-openbare informatieverstrekking loopt via de lijn en de 
+parlementair contactpersoon. 
+Persoonlijke meningsuitingen
+Voor elke burger geldt het grondrecht van vrije meningsuiting. Dus 
+ook voor ambtenaren. Maar voor jou als ambtenaar is dit recht in 
+relatie tot jouw ambtelijk functioneren wel begrensd. Dit betekent 
+dat je voorzichtig moet zijn met het openlijk ventileren van jouw 
+persoonlijke opvattingen en dus niet zomaar alles kunt zeggen, 
+schrijven, liken/delen of twitteren. Dit geldt ook voor het plaatsen 
+van foto’s en afbeeldingen. 
+Daarbij maakt het verschil wat je positie is binnen de organisatie 
+en welke afstand je hebt tot het onderwerp waar het over gaat. 
+Hoe dichter je bij het betreffende inhoudelijke beleidsterrein  
+staat, hoe meer behoedzaamheid geboden is. Bijvoorbeeld,  
+als je werkt voor de onderwijsinspectie moet je voorzichtiger zijn 
+in het uiten van een persoonlijke mening over de kwaliteit van  
+het onderwijs dan wanneer je werkt voor de belastingdienst. 
+Andersom moet je als je voor de belastingdienst werkt  
+voorzichtiger zijn in het uiten van een persoonlijke mening over 
+belastingheffing. Ook zijn de maatschappelijke en politieke 
+gevoeligheid van het onderwerp van belang. Dit geldt vooral bij 
+onderwerpen die in het nieuws zijn, of waarvoor bij belangen-
+groepen (lobbyisten) bijzondere belangstelling bestaat. Het 
+moment en de manier waarop je opvattingen kenbaar maakt zijn 
+namelijk van betekenis. 
+Het is raadzaam om in dit soort situaties eerst te spreken met je 
+collega’s en/of leidinggevende. In alle gevallen geldt ook: let op je 
+bewoordingen en de gebruikte middelen. Realiseer je dat anderen 
+vaak makkelijk jouw ambtelijke functie kunnen achterhalen en 
+jouw opvattingen dan kunnen beschouwen als opvattingen van 
+het ministerie. 
+Als het gaat om publicatie van eigen teksten: vermeld dat het op 
+persoonlijke titel is en zorg ervoor dat er geen misverstand kan 
+ontstaan over het feit dat het om een persoonlijke opvatting gaat 
+en niet om een opvatting die je vanuit je functie als ambtenaar 
+ventileert. Raadpleeg collega’s bij twijfel. 
+Uitgangspunten voor communicatie en persoonlijke 
+meningsuitingen:
+• realiseer je voor alles dat je ambtenaar bent;
+• communiceer op fatsoenlijke en respectvolle wijze;
+• houd je aan de geheimhoudingsplicht;
+• doe geen uitlatingen die schadelijk zijn voor jouw functioneren, 
+of voor het functioneren van de dienst.
+Eerst denken, dan doen!
+Als door jouw uitlatingen problemen zijn ontstaan voor de dienst, 
+kun je achteraf ter verantwoording worden geroepen en eventueel 
+worden bestraft (zie hierover verder onder 8.5 
+Integriteitsschendingen). Zeker als die problemen ernstig zijn en je 
+dit had kunnen voorzien. Gebruik daarom altijd je gezonde 
+verstand en sta, voordat je een bepaalde uitlating doet, stil bij de 
+mogelijke gevolgen daarvan. Realiseer je dat het gevaar ook kan 
+zitten in kleine dingen, zoals het privé plaatsen van een grappig 
+bedoelde opmerking of afbeelding op Twitter of Facebook, die 
+vervolgens een eigen leven gaat leiden en jouw werk ineens in een 
+verkeerd daglicht kan stellen.
+ 
+5.3 Onlinecommunicatie en sociale 
+media 
+Onlinecommunicatie biedt veel voordelen. Dankzij internet en 
+sociale media is het veel makkelijker geworden om te werken 
+wanneer en waar je maar wilt, informatie is snel te vinden en 
+makkelijk te delen, je kunt direct contact hebben met anderen en 
+je kunt veel mensen tegelijk bereiken. Het internet biedt een schat 
+aan informatie, een welkom platform om standpunten te delen en 
+is tegenwoordig onmisbaar voor de verbinding tussen ‘binnen’ en 
+‘buiten’. Het is goed dat steeds meer ambtenaren het internet 
+voor hun werk als platform gebruiken en zich als goed vertegen-
+woordiger van het Rijk presenteren. Dit kan prima en wordt vanuit 
+het Rijk aangemoedigd. Maar ook privé worden internet en sociale 
+media veel gebruikt. 
+27
+Iedereen kijkt mee
+Integriteit is wel essentieel zodra je naar buiten treedt. Juist 
+vanwege de snelheid en directheid van onlinecommunicatie en 
+het grote bereik ervan, loop je extra risico. Een gevaar daarbij is 
+dat je als gebruiker lang niet altijd de risico’s goed kunt overzien. 
+Uitgangspunten voor online communicatie: 
+• als ambtenaar ben je een ambassadeur van je organisatie;
+• de bestaande regels gelden ook online;
+• bewaak het onderscheid tussen privépersoon en ambtenaar in 
+functie;
+• houd je deelname zorgvuldig, gericht en gedoseerd. 
+Denk hierover na:
+• je identiteit is makkelijk te achterhalen door profielen en 
+informatiesporen te linken;
+• berichten kunnen zich – ook onbedoeld - snel en uitvoerig 
+verspreiden;
+• berichten blijven beschikbaar, kunnen steeds opnieuw opduiken 
+en je achtervolgen;
+• wat voor foto’s zet je op internet? Vinden jouw collega’s het 
+goed als zij herkenbaar op foto’s staan die jij op het internet 
+plaatst? 
+
+28
+6 Werk- en privérelaties
+6.1 Omgangsvormen
+Artikel 1 Grondwet (discriminatieverbod)
+Artikel 90 quater van het Wetboek van Strafrecht (juridische 
+definitie van discriminatie) 
+Artikelen 137 c t/m g en 429quater van het Wetboek van 
+Strafrecht (strafbaarstelling uitingen van discriminatie, nl. discrimine-
+rende belediging, aanzetten tot discriminatie van óf haat tegen groepen 
+mensen, verspreiden van materiaal met discriminerende inhoud, 
+deelnemen aan een organisatie met een discriminerend karakter, 
+opzettelijk discrimineren op basis van ras in uitoefening van ambt, 
+beroep of bedrijf (=misdrijf), niet opzettelijk discrimineren in uitoefening 
+van ambt, beroep of bedrijf (=overtreding))
+Wetgeving op het gebied van gelijke behandeling: 
+Wet gelijke behandeling mannen en vrouwen (1980)
+Algemene Wet Gelijke Behandeling of AWGB (1994
+verbod tot maken van onderscheid tussen werknemers naar 
+arbeidsduur (1996)
+Wet gelijke behandeling op grond van handicap of chronische 
+ziekte (2003)
+Wet gelijke behandeling op grond van leeftijd bij de arbeid 
+(2003)
+Artikel 4, eerste lid Ambtenarenwet (2017) (voorkomen discrimi-
+natie door overheidswerkgever) 
+Artikel 3, tweede lid van de Arbeidsomstandighedenwet 
+(zorgplicht werkgever preventie psychosociale arbeidsbelasting, w.o. 
+seksuele intimidatie, agressie en geweld, pesten en werkdruk.  
+Arbocatalogus Rijk (per ministerie in beleid uitgewerkt)
+Gewenst gedrag: respectvol, fatsoenlijk en collegiaal
+Als ambtenaar wordt van je verwacht dat je op een respectvolle 
+manier omgaat met anderen, zowel in je contacten binnen als 
+buiten de organisatie. Dat betekent dat je de ander serieus neemt, 
+naar elkaar luistert en fatsoenlijk met elkaar omgaat. Verwacht 
+wordt dat je elkaar hierin steunt en zo nodig corrigeert. Wij 
+streven binnen de rijksoverheid collegialiteit na, samenwerking, 
+teamgeest, openheid en een dienstverlenende instelling. Daarbij 
+respecteer je elkaars privacy en houd je rekening met elkaar. Je 
+helpt elkaar waar nodig en houdt je bijvoorbeeld aan de huisregels 
+van de organisatie.
+Ongewenst gedrag
+Pesten, (seksuele) intimidatie, discriminatie, agressie en geweld 
+zijn uitingen van ongewenste omgangsvormen en worden niet 
+getolereerd binnen de Rijksoverheid. De uitingen kunnen zowel 
+verbaal als non-verbaal zijn, mondeling of schriftelijk, of digitaal. 
+Soms gebeurt het bewust, maar soms ook minder bewust.
+ 
+Welk ongewenst gedrag bedoelen we met deze woorden?
+• Pesten: herhaald ongewenst negatief gedrag, waartegen 
+iemand zich niet (goed) kan verdedigen. Bijvoorbeeld: 
+kleinerende/vernederende opmerkingen, voortdurende 
+kritiek, fysiek aanvallen of bedreigen, iemand isoleren/
+buitensluiten/negeren, over iemand roddelen/kwaadaardige 
+geruchten, leugens of valse beschuldigingen verspreiden.
+Seksuele intimidatie: elke vorm van seksuele toenadering, 
+verzoeken om seksuele gunsten of ander seksueel getint 
+gedrag dat degene tegen wie het is gericht als ongewenst 
+ervaart. Bijvoorbeeld: seksueel getinte opmerkingen/grappen, 
+het laten zien van seksueel getinte afbeeldingen, seksueel 
+getinte blikken of gebaren, ongewenste aanrakingen.
+Intimidatie: gehoorzaamheid afdwingen door iemand bang te 
+maken of onder druk te zetten door psychisch of fysiek geweld 
+of door te dreigen met negatieve gevolgen (bijvoorbeeld een 
+slechte beoordeling of ontslag).
+ 
+Agressie: gedrag wat iemand inzet om iets kapot te maken, 
+een ander schade te berokkenen, of duidelijk te maken wat hij 
+wel of niet wil, waarbij bij de ander gevoelens van angst, pijn, 
+verdriet of boosheid worden opgeroepen. Hieronder vallen 
+naast geweld ook bijvoorbeeld bedreigen, schelden en 
+overheersen.
+Geweld: het toebrengen van lichamelijk letsel, het vernietigen 
+of kapotmaken van iets.
+Discriminatie: onterecht verschil maken in de behandeling van 
+mensen op grond van een bepaald kenmerk (discriminatie-
+grond). Discriminatie kan zich uiten in pestgedrag of (seksueel) 
+intimiderend gedrag.
+29
+Welke discriminatiegronden staan in de wet? 
+Dit zijn: leeftijd, seksuele gerichtheid, godsdienst, levens-
+overtuiging, ras (huidskleur, afkomst, nationale of etnische 
+achtergrond), geslacht, nationaliteit, handicap of chronische 
+ziekte, politieke overtuiging, burgerlijke staat, soort 
+arbeidscontract en arbeidsduur. 
+Wat kun je doen aan ongewenst gedrag?
+Zorg met elkaar voor het besef dat dit soort gedrag niet accepta-
+bel is door zelf het goede voorbeeld te geven, elkaar aan te 
+spreken op ongewenst gedrag en collega’s die slachtoffer zijn van 
+ongewenste omgangsvormen te steunen.
+ 
+Behandel de ander zoals je 
+zelf behandeld wilt worden
+Het management heeft een belangrijke voorbeeldfunctie en dient 
+ongewenst gedrag te corrigeren. Medewerkers spiegelen zich aan 
+het gedrag van hun leidinggevenden en accepteren correctie op hun 
+gedrag gemakkelijker als de leidinggevenden zelf het goede 
+voorbeeld geven.
+Als slachtoffer van ongewenste omgangsvormen kun je naar  
+een vertrouwenspersoon of je leidinggevende stappen en eventueel 
+gebruik maken van een klachtprocedure. Wanneer is vastgesteld  
+dat jij je tegenover anderen ongewenst hebt gedragen, kun je  
+worden bestraft. 
+Preventie ongewenst gedrag
+De Arbowet verplicht de werkgever om een arbobeleid te 
+voeren dat zo veel mogelijk gericht is op optimale arbeidsom-
+standigheden. Om een goed arbobeleid vorm te kunnen geven 
+moet de werkgever een overzicht opstellen van alle risico’s die 
+in het bedrijf kunnen voorkomen. Op basis van deze inventari-
+satie maakt de werkgever een plan van aanpak met maatrege-
+len die hij neemt om de risico’s aan te pakken. Hiervoor 
+gebruikt de werkgever de Arbocatalogus Rijk. 
+Pesten en ongewenst gedrag moet deel uit maken van deze 
+inventarisatie en het plan van aanpak. Vraag als medewerker 
+daarnaar om te weten welke maatregelen jouw organisatie 
+heeft genomen en gaat nemen. Je kunt deze vraag ook altijd 
+stellen aan de medezeggenschap aangezien zij dient in te 
+stemmen met het plan van aanpak. Ook kun je de preventie-
+medewerker benaderen.
+
+30
+6.2 Privérelaties
+Artikel 6, eerste lid Ambtenarenwet 2017 (goed 
+ambtenaarschap)
+Artikel 10 Ambtenarenwet 2017 (inperking grondrechten 
+vrijheid van meningsuiting en recht ton vereniging, vergade-
+ring en betoging)
+CAO Rijk 2020 Hoofdstuk 15 en Bijlage 1 (verplichte advisering 
+Adviescommissie grondrechten en functie-uitoefeni
