@@ -1,0 +1,1751 @@
+=== Document: bijlage 4 programma van eisen 20240927 ===
+Bijlage 2 Programma van eisen  
+Flora en Fauna Onderzoek t.b.v. het SMP 
+[INCS70132 - 1600295] 
+  
+2024 
+ 
+ 
+Pagina 2 van 9 
+ 
+Inhoud 
+Algemeen 3 
+Onderzoek 2025 – Gebouw bewonende soorten 4 
+Onderzoek 2027 – niet gebouw bewonende soorten 5 
+Informatiebeveiliging 5 
+Personeel 6 
+Communicatie en overleg 7 
+Overig 8 
+Facturatie 8 
+Prijs  9 
+ 
+ 
+  
+ 
+ 
+Pagina 3 van 9 
+ 
+Algemeen 
+ 
+Nr. 1 Omschrijving eis 
+1.1 De Opdrachtnemer voldoet te allen tijde aan de laatst geldende wet- en regelgeving 
+die betrekking heeft op deze opdracht. Ook in die gevallen indien deze niet met 
+naam en toenaam zijn opgenomen in dit Programma van Eisen (PVE) 
+1.2 Gemeente Purmerend is en blijft eigenaar van de vergaarde ecologische data. Het is 
+mogelijk alle data (de beschermde functies flora en fauna op datum, tijd en locatie)  
+te kunnen versturen en overzetten naar de gemeente Purmerend. (zoals bijvoorbeeld 
+aan het einde van de overeenkomst maar eventueel ook tussentijd) zodat er geen 
+data verloren gaat. (middels shape, api, Geopackage, csv of database dump) 
+1.3 Onderzoeks-data, moet beschikbaar worden gesteld aan de Opdrachtgever via een 
+data platform (zoals een website, applicatie, GIS-data WMS/WFS) zodat het voor de 
+opdrachtgever eenvoudig is om in te zien. Het moet duidelijk zijn middels een kaart 
+welke gebieden wel en niet zijn onderzocht. 
+ 
+Ter illustratie: opdrachtgever maakt momenteel gebruik van: 
+https://florafaunacheck.nl/purmerend  
+1.4 De data (waarnemingen) moeten ingevoerd worden in de NDFF Nationale databank 
+Flora en Fauna. 
+1.5 Na oplevering van de onderzoeksresultaten is het ecologisch adviesbureau 
+bereikbaar voor vragen over exacte locaties of interpretaties bij waarnemingen tot 
+2029. Gerelateerde vragen vanuit de gemeente zijn circa 2 tot 5 vragen per maand. 
+Dit is verwerkt in de uurtarieven van de desbetreffende opdracht. 
+1.6 Er is in ieder geval één contactpersoon die bereikbaar is voor deze vragen met 
+(opgedane) kennis over de data en het door de aannemer uitgevoerde onderzoek. 
+1.7 De gemeente kan ieder moment ruwe data opvragen afkomstig uit het uitgevoerde 
+onderzoek om deze naar andere ecologisch adviesbureaus te sturen. Dit kan vanuit 
+een platform inzichtelijk zijn of het moet opgestuurd kunnen worden door een 
+medewerker. Deze werkzaamheden zijn verwerkt in de uurtarieven van de 
+desbetreffende opdracht. 
+1.8 Opdrachtnemer is zelf verantwoordelijk voor het aanvragen van de benodigde 
+vergunningen en ontheffingen. De kosten hiervan zijn verdisconteerd in de prijs. 
+1.9 De gemeente regelt toegang tot bepaalde gebieden of partijen.  
+ 
+  
+ 
+ 
+Pagina 4 van 9 
+ 
+Onderzoek 2025 – Gebouw bewonende soorten 
+ 
+Nr. 2 Omschrijving eis 
+2.1 Het onderzoek: 
+Om de Staat van Instandhouding van vleermuizen, gierzwaluwen, huismussen en 
+kerkuilen in gemeente Purmerend te onderzoeken worden de volgende punten 
+gemonitord:  
+• effectiviteit toegepaste mitigatie,  
+• populatiegrootte en trends in de populatie,  
+• verspreiding van beschermde soorten en functies van deze soorten in de 
+gemeente,  
+• beschikbaarheid potentiële verblijfplaatsen en nestlocaties,  
+• connectiviteit tussen de leefgebieden, dus onder andere vliegroutes.  
+ 
+Door afzonderlijk naar deze punten te kijken kan er tijdig worden bijgestuurd – als 
+onverhoopt mitigatie niet effectief blijkt te zijn, een afname in populatie wordt 
+waargenomen, de beschikbaarheid in potentiële verblijven tekortschiet of de 
+connectiviteit in leefgebieden afneemt. Na een monitoringsronde worden de 
+bevindingen naar het bevoegd gezag gestuurd. Indien de resultaten niet voldoende 
+zijn kunnen aanpassingen door het bevoegd gezag opgelegd worden. 
+2.2 Onderzoek naar de SMP-soorten Huismus, Gierzwaluw, Spreeuw en vleermuizen 
+dient in 2025 uitgevoerd te worden en het resultaat dient in het eerste kwartaal van 
+2026 opgeleverd te worden.  
+ 
+De resultaten van het onderzoek bestaan uit: 
+• waarnemingen, (interactief) kaartmateriaal en een uitgebreide 
+beschrijving van de aangetroffen soorten, verspreiding en functies in 
+gebouwen (en voor vleermuizen tevens in bomen). Uit deze 
+beschrijvingen wordt duidelijk waar nest- en/of verblijfplaatsen, 
+functioneel leefgebied, foerageergebieden, vliegroutes, bijzondere 
+locaties waar meerdere belangrijke en/of kwetsbare functies samen 
+komen, evenals grote of geïsoleerde kolonies zich bevinden.  
+ 
+• Daarnaast is het ook noodzakelijk om een indicatie te krijgen van de 
+populatiegrootte van de soorten Laatvlieger, Gewone dwergvleermuis, 
+Ruige dwergvleermuis, Huismus, Spreeuw en Gierzwaluw. Ook dient er 
+per woning(blok) een indicatie gegeven te worden van een 
+geschiktheidspotentiaal van een woning in categorie van zeer geschikt 
+tot aan zeer ongeschikt (nader uitwerken). Deze data is nodig om 
+maatregelen die zijn opgenomen in het SMP goed uit te kunnen voeren. 
+ 
+• De populatiegrootte van de kraamverblijfplaatsen van de gewone 
+dwergvleermuis en laatvlieger moeten gekwantificeerd worden. 
+ 
+ 
+ 
+Pagina 5 van 9 
+ 
+• Tot slot willen we een indicatie van de bezetting van alle aanwezige 
+aangelegde verblijfplaatsen van de bovengenoemde soorten. Daaronder 
+te verstaan tijdelijke nestkasten en inbouwkasten. De locatie van deze 
+kasten is aan de stukken toegevoegd als bijlage: 13. 
+ 
+2.3 Er moet per woning(blok) geïnventariseerd worden in welke maten de woningen 
+geschikt zijn voor verblijfplaatsen. Deze potentie geschiktheidsanalyse is 
+noodzakelijk om te kunnen werken met het SMP van gemeente Purmerend. Zie 
+bijlage 12 RA SMP Purmerend. 
+2.4 Op basis van het veldonderzoek moet een inschatting van de populatiegrootte 
+gedaan kunnen worden van de soorten Laatvlieger, Gewone dwergvleermuis, Ruige 
+dwergvleermuis, Gierzwaluw, Spreeuw en Huismus. 
+2.5 Er moet capaciteit zijn om de hele gemeente Purmerend te inventariseren op SMP-
+soorten, te verstaan vleermuizen, Gierzwaluwen, Spreeuw en Huismussen. Onder de 
+vleermuizen worden zowel de verblijfplaatsen (in gebouw en boom) gevraagd 
+evenals de beschermde functies als foerageergebied en vliegroute. Alleen openbare 
+terreinen worden geïnventariseerd die toegankelijk zijn vanaf de openbare weg (per 
+fiets bereikbaar). Het Purmerbos en natuurgebied Weideveld vallen buiten de scope 
+van de gemeente.  
+2.6 Het onderzoek naar de beschermde SMP-soorten moet uitgevoerd worden volgens 
+protocollen voor grote gebieden of een vergelijkbare methodiek die goedgekeurd is 
+door de Omgevingsdienst en daarmee voldoet aan de Wet natuurbescherming 
+(voorbeeld is de Richtlijn Vleermuisonderzoek Grote Gebieden (RVGG)). 
+ 
+Onderzoek 2027 – niet gebouw bewonende soorten 
+ 
+Nr. 3 Omschrijving eis 
+3.1 Dit onderzoek moet in 2027 worden uitgevoerd en is onderdeel van deze 
+overeenkomst. Hiervoor wordt echter nog geen gespecificeerde uitvraag gedaan. 
+Tegen die tijd zal er een nadere offerte worden uitgevraagd die voldoet aan het geen 
+in deze aanbesteding is geëist. Daar waar mogelijk worden de tarieven uit het 
+tarievenblad aangehouden (geïndexeerd). Voor die posten die nog niet zijn 
+geoffreerd dient het tarievenblad als vergelijkingsmateriaal. Deze mogen niet 
+onevenredig afwijken. Indien dat toch het geval is moeten afwijkende bedragen 
+verklaarbaar zijn. 
+Elke nadere offerte wordt gespecificeerd aangeboden. 
+ 
+Wanneer niet voldaan kan worden aan de eisen en tarieven uit deze overeenkomst. 
+heeft de gemeente het recht de opdracht buiten deze overeenkomst uit te vragen. 
+ 
+Informatiebeveiliging 
+ 
+Nr. 4 Omschrijving eis 
+4.1 De gegevens van opdrachtgever worden alleen in de EER opgeslagen.  
+ 
+ 
+Pagina 6 van 9 
+ 
+4.2 De opdrachtnemer ondersteunt in haar totale dienstverlening alle vereisten die aan 
+de gemeente gesteld worden op basis van de Baseline Informatiebeveiliging 
+Overheid. Opdrachtgever kan op ieder moment verzoeken dit aan te tonen. Het 
+aantonen kan geschieden op basis van een ISO 27001 certificering waarbij certificaat 
+met verklaring van toepasselijkheid wordt overhandigd, of op basis van eigen 
+controles of eigen mededelingen over de beveiligingsmaatregelen, of op basis van 
+een derden verklaring.  
+4.3 Opdrachtnemer stelt een webapplicatie/website beschikbaar. Ten aanzien van de 
+inzet van een webapplicatie geldt dat opdrachtnemer zorg draagt voor een 100% 
+webbased voorziening welke voldoet aan de volgende vereisten: 
+• De vereisten van het forum voor standaardisatie 
+• De vereisten gesteld in de ICT beveiligingsrichtlijn voor webapplicaties 
+van het NCSC inclusief de 5 kernpunten voor de beveiliging van 
+webapplicaties: patching, invoervalidatie, uitvoervalidatie, 
+sessieonderhoud, en databasegebruik. Zie hiervoor 
+https://docplayer.nl/10466800-Checklist-beveiliging-webapplicaties.html 
+• De actuele vereisten gesteld in de NCSC ICT-beveiligingsrichtlijnen voor 
+Transport Layer Security (TLS) 
+• Toegankelijk en compatible met de meest recente versie van Mozilla 
+Firefox, Google Chrome, Safari, Microsoft Edge Chromium  
+• Minimaal categorie A beoordeling volgens de ssllabs-test en 100% score 
+op www.internet.nl.  
+• Opdrachtnemer draagt zorg dat de webapplicatie/website uiterlijk in 
+2025 voldoet aan de vereisten die de WCAG en de EN301549 stelt. 
+• De opdrachtnemer garandeert dat gedurende de contractperiode de 
+aangeboden oplossing wordt onderhouden, ondersteund en 
+doorontwikkeld.  
+• De opdrachtnemer draagt zorg dat de voorziening voldoet aan de 
+vereisten die de archiefwet stelt.  
+4.5 Voor veilige bestandsuitwisseling via mail tussen opdrachtgever en opdrachtnemer 
+accepteert opdrachtnemer de oplossing die opdrachtgever biedt (op dit moment 
+Zivver met 06 authenticatie).  
+4.6 Bij beëindiging van de overeenkomst worden alle gegevens naar keuze van de 
+opdrachtgever overgedragen aan de opdrachtgever in een standaard 
+uitwisselformaat en/of vernietigd/gewist na overleg met de opdrachtgever.  
+4.7 Situaties waarin meer dan normale kwetsbaarheden en/of risico’s aanwezig zijn 
+(beveiligingsincidenten, maar ook directe (cyber)aanvallen), worden onmiddellijk 
+gemeld aan en besproken met de opdrachtgever. 
+ 
+ 
+Personeel 
+ 
+Nr. 5 Omschrijving eis 
+5.1 Opdrachtnemer garandeert voor de uitvoering van de werkzaamheden uitsluitend 
+ter zake deskundig en gediplomeerd personeel in te zetten. 
+ 
+ 
+Pagina 7 van 9 
+ 
+5.2 Opdrachtnemer zet op deze opdracht ter zake kundige ecologen in. De definitie van 
+een ter zake kundige ecoloog is de volgende: Een ecologisch deskundige is een 
+persoon met aantoonbare specifieke kennis en ervaring van soort specifieke 
+ecologie. 
+ 
+De ervaring en kennis dient te zijn opgedaan doordat de deskundige:  
+• op HBO-, dan wel universitair niveau een opleiding heeft genoten met als 
+zwaartepunt (Nederlandse) ecologie; en/of  
+• op MBO niveau een opleiding heeft afgerond met als zwaartepunt de Flora- 
+en faunawet, soortenherkenning en zorgvuldig handelen ten opzichte van die 
+soorten; en/of   
+• als ecoloog werkzaam is voor een ecologisch adviesbureau, zoals 
+bijvoorbeeld een bureau welke is aangesloten bij het Netwerk Groene 
+Bureaus; en/of  
+• zich aantoonbaar actief inzet op het gebied van de soortenbescherming en is 
+aangesloten bij en werkzaam voor de daarvoor In Nederland bestaande 
+organisaties (zoals bijvoorbeeld Zoogdiervereniging, RAVON, Stichting Das 
+en Boom, Vogelbescherming Nederland, Vlinderstichting, Natuurhistorisch 
+Genootschap, KNNV, NJN, IVN, EIS Nederland, FLORON, SOVON, STONE, 
+Staatsbosbeheer, Natuurmonumenten, De Landschappen en Stichting 
+Beheer Natuur en Landelijk gebied) en/of  
+• zich aantoonbaar actief inzet op het gebied van de soortenmonitoring en/of - 
+bescherming. 
+ 
+Communicatie en overleg 
+ 
+Nr. 6 Omschrijving eis 
+6.1 Opdrachtnemer wijst gedurende de looptijd van de overeenkomst één vast 
+contactpersoon (en een vaste vervanger) aan op operationeel en tactisch/strategisch 
+niveau. 
+6.2 De gemeente wijst gedurende de looptijd van de overeenkomst één vast 
+contactpersoon (en een vaste vervanger) aan op operationeel en tactisch/strategisch 
+niveau. 
+6.3 Onderstaand schema is een beknopte weergave van de onderwerpen voor de 
+communicatie tussen beide partijen. Communicatie op de genoemde niveaus vindt 
+alleen met de daarvoor geautoriseerde personen plaats. Rapportages worden door 
+opdrachtnemer tijdig ter beschikking gesteld. De communicatie vindt plaats op de 
+volgende niveaus: 
+Wat  Wie  Frequentie Bespreekpunten 
+Operationeel 
+overleg  
+- Opdrachtnemer  
+- Gemeente 
+Operationeel 
+contractbeheerder  
+In overleg, 
+afhankelijk 
+van 
+onderzoeken 
+en lopende 
+zaken 
+- Voorbereiding onderzoek 
+- Voortgang onderzoek 
+- Klachtenafhandeling 
+- Resultaten en 
+duidingsoverleg 
+- Planningen 
+- Facturatie 
+ 
+ 
+Pagina 8 van 9 
+ 
+ 
+Tactisch/strategisch 
+overleg  
+- Opdrachtnemer  
+- Gemeente: 
+Contractmanager  
+- Operationeel 
+contractbeheerder 
+1 x per jaar  - Evaluatie 
+samenwerking/onderzoeken  
+- Verbetervoorstel 
+aangedragen door 
+opdrachtnemer 
+- Financieel 
+6.4 De opdrachtnemer draagt zorg voor schriftelijke verslaglegging van alle 
+overlegvormen en levert dit binnen 5 werkdagen op aan de gemeente. De 
+opdrachtnemer is initiatiefnemer met betrekking tot de organisatie van de 
+overleggen, de agenda en de schriftelijke verslaglegging.  
+ 
+Overig 
+ 
+Nr. 7 Omschrijving eis 
+7.1 Wanneer opdrachtnemer niet kan voldoen aan de vereisten voor het uitvoeren van 
+een nadere opdracht, zoals bijvoorbeeld; men heeft geen capaciteit of kan niet 
+voldoen aan een andere eis, dan mag opdrachtgever offerte buiten deze 
+overeenkomst uitvragen en de opdracht gunnen aan een derde partij. 
+7.2 Onderaannemer(s) welke betrokken zijn bij de uitvoering van de werkzaamheden zijn 
+verplicht zich te houden aan al het gestelde zoals vermeld in de 
+aanbestedingsstukken en zo ook het gestelde in dit document. Voor het inzetten van 
+onderaannemer(s) kunnen geen extra kosten in rekening gebracht worden. 
+ 
+Facturatie 
+ 
+Nr. 8 Omschrijving eis 
+8.1 Facturatie vindt plaats conform de inkoopvoorwaarden van de gemeente.  
+8.2 Facturatie voldoet aan alle wettelijke vereisten binnen Nederland en EU 
+8.3 Er wordt per onderzoek/nadere opdracht een facturatieschema afgesproken. Voor 
+het onderzoek 2025 – Gebouw bewonende soorten gelden de volgende 
+facturatietermijnen:    
+ 
+Bij aanvang Vooronderzoek/bureauonderzoek 20% 
+Bij aanvang Veldwerkperiode 1 20% 
+Bij aanvang Veldwerkperiode 2 20% 
+Na afronding van het onderzoek 20% 
+Na oplevering van alle data 20% 
+ 
+De facturen dienen de volgende informatie te bevatten: 
+ 
+- Ordernummer van de gemeente; 
+- Contractnummer; 
+- Naam onderzoek 
+ 
+Facturen die niet voldoen aan de in dit artikel vermelde gegevens worden 
+geretourneerd. 
+ 
+ 
+Pagina 9 van 9 
+ 
+8.4 Facturen worden binnen 30 dagen na afronding van een opdracht in PDF of als E-
+factuur verstuurd aan Purmerend@factuurportal.eu 
+8.5 Voor het verrichten van meerwerk is voorafgaand een nadere offerte van 
+opdrachtnemer en schriftelijke toestemming noodzakelijk van gemeente. 
+8.6 Meerwerk mag alleen worden gefactureerd indien vooraf schriftelijk 
+overeengekomen en geaccordeerd. 
+ 
+ 
+Prijs 
+ 
+Nr. 9 Omschrijving eis 
+9.1 Alle tarieven zoals opgenomen in het prijzenblad (tarief per eenheid) staan vast 
+gedurende de looptijd van de overeenkomst en worden tevens gebruikt voor nadere 
+opdrachten. De tarieven mogen alleen jaarlijks zoals aangegeven in de overeenkomst 
+worden geïndexeerd.
+
+=== Document: bijlage 7 vng model inkoopvoorwaarden v maart 2018 en addendum purmerend v nov 2022 ===
+Vereniging van Nederlandse Gemeenten versie maart 2018 5 
+ 
+Bijlage: Addendum 
+ 
+In dit addendum geeft de gemeente Purmerend aan in welke artikelen zij in haar gemeentelijke 
+algemene inkoopvoorwaarden afwijkt van het VNG Model Algemene Inkoopvoorwaarden voor 
+leveringen en diensten en op welke wijze. 
+Artikel 4  
+Aanvulling Na artikel 4 wordt een artikel toegevoegd dat luidt:  
+Artikel 4a Verwerkersrelatie 
+ 4a.1.  Voor zover contractant in het kader van de uitvoering van de 
+Overeenkomst persoonsgegevens voor de 
+verwerkingsverantwoordelijke binnen de Gemeente als (of; in de 
+hoedanigheid van) verwerker verwerkt, is op die verwerking de 
+verwerkersovereenkomst van toepassing.  
+ 4a.2.  De verwerkersovereenkomst prevaleert voor zover het de 
+verwerking van persoonsgegevens betreft of hetgeen overigens 
+in de Overeenkomst is bepaald.  
+ 4a.3.  Onder verwerkersovereenkomst wordt de bij de Overeenkomst 
+gevoegde verwerkersovereenkomst verstaan.  
+ 
+ Artikel 13.1  
+Aanvulling In aanvulling op artikel 13.1 wordt onder overmacht in ieder geval niet 
+verstaan: gebrek aan personeel, stakingen, ziekte van personeel, verlate 
+aanlevering of ongeschiktheid van voor de uitvoering van de werkzaamheden 
+benodigde goederen, grondstoffentekort, transportproblemen, 
+tekortkoming of niet -nakoming van de verplichtingen van door hem 
+ingeschakelde Derden, storingen in de productie van de Opdrachtnemer en 
+liquiditeit- of solvabiliteitsproblemen aan de zijde van de Opdrachtnemer. 
+ 
+ 
+ Artikel 17  
+Aanvulling In aanvulling op artikel 17 zijn de overeengekomen prijzen voor de Goederen, 
+tenzij schriftelijk anders overeengekomen, inclusief kosten van vervoer, 
+belastingen, invoerrechten, overige heffingen, as surantie, 
+verpakkingskosten, verwijdering skosten en eventuele installatie - en 
+montagekosten.  
+ De overeengekomen prijzen zijn vast, tenzij de Overeenkomst de 
+omstandigheden vermeldt die tot prijsaanpassing kunnen leiden, alsmede de 
+wijze bepaalt waarop aanpassingen plaatsvindt. 
+ 
+ 
+ 
+ 
+  
+6 Vereniging van Nederlandse Gemeenten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VNG Model Algemene Inkoopvoorwaarden 
+voor leveringen en diensten 
+Vereniging van Nederlandse Gemeenten versie maart 2018 7 
+ 
+Inhoud 
+I Algemeen 
+Artikel 1 Definities 
+Artikel 2 Toepasselijkheid 
+Artikel 3 Offerte, opdracht en totstandkoming Overeenkomst 
+ 
+II Uitvoering overeenkomst 
+Artikel 4 Algemene verplichtingen Contractant  
+Artikel 5 Algemene verplichtingen Gemeente  
+Artikel 6 Kwaliteit, keuring en garantie 
+Artikel 7 Geheimhouding  
+Artikel 8 Intellectueel eigendom 
+Artikel 9 Wijziging Overeenkomst  
+Artikel 10 Uitrusting en materialen  
+Artikel 11 Tijdstip van nakoming  
+Artikel 12 Toerekenbare tekortkoming 
+Artikel 13 Niet toerekenbare tekortkoming 
+Artikel 14  Aansprakelijkheid en verzekering 
+Artikel 15 Boete 
+Artikel 16 Toepasselijk recht en geschillen 
+ 
+III Financiële bepalingen 
+Artikel 17 Prijzen, meerwerk en minder werk  
+Artikel 18 Facturering en betaling 
+ 
+IV Bepalingen betreffende de leveringen van goederen  
+Artikel 19 Leveringen 
+Artikel 20 Verpakking en transport 
+Artikel 21 Overdracht van eigendom en risico 
+ 
+V Bepalingen betreffende het verrichten van diensten  
+Artikel 22 Diensten 
+Artikel 23 Personeel van Contractant 
+ 
+VI Einde overeenkomst  
+Artikel 24 Opzegging 
+Artikel 25 Ontbinding 
+Artikel 26 Vernietiging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 Vereniging van Nederlandse Gemeenten  
+I Algemeen 
+ 
+Artikel 1 Definities 
+ 
+Aflevering: het verschaffen van het bezit van de Goederen aan de Gemeente 
+Contractant: de in de Overeenkomst genoemde wederpartij van de Gemeente 
+Diensten (Dienst): de door de Contractant te verrichten werkzaamheden ten behoeve van een specifieke 
+behoefte van de Gemeente, niet zijnde werken of leveringen 
+Gemeente: de gemeente Purmerend, zetelend Purmersteenweg 42 te Purmerend 
+Goederen: alle zaken en alle vermogensrechten in de zin van artikel 3:1 Burgerlijk Wetboek 
+Leveringen (Levering): de door de Contractant op basis van de Overeenkomst ten behoeve van de Gemeente te 
+leveren Goederen 
+Offerte: een aanbod in de zin van het Burgerlijk Wetboek 
+Offerteaanvraag: een enkelvoudige of meervoudige aanvraag van de Gemeente voor te verrichten 
+Prestaties of een (Europese) aanbesteding conform de Aanbestedingswet en de Europese 
+aanbestedingsrichtlijnen 
+Overeenkomst: al hetgeen tussen de Gemeente en de Contractant is overeengekomen, inclusief daarbij 
+behorende bijlagen 
+Partijen/Partij: de Gemeente en/of de Contractant 
+Personeel van Contractant: de door de Contractant voor de uitvoering van de Overeenkomst in te schakelen 
+personeelsleden of andere hulppersonen die krachtens de Overeenkomst onder zijn 
+verantwoordelijkheid werkzaam zullen zijn 
+Prestatie: de te verrichten Leveringen en/of Diensten 
+Werkdag: kalenderdagen behoudens weekenden, algemeen 
+erkende feestdagen in de zin van artikel 3 lid 1 Algemene termijnenwet, plaatselijke 
+feestdagen en door de Gemeente aangewezen brugdagen 
+ 
+ 
+Artikel 2 Toepasselijkheid 
+2.1. Deze algemene inkoopvoorwaarden zijn van toepassing op de Offerteaanvraag en Overeenkomsten met 
+betrekking tot Leveringen en Diensten. 
+2.2. Van deze algemene inkoopvoorwaarden kan slechts worden afgeweken, indien Partijen dit uitdrukkelijk 
+schriftelijk met elkaar zijn overeengekomen. 
+2.3. Indien een bepaling van deze algemene inkoopvoorwaarden nietig is 
+Vereniging van Nederlandse Gemeenten versie maart 2018 9 
+ 
+of vernietigd wordt, zullen de overige bepalingen van kracht blijven en treden Partijen in overleg 
+teneinde een nieuwe bepaling (of bepalingen) ter vervanging van de nietige of vernietigde bepaling(en) 
+overeen te komen, waarbij zoveel mogelijk het doel en de strekking van de nietige of vernietigde 
+bepaling(en) in acht worden genomen. 
+2.4. Door het indienen van de Offerte wijst de Contractant uitdrukkelijk de toepasselijkheid van zijn algemene 
+voorwaarden af. 
+ 
+Artikel 3 Offerte, opdracht en totstandkoming Overeenkomst 
+3.1. De Gemeente kan een Offerteaanvraag intrekken of wijzigen voor zover dit mogelijk is binnen de 
+geldende Nederlandse en Europese jurisprudentie en wet- en regelgeving. De Gemeente zal geen kosten 
+of schade vergoeden die hiermee samenhangen, tenzij schriftelijk anders is overeengekomen. 
+3.2. De Offerte van de Contractant heeft een gestanddoeningstermijn van negentig dagen of zoveel langer of 
+korter als in de Offerteaanvraag is vermeld. De gestanddoeningstermijn vangt aan op de dag waarop de 
+inschrijvingstermijn sluit of op de dag die wordt vermeld in de Offerteaanvraag. 
+3.3. Een Overeenkomst komt tot stand nadat de Gemeente een expliciete schriftelijke aanvaarding van de 
+Offerte van de Contractant per e-mail, fax of brief heeft verzonden aan de Contractant. De schriftelijke 
+aanvaarding geldt enkel als aanvaarding, indien daaraan een besluit ten grondslag ligt als bedoeld in 
+artikel 160, eerste lid aanhef en onder e van de Gemeentewet dat is genomen door of namens het 
+college van burgemeester en wethouders en de aanvaarding ondertekend is door de burgemeester of 
+een ander waaraan op grond van het bepaalde in artikel 171, tweede lid van de Gemeentewet de 
+vertegenwoordiging van de Gemeente is opgedragen. Op eerste verzoek van de Contractant legt de 
+Gemeente een kopie van dit besluit over. 
+3.4. Een voornemen tot gunning houdt geen aanvaarding in zoals bedoeld in het voorgaande lid of in de zin 
+van artikel 6:217 lid 1 Burgerlijk Wetboek. 
+3.5. Alle handelingen die de Contractant verricht voorafgaand aan de totstandkoming van de Overeenkomst 
+zijn voor rekening en risico van de Contractant. 
+10 Vereniging van Nederlandse Gemeenten 
+ 
+II Uitvoering 
+overeenkomst 
+ 
+Artikel 4 Algemene verplichtingen Contractant 
+4.1. De Contractant zal zijn verplichtingen voortvloeiend uit de Overeenkomst in nauwe samenwerking met 
+de Gemeente nakomen, onverminderd de eigen verantwoordelijkheid van de Contractant. 
+4.2. De Contractant zal de Gemeente op de hoogte houden van de uitvoering van de Overeenkomst en 
+desgevraagd inlichtingen geven. De Contractant is onder meer, doch niet uitsluitend, verplicht om de 
+Gemeente direct schriftelijk in te lichten over feiten en omstandigheden die kunnen leiden tot 
+vertraging in de nakoming of waarmee in de Overeenkomst geen rekening is gehouden. 
+4.3. Slechts met voorafgaande schriftelijke goedkeuring van de Gemeente, kan de Contractant de uitvoering 
+van de Overeenkomst geheel of gedee ltelijk laten uitvoeren door derden of uit de Overeenkomst 
+voortvloeiende rechten en/of plichten overdragen aan derden. 
+4.4. De Contractant garandeert ter zake van de Overeenkomst dat de Contractant of Personeel van 
+Contractant of een met de Contractant verbonden rechtspersoon en de onder hen werkzame personen 
+niet betrokken zijn of zijn geweest bij overleg of afspraken met andere ondernemingen op een wijze die 
+strijdig zou kunnen zijn met bepalingen van de Mededingingswet of artikelen 101 en 102 Verdrag 
+betreffende de werking van de Europese Unie, waaronder: (1) prijsvorming, 
+(2) het afstemmen van Offerten, en/of (3) verdeling van werkzaamheden. 
+4.5. De Contractant vrijwaart de Gemeente voor strafrechtelijke boetes en bestuurlijke  sancties (als bedoeld 
+in artikel 5:2, eerste lid aanhef en onder a van de Algemene wet bestuursrecht, het eventuele 
+kostenverhaal daaronder begrepen) die verband houden met de Overeenkomst en die de Contractant of 
+de Gemeente krijgt opgelegd. 
+4.6. De Contractant zal bij de uitvoering van de Overeenkomst alle van toepassing zijn de voorschriften bij 
+of krachtens de wet gesteld naleven en de overeenkomsten die de Gemeente met derden heeft 
+gesloten, voor zover deze overeenkomsten bekend zijn bij de Contractant, in acht nemen. Indien de 
+Contractant genoodzaakt is om contact op te nemen met derden, zal de Contractant dit eerst 
+voorleggen aan de Gemeente. 
+4.7. De Contractant draagt zelf de verantwoordelijkheid om de door hem ingeschakelde derden te 
+informeren over de afspraken die gelden 
+tussen de Contractant en de Gemeente bij de uitvoering van de Overeenkomst. 
+4.8. Slechts voor zover de Contractant expliciet en schriftelijk is gemachtigd door de Gemeente zal de 
+Contractant optreden als gemachtigde van de Gemeente. Eventuele gevolgen die door het in strijd 
+handelen met het bepaalde in de voorgaande zin zijn ontstaan, komen voor rekening en risico van de 
+Contractant. 
+ 
+Artikel 5 Algemene verplichtingen Gemeente 
+5.1. De Gemeente zal op verzoek van de Contractant alle inlichtingen en gegevens verstrekken voor zover 
+die nodig zijn om de Overeenkomst naar behoren uit te voeren. 
+5.2. De Gemeente zal zich inspannen zoals een goed opdrachtgever betaamt en zal zich indien nodig 
+inspannen om haar medewerking, waaronder publiekrechtelijke medewerking, te verlenen die nodig zou 
+kunnen zijn voor de uitvoering van de Overeenkomst. 
+ 
+Artikel 6 Kwaliteit, keuring en garantie 
+6.1. De Contractant garandeert dat de geleverde Prestaties voldoen aan de Overeenkomst, aan de 
+algemeen geldende normen en aan de voorschriften die bij of krachtens wet of verdrag gelden met 
+betrekking tot, doch niet uitsluitend, veiligheid, gezondheid en milieu. 
+6.2. De Gemeente is gerechtigd om de Prestaties te keuren en de Contractant verleent waar nodig zijn 
+Vereniging van Nederlandse Gemeenten versie maart 2018 11 
+ 
+medewerking. Indien de Gemeente bepaalde Prestaties schriftelijk heeft goedgekeurd, vervalt het 
+recht zoals genoemd in de voorgaande zin ten aanzien van die Prestaties. 
+ 
+Artikel 7 Geheimhouding 
+7.1. Partijen verplichten zich om al wat bij de uitvoering van de Overeenkomst ter kennis komt en waarvan 
+het vertrouwelijke karakter bekend is of redelijkerwijs kan worden vermoed, op generlei wijze bekend 
+te maken – inclusief via kanalen van sociale media - of voor eigen doel- einden te gebruiken, behalve 
+voor zover enig wettelijk voorschrift of rechterlijke uitspraak tot bekendmaking noopt. 
+7.2. Partijen zullen de onder hen werkzame personen of door hen ingeschakelde derden verplichten deze 
+geheimhoudingsplicht na te leven. 
+7.3. Partijen hebben het recht om in geval van overtreding van de voorgaande leden door de andere Partij 
+en/of de voor die Partij werkzame personen en/of door die Partij ingeschakelde derden de 
+Overeenkomst per direct op te schorten dan wel zonder rechterlijke tussen- komst en zonder 
+ingebrekestelling te ontbinden. Elke opschorting dan wel ontbinding geschiedt door middel van een 
+aangetekend schrijven. 
+12 Vereniging van Nederlandse Gemeenten 
+ 
+7.4. De Contractant is verplicht om op eerste verzoek van de Gemeente Personeel van Contractant een 
+geheimhoudingsverklaring te laten ondertekenen. 
+ 
+Artikel 8 Intellectueel eigendom 
+8.1. Alle (aanspraken op) intellectuele eigendomsrechten (IE-rechten) met betrekking tot enig resultaat 
+voortvloeiende uit de Overeenkomst, berusten bij de Gemeente, tenzij schriftelijk anders is 
+overeengekomen. De Contractant draagt deze (aanspraken op) IE-rechten – voor zover nodig – om niet 
+over aan de Gemeente. De Contractant zal op eerste verzoek kosteloos meewerken aan het 
+bewerkstelligen van de overdracht. 
+8.2. Onder resultaat als bedoeld in lid 1 van dit artikel, wordt verstaan al hetgeen in het kader van de 
+Overeenkomst tot stand wordt gebracht ongeacht of de Contractant daarbij gebruikmaakt van enige 
+bijdrage van de Gemeente en/of derden. 
+8.3. De Contractant doet voor zover mogelijk afstand van alle eventuele persoonlijkheidsrechten op in het 
+kader van de Overeenkomst tot stand gebrachte auteursrechtelijke werken. 
+8.4. Tenzij schriftelijk anders is overeengekomen, behoudt of verkrijgt de Contractant geen gebruiksrecht 
+met betrekking tot enig resultaat van de Overeenkomst. 
+8.5. De Gemeente behoudt zich uitdrukkelijk het auteursrecht voor met betrekking tot ieder in het kader 
+van de Overeenkomst aan Contractant openbaar gemaakt werk. De Contractant erkent dit 
+voorbehoud. 
+8.6. De Contractant garandeert dat de gekochte Goederen en toebehoren alsmede de geleverde Diensten en 
+al hetgeen daarmee gepaard gaat of daaruit resulteert vrij zijn van alle bijzondere lasten en beperkingen 
+die aan het vrije gebruik daarvan door de Gemeente in de weg zouden kunnen staan, zoals 
+octrooirechten, merkrechten, modelrechten of auteursrechten en vrijwaart de Gemeente tegen alle 
+aanspraken van derden dienaangaande. 
+8.7. In het geval van aanspraken van derden zal de Contractant alles in het werk stellen om in overleg met de 
+Gemeente te bewerkstelligen dat de Gemeente het ongestoorde gebruik van het geleverde zal kunnen 
+voortzetten. 
+8.8. In het geval van aanspraken van derden waarvoor de hierboven genoemde vrijwaringverplichting geldt, 
+zal de Contractant alle schade van de Gemeente vergoeden inclusief proceskosten, waaronder tevens 
+begrepen redelijke advocaatkosten voor het voeren van gerechtelijke procedures. 
+Vereniging van Nederlandse Gemeenten versie maart 2018 13 
+ 
+Artikel 9 Wijziging Overeenkomst 
+9.1. De Gemeente is bevoegd om de Overeenkomst schriftelijk te wijzigen en/of aan te vullen, na overleg met 
+en instemming van de Contractant over de gevolgen van de wijziging of aanvulling. 
+9.2. In dit kader blijven Partijen binnen de grenzen van de redelijkheid en billijkheid. 
+ 
+Artikel 10 Uitrusting en materialen 
+10.1. De Contractant zal voor eigen rekening en risico zorgdragen voor alle bij de uitvoering van de 
+Overeenkomst te gebruiken - niet van de Gemeente afkomstige - materialen en uitrusting (waaronder 
+gereed- schappen), tenzij schriftelijk anders is overeengekomen. 
+10.2. De Contractant is verantwoordelijk en aansprakelijk voor de deugdelijkheid van de gebruikte Goederen, 
+materialen en uitrusting en dient deze voor eigen rekening en risico te verzekeren, tenzij schriftelijk anders 
+is overeengekomen. 
+ 
+Artikel 11 Tijdstip van nakoming 
+11.1. De Contractant is van rechtswege in verzuim nadat de fatale ter- mijn(en) of termijnen voor de 
+uitvoering van de desbetreffende Prestaties, zoals vermeld in de Overeenkomst, zijn verstreken en de 
+des- betreffende Prestaties niet of niet volledig zijn uitgevoerd. 
+11.2. De Contractant stelt de Gemeente schriftelijk tijdig en met opgaaf van redenen in kennis van een eventuele 
+vertraging en de maatregelen die de Contractant zal treffen om de vertraging zoveel mogelijk te beperken. 
+ 
+Artikel 12 Toerekenbare tekortkoming 
+12.1 Indien één van de Partijen toerekenbaar tekort schiet in de nakoming van de Overeenkomst en/of deze 
+algemene inkoopvoorwaarden, zal de andere Partij een aangetekend schrijven verzenden aan de tekort- 
+komende Partij, alvorens gebruik te maken van de Partij toekomende wettelijke rechten, behoudens de 
+gevallen waarin ingebrekestelling ingevolge het Burgerlijk Wetboek achterwege kan blijven, in welke 
+gevallen de nalatige Partij direct in verzuim verkeert. 
+12.2. Ieder der Partijen is gerechtigd de Overeenkomst zonder rechterlijke tussenkomst en zonder 
+ingebrekestelling met onmiddellijke ingang te ontbinden, indien de andere Partij in verzuim is geraakt, 
+behoudens voor zover ontbinding – gelet op de omstandigheden van het geval, waaronder de ernst van 
+het verzuim – in strijd zou zijn met de redelijkheid en billijkheid. Elke ontbinding geschiedt door middel 
+van een aangetekend schrijven. 
+12.3. Er is geen sprake van enige toerekenbare tekortkoming zijdens de Gemeente indien en voor zover de 
+publiekrechtelijke verantwoordelijkheid noopt tot het niet verstrekken van inlichtingen en gegevens 
+14 Vereniging van Nederlandse Gemeenten 
+ 
+respectievelijk tot het niet verlenen van de publiekrechtelijke medewerking die nodig zou kunnen zijn 
+voor de uitvoering van de Overeenkomst. 
+ 
+Artikel 13 Niet toerekenbare tekortkoming 
+13.1.  De Contractant kan zich jegens de Gemeente enkel op overmacht beroepen, indien de Contractant de 
+Gemeente zo spoedig mogelijk, onder overlegging van de bewijsstukken, schriftelijk van het beroep op 
+overmacht in kennis stelt. 
+ 
+Artikel 14 Aansprakelijkheid en verzekering 
+14.1. De Contractant vrijwaart de Gemeente tegen eventuele aanspraken van derden ter zake van schade 
+door deze derden geleden ten gevolge van de uitvoering door de Contractant van de Overeenkomst en 
+het gebruik of toepassing van de geleverde Goederen of Diensten van de Contractant. 
+14.2. De Contractant zal vanaf het aangaan van de Overeenkomst adequaat verzekerd zijn voor het 
+uitvoeren van de Overeenkomst en zal zich adequaat verzekerd houden gedurende de uitvoering van 
+de Overeenkomst. 
+14.3. De Contractant zal het verzekerd bedrag en de polisvoorwaarden gedurende de uitvoering van de 
+Overeenkomst niet ten nadele van de Gemeente wijzigen, tenzij de Gemeente hiervoor haar expliciete 
+en schriftelijke toestemming heeft gegeven. 
+14.4. Eventuele verzekeringen die noodzakelijk zijn in het kader van de uitvoering van de Overeenkomst en 
+waarover de Contractant nog niet beschikt, zal de Contractant afsluiten tenminste voor de periode van 
+de uitvoering van de Overeenkomst. 
+ 
+Artikel 15 Boete 
+15.1. Indien een boetebepaling is overeengekomen, is deze boete zonder rechterlijke  tussenkomst, 
+ingebrekestelling of aanmaning direct opeisbaar. 
+15.2. De boete laat onverlet alle andere rechten of vorderingen, waaronder, doch niet uitsluitend, de vordering 
+van de Gemeente tot nakoming en het recht op schadevergoeding. 
+ 
+Artikel 16 Toepasselijk recht en geschillen 
+16.1. Op deze algemene inkoopvoorwaarden en de Overeenkomsten, alsmede op de totstandkoming en de 
+interpretatie, is Nederlands recht van toepassing. 
+16.2. De toepasselijkheid van het Weens Koopverdrag (United Nations Convention on Contracts for the 
+International Sale of Goods) wordt uitdrukkelijk uitgesloten. 
+Vereniging van Nederlandse Gemeenten versie maart 2018 15 
+ 
+16.3. Als er een geschil ontstaat met betrekking tot de Offerteaanvraag, de procedure zoals beschreven in de 
+Offerteaanvraag, de totstandkoming van de Overeenkomst of de uitvoering van de Overeenkomst, dan 
+is elk der Partijen gerechtigd om het geschil voor te leggen aan de bevoegde rechter in het 
+arrondissement waar de Gemeente gevestigd is. 
+16 Vereniging van Nederlandse Gemeenten 
+ 
+III Financiële 
+bepalingen 
+ 
+Artikel 17 Prijzen, meerwerk en minder werk 
+17.1 . De Contractant zal de Overeenkomst uitvoeren tegen de in zijn Offerte genoemde prijzen in euro’s. 
+17.2 . Niet redelijkerwijs in de Overeenkomst inbegrepen extra Prestaties, zijn slechts meerwerk voor zover 
+dit uitsluitend aan de Gemeente is toe te rekenen. 
+17.3 . Meerwerk zal door de Contractant slechts in behandeling worden genomen nadat de inhoud en het 
+budget schriftelijk zijn overeengekomen met de Gemeente. 
+17.4 . Verrekening van meerwerk of minder werk vindt plaats tegen maximaal de tarieven zoals opgenomen in 
+de Offerte, tenzij schriftelijk anders is overeengekomen. 
+17.5 . Voor zover prijzen en tarieven van meerwerk of minder werk niet in de Offerte zijn opgenomen, 
+verplicht de Contractant zich ertoe voor meerwerk en minder werk uitsluitend marktconforme tarieven 
+aan te bieden. 
+ 
+Artikel 18 Facturering en betaling 
+18.1. Op de factuur vermeldt de Contractant; 
+• de wettelijke vereisten waaraan de factuur moet voldoen: 
+naam, adres, postcode, woonplaats, bank/gironummer en de benodigde IBAN- en BIC-gegevens, BTW-
+nummer, KvK-nummer; 
+• het factuuradres van de Contractant; 
+• het totale factuurbedrag inclusief en exclusief BTW; en 
+• eventuele nadere eisen in overleg met de Gemeente. 
+18.2. De Contractant hanteert een betalingstermijn van dertig dagen na de ontvangst van de factuur of zoveel 
+langer of korter als overeengekomen tussen Partijen in de Overeenkomst. De Gemeente zal binnen de 
+gehanteerde betalingstermijn de factuur van de Contractant betalen. 
+18.3 Indien de Goederen of Diensten niet beantwoorden aan de Overeenkomst is de Gemeente bevoegd om 
+de betaling naar rato van de tekortkoming geheel of gedeeltelijk op te schorten. 
+Vereniging van Nederlandse Gemeenten versie maart 2018 17 
+ 
+IV Bepalingen betreffende 
+de leveringen van 
+goederen 
+ 
+Artikel 19 Leveringen 
+19.1. De Contractant levert de Goederen conform Delivered Duty Paid (DDP), volgens Incoterms 2010, zoals 
+vastgesteld door de Internationale Kamer van Koophandel (ICC). 
+19.2. Tenzij schriftelijk een andere tijd of plaats is overeengekomen, geschiedt de Aflevering uitsluitend op 
+Werkdagen tijdens de openings- uren van het gemeentehuis. De Contractant dient zijn vervoerder hier- 
+van op de hoogte te stellen. 
+19.3. Indien de Gemeente de Goederen gemotiveerd afkeurt, zal de Contractant op zijn eigen kosten de 
+Goederen ophalen. 
+19.4. De Goederen worden geacht te zijn goedgekeurd vanaf het moment van volledige operationele 
+ingebruikname door de Gemeente, tenzij schriftelijk anders is overeengekomen of bepaalde 
+omstandigheden nopen tot schriftelijke goedkeuring van de Gemeente. 
+19.5. De Contractant verleent tenminste een garantie voor de Goederen van twaalf maanden vanaf het 
+moment dat de Gemeente de Goede- ren heeft goedgekeurd, tenzij schriftelijk anders is 
+overeengekomen. Deze garantie laat onverlet de aansprakelijkheid van de Contractant. 
+19.6. De Contractant garandeert dat voor een periode van tenminste vijf jaar of een termijn die schriftelijk is 
+overeengekomen na Aflevering van de Goederen, onderdelen van de Goederen kunnen worden geleverd. 
+19.7. De Contractant is gehouden om alle bij de Goederen behorende gebruiksaanwijzingen en 
+productinformatie, alsmede eventuele kwaliteitskeurmerken of –certificaten, opgesteld zoveel mogelijk 
+in de Nederlandse taal, zonder additionele kosten, aan de Gemeente ter beschikking te stellen. 
+19.8. De Contractant zal voor zijn rekening en risico alle voorkomende ge- breken aan de geleverde 
+Goederen na Aflevering of voltooiing binnen de door de Gemeente bij eerste aanzegging gestelde 
+redelijke termijn wegnemen door herstel of vervanging. 
+18 Vereniging van Nederlandse Gemeenten 
+ 
+Artikel 20 Verpakking en transport 
+20.1. De Contractant draagt zorg voor een deugdelijke verpakking, alsmede voor een zodanige beveiliging en 
+vervoer van de Goederen, dat deze in een goede staat de plaats van Aflevering bereiken en het lossen 
+daar veilig kan plaatsvinden. De Contractant is verantwoordelijk voor het naleven van de Nederlandse, 
+Europese en internationale voorschriften met betrekking tot verpakkingen. 
+20.2. De Contractant neemt alle verpakkingen kosteloos terug, tenzij schriftelijk anders is overeengekomen. 
+ 
+Artikel 21 Overdracht van eigendom en risico 
+21.1. De eigendom van de geleverde Goederen gaat over op het moment van Aflevering, waar nodig na 
+eventuele installatiewerkzaamheden die daarmee gepaard gaan. Het risico gaat over op de Gemeente 
+na acceptatie van de Goederen door de Gemeente. 
+21.2. De acceptatie van de Goederen zal geschieden door middel van een schriftelijke verklaring van de 
+Gemeente, na Aflevering en eventuele installatie van de Goederen. Indien de Gemeente de Goederen 
+niet accepteert, geeft zij gemotiveerd aan waarom de acceptatie onthouden wordt. 
+Vereniging van Nederlandse Gemeenten versie maart 2018 19 
+ 
+V Bepalingen betreffende 
+het verrichten van 
+diensten 
+ 
+Artikel 22 Diensten 
+22.1. De Contractant zal de Diensten uitvoeren binnen de termijn en op de plaats zoals deze zijn opgenomen 
+in de Overeenkomst. 
+22.2. De Contractant draagt de volledige verantwoordelijkheid voor zowel zijn eigen Prestaties, Prestaties van 
+Personeel van Contractant alsmede Prestaties van de door de Contractant ingeschakelde derden. 
+22.3. Feitelijke uitvoering van de Diensten door de Contractant of daarmee gepaard gaande handelingen 
+houdt niet in dat de Gemeente de Diensten zonder meer goedkeurt. De Gemeente behoudt zich het 
+recht voor om eventuele verrichte Diensten te keuren, controleren of niet goed te keuren. 
+22.4. De goedkeuring van de Diensten zal geschieden door middel van een schriftelijke verklaring van de 
+Gemeente. Indien de Gemeente de Diensten niet goedkeurt, geeft zij gemotiveerd aan waarom de goed- 
+keuring onthouden wordt. 
+ 
+Artikel 23 Personeel van Contractant 
+23.1. Voor zover Diensten worden verricht ten kantore en/of in de openbare ruimte van de Gemeente, zijn de 
+Contractant, Personeel van Contractant en de door de Contractant ingeschakelde derden gehouden de 
+vastgestelde huisregels voor dat kantoor/gebouw en/of die open- bare ruimte na te leven. 
+23.2. Indien gedurende de uitvoering van de Overeenkomst blijkt dat Personeel van Contractant niet 
+functioneert in het belang van de goede uitvoering van de Overeenkomst en/of wegens 
+omstandigheden zijn werkzaamheden niet kan voortzetten, dan heeft de Gemeente het recht de 
+desbetreffende persoon door de Contractant te laten vervangen. 
+23.3. Voor de vervanging van Personeel van Contractant is voorafgaande schriftelijke toestemming vereist 
+van de Gemeente, tenzij directe vervanging van Personeel van Contractant noodzakelijk is. In dat laatste 
+geval kan worden volstaan met mondelinge toestemming van de
+20 Vereniging van Nederlandse Gemeenten 
+ 
+Gemeente. Uitgangspunt daarbij is dat personen beschikbaar worden gesteld die een vergelijkbare 
+deskundigheid, opleiding en ervaring hebben (conform het vereiste in de Offerteaanvraag). 
+23.4. Vervanging van Personeel van Contractant wordt op een korte termijn 
+– doch uiterlijk binnen twee weken of zoveel korter als noodzakelijk – door de Contractant voorzien. 
+Eventuele kosten die gepaard gaan met vervanging komen voor rekening van de Contractant. 
+23.5. De Contractant staat ervoor in dat het Personeel van Contractant gerechtigd is om in Nederland arbeid te 
+verrichten dan wel Diensten te verrichten. 
+23.6. De Contractant is verantwoordelijk voor en aansprakelijk voor de nakoming van de uit de Overeenkomst 
+voortvloeiende verplichtingen uit de belastingwetgeving en de sociale zekerheidswetgeving, waaronder 
+begrepen verplichtingen die verband houden met het Uitvoeringsinstituut Werknemersverzekeringen 
+(UWV). De Contractant vrijwaart de Gemeente tegen alle aanspraken ter zake. De Contractant zal – 
+indien wettelijk vereist dan wel door de Gemeente wordt vereist – met een G-rekening werken. Indien 
+de Gemeente geconfronteerd wordt met een naheffing, worden deze kosten een-op-een verhaald op 
+de Contractant. 
+Vereniging van Nederlandse Gemeenten versie maart 2018 21 
+ 
+VI Einde 
+overeenkomst 
+Artikel 24 Opzegging 
+24.1.  De Gemeente is gerechtigd de Overeenkomst op te zeggen met inachtneming van een opzegtermijn zoals 
+bepaald in de Overeenkomst. Indien geen opzegtermijn in de Overeenkomst is opgenomen, kan de 
+Gemeente de Overeenkomst opzeggen met inachtneming van een redelijke opzegtermijn, mede gelet op 
+de duur van de Overeenkomst. 
+ 
+Artikel 25 Ontbinding 
+25.1. Ieder der Partijen heeft het recht de Overeenkomst zonder rechterlijke tussenkomst en zonder 
+ingebrekestelling met onmiddellijke ingang te ontbinden, indien: 
+• artikel 4.4 algemene inkoopvoorwaarden wordt geschonden; 
+• de andere Partij een besluit tot ontbinding van de rechtspersoon of onderneming heeft genomen; 
+• de zeggenschap van de andere Partij bij een ander komt te rusten dan ten tijde van het sluiten van 
+deze Overeenkomst; 
+• ten aanzien van de andere Partij faillissement is aangevraagd dan wel  uitgesproken of, al dan niet 
+voorlopig, surséance van betaling is aangevraagd of verleend; 
+• de andere Partij fuseert, splitst of op enigerlei wijze (een deel van) zijn bedrijf overdraagt; 
+• de andere Partij in een situatie van overmacht verkeert gedurende meer dan tien dagen. 
+25.2. Elke ontbinding als bedoeld in lid 1 dient terstond door middel van een aangetekend schrijven te 
+geschieden. 
+25.3. Ingeval van ontbinding door de Gemeente als bedoeld in lid 1 is de Gemeente geen vergoeding 
+verschuldigd aan de Contractant voor de Prestaties die niet door Contractant zijn verricht. Eventuele aan 
+de Contractant verrichte onverschuldigde betalingen, betaalt de Contractant terug aan de Gemeente, 
+vermeerderd met wettelijke rente vanaf de dag waarop dit is betaald. 
+ 
+Artikel 26 Vernietiging 
+26.1.  Indien één van de Partijen zich beroept op vernietiging door middel van een buitengerechtelijke 
+verklaring, dient dit te geschieden met een aangetekend schrijven.
+
+=== Document: bijlage 8 uitvoeringsprotocol social return on investment zaanstreek-waterland 2020 ===
+Uitvoeringsprotocol social return on investment Zaanstreek-Waterland 2020
+Burgemeester en wethouders van Purmerend,
+Overwegende
+- dat de gemeenten in Zaanstreek-Waterland de ambitie hebben uitgesproken om binnen de regio
+te komen tot één uniform social return beleid bij inkoop en een uniforme toepassing en uitvoering
+van het beleid,
+- dat de colleges van de gemeenten in Zaanstreek-Waterland in 2015 de Beleidsnotitie social return
+bij inkoop Zaanstreek-Waterland en het Uitvoeringsprotocol Social Return Zaanstreek-Waterland
+hebben vastgesteld,
+- dat zowel de beleidsnotitie als het uitvoeringsprotocol aan herziening toe zijn,
+besluiten:
+1. De Beleidsnotitie social return on investment Zaanstreek-Waterland 2020 en het Uitvoeringspro-
+tocol social return on investment Zaanstreek-Waterland 2020 vast te stellen.
+2. De Beleidsnotitie social return bij inkoop Zaanstreek-Waterland en het Uitvoeringsprotocol Social
+Return Zaanstreek-Waterland in te trekken.
+3. Dit besluit treedt in werking op de dag na die waarop het is bekendgemaakt.
+Uitvoeringsprotocol social return on investment
+Zaanstreek-Waterland 2020
+MEER MOGELIJKHEDEN, MEER KANSEN
+Een leidraad voor opdrachtnemers van de gemeenten in de regio Zaanstreek – Waterland
+bij de invulling van hun SROI verplichting
+30 maart 2020
+Inhoudsopgave
+1. Toepassing van dit protocol 3
+2. Doelstellingen SROI 3
+3. Doelgroep SROI 3
+4. Hulp bij invulling SROI 4
+5. Brede mogelijkheden voor invulling SROI 4
+A. Arbeidsparticipatie 4
+B. Sociaal inkopen 4
+C. Co-creatieve projecten gericht op kandidaat-ontwikkeling 4
+D. Bijdragen aan maatschappelijke activiteiten 5
+6. Bouwblokkenschema – de waardering van SROI-invulling 5
+7 . Verantwoordelijkheid opdrachtnemer en opdrachtgever 7
+8. Geen dubbelingen en geen verdringing 7
+9. Niet-naleving van de SROI verplichting 7
+10. Proces na gunning van de opdracht 7
+1 1. Communicatie over SROI 8
+12. Toelichting bij het bouwblokkenschema 8
+13. Bijlage: Begrippenlijst bij Uitvoeringsprotocol SROI Zaanstreek-Waterland 2020 10
+Inleiding
+In de gemeenten in de arbeidsmarktregio Zaanstreek-Waterland is het uitgangspunt dat iedereen zoveel
+mogelijk meedoet in de maatschappij, liefst door het hebben van betaald werk. Wie kan werken, wordt
+actief geholpen om een baan te krijgen. Om deze reden wordt sterk ingezet op beleid voor mensen met
+een afstand tot de arbeidsmarkt. Eén van de instrumenten om de arbeidsparticipatie en -ontwikkeling
+Nr. 120009
+GEMEENTEBLAD
+12 mei
+2020
+Officiële uitgave van de gemeente Purmerend
+Gemeenteblad 2020 nr. 120009 12 mei 20201
+in samenspraak met werkgevers te verhogen, is social return on investment (SROI). Hierbij vragen ge-
+meenten hun opdrachtnemers met SROI om iets terug te doen voor de samenleving, omdat ze een
+opdracht voor de gemeente gaan uitvoeren. De gemeenten in de arbeidsmarktregio Zaanstreek-Waterland
+hebben met elkaar afspraken gemaakt om het SROI-beleid te verbreden, versterken en vernieuwen om
+op die manier de kansen van werkzoekenden te vergroten. Ondernemers krijgen bredere mogelijkheden
+om invulling te geven aan SROI. Voor werkzoekenden betekent de aanpak een versterking van de eigen
+talenten door training, scholing, werkervaring en meer perspectief op duurzaam werk.
+Maatwerk
+SROI is maatwerk en wordt ná gunning in dialoog met de opdrachtnemer ingevuld. Er zijn tal van mo-
+gelijkheden om iets te betekenen voor de gemeente en haar inwoners. Om opdrachtnemers zoveel
+mogelijk vrijheid te geven bij de invulling van SROI wordt de bouwblokkenmethode toegepast. Hierbij
+zijn brede mogelijkheden voor invulling van de SROI verplichting beschikbaar. Ook innovatieve ideeën
+voor de invulling zijn welkom.
+1. T oepassing van dit protocol
+Dit protocol is van toepassing op alle gemeentelijke aanbestedingen waarbij een SROI-eis is opgenomen.
+Het bevat de handvatten die gebruikt kunnen worden om de SROI-eis in te vullen. Lokale of regionale
+ontwikkelingen of de aard van de opdracht kunnen aanleiding zijn voor gemeenten met opdrachtnemers
+afspraken te maken die afwijken van dit protocol.
+Bij de aanbesteding wordt SROI als contracteis (bijzondere uitvoeringsvoorwaarde) opgenomen. Op-
+drachtnemer verplicht zich bij de inschrijving om een bepaald percentage van de opdrachtwaarde in
+te zetten voor SROI.
+2. Doelstellingen SROI
+De doelstellingen van SROI zijn:
+• Bijdragen aan opgaven op de arbeidsmarkt:
+Vergroten van (arbeids)participatie van mensen met een afstand tot de arbeidsmarkt;-
+- Voorkomen en terugdringen van voortijdige schooluitval;
+- Verbinden onderwijs en arbeidsmarkt;
+• Stimuleren sociaal ondernemerschap;
+• Bijdragen aan andere sociale en maatschappelijke opgaven van de gemeente.
+3. Doelgroep SROI
+Tot de doelgroep van SROI behoren:
+• Personen met een indicatie Beschut werk;
+• Personen met een arbeidsbeperking die onder de banenafspraak vallen (doelgroepregister);
+• Personen met een uitkering Participatiewet, WW, WGA, WIA, WAO;
+• Voortijdige schoolverlaters en kwetsbare jongeren die niet meer naar school kunnen;
+• Leerlingen Beroeps Opleidende leerweg (BOL) en Beroeps Begeleidende Leerweg (BBL);
+• Leerlingen Voortgezet Speciaal Onderwijs (VSO) en Praktijkonderwijs (PrO);
+• Werkzoekende niet-uitkeringsgerechtigden (Nuggers);
+• Werkenden zonder startkwalificatie en kwetsbare werkende statushouders.
+4. Hulp bij invulling SROI
+Voor de invulling van SROI wordt samengewerkt met partners in het Werkgeversservicepunt Zaanstreek-
+Waterland (WSP) en met andere maatschappelijke partners. De SROI-adviseurs en WSP-adviseurs
+helpen de ondernemer op weg. De adviseurs verbinden bedrijven en organisaties aan sociale en
+maatschappelijke opgaven in de gemeente. Het WSP kan helpen met het vinden van passende kandi-
+daten
+ voor de werkgever. De WSP-adviseurs ondersteunen bij werving, selectie, matching en plaatsing.
+Zij geven informatie en advies over de beschikbare instrumenten en voorzieningen en over het passend
+Gemeenteblad 2020 nr. 120009 12 mei 20202
+maken van werk voor mensen met een afstand tot de arbeidsmarkt. Gedurende de looptijd van het
+contract monitort de SROI-adviseur de resultaten en informeert de contractmanager van de gemeenten.
+5. Brede mogelijkheden voor invulling SROI
+De invulling van SROI vindt in eerste instantie op de opdracht plaats. Als het invullen niet mogelijk lijkt
+op de opdracht, kijk dan ook naar arbeidsparticipatiemogelijkheden binnen de bredere bedrijfsvoering
+en bij onderaannemers. Daarnaast zijn er mogelijkheden van sociale inkoop en co-creatieve samenwer-
+kingsprojecten. Als dit ook niet mogelijk is, dan kan
+ opdrachtnemer in overleg met en na toestemming
+van de opdrachtgever invulling geven door een bijdrage aan maatschappelijke activiteiten.
+Voor het invullen van de SROI-verplichting bestaan aldus de volgende mogelijkheden: A, B of C en als
+laatste D. Dit is ook de volgorde van voorkeur. Een combinatie van deze mogelijkheden is toegestaan.
+De opdrachtnemer maakt zelf een plan van aanpak in overleg met de SROI-adviseur en de WSP-adviseur.
+A. Arbeidsparticipatie
+Het werk bieden aan kandidaten heeft de voorkeur. Het kan gaan over betaald werk, een leerbaan, stage
+of werkervaringsplek. Ook opleidingskosten en bijzondere begeleidingskosten voor de kandidaten horen
+hierbij. Opleiding kan bijvoorbeeld gericht zijn op vakinhoudelijke kennis, maar ook op het verkleinen
+of wegnemen van taalachterstand.
+B. Sociaal inkopen
+De SROI verplichting kan ook worden ingevuld door sociaal inkopen van diensten of producten bij door
+de arbeidsmarktregio erkende sociaal ondernemers. Hierbij hanteren we de internationaal geaccepteerde
+definitie van ‘sociale onderneming'. Ook de Sociaal Economische Raad (SER) heeft deze geadopteerd.
+Social Enterprise
+ NL heeft deze ontwikkeld tot een landelijke Code Sociale Ondernemingen. Sociaal
+inkopen betreft zodoende een diensten- of productenafname van:
+• een sociale werkvoorziening (SW bedrijven of ook wel de sociale werkplaats genoemd);
+• een sociale onderneming, d.w.z. lid code sociale ondernemingen of lid social enterprise, of gelijk-
+waardig en dit op onafhankelijke wijze kunnen aantonen;
+• een PSO-30+ gecertificeerde onderneming, d.w.z. minimaal 30% van de werknemers is gehandicapt
+of kansarm. Als een onderneming (nog) niet in het bezit is van een PSO-30+ certificaat, maar wel
+onafhankelijk (via vergelijkbare certificering of accountantsverklaring) kan aantonen dat zij voldoen
+aan gelijke criteria, geldt dat minimaal 30% van de
+ werknemers gehandicapt of kansarm moeten
+zijn.
+C. Co-creatieve projecten gericht op kandidaat-ontwikkeling
+Bij co-creatieve projecten gaat het om samenwerking met bedrijven, onderwijs en/of andere maatschap-
+pelijke partners
+ om kandidaten te ontwikkelen. Bijvoorbeeld een praktijkopleidingstraject dat ook ingezet
+kan worden om de positie van werkenden zonder startkwalificatie en kwetsbare werkende statushouders
+te verbeteren of een Wijkleerbedrijf voor de zorg. Het gaat hier om samenwerking op maat, met speci-
+fieke afspraken over de manier waarop een of meerdere SROI verplichtingen worden ingezet voor de
+doelgroep. Dergelijke projecten kunnen ook met
+ meerdere bedrijven worden vormgegeven.
+D. Bijdragen aan maatschappelijke activiteiten
+Als een opdrachtnemer geen - of niet volledig - invulling kan geven aan de SROI verplichting met de
+opties A, B en C, dan kan hij (na overleg en goedkeuring) door het uitvoeren van activiteiten die bijdragen
+aan andere maatschappelijke opgaven in de gemeenten
+ invulling geven. Denk aan activiteiten gericht
+op (arbeids)participatie, armoedebestrijding, eenzaamheid, gezondheidsbevordering of onderwijs.
+Voorwaarde is dat deze activiteiten
+ een relatie hebben met de arbeidsmarkt, het onderwijs en/of de
+maatschappelijke beleidsdoelen van de gemeenten. Het gaat om inzet, in natura, door het verrichten
+van activiteiten die:
+• arbeidsparticipatie of vakmanschap bevorderen. Denk bijv. aan gastlessen over het bedrijf, de
+branche of sector, bedrijfsbezoeken;
+• actief bijdragen aan maatschappelijke initiatieven: combinatie van kennis, expertise
+ of middelen
+delen. Bijvoorbeeld een communicatieplan of organisatieadvies voor een maatschappelijke
+stichting maken;
+• zijn gericht op (taal)ontwikkeling van mensen, het bestrijden van eenzaamheid/sociaal isolement
+of die bijdragen aan de armoede en schuldenaanpak.
+Gemeenteblad 2020 nr. 120009 12 mei 20203
+6. Bouwblokkenschema – de waardering van SROI-invulling
+Om de waarde van de inspanningen voor de SROI verplichting te meten, gebruikt de gemeente de
+bouwblokkenmethode. Iedere doelgroep of activiteit heeft in het bouwblokkenmodel een bedachte
+waarde, een inspanningswaarde. De inspanningswaarde is niet de uitgave aan loon, maar er is rekening
+gehouden met de mate van inspanning voor de begeleiding van de doelgroep, d.w.z. de afstand tot de
+arbeidsmarkt. Met
+ andere woorden hoe moeilijker de kandidaat doorgaans aan betaald werk komt of
+blijft, des te hoger de inspanningswaarde waarmee wordt gerekend. Lokale of regionale ontwikkelingen
+of de aard van de opdracht kunnen aanleiding zijn voor gemeenten
+ met opdrachtnemers andere afspra-
+ken te maken over de toepassing van de bouwblokken.
+SOCIAL RETURN ON INVESTMENT
+BOUWBLOKKEN SCHEMA
+ARBEIDSMARKTREGIO ZAANSTREEK-WATERLAND
+Duur meetellenSROI waarde
+Bouwblok
+A. Arbeidsparticipatie
+per jaar per fte (36
+uur)
+Betaald dienstverband
+Altijd50.000Beschut werk1
+Altijd40.000Banenafspraak (doelgroepregister, ook Wajong, Wsw)2
+FactuurbedragWsw detachering3
+5 jaar35.000WIA/WAO4
+2 jaar35.000Participatiewet5
+2 jaar35.000Voortijdig schoolverlaters / kwetsbare jongeren tot
+27
+6
+2 jaar35.000
+Na uitstroom BBL 1-2, VSO, PrO7
+1 jaar15.000Niet Uitkeringsgerechtigde (P-wet Nugger)8
+1 jaar15.000WW9
+Werkervaringsplaats
+1250,- per maand7 .500Werkervaringsplaats10
+Leerlingen
+Studieperiode20.000Leerling BBL leerbaan niveau 1-21 1
+Studieperiode10.000Leerling BBL leerbaan niveau 3-412
+Studieperiode7 .500Leerling BOL stage niveau 1-213
+Studieperiode5.000Leerling BOL stage niveau 3-414
+Studieperiode10.000Leerling VSO/Praktijkonderwijs stage15
+Extra
+Eenmalig/naar ra-
+to
+10.000
+Dienstverband onbepaalde tijd16
+Eenmalig/naar ra-
+to
+10.000
+Dienstverband 50 +17
+Eenmalig/naar ra-
+to
+15.000
+Dienstverband statushouder/personen met taalach-
+terstand
+18
+Kosten in overleg en
+na goedkeuring
+Opleidingskosten19
+Kosten in overleg en
+na goedkeuring
+Bijzondere begeleidingskosten20
+EenmaligKorting SROI-verplich-
+ting
+Prestatie ladder Socialer Ondernemen (PSO)
+trede 1,
+21
+10%,trede 2,
+25%,trede 3
+50%
+Gemeenteblad 2020 nr. 120009 12 mei 20204
+EenmaligVrijstelling SROI-ver-
+plichting
+PSO-ladder, 30+
+= minimaal 30% van de werknemers
+ gehandicapt of
+kansarm
+22
+B. Sociaal inkopen
+FactuurbedragSociaal inkopen van diensten of producten bij23
+• een sociale werkvoorziening
+• een sociale onderneming
+• PSO 30+ gecertificeerde organisatie
+C. Co- creatieve projecten
+Waarde trajectCo-creatief project gericht op kandidaat-ontwikkeling24
+D. Maatschappelijke activiteiten
+Waarde in uren op
+basis van goedge-
+keurd plan
+Hulp, kennis en expertise bieden, in natura, aan
+maatschappelijke activiteiten en initiatieven
+25
+7 .Verantwoordelijkheid opdrachtnemer en opdrachtgever
+De opdrachtnemer is te allen tijde zelf verantwoordelijk voor de invulling van zijn SROI verplichting. Er
+is sprake van een contractuele verplichting om aan de
+ eis te voldoen. De SROI-adviseurs en WSP-advi-
+seurs kunnen de opdrachtnemer adviseren en ondersteunen bij de invulling van de SROI verplichting.
+De gemeente en haar partners in het WSP hebben echter geen leveringsverplichting van kandidaten.
+8. Geen dubbelingen en geen verdringing
+Het is niet toegestaan om kandidaten die in andere gemeenten zijn meegerekend voor de invulling van
+een SROI-verplichting, opnieuw mee te rekenen voor dezelfde periode.
+SROI mag niet leiden tot verdringing van bestaande arbeidsplaatsen, leerwerkplekken of stageplaatsen.
+Op verzoek maakt de opdrachtnemer dit aannemelijk.
+De opdrachtnemer verklaart geen vergoedingen of subsidie(s) te (hebben) ontvangen voor kosten (van
+opleiding of begeleiding) die hij opgeeft voor verrekening met de SROI-verplichting. Verrekeningen
+voor de SROI-verplichting waarop de
+ opdrachtnemer ten tijde van de verlening geen recht had, kan
+het college verrekenen met de SROI-verplichting op latere periodes.
+9. Niet-naleving van de SROI verplichting
+SROI is een contractuele verplichting en dus niet vrijblijvend. De SROI verplichting moet, net als alle
+andere contractuele verplichtingen, geheel nagekomen zijn vóór het
+ einde van de opdracht. Heeft de
+opdrachtnemer aan het einde van de looptijd van de opdracht de SROI verplichting niet volledig ingevuld,
+dan heeft de gemeente van rechtswege een direct opeisbare vordering op de opdrachtnemer ten be-
+drage van de openstaande SROI verplichting. Dit bedrag kan door de gemeente worden ingehouden
+op nog te betalen facturen aan de opdrachtnemer of op andere wijze ingevorderd worden.
+Als
+ de SROI-verplichting niet kan worden ingevuld, wordt eerst samen met opdrachtnemer naar een
+oplossing gezocht. De vordering wordt niet opgelegd als naar de mening van opdrachtgever de op-
+drachtnemer (aantoonbaar) niets te verwijten valt bij het
+ niet voldoen aan de SROI-eis.
+Het niet of onvolledig nakomen van de SROI verplichting kan tevens tot gevolg hebben dat de opdracht-
+nemer bij toekomstige onderhandse opdrachten niet meer wordt uitgenodigd door de gemeente.
+10. Proces na gunning van de opdracht
+• Opdrachtnemer neemt binnen twee weken na gunning contact op met de SROI adviseur van de
+gemeente.
+Gemeenteblad 2020 nr. 120009 12 mei 20205
+• De SROI-adviseur en de WSP-adviseur adviseren en faciliteren de opdrachtnemer - indien gewenst
+- bij het opstellen van een plan van aanpak voor de SROI invulling. De dienstverlening is beschik-
+baar met inachtneming van de onder punt 7 bepaalde verantwoordelijkheid van de opdrachtnemer.
+De dienstverlening is telefonisch, via mail, via een adviesgesprek of uitnodiging voor een infor-
+matiebijeenkomst SROI.
+• Opdrachtgever/SROI-adviseur maakt met opdrachtnemer afspraken op hoofdlijnen over de uit te
+voeren SROI-activiteiten eventueel in samenwerking met het WSP en/of andere partners.
+• Opdrachtnemer mailt deze afspraken in een plan van aanpak binnen de afgesproken tijd naar
+socialreturn@gemeente.nl. De afspraken en tussentijds overeengekomen aanpassingen maken
+deel uit van het contract. Uiteraard staat het de opdrachtnemer vrij om ook al voorafgaande aan
+eventuele advisering aan de slag te gaan met zijn SROI invulling.
+• Voor de monitoring van SROI maken opdrachtgever en opdrachtnemer gebruik van een registra-
+tiesysteem. Opdrachtgever geeft aan hoe vaak en in welke vorm de rapportage plaatsvindt.
+• Opdrachtnemer is ervoor verantwoordelijk aantoonbaar te maken in de
+ beschikbaar gestelde re-
+gistratie, dat - en op welke wijze - er resultaten zijn behaald voor SROI. Ter controle en verificatie
+van de gegevens van de SROI-invulling moeten documenten ter verantwoording/onderbouwing
+beschikbaar zijn. De gemeenten verwerken de gegevens van social return kandidaten op basis
+van de Algemene Verordening Gegevensbescherming (AVG).
+• Opdrachtnemer voert de SROI invulling uit gedurende de looptijd van de opdracht.
+• Opdrachtnemer rapporteert volgens afspraak over de voortgang van de uitvoering van de SROI-
+invulling in het
+ registratiesysteem.
+• Binnen een maand na het einde van de opdracht heeft de opdrachtnemer zijn SROI-verantwoording
+in het registratiesysteem voltooid. Bij meerjarige contracten voltooit opdrachtnemer jaarlijks vóór
+februari zijn SROI-verantwoording van het afgelopen kalenderjaar.
+11.Communicatie
+ over SROI
+Heeft de opdrachtnemer ná gunning van een opdracht van de gemeente vragen over de invulling van
+de SROI verplichting dan kunnen
+ deze gesteld via onderstaande emailadressen.
+• socialreturn@purmerend.nl bij opdrachten van gemeenten Beemster en Purmerend
+• socialreturn@edam-volendam.nl  bij opdrachten van gemeente Edam-Volendam
+• contactgegevens inkoper bij opdrachten van Landsmeer
+• socialreturn@over-gemeenten.nl bij opdrachten van gemeenten Oostzaan en Wormerland
+• socialreturn@waterland.nl bij opdrachten van gemeente Waterland
+• socialreturn@zaanstad.nl bij opdrachten van gemeente Zaanstad
+Dit uitvoeringsprotocol is te downloaden van de websites van gemeenten. Op de websites staat ook
+informatie om de
+ ondernemer verder op weg te helpen.
+12. T oelichting bij het bouwblokkenschema
+a. Waardebepaling kandidaten
+De SROI waarde van de dienstverbanden in het bouwblokkenmodel is op jaarbasis (12 maanden)
+bij een fulltime dienstverband (36 uur per week), tenzij anders vermeld.
+Een kandidaat kan - in principe -
+ maximaal voor de duur van de opdracht worden meegerekend
+(dus langer of korter dan 12 maanden). De uiteindelijke SROI-waarde wordt daarnaast mede bepaald
+door het bouwblok waarin de kandidaat valt, het aantal werkuren per week en de maximale duur
+van meetellen behorende bij het bouwblok.
+Bij de berekening van de SROI waarde van een kandidaat worden afwijkingen ten opzichte van
+het
+ standaard bouwblok naar verhouding berekend, hetgeen resulteert in een gewogen social
+return waarde. Voorbeeldberekening:
+Kandidaat heeft een WW-uitkering en krijgt een contract van 6 maanden voor 24 uur/week. De
+berekening gaat dan als volgt: 6/12 (maanden) x 24/36 (uur) x € 15.000,- (bouwblokwaarde) = €
+5.000,- (gewogen social return waarde).
+Er zijn 3 uitzonderingen op de 36 uursnorm:
+• Bij BBL geldt 32 uur/week als fulltime (4 dagen werken, 1 dag in de week naar school).
+• Bij de doelgroep Beschut werk wordt bij ≥ 31 uur/week de waarde van het bouwblok gerekend.
+Gemeenteblad 2020 nr. 120009 12 mei 20206
+• Bij de doelgroep Garantiebanen wordt bij ≥ 25,5 uur/week de waarde van het bouwblok
+gerekend.
+b. De bouwblokwaarde is inclusief begeleiding tenzij er bijzondere begeleidingskosten worden afge-
+sproken.
+c. Een kandidaat gestart binnen 12 maanden voorafgaand aan de opdracht, mag meetellen gedurende
+de looptijd van de opdracht, rekening houdende met de maximale duur van meetellen behorende
+bij het bouwblok.
+d. Proefplaatsingen tellen mee voor SROI wanneer er een betaald dienstverband van minimaal 6
+maanden op volgt. In dat geval mag 50% van de periode van de proefplaatsing worden meegeteld.
+e. Bij overlap geldt de hoogste waarde. Wanneer bijv. een kandidaat een WW-uitkering heeft en
+daarnaast tot de doelgroep Banenafspraak hoort, wordt gerekend met het bouwblok Banenafspraak.
+f. Noodzakelijke instrumenten van werkgeversdienstverlening kunnen in overleg met de WSP-advi-
+seur worden ingezet, ook bij co-creatieve projecten. Vergoedingen of subsidie(s) voor kosten (van
+opleiding of bijzondere begeleiding) trekt de ondernemer af van het bedrag dat hij opgeeft voor
+verrekening met de SROI-verplichting. Ook kunnen kosten niet bij meerdere opdrachten of bij
+meerdere gemeenten worden opgegegeven als invulling SROI.
+g. Bouwblok
+ 2. In dit bouwblok ‘Garantiebanen’ kunnen in overleg ook kandidaten meetellen die
+vanuit een tijdelijke garantiebaan, dus vanuit werk, de overstap naar het bedrijf met de SROI
+verplichting maken. Dit bevordert duurzaamheid van werk voor kandidaten.
+h. Bouwblok 10. Voor een werkervaringsplaats (WEP) geldt een waarde van 1250,- per maand onge-
+acht het aantal uren per week. De maximale duur van een WEP is afgesproken in de Re-integra-
+tieverordening van de regio. Opleidingskosten kunnen worden meegerekend. Begeleidingskosten
+kunnen worden meegerekend als de werkzoekende een beschut werk nieuw indicatie heeft en
+voor de doelgroep Banenafspraak in overleg.
+i. Bouwblok
+ 12. Voor o.a. dit bouwblok kunnen in aanbestedingen bijzondere regels afgesproken
+worden, als leerlingen in een bepaalde sector geen afstand tot de arbeidsmarkt hebben en daarmee
+niet tot de doelgroep SROI behoren.
+j. Bouwblok 11-15. Vanuit maatwerk kunnen stages van werkzoekenden met een arbeidsbeperking
+vanuit andere opleidingen, in overleg, ook in aanmerking komen voor invulling van de SROI
+verplichting. Bijvoorbeeld een wajongere die een HBO of universitaire opleiding volgt.
+k. Bouwblok
+ 18. Het betreft een concreet aantoonbare taalachterstand gebaseerd op de meetinstru-
+menten die in het kader van de aanpak laaggeletterdheid in de arbeidsmarktregio worden gehan-
+teerd.
+l. Bouwblok
+ 19. Gemeenten in Zaanstreek-Waterland hechten aan duurzame uitstroom. Dit betekent
+dat aan geplaatste kandidaten aangeboden opleidingen en trainingen voor certificaten, na overleg
+en goedgekeurd door de
+ WSP- en SROI adviseur, verrekend kunnen worden met de SROI verplich-
+ting. De aangeboden opleiding of training moet aantoonbaar bijdragen aan het verbeteren van
+de arbeidsmarktpositie van de kandidaat.
+Voor kandidaten van buiten de arbeidsmarktregio Z-W tellen gemaakte kosten voor opleiding
+mee voor SROI voor zover de kosten aantoonbaar
+ zijn gemaakt om de kansen van de kandidaat
+op de arbeidsmarkt te vergroten.
+m. Bouwblok 20. Bijzondere begeleidingkosten voor kandidaten uit de arbeidsmarktregio Z-W, kunnen
+ná overleg en goedkeuring door de WSP-adviseur worden ingediend voor verrekening met de
+SROI-verplichting. Voor kandidaten van buiten de arbeidsmarktregio Z-W, kunnen bijzondere
+begeleidingskosten ná overleg en onderbouwd gedurende maximaal drie maanden voor maximaal
+2 uur per week per kandidaat worden meegerekend tegen een tarief van maximaal €75,- per uur.
+Bij een werkervaringsplaats kunnen begeleidingskosten alleen worden opgevoerd als de werkzoe-
+kende een beschut werk nieuw indicatie heeft en voor de doelgroep Banenafspraak in overleg.
+n. Bouwblok
+ 21. Het gebruik van de Prestatieladder Socialer Ondernemen (PSO) bevordert inclusief
+werkgeverschap. Hoe hoger een ondernemer scoort op de Prestatieladder Socialer Ondernemen
+hoe inclusiever het
+ bedrijf.
+o. Bouwblok 22. Bij een PSO 30 + gecertificeerde onderneming (of gelijkwaardig) is minimaal 30%
+van de werknemers gehandicapt of kansarm.
+p. Bouwblok 23. Verrekening van sociaal inkopen gaat als volgt:
+• De facturen van SW bedrijf, ondernemingen met Code Sociale Ondernemingen, PSO 30+
+(of gelijkwaardig) kunnen voor 100% in mindering worden gebracht op de SROI-verplichting.
+• De facturen van ondernemingen die lid zijn van “Social Enterprise NL ” (of gelijkwaardig)
+kunnen voor 50% in mindering worden gebracht op de SROI-verplichting.
+• BTW telt niet mee, materiaalkosten in overleg.
+• Korting geldt alleen voor de opdrachtnemer, niet voor de onderaannemer(s).
+s. Bouwblok
+ 24. Afspraken over welke kosten van het traject voor SROI in aanmerking komen, gaan
+in overleg.
+Gemeenteblad 2020 nr. 120009 12 mei 20207
+r. Bouwblok 25. Als de opdrachtnemer (een deel van) de SROI verplichting door een bijdrage aan
+een maatschappelijke activiteit wil invullen, dan dient hij (na overleg en goedkeuring) een onder-
+bouwd voorstel met urenberekening in bij de SROI-adviseur. Voor activiteiten die in tijd uitgedrukt
+kunnen worden, is het richtbedrag het aantal uren x uurloon van de betrokken medewerker(s)
+(met een maximum van € 100,- per uur ex. btw).
+13. Bijlage: Begrippenlijst bij Uitvoeringsprotocol SROI Zaanstreek-Waterland 2020
+Deze vindt u op de websites van de gemeenten.
+Purmerend, 28 april 2020
+Burgemeester en wethouders van Purmerend,
+De secretaris,
+G.
+Blom
+De burgemeester,
+D.
+Bijl
+Gemeenteblad 2020 nr. 120009 12 mei 20208
+Begrippenlijst bij Uitvoeringsprotocol SROI Zaanstreek-Waterland 2020
+Banenafspraak
+De Banenafspraak is een akkoord tussen de overheid, werkgevers en werknemersorganisaties om meer
+banen te creëren voor mensen met een arbeidsbeperking. Werkgeversservicepunt Zaanstreek - Waterland
+staat klaar om u te ondersteunen bij de uitvoering van de afspraken. Kijk voor meer informatie op
+www.banenafspraken.nl.
+https://www.youtube.com/watch?v=V5UFmCiJ330 
+https://www.youtube.com/watch?v=Qw7dsHo8qgw 
+Wat is een indicatie banenafspraak
+Een Indicatie banenafspraak is een verklaring die u krijgt als u door een ziekte of handicap
+ niet het mi-
+nimumloon kunt verdienen. U kunt deze krijgen als de gemeente u naar werk begeleidt of heeft begeleid.
+Of als u het voortgezet speciaal onderwijs (vso), praktijkonderwijs (pro) of de entree-opleiding in het
+mbo volgt of volgde.
+Kabinet en werkgevers hebben afgesproken dat ze banen gaan creëren voor mensen met
+ een ziekte of
+handicap. Werkgevers moeten tot 2026 in totaal 100.000 banen realiseren voor mensen met een ziekte
+of handicap. De overheid doet dit voor 25.000 mensen met een ziekte of handicap. Deze afspraak heet
+de banenafspraak. Heeft u een Indicatie banenafspraak? Dan valt u onder de doelgroep
+ van de banen-
+afspraak. Wij nemen u dan op in het doelgroep-register. U heeft dan meer kans op werk. Want het is
+voor werkgevers financieel aantrekkelijk om iemand uit het doelgroep-register in dienst te nemen of
+te houden. Heeft u ondersteuning nodig bij het vinden of houden van werk? Neem dan contact op met
+uw gemeente.
+Beroeps (be)geleidende Leerweg (BBL)
+Een Beroepsbegeleidende Leerweg is een middelbare beroepsopleiding in de vorm van werkend leren.
+De leerling/ werknemer is in loondienst bij een (formele)
+ werkgever en ontvangt loon volgens de CAO
+of loopt stage bij een werkgever en ontvangt hiervoor een stagevergoeding. Het opleidingsbedrijf moet
+erkend zijn door de
+ brancheorganisatie.
+Bij BBL (4 dagen werken, 1 dag naar school) geldt 32 uur werken als fulltime
+Beroeps opleidende leerweg (BOL)
+Een vorm van middelbaar beroepsonderwijs waarbij 20% tot 60% beroepspraktijkvorming is; de opleiding
+vindt voornamelijk plaats op school. Het bedrag voor ‘BOL en overige stage’ en ‘Stage voor leerlingen
+VSO en praktijkonderwijs’ is per volbrachte stageperiode (ongeveer 300 uur).
+Beschut werk
+Dit betreft kandidaten die een indicatie beschut werk van het UWV hebben
+https://www.youtube.com/watch?v=lgftn56BG14 
+Code sociale ondernemingen
+Als je een sociale onderneming wilt opzetten en
+ tot een succes wilt maken, heb je aan een juiste definitie
+niet genoeg. Hoe vertaal je die definitie naar beleid en bedrijfsvoering? Hoe zouden deze eruit moeten
+zien? Dat staat uitgewerkt in de Code Sociale Ondernemingen. De code toetst of sociale ondernemingen
+impact first zijn aan de hand van 5 principes, die tezamen laten zien waar sociaal ondernemen voor
+staat. Elk van de 5 principes wordt in de Code gevolgd door een praktische uitwerking. Als de sociaal
+ondernemer een beoordeling hiervan door een Review Board (peer review-collegiale evaluatie) doorstaat,
+wordt de sociale onderneming opgenomen in het
+ Register Sociale Ondernemingen.
+Is een onderneming opgenomen in het Register, dan kan iedereen – van consument tot overheid en
+van medewerker tot investeerder – zien dat het, tot diep in de vezels van de bedrijfsvoering, gaat om
+een sociale onderneming. https://www.codesocialeondernemingen.nl/application/fi-
+les/3615/8254/9435/00._Toelatingscriteria_vastgestelde_versie_06-02-2020.pdf 
+Doelgroep-register
+Het doelgroep-register is een landelijk register, waarin alle mensen staan die vallen onder de banenaf-
+spraak. UWV beheert dit register. Met de gegevens uit het doelgroep-register kan het
+ ministerie van
+Sociale Zaken en Werkgelegenheid controleren of werkgevers de afgesproken banen creëren voor
+mensen met een arbeidsbeperking. Werkgevers
+ kunnen met uw burgerservicenummer zien of u in het
+doelgroep-register staat. En of u dus meetelt voor de banenafspraak.
+De volgende mensen staan in het doelgroep-register en vallen onder de banenafspraak:
+• Mensen die onder de
+ Participatiewet vallen, van wie wij vaststellen dat zij niet zelfstandig 100%
+van het wettelijk minimumloon kunnen verdienen.
+• Schoolverlaters van het voortgezet speciaal onderwijs (vso) en het praktijkonderwijs (pro) die zich
+hebben aangemeld bij UWV.
+• Mensen met een WSW-indicatie (voormalige Wet Sociale Werkvoorziening).
+• Mensen met oude Wajong of Wajong 2010 die kunnen werken.
+• Mensen met een WIW-baan (voormalige Wet inschakeling werkzoekenden) of een ID-baan
+(voormalig Besluit in- en doorstroombanen).
+• Mensen die via de Praktijkroute in het doelgroep-register instromen.
+Gemeenteblad 2020 nr. 120009 12 mei 20209
+• Mensen met een ziekte of handicap die is ontstaan voor hun 18e verjaardag of tijdens hun studie,
+die alleen het wettelijk minimumloon kunnen verdienen met een werkvoorziening (bijvoorbeeld
+een vervoersvoorziening of een brailletoetsenbord).
+Garantiebanen
+Zie Banenafspraak, een garantiebaan is een baan voor een persoon die onder de banenafspraak valt.
+Deze persoon is ook opgenomen in het doelgroep-register.
+MVO-activiteiten
+Activiteiten die invulling geven aan maatschappelijk verantwoord ondernemen op het gebied van een
+inclusieve arbeidsmarkt.
+Nugger
+Niet-uitkeringsgerechtigde, persoon als bedoeld in de Participatie-wet, artikel 6, lid 1 onder a.
+De groep werkzoekenden die niet in aanmerking komt voor een uitkering en waarvoor de gemeente
+de opdracht heeft tot ondersteuning bij arbeidsinschakeling. Bijvoorbeeld een ouder die langere tijd
+voor een ziek kind
+ heeft gezorgd, een verdienende partner heeft, en weer aan het werk wil gaan.
+Online systeem
+Zaanstad werkt met een online rapportagesysteem voor SROI. Hiermee kunnen bedrijven met een SROI
+verplichting de invulling online rapporteren en de SROI op hun contracten inzien. Om beleid van ge-
+meenten tot een succes te maken zijn heldere afspraken én regie essentieel. Het is een web-based
+systeem waarin bijgehouden wordt in hoeverre een opdrachtnemer aan zijn SROI-verplichting heeft
+voldaan. Het is gebruiksvriendelijk door:
+• heldere intuïtieve navigatie met
+ tegels
+• vraagt alleen die gegevens die nodig zijn voor de verantwoording
+• meeste invoer door “klikken, selecteren en aanvinken”
+• signalen voor de gebruiker op het moment dat actie nodig is
+• te gebruiken op laptop, tablet en smartphone.
+Het programma voldoet aan de richtlijnen van de AVG en de informatie die wordt ingevoerd, is beveiligd,
+zowel persoonsgegevens als contractinformatie.
+Participatiewet
+Iedereen die kan werken maar daarbij ondersteuning nodig heeft, valt onder de Participatiewet. De wet
+is er om zoveel mogelijk mensen met of zonder arbeidsbeperking werk te laten vinden. De Participatiewet
+is in de plaats
+ gekomen voor de Wet werk en bijstand (Wwb), de Wet sociale werkvoorziening (WSW),
+en een groot deel van de Wet werk en arbeidsondersteuning jonggehandicapten (Wajong).
+Praktijkleren
+De arbeidsmarktregio gaat in het kader van een landelijke pilot een derde leerweg binnen het MBO
+maken. Het gaat om een praktijkgerichte route voor mensen die (nog) geen volledig diploma kunnen
+behalen. Dit zorgt voor extra kansen
+ om kwalificaties te behalen en vergroot zo de duurzame inzetbaar-
+heid van mensen. Dit is waardevol voor mensen die een grote afstand hebben tot de arbeidsmarkt. De
+leerweg kan ook een opstap zijn naar vervolgonderwijs.
+https://www.s-bb.nl/onderwijs/kwalificeren-en-examineren/pilots-praktijkleren-met-de-praktijkverklaring-
+in-het-mbo 
+PSO-ladder
+De Prestatieladder Socialer Ondernemen is een landelijk meetinstrument en keurmerk dat de mate van
+sociaal ondernemen objectief zichtbaar maakt. Filmpje met korte uitleg PSO: https://www.youtu-
+be.com/watch?v=HpqAdzObiYk&feature=youtu.be 
+De Prestatieladder Socialer Ondernemen (PSO) van TNO bestaat uit twee componenten: Zo is het een
+vrij toegankelijk meetinstrument dat objectief bepaalt
+ in welke mate een organisatie socialer (inclusiever)
+onderneemt. En een, na certificeringsproces, uit te geven keurmerk. De PSO is wetenschappelijk onder-
+bouwd en uitgegroeid tot landelijk erkende norm voor inclusief ondernemerschap en inclusieve werk-
+gevers. De PSO wordt jaarlijks doorontwikkeld o.b.v. nieuwste wetenschappelijke inzichten. Groeien
+op de PSO-prestatieladder is mogelijk door (directe) werkgelegenheid te bieden aan mensen met een
+afstand tot de arbeidsmarkt en (indirect) door aantoonbaar socialer in te kopen. Door in te kopen bij
+andere PSO-gecertificeerde organisaties groeit een organisatie ook op de PSO-prestatieladder. Daardoor
+vragen steeds meer organisaties en gemeenten de PSO uit richting hun eigen ketenpartners zoals leve-
+ranciers en opdrachtnemers. De acceptatie van de PSO bij SROI bij overheidsopdrachten groeit snel.
+De PSO wordt door meer dan een veertig procent van de Nederlandse gemeenten toegepast in het
+kader van SROI. Lees verder op: www.pso-nederland.nl.
+Opdrachtnemer voldoet aan de SROI-eis als:
+• hij is gecertificeerd volgens de PSO van TNO (of een gelijkwaardige certificering of verklaring van
+accountant dat hij voldoet aan) PSO-ladder: trede 1, trede 2 , trede 3 en krijgt respectievelijk een
+korting op de SROI-verplichting van 10%, 25%, 50%. Bij PSO-ladder 30+, is er een vrijstelling van
+de SROI- verplichting én
+• aan opdrachtgever een certificaat hiervan overlegt met
+ een geldigheidsduur gelijk aan of groter
+dan de looptijd van de opdracht.
+Gemeenteblad 2020 nr. 120009 12 mei 202010
+• Als de geldigheid van het certificaat verloopt tijdens de opdracht en het certificaat niet wordt
+verlengd, of de certificering na de startdatum van de opdracht wordt behaald, moet de SROI-eis
+alsnog, naar rato (tijdsduur zonder certificering tijdens de opdracht/tijdsduur opdracht), ingevuld
+worden.
+PSO – 30 + certificering
+Bij een PSO – 30 + gecertificeerde organisatie is minimaal 30% van de werknemers gehandicapt of
+kansarm. Indien een organisatie niet in het bezit is van een PSO certificaat, maar wel gelijkwaardig dan
+gelden dezelfde kortingspercentages. Dit betekent dat de organisatie onafhankelijk kan aantonen (bij-
+voorbeeld middels een vergelijkbare certificering of een accountantsverklaring) dat ze mensen met een
+afstand tot de arbeidsmarkt duurzaam aan het werk hebben (zie art. 20 lid 1 van de aanbestedingsrichtlijn
+2014/24)
+Social Enterprise NL
+Social Enterprise
+ NL ondersteunt sociaal ondernemers door hun zichtbaarheid te vergroten en hen met
+raad en daad bij te staan via het ledenprogramma. Dit is een stichting zonder winstoogmerk.
+Sociale onderneming
+Sociale ondernemingen streven
+ primair en expliciet een maatschappelijk doel na. Dat wil zeggen dat
+zij een maatschappelijk probleem willen oplossen. Daarnaast is een sociale onderneming financieel
+zelfvoorzienend en sociaal in de wijze waarop de onderneming wordt gevoerd; De sociale onderneming
+moet deelnemer zijn van de “Code Sociale Ondernemingen”/ www.codesocialeondernemingen.nl of
+lid zijn van “Social Enterprise NL ”/ www.social-enterprise.nl of gelijkwaardig d.w.z. dit op onafhanke-
+lijke wijze kunnen aantonen.
+SROI
+Social return on investment: Het opnemen van sociale voorwaarden bij inkoop- of aanbestedingstrajecten
+Startkwalificatie
+Een startkwalificatie is een diploma havo, vwo of mbo niveau 2 of hoger.
+Voortijdige schoolverlaters
+Voortijdige schoolverlaters en kwetsbare jongeren: Voortijdig schoolverlaters zijn alle jongeren tussen
+de 18 en 23 jaar die het onderwijs verlaten zonder een havo, vwo of (minimaal) MBO-2 diploma. Voor
+deze jongeren geldt de kwalificatieplicht. Dit betekent
+ dat de RMC hen gaat benaderen met als doel
+alsnog een startkwalificatie te behalen.
+Ook kwetsbare leerlingen tot 27 jaar zonder startkwalificatie die uitvallen op school, vallen onder deze
+groep. Een startkwalificatie is een diploma havo, vwo of mbo niveau 2 of hoger.
+VSO
+Voortgezet Speciaal Onderwijs.
+Wajong
+Wet arbeidsongeschiktheidsvoorziening jonggehandicapten
+De Wajong is bedoeld voor mensen die op jonge leeftijd
+ door ziekte of handicap over een verminderd
+arbeidsvermogen beschikken en daardoor niet zelfstandig het minimumloon kunnen verdienen. De
+Wajong kent drie
+ regelingen:
+• oWajong voor jonggehandicapten die voor 2010 zijn ingestroomd in de Wajong, dit is de oude
+Wajong-regeling;
+• Wajong 2010 voor jonggehandicapten die zijn ingestroomd tussen 2010 en 2014;
+• Wajong 2015 voor jonggehandicapten die zijn ingestroomd vanaf 2015 en is bedoeld voor mensen
+die op jonge leeftijd een ziekte of handicap kregen waardoor ze nu en in de toekomst geen moge-
+lijkheden hebben om te werken (dit noemt men duurzaam geen arbeidsvermogen).
+Vanaf 2015 is de
+ Wajong niet langer toegankelijk voor jonggehandicapten die 18 jaar worden en arbeids-
+vermogen hebben. Zij vallen onder de Participatiewet en hebben mogelijk recht op hulp van de gemeente
+bij het vinden van werk en mogelijk ook op bijstand.
+WAZ
+WAZ (Wet arbeidsongeschiktheidsverzekering zelfstandigen). Tot 1 augustus 2004 was de WAZ de
+verplichte arbeidsongeschiktheidsverzekering voor zelfstandigen.
+Werkervaringsplaats
+Werken met behoud van uitkering met toestemming van de uitkerende instantie. Werkervaringsplaats
+P-wet volgens de verordening van de gemeenten in de arbeidsmarktregio Z-W
+Werkgeverservicepunt Zaanstreek-Waterland
+Het Werkgevers
+ Servicepunt Zaanstreek-Waterland (WSP) is een regionaal samenwerkingsverband
+van gemeenten en UWV. Zij werken samen met veel partners op de arbeidsmarkt, zoals ondernemers,
+uitzendbureaus, het onderwijs, diverse hulpverleningsinstanties en welzijnsorganisaties.
+U kunt er terecht met al uw werkgeversvragen en voor kosteloze werving en selectie van personeel.
+Werkgevers die sociaal willen ondernemen kunnen zij extra ondersteunen met deskundig advies, finan-
+ciële voordelen en regelingen. http://www.wspzaanstreek-waterland.nl/
+Werkom
+Werkom is het leerwerkbedrijf van de gemeenten Zaanstad en Purmerend. Het leerwerkbedrijf dat werkt
+voor iedereen! Voor iedereen die werk zoekt. Voor iedere werkgever die (extra) werknemers nodig
+Gemeenteblad 2020 nr. 120009 12 mei 202011
+heeft. Voor iedere opdrachtgever die inclusief wil ondernemen. Werkom staat daarbij voor verbinding.
+De verbinding van mens(ontwikkeling), werk(perspectief) en de arbeidsmarkt. Werkom brengt mensen
+en organisaties bij elkaar om mensen met een overbrugbare afstand tot de arbeidsmarkt die graag
+willen werken, weer
+ aan het werk te krijgen en duurzaam aan het werk te houden. Op deze verbindende
+manier wordt door Werkom invulling gegeven aan de taken vanuit de Participatiewet die in opdracht
+van de gemeenten Zaanstad en Purmerend worden uitgevoerd. https://www.werkom.nl/ 
+WIA/WAO
+WIA
+ (Wet werk en inkomen naar arbeidsvermogen)
+De WIA is bedoeld voor mensen die tijdens het arbeidzame leven door ziekte niet of niet meer kunnen
+werken. De WIA kent twee regelingen:
+• Werkhervatting gedeeltelijk arbeidsongeschikten (WGA) is bedoeld voor mensen die gedeeltelijk
+arbeidsongeschikt zijn (35-80%) en voor personen die wel volledig arbeidsongeschikt zijn bevonden
+(80-100%), maar bij wie nog wel een kans op herstel is;
+• Inkomensvoorziening Volledig Arbeidsongeschikten (IVA) is bedoeld voor personen die onder de
+WIA
+ vallen en die weinig tot geen arbeidsmogelijkheden hebben en waarbij ook geen herstel
+meer is te verwachten.
+Niet iedereen die een WIA-uitkering aanvraagt, krijgt deze ook toegekend. Als er sprake is van een ar-
+beidsongeschiktheidspercentage van minder dan 35%, wordt de WIA-aanvraag afgewezen. Een deel
+van deze mensen kan mogelijk wel aanspraak maken
+ op een WW-uitkering.
+De kandidaten voor wie de werkgevers ingevolge de Wet Verbetering Poortwachter een verplichting
+tot re-integratie hebben vallen niet onder de SROI doelgroep.
+De WAO was de voorganger van de WIA en bedoeld voor mensen die vóór 1 januari 2004 een langdu-
+rige ziekte of handicap kregen. Instroom in de WAO is nog uitsluitend mogelijk voor mensen die eerder
+een WAO-uitkering ontvingen en niet voor nieuwe aanvragen.
+WW
+Werkloosheidswet.
+Gemeenteblad 2020 nr. 120009 12 mei 202012
+
+=== Document: bijlage 10 - kma klachtenregeling 2022 v1.0 ===
+Klachtenregeling  
+Coördinatie Aanbestedingen 
+  
+V1.0 
+ 2 
+Inhoud 
+1 Inleiding 3 
+2 Definitie van een klacht 4 
+3 Klachtenmeldpunt aanbesteden (KMA) 4 
+4 Voorwaarden voor het indienen van een klacht 4 
+5 Voorwaarden ten aanzien van de ontvankelijkheid van een klacht 5 
+6 De klachtprocedure 6 
+7 Verantwoording 7 
+ 
+  
+ 3 
+ 
+1 Inleiding 
+Op alle aanbestedingsprocedures (Europese aanbesteding, nationale aanbesteding en meervoudig 
+onderhandse aanbesteding) van Gemeente Purmerend is de volgende klachtenregeling van 
+toepassing. Deze klachtenregeling is ter uitvoering van de Klachtenafhandeling bij Aanbesteden als 
+flankerend beleid bij de Aanbestedingswet 2012. 
+ 
+Een ondernemer kan gebruik maken van deze klachtenregeling, maar is hiertoe niet verplicht. Het 
+recht om een klacht voor te leggen aan de bevoegde rechter wordt door deze klachtenregeling niet 
+aangetast. Indien een ondernemer zowel een klacht heeft ingediend als een gerechtelijke procedure 
+is gestart dan wordt de behandeling van de klacht opgeschort tot na de uitspraak van de rechter. 
+ 
+De uitgangspunten van deze klachtenregeling zijn als volgt. 
+1. Eerst vragen, dan klagen. Wanneer het in de aanbestedingsprocedure nog mogelijk is om 
+vragen te stellen aan de aanbestedende dienst, dan moet de ondernemer dat als eerste 
+doen. Via de nota van inlichtingen kan de aanbestedende dienst dan reageren op de vragen. 
+Een klacht over een onderwerp waar in eerste instantie geen vragen over zijn gesteld, wordt 
+niet in behandeling genomen. Overigens geldt dit alleen als het gaat om een zogenaamde 
+“designklacht”, dit zijn klachten over de fase voor de uiterste inschrijvings- of 
+aanmelddatum. Deze klachten betreffen de geschiktheidseisen, selectiecriteria of 
+contractvoorwaarden. 
+2. Een onafhankelijk Klachtenmeldpunt. Op basis van deze Klachtenregeling beschikt de 
+aanbestedende dienst over een (extern) onafhankelijk klachtenmeldpunt. Dit klachtenloket 
+behandelt klachten over alle soorten aanbestedingsprocedures, zowel boven als onder de 
+Europese drempelwaarden. 
+3. Het algemene uitgangspunt van deze Klachtenregeling is dat de ondernemer tijdig klaagt en 
+dat de aanbestedende dienst deze klacht tijdig afhandelt. Bij “designklachten” geldt dat het 
+Klachtenmeldpunt deze klachten afhandelt voor de sluitingsdatum van de aanbesteding. 
+Wanneer dat noodzakelijk is, verlengt de aanbestedende dienst de inschrijvings- c.q. 
+aanmeldingstermijn. In het geval van klachten over de selectie- of gunningsbeslissing geldt 
+dat de aanbestedende dienst de wettelijke (minimum) termijn zo nodig opschort. 
+ 
+Een ingediende klacht zet de betreffende aanbestedingsprocedure niet automatisch stil. Gemeente 
+Purmerend kan – in samenspraak of op aangeven van de Klachtbehandelaar van het KMA – 
+besluiten tot opschorting van de aanbestedingsprocedure. Dit is in overeenstemming met 
+hoofdstuk 4 van de Gids proportionaliteit. 
+ 
+ 4 
+2 Definitie van een klacht 
+Een klacht is een uiting van een ondernemer van ontevredenheid met een corrigerend of afwijzend 
+karakter. Om misverstanden te voorkomen, moet een ondernemer duidelijk kenbaar maken dat het 
+om een klacht/bezwaar/probleem gaat. In de schriftelijk (digitaal) ingediende klacht maakt de 
+ondernemer duidelijk waarover hij klaagt en zo mogelijk hoe het knelpunt volgens hem zou kunnen 
+worden verholpen. Het is niet mogelijk om anoniem te klagen. Wel kan een brancheorganisatie of 
+een branche-gerelateerd aanbestedingsadviescentrum een klacht indienen namens haar leden. 
+ 
+ 
+ 
+3  Klachtenmeldpunt aanbesteden (KMA) 
+Klachten in het kader van onderhavige aanbesteding kunnen uitsluitend digitaal worden ingediend 
+bij het KMA via de volgende link: https://klachtenmeldpuntaanbesteden.nl/leden/gemeente-
+purmerend/. Het KMA bestaat uit meerdere personen met uitstekende kennis van inkopen en het 
+aanbestedingsrecht en zij zijn niet werkzaam bij de aanbestedende dienst. Ook zijn de 
+klachtbehandelaars op geen enkele wijze betrokken geweest bij de aanbesteding waarop de klacht 
+is ingediend. 
+ 
+4 Voorwaarden voor het indienen van een klacht 
+De ondernemer verstrekt alle informatie die gevraagd wordt in het digitale klachtenformulier van 
+het KMA, waaronder:  
+▪ de naam en de contactgegevens (adres, telefoon en email) van het bedrijf van de 
+ondernemer en van de contactpersoon die namens de ondernemer de klacht indient. 
+▪ de naam en het kenmerk/referentienummer van de aanbesteding; 
+▪ een duidelijke beschrijving van de klacht, het vraagnummer van de nota van inlichtingen 
+waarin de klacht eventueel in eerste instantie is gemeld én een voorstel voor een oplossing; 
+▪ ge-uploade documenten die relevant (kunnen) zijn voor de inhoudelijke beoordeling van de 
+klacht waaronder in ieder geval het aanbestedingsdocument en de nota van inlichtingen.  
+ 
+ 5 
+5 Voorwaarden ten aanzien van de 
+ontvankelijkheid van een klacht 
+De klacht is ontvankelijk en wordt alleen inhoudelijk in behandeling genomen indien voldaan is aan 
+de volgende voorwaarden: 
+▪ De klacht voldoet aan alle hierboven genoemden voorwaarden voor het indienen van een 
+klacht.  
+▪ De klacht heeft betrekking op onderhavige aanbesteding. 
+▪ De klacht is tijdig gedaan, d.w.z. binnen de kortst mogelijke termijn na bekendmaking van 
+de nota van inlichtingen indien de klacht daar in eerste instantie aan de orde is geweest 
+doch in ieder geval uiterlijk binnen de looptijd van onderhavige aanbestedingsprocedure. 
+▪ Het onderwerp van de klacht valt binnen de reikwijdte van de Aanbestedingswet 2012 of 
+heeft betrekking op een handelen of nalaten van Gemeente Purmerend in strijd met de 
+Aanbestedingswet 2012 of het beginsel van transparantie, non-discriminatie, gelijke 
+behandeling en/of proportionaliteit of in strijd met een ander voorschrift dat geldt voor 
+onderhavige aanbesteding.  
+▪ De klacht heeft geen betrekking op het algemene aanbestedingsbeleid van Gemeente 
+Purmerend. 
+▪ Indien de klacht afkomstig is van een onderaannemer kan niet geklaagd worden over de 
+relatie hoofdaannemer (inschrijver)-onderaannemer. 
+▪ Indien de klacht in eerste instantie aan de orde is gesteld bij nota van inlichtingen dan wel 
+anderszins, toont de ondernemer aan dat de reactie van Gemeente Purmerend niet tot het 
+gewenste resultaat heeft geleid voor de ondernemer. 
+▪ De klacht is niet gedaan om misbruik te maken van de klachtenregeling. De 
+Klachtbehandelaar behoudt zich het recht voor om de klacht niet-ontvankelijk te verklaren 
+indien naar zijn/haar oordeel op objectieve gronden kan worden vastgesteld dat de 
+ondernemer oneigenlijk gebruik dan wel misbruik maakt van de klachtenregeling. De 
+Klachtbehandelaar kan in een dergelijke situatie Gemeente Purmerend adviseren een klacht 
+over de betreffende ondernemer in te dienen bij de ondernemer zelf en vervolgens bij de 
+Commissie van Aanbestedingsexperts in Den Haag. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+6 De klachtprocedure 
+De klachtprocedure verloopt in de volgende stappen: 
+1.  De ondernemer dient zijn klacht in bij het KMA via de volgende link: 
+https://klachtenmeldpuntaanbesteden.nl/leden/gemeente-purmerend/ 
+2. Het KMA bevestigt per omgaande de ontvangst van de klacht aan de ondernemer en aan 
+Gemeente Purmerend. 
+3. De klacht wordt in behandeling genomen door één van de Klachtbehandelaars van het KMA. 
+De Klachtbehandelaar neemt alleen de klacht in behandeling indien hij/zij garant staat voor 
+zijn/haar onafhankelijkheid in relatie tot Gemeente Purmerend, onderhavige aanbesteding 
+en de ondernemer die de klacht heeft ingediend. 
+4. De Klachtbehandelaar beoordeelt of de klacht ontvankelijk is.  
+Indien de niet-ontvankelijkheid hersteld kan worden zal de ondernemer hiertoe via het KMA 
+in de gelegenheid worden gesteld.  
+Indien de niet-ontvankelijkheid niet hersteld kan worden dan bericht de Klachtbehandelaar 
+Gemeente Purmerend hierover zo spoedig mogelijk via het KMA. Het bepaalde in stap 7 is 
+vervolgens van toepassing. 
+5. Indien de klacht ontvankelijk is wordt deze voortvarend en binnen een termijn van 5 
+werkdagen, gerekend vanaf het moment van ontvangst van de  klacht, inhoudelijk 
+beoordeeld door de Klachtbehandelaar. Slechts bij uitzondering en afhankelijk van de aard 
+en de omvang van de klacht kan de behandeltermijn langer zijn dan 5 werkdagen. 
+Voor eventuele aanvullende gegevens die de Klachtbehandelaar nodig heeft zal hij/zij 
+rechtstreeks contact opnemen met de ondernemer en/of Gemeente Purmerend.  
+Eventueel kan de behandelende Klachtbehandelaar een tweede Klachtbehandelaar 
+inschakelen voor een second opinion. 
+De behandeling van de klacht resulteert in een gemotiveerd doch niet bindend advies van de 
+Klachtbehandelaar aan Gemeente Purmerend. Het advies bevat de naam en 
+contactgegevens van de Klachtbehandelaar die de klacht heeft behandeld en voor zover van 
+toepassing de naam van de tweede Klachtbehandelaar die een second opinion heeft 
+gegeven. 
+6. Via het KMA wordt het advies van de Klachtbehandelaar naar Gemeente Purmerend 
+gestuurd.  
+7. Op basis van het advies van de Klachtbehandelaar neemt de Gemeente Purmerend zo 
+spoedig mogelijk een beslissing over de klacht welke luidt: 
+- de klacht is gegrond; of  
+- de klacht is ongegrond; of  
+- de klacht is gedeeltelijk gegrond.  
+Elke beslissing op de klacht wordt behoorlijk gemotiveerd. Tevens geeft Gemeente 
+Purmerend aan welke conclusie hij uit de klacht heeft getrokken en welke corrigerende 
+maatregelen hij eventueel treft. Gemeente Purmerend maakt zelf haar beslissing op de 
+klacht bekend aan de ondernemer.  
+8. De beslissing van de aanbestedende dienst op de klacht wordt geanonimiseerd bekend 
+gemaakt door de aanbestedende dienst aan alle potentiële gegadigden dan wel potentiële 
+ 7 
+inschrijvers via bijvoorbeeld een nota van Inlichtingen of de berichtenmodule van het 
+aanbestedingsplatform. 
+9.  Wanneer Gemeente Purmerend niet binnen een redelijke termijn een beslissing heeft 
+genomen of wanneer de ondernemer het niet eens is met de beslissing van Gemeente 
+Purmerend dan kan de ondernemer de klacht voorleggen aan de Commissie van 
+aanbestedingsexperts in Den Haag. De procedure die hiervoor geldt valt buiten onderhavige 
+klachtenregeling.  
+ 
+ 
+7 Verantwoording 
+De aanbestedende dienst legt jaarlijks intern verantwoording af over de klachtafhandeling en 
+rapporteert hierover. Deze rapportage is publiek toegankelijk met het oog op de transparantie. De 
+manier waarop over klachtafhandeling wordt gerapporteerd is vormvrij. In ieder geval moet worden 
+gerapporteerd over: 
+- het aantal klachten; 
+- of klachten gegrond of ongegrond zijn bevonden; 
+- hoe klachtafhandeling in algemene zin heeft bijgedragen aan het leereffect van de 
+aanbestedende dienst. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+Bezoekadres 
+Purmersteenweg 42 
+ 1441 DM  Purmerend 
+ 
+Postadres 
+Postbus 15  
+1440 AA  Purmerend 
+ 
+Telefoon & e-mail 
+(0299) 452 452 
+info@purmerend.nl 
+ 
+purmerend.nl

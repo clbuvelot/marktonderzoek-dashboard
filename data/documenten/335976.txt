@@ -1,0 +1,503 @@
+=== Document: notifcation_kem_44 ===
+Page 1 of 4 
+ 
+ 
+ 
+ 
+ 
+ 
+Notification: ‘Localised subsidence: a potential source for building damage?’ 
+(KEM-44) a study within the Knowledge Programme on Effects of Mining  
+ 
+Organization: Ministry of Economic Affairs and Climate Policy (MEA)  
+Reference: KEM-44 / 202404115 
+ 
+ 
+ 
+Purpose of the notification  
+The purpose of this notification is to determine whether there are parties interested to perform the 
+research as described below. 
+ 
+Background information 
+For decades, assessments have been made on when subsidence-induced strain may lead to 
+building damage. However, the available guidelines by Boscardin and Cording (1989) are rather 
+limited and have mostly been developed in the context of tunnel excavation, a relatively shallow 
+source of subsidence. In Q2 2024 the TU Delft published results of research carried out for the 
+Institute of mining damage Groningen (IMG) and the Commission on mining damage (CM) within 
+the Gemma program. In this research TU Delft created finite element models and combined this 
+with results of lab tests on masonry walls. The goal was to develop probabilistic fragility curves for 
+representative masonry wall lay-outs under horizontal strain and curvature in combination with the 
+factor Psi as an indicator of the extent of damage. With the results it becomes possible to refine the 
+classification of damage according to Boscardin and Cording's criteria. Furthermore, the TU Delft 
+has explored the transfer of strains from the shallow subsurface to buildings involving various soil 
+and building models.  
+ 
+Objective 
+Guidelines: when and where is a risk of mining-induced building damage 
+Clear guidelines on when and where effects due to mining-induced subsidence can be excluded 
+(and when and where not) is the main objective of this research. This will help CM and IMG in 
+advice and decisions on building damage resulting from subsidence. We see an important 
+mechanism, described below, by which such subsidence might lead to damage of buildings. Indirect 
+effects, through effects on water management, are not part of this research. 
+ 
+Direct strain on buildings 
+When mining-induced subsidence is strong and concentrated, such as is the case with salt solution 
+or coal mining, there is a non-negligible horizontal component to the associated above-the-ground 
+movement. With traditional levelling, this component was not measured, but with modern 
+techniques such as PS-InSAR from space, we can observe and quantify its effect on buildings. An 
+integral assessment of effects of subsidence on buildings is needed to justify risk assessment based 
+on relatively simple subsidence modelling (observation I and II). 
+  
+Page 2 of 4 
+ 
+ 
+ 
+Observation I. An example of a single subsidence bowl, showing up slightly dislocated in the east-
+west direction in two different viewing geometries (left). By geometrically combining the two 
+observations, a rough estimate of horizontal vs ‘real’ vertical deformation is constructed (right) 
+along the 4 km long dashed line. Does this additional movement induce risks that may be 
+neglected when only vertical movement is considered? And how is the total strain on buildings and 
+associated damage risk to be assessed from large-scale subsidence modelling? 
+ 
+ 
+Observation II. An example of the measured vertical (left) vs. the horizontal (right) deformation 
+velocity derived from publicly available InSAR measurements (EGMS, 2023).  The inset picture on 
+the right shows an area west of Veendam where a relatively large difference in horizontal 
+movement is detected: blue is moving towards the East and red is moving towards the West. This 
+movement must be related to salt mining. 
+ 
+ 
+We inquire at KEM for advice on scientific approaches that may validate the applicability of these 
+fragility curves. The topics that require investigation include the horizontal strain and angular 
+distortion on buildings caused by both vertical and horizontal movements that can be measured at 
+the surface.  
+In many cases, only extension strain derived from the differential vertical deformation is 
+considered. The gradient in horizontal deformation may add to this strain. The above rough 
+analysis in Observation I shows (for this particular case) the latter effect to exceed the strain due 
+to vertical movement alone by 50%, and to occur in other parts of the subsidence bowl as well. 
+Here, we aim to gain insight in the full picture of strains in the shallow subsurface, and how these 
+are transmitted to buildings. 
+It is expected that the horizontal strain also develops and changes in time. Based on 
+measurements from the past and subsidence models as a function of time, we aim to get insight in 
+the changes in horizontal strain over time and whether this can have an increased impact on the 
+damage (the Psi) over a time averaged strain over a longer period than is usually assumed in the 
+analysis. 
+
+Page 3 of 4 
+ 
+ 
+Research questions  
+ The research questions to be addressed are: 
+(I) to quantify more systematically the observed horizontal deformation for appropriate 
+cases in the Netherlands; 
+(II) to quantify the development of horizontal deformation as a function of time for those 
+cases identified in (I). 
+(III) to review the existing literature on the effects of (differential) ground movement, also 
+related to shallow effects: where in (or near) a subsidence bowl may stresses occur, 
+and how do directions of movement interact?  
+(IV) to validate, sharpen, or define a simple set of rules by which the total strain on 
+buildings due to ground deformations can be assessed from predicted vertical motions 
+alone (possibly combined with background knowledge on underground characteristics 
+of the location); and  
+(V) to define, based on the above calculated total strain, in combination with fragility 
+curves from the TU Delft, a classification system by which probability of different 
+building damage categories due to direct deformation of the underground can be 
+evaluated. Damage (the Psi) over a time averaged strain over a longer period than is 
+usually assumed in the analysis. 
+ 
+Deliverables expected 
+1. Report on literature study results and on the observed cases. 
+2. Report on building effect assessment rules, with advice on how to interpret causes of 
+building damage. 
+3. Presentation of the project and results at completion to KEM-Panel and at the KEM-DeepNL 
+Colloquium.   
+ 
+References 
+Boscardin and Cording (1989) Building Response to Excavation-Induced Settlement. Journal of 
+Geotechnical Engineering 
+Volume 115, Issue 1. https://doi.org/10.1061/(ASCE)0733-9410(1989)115:1(1) 
+ 
+Deltares (2018), Invloed van bodemdaling door zoutwinning Nedmag op bebouwing en 
+infrastructuur, kenmerk 11203195-000-GEO-0002, 
+https://www.nedmag.nl/sites/default/files/2019-
+07/WP%202018%20referentie%2020%20Deltares%20invloed%20bodemdaling%20op%20bebouw
+ing%20en%20infrastructuur.pdf  
+ 
+EGMS (2023), European Ground Motion Services, website: https://egms.land.copernicus.eu/ 
+ 
+Kontogianni, V., Pytharouli, S., & Stiros, S. (2007). Ground subsidence, Quaternary faults and 
+vulnerability of utilities and transportation networks in Thessaly, Greece. Environmental Geology. 
+52. https://doi.org/10.1007/s00254-006-0548-y.  
+ 
+Samieie-Esfahany, S., R. Hanssen, K. van Thienen-Visser, & A. Muntendam-Bos, (2009). On the 
+effect of horizontal deformation on insar subsidence estimates, Proc. ‘Fringe 2009 Workshop’, 
+Frascati, Italy, 30 November – 4 December 2009 (ESA SP-677, March 2010) 
+ 
+Van Staalduinen, P.C., K.C. Terwel, & J.G. Rots, (2018). Onderzoek naar de oorzaken van 
+bouwkundige schade in Groningen, TU Delft rapport nr. CM-2018-01. 
+https://www.nationaalcoordinatorgroningen.nl/documenten/rapporten/2018/juli/11/rapport-
+onderzoek-oorzaken-schade 
+ 
+Timeline 
+Intended start of project September 2024 with a duration of 1 year. 
+Intermediate reporting on the first deliverable. 
+Page 4 of 4 
+ 
+ 
+Budget 
+The maximum budget for this research is € 100.000,- (one hundred thousand euros) excluding 
+VAT. 
+ 
+Required skills / experience / capacity 
+InSar/Geodetics, Geomechanics, Structural mechanics, Building Codes. 
+ 
+Application 
+Interested companies / consultants are invited to respond to the Procurement Office of the Ministry 
+of Economic Affairs and Climate Policy, to the attention of Mrs. J.C. van Domburg by e-mail 
+IUC.accountEZK@rvo.nl. 
+You do not have to send documents, only an e-mail if you are interested. 
+ 
+Interested parties will receive the request for the tender by e-mail as soon as possible after the 
+deadline for responding to this notification. 
+The deadline for responding to this notification is set at the 21th of May 2024, 10.00 am CEST.
+
+=== Document: tn466560 - ef04 vooraankondiging die alleen ter informatie wordt gebruikt - algemene richtlijn 20240507182636 ===
+07/05/2024
+1. Buyer
+1.1 Buyer
+Official name: Ministerie van Economische Zaken en Klimaat
+Legal type of 
+the buyer: Central government authority
+Activity of the 
+contracting 
+authority:
+Economic affairs
+2. Procedure
+2.1 Procedure
+Title: Notification: ‘Localised subsidence: a potential source for building damage?' (KEM-44) 
+a study within the Knowledge Programme on Effects of Mining
+Description:
+See the document 'Notification_KEM_44.pdf'. The purpose of this notification is to 
+determine whether there are parties interested to perform the research as described in the 
+attachment. If you are interesed please let us know via email. The deadline for 
+responding to this notification is set at the 21th of May 2024, 10.00 am CEST. € 
+100.000,- (one hundred thousand euros) excluding VAT
+Internal 
+identifier: 202404115
+2.1.1 Purpose
+Nature of the 
+contract: Services
+Main 
+classification(
+cpv):
+73110000Research services
+2.1.2 Place of performance
+Country: Netherlands
+Anywhere in the given country
+2.1.4 General information
+Legal basis:
+Directive 2014/24/EU
+3. Part
+3.1 Part:PAR-0000
+Title: ‘Localised subsidence: a potential source for building damage?’ (KEM-44) a study 
+within the Knowledge Programme on Effects of Mining
+Description: See the document 'Notification_KEM_44.pdf'. € 100.000,- (one hundred thousand 
+euros) excluding VAT
+Internal 
+identifier: 1
+3.1.1 Purpose
+Nature of the 
+contract: Services
+Main 
+classification(
+cpv):
+73110000Research services
+3.1.2 Place of performance
+Country: Netherlands
+Anywhere in the given country
+3.1.3 Duration
+Start date: 01/09/2024
+End date: 31/08/2025
+3.1.5 General information
+Reserved 
+participation: Participation is not reserved.
+The procurement is covered by the Government Procurement Agreement (GPA)
+3.1.6 Procurement documents
+Access to certain procurement documents is restricted
+Information 
+about restricted 
+documents is 
+available at:
+https://www.tenderned.nl/aankondigingen/overzicht/335715,
+3.1.7 Terms of procurement
+3.1.9 Further information, mediation and review
+Mediation 
+organisation: Ministerie van Economische Zaken en Klimaat
+Review 
+organisation: Ministerie van Economische Zaken en Klimaat
+Organisation 
+providing more 
+information on 
+the review 
+procedures:
+Ministerie van Economische Zaken en Klimaat
+8. Organisations
+8.1 ORG-0001
+Official name: Ministerie van Economische Zaken en Klimaat
+Registration 
+number: 502035258
+Postal address: Prinses Beatrixlaan 2
+Town: Den Haag
+Postcode: 2595 AL
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Contact point: Jennifer van Domburg
+Email: IUC.accountEZK@rvo.nl
+Telephone: +31 0880424242
+Internet address
+: https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat
+Other contact points:
+Official name: Commissie van aanbestedingsexperts
+Town: Den Haag
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Email: info@commissievanaanbestedingsexperts.nl
+Telephone: +31 703797480
+Internet address
+: https://www.commissievanaanbestedingsexperts.nl/
+Other contact points:
+Official name: Rechtbank 's Gravenhage
+Postal address: Postbus 20302
+Town: 's Gravenhage
+Postcode: 2500 EH
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Contact point: Griffie kort gedingen
+Email: voorlichting.rb.den.haag@rechtspraak.nl
+Telephone: +31 703813509
+Internet address
+:
+https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-
+den-haag
+Roles of this organisation:
+Buyer
+Review organisation
+Organisation providing more information on the review procedures
+Mediation organisation
+11. Notice information
+11.1 Notice information
+Notice 
+identifier
+/version:
+ddf62767-d1a8-4218-9452-c37021bb5ef2-01
+Form type: Planning
+Notice type: Prior information notice or a periodic indicative notice used only for information
+Notice dispatch 
+date: 07/05/202418:26 +02:00
+Languages in 
+which this 
+notice is 
+officially 
+available:
+English
+11.2 Publication information
+Estimated date 
+of publication 
+of a contract 21/05/2024
+notice within 
+this procedure:
+
+=== Document: tn466560 - ef29 aankondiging gegunde opdracht - algemene richtlijn, standaardregeling 20240510142623 ===
+10/05/2024
+1. Buyer
+1.1 Buyer
+Official name: Ministerie van Economische Zaken en Klimaat
+Legal type of the 
+buyer: Central government authority
+Activity of the 
+contracting 
+authority:
+Economic affairs
+2. Procedure
+2.1 Procedure
+Title: Notification: ‘Localised subsidence: a potential source for building damage?' (KEM-
+44) a study within the Knowledge Programme on Effects of Mining
+Description:
+See the document 'Notification_KEM_44.pdf'. The purpose of this notification is to 
+determine whether there are parties interested to perform the research as described in 
+the attachment. If you are interesed please let us know via email. The deadline for 
+responding to this notification is set at the 21st of May 2024, 10.00 am CEST. € 
+100.000,- (one hundred thousand euros) excluding VAT
+Procedure 
+identifier: d7a64a99-85bf-4a0d-87ef-228d104f814f
+Internal identifier
+: 202404115
+Type of 
+procedure: Open
+The procedure is 
+accelerated: No
+Main features of 
+the procedure:
+The purpose of this notification is to determine whether there are parties interested to 
+perform the research as described in the attachment. If you are interesed please let us 
+know via email. The deadline for responding to this notification is set at the 21st of 
+May 2024, 10.00 am CEST.
+2.1.1 Purpose
+Nature of the 
+contract: Services
+Main 
+classification(cpv
+):
+73110000Research services
+2.1.2 Place of performance
+Country: Netherlands
+Anywhere in the given country
+2.1.4 General information
+Additional 
+information:
+The notification was published twice by mistake. Hence, this publication of the 
+notification is withdrawn. The current and correct publication of the notification can 
+be found under TenderNed number 466654 (https://www.tenderned.nl/aankondigingen
+/overzicht/335720 or https://ted.europa.eu/en/notice/-/detail/275841-2024).
+Legal basis:
+Directive 2014/24/EU
+5. Lot
+5.1 Lot:LOT-0000
+Title: ‘Localised subsidence: a potential source for building damage?’ (KEM-44) a study 
+within the Knowledge Programme on Effects of Mining
+Description: See the document 'Notification_KEM_44.pdf'. € 100.000,- (one hundred thousand 
+euros) excluding VAT
+Internal identifier
+: 1
+5.1.1 Purpose
+Nature of the 
+contract: Services
+Main 
+classification(cpv
+):
+73110000Research services
+5.1.2 Place of performance
+Country: Netherlands
+Anywhere in the given country
+Additional 
+information:
+5.1.3 Estimated duration
+Start date: 01/09/2024
+End date: 31/08/2025
+5.1.6 General information
+Procurement Project not financed with EU Funds.
+The procurement is covered by the Government Procurement Agreement (GPA)
+5.1.10 Award criteria
+Criterion:
+Type: Price
+Name: Price
+Weight (points, 
+exact): 0
+5.1.15 Techniques
+Framework agreement:
+No framework agreement
+Information about the dynamic purchasing system
+No dynamic purchase system
+Electronic auction:
+5.1.16 Further information, mediation and review
+Mediation 
+organisation: Ministerie van Economische Zaken en Klimaat
+Review 
+organisation: Ministerie van Economische Zaken en Klimaat
+Organisation 
+providing 
+additional 
+information Ministerie van Economische Zaken en Klimaat
+about the 
+procurement 
+procedure:
+Organisation 
+providing more 
+information on 
+the review 
+procedures:
+Ministerie van Economische Zaken en Klimaat
+6. Results
+Value of all 
+contracts 
+awarded in this 
+procedure:
+0EUR
+6.1 Result Lot Identifier:LOT-0000
+No winner was chosen and the competition is closed.
+The reason why 
+a winner was not 
+chosen:
+Other
+8. Organisations
+8.1 ORG-0001
+Official name: Ministerie van Economische Zaken en Klimaat
+Registration 
+number: 502035258
+Postal address: Prinses Beatrixlaan 2
+Town: Den Haag
+Postcode: 2595 AL
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Contact point: Jennifer van Domburg
+Email: IUC.accountEZK@rvo.nl
+Telephone: +31 0880424242
+Internet address: https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat
+Other contact points:
+Official name: Commissie van aanbestedingsexperts
+Town: Den Haag
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Email: info@commissievanaanbestedingsexperts.nl
+Telephone: +31 703797480
+Internet address: https://www.commissievanaanbestedingsexperts.nl/
+Other contact points:
+Official name: Rechtbank 's Gravenhage
+Postal address: Postbus 20302
+Town: 's Gravenhage
+Postcode: 2500 EH
+Country 
+subdivision 
+(NUTS):
+Agglomeratie ’s-Gravenhage(NL332)
+Country: Netherlands
+Contact point: Griffie kort gedingen
+Email: voorlichting.rb.den.haag@rechtspraak.nl
+Telephone: +31 703813509
+Internet address: https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-
+den-haag
+Roles of this organisation:
+Buyer
+Organisation providing additional information about the procurement procedure
+Review organisation
+Organisation providing more information on the review procedures
+Mediation organisation
+11. Notice information
+11.1 Notice information
+Notice identifier
+/version: 9253092c-24fb-43fa-9b40-45a2e207707c-01
+Form type: Result
+Notice type: Contract or concession award notice – standard regime
+Notice dispatch 
+date: 10/05/202414:26 +02:00
+Languages in 
+which this notice 
+is officially 
+available:
+English
+11.2 Publication information

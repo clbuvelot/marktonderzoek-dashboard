@@ -1,0 +1,2884 @@
+=== Document: bijlage a - programma van eisen v1.0 ===
+PROGRAMMA VAN EISEN 
+Aanbesteding laboratoriumdiensten pagina 1   
+Van Afvalzorg 
+Onderwerp Aanbesteding laboratoriumdiensten 
+Datum 15 mei 2024 
+  
+ 
+1. Accounts 
+Tijdens uitvoering van de Opdracht moet gebruik kunnen worden gemaakt van verschillende 
+accounts en gebruikersprofielen. De volgende accounts zijn minimaal voorzien:  
+◼ Account Bodemzorg (voor opdrachten vanuit Bodemzorg). 
+◼ Account Emissiebeheer (voor opdrachten vanuit Emissiebeheer). 
+◼ Account ‘derden’ (voor opdrachten die ‘derden’ aanmaken, bijvoorbeeld een extern 
+adviesbureau of veldwerkbureau). 
+ 
+Op basis van gebruiksprofielen kunnen gebruikers toegang krijgen tot één of meerdere account s, 
+per gebruiker dienen rechten toegewezen te kunnen worden. 
+ 
+2. Opdrachtverstrekking en facturering 
+De Opdrachtgever meldt de analyses aan in deelopdrachten. Voor de wijze waarop aanmelding 
+van de analyseopdrachten plaatsvindt alsmede de voorwaarden waaronder dit gebeurt, wordt 
+verwezen naar artikel 7 en 8 van dit PvE. De Opdrachtnemer dient de werkzaamheden per 
+deelopdracht te factureren. De facturen kunnen op naam van de juiste entiteit en onder 
+vermelding van de projectnaam per email worden verzonden naar factuur@afvalzorg.nl.  
+ 
+3. Accountmanager en Helpdesk 
+De Opdrachtgever dient de Opdrachtnemer een vaste accountmanager toe te wijzen, waarmee in 
+de Nederlandse taal gecommuniceerd kan worden. Tevens dient de Opdrachtgever een vaste 
+contactpersoon bij de Helpdesk toe te wijzen, waarmee eveneens in de Nederland se taal 
+gecommuniceerd kan worden en die ervoor zorgt dat tijdig adequate antwoorden worden gegeven 
+op inhoudelijke vragen door de Opdrachtgever. Hierbij gelden de volgende uitgangspunten:  
+◼ De accountmanager en de helpdeskmedewerker zijn voor de Opdrachtgever bereikbaar per 
+telefoon en per email. De Opdrachtnemer stelt deze directe contactgegevens beschikbaar aan 
+de Opdrachtgever. 
+◼ De accountmanager en de helpdeskmedewerker zijn op werkdagen bereikbaar voor de 
+Opdrachtgever tussen 09:00 en 17:00 uur. 
+◼ Indien de accountmanager en/of de helpdeskmedewerker niet bereikbaar zijn gedurende 
+voornoemde tijden, dan zorgt de Opdrachtnemer ervoor dat de Opdrachtgever binnen een uur 
+wordt teruggebeld door de accountmanager en/of de helpdeskmedewerker of diens 
+vervangers. 
+ 
+4. Communicatiesysteem van de Opdrachtnemer en technische ondersteuning  
+Aanlevering van opdrachten 
+De Opdrachtgever maakt de analyseopdrachten digitaal aan, conform SIKB 0101 versie 10.2.2, 
+in een door de Opdrachtgever ontwikkeld systeem. De opdracht dient kosteloos door het 
+communicatiesysteem van de Opdrachtnemer verwerkt te worden. Mocht de opdracht door de 
+Opdrachtgever niet (meer) verwerkt kunnen worden, wordt gezamenlijk naar een oplossing 
+gezocht. De Opdrachtnemer ondersteunt de Opdrachtgever hier kosteloos bij, aanpassingen aan 
+het door de Opdrachtgever ontwikkelde systeem zijn voor kosten van de Opdrachtgever.  
+Aanbesteding laboratoriumdiensten pagina 2   
+ 
+Terugkoppeling van resultaten 
+De analyseresultaten dienen door de Opdrachtgever kosteloos vanuit het communicatiesysteem 
+van de Opdrachtnemer ingelezen te worden in het geautomatiseerde systeem van de 
+Opdrachtgever, conform SIKB 0101 versie 10.2.2. Mochten de analyseresultaten door de 
+Opdrachtgever niet (meer) verwerkt kunnen worden, wordt gezamenlijk naar een oplossing 
+gezocht. De Opdrachtnemer ondersteunt de Opdrachtgever hier kosteloos bij, aanpassingen aan 
+het door de Opdrachtgever ontwikkelde systeem zijn voor kosten van de Opdrach tgever. 
+ 
+Technische ondersteuning 
+De Opdrachtnemer dient zijn onvoorwaardelijke medewerking en ondersteuning te verlenen aan 
+goede, betrouwbaar werkende en gebruiksvriendelijke geautomatiseerde uitwisseling van 
+opdrachten en resultaten via zijn eigen communicatiesysteem en dat van de Opdra chtgever.  
+ 
+De Opdrachtnemer dient de Opdrachtgever kosteloos te ondersteunen bij het koppelen van 
+elkaars geautomatiseerde systemen om deze deugdelijk op elkaar aan te laten sluiten en de 
+gegevensuitwisseling probleemloos te laten plaatsvinden (bijvoorbeeld door het aanbieden van 
+een testomgeving, terugkoppeling van eventuele foutmeldingen en het beantwoorden van 
+vragen. 
+ 
+De gegevensuitwisseling dient plaats te vinden volgens SIKB 0101, dan wel volgens een 
+vergelijkbare nieuwe beschikbare of voorgeschreven systematiek.  
+ 
+5. Eisen aan de uitvoering van de Opdracht 
+Analysemethode 
+Analyses moeten worden uitgevoerd volgens de geldende NEN-, NVN-, DIN-, ISO- of EPA-norm, 
+waarbij de getalsmatige detectiegrenzen worden gehanteerd die in de norm staan vermeld.  
+ 
+In onze lozingsvergunningen worden specifieke normen voorgeschreven voor de analyse van 
+afvalwatermonsters.  
+Parameter NEN-nummer 
+BZV5 NEN-EN 1899-1/2 
+CZV NEN 6633 of NEN-ISO-15705 
+Onopgeloste stoffen NEN-EN 872 
+TOC NEN-EN 1484 
+Kjeldahl-stikstof NEN-ISO-5663 of NEN 6646 
+Som nitraat en nitriet NEN-EN-ISO 15923-1 of NEN-EN-ISO-13395 
+Totaal stikstof (N-totaal) NEN-ISO-11905-1 
+Totaal-fosfaat (totaal-P) NEN-EN-ISO 15681-2 
+Chloride 
+NEN-EN-ISO 15923-1 
+NEN-EN-ISO 15682 
+Sulfaat NEN-EN-ISO 15923-1 
+Ontsluiting metalen NEN-EN-ISO-15587-1 en NEN 6961 
+metalen NEN 6966 of NEN-EN-ISO-17294-2 
+  (NEN 6966 verwijst naar NEN-EN-ISO 11885) 
+Antimoon NEN 6433 
+Kwik NEN-EN-ISO-12846 of NEN-EN-ISO 17852 
+PAK-16 NEN-EN-ISO-17993 
+Minerale olie NEN-EN-ISO 9377-2 
+BTEX NEN-EN ISO-15680 
+Aanbesteding laboratoriumdiensten pagina 3   
+EOX NEN 6402 
+AOX NEN-EN-ISO 9562 
+PFAS HPLC-MS-MS 
+ 
+Indien de Opdrachtnemer een alternatieve analysemethode wenst toe te passen, dient met een 
+gelijkwaardigheidsonderzoek te worden aangetoond dat met de alternatieve- of huismethode 
+tenminste dezelfde betrouwbare en vergelijkbare resultaten worden behaald als met de geldende of 
+de in de vergunningen opgenomen normen. 
+ 
+Analyse- en bewaartermijnen 
+De Opdrachtgever dient de opgedragen analysetermijnen na te komen. Vooropgesteld dat de 
+conserverings- en doorlooptermijnen te allen tijde in acht moeten worden genomen, is het 
+behoudens spoedaanvragen voor de Opdrachtgever niet altijd noodzakelijk dat de analyseresultaten 
+binnen de standaard analysetermijnen (5 werkdagen) bekend zijn. Deze termijn is de door 
+Opdrachtnemer aangewezen minimum termijn. Indien een langere doorlooptermijn in situaties voor 
+de Opdrachtnemer wenselijk is, kan Opdrachtnemer dit voorleggen aan Opdrachtgever 
+ 
+Spoedtoeslagen 
+Incidenteel zijn analyseresultaten eerder noodzakelijk dan de standaard levertermijn. De 
+opdrachtnemer mag hiervoor een spoedtoeslag doorrekenen. Deze spoedtoeslag ten opzicht van het 
+vastgestelde tarief bedraagt maximaal: 
+• Overnight (sneller dan 24 uur): 100%  
+• 24 uur: 40% 
+• 48 uur: 20% 
+• 72 uur: 10% 
+ 
+Indien de spoedtermijn niet wordt gerealiseerd, vervalt de spoedtoeslag. 
+ 
+Verpakkingen 
+De Opdrachtgever dient voldoende flessen, potten, emmers, etc. aan de Opdrachtgever ter 
+beschikking te stellen. Op afroep dienen eveneens verpakkingsmiddelen voor overige matrices 
+beschikbaar te worden gesteld. Na afloop van de bewaartermijn dienen het mon stermateriaal en de 
+verpakkingen volgens de geldende regelgeving te worden afgevoerd en/of vernietigd. De kosten van 
+alle in dit artikel beschreven zaken worden geacht in de tarieven begrepen te zijn.  
+ 
+Logistiek en transport 
+De monsters dienen zo spoedig mogelijk maar uiterlijk de ochtend na monstername op afroep door 
+de Opdrachtnemer te worden opgehaald op een van de onderstaande adressen:  
+◼ Locatie Nauerna: Nauerna 1, 1566 PB Assendelft 
+◼ Locatie Zeeasterweg: Zeeasterweg 42, 8219 PN Lelystad 
+◼ Locatie Wieringermeer: Koggenrandweg 1. 1775 RG Middenmeer 
+◼ Locatie De Liede: Ecoweg 20, 2141 DL Vijfhuizen 
+◼ Locatie Brunssum: Waubacherweg 11, 6442 PW Brunssum  
+◼ Locatie Maastricht: Belvederelaan 4, 6129 PK Maastricht 
+◼ Overige locaties (ad hoc, binnen Nederland).  
+ 
+De monsters dienen binnen de gestelde termijnen te worden opgehaald en conform de daartoe 
+gestelde normen en eisen gekoeld te worden getransporteerd naar het laboratorium. De kosten voor 
+het transporteren van de monsters worden geacht in de tarieven te zijn b egrepen. 
+Aanbesteding laboratoriumdiensten pagina 4   
+ 
+Rapportage analyseresultaten 
+De analyseresultaten dienen digitaal te worden aangeleverd in overzichtelijke en gewaarmerkte 
+analysecertificaten (pdf formaat). Voorts dienen alle resultaten ten behoeve van het inlezen in de 
+geautomatiseerde systemen van de Opdrachtgever te worden aangeleverd in digitale export -
+bestanden (xml, conform SIKB 0101 versie 10.2.2). Alle getalsmatige meet- en/of analyseresultaten 
+dienen te zijn opgenomen in de export-bestanden, ook de resultaten van eventuele uitbestede 
+analyses. 
+ 
+Risico’s en garanties 
+De koerier van de Opdrachtnemer ondertekent bij inname van de monsters een formulier waarop 
+staat vermeld hoeveel potten en/of flessen er aan de koerier zijn aangeleverd. Indien door toedoen 
+van de Opdrachtnemer monsters verloren gaan (zoekraken of stuk laten vallen) dan neemt de 
+Opdrachtnemer de kosten van herbemonstering voor zijn rekening. 
+In gevallen waarbij de Opdrachtgever twijfelt aan de juistheid van de analyseresultaten kan deze de 
+Opdrachtnemer opdragen het monster te heranalyseren. De Opdrachtnemer zal de kosten van de 
+heranalyse niet aan de Opdrachtgever in rekening brengen, tenzij de verkregen resultaten aantonen 
+dat de eerdere resultaten juist waren. 
+ 
+Service en evaluatie 
+De Opdrachtnemer wijst de Opdrachtgever op fouten en voorvallen die leiden tot voetnoten en/of 
+opmerkingen op de certificaten, dit om te bewerkstelligen dat werk- en monsternameprocessen naar 
+behoren verlopen en dat voetnoten op de analysecertificaten in de toekomst worden voorkomen. 
+ 
+Evaluatie vindt tenminste eenmaal per jaar plaats, of vaker indien nodig of gewenst. Tijdens deze 
+gesprekken wordt geëvalueerd of de gewenste kwaliteitsnormen worden gehaald, of aan de 
+opgedragen levertermijnen wordt voldaan en of de geleverde service aan de wensen van de 
+Opdrachtgever voldoet. De Opdrachtnemer stelt een verslag op van het jaarlijkse overleg en stuurt 
+dit uiterlijk twee weken na afloop van het overleg ter goedkeuring aan de Opdrachtgever.
+
+=== Document: beschrijvend document afvalzorg laboratoriumdiensten v1.0 ===
+SYN20230727ED   
+ 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 15 mei 2024 
+Versienummer: 1.0 
+Kenmerk: TN464450  
+Beschrijvend document 
+ 
+Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+ 
+Laboratoriumdiensten 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+2 van 26 
+Inhoud 
+ 
+1. Inleiding ................................................................................................................ 4 
+1.1 Begrippen ............................................................................................................. 4 
+1.2 Aanleiding en context van de Aanbesteding ............................................................... 4 
+1.3 De Aanbestedende dienst ....................................................................................... 4 
+1.4 Ondersteunende partijen bij de aanbesteding ............................................................ 4 
+1.5 Doelstellingen ....................................................................................................... 4 
+2. Inhoud van de Opdracht ......................................................................................... 5 
+2.1 Binnen de scope van de Opdracht ............................................................................ 5 
+2.2 Buiten de scope van de Opdracht ............................................................................. 5 
+2.3 Perceelindeling ...................................................................................................... 5 
+2.4 Omvang van de Opdracht ....................................................................................... 5 
+2.5 Varianten .............................................................................................................. 6 
+2.6 Contractvorm ........................................................................................................ 6 
+3. Verloop van de Aanbesteding ................................................................................. 7 
+3.1 Aanbestedingsprocedure ......................................................................................... 7 
+3.2 Planning ............................................................................................................... 7 
+3.3 Communicatie gedurende de Aanbesteding ............................................................... 7 
+3.4 Informatieverstrekking ........................................................................................... 7 
+3.5 Indienen van de Inschrijving ................................................................................... 8 
+3.6 Opening van de Inschrijvingen ................................................................................ 8 
+3.7 Controle, toetsing en beoordeling van de Inschrijvingen ............................................. 8 
+3.8 Gunningsbeslissing ................................................................................................ 9 
+3.9 Verificatie ............................................................................................................. 9 
+4. Eisen aan de Inschrijver ....................................................................................... 10 
+4.1 Inleiding .............................................................................................................. 10 
+4.2 Uitsluitingsgronden ............................................................................................... 10 
+4.3 Geschiktheidseisen ............................................................................................... 12 
+4.4 Bij te voegen documenten en bewijsstukken ............................................................ 12 
+5. Toetsing van de Inschrijving ................................................................................ 14 
+5.1 Overzicht van de toetsingscriteria ........................................................................... 14 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 ................................................. 14 
+6. Beoordeling van de Inschrijving – hoe beoordelen we? ....................................... 15 
+6.1 Gunningsmethode: Laagste prijs ............................................................................. 15 
+7. Beoordeling van de Inschrijving – wat beoordelen we? ....................................... 16 
+7.1 Overzicht van alle Gunningscriteria ......................................................................... 16 
+7.2 Gunningscriterium prijs ......................................................................................... 16 
+8. Voorschriften en voorwaarden ............................................................................. 17 
+8.1 Gebruik Aanbestedingsplatform .............................................................................. 17 
+8.2 Voorbehouden van de Aanbestedende dienst ............................................................ 17 
+8.3 Toepasselijk recht ................................................................................................. 17 
+8.4 Nederlandse taal ................................................................................................... 17 
+8.5 Inschrijven met Onderaannemers ........................................................................... 17 
+8.6 Inschrijven in een Samenwerkingsverband............................................................... 18 
+8.7 Inschrijven conform de Aanbestedingsstukken ......................................................... 18 
+8.8 Inschrijven onder voorwaarden .............................................................................. 18 
+8.9 Gedeeltelijk inschrijven ......................................................................................... 18 
+8.10 Opgave van prijzen, tarieven en kosten ................................................................... 18 
+8.11 Manipulatief inschrijven ......................................................................................... 18 
+8.12 Geldigheidsduur van de Inschrijving ........................................................................ 19 
+8.13 Ondertekening van het UEA en van de Inschrijving ................................................... 19 
+8.14 Aantal malen inschrijven ........................................................................................ 19 
+3 van 26 
+8.15 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving .............. 20 
+8.16 Medewerking onderzoek ........................................................................................ 20 
+8.17 Kostenvergoeding ................................................................................................. 20 
+8.18 Status informatie in de Aanbestedingsstukken .......................................................... 20 
+8.19 Merknamen .......................................................................................................... 20 
+8.20 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken20 
+8.21 Intellectueel eigendom .......................................................................................... 21 
+8.22 Uitsluiting van Inschrijvers ..................................................................................... 21 
+8.23 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname......................... 21 
+8.24 Communicatie gedurende de Aanbesteding .............................................................. 21 
+8.25 Beïnvloeding van de beoordeling............................................................................. 21 
+8.26 Mededeling van de gunningsbeslissing ..................................................................... 22 
+8.27 Rechtsmiddel ....................................................................................................... 22 
+8.28 Klachtafhandeling ................................................................................................. 22 
+9. Begrippen ............................................................................................................. 24 
+10. Bijlagen ................................................................................................................ 26 
+Bijlage A: Programma van eisen ........................................................................................ 26 
+Bijlage B: Concept van de Overeenkomst ........................................................................... 26 
+Bijlage C: Algemene inkoopvoorwaarden ............................................................................ 26 
+Bijlage D: Indienen vragen en opmerkingen ....................................................................... 26 
+Bijlage E: Prijsopgaveformulier ......................................................................................... 26 
+ 
+  
+4 van 26 
+1. Inleiding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding van 
+laboratoriumdiensten voor de Aanbestedende dienst, Afvalzorg Deponie B.V. en Afvalzorg 
+Bodemservice B.V. (hierna te noemen tot hoofdstuk 3 Afvalzorg, daarna Aanbestedende dienst). 
+Afvalzorg wenst een Overeenkomst te sluiten met één ondernemer. In dit document en de overige 
+Aanbestedingsstukken vindt Geïnteresseerde meer over wat Afvalzorg wil bereiken en waarom, en 
+wat Afvalzorg hierbij belangrijk vinden. En Geïnteresseerde leest hoe Aanbestedende dienst precies 
+te werk gaan en wat de spelregels zijn.  
+ 
+Afvalzorg nodigt Geïnteresseerde van harte uit om een Inschrijving in te dienen.  
+1.1 Begrippen 
+In dit document en de overige Aanbestedingsstukken gebruikt Afvalzorg begrippen die zijn 
+aangeduid met een beginhoofdletter. Deze begrippen hebben de betekenis die hieraan is gegeven 
+in de Begrippenlijst, zie hoofdstuk 9.  
+1.2 Aanleiding en context van de Aanbesteding 
+Afvalzorg heeft behoefte aan laboratoriumdiensten. De huidige overeenkomst loopt per 4 
+september 2024 af. Bij laboratoriumdiensten gaat het met name om de uitvoering van analyses. 
+1.3 De Aanbestedende dienst  
+Afvalzorg is een belangrijke speler in de afvalverwerkingsmarkt. Met ruim 100 medewerkers zorgt 
+zij voor opslag, recycling en storten van afval. Afvalzorg is gespecialiseerd in de nazorg van 
+verontreinigde locaties en in het ontwikkelen van gesloten stortlocaties tot veilige, nieuwe 
+(recreatieve) bestemmingen. Samen met partners ontwikkelen ze innovatieve technieken om afval 
+nuttig toe te passen.  
+ 
+Afvalzorg bestaat uit meerdere entiteiten, waarvan Afvalzorg Deponie B.V. als een van die 
+entiteiten aanbestedingsplichtig is. Afvalzorg Deponie is het onderdeel van NV Afvalzorg dat het 
+verwerken van Afval op de stortlocaties verzorgt. Afvalzorg Bodemservice B.V. (handelsnaam: 
+Bodemzorg) is een dochteronderneming van Afvalzorg Deponie B.V. Bodemzorg is specialist in de 
+monitoring en nazorg van saneringslocaties en stortplaatsen. Bodemzorg biedt een breed pakket 
+aan diensten voor locaties met verontreinigde grond en/of grondwater. 
+ 
+De aanbesteding heeft op de entiteiten Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+betrekking. Voor meer informatie over afvalzorg zie: https://www.afvalzorg.nl. 
+1.4 Ondersteunende partijen bij de aanbesteding 
+Afvalzorg laat zich ondersteunen door Significant Synergy. Significant Synergy levert inkoop- en 
+aanbestedingsexpertise voor deze Aanbesteding en zal op geen enkele wijze als Inschrijver, als 
+Onderaannemer of als adviseur van een Inschrijver betrokken zijn bij deze Aanbesteding. 
+1.5 Doelstellingen 
+Afvalzorg wenst met de Aanbesteding een aantal doelstellingen te realiseren.  
+• Leverbetrouwbaarheid en flexibiliteit: Gemakkelijk kunnen opschalen en afschalen. De 
+capaciteit van de oplossing moet kunnen meegroeien met de vraag om de 
+analyseresultaten binnen de opgegeven levertermijnen aan te leveren. Het streven is een 
+hoge leverbetrouwbaarheid;  
+• Databetrouwbaarheid (kwaliteit): De Opdrachtgever wenst betrouwbaarheid voor de 
+levering van laboratorium diensten en kwaliteit van de digitale analyseresultaten 
+(analysecertificaten).  
+• Communicatie: Afvalzorg wenst effectieve, transparante, proactieve en klantgerichte 
+communicatie.  
+   
+5 van 26 
+2. Inhoud van de Opdracht 
+2.1 Binnen de scope van de Opdracht 
+ 
+Bij laboratoriumdiensten gaat het met name om de uitvoering van analyses van afvalwater-, 
+grondwater- en oppervlaktewatermonsters, maar incidenteel mogelijk ook grond-, waterbodem-, 
+lucht- en overige monsters. Vereenvoudigd weergegeven komen de gevraagde 
+laboratoriumdiensten er op neer dat de opdrachtnemer monsters ophaalt op diverse locaties van 
+Afvalzorg of andere locaties, deze monsters in zijn laboratorium analyseert conform de aanvraag 
+van Afvalzorg en de uitkomsten van de analyses digitaal terugkoppelt aan Opdrachtgever. 
+ 
+Afvalzorg maakt onderscheid tussen de volgende analyses: 
+1. Standaard analyses (regulier) op afvalwater-, grondwater- en oppervlaktewatermonsters.  
+2. Analyses op andere matrices (niet reguliere analyses). 
+3. Speciale analyses (specials). Dit zijn analyses op nieuwe, opkomende stoffen (zoals 
+voorheen PFAS) of op stoffen die het laboratorium uitbesteed aan een meer gespecialiseerd 
+lab. 
+ 
+Ad 1. 
+De reguliere analyses zijn per stof opgenomen in Bijlage E Prijzenblad. De analyses en aantallen 
+die betrekking hebben op de beschreven scope zijn toegevoegd in bijlage E ‘tabblad Analyses 
+2020-2023’. Deze aantallen zijn gebaseerd op historische afname. Aan de benoemde aantallen 
+kunnen geen rechten worden ontleend.  
+ 
+Ad 2. 
+Voor de niet-reguliere analyses (andere matrices) dient de Opdrachtnemer in de Inschrijving een 
+kortingspercentage op te nemen op het bruto tarief uit de algemeen geldende bruto tarievenlijst, 
+catalogus of tarievengids (prijspeil 2024). De verwachte omvang van de niet reguliere analyses 
+bedraagt € 10.000,- voor vier jaar.  
+ 
+Ad 3. 
+De specials vallen buiten de scope van de opdracht.  
+2.2 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdracht, maar behoren niet tot 
+de scope: 
+• Advies over relevante ontwikkelingen op het gebied van de gevraagde 
+Laboratoriumdiensten.  
+• Speciale analyses (specials). Voor deze analyses vraagt Opdrachtgever gedurende de 
+looptijd een offerte op waarbij Opdrachtgever vrij is de analyse door een ander lab uit te 
+laten voeren. 
+2.3 Perceelindeling 
+De Opdracht is niet verdeeld in Percelen, omdat Afvalzorg bij het bepalen van de inkoopstrategie 
+heeft vastgesteld dat de Opdracht niet om verschillende expertises vraagt die niet in één 
+onderneming verenigd zijn. Hiernaast zijn een beperkt aantal potentiële inschrijvers. 
+2.4 Omvang van de Opdracht 
+Gedurende de afgelopen jaren zijn ten aanzien van de laboratoriumdiensten gemiddeld per jaar  
+€ 171.000,- exclusief btw besteed. 
+ 
+Jaar Opdrachtwaarde exclusief btw 
+2023 € 150.800  
+2022 € 173.000  
+2021 € 178.000  
+6 van 26 
+2020 € 182.000  
+ 
+Afvalzorg verwacht dat dit gedurende de looptijd van de af te sluiten Overeenkomst ongeveer van 
+dezelfde omvang zullen zijn als in de afgelopen drie jaar.  
+ 
+Aan de omzetten van de afgelopen jaren kunnen echter geen rechten worden ontleend. Indien de 
+omzetten gedurende de komende jaren lager uitvallen, zal dit geen consequenties hebben voor de 
+in de Overeenkomst vastgestelde tarieven.   
+2.5 Varianten 
+Een variant is een niet-besteksconforme inschrijving, dat wil zeggen: een andere oplossing voor de 
+behoefte dan gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten 
+leidt ertoe dat in het Beschrijvend document duidelijk moet worden beschreven op welke wijze de 
+aangeboden varianten zullen worden beoordeeld en hoe de varianten ten opzichte van de opties die 
+voldoen aan het Programma van eisen en de Gunningscriteria worden beoordeeld. Varianten zijn 
+niet toegestaan.  
+2.6 Contractvorm  
+2.6.1 Type en duur van de Overeenkomst 
+Afvalzorg is voornemens om een Overeenkomst met één Opdrachtnemer af te sluiten. 
+ 
+De Overeenkomst heeft een initiële looptijd van vier jaar. De verwachte ingangsdatum van de 
+Overeenkomst is 3 september 2024 en de Overeenkomst eindigt op 2 september 2028. 
+Opdrachtgever heeft de mogelijkheid om de Overeenkomst onder dezelfde condities tweemaal te 
+verlengen met twee jaar. Na acht jaar eindigt de Overeenkomst van rechtswege.  
+2.6.2 Optionele Diensten 
+ 
+Speciale analyses (specials). Voor deze analyses vraagt Opdrachtgever gedurende de looptijd een 
+offerte op waarbij Opdrachtgever vrij is de analyse door een ander lab uit te laten voeren. 
+ 
+Wanneer Afvalzorg behoefte heeft aan de bovengenoemde optie, dan vraagt Afvalzorg vrijblijvend 
+een offerte aan bij de Opdrachtnemer. De Opdrachtnemer stelt een offerte op, waarbij de 
+specificaties uit de offerteaanvraag worden opgenomen. Afvalzorg is niet verplicht om de gewenste 
+optionele Diensten of Leveringen af te nemen. Indien Afvalzorg daar om welke reden dan ook van 
+afziet, zal hij dat toelichten aan de Opdrachtnemer. Op de optionele Diensten zijn de 
+Overeenkomst en het Programma van Eisen onverkort van toepassing.  
+ 
+ 
+ 
+ 
+ 
+  
+7 van 26 
+3. Verloop van de Aanbesteding 
+3.1 Aanbestedingsprocedure 
+Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 
+2012. De keuze voor deze procedure is gemaakt in overeenstemming met de voorschriften zoals 
+opgenomen in de Gids Proportionaliteit. De karakteristieken van de Opdracht lenen zich voor een 
+openbare aanbestedingsprocedure. Door middel van het toepassen van deze 
+aanbestedingsprocedure wordt maximale marktwerking bewerkstelligd omdat elke Geïnteresseerde 
+kan deelnemen. Tevens verwacht Aanbestedende dienst een overzichtelijk aantal inschrijvingen 
+waardoor de administratieve lasten voor zowel de markt als de Aanbestedende dienst beperkt 
+zullen blijven bij het toepassen van deze aanbestedingsprocedure. Het gunningscriterium is 
+economisch meest voordelige inschrijving op basis van de laagste prijs.  
+ 
+Aanbestedende dienst heeft voor dit gunningscriterium gekozen, omdat Aanbestedende dienst voor 
+de kwaliteit van de Opdracht, zoals gedefinieerd in het Programma van Eisen, een 
+gestandaardiseerde Dienstverlening omschrijft die veelal is verbonden aan vaste richtlijnen. De 
+inschatting van de Aanbestedende dienst is dat het Gunningscriterium beste prijs-
+kwaliteitverhouding geen extra onderscheid vermogen biedt ten opzichte van het 
+Gunningscriterium laagste prijs.  
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; u kunt er geen rechten aan 
+ontlenen. We behouden ons het recht voor de planning te wijzigen en de Aanbesteding te staken of 
+op te schorten.  
+ 
+Activiteit Datum Tijd (CET) 
+Verzenden van de aankondiging van de Opdracht   15 mei 2024 
+Sluiting vragenronde 1: indienen vragen en 
+opmerkingen (deadline)  
+29 mei 2024 vóór 14:00 uur 
+Publicatie eerste Nota van inlichtingen 5 juni 2024 
+Sluiting vragenronde 2: indienen vragen en 
+opmerkingen (deadline)   
+12 juni 2024 vóór 14:00 uur 
+Publicatie tweede Nota van inlichtingen   19 juni 2024 
+Sluiting termijn indienen Inschrijvingen (deadline) 3 juli 2024 vóór 14:00 uur 
+Openen van Inschrijvingen 3 juli 2024 na 14:00 uur 
+Bekendmaking gunningsbeslissing (streefdatum)   10 juli 2024 
+Deadline aanleveren bewijsstukken Uiterlijk vijf Werkdagen na verzending 
+gunningsbeslissing 
+Einddatum opschortende termijn  20 kalenderdagen na verzending 
+gunningsbeslissing 
+Ingangsdatum Overeenkomst 3 september 2024 
+Ingangsdatum implementatie  11 juli 2024 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie verloopt uitsluitend via het Aanbestedingsplatform. We nemen berichten die op 
+een andere wijze worden verzonden niet in behandeling.  
+3.4 Informatieverstrekking  
+3.4.1 Indienen van vragen en opmerkingen 
+Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen 
+over de Aanbestedingsstukken. Aanbestedende dienst verwacht een proactieve houding van 
+geïnteresseerde. Als u vragen of opmerkingen heeft, dient geïnteresseerde deze zo spoedig 
+mogelijk te stellen. Voor het stellen van vragen maakt u gebruik van Bijlage D ‘Indienen vragen en 
+8 van 26 
+opmerkingen’. Vragen die u op een andere manier indient of die binnenkomen na de uiterste 
+indieningsdatum voor het stellen van vragen, beantwoorden wij in de regel niet.  
+ 
+We verzoeken u om in de vraagstelling geen gebruik te maken van bedrijfsnamen, productnamen 
+en andere aan uw organisatie gerelateerde namen. We publiceren de gestelde vragen zonder 
+daarbij de naam van de vraagsteller te vermelden en we behouden ons het recht voor om vragen 
+met dat doel aan te passen. We geven geen garantie op anonimiteit, bijvoorbeeld omdat uit 
+noodzakelijke technische vragen de identiteit van de vragensteller kan worden afgeleid. 
+ 
+Als u vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan kunnen deze 
+vragen buiten de Nota van inlichtingen om worden beantwoord. U kunt een gemotiveerd verzoek 
+indienen om een vraag vertrouwelijk te beantwoorden, door bij uw vraag te vermelden: 
+‘Commercieel vertrouwelijk – Niet beantwoorden in de Nota van inlichtingen’. We zullen dat 
+zorgvuldig beoordelen. Als wij van oordeel zijn dat een vraag niet (commercieel) vertrouwelijk van 
+aard is, delen we dit aan u mee. U kunt de desbetreffende vraag vervolgens 1) terugtrekken of 2) 
+door ons laten beantwoorden in de Nota van inlichtingen.  
+3.4.2 Beantwoorden vragen in Nota(’s) van inlichtingen 
+We sluiten een vragenronde af met het publiceren van een Nota van inlichtingen met daarin alle 
+gestelde vragen van Geïnteresseerden en onze antwoorden daarop. Ook van eventuele wijzigingen 
+in Aanbestedingsstukken maken wij melding in een Nota van inlichtingen. Dit kan gepaard gaan 
+met herziene documentatie van de betreffende Aanbestedingsstukken.  
+ 
+De informatie in de Nota’s van inlichtingen is bindend en leidend en prevaleert boven de 
+oorspronkelijke informatie in de Aanbestedingsstukken.  
+ 
+We publiceren de Nota’s van inlichtingen op het Aanbestedingsplatform. Hiervan versturen we geen 
+notificatie; u dient er zelf voor te zorgen dat de informatie tot u komt. TenderNed biedt hiertoe de 
+mogelijkheid aan de hand van een button op het Aanbestedingsplatform (Houd mij op de hoogte 
+van deze aanbesteding). 
+ 
+We hanteren als uitgangspunt dat een Geïnteresseerde eerst een vraag stelt voordat hij een klacht 
+indient. Indien u niet tevreden bent met een bepaalde toelichting in de Nota van inlichtingen kunt u 
+een klacht indienen. Zie paragraaf 8.28 voor meer informatie over klachtafhandeling.  
+3.5 Indienen van de Inschrijving  
+U moet de Inschrijving digitaal indienen via het Aanbestedingsplatform vóór de sluitingsdatum 
+zoals aangegeven in de planning op het Aanbestedingsplatform.  
+ 
+We raden aan om de Inschrijving ruim op tijd in te dienen. Na de sluiting van de 
+inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. Wij 
+beschouwen een niet tijdig ingediende Inschrijving als niet ingediend en nemen deze daarom niet 
+in behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor uw rekening. 
+Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+U bent zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De 
+Aanbestedende dienst, de aanbieder van het Aanbestedingsplatform en Significant Synergy zijn 
+hiervoor niet verantwoordelijk. 
+3.6 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor ons niet eerder zichtbaar dan op het moment dat de sluitingsdatum 
+voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+openen wij de Inschrijvingen. U kunt niet aanwezig zijn bij de opening van Inschrijvingen.  
+3.7 Controle, toetsing en beoordeling van de Inschrijvingen 
+Na opening controleren, toetsen en beoordelen wij de Inschrijvingen.  
+ 
+9 van 26 
+Controle volledigheid en vormvereisten 
+We controleren of uw Inschrijving volledig is en voldoet aan de vormvereisten. Een Inschrijving die 
+niet volledig is of niet voldoet aan de vormvereisten leggen we in de regel als ongeldig terzijde en 
+sluiten we uit van verdere deelname aan de Aanbesteding. 
+ 
+Toetsing 
+We toetsen of Uitsluitingsgronden van toepassing zijn en of uw onderneming voldoet aan de 
+Geschiktheidseisen (zie hoofdstuk 4). Een Inschrijving die niet voldoet aan de hiervoor genoemde 
+punten leggen we in de regel als ongeldig terzijde en sluiten we uit van verdere deelname aan de 
+Aanbesteding.  
+ 
+Inhoudelijke beoordeling 
+Vervolgens beoordelen we uw Inschrijving op basis van het gunningscriterium de laagste prijs. De 
+wijze waarop wij dat doen is beschreven in hoofdstuk 6. 
+3.8 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maken wij de gunningsbeslissing tegelijkertijd bekend aan 
+alle Inschrijvers. Aan de gunningsbeslissing kunt u geen rechten ontlenen, noch houdt deze 
+beslissing de aanvaarding van een aanbod in. Gedurende een opschortende termijn van ten minste 
+twintig kalenderdagen na verzending van de mededeling van de gunningsbeslissing is het de 
+Aanbestedende dienst niet toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+3.9 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kunnen wij bewijs opvragen om de 
+informatie die u in het kader van deze aanbestedingsprocedure heeft gegeven te verifiëren.  
+ 
+Om de administratieve last te beperken mag een aanbestedende dienst bij inschrijving aan 
+inschrijvers in eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) vragen, 
+in plaats van alle bewijsstukken. Een uitzondering geldt voor de referentieopdrachten en voor de 
+inschrijving in het nationale beroeps- en handelsregister, die moet u wel toevoegen aan uw 
+Inschrijving. De overige bewijsstukken die vallen onder het UEA vragen wij in de regel alleen bij u 
+op als u in aanmerking komt voor gunning van de Opdracht. U moet de gevraagde bewijsstukken 
+binnen korte tijd aanleveren, in de regel binnen een termijn van vijf Werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit controle van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+- niet voldoet aan de gestelde eisen, of  
+- geen afdoende bewijs kan overleggen, of  
+- onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. Wij zullen de gunningsbeslissing dan 
+in de regel intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van verdere 
+deelname aan de aanbestedingsprocedure. Vervolgens zullen wij de procedure opnieuw starten 
+vanaf paragraaf 3.8, waarbij de Inschrijver die als tweede in de rangorde eindigde zal worden 
+aangemerkt als de potentieel winnende Inschrijver.  
+ 
+Als na verificatie blijkt dat de potentieel winnende Inschrijver niet voldoet aan de gestelde 
+geschiktheidseisen dan komt deze Inschrijver niet meer voor gunning in aanmerking. Wij zullen de 
+gunningsbeslissing dan intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van 
+verdere deelname aan de aanbestedingsprocedure. Vervolgens zullen wij de procedure opnieuw 
+starten vanaf het punt zoals beschreven in paragraaf 3.8, waarbij de Inschrijver die als tweede in 
+de rangorde eindigde zal worden aangemerkt als de potentieel winnende Inschrijver.  
+ 
+ 
+  
+10 van 26 
+4. Eisen aan de Inschrijver 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen wij hanteren en welke 
+informatie u moet aanleveren. Met het Uniform Europees Aanbestedingsdocument geeft u aan of 
+de Uitsluitingsgronden wel of niet op u van toepassing zijn en of u voldoet aan de 
+Geschiktheidseisen. Ook beschrijven we in dit hoofdstuk welke eisen gelden als:  
+- u inschrijft met Onderaannemer(s); 
+- u inschrijft als een Samenwerkingsverband; 
+- u zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+- u zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 8.5 en 8.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers 
+of als een Samenwerkingsverband.  
+4.2 Uitsluitingsgronden 
+4.2.1 Uitsluiting Russische en Belarussische partijen  
+Op grond van de Europese sancties tegen de handel met Rusland en Belarus1 zijn Russische en 
+Belarussische partijen of partijen die voor meer dan 10% een Russische of Belarussische partij als 
+onderaannemer of leverancier inschakelen, uitgesloten van deelname aan de Aanbesteding.  
+ 
+Het gaat hier om: 
+a. personen met een Russische of Belarussische nationaliteit en personen of rechtspersonen 
+(bedrijven, entiteiten of organen) die gevestigd zijn in Rusland of Belarus; 
+b. rechtspersonen die voor meer dan 50% eigendom zijn van een Russische of Belarussische 
+partij zoals genoemd onder a; en 
+c. personen of rechtspersonen die handelen in belang van of op aanwijzing van een partij 
+genoemd onder a of b. 
+De (rechts)personen genoemd onder b en c kunnen ook (rechts)personen zijn die zijn gevestigd in 
+een ander land dan Rusland of Belarus. 
+4.2.2 Verplichte en facultatieve Uitsluitingsgronden 
+In deel III van het Uniform Europees Aanbestedingsdocument (UEA). In deze UEA-wizard, de in 
+TenderNed geïntegreerde UEA, verklaren wij verplichte en facultatieve Uitsluitingsgronden van 
+toepassing. De redenen voor het van toepassing verklaren van de aangevinkte facultatieve 
+Uitsluitingsgronden in deel III C van het UEA zijn als volgt. We wensen uitsluitend ondernemingen 
+te contracteren die financieel gezond zijn van onbesproken gedrag, waarbij geen sprake is van 
+belangenverstrengeling en die integer en ethisch handelen.  
+ 
+Aan de toepasselijkheid van een Uitsluitingsgrond op een onderneming wordt conform artikel 2.86 
+lid 3 van de Aanbestedingswet 2012 gelijkgesteld de situatie dat een Uitsluitingsgrond van 
+toepassing is op een persoon die lid is van het bestuurs-, leidinggevend of toezichthoudend orgaan 
+of die daarin vertegenwoordigings-, beslissings- of controlebevoegdheid heeft.  
+4.2.3 Invullen van het Uniform Europees Aanbestedingsdocument 
+U vult alle benodigde gegevens in het UEA volledig en juist in en voegt deze toe aan uw 
+Inschrijving. Zie paragraaf 8.13 voor aanwijzingen voor de ondertekening van het UEA.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het 
+volgende:  
+• Onderaannemer(s) – Indien u inschrijft met Onderaannemer(s), dan maakt u hiervan melding 
+in Deel II D van het UEA. Tevens dient elke Onderaannemer een UEA in te vullen (Deel II A & B 
+en Deel III) en rechtsgeldig te ondertekenen.  
+ 
+1 Publications Office (europa.eu) 
+11 van 26 
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan dienen alle leden 
+van het Samenwerkingsverband afzonderlijk het UEA in te vullen en rechtsgeldig te 
+ondertekenen. U vermeldt onder Deel II A met welke entiteiten u een Samenwerkingsverband 
+aangaat. 
+• Beroep op Derde(n) – Indien u een beroep doet op (een) Derde(n) om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen, dan maakt u hiervan melding in Deel II C van het UEA. 
+Tevens dient elke betreffende Derde een eigen UEA in te vullen (Deel II A en B en Deel III) en 
+rechtsgeldig te ondertekenen. 
+4.2.4 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 
+De hierna genoemde documenten gelden als bewijs van uw verklaring middels het UEA dat op u 
+geen Uitsluitingsgronden van toepassing zijn.  
+ 
+Van een onderneming die gevestigd is in een andere lidstaat van de Europese Unie aanvaarden wij, 
+conform lid 4 van artikel 2.89 van de Aanbestedingswet 2012, ook gegevens en bescheiden uit de 
+betreffende lidstaat die een gelijkwaardig doel dienen als de hieronder genoemde bewijsmiddelen 
+of waaruit blijkt dat de Uitsluitingsgronden niet op de betreffende onderneming van toepassing 
+zijn. 
+ 
+• Inschrijving in het nationale beroeps- of handelsregister 
+Een verklaring zoals bedoeld in lid 1 van artikel 2.89 van de Aanbestedingswet 2012, die niet ouder 
+is dan zes maanden op het moment van het indienen van de Inschrijving. Uit de verklaring moet 
+blijken dat u volgens de eisen die gelden in het land waarin u bent gevestigd, bent ingeschreven in 
+het nationale beroeps- of handelsregister. Indien een dergelijke verklaring in het land van vestiging 
+niet wordt afgegeven dient u een verklaring of attest onder ede te verstrekken. Binnen Nederland 
+volstaat hiertoe een uittreksel van inschrijving in het handelsregister van de Kamer van 
+Koophandel.  
+ 
+• Gedragsverklaring aanbesteden 
+Een afschrift van de gedragsverklaring aanbesteden, zoals bedoeld in lid 2 van artikel 2.89 en 
+hoofdstuk 4.1 van de Aanbestedingswet 2012. De gedragsverklaring aanbesteden mag op het 
+moment van inschrijven niet ouder zijn dan twee jaar. Indien zich na afgifte van de 
+gedragsverklaring aanbesteden een Uitsluitingsgrond heeft voorgedaan, bent u verplicht dat in de 
+Inschrijving te vermelden, op straffe van uitsluiting.   
+ 
+U kunt de gedragsverklaring aanbesteden aanvragen via Justis. In verband met de lange 
+verwerkingstermijn adviseren wij om de gedragsverklaring aanbesteden, voorafgaand aan een 
+mogelijk verzoek daarom, tijdig aan te vragen. Indien de beslissing op de aanvraag langer duurt is 
+dit voor uw risico. Voor meer informatie zie: https://www.justis.nl/producten/gva/. 
+ 
+• Verklaring van de Belastingdienst 
+Een verklaring van de Belastingdienst dat uw onderneming de verplichte belastingen en sociale 
+zekerheidspremies heeft betaald, zoals bedoeld in lid 3 van artikel 2.89 van de Aanbestedingswet 
+2012. De verklaring mag op het moment van inschrijven niet ouder zijn dan zes maanden.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt voor de 
+drie bovengenoemde bewijsstukken (inschrijving in het nationale beroeps- of handelsregister, 
+gedragsverklaring aanbesteden en verklaring van de Belastingdienst) het volgende:  
+• Onderaannemer(s) – Indien u inschrijft met Onderaannemer(s) hoeft alleen de hoofdaannemer 
+de drie bovengenoemde bewijsstukken te verstrekken. 
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan dient ieder lid 
+van het Samenwerkingsverband de drie bovengenoemde bewijsstukken te verstrekken.  
+• Beroep op Derde(n) – Indien u een beroep doet op een Derde(n) (om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen), dan dient zowel u als de Derde(n) de drie bovengenoemde 
+bewijsstukken te verstrekken.  
+12 van 26 
+4.3 Geschiktheidseisen  
+Aan de hand van de hierna beschreven Geschiktheidseisen bepalen wij mede of u geschikt bent om 
+de Opdracht uit te voeren.  
+ 
+Door het aanvinken van ‘Ja’ in onderdeel A in Deel IV van het UEA verklaart u dat uw onderneming 
+voldoet aan alle hiernavolgende Geschiktheidseisen. Met de term ‘selectiecriteria’ in het UEA wordt 
+bedoeld: de Geschiktheidseisen. Indien u niet voldoet aan de gestelde Geschiktheidseisen is uw 
+Inschrijving ongeldig en leggen wij deze terzijde.  
+4.3.1 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Vereiste 
+standaarden 
+U moet voldoen aan de volgende standaarden of aantoonbaar werkende vergelijkbare systemen: 
+ 
+Norm, standaard Toelichting 
+Kwaliteit U beschikt over een kwaliteitsmanagementsysteem. 
+U gebruikt een beschreven kwaliteitsmanagementsysteem. Bewijs hiervan 
+levert u door het overleggen van een certificaat, zoals ISO 9001. Of u 
+toont op een andere manier aan dat u op vergelijkbare systematische 
+wijze (dat wil zeggen volgens een cyclus van plan-do-check-act) binnen 
+uw organisatie aan de kwaliteit van de bedrijfsprocessen werkt. 
+Kwaliteit U beschikt over een kwaliteitsmanagementsysteem, specifiek voor 
+laboratoria. 
+U gebruikt een beschreven kwaliteitsmanagementsysteem. Bewijs hiervan 
+levert u door het overleggen van een certificaat, zoals ISO/IEC 17025.  
+Of u toont op een andere manier aan dat u op vergelijkbare systematische 
+wijze (dat wil zeggen volgens een cyclus van plan-do-check-act) binnen 
+uw organisatie aan de kwaliteit van de bedrijfsprocessen werkt. 
+Milieu U neemt maatregelen op het gebied van milieubeheer 
+U gebruikt een beschreven milieubeheersysteem. Bewijs hiervan levert u 
+door het overleggen van een certificaat, zoals ISO 14001. Of u toont op 
+een andere manier aan dat u binnen uw organisatie vergelijkbare 
+maatregelen neemt op het gebied van milieubeheer. 
+ 
+U verklaart door ondertekening van het UEA dat u aan bovenstaande voldoet.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het 
+volgende:  
+• Onderaannemer(s) – Indien u inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij aan bovenstaande eisen voldoet.   
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan tonen de leden 
+van het Samenwerkingsverband gezamenlijk aan dat zij aan bovenstaande eisen voldoen.  
+• Beroep op Derde(n) – Indien u een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan bovenstaande eisen, dan verstrekt u daarvan bewijs. 
+4.4 Bij te voegen documenten en bewijsstukken 
+In de tabel hieronder geven we aan welke van de in dit hoofdstuk genoemde documenten en 
+bewijsstukken u moet bijvoegen bij de Inschrijving. De bewijsstukken in de kolom ‘Op verzoek’ 
+hoeft alleen de winnende Inschrijver aan te leveren, binnen vijf Werkdagen na een verzoek 
+daartoe. Het risico dat bewijsstukken niet tijdig kunnen worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van 
+deelname aan de Aanbesteding. We raden u aan de genoemde bewijsstukken tijdig te verzamelen 
+en gereed te hebben.  
+ 
+We kunnen verzoeken om aanvullend bewijs. We behouden ons het recht voor om nader onderzoek 
+uit te (laten) voeren naar (de verklaringen van) de Inschrijver.  
+13 van 26 
+ 
+ Omschrijving Bij 
+Inschrijving 
+Alleen 
+winnende 
+Inschrijver, 
+op verzoek 
+Algemene 
+verklaringen 
+Uniform Europees Aanbestedingsdocument X  
+Bewijsmiddelen 
+t.b.v. 
+Uitsluitingsgronden 
+Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+Gedragsverklaring aanbesteden  X 
+Verklaring van de Belastingdienst  X 
+Geschiktheidseisen  Vereiste standaarden  X 
+ 
+  
+14 van 26 
+5. Toetsing van de Inschrijving 
+Dit hoofdstuk beschrijft de toetsingscriteria waaraan uw Inschrijving moet voldoen. Niet voldoen 
+aan een toetsingscriterium betekent in de regel uitsluiting van verdere deelname aan de 
+Aanbesteding.  
+5.1 Overzicht van de toetsingscriteria 
+# Toetsingscriterium 
+T1 Voorwaarden en bepalingen van deze Aanbesteding 
+T2 Programma van eisen 
+T3 Concept van de Overeenkomst  
+T4 Algemene inkoopvoorwaarden van de Opdrachtgever  
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 
+Met het ondertekenen van het UEA verklaart u: 
+- dat u onvoorwaardelijk akkoord gaat met alle voorschriften, voorwaarden en bepalingen die zijn 
+opgenomen in de Aanbestedingsstukken; 
+- dat u voldoet aan c.q. akkoord gaat met (de inhoud van) het Programma van eisen dat is 
+opgenomen in Bijlage A, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen 
+daarop; 
+- dat u onvoorwaardelijk akkoord gaat met het concept van de Overeenkomst dat is opgenomen 
+in Bijlage B, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat u onvoorwaardelijk akkoord gaat met de Inkoopvoorwaarden van Afvalzorg die zijn 
+opgenomen in Bijlage C, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen 
+daarop, en dat eventuele leverings-, betalings- en/of andere algemene voorwaarden van uzelf 
+niet van toepassing zijn. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 van 26 
+6. Beoordeling van de Inschrijving – hoe beoordelen we? 
+6.1 Gunningsmethode: Laagste prijs 
+ Bij de beoordeling van de Inschrijvingen hanteren we als gunningscriterium 'de laagste prijs’.   
+16 van 26 
+7. Beoordeling van de Inschrijving – wat beoordelen we? 
+7.1 Overzicht van alle Gunningscriteria 
+Om de Inschrijving met de laagste prijs te kunnen bepalen, hanteert Aanbestedende dienst een 
+bandbreedte. 
+7.2 Gunningscriterium prijs 
+Vul in het prijsopgaveformulier (Bijlage E) de prijzen in. Voor elk van de prijsonderdelen in het 
+prijsopgaveformulier volgt hierna een toelichting. 
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moet u aanbieden in euro’s, prijspeil april 2024 en exclusief btw.  
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: 
+salariskosten, overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en 
+ondersteunend werk, kosten voor het gebruik van apparatuur en software, reiskosten, 
+parkeerkosten, afleverkosten, afvoerkosten potten en flessen en logistieke kosten. Ook alle 
+eventueel verdere bijkomende kosten die u als professionele onderneming moet kunnen 
+voorzien, moeten zijn inbegrepen.  
+• Het is niet toegestaan om in te schrijven met een negatieve prijs of om een bedrag van nul (0) 
+euro in te vullen.  
+• Opgegeven (eenheids)prijzen mogen niet abnormaal laag zijn. Bij de vaststelling of hiervan 
+sprake is nemen wij artikel 2.116 van de Aanbestedingswet 2012 in acht. Opdrachtgever 
+behoudt het recht om de prijzen uit de algemeen geldende bruto tarievenlijst, catalogus of 
+tarievengids (prijspeil 2024) op de vragen.  
+• Het is niet toegestaan om manipulatief in te schrijven. Hiermee bedoelen we in deze context 
+dat een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-Inschrijvers te 
+ontkomen, respectievelijk dat de aangekondigde maatstaf ter beoordeling van de economisch 
+meest voordelige inschrijving wordt misbruikt, waardoor de door ons gehanteerde 
+beoordelingsmethodiek wordt gefrustreerd.  
+ 
+Niet voldoen aan bovenstaande voorwaarden leidt in de regel tot het terzijde leggen van de 
+Inschrijving en uitsluiting van verdere deelname aan de aanbestedingsprocedure.  
+ 
+Beoordelingskader: Prijs 
+De Inschrijving met de laagste inschrijfprijs in cel B91 van Bijlage E komt in aanmerking voor 
+gunning van de Opdracht. 
+ 
+In het Prijzenblad dient u naast de tarieven voor alle genoemde analyses (regulier) ook één 
+standaard kortingspercentage op te geven dat van toepassing is voor Opdrachtgever in geval van 
+afname van een of meer van de overige analyses die u aanbiedt op een andere matrix dan water 
+(niet reguliere analyses). Dit kortingspercentage wordt in het totale eindbedrag meegewogen door 
+middel van een standaard bijtelling. Indien u 0% korting verleent zal een bijtelling plaatsvinden 
+van maximaal €10.000,-. Indien u een standaard korting verleent van 100% zal er geen bijtelling 
+plaatsvinden.  
+ 
+ 
+ 
+ 
+ 
+ 
+17 van 26 
+8. Voorschriften en voorwaarden 
+In dit hoofdstuk staan voorwaarden en bepalingen die gelden in het kader van deze Aanbesteding. 
+Dit hoofdstuk bevat tevens voorschriften volgens welke alle Inschrijvingen moeten zijn opgemaakt 
+en ingezonden om in behandeling te worden genomen. Dit is om eerlijke concurrentie tussen de 
+Inschrijvers te garanderen.  
+ 
+Inschrijvingen die op een afwijkende manier zijn aangeboden en Inschrijvingen die niet voldoen 
+aan de voorwaarden, zijn in de regel ongeldig en beoordelen we niet verder. In dat geval krijgt u 
+hierover schriftelijk bericht met vermelding van de reden.  
+8.1 Gebruik Aanbestedingsplatform 
+We stellen alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform. U kunt uw 
+Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De Aanbestedende dienst is op 
+geen enkele wijze verantwoordelijk voor het gebruik van het Aanbestedingsplatform en wijst iedere 
+vorm van aansprakelijkheid nadrukkelijk van de hand. 
+ 
+Voor zover omschrijvingen op het Aanbestedingsplatform en in het Beschrijvend document met 
+elkaar in tegenspraak zijn, prevaleren de omschrijvingen in het Beschrijvend document boven de 
+omschrijvingen op het Aanbestedingsplatform. 
+8.2 Voorbehouden van de Aanbestedende dienst 
+De Aanbestedende dienst behoudt zich het recht voor om de Aanbesteding geheel of gedeeltelijk 
+op te schorten, tijdelijk of definitief te staken en/of om niet over te gaan tot het sluiten van de 
+Overeenkomst. In dat geval krijgt u hierover schriftelijk bericht met vermelding van de reden. 
+8.3 Toepasselijk recht 
+Uitsluitend het Nederlandse recht beheerst deze Aanbesteding.  
+8.4 Nederlandse taal  
+U dient uw Inschrijving op te stellen in de Nederlandse taal. Communicatie, documenten en 
+correspondentie in het kader van deze Aanbesteding en de eventuele Opdracht zijn in de 
+Nederlandse taal. Voor (standaard)rapporten, handleidingen en dergelijke, waarvan het algemeen 
+gebruikelijk is dat deze in de Engelse taal zijn opgesteld, geldt dat u hiervan (ook) Engelstalige 
+versies mag overleggen. Andere talen zijn niet toegestaan. 
+8.5 Inschrijven met Onderaannemers 
+In aanvulling op de eisen voor het inschrijven met (een) Onderaannemer(s) die zijn beschreven in 
+hoofdstuk 4 van dit Beschrijvend document geldt het volgende. Indien de Inschrijver een beroep 
+doet op (een) Onderaannemer(s) om te kunnen voldoen aan (een) Geschiktheidseis(en) dan dient 
+de Inschrijver aan te geven (i) welke Onderaannemer(s) dit betreft en (ii) voor welk deel van de 
+Opdracht deze Onderaannemer(s) zal (zullen) worden ingeschakeld dan wel voor welke 
+Geschiktheidseis(en) de Inschrijver een beroep doet op deze Onderaannemer(s). Van alle 
+Onderaannemers dient na de mededeling van de gunningsbeslissing op eerste verzoek van de 
+Aanbestedende dienst een bewijs van inschrijving in het nationaal beroeps-/handelsregister te 
+worden overgelegd.  
+ 
+Na inschrijving mag de samenstelling van hoofdaannemer met één of meer Onderaannemer(s) 
+alleen worden gewijzigd na voorafgaande schriftelijke goedkeuring van de Aanbestedende dienst.  
+ 
+De Onderaannemer(s) voeren namens en onder verantwoordelijkheid van de Opdrachtnemer 
+bepaalde voorschriften uit. De hoofdaannemer is bij deze constructie volledig aansprakelijk voor de 
+gestanddoening van de verplichtingen voortvloeiend uit de Inschrijving, alsmede de eventuele 
+uitvoering daarvan. De hoofdaannemer is ook aansprakelijk voor de nakoming van de 
+verplichtingen van de door hem ingeschakelde Onderaannemer(s). 
+18 van 26 
+De Opdrachtnemer dient de betreffende Onderaannemer(s) ook daadwerkelijk bij de uitvoering van 
+de Opdracht en dienovereenkomstig in te zetten. In het geval dat de Opdrachtnemer een beroep 
+doet op de betreffende Onderaannemer(s) om te kunnen voldoen aan (een) Geschiktheidseis(en) 
+dient de hoofdaannemer aan te tonen dat hij bij de uitvoering ook werkelijk gebruik kan maken 
+van de benodigde middelen (kennis, mens, materieel) van de betreffende Onderaannemer(s).  
+ 
+Het is niet toegestaan een onderaannemer in te zetten waarop een Uitsluitingsgrond van 
+toepassing is, behoudens wanneer de Aanbestedende dienst hiervoor expliciet toestemming geeft 
+wegens één of meer van de redenen genoemd in artikel 2.86a, 2.87a en 2.88 van de 
+Aanbestedingswet 2012. Op eerste verzoek van de Aanbestedende dienst toont de Inschrijver aan 
+de hand van bewijsmiddelen aan dat op zijn Onderaannemers geen Uitsluitingsgronden van 
+toepassing zijn.  
+8.6 Inschrijven in een Samenwerkingsverband 
+Alle leden van het Samenwerkingsverband verklaren door middel van het indienen van een 
+Inschrijving aansprakelijk te zijn, zowel in het kader van de Aanbesteding als in het kader van het 
+uitvoeren van de Opdracht. Het Samenwerkingsverband moet in de Inschrijving aangeven welke 
+(rechts)persoon het aanspreekpunt is tijdens deze procedure en gedurende de contractperiode als 
+penvoerder optreedt. Partijen in een Samenwerkingsverband kunnen niet tevens apart of in een 
+andere combinatie inschrijven. Indien daarvan toch sprake is, zijn alle betreffende Inschrijvingen 
+ongeldig. 
+ 
+Wijzigingen in de samenstelling van het Samenwerkingsverband na indiening van de Inschrijving, 
+zonder schriftelijke toestemming van de Aanbestedende dienst, leidt in de regel tot uitsluiting. 
+ 
+De leden van een Samenwerkingsverband verklaren zich door aanmelding bereid om vanaf gunning 
+een rechtsvorm aan te nemen volgens welke de leden van het Samenwerkingsverband hoofdelijk 
+aansprakelijk zijn voor de volledige en correcte nakoming van alle verbintenissen jegens de 
+Opdrachtgever. Een Samenwerkingsverband wijst gedurende de Aanbesteding en uitvoering van de 
+Opdracht een penvoerder aan die gerechtigd is namens het Samenwerkingsverband op te treden. 
+8.7 Inschrijven conform de Aanbestedingsstukken 
+De Inschrijver moet zijn Inschrijving baseren op de Aanbestedingsstukken. Indien een Inschrijver 
+gevraagde informatie niet, niet volledig en/of niet juist heeft aangeleverd, leidt dat in de regel tot 
+ongeldigheid van de Inschrijving en uitsluiting van verdere deelname aan de Aanbesteding. Onder 
+‘niet juist’ verstaat de Aanbestedende dienst het wijzigen van informatie in de 
+Aanbestedingsstukken of het niet gebruiken van een voorgeschreven bijlage of formulier.  
+8.8 Inschrijven onder voorwaarden 
+Een Inschrijving waaraan voorwaarden zijn verbonden of waarop voorbehouden worden gemaakt, 
+merken wij in de regel aan als ongeldig en sluiten wij uit van verdere deelname aan de 
+Aanbesteding.  
+8.9 Gedeeltelijk inschrijven 
+Een Inschrijving indienen ten aanzien van een gedeelte van de Opdracht is niet toegestaan. 
+8.10 Opgave van prijzen, tarieven en kosten 
+De prijzen, tarieven en kosten die de Inschrijver opgeeft dienen marktconform, aannemelijk en 
+reëel te zijn – zie in dit kader ook paragraaf 8.11.  
+8.11 Manipulatief inschrijven 
+Het is de Inschrijver niet toegestaan manipulatief in te schrijven. Hiermee wordt in deze context 
+bedoeld dat een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-
+Inschrijvers te ontkomen, respectievelijk dat de aangekondigde maatstaf ter beoordeling van de 
+economisch meest voordelige inschrijving wordt misbruikt, waardoor de door de Aanbestedende 
+dienst gehanteerde beoordelingsmethodiek wordt gefrustreerd. De Inschrijver mag geen 
+aanbieding doen die naar objectieve bedrijfseconomische maatstaven niet marktconform of niet 
+19 van 26 
+aannemelijk is, dan wel anderszins een manipulatief karakter heeft. Een Inschrijving is in ieder 
+geval manipulatief als één of meerdere tarieven de gehanteerde formule frustreren of als sprake is 
+van negatieve of nultarieven. Tevens is het niet toegestaan het format van het 
+prijsopgaveformulier te wijzigen. 
+De Inschrijver die deze bepaling overtreedt wordt in de regel uitgesloten van verdere deelname 
+aan de Aanbesteding.  
+8.12 Geldigheidsduur van de Inschrijving 
+De Inschrijving is een onherroepelijk aanbod in de zin van artikel 6:219 lid 1 van het Burgerlijk 
+Wetboek. De Inschrijver dient de Inschrijving tot minimaal drie maanden vanaf de datum van 
+ontvangst van de Inschrijving gestand te doen. Indien een kort geding wordt aangespannen tegen 
+de gunningsbeslissing bedraagt de gestanddoeningstermijn minimaal zes weken na de 
+onherroepelijke uitspraak in kort geding. De Aanbestedende dienst kan verzoeken de 
+gestanddoeningstermijn te verlengen. Aan een zodanig verzoek kan de Inschrijver geen aanspraak 
+op de Opdracht ontlenen.  
+8.13 Ondertekening van het UEA en van de Inschrijving 
+Een handtekening onder het UEA geldt tevens als een ondertekening van de Inschrijving. De 
+Inschrijving zelf en documenten en verklaringen bij de Inschrijving hoeft u dus niet separaat te 
+ondertekenen. 
+ 
+Het UEA moet rechtsgeldig zijn ondertekend door een daartoe bevoegd natuurlijke persoon. De 
+rechtsgeldige bevoegdheid van de ondertekenaar blijkt uit het (de) uittreksel(s) van de Kamer van 
+Koophandel of de inschrijving in het nationale beroeps- of handelsregister in het land van vestiging 
+of bij ontbreken daarvan een ander bewijsstuk als bedoeld in artikel 2.98 Aanbestedingswet 2012. 
+Een ondertekenaar die niet als vertegenwoordigingsbevoegde persoon is ingeschreven in het 
+beroeps- of handelsregister dient te zijn gevolmachtigd door een persoon die wel 
+vertegenwoordigingsbevoegdheid heeft. De volmacht moet worden toegevoegd aan de Inschrijving.  
+ 
+Let op – Het formulier is een interactieve pdf. Het formulier vult meerdere keren automatisch de 
+voor de Inschrijver positieve antwoorden in. Het is de verantwoordelijkheid van de Inschrijver om 
+te verifiëren of dit klopt. 
+Let op – Een onvolledig en/of onjuist ingevuld UEA en/of een niet rechtsgeldig ondertekend UEA 
+leidt in de regel tot uitsluiting van verdere deelname aan de Aanbesteding.  
+8.14 Aantal malen inschrijven  
+Een Inschrijver (een (rechts)persoon of vennootschap) mag slechts eenmaal inschrijven, hetzij als 
+zelfstandige Inschrijver, hetzij als lid van een Samenwerkingsverband.  
+Een rechtspersoon of vennootschap die optreedt als Onderaannemer voor een Inschrijver mag niet 
+tevens inschrijven als zelfstandige Inschrijver of als lid van een Samenwerkingsverband. 
+rechtspersoon of vennootschap mag wel  optreden als Onderaannemer voor meerdere Inschrijvers. 
+ 
+Voor de toepassing van deze bepaling worden in elk geval rechtspersonen en/of vennootschappen 
+die voldoen aan de onderstaande voorwaarden als één rechtspersoon of vennootschap beschouwd: 
+a. Rechtspersonen en/of vennootschappen die aan elkaar zijn gelieerd op een wijze als bedoeld in 
+artikel 2:24a Burgerlijk Wetboek; 
+b. Rechtspersonen en/of vennootschappen die met elkaar zijn verbonden in een groep als bedoeld 
+in artikel 2:24b Burgerlijk Wetboek; of 
+c. Rechtspersonen en/of vennootschappen die aan elkaar zijn gelieerd in aan sub a of sub b 
+vergelijkbare rechtsvormen naar buitenlands recht. 
+ 
+De Aanbestedende dienst zal (rechts)personen niet uitsluiten als die (rechts)personen aantonen dat 
+in hun geval geen sprake is van een reëel gevaar dat zich praktijken voordoen die de transparantie 
+kunnen bedreigen en de mededinging tussen de Inschrijvers kunnen vervalsen en meer in het 
+algemeen dat deze verhouding hun respectieve gedrag in het kader van deze Aanbesteding niet 
+heeft beïnvloed en niet zal beïnvloeden.  
+ 
+20 van 26 
+Een Inschrijver mag niet tevens als Derde fungeren waarop door een andere Inschrijver een 
+beroep wordt gedaan. Een Derde mag niet voor meerdere Inschrijvers garant staan indien het de 
+Geschiktheidseisen betreft rondom financiële en economische draagkracht in overeenstemming met 
+art. 2:403 sub f BW.  
+8.15 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving 
+Het ontbreken van gevraagde informatie, verklaringen en/of documenten leidt in de regel tot 
+uitsluiting. Als sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden in een 
+Inschrijving en dit door de Aanbestedende dienst wordt aangemerkt als een kennelijke en 
+herstelbare omissie, dan behoudt de Aanbestedende dienst zich het recht voor de Inschrijver te 
+vragen om een verduidelijking en/of een aanvulling. Deze verduidelijking en/of aanvulling mag 
+geen wezenlijke wijziging van de Inschrijving met zich meebrengen. Als dat naar de mening van de 
+Aanbestedende dienst wel zo is, dan zal hij deze verduidelijkingen en/of aanvullingen niet in de 
+beoordeling meenemen. 
+8.16 Medewerking onderzoek 
+De Aanbestedende dienst behoudt zich het recht voor de juistheid van de door de Inschrijver 
+overgelegde verklaringen, bescheiden en gegevens, alsmede de financiële en economische 
+draagkracht, vakkundigheid en/of integriteit van de Inschrijver (nader) te onderzoeken. De 
+Inschrijver is verplicht volle medewerking te verlenen aan een dergelijk (nader) onderzoek door de 
+Aanbestedende dienst (in elke fase van de Aanbesteding, alsmede na verlening van de Opdracht). 
+8.17 Kostenvergoeding  
+Inschrijvers hebben geen recht op vergoeding van kosten in het kader van deze Aanbesteding. De 
+Aanbestedende dienst heeft voor deze bepaling een zorgvuldige afweging gemaakt op grond van 
+voorschrift 3.8A van de Gids Proportionaliteit en de Handreiking Tenderkostenvergoeding van 
+oktober 2018. In geval van (onverwachte) intrekking van de Aanbesteding door niet aan 
+Inschrijvers verwijtbare oorzaken zal de Aanbestedende dienst een tenderkostenvergoeding 
+heroverwegen.  
+8.18 Status informatie in de Aanbestedingsstukken 
+Onverminderd de overige voorbehouden als opgenomen in de Aanbestedingsstukken, kunnen 
+Geïnteresseerden met betrekking tot de Aanbesteding uitsluitend rechten ontlenen aan informatie 
+die is opgenomen in de Aanbestedingsstukken. De Aanbestedende dienst is niet aansprakelijk voor 
+de onjuistheid en/of onvolledigheid van informatie over de Opdracht die door de Geïnteresseerde is 
+verkregen via andere kanalen. Geïnteresseerden dienen zich, waar zij dit nodig of wenselijk achten, 
+zelf en voor eigen rekening en risico op de hoogte te stellen van onder meer de technische 
+aspecten, het publiekrechtelijk kader en al hetgeen zij relevant achten in verband met hun 
+deelname aan de Aanbesteding.  
+8.19 Merknamen 
+Als in de Aanbestedingsstukken in verband met technische specificaties wordt gesproken over een 
+bepaald fabricaat, herkomst, bijzondere werkwijze, verwijzing naar een merk, octrooi, type, 
+oorsprong of productie, is dit alleen bedoeld als voorbeeld. In dergelijke gevallen moet de 
+Geïnteresseerde de melding of verwijzing lezen met toevoeging van de woorden ’of gelijkwaardig’, 
+als dat er niet bij is vermeld. 
+8.20 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de 
+Aanbestedingsstukken 
+Indien sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de 
+Aanbestedingsstukken, dan dient de Geïnteresseerde dat zo spoedig mogelijk te melden – in ieder 
+geval vóór de sluitingsdatum van de laatste vragenronde. De Aanbestedende dienst verwacht van 
+Geïnteresseerden een proactieve houding, zodat de Aanbestedende dienst de 
+Aanbestedingsstukken effectief kan herstellen. Indien de Geïnteresseerde niet of niet tijdig melding 
+maakt van tegenstrijdigheden, onduidelijkheden of onvolkomenheden dan vervalt het recht om op 
+een later moment daarover te klagen en/of bezwaren te uiten. 
+21 van 26 
+Indien de Geïnteresseerde na kennisneming van de Nota(‘s) van inlichtingen nog steeds meent dat 
+sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden, kan hij een klacht 
+indienen bij de Aanbestedende dienst. Zie de klachtenprocedure in paragraaf 8.28.  
+8.21 Intellectueel eigendom 
+De intellectuele eigendomsrechten van de Aanbestedingsstukken berusten bij de Aanbestedende 
+dienst. Zonder uitdrukkelijke toestemming van de Aanbestedende dienst is het niet toegestaan 
+deze documenten te dupliceren dan wel te verspreiden.  
+8.22 Uitsluiting van Inschrijvers 
+Ten tijde van (i) het indienen van een Inschrijving en (ii) de gunning dient de Inschrijver te kunnen 
+aantonen dat de Uitsluitingsgronden niet op hem van toepassing zijn, dat hij voldoet aan de 
+Geschiktheidseisen en dat hij voldoet/kan voldoen aan de eisen uit het Programma van eisen. Bij 
+gebreke daarvan wordt de Inschrijver in de regel uitgesloten van verdere deelname aan de 
+Aanbesteding en komt hij niet in aanmerking voor gunning van de Opdracht.  
+ 
+Indien gedurende de aanbestedingsprocedure een Uitsluitingsgrond op de Inschrijver van 
+toepassing wordt, of indien de Inschrijver niet langer aan de Geschiktheidseisen of de eisen uit het 
+Programma van eisen voldoet of kan voldoen, dient de Inschrijver dat feit onverwijld schriftelijk 
+mede te delen aan de Aanbestedende dienst. Indien op enig moment blijkt dat de Inschrijver 
+onjuiste informatie hierover heeft verschaft, dan wordt hij in de regel uitgesloten van verdere 
+deelname aan de Aanbesteding. 
+ 
+De Aanbestedende dienst is gerechtigd de Inschrijver van de Aanbesteding uit te sluiten: 
+- als de Inschrijver aan de zijde van de Aanbestedende dienst betrokken is, of is geweest, bij de 
+voorbereiding van de Aanbesteding, of 
+- als de Inschrijver zich in verband met de Aanbesteding bedient van ondernemingen, adviseurs, 
+medewerkers en/of andere (rechts)personen die aldus betrokken zijn of zijn geweest.  
+ 
+Datzelfde geldt als (rechts)personen uit de groep van de Inschrijver een dergelijke betrokkenheid 
+hebben of hadden. De Aanbestedende dienst zal de Inschrijver niet uitsluiten als de Inschrijver 
+aantoont dat onder de omstandigheden van het concrete geval mededinging door bedoelde 
+betrokkenheid niet vervalst kan zijn.  
+8.23 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname 
+Als tijdens de Aanbesteding een Inschrijver of een Samenwerkingsverband de voor deze 
+Aanbesteding relevante bedrijfsactiviteit(en) moet staken of het bedrijf wordt overgenomen, dan 
+moet de Inschrijver de Aanbestedende dienst direct informeren. In dat geval behoudt de 
+Aanbestedende dienst zich het recht voor deze Inschrijver uit te sluiten van deelname aan de 
+Aanbesteding. 
+8.24 Communicatie gedurende de Aanbesteding 
+Communicatie met betrekking tot de Aanbesteding verloopt uitsluitend via het 
+Aanbestedingsplatform. Gedurende de Aanbesteding is het niet toegestaan contact te hebben met 
+(andere) medewerkers van de Aanbestedende dienst of bij de Aanbesteding betrokken organisaties 
+om informatie te verkrijgen over de Aanbesteding. Handelen in strijd met deze bepaling leidt in de 
+regel tot uitsluiting van verdere deelname aan de Aanbesteding. 
+8.25 Beïnvloeding van de beoordeling 
+Het is de Geïnteresseerde of de Inschrijver niet toegestaan contact te zoeken met een lid of leden 
+van de beoordelingscommissie, medewerkers van de Aanbestedende dienst of andere betrokkenen 
+bij de Aanbesteding voor welke informatie met betrekking tot de Aanbesteding dan ook. Elke 
+beïnvloeding, op welke manier dan ook, van medewerkers die bij deze Aanbesteding betrokken 
+zijn, leidt in de regel tot uitsluiting van deelname aan de Aanbesteding. 
+22 van 26 
+8.26 Mededeling van de gunningsbeslissing 
+Op grond van artikel 2.129 van de Aanbestedingswet 2012 houdt de mededeling van de 
+gunningsbeslissing geen aanvaarding in van een aanbod van een Inschrijver. Gedurende een 
+opschortende termijn van ten minste twintig kalenderdagen na verzending van de mededeling van 
+de gunningsbeslissing is het de Aanbestedende dienst niet toegestaan de Overeenkomst aan te 
+gaan met de winnende Inschrijver. Als binnen deze opschortende termijn een kort geding 
+aanhangig is gemaakt – hetgeen moet blijken uit toezending van een kopie van het exploot van 
+dagvaarding – zal de Aanbestedende dienst niet tot gunning van de Overeenkomst overgaan 
+voordat in kort geding vonnis is gewezen. Bovengenoemde termijn van twintig kalenderdagen is 
+een vervaltermijn. Als binnen deze termijn geen kort geding aanhangig is gemaakt kunnen de 
+afgewezen Inschrijvers na afloop van deze termijn geen bezwaar meer maken tegen de beslissing, 
+noch achteraf een kort geding of bodemprocedure aanhangig maken om schadevergoeding te 
+vorderen, en hebben zij hun rechten ter zake volledig verwerkt.  
+Dit betekent niet dat na automatisch verloop van de opschortende termijn het aanbod van de 
+winnende Inschrijver alsnog is aanvaard. De Aanbestedende dienst aanvaardt het aanbod van de 
+winnende Inschrijver na de verificatiefase (zie paragraaf 3.9 Verificatie van bewijsmiddelen) met 
+berichtgeving over de definitieve gunning van de Opdracht.  
+8.27 Rechtsmiddel 
+Indien de Inschrijver bezwaar heeft tegen de (motivering van de) gunningsbeslissing, dient hij 
+binnen de opschortende termijn van twintig kalenderdagen (ingaande op de dag na de 
+verzenddatum van de gunningsbeslissing), door betekening van een dagvaarding een kort geding 
+bij de Rechtbank te Haarlem aanhangig te maken. In het belang van een snelle en goede 
+voortgang dient een kopie van de dagvaarding vervolgens zo snel mogelijk aan de Aanbestedende 
+dienst te worden verstuurd via het Aanbestedingsplatform.  
+ 
+Indien de Inschrijver binnen deze opschortende termijn geen kort geding aanhangig heeft 
+gemaakt, houdt dat in dat: 
+- de Inschrijver het recht verwerkt om tegen de uitkomst en het verdere verloop van de 
+Aanbesteding op te komen; 
+- de Inschrijver zijn eventuele rechten bovendien verwerkt om na afloop van deze termijn ter 
+zake in een bodemprocedure of kort geding van de Aanbestedende dienst bepaalde 
+(rechts)handelingen en/of achteraf een schadevergoeding te vorderen. 
+ 
+De Aanbestedende dienst zal, mits hij niet (tussentijds) schriftelijk is teruggekomen op zijn 
+gunningsbeslissing, de Opdracht gunnen aan de Inschrijver wanneer voornoemde opschortende 
+termijn is verstreken zonder dat een kort geding aanhangig is gemaakt. De Aanbestedende dienst 
+behoudt zich nadrukkelijk het recht voor om terug te komen op de gunningsbeslissing, indien daar 
+volgens hem aanleiding voor bestaat. Indien tijdig een kort geding tegen de gunningsbeslissing 
+respectievelijk afwijzing aanhangig is gemaakt, zal de Aanbestedende dienst niet eerder tot 
+gunning overgaan totdat de voorzieningenrechter in eerste aanleg uitspraak heeft gedaan. In het 
+geval dat een kort geding aanhangig wordt gemaakt, hebben andere Inschrijvers de mogelijkheid 
+te interveniëren in het geding. Indien de keuze wordt gemaakt om niet te interveniëren in het 
+geding dan kan de Inschrijver later niet alsnog opkomen tegen de beslissingen die de 
+Aanbestedende dienst neemt vanwege (de uitkomst van) het kort geding.  
+8.28 Klachtafhandeling   
+Het kan voorkomen dat ontevredenheid bestaat over hoe tijdens de procedure wordt of is 
+geacteerd. Dit kan leiden tot een klacht. Iedere (potentiële) Geïnteresseerde die belang heeft bij de 
+Aanbesteding kan een gemotiveerde klacht indienen. Een Geïnteresseerde doet er goed aan zijn 
+klacht in een zo vroeg mogelijk stadium in te dienen. 
+Klachten dienen schriftelijk te worden ingediend via het e-mailadres info@afvalzorg.nl mailto:met 
+als onderwerp ‘Klacht over aanbesteding Laboratoriumdiensten’; 
+23 van 26 
+• Aanbestedende dienst streeft ernaar de behandeltermijn van de klacht zo kort mogelijk 
+te houden. Na afloop van de klachtafhandeling ontvangt de klager een schriftelijk 
+gemotiveerd resultaat van de klachtafhandeling; 
+• Aanbestedende dienst behoudt zich het recht voor een klacht niet in behandeling te 
+nemen, indien hiervan sprake is zal de klager hierover eveneens schriftelijk 
+gemotiveerd worden geïnformeerd; 
+• Het staat de klager vrij om de klacht (eveneens) aan de Commissie van 
+Aanbestedingsexperts voor te leggen; 
+• Het indienen van een klacht schort de Aanbesteding in de regel niet op. Aanbestedende 
+dienst is vrij om al dan niet te besluiten tot opschorting van de 
+aanbestedingsprocedure. 
+  
+24 van 26 
+9. Begrippen 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien 
+aangeduid met een beginhoofdletter, de volgende betekenis.  
+ 
+Aanbestedende dienst Afvalzorg Deponie B.V. en Afvalzorg Bodemservice 
+B.V. Tot hoofdstuk 3 ‘Afvalzorg’, ‘Aanbestedende 
+dienst’. 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt 
+tot verlening van de Opdracht. 
+Aanbestedingsplatform Het platform van TenderNed waarop de 
+Aanbestedingsstukken worden geplaatst en waarop de 
+communicatie tussen de Aanbestedende dienst en de 
+ondernemers plaatsvindt en dat als medium dient 
+voor het indienen van een Inschrijving. 
+Aanbestedingsstukken Alle documenten die door de Aanbestedende dienst 
+gedurende de Aanbesteding worden ingebracht. 
+Aanbestedingswet 2012 Wet van 1 november 2012, houdende nieuwe regels 
+omtrent Aanbestedingen, Stb. 2012, 542, zoals onder 
+meer gewijzigd bij Wet van 22 juni 2016 tot wijziging 
+van de Aanbestedingswet 2012 in verband met de 
+implementatie van aanbestedingsrichtlijnen 
+2014/23/EU, 2014/24/EU en 2014/25/EU, Stb. 2016, 
+241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van 
+het voorwerp van de Aanbesteding wordt gegeven. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage 
+maakt integraal deel uit van de 
+Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep 
+doet met betrekking tot het voldoen aan de 
+Geschiktheidseisen. Deze derde partij is niet per se 
+hetzelfde als een Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de 
+Overeenkomst ten behoeve van de Opdrachtgever te 
+verlenen diensten, te verrichten werkzaamheden en in 
+het kader daarvan te leveren prestaties, een en ander 
+zoals beschreven in de Aanbestedingsstukken. Het 
+gebruik van de termen ‘Diensten’ en ‘Dienstverlening’ 
+heeft mede betrekking op eventuele leveringen die in 
+het kader van die diensten (dienen te) worden 
+gedaan. 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, 
+onderneming of organisatie die geïnteresseerd is om 
+mee te dingen naar de Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gunningscriterium Criterium op basis waarvan de economisch meest 
+voordelige inschrijving wordt bepaald. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of 
+wijzigingen met betrekking tot de 
+Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft 
+ingediend. 
+25 van 26 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende 
+dienst en dat strekt tot het uitvoeren van de 
+Opdracht. 
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele 
+mededelingen van de Aanbestedende dienst en 
+wijzigingen van het Beschrijvend document en/of 
+andere Aanbestedingsstukken.  
+De Nota van inlichtingen maakt onderdeel uit van de 
+Aanbestedingsstukken en prevaleert boven het 
+Beschrijvend document en de daarbij behorende 
+Bijlagen. Bij een Nota van inlichtingen beschikbaar 
+gestelde Herziene documentatie prevaleert boven 
+eerdere versies van die betreffende documenten.  
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer 
+zelf inzet om een gedeelte van de gecontracteerde 
+opdracht uit te voeren, onder verantwoordelijkheid 
+van de Opdrachtnemer als hoofdaannemer. De 
+Opdrachtnemer blijft altijd volledig verantwoordelijk 
+en aansprakelijk voor de (uitvoering van de) Opdracht 
+en de resultaten ervan. Deze onderaannemer is niet 
+per se de Derde als bedoeld in het Beschrijvend 
+document. 
+Opdracht De opdracht van de Opdrachtgever aan de 
+Opdrachtnemer tot hetgeen is overeengekomen in de 
+Overeenkomst en in het kader daarvan te verrichten 
+werkzaamheden en te leveren prestaties, een en 
+ander zoals beschreven in de Aanbestedingsstukken.  
+Opdrachtgever De opdrachtgever, in dit geval Afvalzorg, die de 
+Overeenkomst aangaat met de Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de 
+Overeenkomst afsluit. 
+Overeenkomst De overeenkomst tussen de Opdrachtgever en de 
+Opdrachtnemer voor het leveren van (een) 
+product(en), de te verrichten werkzaamheden en/of 
+het verlenen van een Dienst, zoals beschreven in het 
+Beschrijvend document. 
+Perceel Een afgebakend onderdeel van de Opdracht waarop 
+kan worden ingeschreven.  
+Programma van eisen Het document waarin de specificaties ten aanzien van 
+het uitvoeren van de Opdracht zijn opgenomen. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk 
+als één Inschrijver aan de Aanbesteding deelneemt. 
+Uniform Europees 
+Aanbestedingsdocument (UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin 
+verkeert, kunnen leiden tot uitsluiting van deelname 
+aan de Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een 
+zondag, (ii) een algemeen erkende feestdag (conform 
+lid 1 van artikel 3 van de Algemene Termijnenwet). 
+ 
+ 
+  
+26 van 26 
+10. Bijlagen 
+ 
+ 
+Bijlage A: Programma van eisen 
+ 
+Bijlage B: Concept van de Overeenkomst 
+ 
+Bijlage C: Algemene inkoopvoorwaarden  
+ 
+Bijlage D: Indienen vragen en opmerkingen 
+ 
+Bijlage E: Prijsopgaveformulier
+
+=== Document: nota van inlichtingen ea laboratoriumdiensten ===
+SYN20230220ED   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Nota van inlichtingen 
+ 
+Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+ 
+Laboratoriumdiensten 
+ 
+Europese aanbesteding volgens de openbare procedure 
+Eerste nota van inlichtingen 
+5 juni 2024 
+ 
+2 van 4 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen bevat onze antwoorden en reacties op vragen en opmerkingen van 
+Geïnteresseerden. Deze Nota van inlichtingen maakt onderdeel uit van de Aanbestedingsstukken 
+en prevaleert boven het Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Aanvullingen 
+Met deze Nota van inlichtingen hebben we de volgende documenten gewijzigd en bijgevoegd als 
+Herziene documentatie: 
+• Concept Overeenkomst V2.0: optie tot indexatie toegevoegd in de Overeenkomst; 
+• Bijlage E – Prijsopgave formulier V2.0: benzoaten verwijderd. 
+ 
+Bijlagen 
+Met deze Nota van inlichtingen hebben we de volgende bijlagen bijgevoegd: 
+• Bijlage 1 - VB resultaat.XML; 
+• Bijlage 2 - VB labopdracht.xml. 
+ 
+ 
+ 
+  
+3 van 4 
+Vragen/opmerkingen van Geïnteresseerden en antwoorden/reacties van Afvalzorg Deponie B.V. en 
+Afvalzorg Bodemservice B.V. 
+Nr. Betreft Vraag Antwoord 
+1  programma van 
+eisen 
+kunt u een voorbeeld aanleveren van een opdracht en 
+resultaten-file? 
+Dat is mogelijk. Van beide is een voorbeeld opgenomen als 
+bijlage bij deze Nota van Inlichtingen (resultaat: Bijlage 1 - 
+VB resultaat.xml, opdracht: Bijlage 2 - VB 
+lanopdracht.xml). Persoonlijke informatie en informatie 
+over ons huidige laboratorium is verwijderd (vervangen 
+door XXX). 
+2  programma van 
+eisen 
+in de aangepaste heffingsformule is de NEN EN ISO 20236 
+verplicht voor de methode voor Totaal Stikstof. Kunt u deze 
+methode (ook) opnemen? 
+Dat is akkoord, de norm NEN EN ISO 20236 kan (ook) 
+worden toegepast. 
+3  programma van 
+eisen 
+de genoemde methode voor Antimoon is vervallen. Kunt u de 
+methode NEN-EN-ISO 17294-2 (ook) opnemen? Gegeven de 
+verouderde methode en apparatuur is gelijkwaardigheid niet 
+meer aan te tonen 
+Dat is akkoord, de norm NEN EN ISO 17294-2 kan (ook) 
+worden toegepast. 
+4  beschrijvend 
+document 
+u vraagt om de ISO 9001. deze is niet gebruikelijk voor 
+laboratoria. Hiervoor is de ISO 17025 die u ook vraagt. Kunt u 
+de eis voor 9001 laten vervallen? De 17025 is ook specifieker 
+dan de 9001 
+Opdrachtgever bevestigt dat indien een Inschrijver beschikt 
+over de ISO/IEC 17025 accreditatie, afgegeven door de 
+RVA (in Nederland), of een erkende accreditatieinstelling in 
+het land van herkomst van de Inschrijver, waarvan de ISO 
+9001:2015 daadwerkelijk onderdeel is, de desbetreffende 
+Inschrijver niet over een afzonderlijk ISO 9001:2015 
+certificaat hoeft te  beschikken. 
+5  overeenkomst tarieven staan de eerste 4 jaar vast. Dit is een ongebruikelijke 
+lange periode zeker gegeven de inflatie in de laatste jaren. Kunt 
+u dit aanpassen in bijv. jaarlijkse indexatie? 
+Wij bieden de optie tot jaarlijkse indexatie per 1 januari 
+(voor het eerst op 1 januari 2026, geïndexeerd op basis 
+van de door het Centraal Bureau voor de Statistiek 
+uitgegeven Consumentenprijsindexcijfers (CPI) waarbij de 
+jaarlijkse maximale indexatie is begrenst op 5%. 
+ 
+Dit is tevens opgenomen in Bijlage B – Concept 
+Overeenkomst V2.0. 
+6  prijzenblad u vraagt om benzoaten. Kunt u hiervan een specificatie geven 
+welke componenten bedoeld worden? 
+Naar aanleiding van uw vraag hebben wij besloten 
+benzoaten niet op te nemen in het prijzenblad. Bijlage E - 
+Prijsopgave formulier V2.0 is hierop aangepast. 
+4 van 4 
+ 
+7  prijzenblad u vraagt om analyses Grondwater. Dienen deze conform 
+AS3100 te zijn? Mits mogelijk 
+Wij kunnen over de door u genoemde AS3100 geen 
+informatie vinden. 
+  
+Wel kunnen wij vermelden dat de grondwateranalyses, 
+indien mogelijk/van toepassing, conform AS SIKB 3000 en 
+onderliggende protocollen dienen te worden uitgevoerd. 
+ 
+Indien dit geen antwoord op uw vraag geeft, dan 
+verzoeken wij u een aanvullende vraag, met aanvullende 
+informatie, te stellen voor de tweede Nota van Inlichtingen.  
+8  prijzenblad u noemt meerdere matrices, afval-, grond- en 
+oppervlaktewater. Voor het laboratorium gelden hiervoor vaak 
+verschillende methoden en andere rapportagegrenzen en 
+opwerkingen en ook andere tarieven. Kunt u de analyses 
+opsplitsen per matrix? Kunt u per analyse aangeven welk aantal 
+per matrix wordt gevraagd? 
+Het heeft onze voorkeur voor de verschillende stoffen één 
+tarief voor alle matrices te hebben, daarom besluiten wij 
+om de analyses niet op te splitsen per matrix. Op dit 
+moment werken wij ook met één tarief voor alle 
+verschillende matrices.  
+ 
+Indien u kunt beargumenteren dat er verschillen zitten in 
+de analysemethodes, de rapportagegrenzen en/of 
+opwerkingen tussen de verschillende matrices, die leiden 
+tot significante prijsverschillen tussen de matrices, dan 
+verzoeken wij u een aanvullende vraag te stellen voor de 
+tweede Nota van Inlichtingen.
+
+=== Document: nota van inlichtingen 2 (publicatiedocument) ===
+SYN20230220ED   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Nota van inlichtingen 2 
+ 
+Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+ 
+Laboratoriumdiensten 
+ 
+Europese aanbesteding volgens de openbare procedure 
+Eerste nota van inlichtingen 
+19 juni 2024 
+ 
+2 van 6 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen 2 bevat onze antwoorden en reacties op vragen en opmerkingen van 
+Geïnteresseerden. Deze Nota van inlichtingen maakt onderdeel uit van de Aanbestedingsstukken 
+en prevaleert boven het Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Aanvullingen 
+Met deze Nota van inlichtingen 2 hebben we de volgende documenten gewijzigd en bijgevoegd als 
+Herziene documentatie: 
+• Bijlage A – Programma van Eisen V2.0: diverse normen geactualiseerd; 
+• Bijlage B - Concept Overeenkomst V3.0; 
+• Bijlage E – Prijsopgave formulier V3.0: optie tot het indienen van prijzen per matrix; 
+• Bijlage C – Actuele versie Algemene voorwaarden 2015.  
+ 
+ 
+ 
+ 
+  
+3 van 6 
+Vragen/opmerkingen van Geïnteresseerden en antwoorden/reacties van Afvalzorg Deponie B.V. en 
+Afvalzorg Bodemservice B.V. 
+Nr. Betreft Paragraaf Blz. Vraag Antwoord 
+1  Overeenkomst 
+laboratoriumdiensten 
+2.2 2 O.b.v. art. 2.2 mag Opdrachtgever eenzijdig de 
+overeenkomst verlengen onder dezelfde condities.  
+"Dezelfde condities" zouden ook de prijzen kunnen 
+betekenen. Echter, o.b.v. art. 4.3 zullen partijen gesprekken 
+voeren over het indexeren van prijzen bij een eventuele 
+verlenging van de overeenkomst. Wordt er met art. 2.2 
+bedoeld dat de opdrachtgever de overeenkomst (eenzijdig) 
+mag verlengen zonder dat er tussen partijen overeenkomst 
+is bereikt over het al dan niet indexeren van de prijzen? 
+Artikel 4.3 is aangepast. Een herziene versie van Bijlage B: 
+Concept Overeenkomst is gepubliceerd met de Nota van 
+Inlichtingen 2.  
+2  Overeenkomst 
+laboratoriumdiensten 
+2.4 2 Dit artikel bepaalt dat de Opdrachtgever de overeenkomst 
+eenzijdig mag beëindigen als "het gevoel van een 
+vruchtbare samenwerking bij de Opdrachtgever is 
+verdwenen. De hierop volgende volzin geeft enige 
+verduidelijking over wanneer de Opdrachtgever de 
+overeenkomst mag beëindigen. " Het mogen beëindigen 
+van de overeenkomst o.b.v. "het gevoel" blijft echter een wat 
+vage grondslag voor het mogen beëindigen van de 
+overeenkomst. Is het artikel zo bedoeld dat Opdrachtgever 
+alleen eenzijdig mag beëindigen in geval van een ernstige 
+toerekenbare tekortkoming? Zo nee,  is het mogelijk om 
+deze beëindigingsmogelijkheid voor Opdrachtgever te 
+concretiseren?  
+Artikel 2.4 is aangepast. Een herziene versie van Bijlage B: 
+Concept Overeenkomst is gepubliceerd met de Nota van 
+Inlichtingen 2.  
+3  Overeenkomst 
+laboratoriumdiensten 
+3.3 2 O.b.v. dit artikel dient Opdrachtnemer ervoor zorg te dragen 
+dat na uiterlijk 4 weken opdrachten voor het uitvoeren van 
+analyses gedaan kunnen worden. Is deze termijn fataal? Zo 
+ja, is het mogelijk om uitzonderingen op deze termijn over 
+een te komen? Bijvoorbeeld ingeval van omstandigheden 
+die niet (geheel) aan Opdrachtnemer zijn te wijten? 
+De, in artikel 3.3, benoemde termijn is niet fataal.  
+4  Overeenkomst 
+laboratoriumdiensten 
+4.3 3 Kunt u toelichten op welke aspecten van de "gezamenlijke 
+evaluatie" zoals benoemd in dit artikel, Opdrachtgever zal 
+beoordelen of de overeenkomst al dan niet wordt verlengd? 
+Zie het antwoord op vraag 1, artikel 4.3 is aangepast en de 
+“gezamenlijke evaluatie” is te komen vervallen. 
+5  Overeenkomst 
+laboratoriumdiensten 
+5.1 3 Heeft u, met de verwijzing naar art. 6:258 BW, eigenlijk een 
+verwijzing bedoeld naar 'overmacht' zoals bedoeld in art. 
+6:75 BW? 
+Nee, de Opdrachtgever bedoelt geen verwijzing naar 
+overmacht.  
+4 van 6 
+ 
+6  Overeenkomst 
+laboratoriumdiensten 
+5.2 3 Het woord "Geschil" wordt in dit artikel geschreven met een 
+hoofdletter wat zou duiden op een begrip c.q. definitie. 
+Echter, een definitie van "Geschil" wordt niet gegeven in de 
+overeenkomst. Kunt u daarom toelichten wat er volgens u 
+wordt bedoeld met "Geschil" en wat de gevolgen zijn als er 
+een Geschil wordt geconstateerd? 
+De term 'geschil' is geen begrip. Artikel 5.2 is aangepast. 
+Een herziene versie van Bijlage B: Concept Overeenkomst 
+is gepubliceerd met de Nota van Inlichtingen 2. De gevolgen 
+van een geschil worden beschreven in artikel 6.2 van 
+Bijlage B: Concept Overeenkomst.  
+7  Overeenkomst 
+laboratoriumdiensten 
+5.2 3 Voor het doen van een beroep op art. 6:258 BW dient er 
+een procedure aanhangig gemaakt te worden bij de rechter 
+aldus art. 6:258 BW. De wetgever heeft bewust het begrip 
+"onvoorziene omstandigheid" niet verder geduid in art. 6:258 
+BW om de mogelijkheden op een beroep op dit artikel niet te 
+beperken zodat het aan de rechter is om te beoordelen of er 
+wel/niet sprake is van een "onvoorziene omstandigheid". 
+Art. 5.2 van de overeenkomst bepaald echter dat partijen 
+eerst in overleg zullen treden als een partij meent dat er 
+sprake is van een "onvoorziene omstandigheid". Is het, 
+gezien de open term "onvoorziene omstandigheid", 
+voldoende om een overleg tussen partijen te vereisen indien 
+(slechts) 1 van de partijen meent dat er sprake is van een 
+"onvoorziene omstandigheid"? 
+Zie artikel 6.2 in de Overeenkomst. De partijen treden altijd 
+eerst in overleg alvorens zich tot rechtsmiddelen te wenden. 
+8  Algemene 
+voorwaarden Afvalzorg 
+Deponie B.V. 
+n.v.t. n.v.t. De algemene voorwaarden lijken hoofdzakelijk te zien op 
+het aanbieden c.q. verwerken van afvalstoffen. De 
+onderhavige aanbesteding ziet echter op diensten 
+(analyses) die aan Deponie worden verstrekt en niet op het 
+aanbieden c.q. verwerken van afvalstoffen. Als gevolg 
+daarvan lijken verschillende bepalingen uit de algemene 
+voorwaarden niet van toepassing. Zou u kunnen aangeven 
+welke bepalingen uit de algemene voorwaarden niet van 
+toepassing zullen zijn op de dienstverlening zoals vervat in 
+de aanbesteding of kunnen duiden hoe de bepalingen 
+omtrent het aanbieden c.q. verwerken van afvalstoffen 
+geïnterpreteerd moeten worden bij de onderhavige 
+dienstverlening? Zie in dit kader o.a. art. 3, 4, 5.3, 6, 9 en 
+10.1 van de algemene voorwaarden. 
+Een actuele versie van de Algemene voorwaarden is 
+gepubliceerd met de Nota van Inlichtingen 2.  
+9  Algemene 
+voorwaarden Afvalzorg 
+Deponie B.V. 
+8.1 2 Aannemende dat deze bepaling van toepassing is op de 
+onderhavige dienstverlening ondanks dat het artikel spreekt 
+over "verwerking van (afval)stoffen, zou Opdrachtgever het 
+recht hebben om de overeenkomst per direct te beëindigen 
+indien er sprake is van een overmachtssituatie. Dit zou 
+echter als onredelijk bestempeld kunnen worden aangezien 
+Een actuele versie van de Algemene voorwaarden is 
+gepubliceerd met de Nota van Inlichtingen 2.  
+5 van 6 
+ 
+enige tekortkoming door overmacht niet aan een partij te 
+wijten is of voor diens risico dient te komen (zie art. 6:75 BW 
+en art. 8.2 van de algemene voorwaarden). Kunt u 
+toelichten of dit art. 8.1 is bedoeld om Opdrachtgever het 
+recht te geven om per direct de overeenkomst te beëindigen 
+in geval van overmacht? Zo nee, is het mogelijk om een 
+termijn in dit kader overeen te komen dat de overeenkomst 
+pas kan worden beëindigd ingeval de overmachtssituatie 
+meer dan X weken voortduurt? 
+10  Algemene 
+voorwaarden Afvalzorg 
+Deponie B.V. 
+9 2 In de overeenkomst en de algemene voorwaarden is geen 
+beperking van aansprakelijkheid voor Opdrachtnemer 
+opgenomen. Is het mogelijk om een beperking van 
+aansprakelijkheid voor Opdrachtnemer overeen te komen? 
+Een actuele versie van de Algemene voorwaarden is 
+gepubliceerd met de Nota van Inlichtingen 2.  
+11  Algemene 
+voorwaarden Afvalzorg 
+Deponie B.V. 
+10.2 2 In tegenstelling tot hetgeen wordt bepaald in dit artikel, zou 
+Opdrachtgever niet gehouden zijn om een veilige 
+werkomgeving te hebben voor (het personeel van) 
+Opdrachtnemer. Het is echter redelijkerwijs te verwachten 
+dat Opdrachtgever houden is om ook voor (het personeel 
+van) Opdrachtnemer een veilige werkomgeving te hebben. 
+Is het mogelijk om nadere afspraken te maken  hieromtrent? 
+Een actuele versie van de Algemene voorwaarden is 
+gepubliceerd met de Nota van Inlichtingen 2.  
+12  Algemene 
+voorwaarden Afvalzorg 
+Deponie B.V. 
+10.3 2 Kunt u aangeven voor welk bedrag Deponie aansprakelijk is 
+voor de situaties zoals bedoeld in dit artikel ingeval de 
+verzekeraar van Deponie niet tot uitkering overgaat? 
+Een actuele versie van de Algemene voorwaarden is 
+gepubliceerd met de Nota van Inlichtingen 2.  
+13  Programma van eisen  5 2 Totaal stikstof (N-totaal) NEN-ISO-11905-1 is niet meer 
+actueel is vervangen door NEN-EN-ISO 20236 gaat u hier 
+mee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+14  Programma van eisen  5 2 Totaal fosfaat (totaal-P) NEN-EN-ISO 15681-2 is niet meer 
+actueel en vervangen door NEN-EN-ISO 17294-2 gaat u 
+hiermee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+15  Programma van eisen  5 2 
+Antimoon NEN 6433  is niet meer actueel is vervangen door 
+NEN-EN-ISO 17294-2 gaat u hier mee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+16  Programma van eisen  5 2 
+PAK-16 NEN-EN-ISO-17993  is niet meer actueel is 
+vervangen door ISO 285406 gaat u hier mee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+6 van 6 
+ 
+17  Programma van eisen  5 2 
+BTEX NEN-EN ISO-15680  is niet meer actueel is 
+vervangen door ISO 11423-1 gaat u hier mee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+18  Programma van eisen  5 2 
+BZV NEN EN ISO 1899  is niet meer actueel is vervangen 
+door EN ISO 5815- ½ gaat u hier mee akkoord 
+Opdrachtgever gaat hiermee akkoord. Een herziene versie 
+van Bijlage A: Programma van eisen is gepubliceerd met de 
+Nota van Inlichtingen 2.  
+19  Prijzenblad     U wilt de analyses niet opsplitsen in de verschillende 
+matrices Kunt u aangeven in welke verhouding de matrices 
+Afvalwater / Grondwater / Grondwater cf AS3100 worden 
+gevraagd? Het gaat ons om een inzicht te krijgen in de ruwe 
+verhoudingen in omzet 
+Opdrachtgever gaat hiermee akkoord. Er wordt er optie 
+geboden om binnen de verschillende matrices prijzen op te 
+geven. Hieraan is een weging gekoppeld. Een herziene 
+versie van Bijlage E: Prijsopgave formulier wordt 
+gepubliceerd met de Nota van Inlichtingen 2.
+
+=== Document: beschrijvend document afvalzorg laboratoriumdiensten v2.0 met wijzigingen bijhouden ===
+SYN20230727ED   
+ 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 195 mei 2024 
+Versienummer: 21.0 
+Kenmerk: TN464450  
+Beschrijvend document 
+ 
+Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+ 
+Laboratoriumdiensten 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+2 van 26 
+Inhoud 
+ 
+1. Inleiding ................................................................................................................ 4 
+1.1 Begrippen ............................................................................................................. 4 
+1.2 Aanleiding en context van de Aanbesteding ............................................................... 4 
+1.3 De Aanbestedende dienst ....................................................................................... 4 
+1.4 Ondersteunende partijen bij de aanbesteding ............................................................ 4 
+1.5 Doelstellingen ....................................................................................................... 4 
+2. Inhoud van de Opdracht ......................................................................................... 5 
+2.1 Binnen de scope van de Opdracht ............................................................................ 5 
+2.2 Buiten de scope van de Opdracht ............................................................................. 5 
+2.3 Perceelindeling ...................................................................................................... 5 
+2.4 Omvang van de Opdracht ....................................................................................... 5 
+2.5 Varianten .............................................................................................................. 6 
+2.6 Contractvorm ........................................................................................................ 6 
+3. Verloop van de Aanbesteding ................................................................................. 7 
+3.1 Aanbestedingsprocedure ......................................................................................... 7 
+3.2 Planning ............................................................................................................... 7 
+3.3 Communicatie gedurende de Aanbesteding ............................................................... 7 
+3.4 Informatieverstrekking ........................................................................................... 7 
+3.5 Indienen van de Inschrijving ................................................................................... 8 
+3.6 Opening van de Inschrijvingen ................................................................................ 8 
+3.7 Controle, toetsing en beoordeling van de Inschrijvingen ............................................. 8 
+3.8 Gunningsbeslissing ................................................................................................ 9 
+3.9 Verificatie ............................................................................................................. 9 
+4. Eisen aan de Inschrijver ....................................................................................... 10 
+4.1 Inleiding .............................................................................................................. 10 
+4.2 Uitsluitingsgronden ............................................................................................... 10 
+4.3 Geschiktheidseisen ............................................................................................... 12 
+4.4 Bij te voegen documenten en bewijsstukken ............................................................ 12 
+5. Toetsing van de Inschrijving ................................................................................ 14 
+5.1 Overzicht van de toetsingscriteria ........................................................................... 14 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 ................................................. 14 
+6. Beoordeling van de Inschrijving – hoe beoordelen we? ....................................... 15 
+6.1 Gunningsmethode: Laagste prijs ............................................................................. 15 
+7. Beoordeling van de Inschrijving – wat beoordelen we? ....................................... 16 
+7.1 Overzicht van alle Gunningscriteria ......................................................................... 16 
+7.2 Gunningscriterium prijs ......................................................................................... 16 
+8. Voorschriften en voorwaarden ............................................................................. 17 
+8.1 Gebruik Aanbestedingsplatform .............................................................................. 17 
+8.2 Voorbehouden van de Aanbestedende dienst ............................................................ 17 
+8.3 Toepasselijk recht ................................................................................................. 17 
+8.4 Nederlandse taal ................................................................................................... 17 
+8.5 Inschrijven met Onderaannemers ........................................................................... 17 
+8.6 Inschrijven in een Samenwerkingsverband............................................................... 18 
+8.7 Inschrijven conform de Aanbestedingsstukken ......................................................... 18 
+8.8 Inschrijven onder voorwaarden .............................................................................. 18 
+8.9 Gedeeltelijk inschrijven ......................................................................................... 18 
+8.10 Opgave van prijzen, tarieven en kosten ................................................................... 18 
+8.11 Manipulatief inschrijven ......................................................................................... 18 
+8.12 Geldigheidsduur van de Inschrijving ........................................................................ 19 
+8.13 Ondertekening van het UEA en van de Inschrijving ................................................... 19 
+8.14 Aantal malen inschrijven ........................................................................................ 19 
+3 van 26 
+8.15 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving .............. 20 
+8.16 Medewerking onderzoek ........................................................................................ 20 
+8.17 Kostenvergoeding ................................................................................................. 20 
+8.18 Status informatie in de Aanbestedingsstukken .......................................................... 20 
+8.19 Merknamen .......................................................................................................... 20 
+8.20 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken20 
+8.21 Intellectueel eigendom .......................................................................................... 21 
+8.22 Uitsluiting van Inschrijvers ..................................................................................... 21 
+8.23 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname......................... 21 
+8.24 Communicatie gedurende de Aanbesteding .............................................................. 21 
+8.25 Beïnvloeding van de beoordeling............................................................................. 21 
+8.26 Mededeling van de gunningsbeslissing ..................................................................... 22 
+8.27 Rechtsmiddel ....................................................................................................... 22 
+8.28 Klachtafhandeling ................................................................................................. 22 
+9. Begrippen ............................................................................................................. 24 
+10. Bijlagen ................................................................................................................ 26 
+Bijlage A: Programma van eisen ........................................................................................ 26 
+Bijlage B: Concept van de Overeenkomst ........................................................................... 26 
+Bijlage C: Algemene inkoopvoorwaarden ............................................................................ 26 
+Bijlage D: Indienen vragen en opmerkingen ....................................................................... 26 
+Bijlage E: Prijsopgaveformulier ......................................................................................... 26 
+ 
+  
+4 van 26 
+1. Inleiding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding van 
+laboratoriumdiensten voor de Aanbestedende dienst, Afvalzorg Deponie B.V. en Afvalzorg 
+Bodemservice B.V. (hierna te noemen tot hoofdstuk 3 Afvalzorg, daarna Aanbestedende dienst). 
+Afvalzorg wenst een Overeenkomst te sluiten met één ondernemer. In dit document en de overige 
+Aanbestedingsstukken vindt Geïnteresseerde meer over wat Afvalzorg wil bereiken en waarom, en 
+wat Afvalzorg hierbij belangrijk vinden. En Geïnteresseerde leest hoe Aanbestedende dienst precies 
+te werk gaan en wat de spelregels zijn.  
+ 
+Afvalzorg nodigt Geïnteresseerde van harte uit om een Inschrijving in te dienen.  
+1.1 Begrippen 
+In dit document en de overige Aanbestedingsstukken gebruikt Afvalzorg begrippen die zijn 
+aangeduid met een beginhoofdletter. Deze begrippen hebben de betekenis die hieraan is gegeven 
+in de Begrippenlijst, zie hoofdstuk 9.  
+1.2 Aanleiding en context van de Aanbesteding 
+Afvalzorg heeft behoefte aan laboratoriumdiensten. De huidige overeenkomst loopt per 4 
+september 2024 af. Bij laboratoriumdiensten gaat het met name om de uitvoering van analyses. 
+1.3 De Aanbestedende dienst  
+Afvalzorg is een belangrijke speler in de afvalverwerkingsmarkt. Met ruim 100 medewerkers zorgt 
+zij voor opslag, recycling en storten van afval. Afvalzorg is gespecialiseerd in de nazorg van 
+verontreinigde locaties en in het ontwikkelen van gesloten stortlocaties tot veilige, nieuwe 
+(recreatieve) bestemmingen. Samen met partners ontwikkelen ze innovatieve technieken om afval 
+nuttig toe te passen.  
+ 
+Afvalzorg bestaat uit meerdere entiteiten, waarvan Afvalzorg Deponie B.V. als een van die 
+entiteiten aanbestedingsplichtig is. Afvalzorg Deponie is het onderdeel van NV Afvalzorg dat het 
+verwerken van Afval op de stortlocaties verzorgt. Afvalzorg Bodemservice B.V. (handelsnaam: 
+Bodemzorg) is een dochteronderneming van Afvalzorg Deponie B.V. Bodemzorg is specialist in de 
+monitoring en nazorg van saneringslocaties en stortplaatsen. Bodemzorg biedt een breed pakket 
+aan diensten voor locaties met verontreinigde grond en/of grondwater. 
+ 
+De aanbesteding heeft op de entiteiten Afvalzorg Deponie B.V. en Afvalzorg Bodemservice B.V. 
+betrekking. Voor meer informatie over afvalzorg zie: https://www.afvalzorg.nl. 
+1.4 Ondersteunende partijen bij de aanbesteding 
+Afvalzorg laat zich ondersteunen door Significant Synergy. Significant Synergy levert inkoop- en 
+aanbestedingsexpertise voor deze Aanbesteding en zal op geen enkele wijze als Inschrijver, als 
+Onderaannemer of als adviseur van een Inschrijver betrokken zijn bij deze Aanbesteding. 
+1.5 Doelstellingen 
+Afvalzorg wenst met de Aanbesteding een aantal doelstellingen te realiseren.  
+• Leverbetrouwbaarheid en flexibiliteit: Gemakkelijk kunnen opschalen en afschalen. De 
+capaciteit van de oplossing moet kunnen meegroeien met de vraag om de 
+analyseresultaten binnen de opgegeven levertermijnen aan te leveren. Het streven is een 
+hoge leverbetrouwbaarheid;  
+• Databetrouwbaarheid (kwaliteit): De Opdrachtgever wenst betrouwbaarheid voor de 
+levering van laboratorium diensten en kwaliteit van de digitale analyseresultaten 
+(analysecertificaten).  
+• Communicatie: Afvalzorg wenst effectieve, transparante, proactieve en klantgerichte 
+communicatie.  
+   
+5 van 26 
+2. Inhoud van de Opdracht 
+2.1 Binnen de scope van de Opdracht 
+ 
+Bij laboratoriumdiensten gaat het met name om de uitvoering van analyses van afvalwater-, 
+grondwater- en oppervlaktewatermonsters, maar incidenteel mogelijk ook grond-, waterbodem-, 
+lucht- en overige monsters. Vereenvoudigd weergegeven komen de gevraagde 
+laboratoriumdiensten er op neer dat de opdrachtnemer monsters ophaalt op diverse locaties van 
+Afvalzorg of andere locaties, deze monsters in zijn laboratorium analyseert conform de aanvraag 
+van Afvalzorg en de uitkomsten van de analyses digitaal terugkoppelt aan Opdrachtgever. 
+ 
+Afvalzorg maakt onderscheid tussen de volgende analyses: 
+1. Standaard analyses (regulier) op afvalwater-, grondwater- en oppervlaktewatermonsters.  
+2. Analyses op andere matrices (niet reguliere analyses). 
+3. Speciale analyses (specials). Dit zijn analyses op nieuwe, opkomende stoffen (zoals 
+voorheen PFAS) of op stoffen die het laboratorium uitbesteed aan een meer gespecialiseerd 
+lab. 
+ 
+Ad 1. 
+De reguliere analyses zijn per stof opgenomen in Bijlage E Prijzenblad. De analyses en aantallen 
+die betrekking hebben op de beschreven scope zijn toegevoegd in bijlage E ‘tabblad Analyses 
+2020-2023’. Deze aantallen zijn gebaseerd op historische afname. Aan de benoemde aantallen 
+kunnen geen rechten worden ontleend.  
+ 
+Ad 2. 
+Voor de niet-reguliere analyses (andere matrices) dient de Opdrachtnemer in de Inschrijving een 
+kortingspercentage op te nemen op het bruto tarief uit de algemeen geldende bruto tarievenlijst, 
+catalogus of tarievengids (prijspeil 2024). De verwachte omvang van de niet reguliere analyses 
+bedraagt € 10.000,- voor vier jaar.  
+ 
+Ad 3. 
+De specials vallen buiten de scope van de opdracht.  
+2.2 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdracht, maar behoren niet tot 
+de scope: 
+• Advies over relevante ontwikkelingen op het gebied van de gevraagde 
+Laboratoriumdiensten.  
+• Speciale analyses (specials). Voor deze analyses vraagt Opdrachtgever gedurende de 
+looptijd een offerte op waarbij Opdrachtgever vrij is de analyse door een ander lab uit te 
+laten voeren. 
+2.3 Perceelindeling 
+De Opdracht is niet verdeeld in Percelen, omdat Afvalzorg bij het bepalen van de inkoopstrategie 
+heeft vastgesteld dat de Opdracht niet om verschillende expertises vraagt die niet in één 
+onderneming verenigd zijn. Hiernaast zijn een beperkt aantal potentiële inschrijvers. 
+2.4 Omvang van de Opdracht 
+Gedurende de afgelopen jaren zijn ten aanzien van de laboratoriumdiensten gemiddeld per jaar  
+€ 171.000,- exclusief btw besteed. 
+ 
+Jaar Opdrachtwaarde exclusief btw 
+2023 € 150.800  
+2022 € 173.000  
+2021 € 178.000  
+6 van 26 
+2020 € 182.000  
+ 
+Afvalzorg verwacht dat dit gedurende de looptijd van de af te sluiten Overeenkomst ongeveer van 
+dezelfde omvang zullen zijn als in de afgelopen drie jaar.  
+ 
+Aan de omzetten van de afgelopen jaren kunnen echter geen rechten worden ontleend. Indien de 
+omzetten gedurende de komende jaren lager uitvallen, zal dit geen consequenties hebben voor de 
+in de Overeenkomst vastgestelde tarieven.   
+2.5 Varianten 
+Een variant is een niet-besteksconforme inschrijving, dat wil zeggen: een andere oplossing voor de 
+behoefte dan gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten 
+leidt ertoe dat in het Beschrijvend document duidelijk moet worden beschreven op welke wijze de 
+aangeboden varianten zullen worden beoordeeld en hoe de varianten ten opzichte van de opties die 
+voldoen aan het Programma van eisen en de Gunningscriteria worden beoordeeld. Varianten zijn 
+niet toegestaan.  
+2.6 Contractvorm  
+2.6.1 Type en duur van de Overeenkomst 
+Afvalzorg is voornemens om een Overeenkomst met één Opdrachtnemer af te sluiten. 
+ 
+De Overeenkomst heeft een initiële looptijd van vier jaar. De verwachte ingangsdatum van de 
+Overeenkomst is 3 september 2024 en de Overeenkomst eindigt op 2 september 2028. 
+Opdrachtgever heeft de mogelijkheid om de Overeenkomst onder dezelfde condities tweemaal te 
+verlengen met twee jaar. Na acht jaar eindigt de Overeenkomst van rechtswege.  
+2.6.2 Optionele Diensten 
+ 
+Speciale analyses (specials). Voor deze analyses vraagt Opdrachtgever gedurende de looptijd een 
+offerte op waarbij Opdrachtgever vrij is de analyse door een ander lab uit te laten voeren. 
+ 
+Wanneer Afvalzorg behoefte heeft aan de bovengenoemde optie, dan vraagt Afvalzorg vrijblijvend 
+een offerte aan bij de Opdrachtnemer. De Opdrachtnemer stelt een offerte op, waarbij de 
+specificaties uit de offerteaanvraag worden opgenomen. Afvalzorg is niet verplicht om de gewenste 
+optionele Diensten of Leveringen af te nemen. Indien Afvalzorg daar om welke reden dan ook van 
+afziet, zal hij dat toelichten aan de Opdrachtnemer. Op de optionele Diensten zijn de 
+Overeenkomst en het Programma van Eisen onverkort van toepassing.  
+ 
+ 
+ 
+ 
+ 
+  
+7 van 26 
+3. Verloop van de Aanbesteding 
+3.1 Aanbestedingsprocedure 
+Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 
+2012. De keuze voor deze procedure is gemaakt in overeenstemming met de voorschriften zoals 
+opgenomen in de Gids Proportionaliteit. De karakteristieken van de Opdracht lenen zich voor een 
+openbare aanbestedingsprocedure. Door middel van het toepassen van deze 
+aanbestedingsprocedure wordt maximale marktwerking bewerkstelligd omdat elke Geïnteresseerde 
+kan deelnemen. Tevens verwacht Aanbestedende dienst een overzichtelijk aantal inschrijvingen 
+waardoor de administratieve lasten voor zowel de markt als de Aanbestedende dienst beperkt 
+zullen blijven bij het toepassen van deze aanbestedingsprocedure. Het gunningscriterium is 
+economisch meest voordelige inschrijving op basis van de laagste prijs.  
+ 
+Aanbestedende dienst heeft voor dit gunningscriterium gekozen, omdat Aanbestedende dienst voor 
+de kwaliteit van de Opdracht, zoals gedefinieerd in het Programma van Eisen, een 
+gestandaardiseerde Dienstverlening omschrijft die veelal is verbonden aan vaste richtlijnen. De 
+inschatting van de Aanbestedende dienst is dat het Gunningscriterium beste prijs-
+kwaliteitverhouding geen extra onderscheid vermogen biedt ten opzichte van het 
+Gunningscriterium laagste prijs.  
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; u kunt er geen rechten aan 
+ontlenen. We behouden ons het recht voor de planning te wijzigen en de Aanbesteding te staken of 
+op te schorten.  
+ 
+Activiteit Datum Tijd (CET) 
+Verzenden van de aankondiging van de Opdracht   15 mei 2024 
+Sluiting vragenronde 1: indienen vragen en 
+opmerkingen (deadline)  
+29 mei 2024 vóór 14:00 uur 
+Publicatie eerste Nota van inlichtingen 5 juni 2024 
+Sluiting vragenronde 2: indienen vragen en 
+opmerkingen (deadline)   
+12 juni 2024 vóór 14:00 uur 
+Publicatie tweede Nota van inlichtingen   19 juni 2024 
+Sluiting termijn indienen Inschrijvingen (deadline) 3 juli 2024 vóór 14:00 uur 
+Openen van Inschrijvingen 3 juli 2024 na 14:00 uur 
+Bekendmaking gunningsbeslissing (streefdatum)   10 juli 2024 
+Deadline aanleveren bewijsstukken Uiterlijk vijf Werkdagen na verzending 
+gunningsbeslissing 
+Einddatum opschortende termijn  20 kalenderdagen na verzending 
+gunningsbeslissing 
+Ingangsdatum Overeenkomst 3 september 2024 
+Ingangsdatum implementatie  11 juli 2024 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie verloopt uitsluitend via het Aanbestedingsplatform. We nemen berichten die op 
+een andere wijze worden verzonden niet in behandeling.  
+3.4 Informatieverstrekking  
+3.4.1 Indienen van vragen en opmerkingen 
+Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen 
+over de Aanbestedingsstukken. Aanbestedende dienst verwacht een proactieve houding van 
+geïnteresseerde. Als u vragen of opmerkingen heeft, dient geïnteresseerde deze zo spoedig 
+mogelijk te stellen. Voor het stellen van vragen maakt u gebruik van Bijlage D ‘Indienen vragen en 
+8 van 26 
+opmerkingen’. Vragen die u op een andere manier indient of die binnenkomen na de uiterste 
+indieningsdatum voor het stellen van vragen, beantwoorden wij in de regel niet.  
+ 
+We verzoeken u om in de vraagstelling geen gebruik te maken van bedrijfsnamen, productnamen 
+en andere aan uw organisatie gerelateerde namen. We publiceren de gestelde vragen zonder 
+daarbij de naam van de vraagsteller te vermelden en we behouden ons het recht voor om vragen 
+met dat doel aan te passen. We geven geen garantie op anonimiteit, bijvoorbeeld omdat uit 
+noodzakelijke technische vragen de identiteit van de vragensteller kan worden afgeleid. 
+ 
+Als u vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan kunnen deze 
+vragen buiten de Nota van inlichtingen om worden beantwoord. U kunt een gemotiveerd verzoek 
+indienen om een vraag vertrouwelijk te beantwoorden, door bij uw vraag te vermelden: 
+‘Commercieel vertrouwelijk – Niet beantwoorden in de Nota van inlichtingen’. We zullen dat 
+zorgvuldig beoordelen. Als wij van oordeel zijn dat een vraag niet (commercieel) vertrouwelijk van 
+aard is, delen we dit aan u mee. U kunt de desbetreffende vraag vervolgens 1) terugtrekken of 2) 
+door ons laten beantwoorden in de Nota van inlichtingen.  
+3.4.2 Beantwoorden vragen in Nota(’s) van inlichtingen 
+We sluiten een vragenronde af met het publiceren van een Nota van inlichtingen met daarin alle 
+gestelde vragen van Geïnteresseerden en onze antwoorden daarop. Ook van eventuele wijzigingen 
+in Aanbestedingsstukken maken wij melding in een Nota van inlichtingen. Dit kan gepaard gaan 
+met herziene documentatie van de betreffende Aanbestedingsstukken.  
+ 
+De informatie in de Nota’s van inlichtingen is bindend en leidend en prevaleert boven de 
+oorspronkelijke informatie in de Aanbestedingsstukken.  
+ 
+We publiceren de Nota’s van inlichtingen op het Aanbestedingsplatform. Hiervan versturen we geen 
+notificatie; u dient er zelf voor te zorgen dat de informatie tot u komt. TenderNed biedt hiertoe de 
+mogelijkheid aan de hand van een button op het Aanbestedingsplatform (Houd mij op de hoogte 
+van deze aanbesteding). 
+ 
+We hanteren als uitgangspunt dat een Geïnteresseerde eerst een vraag stelt voordat hij een klacht 
+indient. Indien u niet tevreden bent met een bepaalde toelichting in de Nota van inlichtingen kunt u 
+een klacht indienen. Zie paragraaf 8.28 voor meer informatie over klachtafhandeling.  
+3.5 Indienen van de Inschrijving  
+U moet de Inschrijving digitaal indienen via het Aanbestedingsplatform vóór de sluitingsdatum 
+zoals aangegeven in de planning op het Aanbestedingsplatform.  
+ 
+We raden aan om de Inschrijving ruim op tijd in te dienen. Na de sluiting van de 
+inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. Wij 
+beschouwen een niet tijdig ingediende Inschrijving als niet ingediend en nemen deze daarom niet 
+in behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor uw rekening. 
+Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+U bent zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De 
+Aanbestedende dienst, de aanbieder van het Aanbestedingsplatform en Significant Synergy zijn 
+hiervoor niet verantwoordelijk. 
+3.6 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor ons niet eerder zichtbaar dan op het moment dat de sluitingsdatum 
+voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+openen wij de Inschrijvingen. U kunt niet aanwezig zijn bij de opening van Inschrijvingen.  
+3.7 Controle, toetsing en beoordeling van de Inschrijvingen 
+Na opening controleren, toetsen en beoordelen wij de Inschrijvingen.  
+ 
+9 van 26 
+Controle volledigheid en vormvereisten 
+We controleren of uw Inschrijving volledig is en voldoet aan de vormvereisten. Een Inschrijving die 
+niet volledig is of niet voldoet aan de vormvereisten leggen we in de regel als ongeldig terzijde en 
+sluiten we uit van verdere deelname aan de Aanbesteding. 
+ 
+Toetsing 
+We toetsen of Uitsluitingsgronden van toepassing zijn en of uw onderneming voldoet aan de 
+Geschiktheidseisen (zie hoofdstuk 4). Een Inschrijving die niet voldoet aan de hiervoor genoemde 
+punten leggen we in de regel als ongeldig terzijde en sluiten we uit van verdere deelname aan de 
+Aanbesteding.  
+ 
+Inhoudelijke beoordeling 
+Vervolgens beoordelen we uw Inschrijving op basis van het gunningscriterium de laagste prijs. De 
+wijze waarop wij dat doen is beschreven in hoofdstuk 6. 
+3.8 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maken wij de gunningsbeslissing tegelijkertijd bekend aan 
+alle Inschrijvers. Aan de gunningsbeslissing kunt u geen rechten ontlenen, noch houdt deze 
+beslissing de aanvaarding van een aanbod in. Gedurende een opschortende termijn van ten minste 
+twintig kalenderdagen na verzending van de mededeling van de gunningsbeslissing is het de 
+Aanbestedende dienst niet toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+3.9 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kunnen wij bewijs opvragen om de 
+informatie die u in het kader van deze aanbestedingsprocedure heeft gegeven te verifiëren.  
+ 
+Om de administratieve last te beperken mag een aanbestedende dienst bij inschrijving aan 
+inschrijvers in eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) vragen, 
+in plaats van alle bewijsstukken. Een uitzondering geldt voor de referentieopdrachten en voor de 
+inschrijving in het nationale beroeps- en handelsregister, die moet u wel toevoegen aan uw 
+Inschrijving. De overige bewijsstukken die vallen onder het UEA vragen wij in de regel alleen bij u 
+op als u in aanmerking komt voor gunning van de Opdracht. U moet de gevraagde bewijsstukken 
+binnen korte tijd aanleveren, in de regel binnen een termijn van vijf Werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit controle van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+- niet voldoet aan de gestelde eisen, of  
+- geen afdoende bewijs kan overleggen, of  
+- onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. Wij zullen de gunningsbeslissing dan 
+in de regel intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van verdere 
+deelname aan de aanbestedingsprocedure. Vervolgens zullen wij de procedure opnieuw starten 
+vanaf paragraaf 3.8, waarbij de Inschrijver die als tweede in de rangorde eindigde zal worden 
+aangemerkt als de potentieel winnende Inschrijver.  
+ 
+Als na verificatie blijkt dat de potentieel winnende Inschrijver niet voldoet aan de gestelde 
+geschiktheidseisen dan komt deze Inschrijver niet meer voor gunning in aanmerking. Wij zullen de 
+gunningsbeslissing dan intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van 
+verdere deelname aan de aanbestedingsprocedure. Vervolgens zullen wij de procedure opnieuw 
+starten vanaf het punt zoals beschreven in paragraaf 3.8, waarbij de Inschrijver die als tweede in 
+de rangorde eindigde zal worden aangemerkt als de potentieel winnende Inschrijver.  
+ 
+ 
+  
+10 van 26 
+4. Eisen aan de Inschrijver 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen wij hanteren en welke 
+informatie u moet aanleveren. Met het Uniform Europees Aanbestedingsdocument geeft u aan of 
+de Uitsluitingsgronden wel of niet op u van toepassing zijn en of u voldoet aan de 
+Geschiktheidseisen. Ook beschrijven we in dit hoofdstuk welke eisen gelden als:  
+- u inschrijft met Onderaannemer(s); 
+- u inschrijft als een Samenwerkingsverband; 
+- u zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+- u zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 8.5 en 8.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers 
+of als een Samenwerkingsverband.  
+4.2 Uitsluitingsgronden 
+4.2.1 Uitsluiting Russische en Belarussische partijen  
+Op grond van de Europese sancties tegen de handel met Rusland en Belarus1 zijn Russische en 
+Belarussische partijen of partijen die voor meer dan 10% een Russische of Belarussische partij als 
+onderaannemer of leverancier inschakelen, uitgesloten van deelname aan de Aanbesteding.  
+ 
+Het gaat hier om: 
+a. personen met een Russische of Belarussische nationaliteit en personen of rechtspersonen 
+(bedrijven, entiteiten of organen) die gevestigd zijn in Rusland of Belarus; 
+b. rechtspersonen die voor meer dan 50% eigendom zijn van een Russische of Belarussische 
+partij zoals genoemd onder a; en 
+c. personen of rechtspersonen die handelen in belang van of op aanwijzing van een partij 
+genoemd onder a of b. 
+De (rechts)personen genoemd onder b en c kunnen ook (rechts)personen zijn die zijn gevestigd in 
+een ander land dan Rusland of Belarus. 
+4.2.2 Verplichte en facultatieve Uitsluitingsgronden 
+In deel III van het Uniform Europees Aanbestedingsdocument (UEA). In deze UEA-wizard, de in 
+TenderNed geïntegreerde UEA, verklaren wij verplichte en facultatieve Uitsluitingsgronden van 
+toepassing. De redenen voor het van toepassing verklaren van de aangevinkte facultatieve 
+Uitsluitingsgronden in deel III C van het UEA zijn als volgt. We wensen uitsluitend ondernemingen 
+te contracteren die financieel gezond zijn van onbesproken gedrag, waarbij geen sprake is van 
+belangenverstrengeling en die integer en ethisch handelen.  
+ 
+Aan de toepasselijkheid van een Uitsluitingsgrond op een onderneming wordt conform artikel 2.86 
+lid 3 van de Aanbestedingswet 2012 gelijkgesteld de situatie dat een Uitsluitingsgrond van 
+toepassing is op een persoon die lid is van het bestuurs-, leidinggevend of toezichthoudend orgaan 
+of die daarin vertegenwoordigings-, beslissings- of controlebevoegdheid heeft.  
+4.2.3 Invullen van het Uniform Europees Aanbestedingsdocument 
+U vult alle benodigde gegevens in het UEA volledig en juist in en voegt deze toe aan uw 
+Inschrijving. Zie paragraaf 8.13 voor aanwijzingen voor de ondertekening van het UEA.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het 
+volgende:  
+• Onderaannemer(s) – Indien u inschrijft met Onderaannemer(s), dan maakt u hiervan melding 
+in Deel II D van het UEA. Tevens dient elke Onderaannemer een UEA in te vullen (Deel II A & B 
+en Deel III) en rechtsgeldig te ondertekenen.  
+ 
+1 Publications Office (europa.eu) 
+11 van 26 
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan dienen alle leden 
+van het Samenwerkingsverband afzonderlijk het UEA in te vullen en rechtsgeldig te 
+ondertekenen. U vermeldt onder Deel II A met welke entiteiten u een Samenwerkingsverband 
+aangaat. 
+• Beroep op Derde(n) – Indien u een beroep doet op (een) Derde(n) om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen, dan maakt u hiervan melding in Deel II C van het UEA. 
+Tevens dient elke betreffende Derde een eigen UEA in te vullen (Deel II A en B en Deel III) en 
+rechtsgeldig te ondertekenen. 
+4.2.4 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 
+De hierna genoemde documenten gelden als bewijs van uw verklaring middels het UEA dat op u 
+geen Uitsluitingsgronden van toepassing zijn.  
+ 
+Van een onderneming die gevestigd is in een andere lidstaat van de Europese Unie aanvaarden wij, 
+conform lid 4 van artikel 2.89 van de Aanbestedingswet 2012, ook gegevens en bescheiden uit de 
+betreffende lidstaat die een gelijkwaardig doel dienen als de hieronder genoemde bewijsmiddelen 
+of waaruit blijkt dat de Uitsluitingsgronden niet op de betreffende onderneming van toepassing 
+zijn. 
+ 
+• Inschrijving in het nationale beroeps- of handelsregister 
+Een verklaring zoals bedoeld in lid 1 van artikel 2.89 van de Aanbestedingswet 2012, die niet ouder 
+is dan zes maanden op het moment van het indienen van de Inschrijving. Uit de verklaring moet 
+blijken dat u volgens de eisen die gelden in het land waarin u bent gevestigd, bent ingeschreven in 
+het nationale beroeps- of handelsregister. Indien een dergelijke verklaring in het land van vestiging 
+niet wordt afgegeven dient u een verklaring of attest onder ede te verstrekken. Binnen Nederland 
+volstaat hiertoe een uittreksel van inschrijving in het handelsregister van de Kamer van 
+Koophandel.  
+ 
+• Gedragsverklaring aanbesteden 
+Een afschrift van de gedragsverklaring aanbesteden, zoals bedoeld in lid 2 van artikel 2.89 en 
+hoofdstuk 4.1 van de Aanbestedingswet 2012. De gedragsverklaring aanbesteden mag op het 
+moment van inschrijven niet ouder zijn dan twee jaar. Indien zich na afgifte van de 
+gedragsverklaring aanbesteden een Uitsluitingsgrond heeft voorgedaan, bent u verplicht dat in de 
+Inschrijving te vermelden, op straffe van uitsluiting.   
+ 
+U kunt de gedragsverklaring aanbesteden aanvragen via Justis. In verband met de lange 
+verwerkingstermijn adviseren wij om de gedragsverklaring aanbesteden, voorafgaand aan een 
+mogelijk verzoek daarom, tijdig aan te vragen. Indien de beslissing op de aanvraag langer duurt is 
+dit voor uw risico. Voor meer informatie zie: https://www.justis.nl/producten/gva/. 
+ 
+• Verklaring van de Belastingdienst 
+Een verklaring van de Belastingdienst dat uw onderneming de verplichte belastingen en sociale 
+zekerheidspremies heeft betaald, zoals bedoeld in lid 3 van artikel 2.89 van de Aanbestedingswet 
+2012. De verklaring mag op het moment van inschrijven niet ouder zijn dan zes maanden.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt voor de 
+drie bovengenoemde bewijsstukken (inschrijving in het nationale beroeps- of handelsregister, 
+gedragsverklaring aanbesteden en verklaring van de Belastingdienst) het volgende:  
+• Onderaannemer(s) – Indien u inschrijft met Onderaannemer(s) hoeft alleen de hoofdaannemer 
+de drie bovengenoemde bewijsstukken te verstrekken. 
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan dient ieder lid 
+van het Samenwerkingsverband de drie bovengenoemde bewijsstukken te verstrekken.  
+• Beroep op Derde(n) – Indien u een beroep doet op een Derde(n) (om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen), dan dient zowel u als de Derde(n) de drie bovengenoemde 
+bewijsstukken te verstrekken.  
+12 van 26 
+4.3 Geschiktheidseisen  
+Aan de hand van de hierna beschreven Geschiktheidseisen bepalen wij mede of u geschikt bent om 
+de Opdracht uit te voeren.  
+ 
+Door het aanvinken van ‘Ja’ in onderdeel A in Deel IV van het UEA verklaart u dat uw onderneming 
+voldoet aan alle hiernavolgende Geschiktheidseisen. Met de term ‘selectiecriteria’ in het UEA wordt 
+bedoeld: de Geschiktheidseisen. Indien u niet voldoet aan de gestelde Geschiktheidseisen is uw 
+Inschrijving ongeldig en leggen wij deze terzijde.  
+4.3.1 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Vereiste 
+standaarden 
+U moet voldoen aan de volgende standaarden of aantoonbaar werkende vergelijkbare systemen: 
+ 
+Norm, standaard Toelichting 
+Kwaliteit U beschikt over een kwaliteitsmanagementsysteem. 
+U gebruikt een beschreven kwaliteitsmanagementsysteem. Bewijs hiervan 
+levert u door het overleggen van een certificaat, zoals ISO 9001. Of u 
+toont op een andere manier aan dat u op vergelijkbare systematische 
+wijze (dat wil zeggen volgens een cyclus van plan-do-check-act) binnen 
+uw organisatie aan de kwaliteit van de bedrijfsprocessen werkt. 
+Kwaliteit U beschikt over een kwaliteitsmanagementsysteem, specifiek voor 
+laboratoria. 
+U gebruikt een beschreven kwaliteitsmanagementsysteem. Bewijs hiervan 
+levert u door het overleggen van een certificaat, zoals ISO/IEC 17025.  
+Of u toont op een andere manier aan dat u op vergelijkbare systematische 
+wijze (dat wil zeggen volgens een cyclus van plan-do-check-act) binnen 
+uw organisatie aan de kwaliteit van de bedrijfsprocessen werkt. 
+Milieu U neemt maatregelen op het gebied van milieubeheer 
+U gebruikt een beschreven milieubeheersysteem. Bewijs hiervan levert u 
+door het overleggen van een certificaat, zoals ISO 14001. Of u toont op 
+een andere manier aan dat u binnen uw organisatie vergelijkbare 
+maatregelen neemt op het gebied van milieubeheer. 
+ 
+U verklaart door ondertekening van het UEA dat u aan bovenstaande voldoet.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het 
+volgende:  
+• Onderaannemer(s) – Indien u inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij aan bovenstaande eisen voldoet.   
+• Samenwerkingsverband – Indien u inschrijft als Samenwerkingsverband, dan tonen de leden 
+van het Samenwerkingsverband gezamenlijk aan dat zij aan bovenstaande eisen voldoen.  
+• Beroep op Derde(n) – Indien u een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan bovenstaande eisen, dan verstrekt u daarvan bewijs. 
+4.4 Bij te voegen documenten en bewijsstukken 
+In de tabel hieronder geven we aan welke van de in dit hoofdstuk genoemde documenten en 
+bewijsstukken u moet bijvoegen bij de Inschrijving. De bewijsstukken in de kolom ‘Op verzoek’ 
+hoeft alleen de winnende Inschrijver aan te leveren, binnen vijf Werkdagen na een verzoek 
+daartoe. Het risico dat bewijsstukken niet tijdig kunnen worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van 
+deelname aan de Aanbesteding. We raden u aan de genoemde bewijsstukken tijdig te verzamelen 
+en gereed te hebben.  
+ 
+We kunnen verzoeken om aanvullend bewijs. We behouden ons het recht voor om nader onderzoek 
+uit te (laten) voeren naar (de verklaringen van) de Inschrijver.  
+13 van 26 
+ 
+ Omschrijving Bij 
+Inschrijving 
+Alleen 
+winnende 
+Inschrijver, 
+op verzoek 
+Algemene 
+verklaringen 
+Uniform Europees Aanbestedingsdocument X  
+Bewijsmiddelen 
+t.b.v. 
+Uitsluitingsgronden 
+Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+Gedragsverklaring aanbesteden  X 
+Verklaring van de Belastingdienst  X 
+Geschiktheidseisen  Vereiste standaarden  X 
+ 
+  
+14 van 26 
+5. Toetsing van de Inschrijving 
+Dit hoofdstuk beschrijft de toetsingscriteria waaraan uw Inschrijving moet voldoen. Niet voldoen 
+aan een toetsingscriterium betekent in de regel uitsluiting van verdere deelname aan de 
+Aanbesteding.  
+5.1 Overzicht van de toetsingscriteria 
+# Toetsingscriterium 
+T1 Voorwaarden en bepalingen van deze Aanbesteding 
+T2 Programma van eisen 
+T3 Concept van de Overeenkomst  
+T4 Algemene inkoopvoorwaarden van de Opdrachtgever  
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 
+Met het ondertekenen van het UEA verklaart u: 
+- dat u onvoorwaardelijk akkoord gaat met alle voorschriften, voorwaarden en bepalingen die zijn 
+opgenomen in de Aanbestedingsstukken; 
+- dat u voldoet aan c.q. akkoord gaat met (de inhoud van) het Programma van eisen dat is 
+opgenomen in Bijlage A, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen 
+daarop; 
+- dat u onvoorwaardelijk akkoord gaat met het concept van de Overeenkomst dat is opgenomen 
+in Bijlage B, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat u onvoorwaardelijk akkoord gaat met de Inkoopvoorwaarden van Afvalzorg die zijn 
+opgenomen in Bijlage C, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen 
+daarop, en dat eventuele leverings-, betalings- en/of andere algemene voorwaarden van uzelf 
+niet van toepassing zijn. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 van 26 
+6. Beoordeling van de Inschrijving – hoe beoordelen we? 
+6.1 Gunningsmethode: Laagste prijs 
+ Bij de beoordeling van de Inschrijvingen hanteren we als gunningscriterium 'de laagste prijs’.   
+16 van 26 
+7. Beoordeling van de Inschrijving – wat beoordelen we? 
+7.1 Overzicht van alle Gunningscriteria 
+Om de Inschrijving met de laagste prijs te kunnen bepalen, hanteert Aanbestedende dienst een 
+bandbreedte. 
+7.2 Gunningscriterium prijs 
+Vul in het prijsopgaveformulier (Bijlage E) de prijzen in. Voor elk van de prijsonderdelen in het 
+prijsopgaveformulier volgt hierna een toelichting. 
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moet u aanbieden in euro’s, prijspeil april 2024 en exclusief btw.  
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: 
+salariskosten, overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en 
+ondersteunend werk, kosten voor het gebruik van apparatuur en software, reiskosten, 
+parkeerkosten, afleverkosten, afvoerkosten potten en flessen en logistieke kosten. Ook alle 
+eventueel verdere bijkomende kosten die u als professionele onderneming moet kunnen 
+voorzien, moeten zijn inbegrepen.  
+• Het is niet toegestaan om in te schrijven met een negatieve prijs of om een bedrag van nul (0) 
+euro in te vullen.  
+• Opgegeven (eenheids)prijzen mogen niet abnormaal laag zijn. Bij de vaststelling of hiervan 
+sprake is nemen wij artikel 2.116 van de Aanbestedingswet 2012 in acht. Opdrachtgever 
+behoudt het recht om de prijzen uit de algemeen geldende bruto tarievenlijst, catalogus of 
+tarievengids (prijspeil 2024) op de vragen.  
+• Het is niet toegestaan om manipulatief in te schrijven. Hiermee bedoelen we in deze context 
+dat een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-Inschrijvers te 
+ontkomen, respectievelijk dat de aangekondigde maatstaf ter beoordeling van de economisch 
+meest voordelige inschrijving wordt misbruikt, waardoor de door ons gehanteerde 
+beoordelingsmethodiek wordt gefrustreerd.  
+ 
+Niet voldoen aan bovenstaande voorwaarden leidt in de regel tot het terzijde leggen van de 
+Inschrijving en uitsluiting van verdere deelname aan de aanbestedingsprocedure.  
+ 
+Beoordelingskader: Prijs 
+De Inschrijving met de laagste inschrijfprijs in cel B901 van Bijlage E komt in aanmerking voor 
+gunning van de Opdracht. 
+ 
+In het Prijzenblad dient u naast de tarieven voor alle genoemde analyses (regulier) per matrix (met 
+de verhouding zoals benoemt in Bijlage E) ook één standaard kortingspercentage op te geven dat 
+van toepassing is voor Opdrachtgever in geval van afname van een of meer van de overige 
+analyses die u aanbiedt op een andere matrix dan water (niet reguliere analyses). Dit 
+kortingspercentage wordt in het totale eindbedrag meegewogen door middel van een standaard 
+bijtelling. Indien u 0% korting verleent zal een bijtelling plaatsvinden van maximaal €10.000,-. 
+Indien u een standaard korting verleent van 100% zal er geen bijtelling plaatsvinden.  
+ 
+Voor de grijze cellen uit Bijlage E in de kolommen C, D en E geldt dat er voor de analyse binnen de 
+matrix niet bestaat. Hier hoeft geen prijs voor opgegeven te worden. U dient uitsluitend alle groene 
+cellen in te vullen.  
+ 
+ 
+ 
+ 
+ 
+ 
+17 van 26 
+8. Voorschriften en voorwaarden 
+In dit hoofdstuk staan voorwaarden en bepalingen die gelden in het kader van deze Aanbesteding. 
+Dit hoofdstuk bevat tevens voorschriften volgens welke alle Inschrijvingen moeten zijn opgemaakt 
+en ingezonden om in behandeling te worden genomen. Dit is om eerlijke concurrentie tussen de 
+Inschrijvers te garanderen.  
+ 
+Inschrijvingen die op een afwijkende manier zijn aangeboden en Inschrijvingen die niet voldoen 
+aan de voorwaarden, zijn in de regel ongeldig en beoordelen we niet verder. In dat geval krijgt u 
+hierover schriftelijk bericht met vermelding van de reden.  
+8.1 Gebruik Aanbestedingsplatform 
+We stellen alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform. U kunt uw 
+Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De Aanbestedende dienst is op 
+geen enkele wijze verantwoordelijk voor het gebruik van het Aanbestedingsplatform en wijst iedere 
+vorm van aansprakelijkheid nadrukkelijk van de hand. 
+ 
+Voor zover omschrijvingen op het Aanbestedingsplatform en in het Beschrijvend document met 
+elkaar in tegenspraak zijn, prevaleren de omschrijvingen in het Beschrijvend document boven de 
+omschrijvingen op het Aanbestedingsplatform. 
+8.2 Voorbehouden van de Aanbestedende dienst 
+De Aanbestedende dienst behoudt zich het recht voor om de Aanbesteding geheel of gedeeltelijk 
+op te schorten, tijdelijk of definitief te staken en/of om niet over te gaan tot het sluiten van de 
+Overeenkomst. In dat geval krijgt u hierover schriftelijk bericht met vermelding van de reden. 
+8.3 Toepasselijk recht 
+Uitsluitend het Nederlandse recht beheerst deze Aanbesteding.  
+8.4 Nederlandse taal  
+U dient uw Inschrijving op te stellen in de Nederlandse taal. Communicatie, documenten en 
+correspondentie in het kader van deze Aanbesteding en de eventuele Opdracht zijn in de 
+Nederlandse taal. Voor (standaard)rapporten, handleidingen en dergelijke, waarvan het algemeen 
+gebruikelijk is dat deze in de Engelse taal zijn opgesteld, geldt dat u hiervan (ook) Engelstalige 
+versies mag overleggen. Andere talen zijn niet toegestaan. 
+8.5 Inschrijven met Onderaannemers 
+In aanvulling op de eisen voor het inschrijven met (een) Onderaannemer(s) die zijn beschreven in 
+hoofdstuk 4 van dit Beschrijvend document geldt het volgende. Indien de Inschrijver een beroep 
+doet op (een) Onderaannemer(s) om te kunnen voldoen aan (een) Geschiktheidseis(en) dan dient 
+de Inschrijver aan te geven (i) welke Onderaannemer(s) dit betreft en (ii) voor welk deel van de 
+Opdracht deze Onderaannemer(s) zal (zullen) worden ingeschakeld dan wel voor welke 
+Geschiktheidseis(en) de Inschrijver een beroep doet op deze Onderaannemer(s). Van alle 
+Onderaannemers dient na de mededeling van de gunningsbeslissing op eerste verzoek van de 
+Aanbestedende dienst een bewijs van inschrijving in het nationaal beroeps-/handelsregister te 
+worden overgelegd.  
+ 
+Na inschrijving mag de samenstelling van hoofdaannemer met één of meer Onderaannemer(s) 
+alleen worden gewijzigd na voorafgaande schriftelijke goedkeuring van de Aanbestedende dienst.  
+ 
+De Onderaannemer(s) voeren namens en onder verantwoordelijkheid van de Opdrachtnemer 
+bepaalde voorschriften uit. De hoofdaannemer is bij deze constructie volledig aansprakelijk voor de 
+gestanddoening van de verplichtingen voortvloeiend uit de Inschrijving, alsmede de eventuele 
+uitvoering daarvan. De hoofdaannemer is ook aansprakelijk voor de nakoming van de 
+verplichtingen van de door hem ingeschakelde Onderaannemer(s). 
+18 van 26 
+De Opdrachtnemer dient de betreffende Onderaannemer(s) ook daadwerkelijk bij de uitvoering van 
+de Opdracht en dienovereenkomstig in te zetten. In het geval dat de Opdrachtnemer een beroep 
+doet op de betreffende Onderaannemer(s) om te kunnen voldoen aan (een) Geschiktheidseis(en) 
+dient de hoofdaannemer aan te tonen dat hij bij de uitvoering ook werkelijk gebruik kan maken 
+van de benodigde middelen (kennis, mens, materieel) van de betreffende Onderaannemer(s).  
+ 
+Het is niet toegestaan een onderaannemer in te zetten waarop een Uitsluitingsgrond van 
+toepassing is, behoudens wanneer de Aanbestedende dienst hiervoor expliciet toestemming geeft 
+wegens één of meer van de redenen genoemd in artikel 2.86a, 2.87a en 2.88 van de 
+Aanbestedingswet 2012. Op eerste verzoek van de Aanbestedende dienst toont de Inschrijver aan 
+de hand van bewijsmiddelen aan dat op zijn Onderaannemers geen Uitsluitingsgronden van 
+toepassing zijn.  
+8.6 Inschrijven in een Samenwerkingsverband 
+Alle leden van het Samenwerkingsverband verklaren door middel van het indienen van een 
+Inschrijving aansprakelijk te zijn, zowel in het kader van de Aanbesteding als in het kader van het 
+uitvoeren van de Opdracht. Het Samenwerkingsverband moet in de Inschrijving aangeven welke 
+(rechts)persoon het aanspreekpunt is tijdens deze procedure en gedurende de contractperiode als 
+penvoerder optreedt. Partijen in een Samenwerkingsverband kunnen niet tevens apart of in een 
+andere combinatie inschrijven. Indien daarvan toch sprake is, zijn alle betreffende Inschrijvingen 
+ongeldig. 
+ 
+Wijzigingen in de samenstelling van het Samenwerkingsverband na indiening van de Inschrijving, 
+zonder schriftelijke toestemming van de Aanbestedende dienst, leidt in de regel tot uitsluiting. 
+ 
+De leden van een Samenwerkingsverband verklaren zich door aanmelding bereid om vanaf gunning 
+een rechtsvorm aan te nemen volgens welke de leden van het Samenwerkingsverband hoofdelijk 
+aansprakelijk zijn voor de volledige en correcte nakoming van alle verbintenissen jegens de 
+Opdrachtgever. Een Samenwerkingsverband wijst gedurende de Aanbesteding en uitvoering van de 
+Opdracht een penvoerder aan die gerechtigd is namens het Samenwerkingsverband op te treden. 
+8.7 Inschrijven conform de Aanbestedingsstukken 
+De Inschrijver moet zijn Inschrijving baseren op de Aanbestedingsstukken. Indien een Inschrijver 
+gevraagde informatie niet, niet volledig en/of niet juist heeft aangeleverd, leidt dat in de regel tot 
+ongeldigheid van de Inschrijving en uitsluiting van verdere deelname aan de Aanbesteding. Onder 
+‘niet juist’ verstaat de Aanbestedende dienst het wijzigen van informatie in de 
+Aanbestedingsstukken of het niet gebruiken van een voorgeschreven bijlage of formulier.  
+8.8 Inschrijven onder voorwaarden 
+Een Inschrijving waaraan voorwaarden zijn verbonden of waarop voorbehouden worden gemaakt, 
+merken wij in de regel aan als ongeldig en sluiten wij uit van verdere deelname aan de 
+Aanbesteding.  
+8.9 Gedeeltelijk inschrijven 
+Een Inschrijving indienen ten aanzien van een gedeelte van de Opdracht is niet toegestaan. 
+8.10 Opgave van prijzen, tarieven en kosten 
+De prijzen, tarieven en kosten die de Inschrijver opgeeft dienen marktconform, aannemelijk en 
+reëel te zijn – zie in dit kader ook paragraaf 8.11.  
+8.11 Manipulatief inschrijven 
+Het is de Inschrijver niet toegestaan manipulatief in te schrijven. Hiermee wordt in deze context 
+bedoeld dat een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-
+Inschrijvers te ontkomen, respectievelijk dat de aangekondigde maatstaf ter beoordeling van de 
+economisch meest voordelige inschrijving wordt misbruikt, waardoor de door de Aanbestedende 
+dienst gehanteerde beoordelingsmethodiek wordt gefrustreerd. De Inschrijver mag geen 
+aanbieding doen die naar objectieve bedrijfseconomische maatstaven niet marktconform of niet 
+19 van 26 
+aannemelijk is, dan wel anderszins een manipulatief karakter heeft. Een Inschrijving is in ieder 
+geval manipulatief als één of meerdere tarieven de gehanteerde formule frustreren of als sprake is 
+van negatieve of nultarieven. Tevens is het niet toegestaan het format van het 
+prijsopgaveformulier te wijzigen. 
+De Inschrijver die deze bepaling overtreedt wordt in de regel uitgesloten van verdere deelname 
+aan de Aanbesteding.  
+8.12 Geldigheidsduur van de Inschrijving 
+De Inschrijving is een onherroepelijk aanbod in de zin van artikel 6:219 lid 1 van het Burgerlijk 
+Wetboek. De Inschrijver dient de Inschrijving tot minimaal drie maanden vanaf de datum van 
+ontvangst van de Inschrijving gestand te doen. Indien een kort geding wordt aangespannen tegen 
+de gunningsbeslissing bedraagt de gestanddoeningstermijn minimaal zes weken na de 
+onherroepelijke uitspraak in kort geding. De Aanbestedende dienst kan verzoeken de 
+gestanddoeningstermijn te verlengen. Aan een zodanig verzoek kan de Inschrijver geen aanspraak 
+op de Opdracht ontlenen.  
+8.13 Ondertekening van het UEA en van de Inschrijving 
+Een handtekening onder het UEA geldt tevens als een ondertekening van de Inschrijving. De 
+Inschrijving zelf en documenten en verklaringen bij de Inschrijving hoeft u dus niet separaat te 
+ondertekenen. 
+ 
+Het UEA moet rechtsgeldig zijn ondertekend door een daartoe bevoegd natuurlijke persoon. De 
+rechtsgeldige bevoegdheid van de ondertekenaar blijkt uit het (de) uittreksel(s) van de Kamer van 
+Koophandel of de inschrijving in het nationale beroeps- of handelsregister in het land van vestiging 
+of bij ontbreken daarvan een ander bewijsstuk als bedoeld in artikel 2.98 Aanbestedingswet 2012. 
+Een ondertekenaar die niet als vertegenwoordigingsbevoegde persoon is ingeschreven in het 
+beroeps- of handelsregister dient te zijn gevolmachtigd door een persoon die wel 
+vertegenwoordigingsbevoegdheid heeft. De volmacht moet worden toegevoegd aan de Inschrijving.  
+ 
+Let op – Het formulier is een interactieve pdf. Het formulier vult meerdere keren automatisch de 
+voor de Inschrijver positieve antwoorden in. Het is de verantwoordelijkheid van de Inschrijver om 
+te verifiëren of dit klopt. 
+Let op – Een onvolledig en/of onjuist ingevuld UEA en/of een niet rechtsgeldig ondertekend UEA 
+leidt in de regel tot uitsluiting van verdere deelname aan de Aanbesteding.  
+8.14 Aantal malen inschrijven  
+Een Inschrijver (een (rechts)persoon of vennootschap) mag slechts eenmaal inschrijven, hetzij als 
+zelfstandige Inschrijver, hetzij als lid van een Samenwerkingsverband.  
+Een rechtspersoon of vennootschap die optreedt als Onderaannemer voor een Inschrijver mag niet 
+tevens inschrijven als zelfstandige Inschrijver of als lid van een Samenwerkingsverband. 
+rechtspersoon of vennootschap mag wel  optreden als Onderaannemer voor meerdere Inschrijvers. 
+ 
+Voor de toepassing van deze bepaling worden in elk geval rechtspersonen en/of vennootschappen 
+die voldoen aan de onderstaande voorwaarden als één rechtspersoon of vennootschap beschouwd: 
+a. Rechtspersonen en/of vennootschappen die aan elkaar zijn gelieerd op een wijze als bedoeld in 
+artikel 2:24a Burgerlijk Wetboek; 
+b. Rechtspersonen en/of vennootschappen die met elkaar zijn verbonden in een groep als bedoeld 
+in artikel 2:24b Burgerlijk Wetboek; of 
+c. Rechtspersonen en/of vennootschappen die aan elkaar zijn gelieerd in aan sub a of sub b 
+vergelijkbare rechtsvormen naar buitenlands recht. 
+ 
+De Aanbestedende dienst zal (rechts)personen niet uitsluiten als die (rechts)personen aantonen dat 
+in hun geval geen sprake is van een reëel gevaar dat zich praktijken voordoen die de transparantie 
+kunnen bedreigen en de mededinging tussen de Inschrijvers kunnen vervalsen en meer in het 
+algemeen dat deze verhouding hun respectieve gedrag in het kader van deze Aanbesteding niet 
+heeft beïnvloed en niet zal beïnvloeden.  
+ 
+20 van 26 
+Een Inschrijver mag niet tevens als Derde fungeren waarop door een andere Inschrijver een 
+beroep wordt gedaan. Een Derde mag niet voor meerdere Inschrijvers garant staan indien het de 
+Geschiktheidseisen betreft rondom financiële en economische draagkracht in overeenstemming met 
+art. 2:403 sub f BW.  
+8.15 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving 
+Het ontbreken van gevraagde informatie, verklaringen en/of documenten leidt in de regel tot 
+uitsluiting. Als sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden in een 
+Inschrijving en dit door de Aanbestedende dienst wordt aangemerkt als een kennelijke en 
+herstelbare omissie, dan behoudt de Aanbestedende dienst zich het recht voor de Inschrijver te 
+vragen om een verduidelijking en/of een aanvulling. Deze verduidelijking en/of aanvulling mag 
+geen wezenlijke wijziging van de Inschrijving met zich meebrengen. Als dat naar de mening van de 
+Aanbestedende dienst wel zo is, dan zal hij deze verduidelijkingen en/of aanvullingen niet in de 
+beoordeling meenemen. 
+8.16 Medewerking onderzoek 
+De Aanbestedende dienst behoudt zich het recht voor de juistheid van de door de Inschrijver 
+overgelegde verklaringen, bescheiden en gegevens, alsmede de financiële en economische 
+draagkracht, vakkundigheid en/of integriteit van de Inschrijver (nader) te onderzoeken. De 
+Inschrijver is verplicht volle medewerking te verlenen aan een dergelijk (nader) onderzoek door de 
+Aanbestedende dienst (in elke fase van de Aanbesteding, alsmede na verlening van de Opdracht). 
+8.17 Kostenvergoeding  
+Inschrijvers hebben geen recht op vergoeding van kosten in het kader van deze Aanbesteding. De 
+Aanbestedende dienst heeft voor deze bepaling een zorgvuldige afweging gemaakt op grond van 
+voorschrift 3.8A van de Gids Proportionaliteit en de Handreiking Tenderkostenvergoeding van 
+oktober 2018. In geval van (onverwachte) intrekking van de Aanbesteding door niet aan 
+Inschrijvers verwijtbare oorzaken zal de Aanbestedende dienst een tenderkostenvergoeding 
+heroverwegen.  
+8.18 Status informatie in de Aanbestedingsstukken 
+Onverminderd de overige voorbehouden als opgenomen in de Aanbestedingsstukken, kunnen 
+Geïnteresseerden met betrekking tot de Aanbesteding uitsluitend rechten ontlenen aan informatie 
+die is opgenomen in de Aanbestedingsstukken. De Aanbestedende dienst is niet aansprakelijk voor 
+de onjuistheid en/of onvolledigheid van informatie over de Opdracht die door de Geïnteresseerde is 
+verkregen via andere kanalen. Geïnteresseerden dienen zich, waar zij dit nodig of wenselijk achten, 
+zelf en voor eigen rekening en risico op de hoogte te stellen van onder meer de technische 
+aspecten, het publiekrechtelijk kader en al hetgeen zij relevant achten in verband met hun 
+deelname aan de Aanbesteding.  
+8.19 Merknamen 
+Als in de Aanbestedingsstukken in verband met technische specificaties wordt gesproken over een 
+bepaald fabricaat, herkomst, bijzondere werkwijze, verwijzing naar een merk, octrooi, type, 
+oorsprong of productie, is dit alleen bedoeld als voorbeeld. In dergelijke gevallen moet de 
+Geïnteresseerde de melding of verwijzing lezen met toevoeging van de woorden ’of gelijkwaardig’, 
+als dat er niet bij is vermeld. 
+8.20 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de 
+Aanbestedingsstukken 
+Indien sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de 
+Aanbestedingsstukken, dan dient de Geïnteresseerde dat zo spoedig mogelijk te melden – in ieder 
+geval vóór de sluitingsdatum van de laatste vragenronde. De Aanbestedende dienst verwacht van 
+Geïnteresseerden een proactieve houding, zodat de Aanbestedende dienst de 
+Aanbestedingsstukken effectief kan herstellen. Indien de Geïnteresseerde niet of niet tijdig melding 
+maakt van tegenstrijdigheden, onduidelijkheden of onvolkomenheden dan vervalt het recht om op 
+een later moment daarover te klagen en/of bezwaren te uiten. 
+21 van 26 
+Indien de Geïnteresseerde na kennisneming van de Nota(‘s) van inlichtingen nog steeds meent dat 
+sprake is van tegenstrijdigheden, onduidelijkheden of onvolkomenheden, kan hij een klacht 
+indienen bij de Aanbestedende dienst. Zie de klachtenprocedure in paragraaf 8.28.  
+8.21 Intellectueel eigendom 
+De intellectuele eigendomsrechten van de Aanbestedingsstukken berusten bij de Aanbestedende 
+dienst. Zonder uitdrukkelijke toestemming van de Aanbestedende dienst is het niet toegestaan 
+deze documenten te dupliceren dan wel te verspreiden.  
+8.22 Uitsluiting van Inschrijvers 
+Ten tijde van (i) het indienen van een Inschrijving en (ii) de gunning dient de Inschrijver te kunnen 
+aantonen dat de Uitsluitingsgronden niet op hem van toepassing zijn, dat hij voldoet aan de 
+Geschiktheidseisen en dat hij voldoet/kan voldoen aan de eisen uit het Programma van eisen. Bij 
+gebreke daarvan wordt de Inschrijver in de regel uitgesloten van verdere deelname aan de 
+Aanbesteding en komt hij niet in aanmerking voor gunning van de Opdracht.  
+ 
+Indien gedurende de aanbestedingsprocedure een Uitsluitingsgrond op de Inschrijver van 
+toepassing wordt, of indien de Inschrijver niet langer aan de Geschiktheidseisen of de eisen uit het 
+Programma van eisen voldoet of kan voldoen, dient de Inschrijver dat feit onverwijld schriftelijk 
+mede te delen aan de Aanbestedende dienst. Indien op enig moment blijkt dat de Inschrijver 
+onjuiste informatie hierover heeft verschaft, dan wordt hij in de regel uitgesloten van verdere 
+deelname aan de Aanbesteding. 
+ 
+De Aanbestedende dienst is gerechtigd de Inschrijver van de Aanbesteding uit te sluiten: 
+- als de Inschrijver aan de zijde van de Aanbestedende dienst betrokken is, of is geweest, bij de 
+voorbereiding van de Aanbesteding, of 
+- als de Inschrijver zich in verband met de Aanbesteding bedient van ondernemingen, adviseurs, 
+medewerkers en/of andere (rechts)personen die aldus betrokken zijn of zijn geweest.  
+ 
+Datzelfde geldt als (rechts)personen uit de groep van de Inschrijver een dergelijke betrokkenheid 
+hebben of hadden. De Aanbestedende dienst zal de Inschrijver niet uitsluiten als de Inschrijver 
+aantoont dat onder de omstandigheden van het concrete geval mededinging door bedoelde 
+betrokkenheid niet vervalst kan zijn.  
+8.23 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname 
+Als tijdens de Aanbesteding een Inschrijver of een Samenwerkingsverband de voor deze 
+Aanbesteding relevante bedrijfsactiviteit(en) moet staken of het bedrijf wordt overgenomen, dan 
+moet de Inschrijver de Aanbestedende dienst direct informeren. In dat geval behoudt de 
+Aanbestedende dienst zich het recht voor deze Inschrijver uit te sluiten van deelname aan de 
+Aanbesteding. 
+8.24 Communicatie gedurende de Aanbesteding 
+Communicatie met betrekking tot de Aanbesteding verloopt uitsluitend via het 
+Aanbestedingsplatform. Gedurende de Aanbesteding is het niet toegestaan contact te hebben met 
+(andere) medewerkers van de Aanbestedende dienst of bij de Aanbesteding betrokken organisaties 
+om informatie te verkrijgen over de Aanbesteding. Handelen in strijd met deze bepaling leidt in de 
+regel tot uitsluiting van verdere deelname aan de Aanbesteding. 
+8.25 Beïnvloeding van de beoordeling 
+Het is de Geïnteresseerde of de Inschrijver niet toegestaan contact te zoeken met een lid of leden 
+van de beoordelingscommissie, medewerkers van de Aanbestedende dienst of andere betrokkenen 
+bij de Aanbesteding voor welke informatie met betrekking tot de Aanbesteding dan ook. Elke 
+beïnvloeding, op welke manier dan ook, van medewerkers die bij deze Aanbesteding betrokken 
+zijn, leidt in de regel tot uitsluiting van deelname aan de Aanbesteding. 
+22 van 26 
+8.26 Mededeling van de gunningsbeslissing 
+Op grond van artikel 2.129 van de Aanbestedingswet 2012 houdt de mededeling van de 
+gunningsbeslissing geen aanvaarding in van een aanbod van een Inschrijver. Gedurende een 
+opschortende termijn van ten minste twintig kalenderdagen na verzending van de mededeling van 
+de gunningsbeslissing is het de Aanbestedende dienst niet toegestaan de Overeenkomst aan te 
+gaan met de winnende Inschrijver. Als binnen deze opschortende termijn een kort geding 
+aanhangig is gemaakt – hetgeen moet blijken uit toezending van een kopie van het exploot van 
+dagvaarding – zal de Aanbestedende dienst niet tot gunning van de Overeenkomst overgaan 
+voordat in kort geding vonnis is gewezen. Bovengenoemde termijn van twintig kalenderdagen is 
+een vervaltermijn. Als binnen deze termijn geen kort geding aanhangig is gemaakt kunnen de 
+afgewezen Inschrijvers na afloop van deze termijn geen bezwaar meer maken tegen de beslissing, 
+noch achteraf een kort geding of bodemprocedure aanhangig maken om schadevergoeding te 
+vorderen, en hebben zij hun rechten ter zake volledig verwerkt.  
+Dit betekent niet dat na automatisch verloop van de opschortende termijn het aanbod van de 
+winnende Inschrijver alsnog is aanvaard. De Aanbestedende dienst aanvaardt het aanbod van de 
+winnende Inschrijver na de verificatiefase (zie paragraaf 3.9 Verificatie van bewijsmiddelen) met 
+berichtgeving over de definitieve gunning van de Opdracht.  
+8.27 Rechtsmiddel 
+Indien de Inschrijver bezwaar heeft tegen de (motivering van de) gunningsbeslissing, dient hij 
+binnen de opschortende termijn van twintig kalenderdagen (ingaande op de dag na de 
+verzenddatum van de gunningsbeslissing), door betekening van een dagvaarding een kort geding 
+bij de Rechtbank te Haarlem aanhangig te maken. In het belang van een snelle en goede 
+voortgang dient een kopie van de dagvaarding vervolgens zo snel mogelijk aan de Aanbestedende 
+dienst te worden verstuurd via het Aanbestedingsplatform.  
+ 
+Indien de Inschrijver binnen deze opschortende termijn geen kort geding aanhangig heeft 
+gemaakt, houdt dat in dat: 
+- de Inschrijver het recht verwerkt om tegen de uitkomst en het verdere verloop van de 
+Aanbesteding op te komen; 
+- de Inschrijver zijn eventuele rechten bovendien verwerkt om na afloop van deze termijn ter 
+zake in een bodemprocedure of kort geding van de Aanbestedende dienst bepaalde 
+(rechts)handelingen en/of achteraf een schadevergoeding te vorderen. 
+ 
+De Aanbestedende dienst zal, mits hij niet (tussentijds) schriftelijk is teruggekomen op zijn 
+gunningsbeslissing, de Opdracht gunnen aan de Inschrijver wanneer voornoemde opschortende 
+termijn is verstreken zonder dat een kort geding aanhangig is gemaakt. De Aanbestedende dienst 
+behoudt zich nadrukkelijk het recht voor om terug te komen op de gunningsbeslissing, indien daar 
+volgens hem aanleiding voor bestaat. Indien tijdig een kort geding tegen de gunningsbeslissing 
+respectievelijk afwijzing aanhangig is gemaakt, zal de Aanbestedende dienst niet eerder tot 
+gunning overgaan totdat de voorzieningenrechter in eerste aanleg uitspraak heeft gedaan. In het 
+geval dat een kort geding aanhangig wordt gemaakt, hebben andere Inschrijvers de mogelijkheid 
+te interveniëren in het geding. Indien de keuze wordt gemaakt om niet te interveniëren in het 
+geding dan kan de Inschrijver later niet alsnog opkomen tegen de beslissingen die de 
+Aanbestedende dienst neemt vanwege (de uitkomst van) het kort geding.  
+8.28 Klachtafhandeling   
+Het kan voorkomen dat ontevredenheid bestaat over hoe tijdens de procedure wordt of is 
+geacteerd. Dit kan leiden tot een klacht. Iedere (potentiële) Geïnteresseerde die belang heeft bij de 
+Aanbesteding kan een gemotiveerde klacht indienen. Een Geïnteresseerde doet er goed aan zijn 
+klacht in een zo vroeg mogelijk stadium in te dienen. 
+Klachten dienen schriftelijk te worden ingediend via het e-mailadres info@afvalzorg.nl mailto:met 
+als onderwerp ‘Klacht over aanbesteding Laboratoriumdiensten’; 
+23 van 26 
+• Aanbestedende dienst streeft ernaar de behandeltermijn van de klacht zo kort mogelijk 
+te houden. Na afloop van de klachtafhandeling ontvangt de klager een schriftelijk 
+gemotiveerd resultaat van de klachtafhandeling; 
+• Aanbestedende dienst behoudt zich het recht voor een klacht niet in behandeling te 
+nemen, indien hiervan sprake is zal de klager hierover eveneens schriftelijk 
+gemotiveerd worden geïnformeerd; 
+• Het staat de klager vrij om de klacht (eveneens) aan de Commissie van 
+Aanbestedingsexperts voor te leggen; 
+• Het indienen van een klacht schort de Aanbesteding in de regel niet op. Aanbestedende 
+dienst is vrij om al dan niet te besluiten tot opschorting van de 
+aanbestedingsprocedure. 
+  
+24 van 26 
+9. Begrippen 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien 
+aangeduid met een beginhoofdletter, de volgende betekenis.  
+ 
+Aanbestedende dienst Afvalzorg Deponie B.V. en Afvalzorg Bodemservice 
+B.V. Tot hoofdstuk 3 ‘Afvalzorg’, ‘Aanbestedende 
+dienst’. 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt 
+tot verlening van de Opdracht. 
+Aanbestedingsplatform Het platform van TenderNed waarop de 
+Aanbestedingsstukken worden geplaatst en waarop de 
+communicatie tussen de Aanbestedende dienst en de 
+ondernemers plaatsvindt en dat als medium dient 
+voor het indienen van een Inschrijving. 
+Aanbestedingsstukken Alle documenten die door de Aanbestedende dienst 
+gedurende de Aanbesteding worden ingebracht. 
+Aanbestedingswet 2012 Wet van 1 november 2012, houdende nieuwe regels 
+omtrent Aanbestedingen, Stb. 2012, 542, zoals onder 
+meer gewijzigd bij Wet van 22 juni 2016 tot wijziging 
+van de Aanbestedingswet 2012 in verband met de 
+implementatie van aanbestedingsrichtlijnen 
+2014/23/EU, 2014/24/EU en 2014/25/EU, Stb. 2016, 
+241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van 
+het voorwerp van de Aanbesteding wordt gegeven. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage 
+maakt integraal deel uit van de 
+Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep 
+doet met betrekking tot het voldoen aan de 
+Geschiktheidseisen. Deze derde partij is niet per se 
+hetzelfde als een Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de 
+Overeenkomst ten behoeve van de Opdrachtgever te 
+verlenen diensten, te verrichten werkzaamheden en in 
+het kader daarvan te leveren prestaties, een en ander 
+zoals beschreven in de Aanbestedingsstukken. Het 
+gebruik van de termen ‘Diensten’ en ‘Dienstverlening’ 
+heeft mede betrekking op eventuele leveringen die in 
+het kader van die diensten (dienen te) worden 
+gedaan. 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, 
+onderneming of organisatie die geïnteresseerd is om 
+mee te dingen naar de Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gunningscriterium Criterium op basis waarvan de economisch meest 
+voordelige inschrijving wordt bepaald. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of 
+wijzigingen met betrekking tot de 
+Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft 
+ingediend. 
+25 van 26 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende 
+dienst en dat strekt tot het uitvoeren van de 
+Opdracht. 
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele 
+mededelingen van de Aanbestedende dienst en 
+wijzigingen van het Beschrijvend document en/of 
+andere Aanbestedingsstukken.  
+De Nota van inlichtingen maakt onderdeel uit van de 
+Aanbestedingsstukken en prevaleert boven het 
+Beschrijvend document en de daarbij behorende 
+Bijlagen. Bij een Nota van inlichtingen beschikbaar 
+gestelde Herziene documentatie prevaleert boven 
+eerdere versies van die betreffende documenten.  
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer 
+zelf inzet om een gedeelte van de gecontracteerde 
+opdracht uit te voeren, onder verantwoordelijkheid 
+van de Opdrachtnemer als hoofdaannemer. De 
+Opdrachtnemer blijft altijd volledig verantwoordelijk 
+en aansprakelijk voor de (uitvoering van de) Opdracht 
+en de resultaten ervan. Deze onderaannemer is niet 
+per se de Derde als bedoeld in het Beschrijvend 
+document. 
+Opdracht De opdracht van de Opdrachtgever aan de 
+Opdrachtnemer tot hetgeen is overeengekomen in de 
+Overeenkomst en in het kader daarvan te verrichten 
+werkzaamheden en te leveren prestaties, een en 
+ander zoals beschreven in de Aanbestedingsstukken.  
+Opdrachtgever De opdrachtgever, in dit geval Afvalzorg, die de 
+Overeenkomst aangaat met de Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de 
+Overeenkomst afsluit. 
+Overeenkomst De overeenkomst tussen de Opdrachtgever en de 
+Opdrachtnemer voor het leveren van (een) 
+product(en), de te verrichten werkzaamheden en/of 
+het verlenen van een Dienst, zoals beschreven in het 
+Beschrijvend document. 
+Perceel Een afgebakend onderdeel van de Opdracht waarop 
+kan worden ingeschreven.  
+Programma van eisen Het document waarin de specificaties ten aanzien van 
+het uitvoeren van de Opdracht zijn opgenomen. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk 
+als één Inschrijver aan de Aanbesteding deelneemt. 
+Uniform Europees 
+Aanbestedingsdocument (UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin 
+verkeert, kunnen leiden tot uitsluiting van deelname 
+aan de Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een 
+zondag, (ii) een algemeen erkende feestdag (conform 
+lid 1 van artikel 3 van de Algemene Termijnenwet). 
+ 
+ 
+  
+26 van 26 
+10. Bijlagen 
+ 
+ 
+Bijlage A: Programma van eisen 
+ 
+Bijlage B: Concept van de Overeenkomst 
+ 
+Bijlage C: Algemene inkoopvoorwaarden  
+ 
+Bijlage D: Indienen vragen en opmerkingen 
+ 
+Bijlage E: Prijsopgaveformulier
