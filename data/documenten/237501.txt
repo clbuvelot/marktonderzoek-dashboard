@@ -1,0 +1,1962 @@
+=== Document: ea biebpanel - beschrijvend document ===
+SIGSYN 20210318EDv1.7   
+ 
+ 
+ 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 03-09-2021 
+Versienummer: 1.0 
+Kenmerk: 325721 
+  
+  
+Beschrijvend document 
+ 
+Stichting Probiblio 
+ 
+BiebPanel 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+ 
+
+2 van 34 
+Inhoud 
+ 
+Begrippen .............................................................................................................................................................. 4 
+1. Inleiding ........................................................................................................................................................... 6 
+1.1 Aanleiding en context van de Aanbesteding ........................................................................................... 6 
+1.2 De Aanbestedende dienst ....................................................................................................................... 7 
+1.3 Ondersteunende partijen bij de aanbesteding ......................................................................................... 7 
+1.4 Doelstellingen .......................................................................................................................................... 7 
+1.5 Marktconsultatie ...................................................................................................................................... 8 
+1.6 Gebruik Aanbestedingsplatform .............................................................................................................. 8 
+2. Inhoud van de Opdracht ................................................................................................................................. 9 
+2.1 Binnen de scope van de Opdracht .......................................................................................................... 9 
+2.2 Buiten de scope van de Opdracht ........................................................................................................... 9 
+2.3 Perceelindeling ........................................................................................................................................ 9 
+2.4 Omvang van de Opdracht ....................................................................................................................... 9 
+2.5 Varianten ................................................................................................................................................. 9 
+2.6 Contractvorm ........................................................................................................................................... 9 
+2.7 Herziening ............................................................................................................................................. 10 
+3. Verloop van de Aanbesteding ...................................................................................................................... 11 
+3.1 Procedure .............................................................................................................................................. 11 
+3.2 Planning ................................................................................................................................................. 11 
+3.3 Communicatie gedurende de Aanbesteding ......................................................................................... 11 
+3.4 Indienen van de Inschrijvingen .............................................................................................................. 12 
+3.5 Opening van de Inschrijvingen .............................................................................................................. 12 
+3.6 Beoordeling van de Inschrijvingen ......................................................................................................... 12 
+3.7 Gunningsbeslissing ............................................................................................................................... 12 
+3.8 Verificatie ............................................................................................................................................... 13 
+4. Eisen aan de Inschrijver ............................................................................................................................... 14 
+4.1 Inleiding ................................................................................................................................................. 14 
+4.2 Aanbiedingsbrief (A1) ............................................................................................................................ 14 
+4.3 Uitsluitingsgronden ................................................................................................................................ 14 
+4.4 Geschiktheidseisen ............................................................................................................................... 16 
+5. Toetsing van de Inschrijving ........................................................................................................................ 19 
+5.1 Inleiding ................................................................................................................................................. 19 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 ............................................................................ 19 
+6. Beoordeling van de Inschrijving .................................................................................................................. 20 
+6.1 Gunningsmethode: gewogenfactormethode .......................................................................................... 20 
+6.2 Beoordelingsteam .................................................................................................................................. 20 
+6.3 Wijze van beoordeling ........................................................................................................................... 20 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria ................................................................... 20 
+6.5 Documenten/gegevens en beoordelingsaspecten ................................................................................ 21 
+6.6 Berekenen van de eindscores ............................................................................................................... 21 
+6.7 Gunningscriteria .................................................................................................................................... 21 
+7. Voorschriften en voorwaarden .................................................................................................................... 28 
+7.1 Voorbehouden van de Aanbestedende dienst ...................................................................................... 28 
+7.2 Toepasselijk recht .................................................................................................................................. 28 
+7.3 Nederlandse taal ................................................................................................................................... 28 
+7.4 Inschrijven in een Samenwerkingsverband ........................................................................................... 28 
+7.5 Inschrijven met Onderaannemers ......................................................................................................... 28 
+7.6 Inschrijving conform de Aanbestedingsstukken .................................................................................... 29 
+7.7 Voorwaardelijke Inschrijving .................................................................................................................. 29 
+7.8 Gedeeltelijke Inschrijving ....................................................................................................................... 29 
+7.9 Opgave van prijzen, tarieven en kosten ................................................................................................ 29 
+7.10 Manipulatief inschrijven ......................................................................................................................... 29 
+7.11 Geldigheidsduur van de Inschrijving ...................................................................................................... 29 
+7.12 Ondertekening van het UEA en van de Inschrijving .............................................................................. 29 
+3 van 34 
+7.13 Aantal malen inschrijven ........................................................................................................................ 30 
+7.14 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving ..................................... 30 
+7.15 Medewerking onderzoek ....................................................................................................................... 30 
+7.16 Kostenvergoeding .................................................................................................................................. 30 
+7.17 Status informatie in de Aanbestedingsstukken ...................................................................................... 30 
+7.18 Merknamen ............................................................................................................................................ 31 
+7.19 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken................... 31 
+7.20 Intellectueel eigendom ........................................................................................................................... 31 
+7.21 Uitsluiting van Inschrijvers ..................................................................................................................... 31 
+7.22 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname ................................................. 31 
+7.23 Communicatie gedurende de Aanbesteding ......................................................................................... 32 
+7.24 Beïnvloeding van de beoordeling .......................................................................................................... 32 
+7.25 Mededeling van de gunningsbeslissing ................................................................................................. 32 
+7.26 Rechtsmiddel ......................................................................................................................................... 32 
+7.27 Klachtafhandeling .................................................................................................................................. 32 
+8. Bijlagen .......................................................................................................................................................... 34 
+Bijlage A: Programma van eisen ......................................................................................................................... 34 
+Bijlage B: Concept van de Overeenkomst .......................................................................................................... 34 
+Bijlage C: Algemene inkoopvoorwaarden ........................................................................................................... 34 
+Bijlage D: Indienen vragen en opmerkingen ....................................................................................................... 34 
+Bijlage E: Uniform Europees Aanbestedingsdocument ...................................................................................... 34 
+Bijlage F: Ervaring Inschrijver ............................................................................................................................. 34 
+Bijlage G: Beroep financiële en economische draagkracht................................................................................. 34 
+Bijlage H: Beroep technische en beroepsbekwaamheid ..................................................................................... 34 
+Bijlage I: Prijzenblad ............................................................................................................................................ 34 
+Bijlage J: Checklist .............................................................................................................................................. 34 
+Bijlage K: Handleiding Tenderned aanbestedende diensten .............................................................................. 34 
+4 van 34 
+Begrippen 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien aangeduid met 
+een beginhoofdletter, de volgende betekenis. Als het begrip in enkelvoud is gegeven wordt daaronder ook het 
+meervoud begrepen. Als het begrip in meervoud is gegeven wordt daaronder ook het enkelvoud begrepen.  
+ 
+Aanbestedende dienst Stichting Probiblio 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt tot 
+verlening van de Raamovereenkomst. 
+Aanbestedingsplatform Het platform van TenderNed waarop de 
+Aanbestedingsstukken worden geplaatst en waarop de 
+communicatie tussen de Aanbestedende dienst en de 
+Inschrijver plaatsvindt en dat als medium dient voor het 
+indienen van een Inschrijving. 
+Aanbestedingsstukken Alle documenten die door de Aanbestedende dienst 
+gedurende de Aanbesteding worden ingebracht. 
+Aanbestedingswet Wet van 1 november 2012, houdende nieuwe regels omtrent 
+Aanbestedingen, Stb. 2012, 542, zoals onder meer gewijzigd 
+bij Wet van 22 juni 2016 tot wijziging van de 
+Aanbestedingswet 2012 in verband met de implementatie van 
+aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 
+2014/25/EU, Stb. 2016, 241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van het 
+voorwerp van de Aanbesteding wordt gegeven. 
+Bibliothe(e)k(en) Basisbibliotheken of clusters van basisbibliotheken die 
+BiebPanel afnemen. Een cluster bestaat uit enkele 
+basisbibliotheken die te klein zijn om zelfstandig BiebPanel af 
+te nemen. Een cluster treedt op als 1 afnemer van BiebPanel. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage maakt 
+integraal deel uit van de Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep doet met 
+betrekking tot het voldoen aan de Geschiktheidseisen. Deze 
+derde partij is niet per se hetzelfde als een Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de Overeenkomst en 
+Nadere Overeenkomst ten behoeve van de Opdrachtgever te 
+verlenen diensten, te verrichten werkzaamheden en in het 
+kader daarvan te leveren prestaties, een en ander zoals 
+beschreven in de Aanbestedingsstukken. Het gebruik van de 
+termen ‘Diensten’ en ‘Dienstverlening’ heeft mede betrekking 
+op eventuele leveringen die in het kader van die diensten 
+(dienen te) worden gedaan. 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, onderneming 
+of organisatie die geïnteresseerd is om mee te dingen naar de 
+Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gunningscriteria Criteria op basis waarvan de economisch meest voordelige 
+inschrijving wordt bepaald. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of wijzigingen 
+ten aanzien van de Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft ingediend. 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende dienst en 
+dat strekt tot het uitvoeren van de Opdracht. 
+Nadere overeenkomst De overeenkomst tussen de Opdrachtgever en de 
+Opdrachtnemer onder de Raamovereenkomst 
+5 van 34 
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele mededelingen 
+van de Aanbestedende dienst en wijzigingen van het 
+Beschrijvend document en/of andere Aanbestedingsstukken.  
+De Nota van inlichtingen maakt onderdeel uit van het 
+Beschrijvend document en prevaleert boven het Beschrijvend 
+document en de daarbij behorende Bijlagen. Bij een Nota van 
+inlichtingen beschikbaar gestelde Herziene documentatie 
+prevaleert boven eerdere versies van die betreffende 
+documenten.  
+Offerte De aanbieding die de Opdrachtnemer doet naar aanleiding 
+van een Offerteaanvraag. 
+Offerteaanvraag  Een door de Opdrachtgever uitgebrachte uitvraag onder de 
+Opdrachtnemers tot het uitbrengen van een Offerte. 
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer zelf 
+inzet om een gedeelte van de gecontracteerde opdracht uit te 
+voeren, onder verantwoordelijkheid van de Opdrachtnemer als 
+hoofdaannemer. De Opdrachtnemer blijft altijd volledig 
+verantwoordelijk en aansprakelijk voor de (uitvoering van de) 
+Opdracht en de resultaten ervan. Deze onderaannemer is niet 
+per se de Derde als bedoeld in het Beschrijvend document. 
+Opdracht De opdracht van de Opdrachtgever aan de Opdrachtnemer tot 
+hetgeen is overeengekomen in de Raamovereenkomst of 
+nader is overeengekomen in een (Nadere) Overeenkomst en 
+in het kader daarvan te verrichten werkzaamheden en te 
+leveren prestaties, een en ander zoals beschreven in de 
+Aanbestedingsstukken. 
+Opdrachtgever De opdrachtgever, in dit geval Stichting Probiblio, die de 
+Overeenkomst aangaat met de Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de Overeenkomst 
+afsluit. 
+Overeenkomst De overeenkomst of de Raamovereenkomst tussen de 
+Opdrachtgever en de Opdrachtnemer voor het leveren van 
+(een) product(en), de te verrichten werkzaamheden en/of het 
+verlenen van een Dienst, zoals beschreven in het 
+Beschrijvend document. 
+Programma van eisen Het document waarin de specificaties ten aanzien van het 
+uitvoeren van de Opdracht zijn opgenomen. 
+Raamcontractant  De Inschrijver met wie de Opdrachtgever een 
+Raamovereenkomst afsluit. 
+Raamovereenkomst  Een Overeenkomst tussen de Opdrachtgever en één of meer 
+Opdrachtnemers met het doel gedurende een bepaalde 
+periode de voorwaarden inzake de te gunnen opdrachten vast 
+te leggen en op grond waarvan de Opdrachtgever aan de 
+Opdrachtnemer een opdracht kan verlenen tot het verrichten 
+van Diensten of het doen van Leveringen. Bij een 
+Raamovereenkomst geldt geen afnameverplichting. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk als één 
+Inschrijver aan de Aanbesteding deelneemt. 
+Uniform Europees Aanbestedingsdocument 
+(UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin verkeert, 
+kunnen leiden tot uitsluiting van deelname aan de 
+Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een zondag, 
+(ii) een algemeen erkende feestdag (conform lid 1 van artikel 
+3 van de Algemene Termijnenwet). 
+6 van 34 
+1. Inleiding 
+1.1 Aanleiding en context van de Aanbesteding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding voor het uitvoeren van 
+verschillende onderzoeken binnen BiebPanel voor Stichting Probiblio (hierna: Aanbestedende dienst). De 
+Aanbestedende dienst wenst een Raamovereenkomst te sluiten met één (1) ondernemer. 
+ 
+De Aanbestedende dienst nodigt geïnteresseerden uit om een Inschrijving in te dienen op basis van de informatie 
+in de Aanbestedingsstukken. Inschrijvers moeten voldoen aan de voorwaarden in dit Beschrijvend document. 
+ 
+Aanbestedende dienst helpt de bibliotheeksector in Noord- en Zuid-Holland bij het uitvoeren van hun taken. In 
+2009 is Aanbestedende dienst gestart met het onderzoeksinstrument BiebPanel. BiebPanel voorziet 
+deelnemende bibliotheken van actuele informatie over klanten en andere doelgroepen. BiebPanel bestaat 
+inmiddels 12,5 jaar en vanuit de Bibliotheken en Aanbestedende dienst zelf is de behoefte ontstaan om het 
+onderzoeksinstrument te herzien. Daarom is in samenwerking met onderzoeksbureau MWM2 in 2020 een pilot 
+gestart met een vernieuwde opzet voor BiebPanel. De overeenkomst met MWM2 loopt tot eind 2021. De 
+aanleiding voor de Aanbesteding is het aflopen van de pilot en de overeenkomst met MWM2. 
+ 
+Om te voorkomen dat Inschrijver, en eventueel aan hem gelieerde organisaties, een ongeoorloofde 
+kennisvoorsprong heeft ten opzichte van andere Inschrijvers, is alle relevante informatie ten aanzien van de pilot 
+door de Aanbestedende dienst verwerkt in de aanbestedingsstukken. 
+ 
+Huidige situatie en context 
+BiebPanel is een onderzoeksinstrument dat door Aanbestedende dienst in 2009 speciaal is ontwikkeld voor de 
+bibliotheekbranche. Het voorziet deelnemende bibliotheken van actuele informatie over hun klanten en, in latere 
+jaren, ook over andere doelgroepen. BiebPanel maakte lange tijd gebruik van een vast panel van 
+bibliotheekleden die daarvoor werden geworven onder de leden van de deelnemende bibliotheken. Zij werden 
+circa vier keer per jaar gevraagd een vragenlijst in te vullen over uiteenlopende onderwerpen zoals collectie, 
+medewerkers, activiteiten, maar ook onderwerpen zoals maatschappelijke waarde en de toekomst van de 
+bibliotheek.  
+ 
+In 2017 heeft Aanbestedende dienst een vernieuwing doorgevoerd, waarbij naast onderzoeken onder leden ook 
+twee onderzoeken per jaar onder specifieke doelgroepen werden uitgevoerd, zoals ouders van jonge kinderen, 
+senioren, jongeren, Nederlanders met een migratieachtergrond of voormalig bibliotheekleden.  
+ 
+In 2020 heeft Aanbestedende dienst BiebPanel verder vernieuwd om nog beter aan de wensen en behoeften van 
+bibliotheken te voldoen. Om de informatiebehoeften te achterhalen hebben in 2019 drie brainstormsessies met 
+enkele bibliotheken plaatsgevonden (kernvraag: welke informatie en kennis heb je nodig over leden en andere 
+doelgroepen). Een aantal onderzoekbureaus is gevraagd om mee te denken over een nieuwe aanpak. De 
+behoeften van de bibliotheken waren onder andere: onderzoek onder alle leden in plaats van onder panelleden, 
+vanuit de wens een bredere groep leden te ondervragen dan alleen de vaste en betrokken panelleden (in 2009 is 
+het instrument mede ontwikkeld als loyaliteitsinstrument en was het een logische keuze met een panel te 
+werken); onderzoek onder bezoekers die geen lid zijn; onderzoek onder niet-bezoekers en onder specifieke 
+doelgroepen en onderwerpen; onderzoek met andere, nieuwe onderzoekmethoden. 
+ 
+In 2020 is de pilot gestart met de vernieuwde opzet. De vernieuwde opzet bestond uit 6 onderzoeken: een lokaal 
+ledenonderzoek waarbij alle leden (van de deelnemende bibliotheken) uitgenodigd worden om deel te nemen. 
+Daarnaast een lokaal en landelijk onderzoek onder bezoekers die geen lid zijn van de bibliotheek, alsmede twee 
+verdiepende onderzoeken. Afhankelijk van de doelgroep en/of het onderwerp, wordt de methode van de 
+verdiepende onderzoeken bepaald waarmee de informatie het best kan worden achterhaald. Verder werd in 2020 
+een trendonderzoek via social media analyse uitgevoerd.  
+ 
+Aanbestedende dienst maakt bij de uitvoering van de pilot gebruik van onderzoekbureau MWM2. Door de 
+coronacrisis is de pilot uitgelopen naar 2021 (de onderzoeken moesten worden doorgeschoven vanwege de 
+sluiting van de bibliotheken) waardoor Aanbestedende dienst in 2020 nog geen beeld kon krijgen van het wel/niet 
+slagen van het pilotjaar. De pilot is uiteindelijk over het geheel genomen goed verlopen. Alle geplande 
+onderzoeken zijn inmiddels uitgevoerd, naar tevredenheid van de bibliotheken (na elk onderzoek sturen wordt 
+een evaluatievragenlijst naar de bibliotheken gestuurd). Er zijn een aantal nieuwe onderzoekstechnieken ingezet, 
+7 van 34 
+zoals een social media analyse en een online research community. Ook de manier van rapporteren is 
+aangepast/verbeterd: de rapportages zijn leesbaarder, mooier en er zijn ook nieuwe rapportagevormen ingezet 
+zoals een videographic, die bij de bibliotheken zeer in de smaak vallen. Na het pilotjaar 2020/2021 heeft 
+Aanbestedende dienst besloten dat het niet zinvol is om het social media onderzoek op korte termijn te herhalen; 
+omdat er niet elk jaar nieuwe inzichten uit naar voren zullen komen en daarnaast de praktische vertaling door de 
+bibliotheken lastig bleek. Daarom bevat BiebPanel in 2022 vijf onderzoeken. Voor een nadere toelichting verwijst 
+Opdrachtgever u naar Bijlage A Programma van Eisen. 
+ 
+BiebPanel is een groot en complex project, waarbij Aanbestedende dienst niet de eindgebruiker is. De 
+eindgebruikers zijn de circa 80 basisbibliotheken in het werkgebied Noord- en Zuid-Holland en daarbuiten. Het 
+onderzoeksbureau moet zich ervan bewust zijn dat de eindgebruikers soms extra verzoeken hebben die tot extra 
+werk kunnen leiden. Bovendien zijn de eindgebruikers geen onderzoekers waardoor de datatabellen die gemaakt 
+worden ook leesbaar moeten zijn voor niet-onderzoekers. Het bureau moet dus flexibel zijn, ook qua planning, en 
+er op bedacht zijn dat er de nodige uren in projectmanagement gaan zitten. Daarnaast is het van belang dat het 
+bureau goed blijft communiceren over wat er precies verwacht wordt in het project. BiebPanel is geen standaard 
+project al lijkt dat op het eerste oog wel zo, omdat de onderzoeken voor alle deelnemende bibliotheken hetzelfde 
+zijn. 
+ 
+Al met al levert het nieuwe BiebPanel met de vernieuwde, bredere opzet, actueel inzicht in de meningen en 
+wensen van verschillende belangrijke doelgroepen van de bibliotheken. Op dit moment nemen circa 80 
+basisbibliotheken verspreid over heel Nederland in 39 eindgebruikers (hierna: Bibliotheken, zoals gedefinieerd in 
+de begrippenlijst) BiebPanel af.  
+1.2 De Aanbestedende dienst  
+Elk mens heeft een universeel recht op toegang tot informatie en cultuur. In Nederland zorgen openbare 
+bibliotheken er op laagdrempelige wijze voor dat dit gerealiseerd kan worden. Ze bieden betrouwbare informatie, 
+bevorderen lees- en mediavaardigheden en stimuleren persoonlijke ontwikkeling en kennis. Samen met 
+verschillende ondersteunende instellingen vormen ze het bibliotheekstelsel. 
+ 
+Aanbestedende dienst is een fullservice-organisatie en Provinciale Ondersteuningsinstelling voor de 
+bibliotheeksector. Aanbestedende dienst ondersteunt en helpt met haar kennis en expertise bibliotheken in de 
+regio’s Noord- en Zuid-Holland in alle vormen en maten. Aanbestedende dienst vormt een breed opgezet team 
+met een schat aan ervaring en deskundigheid, die Aanbestedende dienst graag voor haar 
+samenwerkingspartners inzet. Dat kan praktisch zijn, bijvoorbeeld door het overnemen van de salarisadministratie 
+of het leveren van logistieke oplossingen, maar ook met strategisch advies op terreinen als bedrijfsvoering, 
+marketing, communicatie, marktonderzoek en innovatie specifiek voor de Bibliotheek. 
+ 
+De Europese openbare Aanbesteding voor BiebPanel wordt gecoördineerd vanuit de afdeling Marketing & 
+Onderzoek van de Aanbestedende dienst. 
+1.3 Ondersteunende partijen bij de aanbesteding  
+De Aanbestedende dienst laat zich bij de Aanbesteding ondersteunen door Significant Synergy. Significant 
+Synergy levert inkoop- en aanbestedingsexpertise voor deze Aanbesteding en zal op geen enkele wijze als 
+Inschrijver, als Onderaannemer of als adviseur van een Inschrijver betrokken zijn bij deze Aanbesteding. 
+1.4 Doelstellingen 
+De Aanbestedende dienst wenst met de Aanbesteding de volgende doelstellingen te realiseren. 
+  
+8 van 34 
+ 
+  
+Doelstelling Toelichting 
+1. Flexibiliteit De capaciteit van de oplossing moet kunnen meegroeien met actuele 
+ontwikkelingen in zowel de branche als de samenleving. Dit betekent dat 
+de aanbesteding en de uiteindelijke overeenkomst voldoende flexibiliteit 
+moeten bieden om in vorm/aard van het onderzoek en volume te kunnen 
+groeien/wijzigen.  
+2. Eén aanspreekpunt (SPOC) Aanbestedende dienst wenst één contractpartij voor de levering van 
+expertise en technische infrastructuur voor alle onderzoeken binnen 
+BiebPanel. Opdrachtnemer dient zelf contacten te onderhouden met 
+partijen voor het eventueel inkopen van panels ed. 
+3. Proactief en partnerschap Opdrachtnemer moet kunnen meedenken, advies geven en proactief 
+inspringen op de behoeften van de opdrachtgever, zodat Aanbestedende 
+dienst steeds de meest passende onderzoeken kan aanbieden. Zowel 
+tussentijds als bij afronden gevraagd en ongevraagd adviseren over de 
+lopende onderzoeken, geplande onderzoeken, toe te passen methoden 
+en technieken (dat laatste vooral bij de verdiepende onderzoeken). 
+4. Kwaliteit Opdrachtnemer voert de onderzoeken zorgvuldig uit en levert 
+hoogwaardige kwaliteit qua inhoud, uitvoering en rapportage. 
+Opdrachtnemer zorgt ervoor dat er structurele kwaliteitschecks zijn 
+opgenomen in de processen. 
+ 
+1.5 Marktconsultatie 
+Voorafgaand aan het pilotproject, zoals nader toegelicht in paragraaf 1.1, is in 2019 een marktverkenning 
+uitgevoerd. De verstrekte informatie van de marktconsultatie en de uitkomst van het pilotproject is verwerkt in de 
+aanbestedingsdocumenten.  
+1.6 Gebruik Aanbestedingsplatform 
+De Aanbestedende dienst stelt alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform. De 
+Inschrijver kan zijn Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De Aanbestedende dienst is 
+op geen enkele wijze verantwoordelijk voor het gebruik van het Aanbestedingsplatform door de Inschrijver en 
+wijst iedere vorm van aansprakelijkheid nadrukkelijk van de hand. 
+ 
+Voor zover omschrijvingen op het Aanbestedingsplatform en het Beschrijvend document met elkaar in 
+tegenspraak zijn, prevaleert het Beschrijvend document boven de omschrijvingen op het Aanbestedingsplatform. 
+ 
+Let op – Om toegang te krijgen tot TenderNed, dient een onderneming te beschikken over e-Herkenning. Het 
+aanvragen van e-Herkenning kan enkele weken duren. Meer informatie over het aanvragen van e-Herkenning is 
+te vinden op de website van TenderNed. 
+ 
+Voor meer informatie over Aanbesteden via Tenderned zie bijlage K.  
+  
+9 van 34 
+2. Inhoud van de Opdracht 
+2.1 Binnen de scope van de Opdracht 
+De Opdracht betreft het uitvoeren van verschillende onderzoeken binnen BiebPanel, namelijk: 
+▪ een lokaal online kwantitatief ledenonderzoek voor alle Bibliotheken onder de eigen bibliotheekleden 
+(standaard 250 respondenten per Bibliotheek); 
+▪ een lokaal online kwantitatief bezoekersonderzoek onder de eigen bezoekers, niet-leden voor alle 
+Bibliotheken die hiervan gebruik wensen te maken (standaard 100 respondenten per bibliotheek);  
+▪ een landelijk online kwantitatief bezoekersonderzoek (circa 1.800 respondenten); 
+▪ twee verdiepende landelijke onderzoeken (passende onderzoekmethode te kiezen per onderzoek). 
+ 
+Voor een nadere omschrijving van de Opdracht zie hoofdstuk 1 van het Programma van Eisen.  
+2.2 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdracht, maar behoren niet tot de scope van 
+de Opdracht:  
+- Het onderhouden van klantcontact;  
+- Acquisitie van nieuwe klanten;  
+- Implementatie van resultaten bij de bibliotheken. 
+2.3 Perceelindeling 
+Opdrachtgever heeft de Opdracht niet opgedeeld in Percelen. Verdeling van de Aanbesteding in meerdere 
+percelen wordt niet passend geacht, omdat: 
+− Sprake is van logisch samenhangende, onlosmakelijk met elkaar verbonden onderdelen van levering en 
+dienstverlening. 
+− Aanbesteding plaats vindt om schaalvoordelen te behalen, alsmede maximale standaardisatie, efficiëntie 
+en effectiviteit. 
+− Eén perceel met één Opdrachtnemer zorgt voor continuïteit en beheersbaarheid van 
+informatievoorziening, communicatie en leveranciersmanagement, waarbij meer ruimte is voor innovatie 
+en maatwerk. 
+− De toegang voor het MKB is voldoende gewaarborgd wanneer de Aanbesteding niet wordt opgedeeld in 
+percelen. 
+2.4 Omvang van de Opdracht 
+De geraamde waarde van de Raamovereenkomst bedraagt € 75.000,- exclusief btw per jaar. Bij een totale 
+looptijd van de Raamovereenkomst van maximaal vier jaar komt de geraamde waarde dan op € 300.000,- 
+exclusief btw. Rekening houdend met een marge van 20 % is de maximale waarde van de Raamovereenkomst  
+€ 360.000,- exclusief btw, bij het bereiken waarvan de Aanbestedende dienst geen nadere opdrachten meer kan 
+verstrekken onder de Raamovereenkomst.   
+ 
+Aan deze raming kunnen geen rechten worden ontleend.  
+2.5 Varianten 
+Een variant is een niet-besteksconforme inschrijving, dat wil zeggen: een andere oplossing voor de behoefte dan 
+gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten leidt ertoe dat in het 
+Beschrijvend document duidelijk moet worden beschreven op welke wijze de aangeboden varianten zullen 
+worden beoordeeld en hoe de varianten ten opzichte van de opties die voldoen aan het Programma van eisen en 
+de Gunningscriteria worden beoordeeld. Varianten zijn niet toegestaan.  
+2.6 Contractvorm  
+2.6.1 Type en duur van de Overeenkomst 
+De Opdrachtgever is voornemens om een Overeenkomst af te sluiten voor uitvoeren van de verschillende 
+onderzoeken binnen BiebPanel. 
+ 
+10 van 34 
+De Overeenkomst heeft een initiële looptijd van een (1) jaar. De verwachte ingangsdatum van de Overeenkomst 
+is maandag 3 januari 2022 en eindigt van rechtswege op 31 december 2022, zonder verlenging. De 
+Opdrachtgever heeft de mogelijkheid om de Overeenkomst onder dezelfde condities driemaal (3) te verlengen 
+met één (1) jaar. De totale looptijd kan derhalve vier (4) jaar bevatten.  
+2.7 Herziening 
+Met een beroep op artikel 2.163c Aanbestedingswet 2012, kan de Opdracht gedurende de looptijd van de 
+Overeenkomst worden gewijzigd. De mogelijke wijziging betreft een wijziging in de opzet van de onderzoeken die 
+binnen de scope van de opdracht vallen. De opzet van de onderzoeken is afhankelijk van verschillende wensen 
+van de Bibliotheken.  
+ 
+Wanneer de behoefte ontstaat aan de hierboven beschreven wijziging, dan vraagt de Opdrachtgever een offerte 
+aan bij de Opdrachtnemer. De Opdrachtnemer stelt een offerte op, waarbij de gespecificeerde werkzaamheden 
+uit de offerteaanvraag worden overgenomen. De Opdrachtgever is niet verplicht om de gewenste optionele 
+Diensten af te nemen. Indien de Opdrachtgever daar om welke reden dan ook van afziet, zal dat worden 
+toegelicht aan de Opdrachtnemer. 
+ 
+ 
+ 
+ 
+  
+11 van 34 
+3. Verloop van de Aanbesteding 
+3.1 Procedure 
+De Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 2012. Als 
+criterium voor gunning wordt gehanteerd: de beste prijs-kwaliteitverhouding.  
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; er kunnen geen rechten aan worden 
+ontleend. De Aanbestedende dienst behoudt zich het recht voor de planning te wijzigen en de Aanbesteding te 
+staken of op te schorten.  
+ 
+Mijlpaal Datum 
+Publicatie Aanbesteding Maandag 6 september 2021 
+Sluitingsdatum vragenronde 1: Indienen vragen en opmerkingen 
+(deadline) 
+Woensdag 15 september 2021 vóór 
+10:00 uur 
+Publicatie eerste Nota van inlichtingen (streefdatum) Woensdag 22 september 2021 
+Sluitingsdatum vragenronde 2: Indienen vragen en opmerkingen 
+(deadline) 
+Woensdag 29 september 2021 vóór 
+10:00 uur 
+Publicatie tweede Nota van inlichtingen (streefdatum) Woensdag 6 oktober 2021 
+Sluitingsdatum indienen Inschrijvingen (deadline) Maandag 18 oktober 2021 vóór 
+14:00 uur 
+Openen van Inschrijvingen Maandag 18 oktober 2021 na 14:00 
+uur 
+Bekendmaking gunningsbeslissing (streefdatum) Dinsdag 23 november 2021 
+Deadline aanleveren bewijsstukken Uiterlijk 5 Werkdagen na verzending 
+gunningsbeslissing, dat wil zeggen 
+dinsdag 30 november 2021 
+Einddatum opschortende termijn 20 kalenderdagen na verzending 
+gunningsbeslissing dinsdag 14 
+december 2021 
+Ingangsdatum Overeenkomst Maandag 3 januari 2022  
+Ingangsdatum implementatie  Nader af te stemmen 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie met betrekking tot deze Aanbesteding verloopt uitsluitend via het Aanbestedingsplatform. De 
+Aanbestedende dienst neemt berichten die op een andere wijze worden verzonden niet in behandeling.  
+3.3.1 Indienen van vragen en opmerkingen 
+De Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen over de 
+Aanbestedingsstukken. Voor het stellen van vragen dient gebruik te worden gemaakt van Bijlage D ‘Indienen 
+vragen en opmerkingen’. Vragen die op een andere manier worden ingediend, worden in de regel niet 
+beantwoord. De Aanbestedende dienst kan niet garanderen dat vragen die binnenkomen na de uiterste 
+indieningsdatum voor het stellen van vragen, worden beantwoord. De Aanbestedende dienst behoudt zich het 
+recht voor vragen en/of opmerkingen ter zijde te leggen of slechts gedeeltelijk te verwerken zolang daarmee de 
+aanbestedingsrichtlijnen niet worden geschonden. 
+ 
+De Geïnteresseerde wordt verzocht om in de vraagstelling geen gebruik te maken van bedrijfsnamen, 
+productnamen en andere aan uw organisatie gerelateerde namen. De Aanbestedende dienst publiceert de 
+gestelde vragen zonder daarbij de naam van de vraagsteller te vermelden en behoudt zich het recht voor om 
+vragen met dat doel aan te passen. De Aanbestedende dienst geeft geen garantie op anonimiteit, bijvoorbeeld 
+omdat uit noodzakelijke technische vragen de identiteit van de vragensteller kan worden afgeleid. 
+ 
+Indien de Geïnteresseerde vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan kunnen 
+deze vragen buiten de Nota van inlichtingen om worden beantwoord. De Geïnteresseerde kan de Aanbestedende 
+dienst gemotiveerd verzoeken een vraag vertrouwelijk te beantwoorden, door ‘Commercieel vertrouwelijk - Niet 
+beantwoorden in de Nota van inlichtingen’ te vermelden. Indien de Aanbestedende dienst van oordeel is dat een 
+12 van 34 
+vraag niet (commercieel) vertrouwelijk van aard is, wordt dit medegedeeld aan de Geïnteresseerde. De 
+Geïnteresseerde kan de desbetreffende vraag vervolgens 1) terugtrekken of 2) door de Aanbestedende dienst 
+laten beantwoorden in de Nota van inlichtingen.  
+3.3.2 Beantwoorden vragen in Nota(’s) van inlichtingen 
+De Aanbestedende dienst sluit een vragenronde af met het publiceren van een Nota van inlichtingen met daarin 
+alle gestelde vragen van Geïnteresseerden en de antwoorden daarop van de Aanbestedende dienst. Ook van 
+eventuele wijzigingen in Aanbestedingsstukken maakt de Aanbestedende dienst melding in een Nota van 
+inlichtingen. Dit kan gepaard gaan met herziene documentatie van de betreffende Aanbestedingsstukken.  
+ 
+De informatie in de Nota’s van inlichtingen is bindend en leidend en prevaleert boven de oorspronkelijke 
+informatie in de Aanbestedingsstukken.  
+ 
+De Aanbestedende dienst publiceert de Nota’s van inlichtingen op het Aanbestedingsplatform. Hiervan wordt 
+geen notificatie verstuurd; een Geïnteresseerde dient er zelf voor zorg te dragen dat de informatie tot hem komt.  
+3.4 Indienen van de Inschrijvingen  
+De Inschrijving moet digitaal worden ingediend via het Aanbestedingsplatform vóór de sluitingsdatum zoals 
+vermeld in de planning op het Aanbestedingsplatform.  
+ 
+De Aanbestedende dienst adviseert de Inschrijver om de Inschrijving ruim op tijd in te dienen. Na de sluiting van 
+de inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. De Aanbestedende 
+dienst beschouwt een niet tijdig ingediende Inschrijving als niet ingediend en neemt deze daarom niet in 
+behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor rekening van de Inschrijver. 
+Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+De Inschrijver is zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De Aanbestedende 
+dienst, de aanbieder van het Aanbestedingsplatform en Significant Synergy zijn hiervoor niet verantwoordelijk. 
+3.5 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor de Aanbestedende dienst niet eerder zichtbaar dan op het moment dat de 
+sluitingsdatum voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+opent de Aanbestedende dienst de Inschrijvingen. Inschrijvers kunnen niet bij de opening van Inschrijvingen 
+aanwezig zijn.  
+3.6 Beoordeling van de Inschrijvingen 
+Na opening worden de Inschrijvingen gecontroleerd en beoordeeld.  
+ 
+Controle volledigheid en vormvereisten 
+De Aanbestedende dienst controleert of een Inschrijving volledig is en voldoet aan de vormvereisten. Een 
+Inschrijving die niet volledig is of niet voldoet aan de vormvereisten wordt in de regel als ongeldig terzijde gelegd 
+en uitgesloten van verdere deelname aan de Aanbesteding. 
+ 
+Toetsing 
+De Aanbestedende dienst toetst of Uitsluitingsgronden van toepassing zijn en of de Inschrijver en de Inschrijving 
+voldoen aan de Geschiktheidseisen en de toetsingscriteria. Een Inschrijving die niet voldoet aan deze criteria 
+wordt in de regel als ongeldig terzijde gelegd en uitgesloten van verdere deelname aan de Aanbesteding.  
+ 
+Inhoudelijke beoordeling  
+De Aanbestedende dienst beoordeelt de Inschrijving op basis van het gunningscriterium de beste prijs-
+kwaliteitverhouding. De wijze waarop de Aanbestedende dienst dat doet is beschreven in hoofdstuk 6. 
+3.7 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maakt de Aanbestedende dienst de gunningsbeslissing tegelijkertijd 
+bekend aan alle Inschrijvers. Aan de gunningsbeslissing kunnen geen rechten worden ontleend noch houdt deze 
+beslissing de aanvaarding van een aanbod in. Gedurende een opschortende termijn van ten minste twintig 
+13 van 34 
+kalenderdagen na verzending van de mededeling van de gunningsbeslissing is het de Aanbestedende dienst niet 
+toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+3.8 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kan de Aanbestedende dienst bewijs opvragen om de 
+informatie die de Inschrijver in het kader van deze aanbestedingsprocedure heeft gegeven te verifiëren.  
+ 
+Om de administratieve last te beperken is bepaald dat de Aanbestedende dienst aan Inschrijvers bij inschrijving in 
+eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) mag vragen, in plaats van alle 
+bewijsstukken. De bewijsstukken die vallen onder het UEA, met uitzondering van de referenties, vraagt de 
+Aanbestedende dienst in de regel alleen op bij de Inschrijver(s) die op basis van de beoordeling in aanmerking 
+komt/komen voor de Opdracht. De Inschrijver moet de gevraagde bewijsstukken binnen korte tijd aanleveren, in 
+de regel binnen een termijn van vijf Werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit controle van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+- niet voldoet aan de gestelde eisen, of  
+- geen afdoende bewijs kan overleggen, of  
+- onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. De Aanbestedende dienst zal de gunningsbeslissing 
+dan in de regel intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van verdere deelname aan de 
+aanbestedingsprocedure.  
+ 
+ 
+  
+14 van 34 
+4. Eisen aan de Inschrijver 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen de Aanbestedende dienst hanteert en 
+welke informatie de Inschrijver dient aan te leveren. Met het Uniform Europees Aanbestedingsdocument (UEA) 
+(bijlage E) geeft de Inschrijver aan of de Uitsluitingsgronden wel of niet op hem van toepassing zijn en of hij 
+voldoet aan de Geschiktheidseisen. Eveneens is beschreven welke eisen gelden indien:  
+- de Inschrijver inschrijft met Onderaannemer(s); 
+- de Inschrijver inschrijft als een Samenwerkingsverband; 
+- de Inschrijver zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+- de Inschrijver zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 7.4 en 7.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers of als een 
+Samenwerkingsverband.  
+ 
+In de tabel hieronder is aangegeven welke bewijsstukken/documenten de Inschrijver moet bijvoegen bij de 
+Inschrijving. Alleen de winnende Inschrijver dient de bewijsstukken in de kolom ‘Op verzoek’ aan te leveren, 
+binnen drie Werkdagen na verzoek van de Aanbestedende dienst. Het risico dat bewijsstukken niet tijdig kunnen 
+worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van deelname aan de 
+Aanbesteding. Het verdient aanbeveling de genoemde bewijsstukken tijdig te verzamelen en gereed te hebben.  
+ 
+De Aanbestedende dienst behoudt zich het recht voor om nader onderzoek uit te (laten) voeren naar (de 
+verklaringen van) de Inschrijver.  
+ 
+ # Omschrijving Bij inschrijving Op verzoek 
+Algemene 
+verklaringen 
+A1 Aanbiedingsbrief X  
+A2 Uniform Europees Aanbestedingsdocument X  
+Bewijsmiddelen 
+t.b.v. 
+Uitsluitingsgronden 
+U1 Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+U2 Gedragsverklaring aanbesteden  X 
+U3 Verklaring van de Belastingdienst  X 
+Geschiktheidseisen E1 Afdekking aansprakelijkheidsrisico’s  X 
+E2 Ervaring van de Inschrijver X  
+E3 Certificeringen Inschrijver  X 
+4.2 Aanbiedingsbrief (A1) 
+De Inschrijver dient een aanbiedingsbrief bij de Inschrijving te voegen. In de aanbiedingsbrief dienen ten minste 
+de volgende zaken te zijn opgenomen: 
+• De naam van de Inschrijver waarmee hij staat ingeschreven in het nationale beroeps- of handelsregister.  
+• De naam van de contactpersoon, inclusief contactgegevens, die namens de Inschrijver het aanspreekpunt 
+zal zijn tijdens de Aanbesteding.   
+• De namen van de Onderaannemers of Derden of leden van het Samenwerkingsverband waarmee zij staan 
+ingeschreven in het nationale beroeps- of handelsregister. Een toelichting op waarom en voor welk deel van 
+de Opdracht op hen een beroep wordt gedaan. 
+4.3 Uitsluitingsgronden 
+4.3.1 Verplichte en facultatieve Uitsluitingsgronden 
+De Aanbestedende dienst verklaart naast de verplichte Uitsluitingsgronden de facultatieve Uitsluitingsgronden 
+van toepassing die zijn aangevinkt in deel III van het Uniform Europees Aanbestedingsdocument (UEA).  
+De redenen voor het van toepassing verklaren van de facultatieve Uitsluitingsgronden zijn als volgt. De 
+Aanbestedende dienst wenst uitsluitend ondernemingen te contracteren die financieel gezond zijn van 
+onbesproken gedrag, waarbij geen sprake is van belangenverstrengeling en die integer en ethisch handelen.  
+ 
+15 van 34 
+Aan de toepasselijkheid van een Uitsluitingsgrond op een onderneming wordt conform artikel 2.86 lid 3 van de 
+Aanbestedingswet 2012 gelijkgesteld de situatie dat een Uitsluitingsgrond van toepassing is op een persoon die 
+lid is van het bestuurs-, leidinggevend of toezichthoudend orgaan of die daarin vertegenwoordigings-, beslissings- 
+of controlebevoegdheid heeft.  
+4.3.2 Invullen van het Uniform Europees Aanbestedingsdocument (A2) 
+De Inschrijver vult alle benodigde gegevens in het UEA volledig en juist in en voegt deze toe aan de Inschrijving. 
+Zie paragraaf 7.12 voor aanwijzingen voor de ondertekening van het UEA.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s), dan dient hij hiervan melding te 
+maken in Deel II D van het UEA. Tevens dient elke Onderaannemer een UEA in te vullen (Deel II A & B en 
+Deel III) en rechtsgeldig te ondertekenen.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dienen alle leden 
+van het Samenwerkingsverband afzonderlijk het UEA in te vullen en rechtsgeldig te ondertekenen. De 
+Inschrijver vermeldt onder Deel II A met welke entiteiten hij een Samenwerkingsverband aangaat. 
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op (een) Derde(n) om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen, dan dient de Inschrijver in Deel II C van het UEA hiervan melding te 
+maken. Tevens dient elk betreffende Derde een eigen UEA in te vullen (Deel II A en B en Deel III) en 
+rechtsgeldig te ondertekenen. 
+4.3.3 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 
+De hierna genoemde documenten gelden als bewijs van de verklaring van de Inschrijver middels het UEA dat op 
+hem geen Uitsluitingsgronden van toepassing zijn.  
+ 
+Van een onderneming die gevestigd is in een andere lidstaat van de Europese Unie aanvaardt de 
+Aanbestedende dienst, conform lid 4 van artikel 2.89 van de Aanbestedingswet 2012, ook gegevens en 
+bescheiden uit de betreffende lidstaat die een gelijkwaardig doel dienen als de hieronder genoemde 
+bewijsmiddelen of waaruit blijkt dat de Uitsluitingsgronden niet op de betreffende onderneming van toepassing 
+zijn.  
+ 
+• Inschrijving in het nationale beroeps- of handelsregister (U1)  
+Een verklaring zoals bedoeld in lid 1 van artikel 2.89 van de Aanbestedingswet 2012, die niet ouder is dan zes 
+maanden op het moment van het indienen van de Inschrijving. Uit de verklaring moet blijken dat de Inschrijver 
+volgens de eisen die gelden in het land waarin de Inschrijver is gevestigd, is ingeschreven in het nationale 
+beroeps- of handelsregister. Indien een dergelijke verklaring in het land van vestiging niet wordt afgegeven dient 
+de Inschrijver een verklaring of attest onder ede te verstrekken. Binnen Nederland volstaat hiertoe een uittreksel 
+van inschrijving in het handelsregister van de Kamer van Koophandel.  
+ 
+• Gedragsverklaring aanbesteden (U2)  
+Een afschrift van de gedragsverklaring aanbesteden, zoals bedoeld in lid 2 van artikel 2.89 en hoofdstuk 4.1 van 
+de Aanbestedingswet 2012. De gedragsverklaring aanbesteden mag op het moment van inschrijven niet ouder 
+zijn dan twee jaar. Indien zich na afgifte van de gedragsverklaring aanbesteden een Uitsluitingsgrond heeft 
+voorgedaan, is de Inschrijver verplicht dat in de Inschrijving te vermelden, op straffe van uitsluiting.   
+ 
+De Inschrijver kan de gedragsverklaring aanbesteden aanvragen via Justis. In verband met de lange 
+verwerkingstermijn adviseert de Aanbestedende dienst om de gedragsverklaring aanbesteden, voorafgaand aan 
+een mogelijk verzoek van de Aanbestedende dienst, tijdig aan te vragen. Indien de beslissing op de aanvraag 
+langer duurt, is dit voor risico van de Inschrijver. Voor meer informatie zie: https://www.justis.nl/producten/gva/. 
+ 
+• Verklaring van de Belastingdienst (U3)  
+Een verklaring van de Belastingdienst dat de Inschrijver zijn verplichte belastingen en sociale zekerheidspremies 
+heeft betaald, zoals bedoeld in lid 3 van artikel 2.89 van de Aanbestedingswet 2012. De verklaring mag op het 
+moment van inschrijven niet ouder zijn dan zes maanden.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt voor de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 het volgende: 
+16 van 34 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s) hoeft alleen de hoofdaannemer 
+de drie bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken. 
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dient ieder lid van 
+het Samenwerkingsverband de drie bovengenoemde bewijsstukken te verstrekken.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) (om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen), dan dienen zowel de Inschrijver als de Derde(n) de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken.  
+4.4 Geschiktheidseisen  
+Aan de hand van de hierna beschreven Geschiktheidseisen bepaalt de Aanbestedende dienst mede of een 
+Inschrijver geschikt is om de Opdracht uit te voeren.  
+ 
+Door het aanvinken van ‘Ja’ in onderdeel A in Deel IV van het UEA verklaart de Inschrijver dat zijn onderneming 
+voldoet aan alle hiernavolgende Geschiktheidseisen. Met de term ‘selectiecriteria’ wordt in het UEA de 
+Geschiktheidseisen bedoeld. Indien de Inschrijver niet voldoet aan de gestelde Geschiktheidseisen is de 
+Inschrijving ongeldig en wordt deze terzijde gelegd. 
+4.4.1 Aantonen van financiële en economische draagkracht – Afdekking aansprakelijkheidsrisico’s (E1) 
+De Inschrijver dient voldoende verzekerd te zijn tegen aansprakelijkheidsrisico’s in verband met de uitvoering van 
+de Opdracht. De Aanbestedende dienst acht een minimale dekking van € 500.000, - per gebeurtenis en een 
+minimale dekking van € 1.000.000, - per kalenderjaar passend. Door ondertekening van het UEA verklaart de 
+Inschrijver dat de verzekering wordt gehandhaafd voor ten minste de voornoemde bedragen gedurende de 
+contractperiode.  
+ 
+Indien de Inschrijver op dit moment niet voldoende is verzekerd voor de uitvoering van de Opdracht, dient hij een 
+schriftelijke verklaring van zijn verzekeringsmaatschappij te verstrekken waarin de verzekeringsmaatschappij 
+verklaart dat zij, voorafgaande aan de gunning van de Opdracht, met de Inschrijver de hierboven genoemde 
+verzekering afsluit.  
+ 
+De winnende Inschrijver verstrekt als bewijs een kopie van de betreffende verzekeringspolis. 
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer het bewijs van verzekering te verstrekken.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan verstrekt minimaal 
+één van de leden het bewijs van verzekering waaruit blijkt dat de gezamenlijke en hoofdelijke 
+aansprakelijkheid van de leden van het Samenwerkingsverband in verband met de Opdracht afdoende is 
+gedekt.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste verzekering tegen aansprakelijkheidsrisico’s, dan verstrekt de Inschrijver daarvan 
+bewijs en vult hij Bijlage G in. 
+4.4.2 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Ervaring van de Inschrijver (E2) 
+De Inschrijver dient aan te tonen dat hij voldoende deskundig en ervaren is voor de uitvoering van de Opdracht. 
+Daartoe acht de Aanbestedende dienst het noodzakelijk dat de Inschrijver bepaalde kerncompetenties heeft. De 
+Inschrijver toont met referentieopdrachten aan dat hij beschikt over die kerncompetenties. 
+  
+17 van 34 
+ 
+Voor de uitvoering van de Opdracht moet de Inschrijver beschikken over de volgende kerncompetenties:   
+ 
+Kerncompetentie 1: Online kwantitatief onderzoek 
+Probiblio vraagt een referentie waarin Inschrijver ervaring aantoont met het uitvoeren van online 
+kwantitatief onderzoek. Voor een definitie van online kwantitatief onderzoek zie bijlage A hoofdstuk 1.2 
+Programma van Eisen. De referentie moet voldoen aan de volgende eisen: 
+1. De opdracht betrof een landelijk of lokaal (leden)onderzoek uitgevoerd onder minimaal 6.000 
+respondenten; 
+2. Het onderzoek is uitgevoerd voor een non-profit organisatie; 
+3. De resultaten en de conclusies van het onderzoek zijn vastgelegd in een rapportage; 
+4. De opdracht is tijdig en volgens de opdrachtformulering van de opdrachtgever uitgevoerd; 
+5. De opdracht is naar volle tevredenheid van de opdrachtgever uitgevoerd. 
+Kerncompetentie 2: Verdiepend onderzoek 
+Probiblio vraagt een referentie waarin Inschrijver ervaring aantoont met het uitvoeren van verdiepend 
+onderzoek. Voor een definitie van verdiepend onderzoek zie bijlage A hoofdstuk 1.6 Programma van 
+Eisen. Omschrijving van de opdracht. De referentie moet voldoen aan de volgende eisen: 
+1. De opdracht is uitgevoerd voor een non-profit organisatie en gericht op samenwerking; 
+2. Bij het uitvoeren van de opdracht is gebruik gemaakt van minimaal 1 andere 
+onderzoeksmethode/techniek dan de online kwantitatieve methode, die afgestemd is op de 
+specifieke doelgroep(en) en/of onderwerpen van de opdracht. Bij de keuze zijn verschillende 
+methodes overwogen die het bureau kan aanbieden, en is de klant geadviseerd welke methode 
+het meest passend is; 
+3. De resultaten en de conclusies van het onderzoek/de onderzoeken zijn vastgelegd in een 
+rapportage; 
+4. De opdracht is tijdig en volgens de opdrachtformulering van de opdrachtgever uitgevoerd; 
+5. De opdracht is naar volle tevredenheid van de opdrachtgever uitgevoerd. 
+ 
+De Inschrijver toont de gevraagde bekwaamheid aan met maximaal één referentieopdracht per kerncompetentie. 
+Het is toegestaan om dezelfde referentieopdracht ter aantoning van meerdere kerncompetenties te gebruiken. De 
+Inschrijver gebruikt hiervoor Bijlage F.  
+ 
+Een referentieopdracht moet voldoen aan de volgende criteria: 
+• Ingeval van een reeds afgeronde opdracht is de afrondingsdatum van de referentieopdracht niet ouder dan 
+drie jaar gerekend vanaf de publicatiedatum van deze Aanbesteding. 
+• Ingeval van een nog lopende opdracht is de startdatum van de referentieopdracht ouder dan één jaar 
+gerekend vanaf de publicatiedatum van deze Aanbesteding. 
+• Ingeval van een nog lopende opdracht gebruikt de Inschrijver alleen de reeds behaalde resultaten om 
+daarmee zijn bekwaamheid aan te tonen. Een prognose van de resultaten volstaat niet.  
+• Indien de Inschrijver bij de uitvoering van de referentieopdracht onderdeel was/is van een 
+samenwerkingsverband, dan beschrijft de Inschrijver wat zijn aandeel is (geweest) bij de uitvoering van de 
+referentieopdracht. Slechts zijn aandeel in de referentieopdracht telt mee bij de beoordeling of aan deze 
+Geschiktheidseis wordt voldaan. 
+• De referentieopdracht is of wordt succesvol en naar tevredenheid van de betreffende opdrachtgever 
+uitgevoerd.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij beschikt over de vereiste kerncompetenties. Indien de Inschrijver 
+inschrijft met Onderaannemer(s) om op die manier te kunnen voldoen aan de Geschiktheidseis, dan tonen de 
+Onderaannemer(s) aan dat zij beschikken over de vereiste kerncompetenties.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan tonen de leden van 
+het Samenwerkingsverband gezamenlijk aan dat zij beschikken over de vereiste kerncompetenties.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste ervaring, dan vult de Inschrijver Bijlage H in en verstrekt bewijs dat hij daadwerkelijk 
+kan beschikken over de vereiste kerncompetenties van de Derde(n). 
+18 van 34 
+ 
+Alles wat de Aanbestedende dienst in deze paragraaf vraagt dient duidelijk te blijken uit de door de Inschrijver 
+verschafte informatie. De Aanbestedende dienst behoudt zich het recht voor de juistheid van de referentie te 
+controleren door contact op te nemen met de contactpersoon van de referentie.  
+4.4.3 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Vereiste standaarden (E4) 
+De Inschrijver dient te voldoen aan de volgende standaarden of aantoonbaar werkende vergelijkbare systemen: 
+ 
+Norm, standaard Toelichting 
+Kwaliteit De Inschrijver beschikt over een kwaliteitsborgingssysteem 
+Door de Inschrijver wordt een beschreven kwaliteitssysteem gebruikt. Bewijs 
+hiervan kan worden geleverd door het beschikken over certificering zoals 
+bijvoorbeeld ISO 20252:2019, dan wel op andere wijze waarmee de Inschrijver in 
+staat is aan te tonen dat door hem op systematische wijze (dat wil zeggen volgens 
+een cyclus van plan-do-check-act) binnen de organisatie aan de kwaliteit van de 
+bedrijfsprocessen wordt gewerkt. 
+Informatiebeveiliging De Inschrijver beschikt over een informatiebeveiligingsmanagementsysteem  
+Door de Inschrijver wordt een beschreven managementsysteem voor 
+informatiebeveiliging gebruikt. Bewijs hiervan kan worden geleverd door het 
+beschikken over certificering zoals bijvoorbeeld ISO 27001, dan wel op andere wijze 
+waarmee de Inschrijver in staat is aan te tonen dat door hem maatregelen worden 
+genomen op het gebied van procesmatige informatiebeveiliging en het periodiek 
+vaststellen, uitvoeren, controleren, beoordelen, bijhouden en verbeteren van een 
+gedocumenteerd managementsysteem. 
+ 
+De Inschrijver verklaart door ondertekening van het UEA dat hij aan bovenstaande voldoet.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij aan bovenstaande eisen voldoet.   
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan tonen de leden van 
+het Samenwerkingsverband gezamenlijk aan dat zij aan bovenstaande eisen voldoen.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan bovenstaande eisen, dan verstrekt de Inschrijver daarvan bewijs vult hij Bijlage H in. 
+  
+ 
+  
+19 van 34 
+5. Toetsing van de Inschrijving 
+5.1 Inleiding 
+Dit hoofdstuk beschrijft de toetsingscriteria waaraan de Inschrijving moet voldoen. Niet voldoen aan een 
+toetsingscriterium betekent in de regel uitsluiting van verdere deelname aan de Aanbesteding.  
+ 
+# Toetsingscriterium 
+T1 Voorwaarden en bepalingen van deze Aanbesteding 
+T2 Programma van eisen 
+T3 Concept van de Overeenkomst  
+T4 Algemene inkoopvoorwaarden van de Opdrachtgever  
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 
+Met het ondertekenen van het UEA verklaart de Inschrijver: 
+- dat hij onvoorwaardelijk akkoord gaat met alle voorschriften, voorwaarden en bepalingen die zijn opgenomen 
+in de Aanbestedingsstukken; 
+- dat hij voldoet aan c.q. akkoord gaat met (de inhoud van) het Programma van eisen dat is opgenomen in 
+Bijlage A, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met het concept van de Overeenkomst dat is opgenomen in Bijlage B 
+en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met de Algemene Inkoopvoorwaarden Probiblio (juli 2020) die zijn 
+opgenomen in Bijlage C, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop, en dat 
+eventuele leverings-, betalings- en/of andere algemene voorwaarden van de Inschrijver niet van toepassing 
+zijn;  
+ 
+  
+20 van 34 
+6. Beoordeling van de Inschrijving 
+De Aanbestedende dienst is voornemens de Opdracht te gunnen aan de Inschrijver met de economisch meest 
+voordelige Inschrijving. De Aanbestedende dienst weegt zowel prijs als kwalitatieve criteria om tot een 
+eindoordeel te komen.  
+6.1 Gunningsmethode: gewogenfactormethode 
+Om de Inschrijving op prijs en kwaliteit te kunnen beoordelen maakt de Aanbestedende dienst gebruik van de 
+‘gewogenfactormethode’. Bij de gewogenfactormethode wordt aan elk Gunningscriterium een weging toegekend, 
+uitgedrukt in een percentage. Bij elkaar opgeteld is het totaal van de wegingspercentages 100%.  
+ 
+ Afhankelijk van de beoordeling wordt per Gunningscriterium een score gegeven – variërend van uitstekend tot 
+onvoldoende (zie de tabel in paragraaf 6.6). Het percentage dat bij de score hoort is de ongewogen score. De 
+ongewogen score wordt vermenigvuldigd met het maximumaantal punten dat met het desbetreffende 
+Gunningscriterium kan worden verdiend (zie de tabel in paragraaf 6.10), en dat resulteert in een gewogen score 
+per Gunningscriterium. De gewogen scores van alle Gunningscriteria bij elkaar opgeteld vormen samen de 
+eindscore. De Inschrijving met de hoogste eindscore komt als eerste in aanmerking voor gunning van de 
+Raamovereenkomst. 
+6.2 Beoordelingsteam 
+Voor de beoordeling van de Inschrijving stelt de Aanbestedende dienst een beoordelingsteam samen. Het 
+beoordelingsteam bestaat uit minimaal drie leden die de deskundigheid hebben die nodig is om de Inschrijving 
+inhoudelijk te beoordelen.  
+6.3 Wijze van beoordeling 
+Het beoordelingsteam beoordeelt elk Gunningscriterium op basis van de informatie die de Inschrijver met 
+betrekking tot dat specifieke Gunningscriterium heeft overgelegd. Iedere Inschrijving wordt beoordeeld op zijn 
+eigen verdiensten. Indien een Inschrijver meent dat voor de beoordeling van een Gunningscriterium ook een deel 
+van een ander Gunningscriterium uit zijn Inschrijving van belang is, dient de Inschrijver daar expliciet (met 
+vermelding van paragraaf-/paginanummers) naar te verwijzen, inclusief een toelichting waarom de informatie 
+waarnaar wordt verwezen van belang is voor de beoordeling van het betreffende Gunningscriterium.  
+Per Gunningscriterium komt het beoordelingsteam in consensus tot één gezamenlijke score. 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria 
+In de hiernavolgende paragrafen zijn de Gunningscriteria omschreven. Voor de kwalitatieve Gunningscriteria kent 
+het beoordelingsteam per Gunningscriterium een beoordelingsscore toe aan de kwaliteit van de door de 
+Inschrijver ingediende informatie. Afhankelijk van de kwaliteit van het aangebodene wordt per Gunningscriterium 
+een van de volgende scores gegeven:  
+ 
+Score Omschrijving Percentage van max. 
+kwaliteitswaarde 
+Uitstekend De kwalificatie ‘uitstekend’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 10 100%  
+Zeer goed De kwalificatie ‘zeer goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 9 90% 
+Goed De kwalificatie ‘goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 8 70% 
+Ruim voldoende De kwalificatie ‘ruim voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 7 30% 
+Voldoende  De kwalificatie ‘voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 6 10% 
+Onvoldoende Alles lager dan ‘voldoende’ 0% 
+ 
+Voor de kwalitatieve Gunningscriteria G1, G2 en G3 is een voldoende het minste wat de Aanbestedende dienst 
+verwacht. Daarom geldt voor deze Gunningscriteria een vereiste minimumscore van een voldoende. Indien voor 
+21 van 34 
+de Gunningscriteria G1, G2 en G3 niet minimaal de score ‘voldoende’ wordt behaald, is de Inschrijving ongeldig 
+en wordt deze terzijde gelegd. 
+6.5 Documenten/gegevens en beoordelingsaspecten 
+Verderop in dit hoofdstuk wordt per Gunningscriterium beschreven: 
+(i) welke documenten/gegevens de Inschrijver in het kader van het betreffende Gunningscriterium moet 
+aanleveren; en  
+(ii) op welke aspecten het beoordelingsteam de beoordeling op het betreffende Gunningscriterium uitvoert 
+(per Gunningscriterium is hiervoor een grijs beoordelingskader opgenomen in het vervolg van dit 
+hoofdstuk). 
+ 
+Ad (i) Het beoordelingsteam zal nagaan of de Inschrijver op het betreffende Gunningscriterium alle gevraagde 
+documenten/gegevens heeft aangeleverd. Als dat niet het geval is, leidt dit in de regel tot een lagere beoordeling. 
+In uitzonderlijke gevallen kan het niet aanleveren van gevraagde documenten/gegevens leiden tot ongeldigheid 
+van de Inschrijving (bijvoorbeeld als de Inschrijving in het geheel geen, of slechts een zeer gebrekkig, onderdeel 
+bevat).  
+ 
+Ad (ii) Bij de beoordeling op de Gunningscriteria houdt het beoordelingsteam, naast de in de beoordelingskaders 
+benoemde beoordelingsaspecten, ook rekening met de wijze waarop de Inschrijver de door hem gemaakte 
+keuzes heeft onderbouwd. Daarbij kunnen bijvoorbeeld de volgende vragen aan de orde komen: 
+• Geeft de Inschrijver een duidelijk inzicht in de afwegingen?  
+• Zit er een duidelijke logica/gedachte achter de gemaakte keuzes?  
+• Toont de Inschrijver zich bewust van eventuele nadelen van de keuzes en licht hij toe waarom de voordelen 
+van de keuzes opwegen tegen die nadelen? 
+Kortom: Het is aan de Inschrijver om de beoordelaars uit te leggen welke keuzes zijn gemaakt, en te overtuigen 
+dat die keuzes juist zijn. 
+ 
+Let op: de Inschrijver wordt gevraagd in de Inschrijving concreet en ondubbelzinnig te beschrijven wat hij aanbiedt 
+(dus niet: ‘we kunnen...’ of ‘we doen mogelijk...’, maar: ‘we zullen...’ of ‘we doen...’). Onduidelijkheden in de 
+Inschrijving leiden in de regel tot een lagere beoordeling. 
+ 
+De genoemde beoordelingsaspecten die per Gunningscriterium zijn weergegeven in het vervolg van dit hoofdstuk 
+zijn geen nadere gunningscriteria of subgunningscriteria. Het betreffen aspecten waaraan de Inschrijver wordt 
+gevraagd ten minste aandacht te besteden bij het opstellen van de Inschrijving. De genoemde aspecten zijn 
+steeds in willekeurige volgorde van belang opgenomen.  
+6.6 Berekenen van de eindscores  
+De eindscore per Inschrijver wordt berekend door optelling van de gewogen scores op alle Gunningscriteria. De 
+Inschrijver met de hoogste eindscore komt in aanmerking voor gunning van de Opdracht. 
+ 
+Indien twee of meer Inschrijvers dezelfde hoogste eindscore halen, dan geldt het volgende: 
+ 
+• De Opdracht wordt gegund aan de Inschrijver met de hoogste niet-afgeronde eindscore.  
+• Ingeval ook de niet-afgeronde eindscores gelijk zijn, dan wordt de Opdracht gegund aan de Inschrijver met 
+de hoogste score op het Gunningscriterium G1. 
+• Indien ook op het Gunningscriterium G1 door die betreffende Inschrijvers een gelijke score is behaald, dan 
+wordt de Opdracht gegund aan de Inschrijver met de hoogste score op Gunningscriterium G2. 
+• Indien ook op het Gunningscriterium G2 door die betreffende Inschrijvers een gelijke score is behaald, dan 
+wordt de Opdracht gegund aan de Inschrijver met de hoogste score op Gunningscriterium G3. 
+• Indien ook op het door desbetreffende Inschrijvers een gelijke score is behaald, dan vindt loting plaats tussen 
+die Inschrijvers, om te bepalen aan wie de Opdracht wordt gegund. De loting wordt uitgevoerd door de 
+Aanbestedende dienst onder toezicht van een door de Aanbestedende dienst aangestelde onafhankelijke 
+expert of notaris. De betreffende Inschrijvers mogen aanwezig zijn bij de loting.  
+6.7 Gunningscriteria  
+Om de Inschrijving met de beste prijs-kwaliteitverhouding te kunnen bepalen, hanteert de Aanbestedende dienst 
+de onderstaande Gunningscriteria.  
+ 
+22 van 34 
+Gunningscriterium Weging Max. aantal punten 
+(ongewogen) Max. score (gewogen) 
+Kwaliteit 70%   
+G1 Plan van aanpak: uitvoering 
+leden- en bezoekersonderzoek 35% 100 35 
+G2 Visie op het uitvoeren van 
+verdiepende onderzoeken 25% 100 25 
+G3 
+Visie op toekomst: BiebPanel 
+(innoveren en verbeteren van 
+bestaande onderzoeken en het 
+ontwikkelen van nieuwe 
+onderzoeken) 
+10% 100 10 
+Prijs 30%   
+P1 Kosten onderzoek 20% 100 20 
+P2 Optionele diensten 10% 100 10 
+Totaal 100%  100 
+6.7.1 G1: Plan van aanpak: uitvoering leden- en bezoekersonderzoek 
+Doelstelling 
+Inschrijver is in staat het beschreven leden-en bezoekersonderzoek structureel op een kwalitatief hoogstaand 
+niveau uit te voeren.  
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe u van plan bent de leden- en bezoekersonderzoeken te gaan uitvoeren. In 
+ieder geval de volgende aspecten dienen aan de orde te komen: 
+• Beschrijf stapsgewijs hoe u de leden- en bezoekersonderzoeken gaat uitvoeren in overeenstemming met het 
+Programma van Eisen. 
+• Welke adviezen heeft u ten aanzien van de voorgeschreven aanpak?   
+• Beschrijf de wijze waarop u kwaliteitsborging organiseert en hoe u lessen uit het verleden meeneemt bij de 
+opzet en uitvoering van de onderzoeken? 
+• De samenstelling van het team dat betrokken is bij de uitvoering van de onderzoeken? Hoe u de continuïteit 
+en kwaliteit waarborgt binnen het team dat betrokken is bij deze opdracht en welke functies en expertises 
+hierbij worden ingezet? 
+• Op welke wijze worden onderzoeksresultaten verwerkt, geanalyseerd en welke software-oplossingen 
+hiervoor worden gebruikt? 
+• Op welke wijze rapportages worden opgeleverd en op welke wijze deze opgesteld worden? 
+ 
+Maximumaantal pagina’s 
+Het plan van aanpak is maximaal 3 pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de hoofdtekst (in 
+een leesbare lettergrootte, zoals minimaal 10 punt) inclusief tabellen, figuren en afbeeldingen maar exclusief het 
+voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt overschreden, leidt dit 
+niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan pagina’s niet in de 
+beoordeling betrekken. 
+ 
+23 van 34 
+Beoordelingskader G1: Plan van aanpak: uitvoering leden- en bezoekersonderzoek 
+Het plan van aanpak wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het 
+‘totaalbeeld’ van het plan van aanpak en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+- de volledigheid van de uitwerking op alle uitgevraagde aspecten (des te vollediger de uitwerking, des te 
+beter dit wordt beoordeeld); 
+- de mate waarin alle uitgevraagde aspecten concreet zijn uitgewerkt en onderbouwd (des te concreter de 
+uitwerking van alle uitgevraagde aspecten en onderbouwing, des te beter dit wordt beoordeeld); 
+- de mate waarin de visie aansluit bij de context en inhoud van de Opdracht en Opdrachtgever (des te beter 
+de visie aansluit bij de context en inhoud van de Opdracht en Opdrachtgever, des te beter dit wordt 
+beoordeeld); 
+- de mate waarin is aangetoond en overtuigend is toegelicht dat Inschrijver over voldoende kennis en 
+ervaring beschikt voor de uitvoering van de Opdracht (des te beter aangetoond en overtuigend wordt 
+toegelicht, des te beter dit wordt beoordeeld). 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd (zie ook ad (ii) in paragraaf 6.5.) 
+6.7.2 G2: Visie op het uitvoeren van verdiepende onderzoeken 
+ 
+Doelstelling 
+Opdrachtnemer dient tweemaal (2) per jaar een verdiepend onderzoek uit te voeren over een thema met een 
+bepaalde doelgroep. Dat kunnen heel specifieke doelgroepen zijn, inclusief een specifieke groep leden, maar 
+bijvoorbeeld ook de brede groep ‘niet-leden’. De thema’s en doelgroepen variëren per onderzoek en per jaar. De 
+thema’s en de doelgroepen worden door Opdrachtgever vastgesteld in samenspraak met de deelnemende 
+Bibliotheken. De Bibliotheken leveren input voor de onderzoeksvragen. 
+ 
+Voor de uitvoering van de verdiepende onderzoeken wordt geen onderzoeksmethode voorgeschreven. 
+Opdrachtgever en Opdrachtnemer stellen in samenwerking de methode(n) vast die het beste past/aansluit bij het 
+thema of de doelgroep van het betreffende onderzoek. Hierbij geldt dat Opdrachtnemer een voorstel dient te doen 
+(advies), waarna Opdrachtgever de definitieve keuze maakt. 
+ 
+Inschrijver toont aan een onderbouwde en relevante visie te hebben op het uitvoeren van verdiepende 
+onderzoeken. 
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf, in overeenstemming met het Programma van Eisen, zo concreet mogelijk uw visie op het uitvoeren van 
+de verdiepende onderzoeken en onderbouw deze visie. Ga in uw visie in ieder geval in op: 
+• Welke onderzoeksmethodes u kan inzetten (in de toekomst) voor het uitvoeren van de verdiepende 
+onderzoeken? Beargumenteer de meerwaarde van deze methodiek(en) en/of techniek(en) voor 
+BiebPanel en de deelnemende bibliotheken? Ga hierbij specifiek in op het bereiken van de relevante 
+doelgroepen.  
+• Beschrijf de wijze waarop u kwaliteitsborging organiseert en hoe u lessen uit het verleden meeneemt bij 
+de opzet en uitvoering van de onderzoeken. 
+• Op welke wijze worden onderzoeksresultaten verwerkt, geanalyseerd en welke software-oplossingen 
+hiervoor worden gebruikt. 
+• Op welke wijze rapportages worden opgeleverd en op welke wijze deze opgesteld worden. 
+ 
+Maximumaantal pagina’s 
+De uitwerking is maximaal 3 pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de hoofdtekst (in een 
+leesbare lettergrootte, zoals minimaal 10 punt) inclusief tabellen, figuren en afbeeldingen maar exclusief het 
+24 van 34 
+voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt overschreden, leidt dit 
+niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan pagina’s niet in de 
+beoordeling betrekken.  
+ 
+Beoordelingskader G2: Visie op het uitvoeren van de verdiepende onderzoeken 
+De uitwerking wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het ‘totaalbeeld’ 
+van de uitwerking en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+- de volledigheid van de uitwerking op alle uitgevraagde aspecten (des te vollediger de uitwerking, des te 
+beter dit wordt beoordeeld); 
+- de mate waarin alle uitgevraagde aspecten concreet zijn uitgewerkt en onderbouwd (des te concreter de 
+uitwerking van alle uitgevraagde aspecten en onderbouwing, des te beter dit wordt beoordeeld); 
+- de mate waarin de visie aansluit bij de context en inhoud van de Opdracht en Opdrachtgever (des te beter 
+de visie aansluit bij de context en inhoud van de Opdracht en Opdrachtgever, des te beter dit wordt 
+beoordeeld). 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd (zie ook ad (ii) in paragraaf 6.5.) 
+6.7.3 G3: Visie op toekomst: BiebPanel (innoveren en verbeteren van bestaande onderzoeken en het 
+ontwikkelen van nieuwe onderzoeken) 
+ 
+Doelstelling 
+Opdrachtgever wenst samen te werken met een leverancier die constant (mee)werkt aan het verbeteren / 
+innoveren van bestaande onderzoeken en het ontwikkelen van nieuwe onderzoeken. Inschrijver dient daarom 
+aan te tonen een onderbouwde en relevante visie te hebben op de toekomst van het BiebPanel en de 
+ontwikkeling en innovatie van onderzoek. 
+ 
+Vraagstelling 
+Beschrijf zo concreet mogelijk uw visie op de toekomst van het BiebPanel en onderbouw deze visie. Ga in uw 
+visie in ieder geval in op: 
+• Op welke wijze de bestaande onderzoeken geïnnoveerd, ontwikkeld en verbeterd kunnen worden? 
+• Welke nieuwe onderzoeken van toegevoegde waarde kunnen zijn voor BiebPanel en de deelnemende 
+bibliotheken en waarom?  
+• Welke aanbevelingen doet Inschrijver ten aanzien van ontwikkeling en innovatie van onderzoek? 
+ 
+Maximumaantal pagina’s 
+De uitwerking is maximaal 2 pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de hoofdtekst (in een 
+leesbare lettergrootte, zoals minimaal 10 punt) inclusief tabellen, figuren en afbeeldingen maar exclusief het 
+voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt overschreden, leidt dit 
+niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan pagina’s niet in de 
+beoordeling betrekken.  
+ 
+25 van 34 
+Beoordelingskader G3: Visie op toekomst: BiebPanel
+
+=== Document: bijlage a - programma van eisen biebpanel ===
+Programma van Eisen 
+BiebPanel 
+Ten behoeve van 
+Probiblio 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opgesteld door:   Stichting Probiblio 
+Versie:  1.0 
+Datum:   03-09-2021 
+Kenmerk:  325721 
+ 
+ 
+
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 2 van 10 
+ 
+Inhoudsopgave 
+1. Omschrijving van de opdracht .................................................................................... 3 
+ Jaarplanning voor Biebpanel ................................................................................ 3 
+ Lokaal online kwantitatief ledenonderzoek ............................................................. 3 
+ Bezoekersonderzoek: landelijk en lokaal ............................................................... 4 
+ Landelijk bezoekersonderzoek .............................................................................. 4 
+ Lokaal bezoekersonderzoek ................................................................................. 5 
+ Verdiepende onderzoeken ................................................................................... 6 
+ Optionele diensten .............................................................................................. 7 
+2. Eisen ....................................................................................................................... 8 
+Artikel 1. Eisen aan dienstverlening .................................................................................. 8 
+Artikel 2. Eisen aan in te zetten personeel ........................................................................ 8 
+Artikel 3. Eisen aan communicatie en evaluatie ................................................................. 9 
+Artikel 4. Eisen aan prijzen en facturatie .......................................................................... 10 
+ 
+  
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 3 van 10 
+ 
+1. Omschrijving van de opdracht 
+Probiblio helpt de bibliotheeksector in Noord- en Zuid-Holland bij het uitvoeren van hun taken. In 
+2009 is Probiblio gestart met het onderzoeksinstrument BiebPanel. BiebPanel voorziet 
+deelnemende bibliotheken van actuele informatie over klanten en andere doelgroepen. BiebPanel is 
+een groot en complex project, waarbij Probiblio optreedt als directe Opdrachtgever en 
+contractpartij voor Opdrachtnemer, maar niet de eindgebruiker is. De eindgebruikers zijn de 39 
+Bibliotheken in het eigen werkgebied van Probiblio, Noord- en Zuid-Holland, maar ook in de andere 
+provincies van Nederland met uitzondering van Noord-Brabant en Zeeland.  
+ 
+In 2022 omvat BiebPanel vijf (5) onderzoeken: 
+ 
+1. een lokaal online kwantitatief ledenonderzoek voor alle Bibliotheken onder de eigen 
+bibliotheekleden; 
+2. een lokaal online kwantitatief bezoekersonderzoek onder de eigen bezoekers, niet-leden 
+voor alle Bibliotheken die hiervan gebruik wensen te maken; 
+3. een landelijk online kwantitatief bezoekersonderzoek; 
+4. twee landelijke verdiepende onderzoeken. 
+ 
+Opdrachtnemer is verantwoordelijk voor de uitvoering van bovenstaande onderzoeken. Uitvoeren 
+van onderzoeken omvat minimaal, maar niet uitsluitend:  
+▪ het ondersteunen en adviseren van Opdrachtgever bij het opstellen van de vragenlijsten; 
+▪ de selectie van de geschikte onderzoekmethodes ten behoeve van de verdiepende 
+onderzoeken; 
+▪ het verwerken van ledenbestanden van de bibliotheken;  
+▪ de technische kant van de onderzoeken, waaronder, maar niet uitsluitend het 
+programmeren van de vragenlijst en het uitvoeren van de data-analyses; 
+▪ het uitvoeren van het veldwerk van de onderzoeken. Hierbij is de Opdrachtnemer zelf 
+verantwoordelijk voor (de inkoop van) in te zetten panel(s) of het gebruik van 
+ledenbestanden van de Bibliotheken;  
+▪ het maken van schriftelijke rapportages, tabellen en andere rapportagevormen zoals een 
+infographic van het ledenonderzoek en een videographic van het landelijke 
+bezoekersonderzoek. Opdrachtnemer voorziet Opdrachtgever per onderzoek van een 
+sjabloon rapportage per deelnemende Bibliotheek, waarin alle grafieken al zijn gevuld met 
+de lokale resultaten per deelnemende Bibliotheek. 
+ Jaarplanning voor Biebpanel 
+Opdrachtnemer dient jaarlijks een jaarplanning op te leveren voor de uit te voeren onderzoeken. 
+De jaarplanning dient uiterlijk voor 1 februari van ieder jaar te worden opgeleverd aan 
+Opdrachtgever. Werkzaamheden starten niet, voordat Opdrachtgever schriftelijk akkoord heeft 
+gegeven op de jaarplanning.  
+De jaarplanning bevat ten minste, maar niet uitsluitend: 
+• Start en einddatum per uit te voeren onderzoek, 
+• Een (beknopt) overzicht van mijlpalen per onderzoek met daarbij de weeknummers waarin 
+deze mijlpalen behaald dienen te worden, 
+• Een overzicht van betrokkenen van Opdrachtnemer en Opdrachtgever, inclusief een 
+overzicht van taken en verantwoordelijkheden.  
+ Lokaal online kwantitatief ledenonderzoek 
+Opdrachtnemer voert eenmaal per jaar een lokaal online kwantitatief ledenonderzoek per 
+Bibliotheek uit. Bij aanvang van de opdracht zijn er circa 39 deelnemende Bibliotheken. Het 
+onderzoek dient te worden uitgevoerd met gebruik van het totale ledenbestand per Bibliotheek. 
+Opdrachtnemer dient uit te gaan van standaard 250 respondenten (leden) per Bibliotheek, waarbij 
+het onderzoek inzicht dient te krijgen in de volledige breedte van de ledengroep. Opdrachtnemer 
+dient de mogelijkheid te bieden om meer respondenten toe te voegen tegen een vast tarief per 
+respondent. Naar verwachting zal het aantal respondenten per Bibliotheek niet hoger zijn dan 
+1.500 respondenten.  
+ 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 4 van 10 
+ 
+Het onderzoek bestaat uit één (1) basismodule en acht (8) verschillende keuzemodules. De 
+complete vragenlijst, basismodule en keuzemodules samen, bevat circa 50 vragen. Iedere 
+Bibliotheek selecteert, naar eigen inzicht en oordeel, aanvullend op de basis module, drie (3) 
+keuzemodules. Iedere module bevat enkele specifieke open en/of gesloten vragen. Per Bibliotheek 
+wordt een vragenlijst samengesteld van in totaal circa 25 vragen, bestaande uit de algemene 
+module en de drie (3) gekozen keuzemodules. De Bibliotheek kan per jaar een selectie maken van 
+in te zetten keuzemodules.  
+ 
+Opdrachtgever is verantwoordelijk voor de jaarlijkse vaststelling van de vragenlijst. Hierbij kan 
+Opdrachtnemer ervan uitgaan dat de vragenlijst jaarlijks grotendeels gelijk is.  
+ 
+Rapportage 
+Opdrachtnemer levert na afronding van het onderzoek per Bibliotheek een rapportage op. Dit 
+rapport wordt samen met de Opdrachtgever afgestemd waardoor er één algemeen sjabloon is; op 
+basis van dit sjabloon worden de lokale resultaten gevuld en worden de lokale rapporten door 
+Opdrachtnemer gemaakt. Normaliter is dit sjabloon circa 5 weken na afronding van het veldwerk 
+definitief (hierbij zijn zowel Opdrachtgever als Opdrachtnemer betrokken). Nadat dit definitieve 
+sjabloon is vastgesteld levert de Opdrachtnemer na circa 3 weken voor elke Bibliotheek een lokaal 
+rapport op met daarin de lokale resultaten in grafieken. Hierbij dient rekening te worden gehouden 
+met het feit dat elke bibliotheek 3 eigen modules kiest en de lokale rapporten dus verschillen ten 
+opzichte van elkaar. 
+De rapportage dient minimaal opgeleverd te worden in MS PowerPoint-format. In een rapportage is 
+minimaal opgenomen: 
+• De resultaten in grafieken van de gekozen onderwerpen afgezet tegen het landelijk niveau 
+(totaal BiebPanel).  
+• Een ruimte voor vakken waarin conclusies en subconclusies kunnen worden geschreven 
+door Opdrachtgever. 
+• Zaken zoals een inhoudsopgave, steekproefverantwoording ed. 
+• De powerpointrapportages dienen te worden vormgegeven in de huisstijl van BiebPanel. 
+Opdrachtgever verstrekt hiervoor een template. 
+ 
+Daarnaast levert Opdrachtnemer: 
+• Een tabellenboek, waarin de percentages en significanties zijn opgenomen waarin onder 
+andere de lokale uitkomsten worden afgezet tegen het totaal en worden minimaal 
+uitgesplitst naar vestiging, geslacht, leeftijd, gezinssamenstelling, opleiding. Dit 
+tabellenboek dient duidelijk vormgegeven te zijn zodat ook mensen zonder 
+onderzoekservaring (de contactpersonen bij de bibliotheken) de tabellen kunnen lezen. 
+• Een lijst van de open antwoorden duidelijk weergegeven per vraag, uitgesplitst naar 
+vestiging. 
+• Infographic met de belangrijkste resultaten op lokaal en totaal niveau. 
+ Bezoekersonderzoek: landelijk en lokaal 
+Bij de jaarlijkse bezoekersonderzoeken ligt de focus op bezoekers van Bibliotheken die geen lid 
+zijn. Het bezoekersonderzoek bestaat uit een landelijk online onderzoek en een lokaal 
+onlineonderzoek per Bibliotheek. Het landelijke onderzoek dient vast te worden uitgevoerd. Het 
+lokale onderzoek is facultatief. Gemiddeld maken jaarlijks twintig (15 á 20) Bibliotheken gebruik 
+van een lokaal bezoekersonderzoek. Aan dit aantal kan Opdrachtnemer geen rechten ontlenen. 
+ 
+De vragenlijsten per onderzoek hebben circa 15 vragen, waarvan de meeste gesloten vragen zijn 
+en een aantal open. Opdrachtgever is verantwoordelijk voor de jaarlijkse vaststelling van de te 
+hanteren vragenlijsten. Hierbij kan Opdrachtnemer ervan uitgaan dat de vragenlijst jaarlijks 
+grotendeels gelijk is en al ontwikkeld is. 
+ Landelijk bezoekersonderzoek 
+Opdrachtnemer voert eenmaal per jaar een landelijk online bezoekersonderzoek uit. 
+Opdrachtnemer is daarbij verantwoordelijk voor de steekproef; bijvoorbeeld door deze in te kopen 
+bij een gespecialiseerde online access panel provider. Opdrachtnemer dient uit te gaan van ca. 
+1.800 respondenten (bezoekers van de bibliotheek die geen lid zijn). Het landelijk onderzoek wordt 
+in samenwerking met Opdrachtgever uitgevoerd. Opdrachtgever is verantwoordelijk voor de 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 5 van 10 
+ 
+jaarlijkse vaststelling van de vragenlijst. Hierbij kan Opdrachtnemer ervan uitgaan dat de 
+vragenlijst jaarlijks grotendeels gelijk is en al ontwikkeld is. 
+ 
+Rapportage 
+Opdrachtnemer levert na afronding van het onderzoek één rapportage op voor het volledige 
+landelijke onderzoek. De rapportage dient minimaal opgeleverd te worden in MS PowerPoint-
+format. In een rapportage is minimaal opgenomen: 
+• De resultaten van de gekozen onderwerpen. 
+• Een ruimte voor vakken waarin conclusies en subconclusies kunnen worden geschreven 
+door Opdrachtgever. 
+• Zaken zoals een inhoudsopgave, steekproefverantwoording ed. 
+• De powerpointrapportage dient te worden vormgegeven in de huisstijl van BiebPanel. 
+Opdrachtgever verstrekt hiervoor een template. 
+ 
+Daarnaast levert Opdrachtnemer: 
+• Een tabellenboek, waarin de percentages en significanties zijn opgenomen op basis van 
+onder andere bovengenoemde uitsplitsingen. 
+• Een lijst van de open antwoorden. 
+• Een videographic. 
+ 
+Opdrachtnemer dient dus, aanvullend op bovenstaande schriftelijke rapportages, een 
+aansprekende korte videographic met relevante resultaten op te leveren. De videographic dient te 
+worden vormgegeven in de huisstijl van BiebPanel. Opdrachtgever verstrekt hiervoor de benodigde 
+gegevens. 
+ Lokaal bezoekersonderzoek 
+Opdrachtnemer voert eenmaal per jaar een lokaal online bezoekersonderzoek uit. Deelname door 
+Bibliotheken is facultatief.  
+ 
+Deelnemende Bibliotheken coördineren zelf het lokale onderzoek in de eigen bibliothe(e)k(en) en 
+maken hierbij gebruik van de online tool van Opdrachtnemer. Bibliotheken ontvangen 
+wervingsmateriaal van Opdrachtgever. Opdrachtnemer kan worden verzocht hieraan per onderzoek 
+kleine aanpassingen te doen. De vragenlijst is hetzelfde als bij het landelijke online 
+bezoekersonderzoek. Opdrachtnemer dient uit te gaan van maximaal 100 respondenten 
+(bezoekers) per Bibliotheek. Opdrachtnemer dient de mogelijkheid te bieden om meer 
+respondenten toe te voegen tegen een vast tarief per respondent. 
+ 
+Opdrachtnemer is, naast de vaste dienstverlening, verantwoordelijk voor: 
+▪ Opstellen (dan wel aanpassen/actualiseren van bestaand wervingsmateriaal) en aanleveren 
+van wervingsmateriaal, waaronder maar niet uitsluitend voorbeeldteksten voor plaatsing in 
+nieuwsbrief, sociale media, etc.  
+ 
+Rapportage 
+Opdrachtnemer levert na afronding van het onderzoek per deelnemende Bibliotheek een 
+rapportage op. Dit rapport wordt samen met de Opdrachtgever afgestemd, waardoor er één 
+algemeen sjabloon is. Op basis van dit sjabloon worden de lokale resultaten gevuld en worden de 
+lokale rapporten door Opdrachtnemer gemaakt. Normaliter is dit sjabloon circa 4 weken na 
+afronding van het veldwerk definitief (hierbij zijn zowel Opdrachtgever als Opdrachtnemer 
+betrokken). Nadat dit definitieve sjabloon is vastgesteld levert de Opdrachtnemer na circa 3 weken 
+voor elke bibliotheek een lokaal rapport op met daarin de lokale resultaten in grafieken.  
+De rapportage dient minimaal opgeleverd te worden in MS PowerPoint-format. In een rapportage is 
+minimaal opgenomen: 
+• De resultaten in grafieken van de gekozen onderwerpen afgezet tegen het landelijk niveau 
+(totaal BiebPanel).  
+• Een ruimte voor vakken waarin conclusies en subconclusies kunnen worden geschreven 
+door Opdrachtgever. 
+• Zaken zoals een inhoudsopgave, steekproefverantwoording ed. 
+• De powerpointrapportages dienen te worden vormgegeven in de huisstijl van BiebPanel. 
+Opdrachtgever verstrekt hiervoor een template. 
+ 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 6 van 10 
+ 
+Daarnaast levert Opdrachtnemer: 
+• Een tabellenboek, waarin de percentages en significanties zijn opgenomen waarin onder 
+andere de lokale uitkomsten worden afgezet tegen het totaal en worden minimaal 
+uitgesplitst naar vestiging, geslacht, leeftijd, gezinssamenstelling, opleiding. Dit 
+tabellenboek dient duidelijk vormgegeven te zijn zodat ook mensen zonder 
+onderzoekservaring (de contactpersonen bij de bibliotheken) de tabellen kunnen lezen. 
+• Een lijst van de open antwoorden duidelijk weergegeven per vraag. 
+• Een opgemaakte versie van de uiteindelijke vragenlijst. 
+ 
+De rapportage staat los van de landelijke rapportage, de uitkomsten worden niet samengevoegd. 
+ Verdiepende onderzoeken  
+Opdrachtnemer voert tweemaal (2) per jaar een verdiepend onderzoek uit over een thema met een 
+bepaalde doelgroep. Dat kunnen heel specifieke doelgroepen zijn, inclusief een specifieke groep 
+leden, maar bijvoorbeeld ook de brede groep ‘niet-leden’. De thema’s en doelgroepen variëren per 
+onderzoek en per jaar. De thema’s en de doelgroepen worden door Opdrachtgever vastgesteld in 
+samenspraak met de deelnemende Bibliotheken. De Bibliotheken leveren input voor de 
+onderzoeksvragen. 
+ 
+Voor de uitvoering van de verdiepende onderzoeken wordt geen onderzoeksmethode 
+voorgeschreven. Opdrachtgever en Opdrachtnemer stellen in samenwerking de methode(n) vast 
+die het beste past/aansluit bij het thema of de doelgroep van het betreffende onderzoek. Dat kan 
+een regulier online kwantitatief onderzoek zijn maar bijvoorbeeld ook een online research 
+community of een kwalitatief onderzoek. Hierbij geldt dat Opdrachtnemer een voorstel dient te 
+doen (advies), waarna Opdrachtgever de definitieve keuze maakt.  
+ 
+Hierna enkele voorbeelden van onderzoeksmethodes: 
+ 
+• Online kwantitatief onderzoek; 
+• Online kwalitatief onderzoek; 
+• Online research community; 
+• Face to face kwalitatief onderzoek; 
+• Social media research. 
+ 
+Opdrachtnemer is verantwoordelijk voor: 
+• Beknopt voorstel voor de opzet van onderzoeken (plan van aanpak); 
+• In samenwerking met Opdrachtgever afstemmen van de leidraad voor de ‘activiteiten’ die 
+het beste passen/aansluiten bij het thema of de doelgroep van het betreffende onderzoek.  
+• In samenwerking met Opdrachtgever opstellen van onderzoeksvragen/vragenlijsten. 
+• Zorgen voor de steekproefbron (bijvoorbeeld door inkoop panel). 
+• De technische kant van de onderzoeken, waaronder, maar niet uitsluitend het 
+programmeren van de vragenlijst en het uitvoeren van de data-analyses. 
+• Het uitvoeren van het veldwerk van de onderzoeken. 
+• Het maken van schriftelijke rapportages, tabellen en andere rapportagevormen zoals  
+infographic en/of videographic. 
+ 
+Rapportage 
+Opdrachtnemer levert na afronding van het onderzoek een rapportage op. De rapportage dient 
+minimaal opgeleverd te worden in MS PowerPoint-format. In een rapportage is, afhankelijk van de 
+gehanteerde methode, minimaal opgenomen: 
+▪ Een visuele weergave van de resultaten van het onderzoek, zodat inzichten snel en 
+makkelijke duidelijk worden. 
+▪ Een onderzoeksverantwoording. 
+▪ De inzichten en conclusies op totaalniveau worden teruggekoppeld en geïllustreerd met 
+quotes.  
+▪ In geval van kwantitatief onderzoek: een overzicht van tabellen waarin de percentages en 
+significanties zijn opgenomen. In de tabellen zijn uitsplitsingen van de resultaten 
+opgenomen, zoals naar leeftijd, opleidingsniveau en geslacht, en ook naar bijvoorbeeld 
+stedelijkheid en type bibliotheek. 
+▪ Een lijst van de open antwoorden.  
+▪ De powerpointrapportages dienen te worden vormgegeven in de huisstijl van BiebPanel. 
+Opdrachtgever verstrekt hiervoor een template. 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 7 van 10 
+ 
+ Optionele diensten 
+Opdrachtnemer dient instaat te zijn onderstaande optionele diensten te kunnen leveren. Deze 
+optionele diensten zijn geen vast onderdeel van de Dienstverlening. Opdrachtgever speelt hiermee 
+in op de wensen van de Bibliotheken om naar behoefte extra diensten te vragen. 
+1. Inzet senior onderzoeker:  
+Uurtarief voor inzet van een senior onderzoeker buiten vooraf overeengekomen 
+dienstverlening; 
+ 
+2. Inzet medior onderzoeker:  
+Uurtarief voor inzet van een medior onderzoeker buiten vooraf overeengekomen 
+dienstverlening; 
+ 
+3. Inzet junior onderzoeker:  
+Uurtarief voor inzet van een junior onderzoeker buiten vooraf overeengekomen 
+dienstverlening; 
+ 
+4. Lokale infographic per onderzoek:  
+Vast tarief voor één extra infographic per onderzoek; betreft een lokale infographic voor 
+een afzonderlijke bibliotheek, met de resultaten van de eigen bibliotheek op basis van de 
+algemene infographic (van het ledenonderzoek); 
+ 
+5. Extra vraag in vragenlijst per onderzoek:  
+Vast tarief voor één extra vraag in vragenlijst per onderzoek; betreft een extra vraag voor 
+een afzonderlijke bibliotheek; deze vraag wordt alleen aan de leden van de betreffende 
+bibliotheek gesteld en ook opgenomen in de tabellen en PowerPoint rapportage van de 
+betreffende bibliotheek (geldt voor het ledenonderzoek en het lokale bezoekersonderzoek); 
+ 
+6. Extra ledenbestand per onderzoek:  
+Vast tarief voor het inladen verwerken van een aanvullend/nieuw ledenbestand; betreft een 
+nieuw of aanvullend ledenbestand dat de bibliotheek aanlevert voorafgaand of tijdens de 
+uitvoering van het veldwerk van het ledenonderzoek, bijvoorbeeld als de respons 
+achterblijft. 
+ 
+7. Extra respondent per onderzoek:  
+Vast tarief per extra respondent per onderzoek. 
+  
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 8 van 10 
+ 
+2. Eisen 
+Artikel 1. Eisen aan dienstverlening  
+Nummer Omschrijving 
+E1.1  Opdrachtnemer dient flexibel te kunnen opschalen/ afschalen indien behoefte van 
+opdrachtgever wijzigt. Dit wordt jaarlijks afgestemd.  
+E1.2  De opdrachtgever wenst één contractpartij voor de levering van expertise en 
+technische infrastructuur voor alle onderzoeken binnen BiebPanel. Opdrachtnemer is 
+zelf verantwoordelijk voor de aansturing van eventuele derden, indien bijvoorbeeld 
+panels extern worden ingekocht. Opdrachtnemer is en blijft te allen tijde 
+verantwoordelijk en aansprakelijk voor de uitvoering van dienstverlening aan 
+opdrachtgever.  
+E1.3  De opdrachtnemer moet kunnen meedenken, advies geven en proactief inspringen op 
+de behoeften van de opdrachtgever, zodat Opdrachtgever aan Bibliotheken steeds de 
+meest passende onderzoeken kan aanbieden. Zowel tussentijds als bij afronden 
+gevraagd en ongevraagd adviseren over de uitgevoerde, lopende onderzoeken of 
+geplande onderzoeken, toe te passen methoden en technieken (dat laatste vooral bij 
+de verdiepende onderzoeken). 
+E1.4  Opdrachtnemer levert alle rapportages op in goed leesbare documenten welke 
+geschikt zijn voor gebruikers zonder onderzoek achtergrond. Daarnaast dienen de 
+documenten op een aantrekkelijke manier vormgegeven te zijn. En beschikken over 
+expertise over nieuwe vormen van rapportage waaronder videographics. 
+E1.5  Opdrachtnemer dient flexibel te zijn, qua planning, capaciteit en extra verzoeken, en 
+er op bedacht zijn dat er de nodige uren in projectmanagement gaan zitten. 
+E1.6  Opdrachtnemer dient geautomatiseerde PowerPoint rapportages en tabellensets op te 
+kunnen leveren. Met geautomatiseerde rapportages bedoelt de opdrachtgever 
+rapporten die automatisch gevuld worden met data vanuit een extern (dat wil zeggen 
+ander bestandstype) bronbestand.  
+E1.7  Opdrachtnemer dient te beschikken (of mogelijkheden hebben tot uitbesteding) over 
+meerdere onderzoekexpertises en methoden/technieken.  
+ 
+Artikel 2. Eisen aan in te zetten personeel 
+Nummer Omschrijving 
+E2.1  
+E2.1  
+Opdrachtnemer beschikt over een dedicated en enthousiast onderzoeksteam en 
+voldoende achtervang. Het onderzoeksteam (en achtervang) bestaat uit minimaal 2 
+onderzoekers die onder leiding van een senior onderzoeker werken. De senior 
+onderzoeker is nadrukkelijk betrokken bij de onderzoeken.  
+E2.2  Opdrachtnemer moet minimaal in staat zijn de volgende onderzoekexpertises en 
+technieken toe te passen: grootschalig online kwantitatief onderzoek, analyseren van 
+data (zowel kwantitatieve als kwalitatieve data), geautomatiseerd maken van 
+grafieken en tabellen met significanties. 
+E2.3  Opdrachtnemer moet projectmatig kunnen werken en helder kunnen communiceren. 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 9 van 10 
+ 
+Artikel 3. Eisen aan communicatie en evaluatie 
+Nummer Omschrijving 
+E3.1  Opdrachtnemer benoemt voor Opdrachtgever een vaste accountmanager met een 
+vaste vervanger. De accountmanager en de vaste vervanger zijn op de hoogte van de 
+in de overeenkomst vastgelegde voorwaarden. 
+E3.2  Zowel de vaste accountmanager en de vaste vervangers als het onderzoeksteam 
+beheersen de Nederlandse taal in woord en geschrift.  
+E3.3  De accountmanager of vaste vervanger is in ieder geval telefonisch bereikbaar tussen 
+08:30 en 17:00 uur op werkdagen en reageert binnen één (1) werkdag op e-mail 
+en/of andere (digitale) berichten. 
+E3.4  Opdrachtnemer evalueert minimaal tweemaal per jaar de Dienstverlening met 
+Opdrachtgever. Tijdens dit overleg wordt de samenwerking en de dienstverlening 
+geëvalueerd aan de hand van de vastgestelde Kritische Prestatie Indicatoren. Dit 
+overleg vindt plaats op locatie van Opdrachtgever.  
+E3.5  Opdrachtnemer dient de opdrachtgever maandelijks, of vaker indien hiervoor 
+aanleiding is, updates te geven over de voortgang van de onderzoeken met 
+betrekking tot onder andere de respons; bijvoorbeeld door het aanbieden van 
+regelmatige mails of toegang tot een dashboard. 
+E3.6  Opdrachtnemer dient samen met de opdrachtgever periodieke project overleggen in 
+te plannen over lopende zaken.  
+E3.7 Opdrachtnemer dient te beschikken over een goede en uitvoerbare 
+klachtenprocedure. Klachten m.b.t. de dienstverlening van Opdrachtnemer dienen 
+door Opdrachtgever telefonisch, schriftelijk en per e-mail ingediend te kunnen worden 
+bij een vaste contactpersoon. Klachten dienen binnen één werkdag, vanaf het 
+moment van binnenkomst, volledig afgehandeld te zijn. 
+ 
+ 
+Programma van Eisen behorende bij de Europese aanbesteding BiebPanel  Pagina 10 van 10 
+ 
+Artikel 4. Eisen aan prijzen en facturatie 
+Nummer Omschrijving 
+E4.1  Opdrachtnemer dient akkoord te gaan met de Algemene Inkoopvoorwaarden van 
+Opdrachtgever. Opdrachtgever hanteert een betalingstermijn van 30 dagen na 
+factuurdatum, mits de factuur onbetwist is.  
+E4.2  Facturatie vindt maandelijks achteraf plaats. Op de factuur dient vermeld te worden: 
+Stichting Probiblio 
+t.a.v. crediteurenadministratie 
+Postbus 485 
+2130Al Hoofddorp 
+ 
+De factuur omvat minimaal de volgende informatie: 
+• Factuurdatum; 
+• Overeenkomstnummer; 
+• Ordernummer 
+• Kostenplaats; 
+• Specificatie van de prijs; 
+• Btw-bedrag en percentage van btw; 
+• Totaalbedrag inclusief btw.  
+ 
+Facturen dienen verzonden te worden aan: crediteuren@probiblio.nl 
+E4.3  Alle prijzen dienen in euro’s exclusief btw en inclusief alle bijkomende kosten te 
+worden opgegeven. Onder alle overige kosten wordt o.a. verstaan: 
+• Alle voorbereidings-, voorlichtings-, communicatie- en inrichtingskosten; 
+• Alle uitvoeringskosten van de Opdracht; 
+• Alle uitgangspunten, voorwaarden en eisen uit het Programma van Eisen; 
+• Overheadkosten, zoals kantoorkosten, loonkosten en verzekeringskosten; 
+• Alle andere kosten om de volledige Opdracht (inclusief het voldoen aan de 
+gestelde eisen en voorwaarden) uit te voeren. 
+ 
+Naast de gevraagde tarieven kan Opdrachtnemer op geen enkele andere wijze kosten 
+in rekening brengen. 
+E4.4  Maximaal éénmaal per jaar, voor het eerst op 1 januari 2023 kunnen de prijzen en 
+tarieven worden geïndexeerd. De prijzen en tarieven worden geïndexeerd met een 
+percentage te berekenen op basis van het Consumentenprijsindex (CPI) van het CBS. 
+E4.5  Eenmaal (1) per jaar, aan het begin van het nieuwe onderzoekjaar, stelt 
+Opdrachtgever de onderzoekbehoefte vast voor het komende jaar. Op basis van de 
+onderzoekbehoefte wordt de invulling van BiebPanel, waaronder maar niet uitsluitend 
+het aantal en de volgorde van de uit te voeren onderzoeken, methodieken en 
+onderdelen, door Opdrachtgever vastgesteld.  
+Opdrachtnemer dient op basis van eventueel gewijzigde behoeften een nadere offerte 
+op te maken. Een nadere offerte bevat minimaal: 
+▪ een omschrijving van de gevraagde onderzoeken, inclusief toe te passen 
+methode; 
+▪ een overzicht van kosten per onderzoek. 
+ 
+De aangeboden tarieven in een nadere offerte dienen overeen te komen met de 
+tarieven aangeboden als onderdeel van de Raamovereenkomst.
+
+=== Document: nota van inlichtingen 1_biebpanel ===
+SIGSYN 20210827ED1.0   
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 22-09-2021 
+Versie: 1.0 
+Kenmerk: 325721 
+  
+Nota van inlichtingen 
+ 
+Stichting Probiblio 
+ 
+BiebPanel 
+ 
+Europese aanbesteding  
+ 
+
+2 van 4 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen maakt onderdeel uit van het Beschrijvend document en prevaleert boven het 
+Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Deze Nota van inlichtingen bevat de antwoorden en reacties van de Aanbestedende dienst op vragen en 
+opmerkingen van Geïnteresseerden. 
+ 
+  
+3 van 4 
+ 
+Vragen en opmerkingen van Geïnteresseerden en antwoorden en reacties van de Aanbestedende dienst 
+ 
+Nr. Betreft par blz. Vraag Antwoord 
+1  Beschrijvend 
+Document 
+4.4.3 18 De Inschrijver beschikt over een beschreven kwaliteitssysteem. Kunt 
+u aangeven waaraan een gelijkwaardig kwaliteitszorgsysteem 
+hebben? Kunt u aangeven waaraan een gelijkwaardig 
+kwaliteitssysteem voor u moet voldoen? En hoe wij moeten aantonen 
+een gelijkwaardig systeem te hebben (zonder ISO-certificaat)? 
+Zoals omschreven in het beschrijvend document paragraaf 4.4.3 
+dient Inschrijver aan te tonen te beschikken over een 
+kwaliteitsmanagementsysteem. Door de Inschrijver wordt een 
+beschreven kwaliteitssysteem gebruikt. Bewijs hiervan kan worden 
+geleverd door het beschikken over certificering zoals bijvoorbeeld 
+ISO 9001, danwel op andere wijze waarmee de Inschrijver in staat is 
+aan te tonen dat door hem op systematische wijze (dat wil zeggen 
+volgens een cyclus van plan-do-check-act) binnen de organisatie aan 
+de kwaliteit van de bedrijfsprocessen wordt gewerkt. 
+2  Bijlage B - Concept 
+van de 
+Overeenkomst 
+Art. 
+2.4 
+3 De opzegtermijn van 1 maand is zeer krap om dit correct af te sluiten. 
+3 maanden lijkt ons realistischer. Is opdrachtgever bereid om deze 
+termijn te verlengen naar 3 maanden? 
+Dit is niet akkoord. De reden dat artikel 2.4 is opgenomen is dat 
+Probiblio flexibiliteit wil behouden voor het geval dat meerdere 
+Bibliotheken hun deelname aan BiebPanel opzeggen of indien 
+sprake is van andere bedrijfseconomische redenen waardoor 
+BiebPanel niet meer rendabel is.  
+3  Bijlage C - 
+Algemene 
+inkoopvoorwaarden 
+Art. 
+18.3 
+10 De hoogte van de boete is zeer fors in relatie tot de (verwachte) 
+opdrachtsom. Staat opdrachtgever ervoor open om dit meer in relatie 
+tot elkaar te brengen, bijv. een boete van 20.000 euro per 
+gebeurtenis?  
+Dit is niet akkoord. De boete uit artikel 18.3 is gekoppeld aan 
+schending van geheimhouding. Indien Opdrachtnemer informatie 
+en/of gegevens die hij in het kader van de Overeenkomst verkrijgt 
+bekendmaakt aan Derden zonder schriftelijke toestemming - met 
+uitzondering van derden die door hem bij uitvoering van de 
+Overeenkomst worden ingeschakeld - acht Opdrachtgever het 
+redelijk dat een boete zoals vermeld in artikel 18.3 wordt verbeurd. 
+Overigens gaat Opdrachtnemer er niet van uit dat dit artikel 
+geschonden zal worden. 
+4  Bijlage C - 
+Algemene 
+inkoopvoorwaarden 
+Art. 22 11 Wij verzoeken opdrachtgever de aansprakelijkheid te beperken tot de 
+directe schade conform de volgende clausule. Is opdrachtgever 
+daarmee akkoord? Iedere aansprakelijkheid van Leverancier voor 
+eventuele door Probiblio geleden gevolgschade is uitgesloten. Onder 
+gevolgschade verstaan wij onder meer gederfde inkomsten, gederfde 
+winst, verminderde goodwill en/of misgelopen besparing.  
+Dit is niet akkoord. Leverancier is alleen aansprakelijk voor schade, 
+die als gevolg van of in verband met de uitvoering van de 
+Overeenkomst, door Probiblio of derden wordt geleden als gevolg 
+van handelen of nalaten van Leverancier, zijn personeel of 
+betrokkenen. Opdrachtgever acht het redelijk dat Opdrachtnemer 
+aansprakelijk is voor schade die wordt geleden door Probiblio of 
+derden als gevolg van handelen of nalaten van Leverancier, zijn 
+personeel of betrokkenen. 
+4 van 4 
+ 
+5  Bijlage C - 
+Algemene 
+inkoopvoorwaarden 
+Art. 22 11 Wij verzoeken opdrachtgever de hoogte van de aansprakelijkheid te 
+beperken tot onderstaande clausule. Is opdrachtgever daarmee 
+akkoord? • Als de schade valt onder de dekking van de beroeps- en 
+bedrijfsaansprakelijkheidsverzekering of cyber en data risks 
+verzekering van Leverancier, dan is de aansprakelijkheid beperkt tot 
+het bedrag dat in dat geval wordt uitgekeerd door de 
+aansprakelijkheidsverzekering, te vermeerderen met het 
+toepasselijke eigen risico. 
+• Als de schade niet valt onder de dekking van de 
+aansprakelijkheidsverzekering, dan is de aansprakelijkheid beperkt 
+tot 300% van het bedrag op jaarbasis van de vergoeding die 
+Leverancier voor haar werkzaamheden in het kader van de opdracht 
+heeft ontvangen.  
+Wij zijn op dit moment niet akkoord. Kunt u in de volgende 
+vragenronde verduidelijken welke schade niet onder de dekking van 
+de aansprakelijkheidsverzekering valt? Wanneer is hier sprake van? 
+6  Programma van 
+Eisen 
+1.2 4 Opdrachtgever vraagt om een infographic met belangrijkste 
+resultaten op lokaal en totaal niveau. Bedoelt u hiermee dat er per 
+bibliotheek een eigen infographic moet worden aangeleverd? Of gaat 
+het om 1 totaalinfographic met daarin een aantal lokale resultaten 
+uitgelicht? 
+Het gaat om 1 totaalinfographic waarin resultaten op totaalniveau 
+verwerkt zijn. Conform optionele diensten zoals vermeld in eis 1.7 
+kunnen Bibliotheken tegen betaling een infographic (waarvan de 
+opzet hetzelfde is als de totaal infographic) laten maken met lokale 
+resultaten.  
+7  Programma van 
+Eisen 
+1.5 5 Bibliotheken ontvangen wervingsmateriaal van Opdrachtgever. 
+Opdrachtnemer kan worden verzocht hieraan per onderzoek kleine 
+aanpassingen te doen. Kunnen we er vanuit gaan dat " per 
+onderzoek"  in dit geval per jaar betekent en niet per deelnemende 
+bibliotheek? Oftewel, alle bibliotheken ontvangen hetzelfde 
+wervingsmatieraal. Hieraan kunnen we per jaar kleine aanpassignen 
+doen. 
+Dat klopt, alle bibliotheken ontvangen hetzelfde wervingsmateriaal. 
+Daar ligt nu al een basis voor, maar we willen wel jaarlijks kleine 
+aanpassingen kunnen doen (zowel tekstueel (bv einddatum van het 
+onderzoek), maar ook het fotomateriaal ed.). 
+8  Programma van 
+Eisen 
+1.5 5 Kunt u specificeren welke wervingsmaterialen u precies van 
+opdrachtnemer verwacht te krijgen? 
+Het wervingsmateriaal bestaat nu uit een flyer (2 verschillende 
+versies) en social media posts (3 verschillende versies); het verschil 
+in versies zit hem nu met name in de achtergrondfoto. We staan 
+open voor suggesties voor ander/nieuw wervingsmateriaal.
+
+=== Document: nota van inlichtingen 2_biebpanel ===
+SIGSYN 20210827ED1.0   
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 06-10-2021 
+Versie: 1.0 
+Kenmerk: 325721 
+  
+Nota van inlichtingen 2 
+ 
+Stichting Probiblio 
+ 
+BiebPanel 
+ 
+Europese aanbesteding  
+ 
+
+2 van 5 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen 2 maakt onderdeel uit van het Beschrijvend document en prevaleert boven het 
+Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Deze Nota van inlichtingen bevat de antwoorden en reacties van de Aanbestedende dienst op vragen en 
+opmerkingen van Geïnteresseerden. 
+ 
+  
+3 van 5 
+ 
+Vragen en opmerkingen van Geïnteresseerden en antwoorden en reacties van de Aanbestedende dienst 
+ 
+Nr. Betreft par blz. Vraag Antwoord 
+1  EA BiebPanel - 
+Beschrijvend 
+document 
+6.7.3 24 
+Opdrachtgever vraagt welke nieuwe onderzoeken van toegevoegde 
+waarde kunnen zijn voor BiebPanel en de deelnemende bibliotheken. 
+Worden hiermee nieuwe onderzoeksthema's of nieuwe 
+onderzoeksmethoden bedoeld? 
+In het huidige BiebPanel zijn verschillende soorten onderzoeken 
+opgenomen (zoals ledenonderzoek, bezoekersonderzoek en 
+verdiepend onderzoek). Opdrachtgever vraagt hier Aanbieders om uit 
+te werken/ toe te lichten of en zo ja welke andere soorten onderzoek 
+waardevol kunnen zijn voor BiebPanel en de deelnemende 
+bibliotheken. Opdrachtgever bedoelt niet nieuwe 
+onderzoeksmethoden; dat past meer bij de eerste bullet: ''Op welke 
+wijze de bestaande onderzoeken geïnnoveerd, ontwikkeld en 
+verbeterd kunnen worden?'' 
+2  EA BiebPanel - 
+Beschrijvend 
+document 
+6.7.3. 24 Opdrachtgever vraagt welke aanbevelingen Inschrijver doet ten 
+aanzien van ontwikkeling en innovatie van onderzoek. Bedoelt u 
+hiermee het onderzoeksveld in het algemeen of toegespitst op de 
+onderzoeken van de opdrachtgever? 
+Naar oordeel van Opdrachtgever kan beide het geval zijn. 
+3  Beschrijvend 
+document 
+    Wij missen documenten die ons meer informatie geven over hoe het 
+onderzoek precies is uitgevoerd. Wij denken dan aan o.a. 
+onderzoeksverantwoordingen, rapportages en andere relevante 
+documenten. Partijen die hebben deelgenomen aan de 
+marktconsultatie en de partij die het onderzoek tot dusverre heeft 
+uitgevoerd (incl. pilot), hebben hiermee in onze ogen een 
+ongeoorloofde kennisvoorsprong. Kunt u dit alsnog delen, zodat wij 
+dit kunnen bestuderen en ook de lessen uit het verleden mee te 
+nemen in ons plan van aanpak en voorstellen voor verbetering, zoals 
+u ook van ons vraagt bij gunningscriterium 1 (G1, paragraaf 6.7.1)? 
+Opdrachtgever heeft bij de voorbereiding van deze aanbesteding alle 
+informatie, inclusief lessen, welke zijn voortgekomen uit de 
+markconsultatie en pilot verwerkt in de aanbestedingsstukken. Dit 
+heeft geleid tot de gewenste opbouw van BiebPanel zoals 
+weergegeven in het programma van eisen. Hierdoor is er naar 
+oordeel van Opdrachtgever een gelijk speelveld gecreëerd. 
+Opdrachtgever zal geen nadere documentatie verstrekken. 
+4  Beschrijvend 
+document 
+    U waarschuwt inschrijvers in het bestek voor het feit dat dit geen 
+standaard project is, flexibiliteit gewenst is en in eis E1.5 zien wij ook 
+dat er ‘de nodige uren’ in projectmanagement gaan zitten. Graag 
+ontvangen wij een specifiekere toelichting op wat ons in dit opzicht te 
+wachten staat, om hier een redelijke inschatting van te kunnen 
+maken. Over welk deel van de totale ureninzet gaat dit bijvoorbeeld 
+op basis van de afgelopen jaren? 
+Zoals aangegeven in paragaaf 1.1 van het beschrijvend document 
+maken 40 Bibliotheken gebruik van BiebPanel. Daarbij geldt dat het 
+onderzoeksbureau zich ervan bewust moet zijn dat de eindgebruikers 
+soms extra verzoeken hebben die tot extra werk kunnen leiden 
+(optionele diensten). Het bureau moet dus flexibel zijn, ook qua 
+planning, en er op bedacht zijn dat er de nodige uren in 
+projectmanagement gaan zitten. Daarnaast is het van belang dat het 
+bureau goed blijft communiceren over wat er precies verwacht wordt 
+4 van 5 
+ 
+in het project.  
+ 
+Dit betekent dat de uitvoer van onderzoeken, zoals gespecificeerd in 
+hoofdstuk 1 van het programma van eisen de nodige coördinerende 
+werkzaamheden met zich meebrengen. Het is aan de Inschrijver of, 
+rekening houdend met de kaders zoals aangegeven in het 
+programma van eisen, een inschatting te maken van de 
+coördinerende (projectmanagement) uren welke hiertoe gemaakt 
+dienen te worden.  
+5  Programma van 
+eisen 
+    Hoe komt het dat er na afronding van het veldwerk 5 (!) weken nodig 
+zijn om het rapportagesjabloon vast te stellen? 
+Opdrachtgever neemt aan dat u verwijst naar het lokale 
+ledenonderzoek. Na het veldwerk worden de tabellen gemaakt, dient 
+een PP-sjabloon met grafieken te worden gemaakt door 
+Opdrachtnemer en dienen de sjablonen door Opdrachtgever te 
+worden voorzien van begeleidende teksten en conclusies. Op basis 
+van het gevulde sjabloon dienen alle lokale PP rapporten door 
+Opdrachtnemer te worden gemaakt. De periode van 5 weken is een 
+indicatie op basis van ervaring. Als dit in de praktijk sneller kan, dan 
+staat Opdrachtgever dit toe. 
+6  Programma van 
+eisen 
+    Kunt u de onderzoeksverantwoording van de afgelopen meting met 
+ons delen? Dit om een goed beeld te krijgen van de uitgangspunten 
+en ervaringen. 
+De onderzoeksverantwoording zal niet worden gedeeld. Naar oordeel 
+van Opdrachtgever is dit in dit stadium niet relevant. 
+7  Programma van 
+eisen 
+    Kunt u de op te leveren zaken van de afgelopen meting met ons 
+delen? Dit om een goede inschatting te kunnen maken van de uren 
+die hierin geïnvesteerd moeten worden. 
+De op te leveren zaken zullen niet worden gedeeld. Naar oordeel van 
+Opdrachtgever is dit in dit stadium niet relevant. 
+8  Programma van 
+eisen 
+    Kunt u de onderzoeksverantwoording van de afgelopen meting met 
+ons delen? Dit om een goed beeld te krijgen van de uitgangspunten 
+en ervaringen. 
+Dit onderzoeksverantwoording zal niet worden gedeeld. Naar oordeel 
+van Opdrachtgever is dit in dit stadium niet relevant. 
+9  Programma van 
+eisen 
+    Kunt u de op te leveren zaken van de afgelopen meting met ons 
+delen? Dit om een goede inschatting te kunnen maken van de uren 
+die hierin geïnvesteerd moeten worden. 
+De op te leveren zaken zullen niet worden gedeeld. Naar oordeel van 
+Opdrachtgever is dit in dit stadium niet relevant. 
+10  Prijzenblad     Deelname is facultatief, geeft u aan. Toch moeten wij één prijs 
+afgeven voor ‘het lokale bezoekersonderzoek’. Op hoeveel 
+deelnemers moeten wij de prijsopgaaf dan baseren? Dit is nogal 
+relevant, omdat voor elke bibliotheek een specifieke rapportage zal 
+moeten worden gemaakt. 
+In de afgelopen jaren was dit gemiddeld 10 deelnemers. 
+Opdrachtgever verwacht voor volgend jaar maximaal 20 Deelnemers. 
+11  Programma van 
+eisen 
+    Hoe komt het dat er na afronding van het veldwerk 4 (!) weken nodig 
+zijn om het rapportagesjabloon vast te stellen? 
+Opdrachtgever neemt aan dat u verwijst naar het lokale 
+bezoekersonderzoek. Na het veldwerk worden de tabellen gemaakt, 
+5 van 5 
+ 
+dient een PP-sjabloon met grafieken te worden gemaakt door 
+Opdrachtnemer en dienen de sjablonen door Opdrachtgever te 
+worden voorzien van begeleidende teksten en conclusies. Op basis 
+van het gevulde sjabloon dienen alle lokale PP rapporten door 
+Opdrachtnemer te worden gemaakt. De periode van 4 weken is een 
+indicatie op basis van ervaring. Als dit in de praktijk sneller kan, dan 
+staat Opdrachtgever dit toe 
+12  Programma van 
+eisen 
+    Kunt u de onderzoeksverantwoording van de afgelopen meting met 
+ons delen? Dit om een goed beeld te krijgen van de uitgangspunten 
+en ervaringen. 
+Dit onderzoeksverantwoording zal niet worden gedeeld. Naar oordeel 
+van Opdrachtgever is dit in dit stadium niet relevant. 
+13  Programma van 
+eisen 
+    Kunt u de op te leveren zaken van de afgelopen meting met ons 
+delen? Dit om een goede inschatting te kunnen maken van de uren 
+die hierin geïnvesteerd moeten worden. 
+De op te leveren zaken zullen niet worden gedeeld. Naar oordeel van 
+Opdrachtgever is dit in dit stadium niet relevant.
+
+=== Document: bijlage j - checklist ===
+Bijlage  J : Checklist De Inschrijving dient te zijn ingericht conform onderstaande structuur: # Omschrijving Te hanteren Standaardformulier  Bij  inschrij - ving Op verzoek Checkbox : aanwezig bij Inschrijving Algemene verklaringen A1 Aanbiedingsbrief Eigen format (zie hoofdstuk 3) X Ja ☐ Nee ☐ A2 Uniform Europees  Aanbestedingsdocument Bijlage  E Uniform Europees Aanbestedingsdocument X Ja ☐ Nee ☐ Optioneel  Beroep op Derden  Bijlage  F Beroep financiële en economische draagkracht  X Ja ☐ Nee ☐ Bijlage  G Beroep technische en beroepsbekwaamheid X Ja ☐ Nee ☐ Uitsluitings-gronden U1 Inschrijving in het nationale beroeps-/handelsregister Inschrijving in het nationale beroeps-/handelsregister Indien van toepassing: Volmacht verklaring  X Ja ☐ Nee ☐ U2 Gedragsver -klaring aanbesteden Format  Justis X Ja ☐ Nee ☐ U3 Verklaring van de Belastingdienst Format Belastingdienst X Ja ☐ Nee ☐ Geschikt- heidseisen E1 Afdekking aansprakelijk- heidsrisico’s Format verzekering X Ja ☐ Nee ☐ E2 Ervaring van de Deelnemer Bijlage  F Ervaring Deelnemer  X Ja ☐ Nee ☐ E3 Certificeringen  Inschrijver Certificaat kwaliteitsborgingssysteem  (ISO 20252:2019 of gelijkwaardig) X Ja ☐ Nee ☐ Certificaat informatiebeveiligingssysteem (ISO 27001 of gelijkwaardig) X Ja ☐ Nee ☐ Gunnings-criteria  G 1 Plan van aanpak: uitvoering leden-en bezoekersonderzoek Eigen format (zie paragraaf  6.7.1 ) X Ja ☐ Nee ☐ G2 Visie op het uitvoeren van verdiepende onderzoeken. Eigen format (zie paragraaf  6.7.2) X Ja ☐ Nee ☐ G3 Visie op toekom st:  BiebPanel  . Eigen format (zie paragraaf 6.7.3) X Ja ☐ Nee ☐ P1/P2 Prijs Bijlage  I Prijzenblad  en paragraaf 6.7.4 X Ja ☐ Nee ☐

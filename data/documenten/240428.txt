@@ -1,0 +1,2320 @@
+=== Document: tendering document acquisition of information from international databases 2021-2025 version v1.0 ===
+Tender Document 
+ 
+ 
+Invitation to tender in accordance with 
+the European open procedure for  
+ 
+the acquisition of information from 
+international databases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Publication date:  6 October 2021  
+Status:   Version 1.0 final 
+Reference:    IUC 202109046  
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 2 of 28 
+ 
+ 
+Contents 
+Definition of terms ................................ ................................ ................................ .......................  4 
+1. Introduction................................ ................................ ................................ ..........................  6 
+1.1 Tendering Authority and IUC-EZK ................................ ................................ ....................  6 
+1.2 Reason for this invitation to tender................................ ................................ .................  6 
+1.3  Time schedule ................................ ................................ ................................ ...............  7 
+2. Description of assignment................................ ................................ ................................ ...... 8 
+2.1 Description and objective of the assignment ................................ ................................ ... 8 
+2.2 Lots................................ ................................ ................................ ...............................  8 
+2.3 Contract Period ................................ ................................ ................................ .............  8 
+2.4 Scope of the assignment ................................ ................................ ................................  8 
+3. Requirements to this assignment ................................ ................................ ...........................  9 
+3.1 Requirements for the database ................................ ................................ ......................  9 
+3.2 Requirements relating to the prices/rates ................................ ................................ ..... 10 
+3.3 Tax-related requirements ................................ ................................ .............................  11 
+3.4 Invoicing requirements ................................ ................................ ................................  11 
+3.5 Environmental requirements ................................ ................................ ........................  11 
+4. Requirements concerning the Tenderer ................................ ................................ ................  12 
+4.1 Introduction ................................ ................................ ................................ ................  12 
+4.2 Exclusion Grounds ................................ ................................ ................................ ....... 12 
+4.3 Suitability Requirements ................................ ................................ ..............................  12 
+4.3.1 Financial and economic standing ................................ ................................ ...............  13 
+4.3.2 Reference data (technical qualifications)................................ ................................ .... 13 
+4.3.3 Quality assurance (technical qualifications)................................ ................................  14 
+4.4 Professional/trade register extract................................ ................................ ................  15 
+5. Award criteria and assessment................................ ................................ .............................  16 
+5.1 Introduction ................................ ................................ ................................ ................  16 
+5.2 Quality criteria................................ ................................ ................................ .............  16 
+5.2.1 Award criteria relating to the Content ................................ ................................ ....... 16 
+5.2.2 Award criteria relating to Database quality ................................ ................................  17 
+5.2.3 Award criteria relating to Country coverage ................................ ...............................  17 
+5.3 Award criteria relating to prices/rates (exclusive of VAT)................................ ................  17 
+5.4 Assessment method for qualitative award criteria ................................ .........................  18 
+5.5 Assessment of preferences in relation to prices/rates ................................ ....................  18 
+6. Assessment of the Tender................................ ................................ ................................ .... 20 
+6.1 Assessment of the Tender’s completeness and legal validity ................................ ..........  20 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 3 of 28 
+ 
+6.2 Assessment of requirements relating to the assignment ................................ ................  20 
+6.3 Assessment of award criteria relating to the assignment ................................ ................  20 
+6.4 Determination of definitive total score................................ ................................ ..........  20 
+6.5 Assessment of evidence ................................ ................................ ...............................  20 
+7. Submission procedure for Tenders ................................ ................................ .......................  22 
+7.1 Statement of agreement ................................ ................................ ..............................  22 
+7.2 Schedule ................................ ................................ ................................ .....................  22 
+7.3 General procedure ................................ ................................ ................................ ....... 22 
+7.3.1 Communication ................................ ................................ ................................ ........  22 
+7.3.2 eHerkenning................................ ................................ ................................ .............  22 
+7.3.3 Questions and additional information/changes ................................ ..........................  23 
+7.3.4 Validity period and submission of Tender ................................ ................................ ... 23 
+7.3.5 Variants on Tender ................................ ................................ ................................ ... 23 
+7.3.6 Costs of submitting a Tender ................................ ................................ .....................  23 
+7.3.7 Termination of tendering process ................................ ................................ ..............  23 
+7.3.8 Order of precedence of documents ................................ ................................ ............  23 
+7.3.9 Information about the Tenderer’s obligations................................ .............................  23 
+7.3.10 Guide Information security and Privacy for suppliers................................ ...................  24 
+7.3.11 Inconsistencies and objections................................ ................................ ...................  24 
+7.3.12 Complaints procedure ................................ ................................ ...............................  24 
+7.3.13 Dispute resolution ................................ ................................ ................................ .... 24 
+7.3.14 Submission of the Tender ................................ ................................ ..........................  24 
+7.3.15 Structure and content of the Tender ................................ ................................ ..........  25 
+7.3.16 Legally binding signature ................................ ................................ ..........................  25 
+7.3.17 Submission of a Tender in collaboration with other organisations................................  25 
+7.3.18 Single Tender ................................ ................................ ................................ ...........  26 
+7.3.19 Violation of the fundamental principles of procurement law and restriction of fair 
+competition ................................ ................................ ................................ ............................  27 
+7.3.20 Communication and language................................ ................................ ...................  27 
+7.3.21 General terms and conditions................................ ................................ ....................  27 
+7.3.22 Contract conditions ................................ ................................ ................................ .. 27 
+7.3.23 Explanation and verification of the Tender ................................ ................................ . 27 
+7.3.24 Request for supplementary information concerning the Tender ................................ ... 27 
+7.3.25 Announcement of the award of the Contract................................ ..............................  27 
+Annexes ................................ ................................ ................................ ................................ ..... 28 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 4 of 28 
+ 
+ 
+Definition of terms 
+ 
+Tendering  authority Netherlands Enterprise Agency (RVO) is part of the 
+department of the Ministry of Economic Affairs and Climate 
+Policy. 
+ 
+Tender  Document  This docume nt and all of its annexes. 
+ 
+Public Procurement Act  The Public Procurem ent Act 2012 (Aanbestedingswet 2012) 
+ 
+General Governme nt Terms and  
+Conditions  General Government Terms and Condi tions for Public 
+Service Contracts 2016 (ARVODI-2018: Algemene 
+Rijksvoorwaarden voor het verstrekken van Opdrachten tot  
+het verrichten van Diensten. 
+ 
+Most Economically Advantageous  
+Tender  The Tender that achieves t he highest definitive total score 
+based on the best price-quality ratio. 
+ 
+Suitability requirements  The requireme nts with which Tenderers must comply in 
+order to be eligible  to win the tender.  
+ 
+Tenderer  An entreprene ur or entrepreneurs who have submitted a 
+Tender or is/are planning to submit a Tender. In this 
+document, the word ‘you’ is taken to mean the Tenderer. 
+ 
+Tender  A quotation submitted by the Tende rer in response to this 
+Tender  Document.  
+ 
+IUC-EZK The Procureme nt Office (IUC) – part of the Netherlands 
+Enterprise Agency (RVO), which in turn is part of the 
+Ministry of Economic Affairs and Climate Policy (EZK) – will 
+serve as process manager during this tendering process.  
+ 
+Memoran dum of Information A document co ntaining all questions asked and answers 
+given, in anonymised form  and, if applicable, additional 
+information . This includes the questions and answers 
+submitted via TenderNed. 
+ 
+Contracting Authority  The State of the Netherlands, represented by the 
+Minister/State Secretary of Economic Affairs and Climate 
+Policy, who concludes the Contract with the Contractor on 
+behalf of the Contracting Authority  
+ 
+Contractor  The party with whom  the Contracting Authority concludes 
+the Contract. 
+ 
+Contract The written agreement between the Contracting Authority 
+and the Contractor in which the conditions of the 
+assignmen t are recorded. 
+ 
+  
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 5 of 28 
+ 
+Exclusion Ground A circumstance app licable to the Tenderer or a person 
+affiliated with the Tenderer that results in exclusion of the 
+Tenderer from participating in the tendering process.  
+ 
+Uniform Single Procurement Document A statemen t in which the Tenderer declares his compliance 
+with the requirements specified in this document. 
+ 
+ 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 6 of 28 
+ 
+ 
+1.  Introduction 
+ 
+The Tender Document at hand contains infor mation regarding this invitation to tender conducted in 
+accordance with the European open procedure for the database supplier providing written analyses 
+of current trends and future developments on the consumer markets of individual countries.  
+ 
+You are hereby invited to submit a Tender based on this Tender Document.  
+1.1 Tendering Authority and IUC-EZK 
+This tendering process is being conducted on the instructions of Netherlands Enterprise Agency 
+(RVO) IUC-EZK will act as process manager during this tendering process). The Netherlands 
+Enterprise Agency (RVO) is a part of the Ministry of Economic  Affairs and Climate Policy. 
+ 
+IUC-EZK will act as process manager during this tendering proc ess. 
+ 
+Organisation  
+Netherlands Enterprise Agency (RVO) encourages entrepreneurs in sustainabl e, agrarian, 
+innovative and international business. It helps with grants, finding business partners, know-how 
+and compliance with laws and regulations.  
+The aim is to improve opportunities for entrepreneurs and strengthen their position. Netherlands 
+Enterpr ise Agency is part of the Ministry of Economic Affairs and Climate Policy and works at the 
+instigation of ministries and the European Union. Some activities of the Commodities  
+Boards are also included.  
+The Agency works in The Netherlands and abroad with go vernments, knowledge centres, 
+international organisations and countle ss other partners. The Agency also works closely together 
+with the Dutch foreign network of embassies, consulates -general, NBSOs and Netherlands trade 
+offices. 
+ 
+The task 
+In putting policy  into practice, the Agency is also the ‘eyes and ears’ of commissioning parties. We 
+refer to this as the ‘partner in result’ principle. 
+We work on the basis of results -driven, measurable, transparent agreements. The Agency is 
+allocated approximately €11 billion annually by commissioning parties to invest in their policy 
+objectives.  
+ 
+Implementation 
+Our services comprise information and advice, financing, networks (inc. international) and 
+implementation of  legislation and regulations. Our portfolio encompasses some 800 different 
+products and services. The Agency has over 200,000 clients, around 400,000 annual client  
+contacts and is rated by these customers with a score of 7.5. For further information, pleas e see 
+our website: https://english. rvo.nl/ 
+1.2 Reason for this invitat ion to tender 
+ 
+The current contracts are due to expire on 31 December 2021. However, there is still a need for 
+the service they provided. As a result, this tender will be opened.  
+ 
+ 
+ 
+ 
+ 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 7 of 28 
+ 
+1.3  Time schedule 
+The schedule below applies to this tendering process. 
+ 
+Wednesday 6 October 2021 Issuing of publication, start of tendering per iod. 
+Monday 25 October 2021 , 
+12:00 CET 
+Closure of 1st round of questions: d eadline for the Tenderer 
+to submit questions regarding this Tender Document and the 
+Contract (including the gen eral terms and conditions) and/or 
+proposals for textual amendments to the draft Contract 
+(including the gener al terms and conditions). 
+Friday 29 October 2021 Issuing of 1st Memorandum of Information 
+Thursday 4 November 20 21, 
+12:00 CET 
+Closure of 2nd round of questions: deadline for the Tenderer 
+to submit questions.  
+Thursday 11 November  Issuing of 2nd Memorandum of Information  
+Monday 22 November 2021,  
+12:00 CET 
+Deadline for the receipt of Tenders and opening of new 
+Tenders by the Tendering Authority. 
+Thursday 23 November 
+2021 up to and including 
+Thursday 9 December 2021  
+Assessment of Tenders.  
+ 
+Friday 10 December 2021  Announcement of the award of the Contract. 
+Friday 31 December 2021  Deadline for asking questions and/or filing an application for 
+a preliminary injunction  in relation to the announcement of 
+the award of the Contract.  
+Friday 17 December 2021  Deadline for the winning Tenderer to provide the evidence 
+requested by the Tendering Authority. 
+3 January 2022 Starting date of Contract. 
+ 
+If – in the opinion of the Tendering  Authority – circumstances provide cause to do so, the 
+Tendering  Authority is entitled to amend the specified period(s). In such a case, timely notification 
+of the new period(s) will be provided digitally.
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 8 of 28 
+ 
+ 
+2.  Description of assignment 
+2.1 Description and objective of the assignment 
+ 
+RVO wants to enter into an agreement for the acquisition of speci fic information that is available in 
+a database. The existing agreement with database supplier will expire at the end of 2021. 
+ 
+RVO wishes to conclude an agreement with a tenderer who has made the most economically 
+advantageous tender. The futu re contractor, as well as the services / products to be delivered by 
+this contractor, must comply with the conditions set by the client, as specified in this tendering 
+document.  
+ 
+By entering into the agreement, RVO intends to have access to high -quality analyses of foreign 
+markets and sectors for the benefit of its customers:  the internationally oriented business 
+community and other organi sations with international ambitions. 
+ 
+2.2 Lots 
+ 
+The invitation to tend er has not been divided into lots, because it’s  necessary for the execution of 
+this assignment to  obtain consistent and complete reports as described that it is performed by a 
+contractor.  
+ 
+After market expl oration, it has become apparent that there are sufficient market parties that are 
+able to fully execute this Assignment. By extension, this tender is not divided into lots.  
+2.3 Contract Period 
+ 
+RVO intends to conclude a contract for a period of one year from 3 January 202 2 until  
+31 Decem ber 2022, including an unilateral option for Client to extend the contract three times  by 
+1 year. The maximum contract  period, including the options is until 31 December 2025. 
+ 
+2.4 Scope of the assignment 
+ 
+The Tendering  Authority has estimated a total contrac t value (including optional extension years) 
+of EUR 320.000,- (exclusive of VAT). This amount is for the full term of four years. 
+ 
+The estimated value is an indication from whi ch no rights can be derived. This Tendering 
+Documen t was created using up-to-date knowledge and insights valid at the time of its 
+formulation.  
+ 
+It is possibl e that the services specified in the contract may change in the event of political, 
+budgetary, admi nistrative or organisational developments within the Dutch government and the 
+Client’s expansion or contraction stemming from this, or changes to the Client’ s position within the 
+government or to the targets that must be met. In the event such circumstance s occur, then the 
+Client will consult with the Cont ractor.
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 9 of 28 
+ 
+ 
+3.  Requirements to this assignment 
+ 
+ 
+This section includes the requirements set by the Contracting Authority concerning the requested 
+services and the prices and rates.  
+By submitting a Tender, the Tenderer explicitly consents to all requirements and conditions 
+spe cified in this Tendering Document and declares that they will continue to comply with these 
+throughout the entirety  of the contract period. Furthermore, you confirm that you will comply with 
+all of the specified prices and rates, including a ny agreed indexation. Failing to comply with one or 
+more requirements will result in your Tender being dis qualified from the assessment process and 
+therefore excluded from the tendering process. 
+ 
+IMPORTANT : Requirement test period 
+In order to test the databases, RVO will receive the URLs and log-in details for approximately 15 
+people within the Netherlands and the fore ign network, for a period of 3 weeks  until 10 December 
+2021 (during the assessment of tenders. See time frame). Use annex 10. 
+3.1 Requirements for the database  
+ 
+3.1.1 The database contains  market reports with product -specific written analyses which contain 
+at least the following: 
+- analyses of current trends  
+- analyses of future developments  
+- Informat ion on consumer behaviour and spending. 
+- Informatio n on distribution channels 
+- Information on competitors in the sector 
+- Up-to-date statistics that support and supplement the written analyses, and that include 
+past, current and (projected ) future sales figures. Past figures  should go back at least 
+three years, and the projected s ales figures should go at least three years into the future. 
+ 
+ 
+3.1.2.  The market reports must be on national/country level. And must be available for each 
+(priority) country (see Annex 8: List of mandatory  countries). 
+ 
+3.1.3.  Products of the following markets/ the following markets / the following products should be 
+covered by the database: 
+*E-commerce (m -commerce, e-retail, e-business) 
+*food and beverages  
+*clothing and footwear 
+*consumer electronics 
+*personal care pro ducts, cosmetics 
+*dome stic products and appliances 
+*DIY and garden centres  
+*toys and games  
+ 
+3.1.4.  The database is available to all license -holders/users (maximum 200 users) within RVO 
+and the foreign network consisting of embassies, consulates general, NBSOs and 
+Netherlan ds trade offices. 
+ 
+3.1.5.  Contractor  acquires the right to use all information from the database even after the 
+contract period,  to create its own texts for use on all websites related to RVO and the 
+foreign network  and to create its own market reports. 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 10 of 28 
+ 
+ 
+3.1.6.  Contractor acquires the right to send information from the database to customers ( for 
+example  the Dutch business community, SMEs ). Further arrangements  about this will be 
+made after award of contract.  
+ 
+3.1.7.  Contracting Authority contact with the Contractor and third parties contracted by the 
+Contracting Authority. They will have to have access temporarily or for the duration of the 
+contract. Further agreements about this will be made after award of contract  
+ 
+3.1.8 The Contractor is to provide a (personal ) training  to all 200 users  within RVO.nl and the 
+foreign network at least once a year. This training can be held online and offline.   
+ 
+ 
+3.1.9. The Contractor  is to provide an e-learning which is available all year and for all licence -
+holders  /users within RVO and the foreign network. 
+ 
+ 
+3.1.10. The Contractor  to have a contact person to whom ques tions can be addressed and a 
+helpdesk (Account Manager).  
+ 
+3.1.11  The  is to provide an up-to-date summary of user statistics on request. 
+ 
+3.1.12  It must be pos sible to download data in PDF file format . 
+ 
+3.1.13  The database is to be provided in at least the English language. 
+ 
+3.1.14  The  Contractor  must demonstrate that the database complies with the applicable General 
+Data Protection Regulations. 
+ 
+3.1.15  The database is obliged to cover the mandatory countries listed in Annex 8; and preferably 
+as many more as possible from the list of additional coun tries in Annex 9. 
+ 
+3.2 Requirements relating to the prices/rates 
+ 
+3.2.1 The Tenderer will provide an overview of the prices and rates applicable to this assignment 
+by filling in the appendi x entitled ‘Prices/Rates’. 
+ 
+3.2.2 The price/rates must be all inclusive. In any event, they must include all of the following: 
+wage cost s, overheads (e.g. accommodation  and wage costs for support staff), cos ts 
+relating to the use of equipment and machinery during the assignment, insurance costs, 
+any applicable costs for e-invoicing, and local travel and accommodat ion expenses. 
+ 
+3.4.3 Indexing of the rates for any already issued further assignments specified within the 
+Contract is not permitted.  
+ 
+3.2.4 The Tenderer will not submit any zero or negative prices/rates. 
+ 
+3.4.5  The Tendere r gives a fixed total price in your offer using annex 2, The total amount of your 
+quotation is final. 
+ 
+3.4.6 All yearly licenses o f 200 users including VAT will be assessed. (see ap pendix 2) 
+3.4.7 Your one-year price offer should not exceed € 80.000 excl. VAT. Tenderers  with prices 
+higher than € 80.000,- excl. VAT will not be asses sed and will be rejected. Your complete 
+registration will then be discarded. Prices  excluding VAT will be assessed. See price sheet 
+appendix 2. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 11 of 28 
+ 
+3.3 Tax-related requirements 
+3.5.1  The Contractor  indemnifies the Contracting Authority against any claims from the Dutch 
+Tax and Customs Admini stration (Belastingdienst) or other tax authorities. 
+3.5.2  The Tenderer will quote the prices according to the following struc ture: 
+• the amount excludi ng Dutch VAT and any VAT due outside the  EU; 
+• the amount of Dutch VAT due (if applicable) and the amount of any VAT due outside th e 
+EU, and; 
+• the amou nt including Dutch VAT (if applicable) and any VAT due outside the EU. 
+3.5.3 If the Contractor indicates that no VAT is applicable, then he agrees to provide 
+documentary  proof of the grounds for this to the Contracting Authority within fifteen 
+calendar days of the request to do so.  
+3.5.4 Contractor is liable for any extra costs for Dutch and/or foreign VAT due if you incorrectly 
+charge no VAT or an incorrect amount of VAT to the Contractin g Authority. If applicable, 
+Contractor is liable for accurate  payment of VAT in the Nethe rlands and outside the EU, 
+with the exception of the case stipulated in the following sentence. If the Contracting 
+Authority procures a service from a foreign business and Dutch tax law considers the work 
+to have been performed in the Netherlands, then the Contracting Authority is liable for the 
+payme nt of VAT to the Dutch Tax and Customs Administratio n for this/these service(s) 
+performed in the Netherlands. 
+3.5.5 Contractor guarantees that the amounts specified in the quotation are inclusive of all taxes 
+and levies (including amounts considered eq uivalent to taxes or levies), regardless of their 
+description an d wherever in the world they may have been levied. 
+3.5.6 Contractor indemnifies the Contracting Authority against any claims from any tax authority 
+for any taxes, levies or contributions considered equivalent to taxes or levies, originating 
+from either the Netherlands or outside the Netherlands. 
+3.5.8 If Contractor  believe s that the work is being taxed simultaneously (in part or in full) in 
+both the Netherlands and a foreign country (outside the EU), then Contractor  agrees to 
+provide evidence from the foreign tax authorities in question that prove VAT has been 
+levied on one of the services/amounts substantiated by Contractor in the quotation. You 
+will provide this statement in English. If the stateme nt from the foreign tax authorities is 
+not in English, then Contractor  agrees provide a sworn translation of this statement, the 
+cos ts of which will be borne by Contractor . 
+3.4 Invoicing requirements 
+3.4.1 The following payment sc hedule applies: One invoice  per year. The first invoice will cover 
+the period between 3 January 2022 (the starting date) and 31 December  2022. The 
+following invoices  will each cover a full year, starting 1 January and ending 31 December  
+next year. This will continue until the end of the contract. 
+ 
+3.4.2 For companies established in the Netherlands only 
+E-invoicing 
+The gene ral terms and conditions that apply to this contract contain a provision  that 
+invoices m ust be sent electronically (not in pdf). This can be done in 4 different ways: 
+• The invoicing portal of the Dutch government 
+• Link with Digipoort  
+• E-invoicing with your own (accounting) softw are package through Peppol 
+• E-invoicing throug h a service provider. 
+See : https://regelhulpenv oorbedrijven.nl/e-invoiceguide/ 
+ 
+For companies not established in the Netherlands 
+The paragraph concerning e invoicing does not apply to companies located outside of the 
+Netherlands . 
+3.5 Environmental requirements 
+3.7.1  The Tenderer  must poss ess all environm ental permits required in order to fulfil this 
+assignme nt. 
+ 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 12 of 28 
+ 
+ 
+4.  Requirements concerning the Tenderer 
+4.1 Introduction 
+In this section,  you can find the requirements set by the Tendering Authority to deter mine whether 
+particular Tenderer s are suitable to be awarded the Contract. For this purpose, Exclusion Grounds 
+and Suitability Requireme nts have been set. 
+ 
+You can indicate whether or not the Exclusion Grounds apply to you and whether or not you are in 
+com pliance with the Suitability Requirements by completing the ‘European Single Procurement 
+Document’. 
+ 
+The ‘European Single Procurement Document’ is a PDF file that has been partially filled in for you. 
+You must fill in the rest of the form, print it, legally sign it, scan it and submit it together with your 
+Tende r via TenderNed (see paragraph 7.3.15).  
+4.2 Exclusion Grounds 
+The following Exclusion Grounds are specified in the annex ‘European Single Procurement 
+Document’: 
+• all Exclusion Grounds specified in Part III A and B; 
+• the Exclus ion Grounds in Part III C of the ‘European  Single Procurement Document’ that have 
+bee n selecte d by the Tendering Authority by means of the tick boxes.  
+ 
+See Section 7 for information on how to submit a Tender in collaboration with other organisations. 
+This section specifies who must provide a completed and signed European Single Procurement 
+Documen t during the process of submitting a Tender. 
+ 
+The evidenc e relating to the Exclusion Grounds does not have to be submitted together 
+with the Tender: it is only required once the Tendering Authority requests it.  
+ 
+Please note: The process of applying for a GVA (certificate of conduct) can take several 
+weeks. 
+ 
+For information on type s of evidence, see Section 2.89 of the Public Procurement  Act. 
+http://wetten .overheid.nl/BWBR0032203/2016-07-01 
+ 
+The evidence consists  of:  
+1. Extract of Trade Register (no older than 6 months see §4.3) 
+2. ‘Certificate of Conduct for procurement’ (‘Gedragsverklaring Aanbesteden’ -no older 
+than 2 years) 
+3. Tax statement (no older than 6 months) 
+The Tendering Authority, to which a Tenderer  submits data in order to prove that the 
+exclusion ground s referred to in Article 2.86 or Article 2.87 do not apply to the Tenderer , 
+also accepts data and documents from another Member State, from the country of origin 
+of the Tenderer or from the country where the Tenderer is established, that serve an 
+equivalen t purpose or that show that the exclusio n ground does not apply to Tenderer. 
+ 
+Please refer to https://ec.europa.eu/tools/ecertis/search 
+eCertis is the information system that helps you identify different certificates 
+requested in procurement procedures across the EU. 
+4.3 Suitability Requirements 
+The purpose of  the Suitability Requirements is to assess whether the Tenderer is suitable to fulfil 
+the Contract in the opinion of the Tende ring Authority.  
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 13 of 28 
+ 
+By signing the annex ‘European Single Procurement Document’ (which uses the term ‘Selection 
+Criteria’ to refer to the Suitability Requirements ), the Tenderer declares that he complies with the 
+Suitability Requirements as specified  in this subsection of the Tender document. These Suitability 
+Requirements are furthe r specified in the subsequent paragraphs in this section.  
+4.3.1 Financial and economic standing 
+By signing the ‘European Single Procurement Document’, the Tenderer declares: 
+a. That he possesses sufficient financial and econo mic capacity to fulfil the contractual 
+obligations. 
+ 
+Evidence (do not submit together with the Tender – only subm it it when requested to do 
+so): 
+Proof of the eco nomic operator’s economic and financial standing may, as a general rule, 
+be furnishe d by one or more of the following references: 
+a. appropriate statements from banks or, where appropriate, evidence of relevant 
+professional risk indemnity insurance; 
+b. the prese ntation of financial statements or extracts from the financial statements, 
+where publication of financial statements is required under the law of the country in 
+which the economic operato r is estab lished;  
+c. a statement of the undertaking’s overall turnover and, where appropriate, of turnover 
+in the area covered by the contract for a maximum of the last three financial years 
+available, dep ending on the date on which the undertaking was set up or the 
+economic operator started trading, as far as the information  on these turnovers is 
+available.  
+ 
+If the data of the Tenderer ’s parent/holding company is used in relation to the aspect of 
+financial-econom ic capacity, then the Tenderer must provide a statement from the 
+parent/holding c ompany that specifies that the parent/holding company unconditionally 
+acts as a guarantor for the obligations to be undertaken by the subsidiary company and 
+any debts  arising from the Contract incurred by the subsidiary company. The statement 
+by the parent /holding company must be signed by a legally authorised  representative. 
+4.3.2 Reference data (technical qualifications) 
+The Tendering Authority has set the following core competence, which demonstrate experience 
+with essenti al aspects of the assignment: 
+ 
+• Providing economic informatio n about foreign markets through databases. 
+ 
+By signing the 'European Single Procurement Document', the Tenderer confirms that for the official 
+contract it has carried out at least one reference for the relevant core competence that meets the 
+following minimum requirements:  
+ 
+• The subject of the reference assignment must be comparable to the core competence in 
+question. 
+• The reference assignment must  have been executed or completed within the three (3) years 
+prior to the closing date for the submission of tenders. If the Tenderer uses an assignment 
+that is not yet fully com plete, then only the completed results of the ongoing assignment can 
+be submit ted for reference purposes: projected results cannot be taken into consideration. 
+ 
+The total value of the reference assignment must be at least Euro 190.000,-. This reference-
+assignment value must exclusively consist of the value of the aspects of the assignment that are 
+equivalent to the service specified in this document. In case a series of separate yet significantly 
+comp arable assignments was carried out for the same client during the reference period, then the 
+turnover of these separate assignments can be combined into a cumulative total. 
+ 
+Assignments inclu ding one or more subcontractors can only be used as reference assignments if  
+the subcontractor(s) in question will be involved in the fulfilment of the Contract and if the 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 14 of 28 
+ 
+Tendere r can and will make use of the knowledge and experience of the subcontractor(s) in 
+question during the fulfilment of the assignment. 
+ 
+Evidence submit together with the Tender (Artikel 2.85 lid 3): 
+See Annex 11  
+ 
+You may not provide mo re than one reference for each core competence. If a single refere nce 
+test ifies to multiple competences that comply with the applicable requirements, then you can 
+use the same reference for these different core competences.  
+ 
+The reference( s) must be signed by the referee (the client in question). 
+The references mu st also demonstrate that they have a value of at least Euro 190.000,-. 
+ 
+If required, the Tende ring Authority reserves the right to check the accuracy and completeness 
+of the references and to cont act one or more of the reference parties without the Tenderer’s 
+involveme nt or permission. 
+4.3.3 Quality assurance (technical qualifications) 
+By signing the ‘European Single Procurement Document’, the Tenderer declares:  
+• That he has a quality-assurance system that is at least equivalent to a certified quality-
+assurance  system. By ‘equivalent’, we mean the following: 
+o Quality assurance is embe dded in the entire organisation (by means of policy), adopted 
+by the responsib le department and executed by this department (e.g. by means of a 
+quality handbook ). This department also bears responsibility for the correct design, 
+execut ion and management of this quality policy. 
+o Presence and  company-wide implementation of relevant procedures relating to service 
+provision/end products and management of resources and documents, within which 
+cont inual improvement is an important point of attention. 
+o Operation of an internal quality cycle, including the me asurement, analysis and 
+improvement  of quality levels. 
+o Performance of a periodic , independent audit by an expert concerning compliance with 
+the quality procedures. 
+o Custome r-oriented processes: a system is in place to ensure (from the customer’s 
+perspective) that there is a clear picture of the customer’s needs and that these needs 
+are implemented int o your business processes.  
+Or: 
+• That the Tendere r possesses a validly certified quality-assurance system, the certificate for 
+which was drawn up by a certification institution recognised within the national or 
+international accred itation structure, such as the European standards series EN 45000. 
+ 
+In the event that your Tender involves a collaboration between organisations, see Section 7: 
+‘Tenders involving collaborations with other organisations’.  
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 15 of 28 
+ 
+Evidence (do not submit together with the Tender – only submit when requested  by the 
+Tender ing Authority). 
+ 
+Compliance with these quality-control requirements can be demonstrated by means of: 
+• A description (max. 6000 words) of the quality-assurance system in place at your 
+organisation, which de monstrates that this system is at least equivalent to a certified 
+quality-assurance system. The subsection ‘Quality Assurance ’ explains what is meant 
+by the term ‘equivalent’ . Your description must address all the points specified in 
+this subsection and de monstrate the system’s equivalence or more.  
+Or: 
+• Provision of the latest audit report or a copy of a certificate or certificates for the 
+quality-assurance  system that was/were drawn up by a certification institution 
+recogn ised within the national or international accreditation structure, such as the 
+European standards series EN 45000. 
+ 
+In the event that your Tender involves a collaboration (consortium), then every member 
+of this collaboration, for their part, must provide the quality-assurance evidence 
+requested for the purposes of the Tender. 
+4.4 Professional/trade register extract 
+The Tendering Authority expect s the Tenderer to be authorised to practise his trade. For this 
+reason,  the Tendering Authority reserves the right to ask the Tenderer to demonstrate that he is 
+registered in the professional register or in the trade register referred to in Annex XI of EU 
+Directive 2014/24/EU in accordance w ith the regulations applicable in the country in which he is 
+established. 
+It is also vital that the signed documents included in the Tender have been signed by a legally 
+authorised  representative of the Tenderer. For this reason, the Tendering Authority can also ask 
+the Tenderer  who is awarded the contrac t to demonstrate the legal validity of the signature. 
+ 
+Evidence (do not submit together with the Tender – only subm it when requested by the 
+Tendering Authority). 
+ 
+In orde r to establish the legal validity of the signed state ments, declarations and other 
+evidence, it is vital that a recent  and up-to-date (max. six months old, count ed from 
+the time of submission of the Tender) extract from the professional register or trade 
+register is provided in compliance with the provisions stipulated in Section 2.98 of the 
+Public Procurement Act. The extract must demonstrate the legal authorisation of the 
+signatory. 
+ 
+If the signatory of the statements, declarations and other evidence is not featured on the 
+extract, then authorisation of the signatory must be provided by one of the parties 
+featured  on the extract, in the form of a stateme nt declaring that the signatory was 
+authorise d to legally bind the Tenderer at the time that he signed the documents. 
+ 
+In the event that the Tender involves a collaboration (consortium), then every member of 
+this collaboration must provide the aforementioned evidence separately. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 16 of 28 
+ 
+ 
+5.  Award criteria and assessment 
+5.1 Introduction 
+This Section establishes the preferences. Preferences constitute award criteria based on which the 
+Tender is assessed. Your response to the p references must be included in the Tender in 
+Tender Ned. In this response, you must take into account the requirements established in Section 
+3. 
+A maximum of 100 points can be obtained for your response to the preferences. 
+5.2 Quality criteria 
+5.2.1 Award criteria relating to the Content  
+Max. no. of 
+points  available 
+Assess ment aspects 
+40  The cont ent is assessed based on the following aspects: 
+Comprehensiveness: 
+Explanation: 
+The requested information (see requirements) can be found in each 
+market report. Report has a summary. We also prefer to see statistics  
+like: 
+- sales figures of recent years  
+- percentage growth of sales figures in recent years  
+- sales forecasts 
+A further specification of  the product group in the statistics is 
+preferred . For example: In the cheese report, a distinction is made 
+between, among other things, hard and soft cheeses.  
+If brands are mentioned  we would like to see them back in the 
+reports . (in the requirements we only ask for the other market 
+players). 
+The same counts for  distribution channels (online, retail, etc). 
+- Quality of the written analyses: 
+Explanation: 
+The given information is readable and understandable for everyone. It 
+goes in depth. In the Requirements we ask for an analysis of current 
+trends and future developments. These should be clearly stated in the 
+reports. Not for just 1 line, but at least a whole paragraph. Market 
+reports are preferably not older than 3 years. 
+- Clear structure and cohesiveness of the reports: 
+Explanation: 
+A good insightful coherence and clearly divided into chapters. This 
+clear presentation  of chapters is uniform in each report. The graphics 
+and tables have been incorporated in the right place in the report so 
+that the analysis is easy to read. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 17 of 28 
+ 
+- Overall presentation of the reports: 
+Explanation: 
+Attractive layout of the reports.  
+We will test the above competencies on your database of which we 
+have received a link. (In order to test the d atabases, RVO will receive 
+the URLs and log-in - See Requirements , pages 7 and annex 10). 
+5.2.2 Award criteria relating to Database quality 
+Max. no. of 
+points available 
+Asse ssment aspects 
+30 The quality of the webs ite will be assessed on the following aspects: 
+- Search function:  
+Explanation: 
+Clear categories and su b-categories, a visible search box, by entering 
+a search term and selecting a category, a user can then narrow down 
+their selection using filters . 
+- Ease-of-use/user-friendliness: 
+Explanation: 
+Well-formatted content that is easy to scan,  Fast load times, Effective, 
+intuitive navigation, concise content. 
+- The availability of an overview  
+Explanation: 
+The contents of individual reports (e.g. list of contents, summary, 
+introduction). 
+We will test the above comp etencies on your database of which we 
+have received a link. (In order to test the databases, RVO will receive 
+the URLs and log-in - See Requirements, pages 7 and annex 10). 
+5.2.3 Award criteria relating to Country coverage 
+Max. no. of 
+points available 
+Assessmen t aspects 
+15 The database must contain information on the countries listed in 
+Annex 8 ‘List of mandatory count ries’. 
+Apart from the mandatory countries listed in Annex 8, there is a list of 
+preferred countrie s (see Annex 9). For every country available from 
+this list of prefer red countries, you get half a point (0,5). 
+5.3 Award criteria relating to prices/rates (exclusive of VAT) 
+Max. no. of 
+points available 
+Asse ssment aspects 
+15 (Use: Annex 2). 
+ 
+The tenderer s with the lowest price per year will be awarded the 
+maximum number of points. The other tendering partie s will be 
+awarded points based  on the following formula: 
+(lowest price per year / tendering party price) * the maximum number 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 18 of 28 
+ 
+of points.  
+Your one-year price offer should not exceed € 80.000 excl. VAT. 
+Tenderer s with prices higher than € 80.000,- excl. VAT will not be 
+assessed and will be rejected. Your complete tender will then be 
+discarded. Prices excluding VAT will be assessed.  See price sheet 
+appendix 2. 
+See § 5.4.2. for an example worked out using this method. 
+5.4 Assessment method for qualitative award criteria 
+ 
+During the assessment, the assessment team will work in accordance with the following scale for 
+the weight ing of the quality criteria. 
+ 
+ 
+Examples: 
+Quality of the respo nse Weighting percentage of the maximum points 
+available per preference 
+Excellent: The response  significantly exceeded 
+expectation s and offers a great deal of added 
+value. 
+5 
+Very Good: The response  exceeded 
+expectations and offered some added value in 
+places. 
+4  
+Good: The response  sufficiently met our 
+expecta tions. 
+3  
+Fair: The response  did not completely meet our 
+expectation s and displays shortcomings with 
+regard to certain aspects.  
+2  
+Poor: The respons e does not meet 
+expect ations and clearly displays many 
+shortcomi ngs. 
+1 
+No respon se was provided to the question. 0 
+ 
+ 
+5.5 Assessment of preferences in relation to prices/rates 
+ 
+Assessment for preferences  5.2.1. and 5.2.2: 
+ 
+Example : 
+Quality of the contents  
+With a total score of 4 
+Calculation (40 (points) * 4 / 5) = 32 points 
+ 
+Assessment f or preferences: 
+5.2.3. see annex 9 
+ 
+Example: 
+Each country will earn you 0,5 points. If you can cover all countries, you will earn the 
+full amo unt of 15 percentage points. 
+If you can cover 20 out of 30 countries, you will earn 10 points . 
+In annex 9, you need to indicate h ow many countries you can cover. You can do so by marking the 
+countries in question with a cross. 
+ 
+ 
+ 
+ 
+ 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 19 of 28 
+ 
+Asse ssment for preferences prices 5.3.: 
+ 
+Assessment: 
+The lowest (year)prices  will be qualified as ‘high’ and gets the maximum number of points (15 
+points) 
+other  bidders will score proportionally, according to the formula = 15 * (lowest price /offered price 
+per bidde r. 
+ 
+Example:  
+The highest  offered total year price is € 80.000,- . The lowest  offered total price is € 50.000,- 
+The supplier with the highest offered price will be scored as follow: 
+Calculation: 50.000 /80.000,- * 15  = 9,375 points . 
+ 
+Bandwidth* 
+Your one -year price offer should not exceed € 80.000 excl. VAT. Tenders with prices high er than € 
+80.000,- excl. VAT will not be assessed and will be rejected. Your complete  tender will then be 
+discarded. Prices excluding VAT will be assessed. See price sheet annex 2. 
+ 
+ 
+ 
+ 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 20 of 28 
+ 
+ 
+6.  Assessment of the Tender 
+6.1 Assessment of the Tender’s completeness and legal validity 
+The Tender will be assess ed according to the following procedure. The Tendering Authority will 
+check whether : 
+1. all required documen ts have been provided (see the checklist in the subsection ‘Structure and 
+conte nt of the Tender’ in Section 7); 
+2. the information is correct and complete, and no adjustments have been made to the 
+documents provided by the Tendering Authority; 
+3. no provisos have been made by the Tenderer (e.g. specifying that the Tenderer’s own terms 
+and conditions apply); 
+4. the ‘European Single Procurement Document’ has been completed in full and has been legally 
+signed.  
+ 
+In the event that  the aforementioned requirements have not been complied with, the Tender will 
+be excluded from assessment and further participation in the tendering process, unless 
+rectification is permitted within the boundaries of public procurement legislation. 
+6.2 Assessment of requirements relating to the assignment 
+Subseque ntly, the Tender’s compliance with the requirements to the assignment (see Section 3) 
+will be asse ssed. Any Tenders that do not comply, will be excluded from further participation in the 
+tendering proc ess. 
+6.3 Assessment of award criteria relating to the assignment 
+Subseq uently, all Tenders not e xcluded from the tendering process, will be assessed according to 
+the award criteria stipulated in Section 5. 
+6.4 Determination of definitive total score 
+The Contract will be awarded accord ing to the principle of the Most Economically Advantageous 
+Tender . The Most Economically Advantageous Tender is the Tender  that achieves the highest 
+definitive total score based on the best price-quality ratio. 
+ 
+The Tenderer ’s definitive total score will be rounded to one decimal place. No scores will be 
+rounded off until the moment that this de finitive total score is determined. If two or more  
+Tendere rs have an equal definitive total score that would result in the Contracting Authority having 
+to award the Contract to more parties than is desired, then the Contracting Authorit y will award 
+the Contract to the Tenderer  with the highest final score for the subcriterion Country coverage In 
+the event that the highest scoring Tenderer s also achieve an equal score for this subcriterion, then 
+determination of the Tenderer  to which the Contract will be awarded will be made by drawing lots. 
+ 
+6.5 Assessment of evidence 
+At the mo ment that the Tenderer legally signs the ‘European Single Procurement Document’ and 
+submit s the Tender, the Tenderer is not (yet) required to  provide any evidence, unless expressly 
+asked to do so in this Tender document.  
+ 
+By signing the ‘European Single Procurement Document’ and submitting his Tender, the Tenderer 
+agrees th at at a later date, the Tendering  Authority is entitled to request that the winning 
+Tenderer  provides the required evidence.  
+ 
+Upon awarding the Contract, the Tenderin g Authority will only request evid ence from the winning 
+Tenderer. The Tenderin g Authority is entitled to request this evidence at an earlier stage and from 
+all Tenderer s if it believes su ch a course of action is necessary to facilitate the progress of the 
+tendering  process. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 21 of 28 
+ 
+The evidence m ust demonstrate that the Tenderer indeed complies with the content of both the 
+‘European Single Procurement Document’ and the Tender. Following the Tendering Authority’s 
+request to provide the evidence, the Tenderer has 10 (ten) calendar days to hand over the 
+required evidence. If the Tendering  Authority does not agree with the content and/or validity of 
+one or more of the pieces of evidence provided by the winning Tenderer, then this could result in 
+the winning Tenderer being excluded from further participation in the process. In such cases, the 
+Tendering  Authority will inform every Tenderer of this situation. The Tendering Authority will then 
+determine th e next Most Economically Advantageous Tender. The score of the Tenderer that has 
+just been exclude d will be removed. The calculations will then be carried out once more and a new 
+ranking will be created.  The award process will then be conducted again. 
+ 
+In the event a winning Tenderer does not qualify for the definitive award of the Contract, then all 
+Tender ers will be notified of this and the consequences  thereof concerning the award of the 
+contract. 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 22 of 28 
+ 
+ 
+7.  Submission procedure for Tenders 
+ 
+7.1 Statement of agreement 
+By submitting  a Tender, including the ‘European Single Procurement Document’, the Tenderer 
+explicitly consents to all requirements and conditions stipulated in this Tende r document and the 
+Memorandum  of Information and declares that he will continue to comply therewith throughout the 
+entirety of the contract period. Furthermore, the Tenderer confirms that he will comply with all of 
+the speci fied prices and rates, including any agreed indexation. Failing to comply with one or more 
+requirements will result in his Tender being disqualified from the assessment process and therefore 
+excluded from the tendering process. 
+7.2 Schedule 
+See schedul e in Subsection 1.3. 
+7.3 General procedure 
+This tendering proc ess will be carried out in compl iance with the Public Procurement Act. In this 
+case, the ‘open procedure’ was selected. An announcement thereof was published on 
+www.tenderned.nl and on Tender Europe an Daily (TED).  
+ 
+In the even t that a Tender is not submitte d in accordance with the provisions and regulations 
+stipulated in this section, the Tendering Authority can set aside the Tender and exclude the 
+Tenderer from further participation in this tender procedure.  
+7.3.1 Communication 
+All communi cation relating to this tender procedure will be cond ucted via TenderNed 
+(www.tendern ed.nl), unless otherwise specified.  
+ 
+Once you have indicated your interest in this invitation to tender on Tend erNed, you can send and 
+receive messages about this tender process via ‘My Tender s’. Any questions concerning the tender 
+proce ss can be sent to the Tendering Authority’s contact person via TenderNed .  
+You will receive  messages via TenderNed. Via your personal TenderNed settings, you can turn on 
+automa tic notifications, including notifications to your private email address. It is your 
+responsibili ty to ensure that these emails are not blocked by your email provider’s security system.  
+If the com munication cannot be conducted via TenderNed, you can contact the following contact 
+person(s):  
+Marcel van der Beek, marcel.vanderbeek@rvo.nl or Leo Stoelinga, Leo.stoelinga@rvo.nl  
+ 
+Attempts to directly contact parties other than the contact person(s) stated above in relation to 
+this tender  process are prohibited. 
+ 
+If you have any functional or technical questions regarding TenderNed, you can contact the 
+TenderNed service desk on weekdays between 08:30 and 18:00 CET on 0800-8363376 o r via 
+service desk@tenderned.nl. You can also consul t the eHandbook via 
+http://www.tend erned.nl/egids/. 
+7.3.2 eHerkenning 
+All TenderN ed users affiliated with a Dutch company registered with the Dutch Chamber of 
+Commerc e are obliged to log in and register using eHerkenning.  
+This obligation does not apply to companies not registered in the Netherlands. 
+Visit http://www.tende rned.nl/eherkenning-en-tenderned-0 for more information about 
+eHerkenning, including the terms and conditions. You are responsi ble for any consequences arising 
+from the failure to registe r with eHerkenning in a timely manner. 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 23 of 28 
+ 
+7.3.3 Questions and additional information/changes 
+During the proce dure, you have the opportunity to ask questions. Ask your questions as soon as 
+possibl e. All questions will be answered anonymously. The Tendering Authority can answer your 
+questions via TenderNed in two ways: 
+- Via one or mor e Memoranda of Information. 
+- By means of the TenderNed ‘Questions and Answers’ facility.  
+The deadline for submis sion of your questions is specified in the schedule (see section 1.3). In any 
+event, all questions asked will be answered at least 10 days prior to the deadline for submission of 
+the Tender.  
+ 
+Submitting a question to the Tendering Authority 
+Questions are to be asked via TenderNed. See https://www.tenderned.nl/cms/english/tenderned -
+foreign-businesses 
+ 
+All questio ns and answers will be published anonymously for all interested p arties to view. If you 
+have a compelli ng reason why you do not wish your question (and its answer) to be revealed to 
+the other interested parties, then tick the ‘Answer Individually’ box. However, the Tendering  
+Authority will decide whether or not to process your question individually.  
+ 
+Answers from the Tendering Authority 
+The Memoranda of Information are an integral part of this Tender do cument. The Tendering 
+Authority assum es that all secti ons for which no questions have been asked have been clearly and 
+fully understood. 
+ 
+7.3.4 Validity period and submission of Tender 
+The Tender mus t be valid for at least the four months after the deadline for submitting the 
+tenders. In the event that an application for a preliminary injunction is filed with the com petent 
+court in The Hague against the award decision , then the Tenderers must in any event ensur e that 
+their Tender s are valid until four weeks subsequent to the initial decision by the court.  
+7.3.5 Variants on Tender 
+Upon submitting a Tender in accord ance with the Tender document, the Tenderer is not permitted 
+to submit a variant of this Tende r. 
+7.3.6 Costs of submitting a Tender 
+The Tendering Authority will not reimburse any Tende rers for any costs resulting from the drafting 
+and submitting  of a Tender, including any further information requested of the Tende rer. 
+7.3.7 Termination of tendering process 
+Until the mo ment that the Contract is signed, the Tendering Authority reserves the right to 
+partially, fully, temp orarily or permanently terminate the tendering process. In such cases, 
+Tenderers will not be entitled to receive compensation for any costs incurred by them in 
+connection with  this Tender, unless the Contracting Authority is of the opinion that a (small) 
+contribution to the tender costs is appropriate in view of the circumstan ces.  
+7.3.8 Order of precedence of documents 
+In the even t of inconsistencies between the Tender document and the Memorandum of 
+Information , the Memorandum of Information takes precedence.  
+In the event that there are multipl e Memoranda of Information, then the provisions in the most  
+rece nt Memorandum of Information takes precedence in the event of inconsistencies  between the 
+different Memoranda .  
+7.3.9 Information about the Tenderer’s obligations 
+The Tenderer must take into account his obligations relating to environmental, social and 
+empl oyment law in compliance with  article 2.81 paragraph 2 of the Public Procurement Act. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 24 of 28 
+ 
+Information on obligations resulting from Dutch legal provisions with regard to taxes, 
+environmental protection, occupational health and safety and terms of employme nt that will be 
+applicable to the Tenderer’s activities throughout the Contract period is available from the 
+following sources: 
+• Information on taxes: the Dutch Tax and Custom s Administration: (www.belastingdienst.nl). 
+• Provisions concerning env ironmental protection: the Ministry of Infrastructure  and Water 
+Management (www.rijksoverheid.nl). 
+• Provisions pertaining to occupational health and safety and terms of employment: the Ministry 
+of Social Affairs and Emplo yment: (www.rijksoverheid.nl ). 
+7.3.10 Guide Information security and Privacy for suppliers 
+Protecting information and personal data is the top priority for the Ministry of Econ omic Affairs and 
+Climate Policy (EZK). That requires significant effort from our own employees, but also from our 
+supp liers. You can read more about it in this concise g uide. Suppliers guide Information Security 
+and Privacy EZK  
+7.3.11 Inconsistencies and objections 
+If the Tenderer is of the opinion that the documents contain inconsistencies, errors or matters that 
+are unclear or if the Tenderer  has any objections , then the Tenderer must report this to the 
+contact person in writing, including subs tantiation.  
+7.3.12 Complaints procedure 
+If a Tender er disputes a response given by the Tendering Authority to a question, request, 
+com ment or objection from the Tenderer, or if the Tenderer receives no response, then he can 
+submit a complaint. More detailed information on this matter can be found in the ‘Complaints 
+Procedur e’ annex. 
+7.3.13 Dispute resolution 
+In addition to the provisions in the ‘Complaints Procedure’ subsection, any dispute arising from this 
+tenderin g process can be presented to the Public Procurement Experts Committee 
+(www.commis sievanaanbestedingsexperts.nl) and/or to the competent court in The Hague. Dutch 
+law applies exclusiv ely to such proceedings. 
+7.3.14 Submission of the Tender 
+The deadline (date and time) for submission of  Tenders is stipulated in the ‘Time schedule’ (1.3)  
+and it is a final deadline.  
+• In order to submit a Tender, you must register with TenderNed. One or more reg istered users 
+must  be connected and authorised to submit the Tender via TenderNed on behalf of your 
+comp any.  
+The Tender ing Authority advises that you start the TenderNed registration process immediately 
+rather than postponing it until the tendering period  is coming to a close. Upon registering your 
+organisation, you must add your tender via TenderNed’s announcements platform. 
+• For more info rmation on registering and establishing your organisation with TenderNed and 
+digital submission of your Tender, visit https://www.tenderned.nl/cms/english/tenderned -
+foreign-businesses 
+• Only Tenders that  have been submitted to the digital safe for this invitation to tend er either 
+prior to or on the day of the deadline (prior to the time of the deadline) will be processed by the 
+Tendering  Authority.  
+• The time and date as displayed on the digital countdown clock in TenderNed serves as the 
+definitive deadline for the submission of Tenders.  
+• The Tendering  Authority is only able to see the Tenders once the digital safe opens in 
+TenderNed. This safe can only be opene d upon expiry of the deadline for the submission of 
+Tenders.  
+• In the event you have technical issues or questions regarding submission of your Tender via 
+Tender Ned, you can contact the TenderNed service desk via servicedesk@tenderned.nl or +31 
+(0)70-3798899. If you believe that the Tende rNed service desk is taking too long to answer 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 25 of 28 
+ 
+your question or com ment, then you can contact your contact person within the Tendering 
+Authority.  
+• Any risks resulting from late submission of the Tender and/or submission of an incomplete 
+Tender is borne by the Tenderer .  
+• The Tendering Authority is neither responsible nor liable for any consequenc es resulting from a 
+Tender  that is submi tted too late, incorrectly or incom pletely. 
+ 
+The Tendering  Authority will treat confidention al inform ation provided by the Tenderer with due 
+care. 
+7.3.15 Structure  and content of the Tender 
+The Tender must be submitted entirely via TenderNe d and the ‘European Single Procurement 
+Document ’ must be legally signed. 
+ 
+You can use the following checklist during the submission of your quotation. 
+ 
+Subject  Descripti on Action required from tenderer 
+Annex 1 European Single Procurement 
+Documen t* 
+Fill in, legally sign and add to 
+TenderNed  
+Annex 2 Price included in the quotation Fill in, legally sign and add to  
+TenderNed  
+Annex 9 
+ 
+List of Countries preferences  Fill in, legally sign and add to 
+TenderNed  
+Annex 10 Preferences URLs and log-in details Fill in, legally sign and add to 
+TenderNed  
+Annex 11  References  Fill in, legally sign and add to 
+TenderNed  
+* See Subsect ion 7.3.16 in the event your Tender is submitt ed in collaboration with other 
+compa nies.  
+7.3.16 Legally binding signature 
+A legally binding signature means  that a docu ment has been signed by a duly authorized  
+representative. 
+If it is recorded in the professional or company register that two or more persons only have joint 
+powers of representation, then the documents requiring a legally binding signature mus t be signed 
+by those two or more persons. If any restrictions are in place regarding the authorization to 
+represent the organization, then these must be taken into account.  
+ 
+Where a legally binding signature is required, the Contracting Authority accepts, in addition to an 
+original handwritten signatu re, also the qualified electronic signature within the meaning of article 
+3: 15a of the Civil Code (or EU Regulation no. 910/2014, article 3, part 12). 
+ 
+Please note: it is not possible t o sign the European Single Procurement Document with a qualified 
+elect ronic signature immediately. You can provide the ESPD with a handwritten signature or you 
+mus t make a digital PDF printout of the PDF form, after which the qualified electronic signature 
+can be placed on this digital PDF printout. 
+ 
+The lack of a legally binding signature in principle will lead to exclusion from the tendering 
+procedure. In that case, however, you will be given one single opportunity to correct it within 48 
+hours . 
+7.3.17 Submission of a Tender in collaboration with other organisations 
+If you cannot carry out the assignment independently, you can set up a collaboration with other 
+organisations. 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 26 of 28 
+ 
+ 
+There are two ways in which you can submit a Tender  in collaboration: 
+• 1) As a consortium  in which each member of the consortium is jointly and severally liable for 
+the fulfilment of the obligations arising from the Tender as well as the fulfilment of the 
+Contract. 
+• 2) In a principal contractor-subcontractor structure in which the Contractor is liable for the 
+fulfilment of all obligations, including the obligations that will be subcontracted. 
+ 
+Tendering as a consortium 
+If a Tender is submitted by a consortium, then: 
+• Every memb er of the consortium must fill in and legally sign a separate ‘European Single 
+Procurement Do cument’, which also includes a specification of who the consortium members 
+are (see Part II of the ‘European Single Procurement Document’). Indicate the role each 
+membe r plays within the consortium. In the ‘Europea n Single Procuremen t Document’, you 
+must indicate who is in charge of the consortium (who is lead manager) and will act as its 
+authorise d representative. 
+• All organisations in the consortium accept joint and several liability for the fulfilment of  the 
+obligations arising from the Tender and the eventual fulfilment of the Contract. 
+• If a consorti um member relies upon the capacity of another entity in order to demonstrate 
+compliance wi th the applicable Suitability Requirements, then the entities in question must 
+comple te and sign Part II C of the ‘European Single Procurement Document’ (in compliance 
+with the provisions specified below in the su bsection ‘Submitting a tender together with 
+subcontractors’ in the eventuality that subcontractors are obliged to demonstrate their 
+capacity). 
+• Every member of the  consort ium, for their part, must provide the evidence requested for the 
+Tender. 
+ 
+Submitting a tender as a principal contractor together with subcontractors 
+If a Tender  is submitted by a principal contrac tor that does not rely upon the capacity of any 
+subc ontractors, then only the principal contractor is required to complete and legally sign Part II D 
+of the ‘European Single Procurement Document’. 
+ 
+If the principal contractor does rely on the capacity of subcontractors in order to demonstrate 
+compliance wit h the applicable Suitability Requirements, then the subcontractor(s) in question 
+must also com plete and legally sign Part II C of the ‘European Single Procurement Document’. 
+ 
+The principal contractor is fully liable for the fulfilment of the obligations arising from the Tender as 
+well as the fulfilment  of the contract (if awarded). In addition, the principal contractor is liable for 
+the fulfilment o f the obligations for which he has hired the subcontractor(s). 
+ 
+All complete d and legally signed ‘European Single Procurement Document’ forms must be added to 
+the Tender. 
+ 
+7.3.18 Single Tender 
+All natural persons, legal entities and organisations may only submit a single Tender (either 
+individually or in combina tion with other natural persons, legal entities and/or organisations). 
+Tende rers who are mutually connected via a relationship of dependence (group link) are permitted 
+to participate separately in this tendering proced ure. However, this is on the express condition that 
+they participate as competitors in this tendering process. For this purpose, they must demonstrate 
+that their mutual relationship has not influenced their behaviour within the scope of this tendering 
+procedure nor has it restricted fair compe tition. 
+ 
+By submitting a Tender, the Tenderer in question agrees to this condition. 
+ 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 27 of 28 
+ 
+7.3.19 Violation of the fundamental principles of procurement law and restriction of fair 
+competition 
+Any Tenderer whose actions violate a fundamental principle of procurement law (such as the 
+equality principle), the result of which restricts or could restrict fair com petition, will be excluded 
+from this tendering procedure. This is also the case if the violation or the restriction of fair 
+competition only comes to light after the announce ment of the award of the Contract to all 
+Tenderer s. Prior to making the dec ision to exclude the Tenderer in question, the Tendering 
+Authority will notify the Tenderer  of this intentio n, at which point the Tenderer will be given the 
+opportunity to demonstrate to the Tendering Authority that no violation of a fundamental principle 
+of procurement law or restriction of fair competition has taken place. 
+ 
+By submitting  this Tender, the Tenderer declares his awareness that actions contravening any 
+fundamental principle of procureme nt law can result in the aforementioned consequences. The 
+Tender ing Authority can use all resources available to him in order to identify any violation of the 
+fundam ental principles of procu rement law or the restriction of fair competitio n. A judicial decision 
+will not be a nece ssary requirement in such cases. 
+7.3.20 Communication and language 
+ 
+During the tendering process, commu nication with the Contracting Authority must be conducted in 
+Dutch or English. 
+The Tender must be submitted in English. 
+Additional docume nts (such as informational materials etc.) can also be provided in Dutch or 
+English. 
+During the fulfilment of the contract, communication must  be conducted in Dutch of English. 
+7.3.21 General terms and conditions 
+The applicability of any of the Tenderer’s general terms and conditions concerning delivery, 
+payment and/or any other matters is explicitely excluded. The General Government Terms and 
+Conditions apply to the Contract. 
+7.3.22 Contract conditions 
+The draft Contract, and the corres ponding General Government Terms and Conditions are included 
+in the annexes. The Tenderers have the opportunity to ask questions, make comments and 
+propose textua l amendments. 
+ 
+The Tendering Authority is free to accept or reject the proposed textual amendm ents. The 
+Tender ing Authority will indicate whether  or not the proposals have been accepted or rejected in 
+the Memorandum of  Information. By submitt ing the Tender, the Tenderer declares his consent to 
+the (possibly amended) Contract. Only the definitive Contract. will apply during the execution of 
+the assignment.  
+7.3.23 Explanation and verification of the Tender 
+The Tendering  Authority can request that the Tenderer explains his Tender in greater detail and/or 
+provide su bstantiating documents. The Tendering Authority is entitled – although not obliged – to 
+check the accuracy of all data and statements submitted within the scope of the Tender. 
+7.3.24 Request for supplementary information concerning the Tender 
+The Tendering  Authority can ask Tenderers to provide supplementary information and/or 
+clarification of their Tender. 
+7.3.25 Announcement of the award of the Contract 
+All Tenderer s will receive a message simultaneously that announces the award of the Contract and 
+substantiates its de cision. All Tenderers are entitled to request further information regarding this 
+decision  from the Tendering Authority. 
+ 
+Standstill period  
+All Tenderer s and stakeholders who dispute the award of the Contract and/or the verbal/written 
+substantiation thereo f can apply for a preliminary injunction at the com petent civil court in The 
+Hague. This must be done no later than 20 calendar days subs equent to the sending of the digital 
+Tender-document Acquisition of information from international databases 2022-2025 - IUC 202109046  Page 28 of 28 
+ 
+notifications concerning the award of the Contract. Upon expiry of this period, no more 
+applications for a preliminary injunction can be submitted. In the event a Tenderer applies for a 
+preliminary injunction, we kindly reque st that you send a copy of the summons to the Tendering 
+Authority. 
+ 
+On the grounds of Section 2.129 of the Public Procure ment Act the award of the Contract does not 
+yet mean  the Tenderer’s Tender has been accepted. For the 20 calendar days subsequent to the 
+sending of the digital notification of the award of the Contract, the Tendering Authority is not 
+permitted to d efinitively award the assignment by concluding the Contract. 
+ 
+If a preliminary injunction  is applied for during these 20 calendar days, then a waiting period will 
+be required pending a judgement in the preliminary injunction proceedings. The judgement will 
+serve as the basis for further decis ion making by the Tendering Authority. 
+ 
+If preliminary injunction  proceed ings are brought against the award of the Contract, then the  
+Tendering Authority will notify the Tendere r of this fact. The Tenderer  must ensure that his Tende r 
+remains valid for at least four weeks subsequ ent to the judgement in the preliminary injunction 
+proceedings.  
+ 
+Interest in relation to the judgement  
+Tendere rs who have an interest in the judgement in these  preliminary injunction proceedings can 
+only engag e in these proceedings by means of intervention or joinder. The Tenderer cannot initiate 
+separate  proceedings or other judicial proceedings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexes 
+ 
+The following annexes c onstitute an integral part of this Tender docume nt. These annexes were 
+published together with the Tender document . 
+ 
+Annex 1: Uniform European Tendering Document  
+Annex 2: Prices/Rates 
+Annex 3: Draft Contract  
+Annex 4: ARVODI-2018 ENG 
+Annex 5: Expired 
+Annex 6: Complaints Procedure 
+Annex 7: Questions and Comments Form 
+Annex 8: List of Countries requ irements  
+Annex 9: List of Countries preferences  
+Annex 10:Preference  URLs and log-in details 
+Annex 11:References
+
+=== Document: annex 1 uniform european tendering document the acquisition of information from international databases 2022-2025 ===
+Please wait... 
+  
+If this message is not eventually replaced by the proper contents of the document, your PDF 
+viewer may not be able to display this type of document. 
+  
+You can upgrade to the latest version of Adobe Reader for Windows®, Mac, or Linux® by 
+visiting  http://www.adobe.com/go/reader_download. 
+  
+For more assistance with Adobe Reader visit  http://www.adobe.com/go/acrreader. 
+  
+Windows is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries. Mac is a trademark 
+of Apple Inc., registered in the United States and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other 
+countries.
+
+=== Document: annex 3 public service contract acquisition of information from international databases 2022-2025 v 1.0 ===
+Public service contract (ARVODI 2018)  
+The acquisition of information from international databases  
+ 
+IUC number:  202109046  
+ 
+The undersigned: 
+ 
+1. The State of the Netherlands, which has its seat in The Hague,  
+represented by the Minister of Economic Affairs for Economic Affairs and Climate Policy, legally 
+represented in this matter by [signatory’s name and position], 
+hereinafter referred to as the Contracting Authority, 
+ 
+and 
+ 
+2. [Contractor’s full name and legal form],  
+which has its registered  office in …, legally represented in this matter by  
+... [and ...] [signatory’s name], hereinafter referred to as the Contractor, 
+ 
+WHEREAS: 
+ 
+– The Contracting Authority requires, in relation to the performance of Services in the area of 
+the acquisition of information from databases., to agree fixed terms for a certain period 
+with 1 (one) service provider  
+– The Contracting Authority  has published a tender document for this purpose; 
+– The Contractor  submitted a tender on the ……; 
+– The Contracting Authority has awarded the contract to the Contractor based on this tender; 
+– The Contractor has sufficiently familiarised itself with what the Contracting Authority wishes 
+to achieve ; 
+– The Parties wish to lay down the ensuing legal relationship in a written Contract; 
+–  The Agreement having a term of 1 year with 3 optional extension(s) of 1 year;  
+–  ………; 
+ 
+ 
+AGREE AS FOLLOWS:  
+ 
+A number of terms in this Contract are written with initial capitals. The meanings of these terms 
+are defined in article 1 of the General Government Terms and Conditions for Public Service 
+Contracts 2018 (ARVODI 2018). 
+ 
+ 
+1. Object of the Contract 
+ 
+1.1 The Contracting Authority hereby commissions the Contractor to perform services as 
+described in the quotation submitted by the Contractor on [date] (ref. ..., see Schedule  ...) 
+based on the tender issued by the Contracting Authority on ……, so far as this Contract 
+does not contain any provisions to the contrary.  The Contractor hereby  agrees to perform 
+these Services. 
+ 
+1.2 The following documents are an integral part of this Contract. In the event of 
+inconsistencies , a higher ranked document takes precedence over a lower ranked 
+document:  
+ 1.  this document  including schedules; 
+ 
+ 
+ 
+ 
+ 
+ 
+Service agreement Acquisition of information from international databases 2022 -2025 
+IUC 202109046 
+ 
+2 
+ 2.  the Memorandum of Information  
+ 3.  Tender document ; 
+ 4.  the ARVODI 2018; 
+5.  the tender  issued by the Contractor to the Contracting Authority on [date], ref … 
+  
+ 
+2. Formation and duration of the Contract 
+ 
+2.1 This Contract comes into effect on 3 Januari 2021 and has an initial contract period of 1 
+year with three (3) times an option to extend this Contract, to be exercised unilaterally by 
+the Contracting Authority, under the same conditions, each time with a maximum period of 
+one (1) years. The total duration of the Contract is therefore maximum four (4) years, 
+including extension options. 
+If the Contracting Authority does not wish to make use of an extension option, he will notify 
+the Contractor in writing of this no later than three (3) months before the expiry of the 
+initial or current contract period. In that case,  the Contract will end by operation of law 
+after the initial contract period or the contract period applicable at that time. In the 
+absence of such a message from the Contracting Authority, an option to extend takes effect 
+automatically, if and insofar as such an option is still open. 
+ 
+ 
+3. Price and other financial provisions 
+ 
+ 
+3.1 The Contractor will perform the Services for a fixed aggregate fee of € … (excluding VAT 
+and including travel, accommodation and any other costs).  
+ 
+3.2 It is expressly agreed that if the Contractor does not charge VAT but some or all of the 
+Services are not exempt from VAT, the Contracting Authority will not be liable to pay the 
+VAT in question . 
+ 
+3.3 The fee covers all Services to be performed by the Contractor under this Contract, plus any 
+materials needed for this purpose.  
+ 
+3.4 The agreed rates are fixed and invariable during the term of this Contract. 
+ 
+ 
+3.5 Payment will be made once the result s of the Services have been accepted. 
+ 
+       
+3.6 Invoicing by the Contractor must submit invoices electronically in the manner prescribed in 
+the  tender document . 
+ 
+OR 
+ 
+3.6   E-invoicing 
+The Contractor must send the invoices electronically to:  
+<<dienstonderdeel>>  
+Government identification number: <<OIN nummer>>  
+attn. <<financiële administratie>>, <<contactpersoon>>.  
+ 
+The general terms and conditions that apply to this contract prescribe/contain a provision 
+that invoices must be sent electronically (not in pdf). This can be done in 4 different ways: 
+• The invoicing portal of the Dutch government ; 
+• Link with Digipoort ; 
+• E-invoicing with your own (accounting) software package  through Peppol; 
+• E-invoicing through a service provider . 
+ 
+For more information: https://www.helpdesk-efactureren.nl/e-facturen-versturen 
+ 
+ 
+ 
+ 
+ 
+ 
+Service agreement Acquisition of information from international databases 2022 -2025 
+IUC 202109046 
+ 
+3 
+For questions regarding e -invoicing via the portal, please contact helpdesk-
+efactureren@rvo.nl , 088-0424400, option 2. 
+For questions regarding e -invoicing via an accounting program (Peppol), please contact 
+operations@pep polautoriteit.nl, 020-3697653. 
+ 
+OR 
+ 
+3.6 The paragraph concerning e -invoicing does not apply to companies located outside of the 
+Netherlands.  
+You must state the order number on your invoice. You can send your invoice by e -mail in 
+PDF format to pdffacturen@minezk.nl. 
+ 
+ 
+4. Contacts / project managers 
+ 
+4.1 The Contracting Authority’s contact is ...  
+The Contractor’s contact is ... 
+ 
+4.2 The Contracting Authority’s project manager is ...   
+ The Contractor’s project manager is ... 
+ 
+4.3  Notwithstanding the provisions o f article 10.2 of the ARVODI 2018, the contacts named 
+above cannot make legally binding agreements on the Parties’ behalf. 
+ 
+ 
+5. Time and place 
+ 
+5.1       In principle, the Services will be performed at the Contracting Authority’s offices . 
+ 
+ 
+5.2 If the Services are performed at the Contracting Authority’s offices, the Contracting 
+Authority will give the Contractor’s Staff access to the place where the Services are to be 
+performed and will enable the Contractor’s Staff to perform the Services in wo rking 
+conditions that reflect the Party’s usual practice and during normal office hours.  
+ 
+ 
+6. Other Terms and Conditions 
+ 
+6.1 This Contract is governed exclusively by the General Government Terms and Conditions for 
+Public Service Contracts 2018 (ARVODI 2018) (see Schedule  4), of which the Parties have 
+already received a copy , in so far as this Contract does not contain any provisions to the 
+contrary. Any general and special terms  and conditions drawn up by the Contractor do not 
+apply to this Contract. 
+ 
+6.2 <OPTIONAL> Notwithstanding the provision s of article … of the ARVODI 2018, the 
+following provision applies to ...: ....... 
+ 
+6.8 Notwithstanding article 21.3 of the ARVODI 2018, a Party that imputably fails to discharge 
+its obligations to the other Party is liable for any loss incurred by the other Party. 
+  
+ 
+ 
+7. User rights 
+ 
+7.1 Articles 24.1, 24.5 and 24.6 of the ARVODI 2018 do not apply. 
+ 
+7.2 The Contractor grants the Contracting Authority a non-exclusive, irrevocable right for an 
+indefinite period to publish or reproduce the results of the Services, or have the m published 
+or reproduced, which right the Contracting Authority accepts, such in the widest possible 
+ 
+ 
+ 
+ 
+ 
+ 
+Service agreement Acquisition of information from international databases 2022 -2025 
+IUC 202109046 
+ 
+4 
+sense , regardless of the method of use or reproduction and regardless of whether such use 
+or method of reproduction is known when this Contract is signed.  
+ 
+ 
+ 
+8. Vervallen  
+ 
+  
+ 
+9.  Vervallen  
+ 
+ 
+ 
+10. Declaration of integrity 
+ 
+The Contractor hereby declares that it has not offered or given members of the Contracting 
+Authority’s Staff any benefit in order to obtain the contract nor arranged for them to be 
+offered or given any such benefit. It undertakes not to do so in the future with a view to 
+inducing any members of the Contracting Authority’s Staff to perform or refrain from 
+performing any act. 
+ 
+11. Final provisions 
+ 
+11.1 Any derogations from th is Contract are binding only if they have been expressly agreed by 
+the Parties in writing. 
+ 
+11.2 Any written or oral agreements previously made by the Parties about the Services that are 
+the object of this Contract are nullified by the signature of this Contract. 
+ 
+Done and signed in duplicate . 
+The Hague, [date].   [place, date] …….. .........  
+ 
+ 
+ 
+ 
+For the Minister of Minister of Economic   For [Contractor’s name]  
+Affairs and climate commissioned by  
+…. 
+ 
+Jan van Spronsen MSc                              [signatory’s name]  
+Unitmanager Procurement Office                          [signatory’s position  
+ 
+ 
+ 
+ 
+ 
+Schedule (s): 
+- (ARVODI 2018)
+
+=== Document: annex 4 arvodi-engels-mei-2018 ===
+AVT18/BZ125844F 1 
+Explanatory notes to the General Government Terms and Conditions for Public 
+Service Contracts 2018 (ARVODI 2018) 
+ 
+Although these explanatory notes are public, they are not part of the Contract. They may be used 
+to dispel any doubts about the meaning or interpretation of the General Government Terms and 
+Conditions for Public Service Contracts 2018 (ARVODI 2018). They do not, however, affect any 
+agreements made by the Parties in a specific situation. 
+ 
+1. General introduction 
+ 
+1.1 Object of the ARVODI  
+ 
+The General Government Terms and Conditions for Public Service Contracts (ARVODI) were first 
+adopted by prime ministerial order of 5 March 2004, and have since undergone a number of 
+amendments. They provide a uniform set of general terms and conditions for public service 
+contracts between the State of the Netherlands (i.e. all ministries and public authorities and 
+agencies for which the ministries are responsible) and third parties. For the sake of convenience, 
+the ARVODI 2018 are referred to in these notes simply as the ARVODI. 
+ 
+1.2 Changes in the 2018 version compared with the 2016 version 
+ 
+The ARVODI 2016 have been revised in connection with the entry into force of the General Data 
+Protection Regulation (GDPR) on 25 May 2018. The amendments concern the clauses on processing 
+personal data and on liability. In addition, a number of provisions have been reformulated or 
+improved for the sake of clarity. 
+ 
+1.3 Use of the ARVODI  
+ 
+The Contract states that it is governed by the ARVODI. Model contracts have been drawn up for 
+this purpose that are available for use by civil servants. The models should be used as the basis for 
+the draft contract; the user will need to add or insert details at various points. 
+ 
+Both in the event of an award procedure and in the case of limited bidding, a draft of the Contract 
+should be sent, together with a copy of the ARVODI and the other tender documents, to the 
+tenderers or the selected candidates. 
+ 
+In principle, the ARVODI are designed to cover all forms of Services, with the exception of legal 
+relationships that are so specific as to warrant the use of different terms and conditions for the 
+contract in question. The General Government Terms and Conditions for IT Contracts (ARBIT) and 
+the relevant model contracts should be used for IT projects, for example. 
+ 
+ 
+AVT18/BZ125844F 2 
+Other terms and conditions, such as the General Provisions for Contracts Awarded to Architects and 
+Consultants (ABAA DNR 2005) may be used for work contracted to architects and engineering 
+consultants in relation to the design of buildings. However, the ARVODI are generally suited for use 
+in relation to other types of public service contract. Please contact the legal department in case of 
+doubt. 
+ 
+The General Government Purchasing Conditions (ARIV) should be used for all purchases and 
+deliveries of physical goods. 
+ 
+1.4 Deviation from the ARVODI 
+ 
+It is possible to deviate from the ARVODI in exceptional situations, although any such departures 
+must be guided by the relevant text of these explanatory notes and the relevant model contracts. 
+You are advised to contact the legal department in any such eventuality.  
+ 
+1.5 Suggestions and queries 
+ 
+It remains important to keep the ARVODI up to date and, where necessary, to make further 
+adjustments to them based on users’ experiences. If you have any suggestions or queries in this 
+connection, please contact the secretariat of the interministerial Advisory Committee on Corporate 
+Legal Affairs (CBA, email: cba@minbzk.nl). This committee is part of the Directorate-General for 
+the Public Sector (DGOO) at the Ministry of the Interior and Kingdom Relations. 
+ 
+2. Notes on individual articles 
+ 
+Notes on a number of articles follow below. Certain articles are self-explanatory, which is why no 
+separate explanation has been given. 
+ 
+Section I: General 
+ 
+Article 1 Definitions 
+ 
+A number of terms are defined in article 1 of the ARVODI. This means that, whenever one of these 
+terms appears with initial capitals in the ARVODI, its meaning is as defined in article 1. The same 
+applies to the use of these terms in the model contracts. 
+ 
+The term ‘Schedule’ is defined as a document attached to the Contract which, when initialled by the 
+parties to the Contract, is considered to form an integral part of it. It is therefore important to 
+ensure that all schedules are indeed initialled by the Parties. 
+ 
+The definition of ‘Contractor’s Staff’ implies that the term covers not only staff employed by the 
+Contractor, but also people engaged or deployed by the Contractor for the sole purpose of 
+ 
+AVT18/BZ125844F 3 
+performing the Contract. These are designated here as ‘assistants’ (see also article 5 of the model 
+contract). 
+ 
+The definition of the term ‘Working Day’ refers to the General Extension of Time Limits Act. The 
+official public holidays as defined in the General Extension of Time Limits Act are: New Year’s Day, 
+Easter Monday, Whit Monday, Christmas Day, Boxing Day, Ascension Day, the day on which the 
+monarch’s birthday is celebrated, and 5 May. Where a Contract is signed with a foreign partner, it 
+is worth making sure that there is no confusion about days classified as official public holidays, 
+especially as the contractual partner may be used to other public holidays. 
+ 
+As the term ‘Party’ is used to refer to both the Contracting Authority and the Contractor, it is 
+important to take careful account of the context in which the term is used. 
+ 
+Article 2 Application 
+ 
+Only the ARVODI apply to public service contracts, and not any terms and conditions the 
+Contractor may have drawn up. This is why the model public service contract explicitly excludes 
+the applicability of other general terms and conditions (see article 6.1 of the model public service 
+contract).  
+ 
+Section II: Performance of the Contract 
+ 
+Article 3 Guarantees given by the Contractor 
+ 
+Under article 3, the Contractor guarantees that the Services provided by it or on its behalf meet 
+the requirements laid down in the Contract and will be performed in a professional manner. It is 
+important to note here that any failure to fulfil this guarantee automatically constitutes an 
+attributable failure and hence automatically creates an obligation to pay damages. 
+ 
+Article 4 Assessment and acceptance 
+ 
+The acceptance and assessment of the Services provided are important milestones in the 
+performance of the Contract. After all, these are the points at which you decide whether or not the 
+Contractor has discharged its contractual obligations. 
+ 
+In assessing the Services, it is important to decide within 30 calendar days whether they have 
+been provided in accordance with the description of the object of the Contract and with the 
+requirements set out in it. The Contracting Authority will accept the Services if they meet these 
+requirements. As the Contracting Authority will be deemed to have tacitly accepted the Services if 
+it fails to respond within 30 days, it is important to respond within the 30-day period in any event. 
+The 30-day acceptance period is a statutory time limit (see article 119b (2) (c) and (4) of Book 6 
+of the Civil Code). 
+ 
+AVT18/BZ125844F 4 
+For the Contractor, acceptance is a milestone as it signals the start of the 30-day payment period. 
+This period commences once the Services have been accepted and the invoice has been received 
+(see article 18). The period of time between the acceptance and payment dates may be extended 
+in certain cases. For example, in the case of high-value Contracts, you can arrange for the Services 
+to be provided in instalments, although you should then clearly define in advance both when the 
+assessments are to take place and the deliverables concerned. 
+ 
+Although the Contracting Authority is free to instruct a third party to assess the Services on its 
+behalf (see paragraph 3), the 30-day time limit for acceptance still applies in this case. If you 
+decide to use a third-party assessor from the same branch of industry as that in which the 
+Contractor is active, you must ensure that the assessor, who is also one of the Contractor’s 
+competitors, does not gain access to any of the Contractor’s confidential company data. You can do 
+this, for example, by providing the deliverable you wish to have assessed without disclosing any 
+company data. 
+ 
+Article 6 Replacement of staff responsible for performing the Services  
+ 
+It is important to try and avoid situations in which a Contractor replaces staff who it has said will 
+be working on the project and whom the Contracting Authority has approved. Both the 
+performance of the Contract in question and the relationship with the Contracting Authority benefit 
+from a measure of continuity in relation to the staff deployed by the Contractor. Nevertheless, a 
+situation may arise in which the Contractor is no longer able to assign a particular member of its 
+staff to the Contract. The Contractor is not, however, entitled to replace the employee in question 
+without the Contracting Authority’s consent. 
+ 
+The Contracting Authority may not withhold its consent on unreasonable grounds and may attach 
+certain conditions to its consent. It is also entitled to ask the Contractor to replace certain 
+members of its staff if it believes that this is either necessary or desirable in the interests of the 
+Contract. The Contractor must comply with such a request unless it is unreasonable to expect it to 
+do so, for example because it is demonstrably impossible to find an adequate replacement. 
+ 
+Section III: Relationship between Parties and supervision  
+ 
+Article 9 Progress reports  
+ 
+In the light of the above, it is worth making arrangements about progress reports in the Contract, 
+particularly in the case of long-term projects (see article 6.3 of the model contract). 
+ 
+Article 10 Contacts  
+ 
+Contacts are entitled to perform any activities (irrespective of whether or not they are intended to 
+have a legal effect) that need to be undertaken in order to perform the Contract. However, the only 
+ 
+AVT18/BZ125844F 5 
+people entitled to agree on amendments to the Contract are the original signatories, their legal 
+successors and/or persons they have specifically authorised for this purpose. 
+ 
+Article 12 Method of notification 
+ 
+All notices given by the Parties under the terms of the Contract must be in writing. It is becoming 
+increasingly commonplace to make use of electronic means of communication, with email proving 
+particularly popular. Notices may be given by email, provided that the email in question meets the 
+criteria set out in paragraph 2. The text of this article is based on article 227a of Book 6 of the Civil 
+Code. 
+ 
+Article 13 Confidentiality 
+ 
+Public service contracts often involve a Contractor being supplied with information that is not 
+intended to be made public, which is why this article imposes a duty of confidentiality on the 
+Contractor. The Contractor is also obliged to impose this duty of confidentiality on its own Staff. To 
+prevent any misunderstandings, the Contracting Authority should clearly indicate in advance which 
+type of information is definitely to be regarded as confidential. 
+ 
+Under this provision the Contracting Authority may, if it considers this to be important, require the 
+Contractor to return information that it has in its possession to the Contracting Authority. However, 
+professionals in certain fields, like lawyers and auditors, are bound by the rules of their profession 
+to keep certain information. The Contracting Authority cannot demand that such information is 
+returned. 
+ 
+A penalty clause may be included in the Contract imposing a penalty on the Contractor if it 
+breaches its duty of confidentiality (see article 6.5 of the model contract). This provides an extra 
+stimulus for the Contractor to fulfil its duty of confidentiality.  
+ 
+Article 14 Processing of personal data 
+ 
+Paragraph 1 
+Paragraph 1 gives the Parties a contractual basis for calling on one another to comply with 
+obligations already applicable to them under legislation. 
+ 
+Paragraph 2 
+If, in performing the Contract for the Contracting Authority, the Contractor processes personal 
+data, the law requires this to be regulated in a data processing agreement. As a rule, the data 
+processing agreement will be signed at the same time as the Contract. If, however, cause to 
+conclude a data processing agreement arises only during the term of the Contract, paragraph 2 
+gives the Parties a contractual basis to call on one another to conclude such an agreement. 
+ 
+ 
+AVT18/BZ125844F 6 
+Article 15 Security 
+ 
+The Contracting Authority attaches great value to the security of its Staff, premises and 
+information, which is why the Contractor is required to follow the Contracting Authority’s codes of 
+conduct and internal rules. 
+ 
+The Contracting Authority must inform the Contractor in good time about these rules. The 
+Contractor, in turn, is required inform its own Staff about them. The Contracting Authority is also 
+entitled to remind the Contractor’s Staff about the existence of these rules, as and when the need 
+arises during the course of their work, and to call them to account if they fail to observe them. 
+ 
+If desired, the Contracting Authority may require the Contractor to present ‘certificates of good 
+conduct’ on behalf of the Staff it is intending to deploy. This may be necessary, for example, if the 
+Contracting Authority has doubts about certain people or if the project is such that the Contractor’s 
+Staff will or may gain access to confidential information. In such cases, the Contracting Authority is 
+also entitled to require the Contractor to submit its Staff to security screening by the General 
+Intelligence and Security Service (AIVD) before they start work on the project. 
+ 
+Section IV: Financial provisions 
+ 
+Article 16 Payment and upward and downward contract variations  
+ 
+Article 16.1 Payment 
+The ARVODI assume that the Contractor is paid retrospectively for the time actually spent working 
+on the project in question, based on the agreed rates. To this end, the Contractor is entitled to 
+submit monthly invoices for the actual costs incurred and the actual time worked during the past 
+month, if necessary subject to a maximum ceiling specified in the Contract. 
+ 
+It is also possible to agree a fixed fee with the Contractor instead of payment based on the actual 
+costs incurred and time worked. It is worth agreeing on a fixed fee only if it is possible to give an 
+accurate description of the end product in advance, and if it is easy to assess the quality of the end 
+product once it is ready. 
+ 
+Articles 16.2 to 16.4 Upward contract variations 
+Irrespective of whether the Parties have agreed that the Contractor should be paid a fixed fee or 
+should invoice for the actual costs incurred and time worked, it is essential to ensure that the 
+Contract contains the clearest possible description of the Services the Contractor is to provide, if 
+necessary in a separate Schedule. The description is not just a means of assessing the quality of 
+the Services performed, but also provides a framework for deciding whether any additional work 
+constitutes an upward contract variation (for which the Contractor is entitled to charge a fee). After 
+all, this is only the case if, due to additional requirements stipulated by the Contracting Authority, 
+the Contractor demonstrably needs to spend more money and/or time than originally agreed in 
+ 
+AVT18/BZ125844F 7 
+order to supply the Services, possibly in adjusted form. An upward contract variation arises only if 
+the Contracting Authority makes certain demands over and above those laid down in the original 
+Contract. If this is not the case, the Contractor is in principle responsible for paying for the cost of 
+any additional work. This also applies if the Contractor has to perform extra work in order to 
+replace or improve a service that is found to be of poor quality. 
+ 
+Under paragraph 3, the Contractor is not entitled to undertake any additional work that constitutes 
+an upward contract variation until the Parties have agreed in writing on the amount of work that 
+needs to be performed, and its duration and cost.  
+ 
+Under paragraph 4, the Contractor is obliged to carry out an order for additional work subject to 
+the provisions of the Contract, as long as its cost does not exceed 10% of the originally agreed 
+contract value. In such an event, the Contractor has no choice but to carry out the additional work 
+at the originally agreed hourly rate. If the cost of the additional work represents more than 10% of 
+the original contract value, the Contractor is entitled to renegotiate the terms of the additional 
+work with the Contracting Authority. This obligation applies, however, only if the additional work 
+does not represent a substantial change in the nature of the Contract. 
+ 
+Article 16.5 Downward contract variations 
+Downward contract variations are also possible in certain circumstances. If one of the Parties 
+(usually the Contracting Authority) takes the view that less work needs to be performed than was 
+originally agreed, it should notify the other Party as soon as possible so as to prevent the latter 
+from wasting time and money on activities that are no longer required. 
+ 
+Article 17 Invoicing 
+ 
+The government is keen to promote electronic invoicing. For this reason, it has decided that, in 
+principle, all invoices should be submitted and processed electronically. If this is not feasible or 
+desirable in a particular case, the model contract contains provisions enabling the Parties to decide 
+on a different course of action so that the Contractor can submit printed invoices. 
+ 
+Article 18 Payment and invoice audits 
+ 
+Payment should be made as quickly as possible, and in any event by no later than 30 days after 
+the date on which the Services are accepted and the invoice received. The 30-day payment term is 
+a statutory time limit (see article 119b (2) and (5) of Book 6 of the Civil Code) that may be 
+departed from only in exceptional circumstances. 
+ 
+The right to payment arises only after the Services have been accepted (see article 4) and a 
+correct invoice has been received. If the invoice does not comply with the Contract provisions, you 
+should contact the Contractor as soon as possible to ask for a new invoice. The payment period 
+does not start until the date on which a correct invoice is received. If the Contractor submits an 
+ 
+AVT18/BZ125844F 8 
+invoice before the results of the Services have been accepted, the payment period commences on 
+the day after the date on which the Services are accepted. 
+ 
+The Contracting Authority is liable to pay statutory interest on any amount outstanding after the 
+expiry of the time limit for payment, as from the day after the date agreed as the deadline for 
+payment. Statutory interest is charged at the rate applying to commercial transactions. 
+ 
+If the Contracting Authority fails to pay on time, it also automatically becomes liable to pay a debt 
+collection charge under article 96 of Book 6 of the Civil Code to cover the cost of out-of-court 
+settlement. The Civil Code stipulates a minimum charge of €40. The Contracting Authority’s liability 
+for this charge arises without any notice having to be served, on the day after the date of expiry of 
+the 30-day payment period referred to above. With a view to finding out how much is owed, the 
+Contractor needs to send the Contracting Authority a separate invoice for the statutory interest and 
+the debt collection charge. 
+ 
+The Contracting Authority can ask an accountant to perform a confidential audit of the invoice. The 
+information presented to the accountant for this purpose should be restricted to that needed for 
+the purpose of the audit. 
+ 
+Article 19 Advance  
+ 
+Although the basic rule is that no payments should be made until the Contractor has provided the 
+Services in question, an exception may be made if the Contractor is able to prove that it first has to 
+invest substantial amounts of money in order to perform the Services. Before an advance is paid, 
+an assessment must be made of the risk that the Contractor will not fulfil its obligations, or will not 
+do so fully. If the Contracting Authority considers that risk to be substantial, it may require the 
+Contractor to issue it with an on-demand bank guarantee. This is a statement issued by a credit 
+institution at the Contractor’s request and expense, in which the credit institution guarantees to 
+pay up to a given maximum amount in response to a claim to this effect. Reference is made in this 
+connection to article 2 of the Prepayments Order 2007. 
+ 
+The credit institution will generally insist on the Contractor’s account being blocked for the value of 
+the guarantee, thereby running little risk. This does mean, however, not only that the Contractor 
+will be unable to access the blocked funds in its account, but also that it will have to pay a fee for 
+the issue of the guarantee. For this reason, too, the expediency of requiring a bank guarantee 
+must be weighed up carefully. 
+ 
+A model on-demand bank guarantee is appended to the ARVODI. 
+ 
+ 
+ 
+ 
+ 
+AVT18/BZ125844F 9 
+Section V: Non-performance 
+ 
+Article 21 Liability  
+ 
+If a Party fails to discharge any of its contractual obligations (also referred to as ‘non-
+performance’), it is obliged to compensate the other Party for the damage thus caused, unless the 
+failure is not attributable to the defaulting Party. A failure arises only once a Party is in default. In 
+most cases, this requires the issue of a notice of default. 
+ 
+Action to be taken in the event of an attributable failure: 
+1. If the Contractor fails to comply with any of its contractual obligations, the Contracting 
+Authority should give written notice of default as soon as possible. It must allow the 
+Contractor a reasonable period in which to remedy the problem. A notice of default is not 
+required if there is no prospect of the Contractor ever discharging its obligation or if the 
+Contractor fails to observe a vital deadline, i.e. a clearly agreed date or time limit by which 
+the service must have been provided and which has not previously been extended. 
+ 
+2. The Contractor is still in default if it fails to discharge its obligation within the reasonable 
+period it has been given in which to do so. 
+ 
+3. If the Contractor still fails to immediately discharge its obligation, the Contracting Authority 
+is in any event entitled to demand compensation on account of the delay in the 
+performance of the Contract during the period in which the Contractor is in default. 
+ 
+4. If the Contractor is in default, the Contracting Authority is entitled to demand either that 
+the Contractor perform the Contract as agreed (and, if necessary, that the Contractor pay 
+for the damage caused by its failure to discharge its obligations in good time) or that the 
+original Contract be converted into an undertaking to pay compensation in lieu of services 
+provided. In such an event, the Contracting Authority is also entitled to cancel the Contract 
+and may, if it so wishes, submit a claim for compensation of present and future damage 
+(see article 22). 
+ 
+Damage 
+The term ‘damage’ is understood to include financial loss and any other intangible loss in so far as 
+there is a legal right to compensation of such losses. ‘Financial loss’ includes both actual loss and 
+loss of profit. The extent of any damage is determined on the basis of lost revenue, which means 
+that the situation of the Party incurring the damage is compared with the situation it would have 
+been in if the Contract had been properly performed. It should be noted that the term ‘event’ is not 
+used in this article in its insurance sense. 
+ 
+ 
+AVT18/BZ125844F 10 
+Extent of liability 
+Although the law does not, in principle, limit the Parties’ liability for any damage they may cause, 
+the current version of the ARVODI nonetheless places a limit on the Parties’ liability. The ARVODI 
+limit the Parties’ liability by basing it on a rising scale. This is a flexible method, in which the limit 
+of liability depends on the agreed value of the Contract, including any amendments made during 
+the term of the Contract. Roughly speaking, the Parties’ liability is limited to three times the 
+Contract value. Damage are not divided into categories, e.g. direct, indirect and consequential 
+damage, given that the law does not make such a distinction either and also that the State does 
+not believe in placing further limits on the extent of the Parties’ liability. After all, one of the 
+consequences of limiting liability is either that the State itself has to pay for some of the damage 
+occasioned by the Contractor and/or that such losses have to be met from public funds. For these 
+reasons the ARVODI do not seek to limit the Parties’ liability any further. Besides a limit on liability 
+per event that causes damage, there is an annual limit that applies to each year since the Contract 
+came into force (‘contract year’). If damage is caused by several events in a single contract year, 
+liability in that year is limited to the amount in question. The limit applies again in the following 
+contract year. If the Contract has a duration of less than a year, the maximum liability applicable 
+to one contract year still applies to the entire duration of that Contract. In other words, the 
+maximum liability is not adjusted on a pro rata basis. If one or more years have passed since the 
+Contract entered into force and the last contract period is shorter than a year, the maximum 
+liability applicable to one contract year still applies to that last contract period in its entirety. In 
+other words, here too the maximum liability is not adjusted on a pro rata basis. 
+ 
+In certain situations, there may be grounds for making different arrangements about the extent of 
+the Parties’ liability. The model contract contains an optional clause (article 6.7) that may be used 
+for this purpose. An assessment must be made on a case-by-case basis as to whether the 
+provisions on liability laid down in article 21 are appropriate. Important considerations in such an 
+assessment include in any case the possible scope of the damage if the Contractor fails to fulfil its 
+obligations and the likelihood that this situation will arise (once or several times) during the 
+lifetime of the Contract. If the potential damage far exceeds the Contractor’s maximum liability, 
+there may be grounds for raising the Contractor’s maximum liability. The Contracting Authority 
+must bear in mind that a higher maximum liability may result in a higher price for the Services, 
+since this risk is factored into that price. 
+ 
+You are advised to contact the legal department if you are planning to make use of this clause. 
+ 
+Paragraph 3 
+This paragraph contains three (customary) exceptions to the limitation of liability set out in the first 
+part of this paragraph. The exception under b relates to intent or gross negligence not only on the 
+part of the board of the Contractor’s business but also on the part of its staff. That is important 
+because the work is usually performed by the staff and not the board. 
+ 
+ 
+AVT18/BZ125844F 11 
+The exception under d relates to damage resulting from breach of legislation on the protection of 
+personal data. The protection of natural persons during the processing of personal data is a 
+fundamental right. Violation of this fundamental right can cause natural persons serious damage 
+and lead to substantial damage on the part of the controller. The latter may, for example, be 
+confronted with costs to prevent or limit the damage suffered by data subjects or fines imposed on 
+it by the supervisory authority. 
+ 
+If, in performing the Contract for the Contracting Authority, the Contractor processes personal 
+data, the Parties will regulate this in a data processing agreement. If the Contractor breaches this 
+data processing agreement by failing, for example, to secure the personal data, it is not 
+disproportionate to hold it liable for any damage caused, in accordance with the ‘polluter pays’ 
+principle. 
+ 
+The fact that the processor can best manage the risk of such damage is another reason why an 
+exception to the general liability limitation set out in article 21 applies in its regard. The Contract 
+may depart from this principle if the Contracting Authority believes there is reason to do so in a 
+particular case. 
+ 
+Article 22 Cancellation and notice of termination 
+ 
+Article 22 refers to two ways in which the Contract may be ended prior to its expiry, i.e. by 
+cancellation (articles 22.1 to 22.4) or by giving notice of termination (article 22.6). 
+ 
+Cancellation 
+Under article 265 of Book 6 of the Civil Code, a failure by a Party to discharge any of its contractual 
+obligations entitles the other Party to cancel the Contract either in full or in part, unless the failure 
+is so unusual or insignificant as not to warrant cancellation and the attendant consequences. The 
+wording of article 22.1 of the ARVODI follows the wording of the law. If it is not already clear that 
+the defaulting Party is permanently or temporarily unable to fulfil its obligations, the right to cancel 
+the Contract arises only after the defaulting Party has been given notice of default. 
+ 
+The Party who wishes to cancel the Contract must be able to prove that the other Party has failed 
+to discharge its contractual obligations. In other words, the burden of proof rests on the Party 
+claiming default. In addition, the failure itself must be so grave as to warrant the cancellation of 
+the Contract. The burden of proving that the failure does not warrant the cancellation of the 
+Contract rests on the defaulting Party. 
+ 
+A situation may arise in which one of the Parties is unable to discharge its obligations due to force 
+majeure. This is known as a non-attributable failure. A failure cannot be attributed to the defaulting 
+Party if the latter is not to blame for it and may not be held responsible in accordance with the law, 
+a legal act or generally accepted standards. The ARVODI contain a list of circumstances in which 
+ 
+AVT18/BZ125844F 12 
+the Contractor is not in any event entitled to invoke force majeure. In the event of force majeure, 
+the Contract may be cancelled after a period of 15 Working Days. 
+ 
+The ARVODI also list a number of other circumstances in which the Contract may be cancelled. One 
+of these is if the Contractor is declared bankrupt (article 22.4). If necessary, the Contract may be 
+cancelled in part, thus enabling the Contractor to perform some of the agreed activities. In some 
+instances, however, the two Parties have lost so much confidence in each other that even partial 
+cancellation is not a realistic option. Because this is generally a complex matter, it is worth 
+contacting the legal department before proceeding. 
+ 
+The cancellation of the Contract releases the Parties from their obligations and creates a 
+commitment to ‘undo’ everything that has been done in the past (see article 271 of Book 6 of the 
+Civil Code). In principle, the beneficiary of the service is obliged to ‘return’ the service in the 
+condition it was in when it was provided. If the nature of the service precludes the possibility of 
+‘undoing’ it, the beneficiary may be obliged to pay compensation. 
+ 
+Notice of termination 
+The Contracting Authority’s right to terminate the Contract at any time is (also) enshrined in article 
+408 of Book 7 of the Civil Code. The Contracting Authority is not required to explain why it is 
+terminating the Contract, nor does the Contractor necessarily have to be in default for the Contract 
+to be terminated. In the event of termination, the Contracting Authority is however required to pay 
+the Contractor a reasonable fee for the work it has already carried out and for commitments it has 
+already made for the future. Moreover, the Contracting Authority is not entitled to compensation in 
+the event of termination.  
+ 
+Other than in the case of cancellation, termination does not create a requirement to ‘undo’ 
+everything that has been done in the past. 
+ 
+In principle, the Contract may be terminated with immediate effect on the basis of article 22. A 
+number of industry bodies have referred to the impact that termination without a notice period 
+would have on a Contractor. Should the case arise, therefore, the Contracting Authority is 
+expressly advised to consider observing a notice period if possible. 
+ 
+Section VI: Miscellaneous 
+ 
+Article 24 Intellectual property rights 
+ 
+General 
+Making provision in a Contract to deal with intellectual property rights is a matter that raises all 
+kinds of questions and requires a great deal of care. That is why the subject is discussed in some 
+depth here.  
+ 
+ 
+AVT18/BZ125844F 13 
+All forms of intellectual property rights (IPRs) are absolute rights to intangible objects, also known 
+as ‘products of the mind’. The literature on IPRs divides them into two categories: copyright and 
+neighbouring rights on the one hand and industrial rights on the other. The latter category includes 
+patent rights (designed to protect technical inventions), trademark rights (designed to protect 
+signs and marks for distinguishing goods and services traded in commercial transactions), design 
+rights (designed to protect works of applied arts and industrial designs and models) and plant 
+breeders’ rights (designed to protect new plant varieties). Database rights are also IPRs and are 
+protected both as a form of copyright and in their own right. 
+ 
+Industrial rights need to be established, i.e. they need to be registered or filed. As the Contracting 
+Authority will not normally wish to establish an industrial right itself or have an industrial right 
+transferred to it, the ARVODI do not contain a standard clause for the transfer of industrial rights. 
+If the Contractor claims an industrial right, this should not have a detrimental impact on a 
+Contracting Authority making use of the results of the Services. For this reason, article 24.9 
+stipulates that a non-exclusive
+1 right of use (also known as a licence) is assigned to the 
+Contracting Authority, so that the latter can continue to make use of the results of the Services for 
+an indefinite period of time. 
+ 
+Copyright and database rights 
+Unlike the industrial rights referred to above, the performance of activities by the Contractor under 
+the ARVODI will regularly involve the establishment of copyright and occasionally also database 
+rights. 
+ 
+Copyright 
+Copyright is defined in the Copyright Act as ‘the exclusive right of the author of a work of 
+literature, science or art, or his or her legal successors, to publish and reproduce the work, subject 
+to the restrictions imposed by the law’. Copyright arises automatically (i.e. there is no registration 
+or filing requirement) as long as the work satisfies two criteria formulated by the courts: originality 
+and authorship. Most Contracts covered by the ARVODI, such as for the production of a policy 
+report or a research report, satisfy both of these criteria. It is important to note that copyright 
+relates to the subjective aspects of the work in question, such as the choice of subject matter, the 
+way in which it is ordered, as well as the structure of the work and the way in which it is worded. 
+In other words, copyright is not concerned with objective aspects such as facts, data, arguments, 
+discoveries, methods, a specific style of writing, etc. Third parties are free to reproduce any of the 
+latter from a research report, for example, unless they are subject to a confidentiality clause (such 
+as that set out in article 13 of the ARVODI).  
+ 
+Under article 24.1, once the copyright has been assigned, the Contracting Authority gains an 
+exclusive right to publish and reproduce the results of the Services, in accordance with the Parties’ 
+                                                
+1 The term ‘non-exclusive’ means that the Contractor is also entitled to grant licences to third parties. 
+ 
+ 
+AVT18/BZ125844F 14 
+intentions as set out in the Contract. ‘Reproduction’ includes the right to process the work (see 
+section 13 of the Copyright Act), if necessary with the help of another service provider. 
+ 
+Even if transferred, a copyright lasts for 70 years after the author’s death, after which it lapses. 
+ 
+Database rights 
+The statutory definition of a database is ‘a collection of works, data or other independent elements 
+that are systematically or methodically ordered and are separately accessible by electronic or other 
+means, and in relation to which a substantial investment needs to be made in order to acquire or 
+verify them or present their contents in qualitative or quantitative terms’. Such a collection may 
+also be copyright-protected. 
+ 
+Under the Databases (Legal Protection) Act, a database is covered by its own independent IPR if 
+and in so far as it complies with all the various aspects of the definition given in the Act. The right 
+is legally vested in the ‘Producer’ of the database. In the framework of the Contract, the right 
+accrues to the Contractor (as the Producer) but, under article 24.2 of the ARVODI, it is assigned to 
+the Contracting Authority as soon as it arises. 
+ 
+The assignment of the database right gives the Contracting Authority two vital powers: firstly, the 
+right to give permission for the transfer of all or part of the database to another medium (this is 
+known as ‘data retrieval’ and includes downloading, printing and photocopying); and secondly, the 
+right to give permission for the contents of the database to be published, by circulating copies of 
+the database, renting it out or transmitting it online or in another form (this is also known as 
+‘reuse’).  
+ 
+The IPR arises once the database is complete and lapses after 15 years, starting from 1 January of 
+the year following that in which the database was completed. 
+ 
+Assignment of intellectual property rights 
+In principle, any copyright or database rights that arise as the result of a Contract awarded by a 
+government body are vested in the Contracting Authority. The reasons for this are as follows. 
+ 
+First of all, the Contract is the result of the Contracting Authority’s own initiative. Without the 
+existence of a Contract, the rights would not arise. Moreover, the fact that the Services are paid for 
+with tax revenue justifies the Contracting Authority having the privilege of deciding which Party 
+should be the ultimate holder of the IPRs. Secondly, the Contracting Authority should usually be 
+able to use the results of the Services without any restrictions. This is not generally possible if the 
+copyright and database rights have not been assigned. Thirdly, there are growing demands for the 
+government to publicly disclose the data it holds by publishing it in the form of open data. If the 
+copyright and database rights have not been assigned to the Contracting Authority, this may 
+impede its ability to publish the data in question. 
+ 
+ 
+AVT18/BZ125844F 15 
+If an assignment of rights as described in articles 24.1 and 24.2 is not sufficient for whatever 
+reason and a formal instrument needs to be drawn up, article 24.4 states that the Contractor 
+irrevocably authorises the Contracting Authority to draft such an instrument and sign it on the 
+Contractor’s behalf. In other words, the Contractor can no longer block such an assignment at a 
+later stage. 
+ 
+The Parties may decide not to follow the standard assignment procedure and to use a form of 
+licensing instead. This will generally involve the granting of a non-exclusive right of use. The model 
+contract contains an optional licensing clause in article 7. 
+ 
+Research models and methods 
+In certain cases, the Contracting Authority may need to continue to make use of certain special 
+techniques, calculation models, data or systems that the Contractor has designed partly or entirely 
+for the purpose of the research project. However, copyright law is not generally capable of 
+independently protecting such ‘products of the mind’ against third parties because they do not 
+usually satisfy the criteria referred to above. For this reason, it is worth deciding, before the 
+Contract is signed or even before the award procedure gets under way, whether the project is 
+going to involve the development of new research methods and models and, if so, whether the 
+Contracting Authority wishes to retain these methods and models after the project has been 
+completed. If it does, it is worth making explicit provision for this in the Contract beforehand. You 
+are advised to contact the legal department in such cases. 
+ 
+Existing rights and third-party rights (paragraph 3) 
+In some instances, the Contractor will need to make use of certain existing copyrights (generally 
+belonging to third parties) in order to perform the Service. Clearly, these IPRs did not arise for the 
+specific purpose of producing the results in question. In most cases, there is no need for the IPRs 
+in question to be assigned. All that is required is for the Contracting Authority to be granted a non-
+exclusive right of use of unlimited duration. 
+ 
+Moral rights (paragraph 6) 
+Even after the assignment of his or her copyright, the author still retains certain rights known as 
+‘moral rights’. These allow him or her, for example, to object to the work being published without 
+his or her name being mentioned or to radical changes being made to the work that the author 
+cannot reasonably be expected to accept. The author is entitled to renounce certain of his or her 
+moral rights. This does not apply, however, to his or her right to oppose ‘any distortion, mutilation 
+or other impairment of the work that could be prejudicial to the author’s name or reputation or to 
+his dignity as an author’ or to the publication of the work under a name other than his or her own. 
+Article 24.6 deals with the renunciation of moral rights, in so far as is feasible, and also covers any 
+moral rights held by members of the Contractor’s Staff. Although the general rule is that an 
+employer owns the rights arising from the work performed by staff in its employment, the 
+employer may have made a different arrangement with the employee in question. 
+ 
+ 
+AVT18/BZ125844F 16 
+Article 24.7 is an indemnity clause that takes effect if the Contractor, in performing the Services, is 
+found to have made use of works in which third parties hold IPRs. In such an event, the 
+Contracting Authority is also entitled, under the terms of article 24.8, to cancel the Contract 
+without taking recourse to the courts and after consulting the Contractor. 
+ 
+Article 25 Assignment of rights and obligations under the Contract  
+ 
+A Contractor is sometimes acquired by or merges with another company during the course of the 
+Contract. The question is then what happens to the Contract if another party becomes the 
+contractual party. Neither Party is entitled to assign to a third party the rights and obligations 
+arising under the Contract without the written consent of the other Party. If this consent is not 
+given, any assignment will not be valid and both Parties will remain bound by the Contract.  
+ 
+Paragraph 2 contains a clause explicitly precluding the need to obtain the Contracting Authority’s 
+written consent where only limited rights are established. This is intended to ensure that the 
+ARVODI do not prevent Contractors from pledging their current and future receivables to a bank in 
+exchange for a loan. 
+ 
+Article 26 Insurance 
+ 
+The Contractor is obliged to take out an appropriate and customary form of insurance cover. 
+Although the Contractor will normally already be insured when the Contract is signed, it is also 
+possible for the Contractor to take out a separate insurance policy for the Contract with the 
+Contracting Authority. Obviously, the fact that the Contractor is adequately insured offers greater 
+security that the Contracting Authority will be able to recover any loss it may sustain. 
+ 
+In practice, some Contractors, particularly multinationals that are not based in the Netherlands, are 
+reluctant to present copies of insurance policies and proof of payment of premiums. In such an 
+event, a written statement from the insurance company to the effect that the Contractor is 
+properly insured should suffice. 
+ 
+Article 27 Employment conditions 
+ 
+The Contracting Authority considers it important that the Contractor, as far as its staff are 
+concerned, complies with the legislation and the collective labour agreement applicable to the 
+Contractor and its staff in relation to employment conditions (e.g. the Minimum Wage and 
+Minimum Holiday Allowance Act, the Working Hours Act and legislation on working conditions). This 
+is underlined in paragraph 1 of this article.   
+ 
+In the event of the transnational provision of services, as referred to in the Posting of Workers 
+Directive (96/71/EC), the Employment Conditions (Posted Workers in the European Union) Act 
+(WAGWEU) is important for determining what employment conditions are applicable to workers 
+ 
+AVT18/BZ125844F 17 
+from other member states. This Act applies to service providers (businesses/employers) from other 
+EU countries that, in the framework of the transnational provision of services, have their staff 
+temporarily perform work in the Netherlands, after which they return to the member state of 
+origin. As far as the performance of work in the Netherlands is concerned, these staff are in any 
+event entitled to the main employment conditions prescribed in Dutch legislation, such as: 
+• the minimum wage; 
+• adequate rest periods; 
+• safe working conditions; 
+• equal treatment of men and women; 
+• a minimum number of paid leave days.  
+ 
+In addition, European employers must adhere to the same collective labour agreement provisions 
+as Dutch employers on a number of points, provided the provisions are more favourable. This 
+follows from section 2, subsection 6 of the Collective Agreements (Declaration of Universal or Non-
+Universal Application) Act (AVV Act), which provides that the key provisions in collective labour 
+agreements that have been declared universal also apply to posted workers of service providers 
+from other EU countries who perform temporary work in the Netherlands. 
+ 
+The other paragraphs (2 to 5) are included in connection with the provisions of the Sham 
+Employment Arrangements Act (WAS), such as the vicarious tax liability system introduced in the 
+Civil Code (whereby the main contractor is liable for any salaries tax and social insurance 
+contributions that subcontractors fail to pay). The above-mentioned paragraphs are ultimately 
+designed to prevent the Contracting Authority from being held liable, under the WAS, for the 
+payment of salary owed to employees of a subcontractor which has not treated the staff it has 
+engaged in accordance with the applicable legislation referred to above, including the payment of 
+the correct salary owed. 
+ 
+Article 28 Bribery and conflict of interests 
+ 
+The provisions of this article are concerned mainly with ethical standards and the prevention of a 
+conflict of interests. This version of the ARVODI no longer contains any specific provisions on 
+employing or engaging the Contracting Authority’s current or former staff. Nevertheless, the 
+Contracting Authority still attaches great importance to high ethical standards. Conflicts of interests 
+and other breaches of integrity must be avoided at all times. The government believes strongly in 
+combating corruption and upholding high ethical standards of behaviour. For this reason, 
+paragraph 1 lays the basis for a ‘declaration of integrity’, which is included as a clause in the model 
+contract (see article 10). The forms of conduct referred to in this article are all offences under the 
+Criminal Code and provide sufficient grounds for cancelling the Contract. 
+ 
+ 
+AVT18/BZ125844F 18 
+Article 31 Publicity 
+ 
+This article does not cover a situation in which a Contractor wishes to cite the Contract as a 
+reference in an award procedure. This is because the only way in which a candidate or tenderer can 
+satisfy the requirement is by submitting references from a number of past and present clients.
