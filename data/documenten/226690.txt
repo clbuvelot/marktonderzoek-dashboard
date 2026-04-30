@@ -1,0 +1,236 @@
+=== Document: tn311579 - sf07 erkenningsregeling - speciale sectoren 20210430163001 ===
+30/04/2021
+I. II. III. IV. VI.
+- 1 -
+QUALIFICATION SYSTEM - UTILITIES
+Services
+Directive 2014/25/EU
+This notice is a call for competition
+SECTION I: CONTRACTING ENTITY
+I.1) NAME AND ADDRESSES
+Official name:
+TenneT TSO B.V.
+National ID:
+09155985
+Postal address:
+Utrechtseweg 310
+Town:
+Arnhem
+NUTS code:
+NL
+Postal code:
+6812 AR
+Country:
+NL
+Contact person:
+Dick Slaats
+Telephone:
++31 263732930
+E-mail:
+dick.slaats@tennet.eu
+Fax:
+-
+Internet address(es)
+Main address:
+http://www.tennet.eu
+Address of the buyer profile:
+https://platform.negometrix.com/PublishedTenders.aspx?tenderid=159478
+I.1) NAME AND ADDRESSES
+Official name:
+TenneT TSO GmbH
+National ID:
+-
+30/04/2021
+I. II. III. IV. VI.
+- 2 -
+Postal address:
+-
+Town:
+Bayreuth
+NUTS code:
+DE
+Postal code:
+-
+Country:
+DE
+Contact person:
+Dick Slaats
+Telephone:
++31 263732930
+E-mail:
+dick.slaats@tennet.eu
+Fax:
+-
+Internet address(es)
+Main address:
+http://www.tennet.eu
+Address of the buyer profile:
+-
+I.2) JOINT PROCUREMENT
+• The contract involves joint procurement
+In the case of joint procurement involving different countries, state applicable national
+procurement law:
+Netherlands
+I.3) COMMUNICATION
+The procurement documents are available for unrestricted and full direct access, free of
+charge, at:
+https://platform.negometrix.com/PublishedTenders.aspx?tenderid=159478
+Additional information can be obtained from
+the abovementioned address
+Tenders or requests to participate must be submitted
+to the abovementioned address
+30/04/2021
+I. II. III. IV. VI.
+- 3 -
+I.6) MAIN ACTIVITY
+• Electricity
+30/04/2021
+I. II. III. IV. VI.
+- 4 -
+SECTION II: OBJECT
+II.1) SCOPE OF THE PROCUREMENT
+II.1.1) Title
+Dynamic Purchasing System - Expertise for the Control Room of the Future program
+Reference number: EU21-404
+II.1.2) CPV code(s)
+Main code:
+72212100 - Diensten voor ontwikkeling van speciale software voor de industrie
+Supplementary code:
+-
+II.1.3) Type of contract
+Services
+II.2) DESCRIPTION
+II.2.2) Additional CPV code(s)
+Main code:
+48000000 - Software en informatiesystemen
+Supplementary code:
+-
+Main code:
+48100000 - Speciale software voor de industrie
+Supplementary code:
+-
+Main code:
+48460000 - Software voor analytische-, wetenschappelijke, mathematische of
+voorspellingsdoeleinden
+Supplementary code:
+-
+Main code:
+72200000 - Softwareprogrammering en -advies
+Supplementary code:
+-
+Main code:
+72220000 - Systeem- en technisch advies
+Supplementary code:
+-
+30/04/2021
+I. II. III. IV. VI.
+- 5 -
+Main code:
+73000000 - Onderzoek en ontwikkeling, en aanverwante adviezen
+Supplementary code:
+-
+II.2.3) Place of performance
+NUTS code:
+NL NEDERLAND
+Main site or place of performance:
+Arnhem (Netherlands)
+Bayreuth and Lehrte (Germany)
+II.2.4) Description of the procurement:
+(nature and quantity of works, supplies or services or indication of needs and requirements)
+TenneT will renew the (IT) systems that it uses for controlling and balancing its grids in
+the period 2021 - 2031. In connection with this renewal, TenneT expects to be needing
+extensive external expertise, related to existing and new technologies and ways of working,
+in particular related to the challenges that TenneT faces in the energy transition. Compared
+to current ways of working, innovations will be needed to handle e.g. the increasing infeed
+of solar and wind energy that is far more difficult to predict and control than traditional
+generation.
+The subject of this tender is a Dynamic Purchasing System (DPS) for 'EMS/SCADA
+expertise and tool development'. In particular, this refers to expertise (including the
+development of algorithms and IT Tools) related to the control and balancing of the
+electricity transmission grid as operated by TenneT.
+II.2.5) Award criteria
+Price is not the only award criterion and all criteria are stated only in the procurement
+documents
+II.2.8) Duration of the qualification system
+Start: 01/05/2021
+End: 30/04/2031
+II.2.13) Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union
+funds: no
+30/04/2021
+I. II. III. IV. VI.
+- 6 -
+SECTION III: LEGAL, ECONOMIC, FINANCIAL AND TECHNICAL
+INFORMATION
+III.1) CONDITIONS FOR PARTICIPATION
+III.1.5) Information about reserved contracts
+-
+III.1.9) Qualification for the system
+Conditions to be fulfilled by economic operators in view of their qualification:
+See the tender documentation on the Negometrix platform
+Methods according to which each of those conditions will be verified:
+-
+III.2) CONDITIONS RELATED TO THE CONTRACT
+III.2.1) Information about a particular profession
+-
+III.2.2) Contract performance conditions:
+-
+III.2.3) Information about staff responsible for the performance of the contract
+-
+30/04/2021
+I. II. III. IV. VI.
+- 7 -
+SECTION IV: PROCEDURE
+IV.1) DESCRIPTION
+IV.1.6) Information about electronic auction
+-
+IV.2) ADMINISTRATIVE INFORMATION
+IV.2.1) Previous publication concerning this procedure
+Notice number in the OJ S: -
+IV.2.4) Languages in which tenders or requests to participate may be submitted:
+• EN
+30/04/2021
+I. II. III. IV. VI.
+- 8 -
+SECTION VI: COMPLEMENTARY INFORMATION
+VI.2) INFORMATION ABOUT ELECTRONIC WORKFLOWS
+-
+VI.3) ADDITIONAL INFORMATION
+Initially, the DPS will concern the following categories of expertise:
+- Power system control and monitoring.
+- Energy platforms and interconnected IT systems
+- Data analysis, artificial intelligence and machine learning
+- System & process implementation
+VI.4) PROCEDURES FOR REVIEW
+VI.4.1) Review body
+Official name:
+Rechtbank Arnhem
+Postal address:
+-
+Town:
+Arnhem
+Postal code:
+-
+Country:
+NL
+E-mail:
+-
+Telephone:
+-
+Internet address:
+-
+Fax:
+-
+VI.4.2) Body responsible for mediation procedures
+-
+VI.4.3) Review procedure
+Precise information on deadline(s) for review procedures:
+-
+30/04/2021
+I. II. III. IV. VI.
+- 9 -
+VI.4.4) Service from which information about the review procedure may be
+obtained
+-
+VI.5) DATE OF DISPATCH OF THIS NOTICE
+30/04/2021

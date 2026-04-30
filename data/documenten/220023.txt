@@ -1,0 +1,1633 @@
+=== Document: nota van inlichtingen 2021-03-09-1 ===
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 1 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Aanbesteding: Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknummer 31167184
+Toelichting:
+1. Deze nota van inlichtingen maakt onderdeel uit van de te sluiten overeenkomst (Bijlage L), 
+verstrekt via Tenderned). 2. De termijn voor indiening van de inschrijving is ongewijzigd. 3. 
+Uitdrukkelijk wordt nog bepaald dat Bijlage I Staat van Tarieven en prijzen moet worden 
+ingevuld en ingediend. Bijlage I Staat van Tarieven en prijzen is bij deze Nota van Inlichtingen 
+niet gewijzigd. 4. De bij Inschrijving te verstrekken documenten die dienen te worden 
+ondertekend (behoudens Bijlage D en I), zijn hierna vermeld en dienen digitaal te zijn 
+ondertekend door een bevoegd vertegenwoordiger van de Inschrijver en door middel van een 
+gekwalificeerde elektronische handtekening. Verwezen wordt tevens naar de 
+Aanbestedingsleidraad (verstrekt via Tenderned), paragraaf 4.3.1. a. Bijlage A UEA; b. Bijlage 
+B Aanvullende Eigen verklaring; c. Bijlage E Inschrijvingsbiljet; d. Bijlage H Verklaring 
+verplichtingen milieu-, sociaal en arbeidsrecht; e. Bijlage J Verklaring onderaannemer (ingeval 
+een onderaannemer wordt ingeschakeld om aan de gestelde eisen te voldoen); en ingeval een 
+onderaannemer wordt ingeschakeld om aan de gestelde eisen te voldoen en waarvan de stukken 
+met een handgeschreven handtekening worden ingediend: f. Bijlage C Model 
+indieningsformulier; g. Bijlage J Verklaring onderaannemer. 5. Het inschrijven met algemene-, 
+eigen en /of branchevoorwaarden is niet toegestaan. In de verstrekte aanbestedingsstukken (en 
+deze, en eventueel volgende, nota’s van inlichtingen) zijn alle voorwaarden vermeld die gelden 
+voor de opdracht. 6. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze 
+nota van inlichtingen (en eventueel andere nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere dan in deze nota van inlichtingen (en eventueel andere nota's van inlichtingen) genoemde 
+tekeningen, bijlagen of andere stukken getoond.
+Ref.nr. Onderwerp:
+1 2. Aanbestedingsleidraad, sectie 3.2, bullet 3a
+Vraag:
+U vraagt om een referentieopdracht op het gebied van meting, 
+geautomatiseerde gegevensverwerking en rapportage van verkeer op 
+rijkswegen. Is het toegestaan een referentieproject te leveren waarbij wij als 
+inschrijver verantwoordelijk zijn geweest voor de geautomatiseerde 
+gegevensverwerking en rapportage, en waarin onze onderaannemer 
+verantwoordelijk was voor het meten, maar waarbij er verschillende 
+opdrachten zijn verstrekt aan inschrijver en onderaannemer?
+Antwoord:
+Aan de geschiktheidseisen volgens 3a en 3b moet aantoonbaar worden 
+voldaan, door:
+a. de inschrijver, of;
+b. de combinatie van inschrijvers (waarvan elk van de ondernemingen 
+hoofdelijk aansprakelijk is voor het werk), of;
+c. de inschrijver samen met een onderaannemer. Als de inschrijver niet 
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 2 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+volledig aan de eis kan voldoen, dan is het ook prima als een onderaannemer 
+voor het resterende deel van de eis aantoont te voldoen.
+Dat kan met verschillende opdrachten.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Vraagspecificatie
+Vraag:
+Wij voorzien dat we voor de validatie en wellicht kalibratie van FOSIM de 
+onderzochte locaties in FOSIM moeten simuleren. Deelt opdrachtgever dit 
+beeld, en wil opdrachtgever dat alle onderzochte locaties worden nagebouwd 
+en gevalideerd in FOSIM?
+Antwoord:
+Neen, Opdrachtgever voorziet niet dat met FOSIM berekeningen uitgevoerd 
+worden.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Aanbestedingsleidraad, sectie 3.2, bullet 3a
+Vraag:
+U vraagt om een referentieopdracht op het gebied van meting, 
+geautomatiseerde gegevensverwerking en rapportage van verkeer op 
+rijkswegen. Is het toegestaan een referentieproject te leveren waarbij wij als 
+inschrijver verantwoordelijk zijn geweest voor de geautomatiseerde 
+gegevensverwerking en rapportage en waarin onze onderaannemer 
+verantwoordelijk was voor het meten, maar waarbij er verschillende 
+opdrachten zijn verstrekt aan inschrijver en onderaannemer?
+Antwoord:
+Zie het antwoord op de eerste vraag.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Vraagspecificatie, sectie 3.1.1., PR003
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 3 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Vraag:
+U vraagt om een vooronderzoek per geselecteerde locatie. Klopt het dat het 
+vooronderzoek plaatsvindt ná het vaststellen van de locaties? Zo ja, hoe 
+wordt dan omgegaan met de gemaakte kosten voor het vooronderzoek voor 
+locaties die uiteindelijk afvallen?
+Antwoord:
+Het betreft een vooronderzoek en geen na-onderzoek. Dus vooraf dient een 
+onderzoek plaats te vinden naar de geschiktheid van locaties. Achteraf een 
+onderzoek zou als ‘evaluatie’ zijn beschreven.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Vraagspecificatie
+Vraag:
+Kunnen we de rapportages en tools van de capaciteitsonderzoeken van de 
+afgelopen jaren ontvangen?
+Antwoord:
+Neen, het betreft een nieuw onderzoek.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Aanbestedingsleidraad, sectie 3.2, bullet 3a
+Vraag:
+U vraagt om een referentieopdracht op het gebied van het meten van verkeer 
+op rijkswegen. Dient de opdrachtnemer hiervoor zelf de meting te hebben 
+uitgevoerd, of is het toegestaan een referentie aan te leveren waarbij de data 
+door opdrachtgever of derden is aangeleverd? Bijvoorbeeld wanneer de 
+meting is uitgevoerd door een andere opdrachtnemer van de wegbeheerder.
+Antwoord:
+Het meten is onderdeel van de gestelde eis en moet aantoonbaar zijn. Als een 
+combinant de ervaring meebrengt of als er een onderaannemer is die deze 
+ervaring meeneemt, dan is dat uitstekend. Zie verder het antwoord op de 
+eerste vraag.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 4 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Ref.nr. Onderwerp:
+7 Borging aangeboden oplossingen
+Vraag:
+In de EMVI-criteria wordt niet direct beoordeeld op de kwaliteit en 
+mogelijkheden van de metingen met eigen apparatuur, terwijl hier wel een 
+aanzienlijk deel van de kosten in zitten. Hoe wordt daarbij geborgd dat de 
+aangeboden oplossingen wel voldoen aan de eisen/wensen van de 
+opdrachtgever?
+Antwoord:
+Met de combinatie van geschiktheidseisen (3.2 Aanbestedingsleidraad), 
+contracteisen (artikel 1.7) en andere aanbestedingsdocumenten (bijlage K 
+inclusief bijlagen) is samen met artikel 3 van de ARVODI-2018 voldoende 
+geborgd wat de gestelde eisen zijn.
+Beantwoord op: 09-03-2021
+Label: Proces
+Ref.nr. Onderwerp:
+8 PR009 - Berekening capaciteitswaarden
+Vraag:
+In PR009 wordt aangegeven dat in de offerte de werking van de gevraagde 
+methodieken voor het berekenen van de capaciteitswaarden moet worden 
+opgenomen. Is het hier de bedoeling dat de aanbieder in het PvA een 
+theoretische beschrijving van de methoden opneemt/toelicht?
+Antwoord:
+Het betreft hier de Vraagspecificatie (bijlage K), paragraaf 3.1.5 en de 
+EMVI-BPKV Tabel (Bijlage G) criterium 1.2. De inschrijver moet de 
+werking naar eigen inzicht en bevinding uitleggen, in de wetenschap dat de 
+methodieken vastliggen en verbetering nog plaats kan vinden in de 
+dataverwerking.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+9 PR005 - Plaatsing conform vigerende richtlijnen
+Vraag:
+Bij PR005 wordt aangegeven dat apparatuur geplaatst moet worden conform 
+de vigerende richtlijnen (kaders) voor verkeersmaatregelen bij 
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 5 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+wegwerkzaamheden op rijkswegen. De benodigde maatregelen (en daarmee 
+kosten) zijn echter sterk locatieafhankelijk en daardoor moeilijk vooraf te 
+bepalen. Hoe dient daarmee omgegaan te worden in onze aanbieding?
+Antwoord:
+In de inschrijving dienen louter en alleen de kosten te worden opgenomen 
+voor het verkrijgen van toestemming, het plaatsen, operationeel houden en 
+het verwijderen van de camerasystemen en eventuele hulpapparatuur.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 Hoeveelheid plaatsing camera's
+Vraag:
+Bij de camerametingen voor weefvakken wordt genoemd met tenminste 
+twee camera's en bij de overige locaties met tenminste één camera. 
+Afhankelijk van de locatie kunnen deze minimale aantallen volstaan, of 
+moeten er mogelijk meer camera's geplaatst worden voor een goed zicht 
+(afhankelijk van alignement, viaducten, lengte, etc.). Hoe dienen we hier in 
+de prijs mee om te gaan, aangezien de locaties nu vooraf nog niet bekend 
+zijn en dus ook nog B4niet ingeschat kunnen worden?
+Antwoord:
+De locaties zijn inderdaad nog niet vooraf bekend. Daarom is er voor 
+gekozen om een minimumniveau van twee camera’s voor weefvakken te 
+hanteren. Dat is dus een minimumniveau en doorgaans zullen twee camera’s 
+voldoende zijn. Het is echter niet uitgesloten dat op bepaalde locaties drie 
+camera’s voor weefvakken nodig zijn. De Opdrachtnemer moet echter het 
+eventueel bijzetten van een (extra) camera - daar waar twee camera’s niet 
+volstaan om op vakbekwame wijze tot de resultaten te komen - in de 
+berekening van de prijzen meenemen.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 Verwerking camerametingen
+Vraag:
+Dienen de camerametingen altijd 24/7 verwerkt te worden, of kan er ook 
+volstaan worden met het inwinnen rond de (relevante) spitsperiode(n)? Dit 
+kan in de kosten van de camerametingen veel verschil maken
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 6 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Antwoord:
+Het gaat om het meten van de capaciteit (volgens de gestelde eisen). Het is 
+aan de Opdrachtnemer op welke wijze hij hiermee wenst om te gaan.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+12 Vraagspecificatie PR003 - Afwijkingen in wegontwerp
+Vraag:
+In de Vraagspecificatie PR003 staat o.a. dat afwijkingen in het wegontwerp 
+moeten worden weergegeven. Dienen deze afwijkingen in wegontwerp door 
+opdrachtnemer zelf bepaald te worden, of gebeurd dat in samenspraak met 
+opdrachtgever?
+Antwoord:
+De Opdrachtnemer zal dit in eerste instantie moeten doen. Opdrachtgever 
+kan ook zijn/haar expertise inbrengen.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+13 Vraagspecificatie, H3.1.2, PR005
+Vraag:
+De locaties waar met eigen systemen gemeten moet worden zijn niet nader 
+gespecificeerd in de uitvraag, terwijl dit wel grote impact heeft op aanpak
+/prijs. Kunt u om een level playing field te creëren de locaties nader 
+specificeren (bijv. door randvoorwaarden van de locaties mee te geven)?
+Antwoord:
+De locaties zijn niet vooraf bekend. Desalniettemin is een minimumniveau 
+van twee camera’s voor weefvakken en een camera voor wegvakken 
+gehanteerd.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+14 Vraagspecificatie, H3.1.2, PR005
+Vraag:
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 7 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+De locaties waar met eigen systemen gemeten moet worden zijn niet nader 
+gespecificeerd in de uitvraag, terwijl dit wel grote impact heeft op aanpak
+/prijs. Kunt u bevestigen dat meetsystemen in ieder geval veilig geplaatst 
+kunnen worden achter de geleiderail, danwel op een viaduct of portaal?
+Antwoord:
+Veiligheid is prioriteit, overleg hierover met de wegbeheerder is vereist. De 
+wegbeheerder zal niet instemmen met minder veilige of onveilige (weg)
+situaties.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+15 Vraagspecificatie, H3.1.1, PR003
+Vraag:
+In PR003 van de Vraagspecificatie geeft u aan dat er een "advies" opgesteld 
+dient te worden voor een (eventuele) aanpassing aan FOSIM. FOSIM bevat 
+diverse onderdelen waar advies op gegeven kan worden. Kunt u aangeven op 
+welk onderdeel/aspect u een advies verwacht?
+Antwoord:
+Een advies zal betrekking moeten hebben op:
+1. een inhoudelijke verbetering, of;
+2. een procesverbetering.
+Het mag uiteraard een uitgebreid advies zijn.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+16 Vraagspecificatie, H3.1.1, PR003
+Vraag:
+In PR003 van de Vraagspecificatie geeft u aan dat er een "advies" opgesteld 
+dient te worden voor een (eventuele) aanpassing aan het Handboek CIA. Het 
+Handboek CIA bevat diverse onderdelen waar advies op gegeven kan 
+worden. Kunt u aangeven op welk onderdeel/aspect u een advies verwacht?
+Antwoord:
+Zie het antwoord op de vorige vraag.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 8 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Ref.nr. Onderwerp:
+17 Aanbestedingsleidraad, H5.2
+Vraag:
+In H5.2 van de Aanbestedingsleidraad geeft u aan dat de beoordeling 
+plaatsvindt door "een beoordelingsteam samengesteld uit ter zake kundige 
+beoordelaars". Kunt u aangeven welke (project)rollen plaatsnemen in het 
+beoordelingsteam?
+Antwoord:
+In het team komen ter zake kundige beoordelaars waarvan nu nog is vast te 
+stellen wie dat precies zijn. Op zijn minst is de projectleider van 
+Opdrachtgevers-zijde vertegenwoordigd (of bij ziekte zijn of haar 
+plaatsvervanger).
+Beantwoord op: 09-03-2021
+Label: Proces
+Ref.nr. Onderwerp:
+18 Aanbestedingsleidraad, H1.2
+Vraag:
+De aanbesteding loopt via TenderNed. Kunt u een overzicht verstrekken 
+welke documenten in de map "Kwaliteit" en welke documenten in de map 
+"Prijs" geupload dienen te worden?
+Antwoord:
+Het prijs-gerelateerde document (bijlage I) en het Inschrijvingsbiljet (Bijlage 
+E) gaan in de map ‘Prijs’, de rest in ‘Kwaliteit’.
+Beantwoord op: 09-03-2021
+Label: Proces
+Ref.nr. Onderwerp:
+19 Bijlage L, Concept overeenkomst, artikel 6.2
+Vraag:
+In Artikel 6.2 lid 2 van de conceptovereenkomst (bijlage L) geeft u aan dat 
+er een "periodieke voortgangsrapportage" geleverd dient te worden. Kunt u 
+bevestigen dat het aantal voortgangsrapportages gelijk is aan het aantal 
+uitgevraagde voortgangsoverleggen?
+Antwoord:
+Dat is juist.
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 9 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Beantwoord op: 09-03-2021
+Label: Proces
+Ref.nr. Onderwerp:
+20 Bijlage L, Concept overeenkomst, artikel 10.2
+Vraag:
+Artikel 10.2 van de conceptovereenkomst (bijlage L) stelt dat dat 
+Opdrachtgever via Opdrachtnemer van een medewerker die wordt ingezet in 
+het kader van deze Overeenkomst een ondertekende Geheimhouding-
+Integriteitverklaring kan verlangen. 
+Kunt u bevestigen dat het de Opdrachtnemer is die deze verklaring tekent, en 
+niet de individuele werknemer?
+Antwoord:
+Neen. De werknemer tekent de geheimhoudingsverklaring op verzoek van de 
+Opdrachtnemer. De Opdrachtgever kan van de Opdrachtnemer inzage in of 
+een afschrift van de verklaring verlangen.
+Beantwoord op: 09-03-2021
+Label: Juridisch
+Ref.nr. Onderwerp:
+21 Bijlage L, Concept overeenkomst, artikel 2.2
+Vraag:
+Artikel 2.2 van de conceptovereenkomst (bijlage L) spreekt van een initiële 
+looptijd van 4 jaar, welke aanvangt op 27 mei dit jaar en eindigt uiterlijk 31 
+december 2024. Dit is 3,5 jaar, en niet 4 jaar. 
+Kunt u aangeven wat nu de looptijd is en dit indien nodig aanpassen in de 
+conceptovereenkomst?
+Antwoord:
+Artikel 2.2 wordt aangepast naar “ongeveer vier (4) jaar”.
+Verder vindt een wijziging plaats van 3.6, waarin abusievelijk twee 
+optiejaren zijn vermeld in plaats van één optiejaar. Ook dat zal worden 
+aangepast.
+Beantwoord op: 09-03-2021
+Label: Juridisch
+Ref.nr. Onderwerp:
+22 ARVODI-2018, artikel 27.4
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 10 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Vraag:
+Artikel 27.4 ARVODI-2018 vermeldt dat Opdrachtnemer Opdrachtgever 
+toegang verleent tot de arbeidsvoorwaardelijke afspraken. Wij werken hier 
+graag aan mee, ervan uit gaande dat u met deze voorwaarden niet wil 
+bewerkstelligen dat Opdrachtnemer in strijd handelt met de AVG. 
+Bent u bereid om aan de laatste volzin van artikel 27.4 ARVODI-2018 de 
+zinsnede “met inachtneming van de bepalingen in de AVG” op te nemen?
+Antwoord:
+Neen. Het spreekt voor zich dat een overheidsdienst niet van opdrachtnemers 
+vergt dat zij in de uitvoering van opgedragen werkzaamheden in strijd met 
+wettelijke bepalingen handelen. Dat geldt voor alle in een overeenkomst 
+opgenomen bepalingen, dus een toevoeging zoals voorgesteld kunnen dan bij 
+veel meer contractverplichtingen worden geplaatst.
+RWS is dan ook niet bereid om die toevoeging op te nemen, omdat dit 
+vanzelfsprekend is.
+Beantwoord op: 09-03-2021
+Label: Juridisch
+Ref.nr. Onderwerp:
+23 ARVODI-2018, artikel 21.3
+Vraag:
+Artikel 21.3 ARVODI-2018 bepaalt dat de aansprakelijkheid is beperkt per 
+gebeurtenis, waarbij het aantal gebeurtenissen niet is beperkt. Wij verzoeken 
+u vriendelijk acht te slaan op hetgeen gebruikelijk is in de branche voor 
+onderhavige opdracht, overeenkomstig het advies van de Commissie van 
+Aanbestedingsexperts (nummer 154, zie onder andere overweging 6.2.14).
+Bent u bereid de aansprakelijkheid per opdracht te beperken tot maximaal 
+driemaal de opdrachtsom?
+Antwoord:
+Neen. Ondanks dat het aantal gebeurtenissen niet is beperkt, is de 
+aansprakelijkheid gelimiteerd.
+Samenhangende gebeurtenissen worden daarbij aangemerkt als één 
+gebeurtenis. Gezien de gestelde eisen en voorwaarden wordt voldaan aan 
+wat maatschappelijk gezien en in de branche aanvaardbaar is.
+Beantwoord op: 09-03-2021
+Label: Juridisch
+Ref.nr. Onderwerp:
+24 Vraagspecificatie H4, H5
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 11 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Vraag:
+Het valt ons op dat de eisen met betrekking tot projectmanagement (PM), 
+kwaliteitsmanagement (KM) en projectbeheersing (PB) niet aansluitend 
+genummerd zijn. Is dit bewust of zijn er eisen weggevallen uit het document?
+Antwoord:
+De in het format vermelde eisen die niet van toepassing zijn, zijn verwijderd. 
+De overgebleven eisen zijn niet opnieuw genummerd. Er ontbreken voor 
+zover bekend geen relevante eisen.
+Beantwoord op: 09-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+25 Vraagspecificatie 3.1.2
+Vraag:
+Kunt u aangeven of we bestaande RWS-constructies (portalen etc) en/of 
+stroomvoorziening kunnen gebruiken voor onze meetsystemen?
+Antwoord:
+Portalen en stroomvoorziening van Rijkswaterstaat zijn niet zo maar te 
+gebruiken. De wegbeheerder zal toestemming moeten geven en dat is 
+afhankelijk van voorwaarden. Daarnaast zal het verkrijgen van toestemming 
+tijd kosten o.a. door het benodigd overleg.
+Beantwoord op: 09-03-2021
+Label: Uitvoering
+Ref.nr. Onderwerp:
+26 Bijlage L, Concept overeenkomst, artikel 1.7 lid 1
+Vraag:
+Kan de eis van het meten ook in een andere persoon dan de projectleider
+/projectmanager zijn vertegenwoordigd?
+Antwoord:
+Ja, de ervaring kan ook bij een ander lid van het aangeboden team 
+vertegenwoordigd zijn. Artikel 1.7 zal hierop worden aangepast.
+Beantwoord op: 09-03-2021
+Label: Juridisch
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 12 van 12 Datum genereren Nota van Inlichtingen: 09-03-2021
+Ref.nr. Onderwerp:
+27 Vraagspecificatie 6.2
+Vraag:
+Kan in relatie tot PB005, PB008 verduidelijkt worden?
+Antwoord:
+Betaling van de opdrachtsom vindt plaats conform bijlage I “Staat van 
+Tarieven en prijzen”, deels op basis van een vaste prijs (afnamegarantie) en 
+deels op basis van nacalculatie (variabele component).
+Beantwoord op: 09-03-2021
+Label: Uitvoering
+
+=== Document: nota van inlichtingen 2021-03-18-1 ===
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 1 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+Aanbesteding: Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknummer 31167184
+Toelichting:
+De in de Eerste Nota van Inlichtingen gegeven Toelichting blijft tevens ongewijzigd.
+Ref.nr. Onderwerp:
+28 NVI-1 vraag nr. 21
+Vraag:
+In NVI-1 ref.nr. 21 geeft u aan artikel 2.2 en artikel 3.6 uit Bijlage L aan te 
+passen. Kunt u de aangepaste bijlage L verstrekken?
+Antwoord:
+Ja. Deze zal worden geüpload in Tenderned.
+Beantwoord op: 18-03-2021
+Label: Contract
+Ref.nr. Onderwerp:
+29 NVI-1 vraag nr. 26
+Vraag:
+In NVI-1 ref.nr. 26 geeft u aan artikel 1.7 uit Bijlage L aan te passen. Kunt u 
+de aangepaste bijlage L verstrekken?
+Antwoord:
+Idem.
+Beantwoord op: 18-03-2021
+Label: Contract
+Ref.nr. Onderwerp:
+30 NVI-1 vraag nr. 20
+Vraag:
+In de Nota van Inlichtingen d.d. 09-03-2021, ref. nr. 20, geeft u aan dat de 
+werknemer de geheimhoudingsverklaring dient te tekenen, zoals artikel 10.2 
+conceptovereenkomst voorschrijft. Zoals gezegd vinden wij het onredelijk 
+zulke verplichtingen aan werknemers op te leggen, het is immers de 
+opdrachtnemer die de verplichtingen aan ten aanzien van 
+geheimhoudingsbedingen aangaat en er zorg voor draagt dat zijn 
+werknemers deze verplichtingen naleven. Werknemers kunnen niet 
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 2 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+rechtstreeks gebonden worden door opdrachtgever aan 
+geheimhoudingsbedingen. Daarnaast weten wij niet hoe die bedoelde 
+geheimhoudingsverklaring er uit zal komen te zien. Wij willen u vragen om 
+uw standpunt te heroverwegen en alsnog de bepaling buiten toepassing te 
+verklaren, of in ieder geval in te stemmen met een door de Opdrachtnemer 
+getekende geheimhoudingsverklaring. Daarnaast zouden wij u willen 
+verzoeken een model beschikbaar te stellen en ons de mogelijkheid te geven 
+hierover dan nog vragen te stellen. 
+Bent u hiertoe bereid?
+Antwoord:
+Er staat in het antwoord op vraag 20 van de Eerste Nota van inlichtingen niet 
+vermeld dat de Opdrachtgever werknemers in dienst van de Opdrachtnemer 
+rechtstreeks aan een geheimhoudingsverklaring wenst te houden, noch dat de 
+Opdrachtnemer deze door de werknemer ondertekende verklaring direct 
+moet verstrekken. Integendeel, in artikel 10.2 staat helder omschreven dat 
+het verlangen van een geheimhoudingsverklaring via de Opdrachtnemer 
+verloopt.
+Beantwoord op: 18-03-2021
+Label: Juridisch
+Ref.nr. Onderwerp:
+31 Aantal camera's
+Vraag:
+In de 1e Nota van Inlichtingen geeft u bij vraag 10 aan dat opdrachtnemer in 
+zijn prijs mee moet nemen indien er meer camera’s benodigd zijn dan het 
+minimale aantal (twee voor een weefvak en één voor een wegvak). Bij vraag 
+13 spreekt u echter over [het hanteren van een] minimumniveau van twee 
+camera’s voor weefvakken en een camera voor wegvakken. Dit 
+minimumaantal zal naar ons idee in veel gevallen te weinig zijn voor een 
+goede meting. Partijen die uitgaan van het minimumaantal krijgen daardoor 
+een prijsvoordeel boven de partijen die voor meer camera’s gaan. Het lijkt 
+ons daarom voor een level playing field meer gewenst om van een hoger 
+minimumaantal camera’s uit te gaan.
+Antwoord:
+De antwoorden op de vragen 10 en 13 zijn niet met elkaar in tegenspraak. Er 
+is gekozen voor een minimumniveau van twee camera’s voor weefvakken en 
+een camera voor overige locaties of wegvakken. Daarnaast is het niet 
+uitgesloten dat er voor bepaalde locaties meer dan twee camera’s voor 
+weefvakken moeten worden toegepast. Het criterium daarbij is dat twee 
+camera’s niet volstaan om op vakbekwame wijze tot goede resultaten te 
+komen.
+18-03-2021
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 3 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+Beantwoord op:
+Label: Uitvoering
+Ref.nr. Onderwerp:
+32 Opbouw plan van aanpak
+Vraag:
+Aanbestedingsleidraad paragraaf 4.4.3: Aangegeven wordt: “Voor de 
+efficiency en kwaliteit van het beoordelingsproces dient de structuur van de 
+kwalitatieve documenten overeen te komen met de Tabel BPKV-criteria uit 
+bijlage G “Uitwerking BPKV criteria voor de beste prijs-
+kwaliteitverhouding”". Wordt hiermee bedoeld dat het Plan van Aanpak 
+dient te bestaan uit de onderdelen “Kwaliteit” en “Processen en planning”, of 
+dient ook expliciet de structuur van de genoemde sub-critieria gevolgd te 
+worden? In dit laatste zit naar onze mening namelijk meer overlap in de 
+uitwerking van de diverse sub-criteria, wat naar verwachting voor veel 
+dubbeling zorgt indien het per sub-criterium wordt uitgewerkt.
+Antwoord:
+Indien u ervoor kiest om een Plan van Aanpak te maken met een eigen opzet, 
+waarmee dubbelingen worden voorkomen, dan is dat toegestaan. Het is dan 
+wel vereist dat u een apart onderdeel wijdt aan de subcriteria 1.1 t/m 1.3 en 
+2.1 en 2.2 vermeld in de EMVI BPKV Tabel. U kunt daarbij werken met 
+verwijzingen naar uw integrale Plan van Aanpak. Overigens zijn de criteria 
+in de meeste gevallen zonder overlapping en dus gericht op telkens een ander 
+onderdeel van de aanpak.
+Beantwoord op: 18-03-2021
+Label: Proces
+Ref.nr. Onderwerp:
+33 Staat van Tarieven en conceptovereenkomst
+Vraag:
+Staat van Tarieven, rij 44: “Kolom vaste prijs/product geldt betreft de 
+totaalprijs (vast en variabel) gedeeld op het Totaal aantal (producten van een 
+post) en die geldt voor de verrekening van een vast en/of variabel product 
+van dezelfde post.”. In de conceptovereenkomst staat “3.11 Opdrachtnemer 
+zal de kosten van variabele producten declareren tegen de (vaste) prijs per 
+product zoals vermeld in Bijlage I Staat van Tarieven en Prijzen.”. Wij 
+voorzien een verschil in kosten per product voor VAST en VARIABEL (bv. 
+door eenmalige jaarlijkse werkzaamheden). In dat geval moet niet worden 
+gerekend met de vaste prijs per product uit kolom G in de Staat van Tarieven 
+en Prijzen, maar moet deze gebaseerd worden op de variabele prijs en aantal. 
+Kan dit worden aangepast?
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 4 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+Antwoord:
+In uw vraag zijn abusievelijk rij 43 en 44 gecombineerd, echter verder is er 
+geen onderscheid in de Vaste prijs/product voor een vaste en/of een 
+variabele hoeveelheid. De kolom Vaste prijs/product geldt voor de 
+verrekening van een vast en/of variabel product.
+Op de tweede plaats kunnen de eenmalige jaarlijkse kosten worden 
+opgenomen onder de vaste en/of de variabele kosten. Het is aan de 
+inschrijver om uitgaande van het werk in te schatten waar deze kosten het 
+beste kunnen worden ondergebracht. Uiteindelijk worden de eenmalige 
+jaarlijkse kosten opgeteld en gedeeld door het totaalaantal producten. Het 
+middelen van de eenmalige kosten kan nadelig voor de Opdrachtgever zijn 
+(bijvoorbeeld wanneer geen variabele kosten worden gemaakt). Daarmee 
+krijgt de Opdrachtnemer een naar verhouding hogere prijs voor de vaste 
+hoeveelheden. Daar staat tegenover dat de Opdrachtnemer een bepaalde 
+extra hoeveelheid capaciteit beschikbaar moet houden.
+Beantwoord op: 18-03-2021
+Label: Contract
+Ref.nr. Onderwerp:
+34 Staat van Tarieven en Prijzen
+Vraag:
+Wij voorzien voorbereidende werkzaamheden (bv. het opzetten van het 
+vooronderzoek en het ontwikkelen van verwerkingsmodules) die 
+onafhankelijk zijn van het aantal locaties en welke zullen worden uitgevoerd 
+in het eerste jaar 2021. Kunnen we deze onderbrengen in het onderdeel 
+voorbereiding (posten 1 t/m 3 van Staat van Tarieven en Prijzen) zodat deze 
+direct kunnen worden gefactureerd na uitvoering van deze werkzaamheden?
+Antwoord:
+Dat zou bij uiteenlopende aanpakken van inschrijvers uiteindelijk grote 
+verschillen op de posten 1 t/m 3 en de posten voor de capaciteitsmetingen 
+kunnen opleveren. Daarom wordt bij deze bepaald dat deze kosten moeten 
+worden ondergebracht onder één of meerdere posten voor 
+‘Capaciteitsmetingen’ (nrs. 4 t/m 14).
+Beantwoord op: 18-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+35 Staat van Tarieven en Prijzen
+Vraag:
+De aantallen voor vast en variabel genoemd voor het tellen van 
+rijstrookwisselingen (posten 10 en 11) komen overeen met de metingen op 
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 5 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+basis van eigen apparatuur gedurende drie maanden (posten 7 en 9). Klopt 
+het dat de rijstrookwisselingen alleen bij meetperiodes van 3 maanden 
+moeten worden geteld en niet bij meetperiodes van 1 maand?
+Antwoord:
+Dat klopt. In principe vinden metingen gedurende drie maanden plaats.
+Beantwoord op: 18-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+36 Vraagspecificatie p. 13 en Staat van Tarieven en Prijzen
+Vraag:
+“OG kan in plaats van een meetperiode van drie maanden een kortere 
+meetperiode van één maand voorschrijven voor meetlocaties.” Klopt het dat 
+een meetperiode van één maand een alternatief is voor een meetperiode van 
+drie maanden, en dus geen potentiële toevoeging? Dit zou betekenen dat het 
+totaal aantal variabele meetlocaties (waarbij één of drie maanden wordt 
+gemeten) voor weefvakken acht is. Klopt dit? In dit geval zijn posten 6 en 7 
+in de Staat van Tarieven en Prijzen deels alternatieven (idem posten 8 en 9) 
+en is het onlogisch dat de posten bij elkaar worden opgeteld om de totaalprijs 
+van de inschrijving te bepalen. Behoeft dit aanpassing?
+Antwoord:
+De hoeveelheden voor de verschillende producten zijn geen alternatieven die 
+ten opzichte van elkaar zouden vervallen. De inschattingen zijn realistisch. 
+De Opdrachtgever streeft ernaar om de aangegeven hoeveelheden te 
+benutten, en daarom is het optellen van de hoeveelheden van de 
+verschillende alternatieven realistisch. 
+Echter, slechts de vaste hoeveelheden betreffen een afnamegarantie (posten 7 
+en 9, totaal 8). De variabele niet. In die zin kan het zijn dat de optelsom 
+uiteindelijk lager zal zijn dan gepland, maar nogmaals, dat is niet de 
+bedoeling en op dit moment niet realistisch. Het achterblijven van de 
+benutting van de variabele hoeveelheden zou echter weer wel kunnen 
+optreden, wanneer bijvoorbeeld één of meerdere vaste prijzen/product 
+verhoudingsgewijs te hoog blijken te zijn in relatie tot het beschikbare 
+budget, zodat het onmogelijk wordt om de extra hoeveelheden op te dragen.
+Beantwoord op: 18-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+37 Conceptovereenkomst, tabel bij 3.8
+Vraag:
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 6 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+In de tabel zijn de postnummers uit de Staat van Tarieven en Prijzen 
+opgenomen met de uiterste leverdatum. Bij postnummer 19 bestaat vast uit 4 
+onderdelen. Wij nemen aan dat het hierbij gaat over een jaarlijks overleg. 
+Moet post 19 daarom ook niet worden opgenomen in de rijen die relateren 
+aan de jaren 2021, 2022 en 2023?
+Antwoord:
+Het is niet juist dat er sprake is van jaarlijkse adviezen (posten 15 t/m 19). 
+De adviezen zijn eenmalig aan het eind van het project. Ten behoeve 
+daarvan is wel een vast aantal van 4 overleggen ingepland.
+Beantwoord op: 18-03-2021
+Label: Contract
+Ref.nr. Onderwerp:
+38 Vraagspecificatie en Staat van Tarieven en Prijzen
+Vraag:
+De opdrachtgever vraagt om rijstrookwisselingen, maar beschrijft niet hoe 
+deze moeten worden gerapporteerd en opgeleverd. De opdrachtgever 
+beschrijft de gewenste rijstrookwisselingen-informatie op twee verschillende 
+manieren: (1) "worden per meetlocatie het aantal rijstrookwisselingen 
+gemeten en de locatie waar deze plaatsvinden met de camerameetsystemen" 
+[Vraagspecificatie, pagina 14] en (2) "tellen adhv camerabeelden het aantal 
+rijstrookwisselingen op het niveau van een wegvak/weefvak" [Staat van 
+Tarieven, post 10-11]. Wij voorzien dat het voldoende is om de netto 
+rijstrookwisselingen over het gehele weefvak of wegvak te meten om tot een 
+goede capaciteitsmeting te komen. De exacte locatie van iedere 
+rijstrookwisseling is dan niet bekend. Deelt de opdrachtgever dit beeld? Zo 
+nee, met welk doel wil de opdrachtgever de rijstrookwisselingen inwinnen?
+Antwoord:
+Nee, de locatie waar rijstrookwisselingen plaatsvinden moet bepaald worden. 
+Dit mag met een bepaalde nauwkeurigheid gebeuren. De Opdrachtnemer 
+mag één en ander naar zijn/haar inzicht opnemen in het Plan van Aanpak.
+Beantwoord op: 18-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+39 Vraagspecificatie
+Vraag:
+U geeft aan dat voor sommige locaties één camera volstaat. Voorziet de 
+opdrachtgever daarmee dat op sommige locaties zowel met camerametingen 
+Nota van Inlichtingen Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Pagina 7 van 7 Datum genereren Nota van Inlichtingen: 18-03-2021
+als met lusdata gewerkt wordt voor de capaciteitsmeting?
+Antwoord:
+Neen. Niet specifiek deze keuze. De vakbekwame wijze waarop de 
+Opdrachtnemer (per locatie) tot goede resultaten komt, bepaalt zijn keuze 
+voor de wijze waarop de data worden ingewonnen.
+Beantwoord op: 18-03-2021
+Label: Inhoud
+Ref.nr. Onderwerp:
+40 Vraagspecificatie
+Vraag:
+Wij voorzien dat er geen situatie is waarin het meten met één camera 
+voldoende is om alle gevraagde capaciteitsmeting-methodes toe te passen. 
+Hiervoor zijn namelijk de stroomopwaartse en stroomafwaartse intensiteiten 
+nodig. Gegeven de variaties in breakdown-locaties van kiemen heeft een 
+enkele camera nooit voldoende zicht om beide intensiteiten te observeren. 
+Deelt de opdrachtgever deze constatering? Zo nee, kan de opdrachtgever 
+aangeven hoe één camera kan volstaan om de alle methodes toe te passen?
+Antwoord:
+De Opdrachtnemer kan in het in te dienen Plan van Aanpak als onderdeel 
+van de offerte zijn/haar visie geven op het uit te voeren onderzoek. Graag 
+maakt de Opdrachtgever gebruik van zijn/haar expertise.
+Beantwoord op: 18-03-2021
+Label: Inhoud
+
+=== Document: bijlage l_overeenkomst_concept v1.2 ===
+Overeenkomst
+Rijkswaterstaat Water Verkeer en Leefomgeving
+Datum :
+Zaaknummer: 31167184
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 2 van 13
+Colofon Model 110 v1.1
+Uitgegeven door: Ministerie van Infrastructuur en Waterstaat,
+Rijkswaterstaat Water Verkeer en Leefomgeving
+Datum:
+Status: concept
+Versienummer: 1.2
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 3 van 13
+Inhoud
+1. Voorwerp van de Overeenkomst 5
+2. Totstandkoming, tijdsplanning of duur van de Overeenkomst 6
+3. Prijs en overige financiële bepalingen 6
+4. Contactpersonen 8
+5. Tijden en plaats Diensten 8
+6. Arbeidsvoorwaarden 8
+7. Overige Voorwaarden 10
+8. Voorwaarden niet-beleidsgericht onderzoek 11
+9. Bewaarneming 11
+10. Integriteitsverklaring 11
+11. Slotbepaling 12
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 4 van 13
+Overeenkomst
+Ondergetekenden:
+DE STAAT DER NEDERLANDEN, gevestigd te ‘s-Gravenhage,
+vertegenwoordigd door de minister van Infrastructuur en Waterstaat,
+namens deze, Rijkswaterstaat Water Verkeer en Leefomgeving, H. de Wilde,
+directeur Bereikbaarheid en Netwerkkwaliteit
+hierna te noemen: “Opdrachtgever”,
+en
+<vul naam rechtspersoon in> BV, (statutair) gevestigd te <vul plaats in>, vertegenwoordigd door
+<vul naam in>
+<vul functie in>
+hierna te noemen: “Opdrachtnemer”,
+en hierna in voorkomend geval, gezamenlijk, te noemen ‘Partijen’
+OVERWEGENDE DAT:
+- Opdrachtgever behoefte heeft aan het‘Capaciteitsonderzoek rijkswegen 2021 t/m
+2024’;
+- Opdrachtgever een Europese openbare aanbestedingsprocedure heeft gevolgd conform
+het ARW 2016;
+- <vul naam en vestigingsplaats contractant in> BV te .. op <vul dag/maand/jaar in> in
+het kader van de aanbesteding een Inschrijving heeft ingediend;
+- Opdrachtgever deze Inschrijving heeft aanvaard;
+- <vul naam en vestigingsplaats contractant in> BV te .. zich in voldoende mate op de
+hoogte heeft gesteld van wat Opdrachtgever met de opdracht wil bereiken;
+- Partijen de daaruit voortvloeiende rechtsverhouding schriftelijk wensen vast te leggen
+in een overeenkomst;
+KOMEN OVEREEN:
+In deze Overeenkomst wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze
+begrippen komt de betekenis toe die hieraan wordt gegeven in artikel 1 van de Algemene Rijks-
+voorwaarden voor het verstrekken van opdrachten tot het verrichten van Diensten 2018 (ARVODI-
+2018).
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 5 van 13
+1. Voorwerp van de Overeenkomst
+1.1 Opdrachtgever verleent aan Opdrachtnemer opdracht tot het verrichten van Diensten
+overeenkomstig de op basis van de Aanbestedingsleidraad van Opdrachtgever d.d. <vul
+datum in>, kenmerk <vul kenmerk in> (Bijlage <vul kenmerk bijlage in>), door
+Opdrachtnemer ingediende inschrijving d.d. <vul datum in>, kenmerk <vul kenmerk in>
+(Bijlage <vul kenmerk bijlage in>),welke opdracht Opdrachtnemer bij dezen aanvaardt,
+een en ander voor zover daarvan niet in deze Overeenkomst wordt afgeweken.
+1.2 De navolgende documenten vormen gezamenlijk de Overeenkomst. Voor zover deze
+documenten met elkaar in tegenspraak zijn, prevaleert het eerder genoemde document
+boven het later genoemde:
+1. dit document;
+2. de twee (2) nota’s van inlichtingen van … 2021 respectievelijk … 2021;
+3. de Aanbestedingsleidraad (zoals gepubliceerd op Tenderned);
+4. de Vraagspecificatie (Bijlage K) en overige Bijlagen (zoals gepubliceerd op Tenderned);
+5. de ARVODI-2018;
+6. de door Opdrachtnemer ingediende inschrijving van <vul datum in>,
+  met kenmerk <vul kenmerk in> (door Opdrachtnemer op … 2021 digitaal ondertekend)
+  met de ingevulde Staat van Tarieven en prijzen (Bijlage I);
+7. Verwerkersovereenkomst ARVODI-2018.
+1.3 …
+1.4 De resultaten van de Diensten worden geleverd in de vorm van c.q. afgerond door
+indiening van een (jaarlijks) eindrapport. Het eindrapport bevat in elk geval een opgave
+van de bereikte resultaten, de daarbij gebruikte methoden en technieken, alsmede de
+daarop gebaseerde conclusies. Het eindrapport wordt in digitale vorm opgeleverd.
+Daarnaast wordt het in <vul aantal in>voud in schriftelijke vorm aangeleverd.
+1.5 Het (jaarlijks) eindrapport wordt voorafgegaan door een conceptrapport. Het eindrapport
+wordt in digitale vorm opgeleverd. Daarnaast wordt het in <vul aantal in>voud in
+schriftelijke vorm aangeleverd.
+1.6 Omtrent de vorm waarin de eindrapportage zal plaatsvinden, vindt door partijen nog nader
+overleg plaats. In het eindrapport wordt in ieder geval vermeld dat Opdrachtgever de
+auteursrechthebbende is.
+1.7 De Opdrachtnemer is verplicht het Personeel in te zetten ten aanzien waarvan de
+geschiktheidseisen zijn aangegeven in paragraaf 3.2 van de Aanbestedingsleidraad van
+Opdrachtgever d.d. <vul datum in>, kenmerk <vul kenmerk in> (Bijlage <vul kenmerk
+bijlage in>).
+Daarnaast is de Opdrachtnemer verplicht bij de uitvoering van de Diensten in het kader van
+deze Overeenkomst personeel in te zetten met de volgende kennis en/of ervaring, hetgeen
+op elk moment met bewijsstukken met referentieprojecten moet kunnen worden
+aangetoond.
+1. De projectmanager/projectleider en/of één van de andere projectteamleden van de
+Opdrachtnemer (of zijn onderaannemer) dient tenminste in de afgelopen drie (3)
+jaar één opdracht te hebben uitgevoerd op het gebied van meting en geautomati-
+seerde gegevensverwerking van verkeer op rijkswegen.
+2. Naast de projectmanager dient tenminste één lid van het projectteam in de afgelo-
+pen drie (3) jaar een opdracht te hebben uitgevoerd waarbij ervaring is opgedaan
+met verkeerskundige berekeningen van onder andere verkeersafwikkeling op het
+hoofdwegennet.
+Bij het niet voldoen aan deze kwalificatievereisten tijdens de uitvoering van de
+werkzaamheden is sprake van een Tekortkoming in de nakoming van verplichtingen
+voortvloeiend uit deze Overeenkomst.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 6 van 13
+2. Totstandkoming, tijdsplanning of duur van de Overeenkomst
+2.1 Deze Overeenkomst komt tot stand door ondertekening van het contract door beide partijen.
+2.2  De overeengekomen Diensten vangen aan uiterlijk op 27 mei 2021 en moeten uiterlijk op
+31 december 2024 voltooid zijn.
+Voor na deze initiële looptijd van ongeveer vier (4) jaar heeft de Opdrachtgever het recht om
+de Overeenkomst met ten hoogste eenmaal een jaar te verlengen. De Opdrachtnemer is
+verplicht een verlenging op eerste verzoek van de Opdrachtgever in uitvoering te nemen.
+Indien bij een verlenging de scope van de Opdracht naar inzicht van de Opdrachtgever
+(wezenlijk) moet worden gewijzigd, dan wordt voorafgaande aan de te sluiten
+Wijzigingsovereenkomst aan de Opdrachtnemer een nieuwe offerte gevraagd voor het
+optiejaar, met dien verstande dat voor de inhoudelijk ongewijzigde producten (met het
+daaraan gekoppeld totaal aantal uren), de vermelde tarieven en prijzen in de (door de
+Opdrachtnemer ingevulde en) aan deze Overeenkomst gehechte Bijlage I Staat van Tarieven
+en prijzen, ongewijzigd blijven. Voor de op basis van de nieuwe scope nieuw vastgestelde of
+wezenlijk aangepaste producten worden dan gezamenlijk andere tarieven en prijzen
+vastgesteld.
+2.3 Indien de Opdrachtnemer op (onderdelen van) kwaliteit- of prestatiecriteria die zijn gesteld in
+het kader van de aanbesteding van deze opdracht (EMVI-BPKV-beoordeling), minder
+realiseert dan wel naar vermoeden minder zal realiseren, dan hij bij inschrijving heeft
+aangeboden, zal hij schriftelijk in gebreke worden gesteld. Indien de Opdrachtnemer ten
+aanzien van die criteria desondanks uiteindelijk minder realiseert dan hij heeft aangeboden,
+zal een EMVI-BPKV-sanctie worden opgelegd. Deze EMVI-BPKV-sanctie is anderhalf (1,5)
+maal het verschil tussen de bij de EMVI-BPKV-beoordeling behaalde kwaliteitswaarde en de
+gerealiseerde kwaliteitswaarde, berekend conform de EMVI-BPKV-beoordelingsmethodiek.
+3. Prijs en overige financiële bepalingen
+3.1 De Opdrachtgever is niet gehouden aan door de Opdrachtnemer bedongen
+betalingsvoorwaarden, noch door de Opdrachtnemer in zijn Inschrijving aangegeven
+betalingsvoorstellen.
+3.2 De Opdrachtgever is niet gehouden om de tarieven en prijzen van de Inschrijving c.q. van
+Bijlage I Staat van Tarieven en Prijzen na verloop van een bepaalde periode te indexeren;
+indexering van de tarieven is niet op deze Overeenkomst, noch op eventueel meerwerk, van
+toepassing.
+3.3 In het geval sprake is van een Tekortkoming voortvloeiend uit overtreding van artikel 1.7 van
+deze Overeenkomst kan de Opdrachtgever de betaling van een betalingstermijn (of gedeelte
+hiervan), opschorten.
+De opschorting van de betaling blijft van kracht tot het moment dat de Tekortkoming door
+Opdrachtnemer, ter beoordeling door Opdrachtgever, is opgeheven.
+De Opdrachtnemer heeft in geval van een gerechtvaardigde opschorting geen recht op
+vergoeding van rente en indexering.
+3.4 De in dit artikel bedoelde prijzen hebben betrekking op alle door Opdrachtnemer in het kader
+van deze Overeenkomst te verrichten Diensten en eventueel daartoe benodigde materialen.
+3.5 De in of bij de Staat van Tarieven en prijzen vermelde tarieven (per product) zijn van
+toepassing gedurende de looptijd van de Overeenkomst, het optiejaar en bij eventueel
+meerwerk (voortvloeiend uit deze Overeenkomst) gedurende vijf jaren, behoudens in het
+geval, overeenkomstig het bepaalde in artikel 2.2 van deze Overeenkomst, ten behoeve van
+het optiejaar op basis van de nieuwe scope nieuw vastgestelde of wezenlijk aangepaste
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 7 van 13
+producten met nieuwe prijzen met bijbehorende nieuwe hoeveelheden zijn overeengekomen
+die gelden voor dat optiejaar.
+3.6 De in de van deze Overeenkomst onderdeel uitmakende (ingevulde) Bijlage I Staat van
+Tarieven en prijzen vermelde tarieven per uur (exclusief BTW) en de daarin door de
+Opdrachtnemer geverifieerde en zo nodig aangepaste uren worden niet meer verrekend
+gedurende de looptijd van deze Overeenkomst, de eventuele verlenging (optiejaar) en
+eventueel uit de Overeenkomst voortvloeiend meerwerk, inbegrepen.
+Verrekening op vaste en variabele producten vindt plaats naar gelang de prijs per product
+zoals vermeld in Bijlage I.
+3.7 Opdrachtnemer verricht Diensten tegen een vaste totaalprijs, overeenkomstig de bij de
+Inschrijving van …  ingediende Staat van Tarieven en prijzen (conform Bijlage I). Deze vaste
+totaalprijs bedraagt € <vul bedrag in> (excl. BTW en inclusief reis-, verblijf- en eventuele
+overige kosten).
+Deze prijs betreft de looptijd van de Overeenkomst van vier (4) jaren, exclusief optiejaar.
+3.8 Betaling van de in het vorige lid vermelde vaste totaalprijs geschiedt in ten hoogste
+48 termijnen (over de periode van 4 jaar).
+Een termijn verschijnt telkens aan het einde van de desbetreffende maand of de
+eerstvolgende maand, indien één of meer (vaste) producten van één of meer (betaal)posten
+van de Staat van Tarieven en prijzen in die maand is opgeleverd én aanvaard door de
+projectbegeleider van de Opdrachtgever.
+De laatste termijn in een bepaald jaar verschijnt niet eerder dan nadat alle (vaste) producten
+(betaalposten) van dat jaar zijn opgeleverd en alle desbetreffende resultaten van de Diensten
+door de projectbegeleider van de Opdrachtgever zijn aanvaard.
+Betaling van het bovengenoemde bedrag zal plaatsvinden in termijnen conform onderstaand
+overzicht.
+Positie-
+nummer
+Postnummer Bedrag (Uiterste) lever-
+datum
+10 1 t/m 3 en 4 t/m 14 15 december 2021
+20 4 t/m 14 15 december 2022
+30 4 t/m 14 15 december 2023
+40 4 t/m 14, 15 t/m 19 en
+20 en 21, zónder optie-
+jaar
+15 december 2024
+3.9 De (vaste) totaalprijs volgens voorgaande leden is vast en onveranderlijk gedurende de duur
+van deze Overeenkomst.
+3.10 De Projectbegeleider Opdrachtgever kan voor de uitvoering van het Project aan de
+Opdrachtnemer nadat de eventuele desbetreffende vaste hoeveelheid producten is uitgeput,
+aanvullende (variabele) producten (schriftelijk of per e-mail) in opdracht geven,
+overeenkomstig de variabele hoeveelheid zoals vermeld in Bijlage I Staat van Tarieven en
+Prijzen tot het maximumaantal voor de variabele hoeveelheid van de desbetreffende post.
+3.11 Opdrachtnemer zal de kosten van variabele producten declareren tegen de (vaste) prijs per
+product zoals vermeld in Bijlage I Staat van Tarieven en Prijzen.
+3.12 Betaling van het bedoelde bedrag aan variabele kosten (van de variabele hoeveelheden)
+geschiedt eveneens in de desbetreffende of eerstvolgende maandelijkse termijn, slechts
+nadat het desbetreffende aanvullende (hoeveelheid) product is geleverd én geaccepteerd
+door de Projectbegeleider Opdrachtgever en slechts nadat de Opdrachtnemer een overzicht
+van de bedoelde producten heeft afgestemd met de Projectbegeleider Opdrachtgever.
+3.13 Betaling van de bedragen voor variabele hoeveelheden zal plaatsvinden in termijnen conform
+onderstaand overzicht.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 8 van 13
+Positie-
+nummer
+Postnummer Jaar (Uiterste) lever-
+datum
+100 3 t/m 14 2021 15 december 2021
+110 4 t/m 14 2022 15 december 2022
+120 4 t/m 14 2023 15 december 2023
+130 4 t/m 14 2024 15 december 2024
+3.14 De laatste termijn voor de variabele hoeveelheden aan het einde van de looptijd van deze
+Overeenkomst verschijnt slechts wanneer alle variabele producten zijn opgeleverd en
+aanvaard, en Opdrachtnemer overigens aan al zijn verplichtingen voortvloeiend uit de
+Overeenkomst heeft voldaan.
+3.15 Het is de Projectbegeleider Opdrachtgever niet toegestaan om bovenop de vaste en variabele
+hoeveelheden, aanvullend meerwerk op te dragen. Dat is, na toetsing aan de kaders, slechts
+voorbehouden aan de Opdrachtgever.
+3.16 Uitdrukkelijk wordt bepaald dat indien Opdrachtnemer geen BTW in rekening brengt, maar
+voor (een deel van) de Diensten geen vrijstelling van BTW blijkt te bestaan, deze niet ten
+laste komt van Opdrachtgever.
+3.17 Voor verzending van facturen dient de Opdrachtnemer gebruik te maken van e-facturatie.
+ Voor meer informatie over e-facturatie wordt verwezen naar de website van Logius:
+https://ww.logius.nl/diensten/e-factureren.
+3.18 Op de factuur dient naast het zaaknummer ook het SAP-bestelnummer ……. en bovenvermeld
+positienummer vermeld te worden. Facturen zonder deze gegevens kunnen niet in behande-
+ling worden genomen.
+4. Contactpersonen
+4.1 Contactpersoon voor Opdrachtgever (projectbegeleider) is de heer …. (of een nader
+aangewezen plaatsvervanger).
+Contactpersoon voor Opdrachtnemer is <vul contractpersoon Opdrachtnemer in>.
+4.2 In afwijking van het bepaalde in artikel 10.2 van de ARVODI-2018 binden de genoemde
+contactpersonen Partijen niet.
+5. Tijden en plaats Diensten
+5.1 De Diensten worden in beginsel verricht ten kantore van Opdrachtnemer.
+5.2 Indien er een beperkt deel van de Diensten moet worden verricht ten kantore van
+Opdrachtgever verleent hij het Personeel van Opdrachtnemer toegang tot de plaats waar de
+Diensten worden verricht en stelt hij dit Personeel in staat de Diensten onder de bij die Partij
+gebruikelijke arbeidsomstandigheden te verrichten gedurende de regulier geldende
+kantoortijden.
+6. Arbeidsvoorwaarden
+6.1 Informatieplicht
+1. De opdrachtnemer houdt zich in de uitvoering van de onderhavige overeenkomst aan gel-
+dende wet- en regelgeving op het gebied van loontarieven en -betaling.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 9 van 13
+2. De opdrachtnemer legt alle arbeidsvoorwaardelijke afspraken met betrekking tot voldoe-
+ning van verschuldigd loon ten behoeve van personen betrokken bij de uitvoering van de
+onderhavige overeenkomst op een inzichtelijke en toegankelijke wijze vast  (loonadmi-
+nistratie).
+3. De opdrachtnemer verschaft desgevraagd aan bevoegde instanties toegang tot deze vast-
+gelegde arbeidsvoorwaardelijke afspraken.
+4. De opdrachtnemer verschaft desgevraagd aan opdrachtgever onvoorwaardelijke toegang
+tot deze vastgelegde arbeidsvoorwaardelijke afspraken indien deze dit noodzakelijk acht in
+verband met het voorkomen van en/of de behandeling van een loonvordering aangaande
+verrichte arbeid ten behoeve van de onderhavige overeenkomst.
+6.2 Toetsen, controles, inwinnen van informatie
+1. De opdrachtnemer verleent desgevraagd onvoorwaardelijke medewerking aan alle onder-
+zoeken (waaronder controles, toetsen, audits, en loonvalidaties) die bevoegde instanties
+en/of de opdrachtgever dienstig achten om voldoening van verschuldigd loon ten behoeve
+van personen betrokken bij de uitvoering van de onderhavige opdracht te verifiëren. De op-
+drachtnemer verschaft hiertoe desgevraagd onvoorwaardelijke toegang tot de bewaarplaats
+van de informatie.
+2. Indien de opdrachtnemer bij de uitvoering van de onderhavige overeenkomst andere par-
+tijen wil betrekken,  informeert de opdrachtnemer bij vakorganisaties en bij bevoegde in-
+stanties of deze beschikken over informatie aangaande geconstateerde onderbetaling door
+deze te betrekken partijen. De opdrachtnemer legt  zijn bevindingen hiervan vast als onder-
+deel van de in artikel 1 genoemde informatie. De opdrachtnemer licht de opdrachtgever in
+over zijn bevindingen in de periodieke voortgangsrapportage over de onderhavige overeen-
+komst.
+3. De opdrachtnemer verschaft  desgevraagd aan vakorganisaties toegang tot alle locaties
+waar ten behoeve van de uitvoering van de onderhavige overeenkomst werkzaamheden
+worden verricht, indien deze zich op de hoogte willen stellen van de voldoening van ver-
+schuldigd loon ten behoeve van personen betrokken bij de uitvoering van de onderhavige
+overeenkomst.
+6.3 Verhaalsrecht van toegewezen loonvordering
+1. Indien de opdrachtgever een ingevolge artikel 616b Boek 7 Burgerlijke Wetboek.  toegewe-
+zen loonvordering heeft voldaan en op de opdrachtnemer verhaalt, is de opdrachtnemer ge-
+houden deze op eerste aanzegging te voldoen, bij gebreke waaraan de opdrachtgever ge-
+rechtigd is om deze op de eerstvolgende termijn in te houden dan wel op andere wijze te
+verhalen.
+6.4 Doorgeefverplichting (“kettingbeding”)
+1. De opdrachtnemer legt alle in de artikelen 1 tot en met 3 van deze paragraaf beschreven
+contractverplichtingen onverkort op  aan alle partijen waarmee hij  afspraken maakt en/of
+contracten aangaat ten behoeve van de uitvoering van de onderhavige overeenkomst
+2. De opdrachtnemer bedingt hierbij tevens dat al deze partijen alle in de artikelen 1 tot en
+met 3 van deze paragraaf beschreven contractverplichtingen onverkort  opnemen in afspra-
+ken die zij maken en/of contracten die zij aangaan ten behoeve van de uitvoering van de
+onderhavige overeenkomst
+3. De opdrachtnemer beheert deze centrale vastlegging van arbeidsvoorwaardelijke afspraken.
+De opdrachtnemer bedingt daartoe dat al deze partijen de vast te leggen arbeidsvoorwaar-
+delijke afspraken voegen bij de door de opdrachtnemer vastgelegde arbeidsvoorwaardelijke
+afspraken conform het hierin door de opdrachtnemer gehanteerde format, zodat er voor de
+onderhavige overeenkomst één centrale vastlegging ontstaat.
+6.5 Procedure voor omgang met signalen over onderbetaling
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 10 van 13
+1. Indien de opdrachtgever signalen ontvangt over onderbetaling bij de uitvoering van de on-
+derhavige overeenkomst, spreekt hij meteen de opdrachtnemer hierop aan.
+2. De opdrachtgever spant zich in om de ontvangen signalen over onderbetaling te laten vali-
+deren. Afhankelijk van de situatie kan de opdrachtgever hiertoe  vakorganisaties en/of be-
+voegde instanties om medewerking verzoeken.
+3. De opdrachtnemer is verantwoordelijk voor het treffen van passende maatregelen  die lei-
+den tot afhandeling van de gesignaleerde onderbetaling. Hiertoe behoren onder meer het
+medewerking verlenen aan het valideren van de signalen, en de omgang met vakorganisa-
+ties en/of bevoegde instanties.
+4. Opdrachtgever en opdrachtnemer bespreken op initiatief van de opdrachtnemer de
+voldoening van verschuldigd loon bij de uitvoering van de onderhavige overeenkomst in
+algemene zin conform de periodieke overlegstructuur die in de onderhavige overeenkomst is
+bepaald. Ingeval de opdrachtnemer doende is met de afhandeling van gesignaleerde
+onderbetaling verhoogt hij deze frequentie naar bevind van zaken.
+7. Overige Voorwaarden
+7.1 Op deze Overeenkomst zijn uitsluitend van toepassing de "Algemene Rijksvoorwaarden voor
+het verstrekken van opdrachten tot het verrichten van Diensten 2018 (ARVODI-2018)”
+(reeds in het bezit van Partijen) , voor zover daarvan in deze Overeenkomst niet wordt
+afgeweken. De toepasselijkheid van (eventuele) algemene en bijzondere voorwaarden van
+Opdrachtnemer is uitgesloten.
+7.2 Onverminderd de plicht genoemd in artikel 9 van de ARVODI-2018 om over de voortgang
+van de Diensten aan Opdrachtgever te rapporteren wanneer en op de wijze waarop deze dat
+nodig acht, is Opdrachtnemer in ieder geval gehouden schriftelijk / mondeling te rapporteren
+op <vul datum in>.
+7.3 Artikel 19 van de ARVODI-2018 is niet van toepassing.
+7.4 In aanvulling op artikel 24 van de ARVODI-2018 geldt met betrekking tot publicatie dat
+uitsluitend Opdrachtgever bevoegd is om (delen van) de rapportage openbaar te maken.
+Indien Opdrachtgever daartoe besluit, vermeldt hij daarbij Opdrachtnemer als uitvoerend
+bureau. Indien Opdrachtgever gelijktijdig met de publicatie van het eindrapport een
+toelichting of commentaar daarop openbaar wil maken, pleegt hij daarover voorafgaand
+overleg met Opdrachtnemer.
+7.5 In aanvulling op artikel 24 van de ARVODI-2018 geldt dat Opdrachtnemer de door de
+Diensten verkregen gegevens voor wetenschappelijk onderzoek en wetenschappelijk
+onderwijs mag gebruiken, met uitzondering van privacygevoelige gegevens. Opdrachtnemer
+handelt daarbij niet in strijd met de belangen van Opdrachtgever. Bij twijfel daarover treedt
+Opdrachtnemer vooraf in overleg met Opdrachtgever. Indien Opdrachtgever besluit de
+resultaten van de Diensten niet te publiceren, kan Opdrachtnemer aan Opdrachtgever
+schriftelijk verzoeken de prestaties in eigen beheer te mogen uitgeven. Deze toestemming
+dient schriftelijk te worden gegeven en wordt niet zonder redelijke grond geweigerd.
+Opdrachtgever kan aan het verlenen van deze toestemming voorwaarden verbinden.
+7.6 In aanvulling op het bepaalde in artikel 22 ARVODI-2018 kan Opdrachtgever deze
+Overeenkomst zonder enige aanmaning of ingebrekestelling, met onmiddellijke ingang buiten
+rechte door middel van een aangetekend schrijven, ontbinden in de volgende gevallen:
+a. indien Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor discriminatie in
+de zin van de artikelen 137c tot en met 137g en art. 429 quater van het Wetboek van
+Strafrecht, of;
+b. indien Personeel van Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor
+discriminatie in de zin van de artikelen 137c tot en met g en artikel 429 quater van het
+Wetboek van Strafrecht en de desbetreffende persoon lid is van een bestuurs-,
+leidinggevend of toezichthoudend orgaan van Opdrachtnemer of daarin
+vertegenwoordigings-, beslissings-, of controlebevoegdheid heeft.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 11 van 13
+In de onder a. en b. genoemde gevallen vervalt het recht op ontbinding drie jaar nadat de
+desbetreffende veroordeling onherroepelijk is geworden.
+7.7 Partijen komen overeen om in voorkomende gevallen de fictieve dienstbetrekking van
+thuiswerkers of gelijkgestelden zoals bedoeld in de artikelen 2b en 2c Uitvoeringsbesluit
+Loonbelasting 1965 en de artikelen 1 en 5 van het Besluit aanwijzing gevallen waarin
+arbeidsverhouding als dienstbetrekking wordt beschouwd (Besluit van 24 december 1986,
+Stb. 1986, 655), buiten toepassing te laten.
+8.Voorwaarden niet-beleidsgericht onderzoek
+8.1 Algemeen
+a. Opdrachtgever maakt zonder toestemming van Opdrachtnemer geen gebruik van door
+Opdrachtnemer in eigen beheer ontwikkelde onderzoeksmethoden.
+b. Opdrachtgever kan steeds zelfanalyses of andere bewerkingen op de
+Onderzoekgegevens uit (doen) voeren of het onderzoek (doen) voltooien.
+8.2 Eigendomsoverdracht onderzoeksmateriaal
+Opdrachtnemer draagt aan Opdrachtgever in eigendom over, gelijk Opdrachtgever in
+eigendom aanvaardt, al het door de Opdrachtnemer ontvangen, aangeschafte en/of ten
+behoeve van het onderzoek vervaardigde en bewerkte materiaal, voor zover Opdrachtnemer
+daarover kan beschikken en voor zover daarop gegevens zijn vastgelegd die deel uitmaken
+van het onderzoek. De levering vindt plaats doordat beide Partijen hierbij verklaren dat
+Opdrachtnemer bedoeld materiaal voor Opdrachtgever zal houden. Tot het in eigendom over
+te dragen materiaal behoort niet het materiaal waarop de ten behoeve van het onderzoek
+gebruikte adressen zijn vastgelegd, tenzij dit materiaal door tussenkomst of in opdracht van
+Opdrachtgever is verkregen.
+9. Bewaarneming
+9.1 Tenzij schriftelijk anders overeengekomen, bewaart Opdrachtnemer het in deze
+Overeenkomst bedoelde onderzoeksmateriaal om niet voor Opdrachtgever gedurende een
+periode van vier jaar, ingaande op de datum van ondertekening van de Overeenkomst.
+9.2 Opdrachtnemer vervangt om niet het bovenbedoelde materiaal zolang hij dat onder zich
+heeft, wanneer dit door welke oorzaak dan ook geheel of gedeeltelijk onbruikbaar is
+geworden, teniet is gegaan of is vervreemd, een en ander voor zover vervanging mogelijk is
+en door Opdrachtgever wordt gewenst.
+9.3 Na afloop van de periode van vier jaar stelt Opdrachtnemer het materiaal aan Opdrachtgever
+ter beschikking, of vernietigt het om niet op verzoek van Opdrachtgever. Indien
+Opdrachtnemer Opdrachtgever niet op de hoogte stelt van het verstrijken van genoemde
+termijn, is de bewaarneming stilzwijgend voortgezet tot op het moment dat een van beide
+Partijen schriftelijk te kennen geeft de bewaarneming te beëindigen.
+10. Integriteitsverklaring
+10.1 De vigerende Gedragscode Integriteit Rijk ( https://zoek.officielebekendmakingen.nl/stcrt-
+2019-71141.html) is naar analogie van toepassing op alle medewerkers van Opdrachtnemer
+die ten behoeve van de uitvoering van deze Overeenkomst werkzaamheden verrichten ten
+kantore of locatie van Opdrachtgever en/of toegang krijgen tot vertrouwelijke informatie van
+Rijkswaterstaat en/of zijn opdrachtnemer(s).
+10.2 Opdrachtgever kan via Opdrachtnemer van een medewerker die wordt ingezet in het kader
+van deze Overeenkomst een ondertekende Geheimhouding-Integriteitverklaring verlangen.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 12 van 13
+10.3 Opdrachtgever kan via Opdrachtnemer van een medewerker die wordt ingezet in het kader
+van deze Overeenkomst een geldige Verklaring Omtrent Gedrag verlangen. Opdrachtnemer
+zal zorgdragen dat de verklaringen genoemd in artikel 10.1 en 10.2 tijdig (in ieder geval ui-
+terlijk op de datum van start werkzaamheden door betreffende medewerker) in bezit zijn van
+Opdrachtgever.
+10.4 Opdrachtnemer verklaart dat hij ter verkrijging van de opdracht Personeel van
+Opdrachtgever generlei voordeel heeft geboden, gegeven, doen aanbieden of doen geven. Hij
+zal dat ook niet alsnog doen teneinde personen in dienst van Opdrachtgever te bewegen
+enige handeling te verrichten of na te laten.
+11. Slotbepaling
+11.1 Afwijkingen van deze Overeenkomst zijn slechts bindend voor zover zij uitdrukkelijk tussen
+Partijen schriftelijk zijn overeengekomen.
+11.2 Door ondertekening van deze Overeenkomst vervallen alle eventueel eerder door Partijen
+gemaakte mondelinge en schriftelijke afspraken omtrent de hierbij overeengekomen
+Diensten.
+Dienstverleningsovereenkomst | Zaaknummer 31167184 |Capaciteitsonderzoek rijkswegen 2021-2025
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 13 van 13
+Aldus opgemaakt en in tweevoud ondertekend,
+te Rijswijk
+op <vul datum in>
+DE MINISTER VAN INFRASTRUCTUUR EN WATERSTAAT
+Rijkswaterstaat Water Verkeer en Leefomgeving
+namens deze,
+directeur Bereikbaarheid en Netwerkkwaliteit
+H. de Wilde
+te <vul plaats in>
+op <vul datum in>
+[naam Opdrachtnemer]
+<vul naam in>
+<vul functie in>
+Bijlage(n): concept Verwerkersovereenkomst ARVODI-2018
+Deze opdracht is door Rijkswaterstaat voorzien van een digitale ondertekening met betrouwbaarheidsniveau 4
+(PKI-certificaat).
+De handtekening is zichtbaar linksboven op de eerste pagina van het document.
+Als u in het document op de handtekening klikt, kunt u de handtekening op betrouwbaarheid verifiëren op
+authenticiteit. Het certificaat van de ondertekenaar kunt u dan digitaal inzien. Daarvoor heeft u minimaal Adobe
+reader XI nodig. Wij raden u aan te allen tijde een digitale handtekening op betrouwbaarheid te verifiëren.
+Voor hulp bij verificatie:
+https://helpx.adobe.com/nl/acrobat/using/validating-digital-signatures.html
+In de wetgeving is sinds 2012 geregeld dat een elektronische handtekening met gekwalificeerd certificaat, zoals
+het PKI-certificaat, bij wet gelijkgesteld is aan een handgeschreven handtekening.
+
+=== Document: tn300973 - sf02 aankondiging van een opdracht 20210218225415 ===
+18/02/2021
+I. II. III. IV. VI.
+- 1 -
+AANKONDIGING VAN EEN OPDRACHT
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Nationale identificatie:
+482071032
+Postadres:
+Postbus 17
+Plaats:
+Lelystad
+NUTS-code:
+NL
+Postcode:
+8200 AA
+Land:
+NL
+Contactpersoon:
+H. de Snoo
+Telefoon:
+-
+E-mail:
+WVL-Aanbestedingsdocumenten@rws.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.rijkswaterstaat.nl
+Adres van het kopersprofiel:
+-
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+I.3) COMMUNICATIE
+De aanbestedingsstukken zijn rechtstreeks, volledig, onbeperkt en gratis beschikbaar op:
+18/02/2021
+I. II. III. IV. VI.
+- 2 -
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/0cdd4debe4495e8e5526564bacb8421b
+Nadere inlichtingen zijn te verkrijgen op
+het hierboven vermelde adres
+Inschrijvingen of aanvragen tot deelneming moeten worden ingediend
+via elektronische weg op:
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/0cdd4debe4495e8e5526564bacb8421b
+het hierboven vermelde adres
+I.4) SOORT AANBESTEDENDE DIENST
+Ministerie of andere nationale of federale instantie, met inbegrip van regionale of plaatselijke
+onderverdelingen
+I.5) HOOFDACTIVITEIT
+• Huisvesting en gemeenschappelijke voorzieningen
+18/02/2021
+I. II. III. IV. VI.
+- 3 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Referentienummer: Zaaknummer 31167184
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+73210000 - Advies inzake onderzoek
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Zaaknummer 31167184; het verrichten van capaciteitsonderzoek rijkswegen voor de
+jaren 2021 t/m 2024 met behulp van beschikbaar gestelde verkeersgegevens en eigen
+camerasysteem
+II.1.5) Geraamde totale waarde
+Waarde zonder btw: - Munt: -
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+18/02/2021
+I. II. III. IV. VI.
+- 4 -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+72316000 - Analyseren van gegevens
+Subcategorie:
+-
+Hoofdcategorie:
+72313000 - Gegevensvergaringsdiensten
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+-
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De Diensten betreffen het meten van capaciteitswaarden op:
+1) ongeveer 15 locaties met beschikbare data van Rijkswaterstaat en of NDW;
+2) één locatie met een weefvak met een eigen camerasysteem en optioneel op ongeveer 5
+andere locaties.
+II.2.5) Gunningscriteria
+De onderstaande criteria
+Kwaliteitscriterium
+Naam: Kwaliteit
+Weging: 0
+Prijs
+Weging: 0
+II.2.6) Geraamde waarde
+Waarde zonder btw: - Munt: -
+18/02/2021
+I. II. III. IV. VI.
+- 5 -
+II.2.7) Looptijd van de opdracht, de raamovereenkomst of het dynamische
+aankoopsysteem
+Aanvang: 27/05/2021
+Einde: 31/12/2024
+Deze opdracht kan worden verlengd: ja
+Beschrijving van verlengingen:
+verlenging met een jaar
+II.2.10) Inlichtingen over varianten
+Varianten worden geaccepteerd: neen
+II.2.11) Inlichtingen over opties
+Opties: ja
+Beschrijving van opties:
+De opdracht kan met een jaar worden verlengd.
+II.2.12) Inlichtingen over elektronische catalogi
+-
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+II.2.14) Nadere inlichtingen:
+-
+18/02/2021
+I. II. III. IV. VI.
+- 6 -
+AFDELING III: JURIDISCHE, ECONOMISCHE, FINANCIËLE EN TECHNISCHE
+INLICHTINGEN
+III.1) VOORWAARDEN VOOR DEELNEMING
+III.1.1) Geschiktheid om de beroepsactiviteit uit te oefenen, waaronder de vereisten
+in verband met de inschrijving in het beroeps- of handelsregister
+Lijst en beknopte beschrijving van de voorwaarden:
+-
+III.1.2) Economische en financiële draagkracht
+• Selectiecriteria zoals vermeld in de aanbestedingsstukken
+III.1.3) Technische en beroepsbekwaamheid
+• Selectiecriteria zoals vermeld in de aanbestedingsstukken
+III.1.5) Informatie over voorbehouden opdrachten
+-
+III.2) VOORWAARDEN MET BETREKKING TOT DE OPDRACHT
+III.2.1) Inlichtingen over een bepaalde beroepsgroep
+-
+III.2.2) Voorwaarden inzake de uitvoering van de opdracht:
+-
+III.2.3) Inlichtingen over het personeel dat verantwoordelijk zal zijn voor de
+uitvoering van de opdracht
+-
+18/02/2021
+I. II. III. IV. VI.
+- 7 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.4) Inlichtingen over een beperking van het aantal oplossingen of inschrijvingen
+tijdens de onderhandeling of de dialoog
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: -
+IV.2.2) Termijn voor ontvangst van inschrijvingen of deelnemingsaanvragen
+Datum: 08/04/2021 Plaatselijke tijd: 10:00
+IV.2.3) Geraamde datum van verzending van uitnodigingen tot inschrijving of
+deelneming aan geselecteerde gegadigden:
+Datum: -
+IV.2.4) Talen die mogen worden gebruikt bij het indienen van inschrijvingen of
+aanvragen tot deelneming:
+• NL
+18/02/2021
+I. II. III. IV. VI.
+- 8 -
+IV.2.6) Minimumtermijn gedurende welke de inschrijver zijn inschrijving gestand
+moet doen
+De inschrijving moet geldig blijven tot: 28/05/2021
+IV.2.7) Omstandigheden waarin de inschrijvingen worden geopend
+Datum: 08/04/2021 Plaatselijke tijd: 10:15
+Plaats:
+-
+Inlichtingen over gemachtigde personen en de openingsprocedure:
+-
+18/02/2021
+I. II. III. IV. VI.
+- 9 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.1) INLICHTINGEN OVER PERIODICITEIT
+Periodieke opdracht: neen
+VI.2) INLICHTINGEN OVER ELEKTRONISCHE WORKFLOWS
+• Elektronische facturering wordt aanvaard
+VI.3) NADERE INLICHTINGEN
+Rijkswaterstaat hanteert de gedragscode "Publiek Opdrachtgeverschap". De gedragscode
+is te downloaden op de internetsite van Rijkswaterstaat via het adres: http://www.rws.nl/
+opdrachtgeverscode
+Klachten m.b.t. de aanbestedingsprocedure kunnen worden ingediend bij het Centrale
+Klachtenmeldpunt Aanbesteden Rijkswaterstaat, e-mailadres: klachtenmeldpunt@rws.nl.
+Klachten kunnen betrekking hebben op het niet naleven van wettelijke bepalingen of inbreuk
+op algemene aanbestedingsbeginselen. Een klacht moet schriftelijk worden ingediend en
+moet duidelijk en gemotiveerd aangeven op welk aspect van de aanbestedingsprocedure de
+klacht betrekking heeft.
+Motiveringen die noodzakelijk zijn in het kader van de Aanbestedingswet 2012 zijn
+opgenomen in de Aanbestedingsleidraad.
+Ten behoeve van de aanbestedingsprocedure is een Aanbestedingsleidraad opgesteld. Dit
+document en overige aanbestedingsdocumenten zijn bij deze aankondiging gevoegd, dan wel
+zijn te downloaden op www.TenderNed.nl. Bij strijdigheid tussen deze aankondiging en de
+Aanbestedingsleidraad, prevaleert de Aanbestedingsleidraad.
+De aanbestedingsprocedure vindt plaats onder toepassing van het Aanbestedingsreglement
+Werken 2016 (ARW 2016).
+De inschrijving op onderhavige aanbesteding verloopt geheel digitaal. De bij inschrijving
+in te dienen documenten dienen voorzien te zijn van een gekwalificeerde elektronische
+handtekening (PKIo-certificaat of EU-qualified certificaat).
+Meer informatie over digitaal aanmelden en inschrijven bij Rijkswaterstaat is te vinden op:
+http://rijkswaterstaat.nl/zakelijk/zakendoen-met-rijkswaterstaat/inkoopbeleid/aanbesteden/
+digitaal-aanmelden-inschrijven/index.aspx
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Burgerlijke Rechter te 's-Gravenhage
+Postadres:
+prins clauslaan 60
+Plaats:
+Den Haag
+18/02/2021
+I. II. III. IV. VI.
+- 10 -
+Postcode:
+2595 AJ
+Land:
+NL
+E-mail:
+klachtenmeldpunt@rws.nl
+Telefoon:
+-
+Internetadres:
+http://www.rechtspraak.nl
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+18/02/2021
+
+=== Document: tn300973 - sf03 aankondiging van een gegunde opdracht 20210608100953 ===
+08/06/2021
+I. II. IV. V. VI.
+- 1 -
+AANKONDIGING VAN EEN GEGUNDE OPDRACHT
+RESULTATEN VAN DE AANBESTEDINGSPROCEDURE
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Nationale identificatie:
+482071032
+Postadres:
+Postbus 17
+Plaats:
+Lelystad
+NUTS-code:
+NL
+Postcode:
+8200 AA
+Land:
+NL
+Contactpersoon:
+H. de Snoo
+Telefoon:
+-
+E-mail:
+WVL-Aanbestedingsdocumenten@rws.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.rijkswaterstaat.nl
+Adres van het kopersprofiel:
+-
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+08/06/2021
+I. II. IV. V. VI.
+- 2 -
+I.4) SOORT AANBESTEDENDE DIENST
+Ministerie of andere nationale of federale instantie, met inbegrip van regionale of plaatselijke
+onderverdelingen
+I.5) HOOFDACTIVITEIT
+• Huisvesting en gemeenschappelijke voorzieningen
+08/06/2021
+I. II. IV. V. VI.
+- 3 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Referentienummer: Zaaknummer 31167184
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+73210000 - Advies inzake onderzoek
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Zaaknummer 31167184; het verrichten van capaciteitsonderzoek rijkswegen voor de
+jaren 2021 t/m 2024 met behulp van beschikbaar gestelde verkeersgegevens en eigen
+camerasysteem
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.1.7) Totale waarde van de aanbesteding (exclusief btw)
+Waarde: 186 375,00
+Munt: EUR
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+08/06/2021
+I. II. IV. V. VI.
+- 4 -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+72313000 - Gegevensvergaringsdiensten
+Subcategorie:
+-
+Hoofdcategorie:
+72316000 - Analyseren van gegevens
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+-
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De Diensten betreffen het meten van capaciteitswaarden op:
+1) ongeveer 15 locaties met beschikbare data van Rijkswaterstaat en of NDW;
+2) één locatie met een weefvak met een eigen camerasysteem en optioneel op ongeveer 5
+andere locaties.
+II.2.5) Gunningscriteria
+Kwaliteitscriterium
+Naam: Kwaliteit
+Weging: 0
+Prijs
+Weging: 0
+II.2.11) Inlichtingen over opties
+Opties: ja
+Beschrijving van opties:
+De opdracht kan met een jaar worden verlengd.
+08/06/2021
+I. II. IV. V. VI.
+- 5 -
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+II.2.14) Nadere inlichtingen:
+-
+08/06/2021
+I. II. IV. V. VI.
+- 6 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: 2021/S 037-092882
+IV.2.8) Inlichtingen over de stopzetting van een dynamisch aankoopsysteem
+-
+IV.2.9) Inlichtingen over de stopzetting van een oproep tot mededinging in de vorm
+van een vooraankondiging
+-
+08/06/2021
+I. II. IV. V. VI.
+- 7 -
+AFDELING V: GUNNING VAN EEN OPDRACHT
+Opdracht nr.: 1
+Perceel nr.: -
+Benaming: Capaciteitsonderzoek rijkswegen 2021 t/m 2024
+Een opdracht/perceel wordt gegund: ja
+V.2) GUNNING VAN EEN OPDRACHT
+V.2.1) Datum van de sluiting van de overeenkomst:
+03/06/2021
+V.2.2) Inlichtingen over inschrijvingen
+Aantal inschrijvingen: 3
+Aantal inschrijvingen van mkb-bedrijven: -
+Aantal inschrijvingen van inschrijvers uit andere EU-lidstaten: -
+Aantal inschrijvingen van inschrijvers uit landen die geen lid zijn van de EU: -
+Aantal langs elektronische weg ontvangen inschrijvingen: 3
+De opdracht is gegund aan een groep ondernemers: neen
+V.2.3) Naam en adres van de contractant
+Officiële benaming:
+Sweco Nederland B.V.
+Nationale identificatie:
+30129769
+Postadres:
+De Holle Bilt 22
+Plaats:
+DE BILT
+NUTS-code:
+NL
+Postcode:
+3732HM
+Land:
+NL
+Telefoon:
++31 653755488
+E-mail:
+tenderdesk.mobiliteit@sweco.nl
+08/06/2021
+I. II. IV. V. VI.
+- 8 -
+Fax:
++31 303100414
+Internetadres:
+http://www.sweco.nl
+De contractant is een mkb-bedrijf: neen
+V.2.4) Inlichtingen over de waarde van de opdracht/het perceel (exclusief btw)
+Aanvankelijk geraamde totale waarde van de opdracht/het perceel:
+-
+Totale waarde van de opdracht/het perceel: 186 375,00
+Munt: EUR
+V.2.5) Inlichtingen over uitbesteding
+-
+08/06/2021
+I. II. IV. V. VI.
+- 9 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Burgerlijke Rechter te 's-Gravenhage
+Postadres:
+prins clauslaan 60
+Plaats:
+Den Haag
+Postcode:
+2595 AJ
+Land:
+NL
+E-mail:
+klachtenmeldpunt@rws.nl
+Telefoon:
+-
+Internetadres:
+http://www.rechtspraak.nl
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+08/06/2021

@@ -1,0 +1,2438 @@
+=== Document: ijv_20210702_tender document expert support soil and metocean_f ===
+Tender Document 
+ 
+Invitation to tender in accordance with 
+the European open procedure for expert 
+support to the Netherlands Enterprise 
+Agency in developing IJmuiden Ver Wind 
+Farm Zone (site I-VI) 
+ 
+ 
+ 
+ 
+Publication date:  July 2, 2021 
+Status:   Final 
+Reference:    202106024   
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 2 of 33 
+ 
+ 
+Contents 
+Definition of terms .................................................................................................................................. 4 
+1. Introduction .................................................................................................................................... 6 
+1.1 Tendering Authority and IUC-EZK ........................................................................................... 6 
+1.2 Reason for this invitation to tender ........................................................................................ 6 
+1.3  Time schedule ......................................................................................................................... 7 
+2. Description of assignment .............................................................................................................. 8 
+2.1 Description and objective of the assignment ......................................................................... 8 
+2.2 Lots .......................................................................................................................................... 8 
+2.3 Contract Period ....................................................................................................................... 8 
+2.4 Scope of the assignment ......................................................................................................... 8 
+3. Requirements to this assignment ................................................................................................. 10 
+3.1 Requirements relating to the scope of work ........................................................................ 10 
+3.2 Requirements relating to the team of experts ..................................................................... 10 
+3.3 Requirements relating to level of education and experience of experts ............................. 10 
+3.4 Requirements relating to the availability of experts ............................................................ 10 
+3.5 Requirements with respect to independency....................................................................... 11 
+3.6 Requirements relating to the prices/rates............................................................................ 11 
+3.7 Tax-related requirements ..................................................................................................... 12 
+3.8 Invoicing requirements ......................................................................................................... 13 
+4. Requirements concerning the Tenderer ....................................................................................... 14 
+4.1 Introduction .......................................................................................................................... 14 
+4.2 Exclusion Grounds ................................................................................................................. 14 
+4.3 Suitability Requirements ....................................................................................................... 15 
+4.3.1 Financial and economic standing ...................................................................................... 15 
+4.3.2 Reference data (technical qualifications) .......................................................................... 15 
+4.3.3 Quality assurance (technical qualifications) ..................................................................... 16 
+4.4 Professional/trade register extract ....................................................................................... 17 
+5. Award criteria and assessment ..................................................................................................... 19 
+5.1 Introduction .......................................................................................................................... 19 
+5.2 Quality criteria ...................................................................................................................... 19 
+5.3 Award criteria with respect to Pricing .................................................................................. 22 
+5.4 Award Assessment method for qualitative award criteria ................................................... 22 
+6. Assessment of the Tender ............................................................................................................ 24 
+6.1 Assessment of the Tender’s completeness and legal validity .............................................. 24 
+6.2 Assessment of requirements relating to the assignment ..................................................... 24 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 3 of 33 
+ 
+6.3 Assessment of award criteria relating to the assignment .................................................... 24 
+6.4 Determination of definitive total score ................................................................................ 24 
+6.5 Assessment of evidence ........................................................................................................ 24 
+7. Submission procedure for Tenders ............................................................................................... 26 
+7.1 Statement of agreement ....................................................................................................... 26 
+7.2 Schedule ................................................................................................................................ 26 
+7.3 General procedure ................................................................................................................ 26 
+7.3.1 eHerkenning ...................................................................................................................... 26 
+7.3.1 Communication ................................................................................................................. 26 
+7.3.2 Questions and additional information/changes ............................................................... 27 
+7.3.4 Validity period and submission of Tender ......................................................................... 27 
+7.3.5 Variants on Tender ............................................................................................................ 27 
+7.3.6 Costs of submitting a Tender ............................................................................................ 27 
+7.3.7 Termination of tendering process ..................................................................................... 27 
+7.3.8 Order of precedence of documents ................................................................................... 27 
+7.3.9 Information about the Tenderer’s obligations .................................................................. 27 
+7.3.10 Guide Information security and Privacy for suppliers ....................................................... 28 
+7.3.11 Inconsistencies and objections .......................................................................................... 28 
+7.3.12 Complaints procedure ....................................................................................................... 28 
+7.3.13 Dispute resolution ............................................................................................................. 28 
+7.3.14 Submission of the Tender .................................................................................................. 28 
+7.3.15 Structure and content of the Tender ................................................................................. 29 
+7.3.16 Legally binding signature .................................................................................................. 30 
+7.3.17 Submission of a Tender in collaboration with other organisations .................................. 30 
+7.3.18 Single Tender ..................................................................................................................... 31 
+7.3.19 Violation of the fundamental principles of procurement law and restriction of fair 
+competition ....................................................................................................................................... 31 
+7.3.20 Communication and language .......................................................................................... 31 
+7.3.21 General terms and conditions ........................................................................................... 31 
+7.3.22 Contract conditions ........................................................................................................... 32 
+7.3.23 Explanation and verification of the Tender ....................................................................... 32 
+7.3.24 Request for supplementary information concerning the Tender ...................................... 32 
+7.3.25 Announcement of the award of the Contract ................................................................... 32 
+Annexes ................................................................................................................................................. 33 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 4 of 33 
+ 
+ 
+Definition of terms 
+ 
+Tendering authority The Netherlands Enterprise Agency (RVO), part of the 
+Ministry of Economic Affairs and Climate 
+ 
+Tender Document This document and all of its annexes. 
+ 
+Public Procurement Act The Public Procurement Act 2012 (Aanbestedingswet 
+2012) 
+ 
+General Government Terms and  
+Conditions 
+General Government Terms and Conditions for Public 
+Service Contracts 2018 (ARVODI-2018: Algemene 
+Rijksvoorwaarden voor het verstrekken van Opdrachten 
+tot het verrichten van Diensten) 
+ 
+Most Economically Advantageous  
+Tender 
+The Tender that achieves the highest definitive total 
+score based on the best price-quality ratio 
+ 
+Suitability requirements The requirements with which Tenderers must comply in 
+order to be eligible to win the tender 
+ 
+Tenderer An entrepreneur or entrepreneurs who have submitted 
+a Tender or is/are planning to submit a Tender. In this 
+document, the word ‘you’ is taken to mean the 
+Tenderer 
+ 
+Tender A quotation submitted by the Tenderer in response to 
+this Tender Document 
+ 
+IUC-EZK The Procurement Office (IUC) of the Ministry of 
+Economic Affairs and Climate Policy (EZK), which will 
+serve as process manager during this tendering process 
+ 
+Memorandum of Information A document containing all questions asked and answers 
+given, in anonymised form and, if applicable, additional 
+information. This includes the questions and answers 
+submitted via TenderNed 
+ 
+Contracting Authority The State of the Netherlands, represented by the 
+Minister of Economic Affairs and Climate Policy, who 
+concludes the Contract with the Contractor on behalf of 
+the Contracting Authority 
+ 
+Contractor The party with whom the Contracting Authority 
+concludes the Contract, also referred to as the Expert 
+Support Contractor 
+ 
+Contract The written agreement between the Contracting 
+Authority and the Contractor in which the conditions of 
+the assignment are recorded 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 5 of 33 
+ 
+Exclusion Ground A circumstance applicable to the Tenderer or a person 
+affiliated with the Tenderer that results in exclusion of 
+the Tenderer from participating in the tendering process 
+  
+European Single Procurement 
+Document 
+A statement in which the Tenderer declares his 
+compliance with the requirements specified in this 
+document 
+ 
+Non-disclosure Agreement (NDA) Agreement signed by Contractor stating that he and his 
+staff and subcontractors will not disclose confidential 
+information that has been shared by the Contracting 
+Authority as a necessary part of the performance of the 
+services/execution of the Contract 
+ 
+  
+ 
+Specific terminology 
+ 
+WFZ Wind Farm Zone 
+ 
+IJV WFZ IJmuiden Ver Wind Farm Zone (already partly 
+developed, Sites I-IV) 
+ 
+IJV WFS V and VI 
+ 
+IJmuiden Ver Wind Farm Site V and VI (to be newly 
+developed) 
+ 
+Work(s) Services to be provided by Contractor/activities to be 
+deployed by Contractor in performing the Contract 
+ 
+Expert support contractor Contractor providing expert support, the subject of this 
+Tender 
+ 
+Site study contractor The Contractor executing the site study, in managing 
+which expert support is needed 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 6 of 33 
+ 
+ 
+1.  Introduction 
+ 
+The Tender Document at hand contains information regarding this invitation to tender, conducted 
+in accordance with the European open procedure for Expert Support in developing IJmuiden Ver 
+Wind Farm Zone  
+ 
+You are hereby invited to submit a Tender based on this Tender Document.  
+1.1 Tendering Authority and IUC-EZK 
+ 
+This tendering process is being conducted by the Netherlands Enterprise Agency (in Dutch: 
+Rijksdienst voor Ondernemend Nederland, RVO).  
+The Procurement Office or Inkoop Uitvoering Centrum EZK (IUC EZK) will act as process manager 
+during this tendering process. 
+ 
+RVO encourages entrepreneurs in sustainable, agricultural, innovative and international business. 
+It helps with grants, finding business partners, know-how and compliance with laws and 
+regulations. 
+ 
+RVO is part of the Ministry of Economic Affairs and Climate Policy and focuses on providing 
+services to entrepreneurs. It aims to make it easier to do business using smart organisation and 
+digital communication. RVO works in the Netherlands and abroad and co-operates with 
+governments, knowledge centres, international organisations and countless other partners. 
+ 
+More information about RVO can be found on: www.rvo.nl and https://english.rvo.nl . 
+ 
+1.2 Reason for this invitation to tender 
+ 
+As part of its climate goals, the Dutch Government aimed to have 49 TWh/a of offshore wind 
+energy feeding into the grid by 2030. This equals around 40% of the current Dutch electricity 
+consumption. The roadmap to achieve this goal sets out a schedule of tenders, with each tender 
+offering 700 MW up to 2,000 MW of development in the period 2015 – 2025. Only recently the 
+Dutch Government has raised the goal to have 55 TWh/a of offshore wind energy feeding into the 
+grid by 2030 under the same roadmap and legislation.  
+ 
+RVO and Dutch transmission system operator TenneT TSO B.V. (TenneT) have therefore started 
+preparations for the further development of the IJmuiden Ver Wind Farm Zone (IJVWFZ) under the 
+2030 roadmap. The IJVWFS I-IV (4,000 MW in total) are currently being developed. Recently, RVO 
+and TenneT started the preparations for IJVWFS V and VI as well. The Government envisages the 
+development of 2,000 MW in total in the IJVWFS V and VI. 
+ 
+The wind farms will be built in designated Wind Farm Zones. Wind farms outside these Wind Farm 
+Zones are prohibited. Within the designated Wind Farm Zones the government defines the specific 
+sites where wind farms can be constructed using a so-called Wind Farm Site Decision 
+(‘Kavelbesluit’). This Wind Farm Site Decision contains all conditions for building and operating a 
+wind farm on that specific site. Developers can apply in tenders for the permits to build and 
+operate a wind farm according to a Wind Farm Site Decision. Winners of these permit tenders will 
+be granted a permit and a grid connection to the mainland. 
+ 
+The Dutch Government provides compre hensive site dat a and TenneT is responsible for gr id 
+connection. Additional information on the legislative framework and the designated offshore Wind 
+Farm Zones in the Netherlands can be found on our website https://offshorewind.rvo.nl.   
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 7 of 33 
+ 
+ 
+As part of the future permit tender, the tenderers will be provided with detailed information about 
+the offshore Wind Farm Sites. Detailed information on the soil and wind and water conditions at 
+the site will be part of this information. RVO is responsible for acquisition of the site data, which 
+can be used for the preparation of bids for these tenders. 
+ 
+In order to achieve the highest results from these investigations, RVO intends to contract high 
+quality experts who can support RVO in managing the site investigations. The objective of this 
+European tender is to conclude an agreement with Tenderers who can support RVO on the 
+different site investigations regarding contracting, quality control and operational support.  
+ 
+This tender is divided into two lots. For each lot RVO wishes to conclude an agreement with the 
+Tenderer who has submitted the most economically advantageous tender (based on the best 
+quality/price ratio). The future expert support Contractor(s) as well as the services/products to be 
+performed/delivered by the expert support Contractor(s) must fulfil the terms and conditions to be 
+set by RVO and specified in this Tender document. 
+ 
+ 
+1.3  Time schedule 
+The schedule below applies to this tendering process. 
+ 
+July 2, 2021 Issuing of publication, start of tendering period. 
+July 19, 2021, 3 PM CEST Closure of round of questions: deadline for the Tenderer to 
+submit questions regarding this Tender Document and the 
+Contract (including the general terms and conditions) and/or 
+proposals for textual amendments to the draft Contract 
+(including the general terms and conditions). 
+August 2, 2021 Issuing of Memorandum of Information 
+August 16, 2021, 2 PM CEST Deadline for the receipt of Tenders and opening of new Tenders 
+by the Tendering Authority. 
+August 17 up to and including 
+September 13, 2021 
+Assessment of Tenders. 
+September 14, 2021 Announcement of the award of the Contract. 
+October 5, 2021 Deadline for asking questions and/or filing an application for a 
+preliminary injunction in relation to the announcement of the 
+award of the Contract. 
+October 5, 2021 Deadline for the winning Tenderer to provide the evidence 
+requested by the Tendering Authority. 
+October 12, 2021 Starting date of Contract. 
+ 
+If – in the opinion of the Tendering Authority – circumstances provide cause to do so, the 
+Tendering Authority is entitled to amend the specified period(s). In such a case, timely notification 
+of the new period(s) will be provided digitally.
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 8 of 33 
+ 
+ 
+2.  Description of assignment 
+2.1 Description and objective of the assignment 
+ 
+This assignment concerns expert support services for the IJmuiden Ver Wind Farm Zone (IJVWFZ). 
+The IJVWFZ consists of six (6) Wind Farm Sites . IJVWFS I-IV are currently being developed by 
+RVO by means of site investigations. IJVWFS V and VI will from now on be developed as well.  
+ 
+RVO is looking for a Contractor/Contractors who can support RVO with managing the site 
+investigations (some for IJVWFS I-IV, mainly for IJVWFS V-VI) and the interfaces between the site 
+investigations. RVO is specifically looking for expertise in the field of soil investigations (Lot 1) and 
+wind & water investigations (Lot 2).  
+ 
+The staff required will consist of a lead expert and specialist experts. The lead expert is expected 
+to manage the interface between the site investigations and to advise the RVO package manager 
+where necessary. For in-depth discussions, reviews and support through the different projects the 
+lead expert (and the RVO project managers) can call in the specialist experts. 
+ 
+Details on the Work(s) are provided in following chapters of this tender document. More 
+information on the scope of work, requirements and tasks can be found in the two Scopes of Work, 
+Annex 5a Scope of Work Lot 1 Soil and Annex 5b Scope of Work Lot 2 Wind & Water. 
+ 
+2.2 Lots 
+The invitation to tender is divided into the following lots: 
+ 
+Lot 1: soil 
+Activities include: expert support for the morphological study of IJVWFS I-VI, expert support for 
+the geophysical survey, geotechnical survey and the Integrated Ground Model for IJVWFS V-VI. 
+ 
+Lot 2: wind & water 
+Activities include: expert support for the metocean desk study, metocean campaign (with Client 
+Representatives for offshore operations) and wind resource assessment for IJVWFS I-VI. 
+  
+Tenderers can apply for one or both lots and can therefore also be awarded one or both lots. 
+ 
+2.3 Contract Period 
+The Contracting Authority intends to conclude Contracts for the period from October 1, 2021 to 
+December 31, 2024. 
+ 
+The Contracting Authority intends to conclude a Contract with one (1) Tenderer for each lot.   
+ 
+2.4 Scope of the assignment 
+Lot 1 (soil): approximately 8,500 hours. 
+Lot 2 (wind & water): approximately 3,400 hours.   
+ 
+The estimated number of hours is an indication from which no rights can be derived. This Tender 
+Document was created using up-to-date knowledge and insights valid at the time of its 
+formulation. 
+ 
+ 
+Review Clause 
+There is a certain degree of uncertainty about the duration of this assignment. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 9 of 33 
+ 
+With the knowledge of this moment it is difficult to predict the exact amount of work that has to be 
+done to fulfill the job. 
+ 
+In case the Work of the site study Contractor of the last site study to be performed in the IJmuiden 
+Ver WFS V-VI is not finished by the envisaged end date of December 31, 2024, this means that 
+the Work(s) of the expert support Contractor will also be unfinished. In this case the Contract for 
+expert support will be extended until all services are completed, with a maximum of 12 months.  
+The extension of the Contract will also entail an increase of the number of hours to be worked. 
+This increase is, however, limited to 25% in hours (based on the number of hours in the Contract 
+(per lot) 
+ 
+It is possible that the services specified in the Contract may change in the event of political, 
+budgetary, administrative or organisational developments within the Dutch government and the 
+Contracting Authority’s expansion or contraction resulting from this, or changes to the Contracting 
+Authority’s position within the government or to the targets that must be met. In the event such 
+circumstances occur, the Contracting Authority will consult with the expert support Contractor 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 10 of 33 
+ 
+ 
+3.  Requirements to this assignment 
+ 
+This section includes the requirements set by the Tendering Authority concerning the requested 
+services and the prices and rates.  
+  
+By submitting a Tender, you as Tenderer, explicitly consent to all requirements and 
+conditions specified in this Tender document and declare that you will continue to 
+comply with these throughout the entirety of the contract period. Furthermore, you 
+confirm that you will comply with all of the specified prices and rates, including any 
+agreed indexation. Failure to comply with one or more requirements will result in your 
+Tender being disqualified from the assessment process and therefore excluded from the 
+tendering process. 
+ 
+These requirements concern both lots of this tender, unless expressly stated otherwise. 
+3.1 Requirements relating to the scope of work 
+ 
+Tenderer is willing and able to execute the services that need to be carried out under the 
+Agreement, as specified in Chapter 2 and in the Scopes of Work (Annexes 5a and 5b). ‘Services’ 
+means all the work that the Contractor of expert support contractor is required to carry out in 
+accordance with the provisions of the agreement.  
+ 
+Any travelling required to perform the services shall be performed in an environmentally friendly 
+manner, insofar as reasonable and possible. This includes traveling by plane only if the travel time 
+by train is more than 8 hours and travelling by train takes more than 1.5 times travel time by 
+plane.  
+3.2 Requirements relating to the team of experts 
+Lot 1: the team of experts should consist of 1 lead expert/contact person and specialised experts 
+in the field of geology, geophysics, geotechnics, morphodynamics and ground modelling. 
+Lot 2: the team of experts should consist of 1 lead expert/contact person and specialised experts 
+in the field of metocean conditions (wind, water, waves) and Client Offshore Representatives with 
+expertise on  HSE in offshore operations. 
+ 
+For both lots the services are expected to be performed: 
+80% by senior experts 
+20% by medior or junior experts 
+ 
+3.3 Requirements relating to level of education and experience of experts  
+ 
+Contractor guarantees provision of experts with at least the following qualifications: 
+Education at EQF level 6 as minimum (https://europa.eu/europass/en/description-eight-eqf-levels 
+); 
+Experience with two or more similar services for the development of offshore wind farms; 
+Communication skills (English, oral and written). 
+ 
+3.4 Requirements relating to the availability of experts   
+Contractor guarantees the commitment and availability of the proposed experts during the lead 
+time of the Agreement. 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 11 of 33 
+ 
+Contractor guarantees prompt replacement of expert(s) in case of dropping out of its candidates 
+during the execution of the work and can provide additional candidates with at least similar 
+qualifications and under the same commercial conditions if this would be required. 
+ 
+3.5 Requirements with respect to independency  
+Contractor and subcontractors do not have any financial or other direct personal or business 
+interests with the specific results of the investigations to be carried out or with specific 
+recommendations or answers to the investigation questions. 
+ 
+Contractor must avoid the appearance of dependence or of a conflict of interests. Should they 
+occur they must be reported immediately to the Contracting Authority. 
+ 
+Contractor and subcontractors do not perform work with a potential conflict of interest during the 
+lead time of the Agreement. The Contracting Authority regards as possible conflict of interest-
+situations (but not limited to):  
+ 
+1. Involvement in (preparing) applications for the permit tenders for the Wind Farm Site that 
+is subject of the site study for which expert support is requested; 
+2.  Any involvement in the site study other than the involvement that is subject of this 
+Agreement. This means that any site study (sub)contractor (and all related staff) cannot 
+apply for providing expert support (this Tender), if site study (sub)contractor intends to 
+apply for (part of) a geophysical survey or other study for this Wind Farm Site (as an 
+example).  
+3.  Involvement in the execution of site studies in any of the other designated Dutch Wind 
+Farm Zones. This means that any site study Contractor (and all related experts) currently 
+executing a site study for RVO at any site cannot apply for this Tender. Conversely, a 
+party providing expert support under this Agreement cannot apply for a Tender for a site 
+study in another Wind Farm Zone. 
+ 
+Please note: in relation to the above, the different lots of this Tender are separated, which means 
+that any site study (sub)contractor (and all related staff) currently executing a site study for RVO 
+in the field of soil investigations may submit a tender for expert support under Lot 2 (wind & 
+water) and vice versa. 
+ 
+Expert support Contractor accepts the judgement of the Contracting Authority with respect to the 
+conclusion that a conflict of interest exists.   
+ 
+In the event of an apparent personal or business conflict of interest, the Contracting Authority may 
+ask the expert support Contractor to provide mitigating measures. The expert(s) concerned must, 
+at the request of the Contracting Authority, be immediately replaced by (an) expert(s) with at 
+least similar qualifications and under the same commercial conditions.  
+ 
+If, even after one or several candidates have been replaced, the appearance of dependence cannot 
+be avoided, which makes, according to the Contracting Authority, wide acceptance of the 
+investigation to be carried out unlikely, the Contracting Authority, will terminate the contract 
+prematurely. In this case the Contracting Authority will not be liable for damages incurred by the 
+expert support Contractor. 
+ 
+ 
+3.6 Requirements relating to the prices/rates 
+3.6.1  The Tenderer will provide an overview of the prices and rates applicable to this assignment 
+ by filling in the appendix entitled ‘Prices/Rates’. 
+ 
+ By completing the Appendix ‘Prices/rates’, Tenderer gives an overview of the maximum 
+ rates for executing the services under the Agreement. When completing the price format, 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 12 of 33 
+ 
+ you state the prices and rates as follows: 
+ • the amount excluding VAT; 
+ • the VAT amount and; 
+ • the amount including VAT. 
+ 
+ The price/rates must be “all-in”: this includes e.g.: the salary costs, the overhead costs 
+ (such as accommodation expenses and salary costs of non-productive staff), the costs for 
+ support work, the costs for the use of equipment (including PCs, incurred for the purpose 
+ of the contract and the profit, the insurances costs, travel and accommodation expenses, 
+ etc. The rates must be expressed in euros. 
+ 
+3.6.2 Rates offered for the Agreement must be: 
+ for Senior experts between € 100  and € 175 / h (excl. VAT) 
+ for Medior experts between  €   80  and € 145 / h (excl. VAT) 
+ for Junior experts between €   60  and € 120 / h (excl. VAT) 
+ 
+ Hourly rates should fit the level: the hourly rate for a senior expert is higher than the 
+ hourly rate for a medior expert; the hourly rate for a medior expert is higher that the 
+ hourly rate for a junior expert.  
+ 
+3.6.3 International travel costs will be reimbursed (economy class). Other costs (when travelling 
+ abroad) can be reimbursed to a maximum of the EC per diem rates. Per diem rates cover 
+ accommodation, meals, local travel within the place of mission and sundry expenses. 
+ https://ec.europa.eu/international-partnerships/system/files/per-diem-rates-
+ 20200201_en.pdf 
+ 
+3.6.4 Indexation 
+ In case the option for extension of the Contract is invoked, the prices and rates can be 
+ adjusted once, by January 1, 2025. The prices and rates can be adjusted in line with the 
+ index figure set by Statistics Netherlands (CBS Statline) applicable to collectively 
+ negotiated hourly wages (including special bonuses) in the corporate-services category (M 
+ Specialistische zakelijke diensten (specialized commercial services). For this purpose, the 
+ monthly figure for October , 2021 is used, and the index for October 1, 2024 is set as 
+ 100%. 
+ 
+ Any proposed amendments to the price that the Contractor wishes to make must be 
+ submitted in writing to the Contracting Authority at least two months before they come 
+ into force. The proposal submitted by the Contractor must be itemised, accompanied by a 
+ printout from CBS Statline, and contain a reference to the Contract in question with the 
+ Contracting Authority. The proposal must contain a summary of both the current prices 
+ and rates and the new prices and rates. The Contracting Authority will inform the 
+ Contractor in writing of the decision regarding whether or not to accept the new prices 
+ and/or rates. 
+ The Contracting Authority reserves the right to refuse to process any proposal for 
+ indexation that is submitted too late. 
+ 
+3.6.5 The Tenderer will not submit any zero or negative prices/rates. 
+ 
+3.7 Tax-related requirements 
+3.7.1  The Tenderer indemnifies the Contracting Authority against any claims from the Dutch Tax 
+and Customs Administration (Belastingdienst) or other tax authorities. 
+3.7.2  The Tenderer will quote the prices according to the following structure: 
+• the amount excluding Dutch VAT and any VAT due outside the EU; 
+• the amount of Dutch VAT due (if applicable) and the amount of any VAT due outside the 
+EU, and; 
+• the amount including Dutch VAT (if applicable) and any VAT due outside the EU. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 13 of 33 
+ 
+3.7.3 If the Tenderer indicates that no VAT is applicable, then he agrees to provide documentary 
+proof of the grounds for this to the Contracting Authority within fifteen calendar days of 
+the request to do so. 
+3.7.4 You are liable for any extra costs for Dutch and/or foreign VAT due if you incorrectly 
+charge no VAT or an incorrect amount of VAT to the Contracting Authority. If applicable, 
+you are liable for accurate payment of VAT in the Netherlands and outside the EU, with the 
+exception of the case stipulated in the following sentence. If the Contracting Authority 
+procures a service from a foreign business and Dutch tax law considers the work to have 
+been performed in the Netherlands, then the Contracting Authority is liable for the 
+payment of VAT to the Dutch Tax and Customs Administration for this/these service(s) 
+performed in the Netherlands. 
+3.7.5 You guarantee that the amounts specified in the quotation are inclusive of all taxes and 
+levies (including amounts considered equivalent to taxes or levies), regardless of their 
+description and wherever in the world they may have been levied. 
+3.7.6 You indemnify the Contracting Authority against any claims from any tax authority for any 
+taxes, levies or contributions considered equivalent to taxes or levies, originating from 
+either the Netherlands or outside the Netherlands. 
+3.8 Invoicing requirements 
+3.8.1 You can send an invoice every month based on the actual hours worked. You must include 
+a summary of the actual hours/days worked in accordance with the applicable rates. 
+ 
+3.8.2 For companies established in the Netherlands only 
+E-invoicing 
+The general terms and conditions that apply to this contract contain a provision  that 
+invoices must be sent electronically (not in pdf). This can be done in 4 different ways: 
+• The invoicing portal of the Dutch government 
+• Link with Digipoort 
+• E-invoicing with your own (accounting) software package through Peppol 
+• E-invoicing through a service provider. 
+ 
+For more information go to: https://www.helpdesk-efactureren.nl/  
+ 
+For companies not established in the Netherlands 
+The paragraph concerning e invoicing does not apply to companies located outside of the 
+Netherlands. 
+ 
+ 
+ 
+ 
+ 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 14 of 33 
+ 
+ 
+4.  Requirements concerning the Tenderer 
+4.1 Introduction 
+In this section, you can find the requirements set by the Tendering Authority to determine whether 
+particular Tenderers are suitable to be awarded the Contract. For this purpose, Exclusion Grounds 
+and Suitability Requirements have been set. 
+ 
+You can indicate whether or not the Exclusion Grounds apply to you and whether or not you are in 
+compliance with the Suitability Requirements by completing the ‘European Single Procurement 
+Document’ (ESPD). 
+ 
+The ESPD is a pdf file which has been partly filled in for you. Please add the requested information. 
+You sign the document and add it to your Tender through TenderNed (please also see Section 7 of 
+this Tender Document).  
+ 
+4.2 Exclusion Grounds 
+The following Exclusion Grounds are specified in the annex ESPD: 
+• all Exclusion Grounds specified in Part III A and B; 
+• the Exclusion Grounds in Part III C of the ‘European Single Procurement Document’ that have 
+been selected by the Tendering Authority by means of the tick boxes.  
+ 
+Go to the invitation to tender in TenderNed, select ‘Answers to Requirements’ and then tick ‘Yes’ or 
+‘No’ for the ‘Tenderer’s Statement’ requirement. 
+ 
+See Section 7 for information on how to submit a Tender in collaboration with other organisations. 
+This section specifies who must provide a completed and signed European Single Procurement 
+Document during the process of submitting a Tender. 
+ 
+The evidence relating to the Exclusion Grounds does not have to be submitted together 
+with the Tender: it is only required once the Tendering Authority requests it.  
+ 
+Please note: The process of applying for a GVA (certificate of conduct) can take several 
+weeks. 
+ 
+For information on types of evidence, see Section 2.89 of the Public Procurement Act. 
+http://wetten.overheid.nl/BWBR0032203/2016-07-01 
+ 
+The evidence consists of:  
+1. Extract of Trade Register (no older than 6 months see §4.3) 
+2. ‘Certificate of Conduct for procurement’ (‘Gedragsverklaring Aanbesteden’ -no older 
+than 2 years) 
+3. Tax statement (no older than 6 months) 
+The Tendering Authority, to which a Tenderer submits data in order to prove that the 
+exclusion grounds referred to in Article 2.86 or Article 2.87 do not apply to the Tenderer, 
+also accepts data and documents from another Member State, from the country of origin 
+of the Tenderer or from the country where the Tenderer is established, that serve an 
+equivalent purpose or that show that the exclusion ground does not apply to Tenderer. 
+ 
+Please refer to https://ec.europa.eu/tools/ecertis/search 
+eCertis is the information system that helps you identify different certificates 
+requested in procurement procedures across the EU. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 15 of 33 
+ 
+4.3 Suitability Requirements 
+The purpose of the Suitability Requirements is to assess whether the Tenderer is suitable to fulfil 
+the Contract in the opinion of the Tendering Authority.  
+ 
+By signing Part IV of the ‘European Single Procurement Document’ (which uses the term ‘Selection 
+Criteria’ to refer to the Suitability Requirements), the Tenderer declares that he complies with the 
+Suitability Requirements as specified in this  subsection of the Tender document. These Suitability 
+Requirements are further specified in the subsequent paragraphs in this section.  
+ 
+4.3.1 Financial and economic standing 
+By signing the ‘European Single Procurement Document’, the Tenderer declares: 
+a. That he possesses sufficient financial and economic capacity to fulfil the contractual 
+obligations. 
+b. That the Tenderer is unaware of any possible claims against him that may compromise his 
+organisation’s financial-economic capacity or continuity, and that no investment is required 
+during the Contract period that may have a similar compromising effect. 
+c. That the most recently issued auditor’s report (or, if applicable, a review report or compilation 
+report) does not include a ‘continuity section’ that expresses doubt concerning the viability of 
+the organisation. 
+d. That the Tenderer has a sufficient level of professional and/or statutory liability insurance for 
+the fulfilment of the assignment and that in the event of the Contract being awarded to him, 
+will remain sufficiently insured throughout the duration of the assignment(s). 
+ 
+Evidence (do not submit together with the Tender – only submit it when requested to do 
+so): 
+Proof of the economic operator’s economic and financial standing may, as a general rule, 
+be furnished by one or more of the following references: 
+a. appropriate statements from banks or, where appropriate, evidence of relevant 
+professional risk indemnity insurance; 
+b. the presentation of financial statements or extracts from the financial statements, 
+where publication of financial statements is required under the law of the country in 
+which the economic operator is established;  
+c. a statement of the undertaking’s overall turnover and, where appropriate, of turnover 
+in the area covered by the contract for a maximum of the last three financial years 
+available, depending on the date on which the undertaking was set up or the 
+economic operator started trading, as far as the information on these turnovers is 
+available.  
+ 
+If the data of the Tenderer’s parent/holding company is used in relation to the aspect of 
+financial-economic capacity, then the Tenderer must provide a statement from the 
+parent/holding company that specifies that the parent/holding company unconditionally 
+acts as a guarantor for the obligations to be undertaken by the subsidiary company and 
+any debts arising from the Contract incurred by the subsidiary company. The statement 
+by the parent/holding company must be signed by a legally authorised representative. 
+4.3.2 Reference data (technical qualifications) 
+The Contracting Authority has set the following key competencies that correspond to 
+experience in essential aspects of the Agreement: 
+ 
+For both lots: 
+1. Experience with providing expert support and/or technical consultancy services to 
+governments and/or commercial developers for complex (technical) projects, related to the 
+development of offshore wind farms; 
+2. Capability to advise on and/or draw (technical) Scopes of Work for the procurement of desk 
+studies and field studies as part of the site investigations to obtain data of the soil (Lot 1), 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 16 of 33 
+ 
+wind and water (Lot 2) conditions for the preliminary design and/or FEED of offshore wind 
+farms. 
+3. Capability to evaluate and/or review offers, project execution plans, reports and other 
+deliverables of desk studies and field studies as part of the site investigations to obtain data of 
+the soil (Lot 1), wind and water (Lot 2)conditions for the preliminary design and/or FEED of 
+offshore wind farms; 
+ 
+By signing the ‘European Single Procurement Document’, the Tenderer declares that he has carried 
+out at least one reference assignment for each of the core competences listed above that meets 
+the following minimum requirements: 
+ 
+• The subject of the reference assignment must be comparable to the core competence in 
+question. 
+• The reference assignment must have been executed or completed within the three (3) years 
+prior to the closing date for the submission of tenders. If the Tenderer uses an assignment 
+that is not yet fully complete, then only the completed results of the ongoing assignment can 
+be submitted for reference purposes: projected results cannot be taken into consideration. 
+• The total value of the reference assignment(s) must be at least:  
+EUR 500,000 for Lot 1  
+EUR 200,000 for Lot 2  
+• This reference-assignment value must exclusively consist of the value of the aspects of the 
+assignment that are equivalent to the services specified in this document. In case a series of 
+separate yet significantly comparable assignments was carried out for the same client during 
+the reference period, then the turnover of these separate assignments can be combined into a 
+cumulative total. 
+ 
+Assignments including one or more subcontractors can only be used as reference assignments if  
+the subcontractor(s) in question will be involved in the fulfilment of the Contract and if the 
+Tenderer can and will make use of the knowledge and experience of the subcontractor(s) in 
+question during the fulfilment of the assignment. (Please also refer to paragraph 7.3.17 if this is 
+the case). 
+ 
+Evidence (submit together with the Tender by using Annex 2): 
+ 
+You may not provide more than one reference for each core competence. If a single reference 
+testifies to multiple competences that comply with the applicable requirements, then you can 
+use the same reference for these different core competences.  
+ 
+The references must also demonstrate that they have a value of at least : 
+• EUR 500,000 for Lot 1 
+• EUR 200,000 for Lot 2.  
+ 
+If required, the Tendering Authority reserves the right to check the accuracy and completeness 
+of the references and to contact one or more of the reference parties without the Tenderer’s 
+involvement or permission. 
+4.3.3 Quality assurance (technical qualifications) 
+By signing the ‘European Single Procurement Document’, the Tenderer declares:  
+That he has a quality-assurance system that is at least equivalent to a certified quality-assurance 
+system. By ‘equivalent’, we mean the following: 
+o Quality assurance is embedded in the entire organisation (by means of policy), adopted 
+by the responsible department and executed by this department (e.g. by means of a 
+quality handbook). This department also bears responsibility for the correct design, 
+execution and management of this quality policy. 
+o Presence and company-wide implementation of relevant procedures relating to service 
+provision/end products and management of resources and documents, within which 
+continual improvement is an important point of attention. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 17 of 33 
+ 
+o Operation of an internal quality cycle, including the measurement, analysis and 
+improvement of quality levels. 
+o Performance of a periodic, independent audit by an expert concerning compliance with 
+the quality procedures. 
+o Customer-oriented processes: a system is in place to ensure (from the customer’s 
+perspective) that there is a clear picture of the customer’s needs and that these needs 
+are implemented into your business processes.  
+Or: 
+• That the Tenderer possesses a validly certified quality-assurance system, the certificate for 
+which was drawn up by a certification institution recognised within the national or 
+international accreditation structure, such as the European standards series EN 45000. 
+ 
+In the event that your Tender involves a collaboration between organisations, see Section 7: 
+‘Tenders involving collaborations with other organisations’.  
+ 
+Evidence (do not submit together with the Tender – only submit when requested by the 
+Tendering Authority). 
+ 
+Compliance with these quality-control requirements can be demonstrated by means of: 
+A description of the quality-assurance system in place at your organisation, which 
+demonstrates that this system is at least equivalent to a certified quality-assurance 
+system. The subsection ‘Quality Assurance’ explains what is meant by the term 
+‘equivalent’. Your description must address all the points specified in this subsection and 
+demonstrate the system’s equivalence or more.  
+Or: 
+Provision of the latest audit report or a copy of a certificate or certificates for the quality-
+assurance system that was/were drawn up by a certification institution recognised within 
+the national or international accreditation structure, such as the European standards 
+series EN 45000. 
+ 
+In the event that your Tender involves a collaboration (consortium), then every member 
+of this collaboration, for their part, must provide the quality-assurance evidence 
+requested for the purposes of the Tender. 
+4.4 Professional/trade register extract 
+The Tendering Authority expects the Tenderer to be authorised to practise his trade. For this 
+reason, the Tendering Authority reserves the right to ask the Tenderer to demonstrate that he is 
+registered in the professional register or in the trade register referred to in Annex XI of EU 
+Directive 2014/24/EU in accordance with the regulations applicable in the country in which he is 
+established. 
+It is also vital that the signed documents included in the Tender have been signed by a legally 
+authorised representative of the Tenderer. For this reason, the Tendering Authority can also ask 
+the Tenderer who is awarded the contract to demonstrate the legal validity of the signature. 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 18 of 33 
+ 
+Evidence (do not submit together with the Tender – only submit when requested by the 
+Tendering Authority). 
+ 
+In order to establish the legal validity of the signed statements, declarations and other 
+evidence, it is vital that a recent and up-to-date (max. six months old, counted from 
+the time of submission of the Tender) extract from the professional register or trade 
+register is provided in compliance with the provisions stipulated in Section 2.98 of the 
+Public Procurement Act. The extract must demonstrate the legal authorisation of the 
+signatory. 
+ 
+If the signatory of the statements, declarations and other evidence is not featured on the 
+extract, then authorisation of the signatory must be provided by one of the parties 
+featured on the extract, in the form of a statement declaring that the signatory was 
+authorised to legally bind the Tenderer at the time that he signed the documents. 
+ 
+In the event that the Tender involves a collaboration (consortium), then every member of 
+this collaboration must provide the aforementioned evidence separately. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 19 of 33 
+ 
+ 
+5.  Award criteria and assessment 
+ 
+5.1 Introduction 
+This Section concerns the award criteria. The Tenders are assessed based on the award criteria. 
+Your response to the award criteria must be included in your Tender. In your response, you must 
+take into account the requirements set in Section 3. 
+ 
+These award criteria concern both lots of this tender, unless expressly stated otherwise. 
+ 
+For each lot a maximum of 100 points can be obtained for your response to the award criteria.  
+ 
+Paragraph 
+number 
+Award criterion Maximum 
+number of points 
+5.2.1 Qualifications and experience of the project team 30 
+5.2.2 Project Plan 35 
+5.2.3 Social return on investment 5 
+5.3 Rates 30 
+ Total 100 
+ 
+5.2 Quality criteria 
+5.2.1 Award criteria relating to quality of the project team 
+ 
+Please provide the CV’s of the experts you propose to offer for this Contract/Agreement.   
+In the tables below you find the required number of experts per position: 
+ 
+Lot 1 Soil 
+ 
+Role Senior expert Medior/junior expert 
+Lead expert 1 - 
+Geophysical campaign 1 1 
+Geotechnical campaign 1 1 
+Ground Model 1 1 
+Morphological study 1 1 
+PM support* - 1 
+PM Document controller* - 1 
+Table 1: Required experts per position for soil 
+*These persons will not be assessed 
+Lot 2 Wind & water 
+ 
+Role Senior expert Medior/junior expert 
+Lead expert 1 - 
+Metocean campaign 1 1 
+Client representatives 3 - 
+Metocean desk study 1 1 
+Wind resource assessment 1 1 
+Table 2: Required experts per position for wind & water 
+ 
+These CV’s should be a maximum of 2 A4 pages long stating the relevant qualifications, education 
+and relevant experience of the experts. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 20 of 33 
+ 
+Furthermore you should fill in Annex 3 (a or b depending on which Lot) stating for each expert: 
+a) Proof of experience of (most relevant) 5 projects (executed in the last 10 years, this is 
+a maximum, other projects will not be assessed). 
+b) Description of role of the expert in the 5 projects 
+c) List of skills containing;  
+▪ 1 x core experience  
+▪ A maximum of five (5) knowledge areas with scoring (basic, good , expert) 
+d) Description of relevant know-how 
+ 
+Maximum 
+number 
+of points 
+Assessment criteria 
+30 Both CV’s and Annex 3 will be assessed.  
+This criterion will be assessed on the extent to which the level of the whole team is 
+appropriate and suitable for carrying out the requested tasks.  
+- The experience is appropriate for carrying out the requested tasks  
+- The roles are suitable and fitting for carrying out the requested tasks  
+- The lists of skills are suitable and fitting for carrying out the requested tasks  
+- The know-how is suitable and fitting for carrying out the requested taks 
+ 
+The above 4 sub criteria will have an equal weight in scoring, so a maximum of 7,5 
+points per criterion. 
+ 
+ 
+ 
+5.2.2 Award criteria relating to the quality of the Project Plan 
+Please provide a Project Plan (approximately 6 A4’s) containing the following subjects: 
+ 
+1. Plan to guarantee the availability and quality of the required experts  
+2. Description of team organization including approach and role description. It should be clear 
+ in the project plan who the main experts per position are (according to Table 1 and 2) and 
+ which experts are offered as back-up per position.  
+3. Description and proposal(s) for efficient use of experts, i.e. quality vs hour consumption, 
+ including plan of hour consumption based on the SoW 
+4. Interface plan between packages in order to ensure the continuity and handover between 
+ the different site investigations 
+5. Risk plan to cover risks for RVO and how the risks can be mitigated  
+ 
+Maximum 
+number 
+of points 
+Assessment criteria 
+35 1. Plan to guarantee the availability and quality of the required experts  
+This sub criterion will be assessed on the extent to which it fits the scope of work 
+and will give the Contracting Authority confidence that the work will be carried out 
+to satisfaction.  
+2. Description of team organization including approach and role description  
+This sub criterion will be assessed on the extent to which it fits the scope of work, is 
+complete and suitable.  
+3. Description and proposal(s) for efficient use of experts, i.e. quality vs hour 
+consumption, including plan of hour consumption based on the SoW 
+This sub criterion will be assessed on the extent to which it fits the scope of work 
+and is feasible. 
+4. Interface plan between packages in order to ensure the continuity and handover 
+between the different site investigations 
+5. Risk plan to cover risks for RVO and how the risks can be mitigated  
+This sub criterion will be assessed on the extent to which it fits the scope of work, is 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 21 of 33 
+ 
+complete and feasible.  
+ 
+The above five (5) sub criteria will have equal weight in scoring, so a maximum of 7 
+points per item. 
+ 
+ 
+ 
+5.2.3 Award criteria relating to Social Return on Investment 
+Social return means creating more employment opportunities for people who are disadvantaged 
+within the labour market. Social return is in line with Dutch government policy to offer as many 
+people as possible with a greater(er) distance from the labor market equal opportunities in the 
+labor market and to allow them to work according to their ability as regularly as possible. The 
+ultimate goal is to help them find work and work experience. See 
+https://www.pianoo.nl/nl/themas/maatschappelijk-verantwoord-inkopen-mvi-duurzaam-
+inkopen/mvi-thema-s/social-return for more information.  
+The Dutch State implements social return in its procurement policy for public procurements in the 
+categories of "works" and "services" worth in excess of €250,000 with a minimum contract period 
+of six months. From that point of view, the Contractor must spend at least 2% of the total wage 
+bill of the Agreement on one or more of the following target groups: students in a vocational or 
+apprenticeship training track and/or vocational colleges; people unemployed for more than 12 
+months and/or aged 50 or above; (partially) disabled people; jobseekers who are not entitled to 
+benefit etc.; early school-leavers and young people with inadequate qualifications. 
+The employment of disadvantaged groups should, according to legal frameworks, be related to the 
+service or the work that is being contracted out. These people should, therefore, actually be 
+employed in the implementation of the contracted service or works, and not in other areas of the 
+organization's operations.  
+ 
+Please provide an Plan of Action Social Return (maximum 1 A4) 
+• You indicate how much you can spend on social return. The percentage concerns the percentage 
+of the wage bill of the Agreement (maximum 2.5 points); 
+•You describe how you will implement social return (maximum 2.5 points). 
+ 
+Maximum 
+number of 
+points 
+Assessment criteria 
+5 The table below shows the initial distribution of points for the percentage you offer  
+ 
+Percentage Number of 
+points 
+2.0 0.0 
+3.0 0.8 
+4.0 1.6 
+5.0 2.5 
+ 
+The Action Plan is assessed on the extent to which it is concrete and realistic. 
+ 
+The percentage (see paragraph 5.4) that the Tenderer achieves for the Social 
+Return Action Plan is used for a correction of the initial number of points for the 
+additional percentage of social return offered. 
+ 
+Example of calculations: 
+If a Tenderer offers a percentage of 3.0 and scores a 'good' (=80%) on Action Plan, 
+Tenderer will receive: 
+ 
+Action Plan: 2 points (80% of 2.5) 
+Additional percentage: 0.64 points (80% of 0.8 points) 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 22 of 33 
+ 
+Total score: 2.64 points. 
+ 
+If a tenderer offers a percentage of 5.0 and scores a 'poor' (=20%) on Action Plan, 
+Tenderer will receive: 
+Action Plan: 0.5 points (20% of 2.5) 
+Additional percentage: 0.5 points (20% of 2.5 points) 
+Total: 1 point 
+ 
+ 
+ 
+ 
+5.3 Award criteria with respect to Pricing 
+ 
+By completing the Annex 4 'Prices/rates’ for the lot Tenderer applies for, Tenderer gives hourly 
+rates for senior, medior and junior experts to be charged for this contract. 
+ 
+Maximum 
+number 
+of points 
+Assessment criteria 
+30 Price will be assessed based on the ratio between the 
+• hourly rate senior expert excl. VAT (80%) and the 
+• hourly rate medior expert excl. VAT (10%) and the 
+• hourly rate junior expert excl. VAT (10%)  
+This will result in P : 
+=(hourly rate senior expert*0.8)+(hourly rate medior expert*0.1)+ 
+(hourly rate junior expert*0.1) 
+ 
+Score will be determined with the formula: 
+P between € 94,-- and € 166,50 excl. VAT: score between 0 (zero) and 30  points,  
+in which score = 30 – (30/(166,50 -94,00))*(P – 94,00). 
+ 
+P < € 94,00 excl. VAT or > 166,50 excl. VAT means exclusion from the procedure 
+based on the requirement in paragraph 3.6.3 of this document. 
+ 
+ 
+ 
+5.4 Award Assessment method for qualitative award criteria 
+ 
+For the assessment ,the assessment team will use the following scale for the weighting of the 
+quality criteria 5.2.1 (Project team), 5.2.2 (Project Plan) and 5.2.3 (Action Plan Social return). 
+ 
+ 
+Quality of the response Weighting percentage of the 
+maximum points available per 
+criterion 
+Excellent, with great added value 100% 
+Very good, with some added value 90% 
+Good 80% 
+Ample 70% 
+Satisfactory 60% 
+Average 50% 
+Fair, not completely satisfactory 40% 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 23 of 33 
+ 
+Unsatisfactory 30% 
+Poor, insufficient 20% 
+Very poor, insufficient 10% 
+No response provided 0% 
+ 
+For the award criteria o5.2.1 (Project team) and 5.2.2. (Project Plan) a minimum average of 60% 
+(rounded up) of the maximum number of points should be obtained. This average is based on the 
+average of the sub-preferences. Tenders which do not meet this requirement will be set aside by 
+the Contracting Authority and will not qualify for award of the Contract. 
+ 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 24 of 33 
+ 
+ 
+6.  Assessment of the Tender 
+6.1 Assessment of the Tender’s completeness and legal validity 
+The Tender will be assessed according to the following procedure. The Tendering Authority will 
+check whether: 
+1. all required documents have been provided (see the checklist in the subsection ‘Structure and 
+content of the Tender’ in Section 7); 
+2. the information is correct and complete, and no adjustments have been made to the 
+documents provided by the Tendering Authority; 
+3. no provisos have been made by the Tenderer (e.g. specifying that the Tenderer’s own terms 
+and conditions apply); 
+4. the ‘European Single Procurement Document’ has been completed in full and has been legally 
+signed.  
+ 
+In the event that the aforementioned requirements have not been complied with, the Tender will 
+be excluded from assessment and further participation in the tendering process, unless 
+rectification is permitted within the boundaries of public procurement legislation. 
+6.2 Assessment of requirements relating to the assignment 
+Subsequently, the Tender’s compliance with the requirements to the assignment (see Section 3) 
+will be assessed. Any Tenders that do not comply, will be excluded from further participation in the 
+tendering process. 
+6.3 Assessment of award criteria relating to the assignment 
+Subsequently, all Tenders not excluded from the tendering process, will be assessed according to 
+the award criteria stipulated in Section 5. 
+6.4 Determination of definitive total score 
+The Contract will be awarded according to the principle of the Most Economically Advantageous 
+Tender. The Most Economically Advantageous Tender is the Tender that achieves the highest 
+definitive total score based on the best price-quality ratio. 
+ 
+The Tenderer’s definitive total score will be rounded to one decimal place. No scores will be 
+rounded off until the moment that this definitive total score is determined. If two or more 
+Tenderers have an equal definitive total score that would result in the Tendering Authority having 
+to award the Contract to more parties than is desired, then the Tendering Authority will award the 
+Contract to the Tenderer with the highest final score for the sub criterion Project plan (see 
+paragraph 5.2.2). In the event that the highest scoring Tenderers also achieve an equal score for 
+this subcriterion, then determination of the Tenderer to which the Contract will be awarded will be 
+made by drawing lots.  
+6.5 Assessment of evidence 
+At the moment that the Tenderer legally signs the ‘European Single Procurement Document’ and 
+submits the Tender, the Tenderer is not (yet) required to provide any evidence, unless expressly 
+asked to do so in this Tender document.  
+ 
+By signing the ‘European Single Procurement Document’ and submitting his Tender, the Tenderer 
+agrees that at a later date, the Tendering Authority is entitled to request that the winning 
+Tenderer provides the required evidence.  
+ 
+Upon awarding the Contract, the Tendering Authority will only request evidence from the winning 
+Tenderer. The Tendering Authority is entitled to request this evidence at an earlier stage and from 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 25 of 33 
+ 
+all Tenderers if it believes such a course of action is necessary to facilitate the progress of the 
+tendering process. 
+ 
+The evidence must demonstrate that the Tenderer indeed complies with the content of both the 
+‘European Single Procurement Document’ and the Tender. Following the Tendering Authority’s 
+request to provide the evidence, the Tenderer has 20 (twenty) calendar days to hand over the 
+required evidence. If the Tendering Authority does not agree with the content and/or validity of 
+one or more of the pieces of evidence provided by the winning Tenderer, then this could result in 
+the winning Tenderer being excluded from further participation in the process. In such cases, the 
+Tendering Authority will inform every Tenderer of this situation. The Tendering Authority will then 
+determine the next Most Economically Advantageous Tender. The score of the Tenderer that has 
+just been excluded will be removed. The calculations will then be carried out once more and a new 
+ranking will be created. The award process will then be conducted again. 
+ 
+In the event a winning Tenderer does not qualify for the definitive award of the Contract, then all 
+Tenderers will be notified of this and the consequences thereof concerning the award of the 
+contract. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 26 of 33 
+ 
+ 
+7.  Submission procedure for Tenders 
+ 
+7.1 Statement of agreement 
+By submitting a Tender, including the ‘European Single Procurement Document’, the Tenderer 
+explicitly consents to all requirements and conditions stipulated in this Tender document and the 
+Memorandum of Information and declares that he will continue to comply therewith throughout the 
+entirety of the contract period. Furthermore, the Tenderer confirms that he will comply with all of 
+the specified prices and rates, including any agreed indexation. Failing to comply with one or more 
+requirements will result in his Tender being disqualified from the assessment process and therefore 
+excluded from the tendering process. 
+7.2 Schedule 
+See schedule in Subsection 1.3. 
+7.3 General procedure 
+This tendering process will be carried out in compliance with the Public Procurement Act. In this 
+case, the ‘open procedure’ was selected. An announcement thereof was published on 
+www.tenderned.nl and on Tender European Daily (TED).  
+ 
+In the event that a Tender is not submitted in accordance with the provisions and regulations 
+stipulated in this section, the Tendering Authority can set aside the Tender and exclude the 
+Tenderer from further participation in this tender procedure.  
+7.3.1 eHerkenning 
+All TenderNed users affiliated with a Dutch company registered with the Dutch Chamber of 
+Commerce are obliged to log in and register using eHerkenning.  
+This obligation does not apply to companies not registered in the Netherlands. 
+Visit http://www.tenderned.nl/eherkenning-en-tenderned-0 for more information about 
+eHerkenning, including the terms and conditions. You are responsible for any consequences arising 
+from the failure to register with eHerkenning in a timely manner. 
+7.3.1 Communication 
+All communication relating to this tender procedure will be conducted via TenderNed 
+(www.tenderned.nl), unless otherwise specified.  
+ 
+Once you have indicated your interest in this invitation to tender on TenderNed, you can send and 
+receive messages about this tender process via ‘My Tenders’. Any questions concerning the tender 
+process can be sent to the Tendering Authority’s contact person via TenderNed.  
+You will receive messages via TenderNed. Via your personal TenderNed settings, you can turn on 
+automatic notifications, including notifications to your private email address. It is your 
+responsibility to ensure that these emails are not blocked by your email provider’s security system.  
+If the communication cannot be conducted via TenderNed, you can contact the following contact 
+person(s): 
+Liesbeth de Man at IUCEZteam1@rvo.nl.  
+ 
+Attempts to directly contact parties other than the contact person(s) stated above in relation to 
+this tender process are prohibited. 
+ 
+If you have any functional or technical questions regarding TenderNed, you can contact the 
+TenderNed service desk on weekdays between 08:30 and 18:00 CET on 0800-8363376 or via 
+servicedesk@tenderned.nl. You can also consult the eHandbook via 
+http://www.tenderned.nl/egids/. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 27 of 33 
+ 
+7.3.2 Questions and additional information/changes 
+During the procedure, you have the opportunity to ask questions. Ask your questions as soon as 
+possible. All questions will be answered anonymously. The Tendering Authority can answer your 
+questions via TenderNed in two ways: 
+- Via one or more Memoranda of Information. 
+- By means of the TenderNed ‘Questions and Answers’ facility.  
+The deadline for submission of your questions is specified in the schedule (see section 1.3). In any 
+event, all questions asked will be answered at least 10 days prior to the deadline for submission of 
+the Tender.  
+ 
+Submitting a question to the Tendering Authority 
+Questions are to be asked via TenderNed. See https://www.tenderned.nl/cms/english/six-steps-
+bidding-public-procurement-contracts-online-through-tenderned.  
+ 
+All questions and answers will be published anonymously for all interested parties to view. If you 
+have a compelling reason why you do not wish your question (and its answer) to be revealed to 
+the other interested parties, then tick the ‘Answer Individually’ box. However, the Tendering 
+Authority will decide whether or not to process your question individually.  
+ 
+Answers from the Tendering Authority 
+The Memoranda of Information are an integral part of this Tender document. The Tendering 
+Authority assumes that all sections for which no questions have been asked have been clearly and 
+fully understood. 
+ 
+7.3.4 Validity period and submission of Tender 
+The Tender must be valid for at least the four months after the deadline for submitting the 
+tenders. In the event that an application for a preliminary injunction is filed with the competent 
+court in The Hague against the award decision, then the Tenderers must in any event ensure that 
+their Tenders are valid until four weeks subsequent to the initial decision by the court.  
+7.3.5 Variants on Tender 
+Upon submitting a Tender in accordance with the Tender document, the Tenderer is not permitted 
+to submit a variant of this Tender. 
+7.3.6 Costs of submitting a Tender 
+The Tendering Authority will not reimburse any Tenderers for any costs resulting from the drafting 
+and submitting of a Tender, including any further information requested of the Tenderer. 
+7.3.7 Termination of tendering process 
+Until the moment that the Contract is signed, the Tendering Authority reserves the right to 
+partially, fully, temporarily or permanently terminate the tendering process. In such cases, 
+Tenderers will not be entitled to receive compensation for any costs incurred by them in 
+connection with this Tender, unless the Contracting Authority is of the opinion that a (small) 
+contribution to the tender costs is appropriate in view of the circumstances.  
+7.3.8 Order of precedence of documents 
+In the event of inconsistencies between the Tender document and the Memorandum of 
+Information, the Memorandum of Information takes precedence.  
+In the event that there are multiple Memoranda of Information, then the provisions in the most 
+recent Memorandum of Information takes precedence in the event of inconsistencies between the 
+different Memoranda.  
+7.3.9 Information about the Tenderer’s obligations 
+The Tenderer must take into account his obligations relating to environmental, social and 
+employment law in compliance with article 2.81 paragraph 2 of the Public Procurement Act. 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 28 of 33 
+ 
+ 
+Information on obligations resulting from Dutch legal provisions with regard to taxes, 
+environmental protection, occupational health and safety and terms of employment that will be 
+applicable to the Tenderer’s activities throughout the Contract period is available from the 
+following sources: 
+Information on taxes: the Dutch Tax and Customs Administration: (www.belastingdienst.nl). 
+Provisions concerning environmental protection: the Ministry of Infrastructure and Water 
+Management (www.rijksoverheid.nl). 
+Provisions pertaining to occupational health and safety and terms of employment: the Ministry of 
+Social Affairs and Employment: (www.rijksoverheid.nl). 
+7.3.10 Guide Information security and Privacy for suppliers 
+Protecting information and personal data is the top priority for the Ministry of Economic Affairs and 
+Climate Policy (EZK). That requires significant effort from our own employees, but also from our 
+suppliers. You can read more about it in this concise guide. 
+Suppliers guide Information Security and Privacy EZK.   
+7.3.11 Inconsistencies and objections 
+If the Tenderer is of the opinion that the documents contain inconsistencies, errors or matters that 
+are unclear or if the Tenderer has any objections, then the Tenderer must report this to the 
+contact person in writing, including substantiation.  
+7.3.12 Complaints procedure 
+If a Tenderer disputes a response given by the Tendering Authority to a question, request, 
+comment or objection from the Tenderer, or if the Tenderer receives no response, then he can 
+submit a complaint. More detailed information on this matter can be found in the ‘Complaints 
+Procedure’ annex 9. 
+7.3.13 Dispute resolution 
+In addition to the provisions in the ‘Complaints Procedure’ subsection, any dispute arising from this 
+tendering process can be presented to the Public Procurement Experts Committee 
+(www.commissievanaanbestedingsexperts.nl) and/or to the competent court in The Hague. Dutch 
+law applies exclusively to such proceedings. 
+7.3.14 Submission of the Tender 
+The deadline (date and time) for submission of Tenders is stipulated in the ‘Time schedule’ (1.3)  
+and it is a final deadline.  
+• In order to submit a Tender, you must register with TenderNed. One or more registered users 
+must be connected and authorised to submit the Tender via TenderNed on behalf of your 
+company.  
+The Tendering Authority advises that you start the TenderNed registration process immediately 
+rather than postponing it until the tendering period is coming to a close. Upon registering your 
+organisation, you must add your tender via TenderNed’s announcements platform. 
+• For more information on registering and establishing your organisation with TenderNed and 
+digital submission of your Tender, visit https://www.tenderned.nl/cms/english/six-steps-
+bidding-public-procurement-contracts-online-through-tenderned.  
+• Only Tenders that have been submitted to the digital safe for this invitation to tender either 
+prior to or on the day of the deadline (prior to the time of the deadline) will be processed by the 
+Tendering Authority.  
+• The time and date as displayed on the digital countdown clock in TenderNed serves as the 
+definitive deadline for the submission of Tenders.  
+• The Tendering Authority is only able to see the Tenders once the digital safe opens in 
+TenderNed. This safe can only be opened upon expiry of the deadline for the submission of 
+Tenders. 
+• In the event you have technical issues or questions regarding submission of your Tender via 
+TenderNed, you can contact the TenderNed service desk via servicedesk@tenderned.nl or +31 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 29 of 33 
+ 
+(0)70-3798899. If you believe that the TenderNed service desk is taking too long to answer 
+your question or comment, then you can contact your contact person within the Tendering 
+Authority.  
+• Any risks resulting from late submission of the Tender and/or submission of an incomplete 
+Tender is borne by the Tenderer.  
+• The Tendering Authority is neither responsible nor liable for any consequences resulting from a 
+Tender that is submitted too late, incorrectly or incompletely. 
+ 
+The Tendering Authority will treat confidentional information provided by the Tenderer with due 
+care. 
+7.3.15 Structure and content of the Tender 
+The Tender must be submitted entirely via TenderNed and the ‘European Single Procurement 
+Document’ must be legally signed. 
+ 
+You can use the following checklist during the submission of your quotation. 
+ 
+Subject Description Action required from tenderer 
+Annex 1 European Single Procurement 
+Document* 
+Fill in, legally sign and add to 
+TenderNed 
+Annex 2 Reference Contracts Fill in and add to TenderNed 
+Award 
+criteria 
+Annex 3 (a 
+and/or b) 
+Required information concerning experts Add to TenderNed  
+Award 
+criteria 
+CV’s, maximum 2 A4 pages Add to TenderNed 
+Award 
+criteria 
+Project plan, approximately 6 A4 pages Add to TenderNed 
+Award 
+criteria 
+Action Plan Social Return on Investment, 
+maximum 1 A4 page 
+ 
+Award 
+criteria 
+Prices/Rate’ 
+annex 4 
+Prices/rates included in the quotation 
+ 
+ 
+Add to TenderNed 
+ 
+ 
+Additional 
+data 
+For Dutch companies: 
+Om een voorspoedige verwerking van de 
+factuur te bewerkstelligen, dient u in uw 
+Inschrijving onderstaande gegevens op 
+te nemen: 
+- NAW-gegevens; 
+- KvK-nummer; 
+- Vestigingsplaats volgens KvK; 
+- IBAN.  
+Add to TenderNed  
+ 
+ 
+Additional 
+data 
+For Non-Dutch companies 
+- Address 
+- Bank account number 
+- VAT number  
+Add to TenderNed 
+European tender for Expert support to the Netherlands Enterprise Agency in developing IJV WFZ Page 30 of 33 
+ 
+* See Subsection 7.3.16 in the event your Tender is submitted in collaboration with other 
+companies.  
+7.3.16 Legally binding signature 
+A legally binding signature means that a document has been signed by a duly authorized  
+representative. 
+If it is recorded in the professional or company register that two or more persons only have joint 
+powers of representation, then the documents requiring a legally binding signature must be signed 
+by those two or more persons. If any restrictions are in place regarding the authorization to 
+represent the organization, then these must be taken into account.  
+ 
+Where a legally binding signature is required, the Contracting Authority accepts, in addition to an 
+original handwritten signature, also the qualified electronic signature within the meaning of article 
+3: 15a of the Civil Code (or EU Regulation no. 910/2014, article 3, part 12). 
+ 
+Please note: it is not possible to sign the European Single Procurement Document with a qualified 
+electronic signature immediately. You can provide the ESPD with a handwritten signature or you 
+must make a digital PDF printout of the PDF form, after which the qualified electronic signature 
+can be placed on this digital PDF printout. 
+ 
+The lack of a legally binding signature in principle will lead to exclusion from the tendering 
+procedure. In that case, however, you will be given one single opportunity to correct it within 48 
+hours. 
+7.3.17 Submission of a Tender in collaboration with other organisations 
+If you cannot carry out the assignment independently, you can set up a collaboration with other 
+organisations. 
+ 
+There are two ways in which you can submit a Tender in collaboration: 
+1) As a consortium in which each member of the consortium is jointly and severally liable for the 
+fulfilment of the obligations arising from the Tender as well as the fulfilment of the Contract. 
+2) In a principal contractor-subcontractor structure in which the Contractor is liable for the 
+fulfilment of all obligations, including the obligations that will be subcontracted. 
+ 
+Tendering as a consortium 
+If a Tender is submitted by a consortium, then: 
+• Every member of the consortium must fill in and legally sign a separate ‘European Single 
+Procurement Document’, which also includes a specification of who the consortium members 
+are (see Part II of the ‘European Single Procurement Document’). Indicate the role each 
+member plays within the consortium. In the ‘European Single Procurement Document’, you 
+must indicate who is in charge of the consortium (who is lead manager) and will act as its 
+authorised representative. 
+• All organisations in the consortium accept joint and several liability for the fulfilment of the 
+obligations arising from the Tender and the eventual fulfilment of the Contract. 
+• If a consortium member relies upon the capacity of another entity in order to demonstrate 
+compliance with the applicable Suitability Requirements, then the entities in question must 
+complete and sign Part II C of the ‘European Single Procurement Document’ (in compliance 
+with the provisions specified below in the subsection ‘Submitting a tender together with 
+subcontractors’ in the eventuality that subcontractors are obliged to demon
+
+=== Document: annex 1 european-single-procurement-document-espd-202106024 ===
+Please wait... 
+  
+If this message is not eventually replaced by the proper contents of the document, your PDF 
+viewer may not be able to display this type of document. 
+  
+You can upgrade to the latest version of Adobe Reader for Windows®, Mac, or Linux® by 
+visiting  http://www.adobe.com/go/reader_download. 
+  
+For more assistance with Adobe Reader visit  http://www.adobe.com/go/acrreader. 
+  
+Windows is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries. Mac is a trademark 
+of Apple Inc., registered in the United States and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other 
+countries.
+
+=== Document: annex 2 reference contracts ===
+A nnex   # :    Reference contracts   Project: European tender  expert support to the Netherlands Enterprise Agency in developing IJmuiden Ver Wind Farm Zone (site s  I-VI) Co mpany (Tenderer) : Lot no. The contracting authority has set the following key competences that correspond to experience in essential aspects of the contract: Experience with providing expert support and/or technical consultancy services to governments and/or commercial developers for complex (technical) projects related to the development of offshore wind farms; Capability to advise on and/or draw (technical) Scopes of Work for the procurement of desk studies and field studies as part of the site investigations to obtain data of the soil, wind and water conditions for the preliminary design and/or FEED of offshore wind farms. Capability to evaluate and/or  review offers, project execution plans, reports and other deliverables of desk studies and field studies as part of the site investigations to obtain data of the soil, wind and water conditions for the preliminary design and/or FEED of offshore wind farms. Key competence  For each competence fill in: □  Key competence number (1, 2, 3 or combination) □  Description of reference  assignment  (activities performed, results delivere d) □ Value of assignment  in EUR □ Commencement and end date of contract □ Contact data of referee: company name,  contact person,  telephone/email No. No. No. Tenderer declares that he has carried out at least one reference assignment  for each of the core competences listed above  that meets the following minimum requirements: The subject of the reference assignment must be comparable to the core competence in question. The reference assignment must have been executed or completed within  the  three  years  prior to the closing date for the submission of tenders. If the Tenderer uses an assignment that is not yet fully complete, then only the completed results of the ongoing assignment can be submitted for reference purposes: projected results cannot be taken into consideration. The total value of the reference  assignment ( s) must be  at least:  EUR 500.000 for Lot 1  EUR 200.000 for Lot 2   This reference-assignment value must exclusively consist of the value of the aspects of the assignment that are equivalent to  the services specified in this document. In case a series of separate yet significantly comparable assignments  was carried out for the same client during the reference period, then the turnover of these separate assignments can be combined into a cumulative total. Assignments including one or more subcontractors can only be used as reference assignments if  the subcontractor(s) in question will be involved in the fulfilment of the Contract and if the Tenderer can and will make use of the knowledge and experience of the subcontractor(s) in question during the fulfilment of the assignment.
+
+=== Document: annex 5a ijv_20210702_rvo_qes_ sow soil expert support_f ===
+Date 7/2/2021 
+Status Final 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Site Studies Wind Farm Zone 
+IJmuiden Ver 
+ 
+Expert support soil 
+ 
+Annex 5a  
+ 
+Scope of Work 
+ 
+  
+ 
+ Page 2 of 13 
+ 
+Colophon 
+Project name Expert support Ijmuiden Ver Wind Farm Zone (IJVWFZ) 
+Project number WOZ 
+Version Final 
+File name Annex_5a_–_Scope_of_Work 
+Project manager  
+Contact   
+  
+Annex(es)  
+Author M. Vrolijk, P. Lebbink 
+Reviewed M. Brijder 
+Approved M. Brijder 
+ 
+ 
+  
+ 
+ Page 3 of 13 
+ 
+Contents 
+ 
+Introduction .......................................................................................................... 4 
+1. Project set-up ................................................................................................. 6 
+2. Roles and Responsibilities ................................................................................. 8 
+3. Schedule of Key Dates ................................................................................... 12 
+ 
+ 
+  
+ 
+  
+ 
+ Page 4 of 13 
+ 
+Introduction  
+Scope document 
+This document details the Scope of Work for soil expert support services for IJmuiden Ver 
+Wind Farm Zone (IJVWFZ). 
+ 
+Background 
+The Ministry of Economic Affairs is responsible for the legislative framework for the 
+development of offshore wind farms in the Netherlands. Within this framework (a) 
+(concession) tender(s) for subsidy for construction and operation of (a) wind farm(s) will 
+be organized. As part of the tender documentation, the participants will receive an 
+information package in which detailed information on the offshore site is included. 
+Detailed information about soil and wind & water conditions at the site will be part of this 
+information package.  
+The Contracting Authority for this assignment is the Netherlands Enterprise Agency 
+(Rijksdienst voor Ondernemend Nederland (RVO)), sometimes also referred to as CLIENT 
+ 
+Objective 
+RVO has been requested to prepare and collect all site data required for commercial 
+developers to prepare a competitive bid. In order to achieve the highest results from the 
+site investigations, RVO intends to contract high quality experts who can support RVO in 
+managing the site investigations. The objective of this tender is to conclude an 
+agreement with Contractors who can support RVO on the different site investigations 
+regarding contracting, quality control and operational support.  
+ 
+RVO is looking for an expert support Contractor who can support RVO with managing the 
+site investigations (some for IJVWFS I-IV, mainly for IJVWFS V-VI) and the interfaces 
+between the site investigations. RVO is specifically looking for expertise in the field of soil 
+investigations (Lot 1) and wind & water investigations (Lot 2). 
+ 
+This scope of work is part of Lot 1: expert support services for soil investigations.  
+ 
+Site Description 
+The IJVWFZ is located 80 kilometres off the west coast of the Netherlands. The IJVWFZ 
+consists of six Wind Farm Sites (see Figure 1). IJVWFS I-IV are currently being developed 
+by RVO by means of site investigations. IJVWFS V and VI will now be developed as well. 
+The soil investigations comprise the IJVWFS Sites I-VI for the morphodynamical 
+assessment and IJVWFS V-VI for the geophysical and geotechnical investigations and the 
+ground model.  
+ 
+ 
+  
+ 
+ Page 5 of 13 
+ 
+ 
+ 
+Figure 1: Wind Farm Sites within the IJmuiden Ver Wind Farm Zone 
+ 
+  
+
+ 
+  
+ 
+ Page 6 of 13 
+ 
+Scope of Work 
+ 
+The Contracting Authority intends to conclude the contract with one Contractor, in order 
+to manage the interfaces regarding the studies below adequately.  
+ 
+For expert support during the soil investigations for the IJVWFZ, the following expertise is 
+requested for the following tasks: 
+1. Geophysical survey (WFS V-VI) 
+2. Geotechnical survey (WFS V-VI)  
+3. Ground model (WFS V-VI) 
+4. Morphodynamical assessment (WFS I-VI) 
+5. Project management support 
+6. Document Control 
+ 
+The scope of work is divided in 3 sections; 
+1. Project set-up 
+2. Roles and responsibilities 
+3. Schedule and key dates 
+ 
+1. Project set-up  
+The IJmuiden Ver Soil package for Site V and VI will contain the site characterization 
+studies as indicated in Figure 2. 
+ 
+ 
+Figure 2: Soil site characterization package 
+With regards to the package as presented in Figure 2 it should be noted that the 
+Geological desk study is already performed. 
+ 
+RVO will manage the soil site characterisations for IJVWFZ, hereafter called PROJECT. 
+Expert support will be required to assist the RVO team with in-depth knowledge during: 
+1) Outline of the procurement documents for site study Contractors to execute the 
+studies 
+2) Review process of Contractor bids 
+3) Developments during execution of studies  
+4) Quality and completeness review of Contractor documents 
+
+ 
+  
+ 
+ Page 7 of 13 
+ 
+5) Operational support during execution of field works  
+ 
+To visualize the PROJECT team set up an organization chart is presented in Figure 3.  
+ 
+ 
+ 
+Figure 3: Organization chart IJmuiden Ver site V-VI 
+Items marked in red present the areas where in-depth knowledge support by external 
+experts is requested by means of this SOW. The input to the Geological desk study is 
+excluded, as this study has already been performed but the outcomes should be taken 
+into consideration into the interfaced studies.  
+ 
+The PROJECT organization will be built under supervision of a package manager from 
+RVO. The package manager will be responsible for the interfaces between studies, overall 
+planning and overall budget.   
+In addition to the package manager from RVO there will be multiple RVO project 
+managers assigned to the PROJECT to manage the individual studies. A single RVO 
+project manager can be assigned to multiple studies and can change during the duration 
+of the PROJECT. 
+ 
+From the expert support contractor it is expected to supply lead expert(s) and specialists. 
+The lead expert will need overall knowledge to participate into the different studies and to 
+advise the RVO package manager where necessary. The main task of the lead expert will 
+consist of interfacing between the studies. For in-depth discussions, reviews and support 
+throughout the PROJECT the lead expert (and the RVO project managers) can call in the 
+specialist experts. For detailed roles and responsibilities of the requested expert support 
+reference is made to section 2 of this SOW. 
+ 
+The aim of the project set up as described is to optimize the interfaces and optimize the 
+use of the specialist knowledge. 
+ 
+During the execution of the PROJECT all the communication between the different parties 
+as described above and the site study Contractors will be managed by the RVO project 
+manager. The communication lines are visualized in Figure 4. 
+ 
+ 
+ 
+ 
+RVO - Soil Package
+Package Manager
+Geophysical 
+Study
+RVO Project 
+manager 
+Contractor
+Project team
+Offshore Rep
+External
+Expert 
+support 
+Specialist
+Morphological 
+Study
+RVO Project 
+manager
+Contractor
+Project team
+Expert 
+support
+Specialist
+Geothechnical 
+Study
+RVO Project 
+manager 
+Contractor
+Project team
+Offshore rep
+External
+Expert 
+support
+Specialist
+Ground Model
+RVO project 
+manager 
+Contractor
+Project Team
+Expert 
+support
+Specialist 
+Expert 
+Support
+Lead expert 
+Expert 
+support
+PM Support
+Epert
+support
+Doc control
+ 
+  
+ 
+ Page 8 of 13 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+Figure 4: Communication lines 
+ 
+Note: If required during the PROJECT direct communication lines can be established 
+between the Experts and site study Contractors upon discretion of the RVO project 
+manager(s).    
+ 
+2. Roles and Responsibilities  
+This section describes the roles and responsibilities for the expert support during the 
+PROJECT. 
+ 
+Lead Expert (approximately 2000 h) 
+This expert must have Geophysical, Geotechnical and Morphological knowledge. The lead 
+expert will be the interface during progress meetings with RVO and the site study 
+Contractors. The lead expert shall be capable to participate during the calls as 
+representative of all specialist experts. The lead expert should be able to answer 
+questions related to the studies or be able to capture the essence and transfer them to 
+the experts to arrange follow up.  
+To improve interfaces and consistency it is important that a single lead expert will 
+supervise and participate in all studies together with the RVO project managers.  
+ 
+If required a deputy (temporary) lead expert can be assigned to support the lead expert 
+during absence or when workload requires.  
+ 
+Required know-how: the lead expert will need to have general knowledge regarding 
+geotechnics, geophysics, morphology and ground models of the North Sea. For detailed 
+in-depth knowledge the lead expert can consult the specialist experts in the team, but the 
+lead expert will need the following required know-how: 
+ 
+a. Project management and interface skills; 
+RVO 
+Project 
+Manager 
+RVO 
+Package
+manager 
+Contractors
+Lead 
+Expert
+Experts
+ 
+  
+ 
+ Page 9 of 13 
+ 
+b. The general site conditions, especially the shallow geology till 100 metres BSF, in 
+the North Sea;  
+c. Interpretation of geophysical results for post processing into the ground model, 
+morphological study, archaeological study and geotechnical site investigation; 
+d. Interpretation of geotechnical results for wind turbine foundation and infield cable 
+design purposes; 
+e. State-of-the-art methods and equipment for the geophysical surveys (e.g. 
+hydrographical and geophysical methods); 
+f. State-of-the-art lab tests (standard and cyclic; MIC). 
+ 
+Activities and responsibilities (but not limited to) 
+• Participate in meetings related to the geophysical study, geotechnical study, 
+morphological study, ground model and vessel calls during project execution; 
+• During the meetings it is expected that the lead expert can represent the expert 
+group and participate in discussions;  
+• Manage interfaces between studies, experts and RVO; 
+• The lead expert will have to share information between the teams so that  all 
+experts have all the required information. When questions arise the lead expert 
+will arrange follow up with the correct party;  
+• Quality assurance and quality control;  
+• Participate in webinars; 
+• Drafting the scope of work for contractors to execute the studies; 
+• Assessing the contractor’s bids. 
+ 
+Expert support contractors are requested to offer one senior expert for the lead expert 
+position. Additional experts offered will be assessed as back-up experts.   
+ 
+Geophysical Specialist Expert(s) (approximately 1,000 h) 
+These expert(s) must be geophysicist(s) with experience in geophysical soil investigations 
+and operations for wind farm / foundation / infield cable design for projects in the North 
+Sea. Experience in other geographical areas with similar conditions to the North Sea is 
+also considered relevant. 
+ 
+Required know-how (the experts together must cover the required know-how) 
+a. The general site conditions, especially the shallow geology till 100 metres BSF, 
+in the North Sea;  
+b. Relevant state of the art research, data acquisition and analysis methodologies 
+of geophysical campaigns for wind farm / foundation / infield cable design 
+projects; 
+c. State of the art equipment (vessels, hydrographical and geophysical (in 
+particular seismic survey equipment)). 
+ 
+Activities (but not limited to): 
+ 
+• Preparation of the procurement documents for geophysical survey tender;  
+• Review and evaluate proposals of the geophysical survey tender; 
+• Support in managing the geophysical survey: check the planning, assist in 
+document control (including check on required actions from progress 
+meetings); 
+• Onshore QC of data samples during project execution in co-operation with 
+the on-board Client Representative; 
+• Review of deliverables (for example reports, hydrographical data, 
+geophysical data); 
+• Support in transferring results of the geophysical survey to the geotechnical 
+survey and the ground model; 
+• Support in disclosing deliverables (check of content offshorewind.rvo.nl and 
+HDD (Hard Disk Drive), webinars, PSD (Project Site Descriptions), etc.). 
+ 
+ 
+  
+ 
+ Page 10 of 13 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+Geotechnical Specialist Expert(s) (approximately 2000 h) 
+These experts must have geotechnical engineering skills with experience in operations for 
+wind farm / foundation / infield cable design for projects in the North Sea. Experience in 
+other geographical areas with similar conditions to the North Sea is also considered 
+relevant. 
+ 
+Required know-how (the experts together must cover the required know-how) 
+a. The general site conditions, especially the shallow geology till 100 metres BSF, in 
+the North Sea;  
+b. State-of-the-art methods and equipment for the in situ tests (e.g. PCPTs, SCPTs, 
+sampling with bore holes and vibro cores, seismic tests, MIC testing); 
+c. State-of-the-art lab tests (standard and cyclic, MIC); 
+d. Interpretation of results for wind turbine foundation and infield cable design 
+purposes; 
+e. State-of-the-art design methods for wind turbine foundations; 
+f. Reviewing ground models. 
+ 
+ 
+Activities (but not limited to): 
+• Drafting Scope of Work for the geotechnical campaign tender; 
+• Review and evaluate proposals (e.g. project documentation, suitability vessels 
+and equipment, equipment set up, project execution plan, line plan), in some 
+cases providing a second opinion;  
+• Contribute to defining a CPT and borehole plan; 
+• Contribute in defining a lab testing programme (standard and cyclic); 
+• Onshore QC of results during project execution in co-operation with the on-board 
+Client REP; 
+• Review of deliverables (for example reports and geotechnical data); 
+• Support in disclosing deliverables (check of content offshorewind.rvo.nl and HDD, 
+webinars, PSD, etc.). 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+Ground model Specialist Expert(s) (approximately 2000 h) 
+These experts must have ground model engineering skills with experience for wind farm / 
+foundation / infield cable design for projects in the North Sea. Experience in other 
+geographical areas with similar conditions to the North Sea is also considered relevant. 
+ 
+Required knowhow  
+a. The general site conditions, especially the shallow geology till 100 metres BSF, 
+in the North Sea;  
+b. Interpretation of geotechnical and geophysical results for wind turbine 
+foundation and infield cable design purposes; 
+c. State-of-the-art design methods for wind turbine foundations; 
+d. Compiling or reviewing ground models; 
+e. Working with Kingdom© software or other ground model software (software 
+must be available, will not be supplied by CLIENT). 
+ 
+Activities (but not limited to): 
+• Drafting procurement documents for the ground model tender; 
+ 
+  
+ 
+ Page 11 of 13 
+ 
+• Review and evaluate proposals (e.g. project documentation, suitability vessels 
+and equipment, equipment set up, project execution plan, line plan), in some 
+cases providing a second opinion;  
+• Contribute to defining a CPT and borehole plan; 
+• Contribute in defining a lab testing programme (standard and cyclic); 
+• Review of deliverables (for example reports and geoscience data); 
+• Support in disclosing deliverables (check of content offshorewind.rvo.nl and HDD, 
+webinars, PSD, etc.); 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+ 
+Morphological Specialist Expert(s) (approximately 500 h) 
+These experts must be morphodynamic experts, preferably with experience with seabed 
+conditions and morphodynamics for wind farm / foundation / infield cable design for 
+projects in the (Dutch sector of the) North Sea.  
+ 
+Required know-how: 
+a. Experience with assessment of morphodynamical desk studies 
+ ((morpho)dynamics, physics) for offshore wind farms or cable lay-out; 
+b. The general seabed conditions in the (Dutch sector of the) North Sea; 
+c. Experienced in seabed morphodynamics, sand waves and bedform migration, 
+ morphodynamical analysis. 
+ 
+Activities (but not limited to): 
+• Drafting procurement documents for the morphodynamical assessment tender;  
+• Review and evaluate proposals of the morphodynamical assessment tender; 
+• Review of the (draft) reports of the morphodynamical assessment; 
+• Review of the data; 
+• Reporting and document control, e.g. during review of deliverables; 
+• Participate in expert meetings; 
+• Disclosure of information to the market (publication at offshorewind.rvo.nl, 
+ contribution to the PSD, market questions, webinars, etc.) 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+PM support (Option – approximately 500 h) 
+Optionally RVO would like to extend the PROJECT team with PM support. The PM support 
+can work alongside  the RVO project manager and support in managing the interfaces.  
+ 
+Required know-how: 
+a. Procurement and (contract) management of geophysical and / or geotechnical 
+surveys; 
+b. General understanding of geophysical and geotechnical surveys;  
+ 
+Activities (but not limited to): 
+• Interface management; 
+• Prepare Minutes of Meeting; 
+• Manage document review procedures; 
+• Support contract management.  
+ 
+ 
+  
+ 
+ Page 12 of 13 
+ 
+Document controller (Option – approximately 500 h) 
+Optionally RVO would like to extend the project team with a document controller to assist 
+the RVO project managers and the experts in document control. 
+ 
+Activities (but not limited to): 
+• Manage and trace project documents; 
+• Arrange document storage and ensure project folders remain up to date; 
+• Prepare and distribute minutes of meeting.  
+ 
+Expert support contractors are requested to offer one available person for each requested 
+position. Additional experts offered will be assessed as back-up experts.   
+ 
+ 
+Role Senior expert Medior/junior expert 
+Lead expert 1 - 
+Geophysical campaign 1 1 
+Geotechnical campaign 1 1 
+Ground Model 1 1 
+Morphological study 1 1 
+PM support* - 1 
+Document controller* - 1 
+Table 1: Required experts per position for soil 
+*These persons will not be assessed 
+ 
+It should be clear in the project plan who the above mentioned main persons per position 
+are and which persons are offered as back-up per position. 
+ 
+It is envisaged that no more than 3 persons from the expert group will participate in the 
+weekly meetings with the site study Contractors in order to make sure the meetings stay 
+effective. Other experts can be consulted outside of these meetings when necessary. The 
+participation of the specialist experts in meetings is to be agreed at the start of the 
+project. In this way the interfaces can be kept to a minimum and no information is lost 
+throughout studies and within the core team. 
+ 
+3. Schedule of Key Dates 
+At this moment Contracting Authority anticipates that the geophysical and geotechnical 
+surveys will be executed covering a Wind Farm Site suitable for 2000 MW (IJmuiden Ver 
+sector 5 and 6). A best estimate of the planning of activities is given below: 
+ 
+ 
+Planning geophysical survey: 
+Procurement geophysical survey   Q4 2021 
+Earliest mobilisation:     Q1 2022 
+Finalisation offshore work    Q2 2022 
+Reporting (including draft CPT-BH plan)  Q3 2022 
+Support in additional questions from the market and  
+disclosure information of the market:    Q4 2022 
+ 
+Planning geotechnical survey: 
+Procurement geotechnical survey   Q2 2022 
+Finalisation SoW and CPT-BH plan    Q1 2023 
+Earliest mobilisation:     Q1 2023 
+Latest completion offshore work    Q3 2023 
+ 
+  
+ 
+ Page 13 of 13 
+ 
+Latest finalisation reporting      Q3 2024 
+Support in additional questions from the market and  
+disclosure information of the market:    Q4 2024 
+ 
+Planning integrated ground model: 
+Procurement ground model    Q4 2021 
+Start data integration     Q2 2022 
+End data integration     Q2 2024 
+Reporting      Q3 2024 
+Support in additional questions from the market and  
+disclosure information of the market:    Q4 2024 
+ 
+Planning morphological study: 
+Procurement morphological study IJV I-IV  Q4 2021 
+Executing study IJV I-IV    Q2 2022 
+Reporting IJV I-IV     Q3 2022 
+Support in additional questions from the market and  
+disclosure information of the market:    Q4 2022 
+ 
+Procurement morphological study IJV V-VI  Q4 2023 
+Executing / Reporting IJV V-VI   Q2 2024 
+Reporting IJV V-VI     Q3 2024 
+Support in additional questions from the market and  
+disclosure information of the market:    Q4 2024
+
+=== Document: annex 5b ijv_20210702_rvo_qew_sow wind_water expert support_f ===
+Date 7/2/2021 
+Status Final 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Site Studies Wind Farm Zone 
+IJmuiden Ver 
+ 
+Expert support wind & water 
+ 
+Annex 5b  
+ 
+Scope of Work 
+ 
+  
+ 
+ Page 2 of 12 
+ 
+Colophon 
+Project name Expert support IJmuiden Ver Wind Farm Zone (IJVWFZ) 
+Project number WOZ 
+Version Final 
+File name Annex_5b_–_Scope_of_Work 
+Project manager  
+Contact   
+  
+Annex(es)  
+Author M. Vrolijk, P. Lebbink 
+Reviewed M. Brijder 
+Approved M. Brijder 
+ 
+ 
+  
+ 
+ Page 3 of 12 
+ 
+Contents 
+ 
+Introduction .......................................................................................................... 4 
+1. Project set-up ................................................................................................. 6 
+2. Roles and Responsibilities ................................................................................. 8 
+3. Schedule of Key Dates ................................................................................... 12 
+ 
+ 
+  
+ 
+  
+ 
+ Page 4 of 12 
+ 
+Introduction  
+Scope document 
+This document details the Scope of Work for wind & water expert support services for 
+Ijmuiden Ver Wind Farm Zone (IJVWFZ). 
+ 
+Background 
+The Ministry of Economic Affairs is responsible for the legislative framework for the 
+development of offshore wind farms in the Netherlands. Within this framework (a) 
+(concession) tender(s) for subsidy for construction and operation of (a) wind farm(s) will 
+be organized. As part of the tender documentation, the participants will receive an 
+information package in which detailed information on the offshore site is included. 
+Detailed information about soil and wind & water conditions at the site will be part of this 
+information package. The Contracting Authority for this assignment is the Netherlands 
+Enterprise Agency (Rijksdienst voor Ondernemend Nederland (RVO). 
+ 
+Objective 
+RVO has been requested to prepare and collect all site data required for commercial 
+developers to prepare a competitive bid. In order to achieve the highest results from the 
+siteinvestigations, RVO intends to contract high quality experts who can support RVO in 
+managing the site investigations. The objective of this tender is conclude an agreement 
+with Tenderers who can support RVO on the different site investigations regarding 
+contracting, quality control and operational support.  
+ 
+RVO is looking for an expert support Contractor who can support RVO with managing the 
+site investigations (some for IJVWFS I-IV, mainly for IJVWFS V-VI) and the interfaces 
+between the site investigations. RVO is specifically looking for expertise in the field of soil 
+investigations (Lot 1) and wind & water investigations (Lot 2). 
+ 
+This scope of work is part of Lot 2: expert support services for wind & water 
+investigations.  
+ 
+Site Description 
+The IJVWFZ located 80 kilometres off the west coast of the Netherlands. The IJVWFZ 
+consists of six Wind Farm Sites (see Figure 1). IJVWFS I-IV are currently being developed 
+by RVO by means of site investigations. IJVWFS V and VI will now being developed as well. 
+The wind&water investigations will comprise the complete IJVWFS I-VI.  
+ 
+ 
+  
+ 
+ Page 5 of 12 
+ 
+ 
+ 
+Figure 1: Wind Farm Sites within the IJmuiden Ver Wind Farm Zone 
+ 
+  
+
+ 
+  
+ 
+ Page 6 of 12 
+ 
+ 
+Scope of Work 
+ 
+The Contracting Authority intends to conclude the contract with one contractor, in order to 
+manage the interfaces  regarding  the studies below adequately.  
+ 
+For expert support during the wind & water investigations for the IJVWFZ, the following 
+expertise is requested for the following tasks:  
+1. Metocean measuring campaign  
+2. Client representatives metocean campaign  
+3. Metocean desk study and database  
+4. Wind Resource Assessment (WRA)  
+ 
+ 
+This scope of work is divided in 3 sections; 
+1. Project set-up 
+2. Roles and responsibilities 
+3. Schedule and key dates 
+ 
+1. Project set-up  
+The IJmuiden Ver Wind and Water  package for the IJV WFZ will contain the site 
+characterisation studies as indicated in Figure 2. 
+ 
+Figure 2: Wind and Water site characterization package 
+ 
+RVO will manage the wind and water site characterization for the IJV WFZ, hereafter called 
+PROJECT. Expert support will be required to assist the RVO team with in-depth knowledge. 
+ 
+To visualize the PROJECT team set up an organization chart is presented in Figure 3.  
+ 
+
+ 
+  
+ 
+ Page 7 of 12 
+ 
+ 
+Figure 3: Organization chart IJmuiden Ver Wind and Water  
+Items marked in red are presenting the areas where in-depth knowledge support by 
+external experts is requested by means of this SOW.  
+ 
+The PROJECT organization will be built under supervision of a package manager from 
+RVO. The package manager will be responsible for interfaces between studies, overall 
+planning and overall budget.   
+In addition to the package manager from RVO there will be multiple RVO project 
+managers assigned to the PROJECT to manage the individual studies. A single RVO 
+project manager can be assigned to multiple studies and can be adjusted during the 
+PROJECT. 
+ 
+The expert support Contractor is expected to supply lead expert(s) and specialists in the 
+sectors as presented in Figure 3. The lead expert will need overall knowledge to 
+participate into the different studies and to advise the RVO package manager where 
+necessary. The main task of the lead expert will consist of interfacing between the 
+studies. For in-depth discussions, reviews and support through the PROJECT the lead 
+expert (and the RVO project managers) can call in the specialist experts. For detailed 
+roles and responsibilities of the requested expert support reference is made to section 2 
+of this SOW. 
+ 
+Aim of the project set up as described is to optimize the interfaces and optimize the use 
+of the specialist knowledge. 
+ 
+During the execution of the PROJECT all the communication between the different parties 
+as described above and site study Contractors will be managed by the RVO project 
+manager. The communication lines are visualized in Figure 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RVO - Wind and Water Package
+Package Manager
+Metocean 
+measuring campaign 
+RVO Project 
+manager 
+Contractor
+Project team
+Expert Support
+Offshore Repl
+Expert support 
+Specialist
+Metocean desk 
+study
+RVO Project 
+manager
+Contractor
+Project team
+Expert support
+Specialist
+Wind Resource 
+Assessment 
+RVO Project 
+manager 
+Contractor
+Project team
+Expert support
+Specialist
+Expert Support
+Lead Expert 
+ 
+  
+ 
+ Page 8 of 12 
+ 
+      
+Figure 4: Communication lines 
+Note: If required during the PROJECT direct communication lines can be established 
+between the Experts and site study Contractors upon discretion of the RVO project 
+manager(s).    
+ 
+2. Roles and Responsibilities  
+This section describes the roles and responsibilities for the expert support during the 
+PROJECT. 
+ 
+Lead expert (approximately 500 h)  
+This expert must have knowledge in Metocean desk studies, Metocean measuring 
+campaigns and wind resource assessments. The lead expert will be the interface during 
+progress meeting with RVO and the site study Contractors. The lead expert shall be 
+capable to participate during the calls as representative of all specialist experts. The lead 
+expert should be able to answer questions related to the studies or be able to capture the 
+essence and transfer them to the experts to arrange follow up.  
+To improve interfaces and consistency it is important that a single lead expert will 
+supervise and participate in all studies together with the RVO project managers.  
+ 
+If required a deputy (temporary) lead expert can be assigned to support the lead expert 
+during absence or when workload requires.  
+ 
+Required know-how; the lead expert will need to have general knowledge regarding 
+metocean campaigns and wind resource assessments within of the North Sea. For 
+detailed in-depth knowledge the lead expert can consult the specialist experts in the 
+team, but the lead expert will need the following required know-how; 
+ 
+a. Project management and interface skills; 
+b. The general meteorological and oceanographic conditions preferably in the North 
+Sea; 
+c. State of the art methods and equipment for metocean data acquisition by using 
+LiDAR based measuring systems; 
+d. Insight in the metocean data required for wind farm engineering design and 
+planning of vessel operations; 
+RVO 
+Project 
+Manager 
+RVO 
+Package 
+manager 
+Study 
+Contractors
+Lead 
+Expert
+Experts
+ 
+  
+ 
+ Page 9 of 12 
+ 
+e. Assessing data of metocean measuring campaigns (meteorology, physics). 
+ 
+Activities and responsibilities (but not limited to) 
+• Participate in meetings related to Wind resource assessment, Metocean 
+campaigns, Metocean desk study and offshore operations; 
+• During the meetings it is expected that the lead expert can represent the expert 
+group and participate in discussions;  
+• Manage interfaces between studies, experts and RVO; 
+• The lead expert will have to share information between the teams so that  all 
+experts have all the required information. When questions arise the lead expert 
+will arrange follow up with the correct party;  
+• Quality assurance and quality control;  
+• Participate in webinars; 
+• Drafting the scope of work for contractors to execute the studies; 
+• Assessing the contractor’s bids.  
+ 
+Expert support contractors are requested to offer one senior expert for the lead expert 
+position. Additional experts offered will be assessed as back-up experts.   
+ 
+ 
+Specialist Expert Metocean measuring campaign (approximately 1,500 h) 
+RVO is considering to contract a site study Contractor to execute a Metocean measuring 
+campaign for IJVWFZ with multiple floating LiDAR systems. The dataset will cover a 24-
+month period (QX 2022-QX 2024). Reports with the floating LiDAR data are delivered 
+regularly and at the end of the reporting period. Support during tender process for the 
+metocean campaign is included in this SOW.  
+ 
+The expert(s) must have experience in acquiring metocean data for offshore wind farms, 
+preferably in the North Sea. 
+ 
+Required know-how: 
+a. The meteorological and oceanographic conditions in the North Sea; 
+b. State of the art methods and equipment for metocean data acquisition by 
+using LiDAR based measuring systems; 
+c. Insight in the metocean data required for wind farm engineering design 
+and planning of vessel operations; 
+d. Assessing and interpretation of data of metocean measuring campaigns 
+(meteorology, physics). 
+ 
+Activities (but not limited to): 
+• Preparation of the procurement documents for Metocean campaign 
+tender;  
+• Review and evaluate proposals of the metocean campaign tender; 
+• Support in managing the Metocean campaign: check the planning, assist 
+in document control (including check on required actions from progress 
+meetings); 
+• Review of data and (validation) reports (certification) of the deployed 
+metocean systems;  
+• Quality assurance and quality control including providing a Statement of 
+Compliance as a quality certificate that the metocean data is in 
+conformance with industry standards and fir for purpose, after review of 
+the data and data (validation) reports; 
+• Attend progress meetings with the Metocean campaign contractor; 
+ 
+  
+ 
+ Page 10 of 12 
+ 
+• Disclosure of information to the market (publication at 
+offshorewind.rvo.nl, contribution to the project and site description, 
+market questions, webinars, etc.). 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+ 
+Client representatives (approximately 400 h) 
+The experts must have a training as Client REP, understanding of contract law, project 
+documentation and HSE with a valid BOSIET and medical (or equal) as minimum. 
+ 
+Required know-how: 
+a. Method Statements for deploying / recovering / lifting / towing 
+buoys/platforms; 
+b. State of the art methods and equipment for metocean data acquisition by 
+using LiDAR based measuring systems. 
+ 
+Activities (but not limited to): 
+• Review of Method Statements, Operational reports and other 
+documentation from the Metocean campaign Contractor; 
+• Attending kick-off meetings at locations before operations for deployment 
+or recovery of buoys; 
+• Presence as Client Representative during offshore operations for 
+maintenance, deployment, recovery or inspections or other of the 
+metocean buoy(s); 
+• Reporting on the operations. 
+ 
+The offshore operations are usually planned at short notice and are single day work 
+executed with small vessels. Expert contractors are requested to offer three available 
+senior experts. Additional experts offered will be assessed as back-up experts .  
+ 
+ 
+Specialist Expert Metocean desk study and database (approximately 800 
+h)  
+The purpose of the metocean desk study (MDS) is to provide the meteorological and 
+oceanographic (metocean) conditions to serve as input for the design, installation and 
+maintenance of wind turbines, inter array cables, substations and their support structures 
+at planned Wind Farm Zones.  
+ 
+The analysis is based on the best available data sources, to be carried out with state-of-
+the-art methods. The results (i.e. tables, graphs) will be made available through reports 
+and a digital metocean database that will enable obtaining output at any requested (x, y) 
+location within the site boundaries of IJmuiden Ver.  
+ 
+Required know-how: 
+a. Assessing data of metocean measuring campaigns (meteorology, 
+physics); 
+b. Wave and current modelling and maximum wind and wave conditions and 
+extreme value analysis; 
+c. Insight in the metocean data required for wind farm engineering design; 
+d. Preferably know how of (floating) LiDAR based measurements. 
+ 
+Activities (but not limited to): 
+ 
+  
+ 
+ Page 11 of 12 
+ 
+• Drafting the procurement documents for the metocean desk study tender; 
+• Review and evaluate proposals of the metocean desk study tender; 
+• Technical support in the execution of the metocean desk study and 
+database by the Contractor;  
+• Review of the (draft) reports of the metocean desk study; 
+• Disclosure of information to the market (publication at 
+offshorewind.rvo.nl, contribution to the project and site description, 
+market questions, webinars, etc.). 
+ 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+ 
+ 
+Specialist Expert Wind Resource Assessment (approximately 200 h) 
+A Wind Resource Assessment (WRA) will be based on LiDAR data, corrected to a long-
+term reference. This assessment will make use of existing data sets like the OWEZ and 
+IJmuiden metmast data and the EMD-ConWx mesoscale model dataset as a long-term 
+reference.  
+ 
+Required know-how: 
+a. Assessing and interpreting wind resources for offshore wind energy 
+purposes (meteorology, physics); 
+b. Assessing the wind climate of the North Sea; 
+c. Preferably with know-how of (floating) LiDAR based Wind Resource 
+Assessments. 
+ 
+Activities:  
+• Drafting the procurement documents for the Wind Resource Assessment  
+tender; 
+• Review and evaluate proposals of the Wind Resource Assessment tender; 
+• Technical support in the execution of the Wind Resource Assessment by 
+the site study Contractor; 
+• Review of the Wind Resource Assessment deliverables;  
+• Disclosure of information to the market (publication at 
+offshorewind.rvo.nl, contribution to the project and site description, 
+market questions, webinars, etc.). 
+ 
+Expert contractors are requested to offer two available experts. One of them should be a 
+senior expert and one should be a medior or junior expert. Additional experts offered will 
+be assessed as back-up experts.   
+  
+ 
+Role Senior expert Medior/junior expert 
+Lead expert 1 - 
+Metocean campaign 1 1 
+Client representatives 3 - 
+Metocean desk study 1 1 
+Wind resource assessment 1 1 
+ 
+It should be clear in the project plan who the above mentioned main experts per position 
+are and which experts are offered as back-up per position. 
+ 
+ 
+ 
+  
+ 
+ Page 12 of 12 
+ 
+3. Schedule of Key Dates 
+ 
+Planning metocean Campaign: 
+Select contractor for metocean campaign  Q1 2022 
+Start metocean campaign    Q2 2022 
+Reporting       Q2 2023 and Q2 2024 
+ 
+Planning Metocean desk study and database:   
+Select contractor for metocean report and database Q1 2023 
+Start metocean report and database   Q2 2023 
+Reporting       Q1 2024 
+ 
+Planning Wind Resource Assessment:   
+Select contractor for wind resource assessment  Q1 2023 
+Start wind resource assessment   Q2 2023 
+Reporting       Q1 2024

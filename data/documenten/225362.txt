@@ -1,0 +1,1139 @@
+=== Document: rapport aa en maas (pilot) ===
+Opbouw en kalibratie 
+conceptueel model 
+Vossenbeemd en Aa 
+april 2019 
+dr. ir. Evert Vermuyten 
+dr. ir. Vincent Wolfs 
+prof. dr. ir. Patrick Willems 
+ 
+AFDELING HYDRAULICA 
+
+ 
+INHOUD | 3 
+Inhoud 
+1 Kalibratie en validatie events ................................................................................ 7 
+2 Vossenbeemd model .............................................................................................. 8 
+2.1 Methodologie .................................................................................................. 8 
+2.2 Modelopbouw ................................................................................................. 8 
+2.3 Resultaten ..................................................................................................... 10 
+3 Aa model ................................................................................................................ 13 
+3.1 Methodologie ................................................................................................ 13 
+3.2 Modelopbouw ............................................................................................... 13 
+3.3 Resultaten ..................................................................................................... 15 
+4 Koppeling modellen Vossenbeemd en Aa ......................................................... 18 
+5 Simuleren van het conceptueel model ............................................................... 19 
+5.1 Grafische gebruikersinterface model Vossenbeemd.................................... 19 
+5.2 Finaal opgeleverd model .............................................................................. 20 
+5.2.1 Installatie en uitvoeren van simulaties via de command line ............. 20 
+5.2.2 Definiëren van randvoorwaarden ....................................................... 24 
+6 Bijlage A: Problematiek 2D fluxen ...................................................................... 27 
+
+ 
+INLEIDING | 5 
+Inleiding 
+De methode voor opbouw en kalibratie van een conceptueel model werd in dit project  
+toegepast op een deel van het stroomgebied Aa en Maas. Er is gebruik gemaakt van twee 
+SOBEK modellen, ter beschikking gesteld door het Waterschap Aa e n Maas. Het eerste 
+model bevat het bovenstroomse deel van de Aa, weergegeven in het groen in Figuur 1. Dit 
+deel omvat de bergingsgebieden van Starkriet, Diesdonk, Groene Peelvallei en Bakelse 
+Beemden en wordt hierna ‘Vossenbeemd mod el’ genoemd. Het tweede model bevat het 
+benedenstroomse deel van de Aa, startend ter hoogte van Helmond en eindigend ter 
+hoogte van ’s Hertogenbosch waar het overgaat in de Maas.  Dit deel wordt hierna ‘Aa 
+model’ genoemd en is in het blauw weergegeven in Figuur 1. Het Aa model bevat de 
+bergingsgebieden van Ham Havelt, het Dynamisch Beekdal en de Vughtse Geme nt 
+(Howabo). De opzet van het project is om aan de hand van een rekenefficiënt conceptueel 
+model het debiet ter hoogte van ’s Hertogenbosch te voorspellen (link AM_2011450_29).  
+ 
+ 
+Figuur 1: Overzicht van het gemodelleerde gebied 
+
+
+ 
+KALIBRATIE EN VALIDATIE EVENTS | 7 
+1 Kalibratie en validatie events 
+Voor het opstellen van conceptuele modellen dienen verschillende neerslagperiodes 
+beschouwd te worden om de werking van het model in verschillende omstandigheden 
+correct te kunnen modelleren. Voor dit project is gebruik gemaakt van zogenaamde 
+‘blokbuien’, aangeleverd door het Wa terschap Aa en Maas.  Deze blokbuien bestaan uit 
+een droge periode  gevolgd door een drie dagen durende periode waarbij een vaste 
+hoeveelheid neerslag valt.  Een overzicht van de gebruikte kalibratie en validatie events 
+wordt weergegeven in Tabel 1. Voor het Aa model is gebruik gemaakt van 6 kalibratie en 
+4 validatie events. Voor het Vossenbeemd zijn alleen de events met lage Maasstand 
+gebruikt, aangezien de stand van de Maas geen invloed heeft op dit deel van het netwerk. 
+Dit resulteer in 3 kalibratie en 2 validatie events voor het Vossembeemd model. 
+ 
+Tabel 1: Overzicht kalibratie en validatie events 
+Naam Omschrijving Gebruik 
+E30 Blokbui met 30mm neerslag en lage Maasstand Validatie 
+E31 Blokbui met 50mm neerslag en hoge Maasstand Validatie 
+E50 Blokbui met 50mm neerslag en lage Maasstand Kalibratie 
+E51 Blokbui met 50mm neerslag en hoge Maasstand Kalibratie 
+E100 Blokbui met 100mm neerslag en lage Maasstand Validatie 
+E101 Blokbui met 100mm neerslag en hoge Maasstand Validatie 
+E150 Blokbui met 150mm neerslag en lage Maasstand Kalibratie 
+E151 Blokbui met 150mm neerslag en hoge Maasstand Kalibratie 
+E200 Blokbui met 200mm neerslag en lage Maasstand Kalibratie 
+E201 Blokbui met 200mm neerslag en hoge Maasstand Kalibratie 
+ 
+  
+ 
+8 | VOSSENBEEMD MODEL 
+2 Vossenbeemd model 
+2.1 Methodologie 
+De conceptualisatie van het riviernetwerk start met het maken van een opdeling van het 
+netwerk in verschillende reservoirs, hierna ‘polygonen’ genoemd. Deze polygonen worden 
+in het conceptueel model gemodelleerd als een reservoir, een zogenaamde ‘bak’. Elke bak 
+bevat het volume water dat verva t zit in  het deel van het netwerk begrens d door de 
+polygoon. Deze volumes worden berekend aan de hand van de continuitsvergelijking van 
+alle inkomende en uitgaande debieten in de polygoon. De stromen tussen de verschillende 
+reservoirs worden gemodelleerd aan de hand van transportelementen.  Op basis van het 
+toestand in de op- en afwaartse polygoon wordt het debiet berekend. 
+ 
+De kalibratie en validatie data om het conceptueel model op te bouwen wordt  verkregen 
+uit het Sobek model. Concreet zijn dit alle inkomende en uitgaande debieten per polygoon. 
+De debieten in het 1D netwerk worden verkregen met behulp van Sobek Utilities dat per 
+polygoon de inkomende en uitgaande debieten  exporteert en groepeert.  De fluxen in het 
+2D grid, hierna ‘2D fluxen genoemd kunnen niet rechtstreeks uit Sobek opgevraagd 
+worden. Daarom zijn er eerst zogenaamde ‘line elements’ gedefinieerd waarover de 2D 
+fluxen berekend worden in Sobek. Na de simulaties opn ieuw uit te voeren met dit 
+aangepaste Sobek model, kunnen de 2D fluxen rechtstreeks uit Sobek geëxporteerd 
+worden. De line elements worden gedefinieerd op de polygoonranden waar op basis van 
+de 2D overstromingskaarten 2D fluxen ter verwachten zijn. 
+ 
+De verzamelde data wordt vervolgens ingelezen in de Conceptual Model Developer (CMD) 
+tool waarmee het conceptueel model gekalibreerd en opgebouwd zal worden.  
+2.2 Modelopbouw 
+Het riviernetwerk in het Vossenbeemd model is opgedeeld in 6 polygonen.  Deze worden 
+weergegeven in Figuur 2. Voor de 2D fluxen te bepalen zijn 7 line elements gedefinieerd, 
+zie Figuur 3. 
+ 
+ 
+VOSSENBEEMD MODEL | 9 
+ 
+Figuur 2: Indeling Vossenbeemd model 
+ 
+Figuur 3: Line elements Vossenbeemd model 
+De waterbalansen opgesteld op basis van de 1D debieten uit Sobek Utilities en de 2D 
+fluxen met behulp van de line elements vertoonden een realistisch verloop, behalve voor 
+polygoon 4 (oranje polygoon in Figuur 2), zie Figuur 4. Door een overschatting van de 
+uitgaande 2D flux over de dijk van het bergingsgebied Bakelse Bemden dook het volume 
+in deze polygoon sterk onder nul tijdens de bui, terwijl de resultaten van de waterpeilen 
+aantoonden dat het wachtbekken gevuld was tijdens dezelfde periode.  Daarom werd het 
+debiet over line element 7 (roze in Figuur 4) gecorrigeerd met een factor 0.82  om zo een 
+volumeverloop te krijgen gelijkaardig aan het verloop van het waterpe il in het 
+bergingsgebied. 
+
+ 
+10 | VOSSENBEEMD MODEL 
+ 
+ 
+Figuur 4: Onrealistische verloop van het volume van polygoon 4 Vossenbeemd model 
+Voor het modelleren van de debieten tussen de verschillende polygonen en de uitgaande 
+debieten afwaarts in het netwerk is  gebruik gemaakt van VQ relaties.  Deze stuksgewijs 
+lineaire relaties bepalen het uitgaande debiet van een polygoon op basis van het volume 
+in de polygoon aanwezig op dat moment.  Deze aanpak was hier mogelijk aangezien het 
+volledige netwerk opwaarts bepaald  is en er geen beïnvloeding is van afwaarts  
+(zogenaamde ‘backwater effects ’). Bovendien zit de regeling van de hydraulische 
+structuren hier impliciet in vervat.  Dit was mogelijk doordat de bergingsgebieden allemaal 
+in de rivierbedding zelf lagen, zogenaamd e inline bergingsgebieden, en de eenvoud van 
+de regelaars. 
+2.3 Resultaten 
+Ter illustratie toont Figuur 5 het debiet aan de uitlaat van het bergingsgebied Diesdonk en 
+Figuur 6 de 2D flux over de bijhorende dijk.  Voor de 2D flux zijn in  Sobek alleen de 
+resultaten voor de kalibratie events beschikbaar. Beide debieten zijn gemodelleerd aan de 
+hand van een VQ relatie  en tonen een goede benadering  van de Sobek resultaten . Deze 
+resultaten zijn representatief voor de resultaten in de rest van het netwerk. 
+ 
+
+ 
+VOSSENBEEMD MODEL | 11 
+ 
+Figuur 5: Resultaten debiet uitlaat Diesdonk 
+ 
+Figuur 6: Resultaten 2D flux over dijk Diesdonk 
+De resultaten voor de afwaartse debieten van het Vossenbeemd model zullen  als input 
+aangelegd worden aan het Aa model om het debiet ter hoogte van ’s Hertogenbosch te 
+bepalen. De resultaten voor h et meest bepalende debiet ( 2570009_b) worden 
+weergegeven in Figuur 7. Ook hier wordt een goede benadering van  het Sobek resultaat 
+bekomen. 
+ 
+
+ 
+12 | VOSSENBEEMD MODEL 
+ 
+Figuur 7: Resultaten afwaarts debiet Vossenbeemd model 
+  
+
+ 
+AA MODEL | 13 
+3 Aa model 
+3.1 Methodologie 
+Voor het Aa model werd initieel dezelfde methodologie toegepast als voor het 
+Vossenbeemd model. Tijdens de uitvoering h iervan werd echter vastgesteld dat de 2D 
+fluxen niet correct bepaald konden worden in Sobek. Daar deze 2D fluxen een 
+belangrijkere rol spelen in het Aa model dan in het Vossenbeemd model was het niet 
+mogelijk om de oorspronkelijke methodologie aan te houden voor het Aa model en is een 
+nieuwe methodologie toegepast. De problematiek in verband met de 2D fluxen wordt 
+besproken in bijlage. De finaal toegepaste methodologie wordt hieronder toegelicht.  
+ 
+Het conceptueel model van de Aa is opgebouwd als een ‘single reservoir model’. Dergelijke 
+aanpak kan gebruikt worden om het debieten op een bepaalde plaats in het netwerk te 
+bepalen, zoals hier gevraagd is.  Concreet wordt het netwerk opwaarts van de locatie 
+waarop het debiet bepaald moet worden in 1 polygoon opgenomen. Dit heeft als gevolg 
+dat de bergingsgebieden in dit deel van het netwerk niet expliciet gemodelleerd worden, 
+alsook de bijhorende hydraulische structuren. Er wordt met andere woorden modeldetail 
+verloren. Het gedrag van het netwerk, en dus ook van de bergingsgebieden, wordt echter 
+impliciet in rekening gebracht bij het bepalen van de afwaartse debieten.  Om dit te 
+bekomen worden complexere modelstructuren toegepast dan de VQ relaties die in het 
+Vossenbeemd zijn toegepast. Concreet gaat het hier over neurale netwerken die het debiet 
+bepalen op basis van verschillende randvoorwaarden en variab elen verspreid over het 
+netwerk. 
+3.2 Modelopbouw 
+Figuur 8 toont de indeling van het Aa model. Zoals besproken in de vorige paragraaf is het 
+hele n etwerk opwaarts van de gevraagde locatie (link AM_2011450_29) in 1 polygoon 
+opgenomen. De grenzen van deze polygoon zijn zodanig gekozen dat er geen 2D fluxen 
+mogelijk zijn over de randen er van. Op die manier dienen er geen correcties toegepast te 
+worden van de (foutieve) 2D fluxen uit Sobek en kan het volume in de polygoon exact 
+bepaald worden. 
+ 
+ 
+14 | AA MODEL 
+ 
+Figuur 8: Indeling Aa model 
+De finale modelstructuur van het Aa model bestaat uit 1 polygoon en 2 uitgaande debieten, 
+zie Figuur 9. Enerzijds is dit het gevraagde debiet in de Aa ter hoogte van ’s Hertogenbosch 
+(groene pijl), anderzijds is dit het debiet dat via de Rosmalense Aa wordt afgevoerd naar 
+de Maas (rode pijl). 
+ 
+ 
+Figuur 9: Detail afwaartse begrenzing conceptueel model Aa 
+Beide debieten worden gemodelleerd aan de hand van een neuraal netwerk.  Dit neuraal 
+netwerk stelt een verband op tussen verschillende variabelen in het netwerk en het  
+gemodelleerde debiet . Ter illustratie toont Figuur 10 een voorbeeld van een neuraal 
+netwerk met twee afhankelijkheden (waterstand in de Maas en volume in het reservoir) 
+voor het gevraagde debiet.  De finaal toegepaste neurale netwerken hebben 4 
+afhankelijkheden. Naast de waterstand in de Maas en het volume in de polygoon zijn dit 
+het inkomende debiet en het gemiddelde inkomende debiet van de afgelopen 36 uur.  
+
+ 
+AA MODEL | 15 
+ 
+Figuur 10: Neuraal netwerk met 2 afhankelijkheden 
+3.3 Resultaten 
+Figuur 11 toont de resultaten voor het debiet in de Aa ter hoogte van ’s Hertogenbosch 
+(link AM_2011450_29).  De algemene vorm van het debiet wordt goed benaderd. De 
+scherpe pieken die in Sobek voorkomen komen niet terug in de resultaten van het 
+conceptueel model. Dit is echter te verwachten met de ruwere aanpak die hier is toegepast. 
+Bovendien kan de vraag gesteld worden of het wel wenselijk is om de zeer scherpe pieken 
+uit SOBEK zeer nauwkeurig te benaderen, aangezien die ook veroorzaakt kunnen zijn door 
+modelinstabiliteiten of zeer specifieke stuwregelingen. 
+ 
+ 
+Figuur 11: Resultaten debiet in Aa ter hoogte van ’s Hertogenbosch 
+
+ 
+16 | AA MODEL 
+Figuur 12 en Figuur 13 tonen de berekende cumulatieve afvoerdebieten ter hoogte van ’s 
+Hertogenbosch over de link ‘AM_2011450_29’ voor respectievelijk de gebeurtenissen met 
+30 en 200 mm in combinatie met een hoge Maasstand. Zoals te zien is op Figuur 12 
+ontstaat er rond uur 100 een afwijking tussen b eide modellen voor de gebeurtenis “E31”. 
+De afwijking blijft nagenoeg constant, en in de grootteorde van circa 5%. Deze afwijking 
+ontstaat doordat het conceptueel model de zeer snelle en bijzonder grote 
+debietsschommelingen uit het SOBEK model niet volledi g volgt (zie ook Figuur 11 bij 
+gebeurtenis “E31”). Belangrijk is evenwel dat de afwijking niet verder toeneemt, wat 
+aangeeft dat het debiet verder wel zeer goed benaderd wordt. De afwijking wordt daarom 
+als aanvaardbaar beschouwd. 
+ 
+ 
+Figuur 12: Cumulatief volume over link ‘AM_2011450_29’ te ’s Hertogenbosch voor de blokbui van 
+30 mm in combinatie met hoge Maas (=event ‘E31’). 
+Figuur 13 toont het cumulatief volume op dezelfde locatie, m aar voor de meer extreme 
+gebeurtenis “E201”. Deze gebeurtenis omvat een blokbui van 200 mm verspreid over 3 
+dagen in combinatie met een hoge Maasstand. Uit deze figuur blijkt dat de afwijkingen zeer 
+beperkt blijven. Eventuele verschillen in ogenblikkelijke  debieten (zie Figuur 11 ter hoogte 
+van gebeurtenis “E201”) zijn dus niet meer zichtbaar op de figuur van de cumulatieve 
+volumes. 
+
+ 
+AA MODEL | 17 
+ 
+Figuur 13: Cumulatief volume over link ‘AM_2011450_29’ te ’s Hertogenbosch voor de blokbui van 
+200 mm in combinatie met hoge Maas (=event ‘E201’). 
+ 
+  
+
+ 
+18 | KOPPELING MODELLEN VOSSENBEEMD EN AA 
+4 Koppeling modellen Vossenbeemd en Aa 
+Na kalibratie van beide modellen, werden deze aan elkaar gekoppeld. Op die manier 
+vormen de outputs van het model van Vossenbeemd de inputs van het model van de Aa. 
+Tabel 1 vat de links samen die gekoppeld worden. Concreet zijn er 6 uitgaande links van 
+het Vossenbeemd model die als input fungeren als voor het Aa model. Deze koppeling 
+gebeurt intern binnen het opgeleverde conceptuele model van het ganse stroomgebied, en 
+moet dus niet expliciet opgegeven worden door de eindgebruiker. 
+ 
+Het model van Vossenbeemd rekent met een tijdstap van 30 minuten, terwijl het model van 
+de Aa een uurlijkse tijdstap gebruikt. De rekenresultate n van het Vossenbeemd model 
+worden bijgevolg geaggregeerd tot uurlijks niveau vooraleer deze aangelegd worden aan 
+het Aa model. Deze aggregatie gebeurt eveneens intern in het conceptueel model.  
+ 
+Tabel 1: Koppeling modellen Vossenbeemd en Aa. 
+Output Vossenbeemd model Input Aa model 
+2030240_b Aa95 
+2011480_b Aa2011530_b 
+2570009_b Aa32 
+2610170_b AaFXCL11060 
+2610079_b Aa2530021_b 
+CONN2369 AaCONN2363 
+ 
+De overige randvoorwaarden (inkomende debieten aan het model van Vossenbeemd en 
+de Aa; en een waterstand van de Maas voor het Aa model) worden apart opgelegd aan 
+het conceptueel model. Dit wordt uitvoeriger besproken in §5.2.2. 
+ 
+ 
+ 
+ 
+ 
+ 
+SIMULEREN VAN HET CONCEPTUEEL MODEL | 19 
+5 Simuleren van het conceptueel model 
+5.1 Grafische gebruikersinterface model Vossenbeemd 
+Het finale gekoppelde model van Vossenbeemd en Aa werd enkel als 
+aanstuurbare executable opgeleverd om de beoogde stochastenanalyse te 
+vereenvoudigen. Deze procedure wordt beschreven in §5.2. 
+ 
+Om simulaties met het model Vossenbeemd uit te voeren is een Graphical User Interface 
+(GUI) opgebouwd  (Figuur 14). In deze GUI dient de gebruiker de folder met de input 
+bestanden te selecteren en de folder waarnaar hij de resultaten wil wegschrijven. Op deze 
+manier kunnen verschillende events in 1 keer doorgerekend worden.  
+ 
+ 
+Figuur 14: Graphical User Interface conceptuele modellen 
+De inputreeksen dienen doorgegeven te worden in excel formaat. Deze excel file bevat de 
+tijdreeksen die aangelegd dienen te worden als randvoorwaarden. Een voorbeeld wordt 
+gegeven in Figuur 15. De resultaten worden in hetzelfde formaat weggeschreven. 
+ 
+
+ 
+20 | SIMULEREN VAN HET CONCEPTUEEL MODEL 
+ 
+Figuur 15: Voorbeeld input excel    
+ 
+5.2 Finaal opgeleverd model 
+Het finale model dat de koppeling omvat tussen de modellen van Vossenbeemd en Aa 
+werd opgeleverd in de vorm van een aanstuurbare executable. Op die manier kan de 
+beoogde stochastenanalyse op een automatische manier uitgevoerd worden.  
+5.2.1 Installatie en uitvoeren van simulaties via de command line 
+ 
+De executable vereist het installeren van MATLAB MCR framework 2017b (v9.3). Het is 
+belangrijk dat versie 2017b (v9.3)  geïnstalleerd wordt en geen meer recente of oudere  
+versie. Dit framework kan gedownload worden vanaf de website van The Mathworks: 
+http://ssd.mathworks.com/supportfiles/downloads/R2017b/deployment_files/R2017b/insta
+llers/win64/MCR_R2017b_win64_installer.exe Voor het installeren van dit framework zijn 
+éénmalig administratorrechten vereist. Nadien kan de executable die het conceptueel 
+model zelf voorstelt geopend worden zonder installatie. Bijgevolg zijn daar ook geen 
+administratorrechten meer voor nodig. 
+ 
+De gebruiker kan gebeurtenissen in het model simuleren door in de command line het 
+model aan te roepen, gevolgd door de paden waar de inputbestanden staan, en de 
+outputbestanden worden weggeschreven. Zoals bij het aanroepen van elke executable 
+moet het pad in de command prompt hetzelfde zijn als de locatie waar de tool (.exe) zelf 
+staat. Dit kan via het commando cd. Vervolgens kunnen via volgend commando 
+gebeurtenissen gesimuleerd worden: 
+
+ 
+SIMULEREN VAN HET CONCEPTUEEL MODEL | 21 
+ 
+Run_CM_Waterschap pad1 pad2 
+ 
+Met pad1 bijvoorbeeld C:\Users\vincent\INPUT 
+ 
+Figuur 16 toont een voorbeeld van het aanroepen van het model.  Dit werd voor dit 
+voorbeeld klaargezet in de map “Test” direct onder de C-schijf, maar dit kan eender waar 
+geplaatst worden. Ook de mappen “INPUT_test” en “OUTPUT_test” kunnen elders 
+geplaatst worden. 
+ 
+ 
+Figuur 16: Voorbeeld van het klaarzetten van de mappen en het aanroepen van het model via de 
+Command Prompt. 
+Wanneer een ongeldige INPUT- of OUTPUT-folder gedefinieerd werd, toont de tool een 
+waarschuwing: zie Figuur 17. 
+ 
+
+ 
+22 | SIMULEREN VAN HET CONCEPTUEEL MODEL 
+ 
+Figuur 17: Voorbeeld van een waarschuwing van een ongeldige INPUT-folder. 
+ 
+Vervolgens analyseert de tool welke inputbestanden klaar staan in de INPUT -folder. De 
+inputbestanden moeten volgende naamgeving hebben: 
+ 
+ Boundaries_Vossenbeemd_XXX.txt 
+ Boundaries_Aa_XXX.txt 
+ 
+Met XXX de naam van een gebeurtenis. Dit mag een zelfgekozen naam zijn. 
+ 
+De tool onderzoekt vervolgens welke gebeurtenissen er (voor beide) modellen gedefinieerd 
+zijn (zie Figuur 18). Al deze gebeurtenissen worden daarna automatisch gesimuleerd.  
+ 
+
+ 
+SIMULEREN VAN HET CONCEPTUEEL MODEL | 23 
+ 
+Figuur 18: Visualisatie van de geïdentificeerde events. De variabele “common_events” verwijst naar 
+de gebeurteni ssen die zowel voor het model van de Aa als het model van de Vossenbeemd 
+gedefinieerd werden. Enkel wanneer de gebeurtenis voor beide modellen opgegeven werd, wordt de 
+simulatie voor die gebeurtenis uitgevoerd. 
+ 
+De tool toont de progressie van deze simulaties (per gebeurtenis): zie Figuur 19. 
+ 
+ 
+Figuur 19: Progressie van de simulatie. 
+Na afloop toont de tool de eventuele gebeurtenissen die niet gesimuleerd konden worden. 
+Merk op dat wanneer een gebeurtenis om een of andere reden niet gesimuleerd kan 
+
+ 
+24 | SIMULEREN VAN HET CONCEPTUEEL MODEL 
+worden (bijvoorbeeld doordat de randvoorwaarden een kolom ontbreken, of verschillend 
+zijn in lengte; zie ook §5.2.2), wordt deze ene gebeurtenis overgeslagen. Op die manier 
+worden de overige gebeurtenissen wel gesimuleerd.  
+ 
+ 
+Figuur 20: Afsluitend bericht na het simuleren van alle geldige gebeurtenissen (input bestanden). 
+Eventuele gebeurtenissen die niet gesimuleerd konden worden, zijn opgesomd onder “error_events”. 
+ 
+5.2.2 Definiëren van randvoorwaarden 
+ 
+De inhoud van de randvoorwaarden is vanzelfsprekend verschillend per model, maar de 
+randvoorwaarden moeten voldoen aan enkele vereisten: 
+ Enkel uurlijkse inputs kunnen gebruikt worden. 
+ De reeksen van beide modellen moeten eenzelfde aantal tijdstippen 
+beschouwen, oftewel even lang zijn. Indien hier niet aan voldaan is, zal de tool 
+een foutmelding tonen. 
+ Als scheidingsteken tussen kolommen moet een tab gebruikt worden. Het aantal 
+decimalen is vrij te kiezen door de gebruiker. Elke kolom moet bovendien even 
+lang zijn. 
+ 
+Het Vossenbeemd model omvat 6 polygonen (zie ook § 2.2). Voor elke polygoon moet er 
+1 inkomende debietreeks als randvoorwaarde opgegeven worden. Dit debiet is de 
+aggregatie van verschillende randvoorwaarden, zoals neerslagafstromingsdebieten of 
+overstortreeksen vanuit verstedelijkt gebied. Het opgeleverde document “Overzicht 
+boundaries per polygoon.xlsx” beschrijft per polygoon de knooppunten uit SOBEK die als 
+randvoorwaarde geaggregeerd moeten worden. Dit aantal loopt sterk uiteen per polygoon: 
+voor polygoon 2 worden bijvoorbeeld 490 knooppunten als input geaggregeerd, terwijl dit 
+er voor polygoon 6 slechts 9 zijn. In totaal moet dit inputbestand bijgevolg 6 tijdreeksen 
+
+ 
+SIMULEREN VAN HET CONCEPTUEEL MODEL | 25 
+omvatten, namelijk een reeks voor elke polygoon. Indien een kleiner of groter aantal wordt 
+aangelegd, toont de tool een foutmelding en onderbreekt deze de simulatie.  
+ 
+Het Aa model daarentegen is een single-reservoir model (zie ook §3.2). Bijgevolg worden 
+quasi alle externe debieten (zoals neerslagafstromingsreeksen) geaggregeerd. Opgelet: 
+de debietreeksen afkomstig uit het Vossenbeemd model moeten niet als randvoorwaarde 
+opgelegd worden. Het model extraheert immers zelf die resultaten uit het Vossenbeemd 
+model, en legt die aan als randvoorwaarde aan het Aa model. Derhalve moeten de 
+knooppunten gedefinieerd in Tabel 1 niet geaggregeerd worden als input. Dit wordt ook 
+geïllustreerd in het opgeleverde bestand “ Boundaries_Aa_E200_uitleg.xlsx”.  Naast de 
+debietreeksen wordt ook het peil van de Maas ter hoogte van knooppunt 
+“AM_CONN10368” opgelegd als randvoorwaarde. Deze afhankelijk heid is immers nodig 
+om de invloed van de Maas op de afvoer van de Aa te kunnen simuleren. In totaal moet dit 
+inputbestand bijgevolg 2 tijdreeksen omvatten, namelijk de waterstand van de Maas in de 
+eerste kolom, en de geaggregeerde debietreeks (exclusief inputs vanuit het Vossenbeemd 
+model) in de tweede kolom. Indien een a nder aantal reeksen wordt aangelegd, toont de 
+tool een foutmelding. 
+ 
+ 
+Figuur 21: Voorbeeld van de INPUT-folder. 
+ 
+De simulatieresultaten worden weggeschreven naar Excels in de gedefinieerde output -
+folder. Deze outputmap moet door de gebruiker opgegeven worden als argument bij het 
+
+ 
+26 | SIMULEREN VAN HET CONCEPTUEEL MODEL 
+aanroepen van de tool.  De resultaten worden uurlijks weggeschreven over de volledige 
+duur van de inputreeks. De tool schrijft zowel d e gesimuleerde debieten als de volumes 
+weg. De resultaten van de modellen van Vossenbeemd en Aa worden apart bijgehouden. 
+In het totaal worden er respectievelijk 35 en 2 debietknooppunten weggeschreven voor de 
+modellen van Vossenbeemd en de Aa, en 6 en 1 volumeknopen.  Deze behouden telkens 
+hun originele naamgeving vanuit het SOBEK model. 
+ 
+ 
+Figuur 22: Voorbeeld van de OUTPUT -folder: alle gesimuleerde debieten en volumes van beide 
+gebeurtenissen zijn hier terug te vinden in .xlsx-formaat. 
+ 
+Tezamen met de modelcode werden voorbeelden opgeleverd om de tool te gebruiken, en 
+de inputbestanden aan te maken.
+
+ 
+BIJLAGEN | 27 
+6 Bijlage A: Problematiek 2D fluxen 
+De 2D fluxen in Sobek werden oorspronkelijk bepaald aan de hand van line elements.  
+Wanneer deze gebruikt werden voor het opstellen van de waterbalans resulteerde dit voor 
+het Vossenbeemd model in realistische verlopen van de volumes, behalve van polygoon 
+4, zie paragraaf 2.2. Mist een kleine correctie van een van de 2D fluxen kon het 
+conceptueel model Vossenb eemd opgesteld worden.  Bij het Aa model bleken deze 2D 
+fluxen echter belangrijker en konden deze niet eenvoudig gecorrigeerd worden  zodoende 
+realistische waterbalansen te bekomen . Deze bijlage bespreekt deze problematiek en de 
+poging die ondernomen is om deze 2D fluxen via een alternatieve methode te bepalen. 
+ 
+Figuur 23 en Figuur 24 tonen respectievelijke de oorspronkelijke indeling in polygonen van 
+het Aa model en de line elements om de 2D fluxen te bepalen.  Wanneer de 2D fluxen uit 
+Sobek echter werden gebruikt om de waterbalansen van de polygonen op te stellen bleek 
+dat deze een onrealistisch verloop vertoonden tijdens de bui. Figuur 25 toont een voorbeeld 
+van een polygoon waarbij het volume een realistisch verloop vertoont bij minder extreme 
+events (waarbij er geen of beperkte 2D fluxen zijn), maar een onrealistisch verloop bij 
+extreme events waar de 2D fluxen een grote rol spelen. Dit duidt er op dat de oorzaak van 
+de onrealistische volume verlopen te wijten is aan de 2D fluxen. 
+ 
+ 
+Figuur 23: Oorspronkelijke indeling Aa model 
+
+ 
+BIJLAGEN | 28 
+ 
+Figuur 24: Oorspronkelijke line elements Aa model 
+ 
+Figuur 25: Onrealistische verloop van het volume wanneer de 2D fluxen uit Sobek worden gebruikt 
+Uit onderzoek van Deltares bleek dat ten gevolge van het aaneengeschakeld gebruik van 
+line elements bepaalde 2D fluxen dubbel geteld werden, waardoor de 2D fluxen overschat 
+werden. Zie nota Del tares voor meer details  hieromtrent. Onder andere deze 
+overschattingen resulteerden in onrealistische waterbalansen wanneer de 2D fluxen 
+bekomen uit Sobek rechtstreeks gebruikt werden om deze op te stellen.  Daarom is 
+gepoogd deze 2D fluxen op een alternatieve manier te bepalen. 
+ 
+Deze alternatieve methode bestaat uit het gecombineerde gebruik van de 1D waterbalans 
+en 2D flood maps  zie Figuur 26. Zolang er geen 2D fluxen worden vastgesteld in de 
+beschouwde polygoon wordt de waterbalans  opgesteld op basis van de 
+continuïteitsvergelijking (opgaande blauwe flank). In deze fase worden zowel 1D 
+volumeverandering als 2D volumeveranderingen in rekening gebracht. Wanneer er een 2D 
+flux wordt vastgesteld in de Sobek resultaten van deze polygoon wordt de 
+volumeverandering in de polygoon bepaald aan de hand van de resultaten in de asci 
+bestanden van de 2D overstromingsdieptekaarten.  In deze fase (grijze piek) worden dus 
+alleen 2D volumeveranderingen in rekening gebracht en geen 1D volumeverandering en. 
+Het 1D volume wordt met andere woorden constant verondersteld.  Wanneer de 2D flux 
+voorbij is in de Sobek resultaten wordt opnieuw overgeschakeld naar het opstellen van de 
+waterbalans aan de hand van de 1D resultaten en worden opnieuw zowel 1D als 2D 
+volumeveranderingen in rekening gebracht  (dalende blauwe flank). Figuur 27 toont in het 
+rood de waterbalans aan de hand van deze gecombineerde aanpak. 
+ 
+
+ 
+BIJLAGEN | 29 
+ 
+Figuur 26: Opstellen waterbalans aan de hand van de 1D waterbalans en 2D flood maps 
+ 
+Figuur 27: Waterbalans opgesteld aan de hand van gecombineerde 1D-2D aanpak (rood) 
+Door het constant veronderstellen van het 1D volume tijdens de grijze fase  wordt echter 
+een fout op het volume bekomen. Het 1D volume zal tijdens deze fase immers niet constant 
+blijven, maar zal ook veranderen.  Dit wordt duidelijk wanneer we het totale volume in het 
+netwerk beschouwen (en de invloed van de 2D fluxen tussen de verschillende polygonen 
+dus kortsluiten), zie Figuur 28. Om deze fout te compenseren en het totale volume in het 
+netwerk correct in te schatten worden de volumereeksen bepaald aan de hand van de 
+gecombineerde 1D-2D aanpak gecorrigeerd. Op elk tijdstip in de tijd wordt de fout op het 
+totale volume in het netwerk bepaald. Deze fout wordt dan verdeeld over de verschillende 
+polygonen waar op dat tijdstip een 2D flux in Sobek is vastgesteld, volgens een 
+verdeelsleutel. Deze verdeelsleutel is opgesteld op basis van het maximale 1D vo lume in 
+elke polygoon voor het minst extreme event (E30). Dit 1D volume is opgesteld op basis 
+van de continuïteitsvergelijking en betrouwbaar geacht gezien de beperkte aanwezigheid 
+van 2D fluxen. Er wordt verondersteld dat dit 1D volume representatief is v oor de 1D 
+volume capaciteit in elke polygoon.  Na deze correctie is het totale volume in het netwerk 
+met de gecombineerde 1D-2D aanpak hetzelfde als met de continuïteitsvergelijking, zie  
+
+ 
+BIJLAGEN | 30 
+ 
+Figuur 28: Vergelijking totale volume in het netwerk aan de hand van de continuïteitsvergelijking 
+(zwart) en de gecombineerde 1D-2D aanpak (rood) 
+  
+ 
+Figuur 29: Vergelijking totale volume in het netwerk aan de hand van de continuïteitsvergelijking 
+(zwart) en de gecombineerde 1D-2D aanpak na correctie (rood) 
+ 
+Op basis van de gecorrigeerde gecombineerde 1D-2D volumes, de 1D debieten en de 
+randvoorwaarden kan met behulp van de continuïteitsvergelijking de bijhorende netto 2D 
+flux bepaald worden per polygoon per tijdstap.  Op basis van deze netto 2D flux kunnen 
+dan de oorspronkelijke 2D fluxen zoals uit Sobek geëxporteerd gecorrigeerd worden. Deze 
+correctie gebeurd door de netto 2D flux correctie te bepalen en deze te verdelen over de
+
+=== Document: tn308952 - sf02 aankondiging van een opdracht 20210416102208 ===
+16/04/2021
+I. II. III. IV. VI.
+- 1 -
+AANKONDIGING VAN EEN OPDRACHT
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Nationale identificatie:
+482071032
+Postadres:
+Postbus 17
+Plaats:
+Lelystad
+NUTS-code:
+NL
+Postcode:
+8200 AA
+Land:
+NL
+Contactpersoon:
+Tim Kievit
+Telefoon:
+-
+E-mail:
+WVL-Aanbestedingsdocumenten@rws.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.rijkswaterstaat.nl
+Adres van het kopersprofiel:
+-
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+I.3) COMMUNICATIE
+De aanbestedingsstukken zijn rechtstreeks, volledig, onbeperkt en gratis beschikbaar op:
+16/04/2021
+I. II. III. IV. VI.
+- 2 -
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/687a0aa8ca7817352d168182c5028676
+Nadere inlichtingen zijn te verkrijgen op
+het hierboven vermelde adres
+Inschrijvingen of aanvragen tot deelneming moeten worden ingediend
+via elektronische weg op:
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/687a0aa8ca7817352d168182c5028676
+het hierboven vermelde adres
+I.4) SOORT AANBESTEDENDE DIENST
+Ministerie of andere nationale of federale instantie, met inbegrip van regionale of plaatselijke
+onderverdelingen
+I.5) HOOFDACTIVITEIT
+• Huisvesting en gemeenschappelijke voorzieningen
+16/04/2021
+I. II. III. IV. VI.
+- 3 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+BOS Hoogwater
+Referentienummer: 31157576
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+73210000 - Advies inzake onderzoek
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Deze opdracht bestaat uit het afleiden van een conceptueel model voor de Aa, Grote Pand
+(deel Wilhelminakanaal en Zuid Willemsvaart), Dieze, Stadsdommel en Drongelens Kanaal
+(zie onderstaand kaartje) dat in basis geschikt is voor verdere ontwikkeling. Wat betreft
+de verdere ontwikkeling moet gedacht worden aan coördineert, zet zaken op ‘de markt’ en
+verzorgt de financiële verantwoording richting opdrachtgever.
+De afstemming tussen de regio’s onderling en tussen regio’s en het landelijk
+programmateam, vindt plaats in het coördinatieteam. Regio overstijgende besluitvorming is
+georganiseerd via een landelijk directeurenoverleg waar elke regio vertegenwoordigd is.
+II.1.5) Geraamde totale waarde
+Waarde zonder btw: - Munt: -
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+16/04/2021
+I. II. III. IV. VI.
+- 4 -
+Perceel nr.: -
+II.2.2) Aanvullende CPV-code(s)
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+-
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+Opdracht betreft een pilot waarbij er na de pilot een eventuele vervolgopdracht plaatsvindt.
+Deze opdracht wordt opnieuw aanbesteed.
+II.2.5) Gunningscriteria
+De onderstaande criteria
+Kwaliteitscriterium
+Naam: EMVI Prijs/Kwaliteit
+Weging: 100
+Prijs
+Weging: 100
+II.2.6) Geraamde waarde
+Waarde zonder btw: - Munt: -
+II.2.7) Looptijd van de opdracht, de raamovereenkomst of het dynamische
+aankoopsysteem
+Aanvang: 01/06/2021
+Einde: 01/10/2021
+Deze opdracht kan worden verlengd: neen
+16/04/2021
+I. II. III. IV. VI.
+- 5 -
+II.2.10) Inlichtingen over varianten
+Varianten worden geaccepteerd: neen
+II.2.11) Inlichtingen over opties
+Opties: neen
+II.2.12) Inlichtingen over elektronische catalogi
+-
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+II.2.14) Nadere inlichtingen:
+-
+16/04/2021
+I. II. III. IV. VI.
+- 6 -
+AFDELING III: JURIDISCHE, ECONOMISCHE, FINANCIËLE EN TECHNISCHE
+INLICHTINGEN
+III.1) VOORWAARDEN VOOR DEELNEMING
+III.1.1) Geschiktheid om de beroepsactiviteit uit te oefenen, waaronder de vereisten
+in verband met de inschrijving in het beroeps- of handelsregister
+Lijst en beknopte beschrijving van de voorwaarden:
+- Geen crimineel verleden
+III.1.2) Economische en financiële draagkracht
+Lijst en beknopte beschrijving van de selectiecriteria:
+-
+Eventuele minimumeisen:
+-
+III.1.3) Technische en beroepsbekwaamheid
+Lijst en beknopte beschrijving van de selectiecriteria:
+-
+Eventuele minimumeisen:
+-
+III.1.5) Informatie over voorbehouden opdrachten
+-
+III.2) VOORWAARDEN MET BETREKKING TOT DE OPDRACHT
+III.2.1) Inlichtingen over een bepaalde beroepsgroep
+-
+III.2.2) Voorwaarden inzake de uitvoering van de opdracht:
+-
+16/04/2021
+I. II. III. IV. VI.
+- 7 -
+III.2.3) Inlichtingen over het personeel dat verantwoordelijk zal zijn voor de
+uitvoering van de opdracht
+-
+16/04/2021
+I. II. III. IV. VI.
+- 8 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.4) Inlichtingen over een beperking van het aantal oplossingen of inschrijvingen
+tijdens de onderhandeling of de dialoog
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: -
+IV.2.2) Termijn voor ontvangst van inschrijvingen of deelnemingsaanvragen
+Datum: 10/05/2021 Plaatselijke tijd: 09:30
+IV.2.3) Geraamde datum van verzending van uitnodigingen tot inschrijving of
+deelneming aan geselecteerde gegadigden:
+Datum: -
+IV.2.4) Talen die mogen worden gebruikt bij het indienen van inschrijvingen of
+aanvragen tot deelneming:
+• NL
+16/04/2021
+I. II. III. IV. VI.
+- 9 -
+IV.2.6) Minimumtermijn gedurende welke de inschrijver zijn inschrijving gestand
+moet doen
+-
+IV.2.7) Omstandigheden waarin de inschrijvingen worden geopend
+Datum: 10/05/2021 Plaatselijke tijd: 09:30
+Plaats:
+-
+Inlichtingen over gemachtigde personen en de openingsprocedure:
+-
+16/04/2021
+I. II. III. IV. VI.
+- 10 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.1) INLICHTINGEN OVER PERIODICITEIT
+Periodieke opdracht: neen
+VI.2) INLICHTINGEN OVER ELEKTRONISCHE WORKFLOWS
+-
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Burgerlijke Rechter te 's-Gravenhage
+Postadres:
+prins clauslaan 60
+Plaats:
+Den Haag
+Postcode:
+2595 AJ
+Land:
+NL
+E-mail:
+klachtenmeldpunt@rws.nl
+Telefoon:
+-
+Internetadres:
+http://www.rechtspraak.nl
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+16/04/2021
+I. II. III. IV. VI.
+- 11 -
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+16/04/2021
+
+=== Document: tn308952 - sf14 kennisgeving van aanvullende informatie, informatie over een onvolledige procedure of rectificatie 20210430170039 ===
+30/04/2021
+I. II. VI. VII.
+- 1 -
+RECTIFICATIE
+KENNISGEVING VAN VERANDERINGEN
+OF AANVULLENDE INFORMATIE
+Diensten
+AFDELING I: AANBESTEDENDE DIENST/INSTANTIE
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Nationale identificatie:
+482071032
+Postadres:
+Postbus 17
+Plaats:
+Lelystad
+NUTS-code:
+NL
+Postcode:
+8200 AA
+Land:
+NL
+Contactpersoon:
+Tim Kievit
+Telefoon:
+-
+E-mail:
+WVL-Aanbestedingsdocumenten@rws.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.rijkswaterstaat.nl
+Adres van het kopersprofiel:
+-
+30/04/2021
+I. II. VI. VII.
+- 2 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+BOS Hoogwater
+Referentienummer: 31157576
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+73210000 - Advies inzake onderzoek
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Deze opdracht bestaat uit het afleiden van een conceptueel model voor de Aa, Grote Pand
+(deel Wilhelminakanaal en Zuid Willemsvaart), Dieze, Stadsdommel en Drongelens Kanaal
+(zie onderstaand kaartje) dat in basis geschikt is voor verdere ontwikkeling. Wat betreft
+de verdere ontwikkeling moet gedacht worden aan coördineert, zet zaken op ‘de markt’ en
+verzorgt de financiële verantwoording richting opdrachtgever.
+De afstemming tussen de regio’s onderling en tussen regio’s en het landelijk
+programmateam, vindt plaats in het coördinatieteam. Regio overstijgende besluitvorming is
+georganiseerd via een landelijk directeurenoverleg waar elke regio vertegenwoordigd is.
+30/04/2021
+I. II. VI. VII.
+- 3 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+30/04/2021
+VI.6) REFERENTIE VAN DE OORSPRONKELIJKE AANKONDIGING
+Nummer van de aankondiging in het PB S: -
+30/04/2021
+I. II. VI. VII.
+- 4 -
+AFDELING VII: WIJZIGINGEN
+VII.1) INFORMATIE DIE MOET WORDEN GEWIJZIGD OF TOEGEVOEGD
+VII.1.2) Te corrigeren tekst in de oorspronkelijke aankondiging
+Afdelingsnummer: II.2.7)
+Perceel nr.: -
+Plaats waar de te wijzigen tekst staat: Looptijd van de opdracht, de raamovereenkomst of het
+dynamische aankoopsysteem
+In plaats van:
+Aanvang: 01-06-2021
+Einde: 01-10-2021
+Te lezen:
+Aanvang: 11-06-2021
+Einde: 15-10-2021
+Afdelingsnummer: IV.2.2)
+Plaats waar de te wijzigen tekst staat: Termijn voor ontvangst van inschrijvingen of
+deelnemingsaanvragen
+In plaats van:
+Datum: 10/05/2021
+Plaatselijke tijd: 09:30
+Te lezen:
+Datum: 17/05/2021
+Plaatselijke tijd: 09:30
+Afdelingsnummer: IV.2.7)
+Perceel nr.: -
+Plaats waar de te wijzigen tekst staat: Omstandigheden waarin de inschrijvingen worden
+geopend
+In plaats van:
+Datum: 10-05-2021
+Plaatselijke tijd: 09:30
+30/04/2021
+I. II. VI. VII.
+- 5 -
+Te lezen:
+Datum: 17-05-2021
+Plaatselijke tijd: 09:35
+VII.2) OVERIGE NADERE INLICHTINGEN
+Naast het toevoegen van de Nota van Inlichtingen zijn er twee extra bijlages toegevoegd in de
+ZIP Map met de aanbestedingsdocumenten.
+Bovendien zijn enkele documenten gewijzigd. Zie ook de Nota voor de wijzigingen.
+
+=== Document: tn308952 - sf03 aankondiging van een gegunde opdracht 20210624095031 ===
+24/06/2021
+I. II. IV. V. VI.
+- 1 -
+AANKONDIGING VAN EEN GEGUNDE OPDRACHT
+RESULTATEN VAN DE AANBESTEDINGSPROCEDURE
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Nationale identificatie:
+482071032
+Postadres:
+Postbus 17
+Plaats:
+Lelystad
+NUTS-code:
+NL
+Postcode:
+8200 AA
+Land:
+NL
+Contactpersoon:
+Tim Kievit
+Telefoon:
+-
+E-mail:
+WVL-Aanbestedingsdocumenten@rws.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.rijkswaterstaat.nl
+Adres van het kopersprofiel:
+-
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+24/06/2021
+I. II. IV. V. VI.
+- 2 -
+I.4) SOORT AANBESTEDENDE DIENST
+Ministerie of andere nationale of federale instantie, met inbegrip van regionale of plaatselijke
+onderverdelingen
+I.5) HOOFDACTIVITEIT
+• Huisvesting en gemeenschappelijke voorzieningen
+24/06/2021
+I. II. IV. V. VI.
+- 3 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+BOS Hoogwater
+Referentienummer: 31157576
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+73210000 - Advies inzake onderzoek
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Deze opdracht bestaat uit het afleiden van een conceptueel model voor de Aa, Grote Pand
+(deel Wilhelminakanaal en Zuid Willemsvaart), Dieze, Stadsdommel en Drongelens Kanaal
+(zie onderstaand kaartje) dat in basis geschikt is voor verdere ontwikkeling. Wat betreft
+de verdere ontwikkeling moet gedacht worden aan coördineert, zet zaken op ‘de markt’ en
+verzorgt de financiële verantwoording richting opdrachtgever.
+De afstemming tussen de regio’s onderling en tussen regio’s en het landelijk
+programmateam, vindt plaats in het coördinatieteam. Regio overstijgende besluitvorming is
+georganiseerd via een landelijk directeurenoverleg waar elke regio vertegenwoordigd is.
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.1.7) Totale waarde van de aanbesteding (exclusief btw)
+Waarde: 60 270,00
+Munt: EUR
+24/06/2021
+I. II. IV. V. VI.
+- 4 -
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+II.2.2) Aanvullende CPV-code(s)
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+-
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+Opdracht betreft een pilot waarbij er na de pilot een eventuele vervolgopdracht plaatsvindt.
+Deze opdracht wordt opnieuw aanbesteed.
+II.2.5) Gunningscriteria
+Kwaliteitscriterium
+Naam: EMVI Prijs/Kwaliteit
+Weging: 100
+Prijs
+Weging: 100
+II.2.11) Inlichtingen over opties
+Opties: neen
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+24/06/2021
+I. II. IV. V. VI.
+- 5 -
+II.2.14) Nadere inlichtingen:
+-
+24/06/2021
+I. II. IV. V. VI.
+- 6 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: -
+IV.2.8) Inlichtingen over de stopzetting van een dynamisch aankoopsysteem
+-
+IV.2.9) Inlichtingen over de stopzetting van een oproep tot mededinging in de vorm
+van een vooraankondiging
+-
+24/06/2021
+I. II. IV. V. VI.
+- 7 -
+AFDELING V: GUNNING VAN EEN OPDRACHT
+Opdracht nr.: 1
+Perceel nr.: -
+Benaming: BOS Hoogwater
+Een opdracht/perceel wordt gegund: ja
+V.2) GUNNING VAN EEN OPDRACHT
+V.2.1) Datum van de sluiting van de overeenkomst:
+21/06/2021
+V.2.2) Inlichtingen over inschrijvingen
+Aantal inschrijvingen: 5
+Aantal inschrijvingen van mkb-bedrijven: -
+Aantal inschrijvingen van inschrijvers uit andere EU-lidstaten: -
+Aantal inschrijvingen van inschrijvers uit landen die geen lid zijn van de EU: -
+Aantal langs elektronische weg ontvangen inschrijvingen: 5
+De opdracht is gegund aan een groep ondernemers: neen
+V.2.3) Naam en adres van de contractant
+Officiële benaming:
+Sumaqua
+Nationale identificatie:
+-
+Postadres:
+Tiensesteenweg 28
+Plaats:
+Leuven
+NUTS-code:
+BE
+Postcode:
+3001
+Land:
+BE
+Telefoon:
++32 474422003
+E-mail:
+vincent.wolfs@sumaqua.be
+24/06/2021
+I. II. IV. V. VI.
+- 8 -
+Fax:
++32 474422003
+Internetadres:
+http://www.sumaqua.be
+De contractant is een mkb-bedrijf: neen
+V.2.4) Inlichtingen over de waarde van de opdracht/het perceel (exclusief btw)
+Aanvankelijk geraamde totale waarde van de opdracht/het perceel:
+70 000,00
+Totale waarde van de opdracht/het perceel: 60 270,00
+Munt: EUR
+V.2.5) Inlichtingen over uitbesteding
+-
+24/06/2021
+I. II. IV. V. VI.
+- 9 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.3) NADERE INLICHTINGEN
+De opdracht BOS Hoogwater is gegund aan Sumaqua
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Burgerlijke Rechter te 's-Gravenhage
+Postadres:
+prins clauslaan 60
+Plaats:
+Den Haag
+Postcode:
+2595 AJ
+Land:
+NL
+E-mail:
+klachtenmeldpunt@rws.nl
+Telefoon:
+-
+Internetadres:
+http://www.rechtspraak.nl
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+24/06/2021
