@@ -1,0 +1,3739 @@
+=== Document: beschrijvend document object monitoring obv insar analyse v1.0 ===
+Beschrijvend document 
+ 
+Europese aanbesteding volgens de 
+openbare procedure voor de 
+dienstverlening inzake Object Monitoring 
+o.b.v. InSAR analyse 
+ 
+ 
+ 
+ 
+Publicatiedatum:  31-10-2025 
+Status:   1.0 
+Zaaknummer:  31212460 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 2 van 31 
+ 
+ 
+Inhoudsopgave 
+ 
+Begripsbepalingen ............................................................................................................... 4 
+1. Inleiding ..................................................................................................................... 5 
+ Aanbestedende dienst ............................................................................................ 5 
+1.2 Aanleiding van deze aanbesteding ........................................................................... 6 
+1.3 Planning ............................................................................................................... 6 
+2. Opdrachtomschrijving ................................................................................................... 7 
+2.1 Beschrijving en doel van de opdracht ....................................................................... 7 
+2.2 Percelen ............................................................................................................... 7 
+2.3 Looptijd van de Overeenkomst ................................................................................ 8 
+2.4 Omvang van de opdracht ....................................................................................... 8 
+3. Eisen ten aanzien van de opdracht ................................................................................. 9 
+3.1 Eisen met betrekking tot de opdracht ....................................................................... 9 
+3.2 Eisen met betrekking tot informatiebeveiliging .......................................................... 9 
+4. Eisen ten aanzien van de Inschrijver ............................................................................. 10 
+4.1 Uitsluitingsgronden .............................................................................................. 10 
+4.2 Voorkennis en belangenverstrengeling ................................................................... 10 
+4.3 Geschiktheidseisen .............................................................................................. 11 
+4.3.1 Financiële en economische draagkracht .................................................................. 11 
+4.3.2 Technische bekwaamheid en beroepsbekwaamheid ................................................. 11 
+4.3.2.1 Kerncompetenties ............................................................................................... 11 
+4.3.3 Beroepsbevoegdheid ............................................................................................ 12 
+5. Gunningscriteria ......................................................................................................... 13 
+5.1 BPKV-criteria perceel 1 en 2 ................................................................................. 13 
+5.2 BPKV-criterium kwaliteit ....................................................................................... 13 
+5.2.1 Kwaliteitscriteria Perceel 1 .................................................................................... 13 
+5.2.1.1 Kwaliteitscriterium 1 Plan van Aanpak Perceel 1 ...................................................... 14 
+5.2.1.2 Kwaliteitscriterium 2 Duurzaamheid Perceel 1 ......................................................... 15 
+5.2.2 Kwaliteitscriteria Perceel 2 .................................................................................... 15 
+5.2.2.1 Kwaliteitscriterium 1 Plan van Aanpak Perceel 2 ...................................................... 16 
+5.2.2.2 Kwaliteitscriterium 2 Duurzaamheid Perceel 2 ......................................................... 17 
+5.3 BPKV-criterium prijs ............................................................................................ 18 
+5.3.1 Eisen BPKV-criterium prijs .................................................................................... 18 
+6. Beoordeling ............................................................................................................... 19 
+6.1 Beoordelen op volledige en rechtsgeldige Inschrijving .............................................. 19 
+6.2 Beoordelen op uitsluitingsgronden en geschiktheid .................................................. 19 
+6.3 Beoordelen op eisen van de opdracht ..................................................................... 19 
+6.4 Beoordelen op gunningscriteria ............................................................................. 19 
+6.4.1 Beoordeling op BPKV-criterium prijs....................................................................... 20 
+6.4.2 Vaststelling totale eindscore ................................................................................. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 3 van 31 
+ 
+ 
+6.5 Beoordelen bewijsstukken .................................................................................... 21 
+7. Aanbestedingsprocedure, -vereisten en -voorwaarden .................................................... 22 
+7.1 Akkoordverklaring ............................................................................................... 22 
+7.2 Planning ............................................................................................................. 22 
+7.3 TenderNed .......................................................................................................... 22 
+7.4 Vragen, inlichtingen en klachten ............................................................................ 22 
+7.5 Gestanddoeningstermijn en Inschrijving ................................................................. 23 
+7.6 Varianten ........................................................................................................... 23 
+7.7 Kosten van de Inschrijving ................................................................................... 24 
+7.8 Stopzetten aanbesteding ...................................................................................... 24 
+7.9 Rangorde documenten ......................................................................................... 24 
+7.10 Verplichtingen op het gebied van milieu-, sociaal en arbeidsrecht .............................. 24 
+7.11 Indiening van de Inschrijving ................................................................................ 24 
+7.12 Vorm en inhoud van de Inschrijving ....................................................................... 25 
+7.13 Uniform Europees Aanbestedingsdocument (UEA) ................................................... 26 
+7.14 Inschrijven in combinatie ..................................................................................... 26 
+7.15 Inschrijven met beroep op draagkracht derde(n) ..................................................... 27 
+7.16 Eénmaal Inschrijven ............................................................................................ 27 
+7.17 Communicatie en taal .......................................................................................... 28 
+7.18 Algemene voorwaarden ........................................................................................ 28 
+7.19 Overeenkomst .................................................................................................... 28 
+7.20 Toelichting op en verificatie van de Inschrijving ...................................................... 28 
+7.21 BIBOB ................................................................................................................ 28 
+7.22 Ongeldigverklaring .............................................................................................. 28 
+7.23 Mededeling gunningsbeslissing .............................................................................. 29 
+7.24 Nadere gunning onder de raamovereenkomst ......................................................... 29 
+7.24.1 Opdrachten binnen raamovereenkomst .................................................................. 29 
+Bijlagen ........................................................................................................................... 31 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 4 van 31 
+ 
+ 
+Begripsbepalingen 
+ 
+Aanbestedende dienst Rijkswaterstaat, onderdeel en uitvoeringsorganisatie van het 
+ministerie van Infrastructuur en Waterstaat. 
+Beschrijvend document Dit document, inclusief bijlagen. 
+Aanbestedingswet Aanbestedingswet 2012. 
+Economisch meest voordelige  De Inschrijving die op basis van de beste 
+prijs/kwaliteitverhouding de hoogste totale eindscore 
+behaald. 
+Geschiktheidseisen De eisen die de Aanbestedende dienst aan een Inschrijver 
+stelt om te kunnen bepalen of een Inschrijver in staat is om 
+de overheidsopdracht uit te voeren.  
+Inschrijver De ondernemer of ondernemers die een Inschrijving 
+heeft/hebben ingediend of van plan is/zijn een Inschrijving in 
+te dienen. 
+Inschrijving Een door een Inschrijver ingediende offerte op dit 
+Beschrijvend document. 
+RWS CIV Rijkswaterstaat Centrale Informatievoorziening, 
+organisatieonderdeel van Rijkswaterstaat. 
+Nota van Inlichtingen Een document waarin de gestelde vragen met antwoorden 
+geanonimiseerd zijn opgenomen. 
+Opdrachtgever De Staat der Nederlanden, vertegenwoordigd door de 
+minister van Infrastructuur en Waterstaat, die ten behoeve 
+van Rijkswaterstaat met Opdrachtnemer de Overeenkomst 
+sluit. 
+Opdrachtnemer De partij met wie Opdrachtgever de Overeenkomst sluit. 
+Dienstverleningsovereenkomst De schriftelijke overeenkomst tussen Opdrachtgever en 
+Opdrachtnemer waarin de voorwaarden zijn vastgelegd 
+waaronder de dienstopdrachten wordt uitgevoerd. 
+Raamovereenkomst De schriftelijke Raamovereenkomst tussen Opdrachtgever en 
+Opdrachtnemer waarin gedurende een bepaalde periode de 
+voorwaarden inzake de te gunnen overheidsopdrachten 
+(Nadere overeenkomsten) zijn vastgelegd. 
+Nadere Overeenkomst  De schriftelijke overeenkomst die op grond van de   
+Raamovereenkomst tussen Opdrachtgever en Opdrachtnemer 
+wordt gesloten.  
+Uitsluitingsgrond Een omstandigheid die de (persoon van de) Inschrijver zelf 
+betreft en die kan leiden tot uitsluiting van zijn deelname aan 
+de aanbesteding.  
+Uniform Europees  Een eigen verklaring van Inschrijver waarin deze  
+Aanbestedingsdocument onder meer aangeeft of uitsluitingsgronden op hem van 
+toepassing zijn en of hij voldoet aan de gestelde 
+geschiktheidseisen. 
+InSAR Interferometric Synthetic Aperture Radar 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 5 van 31 
+ 
+ 
+1.  Inleiding 
+ 
+Dit Beschrijvend document bevat informatie over de Europese aanbesteding volgens de openbare 
+procedure voor dienstverlening van Object Monitoring o.b.v. InSAR analyse. De procedure vindt 
+plaats op basis van de Aanbestedingswet. De begripsbepalingen van de Aanbestedingswet zijn 
+daarom van toepassing. De aanbestedingsprocedure wordt elektronisch uitgevoerd door middel 
+van TenderNed. 
+ 
+Inschrijver wordt uitgenodigd om op basis van dit Beschrijvend document een Inschrijving in te 
+dienen.  
+ Aanbestedende dienst 
+Deze aanbesteding wordt uitgevoerd door Rijkswaterstaat Centrale Informatievoorziening. 
+ 
+Rijkswaterstaat 
+Rijkswaterstaat is de uitvoeringsorganisatie van het ministerie van Infrastructuur en Waterstaat. 
+Rijkswaterstaat beheert en ontwikkelt de rijkswegen, -vaarwegen en –wateren en zet in op een 
+duurzame leefomgeving. Samen met anderen werkt RWS aan een land dat beschermd is tegen 
+overstromingen. Waar voldoende groen is, en voldoende en schoon water. En waar je vlot en veilig 
+van A naar B kunt. Samen werken aan een veilig, leefbaar en bereikbaar Nederland. Dat is 
+Rijkswaterstaat. Meer informatie staat op www.rijkswaterstaat.nl. 
+ 
+Rijkswaterstaat Centrale Informatievoorziening 
+Rijkswaterstaat Centrale Informatievoorziening (hierna: RWS CIV) is een landelijk 
+organisatieonderdeel van Rijkswaterstaat. RWS CIV zorgt voor de ontwikkeling en beschikbaarheid 
+van data, gegevens en informatie binnen Rijkswaterstaat. RWS CIV zorgt voor industriële 
+automatisering bij bruggen, tunnels, rijkswegen en andere objecten. Daarnaast verzorgt RWS CIV 
+de kantoorautomatisering van Rijkswaterstaat.   
+ 
+Directie Inwinning & Gegevensanalyse  
+De directie Inwinning & Gegevensanalyse (hierna: IGA) is de directie van RWS CIV die 
+verantwoordelijk is voor het efficiënt (laten) inwinnen en leveren van gegevens en 
+informatieproducten volgens een vastgestelde procesgang en kwaliteitscriteria. IGA zorgt voor 
+datasets, gegevensintegratie en kaartpresentaties voor de hoofdprocessen van Rijkswaterstaat. 
+ 
+ 
+Het organogram van Rijkswaterstaat ziet er als volgt uit: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 6 van 31 
+ 
+ 
+1.2 Aanleiding van deze aanbesteding 
+ 
+Rijkswaterstaat staat de komende decennia voor de uitdaging om verouderde infrastructurele 
+objecten, zoals wegen, dijken, sluizen en stormvloedkeringen, te onderhouden, renoveren en 
+vervangen. Het toekomstbestendig inrichten en continueren van productlevering en 
+dienstverlening op het gebied van de analyse van objecten op basis van satellietdata kan hierin 
+een essentiële rol spelen. 
+ 
+De directe aanleiding voor deze aanbesteding is het omhoogkomen van een tunneldeel van de 
+Prinses Margriettunnel eind 2022, wat leidde tot de afsluiting van de A7. Dit incident benadrukte 
+het belang van het tijdig opmerken van deformaties en verplaatsingen, zodat passende 
+maatregelen genomen kunnen worden ter voorkoming van schade. Vergelijkbare risico’s zijn ook 
+vastgesteld bij andere tunnels en objecten met dezelfde constructie. Reeds worden er drie tunnels 
+met een soortgelijke constructie gemonitord.  
+ 
+Uit ervaringen en analyses blijkt dat afwijkend gedrag van betonnen elementen, zoals verzakking 
+en opdrijving, tot twee jaar van tevoren gedetecteerd kan worden met Interferometric Synthetic 
+Aperture Radar (hierna: InSAR). Hierdoor ontstaat een tijdvenster om gericht in te grijpen en 
+verdere schade te voorkomen. Om grootschalige monitoring effectief te kunnen uitvoeren wordt de 
+inzet van InSAR binnen deze aanbesteding gecontinueerd, uitgebouwd en geprofessionaliseerd. 
+Daarnaast zal de indicatie van toepasbaarheid van deze methodiek op andersoortige objecten als 
+bruggen en viaducten worden onderzocht en bevestigd. 
+ 
+1.3 Planning 
+Voor deze aanbesteding is onderstaande planning van toepassing. 
+ 
+  
+vr 31 oktober 2025 Publicatie aankondiging van de opdracht, start 
+inschrijvingstermijn 
+ma 17 november 2025 
+12:00 uur 
+Aanmelden voor de informatiebijeenkomst tot en met 
+uiterlijk  
+wo 19 november 2025 
+14:00 uur Informatiebijeenkomst via TEAMS  
+wo 03 december 2025  
+12:00 uur 
+Het stellen van vragen door Inschrijver over de 
+aanbestedingsdocumenten en voor het doen van 
+tekstvoorstellen door Inschrijver op de concept 
+Overeenkomst (inclusief ARVODI-2025) tot en met uiterlijk 
+wo 10 dec 2025 Publicatie Nota van Inlichtingen  
+wo 14 januari 2025 
+12:00 uur 
+Uiterste datum en tijdstip van indienen en ontvangst van 
+Inschrijvingen 
+wo 4 februari 2026 
+ 
+Beoordelen Inschrijvingen 
+wo 18 februari 2026 
+ 
+Verzending mededeling gunningsbeslissing 
+di 10 maart 2026 
+ 
+Laatste dag van de bezwaartermijn (20 dagen) voor het 
+vragen om een voorlopige voorziening inzake de mededeling 
+Gunningsbeslissing 
+(ntb) maart 2025 Ondertekening Overeenkomst 
+ 
+Rijkswaterstaat kan, indien omstandigheden naar het oordeel van Rijkswaterstaat daartoe 
+aanleiding geven, de genoemde termijn(en) wijzigen. In dat geval worden de nieuwe termijn(en) 
+tijdig kenbaar gemaakt. De planning in TenderNed is leidend. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 7 van 31 
+ 
+ 
+2.  Opdrachtomschrijving 
+ 
+In dit hoofdstuk is informatie omtrent de opdracht opgenomen. Bij het bepalen van de opdracht 
+heeft Rijkswaterstaat de omvang en de complexiteit van de opdracht, het aantal potentiële 
+inschrijvers, de transactiekosten en het karakter van de markt in acht genomen. 
+2.1 Beschrijving en doel van de opdracht 
+ 
+Deze opdracht richt zich op het waarborgen van de continuïteit en verdere ontwikkeling van de 
+monitoring van RWS-objecten, zoals tunnels, door middel van hoge resolutie InSAR-analyse. De 
+huidige overeenkomst die voorziet in deze monitoring loopt in 2026 af, waardoor het noodzakelijk 
+is een nieuwe aanbesteding te starten. Hiermee wordt voorzien in de continue beschikbaarheid van 
+monitoringdata en -analyses, die van belang zijn voor het beheer van deze objecten op korte en 
+lange termijn. 
+ 
+Binnen RWS is gebleken dat er, naast de monitoring van tunnels, ook behoefte bestaat aan het op 
+afroep uitvoeren van vergelijkbare InSAR-analyses voor objecten zoals wegensegmenten, 
+verkeersknooppunten en waterkeringen. Deze analyses dienen op verzoek uitgevoerd te kunnen 
+worden, bijvoorbeeld bij incidenten of bij gewijzigde risico-inschattingen.  
+ 
+Naast de reguliere monitoring bestaat er binnen Rijkswaterstaat tevens de behoefte om de 
+toepassingsmogelijkheden van InSAR verder te verkennen voor andere objecttypen, zoals bruggen 
+en viaducten. Deze objecten stellen specifieke eisen aan de monitoring, onder meer vanwege de 
+invloed van voegen, tijdelijke belasting en complexe bewegingen. Om de mogelijkheden van 
+InSAR voor deze objecten te verkennen en de verwerkingsmethoden verder te ontwikkelen, is in 
+deze aanbesteding ook een onderzoeksopdracht opgenomen. 
+ 
+Door in deze aanbesteding monitoring en methodiekontwikkeling te combineren, wordt een 
+integrale aanpak mogelijk, waarbij monitoring van tunnels en wegen hand in hand gaat met de 
+doorontwikkeling van InSAR-technieken voor andere objecttypen. 
+ 
+2.2 Percelen 
+RWS zoekt naar een evenwichtige verdeling van de werkzaamheden, waarbij het 
+toekomstbestendig borgen van inhoudelijke kennis het uitgangspunt is. De aanbesteding is 
+daarom onderverdeeld in twee percelen: 
+ 
+Perceel 1 
+Dit perceel betreft het sluiten van een Raamovereenkomst (ROK) met één leverancier voor de 
+verwerking van hoge resolutie InSAR-beelden van bepaalde objecttypen. Direct na het sluiten van 
+deze ROK zal door RWS CIV eerste Nadere Overeenkomst (NOK1) worden afgesloten voor de 
+monitoring van drie reeds geselecteerde tunnels en verdiepte liggingen. Daarnaast biedt de ROK 
+de mogelijkheid om op een later moment via aanvullende Nadere Overeenkomsten (NOK’s) losse 
+InSAR-analyses uit te laten voeren van andere objecten, waarvoor de toepassingshaalbaarheid van 
+InSAR reeds is aangetoond. Deze objecten betreffen, naast de genoemde tunnels en verdiepte 
+liggingen, ook wegen, verkeersknooppunten van beperkte complexiteit en waterkeringen. 
+ 
+Perceel 2 
+Dit perceel betreft het sluiten van een Dienstovereenkomst (DVO) met één leverancier voor 
+toegepast onderzoek naar de toepasbaarheid van InSAR verwerkingsmethoden voor analyse en 
+monitoring van andere objecttypen (bruggen en viaducten). Ook wordt een methode ontwikkeld 
+om vooraf de InSAR-geschiktheid van een object te bepalen.  
+Daarnaast dienen de, bij de aanbieding aangegeven aantal objecten uit objectenlijst, volgens de 
+ontwikkelde verwerkingsmethode te worden geanalyseerd.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 8 van 31 
+ 
+ 
+Een Inschrijver kan zich inschrijven voor meerdere percelen, maar kan in principe maximaal één 
+(1) perceel gegund krijgen. Inschrijver dient bij Inschrijving een voorkeursperceel aan te geven. 
+Opdrachtgever zal proberen rekening te houden met het opgegeven voorkeursperceel, onder 
+voorbehoud dat beide percelen gegund kunnen worden. Hieraan kunnen geen rechten worden 
+ontleend. 
+ 
+Indien Inschrijver het maximumaantal van één (1) perceel gegund heeft gekregen en er geen 
+andere marktpartijen zijn aan wie het overige perceel gegund kan worden, behoudt Opdrachtgever 
+het recht om het maximumaantal percelen te overschrijden en het overige perceel alsnog aan 
+eenzelfde Inschrijver te gunnen. Dit kan voorkomen wanneer er bijv. onvoldoende (geldige) 
+inschrijvingen zijn ontvangen. De rangorde na beoordeling binnen de percelen blijft altijd in stand. 
+ 
+2.3 Looptijd van de Overeenkomst 
+Perceel 1 
+Opdrachtgever is voornemens over te gaan tot het sluiten van een Raamovereenkomst met een 
+looptijd van twee (2) jaar met een, éénzijdig door Opdrachtgever uit te oefenen, optie tot 
+verlenging van een (1) jaar. 
+ 
+Perceel 2 
+Opdrachtgever is voornemens over te gaan tot het sluiten van een Overeenkomst met een looptijd 
+van twee (2) jaar. 
+ 
+Opdrachtgever wenst met één (1) Inschrijver een Overeenkomst per perceel te sluiten. 
+2.4 Omvang van de opdracht 
+Rijkswaterstaat gaat uit van een opdrachtomvang van maximaal 3 jaar (inclusief optiejaar) voor 
+de dienstverlening van Object Monitoring o.b.v. InSAR analyse.  
+ 
+Voor perceel 1 wordt uitgegaan van een indicatieve totale opdrachtwaarde (inclusief optiejaren) 
+van € 403.500,00 exclusief btw.  
+ 
+Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische ontwikkelingen is het 
+mogelijk dat de omvang en/of waarde van de (raam)overeenkomst wijzigt.   De afgesloten 
+Raamovereenkomst en Nadere Overeenkomsten worden beëindigd indien de maximale waarde van 
+€ 403.500,00 ex BTW, is bereikt. Indien de situatie zich voordoet kan dat ook eerder zijn dan de 
+aangegeven looptijd. 
+ 
+De indicatieve waarde betreft geen gegarandeerde omzet. Het is een indicatie waaraan geen 
+rechten kunnen worden ontleend. Er is bij het opstellen van dit Beschrijvend document gehandeld 
+met de actuele kennis en inzichten van dit moment. 
+ 
+De Raamovereenkomsten kunnen door Rijkswaterstaat worden opgezegd met een opzegtermijn 
+van een maand indien de maximale waarde is bereikt of deze door een eerstvolgende opdracht 
+verstrekking kan worden overschreden, zonder dat daardoor enig recht op schadevergoeding 
+ontstaat. 
+ 
+Voor perceel 2 heeft Opdrachtgever voor fase 3 een maximaal taakstellend budget beschikbaar 
+van € 50.000,00 exclusief btw. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 9 van 31 
+ 
+ 
+3. Eisen ten aanzien van de opdracht 
+ 
+In dit hoofdstuk zijn de eisen opgenomen die Rijkswaterstaat stelt aan de gevraagde 
+dienstverlening.  
+  
+Door het indienen van een Inschrijving, vergezeld van de bijlage ‘Akkoordverklaring’, gaat 
+Inschrijver uitdrukkelijk akkoord met alle eisen en voorwaarden die in dit hoofdstuk of in de 
+bijlagen waarnaar wordt verwezen zijn neergelegd en verklaart hij dat hij gedurende de gehele 
+uitvoeringsperiode van de met hem gesloten Overeenkomst daaraan blijft voldoen.  
+3.1 Eisen met betrekking tot de opdracht  
+De eisen met betrekking tot de opdracht zijn opgenomen in de volgende bijlagen:  
+Bijlage Omschrijving Van toepassing op perceel 
+A Project Description v1.1 perceel 1 1 
+B Project Description v1.0 perceel 2 2 
+C TechnicalRequirements_RWS_InSAR_v1.0 1, 2 
+ 
+ 
+3.2 Eisen met betrekking tot informatiebeveiliging 
+Beveiliging is een integraal onderdeel van de Informatievoorziening van Rijkswaterstaat en is er op 
+gericht om de beschikbaarheid, de integriteit, de vertrouwelijkheid en controleerbaarheid van de 
+Informatievoorziening te waarborgen. Informatievoorziening wordt gedefinieerd als het geheel aan 
+hulpmiddelen, gegevensverzamelingen en organisatorische inrichtingen, dat dient tot het 
+verstrekken van informatie. De Baseline Informatiebeveiliging Overheid (hierna: BIO) schrijft het 
+basisniveau voor informatiebeveiliging bij de Rijksoverheid voor. De BIO biedt één normenkader 
+voor de beveiliging van de Informatievoorziening (IV) van het Rijk. 
+ 
+3.2.1 Op deze aanbesteding zijn de beveiligingseisen en maatregelen voor beveiliging zoals 
+opgenomen in bijlage ‘Project Description’. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 10 van 31 
+ 
+ 
+4.  Eisen ten aanzien van de Inschrijver 
+ 
+In dit hoofdstuk staan de eisen welke Rijkswaterstaat stelt om te bepalen of een Inschrijver 
+geschikt is om de Overeenkomst uit te voeren. Hiervoor worden Uitsluitingsgronden en 
+Geschiktheidseisen gehanteerd. 
+ 
+Via het ‘Uniform Europees Aanbestedingsdocument’ geeft Inschrijver aan of de Uitsluitingsgronden 
+wel of niet op hem van toepassing zijn en of hij voldoet aan de Geschiktheidseisen. 
+4.1 Uitsluitingsgronden 
+Rijkswaterstaat sluit een Inschrijver uit wanneer één of meer uitsluitingsgrond(en) op Inschrijver 
+van toepassing is/zijn, tenzij Rijkswaterstaat de Inschrijver toch toe laat tot de 
+aanbestedingsprocedure op grond van artikel 2.86a, 2.87a of 2.88 Aanbestedingswet. 
+ 
+In de bijlage ‘Uniform Europees Aanbestedingsdocument’ zijn de verplichte uitsluitingsgronden en 
+de door Rijkswaterstaat van toepassing verklaarde facultatieve uitsluitingsgronden opgenomen. 
+Voor de uitsluitingsgrond “Ernstige beroepsfout” geldt dat een ACM-boete in ieder geval als (een 
+indicatie van) een ernstige beroepsfout wordt gezien.  
+ 
+Ter verificatie worden de volgende bewijsstukken gevraagd (kunnen bij inschrijving 
+ingediend worden, maar hoeven pas na verzoek van RWS verstrekt te worden): 
+• Gedragsverklaring Aanbesteden 
+• Verklaring betalingsgedrag nakoming fiscale verplichtingen van de 
+Belastingdienst 
+ 
+LET OP: houd rekening met de aanvraagtijd van de Gedragsverklaring Aanbesteden 
+(hierna: GVA) en de Verklaring betalingsgedrag nakoming fiscale verplichtingen van de 
+Belastingdienst. Het is de verantwoordelijkheid van de Inschrijver om ervoor te zorgen 
+dat de GVA c.q. Verklaring Belastingdienst tijdig wordt aangevraagd om aan de 
+indieningstermijn te kunnen voldoen. (In het geval een beroep wordt gedaan op een of 
+meerdere derde(n) moet ook van die ondernemingen een GVA en Verklaring 
+betalingsgedrag nakoming fiscale verplichtingen van de Belastingdienst worden 
+overlegd). Op het uiterste tijdstip van ontvangst van Inschrijvingen dient de GVA niet 
+ouder te zijn dan 2 jaar en de Verklaring betalingsgedrag nakoming fiscale verplichtingen 
+van de Belastingdienst niet ouder te zijn dan 6 maanden. 
+ 
+Een buitenlandse ondernemer kan, als er in het land waar hij is gevestigd geen 
+gelijkwaardige verklaring bestaat, een verklaring onder ede of een plechtige verklaring 
+ten overstaan van een bevoegde rechterlijke of administratieve instantie, een notaris of 
+een bevoegde beroepsorganisatie van dat land afleggen en deze verklaring overleggen 
+aan Rijkswaterstaat. 
+ 
+4.2 Voorkennis en belangenverstrengeling 
+De richtlijnen van Rijkswaterstaat ter voorkoming van voorkennis en belangverstrengeling, zoals 
+opgenomen in de bijlage ‘Nota scheiding van belang’, Beleid tegen belangenverstrengeling bij de 
+aanbesteding’ d.d. 14 september 2007, zijn onverkort van toepassing op deze aanbesteding.  
+ 
+Indien er sprake is (geweest) van betrokkenheid bij de voorbereiding van de opdracht, wordt er 
+vermoed sprake te zijn van voorkennis en/of belangenverstrengeling. Rijkswaterstaat stelt de 
+Inschrijver in de gelegenheid om, ten genoegen van Rijkswaterstaat, het bedoelde vermoeden te 
+weerleggen en aan te tonen dat de eerlijke mededinging niet wordt geschaad door de (eerdere) 
+betrokkenheid. Een ondernemer kan worden uitgesloten van deelneming aan de aanbesteding 
+indien het bedoelde vermoeden niet wordt weerlegd. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 11 van 31 
+ 
+ 
+4.3 Geschiktheidseisen 
+In deze paragraaf staan de geschiktheidseisen die aan Inschrijver worden gesteld. Inschrijver 
+dient hieraan te voldoen. Zo niet, dan zal de Inschrijving ter zijde worden gelegd. 
+ 
+Door middel van de bijlage ‘Uniform Europees Aanbestedingsdocument’ verklaart de Inschrijver 
+dat hij voldoet aan de Geschiktheidseisen zoals die in deze paragraaf van het Beschrijvend 
+document zijn opgenomen en hieraan zal blijven voldoen gedurende de looptijd van de 
+Overeenkomst.   
+4.3.1 Financiële en economische draagkracht 
+Inschrijver dient te beschikken over voldoende financiële en economische draagkracht voor de 
+nakoming van de verplichtingen die voortvloeien uit de Overeenkomst. RWS CIV stelt geen nadere 
+eisen m.b.t. financiële en economische draagkracht. 
+4.3.2 Technische bekwaamheid en beroepsbekwaamheid 
+Rijkswaterstaat heeft voor het toetsen van technische bekwaamheid en beroepsbekwaamheid de 
+volgende eisen vastgesteld. 
+4.3.2.1 Kerncompetenties 
+Rijkswaterstaat heeft de volgende kerncompetenties vastgesteld die overeenkomen met ervaring 
+op essentiële punten van de opdracht 
+ 
+Perceel 1 
+Een Inschrijver dient t.b.v. Perceel 1 over de volgende kerncompetentie te beschikken: 
+ Kerncompetentie P1-1 
+KC-1 De inschrijver heeft ervaring met het uitvoeren van minimaal 1 infraproject 
+deformatiemeting o.b.v. InSAR-technieken op basis van hoge resolutie 
+satellietbeelden (3x3m). 
+ 
+Inschrijver toont deze kerncompetentie aan met één referentieopdracht bij een 
+opdrachtgever (niet RWS). 
+ 
+Perceel 2 
+Een Inschrijver dient t.b.v. Perceel 2 over de volgende kerncompetenties te beschikken: 
+ Kerncompetentie P2-1 
+KC-1 De inschrijver heeft ervaring met het uitvoeren van minimaal 1 infraproject 
+deformatiemeting o.b.v. InSAR-technieken op basis van hoge resolutie 
+satellietbeelden (3x3m). 
+ 
+Inschrijver toont deze kerncompetentie aan met één referentieopdracht bij een 
+opdrachtgever (niet RWS). 
+ 
+ Kerncompetentie P2-2 
+KC-2 De inschrijver heeft aantoonbare ervaring met het documenteren en overdragen 
+van technische kennis op het gebied van InSAR, zoals blijkt uit eerder opgestelde 
+methodologische beschrijvingen en/of handleidingen die anderen in staat stellen 
+methodologieën te begrijpen, implementeren en verder te ontwikkelen.  
+ 
+Inschrijver toont deze kerncompetentie aan met één referentieopdracht bij een 
+opdrachtgever (niet RWS) en/of publicaties in vakliteratuur. 
+ 
+Inschrijver dient ten aanzien van de hierboven vermelde kerncompetenties voorts te voldoen aan 
+de volgende voorwaarden: 
+• Het onderwerp van de referentieopdracht dient vergelijkbaar te zijn met de betreffende 
+kerncompetentie. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 12 van 31 
+ 
+ 
+• Ten aanzien van Kerncompetenties moeten de referentieopdrachten uitgevoerd of afgerond 
+zijn in de afgelopen drie jaar voorafgaand aan de publicatiedatum van deze aanbesteding 
+op TenderNed. 
+• Indien gebruik wordt gemaakt van een nog niet (geheel) afgeronde opdracht mogen alleen 
+de werkelijk behaalde resultaten van de lopende overeenkomst worden opgegeven en kan 
+niet worden volstaan met een prognose van de resultaten. 
+• De referentieopdrachten dienen zowel met betrekking tot de wijze van uitvoering als met 
+betrekking tot het resultaat naar behoren te zijn uitgevoerd. Het eindresultaat maar ook 
+de wijze van uitvoering is relevant. 
+ 
+Meerdere referenties zijn alleen toegestaan als deze referenties elkaar completeren om de 
+betreffende kerncompetentie in zijn geheel aan te tonen, hiervoor mogen echter niet meer dan 2 
+referentieopdrachten worden ingediend. 
+ 
+Per referentieopdracht dient onderbouwd te worden waarom de referentie(s) relevant is voor de 
+onderhavige opdracht. Hierin dient opgenomen te worden: 
+• Welke kerncompetenties of delen van kerncompetenties afgedekt worden. 
+• Beschrijving van de door ondernemer uitgevoerde werkzaamheden en behaalde resultaten. 
+ 
+ 
+Ter verificatie worden de volgende bewijsstukken gevraagd (indienen bij Inschrijving) 
+• bijlage ‘Referentieverklaring’ 
+ 
+Inschrijver gebruikt per referentieopdracht de bijlage ‘Referentieverklaring’. Indien in één 
+referentie meerdere kerncompetenties tot uiting komen die voldoen aan de gestelde eisen, mag 
+Inschrijver voor die kerncompetenties dezelfde referentie gebruiken. 
+ 
+Door het opgeven van een referentie geeft Inschrijver toestemming aan Rijkswaterstaat om 
+referenties op juistheid te controleren en zonder tussenkomst en/of toestemming van 
+Inschrijver contact op te nemen met een of meer referenten. 
+4.3.3 Beroepsbevoegdheid 
+Rijkswaterstaat verlangt dat de Inschrijver bevoegd is zijn beroep uit te oefenen. Inschrijver dient 
+aan te tonen dat hij volgens de voorschriften van de lidstaat waar hij is gevestigd, in het 
+beroepsregister of in het handelsregister is ingeschreven, bedoeld in bijlage XI van richtlijn 
+2014/24/EU.  
+ 
+ 
+Ter verificatie worden de volgende bewijsstukken gevraagd (indienen bij Inschrijving): 
+• Uittreksel beroeps- of handelsregister 
+ 
+Om de rechtsgeldigheid van de ondertekende bijlage ‘Akkoordverklaring’ en 
+bewijsstukken te kunnen vaststellen is het noodzakelijk om een recent en actueel 
+(maximaal zes maanden oud, terug te rekenen vanaf het tijdstip van indiening van de 
+Inschrijving) uittreksel(s) uit het beroepsregister of handelsregister conform het gestelde 
+in artikel 2.98 van de Aanbestedingswet te overleggen. Uit het uittrekstel dient de 
+rechtsgeldigheid van de ondertekenaar te blijken. 
+ 
+Mocht degene die de (eigen) verklaringen en bewijsstukken heeft ondertekend, niet 
+voorkomen op het uittreksel, dan dient uit een door de degene die wel op het uittreksel 
+voorkomt bij wijze van volmacht opgestelde verklaring te blijken dat de ondertekenaar 
+bevoegd is de Inschrijver rechtsgeldig te binden op het moment van ondertekening. 
+ 
+Ingeval in samenwerkingsverband (combinatie) wordt ingeschreven, dient iedere 
+deelnemer aan het samenwerkingsverband afzonderlijk bovenstaande in te dienen. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 13 van 31 
+ 
+ 
+5.  Gunningscriteria 
+ 
+In dit hoofdstuk zijn de gunningscriteria, dit zijn de criteria op basis waarvan een Inschrijving 
+wordt beoordeeld, opgenomen. Inschrijver dient bij deze beantwoording rekening te houden met 
+de gestelde eisen in hoofdstuk 3.  
+ 
+Het criterium voor de gunning van Perceel 1 en Perceel 2 is de ‘economisch meest voordelige 
+inschrijving met de beste prijs-kwaliteitsverhouding’ (hierna: BPKV).  
+ 
+ 
+ 
+Inschrijver dient per perceel de uitwerkingen op de BPKV-criteria als één document in TenderNed 
+aan de Inschrijving toe te voegen. 
+5.1 BPKV-criteria perceel 1 en 2 
+Het BPKV-criterium is uitgesplitst in twee BPKV-criteria zoals in onderstaande tabel is 
+weergegeven. 
+ 
+Nr. BPKV-criteria P1 en P2 Weging 
+1 Kwaliteit 60% 
+2 Prijs 40% 
+5.2 BPKV-criterium kwaliteit 
+ 
+Inschrijver dient de uitwerking van de kwaliteitscriteria met zodanig detail en helderheid te 
+beschrijven dat Rijkswaterstaat in staat is te beoordelen of de door Inschrijver te leveren prestatie 
+verband houdt met de opdracht van Rijkswaterstaat. 
+ 
+Eisen aan de uitwerking van de kwaliteitscriteria: 
+• Inschrijver dient kwaliteitscriterium en per scoringselement een beschrijving in met goed 
+leesbare lettergrootte en met het maximaal aantal pagina’s, zoals aangegeven bij het 
+betreffende criterium. 
+• Hierbij vermeldt inschrijver: 
+o welke kwaliteitscriterium het betreft. 
+o welk scoringselement het betreft. 
+o de uitwerking van de items. 
+• Inschrijver werkt per scoringselement de volgende items uit: 
+o Maatregelen: welke maatregelen gaat inschrijver nemen. 
+o Resultaat: tot welk resultaat leidt(en) de maatregel(en) en wat is de bijdrage van 
+het resultaat aan de betreffende doelstelling van Rijkswaterstaat. 
+o Onderbouwing: waarom gaat inschrijver dit zo realiseren (theoretische e/o 
+technische uitleg), waarbij inschrijver aannemelijk maakt dat de maatregelen 
+zullen werken, het resultaat behaald gaat worden en zal bijdragen aan de 
+doelstelling. 
+ 
+Beoordeeld wordt op de mate waarin: 
+• De aangeboden maatregelen en resultaten (prestaties) bijdragen aan het bereiken van 
+doelstelling (effect van de aangeboden maatregelen en resultaten); 
+• De aangeboden maatregelen en resultaten (prestaties) onderbouwd zijn. 
+ 
+5.2.1 Kwaliteitscriteria Perceel 1 
+ 
+Het BPKV-criterium kwaliteit voor Perceel 1 is onderverdeeld in kwaliteitscriteria, de 
+subgunningscriteria.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 14 van 31 
+ 
+ 
+ 
+Nr. Kwaliteitscriterium Scoringselement Wegings
+factor 
+KC 1 Plan van Aanpak Methodiek 
+Planning 
+Communicatie 
+Risicomanagement 
+80% 
+KC 2 Duurzaamheid op 
+basis van het 
+Ambitieweb (zie 
+voor meer 
+informatie Bijlage 3) 
+ 
+Energie & Klimaat 20% 
+   100% 
+ 
+De genoemde kwaliteitscriteria worden nader uitgewerkt in de paragraven hieronder. 
+5.2.1.1 Kwaliteitscriterium 1 Plan van Aanpak Perceel 1 
+ 
+Kwaliteitscriterium  
+ 
+KC1. Plan van Aanpak Perceel 1 
+Doelstelling De opdrachtgever heeft als doelstelling om met behulp van InSAR-analyse 
+deformatie van de objecten van Rijkswaterstaat (o.a. tunnels, verdiepte 
+liggingen en verkeersknooppunten) vroegtijdig te kunnen detecteren, zodat 
+tijdig kan worden ingegrepen en wordt bijgedragen aan een veilige en vlotte 
+doorstroming van het verkeer. 
+Aandachtspunten Inschrijver kan een beschrijving geven zijn verwerkingsproces/methode 
+waarin o.a. een duidelijk beeld naar voren komt over: 
+• Gebruikte methode in relatie tot onder andere:  
+- Hoe gaat de inschrijver om met onderhoudsmomenten aan RWS 
+objecten 
+- Hoe gaat de inschrijver om met koppeling van InSAR-
+meetpunten aan fysieke objecten (bijvoorbeeld met behulp van 
+AHN) 
+- Hoe wordt de deformatie van fysiek en dynamisch aparte 
+objecten onafhankelijk bepaald bij overlappende DS- en PS-
+punten 
+- Hoe men de continuïteit van InSAR-metingen rond de waterlijn 
+garandeert en de dekking maximaliseert door ook metingen te 
+verwerken met hiaten in de tijdreeks als gevolg van wisselende 
+waterstanden.  
+- Hoe blijft de unwrapping en decompositiemethode gevoelig voor 
+discontinuïteiten in faseverandering waar RWS juist in 
+geïnteresseerd is?  
+- Hoe gaat de inschrijver om met invloeden op fase door dagelijks 
+gebruik van objecten (bijvoorbeeld het verkeer)?  
+• Planning  
+o Losse analyse (hoelang duurt één losse analyse) 
+o Monitoring 3 objecten 
+ 
+• Communicatie/overleg met opdrachtgever 
+• Risicomanagement 
+o Minimaal 3 risico’s met bijbehorende beheersmaatregelen 
+ 
+Gevraagde actie 
+van de Inschrijver 
+Inschrijver geeft een beschrijving van zijn verwerkingsproces/methode ten 
+aanzien van de gevraagde dienstverlening waarin hij genoemde 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 15 van 31 
+ 
+ 
+aandachtspunten terug laat komen en rekening houdt met de doelstelling 
+van RWS CIV. 
+ 
+Maximaal 5 pagina’s A4, lettertype Verdana, minimale lettergrootte 9pt, 
+incl. bijlagen, schema’s en overige visualisaties. 
+ 
+Beoordelingskader De mate waarin de aangeboden inzichten, maatregelen en resultaten 
+(prestaties) onderbouwd zijn en SMART gemaakt zijn en bijdragen aan het 
+bereiken van de doelstelling. 
+ 
+5.2.1.2 Kwaliteitscriterium 2 Duurzaamheid Perceel 1  
+ 
+Kwaliteitscriterium  
+ 
+KC2. Duurzaamheid Perceel 1 
+Doelstelling De opdrachtgever heeft als doelstelling om in 2030 klimaatneutraal en 
+circulair te werken. 
+Aandachtspunten Aandachtspunten: 
+In de uitvoering dient minimaal gekeken te worden naar de mogelijkheid om 
+de volgende gekozen prioriteiten toe te passen: 
+• Energie en klimaat, waarbij beschreven wordt hoe de negatieve 
+milieu-impact van de dataverwerking (o.a. energieverbruik 
+datacenters, CO2-uitstoot) tot een minimum wordt beperkt 
+Ambitieniveau: 2 
+ 
+Gevraagde actie 
+van de Inschrijver 
+De Inschrijver geeft een beschrijving waarmee hij ingaat op de 
+aandachtspunten en rekening houdt met de doelstelling van RWS CIV. 
+ 
+Maximaal 1 pagina’s A4, in lettertype Verdana lettergrootte 9, incl. 
+bijlagen, schema’s en overige visualisaties.  
+ 
+Beoordelingskader De mate waarin de aangeboden (beheers)maatregelen en resultaten 
+(prestaties) onderbouwd zijn en SMART gemaakt zijn en bijdragen aan het 
+bereiken van de doelstelling. 
+ 
+• Relevantie en ambitie van de voorgestelde maatregelen. 
+• Concrete resultaten en impact. 
+• Verantwoording en transparantie. De inschrijver geeft aan of hij gebruik 
+maakt van verifieerbare duurzaamheidsrapportages en/of certificeringen. 
+ 
+5.2.2 Kwaliteitscriteria Perceel 2 
+Het BPKV-criterium kwaliteit voor Perceel 2 is onderverdeeld in de kwaliteitscriteria: 
+ 
+Nr. Kwaliteitscriterium Scoringselement Wegings
+factor 
+KC 1 Plan van Aanpak Fase 1, fase 2, fase 3 
+Planning 
+Communicatie 
+Risicomanagement 
+80% 
+KC 2 Duurzaamheid op 
+basis van het 
+Ambitieweb (zie 
+voor meer 
+informatie Bijlage 3) 
+Energie & Klimaat 20% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 16 van 31 
+ 
+ 
+ 
+   100% 
+ 
+De genoemde kwaliteitscriteria worden nader uitgewerkt in de paragrafen hieronder. 
+5.2.2.1 Kwaliteitscriterium 1 Plan van Aanpak Perceel 2 
+ 
+Kwaliteitscriterium  
+ 
+KC1. Plan van Aanpak perceel 2 
+Doelstelling De opdrachtgever heeft als doelstelling om een robuuste, schaalbare en 
+nauwkeurige InSAR-verwerkingsmethode te laten ontwikkelen voor bruggen 
+en viaducten, waarmee deformatie tijdig kan worden gesignaleerd, risico’s 
+beter kunnen worden ingeschat, en zo wordt bijgedragen aan het veilig en 
+betrouwbaar functioneren van Rijkswaterstaat objecten. 
+Aandachtspunten Inschrijver kan een beschrijving geven zijn verwerkingsproces/methode 
+waarin o.a. een duidelijk beeld naar voren komt over: 
+ 
+• Fase 1: Onderzoeksfase 
+Inschrijver beschrijft de aanpak voor de ontwikkeling van een 
+dataverwerkingsmethode door toegepast onderzoek. 
+o Hoe gaat de inschrijver om met de vier technische uitdagingen 
+zoals beschreven in de Project Description P2 
+o Verwacht de inschrijver naast de vier genoemde uitdagingen nog 
+aanvullende technische knelpunten of risico’s? Beschrijf deze en 
+licht toe hoe hiermee wordt omgegaan. 
+o Op welke wijze is de voorgestelde methode robuust toepasbaar 
+op verschillende typen bruggen en viaducten, zonder of met 
+minimale aanvullende handelingen? 
+o Hoe worden objectparameters zoals type brug/viaduct, 
+overspanning, breedte, bouwmateriaal en ligging (over water of 
+over land) geïntegreerd in de verwerkingsstrategie? 
+o Zijn er aanvullende relevante objectparameters? Beschrijf de 
+invloed hiervan op de verwachte nauwkeurigheid (en 
+robuustheid) van de InSAR-resultaten. 
+ 
+• Fase 2: Generalisatiefase 
+Inschrijver laat zien hoe de in fase 1 ontwikkelde methode gegeneraliseerd 
+kan worden naar een robuuste dataverwerkingsmethode voor bredere 
+toepassing, waarbij robuust wordt gezien als toepasbaar en betrouwbaar 
+voor verschillende object types zonder of met minimale aanvullende 
+handelingen. Ook wordt een methode ontwikkeld om tot een verwachte 
+nauwkeurigheid en geschiktheid te komen per object.  
+o Hoe worden de objectparameters en resultaten uit fase 1 
+gebruikt om tot generieke methodes te komen waarmee de 
+robuustheid en de nauwkeurig uit fase 1 worden gehaald?  
+ 
+• Fase 3: Productie- en testfase 
+Inschrijver laat zien hoe de in fase 2 ontwikkelde gegeneraliseerde methode 
+getest en gevalideerd kan worden middels toegepast onderzoek.  
+o Hoe wordt de robuustheid, nauwkeurigheid en schaalbaarheid 
+van de ontwikkelde methode objectief getest en gevalideerd? 
+o Hoeveel objecten uit de objectenlijst (bijlage Lot2Phase2-
+3_object-list-disk) kan de inschrijver met de ontwikkelde 
+methode binnen het taakstellend budget analyseren en 
+opleveren? De objecten zijn geprioriteerd en moeten in volgorde 
+van prioriteit worden afgewerkt. De inschrijvers kunnen zo goed 
+onderling worden vergeleken.   
+o Op welke wijze wordt de representativiteit en objectiviteit van 
+het testplan gewaarborgd? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 17 van 31 
+ 
+ 
+• Planning  
+o Fase 1 
+o Fase 2  
+o Fase 3 
+• Communicatie/overleg met opdrachtgever 
+• Risicomanagement 
+o Minimaal 3 risico’s met bijbehorende beheersmaatregelen 
+Gevraagde actie 
+van de Inschrijver 
+De Inschrijver stelt een Plan van Aanpak op waarin inhoudelijk, relevant en 
+toepasselijk wordt ingegaan op de aandachtspunten, met inachtneming van 
+de doelstelling van RWS CIV. Het Plan van Aanpak dient helder, concreet en 
+navolgbaar te zijn, zodat de mate van robuustheid, nauwkeurigheid en 
+schaalbaarheid van de voorgestelde aanpak inzichtelijk wordt. 
+ 
+Maximaal 8 pagina’s A4, lettertype Verdana, minimale lettergrootte 9pt, 
+incl. bijlagen, schema’s en overige visualisaties. 
+ 
+Beoordelingskader De mate waarin de aangeboden inzichten, maatregelen en resultaten 
+(prestaties) onderbouwd zijn en SMART gemaakt zijn en bijdragen aan het 
+bereiken van de doelstelling. 
+ 
+ 
+5.2.2.2 Kwaliteitscriterium 2 Duurzaamheid Perceel 2 
+Kwaliteitscriterium  
+ 
+KC2. Duurzaamheid Perceel 2 
+Doelstelling De opdrachtgever heeft als doelstelling om in 2030 klimaatneutraal en 
+circulair te werken. 
+Aandachtspunten Aandachtspunten: 
+In de uitvoering dient minimaal gekeken te worden naar de mogelijkheid om 
+de volgende gekozen prioriteiten toe te passen: 
+• Energie en klimaat, waarbij beschreven wordt hoe de negatieve 
+milieu-impact van de dataverwerking (o.a. energieverbruik 
+datacenters, CO2-uitstoot) tot een minimum wordt beperkt 
+Ambitieniveau: 2 
+ 
+Gevraagde actie 
+van de Inschrijver 
+De Inschrijver geeft een beschrijving waarmee hij ingaat op de 
+aandachtspunten en rekening houdt met de doelstelling van RWS CIV. 
+ 
+Maximaal 1 pagina’s A4, in lettertype Verdana lettergrootte 9, incl. 
+bijlagen, schema’s en overige visualisaties.  
+ 
+Beoordelingskader De mate waarin de aangeboden (beheers)maatregelen en resultaten 
+(prestaties) onderbouwd zijn en SMART gemaakt zijn en bijdragen aan het 
+bereiken van de doelstelling. 
+ 
+• Relevantie en ambitie van de voorgestelde maatregelen. 
+• Concrete resultaten en impact. 
+• Verantwoording en transparantie. De inschrijver geeft aan of hij gebruik 
+maakt van verifieerbare duurzaamheidsrapportages en/of certificeringen. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 18 van 31 
+ 
+ 
+5.3 BPKV-criterium prijs 
+ 
+Ten behoeve van een objectieve beoordeling van de inschrijvingen is ervoor gekozen om een 
+format voor te leggen (zie bijlage ‘Prijsformulier’). Dit format is verplicht en dient door inschrijver 
+gevolgd te worden. 
+5.3.1 Eisen BPKV-criterium prijs 
+De totale inschrijfprijs per perceel komt tot stand door middel van het invullen van de Bijlage 
+‘Prijsformulier’  
+ 
+Voor Perceel 1 wordt de totale inschrijfprijs bepaald door de optelling van de totaalprijs voor de 
+monitoring van de 1e NOK opgeteld met de prijs voor 2x5 losse analyses en 2x5 quick scans. 
+ 
+Voor perceel 2 wordt de totale inschrijfprijs bepaald als optelsom van drie fasen:  
+• Fase 1, gemiddelde prijs per object: opgegeven bedrag wordt gedeeld door 5 objecten  
+• Fase 2, prijs voor fase 2 
+• Fase 3, gemiddelde prijs per object: taakstellend budget (€ 50.000,-) wordt gedeeld door 
+aantal opgegeven objecten.  
+ 
+ 
+De invulling van de financiële aanbieding dient te voldoen aan de volgende eisen. 
+• Alle prijzen en tarieven zijn in euro exclusief btw; 
+• Alle prijzen en tarieven staan vast gedurende de looptijd van de overeenkomst en de 
+optietermijnen;  
+• In de prijzen en tarieven zijn inbegrepen alle kosten om de opdracht te kunnen realiseren. Dit 
+betreft onder meer kosten voor projectmanagement, ontwikkelkosten, transportkosten, 
+verzekeringen, reis –en verblijfkosten, alle administratie- en kantoorkosten en alle verdere 
+bijkomende kosten en toeslagen; 
+• Inschrijver noemt de prijzen en tarieven van zijn financiële aanbieding uitsluitend in het 
+voorgelegde format en niet in andere documenten. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 19 van 31 
+ 
+ 
+6.  Beoordeling 
+ 
+In dit hoofdstuk is de beoordeling uitgewerkt. 
+ 
+Alvorens tot opening van de Inschrijvingen wordt overgegaan, is een beoordelingsinstructie 
+opgesteld. Deze beoordelingsinstructie is een intern Rijkswaterstaat document en wordt niet aan 
+Inschrijvers ter beschikking gesteld. De voor Inschrijvers relevante informatie is vermeld in dit 
+Beschrijvend document. 
+ 
+Rijkswaterstaat beoordeelt op basis van expert opinion. Dit houdt in dat deskundigen zich een 
+professioneel oordeel vormen op basis van de eigen kennis en expertise. Om de objectiviteit te 
+waarborgen wordt een (sub)beoordelingsteam zodanig samengesteld dat hierin alle relevante 
+disciplines vertegenwoordigd zijn. Hierbij geldt dat voor elk onderdeel van de beoordeling minstens 
+twee personen met de benodigde deskundigheid in het (sub)beoordelingsteam zitting hebben. 
+6.1 Beoordelen op volledige en rechtsgeldige Inschrijving 
+Aan de hand van de bij de Inschrijving verstrekte documenten wordt beoordeeld of de Inschrijving 
+voldoet aan alle voorwaarden en vereisten die zijn opgenomen in dit document. 
+ 
+De Inschrijver kan van verdere deelname aan deze aanbesteding worden uitgesloten en de 
+Inschrijving zal niet verder worden beoordeeld indien niet aan de voorwaarden en vereisten is 
+voldaan, tenzij binnen de grenzen van het aanbestedingsrecht herstel is toegestaan. 
+6.2 Beoordelen op uitsluitingsgronden en geschiktheid 
+Uitsluitingsgronden 
+Rijkswaterstaat sluit een Inschrijver uit wanneer een of meer uitsluitingsgrond(en) op Inschrijver 
+van toepassing is/zijn, tenzij Rijkswaterstaat de Inschrijver toch toe laat tot de 
+aanbestedingsprocedure op grond van artikel 2.86a, 2.87a of 2.88 Aanbestedingswet. Zie voor 
+meer informatie hoofdstuk 4. 
+ 
+Geschiktheidseisen 
+De beoordelaars beoordelen eerst individueel de inschrijvingen conform de instructies opgenomen 
+in de beoordelingsinstructie. Hierna worden de Inschrijvingen door de beoordelaars gezamenlijk 
+besproken om plenair in consensus tot een zorgvuldige beoordeling te komen.  
+ 
+Inschrijvers die niet voldoen aan een of meerdere geschiktheidseisen worden uitgesloten van de 
+verdere procedure. De geschiktheidseisen staan beschreven in hoofdstuk 4. 
+6.3 Beoordelen op eisen van de opdracht 
+Inschrijvingen die niet aan de eisen van de opdracht voldoen, worden uitgesloten van verdere 
+deelname aan de aanbesteding. 
+6.4 Beoordelen op gunningscriteria 
+De niet uitgesloten Inschrijvingen worden op basis van de BPKV-criteria (zie hoofdstuk 5) 
+beoordeeld. De Economisch meest voordelige Inschrijving is de Inschrijving met de hoogste totale 
+eindscore.  
+ 
+Beoordeling op BPKV-criterium kwaliteit 
+Elke beoordelaar beoordeelt eerst individueel de inschrijvingen conform de instructies opgenomen 
+in de beoordelingsinstructie. Hierna worden de Inschrijvingen door de beoordelaars gezamenlijk 
+besproken om plenair in consensus zorgvuldig één score voor ieder scoringselement toe te 
+kennen.  
+ 
+Indien voor een scoringselement geen consensus kan worden bereikt, wordt het rekenkundig 
+gemiddelde van de door de leden individueel toegekende scores bepaald en gehanteerd als de 
+score in consensus voor het betreffende scoringselement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 20 van 31 
+ 
+ 
+Bij de kwaliteitscriteria staat aangegeven welk beoordelingskader toegepast wordt en wat per 
+scoringselement de wegingsfactor is. De leden van het beoordelingsteam hanteren bij het 
+beoordelen van de genoemde scoringselementen onderstaande tabel. 
+ 
+Scoretabel 
+Score Toelichting 
+0 Inschrijver gaat niet of nauwelijks inhoudelijk, relevant en toepasselijk in op de 
+gevraagde aandachtspunten.  
+1 De uitwerking is van beperkte kwaliteit. Inschrijver gaat slechts ten dele 
+inhoudelijk, relevant en toepasselijk in op de gevraagde aandachtspunten. De 
+uitwerking is beperkt onderbouwd en houdt in enige mate verband met de 
+opdracht van Rijkswaterstaat. De uitwerking sluit beperkt aan bij het 
+kwaliteitscriterium. 
+2 De uitwerking is van een goede kwaliteit. Inschrijver gaat inhoudelijk, relevant 
+en toepasselijk in op de gevraagde aandachtspunten. De uitwerking is goed 
+onderbouwd en houdt duidelijk verband met de opdracht van Rijkswaterstaat. 
+De uitwerking sluit goed aan bij het kwaliteitscriterium. 
+3 De uitwerking is van zeer goede kwaliteit. Inschrijver gaat zeer goed 
+inhoudelijk, relevant en toepasselijk in op de gevraagde aandachtspunten. De 
+uitwerking is zeer goed onderbouwd en houdt uitstekend verband met de 
+opdracht van Rijkswaterstaat. De uitwerking sluit zeer goed aan bij het 
+kwaliteitscriterium en overtreft de verwachting. 
+ 
+ 
+ 
+Indien voor de uitwerking van het desbetreffende kwaliteitscriterium meer pagina’s dan het 
+maximaal aantal toegestane pagina’s worden ingediend, zal alleen de eerste pagina tot en met het 
+maximaal toegestane aantal pagina’s worden beoordeeld (bijv. een eventueel voorblad en/of 
+inhoudsopgave worden niet meegeteld). 
+ 
+Bepalen score per kwaliteitscriterium: 
+De score die door het beoordelingsteam toegekend is aan een scoringselement wordt 
+vermenigvuldigd met de bijbehorende wegingsfactor dat leidt tot de gewogen score per 
+scoringselement. De score per kwaliteitscriterium wordt vervolgens bepaald door optelling van de 
+gewogen scores van de bijbehorende scoringselementen. 
+ 
+Bepalen score voor het BPV-criterium kwaliteit: 
+De scores behaald op alle kwaliteitscriteria bij elkaar opgeteld leiden tot de score voor het BPKV-
+criterium kwaliteit. 
+ 
+Bepalen eindscore voor het BPV-criterium kwaliteit: 
+De eindscore voor het BPKV-criterium kwaliteit wordt als volgt bepaald: 
+  
+Kwaliteit: de Inschrijver die de hoogste score heeft behaald voor het BPKV-criterium kwaliteit 
+krijgt het maximumaantal punten voor kwaliteit (600 punten) toegekend. De overige Inschrijvers 
+krijgen een waardering die gerelateerd is aan de hoogste score voor het BPV-criterium kwaliteit 
+volgens de formule: 
+ 
+ 
+600 * (score BPV-criterium kwaliteit Inschrijver)/ (hoogste score BPV-criterium kwaliteit). 
+ 
+6.4.1 Beoordeling op BPKV-criterium prijs  
+De eindscore voor het BPKV-criterium prijs wordt als volgt bepaald: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 21 van 31 
+ 
+ 
+Prijs: de Inschrijver met de laagste inschrijvingsprijs krijgt het maximumaantal punten voor prijs 
+(400 punten). De beoordeling op de inschrijvingsprijs vindt plaats aan de hand van de volgende 
+formule: 
+ 
+ 
+400 * (laagste inschrijvingsprijs)/ (inschrijvingsprijs van de Inschrijver). 
+ 
+6.4.2 Vaststelling totale eindscore 
+De eindscore voor het BPKV-criterium prijs en de eindscore voor het BPKV-criterium kwaliteit 
+worden bij elkaar opgeteld en vormen de totale eindscore. De Inschrijver met de hoogste totale 
+eindscore komt voor gunning in aanmerking. 
+ 
+De totale eindscore van een Inschrijver wordt tot een geheel getal afgerond. Tot aan het moment 
+van het bepalen van deze totale eindscore worden cijfers niet afgerond. Indien twee of meer 
+Inschrijvers een gelijke totale eindscore hebben behaald en dit tot gevolg heeft dat Rijkswaterstaat 
+aan meer dan het gewenste aantal Inschrijvers zou moeten gunnen, zal door middel van loting 
+worden bepaald aan welke Inschrijver de opdracht gegund zal worden. 
+ 
+6.5 Beoordelen bewijsstukken 
+In dit Beschrijvend document is aangegeven welke bewijsstukken direct bij het indienen van de 
+Inschrijving overlegd moeten worden. De overige bewijsstukken hoeven pas ná verzoek van 
+Rijkswaterstaat overlegd te worden. Echter Inschrijver mag ook direct met zijn Inschrijving alle 
+bewijsstukken indienen.  
+ 
+Bewijsstukken die nog niet overlegd zijn zullen door Rijkswaterstaat, voorafgaand aan de 
+mededeling gunningsbeslissing, opgevraagd worden bij de Inschrijver die voor gunning in 
+aanmerking komt. Inschrijver dient deze bewijsstukken in beginsel binnen twee (2) werkdagen 
+aan te leveren. Indien Rijkswaterstaat dit vanwege een goede voortgang van de procedure 
+noodzakelijk acht, kan Rijkswaterstaat de bewijsstukken op een eerder moment opvragen bij alle 
+Inschrijvers. 
+ 
+De bewijsstukken dienen aan te tonen dat de Inschrijver daadwerkelijk voldoet aan het gestelde in 
+het ‘Uniform Europees Aanbestedingsdocument’ en de Inschrijving. 
+ 
+Indien Rijkswaterstaat niet akkoord is met de inhoud of geldigheid van één of meer van de door 
+Inschrijver overgelegde bewijsstukken, kan dat er toe leiden dat de Inschrijver voor het vervolg 
+van de procedure wordt uitgesloten. In een dergelijk geval zal Rijkswaterstaat opnieuw de 
+Inschrijving met beste prijs-kwaliteitverhouding bepalen. De scores van de terzijde gelegde 
+Inschrijver zullen uit de beoordeling worden gehaald. Vervolgens zullen de berekeningen op basis 
+van de beoordelingsmethodiek opnieuw worden uitgevoerd en zal er een nieuwe rangorde worden 
+bepaald. 
+ 
+ 
+ 
+.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 22 van 31 
+ 
+ 
+7.  Aanbestedingsprocedure, -vereisten en -voorwaarden 
+ 
+In dit hoofdstuk staan aanbestedingsprocedure, -vereisten en –voorwaarden vermeld welke gelden 
+voor deze aanbesteding. Het niet voldoen aan de aanbestedingsprocedure, -vereisten en –
+voorwaarden kan ertoe leiden dat de Inschrijving terzijde wordt gelegd. 
+7.1 Akkoordverklaring 
+Door het indienen van een Inschrijving, vergezeld van de bijlage ‘Akkoordverklaring’, gaat 
+Inschrijver uitdrukkelijk akkoord met alle eisen, vereisten en voorwaarden die in dit Beschrijvend 
+document zijn opgenomen. Een Inschrijving onder voorwaarden is niet toegestaan. Het ontbreken 
+van de bijlage ‘Akkoordverklaring’ of het ontbreken van de rechtsgeldige ondertekening in de 
+bijlage ‘Akkoordverklaring’ leidt tot terzijde legging van de Inschrijving. 
+7.2 Planning 
+De planning is opgenomen in het schema in paragraaf 1.4. 
+7.3 TenderNed 
+De aanbestedingsprocedure wordt elektronisch uitgevoerd door middel van TenderNed: 
+www.tenderned.nl. Alle aanbestedingsstukken zijn te downloaden van TenderNed. 
+Voor deelname aan de aanbestedingsprocedure dient een ondernemer te zijn geregistreerd in 
+TenderNed. Voor iedere bij de KvK geregistreerde Nederlandse onderneming is eHerkenning 
+verplicht om te kunnen registreren en inloggen. De gevolgen van het niet (tijdig) registreren van 
+eHerkenning zijn voor Inschrijver. De “Gebruiksvoorwaarden TenderNed” zijn van toepassing. 
+ 
+Van een Inschrijver wordt verwacht dat deze alle benodigde kennis heeft om op een correcte wijze 
+een aanbestedingsprocedure te kunnen doorlopen in TenderNed. Gebruik van TenderNed is voor 
+rekening en risico van de ondernemer, behoudens het bepaalde in paragraaf 7.11. 
+ 
+Alle communicatie met betrekking tot deze aanbestedingsprocedure verloopt via TenderNed, tenzij 
+anders bepaald. Het is niet toegestaan, in het kader van deze aanbestedingsprocedure contacten 
+te onderhouden of vragen te stellen anders dan via TenderNed. Indien de communicatie niet via 
+TenderNed kan plaatsvinden, kan Inschrijver contact opnemen met onderstaande 
+contactpersoon/contactpersonen: D. Chiang, david.chiang@rws.nl met een cc. aan inkoopcentrum-
+iv@rws.nl.  
+ 
+Het is niet toegestaan andere dan de hierboven genoemde contactperso(o)n(en) met betrekking 
+tot deze aanbesteding rechtstreeks te benaderen. 
+ 
+Voor vragen die gerelateerd zijn aan de functionaliteit of techniek van TenderNed, kan Inschrijver 
+contact opnemen met de servicedesk van TenderNed. Ook kan Inschrijver de website van 
+TenderNed raadplegen: TenderNed voor ondernemingen.   
+7.4 Vragen, inlichtingen en klachten 
+ 
+Vragen en inlichtingen 
+Gedurende de procedure kan Inschrijver vragen stellen via TenderNed. Vragen kunnen 
+bijvoorbeeld gaan over onduidelijkheden, tegenstrijdigheden of onjuistheden. Vragen moeten door 
+middel van de in TenderNed opgenomen faciliteit “vragen en antwoorden” worden ingediend. 
+Vragen moeten duidelijk zijn geformuleerd met een referentie naar het onderdeel van dit 
+document en/of de bijlage waarop de vraag betrekking heeft, eventueel met opgave van 
+correctievoorstellen. Alle vragen worden geanonimiseerd beantwoord. De uiterste datum voor het 
+stellen van vragen is opgenomen in de planning, echter moedigt Rijkswaterstaat Inschrijvers aan 
+zo snel mogelijk de vragen te stellen. RWS zal de vragen zo snel mogelijk beantwoorden. In elk 
+geval zullen alle gestelde vragen ten minste 10 kalenderdagen voor de uiterste datum van 
+indiening van de Inschrijving worden beantwoord. 
+ 
+Proactiviteit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 23 van 31 
+ 
+ 
+Van Inschrijvers wordt een proactieve houding verwacht. Dit betekent dat Inschrijver geen 
+rechtsgeldig beroep kan doen op onvolkomenheden of tegenstrijdigheden die niet door hem binnen 
+de hiervoor genoemde termijn aan de orde zijn gesteld, terwijl dit redelijkerwijs wel mogelijk was 
+geweest. Ten aanzien van deze onvolkomenheden of tegenstrijdigheden heeft Inschrijver in die 
+situatie zijn rechten verwerkt. 
+ 
+Individuele inlichtingen 
+Een Inschrijver kan gemotiveerd verzoeken om bepaalde informatie niet voor alle betrokkenen van 
+een aanbesteding inzichtelijk te maken indien openbaarmaking van deze informatieschade zou 
+toebrengen aan de gerechtvaardigde economische belangen van de Inschrijver. Inschrijver dient in 
+TenderNed ‘Individueel behandelen’ aan te vinken en het belang van individuele behandeling te 
+motiveren. Het is echter aan Rijkswaterstaat om te bepalen of de motivering van Inschrijver 
+betreffende het individueel behandelen van de vraag afdoende is. Het kan zijn dat Inschrijver een 
+individuele vraag stelt en dat Rijkswaterstaat de vraag gemotiveerd afwijst. Inschrijver dient aan 
+te geven of hij de vraag in dat geval beantwoord wil zien door middel van een algemene nota van 
+inlichtingen of dat hij de vraag intrekt. Individuele antwoorden zijn ondergeschikt aan de algemene 
+Nota van Inlichtingen. 
+ 
+Antwoorden van Rijkswaterstaat 
+De Nota van Inlichtingen maakt integraal onderdeel uit van dit Beschrijvend document.  
+Rijkswaterstaat gaat ervan uit dat met betrekking tot de onderdelen waarover geen vragen zijn 
+gesteld geen onduidelijkheden bestaan. 
+ 
+ 
+Klachtenregeling 
+Wanneer een Inschrijver het oneens is met de reactie van Rijkswaterstaat dan wel een reactie 
+uitblijft, kan hij een klacht indienen bij het Centrale Klachtenmeldpunt Aanbesteden 
+Rijkswaterstaat, via het e-mailadres: klachtenmeldpunt@rws.nl. 
+ 
+Het indienen van een klacht heeft in principe geen opschortende werking. 
+ 
+Informatiebijeenkomst 
+Rijkswaterstaat organiseert op woensdag 19 november, om 14:00 uur een informatiebijeenkomst. 
+Tijdens deze bijeenkomst geeft Rijkswaterstaat een toelichting op deze aanbesteding en de 
+opdracht. Inschrijver kan vooraf, tot het aangegeven tijdstip in onderdeel planning, vragen 
+indienen voor deze bijeenkomst. Indien mogelijk geeft Rijkswaterstaat tijdens de bijeenkomst een 
+voorlopig antwoord op de ingediende vragen. Aan de voorlopige mondelinge beantwoording kan 
+Inschrijver geen rechten ontlenen. De ingediende vragen worden definitief beantwoord via 
+TenderNed.  
+ 
+In het geval Inschrijver van de uitnodiging gebruik wil maken, wordt hij verzocht uiterlijk op het in 
+planning aangegeven tijdstip, te weten maandag 17 november 12:00, door middel van TenderNed, 
+‘Berichten’ kenbaar te maken door wie zijn organisatie vertegenwoordigd zal worden. Daarbij dient 
+Inschrijver tevens de e-mailadressen van de desbetreffende personen te verstrekken, zodat zij 
+uitgenodigd kunnen worden voor de digitale bijeenkomst. Er mogen maximaal 2 personen per 
+onderneming aanwezig zijn. 
+ 
+7.5 Gestanddoeningstermijn en Inschrijving 
+De door Inschrijver ingediende Inschrijving dient drie maanden gestand te worden gedaan na 
+uiterste datum voor het indienen van de Inschrijving. Ingeval tegen de mededeling van de 
+gunningsbeslissing bij de bevoegde rechter te Den Haag een voorlopige voorziening is gevraagd, 
+dienen de Inschrijvers hun Inschrijving in ieder geval gestand te doen tot vier weken na uitspraak 
+in eerste instantie.  
+7.6 Varianten 
+Inschrijver mag naast een Inschrijving conform het Beschrijvend document geen variant daarop 
+aanbieden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 24 van 31 
+ 
+ 
+7.7 Kosten van de Inschrijving 
+Rijkswaterstaat vergoedt geen kosten voor het opstellen en uitbrengen van een Inschrijving, met 
+inbegrip van eventueel te verstrekken nadere inlichtingen. 
+ 
+Eventuele kosten of schade welke (kunnen) ontstaan door het niet gunnen van deze aanbesteding 
+(aan Inschrijver) zijn voor rekening en risico van Inschrijver. 
+7.8 Stopzetten aanbesteding 
+Rijkswaterstaat behoudt zich het recht voor om tot het moment van ondertekening van de 
+beoogde Overeenkomst de aanbesteding geheel of gedeeltelijk, tijdelijk of definitief te stoppen. 
+Rijkswaterstaat zal in een dergelijke situatie bekijken of Inschrijver(s) recht hebben op vergoeding 
+van enigerlei kosten, gemaakt in het kader van deze aanbesteding. 
+ 
+In geval van stopzetting van de procedure worden de betrokken Inschrijvers gelijktijdig in kennis 
+gesteld van de redenen daartoe. Indien een betrokken Inschrijver niet binnen 7 kalenderdagen na 
+verzending van dit besluit een voorlopige voorziening vraagt, kunnen geen bezwaren meer worden 
+gemaakt naar aanleiding van deze beslissing en heeft hij zijn recht ter zake verwerkt. 
+7.9 Rangorde documenten 
+In geval van tegenstrijdigheden tussen het Beschrijvend document en de Nota van Inlichtingen, 
+prevaleert de Nota van Inlichtingen. Individuele antwoorden zijn ondergeschikt aan de algemene 
+Nota van Inlichtingen. 
+7.10 Verplichtingen op het gebied van milieu-, sociaal en arbeidsrecht 
+Inschrijver dient bij het opstellen van zijn Inschrijving rekening te houden met de verplichtingen 
+op het gebied van het milieu-, sociaal en arbeidsrecht uit hoofde van het recht van de Europese 
+Unie, nationale recht en collectieve arbeidsovereenkomsten en uit hoofde van de in bijlage X van 
+richtlijn 2014/24/EU vermelde bepalingen van internationaal milieu-, sociaal en arbeidsrecht. 
+Middels de bijlage ‘Akkoordverklaring’ verklaart Inschrijver dit te hebben gedaan.   
+ 
+Informatie over de verplichtingen ten aanzien van de bepalingen inzake belastingen, 
+milieubescherming, arbeidsbescherming en arbeidsvoorwaarden die gelden in Nederland en die 
+gedurende de looptijd van de Overeenkomst op de verrichtingen van Inschrijver van toepassing 
+zijn, zijn verkrijgbaar bij: 
+• voor bepalingen inzake belastingen: de Belastingdienst;  
+• voor bepalingen inzake milieubescherming: de Rijksoverheid; 
+• voor bepalingen inzake arbeidsbescherming en arbeidsvoorwaarden: het ministerie van Sociale 
+Zaken en Werkgelegenheid. 
+7.11 Indiening van de Inschrijving 
+De uiterste inleverdatum en tijd van de Inschrijving is vastgesteld in TenderNed en is een fataal 
+moment.  
+• De sluitingstijd voor het indienen van Inschrijvingen, aangegeven door de aftellende digitale 
+klok in TenderNed, is leidend.  
+• Rijkswaterstaat kan de Inschrijvingen pas inzien na het openen van de digitale kluis in 
+TenderNed. Deze kan pas worden geopend nadat de uiterste inleverdatum en tijdstip zijn 
+verstreken. Rijkswaterstaat neemt alleen Inschrijvingen in behandeling die in de digitale kluis 
+zijn aangetroffen. 
+• Het risico van te late indiening van de Inschrijving en/of indiening van een onvolledige 
+Inschrijving ligt bij Inschrijver.  
+• Rijkswaterstaat is niet verantwoordelijk noch aansprakelijk voor de gevolgen die Inschrijver 
+ondervindt van een te laat, incorrect of onvolledig ingediende Inschrijving. 
+ 
+In geval TenderNed op het uiterste tijdstip voor ontvangst van de inschrijving niet toegankelijk is 
+als gevolg van een storing bij eHerkenning, in TenderNed of aan het hoogspanningsnet, dan is er 
+sprake van een overmacht situatie. In voorkomend geval kan het uiterste tijdstip voor ontvangst 
+van de inschrijvingen, afhankelijk van de situatie en de gevolgen, door Rijkswaterstaat worden 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 25 van 31 
+ 
+ 
+uitgesteld. Het gewijzigde uiterste tijdstip voor ontvangst van de Inschrijvingen wordt bekend 
+gemaakt via TenderNed, ‘Rectificatie’. 
+ 
+Opening inschrijvingen 
+Opening van de digitale kluis is niet openbaar. Rijkswaterstaat zal vertrouwelijk omgaan met de 
+informatie die door Inschrijver wordt verstrekt. Het prijsdeel van de Inschrijving wordt pas 
+geopend na afronding van de kwalitatieve beoordeling. 
+ 
+7.12 Vorm en inhoud van de Inschrijving 
+Hieronder is een overzicht opgenomen van alle documenten die bij Inschrijving in TenderNed 
+dienen te worden ingediend en welke actie daarbij benodigd is. 
+ 
+Nr. Omschrijving Actie Inschrijver 
+1 Akkoordverklaring Bijlage ‘Akkoordverklaring’ invullen en 
+rechtsgeldig gekwalificeerd elektronisch 
+ondertekenen en toevoegen aan de 
+inschrijving in TenderNed. 
+2 Uniform Europees Aanbestedingsdocument(en)  Bijlage ‘Uniform Europees 
+Aanbestedingsdocument(en)’ invullen en 
+toevoegen aan de inschrijving in TenderNed. 
+3 Uittreksel beroeps- of handelsregister Toevoegen aan de inschrijving in TenderNed. 
+4 Gedragsverklaring aanbesteden Kan toegevoegd worden aan de inschrijving 
+in TenderNed. (Hoeft pas na verzoek 
+verstrekt te worden.) 
+5 Verklaring belastingdienst Kan toegevoegd worden aan de inschrijving 
+in TenderNed. (Hoeft pas na verzoek 
+verstrekt te worden.) 
+6 Referentieverklaring  Bijlage ‘Referentieverklaring’ per perceel 
+invullen en toevoegen aan de inschrijving in 
+TenderNed. 
+7 Kwaliteitscriteria  Kwaliteitscriteria per perceel uitwerken en 
+toevoegen aan de Inschrijving in Tenderned 
+ 
+8 De geoffreerde prijzen/tarieven  
+ 
+ 
+Bijlage ‘Prijzenblad’ per perceel invullen en 
+toevoegen aan de inschrijving in TenderNed. 
+9 End User License Agreement (EULA) Bijlage EULA Airbus + bijlage EULA E-Geos 
+ondertekenen en toevoegen aan de 
+inschrijving in TenderNed 
+ 
+De Inschrijving dient aan onderstaande vormvereisten te voldoen:  
+• De bij de Inschrijving te verstrekken documenten dienen volgens het voorgeschreven 
+format in pdf formaat te worden ingediend. 
+• De te ondertekenen bijlage ‘Akkoordverklaring’ dient ondertekend te zijn door een 
+rechtsgeldig bevoegde/gemachtigde vertegenwoordiger van Inschrijver middels een 
+gekwalificeerde elektronische handtekening (PKIoverheid certificaat of EU Qualified 
+certificaat), of indien gewenst, met een natte handtekening. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 26 van 31 
+ 
+ 
+Een “gekwalificeerde elektronische handtekening1” is een handtekening met een gekwalificeerd 
+certificaat. Zo'n certificaat is een digitaal bestand dat aan het oorspronkelijke document is 
+toegevoegd. Er zijn speciale instanties die certificaten uitgeven, de zogeheten 
+certificatiedienstverleners2. 
+ 
+Rijkswaterstaat acht het van groot belang dat de bijlage ‘Akkoordverklaring’ is ondertekend door 
+een persoon die bevoegd is (de rechtspersoon rechtsgeldig te vertegenwoordigen). Rijkswaterstaat 
+vraagt daarom een gekwalificeerde elektronische handtekening omdat deze met de meeste 
+waarborgen is omkleed. Een gekwalificeerde elektronische handtekening geeft Rijkswaterstaat de 
+grootst mogelijke zekerheid dat de handtekening is gezet door een bevoegd persoon en niet door 
+iemand anders. 
+ 
+Wanneer in het beroeps- of handelsregister is opgenomen dat twee of meer personen slechts 
+gezamenlijk vertegenwoordigingsbevoegd zijn, moet de bijlage ‘Akkoordverklaring’ die 
+rechtsgeldig dient te worden ondertekend, derhalve door die twee of meer personen ondertekend 
+te worden. Wanneer er bij de bevoegdheid tot het vertegenwoordigen van de onderneming 
+beperkingen zijn opgenomen, moet daarmee rekening worden gehouden. 
+ 
+In geval van een combinatie dient iedere combinant afzonderlijk de bijlage ‘Akkoordverklaring’ 
+rechtsgeldig door een bevoegde/gemachtigde vertegenwoordiger middels een gekwalificeerde 
+elektronische handtekening te ondertekenen. 
+7.13  Uniform Europees Aanbestedingsdocument (UEA) 
+Door middel van de bijlage ‘Uniform Europees Aanbestedingsdocument’, verklaart Inschrijver dat 
+de verplichte en de facultatieve uitsluitingsgronden, zoals opgenomen in Deel III van de UEA niet 
+op hem van toepassing zijn. Tevens verklaart de ondernemer middels Deel IV van de UEA dat hij 
+voldoet aan de gestelde geschiktheidseisen. (N.B. In Deel IV van het UEA wordt de term 
+selectiecriteria gebruikt; met die term worden de geschiktheidseisen bedoeld zoals vermeld in de 
+Aanbestedingswet). 
+ 
+Zie voor de wijze van Inschrijven in samenwerking met andere ondernemingen de paragraaf 
+‘Inschrijven in combinatie’ en/of ‘Inschrijven met beroep op draagkracht derde(n)’ waarin is 
+aangegeven van wie in dat geval een ingevulde ‘Uniform Europees Aanbestedingsdocument’ bij de 
+inschrijving moet worden ingediend.  
+7.14 Inschrijven in combinatie 
+Inschrijven kan zelfstandig of als samenwerkingsverband (combinatie). Indien twee of meer 
+ondernemers gezamenlijk als combinatie een inschrijving indienen: 
+• geldt dat elke deelnemer aan de combinatie ieder voor zich en gezamenlijk hoofdelijk 
+aansprakelijk is voor de gestanddoening van de verplichtingen die voortvloeien uit de 
+Inschrijving alsmede de uitvoering van de Overeenkomst; 
+• dient iedere combinant afzonderlijk de bijlage ‘Uniform Europees Aanbestedingsdocument’ 
+in te vullen waarbij onder andere moet worden vermeld  
+o wie de combinanten zijn (zie deel II van het ‘Uniform Europees 
+Aanbestedingsdocument’); 
+ 
+ 
+1 Elektronische handtekeningen die aan deze norm voldoen zijn bijvoorbeeld: PKIoverheid, EU Qualified, of 
+andere STORK IV handtekeningen, maar ook geavanceerde elektronische handtekeningen die zijn aangemaakt 
+met een gekwalificeerd middel voor het aanmaken van elektronische handtekeningen, gebaseerd op een 
+gekwalificeerd certificaat voor elektronische handtekeningen zoals omschreven in de Verordening (EU) nr. 
+910/2014 van het Europees Parlement en de Raad van 23 juli 2014. 
+2 De gekwalificeerde verleners van vertrouwensdiensten worden door de lidstaten opgenomen op een 
+zogenoemde vertrouwenslijst, ook wel ‘trusted list’ genoemd. Iedere lidstaat dient de Europese Commissie te 
+informeren over de vertrouwenslijsten. Op haar beurt heeft de Europese Commissie alle vertrouwenslijsten bij 
+elkaar gevoegd in een tool, die eenvoudig online is te vinden. Via deze tool kan per lidstaat de vertrouwenslijst 
+worden ingezien. Zo kan Inschrijver dus raadplegen welke certificaatdienstverleners in een lidstaat als 
+gekwalificeerde verlener van vertrouwensdiensten worden aangemerkt en bevoegd zijn om een gekwalificeerd 
+certificaat uit te geven. De Nederlandse overheid maakt gebruik van een certificaat dat wordt uitgegeven door 
+Public Key Infrastructure (PKI)-overheid. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 27 van 31 
+ 
+ 
+o welke rol de betreffende combinant heeft binnen de combinatie; 
+o wie de leiding (het penvoerderschap) van de combinatie heeft en als 
+verantwoordelijk gemachtigde optreedt. De penvoerder dient aldus bevoegd te zijn 
+om de combinatie te binden en op te treden namens die combinatie. De 
+penvoerder is de organisatie waarmee Rijkswaterstaat gedurende de looptijd van 
+de Overeenkomst, namens de combinatie, correspondentie voert over de 
+voortgang van de uitvoering en waaraan Rijkswaterstaat de betalingen verricht; 
+• dient iedere combinant de bijlage ‘Akkoordverklaring’ rechtsgeldig door een 
+bevoegde/gemachtigde vertegenwoordiger middels een gekwalificeerde elektronische 
+handtekening te ondertekenen. 
+• dient iedere combinant, voor zijn aandeel, de voor deze aanbesteding gevraagde 
+bewijsstukken te verstrekken. 
+ 
+7.15 Inschrijven met beroep op draagkracht derde(n) 
+Inschrijver (al dan niet een combinatie) kan een beroep doen op de draagkracht van een of 
+meerdere derde(n) om aan te tonen dat voldaan wordt aan de gestelde geschiktheidseisen. In dat 
+geval dient Inschrijver in deel II C van het ‘Uniform Europees Aanbestedingsdocument’ aan te 
+geven voor welke geschiktheidseis(en) hij een beroep doet op de draagkracht van de derde(n). 
+ 
+Het gebruikmaken bij de referenties van ervaring van een of meer derde(n), of het beroep doen op 
+een derde voor wat betreft zijn onderwijs- en beroepskwalificaties, is alleen toegestaan indien die 
+derde(n) bij de uitvoering van de onderhavige Overeenkomst wordt/worden ingezet en Inschrijver 
+ook daadwerkelijk over de kennis en ervaring van betreffende derde(n) kan beschikken en hiervan 
+ook feitelijk gebruik zal maken bij de uitvoering van de opdracht. 
+ 
+Als sprake is van een beroep op de draagkracht van derde(n) dient voor elk van de betrokken 
+derde een afzonderlijk ‘Uniform Europees Aanbestedingsdocument’ verstrekt te worden met de 
+informatie die wordt gevraagd in de afdelingen A en B van deel II en geheel deel III. Dit formulier 
+moet door de betrokken derde naar behoren worden ingevuld en ondertekend. De rechtsgeldig 
+bevoegde/gemachtigde vertegenwoordiger van de derde mag kiezen of hij met een 
+gekwalificeerde elektronische handtekening of met een originele handgeschreven handtekening 
+ondertekent (in laatstgenoemd geval dient het document na ondertekening gescand te worden). 
+ 
+Let op: In geval van een beroep op een of meerdere derde(n) dien(t)(en) deze zijn(/hun) ‘Uniform 
+Europees Aanbestedingsdocument’ dus zelf te ondertekenen. Het insturen van een ‘Uniform 
+Europees Aanbestedingsdocument’ van een onderaannemer zonder handtekening en vervolgens 
+(mede)ondertekening door een onderaannemer op de bijlage ‘Akkoordverklaring’ is aldus niet 
+toegestaan. 
+ 
+Ter verificatie worden de bewijsstukken Gedragsverklaring Aanbesteden (GVA) en de Verklaring 
+betalingsgedrag nakoming fiscale verplichtingen van de Belastingdienst gevraagd (kunnen bij 
+inschrijving ingediend worden, maar hoeven pas na verzoek van RWS verstrekt te worden). Zie 
+voor meer informatie 4.1. 
+ 
+Inschrijver is volledig aansprakelijk voor de gestanddoening van de verplichtingen voortvloeiend 
+uit de Inschrijving alsmede de eventuele uitvoering van de opdracht. Inschrijver is daarnaast 
+aansprakelijk voor de nakoming van de verplichtingen van de door hem ingeschakelde 
+derde(n)/onderaannemer(s). 
+ 
+Alle ingevulde en ondertekende bijlagen ‘Uniform Europees Aanbestedingsdocument’ dienen aan 
+de Inschrijving te worden toegevoegd. 
+ 
+7.16 Eénmaal Inschrijven 
+Een natuurlijk persoon, rechtspersoon of vennootschap kan slechts éénmaal een Inschrijving 
+indienen, hetzij individueel, hetzij in combinatie met andere natuurlijke personen, rechtspersonen 
+of vennootschappen, hetzij als onderaannemer waarop door de Inschrijver een beroep wordt 
+gedaan om te kunnen voldoen aan de gestelde geschiktheidseisen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RWS INFORMATIE  Pagina 28 van 31 
+ 
+ 
+ 
+Daarbij geldt voor Inschrijvers die onderling met elkaar zijn verbonden door een 
+afhankelijkheidsverhouding (concernrelatie) dat zij mogen deelnemen aan deze 
+aanbestedingsprocedure. Daarbij geldt de uitdrukkelijke voorwaarde dat zij als concurrenten aan 
+deze aanbesteding deelnemen. Hierbij moet middels een verklaring aangetoond worden dat de 
+onderlinge verhouding hun inschrijfgedrag in het kader van deze aanbestedingsprocedure niet 
+heeft beïnvloed en de eerlijke mededinging niet heeft belemmerd.  
+ 
+Het inschrijven op meerdere percelen, wordt door Rijkswaterstaat niet beschouwd als het indienen 
+van meerdere Inschrijvingen. 
+7.17 Communicatie en taal 
+Tijdens het aanbestedingstraject dient de communicatie met Rijkswaterstaat en de Inschrijving 
+plaats te vinden in de Nederlandse taal.  
+7.18 Algemene voorwaarden 
+Leverings-, betalings- en/of andere algemene voorwaarden –hoe dan ook genaamd- van 
+Inschrijver of zijn brancheorganisatie worden uitdrukkelijk niet geaccepteerd. Op de Overeenkomst 
+zijn de Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het verrichten van 
+diensten 2018 (ARVODI-2018) van toepassing. 
+7.19 Overeenkomst 
+De concept (Raam)Overeenkomsten, de bijbehorende Algemene voorwaarden en EULA’s zijn 
+opgenomen in de bijlagen. In de vragenronde hebben Inschrijvers de mogelijkheid om vragen te 
+stellen, opmerkingen en onderbouwde tekstvoorstellen te plaatsen. 
+ 
+Rijkswaterstaat is vrij in het al dan niet honoreren van de voorgestelde tekstvoorstellen. In de 
+Nota van Inlichtingen zal Rijkswaterstaat aangeven of zij de gedane voorstellen heeft geaccepteerd 
+dan wel verworpen.  
+7.20 Toelichting op en verificatie van de Inschrijving 
+Rijkswaterstaat kan verlangen dat Inschrijver zijn Inschrijving nader toelicht en/of voorziet van 
+onderbouwende documenten. Rijkswaterstaat is gerechtigd, maar niet verplicht, om alle op basis 
+van de Inschrijving in te dienen gegevens en verklaringen op hun juistheid te controleren. 
+7.21 BIBOB 
+Rijkswaterstaat kan tijdens de aanbestedingsprocedure gebruikmaken van de Wet Bevordering 
+Integriteitsbeoordelingen door het Openbaar Bestuur (hierna: Wet BIBOB). De Wet BIBOB beoogt 
+onder meer te voorkomen dat door aanbesteding van overheidsopdrachten de overheid onbedoeld 
+mogelijk bepaalde “criminele” activiteiten faciliteert. Rijkswaterstaat kan aan het Bureau BIBOB 
+om advies vragen voordat een beslissing wordt genomen inzake de gunning. 
+Het advies dat Bureau BIBOB op basis van de uitkomst van haar onderzoek zal uitbrengen geeft 
+Rijkswaterstaat een ondersteuning bij zijn e
+
+=== Document: nota van inlichtingen 2025-12-12-1 ===
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 1 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Algemene informatie
+Aanbesteding: Object Monitoring o.b.v. InSAR analyse
+Aanbestedende Dienst: Rijkswaterstaat Centrale Informatievoorziening
+Referentie: 31212460
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Informatiebijeenkomst
+Vraag:
+Why do you combine these completely different procurements into this 
+tender?
+Antwoord:
+The tender contains two separate lots. Combining them into one procedure is 
+efficient and not uncommon. It avoids running two parallel tenders while 
+still allowing suppliers to compete per lot and is in line with EU procurement 
+rules concerning the use of lots.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+2 Informatiebijeenkomst
+Vraag:
+Can a tenderer apply for only one lot?
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 2 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Antwoord:
+No. Tenderer may submit a bid for both the lots. If a Tenderer has submitted 
+bids for both lots (is highest in ranking for both lots) and is the only tenderer 
+for one of the lots, RWS may decide to award both lots to that tenderer. If 
+this is not the case, the lot will be awarded to the next Tenderer in the 
+ranking. If Tenderer wishes to tender for both lots, a preferred Lot should be 
+indicated.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+3 Informatiebijeenkomst
+Vraag:
+In the presentation it was indicated that the technical requirements could be 
+changed. Which members or parties within RWS are part of making changes 
+on the technical requirements?
+Antwoord:
+The technical requirements can be adjusted, in consultation with the 
+supplier, on initiative of RWS or the supplier. Within RWS remote sensing 
+experts are in charge of this proces. Any adjustments will always remain 
+within the scope and framework defined in the tender documents.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 3 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+4 Informatiebijeenkomst
+Vraag:
+Is all InSAR procurement going into this contract? Is it the intention to 
+procure all InSAR data for RWS through this contract or also outside it?
+Antwoord:
+No, performing object monitoring based on InSAR analysis for 
+Rijkswaterstaat is not exclusively reserved for this contract.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+5 Informatiebijeenkomst
+Vraag:
+Why is the total potential value limited for lot 1?
+Antwoord:
+The quantities indicated are intended as a guideline and are determined by 
+the expected demands and needs.
+Frameworkcontracts (Lot 1) are by law allocated a maximum value.
+Fase:
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 4 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+6 Informatiebijeenkomst
+Vraag:
+Why can a Tenderer only win one of the two lots?
+Antwoord:
+To safeguard competition, avoid dependency, and stimulate innovation, 
+RWS has chosen that one supplier cannot win both lots. If the Tenderer has 
+already been awarded 1 lot and there are no other interested parties to whom 
+the remaining lot can be awarded, RWS retains the right to award the 
+remaining lot to the same Tenderer.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+7 Informatiebijeenkomst
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 5 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vraag:
+Will the people who wrote the tender also be part of the evaluation team?
+Antwoord:
+Yes. RWS evaluates on the basis of expert opinion. The technical experts 
+who helped prepare the tender documents will also take part in the 
+evaluation, as their expertise is required to assess the technical quality of the 
+submissions. The evaluation will be performed in accordance with the 
+procedures and criteria described in the Tender Documents.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+8 Informatiebijeenkomst
+Vraag:
+Lot 1 seems to consist of 2 different type of contracts. How does this work? 
+Who gets the second contract?
+Antwoord:
+Lot 1 consists of a framework agreement under which RWS calls off further 
+specific agreements (NOKs). After completion of the tender procedure, the 
+winner of Lot 1 signs both the framework agreement and, at the same time, 
+NOK-1 for the monitoring of 3 tunnels. The analyses for additional objects 
+(NOK-2, -3, -4, etc.) are also assigned to the winner of Lot 1.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 6 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+9 Informatiebijeenkomst
+Vraag:
+After awarding Lot 1 to a supplier. Could different supplier get the other 
+objects/contracts in Lot 1 if the first supplier fails?
+Antwoord:
+No, the other objects/contracts under Lot 1 cannot be awarded to another 
+supplier. If the supplier does not deliver according to the Technical 
+requirements and Project description the general terms and conditions 
+(ARVODI-2025) are applicable.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+10 Informatiebijeenkomst
+Vraag:
+In the presentation it was indicated that RWS may terminate the contract if 
+the maximum quantity is reached — can you give an example?
+Antwoord:
+As stated in Article 2.4 of the Framework Agreement, in addition to 
+ARVODI-2025 Article 21, the Contracting Authority may terminate the 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 7 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Framework Agreement with immediate effect if the maximum quantity and
+/or maximum contract value described in the Tender Documents has been 
+reached, or would be exceeded by awarding the next Call-off.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 27 nov 2025
+Ref.nr. Onderwerp:
+11 Informatiebijeenkomst
+Vraag:
+Why are these specific millimetre requirements included in the documents?
+Antwoord:
+In Dutch rail and road infrastructure a 3 to 5 mm change is indicated as 
+"significant deformation" and a 10 mm change an indication of "possible 
+failure" within the construction. To be able to correctly identify such small 
+changes from point to point in time, measurement accuracies must be a 
+factor 3 to 5 smaller. This why the measurement accuracies of 1mm per 
+individual measurement are mentioned in the documents. The InSAR 
+analysis should aim to get as close as possible to this target but it is not 
+formulated as a hard technical requirement and thus not included in the 
+Technical Requirements.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 8 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 1 dec 2025
+Ref.nr. Onderwerp:
+12 Level 3 data
+Vraag:
+Voor de level-3 data, is de aanname dat de elementen alleen horizontaal 
+bewegen in de lengterichting van de tunnel bevestigd door middel van in-situ 
+metingen, of is dit uitsluitend afgeleid uit overwegingen van het mechanisch 
+gedrag van de tunnel?
+Antwoord:
+The elements of open tunnels can move in all directions but mainly move in 
+longitudinal direction. This is confirmed by experts and in-situ 
+measurements. For this processing the assumption is that the elements only 
+move longitudinal and vertical.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+13 Algemeen meethistorie tunnels
+Vraag:
+Meer algemeen, zijn de vervormingen van tunnelelementen zoals gemeten 
+bij eerdere contacten gecontroleerd met behulp van in-situ metingen? Indien 
+dat inderdaad het geval is, hoe zijn deze tegenstrijdige metingen uitgevoerd?
+Antwoord:
+Yes, in-situ measurements are available for several tunnels from total 
+stations and displacement sensors on the expansion joints. This allows for a 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 9 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+match-up between the datasets.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+14 Budget
+Vraag:
+Wat is het geplande budget voor het gehele perceel 2? Het document 
+vermeldt alleen het budget voor Fase 3 – productie en testen, en sluit Fase 1 
+– onderzoek op vijf objecten, en Fase 2 – generalisatie uit.
+Antwoord:
+It is not entirely clear to RWS what is meant precisely by ‘exclude’. For Lot 
+2, no maximum budget (taakstellend) has been set for phases 1 and 2; 
+tenderers are required to submit an offer for these phases based on the scope 
+of work described in the tender documents.
+For phase 3, a maximum budget (taakstellend) has been set. Tenderers must 
+indicate how many additional objects (on top of the first five objects from 
+phases 1 and 2) can be analysed within this budget.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 10 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+15 Budge
+Vraag:
+Dit betreft een contractverlenging. Is het geplande budget voor perceel 1 
+gelijk aan het vorige budget voor perceel 1 (aangepast indien nodig voor het 
+aantal te monitoren objecten), of is het aanzienlijk anders? En als dat het 
+geval is, is het hoger of lager en wat is de reden voor deze wijziging?
+Antwoord:
+The question is based on an incorrect assumption. This does not concern a 
+contract extension but a new contract in the form of a framework agreement 
+for Lot 1. A comparison with any "previous" budget for Lot 1 is therefore 
+not applicable.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+16 Kwaliteitscriterium 1, Perceel 2
+Vraag:
+Voor dit perceel dient een aanzienlijke inspanning geleverd te worden voor 
+het BPKV-criterium. U vraagt om een plan van aanpak te schrijven van 8 
+pagina's A4. In relatie tot het voorziene budget voor dit perceel, achten wij 
+de vereiste inspanning om te komen tot een aanbieding niet in verhouding. 
+Graag dit terugbrengen tot een plan van aanpak van maximaal 3 pagina's
+Antwoord:
+No, the maximum number of pages remains unchanged, as the assignment as 
+a whole consists of three phases: phase 1 (research), phase 2 (generalisation) 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 11 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+and phase 3 (production and testing). The maximum budget (taakstellend) of 
+EUR 50,000 applies only to phase 3; the other phases must be priced by the 
+tenderer. In addition, eight pages is the maximum number of pages permitted.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+17 Bijlage 6
+Vraag:
+In cel K11 staat 'aantal objecten' 1 opgenomen. In het beschrijvend 
+document (hoofdstuk 5.3.1) staat echter omschreven dat de prijs voor fase 1 
+gedeeld wordt door 5 objecten. Kunt u aangeven welke van de twee klopt?
+Antwoord:
+Correct, there is an error in the Descriptive Document section 5.3.1 
+(Beschrijvend document). The pricing sheet (Annex 6) is leading and is 
+correct.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 12 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Ref.nr. Onderwerp:
+18 Beschrijvend document 7.18
+Vraag:
+Hier wordt de ARVODI-2018 genoemd. Kunt u bevestigen dat voor deze 
+opdracht de ARVODI-2025 geldt?
+Antwoord:
+Yes, ARVODI-2025 applies to this assignment.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+19 Beschrijvend document 6.4
+Vraag:
+In 6.4 lijkt er een uitsluitingsgrond op basis van een minimale 
+kwaliteitsscore te missen. Op deze manier loopt Rijkswaterstaat bij weinig 
+geschikte inschrijvingen het risico de LOT te moeten gunnen aan een 
+leverancier met onvoldoende kwaliteit, gezien leveranciers slechts 1 LOT 
+kunnen winnen bij meer dan 1 inschrijver. Voorstel om hier een minimale 
+kwaliteitsscore toe te voegen
+Antwoord:
+No, a knock-out criterion will not be applied. Given the limited number of 
+companies active in this market, it has been decided not to include such a 
+criterion. Furthermore, the contract will be awarded on the basis of price and 
+multiple quality criteria. Therefor, no changes will be made in this respect.
+Fase:
+ Inschrijffase
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 13 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+20 Beschrijvend document 7.14
+Vraag:
+Is het mogelijk om voor LOT1 in te schrijven met een andere combinatie
+/consortium dan voor LOT2? Hoe werkt dit wat betreft de inschrijving en de 
+in te vullen documenten?
+Antwoord:
+Yes, that is allowed. The lots are separate contracts and tenderers are free to 
+decide on which lots they submit a tender. The composition of a consortium 
+submitting an offer for Lot 1 does not have to be the same as the consortium 
+submitting an offer for Lot 2. Sections 7.12 to 7.15 of the Descriptive 
+Document set out the requirements regarding the form and content of each 
+tender.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+21 Bijlage F 4.4
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 14 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vraag:
+Staat opdrachtgever ervoor open om een jaarlijkse indexatieclausule toe te 
+voegen aan het contract? Zoals bijvoorbeeld in Bijlage F1, artikel 4.3
+Antwoord:
+No, an (annual) indexation clause will not be added due to the duration of 2
+(+1) years of the windowcontract. 
+In the draft version of Annex F1 – Concept Overeenkomst NOK1 Perceel 1 
+an incorrect indexation clause has been inadvertently included. This will be 
+corrected in the new version "Bijlage F1 Concept Overeenkomst NOK1 
+Perceel 1 v1.1".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+22 ARVODI-2025 19.2
+Vraag:
+Kunt u akkoord gaan met het definiëren van 'opdrachtwaarde' als de waarde 
+van de opdracht onder de NOK waar de schade beperking op heeft?
+Antwoord:
+Yes, ‘contract value’ may be interpreted as the value of the relevant contract.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 15 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+23 Bijlage G 5
+Vraag:
+Gezien het hier een onderzoek/ontwikkel opdracht betreft, is de overgang 
+van het Intellectueel Eigendom van de resultaten naar Opdrachtgever 
+onwenselijk. Het ligt in de lijn der verwachting dat leveranciers nieuwe 
+software en methodieken zullen ontwikkelen voor deze opdracht, welke 
+mogelijk integraal verweven zijn met bestaande software van leverancier. 
+Leverancier dient vrij te zijn om het bestaande en ontwikkelde Intellectueel 
+Eigendom op andere manieren te exploiteren. Mogelijke oplossingsrichting 
+is een andere definitie van 'Resultaat' onder deze opdracht door het artikel 
+alleen van toepassing te verklaren op de geleverde bestanden ('deliverables'). 
+Staat u hiervoor open?
+Antwoord:
+Developed strategies for mitigating the following challenges must be shared 
+in a public report with Rijkswaterstaat to enable knowledge transfer 
+(deliverable D), though only general methodological approaches and 
+principles need be disclosed rather than proprietary technical details or 
+specific implementations. The IP of pre-existing proprietary software, tools 
+or other components remain with the contractor. 
+Furthermore, academic publication of methods and anonymised results is 
+permitted but requires our approval.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 16 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Ref.nr. Onderwerp:
+24 Publication
+Vraag:
+For LOT2, can data, methods and results be published in academic 
+publications?
+Antwoord:
+See the answer to question 23
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+25 Project description perceel 2
+Vraag:
+Can you clarify whether Rijkswaterstaat will be assessing the outcomes of 
+phase 1 and, if yes, with respect to which metrics? Can you clarify whether 
+phase 2 and 3 are still executed after a negative assessment?
+Antwoord:
+The products of phase 1 will be assessed on the criteria in the tender 
+documents by both InSAR and geotechnical experts of Rijkswaterstaat. 
+Phase 2 and 3 will be started when plausible results are achieved for all 5 
+objects in phase 1.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 17 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+26 Project description perceel 2
+Vraag:
+Referring to the text below the tables in paragraph 1.9 (p.8). Can 
+Rijkwaterstaat specify the required delivery frequency for phase 3?
+Antwoord:
+The exact delivery frequency is related to the number of object complexes 
+that will be processed in phase 3, but the aim is to spread out deliveries to 
+ensure a balanced workload and timely feedback. A guideline is 6 deliveries 
+a year.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+27 Bijlage B Project Description v1.0 perceel 2
+Vraag:
+2.1, pagina 9. OG biedt 1 partij de kans om een oplossing te ontwikkelen in 
+perceel 2. Dit leidt mogelijk tot een vendor lock-in voor OG. Hoe gaat OG 
+zorgen voor een level-playingfield richting toekomstige aanbestedingen?
+Antwoord:
+The result is to develop recommended processing strategies that are 
+documented and transferable. Therefore, we expect to have adequately 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 18 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+limited the risks regarding potential vendor lock-in.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+28 Bijlage B Project Description v1.0 perceel 2
+Vraag:
+2.1, pagina 9. Er dient een publieke rapportage te worden opgeleverd met 
+daarin de 'generieke' aanpak. Kan OG aangeven welke richtlijnen er gebruikt 
+worden te toetsen wat 'generiek' is en wat 'specifiek'?
+Antwoord:
+The term 'generic' refers to methodological principles and approaches that 
+enables knowledge transfer of the developed processing strategies, such as 
+descriptions of workflows, assumptions and decision criteria. The term 
+'specific' refers to proprietary technical details, such as source code, which 
+do not need to be disclosed. The end goal of this lot is to overcome 
+implementation barriers and allow for knowledge transfer regarding the 
+recommended processing strategies.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 19 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+29 Bijlage B Project Description v1.0 perceel 2
+Vraag:
+Hoofdstuk 5. Waarom beoordeelt OG percelen 1 en 2 met dezelfde criteria 
+(40% prijs / 60% kwaliteit), terwijl perceel 2 veel meer gericht is op 
+ontwikkeling dan perceel 1. Verzoek om perceel 2 meer op kwaliteit te 
+beoordelen. Bij opdrachten met een dergelijke maat van innovatie zoals in 
+LOT2 zien we vaak een taakstellend budget voor alle fases, samen met een 
+100% beoordeling op kwaliteit. Hoe kijkt u hier naar m.b.t. LOT2?
+Antwoord:
+For both Lot 1 and Lot 2, quality is essential in achieving Rijkswaterstaat’s 
+objectives. For that reason, the award criteria and their respective weightings 
+have been set identically for both lots.
+Rijkswaterstaat sees no reason to adjust the price–quality ratio(s).
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+30 Bijlage H (ARVODI-2025), Artikel 3
+Vraag:
+Dit artikel benoemd dat de uit te voeren Diensten “geschikt moeten zijn voor 
+het beoogd gebruik zoals dat uit de Overeenkomst voortvloeit.” Deze 
+formulering duidt op een fit-for-purpose bepaling, hetgeen een vergaande 
+resultaatsverplichting inhoudt. Voor onderhavige dienstverlening is dat niet 
+passend: advies en ingenieursdiensten zijn naar hun aard 
+inspanningsverplichtingen (intellectuele dienstverlening) en geen 
+resultaatsverplichtingen (zoals het tot stand brengen van werken of het 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 20 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+leveren van materialen). Een resultaatsverplichting houdt bovendien in dat 
+een enkele tekortkoming al leidt tot schadeplichtigheid, ongeacht of die 
+tekortkoming aan ons kan worden toegerekend. Daarmee wordt onze 
+aansprakelijkheid aanzienlijk verruimd ten opzichte van de wettelijke 
+regeling. Een dergelijk aansprakelijkheidsverruimend beding is bovendien 
+niet verzekerbaar. Bent u bereid te bevestigen dat géén fit-for-purpose 
+verplichting geldt voor onderhavige opdracht?
+Antwoord:
+Rijkswaterstaat confirms that this provision does not create a fit-for-purpose 
+result obligation. The services under this contract are best-efforts obligations.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+31 Bijlage H (ARVODI-2025), Algemeen
+Vraag:
+In het beschrijvend document wordt verwezen naar ARVODI-2018. In de 
+documenten (lees: bijlagen) zelf wordt telkens verwezen naar ARVODI-
+2025. Klopt het dat ARVODI-2025 toepassing heeft?
+Antwoord:
+Yes, ARVODI-2025 applies to this assignment.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 21 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+32 Bijlage F (Artikel 7.1) en Bijlage G (Artikel 5), in combinatie met artikel 23 
+ARVODI
+Vraag:
+Dit artikel benoemt dat auteursrechten en databankrechten op de resultaten 
+van de Diensten worden overgedragen aan de Opdrachtgever. Kunt u 
+bevestigen dat deze overdracht uitsluitend betrekking heeft op resultaten die 
+in het kader van deze opdracht worden gecreëerd, en niet op pre-existente 
+intellectuele eigendom van de opdrachtnemer (zoals eigen software, 
+algoritmes en methodieken)?
+Antwoord:
+See answer to question 23
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+33 Bijlage C, par. 4.2 (2) pg. 9
+Vraag:
+It is stated: “A (weighted) method must be used to derive representative 
+level 3 time series from the level 2 time series.”
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 22 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Could you please clarify the following:
+What is meant by “level 3 time series” in this context? Does this refer to the 
+time series before or after decomposition?
+If it refers to before decomposition, are you requesting information on the 
+selection criteria for level 2 time series that will be used in the 
+decomposition?
+Antwoord:
+Level 3 time series refers to aggregated, representative deformation time 
+series for structural elements, derived from Level 2 measurements using a 
+weighted approach. This can be deformation time-series in line-of-sight for a 
+single track and decomposed time-series. We require information on your 
+strategy with regards to the computation of a representative weighted 
+average from time-series of measurement points to deformation time-series 
+of level-3 elements.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+34 Bijlage C, par. 4.2 (1) pg. 9
+Vraag:
+It is stated: "Only measurement points inside a polygon may be used for the 
+decomposition of the deformation of the respective polygon."
+Could you please clarify the reason for this requirement? In our experience, 
+including only measurement points inside the polygons may limit the final 
+results. Would you kindly consider removing this requirement?
+Antwoord:
+No, this requirement will not be removed. Failure (or an indication thereof) 
+of parts of an structure are seen by a shift in position or in behavior in 
+respect to other parts of the same structure/object. The polygons represent 
+those different parts of the structrure. Including points from outside this 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 23 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+structural element would mix signals from different parts of the structure, 
+thereby removing the signal we are searching for.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+35 Bijlage C, par. 3.1.2, pg. 6
+Vraag:
+It is stated "The level 3 polygon deformation." Could you please clarify the 
+definition of a polygon in this context? Does the term refer to the individual 
+elements of the provided bridge, or is it meant to represent something else?
+Antwoord:
+Level 3 polygons should reflect elements that can, more or less, move 
+individually.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 24 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Ref.nr. Onderwerp:
+36 Bijlage B, par. 2.3, pg. 10
+Vraag:
+It is stated: "The delivery of the line of sight, horizontal and vertical 
+displacement time-series of the object in (if applicable) uniformly moving 
+segments…"
+Relative deformations can be observed within a segment. Could you clarify 
+what is meant by "uniformly moving segments"?
+Antwoord:
+Level 3 segmentation is based upon expected behavior containing uniformly 
+moving segments, ie segments moving in its entirety. However, if level 2 
+measurements show other patterns (e.g., relative deformations within 
+segments), segmentation can be adjusted to address this, but requires our 
+approval before final level-3 processing as is mentioned in the 
+tenderdocuments.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+37 Bijlage B, par. 2.1, pg. 9
+Vraag:
+It is requested to develop "… method(s) where phase differences between 
+bridge decks will not cause problems." Could you clarify what is meant by 
+phase differences between bridge decks?
+Antwoord:
+Bridges experience displacements that may strongly vary in the longitudinal 
+direction of the bridge resulting in phase differences. Expansion joints allow 
+for buffering displacements (e.g., thermal expansion). Adjacent bridge decks 
+(separate segments) can move in different directions resulting in phase 
+differences between bridge decks. This should be accounted for as some 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 25 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+unwrapping strategies rely on spatial correlation.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+38 Beschrijvend document, par. 4.3.2.1
+Vraag:
+In Kerncompetenties P1-1 en P2-1 vraagt u specifiek om 1 infraproject 
+deformatiemetingen o.b.v. InSAR-technieken op basis van hoge resolutie 
+satellietbeelden (3x3 meter). Dit is dusdanig specifiek, dat het aantal 
+inschrijvers wat hieraan voldoet beperkt wordt. Hoewel een hogere resolutie 
+doorgaans leidt tot meer beschikbare pixels voor de uiteindelijke Level-3 
+analyse, is het verschil in verwerking tussen 3x3m en 5x5m satellietbeelden 
+in de praktijk gering. De essentie van de techniek schuilt immers vooral in 
+het omzetten van deze data naar bruikbare en betrouwbare informatie. Door 
+de kerncompetentie nu heel specifiek aan 3x3m te verbinden wordt de 
+mededinging onnodig belemmerd aangezien de geschiktheid wordt 
+afgemeten aan de gebruikte input data in projecten en niet aan de 
+competenties. De eis is om die reden naar onze mening niet proportioneel.
+Kunt u instemmen met de wijziging dat ‘1 infraproject deformatiemetingen o.
+b.v. InSAR-technieken op basis van hoge resolutie satellietbeelden (5 x 5 
+meter) succesvol zijn toegepast’?
+Antwoord:
+In our view, the differences between processing 3x3m and 5x5m satellite 
+images are not minimal. Correctly handling the differences in wavelength, 
+resolution and noise, and extracting the added value of working at a higher 
+resolution, is not trivial. Therefor RWS will not change the core 
+competencies as stated in 4.3.2.1 (of Bescrijvend document).
+Fase:
+ Inschrijffase
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 26 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+39 Beschrijvend document
+Vraag:
+In de aanbestedingsdocumenten wordt voor het gebruik van door 
+Rijkswaterstaat aangeleverde satellietdata verwezen naar de EULA’s (End 
+user license agreement) van Airbus en e-GEOS (bijlage I en J). De 
+opdrachtnemer dient zich van Rijkswaterstaat te baseren op deze data, terwijl 
+de beide leveranciers in hun voorwaarden expliciet aangeven dat zij niet 
+instaan voor de juistheid, volledigheid of geschiktheid van de data. Het is 
+dan ook moeilijk voor te stellen dat de opdrachtnemer daar dan wel voor 
+instaat. 
+Kunt u bevestigen dat:
+1. De opdrachtnemer niet aansprakelijk wordt gehouden voor onjuistheden 
+en onvolledigheden in door Rijkswaterstaat aangeleverde data (zoals 
+satellietdata van Airbus en e-GEOS)?
+2. Rijkswaterstaat bereid is om in de overeenkomst een vrijwaringsclausule 
+op te nemen waarin wordt vastgelegd dat de opdrachtnemer wordt 
+gevrijwaard van aanspraken van derden (waaronder ook Rijkswaterstaat) die 
+voortvloeien uit gebreken in door Rijkswaterstaat aangeleverde data (zoals 
+satellietdata van Airbus en e-GEOS)?
+Antwoord:
+The Contractor will not be held liable for inaccuracies or incompleteness in 
+satellite data provided by Rijkswaterstaat. RWS is willing to include a clause 
+in the agreement, stating that the contractor will be indemnified against 
+claims from third parties (including RWS) arising from defects in satellite 
+data provided by Rijkswaterstaat.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 27 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+40 C. Technische eisen
+Vraag:
+In sectie 4.1 van de technische eisen wordt vermeld dat DS-InSAR vereist is 
+om de puntdichtheid en dekking te maximaliseren.
+Voor tunnels en andere civieltechnische constructies wordt echter over het 
+algemeen verwacht dat men vertrouwt op PS in plaats van DS, waarvan de 
+nauwkeurigheid van vervormingsmetingen doorgaans lager is. In dezelfde 
+zin wordt impliciet vereist dat reflectiepunten van goede kwaliteit behouden 
+blijven.
+Moet de analyse in gelijke mate steunen op zowel PS-InSAR als DS-InSAR, 
+of – indien voldoende PS wordt geïdentificeerd – voornamelijk op PS-
+InSAR?
+Antwoord:
+Rijkswaterstaat requires both PS-InSAR and DS-InSAR to extract the 
+movement of the structures for the mentioned reasons. An approach using 
+only PS-InSAR is not permitted.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+41 Technical Requirements for InSAR Processing Object Monitoring based on 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 28 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+InSAR-analysis (ID: 31212460) >> Hoofdstuk 2 – Evaluation Procedure 
+(beschrijving DAR, geen criteria genoemd)
+Vraag:
+Kan Rijkswaterstaat drempelwaarden geven die worden gebruikt in het 
+Delivery Assessment Report (DAR) om producten goed of af te keuren? 
+Bijvoorbeeld voor “Point location”, “Spatial coverage” etc.
+Antwoord:
+No, the Delivery Assessment Report provides descriptions of our data 
+quality checks. As results can vary per object, we do not provide thresholds.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+42 Technical Requirements for InSAR Processing Object Monitoring based on 
+InSAR-analysis (ID: 31212460) - >> 4.1 punt 5 en 5.2.2 Elevation Data 
+(AHN als bron genoemd, geen versievoorkeur)
+Vraag:
+Welke AHN-versie moet worden gebruikt voor georeferencing en height-
+snapping, en hoe moet worden omgegaan met verschillen tussen AHN2/3/4 
+binnen één AOI?
+Antwoord:
+As stated in Technical Requirements 4.1.5: The product must be 
+georeferenced with recent Actueel Hoogtebestand Nederland (AHN) data 
+and spatially referenced. Any manual shifting must be reported and justified.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 29 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+43 Technical Requirements for InSAR Processing Object Monitoring based on 
+InSAR-analysis (ID: 31212460) - >> 4.1 punt 2 (suggesties voor referencing 
+genoemd)
+Vraag:
+Is er een voorkeursmethode voor het refereren van Level 2 tijdseries 
+(referentiegebieden vs. meerdere referentiepunten), of is volledige vrijheid 
+toegestaan mits onderbouwd?
+Antwoord:
+No specific referencing method is prescribed. Suggested methods include 
+referencing based on reference areas or multiple stable reference points. 
+Estimated uncertainty in the reference must be documented by contractor.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+44 Technical Requirements for InSAR Processing Object Monitoring based on 
+InSAR-analysis (ID: 31212460) - >> 4.2 punt 1 en >> 5.1.1 AOI & 
+objectpolygons
+Vraag:
+Mag de opdrachtnemer object- of AOI-polygons splitsen, samenvoegen of 
+Nota van inlichtingen Object Monitoring o.b.v. InSAR analyse
+Pagina 30 van 40 Datum genereren nota van inlichtingen: 12 dec 2025
+corrigeren wanneer de reflectiegeometrie dat noodzakelijk maakt, of moeten 
+de aangeleverde polygons strikt worden gevolgd?
+Antwoord:
+No, in principle the provided level-3 polygons should be used as stated in 
+2.2.3 (Project Description Lot 2). The contractor must identify uniformly 
+moving segments prior to level-3 processing. This segmentation must be 
+based on provided and/or public data (e.g., DTB) and InSAR-derived 
+deformation patterns and requires Rijkswaterstaat approval before level-3 
+processing. This approval process is designed as a single review cycle 
+(initial submission plus one possible revision) based on technical justification
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Object Monitoring o.b.v. InSAR analyse
+P  2 Ontwikkeling en toepassing InSAR Analyse voor 
+bruggen en viaducten
+Beantwoord op: 10 dec 2025
+Ref.nr. Onderwerp:
+45 Technical Requirements for InSAR Processing Object Monitoring based on 
+InSAR-analysis (ID: 31212460) - 4.2 punt 2 + punt 3 (kwaliteit verwerkt via 
+gewichten en parameters, maar geen threshold)
+Vraag:
+Wat is de minimale point density en minimale kwaliteitsdrempel die RWS 
+vereist voordat een Level 3 tijdreeks als representatief wordt beschouwd?
+Antwoord:
+As this can vary per object, we do not provide a minimum point density or 
+quality threshold. Contractors are expected to aim for the highest possible 
+point density and quality within the scope of the assignment to ensure 
+representative and usable results.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+
+=== Document: bijlage l bijsluiter e-factureren aan de rijksoverheid ===
+2023-12
+Bijsluiter e-factureren 
+aan de Rijksoverheid
+Informatie voor leveranciers
+Gaat u een elektronische factuur (e-factuur) sturen aan uw klant/opdrachtgever bij 
+de Rijksoverheid? Wij leggen u in deze bijsluiter graag uit hoe u dat doet.
+LET OP: uw klant/opdrachtgever kan aanvullende contractuele afspraken met 
+u maken over e-factureren.
+Bent u verplicht om e-facturen te sturen?
+Ja. De Rijksoverheid heeft e-factureren voor alle opdrachten, 
+bestellingen en contracten verplicht gesteld.
+Wat is een e-factuur? 
+Een e-factuur ziet er uit als een gewone factuur, maar bevat 
+ook codes. Deze codes zijn op een vaste manier gestructureerd, 
+waardoor de factuur direct verwerkt kan worden in de 
+administratie van de opdrachtgever/klant.
+NB: een pdf is geen e-factuur.
+Hoe kan ik een e-factuur versturen?
+Een e-factuur versturen aan de Rijksoverheid kan op de 
+volgende manieren: 
+• Via een boekhoudprogramma met Peppol
+• Via een koppeling door een Peppol-serviceprovider
+• Via het Leveranciersportaal van de Rijksoverheid
+Welke manier het beste bij u past, is afhankelijk van uw situatie. 
+Op de website van de helpdesk e-factureren vertellen we er meer 
+over. 
+Waaraan moet mijn e-factuur voldoen? 
+Om een e-factuur te kunnen verwerken is het belangrijk dat de 
+juiste gegevens correct zijn ingevoerd.
+Op de site vindt u welke gegevens een e-factuur aan de 
+Rijksoverheid bevat. Denk hierbij bijvoorbeeld aan:
+• Ordernummer/referentie (noteert u in het OrderReference veld)
+• Organisatie-identificatienummer (OIN)
+Verder kunt u ook de factuureisen van de Belastingdienst 
+raadplegen.
+Let op!
+Onjuiste (bijvoorbeeld onvolledige) facturen worden niet in 
+behandeling genomen en dus niet betaald. Als uw factuur niet 
+helemaal klopt, krijgt u een foutmelding in uw facturatiesysteem 
+of een melding via e-mail.
+Heeft u vragen over e-factureren aan de Rijksoverheid? 
+Neem dan contact op met de helpdesk e-factureren.
+Heeft u andere vragen? 
+Bijvoorbeeld over status van de betaling, het ordernummer of 
+andere inhoudelijke vragen over de factuur? Uw opdrachtgever/
+klant helpt u verder.
+Voor vragen over boekhoudprogramma’s (bijvoorbeeld 
+inlogproblemen of technische vragen) gaat u te rade bij de 
+leverancier.
+Wet- en regelgeving
+De verplichting om te e-factureren komt voort uit een 
+Europese richtlijn uit 2014. Deze richtlijn is omgezet in 
+Nederlandse wetgeving.
+Meer gedetailleerde uitleg leest u op: 
+www.helpdesk-efactureren.nl
+
+=== Document: bijlage k nota scheiding van belang ===
+Scheiding van belang 
+ 
+ 
+ 
+Beleid tegen belangenverstrengeling bij de aanbesteding 
+ 
+ 
+ 
+ 
+ 
+ 
+Zoals vastgesteld door DT-RWS op 14 september 2007 
+ 
+Met verwerking van de discussie met de bouwdepartementen e.a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rijkswaterstaat 
+ 
+14 september 2007 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP  
+Samenvatting 
+ 
+Belangenverstrengeling 
+Deze nota bevat richtlijnen en maatregelen voor het tegengaan van belangenverstrengeling of – 
+positief geformuleerd – voor het goed scheiden van belangen bij aanbestedingen. Scheiding is van 
+belang omdat RWS voor het verkrijgen van scherpe aanbiedingen afhankelijk is van de kwaliteit van de 
+concurrentie. De uitvoeringsfase valt buiten de scope van de nota. 
+ 
+In deze nota is rekening gehouden met een breder afweegkader dan alleen het concurrentiebelang. 
+Zowel aan een te strenge scheiding als aan een te zachte scheiding kleven risico’s. Een te strenge 
+scheiding geeft het risico van onvoldoende inschrijvingen, problemen m.b.t. het verwerven van inhuur, 
+belemmering van werkprocessen, belemmering van arbeidsmobiliteit en verlies van integraliteit. Een te 
+zachte scheiding kan leiden tot het toenemen van juridische procedures en van druk op de integriteit 
+van RWS en marktpartijen. 
+ 
+Beleidslijn (zie voor de schematische weergave de matrix (pag. 2):  
+ 1 Maak een heldere scheiding tussen niet-vertrouwelijke en commercieel vertrouwelijke informatie. 
+Rubriceer informatie. In de matrix gaat het in kolom 1 over niet-vertrouwelijke informatie en in 
+kolom 2 en kolom 3 over commercieel vertrouwelijke informatie.   
+ 2 Beperk de hoeveelheid vertrouwelijke informatie tot het strikt noodzakelijke. Wees duidelijk over de 
+periode van vertrouwelijkheid en houd deze periode zo kort mogelijk. Beperk het aantal personen 
+dat toegang heeft tot vertrouwelijke informatie.  
+ 3 Wees volledig open over niet-vertrouwelijke informatie. Schep waarborgen voor de 
+vertrouwelijkheid van vertrouwelijke informatie (informatiebeveiligingsbeleid). Principe: 
+projectvoorbereiding is niet-vertrouwelijk, aanbestedingsvoorbereiding en beoordeling van de 
+inschrijvingen zijn commercieel vertrouwelijk. Zoek aansluiting bij de Wet Openbaarheid van 
+Bestuur.  
+ 4 Sta nooit toe dat een onderneming die deelneemt aan de beoordeling van de inschrijvingen zelf 
+inschrijft. Zie de cellen A3 en B3 in de matrix.  
+ 5 Sta nooit toe dat een groepsmaatschappij van de groep waarvan een andere groepsmaatschappij 
+deelneemt aan beoordeling van de inschrijvingen, inschrijft. Zie cel C3 in de matrix.  
+ 6 Sta toe dat een onderneming die deelnam aan de projectvoorbereiding inschrijft op de 
+aanbesteding op voorwaarde dat de volledige projectvoorbereidingsinformatie tijdig op een 
+toegankelijke wijze gedeeld wordt met RWS en de andere inschrijvers. Zie kolom 1 (cellen A1, B1 
+en C1).  
+ 7 Sta nooit toe dat een onderneming die met inzet van een bepaalde persoon deelnam aan de 
+aanbestedingsvoorbereiding inschrijft op de aanbesteding met inzet van die bepaalde persoon. Zie 
+cel A2.  
+ 8 Sta op basis van een vooraf door RWS goedgekeurd Belangenbeschermingsplan toe dat een 
+onderneming die met inzet van een bepaalde persoon deelnam aan de aanbestedingsvoorbereiding 
+met inzet van een andere persoon inschrijft op de aanbesteding. Zie cel B2.  
+ 9 Sta op basis van een vooraf door RWS goedgekeurd Belangenbeschermingsplan toe dat een 
+groepsmaatschappij van de groep waarvan een andere groepsmaatschappij deelnam aan de 
+aanbestedingsvoorbereiding, inschrijft op de aanbesteding. Zie cel C2.  
+10 Een onderneming, die wil deelnemen aan de aanbestedingsvoorbereiding, kan voorkomen dat zij 
+door RWS uitgesloten wordt bij de inschrijving op de door haar voorbereide aanbesteding c.q. kan 
+voorkomen dat een ander lid van de groep waartoe de onderneming behoort door RWS uitgesloten 
+wordt, door voorafgaand aan haar deelname aan de aanbestedingsvoorbereiding te beschikken 
+over een door RWS goedgekeurd en door haar gehandhaafd Belangenbeschermingsplan.   
+Indien een concurrent bij de aanbesteding ondanks het Belangenbeschermingsplan met succes in 
+rechte zou betogen dat er sprake is van belangenverstrengeling en dat RWS de desbetreffende 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 1
+onderneming daarom moet uitsluiten, heeft de onderneming geen recht op schadeloosstelling. De 
+onderneming heeft het risico zelf opgeroepen.  
+11 Indien een onderneming in strijd handelt met haar door RWS goedgekeurde 
+Belangenbeschermingsplan waardoor belangenverstrengeling ontstaat, zal RWS dit overeenkomstig 
+artikel 45, lid 2, richtlijn 2004/18/EG (aanbestedingsrichtlijn Werken, Leveringen en Diensten) 
+beschouwen als een ernstige fout in de beroepsuitoefening. RWS zal die onderneming dan 
+uitsluiten van deelneming aan opdrachten.  
+12 Ook in gevallen van arbeidsmobiliteit van werknemers wordt bovenstaande beleidslijn toegepast. 
+RWS past de beleidslijn tevens toe bij andere wijzigingen in de verhoudingen tijdens  de 
+projectvoorbereiding, de aanbestedingsvoorbereiding of de beoordeling van de inschrijvingen.  
+13 RWS maakt het beleid zoals verwoord in deze nota bekend. 
+  
+ 
+Matrix 
+Deze matrix dient ter oriëntatie voor bovenstaande 
+beleidslijn. Het schema geeft de denkrichting aan en 
+is niet uitputtend bedoeld. Een meer gedetailleerde 
+versie met beschrijving staat in de paragrafen 7 en 8. 
+ 
+Verklaring 
+De cellen 1, 2 en 3 geven weer op welke wijze 
+persoon A aan de zijde van de aanbesteder 
+betrokken was of is bij de aanbesteding van het 
+desbetreffende project. 
+ 
+De linkerkolom van de tabel geeft de partijen weer 
+zoals die mogelijk willen inschrijven.  
+ 
+De cel in de linkerbovenhoek geeft de relaties weer tussen de partijen, zoals die aan de orde zijn ten 
+tijde van de aanbesteding. 
+ 
+In dit schema is G de groep van ondernemingen waartoe de ondernemingen X en Y behoren. A, B en C 
+zijn natuurlijke personen die een arbeidsrelatie of een adviesrelatie hebben met respectievelijk X of Y. X 
+en Y kunnen ook staan voor een combinatie die inschrijft. 
+ 
+Het schema kan eveneens toegepast worden in het geval dat A ten tijde van de voorbereiding nog niet 
+verbonden was aan X. Denkbaar is zelfs dat A toen nog bij de aanbesteder in dienst was en vóór of 
+tijdens de aanbesteding in dienst trad van X. 
+ 
+De cellen A1 tot en met C3 geven de mate van belangenscheiding weer, waarbij een kruis duidt op een 
+onweerlegbare blokkade wegens belangenverstrengeling. In cellen met een of meer plussen is 
+belangenverstrengeling relatief gemakkelijk te voorkomen. De cel met een nul vergt meer 
+zorgvuldigheid en de cellen met een of meer minnen vergen bijzondere maatregelen. 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 2
+Scheiding van belang 
+ 
+Het thema belangenverstrengeling is zeer actueel. De laatste tijd komen in projecten steeds opnieuw 
+vragen op m.b.t. belangenverstrengeling. De actualiteit is het gevolg van ontwikkelingen in het 
+Europese recht, de toegenomen aandacht voor integriteitsvraagstukken en de wijzigingen in 
+marktbenadering als gevolg van het Ondernemingsplan RWS. Ook de inhuur door de Bouwdienst in 
+het kader van Shared Quality leidt tot vragen vanuit zowel de eigen organisatie en als vanuit de markt 
+over wat wel of niet is toegestaan. ONRI en individuele bedrijven stellen specifieke vragen aan RWS 
+over de te hanteren spelregels. 
+ 
+1 B elangenverstrengeling 
+Deze nota richt zich op belangenverstrengeling rond de aanbesteding, dat wil zeggen op 
+belangenverstrengeling in relatie tot het plaatsen van een overheidsopdracht in de markt. Primair gaat 
+het om verstrengeling van commerciële belangen. De uitvoeringsfase valt buiten de scope van de nota. 
+ 
+Belangenverstrengeling rond een aanbesteding kan zich voordoen wanneer een inschrijvende 
+marktpartij betrokken was, of is, bij de voorbereiding van het project of de aanbesteding of de 
+beoordeling van de inschrijvingen. Belangenverstrengeling kan leiden tot het vervalsen van de 
+mededinging door a) inschrijven met voorkennis en b) manipulatie van de opdracht, de aanbesteding 
+of de gunning1.  
+ 
+Onder inschrijvende marktpartij wordt in dit verband verstaan de inschrijver inclusief zijn eventuele 
+adviseurs, onderaannemers en leveranciers. 
+ 
+Voorkennis is in dit verband kennis van vertrouwelijke aanbestedingsgevoelige informatie van RWS die 
+de inschrijvende marktpartij bij de aanbesteding een concurrentievoordeel kan opleveren2. De 
+vertrouwelijke informatie kan betrekking hebben op de voorbereiding van de aanbesteding (raming, 
+financiële modellen, risicoanalyses en -beprijzing, kritische succesfactoren, de wijze van 
+marktbenadering) of op de beoordeling van de inschrijvingen. 
+ 
+Belangenverstrengeling is vooral aan de orde met betrekking tot adviesbureaus en meer in het 
+bijzonder met betrekking tot ingenieursbureaus. Als gevolg van het toenemende gebruik van 
+geïntegreerde contracten op grond van het Ondernemingsplan RWS bevinden deze bureaus zich steeds 
+vaker in situaties waarin ze zowel de aanbesteder als de gegadigden/inschrijvers bedienen.  
+ 
+Secundair kan het gaan om niet-commerciële persoonlijke belangen. Er blijk van geven dat men over 
+vertrouwelijke informatie beschikt kan statusverhogend werken waardoor de betrokkene beter kan 
+‘netwerken’. 
+ 
+2 Waarom scheiding van belang ? 
+Een belangrijk deel van de concurrentiestrijd draait om het hebben van de optimale kennis om zo meer 
+kans te maken op het verwerven van de opdracht. Het is in het belang van RWS dat deelnemers aan 
+een aanbesteding beschikken over de beste kennis.  
+ 
+Kennis kan echter ook voorkennis zijn. Voorkennis ondermijnt open en faire concurrentie en wanneer 
+voorkennis de uitslag van de aanbesteding kan bepalen zullen de marktpartijen die kennis proberen te 
+verwerven. Dan komt niet alleen de kwaliteit van de concurrentie in gevaar, maar ook de integriteit van 
+de RWS-organisatie en van de marktpartijen. Concurrentie heeft baat bij eerlijk spel. Dat stimuleert 
+marktpartijen om onderscheidend te zijn, te innoveren en om scherpe aanbiedingen te doen. 
+ 
+                                                      
+1 Tot manipulatie behoort overigens ook het samenspannen van t wee of meer inschrijvende marktpartijen ten nadele van de 
+aanbesteder of van de ander e inschrijvers. Het betreft hier verboden gedrag. De ze nota handelt niet over samenspanning 
+maar over bel angenverstrengel ing als gevolg  van betrokkenheid aan de zijd e van zowel de aanbesteder als de inschrijver. 
+2 Vergelijk art 1, Richtlijn 2003/6/EG v an het Europese Parlement en de Raad van 28 januari 2003 betreffende han del met 
+voorkennis en marktmanipulati e (marktmisbruik) ; PbEU 2003, L 96 /16. Vergelijk ook over weging 12. 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 3
+Open en faire concurrentie is uiteraard niet alleen afhankelijk van – positief gesteld – een goede 
+scheiding van belangen, maar ook van andere factoren, zoals de aanwezigheid van voldoende 
+aanbieders en de beschikbaarheid van een concurrerende markt van toeleveranciers en 
+onderaannemers.  
+ 
+3 Risico’s te strenge belangenscheiding 
+Bij het bepalen van het beleid met betrekking tot belangenverstrengeling moet RWS rekening houden 
+met de volgende risico’s als gevolg van een te strenge belangenscheiding.  
+ 
+1 Onvoldoend e inschrijvingen 
+Voor een strenge belangenscheiding is een groter aantal partijen op de markt nodig dan voor een 
+beperkte belangenscheiding. Strenge belangenscheiding kan in bepaalde marktsegmenten leiden tot 
+onvoldoende concurrentie c.q. het mislukken van aanbestedingen door het uitblijven van aanbiedingen.  
+ 
+Overigens moet RWS voor wat betreft de beschikbaarheid van marktpartijen rekening houden met de 
+keten. Het gaat niet alleen om de gegadigden/inschrijvers, maar ook om de onderaannemers (c.q. 
+adviseurs) en leveranciers die de gegadigden/inschrijvers voor het doen van hun aanbieding nodig 
+hebben. 
+ 
+2 Onvoldoend e inhuur mogelijk 
+Indien RWS in het kader van een strenge belangenscheiding de voorwaarde zou stellen dat een 
+adviseur (c.q. zijn werkgever), die RWS helpt bij de voorbereiding, niet mag inschrijven op de 
+aanbesteding of inschrijvers mag adviseren, kan dit leiden tot een gebrek aan mogelijkheden om 
+inhuurmedewerkers te werven.  
+ 
+Dit probleem wordt versterkt doordat het gebruik van geïntegreerde contracten leidt tot een aanzienlijk 
+grotere vraag naar adviesdiensten. In de traditionele situatie liet RWS één ontwerp maken en 
+besteedde dat aan, terwijl bij de aanbesteding van een geïntegreerd contract alle inschrijvers een 
+(calculatie)ontwerp nodig hebben ten behoeve van hun inschrijving.  
+ 
+De kracht van RWS ligt mede in het benutten van leerervaringen over projectgrenzen heen. 
+Projectervaringen worden intensief gedeeld. Inhuurmedewerkers die aan een bepaald project werken 
+kunnen daardoor vanuit hun RWS-positie kennis nemen van aanbestedingen van andere projecten 
+waar hun werkgever aan deelneemt of waaraan hij overweegt om deel te nemen. Strenge maatregelen 
+op dit punt kunnen bijdragen aan onvoldoende beschikbaarheid van inhuurmedewerkers, hetgeen zijn 
+effect kan hebben op de productie. 
+ 
+3 Belemmering werk- en besluitvormingsprocessen 
+Een van de mogelijk maatregelen om belangenverstrengeling tegen te gaan is het afschermen van 
+concurrentiegevoelige informatie. De keerzijde daarvan is dat afscherming de open informatiecultuur 
+beperkt. Strenge maatregelen zullen de werk- en besluitvormingsprocessen binnen RWS belemmeren. 
+ 
+4 Belemmering arbeidsmobiliteit 
+RWS streeft naar een betere afstemming tussen taak en personele competenties. Dit heeft onder meer 
+tot gevolg dat RWS-medewerkers die taken uitvoeren die door RWS worden afgebouwd, de 
+mogelijkheid moeten hebben om in dienst te treden bij de marktpartijen die deze taken van RWS 
+overnemen. Strenge belangenscheiding kan de kansen van de betrokken medewerkers op de 
+arbeidsmarkt verstoren en bovendien de overdracht van taken naar de markt belemmeren. 
+ 
+Dit probleem neemt in omvang toe naarmate aanbestedingen langer duren. De keuze van RWS om 
+meer geïntegreerde contracten te gebruiken en bovendien, in geëigende gevallen, om Tracéprocedure 
+en aanbesteding te vervlechten doen de aanbestedingsperiode sterk in duur toenemen. Werknemers 
+laten zich niet zo lang fixeren. 
+  
+5 B enadering onvoldoende integraal 
+Een strenge scheiding van belangen kan tot gevolg hebben dat opnieuw een tweedeling ontstaat die 
+vergelijkbaar is met de traditionele situatie. Sommige marktpartijen specialiseren zich dan op 
+voorbereidende werkzaamheden en andere op ontwerp- en realisatiewerkzaamheden. Strenge 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 4
+scheiding werkt segregatie in de hand. Professioneel opdrachtgeverschap streeft juist naar integratie en 
+niet naar segregatie van taken.  
+ 
+4 Risico’s te zachte belangenscheiding 
+Bij het bepalen van het beleid met betrekking tot belangenverstrengeling moet RWS rekening houden 
+met de volgende risico’s als gevolg van een te zachte belangenscheiding. 
+ 
+6 Toename juridische procedures 
+Een zachte scheiding van belangen kan wantrouwen zaaien tussen marktpartijen onderling en tussen 
+marktpartijen en RWS over de eerlijkheid van de concurrentie. Dat kan het aantal juridische procedures 
+m.b.t. tot aanbestedingen aanzienlijk doen toenemen. Ook de enkele schijn van 
+belangenverstrengeling kan dit proces in gang zetten. Gezaaid wantrouwen is moeilijk weg te nemen. 
+ 
+7 Druk op integriteit van RWS en marktpartijen 
+Een zachte scheiding van belangen kan tot gevolg hebben dat marktpartijen het uiterste zullen doen 
+om aanbestedingsgevoelige kennis te verwerven desnoods ten koste van de integriteit van de RWS-
+organisatie. Ook de integriteit van de marktpartijen zelf komt daarbij onder druk te staan. De brutaalste 
+wint. Er kan een cultuur ontstaan van het wegkopen van medewerkers met de gewenste kennis. 
+ 
+5 EG-recht en belangenscheiding bij aanbesteding 
+Een strenge maar heldere beleidslijn zou zijn dat een marktpartij die betrokken is geweest bij de 
+voorbereiding van een project niet in mag schrijven op de aanbesteding van de realisatie. Op 
+3 maart 2005 heeft het Europese Hof van Justitie echter in de zaak ‘Fabricom’ een arrest gewezen dat 
+zo een heldere scheiding blokkeert3.  
+ 
+Volgens dit arrest moet de aanbestedende dienst de marktpartij die betrokken was bij de voorbereiding 
+van het project in de gelegenheid stellen om aan te tonen dat zijn betrokkenheid geen gevaar oplevert 
+voor de concurrentie. Met dit arrest in de hand vragen diverse ingenieursbureaus en de ONRI RWS nu 
+om duidelijkheid. In welke gevallen accepteert RWS inschrijving op een opdracht door een marktpartij 
+die bij de voorbereiding van die opdracht betrokken was? De rechtspraak vult de beoordelingscriteria 
+slechts ten dele in4. 
+ 
+6 Marktpartijen eerste belanghebbenden bij faire concurrentie  
+Marktpartijen zijn de eerste belanghebbende bij faire concurrentie. De aanbesteding verliezen doordat 
+een concurrent over voorkennis beschikt of de opdracht naar zijn hand heeft kunnen zetten is 
+uitermate frustrerend. Onvoldoende vertrouwen in de eerlijkheid van het aanbestedingsproces zal 
+leiden tot een sterke toename van juridische procedures, waarbij bedacht moet worden dat ook de 
+schijn van oneerlijkheid een escalatie in gang kan zetten. Overigens is het evenzo frustrerend voor een 
+marktpartij om uitgesloten te worden wegens een onterechte schijn van belangenverstrengeling. 
+ 
+Vanuit deze invalshoek is er een gemeenschappelijk belang van aanbestedende diensten en 
+marktpartijen c.q. hun koepelorganisaties om goede afspraken te maken.  
+ 
+De richtinggevende vragen zijn:  
+• Welke mate van betrokkenheid bij de projectvoorbereiding, de aanbestedingsvoorbereiding of de 
+beoordeling van de inschrijvingen van een inschrijver zal een andere inschrijver nog net bereid zijn om te 
+accepteren?  
+• Welk beleid van RWS geeft marktpartijen voldoende vertrouwen in de eerlijkheid van de door RWS 
+geregisseerde concurrentie? 
+ 
+                                                      
+3 Volgens het Fabricom-arrest  (HvJ EG, zaak C- 21/03, 3 maart  2005) mag ee n aanbestedende dienst  niet de regel  stellen dat 
+een persoon die belast is geweest  met het onderzoek, de proeven, de studie of de  ontwikkeling van werken, leveringen of 
+diensten, g een offerte in mag dienen voor die werken, leveringen of diensten, zonder da t hem de mogelijkheid wordt 
+geboden om aan te tonen dat  in de omstandigheden van het  concrete geval de door hem opgedane  ervaring de m ededinging 
+niet kan vervalsen. 
+4 In het arrest (ro  30) merkt het  Hof wel op dat de bij de voorberei ding betrokken persoon niet in d e gelegenheid mag zijn om 
+de voorwaarden voor de opdracht in de voor hem gunstige richtin g te sturen.  
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 5
+7 Drie niveaus van belangen; drie vragen 
+Belangen worden altijd concreet in mensen van vlees en bloed, in natuurlijke personen. Omdat 
+natuurlijke personen vaak deel uitmaken van grotere verbanden moeten deze verbanden ook als 
+belanghebbenden worden aangemerkt. In eerste instantie gaat het daarbij om de onderneming in 
+juridische zin (rechtspersoon) waarmee die natuurlijke persoon een arbeidsrelatie heeft of die hij 
+adviseert en in tweede instantie om het groepsverband waartoe die onderneming behoort 
+(onderneming in economische zin). 
+ 
+Zo kunnen dan drie niveaus onderscheiden worden waarmee beleid met betrekking tot 
+belangenverstrengeling rekening moet houden:  
+1. de natuurlijke persoon; 
+2. de onderneming in juridische zin (rechtspersoon) waarmee de natuurlijke persoon relatie heeft 
+(arbeidsrelatie, adviesrelatie); 
+3. de groep5 waartoe die onderneming behoort (de onderneming in economische zin). 
+ 
+Ervan uitgaande dat de natuurlijke persoon A 
+betrokken was of is bij de projectvoorbereiding, 
+de aanbestedingsvoorbereiding of de 
+beoordeling van de inschrijvingen van een 
+bepaald project leiden deze niveaus tot drie 
+vragen met betrekking tot inschrijving op de 
+aanbesteding.  
+Verhoudingen bij de aanbesteding  
+B 
+X 
+A C 
+G 
+Y 
+Groep 
+Persoon 
+Onderneming
+Uitgangspunt voor de vragen is dat B en C niet 
+betrokken waren of zijn bij de 
+projectvoorbereiding, de 
+aanbestedingsvoorbereiding of de beoordeling 
+van de inschrijvingen. 
+ 
+• Vraag 1 (1e graads verband) 
+De ondernemingen X en Z willen inschrijven op een aanbesteding (onderneming Z behoort niet tot 
+groep G). In welke gevallen c.q. onder welke condities moet inschrijver Z accepteren dat concurrent X 
+inschrijft met inzet van A? In welke gevallen c.q. onder welke condities wil RWS toelaten dat 
+onderneming X met inzet van A inschrijft?  
+ 
+Overigens kan X ook staan voor een inschrijvende combinatie of een inschrijver tezamen met zijn 
+onderaannemers c.q. adviseurs ten tijde van de aanbesteding. 
+ 
+• Vraag 2 (2e graads verband) 
+De ondernemingen X en Z willen inschrijven op een aanbesteding. In welke gevallen c.q. onder welke 
+condities moet inschrijver Z accepteren dat concurrent X inschrijft met inzet van B? In welke gevallen 
+c.q. onder welke condities wil RWS toelaten dat X met inzet van B inschrijft? B is, net als A, een 
+werknemer of een adviseur van onderneming X. 
+ 
+                                                      
+5 Artikel 24b, bk 2, BW luidt: Een groep is een eco nomische eenhei d waarin rechtspersonen en vennootschappen 
+organisatorisch z ijn verbonden. Groepsmaatschappijen zijn r echtspersonen en vennootschappen die met elkaar in  een groep 
+zijn verbonden.  
+ 
+Over het begrip economische eenheid laat  de wet zich verd er niet uit, maar het uitgangspunt is dat twee maatschap pijen tot 
+een groep behoren indien de  ene maatschappij  een beslissende zeggenschap  uitoefent over  de andere maatschappij.  
+ 
+Het begrip ‘groep’ is ande rsoortig dan de begrip pen dochtermaatschappij  en deelneming. Een dochtermaatschappi j van een 
+rechtspersoon ( moeder) is een  rechtspersoon waarin de r echtspersoon (moeder), eventueel samen  met 
+dochtermaatschappijen meer d an de helft van de zeggenschap heef t (zie art. 24a, b k 2, BW). Het begrip ‘groep’ i s beperkter 
+dan het begrip d eelneming, waarvan in begin sel sprake is bij een deelname in het geplaatst kapitaal van een vijfde of meer 
+(zie art. 24c, bk2, BW ). Een deeln eming hoeft geen beslissende zegge nschap in te houden. 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 6
+• Vraag 3 (3e graads verband) 
+De ondernemingen Y en Z willen inschrijven op een aanbesteding. In welke gevallen c.q. onder welke 
+condities moet inschrijver Z accepteren dat concurrent Y inschrijft in aanmerking nemend zijn 
+verhouding tot onderneming X en daarmee tot A? In welke gevallen c.q. onder welke condities wil 
+RWS toelaten dat onderneming Y inschrijft? X en Y zijn ondernemingen van dezelfde groep. 
+ 
+Arbeidsmobiliteit 
+Voor het stellen van bovenstaande vragen is het niet van belang wie de werkgever of de opdrachtgever 
+van A was tijdens diens werk voor de projectvoorbereiding of de aanbestedingsvoorbereiding. Het is 
+zelfs denkbaar dat A een RWS-medewerker was6. De drie vragen dekken ook de situaties af waarin A 
+vóór de aanbesteding overstapt naar een van de inschrijvers of naar een onderneming die met de 
+inschrijver in een groep is verbonden.  
+ 
+Aanvullend is de situatie denkbaar dat A niet zelf bij de projectvoorbereiding of de 
+aanbestedingsvoorbereiding betrokken was, maar wel een collega van A, genaamd D. Een nog verder 
+verwijderd verband zou zijn dat A en D werkten bij verschillende groepsmaatschappijen, die allen niet 
+inschrijven. Ook voor die situaties kunnen in theorie bovenstaande drie vragen gesteld worden. In het 
+kader van deze nota is dat echter niet zinvol. Deze nota gaat niet verder dan een 3e graads verband. 
+Doet zich een dergelijke situatie voor dan kan extrapolatie van het in deze nota geformuleerde beleid 
+richting geven. 
+ 
+8 Voorstellen voor beleid 
+ 
+8.1    Heldere scheiding tussen commercieel vertrouwelijke en niet-vertrouwelijke informatie 
+RWS kan het risico van het ontstaan van voorkennis beperken door een heldere scheiding aan te 
+brengen tussen commercieel vertrouwelijke aanbestedingsgevoelige informatie en informatie die niet 
+vertrouwelijk hoeft te zijn. Het gaat in beginsel om een rubricering van twee soorten informatie: 
+• niet-vertrouwelijke informatie waarover iedereen binnen en buiten RWS mag beschikken; 
+• commercieel vertrouwelijke informatie en waarover alleen de medewerkers van het project, die deze 
+informatie nodig hebben voor hun werk, mogen beschikken; over informatie die direct te maken 
+heeft met de gunningsprocedure mag alleen een kleine groep beslissers beschikken. Commercieel 
+vertrouwelijk valt binnen de formele rubriek ‘Departementaal vertrouwelijk’.7 
+ 
+Bij vertrouwelijke informatie moet steeds het tijdvenster voor de vertrouwelijkheid worden aangegeven. 
+ 
+Door enerzijds actief transparant te zijn ten aanzien van niet-vertrouwelijke informatie en anderzijds 
+waarborgen te scheppen voor de vertrouwelijkheid van commercieel vertrouwelijke informatie kan 
+RWS de kans op het ontstaan van voorkennis sterk beperken. 
+ 
+Ten aanzien van de vraag welke informatie commercieel vertrouwelijk moet zijn kan RWS aansluiting 
+zoeken bij de Wet Openbaarheid van Bestuur (WOB). De WOB bepaalt dat alle informatie openbaar is, 
+tenzij deze valt onder  de uitzonderingsgronden. Alle informatie die RWS van bedrijven ontvangt in het 
+kader van inschrijving op een aanbesteding is vertrouwelijk8.  
+ 
+                                                      
+6 Overigens is in een dergelijk geval ook circul aire AD 1999/U844 10 van de minister van Binnenland se Zaken en 
+Koninkrijksr elaties, d.d. 13 september 2006, van toepassing. Dez e circulaire bevat beleid voor het tegengaan van 
+zogenoemde draaideurconstructies. De v oormalige ambtenaar mag gedurende 2 ja ar niet betrokken worden bij de  
+inschrijving. 
+7 Zie artikel 5  van het Besluit  voorschrift informat iebeveiliging r ijksdienst – bijzonder e informatie. 
+8 Artikel 10, lid 1, sub c, WOB:  de overheid mag bedrijfs- en fabricagegegevens die vertrouw elijk aan de overheid z ijn 
+meegedeeld niet openbaar maken. Zelfs ver ouderde, voor concurrentie niet  meer actuele gegevens, val len onder dit  verbod. 
+Bron: HDJZ, Leidraad Wet openb aarheid van bestuur; mei 2006. 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 7
+Daarnaast kan RWS ook de raming bestempelen als vertrouwelijk9. RWS kan een eigen afweging 
+maken en er bijvoorbeeld voor kiezen om wel de raming openbaar te maken, maar niet de 
+onderliggende opbouw. Dat zou kunnen indien RWS de raming mee wil geven als taakstellend budget. 
+ 
+De vertrouwelijkheid van informatie heeft baat bij beperking van het aantal personen dat toegang 
+heeft tot de informatie. In aanbestedingssituaties werkt het beter om de vertrouwelijke informatie 
+zoveel mogelijk in het project te houden. Daar kunnen waarborgen worden gecreëerd. Vanuit dit 
+oogpunt dient het projectmandaat voldoende ruim te zijn. Bovendien geldt dat 
+hoe dichter iemand bij het project betrokken is, hoe meer hij doordrongen is van 
+het belang van vertrouwelijkheid. 
+project 
+overheid 
+onderneming 
+ 
+De vertrouwelijkheidsperiode vangt in beginsel aan op het moment dat de 
+algemene voorbereiding (onderzoek, proeven, studie en/of ontwikkeling van de 
+opdracht) overgaat in de voorbereiding van de aanbesteding (ramingen, 
+financiële modellen en risicoanalyses). Het einde van de 
+vertrouwelijkheidsperiode hangt af van de aard van de informatie. 
+ 
+Een goed RWS-beleid met betrekking tot informatieveiligheid is een 
+randvoorwaarde voor het voorkomen van voorkennis en belangenverstrengeling. 
+ 
+8.2    Marktneutrale specificaties en voorwaarden 
+Wanneer een marktpartij betrokken is bij de voorbereiding van een project of bij de voorbereiding van 
+de aanbesteding kan dit leiden tot een situatie waarin hij de projectspecificaties en –voorwaarden 
+bewust of onbewust kan beïnvloeden in een voor hem gunstige richting of tot het verwerven van 
+voorkennis. RWS moet erop letten dat dit niet kan gebeuren. Aanbestedingsrechtelijk is het overigens 
+verboden om de opdracht door specificaties toe te schrijven op een bepaalde marktpartij. 
+ 
+Aanbesteders en markt hebben behoefte aan een zekere uniformiteit bij contracteren. Marktpartijen die 
+de aanbesteders helpen bij het ontwikkelen van standaarden treft niet het verwijt van 
+belangenverstrengeling bij inschrijving op opdrachten waar die standaards vervolgens worden 
+toegepast10. De standaard is immers algemeen. 
+  
+8.3    Negen situaties van mogelijke vervalsing van de mededinging 
+De drie vragen in combinatie met de drie soorten werkzaamheden voorafgaande aan de gunning leiden 
+tot negen situaties waarin mogelijk sprake is van vervalsing van de mededinging. Deze situaties kunnen 
+worden weergegeven in een matrix. Iedere situatie beschrijft een samenloop van betrokkenheid aan de 
+zijde van de aanbesteder met betrokkenheid aan de zijde van de inschrijver. 
+ 
+In de zaak Fabricom merkt het Hof van Justitie EG op dat een dergelijke samenloop kan leiden tot: 
+• voorkennis (ro 29) en; 
+• belangenverstrengeling in die zin dat de persoon die betrokken is bij de voorbereiding – zelfs 
+zonder daartoe de bedoeling te hebben (!) – de voorwaarden van de overheidsopdracht in voor 
+hem gunstige zin kan beïnvloeden (ro 30). 
+ 
+Het Hof stelt vervolgens (ro 31) dat de aanbesteder niet verplicht is om een bij de voorbereiding van de 
+aanbesteding betrokken inschrijver op dezelfde wijze te behandelen als andere inschrijvers. Het Hof 
+overweegt dat bepaalde voorbereidende werkzaamheden geen gevaar meebrengen voor de 
+mededinging tussen de inschrijvers. Het Hof laat zich echter niet verder uit over de aard van deze 
+bepaalde voorbereidende werkzaamheden. De matrix gaat verder waar het Hof stopt. 
+ 
+De matrix maakt in de kolommen 1, 2 en 3 onderscheid tussen verschillende soorten werkzaamheden 
+die voorafgaan aan gunning: 1) projectvoorbereiding, 2) voorbereiding van de aanbesteding en 3) 
+beoordeling van de inschrijvingen.  
+                                                      
+9 Artikel 10, lid 2, sub b, WOB geeft de overheid de mogelijk heid om het verstrekken van informatie achterwege te laten 
+indien verstrekking de economische en fina nciële belangen van  de Staat schaadt. 
+10 Wel is de gebrui kelijke regel uit het aanbestedingsrecht va n toepassing die bep aalt dat een opdracht inschrijvers g elijke 
+toegang moet bi eden. Vergelijk artikel  23, lid 2, van richtlijn 2004/18/EG.  
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 8
+ 
+In de rijen A, B en C onderscheidt de matrix drie graden van betrokkenheid van de onderneming, die 
+wil inschrijven, bij de persoon die betrokken was of is bij de drie soorten werkzaamheden uit de 
+kolommen 1, 2 en 3. De puntsgewijze opsomming bij elk van de drie soorten werkzaamheden is 
+indicatief en kan bij de implementatie verder geconcretiseerd worden. 
+ 
+De negen cellen A1 tot en met C3 geven aan of de betrokkenheid bij de voorbereiding voor die 
+onderneming de inschrijving blokkeert of dat inschrijving onder voorwaarden toch mogelijk is.  
+ 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 9
+ 
+A WAS OF IS BETROKKEN BIJ … 
+ 
+1 
+de voorbereiding van het 
+project: 
+• onderzoek 
+• proeven 
+• studie 
+• ontwikkeling 
+2 
+de voorbereiding van de 
+aanbesteding: 
+• raming 
+• financiële modellen 
+• risicoanalyses 
+• keuze van wijze van 
+marktbenadering 
+• kritische 
+succesfactoren 
+ 
+3 
+de beoordeling  van 
+de inschrijvingen 
+• selectie- en 
+beoordelings-
+systematiek 
+• aanbestedings-
+procedure  
+• beoordeling 
+inschrijvingen 
+ 
+A  
+ 
+ 
+ 
+ 
+1e graads verband 
+ 
+Onderneming X 
+wil inschrijven met 
+inzet van A. 
+ 
+A1 Vermoeden van 
+vervalsing van de 
+mededinging 
+ 
+ 
+Inschrijving toestaan 
+ 
+mits X aantoont dat 
+inschrijving de 
+mededinging niet kan 
+vervalsen (kennis delen) 
+ 
+A2 Vervalsing van de 
+mededinging  
+ 
+ 
+ 
+Uitsluiten
+A3 Vervalsing van de 
+mededinging 
+(belangen-
+verstrengeling) 
+ 
+Uitsluiten 
+ 
+B 
+ 
+ 
+ 
+ 
+2e graads verband 
+ 
+Onderneming X 
+wil inschrijven met 
+inzet van B. 
+ 
+B1 Verm oeden van 
+vervalsing van de 
+mededinging 
+ 
+ 
+Inschrijving toestaan 
+ 
+mits X aantoont dat 
+inschrijving de 
+mededinging niet kan 
+vervalsen (kennis delen) 
+ 
+B2 Vermoeden van 
+vervalsing van de 
+mededinging 
+ 
+ 
+Uitsluiten 
+ 
+tenzij X aantoont dat 
+inschrijving de 
+mededinging niet kan 
+vervalsen (Belangen-
+beschermingsplan) 
+ 
+B3 Vervalsing van de 
+mededinging 
+(belangen-
+verstrengeling)! 
+ 
+Uitsluiten
+INSCHRIJVING OP DE AANBESTEDING 
+C 
+ 
+ 
+ 
+ 
+3e graads verband 
+ 
+Onderneming Y 
+wil inschrijven met 
+inzet van C. 
+ 
+C1 Vermoeden van 
+vervalsing van de 
+mededinging 
+ 
+ 
+Inschrijving toestaan 
+ 
+mits X, Y en G aantonen 
+dat inschrijving de 
+mededinging niet kan 
+vervalsen (kennis delen) 
+ 
+C2 Vermoeden van 
+vervalsing van de 
+mededinging 
+ 
+ 
+Uitsluiten 
+ 
+tenzij  X, Y en G aantonen 
+dat inschrijving de 
+mededinging niet kan 
+vervalsen (Belangen-
+beschermingsplan) 
+ 
+C3 Vervalsing van de 
+mededinging 
+(belangen-
+verstrengeling) 
+ 
+Uitsluiten 
+ 
+B 
+X 
+A C
+G 
+ Verhoudingen 
+Y 
+Matrix: negen situaties van mogelijke vervalsing van de mededinging 
+ 
+De cellen met de donkergrijze kleur (A2, A3, B3 en C3) geven situaties aan die per definitie leiden tot 
+uitsluiting voor de aanbesteding. Er is onweerlegbaar sprake van vervalsing van de mededinging 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 10
+waardoor uitsluiting van de desbetreffende inschrijver wegens voorkennis en/of belangenverstrengeling 
+geboden is.  
+ 
+De cellen met de groene kleur (A1, B1 en C1) geven situaties aan waarbij actieve transparantie door de 
+voorbereider vervalsing van de mededinging kan voorkomen. In deze situatie kan de voorbereider door 
+zijn kennis volledig, tijdig en op toegankelijke wijze te delen met RWS en de andere inschrijvers 
+voorkomen dat RWS hem uitsluit bij de aanbesteding. Bij aanvang van de deelname aan de 
+voorbereiding dient de onderneming aan te geven of zij van plan is om in te schrijven op de 
+aanbesteding zodat de mate en de wijze van kennis delen vooraf bepaald kunnen worden. 
+ 
+De mate van betrokkenheid bij de projectvoorbereiding weegt mee. Indien A slechts betrokken was bij 
+een ondergeschikt deel van de voorbereiding van de aanbestede opdracht, zal betrokkenheid van A zelf 
+of van B of C bij de inschrijving op die opdracht niet snel het gevaar oproepen van vervalsing van de 
+mededinging. De inschrijver zal door het delen van het resultaat van het door hem voorbereide 
+onderdeel het vermoeden van vervalsing van de mededinging kunnen weerleggen. 
+ 
+De rode cellen (B2 en C2) geven situaties weer waarbij interne scheiding van voorbereiding en 
+inschrijving binnen de betrokken onderneming of de groep ruimte kan laten voor RWS om inschrijving 
+door deze onderneming of groep te accepteren. Het zijn met name de situaties B2 en C2 die om 
+inschrijving een nadere beschouwing vragen. 
+ 
+Belangenbeschermingsplan 
+De mogelijkheden voor scheiding van voorbereiding en inschrijving kunnen van onderneming tot 
+onderneming, c.q. van groep tot groep, verschillen. RWS stelt ondernemingen daarom in de 
+gelegenheid om een op hun eigen organisatie toegesneden Belangenbeschermingsplan ter 
+goedkeuring bij hem in te dienen. Indien de onderneming, die wil deelnemen aan de voorbereiding van 
+de aanbesteding, tijdig om goedkeuring verzoekt en zij die krijgt, heeft zij daarmee de zekerheid dat 
+RWS haar bij inschrijving op de aanbesteding niet zal uitsluiten. 
+ 
+Bovenstaande laat de mogelijkheid echter onverlet dat concurrenten van de desbetreffende 
+onderneming met succes in rechte betogen dat er, ondanks het goedgekeurde 
+Belangenbeschermingsplan, toch sprake is van vervalsing van de mededinging en dat RWS de 
+onderneming daarom dient uit te sluiten. In dat geval zal de desbetreffende onderneming geen recht 
+hebben op schadeloosstelling.  
+ 
+Mogelijke ingrediënten van het Belangenbeschermingsplan 
+Het Belangenbeschermingsplan kan verschillende ingrediënten bevatten zoals 
+geheimhoudingsverklaringen, ´Chinese walls´, interne gedragscodes, het aanstellen van compliance 
+officers en periodieke controle van de maatregelen door onafhankelijke auditors11.  
+ 
+In situatie B2 kan X onder meer de volgende maatregelen nemen om te waarborgen dat de 
+mededinging niet kan worden vervalst: 
+• A en B tekenen geheimhoudingsverklaringen; 
+• de geheimhoudingsverklaringen van A en B bevatten ook clausules voor het geval van 
+uitdiensttreding; 
+• de bestuurder van X tekent een verklaring waarin staat dat X de geheimhoudingsverplichtingen van 
+A en B volledig zal respecteren en ondersteunen; 
+• A en B zijn organisatorisch gescheiden, zonodig tot op directieniveau (d.w.z. dat zij niet onder de 
+verantwoording vallen van dezelfde directeur); 
+• A en B werken niet op dezelfde locatie en gebruiken niet hetzelfde ICT-netwerk; 
+• X voert een actief beleid t.a.v. het voorkomen van belangenverstrengeling; 
+• een onafhankelijke derde toetst periodiek het actieve beleid van X t.a.v. het voorkomen van 
+belangenverstrengeling; 
+• van deze toets wordt verslag gedaan in het jaarverslag; 
+• deze derde rapporteert ook aan de aanbesteder. 
+                                                      
+11 Vergelijk overweging 24, Richtlij n 2003/6/EG van het Europe se Parlement en de Raad van 28 januari 2003 betreff ende 
+handel met voorkennis en marktmanipulatie (marktmisbruik); PbEU 2003, L 96/16.  
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 11
+ 
+In situatie C2 kunnen X, Y en G hetzelfde aanvoeren met betrekking tot C, met daaraan toegevoegd: 
+• X, Y en G tekenen allen een verklaring dat zij onderling geen informatie uitwisselen over het project; 
+• X, Y en G verklaren dat zij de geheimhoudingsverplichtingen van A en C volledig zullen respecteren 
+en steunen; 
+• X en Y zijn fysiek gescheiden (eigen locatie en eigen ICT-netwerk). 
+ 
+In het geval van samenwerking met de markt kan RWS bij de beoordeling van het 
+Belangenbeschermingsplan, analoog aan artikel 6, lid 3, van de Mededingingswet, meewegen of de 
+samenwerking bijdraagt tot verbetering van de productie of van de distributie of tot bevordering van 
+de technische of economische vooruitgang. Voorwaarde daarbij is dat de samenwerkingsvoordelen ten 
+goede komen aan de hele markt. De samenwerking mag de mededinging niet voor een wezenlijk deel 
+uitschakelen.  
+ 
+ 8.4   Sanctie: ernstige beroepsfout 
+Een goedgekeurd Belangenbeschermingsplan dient uiteraard zorgvuldig door de onderneming te 
+worden gehandhaafd. RWS en concurrent-inschrijvers moeten hierop kunnen vertrouwen. Omdat het 
+om interne maatregelen van de desbetreffende onderneming gaat is controle door RWS en concurrent-
+inschrijvers lastig te realiseren. Waar vertrouwen een zo grote rol speelt dient er een stevige sanctie te 
+staan op beschaming van dat vertrouwen.  
+ 
+RWS zal daarom handelen in strijd met het goedgekeurde Belangenbeschermingsplan beschouwen als 
+een ernstige fout in de uitoefening van het beroep in de zin van artikel 45, lid 2, richtlijn 2004/18/EG 
+(aanbestedingsrichtlijn Werken, Leveringen en Diensten) c.q. artikel 45, lid 3, sub d van het Besluit 
+aanbestedingsregels voor overheidsopdrachten (BAO). Dit betekent dat RWS de desbetreffende 
+onderneming zal uitsluiten bij deze en volgende aanbestedingen. Uitsluiting c.q. de periode van 
+uitsluiting zal proportioneel zijn. 
+ 
+8.5   Arbeidsmobiliteit en andere wijzigingen in de verhoudingen 
+Ook in gevallen van arbeidsmobiliteit van werknemers wordt bovenstaande beleidslijn toegepast. RWS 
+past de beleidslijn tevens toe bij andere wijzigingen in de verhoudingen, bijvoorbeeld als gevolg van 
+fusies of overnames, tijdens  de projectvoorbereiding, de aanbestedingsvoorbereiding of de beoordeling 
+van de inschrijvingen. 
+Scheiding van belang -DEF NOTA met wijz DT-RWS 14 sept 2007-070926a1.doc/CP 12
+
+=== Document: bijlage j eula e-geos ===
+End User License Agreement  
+for COSMO-SkyMed and COSMO Second Generation Products 
+ 
+ 
+GD-COM-21-001_COSMO EULA – Feb 2021           -      Page 1 of 2 
+ 
+Company General Use 
+T h i s  “ E n d  U s e r  L i c e n s e  A g r e e m e n t  ( E U L A )  f o r  C O S M O -
+S k y M e d  ( C S K )  a n d  C O S M O  S e c o n d  G e n e r a t i o n  ( C S G )  
+Products” or “COSMO EULA” or “ License” shall apply to all 
+COSMO-SkyMed and COSMO Second Generation Product/s. 
+COSMO-SkyMed and COSMO Second Generation Product/s, 
+object of this COSMOEULA, are  property of the Government 
+of the Italian Republic. According to Art. 2 of the Ministerial  
+decree n. 32 dated 1 December 2006, the Italian Space Agency 
+( “ A S I ” )  i s  t h e  h o l d e r  o f  t h e  i n tellectual property rights in th e 
+COSMO-SkyMed and COSMO Second Generation data 
+obtained in the framework of its programming of the COSMO-
+SkyMed and COSMO Second Generation satellites, and 
+therefore in the Product/s. 
+The Product/s is protected by the Italian and International 
+copyright laws, and also the raw  data acquired by the satellite  
+or stored in the archives are protected by the laws governing 
+the protection of databases, according to the EU directive 96/9  
+dated 11 March 1996 and to D. lgs. May, 6 1999, n. 169. 
+1. Definitions 
+Affiliated User/s: The natural or legal persons sharing the use 
+of the Product/s with the Licensee/s, as authorized in writing 
+by e-GEOS, in the context of a Joint Project. 
+COSMO-SkyMed Mission or COSMO mission: The Space 
+Segment and the Ground Segment of the X-Band radar 
+constellation of satellites of  the COSMO-SkyMed first and 
+second generation. 
+COSMO-SkyMed/COSMO Second Generation System:  
+The first/second generation of X-Band radar satellites 
+Derivative Product/s: A product generated from Standard or 
+High Level or Protected Product/s by any method which 
+significantly and irreversibly modifies the original Product/s so 
+that the initial chara cteristics of the original Product/s are no 
+longer identifiable either in whole or in part. 
+Internal Use: The use of the Product/s for the internal purpose 
+of Licensee/s. It does not include any right to, disclose, sell , 
+assign, lease, sublicense, distribute or transfer the Product/s , or 
+Protected Product/s, or any part thereof, or to use the same in  
+any manner or for any purpose not expressly authorized by this 
+COSMO EULA. 
+Joint Project: The specific project to be jointly carried out by 
+the Licensee/s and the Affiliated User/s. 
+Joint Use: The use of the Product/s for  a specific Joint Project 
+for which the Licensee/s is authorized in writing by e-GEOS to 
+share the Product/s with other Affiliated User/s. 
+License or COSMOEULA : A limited, non-transferable, non-
+exclusive, License to use the Product/s and to develop 
+Protected Product/s for Licensee/s internal use only. 
+Licensee/s or End User or User : The natural or legal person 
+accepting the terms and conditions of this  COSMO EULA and 
+entitled to use the Product/s for  its own Internal Use. The 
+Licensee/s can be Single User or Multiple Users. In case of 
+Multiple Users, a COSMO Multiple EULA is required. 
+Multiple License or COSMO Multiple EULA : A limited, 
+non-transferable, non-exclusive,  License to use the Product/s 
+and to develop Protected Product/s for more than one Licensee 
+or Multiple Users internal business only. 
+Product/s: the COSMO-SkyMed and COSMO Second 
+Generation Standard or Higher level product, provided by 
+e-GEOS to the Licensee/s under the terms and conditions of 
+the present COSMO EULA. 
+Protected Product/s:  Product/s generate d from Standard or 
+High Level Product/s in which the initial characteristics of th e 
+original Product/s are still ide ntifiable in whole or in part. 
+Copies of Protected Product/s and/or part of them in whatever 
+form are Protected Product/s. A few not exhaustive examples 
+are: fused imagery Product/s , orthorectified Product/s, 
+enhanced image Product/s including any histogram 
+manipulation, analogue Product/s (hardcopy/printed), 
+displaying map-based Product/s.  Distribution of Protected 
+Products to third parties requires an ad-hoc authorization from  
+e-GEOS and an additional COSMO EULA for the third party. 
+2. Object 
+2.1 e-GEOS grants to the Licensee/s a limited, non-
+transferable, non-exclusive, License to use the Product/s and t o 
+develop Protected Product/s for Licensee/s Internal Use. 
+2.2 T h e  p r e s e n t  C O S M O  E U L A  confers rights solely to the 
+Licensee/s and not to any shareholders or controlling entities or 
+consortia of which the Licensee/s is a party to. 
+2.3 The Licensee/s may involve in the use of the Product/s its 
+employees, consultants or contra ctors only for the purposes of 
+the Internal Use of the Licens ee/s, upon written authorization 
+by e-GEOS. Those employees, c onsultants or contractors are 
+required to accept in writing the terms and conditions of the 
+COSMO EULA and undertake to use the Product/s 
+accordingly. Such employees, consultants or contractors 
+assume no rights in the Product/s and in particular are not 
+allowed to use the Product/s for their own purposes or to keep 
+copies of it. They are further required to return the Product/s on 
+completion of the activities for which the Product/s is 
+provided. 
+3. Duration – Withdrawal - Termination 
+3.1 The present COSMO EULA shall be effective upon 
+delivery of the Product/s and runs for an unlimited duration of  
+time. 
+3.2 The Licensee/s may terminate at any time the present 
+COSMO EULA upon 30 days prior written notice, with respect 
+to the date of termination, to e-GEOS by registered mail,.  
+3.3 e-GEOS reserves the right to terminate the present 
+COSMO EULA upon 15 days prior notice in writing under the 
+following circumstances: 
+a) Violation of the terms and conditions of the present 
+COSMO EULA. 
+b) The Licensee/s goes into bankruptcy or insolvency, or 
+makes an assignment for the benefit of creditors, or goes out o f 
+business. 
+c) Violation of any applicable laws and regulations.  
+3.4 e-GEOS reserves the right to terminate the present 
+COSMO EULA in the case of violation of the terms nd 
+condition of the COSMO EULA by any Affiliated User/s. 
+ 3.5 In the cases specified in paragraphs 3.2, 3.3 and 3.4 above, 
+the Licensee/s and any Affiliated User/s are not entitled to 
+further use the Product/s and/or Protected Product/s In such 
+case Licensee/s and any Affiliated User/s shall make its best 
+ 
+ 
+COSMO EULA – Feb 2021 Page 2 of 2 
+ 
+Company General Use 
+effort to return or destroy the Product/s, any parts of it, cop ies 
+and relative documentation.  
+4. Permitted Use 
+4.1 The Licensee/s is authorized to copy the Product/s to new 
+digital media, or to install it on its computers for back-up 
+purposes. 
+4.2 The Product/s may be proce ssed using also information 
+f r o m  o u t s i d e  t h e  C O S M O  S y s t e m  i n  o r d e r  t o  e l a b o r a t e  
+Derivative Product/s. 
+4.3 The Licensee/s may be authorized in writing by e-GEOS to 
+share the Product/s with Affiliated User/s, when this is 
+necessary to carry out a Joint  Project, under the following 
+conditions: 
+a) Characteristics and duratio n of the Joint Project are 
+indicated in the Product/s order; 
+b) Details of the Affiliated User/s are made available to e-
+GEOS at the time of ordering; 
+c) Each Affiliated User/s accepts in writing and in advance the 
+terms and conditions of the present COSMO EULA. 
+d) The Affiliated Users acknowle dge that they retain no rights 
+of use of the Product/s beyond those necessary for carrying out  
+the Joint Project. At the end of the Joint Project, the Affilia ted 
+User/s are required to promptly return or destroy the Product/s  
+according to the instructions given by e-GEOS. 
+5. Prohibited use 
+5.1 Any use other than those specified in articles 2 and 4 above 
+is prohibited, unless expressly authorized in writing by 
+e-GEOS. 
+5.2 e-GEOS and ASI reserve all rights in the Product/s not 
+specifically granted by the present COSMO EULA. 
+6. Intellectual Property Rights 
+6.1 The Licensee/s recognizes the  intellectual property rights 
+of ASI in the Product/s and Protected Product/s and undertakes 
+to reproduce the copyright notice as follows: 
+“COSMO-SkyMed Product/COSMO Second Generation 
+Product – © ASI [year of acquisition] processed under license 
+from ASI – Agenzia Spaziale I taliana. All rights reserved. 
+Distributed by e-GEOS”. 
+6.2 It is prohibited to alter, modify or delete the copyright 
+notice attesting ASI’s intellect ual property rights ownership i n 
+the Product/s, as well as any associated trademarks 
+6.3 The Licensee undertakes to com ply with ASI’s intellectual 
+property rights in the Product/s and undertakes to refer 
+promptly and in writing to e-GEOS any of unlawful use, 
+including those by third parties, of this Product/s and/or 
+Protected Product/s processed under the terms of this  COSMO 
+EULA. Licensee/s also undertakes to use all his/her best efforts 
+and to take all adequate measures to prevent the infringement 
+of ASI intellectual property rights by any third parties. 
+6.4 ASI’s title to inte llectual property rights in the Product/s 
+does not preclude recognition of joint and/or distinct 
+copyrights of the Licensee/s on a Derivative Product/s in case 
+Licensee/s mention the original Product/s as source for the 
+production of Derivative Product/s. In such case ASI requires 
+full acknowledgment of ASI’s rights in the original Product/s. 
+ 
+7. Guarantee and Limitation of Liability 
+7.1 If a Product is defective, e-GEOS guarantee is limited to 
+the replacement of the Product/s , if available, or with a refun d 
+of the fee paid by the Licensee/s. 
+7.2 Any claim regarding defect s in the Product/s must be 
+submitted to e-GEOS by fax or registered post within 15 
+working days of the date the  Product/s was delivered by e-
+GEOS to the Licensee/s, after which time e-GEOS will not 
+accept any complaint. 
+7.3 e-GEOS and ASI are not responsible for the accuracy 
+and/or suitability of the Product/s for any intended use by the  
+Licensee/s. 
+7.4 e-GEOS and ASI accept no res ponsibility/nor liability for 
+any damage, direct or indirect , suffered by the Licensee/s, 
+caused by the Product/s, or connected to the use or non-use of 
+the Product/s. 
+7.5 In case contractual responsibilities of e-GEOS to the 
+Licensee/s are anyway found to b e applied, the liability of 
+e-GEOS shall be limited to the  amount of the price for the 
+Product/s paid by the Licensee/s. 
+8. Force Majeure 
+8.1 e-GEOS is not responsible for any delays and/or 
+inadequacies in obligations foreseen by the present  COSMO 
+EULA due to force majeure, such as COSMO System 
+malfunctions, natural events, strikes, etc. 
+8.2 The Licensee/s acknowledges and agrees that the 
+competent Italian security governmental authorities may at any 
+time prevent the reception and/or distribution of the Product/s . 
+The Licensee/s therefore expressly accepts that delivery of the  
+Product/s, may be prevented, without any liability of ASI 
+and/or e-GEOS. 
+9. Miscellaneous 
+9.1 The present COSMO EULA replace any preceding 
+agreement, understanding or ne gotiation between the Parties 
+concerning the subject of this COSMO EULA. 
+9.2 This COSMO EULA may only be amended by written 
+agreement of both Parties. 
+9.3 Each Party undertakes to treat in confidence and in 
+accordance with applicable law any information received from 
+the other Party. The Licensee/s accepts that information 
+provided to e-GEOS may be t ransmitted to ASI, which 
+undertakes to treat it in confidence. 
+9.4 This COSMO EULA shall be governed by Italian Law. 
+9.5 Any controversy or claim between the Parties hereto 
+arising out of or in connection with this License that will not  
+be settled amicably and in good faith by the Parties, shall be 
+referred to the courts of Rome, Italy.

@@ -1,0 +1,1247 @@
+=== Document: 31206367 omschrijving publicatie tenderned ===
+Voorpublicatie TenderNed  
+ 
+Dit betreft een vrijwillige publicatie voorafgaand aan gunning op basis van Technische 
+Redenen. 
+ 
+31206367: Kennispartner Alliantie Strategische Modelvernieuwing Personenvervoer 
+RWS bouwt aan een alliantie om in de periode 2025-2028 de volgende generatie verkeers-en 
+vervoermodellen voor IenW te ontwikkelen. Deze alliantie bestaat uit marktpartijen en 
+kennisinstellingen. Om de marktpartijen te selecteren loopt momenteel een Europese aanbesteding 
+via TenderNed.  
+ 
+Achtergrond en Doel van de Opdracht 
+Het programma Strategische Modelvernieuwing Personenvervoer (SMP) richt zich op de 
+vernieuwing en verbetering van modellen die het toekomstige mobiliteitssysteem beschrijven. De 
+vernieuwing is gericht op: 
+- Beter beschrijven van de veranderend mobiliteitsgedrag in ruimte en tijd 
+dynamiek tussen  
+- Beter modelleren van verschillen in keuzegedrag van verschillende type personen 
+- Een accuratere beschrijving geven van het functioneren van zwaarbelaste netwerken (wegennet 
+en spoornet) 
+- Een modelinstrumentarium ontwikkelen dat transparant, en beter beheersbaar is en op 
+verschillende detailniveaus wordt ingezet.  
+ 
+RWS heeft vastgesteld dat deze opdracht vanwege technische en inhoudelijke redenen uitsluitend 
+kan worden gegund aan kennispartner TNO (Nederlandse Organisatie voor toegepast-
+natuurwetenschappelijk onderzoek).  
+ 
+TNO is een onafhankelijk kennisinstituut dat binnen de lopende subsidieprogramma's 
+(Vraaggestuurd Programma en Programmatische Samenwerking Brede Welvaart) bewezen kennis 
+heeft opgebouwd over de modellering van het mobiliteitssysteem. TNO wordt als kennispartner 
+aangesproken op de onafhankelijke status als kennisinstituut. 
+ 
+TNO wordt gevraagd om als kennispartner voor RWS op te treden. Hiermee is het doel de 
+kennisbasis van RWS te verbreden en de kwaliteit van het eindresultaat van het Programma SMP 
+te verhogen.  
+ 
+Rol en Activiteiten van de Kennispartner 
+1. Inhoudelijk advies: Adviseren over de inhoudelijke opgaven binnen het programma en de 
+inhoudelijke samenhang daartussen  
+2. Ondersteuning projectplannen: Adviseren en assisteren bij opstellen van projectplannen die 
+worden uitgevoerd door de marktpartijen 
+3. Kwaliteitsborging: Advies en kwaliteitsborging van (tussen)producten die door de markt worden 
+opgeleverd 
+4. Kennisdeling: Actief kennis en producten inbrengen die worden ontwikkeld binnen lopende 
+subsidieprogramma’s zoals het Vraaggestuurd Programma (thema Modellen) en de 
+Programmatische Samenwerking Brede Welvaart. 
+ 
+Indien marktpartijen interesse hebben om deel te nemen aan de opdracht verwijs ik graag naar de 
+lopende Europese aanbesteding. 
+31204934 Strategische Modelvernieuwing Personenvervoer (SMP) 
+ 
+Terwijl de selectie van marktpartijen via een Europese aanbesteding plaatsvindt, wordt de 
+kennispartner geselecteerd op basis van technische redenen. 
+ 
+De duur van deze opdracht is 3 jaar met de mogelijkheid om de opdracht 1 keer voor 1 jaar te 
+verlengen. 
+ 
+Voor een verdere toelichting van de opdracht verwijzen wij graag naar bijlage A Vraagspecificatie.
+
+=== Document: 31206367 vraagspecificatie kennispartner alliantie smp ===
+Bijlage I: Vraagspecificatie Kennispartner Alliantie 
+Strategische Modelvernieuwing Personenvervoer (SMP), 
+inclusief Programma van Eisen (PvE)  
+Project: Kennispartner Strategische Modelvernieuwing Personenvervoer (SMP) 
+Zaaknummer: 31206367 
+ 
+ 
+  
+  
+  
+  
+  
+  
+Datum 4 december 2024 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+Colofon 
+Uitgegeven door Ministerie van Infrastructuur en Waterstaat  
+Rijkswaterstaat Water, Verkeer en Leefomgeving  
+Datum 4 december 2024 
+Status Definitief  
+Versienummer Versie 0.2 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+  
+Inhoud 
+1 Inleiding 4 
+1.1 Identificatie 4 
+1.2 De opdracht 4 
+1.2.1 Achtergrond van de opdracht 4 
+1.2.2 Opdrachtbeschrijving op hoofdlijnen 5 
+1.2.3 Doel van de opdracht 5 
+1.3 Leeswijzer 5 
+2 Opdrachtomschrijving 6 
+2.1 Beschrijving van de Alliantie SMP op hoofdlijn 6 
+2.2 Nadere invulling rol van kennispartner binnen Alliantie 6 
+2.2.1 Advies over programma 6 
+2.2.2 Advies over projectplannen 7 
+2.2.3 Kwaliteitsborging en ondersteuning 7 
+2.2.4 Inbrengen kennis en producten uit lopende subsidieprogramma’s 8 
+2.3 Werkwijze binnen alliantie 9 
+2.4 Evaluatie 10 
+3 Offerte en beoordelingscriteria 12 
+3.1 Offerte voor de deelname aan de samenwerking 12 
+4 Communicatie 13 
+4.1 Interactie tussen Opdrachtgever en Opdrachtnemer 13 
+4.1.1 Geplande overlegmomenten 13 
+4.1.2 Geplande startbespreking 13 
+4.2 Interactie tussen TNO en andere deelnemers 13 
+4.2.1 Marktpartijen 13 
+4.2.2 ProRail 13 
+4.2.3 Beleidskern IenW 13 
+4.2.4 Planbureau voor de Leefomgeving (PBL) 14 
+4.2.5 Universiteiten 14 
+4.2.6 Kennisinstituut voor de Mobiliteit (KiM) 14 
+4.2.7 Centraal bureau voor de Statistiek (CBS) 14 
+5 Kwaliteitsmanagement 15 
+6 Project- en contractbeheersing 16 
+6.1 Betaling reguliere activiteiten Samenwerking SMP 16 
+6.2 Optie tot verlenging 16 
+Bijlage 1: Portfolio verkeers- en vervoersmodellen RWS 17 
+ 
+  
+ 
+ 
+  
+  
+ 
+1 Inleiding 
+1.1 Identificatie 
+ 
+Deze vraagspecificatie beschrijft de opdracht, bestaande uit de uit te voeren 
+werkzaamheden, diensten en/of te leveren producten. Deze vraagspecificatie is als 
+bijlage I opgenomen bij de offerteaanvraag. 
+1.2 De opdracht 
+1.2.1 Achtergrond van de opdracht 
+Rijkswaterstaat (RWS) is verantwoordelijk voor beheer, onderhoud en vernieuwing 
+van het instrumentarium van verkeers- en vervoermodellen voor het Ministerie van 
+Infrastructuur en Waterstaat. Voor personenmobiliteit zijn dit bijvoorbeeld de 
+modellen LMS/NRM, TIGRIS XL, SPARK en Albatross1. Voor een deel van deze 
+instrumenten wordt deze verantwoordelijk gedeeld met ProRail en het Planbureau 
+voor de Leefomgeving (PBL).  
+ 
+Het Programma SMP is erop gericht het genoemde modelinstrumentarium voor 
+personenmobiliteit van het ministerie van Infrastructuur en Waterstaat (IenW) 
+grondig te vernieuwen. Het nieuwe instrumentarium moet op termijn rekening 
+kunnen houden met een aantal grote transities in de maatschappij (bijvoorbeeld 
+woningbouw, klimaatverandering en de energietransitie). Tegelijkertijd wordt met 
+het vernieuwingsprogramma gezorgd dat het instrumentarium inhoudelijk state-of-
+the-art blijft. 
+ 
+Dit project betreft alle deelprojecten die bijdragen aan de doelen van het 
+Programma Strategische Modelvernieuwing Personenvervoermodellen (SMP). Het 
+programma kent vier hoofdopgaven: 
+Figuur 1 De vier hoofdopgaven van het programma SMP 
+De uitvoering van het programma moet leiden tot een nieuw modelinstrumentarium 
+dat aan de volgende einddoelen voldoet: 
+ 
+1 Voor een kort overzicht van het portfolio aan verkeers- en vervoermodellen 
+personenmobiliteit zie bijlage 2 
+
+ 
+Pagina 5 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+ Figuur 2 De vier hoofddoelen van het programma SMP 
+1.2.2 Opdrachtbeschrijving op hoofdlijnen 
+RWS richt momenteel een alliantie in om samen met marktpartijen en 
+kennisinstellingen uitvoering te geven aan het Programma Strategische 
+Modelvernieuwing Personenvervoer (SMP) in de periode 2025-2028. Voorliggende 
+vraagspecificatie richt zich op de bijdrage van TNO aan de beoogde alliantie. Met 
+marktpartijen (lopende aanbesteding zaaknummer 31204934) en met universiteiten 
+maakt Rijkswaterstaat aparte afspraken buiten deze uitvraag.  
+1.2.3 Doel van de opdracht 
+Het doel van de opdracht is het maken van afspraken over de bijdrage van TNO aan 
+de alliantie SMP. Binnen de alliantie is TNO de beoogd kennispartner van RWS. 
+Hiermee is het doel de kennisbasis van RWS te verbreden en de kwaliteit van het 
+eindresultaat van het Programma SMP te verhogen. Onder de rol van kennispartner  
+vallen de volgende activiteiten: 
+ 
+1. Adviseren over de inhoudelijke opgaven binnen het programma en de 
+inhoudelijke samenhang daartussen  
+2. Adviseren en assisteren bij opstellen van projectplannen die worden 
+uitgevoerd door de marktpartijen 
+3. Advies en kwaliteitsborging van (tussen)producten die door de markt 
+worden opgeleverd 
+4. Actief kennis en producten inbrengen die worden ontwikkeld binnen lopende 
+subsidieprogramma’s zoals het Vraaggestuurd Programma (thema Modellen) 
+en de Programmatische Samenwerking Brede Welvaart 
+ 
+Deelname aan de Alliantie SMP betekent verder de verplichting om in een open 
+constructieve houding binnen het Programma opgedane kennis actief te delen met 
+de andere partijen (marktpartijen en universiteiten zie paragraaf 2.3) 
+1.3 Leeswijzer 
+ 
+In hoofdstuk 2 is de beoogde Alliantie SMP nader toegelicht. Aansluitend gaat 
+hoofdstuk 3 in op de beoordelingscriteria en enkele eisen die worden gesteld aan de 
+werkzaamheden die binnen de samenwerking worden uitgevoerd. Hoofdstuk 4 gaat 
+in op communicatie. Hoofdstukken 5 t/m 8 bevatten enkele formele eisen en 
+randvoorwaarden bij deze opdracht.  
+
+ 
+Pagina 6 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+2 Opdrachtomschrijving 
+2.1 Beschrijving van de Alliantie SMP op hoofdlijn 
+ 
+De Alliantie SMP wordt gevormd door maximaal zeven marktpartijen, TNO en enkele 
+universiteiten die samen met RWS als opdrachtgever de vier opgaven en doelen van 
+het Programma Strategische Modelvernieuwing Personenvervoer realiseren. 
+Opdrachtgever hecht aan een goede balans in de samenwerking op zoveel mogelijk 
+wederkerige basis. Vanuit het gezichtspunt van TNO biedt de Alliantie de kans om 
+ontwikkelingen uit het Vraaggestuurd Programma sneller en beter te laten 
+aansluiten bij het modelinstrumentarium van IenW. Daarnaast kan TNO bij 
+toekomstige innovatie op het gebied van verkeers- en vervoermodellen mogelijk 
+gebruik gaan maken van de door het programma SMP te ontwikkelen framework 
+voor modellen. 
+ 
+Inbreng van opdrachtgever  
+Opdrachtgever biedt TNO om als kennispartner samen met RWS het Programma 
+SMP op de inhoud verder vorm te geven en de kwaliteit daarvan te borgen. 
+Daarnaast wordt de kans geboden om actief kennis op te halen binnen de alliantie 
+en op de hoogte te blijven van alle ontwikkeling rondom de 
+personenvervoermodellen van Rijkswaterstaat en ProRail.   
+ 
+Inbreng van TNO in de alliantie 
+Van TNO wordt als kennispartner van RWS een actieve deelname verwacht. De rol 
+van kennispartner wordt in paragraaf 2.2 verder toegelicht. Een actieve bijdrage 
+betekent dat TNO actief kennis deelt en actief deelneemt aan de verschillende 
+bijeenkomsten die binnen het alliantie worden belegd. Daarnaast dient TNO op de 
+hoogte te blijven van issues die via het binnen de alliantie in te richten informatie-
+platform2 worden gedeeld en deze waar nodig op te volgen. Ook wordt verwacht dat 
+TNO deelneemt aan de jaarlijkse evaluatie van de samenwerking (zie paragraaf 
+2.7).  
+2.2 Nadere invulling rol van kennispartner binnen Alliantie 
+De rol van kennispartners bestaat uit vier onderdelen: 
+ 
+1. Adviseren over de inhoudelijke opgaven binnen het programma en de 
+inhoudelijke samenhang daartussen  
+2. Adviseren en assisteren bij opstellen van projectplannen die worden 
+uitgevoerd door de marktpartijen 
+3. Advies en kwaliteitsborging van (tussen)producten die door de markt 
+worden opgeleverd 
+4. Actief kennis en producten inbrengen die worden ontwikkeld binnen lopende 
+subsidieprogramma’s zoals het Vraaggestuurd Programma (thema Modellen) 
+en de Programmatische Samenwerking Brede Welvaart 
+ 
+Deze beoogde rollen worden in de volgende paragrafen verder uitgewerkt. 
+2.2.1 Advies over programma 
+ 
+2 Voor de Samenwerking Goederenvervoermodellen is gekozen voor GITlab als informatie-
+platform. Voor de Samenwerking SMP is dit nog nader te bepalen. 
+ 
+Pagina 7 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+TNO wordt geacht om met marktpartijen en Rijkswaterstaat samen te werken, 
+kennis te delen en over te dragen en over inhoudelijke vragen te sparren. Dit deel 
+van de rol van kennispartner komt overeen met de rol die ook aan marktpartijen 
+wordt gevraagd en omvat in elk geval de volgende activiteiten: 
+- Deelname halfjaarlijkse fysieke programmabijeenkomsten. Twee keer per jaar 
+zal voor duur van een dagdeel een programmabrede bijeenkomst worden 
+georganiseerd door opdrachtgever. Onderwerpen kunnen verschillend zijn, 
+zoals bijvoorbeeld een brede kick-off, jaarlijkse evaluatie of een toelichting op 
+het jaarprogramma.  
+- Deelname aan kennisdeelsessies en klankbordsessies van deelprojecten die 
+binnen het programma worden uitgevoerd. TNO wordt geacht om hierbij de link 
+te leggen tussen ontwikkelingen in de praktijk en/of de wetenschap, en de 
+ontwikkelingen binnen het Programma SMP.   
+- Deelname aan kennisuitwisseling binnen een nader te bepalen informatie-
+platform3. Elke partner binnen de alliantie wordt geacht om voor hun relevante 
+issues te volgen en op de hoogte te blijven van open vragen, gemaakte keuzes 
+en beslissingen. Elke Partner wordt geacht op vragen te reageren die direct aan 
+hen zijn gericht binnen een issue. Partners worden geacht om andere Partners 
+aan issues toe te voegen als het onderwerp relevant voor hun zou kunnen zijn. 
+Mocht het beantwoorden van vragen inzet vragen die redelijkerwijs niet valt 
+onder kennisuitwisseling, dan valt de inzet onder de rol van ‘kwaliteitsborging’ 
+(zie paragraaf 2.2.3) 
+ 
+Naast deelname aan bovenstaande bijeenkomsten en kennisuitwisseling wordt 
+aanvullend aan TNO gevraagd om in voorbereiding op de jaarlijkse 
+programmabijeenkomst met het jaarprogramma een advies van in omvang 2 tot 5 
+A4-tjes te schrijven over de stand van zaken rondom de inhoudelijke opgaven in het 
+programma en de samenhang daartussen. Dit advies moet de basis zijn voor keuzes 
+die binnen de alliantie gemaakt worden over projecten binnen de vier 
+hoofdopgaven.   
+ 
+Binnen deze opdracht zijn jaarlijks twee (2) programmabrede sessies voorzien, tien 
+(10) klankbord- en kennisdeelsessies en één schriftelijk advies.  
+2.2.2 Advies over projectplannen 
+Rijkswaterstaat is als opdrachtgever van de alliantie verantwoordelijk voor het 
+schrijven van projectplannen die door de marktpartijen binnen de alliantie worden 
+uitgevoerd. Deze projectplannen bakenen de scope af, beschrijven een concreet 
+doel en randvoorwaarden en, indien van toepassing, beschrijven een 
+voorgeschreven aanpak op hoofdlijn. TNO wordt als kennispartner gevraagd om een 
+bijdrage te leveren aan de projectplannen. Dit kan op twee manieren: 
+ 
+1. Review van een door RWS geschreven projectplan 
+2. RWS en TNO schrijven een projectplan in co-productie 
+ 
+Binnen deze opdracht zijn jaarlijks twee (2) reviews van projectplannen voorzien en 
+twee (2) projectplannen die in co-productie worden gemaakt.  
+2.2.3 Kwaliteitsborging en ondersteuning 
+Hieronder vallen alle werkzaamheden waarvan redelijkerwijs niet verwacht kan 
+worden dat deze vallen onder reguliere kennisdeling. Het kan hierbij gaan om 
+ 
+3 Voor de Samenwerking Goederenvervoermodellen is gekozen voor GITlab als informatie-
+platform. Voor de Samenwerking SMP is dit nog nader te bepalen. 
+ 
+Pagina 8 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+(uitgebreide) beantwoording van vragen op het informatie-platform of om 
+verzoeken om beperkte analyses of adviezen. Hiervoor wordt de volgende procedure 
+gevolgd, die overeenkomt met de afspraken die met de markt worden gemaakt:  
+- Alle deelnemers aan de alliantie volgen open issues, verzoeken en vragen via 
+het informatie-platform. 
+- TNO kan reageren op deze issues, verzoeken en vragen. 
+- TNO geeft vooraf de geschatte kosten hiervoor aan. Na akkoord van 
+opdrachtgever wordt het issue/vraag/verzoek beantwoord en gedeeld met alle 
+andere deelnemers aan de alliantie via het informatie platform. 
+- Werkzaamheden die de tijdsduur van 4 uur niet overstijgen kunnen in 
+afstemming met een van de RWS-projectleiders direct uitgevoerd worden. 
+Indien de tijdsduur langer is dan 4 uur, dan kan uitsluitend na een formele 
+opdrachtverlening per email de werkzaamheden worden uitgevoerd  
+- Ondersteuning kan ook op initiatief van TNO zelf worden geïnitieerd. Het op 
+eigen initiatief aanmaken van issues is bedoeld om potentiële verbeteringen 
+aan Opdrachtgever voor te leggen. Opdrachtgever kan dan overwegen of deze 
+verbeteringen doorgevoerd kunnen worden. Initiërende partij opent een issue 
+en beschrijft hierin het probleem, de wens, de mogelijke verbetering. 
+Opdrachtgever besluit of de werkzaamheden direct, later of niet uitgevoerd 
+zullen worden. Als de werkzaamheden uitgevoerd gaan worden, wordt het 
+proces gevolgd, zoals hierboven beschreven.  
+ 
+Kwaliteitsborging  
+De resultaten van de deelprojecten uit het programma dienen te worden getoetst. 
+Opdrachtgever maakt vooraf voor elk deelproject een afweging welke partij deze 
+kwaliteitstoets uitvoert. Het kan zijn dat de opdrachtgever dit zelf doet, dat TNO dit 
+doet, één van de marktpartijen binnen de alliantie of een andere partij buiten de 
+alliantie. Hiervoor wordt de volgende procedure gevolgd: 
+- Tegelijk met de projectpublicatie van een deelopdracht door opdrachtgever  
+wordt aangegeven of een kwaliteitstoets door één van de andere partijen uit de 
+alliantie wordt gevraagd. Als TNO de beoogd toetser is dan wordt dit tegelijk 
+met de projectpublicatie kenbaar gemaakt aan de markt. 
+- Opdrachtgever maakt in een opdrachtomschrijving duidelijk wat het gewenste 
+detailniveau is van de gevraagde kwaliteitstoets. 
+- Opdrachtgever geeft vervolgens opdracht voor het uitvoeren van de 
+kwaliteitstoets. 
+- (tussen)Resultaten van de toets worden gedeeld met de andere deelnemers via 
+het informatie-platform. 
+ 
+Er zijn twee mogelijke niveaus van kwaliteitsborging te onderscheiden: 
+ 
+1. Light: Review van het concept-eindresultaat door TNO. 
+2. Volledig: TNO bewaakt gedurende de hele looptijd van het project de 
+inhoudelijke kwaliteit. TNO schuift aan bij project-overleggen en beoordeelt 
+de (tussen)resultaten die door de opdrachtnemer worden opgeleverd. Dit 
+proces wordt afgesloten met een notitie van TNO.  
+ 
+Binnen deze opdracht zijn jaarlijks twee (2) reviews van concept- eindresultaten 
+voorzien en één (1) volledig kwaliteitsborgingstraject.  
+2.2.4 Inbrengen kennis en producten uit lopende subsidieprogramma’s 
+ 
+ 
+ 
+ 
+Pagina 9 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+De Alliantie biedt de kans om modelconcepten die binnen lopende 
+(subsidie)programma’s4 worden ontwikkeld, sneller en beter te laten aansluiten bij 
+het vigerende modelinstrumentarium van IenW. Een voorbeeld hiervan is de 
+implementatie van de modellering van parkeercapaciteiten in het Landelijk 
+Modelsysteem LMS. In het programma Urban Tools Next heeft TNO een methode 
+ontwikkeld om parkeren beter te modelleren. Deze methode is vervolgens in 
+opdracht van Rijkswaterstaat methodisch geschikt gemaakt voor LMS. De 
+implementatie van de methode in het LMS is door de markt uitgevoerd, waarbij TNO 
+een adviserende rol had.  
+ 
+Het is nu nog niet te zeggen welke modelconcepten gedurende de looptijd van het 
+programma (2025-2028) mogelijk kunnen worden ingebracht door TNO. De exacte 
+omvang van de werkzaamheden binnen dit onderdeel zijn dan ook niet te ramen. 
+Daarom dient opdrachtgever een stelpost van 40.000,- op te nemen voor 
+werkzaamheden die gedurende de looptijd van de opdracht binnen dit onderdeel 
+worden uitgevoerd.  
+2.3 Werkwijze binnen alliantie 
+De samenwerking met marktpartijen volgt een werkwijze om projecten te definiëren 
+en uit te voeren binnen het programma. Hieronder wordt dit proces per stap 
+uitgewerkt, met daarbij ook de specifieke beoogde taken van TNO.  
+ 
+Stap Taken voor marktpartijen Taken voor TNO 
+1. Opdrachtgever presenteert 
+beknopt alle projecten van 
+het nieuwe jaar, Zie 2.3.1. 
+e.v. 
+Aanwezigheid en actieve 
+bijdrage aan deze 
+programma-bijeenkomst. 
+Aanwezigheid en actieve 
+bijdrage. Advies over 
+inhoudelijke opgaven 
+programma 
+2. Projectpublicatie door 
+Opdrachtgever voor een 
+deelproject 
+Kennisnemen van de 
+projectpublicatie. 
+Indien ‘Volledige’ 
+kwaliteitsborging: 
+meeschrijven aan 
+projectplan. Indien ‘light’: 
+review projectplan.  
+3. Klankbordsessie voor een 
+deelproject.  
+Alle partijen nemen deel een 
+de sessie en lichten hun 
+ideeën toe over de mogelijke 
+aanpak en inhoudelijke 
+opties.  
+  
+Deelnemen aan sessie en 
+reflecteren op de door de 
+markt ingebrachte aanpak. 
+4. Partijen maken hun 
+interesse kenbaar  
+Marktpartijen maken hun 
+interesse schriftelijk kenbaar  
+ 
+4.1. Opdrachten met een 
+totale waarde van minder 
+dan €50.000,- excl. BTW 
+Opdrachtgever vraagt één 
+offerte aan één partij binnen 
+het perceel  
+ 
+4.2  Opdrachten met een 
+totale waarde vanaf 
+€50.000,- excl. BTW  
+Alle partijen binnen het 
+perceel dienen een Plan van 
+Aanpak en offerte in.  
+ 
+5. Selectie offerte door 
+Opdrachtgever en gunning 
+-- Indien ‘Volledige’ 
+kwaliteitsborging: mede 
+beoordelen offerte. 
+6. Delen van Plan van 
+Aanpak  
+Alle partijen binnen het 
+perceel nemen kennis van het 
+plan van aanpak van de partij 
+Deelname aan bijeenkomst 
+en feedback geven op plan 
+van aanpak markt. 
+ 
+4 Zoals het Vraaggestuurd Programma Smart and Sustainable Mobility of de Programmatische 
+samenwerking Brede Welvaart 
+ 
+Pagina 10 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+die het project uitvoert en 
+geven in een online 
+bijeenkomst feedback hierop.   
+7. Uitvoering project Daar waar relevant reageren 
+in issues getaggde partners 
+Dit valt onder de taken die 
+onderdeel zijn van deelname 
+aan de samenwerking.  
+Indien ‘volledige’ 
+kwaliteitsborging: beoordelen 
+(tussen)resultaten en 
+projectmeetings 
+8. Oplevering van producten Indien van toepassing voert 
+een marktpartij uit de 
+samenwerking een 
+kwaliteitstoets uit op de 
+producten.  
+Indien ‘light’ 
+kwaliteitsborging: review op 
+eindproducten 
+9. Oplevering van producten 
+aan RWS 
+-- Indien ‘volledige’ 
+kwaliteitsborging: 
+eindoordeel eindproducten 
+10. Kennisdeelsessie  Alle partijen nemen deel aan 
+een online kennisdeelsessie 
+waarin het eindresultaat van 
+het deelproject en 
+kwaliteitstoets wordt gedeeld. 
+Deelname aan 
+kennisdeelsessie, presenteren 
+resultaten kwaliteitstoets. 
+ 
+2.4 Evaluatie  
+Eens per jaar wordt elke deelnemer aan de Alliantie SMP geëvalueerd. Hierbij wordt 
+door de Opdrachtgever feedback van alle deelnemers opgehaald. Naast een 
+individuele evaluatie wordt ook de Alliantie SMP als geheel geëvalueerd.  
+ 
+Evaluatie Alliantie SMP  
+Deze evaluatie richt zich op de kwaliteit van de gerealiseerde resultaten en de 
+effectiviteit van het werkproces binnen de Alliantie SMP. De evaluatie vindt plaats 
+met alle deelnemers en wordt begeleid door de Opdrachtgever. De resultaten van de 
+evaluaties dienen om het functioneren van de Alliantie SMP te verbeteren. Feedback 
+op de samenwerking wordt op anonieme basis met iedereen gedeeld. 
+ 
+Evaluatie van het functioneren van de afzonderlijke deelnemers 
+De evaluatie van de afzonderlijke deelnemers wordt door de Opdrachtgever 
+uitgevoerd. De Opdrachtgever zal daarbij ook andere deelnemers consulteren voor 
+feedback over de samenwerking. Feedback op samenwerking met een specifieke 
+partij wordt anoniem en alleen met de desbetreffende partij gedeeld. De evaluatie 
+richt zich op de volgende aspecten: 
+ 
+- Uitgevoerde Deelopdrachten: 
+- Geleverde kwaliteit; 
+- Naleving van de afgesproken planning; 
+- Communicatie over de werkzaamheden. 
+ 
+- Houding en gedrag binnen de Alliantie SMP: 
+- Aanwezigheid en inbreng bij bijeenkomsten die binnen de 
+samenwerking worden georganiseerd;  
+- Bereidheid om kennis en informatie te delen ten behoeve van de 
+producten en resultaten binnen de alliantie SMP. 
+ 
+Op basis van de opgehaalde feedback en het nakomen van de afspraken die onder 
+de samenwerking tussen RWS en TNO vallen, geeft de Opdrachtgever een 
+beoordeling: negatief, neutraal of positief. De Opdrachtgever legt de beoordeling 
+ 
+Pagina 11 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+schriftelijk voor aan TNO. De uitgevoerde evaluaties zijn vertrouwelijk en worden 
+alleen gedeeld met TNO. 
+ 
+De evaluatie wordt gebruikt om het functioneren van de samenwerking tussen RWS 
+en TNO of de samenwerking in de alliantie te verbeteren. Bij een negatieve 
+beoordeling volgt een gesprek om de feedback te bespreken en nadere afspraken te 
+maken over een verbetering van de samenwerking. Na een tweede negatieve 
+beoordeling staat het de Opdrachtgever vrij om éénzijdig de samenwerking met 
+deze partij op te zeggen 
+  
+ 
+Pagina 12 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+ 
+3 Offerte en beoordelingscriteria 
+3.1 Offerte voor de deelname aan de samenwerking 
+De volgende zaken moeten in de offerte voor de rol van kennispartner in de alliantie 
+SMP benoemd worden: 
+- Algemene visie van TNO op deelname aan de alliantie en hoe invulling wordt 
+gegeven aan de rol van kennispartner   
+- Toelichting waarom TNO geschikt is om de rol van kennispartner te 
+vervullen binnen de alliantie.  
+- Welke kennis een partij inbrengt en welke personen de verschillende 
+gevraagde rollen vervullen.  
+- Daarnaast moet in de offerte duidelijk gemaakt worden hoe TNO invulling 
+geeft aan de wederkerige basis van de samenwerking. Bijvoorbeeld door 
+expliciet aan te geven welke deel van de gevraagde inzet door TNO zelf 
+wordt bekostigd en welk deel als opdracht door RWS aan TNO wordt 
+gegeven.     
+  
+ 
+Pagina 13 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+4 Communicatie 
+De Opdrachtnemer dient de Opdracht zodanig voor te bereiden en uit 
+te voeren dat deze op beheerste en controleerbare wijze verloopt, 
+zodat het gewenste resultaat wordt behaald. 
+ 
+4.1 Interactie tussen Opdrachtgever en Opdrachtnemer 
+ 
+De Opdrachtnemer dient bij te dragen aan een effectieve informatie-
+uitwisseling met de Opdrachtgever, zodanig dat beide Partners juist 
+en tijdig zijn geïnformeerd. 
+ 
+4.1.1 Geplande overlegmomenten 
+Voor het uitvoeren van de opdracht dient minimaal conform de navolgende planning 
+afstemming plaats te vinden tussen Opdrachtnemer en Opdrachtgever: 
+ 
+Nr. Overleg 
+01 Kickoff na definitieve gunning 
+02 Programma-brede bijeenkomsten: 2x per jaar  
+03 Verder dient de Opdrachtnemer aan te sluiten en actief deel te nemen bij de 
+kennisdeelsessies en de relevante klankbordsessies voor deelprojecten.  
+ 
+4.1.2 Geplande startbespreking 
+De kickoff wordt direct na gunning door de Opdrachtgever georganiseerd. De 
+startbespreking is bedoeld om kennis te maken en de verwachtingen tussen 
+Opdrachtgever en Opdrachtnemer te bespreken. 
+4.2 Interactie tussen TNO en andere deelnemers 
+Voorliggende vraagspecificatie betreft de beoogde samenwerking tussen RWS en 
+TNO in de rol van kennispartner. Daarnaast maakt Rijkswaterstaat ook afspraken 
+over samenwerking met marktpartijen en betreft het ook andere kennisinstellingen 
+en partners in de alliantie. Zodat uiteindelijk een brede alliantie ontstaat tussen 
+meerdere partijen. In deze paragraaf geven we een korte toelichting op de beoogde 
+rollen van andere deelnemers buiten de marktpartijen 
+4.2.1 Marktpartijen 
+Rijkswaterstaat maakt afspraken met een selectie groep marktpartijen voor een 
+nadere samenwerking voor het programma SMP. Deze groep marktpartijen is 
+verantwoordelijk voor de uitvoering van projecten binnen het programma SMP.  
+4.2.2 ProRail 
+ProRail is samen met RWS verantwoordelijk voor het modelinstrumentarium voor 
+mobiliteitsprognoses voor IenW (LMS/NRM). ProRail is onderdeel van het kernteam 
+dat de uitvoering van het Programma SMP aanstuurt. ProRail zal, afhankelijk van de 
+uit te voeren projecten ook optreden als mede-opdrachtgever of onderdeel zijn van 
+het projectteam dat projecten begeleidt. In de projectpublicaties zal de 
+betrokkenheid van ProRail benoemd worden.  
+4.2.3 Beleidskern IenW 
+ 
+Pagina 14 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+De beleidsdirecties van IenW zijn een belangrijke afnemer van de 
+mobiliteitsmodellen en prognoses van Rijkswaterstaat en ProRail. Daarom is in het 
+programma SMP een actieve rol voorzien door deel te nemen aan het kernteam dat 
+de uitvoering van het programma SMP aanstuurt 
+4.2.4 Planbureau voor de Leefomgeving (PBL) 
+PBL is als mede-eigenaar van de modellen TIGRIS en SPARK een belangrijke speler. 
+Ook zijn ze een belangrijke gebruiker van het LMS. Het is op dit moment nog niet 
+bekend wat de rol van het PBL in het Programma SMP gaat worden.  
+4.2.5 Universiteiten 
+Universiteiten kunnen specifieke kennis inbrengen, bijvoorbeeld in kennisborging of 
+door prototypes van nieuwe modeltechnieken in te brengen. Rijkswaterstaat is van 
+plan om met een aantal universiteiten verkennende gesprekken te voeren over een 
+mogelijke rol in het programma SMP. Mogelijk kunnen ze ook een rol spelen in de 
+kwaliteitsborging op specifiek terrein. 
+4.2.6 Kennisinstituut voor de Mobiliteit (KiM) 
+Het KiM kan specifieke kennis inbrengen over het mobiliteitssysteem in brede zin. 
+Ook is het KiM eigenaar van het Mobiliteitspanel Nederland en dus ook een 
+potentiële leverancier van data. Het is op dit moment nog niet bekend wat de rol 
+van het KiM in het Programma SMP gaat worden.  
+4.2.7 Centraal bureau voor de Statistiek (CBS) 
+CBS is hoofdleverancier van databestanden. Als zodanig zijn ze ook betrokken bij de 
+kennis rond de data en de toepassingsbereik daarvan. Ze zullen uitgenodigd worden 
+voor overleggen waarin afstemming over data een belangrijke rol speelt.  
+  
+  
+ 
+Pagina 15 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+5 Kwaliteitsmanagement 
+KM001 De Opdrachtnemer dient de opdracht te beheersen en optimaliseren 
+met als doel fouten en verspillingen zichtbaar te maken en diensten 
+en/of producten continu te verbeteren. 
+ 
+KM002 De Opdrachtnemer dient afwijkingen, van hetgeen is 
+overeengekomen in de overeenkomst dan wel het eigen 
+kwaliteitssysteem, te identificeren en op te nemen in een 
+afwijkingsrapport. 
+ 
+KM003 De Opdrachtnemer dient een Verzoek tot Wijziging (VtW) met een 
+volledige impactanalyse in te dienen, indien de hij niet voornemens is 
+de afwijking te corrigeren. 
+ 
+KM004 In het afwijkingenregister dienen minimaal de volgende aspecten te 
+zijn opgenomen: 
+• uniek volgnummer van de afwijking; 
+• omschrijving van de afwijking; 
+• datum constatering; 
+• verantwoordelijke actor; 
+• werkpakket; 
+• datum wanneer corrigerende maatregelen uitgevoerd zullen 
+zijn; 
+• beschrijving en status van de corrigerende maatregelen; 
+• geplande datum implementatie corrigerende maatregelen; 
+• geplande datum implementatie preventieve maatregelen; 
+• werkelijke datum implementatie corrigerende maatregelen; 
+• werkelijke datum implementatie preventieve maatregelen; 
+• status afwijking; 
+• datum sluiting van het afwijkingsrapport. 
+  
+ 
+Pagina 16 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+6 Project- en contractbeheersing 
+PB001 De Opdrachtnemer dient zijn Werkzaamheden te beheersen op de 
+projectbeheersaspecten, zodanig dat de opdracht wordt gerealiseerd 
+conform de uit de overeenkomst voortvloeiende eisen. 
+6.1 Betaling reguliere activiteiten Samenwerking SMP 
+ 
+PB005 De betaling van de opdrachtsom, verminderd met het bedrag van de 
+eventuele stelpost geschiedt op basis van vaste prijs. 
+Werkzaamheden die minder dan 4 uur vragen worden afgerekend op 
+basis van nacalculatie. 
+ 
+PB006 Betaling van een stelpost geschiedt op afzonderlijke factuur 
+onafhankelijk van de termijnen, tegen overlegging van de 
+bewijsstukken. Deze moeten in de kwartaalrapportage duidelijk 
+kennelijk gemaakt worden.   
+ 
+PB007 Indexering van de prijs van de te leveren diensten en/of producten 
+door de Opdrachtnemer is binnen de jaren is in de eerste 
+contractperiode niet op opdrachtsom, noch op eventueel meerwerk, 
+van toepassing. 
+ 
+PB008 Betaling van de opdrachtsom vindt plaats conform navolgend 
+betalingsschema. 
+ 
+Betaalpost Onderdeel / 
+Werkpakket 
+Datum Financiële waarde 
+van de betaalpost 
+(excl. BTW) voor de 
+eerste 
+contractperiode voor 
+een vol jaar  
+01 Advies over 
+programma 
+Een keer per jaar.  €  
+02 Advies over 
+projectplannen 
+Een keer per jaar.  € 
+03 Kwaliteitsborging Een keer per jaar.  € 
+04  Inbrengen kennis 
+en producten 
+Een keer per jaar.  € 
+ 
+6.2 Optie tot verlenging 
+ 
+De duur van deze opdracht 3 jaar. Hierbij heeft de Opdrachtgever de mogelijkheid 
+om de opdracht 1 keer voor 1 jaar te verlengen. Rijkswaterstaat zal deze verlenging 
+schriftelijk bevestigen, uiterlijk twee maanden voor het verstrijken van de initiële, 
+dan wel verlengde looptijd. Inclusief alle verlengingen is de duur vier (4) jaar. 
+ 
+ 
+ 
+  
+ 
+Pagina 17 van 17 
+VRAAGSPECIFICATIE | ZAAKNUMMER 31206367 
+Bijlage 1: Portfolio verkeers- en vervoersmodellen RWS 
+Rijkswaterstaat (RWS) is verantwoordelijk voor beheer, onderhoud en vernieuwing 
+van het instrumentarium van verkeers- en vervoermodellen voor het Ministerie van 
+Infrastructuur en Waterstaat. Voor personenmobiliteit zijn dit bijvoorbeeld de 
+modellen LMS/NRM, TIGRIS XL, SPARK en Albatross5. Voor een deel van deze 
+instrumenten wordt deze verantwoordelijk gedeeld met ProRail en het Planbureau 
+voor de Leefomgeving (PBL).  
+ 
+Het Programma SMP is erop gericht het genoemde modelinstrumentarium voor 
+personenmobiliteit van het ministerie van Infrastructuur en Waterstaat (IenW) 
+grondig te vernieuwen. Deze bijlage schetst kort het genoemde portfolio aan 
+verkeers- en vervoermodellen van Rijkswaterstaat.  
+ 
+LMS/NRM 
+In Nederland worden verschillende verkeers- en vervoermodellen gebruikt. 
+Provincies en gemeenten gebruiken meestal regionale of lokale modellen om 
+precieze verkeersprognoses te maken. Het ministerie van Infrastructuur en 
+Waterstaat gebruikt voor het hoofdwegennet en het hoofdspoornet 2 strategische 
+modellen. Er zijn 4 regionale modellen van het NRM in gebruik: NRM-Noord, NRM-
+Oost, NRM-Zuid, NRM-West. Met deze modellen kunnen langetermijnprognoses 
+worden gemaakt. Rijkswaterstaat beheert en ontwikkelt deze modellen voor het 
+ministerie van Infrastructuur en Waterstaat. Het LMS deelt Nederland in ongeveer 
+1500 gebieden in. Het NRM is nog gedetailleerder. Met dit model is het mogelijk om 
+schattingen te maken op het niveau van wegvakken. Meer informatie: 
+https://www.rijkswaterstaat.nl/zakelijk/open-data/modellen-en-applicaties 
+ 
+SPARK 
+SPARK staat voor Strategisch Personenauto RekenKader. Het heeft als doel de 
+toekomstige omvang en samenstelling van het autobezit in Nederland voor 
+verschillende economische scenario’s in kaart te brengen. Daarnaast biedt dit model 
+inzicht in de effecten van beleidsmaatregelen rond autobezit en -gebruik. Meer 
+informatie: 
+SPARK: een nieuw landelijk personenautoparkmodel van PBL en RWS | Planbureau 
+voor de Leefomgeving  
+ 
+Tigris XL 
+Tigris XL geeft antwoorden op vragen over de ruimtelijke effecten van nieuwe 
+infrastructuur en over de effecten van bereikbaarheid bij nieuwe verstedelijking op 
+de lange termijn. 
+Tigris XL | Planbureau voor de Leefomgeving 
+ 
+Albatross 
+Albatross is een op activiteiten gebaseerd model, gebaseerd op keuzegedrag van 
+consumenten bij het nemen van beslissingen in complexe omgevingen. Het model 
+voorspelt welke activiteiten wanneer, waar, hoe lang en met wie worden uitgevoerd, 
+en welke vervoerswijze daarbij betrokken is. Bovendien zijn verschillende logische, 
+temporele, ruimtelijke, ruimtelijk-temporele en institutionele beperkingen in het 
+model opgenomen. Meer informatie: Albatross : multi-agent rule based model of 
+activity pattern decisions — Research portal Eindhoven University of Technology 
+ 
+5 Voor een kort overzicht van het portfolio aan verkeers- en vervoermodellen 
+personenmobiliteit zie bijlage 2
+
+=== Document: tn506552 - ef25 aankondiging in geval van vrijwillige transparantie vooraf - algemene richtlijn 20250116114634 ===
+16/01/2025
+1. Koper
+1.1 Koper
+Officiële naam: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Rechtsvorm van de 
+koper: Centrale overheidsinstantie
+Activiteit van de 
+aanbestedende dienst: Huisvesting en gemeenschappelijke voorzieningen
+2. Procedure
+2.1 Procedure
+Titel: 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+Beschrijving:
+Het programma Strategische Modelvernieuwing Personenvervoer (SMP) richt 
+zich op de vernieuwing en verbetering van modellen die het toekomstige 
+mobiliteitssysteem beschrijven. De vernieuwing is gericht op: - Beter 
+beschrijven van de veranderend mobiliteitsgedrag in ruimte en tijd dynamiek 
+tussen - Beter modelleren van verschillen in keuzegedrag van verschillende type 
+personen - Een accuratere beschrijving geven van het functioneren van 
+zwaarbelaste netwerken (wegennet en spoornet) - Een modelinstrumentarium 
+ontwikkelen dat transparant, en beter beheersbaar is en op verschillende 
+detailniveaus wordt ingezet. RWS heeft vastgesteld dat deze opdracht vanwege 
+technische en inhoudelijke redenen uitsluitend kan worden gegund aan 
+kennispartner TNO (Nederlandse Organisatie voor toegepast-
+natuurwetenschappelijk onderzoek). De duur van deze opdracht is 3 jaar met de 
+mogelijkheid om de opdracht 1 keer voor 1 jaar te verlengen.
+Identificatiecode van 
+de procedure: b1d21dfa-c24b-44a9-acf1-3fc8bbd5b5c6
+Interne identificatiecode
+: 31206367
+Type procedure: Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging
+2.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie(cpv): 73000000Onderzoek en ontwikkeling, en aanverwante adviezen
+2.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie: Nederland
+2.1.4 Algemene informatie
+Rechtsgrondslag:
+Richtlijn 2014/24/EU
+5. Perceel
+5.1 Technische ID van het kavel:LOT-0000
+Titel: 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+Het programma Strategische Modelvernieuwing Personenvervoer (SMP) richt 
+Beschrijving:
+zich op de vernieuwing en verbetering van modellen die het toekomstige 
+mobiliteitssysteem beschrijven. De vernieuwing is gericht op: - Beter 
+beschrijven van de veranderend mobiliteitsgedrag in ruimte en tijd dynamiek 
+tussen - Beter modelleren van verschillen in keuzegedrag van verschillende type 
+personen - Een accuratere beschrijving geven van het functioneren van 
+zwaarbelaste netwerken (wegennet en spoornet) - Een modelinstrumentarium 
+ontwikkelen dat transparant, en beter beheersbaar is en op verschillende 
+detailniveaus wordt ingezet. RWS heeft vastgesteld dat deze opdracht vanwege 
+technische en inhoudelijke redenen uitsluitend kan worden gegund aan 
+kennispartner TNO (Nederlandse Organisatie voor toegepast-
+natuurwetenschappelijk onderzoek). De duur van deze opdracht is 3 jaar met de 
+mogelijkheid om de opdracht 1 keer voor 1 jaar te verlengen.
+Interne identificatiecode
+: 1
+5.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie(cpv): 73000000Onderzoek en ontwikkeling, en aanverwante adviezen
+5.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie: Nederland
+5.1.3 Geraamde duur
+Looptijd: 48Maand
+5.1.6 Algemene informatie
+Aanbestedingsproject dat niet uit EU-fondsen wordt gefinancierd
+De aanbesteding valt 
+onder de Overeenkomst 
+inzake 
+overheidsopdrachten 
+(GPA):
+ja
+5.1.7 Strategische aanbestedingen
+Doel van strategische 
+aanbestedingen: Geen strategische aanbesteding
+5.1.10 Gunningscriteria
+Criterium:
+Type: Prijs
+Naam: Prijs - Niet van toepassing
+Beschrijving: N.v.t.
+Gewicht (punten, exact)
+: 0
+5.1.15 Technieken
+Raamovereenkomst:
+Geen raamovereenkomst
+Informatie over het dynamische aankoopsysteem:
+Geen dynamisch aankoopsysteem
+5.1.16 Nadere inlichtingen, bemiddeling en evaluatie
+Organisatie voor 
+beroepsprocedures: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Organisatie die nadere 
+inlichtingen over de 
+aanbestedingsprocedure 
+verstrekt:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Organisatie die meer 
+informatie geeft over 
+beroepsprocedures:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Organisatie die het 
+contract ondertekent: Rijkswaterstaat Water, Verkeer en Leefomgeving
+6. Resultaten
+Waarde van alle 
+contracten toegekend in 
+deze kennisgeving:
+1Euro
+Onderhandse gunning:
+Rechtvaardiging voor 
+onderhandse gunning: Op basis van een alleenrecht gegunde opdracht voor diensten
+Andere rechtvaardiging: Betreft een vrijwillige publicatie vooraf onder technische redenen.
+6.1 ID resultaat perceel:LOT-0000
+6.1.2 Informatie over winnaars
+Winnaar:
+Officiële naam: Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek 
+TNO
+Inschrijving:
+Identificatiecode van 
+de inschrijving: 1
+Identificatiecode van 
+het perceel of de groep 
+percelen:
+LOT-0000
+Waarde van de 
+aanbesteding: 1Euro
+De inschrijving is 
+gerangschikt: neen
+Onderaanneming: Neen
+Informatie over het contract:
+Identificatiecode van 
+het contract: CON-0001
+Titel: P1 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+De opdracht wordt 
+gegund in het kader 
+van een 
+raamovereenkomst:
+neen
+Organisatie die het 
+contract ondertekent: Rijkswaterstaat Water, Verkeer en Leefomgeving
+8. Organisaties
+8.1 ORG-0001
+Officiële naam: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Registratienummer: 482071032
+Postadres: Postbus 17
+Stad: Lelystad
+Postcode: 8200 AA
+Onderverdeling land 
+(NUTS): Utrecht(NL310)
+Land: Nederland
+Contactpunt: Amrish Motiram
+E-mail: WVL-Aanbestedingsdocumenten@rws.nl
+Telefoon: +31 887970777
+Fax: +31 887970777
+Internetadres: http://www.rijkswaterstaat.nl
+Andere contactpunten:
+Officiële naam: Burgerlijke Rechter te 's-Gravenhage
+Postadres: prins clauslaan 60
+Stad: Den Haag
+Postcode: 2595 AJ
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage(NL332)
+Land: Nederland
+Contactpunt: Arrondissement parket
+E-mail: klachtenmeldpunt@rws.nl
+Internetadres: http://www.rechtspraak.nl
+Rollen van deze organisatie:
+Koper
+Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt
+Organisatie voor beroepsprocedures
+Organisatie die meer informatie geeft over beroepsprocedures
+Organisatie die het contract ondertekent
+8.1 ORG-0002
+Officiële naam: Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek 
+TNO
+Omvang van de 
+ondernemer: Micro, klein of middelgroot
+Registratienummer: 27376655
+Postadres: Anna van Buerenplein 1
+Stad: 's-Gravenhage
+Postcode: 2595DA
+Onderverdeling land 
+(NUTS): Utrecht(NL310)
+Land: Nederland
+Internetadres: http://www.tno.nl
+Rollen van deze organisatie:
+Inschrijver
+Winnaar van deze 
+percelen: LOT-0000
+11. Informatie over een aankondiging
+11.1 Informatie over een aankondiging
+Identificatiecode/versie 
+van de aankondiging: 90b82cdc-6aa3-4f43-aa05-204bcef70d3c-01
+Type formulier: Vooraankondiging onderhandse gunning
+Type aankondiging: Aankondiging in geval van vrijwillige transparantie vooraf
+Verzenddatum van de 
+aankondiging: 16/01/202511:46 +01:00
+Talen waarin deze 
+aankondiging officieel 
+beschikbaar is:
+Nederlands
+11.2 Informatie over de bekendmaking
+
+=== Document: tn506552 - ef29 aankondiging gegunde opdracht - algemene richtlijn, standaardregeling 20250901112701 ===
+01/09/2025
+1. Koper
+1.1 Koper
+Officiële naam: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Rechtsvorm van de 
+koper: Centrale overheidsinstantie
+Activiteit van de 
+aanbestedende dienst: Huisvesting en gemeenschappelijke voorzieningen
+2. Procedure
+2.1 Procedure
+Titel: 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+Beschrijving: 
+Het programma Strategische Modelvernieuwing Personenvervoer (SMP) 
+richt zich op de vernieuwing en verbetering van modellen die het 
+toekomstige mobiliteitssysteem beschrijven. De vernieuwing is gericht op: - 
+Beter beschrijven van de veranderend mobiliteitsgedrag in ruimte en tijd 
+dynamiek tussen - Beter modelleren van verschillen in keuzegedrag van 
+verschillende type personen - Een accuratere beschrijving geven van het 
+functioneren van zwaarbelaste netwerken (wegennet en spoornet) - Een 
+modelinstrumentarium ontwikkelen dat transparant, en beter beheersbaar is 
+en op verschillende detailniveaus wordt ingezet. RWS heeft vastgesteld dat 
+deze opdracht vanwege technische en inhoudelijke redenen uitsluitend kan 
+worden gegund aan kennispartner TNO (Nederlandse Organisatie voor 
+toegepast-natuurwetenschappelijk onderzoek). De duur van deze opdracht is 
+3 jaar met de mogelijkheid om de opdracht 1 keer voor 1 jaar te verlengen.
+Identificatiecode van 
+de procedure: b1d21dfa-c24b-44a9-acf1-3fc8bbd5b5c6
+Interne identificatiecode
+: 31206367
+Type procedure: Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging
+2.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie (cpv): 73000000 Onderzoek en ontwikkeling, en aanverwante adviezen
+2.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie
+: Nederland
+2.1.4 Algemene informatie
+Rechtsgrondslag:
+Richtlijn 2014/24/EU
+5. Perceel
+5.1 Technische ID van het kavel: LOT-0000
+Titel: 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+Het programma Strategische Modelvernieuwing Personenvervoer (SMP) 
+richt zich op de vernieuwing en verbetering van modellen die het 
+toekomstige mobiliteitssysteem beschrijven. De vernieuwing is gericht op: - 
+Beter beschrijven van de veranderend mobiliteitsgedrag in ruimte en tijd 
+Beschrijving: 
+dynamiek tussen - Beter modelleren van verschillen in keuzegedrag van 
+verschillende type personen - Een accuratere beschrijving geven van het 
+functioneren van zwaarbelaste netwerken (wegennet en spoornet) - Een 
+modelinstrumentarium ontwikkelen dat transparant, en beter beheersbaar is 
+en op verschillende detailniveaus wordt ingezet. RWS heeft vastgesteld dat 
+deze opdracht vanwege technische en inhoudelijke redenen uitsluitend kan 
+worden gegund aan kennispartner TNO (Nederlandse Organisatie voor 
+toegepast-natuurwetenschappelijk onderzoek). De duur van deze opdracht is 
+3 jaar met de mogelijkheid om de opdracht 1 keer voor 1 jaar te verlengen.
+Interne identificatiecode
+: 1
+5.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie (cpv): 73000000 Onderzoek en ontwikkeling, en aanverwante adviezen
+5.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie
+: Nederland
+5.1.3 Geraamde duur
+Looptijd: 48 Maand
+5.1.5 Waarde
+Geraamde waarde 
+exclusief btw: 1 Euro
+5.1.6 Algemene informatie
+Aanbestedingsproject dat niet uit EU-fondsen wordt gefinancierd
+De aanbesteding valt 
+onder de Overeenkomst 
+inzake 
+overheidsopdrachten 
+(GPA): 
+ja
+5.1.7 Strategische aanbestedingen
+Doel van strategische 
+aanbestedingen: Geen strategische aanbesteding
+5.1.10 Gunningscriteria
+Criterium:
+Type: Prijs
+Naam: Prijs - Niet van toepassing
+Beschrijving: N.v.t.
+Categorie van het 
+gunningscriterium 
+drempel: 
+Gewicht (punten, exact)
+Gunningscriterium 
+numerieke waarde: 0
+5.1.15 Technieken
+Raamovereenkomst:
+Geen raamovereenkomst
+Informatie over het dynamische aankoopsysteem:
+Geen dynamisch aankoopsysteem
+5.1.16 Nadere inlichtingen, bemiddeling en evaluatie
+Organisatie voor 
+beroepsprocedures: 
+Rijkswaterstaat Water, Verkeer en Leefomgeving - Burgerlijke Rechter te 's-
+Gravenhage
+Organisatie die nadere 
+inlichtingen over de 
+aanbestedingsprocedure 
+verstrekt: 
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Organisatie die meer 
+informatie geeft over 
+beroepsprocedures: 
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Organisatie die het 
+contract ondertekent: Rijkswaterstaat Water, Verkeer en Leefomgeving
+6. Resultaten
+Waarde van alle 
+contracten toegekend in 
+deze kennisgeving: 
+1 Euro
+Onderhandse gunning:
+Rechtvaardiging voor 
+onderhandse gunning: 
+Er zijn naar aanleiding van een eerdere aankondiging geen geschikte 
+inschrijvingen, verzoeken tot deelname of aanvragen ontvangen
+Andere rechtvaardiging
+: 
+De selectie van marktpartijen loopt via een Europese aanbesteding 
+plaatsvindt, wordt de kennispartner (TNO) geselecteerd op basis van 
+technische redenen om als kennispartner voor RWS op te treden.
+6.1 ID resultaat perceel: LOT-0000
+Er is ten minste één winnaar gekozen.
+6.1.2 Informatie over winnaars
+Winnaar:
+Officiële naam: Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek 
+TNO
+Inschrijving:
+Identificatiecode van 
+de inschrijving: 1
+Identificatiecode van 
+het perceel of de groep 
+percelen: 
+LOT-0000
+Waarde van de 
+aanbesteding: 1 Euro
+De inschrijving is 
+gerangschikt: neen
+De inschrijving is een 
+variant: neen
+Onderaanneming: Neen
+Informatie over het contract:
+Identificatiecode van 
+het contract: CON-0001
+Titel: P1 31206367 Kennispartner Alliantie Strategische Modelvernieuwing 
+Personenvervoer
+Datum van sluiting van 
+het contract: 16/01/2025
+Organisatie die het 
+contract ondertekent: Rijkswaterstaat Water, Verkeer en Leefomgeving
+6.1.4 Statistische informatie
+Ontvangen inschrijvingen of verzoeken tot deelname:
+Type van de ontvangen 
+inschrijvingen: Inschrijvingen van micro-, kleine en middelgrote inschrijvers
+Aantal ontvangen 
+inschrijvingen of 
+verzoeken tot deelname
+: 
+1
+Type van de ontvangen 
+inschrijvingen: Inschrijvingen
+Aantal ontvangen 
+inschrijvingen of 
+verzoeken tot deelname
+: 
+1
+8. Organisaties
+8.1 ORG-0001
+Officiële naam: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Registratienummer: 482071032
+Postadres: Postbus 17  
+Stad: Lelystad
+Postcode: 8200 AA
+Onderverdeling land 
+(NUTS): Utrecht (NL350)
+Land: Nederland
+Contactpunt: Amrish Motiram
+E-mail: WVL-Aanbestedingsdocumenten@rws.nl
+Telefoon: +31 887970777
+Fax: +31 887970777
+Internetadres: http://www.rijkswaterstaat.nl
+Andere contactpunten:
+Officiële naam: Burgerlijke Rechter te 's-Gravenhage
+Postadres: prins clauslaan 60  
+Stad: Den Haag
+Postcode: 2595 AJ
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage (NL361)
+Land: Nederland
+Contactpunt: Arrondissement parket
+E-mail: klachtenmeldpunt@rws.nl
+Internetadres: http://www.rechtspraak.nl
+Rollen van deze organisatie:
+Koper
+Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt
+Organisatie voor beroepsprocedures
+Organisatie die meer informatie geeft over beroepsprocedures
+Organisatie die het contract ondertekent
+8.1 ORG-0002
+Officiële naam: Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek 
+TNO
+Omvang van de 
+ondernemer: 
+Micro, klein of middelgroot
+Registratienummer: 27376655
+Postadres: Anna van Buerenplein 1  
+Stad: 's-Gravenhage
+Postcode: 2595DA
+Onderverdeling land 
+(NUTS): Utrecht (NL350)
+Land: Nederland
+Internetadres: http://www.tno.nl
+Rollen van deze organisatie:
+Inschrijver
+Winnaar van deze 
+percelen: LOT-0000
+Informatie over een aankondiging
+Identificatiecode/versie 
+van de aankondiging: a2d0f9b9-1cbb-4b7b-ab38-584ae6a1c6b4 - 01
+Type formulier: Resultaat
+Type aankondiging: Aankondiging van een gegunde opdracht of concessie – standaardregeling
+Verzenddatum van de 
+aankondiging: 01/09/2025 11:27 +02:00
+Talen waarin deze 
+aankondiging officieel 
+beschikbaar is: 
+Nederlands

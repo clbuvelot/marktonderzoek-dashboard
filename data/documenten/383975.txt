@@ -1,0 +1,1406 @@
+=== Document: nota van inlichtingen 2024-11-13-1 ===
+Nota van inlichtingen Design, build and maintenance of a FerryBox on board of research 
+vessel MS Zirfaea
+Pagina 1 van 3 Datum genereren nota van inlichtingen: 13 nov. 2024
+Algemene informatie
+Aanbesteding: Design, build and maintenance of a FerryBox on board of research 
+vessel MS Zirfaea
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: 31191766
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+2 Invitation document
+Vraag:
+In the tender document is not specified which kind of sensors must be used 
+in order to make the quotation for the bidding. Which sensors must tenderer 
+use?
+Antwoord:
+Indeed, specific sensors are not mentioned in the tender document, with the 
+exception of three pre-determined instruments (Pi-10, CytoSense and 
+LabSTAF) which were selected based on input from the main data users. 
+There are several reasons for this. 
+a) At the time of writing the tender document, insufficient information was 
+available regarding the specifications of the (other) required sensors 
+(precision, resolution, etc.). 
+b) Determining sensor specifications in consultation with data users, 
+selecting suitable sensors based on these specifications, and evaluating 
+maintenance needs and financial implications requires experience, expertise 
+and potentially some creativity. This task is better handled by an experienced 
+market party and is therefore included as part of the assignment in the tender 
+document (section 3.1.1). 
+The costs for sensors not specified in the requirements specification do NOT 
+need to be included in the tenderer's bid. This creates a level playing field 
+between tenderers. Similarly, the Pi-10 and CytoSense, which have already 
+been purchased by Rijkswaterstaat, do not need to be included in the bid. 
+However, the LabSTAF is a pre-determined instrument, but has not yet been 
+purchased by Rijkswaterstaat and therefore must be included in the 
+tenderer's offer. As specified in section 3.1.1, the Contractor must organize a 
+meeting with Rijkswaterstaat (with end users present) to finalize sensor 
+selection, where choices must be translated into:
+• Financial implications (purchase + maintenance)
+• Impact on service, maintenance and calibration
+• Accuracy, precision, resolution and range
+Nota van inlichtingen Design, build and maintenance of a FerryBox on board of research 
+vessel MS Zirfaea
+Pagina 2 van 3 Datum genereren nota van inlichtingen: 13 nov. 2024
+Percelen: P  1 Design, build and maintenance of a FerryBox on 
+board of research vessel MS Zirfaea
+Beantwoord op: 11 nov. 2024
+Ref.nr. Onderwerp:
+3 Invitation documentn
+Vraag:
+In the Tender documents a number of certificates are mentioned, must the 
+tenderer have these?
+Antwoord:
+The tenderer preferably has the certificates that are specifically linked to the 
+contractor in the tender document, or can demonstrate in another way that 
+they meet the requirements and qualities to which the certificates relate. It is 
+explicitly NOT intended to exclude tenderers who can make a high-quality 
+offer but do not have certain certificates.
+Percelen: P  1 Design, build and maintenance of a FerryBox on 
+board of research vessel MS Zirfaea
+Beantwoord op: 11 nov. 2024
+Ref.nr. Onderwerp:
+4 Tender documents
+Vraag:
+For the data quality and data quality delivery, must the data be checked by 
+the contractor before sending or must the data be transmitted in real live?
+Antwoord:
+Since the Contractor is responsible for the proper performance and 
+maintenance of the FerryBox and sensors, Rijkswaterstaat assumes that the 
+Contractor will also need to perform the data quality control that is directly 
+linked to the performance and maintenance of sensors, instruments and 
+peripheral equipment.
+The quality control framework specified in section 3.4.4 (following QC 
+levels 0-3 as defined by SMHI) is included in the tender document to 
+facilitate discussion about the division of responsibilities between the 
+Contractor, Rijkswaterstaat, and involved researchers regarding data quality 
+control. The framework is indicative and intended to support discussions 
+about the specific roles and responsibilities in data quality control after the 
+contract has been awarded.
+Percelen: P  1 Design, build and maintenance of a FerryBox on 
+board of research vessel MS Zirfaea
+Nota van inlichtingen Design, build and maintenance of a FerryBox on board of research 
+vessel MS Zirfaea
+Pagina 3 van 3 Datum genereren nota van inlichtingen: 13 nov. 2024
+Beantwoord op: 11 nov. 2024
+Ref.nr. Onderwerp:
+5 Tender Documents
+Vraag:
+In the pictures of the water supply the indicated diameter of the tubes is very 
+small. Must the contractor must make the adjustments here for needed or is 
+this arranged by the client?
+Antwoord:
+According to the tender document, the Contractor is required to ensure that 
+the FerryBox fits within the operational context present on the Zirfaea (as 
+shown in Figure 2, section 3.1). This includes the process water supply. At 
+minimum, the Contractor must ensure that the FerryBox can be connected to 
+all required facilities (plug (,test) & play). Any necessary or desired 
+modifications must be implemented in accordance with section 3.4.5 
+"Execution and coordination of work activities" in the requirements 
+specification.
+Percelen: P  1 Design, build and maintenance of a FerryBox on 
+board of research vessel MS Zirfaea
+Beantwoord op: 11 nov. 2024
+Ref.nr. Onderwerp:
+6 Tender documents
+Vraag:
+Is the intention that the client and/or researchers are able to be in the 
+FerryBox at the same time?
+Antwoord:
+We interpret this question as follows: should there be space for one person to 
+perform certain activities in the container? Indeed, this is correct. The 
+specifications for this are described in section 3.2.11 Workbench of the 
+tender document.
+Percelen: P  1 Design, build and maintenance of a FerryBox on 
+board of research vessel MS Zirfaea
+Beantwoord op: 11 nov. 2024
+
+=== Document: 31191766 annex 3 codes requirements and specifications ===
+Chapter Topic Subtopic Code Requirement
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI1
+The sensors implemented in the FerryBox are specifically designed for 
+use in a FerryBox system, enabling the continuous recording of the 
+parameters mentioned in Chapter 2.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI2 The sensors in the FerryBox are of high quality and are based on a 
+proven concept.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI3
+The FerryBox is equipped with sensors capable of measuring with the 
+necessary accuracy, precision, resolution, and range typical for the 
+Dutch part of the North Sea, producing data that can be used in 
+scientific studies.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI4
+The Contractor must ensure that the sensors produce data that is 
+consistent and comparable with the data generated by the FerryBox 
+on the Connector (operated by NIVA). The Zirfaea and the Connector 
+operate in overlapping areas, and the data produced by their 
+FerryBoxes are likely to be used in the same studies.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI5 The FerryBox must be equipped with its own GPS system.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI6
+Multi-sensor units must not be used if the failure of a single 
+component could result in the interruption of measurements from all 
+sensors within the unit.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI7
+The Contractor will install hyperspectral radiometers for conducting 
+above-water hyperspectral measurements of radiance and irradiance. 
+These sensors must be installed free from obstructions and not near 
+any structures such as chimneys, ensuring unobstructed upward and 
+downward views.
+3.1.1 Sensors and 
+Instruments
+Design and 
+specification SI8 Sensors or instruments will be installed to measure the housekeeping 
+parameters required for data quality control.
+3.1.1 Sensors and 
+Instruments
+Selection and 
+procurement SI9
+In situations where there is a choice between two qualitatively 
+equivalent sensors or measurement methods, Rijkswaterstaat prefers 
+the sensor or method that requires the lowest service, maintenance, 
+and calibration needs.
+3.1.1 Sensors and 
+Instruments
+Selection and 
+procurement SI10
+For monitoring primary production and the composition of phyto- and 
+zooplankton, Rijkswaterstaat has selected the LabSTAF from Chelsea 
+Technologies, the CytoSense – C from CytoBuoy and the Pi-10 from 
+Plankton Analytics, respectively. The Contractor is required to install 
+these instruments into the FerryBox.
+3.1.1 Sensors and 
+Instruments
+Selection and 
+procurement SI11
+The Contractor will organize a meeting with Rijkswaterstaat (either 
+online or at the office) with the goal of finalizing the selection of 
+sensors to be implemented. 
+3.1.1 Sensors and 
+Instruments
+Selection and 
+procurement SI12
+During the meeting, the Contractor will translate any choices 
+regarding sensors into: Financial implications (purchase + 
+maintenance), Impact on service, maintenance, and calibration and 
+Accuracy, precision, resolution, and range.
+3.1.1 Sensors and 
+Instruments
+Selection and 
+procurement SI13
+The meeting will thoroughly explore the possibilities and implications 
+of implementing automated nutrient analyzers, with a particular focus 
+on determining what these instruments require from the Zirfaea's 
+3.1.1 Sensors and 
+Instruments
+Operation and 
+maintenance SI14
+For the measurement of more than one nutrient parameter, it is 
+recommended to use at least two devices: one for Ammonium 
+measurements and another for the remaining parameters.
+3.1.1 Sensors and 
+Instruments
+Operation and 
+maintenance SI15 All sensors and instruments must be thoroughly tested and calibrated 
+before their installation in the FerryBox on board the Zirfaea.
+3.1.1 Sensors and 
+Instruments
+Operation and 
+maintenance SI16
+Where choices are available, the FerryBox system measures all 
+variables within a time interval and spatial resolution that will be 
+agreed upon in a meeting with the end users of the sensor data. 
+3.1.1 Sensors and 
+Instruments
+Operation and 
+maintenance SI17 All documents and specifications related to the sensors and 
+instruments must be made available by the Contractor to 
+3.1.2 ICT
+System integration 
+and operation 
+requirements
+ICT1
+The Contractor will deliver an ICT system for the FerryBox in which all 
+sensors and instruments are seamlessly integrated, ensuring their 
+optimal performance is guaranteed.
+Annex 3. FerryBox. Case number 31191766Codes requierements and specifications
+Pagina 1
+3.1.2 ICT
+System integration 
+and operation 
+requirements
+ICT2
+The ICT system facilitates the autonomous operation of the FerryBox, 
+enabling: automatic pumping, flow control. leak detection, automatic 
+stop/start when entering or leaving a harbor, sampling at specific 
+positions, data storage, rinsing and cleaning processes.
+3.1.2 ICT
+System integration 
+and operation 
+requirements
+ICT3 The FerryBox system can be remotely operated and monitored. 
+Settings and software can be adjusted from a distance.
+3.1.2 ICT
+System integration 
+and operation 
+requirements
+ICT4 The system allows for the integration of additional sensors without 
+requiring significant modifications. 
+3.1.2 ICT
+Hardware and 
+software specific 
+requirements
+ICT5
+Due to the strict requirements regarding the integration of the Pi-10 
+and the CytoSense into the FerryBox's ICT system, the Contractor 
+actively seeks advice from Plankton Analytics and CytoBuoy. Both 
+parties are not only tasked with supplying the Pi-10 and CytoSense 
+but are also commissioned to advise the Contractor on integrating the 
+instruments into the FerryBox.
+3.1.2 ICT
+Hardware and 
+software specific 
+requirements
+ICT6
+For processing data from the other sensors and instruments and for 
+managing the FerryBox control system, a separate PC, including 
+necessary software and a user interface, is installed in the FerryBox. If 
+required, a wired mouse and keyboard will be provided.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT7
+Data from the sensors and instruments are locally stored in the 
+FerryBox. The data storage system has ample capacity for storing 
+measurement data and is highly reliable due to the implementation of 
+backup and redundancy procedures. For this purpose, a NAS or server 
+equipped with HDDs or SSDs is an obvious solution.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT8
+The data storage system is designed to seamlessly switch to an 
+alternative power supply during an onboard power outage, ensuring 
+no data loss, and it can automatically restart itself after a complete 
+blackout.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT9
+In the FerryBox, provisions will be installed to transmit data to the 
+shore location via mobile networks during the voyage. However, the 
+4G (nor 5G) network doesn’t fully cover the Dutch part of the North 
+Sea, with coverage limited to approximately 10 km offshore and 
+around certain platforms and wind farms. Therefore, the system will 
+be designed to buffer data and transmit it when a network connection 
+becomes available.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT10
+Two sets of drives will be purchased so that when the Zirfaea docks in 
+the harbor, the drives containing the collected data can be swapped 
+for empty drives. Ideally, and if possible, swapping the disks should be 
+a simple operation.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT11
+For the safe transport of the drives to the (to be determined) data 
+storage on land, the Contractor will provide shock-resistant cases and 
+antistatic sleeves that can individually encase each hard drive. 
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT12
+The Contractor is responsible for organizing the data transfer and 
+writing a data transfer procedure. This includes detailing the process 
+for swapping and transporting the drives, transferring the data to 
+land, and preparing the drives for the next voyage.
+3.1.2 ICT
+Data management 
+and transfer 
+requirements
+ICT13
+The Contractor will provide a comprehensive description of the 
+FerryBox's ICT system, including 1) a clear description and schematic 
+representation of the FerryBox's ICT system, focusing on hardware 
+components, software applications, and their interactions, 2) complete 
+specifications of each component within the ICT system, highlighting 
+both hardware and software characteristics, 3) data redundancy and 
+backup procedures, including how the system manages component 
+failure, and 4) software updates and the maintenance and 
+replacement of hardware.
+3.1.3 Water circuit Water inlet WC1
+The FerryBox will utilize an existing water inlet system on the Zirfaea. 
+This system comprises an inlet located under the ship's bow, 
+approximately 2 meters below the water surface and existing pipes 
+that route water from the inlet to the designated FerryBox location on 
+the deck. 
+3.1.3 Water circuit Water inlet WC2
+The Contractor is asked to address the water temperature increase 
+issue, install a temperature sensor immediately after the water inlet, 
+verify and ensure the resolution of past contamination problems and 
+assess and mitigate any additional concerns, such as line fouling or 
+alterations in water properties.
+Pagina 2
+3.1.3 Water circuit Pump and tubing 
+system WC3
+The pump's flow rate must be in accordance with the Pi-10 
+specifications, ensuring that it meets the required operational 
+standards for the system's efficiency and effectiveness.
+3.1.3 Water circuit Pump and tubing 
+system WC4
+The pump of the FerryBox needs to be assessed for its possible effects 
+on the properties of the water being analyzed, especially regarding its 
+influence on the integrity of biological samples throughout its 
+3.1.3 Water circuit Pump and tubing 
+system WC5
+The piping or hosing selected for transporting water to and from the 
+system must be suitable for the required flow rate and compatible with 
+the pump in use.
+3.1.3 Water circuit Pump and tubing 
+system WC6 The Contractor ensures the system's supply hoses and pipes are easily 
+replaceable with standard parts that are readily available locally.
+3.1.3 Water circuit Flow rate WC7
+The water circuit, which includes the pump and the dimensions of the 
+pipes, is customized to suit the sensors and instruments employed in 
+the FerryBox. The optimal flow rate depends on the specifications of 
+the sensors employed.
+3.1.3 Water circuit Bubbles WC8
+Bubbles can effect sensor reading. The ferrybox system shall 
+incorporate design features or technologies that minimize bubble 
+formation around sensor areas. 
+3.1.3 Water circuit Bubbles WC9
+The Contractor must provide (field) testing and validation evidence in 
+the Site Acceptance Test and subsequent operations, demonstrating 
+the ferrybox system's effectiveness in minimizing the impact of 
+bubbles on sensor readings. 
+3.1.3 Water circuit
+Facilities for 
+automated cleaning 
+system
+WC10
+The FerryBox system requires the installation of specific facilities to 
+enable automated cleaning, including: 1) facilities for flushing and 
+rinsing using freshwater, acidified water, or detergents, along with the 
+option for high-pressure cleaning if required, to ensure the system 
+remains clean and functional, 2) No substances that are harmful to the 
+environment should be discharged. Permissible substances may be 
+discharged overboard, but all other waste must be stored and properly 
+processed at the harbor, 3) A supply of, or an instrument designed to 
+produce, ultra-pure water dedicated to cleaning the chemical 
+analyzers, 4) Electronically actuated solenoid valves designed to 
+automate the flushing process of the plumbing system, ensuring 
+efficient maintenance and reduction of biofouling and mineral deposits.
+3.1.4 Quality control Automated 
+sampling deviceQC1
+The Contractor will install an automated sampling device aboard the 
+FerryBox. This includes 1) equipping the device with an automatic 
+refrigeration function to immediately preserve water samples upon 
+collection, 2) the device must be programmable to collect water 
+samples at specific, predetermined locations along the FerryBox's 
+route and must support remote activation for sampling activities. 
+Sample data and sensor data need to be flagged to enable proper 
+3.2 Container General CON1
+The container must be purchased or built by the Contractor and, based 
+on a design approved by the Client (see drawings section), be 
+equipped with the sensors, instruments, systems, and installations 
+described in this assignment.
+3.2 Container General CON2 Occupational health and safety legislation, (Dutch) NEN standards and 
+European directives must be observed.
+3.2 Container General CON3 The entire unit must be safe to use, with the risk of injury minimized.
+3.2.1 Container Location and 
+placement CON4 The container must be capable of being securely fastened on board 
+the Zirfaea using universal twist-lock holes at all corners.
+3.2.1 Container Location and 
+placement CON5
+The container must be positioned between the funnel casing at the 
+rear of the deck and the environmental measurement container 
+(EMC). See photos in Appendix A. 
+3.2.1 Container Location and 
+placement CON6
+The design and placement of the container must accommodate the 
+future positioning of the EMC with its door facing towards the rear of 
+the ship, ensuring full accessibility to the EMC at all times. This 
+requires coordination with Rijkswaterstaat.
+3.2.2 Container Container 
+dimensions CON7
+Given the limited deck space, the container must be dimensioned in 
+such a way that the available space is used efficiently and operational 
+activities are not hindered.
+3.2.2 Container Container 
+dimensions CON8
+The maximum dimensions for the container are 4.0 x 2.5 x 2.9 meters 
+(length x width x height). A smaller container size is preferred, but it 
+is also important to have sufficient space inside the container for work 
+activities and maintenance.
+Pagina 3
+3.2.2 Container Container 
+dimensions CON9
+There are currently no twist-lock sockets present for securing the 
+container at the intended location. In this sense, the twist-lock sockets 
+are not determining factors for the container's dimensions. The 
+contractor shall coordinate the container's dimensions with 
+Rijkswaterstaat, so that Rijkswaterstaat can install twist-lock sockets 
+in the correct locations in a timely manner.
+3.2.A56 Container Container exterior CON10Sea water resistant and durable against corrosion, with special 
+attention to the preservation of the container's underside.
+3.2.2 Container Container exteriorCON11Thermally insulated (non-organic) with a smooth, flat outer wall.
+3.2.2 Container Container exterior CON12Exterior color is RAL 1016 (sulfur yellow), with a 5-year warranty on 
+the preservation.
+3.2.2 Container Container exterior CON13
+A nameplate is to be attached to the exterior of the container 
+displaying 1) Noctiluca (name FerryBox), 2) Dimensions (l x w x h) 
+and weight of the container, 3) Year of commissioning, 3) 
+Rijkswaterstaat logo, 4) North Sea Consultation, 5) logo of the 
+European Commision, 6) the design for the nameplate will be provided 
+by Rijkswaterstaat, 7) the plate will be manufactured/procured and 
+3.2.3 Container Container exterior CON14
+The container roof is accessible by stairs: 1) anti-slip surface on the 
+steps and on the container roof, 2) racket to step onto the roof 
+(compliant with occupational health and safety regulations), 3) 
+provision for attaching fall protection.
+3.2.3 Container Container exteriorCON15Waterproof cable entry for instruments on the roof.
+3.2.3 Container Container exterior CON16
+All equipment and installations on the container's roof must be 
+designed for easy removal to facilitate transport. No permanent 
+fixtures are allowed on the roof that would interfere with the 
+container's mobility or transportability.
+3.2.4 Container Mobility containerCON17
+Although currently only the Zirfaea is eligible for the installation of the 
+FerryBox, the container must be mobile enough to be installed on 
+other vessels as well.
+3.2.4 Container Mobility containerCON18
+The container must be equipped with fork sleeves for transportation 
+with a forklift, positioned in such a way that the entire unit remains 
+balanced when lifted.
+3.2.4 Container Mobility containerCON19
+The container must be equipped with twistlock fittings at all corners to 
+enable secure lifting and fastening. These twistlock fittings, along with 
+the container's structure, must be capable of supporting a minimum 
+weight equal to the maximum total weight of the fully loaded 
+container, plus an additional safety margin of at least 25% to ensure 
+safe handling during crane lifting operations. The design and 
+placement of these fittings should comply with relevant international 
+3.2.5 Container Water niche CON20
+The container is equipped with a water niche that allows for the intake 
+and discharge of water through the container wall: 1) inlet for tap 
+water, 2) inlet for process water to the pump, 3) outlet for tap water 
+and process water, 4) all incoming and outgoing pipes are fitted with 
+corrosion-resistant quick couplings and are supplied with matching 
+counter couplings.
+3.2.6 Container Electrical niche CON21
+The container is equipped with an electrical niche that allows for power 
+supply through the container wall: 1) Wind and waterproof sealing 
+when no cables are connected, cable entry in the door to be covered 
+with an oversized rubber or plastic flap, 2) 35-meter power cable, 3) 
+Install a normally open contact in the electrical niche for connection to 
+the ship's alarm system. Mount an acoustic alarm on the electrical 
+cabinet, connected to this contact in the niche.
+3.2.7 Container Pump niche CON22
+The container has a pump niche where the pump is installed: 1) The 
+pump is placed in the container but is separated from the interior 
+space of the container by the pump niche. 2) The pump is accessible 
+from the outside of the container. The pump must be easily accessible 
+for maintenance work. 3) On the outside of the container, there is an 
+access hatch to the pump that can be mounted and removed with 
+toggle clamps. 4) The niche must be provided with insulation for noise 
+reduction. Minimize vibration and noise from the pump by placing it on 
+vibration dampers. 5) The suction line of the pump originates in the 
+water niche. 6) In case of any pump leakage, the leak water must be 
+drained to the outside, without water entering the container. 7) Install 
+a bypass over the pump so that an external pump can also be 
+connected to the same coupling. Switching to the external pump 
+should be achievable in a simple manner through easily accessible 
+Pagina 4
+3.2.8 Container Container access CON23
+An electric sliding door on the short side of the container with 1) a 
+minimum width of 90 cm and a minimum height of at least 200 cm, 2) 
+in the upper part, a window with sun-protective glass of the 
+appropriate class, 3) a foot switch on the inside, 4) a push button at 
+hand height on the outside, 5) in case of emergency or malfunction, 
+operable with handles from both inside and outside, and 6) lockable 
+with a cylinder lock, provided with at least five keys.
+3.2.8 Container Container access CON24
+A seaworthy step to be attached to the container, intended for safe 
+entry and exit of the container (NEN1814). The steps must be 
+provided with anti-slip material. The stairs must be made of seawater 
+and corrosion-resistant material and must be easy to assemble and 
+disassemble.
+3.2.9 Container Floor CON25
+A poured floor in the container with 1) anti-slip effect, easily 
+cleanable, liquid-tight and (if necessary) acid-resistant, 2) rising 
+approximately 5 cm up the wall, 3) water drainage with a stainless 
+steel floor drain, sufficient slope towards the drain, and 5) joints 
+3.2.10 Container Interior layout CON26All sensors, instruments, and facilities in the container must be 
+securely fastened for sea conditions.
+3.2.10 Container Interior layout CON27A server rack for the ICT system (logging computer and hard drives).
+3.2.10 Container Interior layout CON28The Pi-10 comes with a stainless steel frame that should be used for 
+mounting the Pi-10 in the container.
+3.2.10 Container Interior layout CON2910% free space for installation of additional sensors in the future.
+3.2.10 Container Interior layout CON30
+A cabinet for storage of necessary materials such as items frequently 
+needed for cleaning and maintenance, or folders with documentation 
+about the FerryBox that is required on-site. The cabinet should not 
+have excessive space. The contents of the cabinet must be securely 
+fastened. The cabinet door must be able to be securely closed for sea 
+3.2.11 Container Work bench CON31
+The container is equipped with a workbench suitable for setting up 
+small test arrangements: 1) The workbench height is 95 cm, allowing 
+for standing work. 2) The depth of the bench should be determined 
+based on the available space in the container. 3) The workbench is 
+provided with a raised edge. 4) Sealing between walls and workbench 
+is liquid-tight. 5) The workbench is equipped with a small sink with 
+taps for process and rinsing water (tap water) at least 45 centimeters 
+above the bottom of the sink to facilitate filling bottles. 6) 3 double 
+3.2.11 Container Work bench CON32Near the workbench, an easily accessible eye wash station is mounted 
+in a wall holder with a replaceable bottle.
+3.2.12 Container Electrical Cabinet CON33
+An electrical cabinet is installed in the container to centrally manage 
+and protect all electrical facilities. This cabinet is corrosion-resistant, 
+has lighting that activates when the cabinet is opened, and has 5% 
+overcapacity in space.
+3.2.12 Container Electrical Cabinet CON34Install an automatic phase sequence switch in the electrical cabinet 
+with indication of whether the phases are present.
+3.2.12 Container Electrical CabinetCON35
+The electrical provisions should be compatible with both shore power 
+and onboard power, using a 5-pin CEE-form connector with a capacity 
+of 32 amperes.
+3.2.12 Container Electrical Cabinet CON36Safety provisions: 1) main switch for electrical shutdown, 2) grounding 
+of container and equipment in container.
+3.2.12 Container Electrical CabinetCON37separate 230 V group for climate control.
+3.2.12 Container Electrical CabinetCON382 double wall sockets.
+3.2.12 Container Electrical CabinetCON39
+Contractor will install a UPS in online mode in the electrical cabinet to 
+provide a power reserve in case the ship's main power supply fails, to 
+regulate input current, and to act as a filter against voltage spikes. 
+Contractor will ensure that the UPS specifications match the power 
+requirements of the equipment in the FerryBox and are capable of 
+covering the duration of likely power outages. All sensors, equipment, 
+systems, and computers are connected to UPS power.
+3.2.12 Container Electrical CabinetCON40
+A certified CO2 fire extinguisher is placed in the vicinity of the 
+electrical cabinet. The extinguisher has sufficient capacity to 
+extinguish a fire in the relevant space with the facilities present.
+Pagina 5
+3.2.13 Container Cabling CON41
+The placement of pipes, cables, and tubes complies with the applicable 
+safety standards and regulations: 1) Wiring of the electrical installation 
+must be carried out using lead-free and halogen-free cabling that is 
+fire-retardant. No harmful substances as per the RoHS II directive, 2) 
+Data connections, cables, and connectors are electrically robust 
+enough to function in a ship environment where cabling is routed in 
+close proximity to other power supplies. If possible, this is 
+demonstrated by compliance with the IEC60533 (or a comparable) 
+3.2.13 Container Cabling CON42
+All pipes, cables, and tubes must be neatly and securely concealed 
+within the designated facilities, such as cable trays or conduits, to 
+ensure a tidy and organized appearance and increase overall safety.
+3.2.13 Container Cabling CON43Cable trays must have 10% space remaining after installation to allow 
+for additional cables.
+3.2.13 Container Cabling CON44
+A cable numbering list must be created for the cabling, indicating 1) 
+cable number, 2) cable type and specification, 3) start and end 
+destination, and 4) voltage type.
+3.2.13 Container Cabling CON45Connection diagrams must be made for the cable connections. Also, 
+provide information on the connectors to be used.
+3.2.13 Container Cabling CON46Cables are labeled at the beginning and end with their cable number.
+3.2.14 Container Lightning CON47
+LED lighting: 1) sufficient indirect, non-reflective, and natural-looking 
+artificial light, 2) minimum 500 LUX, and 3) splash-proof switch easily 
+accessible upon entering the container.
+3.2.14 Container Lightning CON48Emergency lighting E=10 Lux.
+3.2.15 Container Climate control CON49
+The temperature and humidity in the container can be regulated: 1) 
+For optimal performance of the Pi-10, it is necessary that the 
+temperature in the container is at least 3°C lower than the internal 
+temperature of the Pi-10. The internal temperature of the Pi-10 is set 
+by Plankton Analytics. The contractor should consult Plankton Analytics 
+about this. 2) Similar margins may apply to other measuring 
+instruments in the FerryBox. Consult the supplier/manufacturer about 
+this. 3) Consult manufacturers regarding humidity requirements.
+3.2.15 Container Climate control CON50
+The temperature and humidity in the container are regulated with an 
+HVAC system: 1) The HVAC system must have sufficient capacity to 
+maintain the desired internal temperature in the container at outside 
+temperatures ranging from -10°C to +30°C. 2) In case of a power 
+failure, the operation of the HVAC system is ensured via the UPS.
+3.2.15 Container Climate control CON51The temperature in the container and, where necessary, the (internal) 
+temperature of sensors and instruments are monitored.
+3.2.16 Container Engineering 
+drawings CON52
+The contractor will produce a 3D design of the container layout with 
+multiple cross-sections showing how the various sensors, instruments, 
+and systems are placed and secured in the container.
+3.2.16 Container Engineering 
+drawings CON53
+The contractor will produce detailed drawings of: 1) the container, 2) 
+the electrotechnical and control engineering provisions including 
+cabling, and 3) water circuit including drinking, rinsing, and process 
+3.2.16 Container Engineering 
+drawings CON54
+The Contractor shall provide all revision drawings that show the 
+progression of the design and the as-built drawings that show the final 
+construction. The revision drawings must be clearly labeled and dated.
+3.2.16 Container Engineering 
+drawings CON55
+The Contractor is responsible for providing a complete set of 
+documentation supporting the revision and as-built drawings. This 
+documentation includes, but is not limited to, technical specifications, 
+product data sheets, warranty certificates, maintenance instructions, 
+and certificates of conformity.
+3.2.16 Container Engineering 
+drawings CON56
+The design drawings are submitted as a concept to the Client for 
+review and approval. If these do not meet the stated requirements, 
+the Contractor must implement the necessary corrections within an 
+agreed timeframe.
+3.3 Factory and site 
+acceptance test General CON57
+The Contractor shall develop a FAT and SAT protocol in accordance 
+with the below specified requirements and submit these to 
+Rijkswaterstaat for review.
+Pagina 6
+3.3 Factory and site 
+acceptance test General CON58
+The Contractor shall provide a technical drawing and schematic 
+representation of all components of the FerryBox in their interrelation. 
+One of the objectives of this drawing and representation is that it 
+serves as a framework for the client during the Site Acceptance Test 
+(SAT), providing an overview for the required inspections. The 
+drawings and representation, at a minimum, provide an overview and 
+insight into: 1) the water flow from inlet to outlet and the associated 
+components and devices, 2) the placement of sensors and instruments 
+within the container, 3) components of the ICT system, and 4) 
+secondary systems, instruments, and sensors.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT1
+The Contractor will ensure that all specified sensors, instruments, and 
+systems are installed correctly and operate within the parameters and 
+requirements provided by the manufacturers.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT2 The Contractor will ensure all sensors and instruments are calibrated.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT3 The Contractor will correct any errors identified during the FAT, and 
+retest the affected components or systems.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT4 Retesting will be conducted before the delivery of the FerryBox to 
+Rijkswaterstaat.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT5 The Contractor will verify the completeness and accuracy of all 
+FerryBox related documentation, including manuals and technical 
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT6 The Contractor will generate a comprehensive FAT report detailing test 
+procedures, results, and corrective actions taken.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT7 The Contractor shall provide a clear statement confirming compliance 
+with the program of requirements for approval by Rijkswaterstaat.
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT8 Generate a comprehensive FAT report summarizing the testing 
+procedures, results, and any corrective actions taken. 
+3.3.1 Factory and site 
+acceptance test
+Factory acceptance 
+test requirementsFAT9
+The FAT shall be formally concluded with a statement confirming 
+compliance with the specified requirements. This statement shall be 
+signed by the Contractor and approved by the Client.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT1 The Contractor will confirm safe installation and secure positioning of 
+the FerryBox on the deck of the Zirfaea.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT2 The Contractor will  confirm the stability and reliability of the power 
+and tap water supply to the FerryBox.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT3 The Contractor will confirm the stability and reliability of the (sea) 
+water inlet and outlet.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT4
+The Contractor will verify that all pipes, cables, and conduits are 
+professionally installed and neatly concealed within designated 
+facilities, such as cable trays or conduits, eliminating any potential 
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT5 The Contractor will ensure the FerryBox's adherence to maritime 
+safety standards and safety protocols on board the Zirfaea.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT6 The Contractor will verify that all the equipment has arrived in good 
+operating condition.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT7 The Contractor will confirm that all materials necessary for service and 
+cleaning are present.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT8 The Contractor will validate the operational performance of the 
+FerryBox under actual operating conditions at sea.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT9 The Contractor will validate all sensor and instrument data to ensure 
+accurate and reliable data collection.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT10The Contractor will confirm the proper functioning of data logging, 
+storage and transfer systems within the FerryBox. 
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT11The Contractor will verify the capability for remote monitoring and 
+control of the FerryBox.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT12
+The Contractor will verify that all documentation relevant to the 
+installation and operation of the FerryBox at the site is complete and 
+accurate.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT13
+If applicable, The Contractor will conduct instruction sessions for the 
+crew of the Zirfaea on the correct usage and service procedures of the 
+FerryBox.
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT14Generate a comprehensive SAT report summarizing the testing 
+procedures, results, and any corrective actions taken. 
+3.3.2 Factory and site 
+acceptance test
+Site acceptance 
+test requirementsSAT15
+The SAT shall be formally concluded with a statement confirming 
+compliance with the specified requirements. This statement shall be 
+signed by the Contractor and approved by the Client.
+3.4.1 Operational Phase Continuity 
+requirements OP1 The Contractor is required to efficiently plan and execute tasks during 
+the operational phase to minimize costs and system unavailability.
+Pagina 7
+3.4.1 Operational Phase Continuity 
+requirements OP2 Inevitable unavailability due to work on or related to the ferrybox is 
+planned (as much as possible) for December and January.
+3.4.1 Operational PhaseContinuity 
+requirements OP3
+The Contractor is vigilant in monitoring and reporting recurring 
+complaints, identifying recurring issues, analyzing their causes, and 
+suggesting solutions and improvements. This also includes making 
+recommendations for improvements or providing advice for usage by 
+Rijkswaterstaat based on recurring complaints or issues.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP4
+The Contractor is responsible for, and shall provide a service for 
+preventive maintenance of the Ferrybox, ensuring systematic 
+inspection, cleaning, and timely replacement of parts, materials, and 
+systems as necessary. This service must be designed to prevent 
+sudden failures, extend the lifespan of the equipment, and optimize 
+operational efficiency and safety. 
+3.4.2.1 Operational PhasePreventive 
+maintenance OP5 The Contractor ensures that the sensors are in optimal condition 
+during periods critical for ecological monitoring.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP6
+From the Ferrybox community, there are no known examples of 
+performance indicators that can be used to evaluate the effectiveness 
+of preventive maintenance, and thus they are not employed for the 
+quantitative evaluation of preventive maintenance effectiveness. This 
+subject will, however, be revisited qualitatively in the client-Contractor 
+discussions.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP7
+Should it be determined that repairs cannot be conducted immediately 
+onboard the ship during a port call or voyage, the Contractor is 
+authorized to perform the necessary maintenance at their own facility 
+(or a third party). See paragraph 4.6 for details regarding the 
+transport of ferrybox components.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP8
+If certain tasks or activities prove to be disproportionately time-
+consuming or costly for the Contractor, or a third party, to perform, 
+the Contractor is permitted, in accordance with the framework 
+'Minimize Activities for Rijkswaterstaat', to approach Rijkswaterstaat to 
+explore the possibility of utilizing the crew of the Zirfaea for the 
+specific task in question.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP9
+Replacement and maintenance activities for any part or system of the 
+Ferrybox must result in the maintained or enhanced performance of 
+the said component or system. 
+3.4.2.1 Operational PhasePreventive 
+maintenance OP10
+The Contractor writes a preventive maintenance protocol describing 
+which recurring and predictable routine tasks need to be performed, 
+specifying when and at what expected frequency.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP11 Rijkswaterstaat provides the Contractor with an annual voyage 
+schedule of the Zirfaea to facilitate the coordination of activities. 
+3.4.2.1 Operational PhasePreventive 
+maintenance OP12
+Using the provided schedule of the Zirfaea, the Contractor will develop 
+a detailed one-year schedule for service and maintenance activities, 
+along with a four-year forecast for expected preventive maintenance, 
+culminating in a five-year maintenance plan. 
+3.4.2.1 Operational PhasePreventive 
+maintenance OP13
+The detailed one-year schedule must take into account potential 
+challenges identified in schedule of the Zirfaea, ensuring a proactive 
+approach to maintenance planning, such as: 1) Long port calls: 
+possibility of the Ferrybox system entering a standby state, which 
+could lead to biofouling. 2) Short port calls: may require staff to travel 
+with the ship to carry out necessary maintenance. In such instances, it 
+is imperative that the service staff possess the requisite qualifications 
+to ensure that the work is conducted effectively and safely.
+3.4.2.1 Operational PhasePreventive 
+maintenance OP14
+The detailed five-year maintenance plan, will be submitted to 
+Rijkswaterstaat for approval in Q3 or Q4 of the preceding year, 
+depending on Rijkswaterstaat's needs. For example, the planning for 
+2026 will be discussed and submitted for approval in Q3 or Q4 of 
+3.4.2.1 Operational PhasePreventive 
+maintenance OP15 The Contractor incorporates feedback and requested modifications 
+based on discussions with Rijkswaterstaat into the final five-year plan.
+3.4.2.2 Operational PhaseCorrective 
+maintenance OP16
+The Contractor is responsible for providing a corrective maintenance 
+service for the Ferrybox. This service must promptly address and 
+repair any identified deviations and defects, with the aim of resuming 
+measurement activities with minimal interruption. The specific tasks 
+involved in this service will be evaluated and determined on a case-by-
+case basis by the Contractor, ensuring tailored and effective 
+maintenance solutions are implemented to maintain the Ferrybox's 
+operational integrity and reliability.
+Pagina 8
+3.4.2.2 Operational PhaseCorrective 
+maintenance OP17
+Should it be determined that repairs cannot be conducted immediately 
+onboard the ship during a port call or voyage, the Contractor is 
+authorized to perform the necessary maintenance at their own facility 
+(or a third party). 
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP18
+Every instance of preventive and corrective maintenance performed, 
+including the associated activities, must be thoroughly documented in 
+a Service Report. 
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP19
+The Service Report is structured to offer a comprehensive 
+maintenance history, facilitate the resolution of potential warranty 
+claims, and aid in the planning of future maintenance activities.
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP20
+The Service Report shall include, but not be limited to, the following 
+details: 1) CIB number(s) and serial number(s); 2) reason for the 
+service call; 3) date on which the maintenance activities were carried 
+out; 4) analysis of the problem encountered; 5) detailed account of 
+the maintenance work performed, materials used, and labor hours; 6) 
+justification for any parts taken off-site by the Contractor for 
+maintenance.
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP21
+evidence of correct functioning post-maintenance (factory and/or site 
+acceptance test, or final inspection); 7) expected duration of correct 
+functioning until next scheduled maintenance.
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP22
+If a registered item is disposed of or reused outside the scope of the 
+Client's control, the Service Report must include proof of proper 
+disposal or the intended purpose of reuse.
+3.4.2.3 Operational PhaseMaintenance 
+reporting OP23 The Service Report must be made available to the Client within five 
+working days following the completion of the maintenance activities.
+3.4.3.1 Operational PhaseCalibration 
+requirements OP24
+The Contractor is responsible for ensuring that all sensors aboard the 
+FerryBox are calibrated, either by performing the calibration service in-
+house or by coordinating calibration with the manufacturer or an 
+accredited third party.
+3.4.3.1 Operational PhaseCalibration 
+requirements OP25 Calibration of the sensors is performed by facilities holding the 
+relevant accreditation standards (e.g. ISO/IEC 17025).
+3.4.3.1 Operational PhaseCalibration 
+requirements OP26
+Sensors must be calibrated following the guidelines specified in the 
+‘Report on Calibration Best Practices' (Jerico 2014), or, if deviating, 
+with well-justified reasoning.
+3.4.3.1 Operational PhaseCalibration 
+requirements OP27
+The calibration of the Pi-10, CytoSense-C and LabSTAF must be 
+conducted either directly by the manufacturer, or under the 
+manufacturer's supervision.
+3.4.3.1 Operational PhaseCalibration 
+requirements OP28 Calibration of the sensors and instruments must be conducted every 1-
+2 years, or as specified by the manufacturer. 
+3.4.3.1 Operational PhaseCalibration 
+requirements OP29
+The Contractor is tasked with the organization and management of the 
+calibration process, committed to 1) ensuring that the sensors are in 
+optimal condition during periods critical for ecological monitoring; 2) 
+minimizing downtime; 3) reducing costs and maximizing operational 
+efficiency through streamlined operations.
+3.4.3.2 Operational PhaseValidation 
+requirements OP30
+The Contractor is responsible for ensuring the validation of all sensor 
+data, either by conducting the validation processes in-house or by 
+coordinating validation activities with accredited third parties. 
+3.4.3.2 Operational Phase Validation 
+requirements OP31 Validation of the sensor data must be conducted in accordance with 
+the relevant quality standards (e.g. ISO/IEC 17025).
+3.4.3.2 Operational Phase Validation 
+requirements OP32
+The Contractor must develop and document a comprehensive 
+validation protocol for comparing sensor data from the FerryBox 
+system against reference bottle samples, with specific attention to the 
+following aspects: 1) The frequency of validation checks to ensure 
+ongoing accuracy and reliability of the FerryBox sensor data; 2) 
+Specific schedules and preferred locations for (automated) sample 
+collection to ensure a representative range of data for validation 
+purposes; 3) Time-sensitive handling of samples that are prone to 
+potential deterioration. Establish a strict timeline for the processing of 
+these time-sensitive samples, detailing the maximum allowable time 
+3.4.3.3 Operational PhaseQuality assurance 
+logbook OP33 Reports on calibration and validation must adhere to established 
+quality management standards (e.g. ISO 9000 / 9001, ISO/IEC 
+Pagina 9
+3.4.3.3 Operational PhaseQuality assurance 
+logbook OP34
+Minimum requirements for the Quality Assurance (QA) Logbook: 1) 
+Full details of each instrument, including type, model, serial number. 
+2) Calibration records: a) When the calibration was performed. b) Who 
+performed the calibration (individual or organization, including contact 
+information). c) Details on the standards and reference materials 
+used. d) A detailed description of the calibration procedures used. e) 
+Results of the calibration, including pre- and post-calibration values, 
+calculated uncertainties, and any identified discrepancy. f) Schedule of 
+future calibration dates to ensure ongoing calibration maintenance. 3) 
+Validation records: a) Description of the methods used for validating 
+the instrument data. b) Information on samples taken for validation 
+and comparisons with known standards or reference materials. c) 
+Outcomes of the validation tests, including an assessment of the 
+instrument’s performance post-calibration. 4) Details of any corrective 
+actions taken as a result of the calibration or validation processes. 5) 
+Signatures of the individuals responsible for conducting the calibration 
+3.4.3.3 Operational PhaseQuality assurance 
+logbook OP35 The Quality Assurance Logbook must be made available upon request 
+to RWS and to the persons carrying out the quality control of the data.
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP36
+The Contractor is responsible for near real-time and delayed quality 
+control of all data. This quality control must be conducted either in-
+house or by coordinating activities with accredited third parties. 
+Rijkswaterstaat has experience from previous contracts regarding data 
+processing of various monitoring instruments, including the Pi-10 and 
+CytoSense. Given the specialized nature of the data and its 
+applications, consideration should be given to involving established 
+research institutions that have expertise with such data. Similar 
+arrangements could potentially be made for processing data from the 
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP37
+The Contractor will implement a comprehensive quality control system 
+to monitor the performance of the FerryBox system and to ensure the 
+accuracy, reliability, and integrity of all data collected by the FerryBox: 
+1) The Contractor details in a Quality Control Protocol the 
+methodologies to be used and how these methodologies ensure the 
+accuracy, reliability, and integrity of the collected data. 2) This 
+documentation must include a detailed description and illustration of 
+data flow from collection to storage, including data type and format. 3) 
+The Contractor's proposed quality control system must be submitted 
+to Rijkswaterstaat for review and approval. 
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP38
+Insights gained from the data quality control process should directly 
+inform the scheduling and execution of service and maintenance 
+activities, ensuring the system operates within its optimal parameters.
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP39
+To facilitate the discussion on the allocation of quality control 
+responsibilities, the Quality Control (QC) Framework as defined by 
+SMHI (Jerico, WP 10.3) is utilized as a reference framework. 
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP40
+Given the involvement of research institutions working for 
+Rijkswaterstaat in this process, the Contractor is required to: 1) 
+Engage in discussions with Rijkswaterstaat to determine the scope of 
+involvement in QC Level 2 and 3. 2) Coordinate efforts with RWS and 
+possibly other research institutions to ensure a seamless and 
+integrated approach to the annual comprehensive review of the data.
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP41
+The Contractor is responsible for the delivery of the data collected by 
+the FerryBox within 7 days of collection, ensuring both near real-time 
+and delayed quality control of all data. The delivered data should 
+include the raw data, the initial near real-time quality-controlled data 
+and the more thoroughly processed data resulting from delayed 
+quality control procedures. 
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP42 The data will be accessible to the oceanographic community only 
+following the publication of the associated research by Rijkswaterstaat.
+3.4.4 Operational Phase
+Data delivery, 
+quality control and 
+performance 
+monitoring
+OP43
+The Contractor maintains comprehensive records of all quality control 
+activities in the Quality Assurance Logbook, encompassing both the 
+methodologies applied and the outcomes of such analyses.
+Pagina 10
+3.4.5.1 Operational PhaseReducing workload 
+RijkswaterstaatOP44
+The principle regarding operational, maintenance and service activities 
+related to the ferrybox is that Rijkswaterstaat and the crew of the 
+Zirfaea are to be relieved as much as possible.
+3.4.5.1 Operational PhaseReducing workload 
+RijkswaterstaatOP45
+To meet this, the ferrybox must operate as autonomously and 
+automatically as possible and be remotely controlled and managed by 
+the Contractor.
+3.4.5.1 Operational PhaseReducing workload 
+RijkswaterstaatOP46
+Tasks and activities that cannot be automated or performed remotely 
+are carried out by the Contractor or a third party. Third parties are 
+contracted and managed by the Contractor after consultation with 
+Rijkswaterstaat. The Contractor retains final responsibility for tasks 
+performed by third parties.
+3.4.5.1 Operational PhaseReducing workload 
+RijkswaterstaatOP47
+If it costs disproportionately much time or money for certain tasks to 
+be performed by the Contractor or a third party, the Contractor may 
+approach Rijkswaterstaat to explore whether the crew of the Zirfaea 
+(who largely work for market parties) can be deployed for the specific 
+task. The following conditions apply: 1) The task should not 
+significantly demand time and effort from the crew; 2) The task is 
+simple and can be performed routinely; 3) The task matches the 
+crew's level of education; no (additional) training is required to 
+perform the task. 4) The Contractor must be reachable by phone when 
+support is requested during a voyage for task execution; 5) In a 
+request to Rijkswaterstaat to have a task performed by the crew of 
+the Zirfaea, the above points are addressed. 6) Rijkswaterstaat 
+reserves the right to refuse; 7) If there is an agreement to allocate a 
+task to the crew, the Contractor writes a clear protocol describing the 
+task execution step by step. Where necessary, these steps are 
+supported with visual information such as photographs or schematic 
+views. The protocols are physically present in the ferrybox (A4, 
+laminated, in a folder) 8) Such protocols are first reviewed by 
+Rijkswaterstaat before being provided to the respective crew 
+members; 9) The Contractor provides instructions to the relevant crew 
+members for the first use of the ferrybox on location. New crew 
+members taking over a task are also instructed on location by the 
+3.4.5.2 Operational Phase
+Onboard Work 
+Activities on the 
+Zirfaea
+OP48
+If it is necessary for the Contractor or a third party to perform work 
+activities on the FerryBox during a voyage of the Zirfaea, explicit 
+permission is requested from Rijkswaterstaat.
+3.4.5.2 Operational Phase
+Onboard Work 
+Activities on the 
+Zirfaea
+OP49
+Ensure all personnel involved in work activities on the FerryBox 
+possess the necessary training and qualifications. Documentation of 
+these qualifications must be submitted, together with the work plan, 
+to Rijkswaterstaat for approval.
+3.4.5.2 Operational Phase
+Onboard Work 
+Activities on the 
+Zirfaea
+OP50
+Also, in advance, provide a list of all individuals who will perform work 
+on the FerryBox, detailing their roles and qualifications, as an annex to 
+both the Maintenance Protocol and Quality Assurance Logbook.
+3.4.5.2 Operational Phase
+Onboard Work 
+Activities on the 
+Zirfaea
+OP51 Adhere to defined safety standards and emergency procedures specific 
+to onboard work activities.     
+3.4.5.2 Operational Phase
+Onboard Work 
+Activities on the 
+Zirfaea
+OP52
+Coordinate with Rijkswaterstaat to schedule work activities, ensuring 
+minimal disruption to the vessel's operations. This includes: 1) 
+Submitting a comprehensive work plan to Rijkswaterstaat for approval 
+at least 6 weeks before the planned start of any work with a 
+predictable nature. 2) Identifying optimal windows of opportunity for 
+conducting work that align with the vessel's operational schedule and 
+monitoring goals of the FerryBox. 3) Creating and agreeing upon 
+contingency plans for any delays or schedule changes.
+3.4.5.3 Operational PhaseCompliance and 
+regulations OP53
+Ensure all work activities comply with relevant maritime, safety and 
+environmental regulations. This includes obtaining necessary permits, 
+adhering to environmental protection guidelines, and ensuring work 
+does not impact marine life or water quality.
+3.4.6.1 Operational PhaseTransparent pricing OP54
+The Contractor is required to compile a detailed and transparent Price 
+List to justify the costs associated with the requested services. This 
+list, together with the maintenance, calibration, and validation 
+procedures, will help Rijkswaterstaat estimate the annual service costs 
+for the FerryBox. 
+Pagina 11
+3.4.6.1 Operational PhaseTransparent pricing OP55
+The Contractor is required to determine the scope of the corrective 
+maintenance on board the Zirfaea (during a port call), before the 
+maintenance is performed: 1) If the estimated scope is less than 
+€5,000 excluding VAT, the maintenance can be carried out 
+immediately without coordination with Rijkswaterstaat. 2) When the 
+costs exceed the threshold amount of €5,000 excluding VAT, approval 
+from Rijkswaterstaat must first be obtained. 3) This coordination is 
+done with a maintenance proposal that includes a cost specification. 4) 
+If this coordination cannot take place immediately, the Contractor will 
+cease the work on board the Zirfaea and send a maintenance proposal 
+with cost specification to Rijkswaterstaat within five working days. 5) 
+Costs not specified in the maintenance proposal are not eligible for 
+reimbursement.
+3.4.6.1 Operational PhaseTransparent pricing OP56
+In the event that a specific service is expected to be performed by a 
+third party, an initial estimate of the costs is made. After contracting a 
+third party, this estimate can be refined.
+3.4.6.1 Operational PhaseTransparent pricing OP57
+The Price List shall be updated annually prior to the annual Contractor-
+client consultation, or whenever it becomes apparent that the cost of a 
+service consistently deviates from the listed price. Rijkswaterstaat will 
+be notified of any changes to the price list.
+3.4.6.2 Operational Phase Billing and invoicingOP58 Invoicing occurs immediately after execution of the service activity.
+3.4.6.2 Operational Phase Billing and invoicingOP59 The Contractor intends to use the Price List as the basis for billing as 
+consistently as possible, yet billing will reflect the actual costs 
+3.4.6.2 Operational Phase Billing and invoicingOP60
+To approve an invoice, Rijkswaterstaat requires documentation of the 
+provided service, which can be an entry in the Service Report or 
+Quality Assurance Logbook.
+3.4.6.2 Operational Phase Billing and invoicingOP61
+If a third party is required for performing a specific task related to the 
+FerryBox, they will be hired by the Contractor. Following a (positive) 
+assessment of the work provided by the third party, the Contractor 
+may invoice the costs to Rijkswaterstaat.
+3.4.6.2 Operational Phase Billing and invoicingOP62 Costs incurred by the Contractor related to the assignment of the third 
+party can be charged to RWS.
+3.4.7 Operational Phase
+Transportation for 
+offsite service 
+activities
+OP63
+The Contractor ensures the reliable and efficient transport of the 
+FerryBox (components), reducing costs and maximizing operational 
+efficiency through streamlined operations.
+3.4.7 Operational Phase
+Transportation for 
+offsite service 
+activities
+OP64
+The Contractor is liable for any damage, theft, or loss of systems 
+and/or components owned by Rijkswaterstaat at times when they are 
+in possession of them. The Contractor must act as a good custodian of 
+the systems by handling, transporting, and storing them carefully and 
+under controlled conditions. Additionally, the Contractor ensures that 
+adequate measures are taken in the work processes against damage, 
+theft, and loss, and during handling by manufacturers, third parties, or 
+3.4.7 Operational Phase
+Transportation for 
+offsite service 
+activities
+OP65
+The Contractor provides Rijkswaterstaat with detailed updates on the 
+status and location of FerryBox components when they require 
+servicing at a location other than onboard the Zirfaea. Rijkswaterstaat 
+wishes to be informed with a transport overview about: 1) the parts to 
+be transported, including CIB numbers and serial numbers; 2) date 
+and time of sensor/instrument retrieval from the FerryBox; 3) the 
+number of packaging units (e.g., transport cases, crates); 4) the 
+destination of the transportation; 5) expected date of arrival; 6) the 
+expected completion date of the service activity; 7) details regarding 
+the return shipment; 8) the scheduled date for reinstallation.
+3.4.7 Operational Phase
+Transportation for 
+offsite service 
+activities
+OP66 The Contractor independently coordinates the pickup or delivery 
+address and time with the contact person at Rijkswaterstaat.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP67
+The Contractor will organize an annual meeting with Rijkswaterstaat in 
+November or December to evaluate the preceding year and plan for 
+the upcoming year. 
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP68
+The following documents will serve as the input for the session: 1) 
+Service Report; 2) Quality Assurance Logbook; 3) Maintenance Plan; 
+4) Price List; 5) Voyage Schedule Zirfaea.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP69
+It is required that these documents will be approved by 
+Rijkswaterstaat during the meeting, especially concerning plans for the 
+upcoming year.
+Pagina 12
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP70
+The Contractor is responsible for drafting and coordinating the agenda 
+with Rijkswaterstaat. Rijkswaterstaat will receive the draft agenda and 
+preliminary documents 20 working days prior to the annual meeting. 
+Rijkswaterstaat is required to provide feedback on the draft agenda 
+and, if necessary, on the preliminary documents within 5 working 
+days. The final agenda will be sent to the participants 8 working days 
+before the meeting.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP71
+After the annual meeting, the Contractor must prepare a draft report 
+and send it to Rijkswaterstaat within 10 working days. Rijkswaterstaat 
+will review it and suggest changes within 5 working days. The 
+Contractor will then update the report based on these suggestions and 
+send the final version to the meeting attendees within another 5 
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP72
+Additionally, the Contractor will set up more frequent, periodic 
+meetings to concentrate on operational issues related to performance, 
+maintenance, validation, calibration, and data quality. 
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP73
+The frequency of the periodic meetings is determined during the 
+annual meeting and can be adjusted during the year if necessary, 
+following coordination with Rijkswaterstaat.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP74
+The Contractor is responsible for drafting and coordinating the agenda 
+with Rijkswaterstaat. Rijkswaterstaat will receive the draft agenda and 
+preliminary documents no later than 10 working days before the 
+meeting. Rijkswaterstaat is required to provide feedback on the draft 
+agenda and, if necessary, on the preliminary documents within 3 
+working days. The final agenda will be sent to the participants no later 
+than 5 working days before the meeting.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP75
+The Contractor will send the draft report to Rijkswaterstaat within 5 
+working days after the meeting. Rijkswaterstaat will review the report 
+and suggest changes within 3 working days. The Contractor will then 
+update the report based on these suggestions and send the final 
+version to the meeting participants within 2 working days.
+3.4.8 Operational Phase
+Communication 
+and feedback in the 
+operational phase
+OP76
+The contact details for all relevant persons within Rijkswaterstaat will 
+be provided after the awarding of the contract. Until then, inquiries 
+regarding content will be directed to Ronald Rense. Inquiries regarding 
+the tendering project will be handled by Carolina Correa Jaramillo.
+By submitting a Tender, you as Tenderer, explicitly consent to all requirements and conditions specified in the Tender document and declare that you will continue to comply with these throughout the entirety of the contract period. Furthermore,you confirm that you will comply with all of the following specified requirements. The undersigned: ………………….…………………………….legally represented in this respect by ………………………….,Subcontracting:For the part / parts …………………………………………………… the Contractor will have the following work / Services performed subcontracted by:……………………………………………………………………………………The documents required in the Invitation to Tender are attached to this Registration State, namely:…………………………………………The undersigned (s) declare (declare) that there are no facts and circumstances as referred to in Article 27 of the ARVODI 2018 (takeover of staff, bribery and conflict of interest) with regard to the present project.Done at ........................................ (place), dated ... .................... 20 ..(signature)name:position:(note: digital signing, security level IV,PKIoverheid certificate or EU Qualified certificate)
+Pagina 13
+Pagina 14
