@@ -1,0 +1,1874 @@
+=== Document: nota van inlichtingen - sbir waterkwaliteitsvariabelen_def ===
+Netherlands Space Office  
+Centre Court gebouw  
+Prinses Beatrixlaan 2  
+2595 AL  DEN HAAG  
+info@spaceoffice.nl  
+  
+ 
+ 
+Nota van Inlichtingen  
+SBIR “Satellietdatagebruik voor monitoring van waterkwaliteits-variabelen 
+t.b.v. het berekenen van de primaire productie in het Eems-estuarium” 
+ 
+ 
+Deze Nota van Inlichtingen is gepubliceerd op 16 mei 2017 via de website van RVO. 
+ 
+ 
+Samenvatting 
+Op 10 mei 2017, van 13.30 uur tot 16.00 uur, vond de informatiebijeenkomst plaats omtrent de SBIR Oproep “Satellietdatagebruik voor monitoring 
+van waterkwaliteits-variabelen t.b.v. het berekenen van de primaire productie in het Eems-estuarium” bij RWS te Lelystad. Tijdens de bijeenkomst 
+heeft  NSO uitleg gegeven over NSO en de relatie met SBIR, heeft RWS uitleg gegeven over de probleem- en doelstelling met betrekking tot deze 
+SBIR en heeft RVO uitleg gegeven over het SBIR-proces. Na de diverse uiteenzettingen heeft een vraag- en antwoordsessie plaatsgevonden 
+(marktpartijen versus opdrachtverstrekkende partijen). Informatie zal worden verstrekt via deze nota van inlichtingen. 
+ 
+Achtergrond NSO en programma innovatiegericht inkopen ruimtevaart (SBIR ruimtevaart) 
+Het Netherlands Space Office (NSO) is de ruimtevaartorganisatie van de Nederlandse overheid. Zij verzorgt het ruimtevaartbeleid van Nederland en 
+vertegenwoordigt Nederland bij internationale organisaties, zoals ESA en de Europese Commissie. Zij doet dit zowel op het terrein van de ‘upstream’, 
+oftewel de industrie, die de ruimtevaartinfrastructuur produceert, alsook op het terrein van de ‘downstream’, oftewel het gebruik van de satellietdata. 
+Het NSO heeft als doel om de ruimtevaartinfrastructuur beter te benutten, de dienstverlening van de Nederlandse overheid waar mogelijk met 
+satellietdata te versterken en de (internationale) marktpositie van het Nederlandse bedrijfsleven te verbeteren. Dit doet zij binnen een thematische 
+aanpak en aan de hand van enkele stimuleringsmaatregelen. Zo stelt het NSO, naast de gratis en open data vanuit het Copernicus-programma, ook 
+extra hoge resolutie data beschikbaar via het Satellietdataportaal (www.satellietdataportaal.nl). Daarnaast wordt het gebruik van satellietdata binnen 
+overheidsorganisaties gestimuleerd met behulp van de SBIR-regeling. Voor dit doel is een speciaal SBIR-Ruimtevaartprogramma ingericht. Dit 
+programma zorgt voor innovatiegericht inkopen door de Nederlandse overheid. Redenen voor deze manier van inkopen zijn divers, van het versterken 
+van het verdienvermogen van de ruimtevaartsector tot het bijdragen aan oplossingen voor maatschappelijke problemen. 
+2 
+ 
+ 
+Deze SBIR-oproep is op zoek naar verschillende (basis)dataproducten van waterkwaliteitsvariabelen van het Eems-Dollard estuarium, die inzicht 
+geven in de waterkwaliteit en die als input kunnen dienen voor het berekenen van primaire productie (PP) van pelagische en benthische microalgen. 
+De dataproducten dienen te zijn ontwikkeld op basis van satellietdata. Met deze SBIR-inkoop kan de kracht van het bedrijfsleven ingezet worden om 
+over ruim 1 jaar nieuwe producten en diensten op de markt te zetten. De oproep is te vinden op tenderned.nl en via http://www.rvo.nl/subsidies-
+regelingen/sbir/oproep-satellietdatagebruik-voor-monitoring-waterkwaliteit-eems-dollard-estuarium 
+ 
+ 
+Algemene vragen SBIR Ruimtevaart 
+ 
+1.  Waar vind ik de meest recente informatie 
+over de SBIR? 
+Belangrijk om te weten dat sinds deze zomer enkele formulieren en handleidingen zijn 
+gewijzigd. De meest up-to-date informatie vindt men op https://mijn.rvo.nl/sbir-
+innovatie-in-opdracht 
+ 
+2.  Waar vind ik meer informatie over het  
+Satellietdataportaal? 
+Op www.satellietdataportaal.nl. Vragen over dit portaal kunnen gesteld worden via het 
+e-mailadres portaal@spaceoffice.nl. Het portaal wordt door het NSO beheerd.  
+ 
+3.  Biedt het satellietdataportaal ook 
+jaarlijkse luchtfoto’s? 
+Nee, voor een deel zijn landsdekkende luchtfoto’s (met een lagere resolutie) wel 
+beschikbaar als achtergrondinformatie op de kaart. Luchtfoto’s zijn beschikbaar via 
+PDOK; wel met enige vertraging: 2016 is nu net online.  
+ 
+4.  Kan er iets gezegd worden over de 
+continuïteit van de data in het 
+Satellietdataportaal? 
+Radardata zijn t/m 2020 beschikbaar. Voor optische data is een deel van de data-
+inkoop gedekt door een afbouwende financieringsregeling t/m 2019. Er wordt nog 
+gezocht naar aanvullende financiering om het volledige pakket te kunnen behouden. 
+ 
+5.  Als blijkt dat er meer mogelijkheden zijn 
+met hoge resolutie beelden of frequentere 
+data, gaat NSO deze dan in de toekomst 
+aanschaffen? 
+ 
+Dat is een traject waar NSO aan werkt, o.a. via het SBIR-proces waarmee wordt 
+geprobeerd om de toepassing van satellietgegevens voor gebruik door 
+overheidsinstellingen te stimuleren. 
+6.  Hoe verkrijgt men Sentinel-data? Ook deze informatie is via www.satellietdataportaal.nl te verkrijgen. 
+ 
+7.  Mag ik in samenwerking met een andere 
+partij een offerte/voorstel indienen? 
+Ja, dat mag. We verwachten dat één partij in de lead is en een voorstel indient. Deze 
+partij kan met andere partijen samenwerken als onderaannemer. En dat is vaak ook 
+verstandig omdat u zo kunt zorgen dat de juiste expertise aan boord is. Samenwerking 
+tussen voorstellen kan niet; verschillende voorstellen mogen niet afhankelijk van elkaar 
+3 
+ 
+zijn. Ieder voorstel moet op zichzelf staan. 
+ 
+8.  Op welke manier kan RVO of NSO helpen 
+bij het “strategisch” samenwerken? 
+Dit is geheel aan de aanbiedende partijen zelf. Let hierbij op dat het om relatief kleine 
+bedragen gaat, een hele alliantie vormen is wellicht niet haalbaar. Suggestie: werk 
+samen met één partij die van meerwaarde is; “niet samenwerken om het 
+samenwerken, maar samenwerken om het doel te halen”. 
+ 
+9.  Mag ik meerdere voorstellen indienen? Ja,  u mag meerdere voorstellen indienen. Het aantal moet wel in verhouding staan tot 
+de capaciteit van aanbiedende partij en de voorstellen moeten onderscheidend van 
+elkaar zijn. Samenwerking tussen voorstellen kan niet; verschillende voorstellen mogen 
+niet afhankelijk van elkaar zijn. Ieder voorstel moet op zichzelf staan als afgerond 
+geheel. 
+ 
+10.  Mag ik in het voortraject (vóór fase 1) 
+contact opnemen met de vragende partij? 
+Het is niet toegestaan om inhoudelijke vragen te stellen aan de leden van de 
+Beoordelingscommissie tijdens het voortraject. Hier dient de informatiebijeenkomst 
+voor en deze Nota van Inlichtingen. Wel kan er met andere medewerkers contact 
+worden gezocht. Tijdens Fase 1 en Fase 2 kan er wel (beperkt) interactie plaatsvinden. 
+Het is aan de vragende partij om eventueel extra informatiebijeenkomsten te 
+organiseren. 
+ 
+11.  Moet men bij het sluiten van de tender 
+zowel de documenten voor Fase 1 als voor 
+Fase 2 aanleveren? 
+Nee, dan dienen alleen documenten voor fase 1 te worden aangeleverd. Fase 2 
+documenten worden pas gevraagd nadat u hiervoor van NSO een offerteverzoek 
+ontvangt. 
+ 
+12.  Hoort het formulier “Aanbieding SBIR” ook 
+bij de gevraagde documenten voor fase 1? 
+Ja, het formulier “Aanbieding SBIR” is ook onderdeel van uw offerte voor SBIR fase 1. 
+ 
+ 
+13.  Wanneer ontvang je een offerteverzoek 
+voor fase 2? M.a.w. wat is succesvol 
+afronden van een haalbaarheidsstudie? 
+NSO stuurt een offerteverzoek naar alle deelnemers in Fase 1. De offerte van Fase 2 
+heeft dezelfde deadline als het eindrapport van Fase 1. De Beoordelingscommissie heeft 
+in haar vergadering dus de beschikking over de informatie uit Fase 1 en de plannen 
+voor Fase 2. In deze SBIR kiezen we ervoor om de deadline van het eindrapport te 
+laten samenvallen met de deadline voor het indienen van de offerte voor fase 2. 
+Hiermee wijken we iets af van de procedure beschreven in de SBIR-handleiding. Het 
+eindrapport wordt in deze SBIR dus niet beoordeeld om te bepalen of een 
+offerteverzoek verstuurd zal worden. 
+ 
+14.  Hoe wordt de technische haalbaarheid De technische haalbaarheid wordt beoordeeld als de mate waarin het overtuigend is 
+4 
+ 
+beoordeeld? 
+Gaat het om algemene technische 
+haalbaarheid of juist dat je het zelf als 
+bedrijf kan? 
+gemaakt dat de geboden oplossing technisch haalbaar is. Benoem bij de analyse van de 
+technische haalbaarheid ook de eventuele knelpunten, wees hier eerlijk over. En geef 
+aan hoe deze op te lossen zijn en of dat in de volgende fase qua tijd en middelen zal 
+lukken. 
+ 
+15.  Is het combineren van voorstellen uit fase 
+1 tot één voorstel in fase 2 mogelijk? 
+Dit is niet onmogelijk, maar gezien concurrentie tussen voorstellen zijn RVO en NSO 
+terughoudend. 
+ 
+16.  Kunnen we een commercieel uurtarief 
+vragen? Wordt een eigen bijdrage 
+verwacht? 
+We schrijven geen uurtarief voor, we werken bij SBIR immers op basis van offertes. 
+Aangezien de intellectuele eigendomsrechten bij de indiener blijven, verwachten we dat 
+de indiener dit ook als investering ziet in eigen kennis en voor acquisitie van een 
+nieuwe (overheids)klant. Let op: bij de beoordeling zal ook gekeken worden naar de 
+prijs-kwaliteit-verhouding. 
+ 
+17.  Moet er BTW worden afgedragen? Ja, het is een inkoopopdracht, dus het maximumbedrag is inclusief BTW. 
+ 
+18.  Dienen de kosten te worden 
+gespecificeerd? 
+ 
+Ja, de kostenopbouw moet duidelijk uit de offerte blijken. 
+19.  Kan ik zelf met een voorstel komen voor 
+een nieuwe SBIR? 
+Ja, graag zelfs. Neem hiervoor contact op met het NSO. Zij zullen de ideeën naast 
+elkaar leggen. Het idee, indien ook ondersteund door de overheidsorganisatie, zal 
+vervolgens wel via een open call worden gepubliceerd. 
+ 
+20.  Wordt er inhoudelijk feedback gegeven op 
+de inschrijvingen? 
+Afwijzingen en winnaars krijgen altijd feedback op de beschreven punten inclusief 
+argumentatie. Na afloop kan er altijd om extra feedback gevraagd worden. 
+ 
+21.  Wat zijn de verschillen met de eerdere 
+SBIR’s en zijn uit deze oproepen lessen 
+geleerd? 
+Per SBIR kunnen de toegekende bedragen voor fase 1 en fase 2 verschillen van 
+voorgaande oproepen. Vraagsturing is belangrijk, namelijk de vragende partij zoekt 
+vanuit zijn maatschappelijk probleem naar een passende oplossing. 
+De SBIR oproep moet leiden tot een operationele oplossing, denk daarom goed na over 
+hoe satellietdata en de service gaan passen in de werkwijze van de vraagorganisatie, 
+een duurzaam verdienmodel/business case en eventuele consortiumvorming (bijv. 
+kennisinstelling + marktpartij) i.v.m. markttoetreding. 
+ 
+22.  Wat wordt er in fase 1 verwacht t.a.v. 
+technische volwassenheid/rijpheid van het 
+Hier zijn geen strakke richtlijnen voor, maar fase 1 hoeft geen papieren exercitie te 
+zijn. Het is goed om al aan de slag te gaan met de oplossing. Laat (kleinschalige) 
+5 
+ 
+product? voorbeelden zien van de mogelijkheden. Er wordt verwacht dat de door u geboden 
+oplossing werkt met satellietdata uit het Satellietdataportaal plus eventuele andere 
+bronnen. 
+ 
+23.  Wat houdt het SBIR-overeenkomst 
+formulier in en waar kan ik dat vinden? 
+*(Genoemd in SBIR handleiding RVO) 
+De SBIR-overeenkomst (feitelijk een contract) en bijbehorend formulier komt vanuit de 
+RVO-procedure en wordt opgesteld bij toekenning van de opdracht voor fase 1 en/of 2. 
+NSO hanteert een eigen opdrachtverstrekking en bijbehorende brief die u zult 
+ontvangen indien de beoordelingscommissie u een vervolgfase toekent. U hoeft hier bij 
+indiening niets mee te doen. 
+ 
+24.  M.b.t. de economisch perspectief: 
+Verplicht de vragende partij (RWS) zich 
+tot het afnemen van het uiteindelijke 
+product? 
+Partijen zullen ook het perspectief op andere klanten moeten meenemen. De 
+uiteindelijke afname van een dienst/product zal veelal Europees aanbesteed moeten 
+worden, omdat de kosten boven de drempelbedragen liggen. Fase 3 kan niet via de 
+SBIR-regeling omdat er dan sprake zou zijn van staatssteun. De deelnemer van de 
+SBIR heeft natuurlijk vanwege de deelname aan de SBIR een technologisch voordeel 
+verkregen die hij kan inzetten bij de aanbesteding. 
+Voor de vragende partij Rijkswaterstaat geldt dat de vraagstelling van deze oproep 
+voor veel waterlichamen in Nederland geldt, waaronder de Noordzee, het gehele 
+Waddengebied en de Westerschelde. 
+ 
+25.  Kan de aanvraag ook digitaal via 
+TenderNed worden ingediend? 
+ 
+Nee, de offerte moet via e-mail bij NSO (info@spaceoffice.nl) worden ingediend.  
+26.  In hoofdstuk 3 vraagt u financiële 
+inzichten van de organisatie met 
+jaarcijfers, cashflow en 
+exploitatieoverzichten. Wat wordt hiermee 
+bedoeld? Is de openbare financiële 
+jaarrapportage voldoende? 
+ 
+Er worden geen financiële gegevens gevraagd. Er moet alleen een begroting volgens 
+het SBIR format worden ingediend. 
+27.  In de SBIR-handleiding wordt aangegeven 
+dat de offerte zich uitsluitend moet richten 
+op hoogwaardige onderzoeken en 
+ontwikkelingen. Kunt u dit nader 
+specificeren wat u hieronder verstaat? 
+ 
+Het voorstel wordt o.a. beoordeeld op innovatie. Deze innovatie kan ontstaan uit zowel 
+kennisinstellingen als vanuit het bedrijfsleven. 
+28.  In uw uitvraag omschrijft u dat nagenoeg Deze oproep is open voor alle partijen, zowel (semi-)publiek als privaat. De 
+6 
+ 
+alle partijen met een onderzoeks- en 
+ontwikkelingscapaciteit mee kunnen doen 
+voor deze uitvraag. Hoe garandeert u een 
+‘level playing field’? Kunnen door de 
+overheid gefinancierde partijen ook 
+inschrijven? 
+ 
+Beoordelingscommissie zal echter niet alleen naar de technische inhoud kijken, maar 
+ook naar het ondernemerschap van het consortium en het operationaliseren en het op 
+de markt brengen van de dienst. 
+29.  Staat SBIR alleen open voor commerciële 
+partijen of mogen kennisinstellingen ook 
+meedoen? 
+SBIR staat in principe open voor iedereen, ook voor kennisinstellingen. Echter, er geldt 
+bij een SBIR-oproep dat het bij succes moet leiden tot een operationele oplossing en 
+dienstverlening. Hiervoor worden SBIR-voorstellen beoordeeld op de geschiktheid van 
+de aanbiedende partij/consortium voor het leveren van de dienst, o.a. in verband met 
+markttoetreding en de levering van de dienst op operationele basis. Daarom wordt 
+geadviseerd dat er ook marktpartijen meedoen in aanbiedende consortia met 
+kennisinstellingen. Indien dit niet het geval is, dient goed onderbouwd te worden hoe 
+het issue ‘operationalisering’ wordt ondervangen. 
+ 
+30.  Staat SBIR alleen open voor Nederlandse 
+partijen? 
+SBIR staat open voor alle bedrijven afkomstig uit de EU. De voertaal van indiening (en 
+eventuele verdere communicatie) dient in het Nederlands te zijn. 
+ 
+ 
+ 
+ 
+  
+7 
+ 
+Specifieke vragen SBIR Satellietdatagebruik voor monitoring van waterkwaliteitsvariabelen  
+ 
+31.  Er wordt in de oproep gevraagd om een 
+volledig jaar met data aan te leveren (bij 
+voorkeur 2015 of 2016). Is het mogelijk 
+om data van een recentere 12-maanden 
+periode aan te leveren? 
+ 
+Hoe een jaar wordt gedefinieerd maakt niet zoveel uit. De MWTL-dataset loopt natuurlijk 
+erg achter op het beschikbaar komen van satellietbeelden, dus als een recentere 12-
+maanden periode wordt gekozen om data voor aan te leveren dan zal er mogelijk weinig 
+velddata beschikbaar zijn. Beargumenteer vooral ook waarom voor een bepaalde periode 
+gekozen wordt. 
+32.  Kunnen de velddata van 2017 ook 
+beschikbaar worden gesteld? 
+Dit is waarschijnlijk lastig; mogelijk kunnen wel recente data van  variabelen die direct 
+gemeten worden door de meetpa(a)l(en) ter beschikking worden gesteld, onder 
+voorwaarde van geheimhouding. Variabelen die indirect, dus via een lab, moeten worden 
+bepaald zijn lastiger. 
+ 
+33.  Worden er ook veldmetingen ter 
+beschikking gesteld zodat deze gebruikt  
+kunnen worden voor validatie en 
+kalibratie?  Of is het aan de indiener om 
+gegevens voor validatie zelf samen te 
+stellen? 
+Ja, er zal een (beperkte) validatieset met veldmetingen beschikbaar worden gesteld, 
+samengesteld uit de MWTL-dataset en gegevens van de meetpaal bij Eemshaven. Die zal 
+bestaan uit 4 locaties die eens per 2 weken worden bemonsterd en 1 meetpaal bij 
+Eemshaven die 1-minuutwaarden genereert. In de presentatie toegelicht tijdens de 
+informatiebijeenkomst en beschikbaar via de RVO SBIR-website staat uitgebreider 
+aangeven waar de meetlocaties zijn en welke parameters er worden gemeten per 
+meetlocatie. Er zal niet extra worden gemeten voor dit project maar er kan wel een 
+meetvraag volgen uit de uitvoering. 
+ 
+34.  Bij de meetpaal Eemshaven wordt ook 
+chlorofyl als parameter gemeten. Wat 
+wordt hier precies gemeten? 
+ 
+De chlorofylmeting is een interpretatie van de fluorescentiemeting. Het is dus geen 
+directe chlorofylmeting, maar een afgeleide daarvan. 
+35.  In de probleemstelling wordt gesproken 
+over “interacties met bodemreflecties”. 
+Wat wordt hiermee bedoeld? 
+ 
+Het gaat om licht dat van de bodem terugkomt. Deze bodemreflectie heeft invloed op de 
+totale reflectie van licht gemeten door het satellietinstrument. Dit draagt bij aan de 
+complexiteit van ondiep water ten opzichte van open zee, en hier dient dus bij de 
+interpretatie van de satellietdata rekening mee te worden gehouden.  
+ 
+36.  Er moeten 9 dataproducten worden 
+opgeleverd. Klopt het dat deze nu niet 
+allemaal worden gemeten?  
+Ja, dat is correct. 
+Het bepalen van de dichtheid van benthische algen is de belangrijkste reden om over te 
+gaan op satellietbeelden; die informatie is op geen andere manier te verkrijgen. 
+Voor meer informatie over primaire productie van benthische algen wordt verwezen naar 
+het rapport “Primaire Productie in de Waddenzee: meten en berekenen” (Kromkamp & 
+8 
+ 
+Philippart, 2015). 
+Het belang en de rol van satellietdata wordt ook benoemd in het advies voor een 
+verbetering van de bestaande monitoring van de Waddenzee, beschreven in “De 
+noodzaak van brede basismonitoring voor een goed beheer van het Waddengebied” 
+opgesteld door het WaLTER Projectteam, datum 6 juli 2015; URL: 
+http://www.walterwaddenmonitor.org/wp-content/uploads/Blauwdruk-
+basismonitoring1.pdf 
+ 
+37.  Zijn er eisen m.b.t. hoe het product wordt 
+opgeleverd? 
+Het product moet kunnen dienen als invoer voor een volgende berekening. Hiervoor 
+moet het in standaard gangbare GIS-formaten (nu wordt gedacht aan formaten in het 
+ESRI-domein) worden opgeleverd. Een pdf-kaart is onvoldoende. 
+Gedurende het SBIR-traject kunnen waar nodig specifiekere, aanvullende, of gewijzigde 
+eisen worden gecommuniceerd. 
+ 
+38.  Wat is de gewenste meetfrequentie? Bij voorkeur zo hoog mogelijk. Wanneer het niet mogelijk is om near real-time te meten 
+omdat satellietdata hiervoor niet beschikbaar is, dan graag specificeren wat hiervoor 
+nodig zou zijn en welke data hiervoor ingekocht zouden moeten worden. 
+ 
+39.  Op welke tijdschaal wil RWS kunnen 
+acteren/ingrijpen? Is het de bedoeling dat 
+er ook een voorspelling wordt gemaakt? 
+ 
+Prognoses zijn niet nodig; het gaat om monitoring (achteraf). Voor algen- en 
+slibconcentraties zou near real-time informatie mooi zijn. 
+40.  Spelen bepaalde grenswaarden van 
+gevraagde parameters voor bijvoorbeeld 
+alarmering nog een rol? 
+ 
+Nee, die behoefte is er nu nog niet. 
+41.  Wat zijn de consequenties als RWS nu 
+niets doet aan de verbetering van de 
+monitoring? 
+De aanleiding voor dit traject is de ambitie dat het Eems-Dollard in 2050 ecologisch goed 
+functioneert. Zowel Nederland als Duitsland willen het ecologisch systeem verbeteren. De 
+slibconcentratie neemt toe, waardoor de primaire productie afneemt. Er worden 
+maatregelen voorbereid. Het is wenselijk om de huidige situatie als het effect van de 
+maatregelen te monitoren. 
+Daarnaast kan RWS erop aangesproken worden indien bepaalde meetverplichting 
+(bijvoorbeeld vanuit internationale richtlijnen) niet worden nagekomen. 
+ 
+42.  In hoeverre is benthische productie op 
+niet-droogvallende delen ook interessant? 
+De interesse is er in principe wel, maar de verwachting is dat daar geen of 
+verwaarloosbare benthische productie plaatsvindt, omdat er geen licht komt vanwege 
+9 
+ 
+ hoge slibconcentratie. 
+ 
+43.  Gevraagd wordt om vlakdekkende 
+resolutie. Wat is de afmeting van 
+bijvoorbeeld de sleuven en geulen? 
+ 
+We willen informatie op kombergingsniveau, d.w.z. schalen van 5 – 10 km, en 
+tijdschalen in de orde van seizoenen, en we willen begrijpen hoe welke eigenschappen 
+van die kombergingsgebieden daarvoor bepalend zijn.   We weten dat het voorkomen 
+van geulen en droogvallende platen een belangrijke eigenschap is, om een indruk van 
+het geulenstelsel te krijgen is een resolutie van de orde van 10m wenselijk, en het 
+verloop van de getijcyclus met een resolutie in de orde van 1 uur.   Uiteraard zal voor 
+een aantal van de grootheden die worden ingewonnen deze resolutie niet nodig zijn, 
+afhankelijk van de gekozen methode. Van aanbiedende partijen wordt gevraagd 
+ambitieus en creatief te zijn en te laten zien wat mogelijk en betaalbaar is. 
+ 
+44.  Moet de inkoop van hoge resolutie data 
+worden meegenomen in de offerteprijs? 
+ 
+Ja, dit kan als optie worden aangegeven. 
+45.  Is er iets te zeggen over de huidige kosten 
+die RWS besteedt aan monitoring? 
+Dat is moeilijk te zeggen. De boot die diverse metingen verricht (meer parameters dan in 
+deze oproep gevraagd) in een groter gebied dan het Eems-estuarium interessegebied, 
+kost zo’n € 5.000,- per dag (en vaart 1x per 2 weken), exclusief kosten van 
+laboratoriumanalyses e.d. 
+ 
+46.  M.b.t. de business case: worden de in 
+deze oproep gevraagde producten na 
+oplevering aan RWS openbaar gemaakt? 
+ 
+Ja, dat is het geval. De IP-rechten blijven wel bij het bedrijf liggen, maar de geleverde 
+producten worden gebruikt en openbaar gemaakt.
+
+=== Document: sbir oproep rws satellietdatagebruik voor waterkwaliteit eems dollard ===
+1 
+ 
+SBIR1 Oproep 
+“Satellietdatagebruik voor monitoring van 
+waterkwaliteitsvariabelen t.b.v. het berekenen van 
+de primaire productie in het Eems-estuarium” 
+ 
+Openingsdatum:  26 april  2017 
+Sluitingsdatum:  24 mei 2017, 15:00 uur 
+Budget:   € 230.000,- (inclusief BTW) 
+ 
+Om een versnelling tot stand te brengen in het gebruik van satellietdata bij 
+overheden en in de samenleving heeft het NSO innovatiegericht inkopen 
+ruimtevaart (SBIR) geïntroduceerd. De financiële middelen hiervoor komen uit 
+het nationaal flankerend ruimtevaartbeleid van het ministerie van EZ.  
+Deze SBIR is er op gericht om het gebruik van satellietdata te stimuleren. Het 
+Satellietdataportaal is een faciliteit waarvan Nederlandse overheden, 
+onderzoeksinstellingen en bedrijven gebruik kunnen maken voor 
+operationalisering van satellietdata toepassingen. 
+Rijkswaterstaat en het Netherlands Space Office (NSO) dagen gezamenlijk 
+ondernemers uit om verschillende (basis)producten te ontwikkelen voor het 
+Eems-Dollard estuarium die inzicht geven in de waterkwaliteit en die als input 
+kunnen dienen voor het berekenen van primaire productie (PP) van pelagische en 
+benthische microalgen in het Eems-Dollard estuarium.  
+De beste offertes krijgen een opdracht voor een haalbaarheidsonderzoek (SBIR 
+fase 1). De beste haalbaarheidsonderzoeken krijgen een vervolgopdracht om een 
+prototype te ontwikkelen en te demonstreren (SBIR fase 2). 
+ 
+1. Het thema 
+ 
+Inleiding 
+Rijkswaterstaat (RWS) is het uitvoerende agentschap van het ministerie van 
+Infrastructuur en Milieu in Nederland. De organisatie beheert in opdracht van het 
+ministerie van Infrastructuur en Milieu de rijkswateren, waaronder de 
+zoutwatergebieden Waddengebied en Eems-Dollard estuarium. In deze gebieden 
+is RWS coördinerend gebiedsbeheerder en stelt de beheerplannen op. RWS werkt 
+samen met andere gebiedsbeheerders aan een goede waterkwaliteit en een goed 
+leefgebied voor plant en dier, met ruimte voor menselijk medegebruik. Dit beheer 
+is uitgewerkt in een aantal internationale, Europese, trilaterale en nationale 
+richtlijnen, waaronder Natura2000 en de kaderrichtlijn Water. In november 2016 
+                                                        
+1 SBIR staat voor Small Business Innovation Research 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+is het Eems-Dollard estuarium aangewezen als Natura-2000 gebied. Onderdeel 
+van de genoemde richtlijnen vormt de monitoring van het waterlichaam, waarbij 
+de ecologische en chemische toestand en trends van het waterlichaam worden 
+gevolgd.  Deze monitoring levert belangrijke en noodzakelijke informatie voor de 
+uitvoering van het waterbeheer.  
+Naast de monitoring van waterkwaliteitsvariabelen zoals algen en troebelheid is 
+het volgen van de ontwikkeling van de voedselproductie voor hogere organismen 
+en de mens ook van belang voor het waterbeheer. Primaire producenten, zoals 
+algen in het water en de benthische algen op de droogvallende platen, leggen 
+onder invloed van licht CO2 vast tijdens de groei. Een verhoging van de 
+troebelheid beïnvloedt de primaire productie door de beïnvloeding van het 
+lichtklimaat. Het is belangrijk om de primaire productie te kennen, omdat dit 
+proces de basis vormt van het mariene voedselweb en daarmee de draagkracht 
+van het systeem bepaalt. 
+De ambitie van Rijk en regio rond het Eems-estuarium is dat de Eems-Dollard in 
+2050 ecologisch gezond functioneert. Onderdeel daarvan is het kennen en het 
+monitoren van de in tijd en ruimte zeer sterk variërende troebelheid en primaire 
+productie op basis van satellietbeelden. RWS heeft de intentie om basisvariabelen 
+zoals troebelheid, benthische en pelagische algenconcentraties gebiedsdekkend 
+en jaarrond te monitoren en jaarlijks in een vervolgstap de primaire productie in 
+het Eems-estuarium te berekenen aan de hand van deze basisvariabelen. De 
+primaire productie zal worden berekend in relevante tijdstappen, in verschillende 
+gebiedsdelen en gesommeerd naar jaarproductie (kgC/jaar).  
+Achtergrond 
+In het Waddengebied is het telkens weer de opgave om te komen tot een goede 
+afweging van ecologische en socio-economische belangen ten behoeve van 
+duurzame en rechtvaardige plannen voor alle betrokkenen. Er wordt veel 
+geïnvesteerd in projecten die functies van het gebied moeten versterken of 
+waarborgen. Ook zijn er meetprogramma’s om de effecten van deze projecten te 
+kunnen monitoren en, waar nodig, op lokaal of regionaal niveau bij te sturen. De 
+huidige metingen geven geen inzicht in de primaire productie, bijvoorbeeld omdat 
+ze vooral gericht zijn op toestandvariabelen (zoals concentraties en aantallen), en 
+niet gebiedsdekkend zijn. In het Eems-Dollard gebied geldt dat de dynamiek in 
+ruimte en tijd te groot is om kosteneffectief te monitoren met conventionele 
+meettechnieken. Gezocht wordt naar een combinatie van (nieuwe) methodieken 
+die met voldoende nauwkeurigheid de variabelen en de processen op de 
+gevraagde tijd- en ruimteschaal kunnen volgen.  
+Probleemstelling 
+De huidige monitoring heeft een tweewekelijkse frequentie op enkele puntlocaties 
+in het estuarium. Dit is ontoereikend om voldoende gebiedsdekkende informatie 
+over waterkwaliteit en primaire productie te verkrijgen. Omdat een sterke 
+uitbreiding van het grondmeetnetwerk onbetaalbaar is, is RWS op zoek naar 
+nieuwe (kosten)efficiëntere meetstrategieën. Daarbij kunnen satellietdata 
+mogelijk een oplossing bieden. De inzet van dergelijke nieuwe technieken lijkt 
+veelbelovend, maar is zeker nog niet gebruiksklaar. Met name door de 
+complexiteit in ondiep troebel water met getij, door de grote variatie in ruimte en 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+tijd en de interacties met bodemreflecties, ligt voor dit gebied een grote uitdaging 
+bij het bepalen van de basisvariabelen in het algemeen en de primaire productie 
+in het bijzonder. 
+Vraagstelling 
+In deze oproep wordt gevraagd om het leveren van een basisset aan 
+dataproducten vervaardigd uit satellietdata, die zelfstandig van belang zijn voor 
+het waterbeheer en nodig zijn voor het berekenen van de primaire productie (PP) 
+van pelagische en benthische microalgen in het Eems-Dollard estuarium. Deze 
+basisset moet, bij voorkeur over een geheel jaar, informatie over de volgende 
+parameters bevatten. 
+Voor berekening van de primaire productie van het fytoplankton: 
+1. De temperatuur van het water (in °C); 
+2. De instraling (PAR, in µmol photons m-2 uur-1 en µmol photons m-2 dag-1); 
+3. De concentratie van zwevende stof (“Suspended Particulate Matter”) in de 
+bovenste laag van de waterkolom (in g SPM m-3); 
+4. De concentratie van gekleurde opgeloste organische stoffen (“Coloured 
+Dissolved Organic Matter”) in het water (in mg CDOM m-3); 
+5. De lichtverzwakkingscoëfficiënt (kd,) van het water (in m-1); 
+6. De concentratie van de biomassa van de pelagische microalgen van het 
+fytoplankton (in mg chlorofyl-a m-3). 
+Voor berekening van de primaire productie van het microfytobenthos: 
+7. De temperatuur van het oppervlak van drooggevallen wadplaten (in °C); 
+8. De instraling (PAR, in µmol photons m-2 uur-1 en µmol photons m-2 dag-1), 
+is hetzelfde als voor het fytoplankton; 
+9. Het sedimenttype van drooggevallen wadplaten, bij voorkeur als mediane 
+korrelgrootte (in µm) en slibgehalte (als % van deeltjes < 63 µm); 
+10. De dichtheid van de biomassa van de benthische microalgen (in mg 
+chlorofyl-a m-2) en de waarde van de proxy (NDVI of andere index) 
+waaruit het chlorofyl-a van de algen wordt berekend.  
+Hierbij zijn de parameters m.b.t. temperatuur (#1, #7), SPM (#3), CDOM (#4) 
+en biomassa (#6, #10) essentieel, en die m.b.t. instraling (#2, #8), 
+lichtverzwakking (#5) en sedimenttype (#9) optioneel. 
+Bijzondere aandachtpunten hierbij zijn: 
+ De kwantificering van de nauwkeurigheid van de berekende 
+basisvariabelen, ondermeer beïnvloed door de atmosfeer, de aanwezigheid 
+van CDOM in het water, het watergehalte op de wadplaten, het getij, en 
+bodemreflectie bij lage waterstanden e/o helder water. Hiervoor wordt per 
+onderdeel een duidelijke beschrijving van de specifieke aanpak gevraagd 
+rekening houdend met de genoemde invloeden, een onderbouwing van 
+gekozen methode, en een kwantificering van de gevolgen van deze 
+aanpak voor de nauwkeurigheid van de dataproducten; 
+ Een zo hoog mogelijke resolutie in de ruimte (waardoor de patronen van 
+geulen en platen goed kunnen worden meegenomen) èn in de tijd 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+(waardoor de seizoensdynamiek in waterkwaliteit en primaire productie 
+goed kan worden vastgelegd, maar ook tijdens extreme 
+milieuomstandigheden zoals stormvloeden); 
+ De pilot dient zoveel mogelijk dataproducten over een heel jaar te 
+genereren. Liefst wordt een zo recent mogelijk jaar gekozen (bijvoorbeeld 
+2015 of 2016), waarbij rekening gehouden dient te worden met de 
+beschikbaarheid van hoge kwaliteit satellietdata en velddata. 
+ De snelheid waarmee actuele en kwaliteitgecontroleerde dataproducten 
+kunnen worden aangeleverd om eventueel direct ingrijpen vanuit beheer 
+mogelijk te maken. 
+ Bij de actualiteit, frequentie van update, kan gedacht worden aan 
+seizoensgebonden informatie en (indien mogelijk) aan maandelijkse 
+updates en “near real time” informatie. Ontwikkel een dienst / product 
+waarbij het mogelijk is middels het gebruik van satellietdata de hierboven 
+genoemde actuele informatie te leveren, en geef aan op welke wijze de 
+dataproducten aan RWS zullen worden aangeleverd.  
+ 
+Het perspectief van RWS is om de dataproducten en de daarop gebaseerde 
+berekeningen van primaire productie in een later stadium op te schalen naar het 
+Waddengebied en andere zoutwatergebieden in NL, als onderdeel van de 
+reguliere MWTL monitoring van deze gebieden. 
+ 
+2. Beschikbaar budget 
+Het maximum budget in fase 1 bedraagt € 30.000,- (incl. btw) per 
+haalbaarheidsonderzoek. Er worden in fase 1 maximaal 3 
+haalbaarheidsonderzoeken gecontracteerd.  
+Het maximum budget voor fase 2 bedraagt € 70.000,- (incl. btw) per project. Er 
+worden in fase 2 maximaal 2 projecten gecontracteerd.  
+In totaal wordt een budget van € 230.000,- beschikbaar gesteld door RWS en het 
+ministerie van EZ samen voor fase 1 en fase 2 van deze SBIR. 
+ 
+3. Beoordeling 
+De beoordeling van de haalbaarheidsonderzoeken en projecten vindt plaats door 
+deskundigen van Rijkswaterstaat, en het Netherlands Space Office. Daarnaast 
+zullen externe experts van het Koninklijk Nederlands Instituut voor Onderzoek 
+der Zee (NIOZ) en het Koninklijk Nederlands Meteorologisch Instituut (KNMI) 
+betrokken zijn. Deze partijen zijn daarmee uitgesloten om zelf een 
+projectvoorstel in te dienen voor deze oproep dan wel deelname in aanbiedende 
+consortia. In de SBIR handleiding (versie januari 2017, 
+https://mijn.rvo.nl/documents/20448/80899/SBIR-handleiding+2017/198eeefb-
+9cf3-4bcf-b0e9-69c1e969aef0 ) vindt u de voorwaarden en beoordelingscriteria 
+die voor SBIR-projecten in het algemeen gelden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+Bij de beoordeling is per criterium maximaal het volgende aantal punten (100) 
+toe te kennen: 
+1. Impact: het voldoen aan de vraag van de klant, ondermeer afhangend van 
+de (vereiste en optionele) parameters  waarvoor een oplossing geboden 
+wordt, de nauwkeurigheid ervan en in welke mate deze een hoge resolutie 
+in ruimte en tijd hebben: 50 punten 
+2. Technologische haalbaarheid: 30 punten 
+3. Economisch perspectief van het product: 20 punten 
+Voor deze SBIR zijn voor het eerste criterium de volgende aspecten van belang: 
+a. Kwaliteit van de te leveren producten; 
+b. Kwaliteit van de onderbouwing van de op te leveren producten; 
+c. Mate waarin de innovatie bijdraagt aan het oplossen van de vraagstelling: 
+hoe groot is de ‘doorbraak’ en hoeveel nieuwe functionaliteit ontstaat er 
+voor RWS? 
+d. Bruikbaarheid;  de mate waarin de innovatie en technologie geschikt is 
+voor het einddoel (monitoring van de basisvariabelen met 
+satellietbeelden). En hoe personeel- en kennisintensief is het 
+product/dienst voor RWS? 
+e. Hoeveel waarde levert het voorstel voor het gevraagde budget (‘value for 
+money’)? 
+ 
+4. Informatiebijeenkomst 
+Op 10 mei 2017 vindt bij RWS te Lelystad (Zuiderwagenplein 2, 8224 AD 
+Lelystad) een informatiemiddag plaats. U kunt zich hiervoor aanmelden bij 
+info@spaceoffice.nl met vermelding van uw persoons- en firmagegevens. 
+Het programma van de informatiemiddag ziet er als volgt uit: 
+• 13:30-14:00 uur: Inloop met koffie en thee 
+• 14:00-16:00 uur: Presentaties en gelegenheid tot het stellen van vragen. 
+• 16:00-16:45 uur: Napraten met een drankje. 
+ 
+5. Uitvoering 
+Het Netherlands Space Office (NSO) voert samen met RWS deze SBIR uit. NSO 
+als dé Nederlandse ruimtevaartorganisatie ontwikkelt in opdracht van en in 
+overleg met de Nederlandse overheid het Nederlandse ruimtevaartprogramma en 
+voert dat uit. Een belangrijke randvoorwaarde voor het slagen van het 
+Nederlandse ruimtevaartprogramma is een goede vraagsturing vanuit de 
+overheid, de wetenschap en/of de markt, bijvoorbeeld via de topsectoren. Dit is 
+essentieel voor het behoud van draagvlak voor investeringen in de ruimtevaart. 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+6. Informatie en contact 
+Alle informatie over deze tender vindt u op de volgende website: 
+http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir 
+Op https://mijn.rvo.nl/aanbesteden-van-innovaties-sbir  vindt u de SBIR 
+handleiding (versie januari 2017) en de formats voor het indienen van een SBIR 
+offerte. 
+Heeft u vragen met betrekking tot de SBIR “Satellietdatagebruik voor monitoring 
+van waterkwaliteitsvariabelen t.b.v. het berekenen van de primaire productie in 
+het Eems-estuarium” dan kunt u deze stellen aan het emailadres: 
+info@spaceoffice.nl.  
+Het NSO secretariaat is telefonisch bereikbaar op nummer 088-6024500. 
+ 
+7. Indienen van de offerte 
+In de SBIR handleiding (versie januari 2017, paragraaf 2.1) staat beschreven 
+waar een volledige offerte uit bestaat. Het elektronisch exemplaar moet vóór 
+15:00 uur per mail zijn ontvangen door NSO op info@spaceoffice.nl op de 
+sluitingsdatum 24 mei 2017. 
+ 
+8. Publiciteit en intellectueel eigendom 
+In de SBIR handleiding (versie januari 2017) staan de afspraken ten aanzien van 
+publiciteit en intellectuele eigendom beschreven in paragraaf 4.2 en 7.2. 
+9. Tijdpad 
+ 
+Informatiebijeenkomst 10 mei 2017 
+Sluiting tender, indienen fase 1 
+offertes 
+24 mei 2017, 15:00 uur 
+Bekendmaking uitslag 8 juni 2017 
+Opdrachtverstrekking fase 1 15 juni 2017 
+Inleveren rapport fase 1 en fase 2 
+offertes 
+oktober 2017 
+Bekendmaking uitslag fase 2 oktober 2017 
+Opdrachtverstrekking fase 2 oktober 2017 
+Deadline eindrapport fase 2 mei 2018 
+ 
+De Rijkswaterstaat (RWS) en het Netherlands Space Office (NSO) behouden zich 
+het recht om bijgevoegd tijdspad indien nodig aan te passen. Dit zal tijdig aan 
+(potentiële)opdrachtnemers worden gecommuniceerd.  
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+Bijlage 1: Achtergrond 
+Langjarige metingen Waddenzee 
+Het Waddengebied geldt als één van de belangrijkste getijdengebieden van de 
+wereld. In 2009 kreeg de Waddenzee een plek op de UNESCO Werelderfgoedlijst. 
+De natuurwaarden van het gebied genieten speciale institutionele en juridische 
+bescherming. De Waddenregio kent tegelijkertijd een intensief en gevarieerd 
+gebruik door bewoners en bezoekers. Bestuur en beheer van de Wadden wordt 
+voor een belangrijk deel bepaald door de vraag waar menselijk medegebruik 
+(zoals visserij, recreatie, delfstoffenwinning en scheepvaart) strijdig is met het 
+behoud van de Wadden als natuurgebied. De opgave is telkens weer te komen tot 
+een goede afweging van ecologische en socio-economische belangen ten behoeve 
+van duurzame en rechtvaardige plannen voor alle betrokkenen.  
+Het behoud van dit unieke en kwetsbare natuurgebied is daarom geen 
+vanzelfsprekende zaak. Tal van bedreigingen liggen op de loer. Voorbeelden 
+hiervan zijn de mogelijke “verdrinking” van de wadplaten en kwelders als gevolg 
+van de stijging van de zeespiegel, de gevolgen van de huidige onbalans tussen 
+invoer van stikstof, fosfor en silicaat voor de kwaliteit van de microalgen als 
+voedsel voor zooplankton, macrozoobenthos (waaronder schelpdieren), de 
+mogelijk toegenomen vertroebeling van het water en de verdere mondiale 
+homogenisering van de Waddenzee flora en fauna als gevolg van import en het 
+binnendringen van exoten. Soms is duidelijk wat de grote bedreigingen zijn en 
+waar ze vandaan komen, maar soms is niet duidelijk wat de oorzaak is van een 
+ontwikkeling (zoals het verlies van de functie van de Waddenzee als kraamkamer 
+voor platvissen) of wat de gevolgen zijn van bepaalde ontwikkelingen (zoals de 
+enkelvoudige en cumulatieve effecten van menselijke activiteiten waaronder 
+delfstofwinning, visserij en baggerwerkzaamheden). 
+Om de bedreigingen het hoofd te bieden en het gebied haar waarde te laten 
+behouden, wordt veel geïnvesteerd in projecten die functies van het gebied 
+moeten versterken of waarborgen. Om de effecten van deze projecten te 
+monitoren worden vaak afzonderlijke meetprogramma’s opgesteld en uitgevoerd. 
+De data die deze programma’s opleveren geven de mogelijkheid om de vinger 
+aan de pols te houden en, waar nodig, op lokaal of regionaal niveau bij te sturen. 
+Het gevolg hiervan is een relatief grote meetinspanning rond het natuurlijk 
+systeem. Gegevens  worden verzameld door een groot aantal organisaties 
+waaronder overheidsinstanties, onderzoeksinstellingen, beheerinstanties, 
+bedrijven en vrijwilligersorganisaties.  
+Samengevat worden langjarige metingen om de volgende redenen uitgevoerd: 
+ In het kader van EU, trilaterale en internationale afspraken, zoals de 
+KaderRichtlijn Water (KRW), de KaderRichtlijn Marien (KRM), Natura2000 
+(Vogel- en Habitatrichtlijn), Trilateral Monitoring and Assessment 
+Programme (TMAP) en de Oslo-Paris Convention (OSPAR); 
+ Effectief beheer & beleidsondersteuning,  vaak nationaal of regionaal van 
+aard, zoals het Monitoring Waterstaatkundige Toestand des Lands 
+(MWTL); Deltares ondersteunt RWS m.b.t. kustmorfologie en slib; IMARES 
+meet jaarlijks bestanden van schelpdieren, vissen en garnalen, en 
+toxische algen; 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ Effecten studies, voor het in kaart brengen van gevolgen van potentieel 
+schadelijke activiteiten, bijvoorbeeld in opdracht van GroningenSeaPorts 
+(GSP) in de Eems-Dollard estuarium en de Nederlandse Aardolie 
+Maatschappij (NAM) in de oostelijke Waddenzee, of van 
+herstelprogramma’s, bijvoorbeeld zoals nu besproken in het kader van de 
+VisMigratieRivier (VMR) als onderdeel van De Nieuwe Afsluitdijk (DNA). 
+Deze effectstudies zijn niet altijd langjarig; 
+ Ecosysteembegrip, bijvoorbeeld voedselaanbod voor wadvogels en 
+sturende factoren voor de groei van microalgen, uitgevoerd door 
+universiteiten en onderzoeksinstituten zoals de Rijksuniversiteit Groningen 
+en het NIOZ. 
+Dergelijke meetinspanningen hebben ons inmiddels een schat aan informatie 
+opgeleverd over een aantal ecologische ontwikkelingen in het Waddengebied. 
+Men zou verwachten dat met al deze gegevens de bestuurders en beheerders zich 
+een goed beeld kunnen vormen over het ecologisch functioneren van de 
+Waddenzee en dat er voldoende indicatoren en parameters bekend zijn om de 
+bedreigingen het hoofd te bieden. Dit is echter niet het geval.  
+De resultaten van de verschillende meetinspanningen in het Waddengebied zijn 
+onderling niet altijd of moeilijk vergelijkbaar. Dit komt omdat de metingen vaak 
+in een beperkt aantal geografische deelgebieden zijn uitgevoerd en het daardoor 
+niet goed mogelijk is om een totale schatting voor het hele waddengebied te 
+geven. Ook zijn metingen vaak op verschillende tijdstippen uitgevoerd 
+(verschillende jaren, seizoenen of momenten in het tij). Het kan ook zijn dat de 
+temporele resolutie van bepaalde metingen (b.v. hoogte- en dieptebepalingen, 
+sediment korrelgrootte) te beperkt is om veranderingen voldoende duidelijk te 
+volgen of om de relevante dynamiek van de processen goed te kunnen 
+beschrijven. Daarnaast zijn de huidige metingen vooral gericht op toestand 
+variabelen (zoals concentraties en aantallen) en niet op belangrijke ecologische 
+processen als primaire productie. 
+Waar het monitoring ten behoeve van ecosysteembegrip en adaptief beleid 
+betreft, zal gezocht moeten worden naar meest efficiënte monitoring strategie 
+(“de hoogste informatiedichtheid voor de laagste kosten”) waar processnelh eden 
+een expliciet onderdeel zijn. Voor veel processen geldt dat de dynamiek in ruimte 
+en tijd te groot is om kosteneffectief te kunnen beschrijven met behulp van 
+conventionele meettechnieken. Er wordt daarom gezocht naar een combinatie 
+van nieuwe methodieken die met voldoende nauwkeurigheid de processen op de 
+gevraagde tijd- en ruimteschaal (nl. gebiedsdekkend en tijdgeïntegreerd) kunnen 
+volgen.  
+Denk hierbij ondermeer aan het gebruik van satellietbeelden en andere EO 
+(“Earth Observation”) technieken voor de kartering van bodemtypen van de 
+wadplaten. Bij inzet van deze nieuwe technieken blijven de tijdrovende 
+handmatige metingen nodig voor ijking, maar kan het aantal metingen 
+gereduceerd worden terwijl de informatiestroom toeneemt. Ook al zijn de eerste 
+resultaten veelbelovend, de technieken zijn nog niet geheel gebruiksklaar. De 
+uitdaging is om deze methodieken zo vroeg mogelijk in te zetten voor monitoring 
+en in gebruik nog verder te ontwikkelen. 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+Primaire productie 
+Primaire productie, in dit geval alleen primaire productie van microalgen, is het 
+proces waarin algen d.m.v. fotosynthese CO2 fixeren en de gefixeerde CO2 
+omzetten in nieuwe algen-biomassa. Dit proces is belangrijk omdat het de basis 
+vormt van het mariene voedselweb, en aldus de grenzen stelt aan de draagkracht 
+van het systeem. De primaire productie in de Waddenzee zal vooral bepaald 
+worden door de volgende factoren: de beschikbare hoeveelheid licht in de 
+waterkolom, de beschikbaarheid van nutriënten en de begrazing en eventuele 
+sterfte door virusinfecties. Daarnaast speelt de uitwisseling van algen in een 
+bepaald gebied met andere gebieden een rol in de opbouw van lokale 
+algenpopulaties. 
+In de Waddenzee wordt onderscheid gemaakt in twee groepen microalgen: het 
+fytoplankton (de algen in de waterkolom) en het microfytobenthos (de microalgen 
+die leven op de wadplaten en slikken).  Net als voor fytoplankton zijn ook licht, 
+nutriënten en begrazing belangrijke sturende factoren voor het microfytobenthos 
+(MPB). Echter, voor MPB spelen ook het type sediment, de droogvalduur en 
+hydrodynamische energie een rol. Intergetijde-sediment, bestaande uit fijn zand 
+en slib, zal i.h.a. een hogere MPB biomassa hebben dan grover zand. Het grovere 
+zand bevat meestal een lagere MPB biomassa, en bevat een groter aandeel aan 
+algensoorten die zich hechten aan de zandkorrels.  
+Zowel het fytoplankton als het microfytobenthos (MPB) zijn een belangrijke 
+voedingsbron voor de hogere trofische niveaus, waarbij het belangrijk is te 
+realiseren dat iedere groep zijn eigen deel van het voedselweb subsidieert. Het 
+microfytobenthos is daarnaast een “ecosystem engineer”: doordat MPB 
+extracellulaire polymeren (EPS) uitscheidt verhoogt het de cohesie van het 
+sediment, en dit gaat erosie tegen. Het gevolg is dat het sediment wordt 
+vastgelegd, vooral tijdens het groeiseizoen, en dat als gevolg hiervan de 
+waterkolom helderder wordt. Zo beïnvloedt het MPB zijn eigen lichtklimaat 
+positief. 
+Eems-Dollard estuarium 
+Het beheer van het Eems-Dollard estuarium valt zowel onder de Duitse als de 
+Nederlandse regering, die beiden streven naar een goede waterkwaliteit en een 
+goed leefgebied voor plant en dier, met ruimte voor menselijk medegebruik. Dit 
+beheer is uitgewerkt in een aantal internationale, Europese, trilaterale en 
+nationale richtlijnen, waaronder Natura2000 en de kaderrichtlijn Water. In 
+november 2016 is het Eems-Dollard estuarium aangewezen als Natura-2000 
+gebied. Onderdeel van deze richtlijnen vormt een vanuit de overheid opgezet 
+monitoringnetwerk, waarbij onder andere gevolgd kan worden in hoeverre de 
+gewenste ecologische en chemische toestand van de Waddenzee gerealiseerd is. 
+De afgelopen periode is er door regio en Rijk gewerkt aan het opstellen van het 
+meerjarig adaptief programma Eems-Dollard 2050 (ED2050). Het doel van 
+ED2050 is om te komen tot een samenhangende inzet van maatregelen en 
+onderzoek ter verbetering van de kwaliteit van de Eems-Dollard estuarium, 
+waaronder een reductie van hoge slibgehalten in het water en een toename in de 
+pelagische primaire productie.  Vanwege de onzekerheden en de nieuwe kennis 
+en inzichten die zeker beschikbaar komen, werkt ED2050 met uitvoeringsfasen 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+voor de duur van vijf jaar. Aan het eind van een vijfjarige periode vindt een 
+evaluatie plaats die de basis voor de volgende uitvoeringsfase vormt. Zo is het 
+mogelijk de programmering steeds optimaal af te stemmen op de kennis, 
+inzichten en nieuwe ontwikkelingen. 
+Voor toekomstige opschaling van de huidige monitoring o.b.v. puntmetingen 
+m.b.t. waterkwaliteit in het Eems-Dollard estuarium naar een ruimtelijk beeld kan 
+mogelijk gebruik gemaakt worden van verschillende satellietinstrumentaria, 
+waaronder de Europese Sentinel satellieten. Gestreefd wordt naar een zo hoog 
+mogelijke resolutie van de informatie in ruimte en tijd. Met dergelijke 
+instrumenten zouden (bij onbewolkt weer) waterkwaliteitsparameters zoals 
+algenbiomassa, zwevende stof, doorzicht en temperatuur kunnen worden 
+gemeten, op voorwaarde dat de atmosferische correctie goed genoeg is om deze 
+basisvariabelen uit de beelden te verkrijgen. Aan de hand van zogenaamde BPI 
+modellen kan in een vervolgstap de primaire productie van het fytoplankton en 
+microfytobenthos worden geschat. 
+Basis data vs berekening primaire productie 
+Naast het gebruik van de informatie over seizoensvariatie (en extreme waarden) 
+in waterkwaliteit en de primaire productie voor het lokale waterkwaliteitsbeheer 
+van het Eems-Dollard estuarium, zal deze informatie ook gebruikt gaan worden 
+om mogelijke veranderingen/trends in gebiedsdekkende schattingen van de 
+totale primaire productie per jaar te detecteren. Hierbij zal de variatie in primaire 
+productie van zowel het microfytobenthos als het fytoplankton in ruimte en tijd 
+worden geïntegreerd tot een schatting van de jaarproductie (in kg C/jaar) van het 
+Eems-Dollard estuarium. 
+Voor de berekening van de pelagische en bentische primaire productie zal dan 
+(buiten deze opdracht) de procedure gevolgd worden beschreven in het rapport 
+“Primaire Productie in de Waddenzee: meten en berekenen “(Kromkamp & 
+Philippart , 2015). Voor deze berekeningen zijn een aantal input variabelen nodig 
+die (mogelijk) door middel van satellietdata, bijvoorbeeld uit het 
+satellietdataportaal en het Copernicus Sentinel Programma, vervaardigd kunnen 
+worden. Deze oproep richt zich dus niet op het ontwikkelen en toepassen van een 
+rekeninstrument voor primaire productie, maar geheel op het leveren van 
+basisdata die voor deze berekening nodig zijn (zie “vraagstelling”).  
+Voor een effectief en efficiënt beheer van waterkwaliteit en productie van het 
+Eems-Dollard estuarium is het kunnen beschikken over juiste en actuele 
+informatie noodzakelijk. Een universele basisset van relevante data voor dit 
+gebied zou een enorme aanvulling zijn, en de nieuw te ontwikkelen technieken 
+waarschijnlijk ook toepasbaar voor het beheer van andere grote 
+zoutwatergebieden in Nederland.
+
+=== Document: handleiding sbir 2015 ===
+SBIR handleiding voor ondernemers 
+ 
+Deze handleiding is opgesteld door het SBIR programmabureau van de Rijksdienst voor Ondernemend 
+Nederland (RVO.nl), te bereiken op sbir@rvo.nl. Publicatiedatum: juli 2015. 
+ 
+Inleiding  
+Het SBIR1 programma daagt ondernemers uit om nieuwe producten te ontwikkelen en op de markt te 
+brengen. SBIR gebruikt de creativiteit van ondernemers om maatschappelijke problemen op te lossen. 
+SBIR is een competitie. De ondernemingen met de beste offertes krijgen een opdracht voor een 
+haalbaarheidsonderzoek. De ondernemingen met de meest kansrijke haalbaarheidsonderzoeken krijgen 
+opdracht hun product verder te ontwikkelen. 
+ 
+SBIR is een open competitie voor iedereen die innovatieve (technologische) oplossingen voor 
+maatschappelijke vraagstukken kan ontwikkelen. Ondernemingen zijn bijzonder kosteneffectief als het 
+gaat om onderzoek en ontwikkeling en zijn goed in staat resultaten om te zetten in nieuwe producten, 
+processen of diensten. SBIR richt zich daarbij op ideeën die vaak al langer bestaan bij ondernemingen. 
+ 
+Het SBIR programma is een verzameling uitdagingen. Iedere uitdaging leidt tot opdrachten voor onderzoek 
+en ontwikkeling2. Op steeds nieuwe onderwerpen dagen wij ondernemers uit. Alleen in de beperkte periode 
+dat een uitdaging open staat, kunt u daarvoor een offerte aanbieden. RVO.nl voert SBIR uit in opdracht 
+van verschillende ministeries. 
+ 
+SBIR bestaat uit drie fasen. Dit verkleint de risico’s voor de overheid: alleen voor de beste projecten wordt 
+een onderzoeks- en ontwikkelingstraject betaald. De drie fasen zijn: 
+1. Haalbaarheidsonderzoek 
+2. Toegepast onderzoek en ontwikkeling 
+3. Marktrijp maken 
+Voor fase 1 en 2 geldt: geselecteerde offertes krijgen een opdracht om het voorgestelde onderzoek uit te 
+voeren. De hoogte van de vergoeding is het offertebedrag. Dit moet lager zijn dan het maximumbedrag en 
+marktconform. Fase 3 wordt niet door de overheid gefinancierd. 
+ 
+Voor fase 1 en voor fase 2 beoordeelt een commissie van experts de offertes op: 
+ Impact 
+ Technologische haalbaarheid 
+ Economisch perspectief 
+ Prijs van de offerte  
+                                                
+ 
+1 De afkorting SBIR komt van het Amerikaanse Small Business Innovation Research program. Het Amerikaanse SBIR 
+programma is alleen toegankelijk voor kleine bedrijven. Het Nederlandse SBIR programma is toegesneden op kleinere 
+ondernemingen, maar staat open voor iedereen, ook grote ondernemingen. 
+2 De SBIR behoort tot de zogeheten ‘precommerciële’ inkoop, de aanbestedingswet is hierop niet van toepassing. Wel 
+geldt ook voor SBIR dat de inkoop open, eerlijk en transparant is. 
+ 
+ 
+ 
+ 2 van 15 
+ 
+Inhoudsopgave 
+SBIR handleiding voor ondernemers 1 
+Inhoudsopgave 2 
+1. De oproep 3 
+1.1 De SBIR documenten 3 
+1.2 Vragen 3 
+2. Offerte SBIR fase 1 4 
+2.1 Onderdelen van de offerte 4 
+2.2 Eisen aan offerte fase 1 4 
+2.3 Partijen 5 
+2.4 Prijs en duur van de opdracht 5 
+3. Beoordelingsproces SBIR fase 1 6 
+3.1 Beoordelingscommissie 6 
+3.2 De voorselectie 6 
+3.3 De beoordelingscriteria 6 
+3.4 Drempelwaarde 7 
+3.5 Opdrachtverlening 7 
+3.6 Vertrouwelijkheid 7 
+4. SBIR fase 1: Het haalbaarheidsonderzoek 8 
+4.1 De opdrachtverlening 8 
+4.2 Het intellectueel eigendom 8 
+4.3 Het haalbaarheidsonderzoek 8 
+4.4 Resultaat fase 1: eindrapport 8 
+4.5 Wijzigingen tijdens fase 1 8 
+5. Offerte fase 2 9 
+5.1 Partijen 9 
+5.2 Onderdelen offerte fase 2 9 
+5.3 Prijs en duur van de opdracht 9 
+5.4 Eisen offerte fase 2 9 
+6. Beoordelingsproces SBIR fase 2 10 
+7. SBIR Fase 2: Het onderzoek- en ontwikkelingstraject 11 
+7.1 De opdrachtverlening 11 
+7.2 Het intellectueel eigendom 11 
+7.3 Resultaten fase 2 11 
+7.4 Wijzigingen tijdens fase 2 11 
+8. SBIR Fase 3: marktrijp maken 12 
+9. Formulieren, modellen, formats & overeenkomsten 13 
+10. Nadere Juridische bepalingen 14 
+10.1 Eisen aan partijen 14 
+10.2 Onderzoek en ontwikkeling 14 
+ 
+ 
+ 
+ 
+ 3 van 15 
+ 
+1. De oproep 
+1.1 De SBIR documenten 
+Alle informatie over een specifieke SBIR staat in de documenten die bij een uitdaging horen: 
+ Het vraag en antwoord document. Hierin staan de geanonimiseerde vragen die zijn gesteld over de 
+SBIR-uitdaging en de antwoorden hierop.  
+ De oproep. Deze beschrijft de inhoudelijke kant van een specifieke SBIR-uitdaging en eventueel 
+aanpassingen van de procedure zoals beschreven in de handleiding. 
+ De handleiding. Het voorliggende document dat de procedurele kant van SBIR beschrijft. De in de 
+oproep genoemde versie van de handleiding is van toepassing. 
+ De formats, modellen, formulieren en de SBIR-overeenkomst waarnaar in deze handleiding 
+wordt verwezen.  
+ 
+Mochten er tegenstrijdigheden zitten tussen bovenstaande documenten dan gaat steeds het eerder 
+genoemde document voor het later genoemde document.  
+ 
+Deze documenten zijn te downloaden op www.sbir.nl3.  
+ 
+Deze documenten bevatten informatie over zowel fase 1 als over fase 2. Voor fase 2 verstuurt RVO.nl een 
+offerteverzoek waarin aanvullende voorwaarden kunnen staan.  
+ 
+1.2 Vragen 
+Algemene vragen over SBIR kunt u altijd stellen aan het SBIR programmabureau, bereikbaar op nummer: 
+088 602 5114. Als u vragen heeft over een specifieke SBIR uitdaging dan kunt u: 
+ Deze per e-mail stellen via het e-mail adres dat in de SBIR oproep staat vermeld. Dit kan tot 10 dagen 
+voor het sluiten van de uitdaging. 
+ Deze stellen tijdens de informatiebijeenkomst. Informatie over de informatiebijeenkomst vindt u in de 
+oproep of op www.sbir.nl. 
+ 
+Vragen en antwoorden worden (geanonimiseerd) opgenomen in het vraag en antwoord document . Het is 
+niet mogelijk om uw idee met RVO.nl te bespreken. Wel kunt u terugkoppeling krijgen of uw idee, naar 
+oordeel van RVO.nl, past binnen de SBIR uitdaging. Hiertoe kunt u een beknopte beschrijving (maximaal 1 
+pagina) per e-mail voorleggen. Deze vragen en antwoorden worden niet opgenomen in het vraag en 
+antwoord document . 
+ 
+Het is niet toegestaan om, in het kader van een SBIR- uitdaging, contact te zoeken met de leden van de 
+beoordelingscommissie. Doet u dat wel dan kunt u worden uitgesloten van de verdere competitie. 
+ 
+ 
+                                                
+ 
+3 Dit webadres verwijst door naar: http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir   
+ 
+ 
+ 
+ 4 van 15 
+ 
+2. Offerte SBIR fase 1 
+2.1 Onderdelen van de offerte 
+Een offerte moet een afgebakend project aanbieden. Het is niet mogelijk een deel van een project aan te 
+bieden. Een offerte bestaat uit: 
+1. een volledig ingevuld en ondertekend SBIR-formulier; 
+2. het projectplan in het Nederlands volgens Model Projectplan fase 1; 
+3. de begroting volgens Model begroting fase 1. 
+ 
+Wij verzoeken u uw offerte elektronisch aan te bieden op USB stick of per e-mail aan sbir@rvo.nl. Het 
+volledig ingevulde en ondertekende SBIR formulier, het projectplan, de samenvatting en de begroting 
+moeten daarbij als aparte PDF, Word of Excel bestanden worden aangeleverd.  
+ 
+2.2 Eisen aan offerte fase 1 
+Er wordt met nadruk op gewezen dat aanbieder zelf verantwoordelijk is voor de volledigheid van zijn 
+offerte. Een onvolledige offerte kan leiden tot uitsluiting van de procedure.  
+ 
+RVO.nl toetst of de offerte voldoet aan onderstaande eisen. In de volgende gevallen komen offertes niet in 
+aanmerking voor een opdracht: 
+ Offerte overschrijdt (op welke manier dan ook) het maximum bedrag zoals aangegeven in de oproep. 
+Daarbij wordt gekeken naar het bedrag inclusief btw.  
+ Offerte overschrijdt de maximale looptijd.  
+ Offerte is niet in het Nederlands opgesteld.  
+ Eén (of meerdere) van de volgende bijlagen ontbreekt: 
+o De begroting 
+o Het projectplan 
+ De begroting of het projectplan zijn niet in overeenstemming met de modellen die daarvoor op 
+www.sbir.nl zijn gepubliceerd. 
+ De offerte biedt, op welke manier dan ook, een onderdeel van een project aan in plaats van een 
+volledig project.  
+ 
+RVO.nl kan, maar is daartoe niet verplicht, kleine omissies (die niet inhoudelijk zijn en hierboven niet zijn 
+genoemd) laten herstellen na het sluitingstijdstip. In die gevallen geldt dat RVO.nl per e-mail verzoekt om 
+binnen 2 werkdagen de omissies recht te zetten. Wanneer omissies niet tijdig, of niet juist worden 
+rechtgezet, wordt het voorstel uitgesloten van de competitie en wordt het niet beoordeeld door de 
+beoordelingscommissie. 
+ 
+De volledige offerte moet voor het aangegeven tijdstip ontvangen zijn op de in de oproep aangegeven 
+locatie. Het risico van vertraging tijdens de (post)verzending of door onjuiste/onvolledige adressering is 
+geheel voor rekening van de aanbieder. Offertes die niet op tijd zijn ontvangen, zullen terzijde worden 
+gelegd. 
+ 
+ 
+ 
+ 
+ 5 van 15 
+ 
+2.3 Partijen 
+Het SBIR programma is gericht op ondernemingen met onderzoeks- en ontwikkelingscapaciteit. Ook 
+stichtingen, verenigingen, corporaties en startende ondernemers (privé personen) kunnen meedoen. Voor 
+startende ondernemers geldt dat de onderneming nog niet opgericht hoeft te zijn op het moment dat een 
+offerte wordt uitgebracht. Stichtingen, verenigingen en corporaties zullen extra moeten motiveren waarom 
+zij de aangewezen partij zijn om het voorgestelde product te ontwikkelen én succesvol op de markt te 
+brengen. Alle organisaties, ook die zonder winstoogmerk, moeten duidelijk aangeven hoe de route to 
+market er uit ziet (worden licenties uitgegeven, wordt te zijner tijd een onderneming opgericht?). 
+ 
+Een SBIR opdracht wordt gesloten met één partij. Deze ‘hoofdaannemer’ is verantwoordelijk voor het 
+resultaat en heeft uiteraard de leiding over het project. Deze partij kan samenwerken met 
+onderaannemers. RVO.nl adviseert u afspraken tussen hoofd- en onderaannemers goed schriftelijk vast te 
+leggen.  
+ 
+In hoofdstuk 10.1 zijn nadere eisen aan deelnemende partijen opgenomen. 
+ 
+2.4 Prijs en duur van de opdracht 
+Fase 1 duurt maximaal 6 maanden. Binnen die tijd moet het haalbaarheidsonderzoek zijn afgerond. 
+ 
+U doet een offerte voor een bepaald resultaat tegen een in de offerte aangegeven vaste prijs. Uw offerte 
+moet marktconform zijn. Dus een reële prijs voor wat u aanbiedt. Houdt er bij het bepalen van deze prijs 
+rekening mee dat het intellectueel eigendom (IE) bij u blijft. Er is geen overdracht aan de opdrachtgever. 
+Wel verwerft de opdrachtgever bepaalde rechten (zie paragraaf 4.2). Een marktconforme prijs houdt 
+rekening met het feit dat het IE bij u blijft en ligt daarom altijd lager dan de prijs van exclusief onderzoek 
+en ontwikkeling. Hiermee is bedoeld onderzoek en ontwikkeling dat u exclusief aan de overheid aanbiedt 
+waarbij alle resultaten die voortkomen uit het contract - inclusief alle IE - exclusief voor de overheid zijn. 
+In de begroting dient u het verschil toe te lichten. 
+ 
+U doet een offerte altijd inclusief btw (let op: de bedragen genoemd in de oproep zijn altijd inclusief btw). 
+ 
+U krijgt een vaste prijs voor de SBIR-opdracht en bent verantwoordelijk voor het resultaat. Bij de 
+uitvoering van de opdracht kunt u samenwerken met een kennisinstelling of met andere ondernemingen, 
+of delen van het werk uitbesteden.  
+ 
+De omvang van de opdracht bedraagt nooit meer dan in de SBIR oproep is aangegeven én nooit meer dan 
+het offertebedrag. 
+ 
+Een onderneming kan financiering of subsidie vragen voor onderzoek aanvullend op of naast een SBIR-
+project, daarbij geldt dat RVO.nl alleen de reële kosten vergoedt waar geen subsidie tegenover staat of 
+heeft gestaan. Wél kan een SBIR-opdracht worden gecombineerd met fiscale tegemoetkomingen en 
+vermindering(en) op de belastingafdracht zoals WBSO. 
+  
+ 
+ 
+ 
+ 6 van 15 
+ 
+3. Beoordelingsproces SBIR fase 1 
+3.1 Beoordelingscommissie 
+Een commissie van deskundigen adviseert over de rangschikking van de aangeboden projecten. RVO.nl 
+maakt de leden van de commissie bekend. RVO.nl besluit welke aanbieders een opdracht wordt gegund. 
+De commissie bepaalt haar eigen werkwijze binnen de kaders die door de beschreven procedure worden 
+gegeven. 
+3.2 De voorselectie 
+Wanneer er voor fase 1 veel offertes zijn ontvangen dan maakt de commissie eerst een voorselectie van 
+de, naar hun mening, kansrijke offertes. Voor het maken van de voorselectie kijkt de commissie uitsluitend 
+naar de managementsamenvatting van iedere offerte. 
+Wanneer een offerte niet kansrijk wordt geacht dan komt deze niet in aanmerking voor een opdracht. 
+3.3 De beoordelingscriteria 
+De oproep van een specifieke SBIR beschrijft de beoordelingscriteria waarop de beoordelingscommissie de 
+(kansrijke) offertes beoordeelt. De volgende vier criteria dienen hierbij als uitgangspunt: 
+ 
+1. Impact 
+a. Mate waarin de innovatie bijdraagt aan het oplossen van het maatschappelijk probleem. 
+b. Kwaliteit van de onderbouwing van de impact. 
+c. Mate van innovatie: Hoe groot is de ‘doorbraak’ en hoeveel nieuwe functionaliteit ontstaat voor 
+klanten? 
+d. Bruikbaarheid voor gebruikers. 
+e. Hoeveel waarde levert het voorstel voor het gevraagde budget (‘value for money’)?  
+ 
+2. Technologische haalbaarheid 
+a. Mate waarin het voorstel een technologisch interessante benadering voorstelt.  
+i. Is de benadering veelbelovend? 
+ii. Is de benadering haalbaar?  
+iii. Is de benadering inventief? 
+b. Is (Zijn) dit de juiste partij (partijen) om dit te ontwikkelen?  
+c. Kwaliteit van de technische onderbouwing:  
+i. Is duidelijk wat het ‘technologische startpunt’ is? 
+ii. Is duidelijk welk onderzoek men van plan is te doen? 
+iii. Zijn de voorgestelde middelen in overeenstemming met de voorgestelde aanpak?  
+iv. Is duidelijk hoe het voorgestelde onderzoek bijdraagt aan de doelstelling van het project? 
+v. Is het voorstel goed leesbaar door iemand die goed bekend is met de materie maar geen 
+technisch expert is. 
+ 
+3. Economisch perspectief 
+a. Geeft het voorstel vertrouwen dat de ondernemer een product en/of dienst ontwikkelt waar klanten 
+voor willen betalen? 
+b. In hoeverre is de ondernemer (of het consortium) de juiste partij om de innovatie op de markt te 
+brengen?  
+c. Kwaliteit van de onderbouwing: 
+i. De mate waarin duidelijk is hoe de onderneming geld gaat verdienen 
+ii. De mate waarin onderbouwd is dat de juiste partijen betrokken zijn 
+ 
+ 
+ 
+ 7 van 15 
+ 
+4. Prijs 
+Bij de minimumprijs of lager krijgt een voorstel het maximum aantal punten voor prijs. Bij de 
+maximumprijs krijgt een voorstel 0 punten voor prijs. Tussen minimum en maximum prijs 
+worden punten met een lineaire schaal toegekend. Wanneer de minimumprijs niet expliciet is benoemd, 
+dan is deze € 0,-. 
+ 
+Het gewicht (aantal punten) dat aan de verschillende criteria wordt toegekend, staat in de oproep. 
+ 
+De beoordeling leidt tot een rangorde van de offertes. De beoordelingscommissie adviseert de hoogst 
+gerangschikte offertes te honoreren met een opdracht binnen het beschikbare maximum in geld en/of in 
+aantal, zoals verwoord in de oproep. 
+ 
+3.4 Drempelwaarde 
+Om in aanmerking te komen voor een opdracht dient een offerte op ieder van de criteria, met uitzondering 
+van prijs, een voldoende te halen. Dat wil zeggen dat tenminste 60% van het maximum aantal punten per 
+criterium wordt behaald.  
+ 
+Wanneer de offertes, naar het oordeel van de commissie, volgens deze maatstaven van onvoldoende 
+kwaliteit zijn, adviseert de commissie het in de oproep gepubliceerde budget niet in zijn geheel te 
+besteden, danwel niet het totale aantal voorgenomen opdrachten te gunnen. 
+ 
+3.5 Opdrachtverlening 
+De beoordelingscommissie adviseert RVO.nl. Deze beslist over de opdrachtverlening namens het 
+verantwoordelijke ministerie. De uitslag staat na de beslissing van RVO.nl vast. RVO.nl maakt, in het 
+algemeen, binnen acht weken na het verstrijken van de deadline voor het aanbieden van offertes de 
+uitslag bekend aan de aanbieders.  
+ 
+Bent u ontevreden over de dienstverlening van Rijksdienst voor Ondernemend Nederland? Dan kunt u via 
+mijn.rvo.nl een klacht indienen. Een onderbouwde klacht is voor onze organisatie waardevol. Zo helpt u 
+ons om onze dienstverlening te verbeteren.  
+ 
+3.6 Vertrouwelijkheid 
+Projectplan, managementsamenvatting en begroting worden vertrouwelijk behandeld. RVO.nl publiceert de 
+volgende gegevens van de organisaties die een opdracht gegund krijgen: 
+ de naam van de organisatie 
+ de titel van het project 
+ een korte samenvatting (in overleg met opdrachtnemer) 
+ contactgegevens.  
+ 
+Alle commissieleden en alle medewerkers van RVO.nl die de offertes inzien, hebben een 
+geheimhoudingsplicht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 van 15 
+ 
+4. SBIR fase 1: Het haalbaarheidsonderzoek 
+4.1 De opdrachtverlening 
+De opdrachten worden gegeven door het ondertekenen van de SBIR-overeenkomst voor fase 1 (zie 
+hoofdstuk 9). Gangbaar is om bij aanvang een voorschot te geven van 80% van het offertebedrag. De 
+resterende 20% betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+4.2 Het intellectueel eigendom 
+De opdrachtnemer behoudt het intellectueel eigendom. Opdrachtgever verwerft de volgende rechten: 
+ Het recht de resultaten te gebruiken voor publicitaire doeleinden. 
+ Het recht op het gebruik van de kennis, zonder betaling van licentiekosten.  
+ Het recht de kennis openbaar te maken als hij dat nodig acht in het kader van het algemeen belang.  
+ De mogelijkheid om de onderneming te verplichten om onder redelijke voorwaarden licenties te 
+verstrekken aan derden. 
+ 
+4.3 Het haalbaarheidsonderzoek 
+In het haalbaarheidsonderzoek onderzoekt u die aspecten die voor de haalbaarheid van uw product van 
+belang zijn. Na het haalbaarheidsonderzoek is duidelijk: 
+ of realisatie van innovatie technisch haalbaar is,  
+ of ontwikkeling en productie haalbaar zijn,  
+ of er een marktvraag is en, zo ja, welke partijen nodig zijn om de innovatie te realiseren, 
+ wat de impact van uw project is op het maatschappelijk vraagstuk en 
+ wat de sociale en ecologische aspecten van uw project zijn. 
+ 
+Zaken die van te voren al duidelijk zijn, hoeft u uiteraard in het haalbaarheidsonderzoek niet te 
+onderzoeken. 
+4.4 Resultaat fase 1: eindrapport 
+Het resultaat van een haalbaarheidsonderzoek is een rapport waarin u de resultaten van het 
+haalbaarheidsonderzoek beschrijft en de conclusies die hieruit komen voor een vervolgtraject. Het rapport 
+is opgesteld volgens het format eindrapport haalbaarheidsonderzoek. Dat fase 1 resulteert in een rapport 
+betekent niet dat fase 1 uitsluitend een deskstudy is. Een eerste demonstratie kan bijvoorbeeld een goede 
+manier zijn om de haalbaarheid te onderzoeken.  
+4.5 Wijzigingen tijdens fase 1 
+In goed overleg kunnen, tijdens de uitvoer van fase 1, wijzigingen in het project plaatsvinden. Schriftelijke 
+instemming van RVO.nl is vereist voor iedere wijziging die consequenties heeft voor de resultaten van het 
+project.  
+ 
+Onderaannemers kunnen tijdens de uitvoer van de opdracht worden gewijzigd, mits het projectresultaat 
+hier niet onder lijdt. Wanneer een onderaannemer wordt vervangen moet, naar oordeel van RVO.nl, de 
+nieuwe onderaannemer dus minstens net zo goed zijn als de oude onderaannemer.  
+ 
+ 
+ 
+ 9 van 15 
+ 
+5. Offerte fase 2 
+5.1 Partijen 
+RVO.nl stuurt een offerteverzoek wanneer: 
+ fase 1 naar tevredenheid is afgerond en 
+ het haalbaarheidsonderzoek concludeert dat de innovatie haalbaar is. 
+ 
+Fase 2 staat alleen open voor partijen die daarvoor een offerteverzoek hebben ontvangen en voldoen aan 
+de voorwaarden die voor fase 1 aan partijen zijn gesteld. Eventuele aanvullende voorwaarden staan in het 
+offerteverzoek.  
+ 
+Een andere onderneming dan de hoofdaannemer van fase 1 kan hoofdaannemer voor fase 2 zijn als dit 
+logischerwijs voortkomt uit het haalbaarheidsonderzoek. Dit moet door de hoofdaannemer van fase 1 
+kenbaar worden gemaakt, uiterlijk op het moment dat de rapportage van fase 1 wordt opgeleverd. 
+ 
+5.2 Onderdelen offerte fase 2 
+Een offerte bestaat uit: 
+ Een volledig ingevuld en ondertekend SBIR-formulier. 
+ Projectplan in het Nederlands volgens model fase 2 
+ Businessplan volgens model businessplan (het businessplan mag in het Engels zijn gesteld). 
+ Begroting volgens model fase 2 
+ Zo mogelijk: Intentieverklaring(en) van een financier of eerste klant die bereid is te investeren in de 
+innovatie na fase 2.  
+ 
+Voor de offerte voor fase 2 gelden alle procedures en voorwaarden die gelden voor de offertes voor fase 1. 
+Alleen de bijlagen bij het SBIR formulier verschillen zoals hierboven aangegeven. Daarnaast geldt de 
+volgende aanvullende voorwaarde: De offerte moet zich uitsluitend richten op hoogwaardig onderzoek en 
+ontwikkeling. Activiteiten die hier niet binnen passen kunnen niet in de offerte worden opgevoerd. Welke 
+werkzaamheden onder het begrip onderzoek en ontwikkeling vallen is beschreven in hoofdstuk 10.2. 
+ 
+5.3 Prijs en duur van de opdracht  
+De bepalingen voor fase 1 (zie paragraaf 2.4) gelden ook voor fase 2. Het enige verschil is dat fase 2 
+maximaal 2 jaar duurt. 
+ 
+5.4 Eisen offerte fase 2 
+In aanvulling op de eisen genoemd onder ‘Offerte fase 1’ geldt dat RVO.nl een offerte voor fase 2 ook niet 
+aan de commissie voorlegt wanneer het businessplan ontbreekt. 
+ 
+ 
+ 
+ 
+ 1
+0 
+van 15 
+ 
+6. Beoordelingsproces SBIR fase 2 
+ 
+Het beoordelingsproces voor fase 2 verschilt alleen op de volgende punten van het beoordelingsproces 
+voor fase 1 (zie hoofdstuk 3): 
+ Voor fase 2 vindt geen voorselectie plaats. 
+ Doorgaans krijgen de aanbieders voor fase 2 de gelegenheid om hun offerte voor de commissie toe te 
+lichten. Voor fase 1 zal dit doorgaans niet het geval zijn. 
+ Voor de beoordeling van het economisch perspectief weegt expliciet mee wat de vooruitzichten voor 
+fase 3 zijn.  
+ 
+ 
+ 
+ 
+ 
+ 1
+1 
+van 15 
+ 
+7. SBIR Fase 2: Het onderzoek- en 
+ontwikkelingstraject 
+7.1 De opdrachtverlening 
+De opdrachten worden gegeven door het ondertekenen van de SBIR-overeenkomst voor fase 2 (zie 
+hoofdstuk 9). Gangbaar is om bij aanvang een voorschot te geven van 20% van het offertebedrag. 60% 
+betaald RVO.nl tijdens de uitvoer van fase 2. Deze betalingen zijn gekoppeld aan de voortgang van het 
+project. De resterende 20% betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+7.2 Het intellectueel eigendom 
+Ook voor fase 2 behoudt de opdrachtnemer het intellectueel eigendom. De rechten die de opdrachtgever 
+verwerft zijn gelijk aan de rechten voor fase 1 (zie paragraaf 4.2). 
+ 
+7.3 Resultaten fase 2 
+Aan het eind van SBIR fase 2 wordt opgeleverd: 
+ Een eindrapportage conform het format voor fase 2. 
+ Een demonstratie van een getest product, dienst of proces. 
+ 
+Op aanvraag wordt de volgende (achterliggende) documentatie beschikbaar gesteld om in te zien: 
+ een (technische) specificatie van het product of een beschrijving van de dienst; 
+ een testprotocol; 
+ een productieplan (plan voor de uitvoering van de dienst); 
+ technische documentatie, en 
+ het geactualiseerde businessplan. 
+ 
+7.4 Wijzigingen tijdens fase 2 
+De voorwaarden voor wijziging tijdens fase 2 zijn gelijk aan die van fase 1. 
+ 
+ 
+ 
+ 1
+2 
+van 15 
+ 
+8. SBIR Fase 3: marktrijp maken 
+Fase 3 wordt niet vanuit het SBIR programma gefinancierd. De onderneming informeert de opdrachtgever 
+over de vorderingen van de commercialisatie. Zo nodig kan het SBIR programma bureau ondersteuning 
+bieden. 
+ 
+ 
+ 
+ 
+ 
+ 1
+3 
+van 15 
+ 
+9. Formulieren, modellen, formats & overeenkomsten 
+Op www.sbir.nl kunt u de volgende documenten downloaden:  
+ 
+ SBIR formulier fase 1 en fase 2 
+ Model Projectplan fase 1 
+ Model begroting fase 1 
+ SBIR-overeenkomst fase 1  
+ Format eindrapport fase 1 
+ Model Projectplan fase 2 
+ Model Businessplan fase 2 
+ Model begroting fase 2 
+ SBIR-overeenkomst fase 2  
+ Format eindrapportage fase 2 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 1
+4 
+van 15 
+ 
+10. Nadere Juridische bepalingen 
+10.1 Eisen aan partijen 
+Iedereen die aan de volgende voorwaarden voldoet kan een offerte indienen voor fase 1 van een SBIR-
+uitdaging.  
+ 
+ Bij opdrachtverlening moet de opdrachtnemer ingeschreven zijn in het beroepsregister of in het 
+handelsregister volgens de voorschriften van de lidstaat (EU) waar hij is gevestigd.  
+ Aanbieder mag niet bij een onherroepelijk vonnis of arrest veroordeeld zijn op grond van artikel 140, 
+177, 177a, 178, 225, 226, 227, 227a, 227b of 232a, 328ter, tweede lid, 416, 417, 417bis, 420bis, 
+420ter of 420quater van het Wetboek van Strafrecht. 
+ Aanbieder verkeert niet in staat van faillissement of van liquidatie, de werkzaamheden zijn niet 
+gestaakt, verkeert niet in surseance van betaling of akkoord, of verkeert niet in een andere 
+vergelijkbare toestand ingevolge een soortgelijke procedure die voorkomt in de op hem van toepassing 
+zijnde wet- of regelgeving. 
+ Voor aanbieder is niet faillissement of liquidatie aangevraagd, of is geen procedure van surseance van 
+betaling of akkoord, dan wel een andere soortgelijke procedure die voorkomt in de op hem van 
+toepassing zijnde wet- of regelgeving, aanhangig gemaakt. 
+ Aanbieder is in staat de opdracht met zijn bestaande financiële middelen uit te voeren. Aanbieder zijn 
+geen claims of noodzakelijke investeringen bekend gedurende de periode van de uitvoering van de 
+overeenkomst die de organisatie in een zodanige positie kunnen brengen dat de financieel-
+economische draagkracht of de continuïteit van de organisatie in gevaar wordt gebracht. 
+ Aanbieder is niet bij een rechterlijke uitspraak die kracht van gewijsde heeft volgens de op hem van 
+toepassing zijnde wet- of regelgeving, veroordeeld geweest voor een delict dat de beroepsmoraliteit 
+(van de onderneming) in het gedrang brengt. 
+ Aanbieder heeft voldaan aan zijn verplichtingen ten aanzien van de betaling van de sociale 
+verzekeringsbijdragen overeenkomstig de wettelijke bepalingen van het land waar hij gevestigd is of in 
+het land van de aanbestedende dienst. 
+ Aanbieder heeft aan zijn verplichtingen voldaan ten aanzien van de betaling van zijn belastingen 
+overeenkomstig de wettelijke bepalingen van het land waar hij is gevestigd of van het land van de 
+aanbestedende dienst. 
+ 
+10.2 Onderzoek en ontwikkeling 
+De volgende werkzaamheden vallen onder het begrip “onderzoek en ontwikkeling”:  
+ Experimentele of theoretische activiteiten die worden verricht om nieuwe kennis te verwerven. 
+ Planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met 
+het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, 
+procedés of diensten aanmerkelijk te verbeteren.  
+ Het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technische, 
+zakelijke en andere relevante kennis en vaardigheden voor plannen, schema's of ontwerpen van 
+nieuwe, gewijzigde of verbeterde producten, procedés of diensten.  
+ 
+ 
+ 
+ 1
+5 
+van 15 
+ 
+ Het maken van ontwerpen, tekeningen, plannen en andere documentatie, mits zij niet voor 
+commercieel gebruik zijn bestemd. 
+ De ontwikkeling van commercieel bruikbare prototypes en proefprojecten, indien het prototype het 
+commerciële eindproduct is en de productie ervan te duur is om alleen voor demonstratie- en 
+validatiedoeleinden te worden gebruikt.  
+ De experimentele ontwikkeling en het testen van producten, procedés en diensten, voor zover deze 
+niet voor industriële toepassing of commerciële exploitatie kunnen worden gebruikt of geschikt 
+gemaakt.  
+ De productie van een beperkte 0-serie: beperkte productie of levering om de resultaten van 
+veldproeven te incorporeren en te demonstreren dat het product of de dienst geschikt is voor productie 
+of levering in grotere hoeveelheden volgens aanvaardbare kwaliteitsnormen. 
+ 
+De volgende activiteiten vallen niet onder onderzoek en ontwikkeling: 
+ De routinematige of periodieke wijziging van bestaande producten, productielijnen, 
+fabricageprocessen, diensten en andere courante activiteiten, zelfs indien deze wijzigingen 
+verbeteringen kunnen inhouden.  
+ Prototypes waarvan de marktrijpheid al is getoetst en routinematig of periodieke wijzigingen van 
+bestaande producten, productielijnen, fabricageprocessen of diensten en andere courante 
+werkzaamheden, zelfs indien deze wijzigingen verbeteringen zijn.  
+ Commerciële ontwikkelingsactiviteiten zoals serieproductie, levering om commerciële 
+levensvatbaarheid te bereiken of O&O-kosten te recupereren, integratie, maatwerk, incrementele 
+aanpassingen en verbeteringen van bestaande producten of procedés.
+
+=== Document: formulier sbir ===
+Aanbieding 
+SBIR 
+ 
+Stuur het ingevulde formulier met bijlagen naar het email-
+adres vermeld in de oproep.  
+ 
+SBIR@RVO.nl  
+ 
+Meer informatie 
+Voor toelichting bij het formulier:  
+website: www.rvo.nl/sbir 
+T 088 – 602 5597 (op werkdagen van 8:30 – 17:30 uur) 
+ 
+Aanbieding SBIR versie oktober 2015 
+ 
+Pagina 1 van 3 
+ 
+Over dit formul
+ier 
+ 
+- Met dit formulier kunt u een SBIR-offerte indienen bij 
+RVO.nl. 
+ 
+- Lever formulier en alle bijlagen in bij RVO.nl.  
+ 
+- Let op de juiste naamgeving van bijlagen. 
+ 
+- Lever tijdig in! De uiterste inleverdatum verschilt per 
+SBIR. 
+ 
+- Ga naar rvo.nl/sbir voor meer informatie. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1  Aanbieder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Vul
+t u hier uw International Bank 
+Account Number
+ (IBAN) en Bank 
+Identifier Code (BIC) in. Via 
+www.ibanbicservice.nl kunt u van 
+een bestaand Nederlands 
+rekeningnummer de juiste BIC-
+code en het juiste IBAN-nummer 
+opvragen. 
+Naam organisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ 
+IBAN-nummer1       BIC- code1       
+Aantal medewerkers 
+werkzaam bij de 
+organisatie? 
+      
+Jaar van oprichting 
+van de organisatie? 
+      
+Rechtsvorm van de 
+organisatie 
+      
+ 
+2  Contactpersoon bij de aanbieder 
+ 
+Geef
+ hier de g
+egevens op van de 
+inhoudelijk projectleider van het 
+project is. 
+Naam        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie oktober 2015
+  Pagina 2 van 3 
+ 
+3  Intermediair 
+  Heeft
+ u een intermediair 
+gemach
+tigd om namens u de 
+aanbieding in te dienen? 
+ Nee  > ga verder met 4 
+ Ja     > Vul hierna de gegevens in 
+   
+ Naam o rganisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ 
+IBAN-nummer1       BIC- code1       
+ 
+2 Vul hier de gegevens van de 
+cont
+actpersoon van de intermediair 
+in. 
+Naam2        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+4  Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Con
+troleer of uw projectkosten 
+niet b
+oven maximum toegestane 
+bedrag uitkomen 
+Titel SBIR oproep       
+ Naam van project       
+  Acroniem (afkorting  
+beginletters) 
+    
+  
+    Dit is een offerte voor  Fase 1 
+ Fase 2 (vermeld SBIR nummer offerteverzoek):  SBIR      
+ 
+Totale projectkosten 
+(exclusief BTW) 
+      
+ 
+Totale projectkosten 
+(inclusief BTW) 3 
+      
+ 
+ Heeft u voor dit project ook andere subsidie(s)/opdracht(en) 
+aang
+evraagd en/of gekregen? 
+ Ja 
+ Nee 
+Werkt u samen met andere partijen? 
+ Ja 
+ Nee 
+Is een of meer van deze partijen een bedrijf? 
+ Ja 
+ Nee 
+Is een of meer van deze bedrijven in het buitenland gevestigd?  Ja 
+ Nee 
+Is een of meer van deze partijen een kennisinstelling?  Ja 
+ Nee 
+Is een of meer van deze kennisinstellingen in het buitenland 
+gevestigd? 
+ Ja 
+ Nee 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie oktober 2015 Pag
+ ina 3 van 3 
+ 
+5  Chec
+kl
+ist bijlagen 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Een machtiging dient toegevoegd 
+te worden waarin de aanbieder de 
+intermediair machtigt om namens 
+hem op te treden. 
+  Bijlage A Projectplan incl. managementsamenvatting en begroting 
+    Bijlage B Businessplan (alleen voor fase 2) 
+  Bijlage C Begroting als apart (pdf) bestand 
+  Bijlage D Managementsamenvatting als apart (pdf) bestand 
+    Bijlage E Machtiging4  
+  NB gebruik het acroniem uit vraag 4 als titel voor al uw digitale bestanden, om 
+correcte en snelle verwerking mogelijk te maken, dus: 
+• acroniem.SBIRform.pdf 
+• acroniem.projectplan.pdf,  
+• acroniem.businessplan.pdf,  
+• acroniem.begroting.pdf  
+• acroniem.man.sam.pdf 
+• acroniem.machtiging.pdf  
+• acroniem.xxx.pdf 
+ 
+6  Verklaring en ondertekening 
+ - Ik ben bevoegd en/of gemachtigd om deze aanbieding te ondertekenen. 
+- Ik verklaar dat dit formulier en de bijlagen naar waarheid zijn ingevuld. 
+- Ik ben bekend met de voorwaarden en procedures van deze precommerciële inkoop zoals 
+beschreven in de SBIR d ocumenten en ik accepteer deze. 
+- Mijn organisatie voldoet aan de voorwaarden zoals gesteld in de 
+SBIR documenten. 
+- (Indien van toepassing) de in het plan genoemde partners hebben een kopie van het 
+projectplan gezien en zijn hiermee akkoord. 
+ 
+ 
+Ondertekenaar       
+  
+Organisatie       
+  
+Datum       
+  
+Handtekening 
+ 
+ 
+ 
+  
+ 
+7  Vervolg 
+ U levert het formulier in 
+Stuur het ingevulde en ondertekende formulier met alle bijlagen tijdig naar RVO.nl.  
+De uiterste inleverdatum verschilt per SBIR; ga naar www.rvo.nl/sbir voor meer informatie.  
+Vergeet niet alle vereiste bijlagen als aparte bestanden mee te sturen. 
+ 
+U ontvangt van ons ontvangstbevestiging 
+Binnen 10 dagen stuurt RVO.nl u per e-mail een ontvangstbevestiging.
+
+=== Document: fase 1 projectplan ===
+1  van  2 
+ 
+ 
+ 
+ 
+SBIR Model Projectplan fase 1 
+Dit model projectplan voor fase 1 beschrijft de informatie die het projectplan moet bevatten. Daarnaast is 
+voor ieder hoofdstuk tussen haakjes aangegeven hoelang het maximaal mag zijn. 1 pagina A4 komt 
+ongeveer overeen met 500 woorden. 
+ 
+Titel. De titel van het project, zoals aangegeven op het SBIR-formulier. 
+ 
+1 Management Samenvatting (maximaal 1000 woorden) 
+Ga kort in op de volgende punten: 
+ Beschrijf in een paar zinnen uw project en waarom een haalbaarheidsonderzoek nodig is. 
+ Geef een beschrijving van uw bedrijf en eventuele partners. 
+ Beschrijf hoe u het project aanpakt en welke vragen u wilt beantwoorden met dit project.  
+ 
+Ga vervolgens in op hoe uw project beantwoordt aan de verschillende criteria: 
+ 
+Impact  
+Hoe zal de voorgestelde innovatie (product, proces, dienst) bijdragen aan de maatschappelijke doelstelling 
+zoals beschreven in de oproep? 
+ 
+Technologische haalbaarheid  
+Beschrijf kort de technische aanpak. Wat is er al? Wat is nieuw? Waar liggen de grootste uitdagingen? Is 
+de expertise aan boord om de ontwikkeling tot een succes te maken? Waarom is onderzoek en 
+ontwikkeling nodig? 
+ 
+Economisch perspectief    
+Beschrijf het marktperspectief: is de innovatie breed (meerdere sectoren, of meerdere producten) 
+toepasbaar of smal (niches)? Maak aannemelijk dat uw product, dienst of proces op de markt komt en een 
+succes wordt. Waarom verslaat u de concurrentie? Zijn er marktfactoren van belang die het slagen van het 
+project in de weg zitten, zoals bijvoorbeeld regelgeving? Leg ook uit waarom uw bedrijf (met eventuele 
+partners) dit project tot een commercieel succes kan maken. 
+ 
+2 Het resultaat van het project (maximaal 500 woorden) 
+Welk product, proces of dienst wilt u ontwikkelen? Beschrijf duidelijk het voorgestelde project en het 
+resultaat. Hoe beantwoordt dit aan het thema van de SBIR oproep en hoe groot is de impact? Vermijd 
+daarbij het gebruik van onnodig technisch jargon. Wat zijn de belangrijkste eisen waaraan het resultaat 
+moet voldoen? Welke risico’s voorziet u technisch, commercieel of financieel? Welk probleem wordt door 
+dit nieuwe product opgelost? 
+ 
+3 Het bedrijf en partners (maximaal 1000 woorden) 
+Dit hoofdstuk is het curriculum vitae van het bedrijf. In dit stuk geeft u duidelijk aan waarom uw bedrijf de 
+juiste partij is om deze innovatie te ontwikkelen en tot een commercieel succes te maken. Beschrijf 
+mogelijk relevante ervaringen met vergelijkbare innovatietrajecten of (samenwerkings-) projecten. 
+Beschrijf ook de eventuele partners in dit project: hun expertise, de reden voor samenwerking en hoe het 
+project past in de (bedrijfs)strategie van de projectpartners. 
+ 
+Zaken die daarbij van belang kunnen zijn: 
+ Kernactiviteiten van het bedrijf en belangrijkste markt. 
+ Mission statement en ambitie van het bedrijf (waar wilt u over 3 à 5 jaar zijn). 
+ Kerngegevens bedrijf: jaar van oprichting, aantal medewerkers. 
+ 
+ 
+ 
+ 2  van  2 
+ Financieel inzicht in de organisatie: Geef uw laatste (concept) jaarcijfers, uw cashflow -en 
+exploitatieoverzicht.  
+ Organisatiestructuur, indien relevant de positie ten opzichte van andere BV’s bijvoorbeeld moeder- 
+zuster- dochterbedrijven, management BV, holding etc. 
+ Aandeelhouders en juridische structuur van de (groep van) onderneming(en) 
+ Commissarissen. 
+ 
+4 Innovatie paragraaf (maximaal 1000 woorden) 
+Leg uit welke innovatie moet plaatsvinden om het product / dienst / proces te verwezenlijken. Wat zijn de 
+kritieke factoren? Waar liggen de risico’s? Waarom is een haalbaarheidsonderzoek en een onderzoeks- en 
+ontwikkelingstraject nodig? Waarom brengt u het niet nu al op de markt? Welke alternatieven zijn er? Wat 
+is nieuw aan uw innovatie ten opzichte van bestaande alternatieven en wat is het voordeel ervan? Zijn er 
+specifieke problemen of eisen van het toepassingsgebied of de sector? Hoe wilt u de innovatie 
+beschermen? Zijn er octrooien die de ontwikkeling van uw innovatie belemmeren? 
+ 
+5 Economische perspectief (maximaal 1000 woorden) 
+ Beschrijf hoe de markt eruit ziet. Hoe groot is de markt? Wat is uw doelgroep? Wat zijn uw 
+concurrenten? 
+ Beschrijf hoe u geld gaat verdienen aan de innovatie. Wat is uw route to market ? Geeft u licenties uit? 
+Neemt u het zelf in productie? Wat is uw strategie? 
+ Beschrijf uw product vanuit het perspectief van uw klanten. Welk probleem lost u voor ze op? Wat 
+zullen ze bereid zijn daarvoor te betalen? 
+ Beschrijf welke positie u op de markt wilt verwerven met uw product. 
+ 
+6 Uitvoering van het project (maximaal 2000 woorden) 
+Doelstelling  
+ Geef de doelstelling van het haalbaarheidsproject in termen van beoogde resultaten.  
+ Geef aan waarvoor en hoe de opgedane kennis gebruikt zal worden in het op het 
+haalbaarheidsonderzoek volgende onderzoeks- en ontwikkelingstraject. 
+ 
+Probleemstelling 
+ Geef expliciet aan op welke vragen u een antwoord zoekt.  
+ Geef aan welke kennis u wilt verwerven. 
+ Geef aan welke knelpunten zich hierbij kunnen voordoen. 
+ 
+Methode en activiteiten 
+ Geef aan hoe u denkt te komen tot de beantwoording van de gestelde vragen. 
+ Beschrijf risico’s (‘faalkansen’) en de strategie om deze te minimaliseren. 
+ Geef aan hoe u de mogelijkheden voor strategische samenwerking met andere partijen gaat 
+onderzoeken. 
+ 
+Projectmanagement en fasering 
+ Ga in op de projectorganisatie, de taakverdeling (inclusief eventueel in te schakelen derden), de 
+fasering en de belangrijkste medewerkers in het project (voeg korte cv’s toe).

@@ -1,0 +1,1584 @@
+=== Document: nota van inlichtingen - sbir mutatieherkenning ===
+Nota van Inlichtingen  
+SBIR “Mutatieherkenning met satellietdata” 
+ 
+Deze Nota van Inlichtingen is gepubliceerd op 24 april 2017 via de website van RVO. 
+ 
+1 Samenvatting 
+Op 20 april 2017, van 13.30 uur tot 15:30 uur, vond de informatiebijeenkomst plaats omtrent de SBIR Oproep “Mutatieherkenning met 
+satellietdata” bij RVO te Den Haag. Tijdens de bijeenkomst heeft  NSO uitleg gegeven over NSO en de relatie met SBIR, heeft RVO uitleg 
+gegeven over de probleem- en doelstelling met betrekking tot deze SBIR en heeft RVO uitleg gegeven over het SBIR-proces. Na de diverse 
+uiteenzettingen heeft een vraag- en antwoordsessie plaatsgevonden (marktpartijen versus opdrachtverstrekkende partijen). Informatie zal 
+worden verstrekt via deze nota van inlichtingen. 
+ 
+2 Achtergrond NSO en programma innovatiegericht inkopen ruimtevaart (SBIR ruimtevaart) 
+Het Netherlands Space Office (NSO) is de ruimtevaartorganisatie van de Nederlandse overheid. Zij verzorgt het ruimtevaartbeleid van 
+Nederland en vertegenwoordigt Nederland bij internationale organisaties, zoals ESA en de Europese Commissie. Zij doet dit zowel op het 
+terrein van de ‘upstream’, oftewel de industrie, die de ruimtevaartinfrastructuur produceert, als wel op het terrein van de ‘downstream’, 
+oftewel het gebruik van de satellietdata. Het NSO heeft als doel om de ruimtevaartinfrastructuur beter te benutten, de dienstverlening van de 
+Nederlandse overheid waar mogelijk met satellietdata te versterken en de (internationale) marktpositie van het Nederlandse bedrijfsleven te 
+verbeteren. Dit doet zij binnen een thematische aanpak en aan de hand van enkele stimuleringsmaatregelen. Zo stelt het NSO, naast de gratis 
+en open data vanuit het Copernicus-programma, ook extra hoge resolutie data beschikbaar via het Satellietdataportaal 
+(www.satellietdataportaal.nl). Daarnaast wordt het gebruik van satellietdata binnen overheidsorganisaties gestimuleerd met behulp van de 
+SBIR-regeling. Voor dit doel is een speciaal SBIR-Ruimtevaartprogramma ingericht. Dit programma zorgt voor innovatiegericht inkopen door 
+de Nederlandse overheid. Redenen voor deze manier van inkopen zijn divers, van het versterken van het verdienvermogen van de 
+ruimtevaartsector tot het bijdragen aan oplossingen voor maatschappelijke problemen. 
+ 
+Deze SBIR-oproep is op zoek naar nieuwe diensten, die leiden tot een innovatief prototype voor geautomatiseerde mutatieherkenning met 
+behulp van satellietdata. Dit moet uiteindelijk leiden tot reductie van de onderhoudskosten van de database Agrarisch Areaal Nederland (AAN) 
+en begroeide terreindelen. Een voorwaarde hiervoor is het prominent gebruik van satellietdata. Met deze SBIR-inkoop kan de kracht van het 
+ 
+ 
+ 
+bedrijfsleven ingezet worden om over ruim 1 jaar nieuwe producten en diensten op de markt te zetten. De oproep is te vinden op tenderned.nl 
+en via http://www.rvo.nl/subsidies-regelingen/sbir/oproep-mutatieherkenning-met-satellietdata 
+ 
+Algemene vragen SBIR Ruimtevaart 
+ 
+1.  Waar vind ik de meest recente informatie 
+over de SBIR? 
+Belangrijk om te weten dat sinds deze zomer enkele formulieren en handleidingen zijn 
+gewijzigd. De meest up-to-date informatie vindt men op https://mijn.rvo.nl/sbir-
+innovatie-in-opdracht 
+ 
+2.  Waar vind ik meer informatie over het  
+Satellietdataportaal? 
+Op www.satellietdataportaal.nl. Vragen over dit portaal kunnen gesteld worden via het 
+e-mailadres portaal@spaceoffice.nl Het portaal wordt door het NSO beheerd.  
+ 
+3.  Hoe verkrijgt men Sentinel-data? Ook deze informatie is via www.satellietdataportaal.nl te verkrijgen. 
+ 
+4.  Mag ik in samenwerking met een andere 
+partij een offerte/voorstel indienen? 
+Ja, dat mag. We verwachten dat één partij in de lead is en een voorstel indient. Deze 
+partij kan met andere partijen samenwerken als onderaannemer. En dat is vaak ook 
+verstandig omdat u zo kunt zorgen dat de juiste expertise aan boord is. Samenwerking 
+tussen voorstellen kan niet; verschillende voorstellen mogen niet afhankelijk van elkaar 
+zijn. Ieder voorstel moet op zichzelf staan. 
+ 
+5.  Op welke manier kan RVO of NSO helpen 
+bij het “strategisch” samenwerken? 
+Dit is geheel aan de aanbiedende partijen zelf. Let hierbij op dat het om relatief kleine 
+bedragen gaat, een hele alliantie vormen is wellicht niet haalbaar. Suggestie: werk 
+samen met één partij die van meerwaarde is; “niet samenwerken om het 
+samenwerken, maar samenwerken om het doel te halen”. 
+ 
+6.  Mag ik meerdere voorstellen indienen? Ja,  u mag meerdere voorstellen indienen. Het aantal moet wel in verhouding staan tot 
+de capaciteit van aanbiedende partij en de voorstellen moeten onderscheidend van 
+elkaar zijn. Samenwerking tussen voorstellen kan niet; verschillende voorstellen mogen 
+niet afhankelijk van elkaar zijn. Ieder voorstel moet op zichzelf staan als afgerond 
+geheel. 
+ 
+ 
+ 
+ 
+7.  Mag ik in het voortraject (vóór fase 1) 
+contact opnemen met de vragende partij? 
+Het is niet toegestaan om inhoudelijke vragen te stellen aan de leden van de 
+Beoordelingscommissie tijdens het voortraject. Hier dient de informatiebijeenkomst 
+voor en deze Nota van Inlichtingen. Wel kan er met andere medewerkers contact 
+worden gezocht. Tijdens Fase 1 en Fase 2 kan er wel (beperkt) interactie plaatsvinden. 
+Het is aan de vragende partij om eventueel extra informatiebijeenkomsten te 
+organiseren. 
+ 
+8.  Moet men bij het sluiten van de tender 
+zowel de documenten voor Fase 1 als voor 
+Fase 2 aanleveren? 
+Nee dan dienen alleen documenten voor fase 1 te worden aangeleverd. Fase 2 
+documenten worden pas gevraagd nadat u hiervoor van NSO een offerteverzoek 
+ontvangt. 
+ 
+9.  Hoort het formulier “Aanbieding SBIR” ook 
+bij de gevraagde documenten voor fase 1? 
+Ja, het formulier “Aanbieding SBIR” is ook onderdeel van uw offerte voor SBIR fase 1. 
+ 
+ 
+10.  Wanneer ontvang je een offerteverzoek 
+voor fase 2? M.a.w. wat is succesvol 
+afronden van een haalbaarheidsstudie? 
+NSO stuurt een offerteverzoek naar alle deelnemers in Fase 1. De offerte van Fase 2 
+heeft dezelfde deadline als het eindrapport van Fase 1. De Beoordelingscommissie heeft 
+in haar vergadering dus de beschikking over de informatie uit Fase 1 en de plannen 
+voor Fase 2. In deze SBIR kiezen we ervoor om de deadline van het eindrapport te 
+laten samenvallen met de deadline voor het indienen van de offerte voor fase 2. 
+Hiermee wijken we iets af van de procedure beschreven in de SBIR-handleiding. Het 
+eindrapport wordt in deze SBIR dus niet beoordeeld om te bepalen of een 
+offerteverzoek verstuurd zal worden. 
+ 
+11.  Hoe wordt de technische haalbaarheid 
+beoordeeld? 
+Gaat het om algemene technische 
+haalbaarheid of juist dat je het zelf als 
+bedrijf kan? 
+De technische haalbaarheid wordt beoordeeld als de mate waarin het overtuigend is 
+gemaakt dat de geboden oplossing technisch haalbaar is. Benoem bij de analyse van de 
+technische haalbaarheid ook de eventuele knelpunten, wees hier eerlijk over. En geef 
+aan hoe deze op te lossen zijn en of dat in de volgende fase qua tijd en middelen zal 
+lukken. 
+ 
+12.  Is het combineren van voorstellen uit fase 
+1 tot één voorstel in fase 2 mogelijk? 
+Dit is niet onmogelijk, maar gezien concurrentie tussen voorstellen zijn RVO en NSO 
+terughoudend. 
+ 
+ 
+ 
+ 
+13.  Kunnen we een commercieel uurtarief 
+vragen? Wordt een eigen bijdrage 
+verwacht? 
+We schrijven geen uurtarief voor, we werken bij SBIR immers op basis van offertes. 
+Aangezien de intellectuele eigendomsrechten bij de indiener blijven, verwachten we dat 
+de indiener dit ook als investering ziet in eigen kennis en voor acquisitie van een 
+nieuwe (overheids)klant. Let op: bij de beoordeling zal ook gekeken worden naar de 
+prijs-kwaliteit-verhouding. 
+ 
+14.  Moet er BTW worden afgedragen? Ja, het is een inkoopopdracht, dus het maximum bedrag is inclusief BTW. 
+ 
+15.  Dienen de kosten te worden 
+gespecificeerd? 
+ 
+Ja, de kostenopbouw moet duidelijk uit de offerte blijken. 
+16.  Kan ik zelf met een voorstel komen voor 
+een nieuwe SBIR? 
+Ja, graag zelfs. Neem hiervoor contact op met het NSO. Zij zullen de ideeën naast 
+elkaar leggen. Het idee, indien ook ondersteund door de overheidsorganisatie, zal 
+vervolgens wel via een open call worden gepubliceerd. 
+ 
+17.  Wordt er inhoudelijk feedback gegeven op 
+de inschrijvingen? 
+Afwijzingen en winnaars krijgen altijd feedback op de beschreven punten inclusief 
+argumentatie. Na afloop kan er altijd om extra feedback gevraagd worden. 
+ 
+18.  Wat zijn de verschillen met de eerdere 
+SBIR’s en zijn uit deze oproepen lessen 
+geleerd? 
+Per SBIR kunnen de toegekende bedragen voor fase 1 en fase 2 verschillen van 
+voorgaande oproepen. Vraagsturing is belangrijk, namelijk de vragende partij zoekt 
+vanuit zijn maatschappelijk probleem naar een passende oplossing. 
+De SBIR oproep moet leiden tot een operationele oplossing, denk daarom goed na over 
+hoe satellietdata en de service gaan passen in de werkwijze van de vraagorganisatie, 
+een duurzaam verdienmodel/business case en eventuele consortiumvorming (bijv. 
+kennisinstelling + marktpartij) i.v.m. markttoetreding. 
+ 
+19.  Wat wordt er in fase 1 verwacht t.a.v. 
+technische volwassenheid/rijpheid van het 
+product? 
+Hier zijn geen strakke richtlijnen voor, maar fase 1 hoeft geen papieren exercitie te 
+zijn. Het is goed om al aan de slag te gaan met de oplossing. Laat (kleinschalige) 
+voorbeelden zien van de mogelijkheden. Er wordt verwacht dat de door u geboden 
+ 
+ 
+ 
+oplossing werkt met satellietdata uit het Satellietdataportaal plus eventuele andere 
+bronnen. 
+ 
+20.  Wat houdt het SBIR-overeenkomst 
+formulier in en waar kan ik dat vinden? 
+*(Genoemd in SBIR handleiding RVO) 
+De SBIR-overeenkomst (feitelijk een contract) en bijbehorend formulier komt vanuit de 
+RVO-procedure en wordt opgesteld bij toekenning van de opdracht voor fase 1 en/of 2. 
+NSO hanteert een eigen opdrachtverstrekking en bijbehorende brief die u zult 
+ontvangen indien de beoordelingscommissie u een vervolgfase toekent. U hoeft hier bij 
+indiening niets mee te doen. 
+ 
+21.  M.b.t. de economisch perspectief: 
+Verplicht de vragende partij (RVO) zich tot 
+het afnemen van het uiteindelijke 
+product? 
+Partijen zullen ook het perspectief op andere klanten moeten meenemen. De 
+uiteindelijke afname van een dienst/product zal veelal Europees aanbesteed moeten 
+worden, omdat de kosten boven de drempelbedragen liggen. Fase 3 kan niet via de 
+SBIR-regeling omdat er dan sprake zou zijn van staatssteun. De deelnemer van de 
+SBIR heeft natuurlijk vanwege de deelname aan de SBIR een technologisch voordeel 
+verkregen die hij kan inzetten bij de aanbesteding.   
+ 
+22.  Kan de aanvraag ook digitaal via 
+TenderNed worden ingediend? 
+ 
+Nee, de offerte moet via e-mail bij NSO (info@spaceoffice.nl) worden ingediend.  
+23.  In hoofdstuk 3 vraagt u financiële inzichten 
+van de organisatie met jaarcijfers, cashflow 
+en exploitatieoverzichten. Wat wordt 
+hiermee bedoeld? Is de openbare financiële 
+jaarrapportage voldoende? 
+ 
+Er worden geen financiële gegevens gevraagd. Er moet alleen een begroting volgens 
+het format worden ingediend. 
+24.  In de SBIR-handleiding wordt aangegeven 
+dat de offerte zich uitsluitend moet richten 
+op hoogwaardige onderzoeken en 
+ontwikkelingen. Kunt u dit nader 
+specificeren wat u hieronder verstaat? 
+ 
+Het voorstel wordt o.a. beoordeeld op innovatie. Deze innovatie kan ontstaan uit zowel 
+kennisinstellingen als vanuit het bedrijfsleven. 
+ 
+ 
+ 
+25.  In uw uitvraag omschrijft u dat nagenoeg 
+alle partijen met een onderzoeks- en 
+ontwikkelingscapaciteit mee kunnen doen 
+voor deze uitvraag. Hoe garandeert u een 
+‘level playing field’? Kunnen door de 
+overheid gefinancierde partijen ook 
+inschrijven? 
+ 
+Deze oproep is open voor alle partijen, zowel (semi-)publiek als privaat. De 
+Beoordelingscommissie zal echter niet alleen naar de technische inhoud kijken, maar 
+ook naar het ondernemerschap van het consortium en het operationaliseren en het op 
+de markt brengen van de dienst. 
+ 
+ 
+ 
+ Specifieke vragen SBIR Mutatieherkenning 
+ 
+26.  Hoe is de afbakening van het intellectuele 
+eigendom en het recht van de overheid 
+om hier in “het algemeen belang” van af 
+te wijken? 
+ 
+Het gegenereerde intellectuele eigendom blijft bij het bedrijf. Alleen in zeer specifieke 
+gevallen (veelal met een defensie-achtergrond) kan de overheid hier van afwijken. In 
+fase 2 worden hierover, indien van toepassing, afspraken gemaakt. 
+ 
+27.  Gezien de krappe tijdsplanning: wanneer 
+wordt de Nota van Inlichtingen 
+gepubliceerd? 
+Tot en met vrijdag 21 april 2017 kunnen vragen worden ingediend. De antwoorden 
+hierop staan in de Nota van Inlichtingen; er wordt naar gestreefd deze uiterlijk dinsdag 
+25 april te publiceren. Na de publicatie van deze Nota is het niet meer mogelijk vragen te 
+stellen. 
+ 
+28.  Zit de meeste tijd nu in de zichtcontrole? 
+ 
+Ja, daarin zit nu veel tijd in die efficiënter besteed kan worden. Voor de versnelling van 
+de zichtcontroles wordt met deze SBIR een oplossing gezocht. Een medewerker kan nu 
+per uur met behulp van luchtfoto’s zo’n  30 geometrieën verwerken.  
+De intekening van de mutaties blijft  gebaseerd op de luchtfoto’s. 
+ 
+29.  Gaat het alleen om verharde wegen of ook 
+om zandpaden? 
+Ook zandpaden tellen niet mee in het agrarisch areaal, dus ook wijzigingen daarin 
+moeten meegenomen worden.  
+ 
+ 
+ 
+ 
+30.  Is er een handboek beschikbaar met 
+definities van wat geldt als omgrenzingen 
+van een areaal?  
+ 
+Er bestaat een intern handboek; dit zal beschikbaar gesteld worden aan de partijen die 
+fase 1 ingaan. 
+31.  Gaat het om begroeide terreindelen BGT? Ja. 
+ 
+32.  Tot welke resolutie moeten wijzigingen 
+inzichtelijk zijn? B.v. ook een verbreding 
+van 0,5 m van een landweg? 
+De meest gedetailleerde satellietbeelden 
+van het Satellietdataportaal gaan maar tot 
+80 cm. 
+ 
+Ja, ook dergelijke mutaties moeten gedetecteerd worden. Daar zit de uitdaging. Door 
+een combinatie van satellietbeelden met de al beschikbare data zou moeten leiden tot 
+meer automatiseren en een snellere actualiteit.  
+33.  Krijgen alle partijen de beschikking over 
+de luchtfoto’s en over de data van het 
+Agrarisch Areaal Nederland (AAN)? Welke 
+data zijn nog meer beschikbaar? 
+Indien nodig kunnen datasets beschikbaar worden gesteld door RVO. Per dataset moet 
+worden afgewogen onder welke voorwaarden (bijv. door ondertekenen van een 
+geheimhoudingsverklaring) deze data beschikbaar komen. Op PDOK staat ook open data 
+AAN en BRP wat hiervoor gebruikt kan worden.  
+ 
+34.  Is het ook mogelijk om een voorstel in te 
+dienen dat alleen gebaseerd is op 
+luchtfoto’s? 
+Nee, het gebruik van satellietdata zal een cruciaal onderdeel moeten zijn van de 
+methode die wordt aangeboden. Deze SBIR is bedoeld om het gebruik van satellietdata 
+en het Satellietdataportaal te stimuleren. Indien er geen gebruik wordt gemaakt van het 
+Satellietdataportaal wordt gemaakt, dan zal dit goed beargumenteerd moeten worden. 
+ 
+35.  Is de Business Case van RVO voor dit 
+onderwerp bekend? 
+ 
+Ja. RVO zal nog afstemmen in welke fase dit op hoofdlijnen gedeeld zal worden met de 
+partijen. 
+Overigens hoeven partijen voor fase 1 zelf nog geen business case voor RVO uit te 
+werken; dit gebeurt voor fase 2. Wel dienen ze het perspectief op andere klanten aan te 
+geven. M.a.w. de business case voor RVO zal pas in fase 2 naar voren komen. Wel kan 
+reeds de business case van de indiener toegelicht worden. 
+ 
+ 
+ 
+ 
+36.  Kunnen we ook risicoprofiel-data krijgen 
+van RVO  om een risicoschatting van 
+betrouwbaarheid van percelen  te doen? 
+ 
+Zie antwoord bij vraag 33 
+37.  Hoe doen andere landen, waarvoor geen 
+satellietdata met hoge resolutie 
+beschikbaar zijn, deze controles? 
+ 
+Daar wordt eveneens met luchtfoto’s gewerkt. 
+ 
+38.  Wat wordt bedoeld met “externe 
+signalen”? 
+ 
+Die betreffen de opgaven van de boer. 
+ 
+39.  Klopt het dat hoe de mutaties verwerkt 
+worden geen rol speelt? 
+Dat is correct. Het gaat hierbij alleen om een efficiëntere mutatieherkenning en niet om 
+het doorvoeren van de mutatie. 
+ 
+40.  Is er een bepaalde software-architectuur 
+waar het in moet passen? 
+Dat is nu nog vrij open gelaten. Uiteindelijk moet de dataset in het systeem en de 
+werkprocessen van RVO passen. Het op te leveren product kan een systeem zijn of een 
+kaart die ingelezen kan worden of nog iets anders. 
+ 
+41.  BGT of AAN? Op zich is het onderscheid niet zo belangrijk voor deze SBIR. Het gaat er om dat een 
+methode ontwikkelen die de wijzingen in het veld herkent. BGT kent hogere 
+kwaliteitseisen dan AAN, deze slag wordt nu  door RVO gemaakt. Het vraagstuk blijft 
+hetzelfde. 
+Pas in de 3e fase wordt de productieslag gemaakt en dan moet het product afgestemd 
+worden op de RVO-systemen en –werkprocessen. 
+ 
+42.  Het resultaat van deze SBIR is een 
+verdere automatisering van het proces. Is 
+RVO zich bewust van de personele 
+gevolgen hiervan? 
+ 
+Ja, er wordt gestreefd naar besparing en verhoging van de efficiency. 
+ 
+ 
+ 
+ 
+ 
+ 
+43.  Waar wordt meer waarde aan gehecht: 
+aan het verkrijgen van zo min mogelijk 
+false positives of zo min mogelijk false 
+negatives? Hoe is deze verhouding in het 
+huidige proces? 
+ 
+Er moeten zoveel mogelijk mutaties worden gedetecteerd; wat dat betreft is een 
+signalering te veel minder problematisch dan een signalering te weinig. Het moet 
+uiteraard wel in balans zijn en het zal worden afgewogen tegen de huidige methode; 
+anders is er geen sprake van een efficiëntieslag. 
+44.  M.b.t. het beoordelingscriterium 
+Economisch perspectief, onderdeel c 
+(“mate van innovatie: hoe groot is de 
+‘doorbraak’ en hoeveel nieuwe 
+functionaliteit ontstaat voor klanten. 
+Welke klant wordt hier bedoeld? 
+ 
+Bedoeld wordt zowel de huidige klant (RVO) als toekomstige klanten in breder 
+economisch perspectief: Nederland, Europa en wereldwijd. 
+45.  Zijn de evaluatiegebieden al gedefinieerd? 
+ 
+Nee, dat gebeurt in fase 2. 
+46.  Wat is de huidige verdeling van de soorten 
+mutaties? 
+Is op dit moment nog niet bekend en moet nader onderzocht worden. Mocht dit van 
+belang zijn dan zal RVO deze informatie trachten te achterhalen en beschikbaar stellen 
+voor de partijen die de SBIR mogen uitvoeren. 
+ 
+47.  Hoe vaak per jaar wil RVO nieuwe 
+mutatiekaarten opvragen? 
+Dit zal duidelijk worden tijdens de uitvoering van de SBIR. Op dit moment denkt RVO 
+aan minstens 1 keer per jaar en rond de tijd dat de luchtfoto beschikbaar is. Indien 
+mogelijk vaker maar dit is ook afhankelijk van de prijs, de meerwaarde van de actualiteit 
+en hoe de mutatie signalering aansluit bij de verwerking van de mutaties.  
+ 
+48.  Gaat de voorkeur uit naar een 
+rasterformaat of een vectorkaart? 
+Dit zal pas duidelijk worden tijdens de eerste resultaten van de SBIR, op dit moment is 
+er geen voorkeur voor kaarten in vector of raster formaat
+
+=== Document: formulier sbir ===
+Aanbieding 
+SBIR 
+ 
+Stuur het ingevulde formulier met bijlagen naar het email-
+adres vermeld in de oproep.  
+ 
+SBIR@RVO.nl  
+ 
+Meer informatie 
+Voor toelichting bij het formulier:  
+website: www.rvo.nl/sbir 
+T 088 – 602 5597 (op werkdagen van 8:30 – 17:30 uur) 
+ 
+Aanbieding SBIR versie oktober 2015 
+ 
+Pagina 1 van 3 
+ 
+Over dit formul
+ier 
+ 
+- Met dit formulier kunt u een SBIR-offerte indienen bij 
+RVO.nl. 
+ 
+- Lever formulier en alle bijlagen in bij RVO.nl.  
+ 
+- Let op de juiste naamgeving van bijlagen. 
+ 
+- Lever tijdig in! De uiterste inleverdatum verschilt per 
+SBIR. 
+ 
+- Ga naar rvo.nl/sbir voor meer informatie. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1  Aanbieder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Vul
+t u hier uw International Bank 
+Account Number
+ (IBAN) en Bank 
+Identifier Code (BIC) in. Via 
+www.ibanbicservice.nl kunt u van 
+een bestaand Nederlands 
+rekeningnummer de juiste BIC-
+code en het juiste IBAN-nummer 
+opvragen. 
+Naam organisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ 
+IBAN-nummer1       BIC- code1       
+Aantal medewerkers 
+werkzaam bij de 
+organisatie? 
+      
+Jaar van oprichting 
+van de organisatie? 
+      
+Rechtsvorm van de 
+organisatie 
+      
+ 
+2  Contactpersoon bij de aanbieder 
+ 
+Geef
+ hier de g
+egevens op van de 
+inhoudelijk projectleider van het 
+project is. 
+Naam        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie oktober 2015
+  Pagina 2 van 3 
+ 
+3  Intermediair 
+  Heeft
+ u een intermediair 
+gemach
+tigd om namens u de 
+aanbieding in te dienen? 
+ Nee  > ga verder met 4 
+ Ja     > Vul hierna de gegevens in 
+   
+ Naam o rganisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ 
+IBAN-nummer1       BIC- code1       
+ 
+2 Vul hier de gegevens van de 
+cont
+actpersoon van de intermediair 
+in. 
+Naam2        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+4  Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Con
+troleer of uw projectkosten 
+niet b
+oven maximum toegestane 
+bedrag uitkomen 
+Titel SBIR oproep       
+ Naam van project       
+  Acroniem (afkorting  
+beginletters) 
+    
+  
+    Dit is een offerte voor  Fase 1 
+ Fase 2 (vermeld SBIR nummer offerteverzoek):  SBIR      
+ 
+Totale projectkosten 
+(exclusief BTW) 
+      
+ 
+Totale projectkosten 
+(inclusief BTW) 3 
+      
+ 
+ Heeft u voor dit project ook andere subsidie(s)/opdracht(en) 
+aang
+evraagd en/of gekregen? 
+ Ja 
+ Nee 
+Werkt u samen met andere partijen? 
+ Ja 
+ Nee 
+Is een of meer van deze partijen een bedrijf? 
+ Ja 
+ Nee 
+Is een of meer van deze bedrijven in het buitenland gevestigd?  Ja 
+ Nee 
+Is een of meer van deze partijen een kennisinstelling?  Ja 
+ Nee 
+Is een of meer van deze kennisinstellingen in het buitenland 
+gevestigd? 
+ Ja 
+ Nee 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie oktober 2015 Pag
+ ina 3 van 3 
+ 
+5  Chec
+kl
+ist bijlagen 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Een machtiging dient toegevoegd 
+te worden waarin de aanbieder de 
+intermediair machtigt om namens 
+hem op te treden. 
+  Bijlage A Projectplan incl. managementsamenvatting en begroting 
+    Bijlage B Businessplan (alleen voor fase 2) 
+  Bijlage C Begroting als apart (pdf) bestand 
+  Bijlage D Managementsamenvatting als apart (pdf) bestand 
+    Bijlage E Machtiging4  
+  NB gebruik het acroniem uit vraag 4 als titel voor al uw digitale bestanden, om 
+correcte en snelle verwerking mogelijk te maken, dus: 
+• acroniem.SBIRform.pdf 
+• acroniem.projectplan.pdf,  
+• acroniem.businessplan.pdf,  
+• acroniem.begroting.pdf  
+• acroniem.man.sam.pdf 
+• acroniem.machtiging.pdf  
+• acroniem.xxx.pdf 
+ 
+6  Verklaring en ondertekening 
+ - Ik ben bevoegd en/of gemachtigd om deze aanbieding te ondertekenen. 
+- Ik verklaar dat dit formulier en de bijlagen naar waarheid zijn ingevuld. 
+- Ik ben bekend met de voorwaarden en procedures van deze precommerciële inkoop zoals 
+beschreven in de SBIR d ocumenten en ik accepteer deze. 
+- Mijn organisatie voldoet aan de voorwaarden zoals gesteld in de 
+SBIR documenten. 
+- (Indien van toepassing) de in het plan genoemde partners hebben een kopie van het 
+projectplan gezien en zijn hiermee akkoord. 
+ 
+ 
+Ondertekenaar       
+  
+Organisatie       
+  
+Datum       
+  
+Handtekening 
+ 
+ 
+ 
+  
+ 
+7  Vervolg 
+ U levert het formulier in 
+Stuur het ingevulde en ondertekende formulier met alle bijlagen tijdig naar RVO.nl.  
+De uiterste inleverdatum verschilt per SBIR; ga naar www.rvo.nl/sbir voor meer informatie.  
+Vergeet niet alle vereiste bijlagen als aparte bestanden mee te sturen. 
+ 
+U ontvangt van ons ontvangstbevestiging 
+Binnen 10 dagen stuurt RVO.nl u per e-mail een ontvangstbevestiging.
+
+=== Document: handleiding sbir 2015 ===
+SBIR handleiding voor ondernemers 
+ 
+Deze handleiding is opgesteld door het SBIR programmabureau van de Rijksdienst voor Ondernemend 
+Nederland (RVO.nl), te bereiken op sbir@rvo.nl. Publicatiedatum: juli 2015. 
+ 
+Inleiding  
+Het SBIR1 programma daagt ondernemers uit om nieuwe producten te ontwikkelen en op de markt te 
+brengen. SBIR gebruikt de creativiteit van ondernemers om maatschappelijke problemen op te lossen. 
+SBIR is een competitie. De ondernemingen met de beste offertes krijgen een opdracht voor een 
+haalbaarheidsonderzoek. De ondernemingen met de meest kansrijke haalbaarheidsonderzoeken krijgen 
+opdracht hun product verder te ontwikkelen. 
+ 
+SBIR is een open competitie voor iedereen die innovatieve (technologische) oplossingen voor 
+maatschappelijke vraagstukken kan ontwikkelen. Ondernemingen zijn bijzonder kosteneffectief als het 
+gaat om onderzoek en ontwikkeling en zijn goed in staat resultaten om te zetten in nieuwe producten, 
+processen of diensten. SBIR richt zich daarbij op ideeën die vaak al langer bestaan bij ondernemingen. 
+ 
+Het SBIR programma is een verzameling uitdagingen. Iedere uitdaging leidt tot opdrachten voor onderzoek 
+en ontwikkeling2. Op steeds nieuwe onderwerpen dagen wij ondernemers uit. Alleen in de beperkte periode 
+dat een uitdaging open staat, kunt u daarvoor een offerte aanbieden. RVO.nl voert SBIR uit in opdracht 
+van verschillende ministeries. 
+ 
+SBIR bestaat uit drie fasen. Dit verkleint de risico’s voor de overheid: alleen voor de beste projecten wordt 
+een onderzoeks- en ontwikkelingstraject betaald. De drie fasen zijn: 
+1. Haalbaarheidsonderzoek 
+2. Toegepast onderzoek en ontwikkeling 
+3. Marktrijp maken 
+Voor fase 1 en 2 geldt: geselecteerde offertes krijgen een opdracht om het voorgestelde onderzoek uit te 
+voeren. De hoogte van de vergoeding is het offertebedrag. Dit moet lager zijn dan het maximumbedrag en 
+marktconform. Fase 3 wordt niet door de overheid gefinancierd. 
+ 
+Voor fase 1 en voor fase 2 beoordeelt een commissie van experts de offertes op: 
+ Impact 
+ Technologische haalbaarheid 
+ Economisch perspectief 
+ Prijs van de offerte  
+                                                
+ 
+1 De afkorting SBIR komt van het Amerikaanse Small Business Innovation Research program. Het Amerikaanse SBIR 
+programma is alleen toegankelijk voor kleine bedrijven. Het Nederlandse SBIR programma is toegesneden op kleinere 
+ondernemingen, maar staat open voor iedereen, ook grote ondernemingen. 
+2 De SBIR behoort tot de zogeheten ‘precommerciële’ inkoop, de aanbestedingswet is hierop niet van toepassing. Wel 
+geldt ook voor SBIR dat de inkoop open, eerlijk en transparant is. 
+ 
+ 
+ 
+ 2 van 15 
+ 
+Inhoudsopgave 
+SBIR handleiding voor ondernemers 1 
+Inhoudsopgave 2 
+1. De oproep 3 
+1.1 De SBIR documenten 3 
+1.2 Vragen 3 
+2. Offerte SBIR fase 1 4 
+2.1 Onderdelen van de offerte 4 
+2.2 Eisen aan offerte fase 1 4 
+2.3 Partijen 5 
+2.4 Prijs en duur van de opdracht 5 
+3. Beoordelingsproces SBIR fase 1 6 
+3.1 Beoordelingscommissie 6 
+3.2 De voorselectie 6 
+3.3 De beoordelingscriteria 6 
+3.4 Drempelwaarde 7 
+3.5 Opdrachtverlening 7 
+3.6 Vertrouwelijkheid 7 
+4. SBIR fase 1: Het haalbaarheidsonderzoek 8 
+4.1 De opdrachtverlening 8 
+4.2 Het intellectueel eigendom 8 
+4.3 Het haalbaarheidsonderzoek 8 
+4.4 Resultaat fase 1: eindrapport 8 
+4.5 Wijzigingen tijdens fase 1 8 
+5. Offerte fase 2 9 
+5.1 Partijen 9 
+5.2 Onderdelen offerte fase 2 9 
+5.3 Prijs en duur van de opdracht 9 
+5.4 Eisen offerte fase 2 9 
+6. Beoordelingsproces SBIR fase 2 10 
+7. SBIR Fase 2: Het onderzoek- en ontwikkelingstraject 11 
+7.1 De opdrachtverlening 11 
+7.2 Het intellectueel eigendom 11 
+7.3 Resultaten fase 2 11 
+7.4 Wijzigingen tijdens fase 2 11 
+8. SBIR Fase 3: marktrijp maken 12 
+9. Formulieren, modellen, formats & overeenkomsten 13 
+10. Nadere Juridische bepalingen 14 
+10.1 Eisen aan partijen 14 
+10.2 Onderzoek en ontwikkeling 14 
+ 
+ 
+ 
+ 
+ 3 van 15 
+ 
+1. De oproep 
+1.1 De SBIR documenten 
+Alle informatie over een specifieke SBIR staat in de documenten die bij een uitdaging horen: 
+ Het vraag en antwoord document. Hierin staan de geanonimiseerde vragen die zijn gesteld over de 
+SBIR-uitdaging en de antwoorden hierop.  
+ De oproep. Deze beschrijft de inhoudelijke kant van een specifieke SBIR-uitdaging en eventueel 
+aanpassingen van de procedure zoals beschreven in de handleiding. 
+ De handleiding. Het voorliggende document dat de procedurele kant van SBIR beschrijft. De in de 
+oproep genoemde versie van de handleiding is van toepassing. 
+ De formats, modellen, formulieren en de SBIR-overeenkomst waarnaar in deze handleiding 
+wordt verwezen.  
+ 
+Mochten er tegenstrijdigheden zitten tussen bovenstaande documenten dan gaat steeds het eerder 
+genoemde document voor het later genoemde document.  
+ 
+Deze documenten zijn te downloaden op www.sbir.nl3.  
+ 
+Deze documenten bevatten informatie over zowel fase 1 als over fase 2. Voor fase 2 verstuurt RVO.nl een 
+offerteverzoek waarin aanvullende voorwaarden kunnen staan.  
+ 
+1.2 Vragen 
+Algemene vragen over SBIR kunt u altijd stellen aan het SBIR programmabureau, bereikbaar op nummer: 
+088 602 5114. Als u vragen heeft over een specifieke SBIR uitdaging dan kunt u: 
+ Deze per e-mail stellen via het e-mail adres dat in de SBIR oproep staat vermeld. Dit kan tot 10 dagen 
+voor het sluiten van de uitdaging. 
+ Deze stellen tijdens de informatiebijeenkomst. Informatie over de informatiebijeenkomst vindt u in de 
+oproep of op www.sbir.nl. 
+ 
+Vragen en antwoorden worden (geanonimiseerd) opgenomen in het vraag en antwoord document . Het is 
+niet mogelijk om uw idee met RVO.nl te bespreken. Wel kunt u terugkoppeling krijgen of uw idee, naar 
+oordeel van RVO.nl, past binnen de SBIR uitdaging. Hiertoe kunt u een beknopte beschrijving (maximaal 1 
+pagina) per e-mail voorleggen. Deze vragen en antwoorden worden niet opgenomen in het vraag en 
+antwoord document . 
+ 
+Het is niet toegestaan om, in het kader van een SBIR- uitdaging, contact te zoeken met de leden van de 
+beoordelingscommissie. Doet u dat wel dan kunt u worden uitgesloten van de verdere competitie. 
+ 
+ 
+                                                
+ 
+3 Dit webadres verwijst door naar: http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir   
+ 
+ 
+ 
+ 4 van 15 
+ 
+2. Offerte SBIR fase 1 
+2.1 Onderdelen van de offerte 
+Een offerte moet een afgebakend project aanbieden. Het is niet mogelijk een deel van een project aan te 
+bieden. Een offerte bestaat uit: 
+1. een volledig ingevuld en ondertekend SBIR-formulier; 
+2. het projectplan in het Nederlands volgens Model Projectplan fase 1; 
+3. de begroting volgens Model begroting fase 1. 
+ 
+Wij verzoeken u uw offerte elektronisch aan te bieden op USB stick of per e-mail aan sbir@rvo.nl. Het 
+volledig ingevulde en ondertekende SBIR formulier, het projectplan, de samenvatting en de begroting 
+moeten daarbij als aparte PDF, Word of Excel bestanden worden aangeleverd.  
+ 
+2.2 Eisen aan offerte fase 1 
+Er wordt met nadruk op gewezen dat aanbieder zelf verantwoordelijk is voor de volledigheid van zijn 
+offerte. Een onvolledige offerte kan leiden tot uitsluiting van de procedure.  
+ 
+RVO.nl toetst of de offerte voldoet aan onderstaande eisen. In de volgende gevallen komen offertes niet in 
+aanmerking voor een opdracht: 
+ Offerte overschrijdt (op welke manier dan ook) het maximum bedrag zoals aangegeven in de oproep. 
+Daarbij wordt gekeken naar het bedrag inclusief btw.  
+ Offerte overschrijdt de maximale looptijd.  
+ Offerte is niet in het Nederlands opgesteld.  
+ Eén (of meerdere) van de volgende bijlagen ontbreekt: 
+o De begroting 
+o Het projectplan 
+ De begroting of het projectplan zijn niet in overeenstemming met de modellen die daarvoor op 
+www.sbir.nl zijn gepubliceerd. 
+ De offerte biedt, op welke manier dan ook, een onderdeel van een project aan in plaats van een 
+volledig project.  
+ 
+RVO.nl kan, maar is daartoe niet verplicht, kleine omissies (die niet inhoudelijk zijn en hierboven niet zijn 
+genoemd) laten herstellen na het sluitingstijdstip. In die gevallen geldt dat RVO.nl per e-mail verzoekt om 
+binnen 2 werkdagen de omissies recht te zetten. Wanneer omissies niet tijdig, of niet juist worden 
+rechtgezet, wordt het voorstel uitgesloten van de competitie en wordt het niet beoordeeld door de 
+beoordelingscommissie. 
+ 
+De volledige offerte moet voor het aangegeven tijdstip ontvangen zijn op de in de oproep aangegeven 
+locatie. Het risico van vertraging tijdens de (post)verzending of door onjuiste/onvolledige adressering is 
+geheel voor rekening van de aanbieder. Offertes die niet op tijd zijn ontvangen, zullen terzijde worden 
+gelegd. 
+ 
+ 
+ 
+ 
+ 5 van 15 
+ 
+2.3 Partijen 
+Het SBIR programma is gericht op ondernemingen met onderzoeks- en ontwikkelingscapaciteit. Ook 
+stichtingen, verenigingen, corporaties en startende ondernemers (privé personen) kunnen meedoen. Voor 
+startende ondernemers geldt dat de onderneming nog niet opgericht hoeft te zijn op het moment dat een 
+offerte wordt uitgebracht. Stichtingen, verenigingen en corporaties zullen extra moeten motiveren waarom 
+zij de aangewezen partij zijn om het voorgestelde product te ontwikkelen én succesvol op de markt te 
+brengen. Alle organisaties, ook die zonder winstoogmerk, moeten duidelijk aangeven hoe de route to 
+market er uit ziet (worden licenties uitgegeven, wordt te zijner tijd een onderneming opgericht?). 
+ 
+Een SBIR opdracht wordt gesloten met één partij. Deze ‘hoofdaannemer’ is verantwoordelijk voor het 
+resultaat en heeft uiteraard de leiding over het project. Deze partij kan samenwerken met 
+onderaannemers. RVO.nl adviseert u afspraken tussen hoofd- en onderaannemers goed schriftelijk vast te 
+leggen.  
+ 
+In hoofdstuk 10.1 zijn nadere eisen aan deelnemende partijen opgenomen. 
+ 
+2.4 Prijs en duur van de opdracht 
+Fase 1 duurt maximaal 6 maanden. Binnen die tijd moet het haalbaarheidsonderzoek zijn afgerond. 
+ 
+U doet een offerte voor een bepaald resultaat tegen een in de offerte aangegeven vaste prijs. Uw offerte 
+moet marktconform zijn. Dus een reële prijs voor wat u aanbiedt. Houdt er bij het bepalen van deze prijs 
+rekening mee dat het intellectueel eigendom (IE) bij u blijft. Er is geen overdracht aan de opdrachtgever. 
+Wel verwerft de opdrachtgever bepaalde rechten (zie paragraaf 4.2). Een marktconforme prijs houdt 
+rekening met het feit dat het IE bij u blijft en ligt daarom altijd lager dan de prijs van exclusief onderzoek 
+en ontwikkeling. Hiermee is bedoeld onderzoek en ontwikkeling dat u exclusief aan de overheid aanbiedt 
+waarbij alle resultaten die voortkomen uit het contract - inclusief alle IE - exclusief voor de overheid zijn. 
+In de begroting dient u het verschil toe te lichten. 
+ 
+U doet een offerte altijd inclusief btw (let op: de bedragen genoemd in de oproep zijn altijd inclusief btw). 
+ 
+U krijgt een vaste prijs voor de SBIR-opdracht en bent verantwoordelijk voor het resultaat. Bij de 
+uitvoering van de opdracht kunt u samenwerken met een kennisinstelling of met andere ondernemingen, 
+of delen van het werk uitbesteden.  
+ 
+De omvang van de opdracht bedraagt nooit meer dan in de SBIR oproep is aangegeven én nooit meer dan 
+het offertebedrag. 
+ 
+Een onderneming kan financiering of subsidie vragen voor onderzoek aanvullend op of naast een SBIR-
+project, daarbij geldt dat RVO.nl alleen de reële kosten vergoedt waar geen subsidie tegenover staat of 
+heeft gestaan. Wél kan een SBIR-opdracht worden gecombineerd met fiscale tegemoetkomingen en 
+vermindering(en) op de belastingafdracht zoals WBSO. 
+  
+ 
+ 
+ 
+ 6 van 15 
+ 
+3. Beoordelingsproces SBIR fase 1 
+3.1 Beoordelingscommissie 
+Een commissie van deskundigen adviseert over de rangschikking van de aangeboden projecten. RVO.nl 
+maakt de leden van de commissie bekend. RVO.nl besluit welke aanbieders een opdracht wordt gegund. 
+De commissie bepaalt haar eigen werkwijze binnen de kaders die door de beschreven procedure worden 
+gegeven. 
+3.2 De voorselectie 
+Wanneer er voor fase 1 veel offertes zijn ontvangen dan maakt de commissie eerst een voorselectie van 
+de, naar hun mening, kansrijke offertes. Voor het maken van de voorselectie kijkt de commissie uitsluitend 
+naar de managementsamenvatting van iedere offerte. 
+Wanneer een offerte niet kansrijk wordt geacht dan komt deze niet in aanmerking voor een opdracht. 
+3.3 De beoordelingscriteria 
+De oproep van een specifieke SBIR beschrijft de beoordelingscriteria waarop de beoordelingscommissie de 
+(kansrijke) offertes beoordeelt. De volgende vier criteria dienen hierbij als uitgangspunt: 
+ 
+1. Impact 
+a. Mate waarin de innovatie bijdraagt aan het oplossen van het maatschappelijk probleem. 
+b. Kwaliteit van de onderbouwing van de impact. 
+c. Mate van innovatie: Hoe groot is de ‘doorbraak’ en hoeveel nieuwe functionaliteit ontstaat voor 
+klanten? 
+d. Bruikbaarheid voor gebruikers. 
+e. Hoeveel waarde levert het voorstel voor het gevraagde budget (‘value for money’)?  
+ 
+2. Technologische haalbaarheid 
+a. Mate waarin het voorstel een technologisch interessante benadering voorstelt.  
+i. Is de benadering veelbelovend? 
+ii. Is de benadering haalbaar?  
+iii. Is de benadering inventief? 
+b. Is (Zijn) dit de juiste partij (partijen) om dit te ontwikkelen?  
+c. Kwaliteit van de technische onderbouwing:  
+i. Is duidelijk wat het ‘technologische startpunt’ is? 
+ii. Is duidelijk welk onderzoek men van plan is te doen? 
+iii. Zijn de voorgestelde middelen in overeenstemming met de voorgestelde aanpak?  
+iv. Is duidelijk hoe het voorgestelde onderzoek bijdraagt aan de doelstelling van het project? 
+v. Is het voorstel goed leesbaar door iemand die goed bekend is met de materie maar geen 
+technisch expert is. 
+ 
+3. Economisch perspectief 
+a. Geeft het voorstel vertrouwen dat de ondernemer een product en/of dienst ontwikkelt waar klanten 
+voor willen betalen? 
+b. In hoeverre is de ondernemer (of het consortium) de juiste partij om de innovatie op de markt te 
+brengen?  
+c. Kwaliteit van de onderbouwing: 
+i. De mate waarin duidelijk is hoe de onderneming geld gaat verdienen 
+ii. De mate waarin onderbouwd is dat de juiste partijen betrokken zijn 
+ 
+ 
+ 
+ 7 van 15 
+ 
+4. Prijs 
+Bij de minimumprijs of lager krijgt een voorstel het maximum aantal punten voor prijs. Bij de 
+maximumprijs krijgt een voorstel 0 punten voor prijs. Tussen minimum en maximum prijs 
+worden punten met een lineaire schaal toegekend. Wanneer de minimumprijs niet expliciet is benoemd, 
+dan is deze € 0,-. 
+ 
+Het gewicht (aantal punten) dat aan de verschillende criteria wordt toegekend, staat in de oproep. 
+ 
+De beoordeling leidt tot een rangorde van de offertes. De beoordelingscommissie adviseert de hoogst 
+gerangschikte offertes te honoreren met een opdracht binnen het beschikbare maximum in geld en/of in 
+aantal, zoals verwoord in de oproep. 
+ 
+3.4 Drempelwaarde 
+Om in aanmerking te komen voor een opdracht dient een offerte op ieder van de criteria, met uitzondering 
+van prijs, een voldoende te halen. Dat wil zeggen dat tenminste 60% van het maximum aantal punten per 
+criterium wordt behaald.  
+ 
+Wanneer de offertes, naar het oordeel van de commissie, volgens deze maatstaven van onvoldoende 
+kwaliteit zijn, adviseert de commissie het in de oproep gepubliceerde budget niet in zijn geheel te 
+besteden, danwel niet het totale aantal voorgenomen opdrachten te gunnen. 
+ 
+3.5 Opdrachtverlening 
+De beoordelingscommissie adviseert RVO.nl. Deze beslist over de opdrachtverlening namens het 
+verantwoordelijke ministerie. De uitslag staat na de beslissing van RVO.nl vast. RVO.nl maakt, in het 
+algemeen, binnen acht weken na het verstrijken van de deadline voor het aanbieden van offertes de 
+uitslag bekend aan de aanbieders.  
+ 
+Bent u ontevreden over de dienstverlening van Rijksdienst voor Ondernemend Nederland? Dan kunt u via 
+mijn.rvo.nl een klacht indienen. Een onderbouwde klacht is voor onze organisatie waardevol. Zo helpt u 
+ons om onze dienstverlening te verbeteren.  
+ 
+3.6 Vertrouwelijkheid 
+Projectplan, managementsamenvatting en begroting worden vertrouwelijk behandeld. RVO.nl publiceert de 
+volgende gegevens van de organisaties die een opdracht gegund krijgen: 
+ de naam van de organisatie 
+ de titel van het project 
+ een korte samenvatting (in overleg met opdrachtnemer) 
+ contactgegevens.  
+ 
+Alle commissieleden en alle medewerkers van RVO.nl die de offertes inzien, hebben een 
+geheimhoudingsplicht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 van 15 
+ 
+4. SBIR fase 1: Het haalbaarheidsonderzoek 
+4.1 De opdrachtverlening 
+De opdrachten worden gegeven door het ondertekenen van de SBIR-overeenkomst voor fase 1 (zie 
+hoofdstuk 9). Gangbaar is om bij aanvang een voorschot te geven van 80% van het offertebedrag. De 
+resterende 20% betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+4.2 Het intellectueel eigendom 
+De opdrachtnemer behoudt het intellectueel eigendom. Opdrachtgever verwerft de volgende rechten: 
+ Het recht de resultaten te gebruiken voor publicitaire doeleinden. 
+ Het recht op het gebruik van de kennis, zonder betaling van licentiekosten.  
+ Het recht de kennis openbaar te maken als hij dat nodig acht in het kader van het algemeen belang.  
+ De mogelijkheid om de onderneming te verplichten om onder redelijke voorwaarden licenties te 
+verstrekken aan derden. 
+ 
+4.3 Het haalbaarheidsonderzoek 
+In het haalbaarheidsonderzoek onderzoekt u die aspecten die voor de haalbaarheid van uw product van 
+belang zijn. Na het haalbaarheidsonderzoek is duidelijk: 
+ of realisatie van innovatie technisch haalbaar is,  
+ of ontwikkeling en productie haalbaar zijn,  
+ of er een marktvraag is en, zo ja, welke partijen nodig zijn om de innovatie te realiseren, 
+ wat de impact van uw project is op het maatschappelijk vraagstuk en 
+ wat de sociale en ecologische aspecten van uw project zijn. 
+ 
+Zaken die van te voren al duidelijk zijn, hoeft u uiteraard in het haalbaarheidsonderzoek niet te 
+onderzoeken. 
+4.4 Resultaat fase 1: eindrapport 
+Het resultaat van een haalbaarheidsonderzoek is een rapport waarin u de resultaten van het 
+haalbaarheidsonderzoek beschrijft en de conclusies die hieruit komen voor een vervolgtraject. Het rapport 
+is opgesteld volgens het format eindrapport haalbaarheidsonderzoek. Dat fase 1 resulteert in een rapport 
+betekent niet dat fase 1 uitsluitend een deskstudy is. Een eerste demonstratie kan bijvoorbeeld een goede 
+manier zijn om de haalbaarheid te onderzoeken.  
+4.5 Wijzigingen tijdens fase 1 
+In goed overleg kunnen, tijdens de uitvoer van fase 1, wijzigingen in het project plaatsvinden. Schriftelijke 
+instemming van RVO.nl is vereist voor iedere wijziging die consequenties heeft voor de resultaten van het 
+project.  
+ 
+Onderaannemers kunnen tijdens de uitvoer van de opdracht worden gewijzigd, mits het projectresultaat 
+hier niet onder lijdt. Wanneer een onderaannemer wordt vervangen moet, naar oordeel van RVO.nl, de 
+nieuwe onderaannemer dus minstens net zo goed zijn als de oude onderaannemer.  
+ 
+ 
+ 
+ 9 van 15 
+ 
+5. Offerte fase 2 
+5.1 Partijen 
+RVO.nl stuurt een offerteverzoek wanneer: 
+ fase 1 naar tevredenheid is afgerond en 
+ het haalbaarheidsonderzoek concludeert dat de innovatie haalbaar is. 
+ 
+Fase 2 staat alleen open voor partijen die daarvoor een offerteverzoek hebben ontvangen en voldoen aan 
+de voorwaarden die voor fase 1 aan partijen zijn gesteld. Eventuele aanvullende voorwaarden staan in het 
+offerteverzoek.  
+ 
+Een andere onderneming dan de hoofdaannemer van fase 1 kan hoofdaannemer voor fase 2 zijn als dit 
+logischerwijs voortkomt uit het haalbaarheidsonderzoek. Dit moet door de hoofdaannemer van fase 1 
+kenbaar worden gemaakt, uiterlijk op het moment dat de rapportage van fase 1 wordt opgeleverd. 
+ 
+5.2 Onderdelen offerte fase 2 
+Een offerte bestaat uit: 
+ Een volledig ingevuld en ondertekend SBIR-formulier. 
+ Projectplan in het Nederlands volgens model fase 2 
+ Businessplan volgens model businessplan (het businessplan mag in het Engels zijn gesteld). 
+ Begroting volgens model fase 2 
+ Zo mogelijk: Intentieverklaring(en) van een financier of eerste klant die bereid is te investeren in de 
+innovatie na fase 2.  
+ 
+Voor de offerte voor fase 2 gelden alle procedures en voorwaarden die gelden voor de offertes voor fase 1. 
+Alleen de bijlagen bij het SBIR formulier verschillen zoals hierboven aangegeven. Daarnaast geldt de 
+volgende aanvullende voorwaarde: De offerte moet zich uitsluitend richten op hoogwaardig onderzoek en 
+ontwikkeling. Activiteiten die hier niet binnen passen kunnen niet in de offerte worden opgevoerd. Welke 
+werkzaamheden onder het begrip onderzoek en ontwikkeling vallen is beschreven in hoofdstuk 10.2. 
+ 
+5.3 Prijs en duur van de opdracht  
+De bepalingen voor fase 1 (zie paragraaf 2.4) gelden ook voor fase 2. Het enige verschil is dat fase 2 
+maximaal 2 jaar duurt. 
+ 
+5.4 Eisen offerte fase 2 
+In aanvulling op de eisen genoemd onder ‘Offerte fase 1’ geldt dat RVO.nl een offerte voor fase 2 ook niet 
+aan de commissie voorlegt wanneer het businessplan ontbreekt. 
+ 
+ 
+ 
+ 
+ 1
+0 
+van 15 
+ 
+6. Beoordelingsproces SBIR fase 2 
+ 
+Het beoordelingsproces voor fase 2 verschilt alleen op de volgende punten van het beoordelingsproces 
+voor fase 1 (zie hoofdstuk 3): 
+ Voor fase 2 vindt geen voorselectie plaats. 
+ Doorgaans krijgen de aanbieders voor fase 2 de gelegenheid om hun offerte voor de commissie toe te 
+lichten. Voor fase 1 zal dit doorgaans niet het geval zijn. 
+ Voor de beoordeling van het economisch perspectief weegt expliciet mee wat de vooruitzichten voor 
+fase 3 zijn.  
+ 
+ 
+ 
+ 
+ 
+ 1
+1 
+van 15 
+ 
+7. SBIR Fase 2: Het onderzoek- en 
+ontwikkelingstraject 
+7.1 De opdrachtverlening 
+De opdrachten worden gegeven door het ondertekenen van de SBIR-overeenkomst voor fase 2 (zie 
+hoofdstuk 9). Gangbaar is om bij aanvang een voorschot te geven van 20% van het offertebedrag. 60% 
+betaald RVO.nl tijdens de uitvoer van fase 2. Deze betalingen zijn gekoppeld aan de voortgang van het 
+project. De resterende 20% betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+7.2 Het intellectueel eigendom 
+Ook voor fase 2 behoudt de opdrachtnemer het intellectueel eigendom. De rechten die de opdrachtgever 
+verwerft zijn gelijk aan de rechten voor fase 1 (zie paragraaf 4.2). 
+ 
+7.3 Resultaten fase 2 
+Aan het eind van SBIR fase 2 wordt opgeleverd: 
+ Een eindrapportage conform het format voor fase 2. 
+ Een demonstratie van een getest product, dienst of proces. 
+ 
+Op aanvraag wordt de volgende (achterliggende) documentatie beschikbaar gesteld om in te zien: 
+ een (technische) specificatie van het product of een beschrijving van de dienst; 
+ een testprotocol; 
+ een productieplan (plan voor de uitvoering van de dienst); 
+ technische documentatie, en 
+ het geactualiseerde businessplan. 
+ 
+7.4 Wijzigingen tijdens fase 2 
+De voorwaarden voor wijziging tijdens fase 2 zijn gelijk aan die van fase 1. 
+ 
+ 
+ 
+ 1
+2 
+van 15 
+ 
+8. SBIR Fase 3: marktrijp maken 
+Fase 3 wordt niet vanuit het SBIR programma gefinancierd. De onderneming informeert de opdrachtgever 
+over de vorderingen van de commercialisatie. Zo nodig kan het SBIR programma bureau ondersteuning 
+bieden. 
+ 
+ 
+ 
+ 
+ 
+ 1
+3 
+van 15 
+ 
+9. Formulieren, modellen, formats & overeenkomsten 
+Op www.sbir.nl kunt u de volgende documenten downloaden:  
+ 
+ SBIR formulier fase 1 en fase 2 
+ Model Projectplan fase 1 
+ Model begroting fase 1 
+ SBIR-overeenkomst fase 1  
+ Format eindrapport fase 1 
+ Model Projectplan fase 2 
+ Model Businessplan fase 2 
+ Model begroting fase 2 
+ SBIR-overeenkomst fase 2  
+ Format eindrapportage fase 2 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 1
+4 
+van 15 
+ 
+10. Nadere Juridische bepalingen 
+10.1 Eisen aan partijen 
+Iedereen die aan de volgende voorwaarden voldoet kan een offerte indienen voor fase 1 van een SBIR-
+uitdaging.  
+ 
+ Bij opdrachtverlening moet de opdrachtnemer ingeschreven zijn in het beroepsregister of in het 
+handelsregister volgens de voorschriften van de lidstaat (EU) waar hij is gevestigd.  
+ Aanbieder mag niet bij een onherroepelijk vonnis of arrest veroordeeld zijn op grond van artikel 140, 
+177, 177a, 178, 225, 226, 227, 227a, 227b of 232a, 328ter, tweede lid, 416, 417, 417bis, 420bis, 
+420ter of 420quater van het Wetboek van Strafrecht. 
+ Aanbieder verkeert niet in staat van faillissement of van liquidatie, de werkzaamheden zijn niet 
+gestaakt, verkeert niet in surseance van betaling of akkoord, of verkeert niet in een andere 
+vergelijkbare toestand ingevolge een soortgelijke procedure die voorkomt in de op hem van toepassing 
+zijnde wet- of regelgeving. 
+ Voor aanbieder is niet faillissement of liquidatie aangevraagd, of is geen procedure van surseance van 
+betaling of akkoord, dan wel een andere soortgelijke procedure die voorkomt in de op hem van 
+toepassing zijnde wet- of regelgeving, aanhangig gemaakt. 
+ Aanbieder is in staat de opdracht met zijn bestaande financiële middelen uit te voeren. Aanbieder zijn 
+geen claims of noodzakelijke investeringen bekend gedurende de periode van de uitvoering van de 
+overeenkomst die de organisatie in een zodanige positie kunnen brengen dat de financieel-
+economische draagkracht of de continuïteit van de organisatie in gevaar wordt gebracht. 
+ Aanbieder is niet bij een rechterlijke uitspraak die kracht van gewijsde heeft volgens de op hem van 
+toepassing zijnde wet- of regelgeving, veroordeeld geweest voor een delict dat de beroepsmoraliteit 
+(van de onderneming) in het gedrang brengt. 
+ Aanbieder heeft voldaan aan zijn verplichtingen ten aanzien van de betaling van de sociale 
+verzekeringsbijdragen overeenkomstig de wettelijke bepalingen van het land waar hij gevestigd is of in 
+het land van de aanbestedende dienst. 
+ Aanbieder heeft aan zijn verplichtingen voldaan ten aanzien van de betaling van zijn belastingen 
+overeenkomstig de wettelijke bepalingen van het land waar hij is gevestigd of van het land van de 
+aanbestedende dienst. 
+ 
+10.2 Onderzoek en ontwikkeling 
+De volgende werkzaamheden vallen onder het begrip “onderzoek en ontwikkeling”:  
+ Experimentele of theoretische activiteiten die worden verricht om nieuwe kennis te verwerven. 
+ Planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met 
+het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, 
+procedés of diensten aanmerkelijk te verbeteren.  
+ Het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technische, 
+zakelijke en andere relevante kennis en vaardigheden voor plannen, schema's of ontwerpen van 
+nieuwe, gewijzigde of verbeterde producten, procedés of diensten.  
+ 
+ 
+ 
+ 1
+5 
+van 15 
+ 
+ Het maken van ontwerpen, tekeningen, plannen en andere documentatie, mits zij niet voor 
+commercieel gebruik zijn bestemd. 
+ De ontwikkeling van commercieel bruikbare prototypes en proefprojecten, indien het prototype het 
+commerciële eindproduct is en de productie ervan te duur is om alleen voor demonstratie- en 
+validatiedoeleinden te worden gebruikt.  
+ De experimentele ontwikkeling en het testen van producten, procedés en diensten, voor zover deze 
+niet voor industriële toepassing of commerciële exploitatie kunnen worden gebruikt of geschikt 
+gemaakt.  
+ De productie van een beperkte 0-serie: beperkte productie of levering om de resultaten van 
+veldproeven te incorporeren en te demonstreren dat het product of de dienst geschikt is voor productie 
+of levering in grotere hoeveelheden volgens aanvaardbare kwaliteitsnormen. 
+ 
+De volgende activiteiten vallen niet onder onderzoek en ontwikkeling: 
+ De routinematige of periodieke wijziging van bestaande producten, productielijnen, 
+fabricageprocessen, diensten en andere courante activiteiten, zelfs indien deze wijzigingen 
+verbeteringen kunnen inhouden.  
+ Prototypes waarvan de marktrijpheid al is getoetst en routinematig of periodieke wijzigingen van 
+bestaande producten, productielijnen, fabricageprocessen of diensten en andere courante 
+werkzaamheden, zelfs indien deze wijzigingen verbeteringen zijn.  
+ Commerciële ontwikkelingsactiviteiten zoals serieproductie, levering om commerciële 
+levensvatbaarheid te bereiken of O&O-kosten te recupereren, integratie, maatwerk, incrementele 
+aanpassingen en verbeteringen van bestaande producten of procedés.
+
+=== Document: sbir oproep mutatieherkenning begroeide terreindelen def ===
+SBIR Oproep 
+ 
+“Mutatieherkenning met satellietdata” 
+ 
+ 
+Openingsdatum: 31-3-2017  
+Sluitingsdatum: 3-05-2017, 12:00 uur  
+Budget: € 230.000,-      
+ 
+ 
+De Rijksdienst voor Ondernemend Nederland (RVO.nl) samen met het Netherlands Space 
+Office (NSO) daagt ondernemers uit om nieuwe producten te ontwikkelen met 
+satellietdata die bijdragen aan de efficiëntie en effectiviteit bij RVO.nl voor het 
+onderhouden van een database met agrarische percelen in Nederland. De beste ideeën 
+krijgen een opdracht voor een haalbaarheidsonderzoek (SBIR fase 1). De beste 
+haalbaarheidsonderzoeken krijgen een vervolgopdracht om een prototype te ontwikkelen 
+en te demonstreren (SBIR fase 2).  
+ 
+Om een versnelling tot stand te brengen in het gebruik van satellietdata bij overheden en 
+in de samenleving heeft het NSO “innovatiegericht inkopen ruimtevaart” geïntroduceerd. 
+Aan de hand van Small Business Innovation Research (SBIR) wordt aan bedrijven de 
+kans geboden om hier op in te schrijven. De financiële middelen hiervoor komen uit het 
+nationaal flankerend ruimtevaartbeleid van het Ministerie van Economische Zaken. Het 
+afgelopen jaar is al een aantal SBIR’s voor dit doel uitgevoerd.  
+ 
+Deze SBIR is er mede op gericht gebruik van data uit het Satellietdataportaal te 
+bevorderen. Het Satellietdataportaal, opgericht in 2012 om voorbereid te zijn op de 
+Sentinel-satellieten als onderdeel van het Copernicus-programma. Het is een faciliteit 
+waarvan Nederlandse overheden, onderzoeksinstellingen en bedrijven gebruik kunnen 
+maken voor de operationalisering van satelliettoepassingen. 
+ 
+1. Het thema: “Mutatieherkenning met satellietdata” 
+ 
+De Rijksdienst voor Ondernemend Nederland (RVO.nl) is onderdeel van het Ministerie 
+van Economische Zaken (EZ) en betaalorgaan van Europese subsidies voor het 
+Gemeenschappelijk Landbouwbeleid (GLB). Een van de taken van het betaalorgaan is het 
+onderhouden van een Land Parcel Identification System (LPIS); in Nederland is dit het 
+Agrarisch Areaal Nederland (AAN). De AAN bevat een selectie van begroeide terreindelen 
+uit de Basisregistratie Grootschalige Topografie (BGT).  
+ 
+Mutatieherkenning is al redelijk ingeburgerd voor het herkennen van nieuwe bebouwing. 
+De mutatieherkenning die RVO.nl wil is voor het herkennen van wijzigingen in de 
+percelen die door RVO.nl in het kader van BGT en GLB onderhouden wordt.   
+ 
+Het gaat hier om zo’n vijfhonderdduizend objecten. De eis voor het bijhouden is dat een 
+wijziging van een object binnen achttien maanden moet zijn doorgevoerd in de BGT. Een 
+zwaar beheerproces. Om dit proces efficiënter te maken kan het interessant zijn om 
+geautomatiseerd de veranderingen te detecteren. Medewerkers kunnen dan gerichter de 
+veranderingen in het veld karteren. Momenteel wordt elk object handmatig gecontroleerd 
+op veranderingen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De BGT-objecten ‘begroeid terreindeel’ betreffen in de regel akkers en weidegronden. 
+Deze gronden worden meestal begrensd door sloten, wegen en houtopstand 
+(boomsingels en houtwallen). Ook kan er sprake zijn van gebouwen of verharding. 
+Veranderingen in deze grenzen is waar het hier om gaat (of nieuwe objecten in het 
+perceel, bijv nieuwe greppel/sloot, schuurtje).  Naast veranderingen van de bestaande 
+grenzen, kunnen er ook nieuwe grenzen ontstaan. Waar een sloot, kavelpad of een 
+houtsingel e.d. wordt aangelegd.  
+ 
+Grenzen herkennen tussen gewassen is niet aan de orde in deze SBIR.  
+ 
+2. Te gebruiken data en methode 
+ 
+Het gebruik van satellietdata zal een cruciaal onderdeel moeten zijn van de methode die 
+wordt aangeboden. Tevens zal de methode voor mutatieherkenning zoveel mogelijk 
+geautomatiseerd moeten zijn en zal onderdeel moeten uitmaken van het huidige proces 
+om veranderingen te controleren. 
+ 
+Bij het aangaan van deze SBIR is het de bedoeling dat dit leidt tot gebruik van 
+satellietdata en dient ter stimulering van het Satellietdataportaal. Dit staat echter gebruik 
+van data uit andere bronnen niet in de weg.  
+ 
+3. Resultaat  
+ 
+Doel van deze SBIR moet zijn om te komen tot een innovatief prototype voor 
+geautomatiseerde mutatieherkenning met behulp van satellietdata waarbij uiteindelijk de 
+onderhoudskosten van de AAN en begroeide terreindelen gereduceerd kunnen worden.  
+ 
+Het uiteindelijke product dat deze SBIR moet opleveren is een puntenbestand met de 
+potentiële mutaties. Zoals RVO.nl dit nu ziet zal een dergelijk bestand een bestand zijn 
+met een percentage aangetroffen mutaties. Niet alle als mutatie aangemerkte punten 
+zullen ook daadwerkelijk mutaties zijn. Anderzijds zullen er feitelijke mutaties zijn die 
+niet in het puntbestand zitten.  
+ 
+Als de aanbieder ideeën heeft hoe dit op een andere manier efficiënter kan, staat RVO.nl 
+daar voor open. 
+ 
+4. Beschikbaar budget. 
+ 
+Het maximum budget per project voor een haalbaarheidsstudie in fase 1 bedraagt € 
+30.000,- (incl. btw). Er worden in fase 1 maximaal 3 haalbaarheidsstudies 
+gecontracteerd. 
+ 
+Het maximum bedrag per project voor fase 2 bedraagt € 70.000,- (incl. btw). Het aantal 
+te honoreren projecten voor fase 2 is afhankelijk van de prijs voor de best beoordeelde 
+offertes in fase 1 en fase 2. In totaal wordt een budget van € 230.000,- beschikbaar 
+gesteld door het ministerie van EZ voor fase 1 en fase 2 van deze SBIR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Beoordeling 
+ 
+De beoordeling vindt plaats door deskundigen van de RVO en het Netherlands Space 
+Office (NSO). In de SBIR handleiding (versie januari 2017, 
+https://mijn.rvo.nl/documents/20448/80899/SBIR-handleiding+2017/198eeefb-9cf3-
+4bcf-b0e9-69c1e969aef0 ) vindt u de voorwaarden en beoordelingscriteria die voor SBIR-
+voorstellen in het algemeen gelden. 
+ 
+Bij de beoordeling is per criterium maximaal het volgende aantal punten toe te kennen: 
+ 
+1. Impact op het onderhoud van het register: 40 
+2. Technologische haalbaarheid: 40 
+3. Economisch perspectief: 20 
+Voor deze SBIR zijn voor het eerste criterium “Impact op het onderhoud van het register” 
+de volgende aspecten van belang:  
+ 
+a. hoe groot is de bijdrage aan het oplossen van het vraagstuk waar de uitdaging 
+zich op richt? 
+b. kwaliteit van de onderbouwing van de impact 
+c. mate van innovatie: hoe groot is de ‘doorbraak’ en hoeveel nieuwe functionaliteit 
+ontstaat voor klanten? 
+d. Bruikbaarheid en navolgbaarheid van de informatie voor gebruikers. Onder 
+bruikbaarheid wordt verstaan de mate waarin de innovatie en technologie 
+geschikt is, of geschikt te maken is, voor de bedrijfssystemen en de beschikbare 
+kennis en kunde bij de klant. Hoe personeels- en kennisintensief is het 
+product/dienst voor de klant, is met enige bijscholing het eigen personeel in staat 
+om het uit te voeren en te interpreteren?  
+e. Hoeveel waarde levert het voorstel voor het gevraagde budget (‘value for 
+money’)? 
+ 
+6. Informatiebijeenkomst 
+ 
+Op 20-04-2017 is er bij de RVO.nl te Den Haag een informatiebijeenkomst. U kunt zich 
+hiervoor aanmelden via de mail info@spaceoffice.nl met vermelding van uw persoons- en 
+firmagegevens. 
+ 
+Het adres is: RVO.nl Den Haag 
+Prinses Beatrixlaan 2, 2595 AL Den Haag 
+ 
+Het programma van de informatiemiddag ziet er als volgt uit: 
+ 13:30-14:00 uur: Inloop met koffie en thee 
+ 14:00-16:00 uur: Presentaties en gelegenheid tot het stellen van vragen. 
+ 16:00-16:45 uur: Napraten met een drankje. 
+ 
+7. Uitvoering 
+ 
+Het Netherlands Space Office (NSO) voert samen met RVO.nl deze SBIR-aanbesteding 
+uit. NSO, als dé Nederlandse ruimtevaartorganisatie, ontwikkelt in opdracht van en in  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+overleg met de Nederlandse overheid het Nederlandse ruimtevaartprogramma en voert 
+dat uit. Een belangrijke randvoorwaarde voor het slagen van het Nederlandse 
+ruimtevaartprogramma is een goede vraagsturing vanuit de overheid, de wetenschap 
+en/of de markt, bijvoorbeeld via de Topsectoren. Dit is essentieel voor het behoud van 
+draagvlak voor investeringen in de ruimtevaart. 
+ 
+8. Informatie en contact 
+ 
+Alle informatie over deze tender vindt u op de volgende website: 
+http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir   
+Heeft u vragen met betrekking tot de SBIR “Mutatieherkenning met satellietdata” dan 
+kunt u deze stellen aan het emailadres: info@spaceoffice.nl. Het NSO-secretariaat is 
+telefonisch bereikbaar op nummer 088-6024500 
+ 
+ 
+9. Indienen van de offerte 
+ 
+In de SBIR-handleiding (versie januari 2017, paragraaf 2.1) staat beschreven waar een 
+volledige offerte uit bestaat. Het elektronisch exemplaar moet voor 12:00 uur zijn 
+ontvangen door NSO op info@spaceoffice.nl op de sluitingsdatum 3-05-2017.  
+ 
+10. Publiciteit en intellectueel eigendom 
+ 
+In de SBIR-handleiding (versie januari 2017) staan de afspraken ten aanzien van 
+publiciteit en intellectuele eigendom beschreven in paragraaf 4.2 en 7.2. 
+ 
+11. Tijdpad 
+ 
+Informatiebijeenkomst 20 april 2017 
+Sluiting tender, indienen fase 1 offertes 3 mei 2017, 12:00u 
+Bekendmaking uitslag 15 mei 2017 
+Opdrachtverstrekking fase 1 18 mei 2017 
+Inleveren rapport fase 1 en fase 2 offertes oktober 2017 
+Bekendmaking uitslag fase 2 oktober 2017 
+Opdrachtverstrekking fase 2 oktober 2017 
+Deadline eindrapport fase 2 april 2018 
+ 
+ 
+De Rijksdienst voor Ondernemend Nederland en het Netherlands Space Office behouden 
+zich het recht om bijgevoegd tijdspad indien nodig aan te passen. Dit zal tijdig aan 
+(potentiële) opdrachtnemers worden gecommuniceerd.
+
+=== Document: fase 1 projectplan ===
+1  van  2 
+ 
+ 
+ 
+ 
+SBIR Model Projectplan fase 1 
+Dit model projectplan voor fase 1 beschrijft de informatie die het projectplan moet bevatten. Daarnaast is 
+voor ieder hoofdstuk tussen haakjes aangegeven hoelang het maximaal mag zijn. 1 pagina A4 komt 
+ongeveer overeen met 500 woorden. 
+ 
+Titel. De titel van het project, zoals aangegeven op het SBIR-formulier. 
+ 
+1 Management Samenvatting (maximaal 1000 woorden) 
+Ga kort in op de volgende punten: 
+ Beschrijf in een paar zinnen uw project en waarom een haalbaarheidsonderzoek nodig is. 
+ Geef een beschrijving van uw bedrijf en eventuele partners. 
+ Beschrijf hoe u het project aanpakt en welke vragen u wilt beantwoorden met dit project.  
+ 
+Ga vervolgens in op hoe uw project beantwoordt aan de verschillende criteria: 
+ 
+Impact  
+Hoe zal de voorgestelde innovatie (product, proces, dienst) bijdragen aan de maatschappelijke doelstelling 
+zoals beschreven in de oproep? 
+ 
+Technologische haalbaarheid  
+Beschrijf kort de technische aanpak. Wat is er al? Wat is nieuw? Waar liggen de grootste uitdagingen? Is 
+de expertise aan boord om de ontwikkeling tot een succes te maken? Waarom is onderzoek en 
+ontwikkeling nodig? 
+ 
+Economisch perspectief    
+Beschrijf het marktperspectief: is de innovatie breed (meerdere sectoren, of meerdere producten) 
+toepasbaar of smal (niches)? Maak aannemelijk dat uw product, dienst of proces op de markt komt en een 
+succes wordt. Waarom verslaat u de concurrentie? Zijn er marktfactoren van belang die het slagen van het 
+project in de weg zitten, zoals bijvoorbeeld regelgeving? Leg ook uit waarom uw bedrijf (met eventuele 
+partners) dit project tot een commercieel succes kan maken. 
+ 
+2 Het resultaat van het project (maximaal 500 woorden) 
+Welk product, proces of dienst wilt u ontwikkelen? Beschrijf duidelijk het voorgestelde project en het 
+resultaat. Hoe beantwoordt dit aan het thema van de SBIR oproep en hoe groot is de impact? Vermijd 
+daarbij het gebruik van onnodig technisch jargon. Wat zijn de belangrijkste eisen waaraan het resultaat 
+moet voldoen? Welke risico’s voorziet u technisch, commercieel of financieel? Welk probleem wordt door 
+dit nieuwe product opgelost? 
+ 
+3 Het bedrijf en partners (maximaal 1000 woorden) 
+Dit hoofdstuk is het curriculum vitae van het bedrijf. In dit stuk geeft u duidelijk aan waarom uw bedrijf de 
+juiste partij is om deze innovatie te ontwikkelen en tot een commercieel succes te maken. Beschrijf 
+mogelijk relevante ervaringen met vergelijkbare innovatietrajecten of (samenwerkings-) projecten. 
+Beschrijf ook de eventuele partners in dit project: hun expertise, de reden voor samenwerking en hoe het 
+project past in de (bedrijfs)strategie van de projectpartners. 
+ 
+Zaken die daarbij van belang kunnen zijn: 
+ Kernactiviteiten van het bedrijf en belangrijkste markt. 
+ Mission statement en ambitie van het bedrijf (waar wilt u over 3 à 5 jaar zijn). 
+ Kerngegevens bedrijf: jaar van oprichting, aantal medewerkers. 
+ 
+ 
+ 
+ 2  van  2 
+ Financieel inzicht in de organisatie: Geef uw laatste (concept) jaarcijfers, uw cashflow -en 
+exploitatieoverzicht.  
+ Organisatiestructuur, indien relevant de positie ten opzichte van andere BV’s bijvoorbeeld moeder- 
+zuster- dochterbedrijven, management BV, holding etc. 
+ Aandeelhouders en juridische structuur van de (groep van) onderneming(en) 
+ Commissarissen. 
+ 
+4 Innovatie paragraaf (maximaal 1000 woorden) 
+Leg uit welke innovatie moet plaatsvinden om het product / dienst / proces te verwezenlijken. Wat zijn de 
+kritieke factoren? Waar liggen de risico’s? Waarom is een haalbaarheidsonderzoek en een onderzoeks- en 
+ontwikkelingstraject nodig? Waarom brengt u het niet nu al op de markt? Welke alternatieven zijn er? Wat 
+is nieuw aan uw innovatie ten opzichte van bestaande alternatieven en wat is het voordeel ervan? Zijn er 
+specifieke problemen of eisen van het toepassingsgebied of de sector? Hoe wilt u de innovatie 
+beschermen? Zijn er octrooien die de ontwikkeling van uw innovatie belemmeren? 
+ 
+5 Economische perspectief (maximaal 1000 woorden) 
+ Beschrijf hoe de markt eruit ziet. Hoe groot is de markt? Wat is uw doelgroep? Wat zijn uw 
+concurrenten? 
+ Beschrijf hoe u geld gaat verdienen aan de innovatie. Wat is uw route to market ? Geeft u licenties uit? 
+Neemt u het zelf in productie? Wat is uw strategie? 
+ Beschrijf uw product vanuit het perspectief van uw klanten. Welk probleem lost u voor ze op? Wat 
+zullen ze bereid zijn daarvoor te betalen? 
+ Beschrijf welke positie u op de markt wilt verwerven met uw product. 
+ 
+6 Uitvoering van het project (maximaal 2000 woorden) 
+Doelstelling  
+ Geef de doelstelling van het haalbaarheidsproject in termen van beoogde resultaten.  
+ Geef aan waarvoor en hoe de opgedane kennis gebruikt zal worden in het op het 
+haalbaarheidsonderzoek volgende onderzoeks- en ontwikkelingstraject. 
+ 
+Probleemstelling 
+ Geef expliciet aan op welke vragen u een antwoord zoekt.  
+ Geef aan welke kennis u wilt verwerven. 
+ Geef aan welke knelpunten zich hierbij kunnen voordoen. 
+ 
+Methode en activiteiten 
+ Geef aan hoe u denkt te komen tot de beantwoording van de gestelde vragen. 
+ Beschrijf risico’s (‘faalkansen’) en de strategie om deze te minimaliseren. 
+ Geef aan hoe u de mogelijkheden voor strategische samenwerking met andere partijen gaat 
+onderzoeken. 
+ 
+Projectmanagement en fasering 
+ Ga in op de projectorganisatie, de taakverdeling (inclusief eventueel in te schakelen derden), de 
+fasering en de belangrijkste medewerkers in het project (voeg korte cv’s toe).

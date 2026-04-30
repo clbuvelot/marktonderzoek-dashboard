@@ -29,9 +29,24 @@ INPUT_BESTANDEN = [
     "data/raw_kamerstukken.json",
 ]
 OUTPUT_DIR = "data"
+DOCUMENTEN_DIR = "data/documenten"
 MODEL = "claude-haiku-4-5-20251001"
 TWIJFEL_DREMPEL = 0.6
-BATCH_GROOTTE = 15  # kleiner vanwege grotere output per record
+BATCH_GROOTTE = 10  # kleiner vanwege grotere input met documenten
+
+
+def laad_document_tekst(pub_id: str, max_tekens: int = 6000) -> str:
+    """Laadt eerste max_tekens tekens van het aanbestedingsdocument."""
+    if not pub_id:
+        return ""
+    pad = os.path.join(DOCUMENTEN_DIR, f"{pub_id}.txt")
+    if not os.path.exists(pad):
+        return ""
+    try:
+        with open(pad, encoding="utf-8") as f:
+            return f.read()[:max_tekens]
+    except Exception:
+        return ""
 
 
 # ── Taxonomie ─────────────────────────────────────────────────────────────────
@@ -94,6 +109,12 @@ TAXONOMIE = {
         "Groot (> €200k)",
         "Onduidelijk",
     ],
+    "gunningscriteria": [
+        "Laagste prijs",
+        "Beste prijs-kwaliteitverhouding (BPKV)",
+        "Kwaliteit (geen prijs)",
+        "Onduidelijk",
+    ],
 }
 
 
@@ -102,6 +123,29 @@ TAXONOMIE = {
 SYSTEEM_PROMPT = """Je bent een expert in Nederlandse beleidsevaluatie en aanbestedingen.
 Je classificeert aanbestedingsteksten naar meerdere dimensies tegelijk.
 Antwoord UITSLUITEND met geldig JSON. Geen uitleg, geen markdown, geen inleiding."""
+
+TEAM_BESCHRIJVINGEN = """
+ECORYS TEAMS — gebruik deze beschrijvingen om te bepalen welke teams relevant zijn:
+
+1. Evaluaties
+   Beleidsevaluaties, effectmetingen, beleidsdoorlichtingen, syntheseonderzoek,
+   monitoring & evaluatie, RCT, quasi-experimenteel onderzoek, doeltreffendheids-
+   en doelmatigheidsonderzoeken voor ministeries en uitvoeringsorganisaties.
+
+2. TIM (Transport, Infrastructuur & Mobiliteit)
+   Strategiestudies, beleidsstudies, evaluaties en MKBA op het gebied van:
+   duurzaam transport, weginfrastructuur, openbaar vervoer, stedelijke mobiliteit,
+   parkeren, havens, corridors, logistiek, luchtvaart en luchthavens.
+
+3. Brede Welvaart
+   MKBA, brede welvaartsanalyse, regionale economische ontwikkeling, leefbaarheid,
+   woonwensen, arbeidsmarkt & regio, monitoren van brede welvaartsindicatoren,
+   economische visies voor gemeenten/regio's, sociale cohesie, welzijn.
+
+4. Sustainable Transitions
+   Energietransitie, klimaatadaptatie, circulaire economie, verduurzaming,
+   EU Green Deal, just transition, natuurinclusief beleid, duurzame landbouw,
+   milieu-effecten, emissiereductie, warmtetransitie, biodiversiteit."""
 
 
 # ── Classificatieprompt ───────────────────────────────────────────────────────
@@ -113,14 +157,22 @@ def bouw_classificatieprompt(records: list[dict]) -> str:
     evaluatiefases = "\n".join(f"  - {e}" for e in TAXONOMIE["evaluatiefases"])
     databronnen = "\n".join(f"  - {d}" for d in TAXONOMIE["databronnen"])
     opdrachtgroottes = "\n".join(f"  - {o}" for o in TAXONOMIE["opdrachtgrootte"])
+    gunningscriteria = "\n".join(f"  - {g}" for g in TAXONOMIE["gunningscriteria"])
 
     records_tekst = ""
     for i, r in enumerate(records):
-        tekst = (r.get("titel", "") + " " + r.get("omschrijving", "")).strip()
-        tekst = tekst[:2000]
-        records_tekst += f'\nRECORD {i}:\n"""\n{tekst}\n"""\n'
+        basis = (r.get("titel", "") + "\n" + r.get("omschrijving", "")).strip()
+        basis = basis[:1500]
+        doc_tekst = laad_document_tekst(r.get("id", ""))
+        if doc_tekst:
+            records_tekst += f'\nRECORD {i}:\n"""\n{basis}\n\n--- AANBESTEDINGSDOCUMENT ---\n{doc_tekst}\n"""\n'
+        else:
+            records_tekst += f'\nRECORD {i}:\n"""\n{basis}\n"""\n'
 
     return f"""Classificeer de onderstaande aanbestedingsteksten naar alle opgegeven dimensies.
+Sommige records bevatten het volledige aanbestedingsdocument — gebruik die voor nauwkeurigere classificatie.
+
+{TEAM_BESCHRIJVINGEN}
 
 TAXONOMIE:
 
@@ -139,8 +191,11 @@ Evaluatiefase (kies precies 1):
 Databronnen (kies 1 of meer die expliciet genoemd of sterk geïmpliceerd worden):
 {databronnen}
 
-Opdrachtgrootte (kies precies 1, schat op basis van omvang en complexiteit):
+Opdrachtgrootte (kies precies 1, schat op basis van omvang/complexiteit/waarde):
 {opdrachtgroottes}
+
+Gunningscriterium (kies precies 1):
+{gunningscriteria}
 
 RECORDS:
 {records_tekst}
@@ -149,6 +204,8 @@ Retourneer een JSON-array. Elk object heeft deze structuur:
 [
   {{
     "index": 0,
+
+    "teams": ["<één of meer van: Evaluaties, TIM, Brede Welvaart, Sustainable Transitions>"],
 
     "thema": "<kies uit lijst>",
     "thema_betrouwbaarheid": 0.0-1.0,
@@ -170,6 +227,9 @@ Retourneer een JSON-array. Elk object heeft deze structuur:
     "opdrachtgrootte": "<kies uit lijst>",
     "opdrachtgrootte_betrouwbaarheid": 0.0-1.0,
 
+    "gunningscriterium": "<kies uit lijst>",
+    "looptijd_maanden": <getal of null>,
+
     "causaliteitsvraag": true/false,
     "herhalingskans": "hoog/laag/onduidelijk",
     "consortiumkans": true/false,
@@ -180,11 +240,15 @@ Retourneer een JSON-array. Elk object heeft deze structuur:
 ]
 
 Regels:
+- teams: lege lijst [] als de opdracht voor GEEN van de vier teams relevant is. Dit geldt ALTIJD voor: inhuurcontracten, detachering, tijdelijke personeelsinzet, adviseur/projectleider/regisseur functies, en puur ecologisch veldwerk, ICT-ontwikkeling of technisch ingenieurswerk
+- Een opdracht is alleen relevant voor een team als het gaat om een onderzoeks-, evaluatie-, advies- of beleidsstudieopdracht — geen personeelsinzet
+- Voor echte onderzoeks- en adviesopdrachten mag teams meerdere waarden bevatten als de opdracht meerdere teams raakt (bijv. een MKBA voor een mobiliteitsmaatregel is zowel TIM als Evaluaties; een warmtetransitiestudie is zowel Sustainable Transitions als Brede Welvaart)
 - methodiek_kwantitatief is true voor: Quasi-experimenteel, RCT, Statistisch/econometrisch, MKBA
 - causaliteitsvraag is true als de tekst expliciet vraagt om een causaal effect aan te tonen
 - herhalingskans is hoog als het een monitor, panel of periodieke meting betreft
 - consortiumkans is true als de opdracht zowel kwalitatief als kwantitatief werk vereist
-- betrouwbaarheid per dimensie: 1.0 = expliciete vermelding in tekst, 0.5 = redelijke afleiding, 0.2 = gok
+- looptijd_maanden: extraheer uit document als vermeld, anders null
+- betrouwbaarheid: 1.0 = expliciete vermelding in document, 0.7 = duidelijk afleidbaar, 0.5 = redelijke afleiding, 0.2 = gok
 - Geef altijd exact evenveel objecten terug als records
 - Antwoord ALLEEN met de JSON-array"""
 
@@ -224,6 +288,7 @@ def _lege_classificaties(n: int) -> list[dict]:
     return [
         {
             "index": i,
+            "teams": [],
             "thema": "Overig / onduidelijk",
             "thema_betrouwbaarheid": 0.0,
             "subthema": "",
@@ -238,6 +303,8 @@ def _lege_classificaties(n: int) -> list[dict]:
             "databronnen_betrouwbaarheid": 0.0,
             "opdrachtgrootte": "Onduidelijk",
             "opdrachtgrootte_betrouwbaarheid": 0.0,
+            "gunningscriterium": "Onduidelijk",
+            "looptijd_maanden": None,
             "causaliteitsvraag": False,
             "herhalingskans": "onduidelijk",
             "consortiumkans": False,
@@ -300,12 +367,14 @@ def sla_op_csv(records: list[dict], bestandsnaam: str):
         "id", "tenderned_kenmerk", "publicatie_type", "bron",
         "titel", "aanbestedende_dienst", "publicatiedatum", "sluitingsdatum",
         "gunningswaarde", "winnaar", "procedure_type", "europees", "url",
+        "teams",
         "thema", "thema_betrouwbaarheid", "subthema",
         "methodiek", "methodiek_betrouwbaarheid", "methodiek_kwantitatief",
         "skills", "skills_betrouwbaarheid",
         "evaluatiefase", "evaluatiefase_betrouwbaarheid",
         "databronnen", "databronnen_betrouwbaarheid",
         "opdrachtgrootte", "opdrachtgrootte_betrouwbaarheid",
+        "gunningscriterium", "looptijd_maanden",
         "causaliteitsvraag", "herhalingskans", "consortiumkans",
         "betrouwbaarheid", "toelichting",
     ]
@@ -317,6 +386,7 @@ def sla_op_csv(records: list[dict], bestandsnaam: str):
             cl = r.get("classificatie") or {}
             rij = {k: r.get(k, "") for k in velden}
             rij.update({
+                "teams": " | ".join(cl.get("teams", [])),
                 "thema": cl.get("thema", ""),
                 "thema_betrouwbaarheid": cl.get("thema_betrouwbaarheid", ""),
                 "subthema": cl.get("subthema", ""),
@@ -331,6 +401,8 @@ def sla_op_csv(records: list[dict], bestandsnaam: str):
                 "databronnen_betrouwbaarheid": cl.get("databronnen_betrouwbaarheid", ""),
                 "opdrachtgrootte": cl.get("opdrachtgrootte", ""),
                 "opdrachtgrootte_betrouwbaarheid": cl.get("opdrachtgrootte_betrouwbaarheid", ""),
+                "gunningscriterium": cl.get("gunningscriterium", ""),
+                "looptijd_maanden": cl.get("looptijd_maanden", ""),
                 "causaliteitsvraag": cl.get("causaliteitsvraag", False),
                 "herhalingskans": cl.get("herhalingskans", ""),
                 "consortiumkans": cl.get("consortiumkans", False),
@@ -401,12 +473,24 @@ def main():
         1 for r in geclassificeerd
         if (r.get("classificatie") or {}).get("methodiek_kwantitatief", False)
     )
+    per_team = {}
+    for team in ["Evaluaties", "TIM", "Brede Welvaart", "Sustainable Transitions"]:
+        per_team[team] = sum(
+            1 for r in geclassificeerd
+            if team in ((r.get("classificatie") or {}).get("teams", []))
+        )
 
     print(f"""
 === Samenvatting ===
-Totaal geclassificeerd : {len(geclassificeerd)}
-Kwantitatief           : {kwantitatief} ({100*kwantitatief//max(len(geclassificeerd),1)}%)
-Twijfelgevallen        : {len(twijfelgevallen)}
+Totaal geclassificeerd  : {len(geclassificeerd)}
+Kwantitatief            : {kwantitatief} ({100*kwantitatief//max(len(geclassificeerd),1)}%)
+Twijfelgevallen         : {len(twijfelgevallen)}
+
+Relevant per team:
+  Evaluaties            : {per_team['Evaluaties']}
+  TIM                   : {per_team['TIM']}
+  Brede Welvaart        : {per_team['Brede Welvaart']}
+  Sustainable Transitions: {per_team['Sustainable Transitions']}
 
 Volgende stap: python koppel_winnaar.py
 """)

@@ -24,6 +24,8 @@ from datetime import datetime
 # ── Configuratie ──────────────────────────────────────────────────────────────
 
 OUTPUT_DIR = "data"
+DOCUMENTEN_DIR = "data/documenten"
+TENDERNED_DOC_BASE = "https://www.tenderned.nl/papi/tenderned-rs-tns/v2/publicaties"
 
 # CPV-codes voor onderzoek, evaluatie en advies
 RELEVANTE_CPV_CODES = [
@@ -72,14 +74,48 @@ TENDERNED_TNS_BASE = "https://www.tenderned.nl/papi/tenderned-rs-tns/v2/publicat
 def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
     """
     Haalt aanbestedingen op uit TenderNed:
-    - AGO (gegunde opdrachten) vanaf jaar_vanaf — historisch marktbeeld
-    - AOO (lopende aanbestedingen) — geen datumfilter, altijd actueel
+    1. Eerst alle AAO's (uitvragen) ophalen — dit zijn de basis
+    2. Dan AGO's (gunningen) ophalen — alleen voor uitvragen die als AAO zijn gevonden
+    3. Merge: AGO vervangt AAO als gunning beschikbaar is
     """
-    resultaten = {}
     datum_vanaf = f"{jaar_vanaf}-01-01"
 
-    # AGO: gegunde opdrachten (historisch)
-    print(f"\n[TenderNed] Ophalen gegunde opdrachten (AGO) vanaf {datum_vanaf}")
+    # ── Stap 1: AAO's ophalen ────────────────────────────────────────────────
+    print(f"\n[TenderNed] Ophalen uitvragen (AAO) vanaf {datum_vanaf}")
+    aao_per_kenmerk = {}
+    for cpv in RELEVANTE_CPV_CODES:
+        pagina = 0
+        while True:
+            params = {
+                "cpvCodes": cpv,
+                "publicatieDatumVanaf": datum_vanaf,
+                "publicatieType": "AAO",
+                "page": pagina,
+                "size": 50,
+            }
+            batch, totaal = _tenderned_request(params, label=f"AAO CPV {cpv}, p{pagina}")
+            if not batch:
+                break
+            for item in batch:
+                pub_id = str(item.get("id", item.get("publicatieId", "")))
+                kenmerk = str(item.get("kenmerk", "") or pub_id)
+                if pub_id:
+                    item["_publicatie_type"] = "lopend"
+                    # Bij duplicaat kenmerk: meest recente bewaren
+                    if kenmerk not in aao_per_kenmerk:
+                        aao_per_kenmerk[kenmerk] = item
+            if pagina == 0 and totaal:
+                print(f"    Totaal beschikbaar: {totaal}")
+            if len(batch) < 50:
+                break
+            pagina += 1
+            time.sleep(0.3)
+
+    print(f"  → {len(aao_per_kenmerk)} unieke uitvragen gevonden")
+
+    # ── Stap 2: AGO's ophalen en koppelen ───────────────────────────────────
+    print(f"\n[TenderNed] Ophalen gunningen (AGO) vanaf {datum_vanaf}")
+    gekoppeld = 0
     for cpv in RELEVANTE_CPV_CODES:
         pagina = 0
         while True:
@@ -90,14 +126,17 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
                 "page": pagina,
                 "size": 50,
             }
-            batch, totaal = _tenderned_request(params, label=f"AGO CPV {cpv}, pagina {pagina}")
+            batch, totaal = _tenderned_request(params, label=f"AGO CPV {cpv}, p{pagina}")
             if not batch:
                 break
             for item in batch:
-                pub_id = str(item.get("id", item.get("publicatieId", "")))
-                if pub_id:
+                kenmerk = str(item.get("kenmerk", "") or "")
+                if kenmerk and kenmerk in aao_per_kenmerk:
+                    # Bewaar de originele AAO publicatiedatum
+                    item["_aao_publicatiedatum"] = aao_per_kenmerk[kenmerk].get("publicatieDatum", "")
                     item["_publicatie_type"] = "gegund"
-                    resultaten[pub_id] = item
+                    aao_per_kenmerk[kenmerk] = item
+                    gekoppeld += 1
             if pagina == 0 and totaal:
                 print(f"    Totaal beschikbaar: {totaal}")
             if len(batch) < 50:
@@ -105,33 +144,9 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
             pagina += 1
             time.sleep(0.3)
 
-    # AOO: lopende aanbestedingen (altijd actueel, geen datumfilter)
-    print(f"\n[TenderNed] Ophalen lopende aanbestedingen (AAO)")
-    for cpv in RELEVANTE_CPV_CODES:
-        pagina = 0
-        while True:
-            params = {
-                "cpvCodes": cpv,
-                "publicatieType": "AAO",
-                "page": pagina,
-                "size": 50,
-            }
-            batch, totaal = _tenderned_request(params, label=f"AAO CPV {cpv}, pagina {pagina}")
-            if not batch:
-                break
-            for item in batch:
-                pub_id = str(item.get("id", item.get("publicatieId", "")))
-                if pub_id:
-                    item["_publicatie_type"] = "lopend"
-                    resultaten[pub_id] = item
-            if pagina == 0 and totaal:
-                print(f"    Totaal beschikbaar: {totaal}")
-            if len(batch) < 50:
-                break
-            pagina += 1
-            time.sleep(0.3)
+    print(f"  → {gekoppeld} gunningen gekoppeld aan uitvragen")
 
-    records = list(resultaten.values())
+    records = list(aao_per_kenmerk.values())
     gegund = sum(1 for r in records if r.get("_publicatie_type") == "gegund")
     lopend = sum(1 for r in records if r.get("_publicatie_type") == "lopend")
     print(f"\n[TenderNed] Totaal: {len(records)} ({gegund} gegund, {lopend} lopend)")
@@ -196,7 +211,10 @@ def normalize_tenderned(record: dict) -> dict:
         "procedure_code": (record.get("procedure") or {}).get("code", ""),
 
         # Datums
-        "publicatiedatum": record.get("publicatieDatum", ""),
+        # publicatiedatum = altijd de datum van de originele uitvraag (AAO)
+        # gunningsdatum   = datum van de gunningsaankondiging (AGO), leeg als niet gegund
+        "publicatiedatum": record.get("_aao_publicatiedatum", "") or record.get("publicatieDatum", ""),
+        "gunningsdatum": record.get("publicatieDatum", "") if record.get("_publicatie_type") == "gegund" else "",
         "sluitingsdatum": record.get("sluitingsDatum", "") or record.get("sluitingsdatumAanbesteding", ""),
 
         # Financieel
@@ -211,6 +229,9 @@ def normalize_tenderned(record: dict) -> dict:
         # Links
         "url": f"https://www.tenderned.nl/aankondigingen/overzicht/{pub_id}",
         "tsender_link": (record.get("link") or {}).get("href", "") if isinstance(record.get("link"), dict) else str(record.get("link", "") or ""),
+
+        # Documenten (worden apart opgeslagen in data/documenten/{id}.txt)
+        "documenten_geladen": os.path.exists(os.path.join(DOCUMENTEN_DIR, f"{pub_id}.txt")),
 
         # Classificatie (wordt ingevuld door classify.py)
         "classificatie": None,
@@ -335,36 +356,159 @@ def _parse_kamerstuk_record(record, ns: dict) -> dict | None:
         return None
 
 
+# ── Documenten ophalen ────────────────────────────────────────────────────────
+
+def haal_documentenlijst_op(publicatie_id: str) -> list[dict]:
+    """Haalt de lijst van beschikbare documenten op voor een publicatie."""
+    url = f"{TENDERNED_DOC_BASE}/{publicatie_id}/documenten"
+    try:
+        r = requests.get(url, timeout=15, headers={"Accept": "application/json"})
+        if r.status_code == 404:
+            return []
+        r.raise_for_status()
+        data = r.json()
+        return data.get("documenten", [])
+    except Exception:
+        return []
+
+
+def haal_document_tekst_op(publicatie_id: str, document_id: str) -> str:
+    """Downloadt en extraheert tekst uit een document via de download href."""
+    url = f"https://www.tenderned.nl/papi/tenderned-rs-tns/v2/publicaties/{publicatie_id}/documenten/{document_id}/content"
+    try:
+        r = requests.get(url, timeout=30)
+        if r.status_code != 200:
+            return ""
+        content_type = r.headers.get("Content-Type", "")
+        if "pdf" in content_type.lower():
+            return _extraheer_pdf_tekst(r.content)
+        if "word" in content_type.lower() or "docx" in content_type.lower():
+            return _extraheer_docx_tekst(r.content)
+        return r.text[:50000]
+    except Exception:
+        return ""
+
+
+def _extraheer_pdf_tekst(pdf_bytes: bytes) -> str:
+    """Extraheert tekst uit PDF-bytes via pypdf."""
+    try:
+        import pypdf
+        import io
+        reader = pypdf.PdfReader(io.BytesIO(pdf_bytes))
+        tekst = []
+        for pagina in reader.pages[:30]:  # max 30 pagina's
+            tekst.append(pagina.extract_text() or "")
+        return "\n".join(tekst)[:80000]  # max ~80k tekens
+    except ImportError:
+        # pypdf niet beschikbaar — sla PDF over
+        return ""
+    except Exception:
+        return ""
+
+
+def _is_binair(tekst: str) -> bool:
+    """Detecteert of geëxtraheerde tekst eigenlijk binaire rommel is."""
+    if not tekst:
+        return True
+    # Als meer dan 10% van de tekens niet-printbaar zijn, is het binair
+    niet_printbaar = sum(1 for c in tekst[:500] if ord(c) > 127 or (ord(c) < 32 and c not in '\n\r\t'))
+    return (niet_printbaar / min(len(tekst), 500)) > 0.1
+
+
+
+def _extraheer_docx_tekst(docx_bytes: bytes) -> str:
+    """Extraheert tekst uit Word-document bytes."""
+    try:
+        import zipfile, io
+        from xml.etree import ElementTree as ET
+        z = zipfile.ZipFile(io.BytesIO(docx_bytes))
+        xml = z.read("word/document.xml")
+        tree = ET.fromstring(xml)
+        ns = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+        tekst = " ".join(node.text for node in tree.iter(f"{ns}t") if node.text)
+        return tekst[:80000]
+    except Exception:
+        return ""
+
+
+def haal_alle_documenten_op(publicatie_id: str, max_docs: int = 5) -> str:
+    """
+    Haalt tekst op uit alle publieke documenten van een publicatie.
+    Slaat op als data/documenten/{publicatie_id}.txt
+    """
+    os.makedirs(DOCUMENTEN_DIR, exist_ok=True)
+    pad = os.path.join(DOCUMENTEN_DIR, f"{publicatie_id}.txt")
+
+    if os.path.exists(pad):
+        with open(pad, encoding="utf-8") as f:
+            return f.read()
+
+    documenten = haal_documentenlijst_op(publicatie_id)
+    if not documenten:
+        return ""
+
+    HOGE_PRIORITEIT = {"selectieleidraad", "beschrijvend document", "programma van eisen",
+                       "offerteaanvraag", "uitvraag", "rfp", "bestek", "nota van inlichtingen"}
+    LAGE_PRIORITEIT = {"aanmeldingsformulier", "opgave gegevens", "uea", "uniform europees",
+                       "verklaring", "handtekening", "combinant"}
+
+    gesorteerd = []
+    for doc in documenten:
+        naam = (doc.get("documentNaam", "") or "").lower()
+        href = (doc.get("links", {}).get("download", {}).get("href", "") or "")
+        parts = href.rstrip("/content").split("/")
+        doc_id = parts[-1] if parts else ""
+        if not doc_id:
+            continue
+        bestandstype = (doc.get("typeDocument", {}).get("code", "") or "").lower()
+        categorie = (doc.get("publicatieCategorie", {}).get("code", "") or "")
+
+        # Sla zip en excel over
+        if bestandstype in ("zip", "xlsx", "xls"):
+            continue
+
+        # Prioriteit: laag getal = hogere prioriteit
+        if any(k in naam for k in HOGE_PRIORITEIT):
+            prioriteit = 0
+        elif categorie in {"DOC", "NVI"}:
+            prioriteit = 1
+        elif any(k in naam for k in LAGE_PRIORITEIT):
+            prioriteit = 3
+        else:
+            prioriteit = 2
+
+        gesorteerd.append((prioriteit, doc_id, naam, bestandstype))
+
+    gesorteerd.sort()
+    teksten = []
+    for _, doc_id, naam, _ in gesorteerd[:max_docs]:
+        tekst = haal_document_tekst_op(publicatie_id, doc_id)
+        if tekst.strip() and not _is_binair(tekst):
+            teksten.append(f"=== Document: {naam} ===\n{tekst.strip()}")
+        time.sleep(0.2)
+
+    gecombineerd = "\n\n".join(teksten)
+
+    if gecombineerd.strip():
+        with open(pad, "w", encoding="utf-8") as f:
+            f.write(gecombineerd)
+
+    return gecombineerd
+
+
 # ── Deduplicatie ─────────────────────────────────────────────────────────────
 
 def dedupliceer(records: list[dict]) -> list[dict]:
     """
-    Verwijdert dubbele aanbestedingen op basis van tenderned_kenmerk.
-    Een aanbesteding kan als AAO (lopend) én AGO (gegund) voorkomen.
-    Bij duplicaten: bewaar de AGO-versie (heeft gunningsinformatie).
-    Records zonder kenmerk worden altijd bewaard.
+    Verwijdert records zonder titel of omschrijving.
+    AGO/AAO deduplicatie gebeurt al in fetch_tenderned.
     """
-    per_kenmerk = {}
-    zonder_kenmerk = []
-
-    for r in records:
-        kenmerk = r.get("tenderned_kenmerk", "")
-        if not kenmerk:
-            zonder_kenmerk.append(r)
-            continue
-        if kenmerk not in per_kenmerk:
-            per_kenmerk[kenmerk] = r
-        else:
-            bestaand = per_kenmerk[kenmerk]
-            # AGO (gegund) heeft prioriteit boven AAO (lopend)
-            if r.get("publicatie_type") == "gegund" and bestaand.get("publicatie_type") == "lopend":
-                per_kenmerk[kenmerk] = r
-
-    resultaat = list(per_kenmerk.values()) + zonder_kenmerk
-    verwijderd = len(records) - len(resultaat)
-    if verwijderd:
-        print(f"[Deduplicatie] {verwijderd} dubbele aanbestedingen verwijderd")
-    print(f"[Deduplicatie] {len(resultaat)} unieke aanbestedingen")
+    voor = len(records)
+    resultaat = [r for r in records if r.get("titel") or r.get("omschrijving")]
+    na = len(resultaat)
+    if voor != na:
+        print(f"[Deduplicatie] {voor - na} records zonder tekst verwijderd")
+    print(f"[Deduplicatie] {len(resultaat)} bruikbare aanbestedingen")
     return resultaat
 
 
@@ -390,6 +534,24 @@ def main():
         records = fetch_tenderned(args.jaar_vanaf)
         genormaliseerd = [normalize_tenderned(r) for r in records]
         genormaliseerd = dedupliceer(genormaliseerd)
+
+        # Documenten ophalen
+        print(f"\n[Documenten] Ophalen voor {len(genormaliseerd)} publicaties...")
+        os.makedirs(DOCUMENTEN_DIR, exist_ok=True)
+        for i, record in enumerate(genormaliseerd):
+            pub_id = record.get("id", "")
+            if not pub_id:
+                continue
+            pad = os.path.join(DOCUMENTEN_DIR, f"{pub_id}.txt")
+            if os.path.exists(pad):
+                record["documenten_geladen"] = True
+                continue
+            tekst = haal_alle_documenten_op(pub_id)
+            record["documenten_geladen"] = bool(tekst.strip())
+            if (i + 1) % 10 == 0:
+                print(f"  {i+1}/{len(genormaliseerd)} verwerkt...")
+            time.sleep(0.3)
+
         sla_op(genormaliseerd, "raw_tenderned.json")
 
     if args.bron in ("kamerstukken", "beide"):

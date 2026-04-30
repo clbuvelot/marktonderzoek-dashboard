@@ -1,0 +1,2485 @@
+=== Document: prorail perronrandbeveiliging programma van eisen 17 februari 2020 ===
+Perronrandbeveiliging 
+Programma van Eisen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Van Werkgroep handboek SE ProRail 
+Auteur [Eigenaar] 
+ Krista Nieuwenhuizen 
+Kenmerk Programma van Eisen Perronvalbeveiliging 
+Versie 2.0 
+27-1 17-2-2020 
+Status Definitief      
+  
+ 
+ 
+Inhoudsopgave 
+  
+1 INLEIDING 3  
+1.1 Betekenis en opzet van dit document 3  
+2 CONTEXT PROJECT 4  
+2.1 Aanleiding/probleemstelling 4  
+2.2 Projectdoel 4  
+2.3 Spoorse omgeving 4  
+2.4 Ontwerpvoorschriften ProRail voor perrons 5  
+2.4.1 Rode meetgebied en Profiel Vrije Ruimte 5  
+3 KLANT- EN STAKEHOLDERBEHOEFTE 7  
+3.1 Stakeholderoverzicht 7  
+4 KLANTEISEN 9  
+4.1 ProRail Ontwikkeling en Beleid & NS Stations 9  
+4.2 Programma suïcidepreventie 10  
+4.3 Bureau Spoorbouwmeester 11  
+4.4 NS Reizigers 11  
+ 
+  
+ 
+ 
+ 
+ 
+  
+    3/11
+Kenmerk SPOT20150001-40-16  
+ 
+1 INLEIDING  
+1.1 Betekenis en opzet van dit document 
+ 
+Dit document is het ‘Programma van eisen’ (PvE)voor het ontwikkelen van een innovatie voor 
+het verhogen van de veiligheid op perrons met als doel om te voorkomen dat personen van het 
+perron afvallen: bewust of ten gevolge van bovenmatige drukte. Een PvE bevat de verzamelde 
+klanteisen en –wensen van de betrokken partijen en geeft de context en de kaders aan 
+waarbinnen de ontwerpoplossing gevonden dient te worden. De mate waarin een oplossing 
+voldoet aan de eisen uit het PvE, bepaalt de score die behaald wordt bij de beoordeling van de 
+oplossing.  
+Het PvE is de toetssteen voor het ontwerp: in welke mate geeft de oplossing invulling aan de 
+eisen en past het binnen de opgegeven kaders. Op deze manier worden alle ontwerpen 
+beoordeeld om uiteindelijk een keuze te maken welke oplossing(en) doorgaan voor verdere 
+uitwerking in een volgende fase 
+ 
+Dit PvE start in hoofdstuk 2 met de beschrijving van de aanleiding en probleemstelling van het 
+project.  
+In hoofdstuk 3 staan de partijen die betrokken zijn bij het project ‘Perronrandbeveiliging’. Hun 
+rol, invloed en belangen worden uitgelegd. 
+Vervolgens gaat het PvE in hoofdstuk 4 verder met de klanteisen en wensen die de betrokken 
+partijen uit hoofdstuk 3 mee hebben gegeven.  
+ 
+  
+ 
+ 
+ 
+ 
+  
+    4/11
+Kenmerk SPOT20150001-40-16  
+ 
+2 CONTEXT PROJECT 
+2.1 Aanleiding/probleemstelling 
+Transfercapaciteit wordt in toenemende mate een kritische factor in de beoordeling van het 
+functioneren van een perron op het gebied van veiligheid. Om de daarbij behorende 
+transferrisico’s te kunnen inschatten en vaststellen is een risicomodel perronveiligheid 
+ontwikkeld en worden alle perrons(poren) daarop getoetst. Voor perrons die in dit risicomodel 
+onvoldoende scoren zijn soms beheermaatregelen noodzakelijk in meer of mindere mate. 
+Denk aan het verbreden van perrons, het weghalen van objecten op het perron, het wijzigen 
+van de dienstregeling of crowd-crontrol. Afhankelijk van de ernst, het risico, de lokale 
+mogelijkheden en financiële middelen kunnen en zullen deze maatregelen worden ingezet. 
+Deze maatregelen kunnen per perron verschillen en kunnen grootschalig of kleinschalig zijn. 
+Oplossingen kunnen liggen in de transfer, spoorinfrastructuur en/of in de dienstregeling. Echter 
+soms zijn de huidige oplossingen niet mogelijk (kleinschalig) op een specifiek station of zijn de 
+mogelijkheden uitgeput of niet financierbaar (grootschalige oplossing) op korte of middellange 
+termijn. Dat zal steeds station specifiek moeten worden beoordeeld. Dan is het nodig een 
+alternatieve beheermaatregel achter de hand te hebben om de situatie op het perron veilig te 
+houden.  
+Vanuit het perspectief van suïcidepreventie geldt dat voor verschillende omstandigheden zoals 
+overwegen, regulier spoor afschermingsmaatregelen zijn ontwikkeld, maar voor de perronrand 
+op stations nog geen maatregelen worden toegepast. In de context van steeds verdere 
+afscherming van het spoor is het wenselijk ook voor stations, in dit geval voor de perronrand 
+over toe te passen maatregelen te kunnen beschikken. 
+ 
+ 
+ProRail wil alternatieve mogelijkheden onderzoeken in de vorm van innovatieve oplossingen en 
+bezien of dit additionele mogelijkheden biedt ter vergroting van de perronveiligheid in zeer 
+drukke situaties en bij suïcidepreventie.  
+ 
+2.2 Projectdoel  
+Het projectdoel is dan ook tweeledig: 
+Het vinden van een oplossing door de markt uit te dagen in een zoektocht naar innovatieve 
+oplossingen t.b.v. [a] het voorkomen van een val van het perron in zeer drukke situaties en [b] 
+suïcidepreventie op perrons. 
+ 
+Dit betekent voor [a] dat voor reizigers de veiligheid op de perrons met deze oplossing te allen 
+tijde kan worden gewaarborgd. De oplossing voorkomt dat mensen van het perron af kunnen 
+vallen, ook als het zeer druk is. 
+Dit betekent voor [b] dat de oplossing ook ingezet kan worden als middel ter preventie van 
+suïcides. 
+ 
+De wijze waarop we dit willen gaan doen is via een SBIR-traject samen met het Ministerie van 
+Economische Zaken en Klimaat. Beide organisaties willen hiermee de markt uitdagen op zoek 
+naar innovatieve oplossingen. 
+ 
+2.3 Spoorse omgeving 
+In de zoektocht naar een geschikte oplossing om de perronrand te beveiligen dienen partijen 
+rekening te houden met de zogenaamde ‘spoorse omgeving’. Bijna alle stations zijn 
+buitensituaties zodat de oplossing wordt blootgesteld aan diverse externe (klimaat)factoren.  
+ 
+Zo zijn de meeste perrons in Nederland oa. onderhevig aan wind(stoten), regen en sneeuw. 
+Wanneer het in de winter vriest, wordt er zout op perrons gestrooid om gladheid te voorkomen. 
+Zouten en zuren kunnen materialen aantasten. De materiaalkeuze van de oplossing is daarom 
+ 
+ 
+ 
+ 
+  
+    5/11
+Kenmerk SPOT20150001-40-16  
+ 
+belangrijk, omdat deze bestand moet zijn tegen deze invloeden van buitenaf om de minimale 
+levensduur te halen. Ook temperatuurverschillen (-20˚C tot +40˚C) kunnen effect hebben op de 
+levensduur en het functioneren van de oplossing. Verder wordt er op de perrons gebruik 
+gemaakt van vloerenschrob- en veegmachines die van invloed kunnen zijn op het functioneren 
+van een oplossing. Ook komt vandalisme voor op stations en dient een oplossing robuust te 
+zijn.  
+Het aerodynamische effect van langsrijdende treinen kan boeg- en hekgolven veroorzaken. 
+Daar dient in het ontwerp ook rekening gehouden te worden.  
+ 
+Naast de klimaatfactoren kunnen er ook andere factoren op het systeem van invloed zijn die 
+komen door het gebruik ervan. Denk hierbij aan het slijpsel dat van de bovenleiding afkomt. 
+Ook trillingen kunnen de stabiliteit van het spoor en het perron beïnvloeden. Verder dient de 
+oplossing te voldoen aan de NEN norm voor elektromagnetische compatibiliteit.  
+ 
+Naast bovengenoemde technische en omgevingsfactoren van de oplossing is de beleving van 
+de oplossing door de reizigers op het perron ook een belangrijk onderdeel om in het ontwerp 
+rekening mee te houden. NS en ProRail meten regelmatig de klantbeleving van de reizigers 
+door middel van de stationsbelevingsmonitor (SBM) op de verschillende stations. De oplossing 
+mag dan ook geen negatieve impact hebben op de reizigersbeleving. Denk hierbij bijvoorbeeld 
+aan het veiligheidsgevoel voor de reizigers, overzicht over het station, zichtlijnen, rust en 
+comfort.  
+In het verlengde van de stationsbeleving staan de uitgangspunten die aan het samenhangende 
+vormgevingsbeleid van de spoorsector ten grondslag liggen. Deze staan beschreven in ‘Het 
+Spoorbeeld’. Dit document is in de bijlagen opgenomen. Voor de vormgeving van de oplossing 
+dient dit document als toetsingskader. Hier dient in de oplossingen dan ook rekening mee 
+gehouden te worden. 
+ 
+2.4 Ontwerpvoorschriften ProRail voor perrons 
+ 
+ProRail hanteert in basis drie ontwerpvoorschriften (OVS-en) die betrekking hebben tot het 
+ontwerp van perrons en elementen op het perron. De eisen die gelden staan beschreven in 
+OVS00026, OVS00067 en OVS00228. In de eerste fase van de zoektocht naar een geschikte 
+oplossing voor de perronrandbeveiliging worden de eisen uit deze OVS-en op hoofdlijnen 
+beschreven.  
+Naast de ontwerpvoorschriften die ProRail heeft, zijn er tevens Europese ontwerpvoorschriften 
+die gelden op perrons en waar de ontwerpende partij rekening mee dient te houden. Deze 
+staan beschreven in de zogenaamde Technical Specification for Interoperability - Persons with 
+reduced mobility (TSI PRM).  
+In de volgende fases zullen meer details meegegeven worden uit de genoemde OVS-en en 
+TSI om tot een passende oplossing te komen die aan de ProRail- en Europese voorschriften 
+voldoet. Daarnaast zal er aan de Spoorwegwet voldaan moeten worden.  
+ 
+2.4.1 Rode meetgebied en Profiel Vrije Ruimte 
+ 
+Voor het ontwerpen van een oplossing is het belangrijk om de begrippen ‘rode meetgebied’ en 
+‘profiel vrije ruimte’ te kennen. Deze geven namelijk het ruimtelijke kader mee voor de 
+oplossing. Hieronder volgt een korte beschrijving van de begrippen. Deze geeft het ruimtelijke 
+kader mee voor de inpassing van de oplossing.  
+ 
+Het profiel van vrije ruimte (PVR) is de minimale ruimte die vrijgehouden moet houden boven 
+en naast het spoor waarbinnen zich geen vaste en tijdelijke objecten (zoals perrons, seinen, 
+bovenleidingpalen en hekwerken) mogen bevinden. Zie hieronder de arceringen op de 
+tekeningen voor het PVR bij een spoor in rechte ligging en in een boog met spoorverkanting.  
+ 
+ 
+ 
+ 
+  
+    6/11
+Kenmerk SPOT20150001-40-16  
+ 
+ 
+ 
+Figuur 1: Profiel vrije ruimte en het Rode Meetgebied (bron: OVS00067-V006) 
+ 
+Het Rode Meetgebied is een ruimte rondom de spoorweginfrastructuur, die iets ruimer is dan 
+het profiel van de vrije ruimte. Het moet worden toegepast voor goederensporen en voor 
+sporen die mede gebruikt worden voor goederenvervoer. Binnen deze ruimte kan onder 
+bepaalde voorwaarden het vervoer van lading die tot een bepaalde afmeting buiten het 
+omgrenzingsprofiel van het voertuig uitsteekt, toegelaten worden. Binnen het Rode Meetgebied 
+mogen zich in principe op het perron geen vaste voorwerpen bevinden. 
+ 
+Tevens dient de oplossing niet de geleidelijnen voor visueel gehandicapten te blokkeren.  
+ 
+Naast de ruimtereservering op perrons voor bovengenoemde onderwerpen hanteert ProRail 
+een standaard hoogte voor het perron tov de bovenkant spoorstaaf (BS). Volgens de Europese 
+regelgeving dienen perrons op 76 cm boven spoorstaaf te liggen zodat minder validen 
+gelijkvloers kunnen in- en uitstappen, zie figuur 1 hieronder. Diverse stations voldoen aan deze 
+norm, maar nog niet op alle stations is deze norm gerealiseerd. De ontwerpende partij dient 
+dan ook rekening te houden met afwijkende hoogtes.  
+ 
+ 
+Figuur 2 bepaling perronhoogte bij rechtstand (bron: OVS00067-V006) 
+  
+
+ 
+ 
+ 
+ 
+  
+    7/11
+Kenmerk SPOT20150001-40-16  
+ 
+ 
+Naast mogelijk afwijkende perronhoogtes verschillen perrons ook in ligging. In de meest ideale 
+situatie liggen perrons in rechtstand. Helaas is op diverse stations niet mogelijk en liggen 
+perrons in een (lichte) boog. Daardoor ontstaat zogenaamde ‘verkanting’. Er ontstaat dan een 
+ruimte tussen het perron. In het zoeken naar een oplossing dient er dan ook rekening mee 
+gehouden te worden dat de meeste perrons in Nederland niet kaarsrecht liggen. 
+ 
+3 KLANT- EN STAKEHOLDERBEHOEFTE 
+Bij het onderzoeken en uiteindelijk implementeren van een oplossing voor het verhogen van de 
+veiligheid op perrons zijn verschillende partijen betrokken. Hieronder staan de belangrijkste 
+stakeholders benoemd met daarbij hun rol of invloed en de belangen die zij hebben. 
+ 
+3.1 Stakeholderoverzicht 
+ 
+Naam Stakeholder Rol / invloed Belangen 
+Ministerie van 
+Economische 
+Zaken en Klimaat 
+ Opdrachtgever onderzoeken 
+oplossing verhogen veiligheid op 
+perrons; 
+ Aanboren Nederlandse 
+innovatiekracht voor 
+maatschappelijke problemen 
+Ministerie van 
+Infrastructuur en 
+Waterstaat 
+ Opdrachtgever onderzoeken 
+oplossing verhogen veiligheid op 
+perrons 
+ Concessieverlener hoofdrailnet 
+ Bieden van een robuust en veilig 
+spoorinfrasysteem 
+ProRail 
+Ontwikkeling en 
+Beleid 
+ Opdrachtgever namens het 
+Ministerie van IenW onderzoeken 
+oplossing verhogen veiligheid op 
+perrons; 
+ Ontwikkelt regelgeving en borgt dat 
+deze goed wordt toegepast binnen 
+stationsprojecten; 
+ Verantwoordelijk voor de 
+transferveiligheid op het station; 
+ Verantwoordelijk voor beheer en 
+onderhoud stationsvoorzieningen. 
+ Verhogen klantwaardering, waarbij 
+m.n. aandacht voor veiligheid, 
+doorstroming en wachtbeleving. 
+ Bewaken dat stationsobjecten goed 
+te gebruiken, beheren en 
+onderhouden zijn. 
+ProRail Beheer en 
+Operatie 
+ Stationsbeheerder  Efficiënt beheer van de 
+railinfrastructuur conform RAMSHE-
+normen; 
+Goede uitvoering van de 
+stationsbeheerovereenkomst. 
+Programma 
+Suïcidebeveiliging,  
+-afhandeling en 
+nazorg 
+ Opdrachtgever namens het 
+Ministerie van IenW 
+ Verantwoordelijk voor het 
+onderzoeken en uitrollen van 
+maatregelen die (pogingen tot) 
+suïcides op het spoorinfrasysteem 
+kunnen verlagen. 
+ Verlagen van het aantal (pogingen 
+tot) suïcides op het 
+spoorinfrasysteem (stations, spoor en 
+overwegen). 
+NS Reizigers 
+ 
+ Vervoerder hoofdrailnet  Overzichtelijk perron voor 
+treinpersoneel om veilig vertrekproces 
+te verzorgen; 
+ Continue bedrijfsvoering, geen hinder 
+in de treindienst. 
+ Geen hinder voor reizigers 
+ 
+ 
+ 
+ 
+  
+    8/11
+Kenmerk SPOT20150001-40-16  
+ 
+NS Stations  Stationsbeheerder  Sociaal veilig en aantrekkelijke 
+beleving van station en omgeving; 
+ Vlotte en veilige routes van en naar 
+het station. 
+Bureau Spoorbouw-
+meester 
+ Adviseur Spoorbeeld, erfgoed en 
+ruimtelijke kwaliteit 
+ Aandacht voor ruimtelijke kwaliteit en 
+integrale functionaliteit station; 
+ Rekenschap geven aan 
+waardestelling monument / 
+Collectiestation 
+  
+ 
+ 
+ 
+ 
+  
+    9/11
+Kenmerk SPOT20150001-40-16  
+ 
+4 KLANTEISEN 
+Hieronder volgen de klanteisen en wensen waaraan de oplossingen moeten voldoen.  
+ 
+ 
+4.1 ProRail Ontwikkeling en Beleid & NS Stations 
+Nr. Onderwerp Eis/wens Toelichting 
+1 Veilig De oplossing dient de veiligheid op het 
+station en specifiek op het perron te 
+verhogen. 
+Wanneer de oplossing een positief effect 
+heeft op de veiligheid van het perron, maar 
+een negatief effect op de veiligheid van 
+een ander deel van het station of op het 
+gedrag van personen, wordt niet aan deze 
+eis voldaan.  
+1a Veilig De oplossing dient van afstand (automatisch 
+en zonder vertraging) bediend te kunnen 
+worden. 
+Mogelijk tot ingrijpen op afstand. Er dienen 
+geen menselijk handelingen op de locatie 
+zelf aan te pas te komen. 
+1b Veilig De oplossing dient te allen tijde door mensen 
+te overrulen zijn in geval van calamiteiten. 
+ 
+1c Veilig ProRail wenst een systeem dat zo min 
+mogelijk ruimte kost op het perron. 
+Ruimte op de perrons is veelal beperkt.  
+1d Veilig De oplossing mag geen onveilige situaties 
+op het perron en het spoor creëren, ook niet 
+wanneer treinen passeren.  
+Denk aan terugslag door drukgolven van 
+passerende treinen. 
+1e Veilig De oplossing dient te voldoen aan de 
+normen die gelden op stations voor 
+audiovisueel beperkten en -gehandicapten 
+en minder validen. 
+De groep moet ook veilig kunnen in- en 
+uitstappen. Ook mag het niet de 
+geleidelijnen belemmeren.  
+1f Veilig Oplossingen mogen niet geplaatst zijn in de 
+Profiel van Vrije Ruimte. 
+Zie par. 2.4.1 
+    
+2 Robuust De oplossing dient bestand te zijn tegen de 
+spoorse omgeving. 
+Zie toelichting in par. 2.3 
+2a Robuust De oplossing dient bestand te zijn tegen 
+weersinvloeden. 
+Zie toelichting in par. 2.3 
+2b Robuust De oplossing dient vandalismebestendig te 
+zijn. 
+Qua materialen en qua operatie 
+2c Robuust De oplossing dient geautomatiseerd te zijn.  Er dient geen menselijk handelen aan de 
+aansturing van de oplossing aan te pas te 
+komen. 
+2d Robuust De oplossing kan niet onbewust door een 
+reiziger uitgeschakeld worden. 
+ 
+    
+3 Flexibel ProRail wenst een oplossing die flexibel is. Op diverse stations inzetbaar. 
+3a Flexibiliteit De oplossing dient inzetbaar te zijn op alle 
+type treinstations.  
+Denk aan zandperrons, jukkenperrons, met 
+en zonder overkapping.  
+    
+  
+ 
+ 
+ 
+ 
+  
+    10/11
+Kenmerk SPOT20150001-40-16  
+ 
+4 Onderhoud ProRail wenst een oplossing met zo laag 
+mogelijke instandhoudingskosten.  
+Bij voorkeur een oplossing waarbij zonder 
+buiten dienstellingen reparaties, technisch 
+onderhoud en schoonmaak aan kan 
+worden gedaan. 
+5 Betrouwbaar ProRail wenst een oplossing met minimaal  
+een operatiegraad van 99,9 %. 
+ 
+6 Duurzaamheid ProRail heeft de voorkeur voor duurzame 
+maatregelen met een lange levensduur, lage 
+milieulasten en duurzame materialen. 
+ 
+7 Levensduur De oplossing dient bij normaal gebruik een 
+levensduur van minimaal 10 jaar te hebben. 
+De oplossing dient bestand te zijn tegen 
+invloeden van de spoorse omgeving (zie 
+par. 2.3) 
+8 Kosten De oplossing dient qua investeringskosten 
+(total costs of ownership) op te wegen tegen 
+het inzetten van enkele jaren crowd-control 
+op een groot station. 
+Als de oplossing te duur is zijn andere 
+maatregelen aantrekkelijker 
+9 Klantbeleving De oplossing dient geen negatieve invloed te 
+hebben op de stationsbeleving (SBM) van de 
+reiziger. 
+Zie par. 2.3 
+ 
+ 
+4.2 Programma suïcidepreventie 
+ 
+Voor het Programma suïcidepreventie gelden alle bovenstaande eisen en wensen aangevuld 
+met de volgende eisen en wensen: 
+ 
+Nr. Onderwerp Eis/wens Referentie 
+1 Suïcide-
+preventie 
+De oplossing dient het bewust kunnen betreden 
+van het spoor vanaf het  perron te bemoeilijken. 
+ 
+2 Suïcide-
+preventie 
+De oplossing dient de perceptie van 
+‘pakkans’/kans op ontdekking bij een poging het 
+spoor (bewust) te betreden (psychologische 
+barrière) te verhogen. 
+Dit gaat om het signaleren van 
+afwijkend gedrag. 
+3 Suïcide-
+preventie 
+ProRail wenst dat de oplossing de daadwerkelijke 
+pakkans/kans op een interventie 
+(technisch/organisatorische opvolging na 
+ontdekking) te verhogen. 
+ 
+4 Suïcide-
+preventie 
+De oplossing dient zichtbaar te zijn als 
+preventieve maatregel. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+    11/11
+Kenmerk SPOT20150001-40-16  
+ 
+4.3 Bureau Spoorbouwmeester 
+ 
+Voor Bureau Spoorbouwmeester gelden alle bovenstaande eisen en wensen aangevuld met 
+de volgende eisen: 
+ 
+Nr. Onderwerp Eis Referentie 
+1 Collectie 
+stations 
+Bureau Spoorbouwmeester wenst qua 
+vormgeving een adaptieve oplossing, die bij 
+karakteristieke-, Rijks en Provinciale 
+monumentale- en Collectie Stations met respect 
+voor de vormgeving en waarden van het station 
+kan worden aangepast en ingepast. 
+Zie www.spoorbouwmeester.nl 
+2 Spoorbeeld De vormgeving van de oplossing dient te passen 
+binnen het Spoorbeeld.  
+Zie www.spoorbouwmeester.nl 
+ 
+4.4 NS Reizigers 
+ 
+Voor NS Reizigers gelden alle bovenstaande eisen en wensen aangevuld met de volgende 
+eisen: 
+ 
+Nr. Onderwerp Eis Referentie 
+1 Impact op 
+machinist 
+De oplossing mag geen hinder of afleiding voor de 
+machinist vormen. 
+ 
+2. Veiligheid Het perron moet overzichtelijk zijn, om een veilig 
+vertrekproces te kunnen verzorgen.  
+ 
+3 Robuust De oplossing dient geen negatieve invloed te 
+hebben op de robuustheid van de 
+spoorinfrastructuur.  
+De oplossing mag geen negatief 
+effect hebben op het uitvoeren van de 
+treindienst 
+ 
+3a Robuust De oplossing mag niet ten koste gaan van rijtijd en 
+halteertijd van treinen. 
+De oplossing mag geen vertraging 
+opleveren in de dienstregeling. 
+3b Robuust De oplossing mag geen negatief effect hebben op 
+het kunnen in- en uitstappen in de trein. 
+Het mag geen hinder voor reizigers 
+opleveren. 
+4 Flexibel De oplossing moet bruikbaar zijn voor alle op het 
+Nederlandse spoor rijdende treinen met 
+verschillende treinlengtes die aan hetzelfde perron 
+halteren. 
+Dat betekent ook dat de deuren op 
+verschillende locaties kunnen zitten. 
+5 Betrouwbaar Wanneer de oplossing faalt dienen de reizigers 
+ongehinderd en veilig in en uit de trein te kunnen 
+stappen.   
+Bij falen dient de oplossing niet de 
+weg naar de treindeuren te blokkeren 
+of te beperken. 
+6 Reizigers Ook met koffers en fietsen moeten reizigers 
+kunnen in- en uitstappen. 
+ 
+7 Treinen De oplossing mag niet leiden tot een 
+lengtebeperking van de trein 
+ 
+8 Treinen De oplossing moet het splitsen / combineren / 
+keren van treinen niet onmogelijk maken 
+ 
+9 Treinen Perronsporen moeten geschikt blijven voor 
+opstellen van materieel en (beperkte) service 
+activiteiten.
+
+=== Document: nota van inlichtingen sbir perronrandbeveiliging 2020-07-14 ===
+Nota van Inlichtingen SBIR Perronrandbeveiliging, ProRail 
+Versie 2.0   14 juli 2020 
+ 
+Deze nota bevat de vragen die tijdens de informatiebijeenkomst zijn gesteld en via e-mail zijn binnengekomen met de 
+antwoorden die daarop zijn gegeven of naderhand geformuleerd zijn. Deze Nota van Inlichtingen bevat aanvullingen en nieuwe 
+vragen/antwoorden ten opzichte van de Nota van Inlichtingen versie 1.2 van 24 juni 2020. 
+ 
+ 
+SBIR Perronrandbeveiliging, ProRail 
+ 
+ 
+ Vraag Antwoord 
+1.  Is de tekst van de oproep ook in het Engels 
+beschikbaar? 
+Nee, alleen in het Nederlands. 
+2.  Kan ik het projectplan ook in een andere taal 
+inleveren? 
+Alle offertedocumentatie moet in het Nederlands worden aangeleverd. (Alleen het businessplan 
+fase 2 mag in het Engels.) 
+3.  Waar vind ik de meest recente informatie over 
+de SBIR? 
+Belangrijk om te weten dat enkele SBIR formulieren en handleidingen zijn gewijzigd. De meest 
+up-to-date informatie vindt men op https://mijn.rvo.nl/sbir-innovatie-in-opdracht 
+En van deze SBIR op TenderNed: https://www.tenderned.nl/tenderned-
+tap/aankondigingen/196238 
+4.  Mag ik meerdere voorstellen indienen? Ja,  u mag meerdere voorstellen indienen. Het aantal moet wel in verhouding staan tot de 
+capaciteit en de expertise van aanbiedende partij (of consortium) en de voorstellen moeten 
+onderscheidend van elkaar zijn. Samenwerking tussen voorstellen kan niet; verschillende 
+voorstellen mogen niet afhankelijk van elkaar zijn. Ieder voorstel moet op zichzelf staan als 
+afgerond geheel. 
+ 
+ 
+ 
+2 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+5.  Mag ik in het voortraject (vóór fase 1) contact 
+opnemen met de vragende partij (ProRail)? 
+Het is niet toegestaan om inhoudelijke vragen te stellen aan de leden van de Adviescommissie 
+en de voorselectiecommissie tijdens het voortraject. Hier dient de informatiebijeenkomst voor 
+en deze Nota van Inlichtingen. Wel kan er per mail via sbir@rvo.nl vragen worden gesteld tot 
+10 dagen voor de sluiting van de oproep (22 juli). Tijdens Fase 1 en Fase 2 kan er wel 
+(beperkt) interactie plaatsvinden met de partijen die een opdracht hebben gekregen. Het is aan 
+de vragende partij (opdrachtgever) om eventueel extra informatiebijeenkomsten te 
+organiseren. 
+6.  Moet men bij het sluiten van de oproep zowel de 
+documenten voor Fase 1 als voor Fase 2 
+aanleveren? 
+Nee, dan dienen alleen documenten voor fase 1 te worden aangeleverd. Fase 2 documenten 
+worden pas gevraagd bij het offerteverzoek van RVO. 
+7.  Hoort het formulier “Aanbieding SBIR” ook bij de 
+gevraagde documenten voor fase 1? 
+Ja, het formulier “Aanbieding SBIR” is ook onderdeel van uw offerte. Dit is te vinden op: 
+https://mijn.rvo.nl/documents/20448/80899/Aanbieding+SBIR/f4184312-3323-441a-9da0-
+8e73f04d1eeb 
+8.  Wanneer ontvang je een offerteverzoek voor 
+fase 2? M.a.w. wat is succesvol afronden van 
+een haalbaarheidsstudie? 
+RVO stuurt een offerteverzoek naar alle deelnemers waarvan het eindrapport van Fase 1 is 
+goedgekeurd, de eindconclusie is dat het voorstel haalbaar is en er vertrouwen is in verdere 
+samenwerking. Dit zal tijdig worden gecommuniceerd. 
+9.  Hoe wordt de technologische haalbaarheid 
+beoordeeld? 
+Gaat het om algemene technologische 
+haalbaarheid of juist dat je het zelf als bedrijf 
+kunt? 
+De technologische haalbaarheid wordt beoordeeld aan de hand van de in de oproep en de 
+handleiding genoemde punten. Benoem bij de analyse van de technische haalbaarheid ook de 
+eventuele knelpunten, wees hier eerlijk over. En geef aan hoe deze op te lossen zijn en of dat 
+in de volgende fase qua tijd en middelen zal lukken. 
+10.  Is het combineren van voorstellen uit fase 1 tot 
+één voorstel in Fase 2 mogelijk? 
+Dit is mogelijk. Dit biedt de mogelijkheid om 2 of meer Fase 1 projecten samen te voegen voor 
+een Fase 2 project. Wel moet er 1 (hoofd) aanvrager zijn (van het consortium) en moet het 
+samenvoegen van projecten een meerwaarde hebben. 
+11.  Moet er BTW worden afgedragen? Ja, het is een inkoopopdracht, dus het maximum bedrag (de SBIR opdrachtsom) is altijd 
+inclusief BTW. 
+12.  Dienen de kosten te worden gespecificeerd? Ja, de kostenopbouw moet duidelijk uit de offerte blijken. Hiervoor is een begrotingsformat 
+voor in het format van het projectplan. 
+ 
+ 
+ 
+3 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+13.  Wordt er inhoudelijk feedback gegeven op de 
+inschrijvingen? 
+Afwijzingen en winnaars krijgen altijd feedback inclusief argumentatie. Na afloop kan er altijd 
+om extra feedback gevraagd worden. 
+14.  Wat wordt er in Fase 1 verwacht t.a.v. 
+technische volwassenheid/rijpheid van het 
+product? 
+Hier zijn geen strakke richtlijnen voor, maar Fase 1 hoeft geen papieren exercitie te zijn. Het is 
+goed om al aan de slag te gaan met de oplossing. Laat (kleinschalige) voorbeelden zien van de 
+mogelijkheden. 
+15.  Wat houdt het SBIR-overeenkomst in en waar 
+kan ik dat vinden? 
+*(Genoemd in SBIR handleiding RVO) 
+De SBIR-overeenkomst (feitelijk een contract) ontvangt u van RVO bij toekenning van de 
+opdracht voor fase 1 en/of 2. Het format hiervoor treft u in de bijlage van de handleiding. 
+16.  M.b.t. de economisch perspectief: Verplicht de 
+vragende partij (RVO/ProRail) zich tot het 
+afnemen van het uiteindelijke product? 
+Partijen (de opdrachtnemers) zullen ook het perspectief op andere mogelijke klanten moeten 
+meenemen. De uiteindelijke afname van een dienst/product zal veelal Europees aanbesteed 
+moeten worden, omdat de kosten boven de drempelbedragen liggen. De deelnemer van de 
+SBIR heeft natuurlijk vanwege de deelname aan de SBIR een technologisch voordeel verkregen 
+die hij kan inzetten bij de aanbesteding.   
+17.  Kan er inzicht worden verkregen in welke 
+partijen deelnemen? 
+ 
+Partijen die uiteindelijk geselecteerd worden voor een opdracht, zullen op de website van RVO 
+bekend worden gemaakt. 
+ 
+18.  Staat de SBIR open voor alle ondernemers of 
+alleen MKB? 
+ 
+SBIR staat op voor alle partijen die in de EU ingeschreven staan bij een Kamer van Koophandel 
+(of een handelsregister). Meer info in de SBIR handleiding. Grote bedrijven en ook kleine. Van 
+technisch tot creatief. Dus van ZZP, start-up tot multinational. 
+19.  Kan een kennisinstelling ook meedoen? Dat kan op zich wel, als deze is ingeschreven bij de Kamer van Koophandel. Wel zal er dan 
+kritisch naar het criterium economisch perspectief worden gekeken. De vraag is vaak of een 
+kennisinstelling een idee kan gaan en wil vermarkten. Dat is wel een essentieel punt (criterium 
+economische perspectief) bij een SBIR . Zie ook vraag 18. 
+20.  Wat is het budget voor deze SBIR? Voor fase 1 is € 240.000,- beschikbaar voor maximaal € 30.000,- per project. Voor fase 2 is € 
+540.000,- beschikbaar voor maximaal € 180.000 per project.  
+21.  Mag je ook een kleinere offerte uitbrengen? Ja. Moet wel tot een oplossing leiden. De inschrijvingsprijs is overigens geen criterium bij de 
+gunning. Zie verder de oproep en de SBIR handleiding. 
+ 
+ 
+ 
+4 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+22.  Indien fase 2 duurder uitvalt dan het 
+beschikbare budget, wat dan? 
+Er is voor fase 2 maximaal € 180.000,- beschikbaar per project, dit kan niet worden verhoogd. 
+Meerkosten zijn dan voor de opdrachtnemer. 
+23.  Kan men de kosten voor het maken van een 
+prototype in fase 1 opnemen op de factuur? 
+Nee, fase 1 is een haalbaarheidsonderzoek, prototype is pas toegestaan in fase 2. In de 
+handleiding SBIR staan de mogelijke kosten per fase vermeld.  
+24.  Wat houdt het criterium Impact in?  Het criterium Impact wordt beoordeeld aan de hand van de in de oproep en de handleiding 
+genoemde punten. 
+  
+ 
+ 
+ Vraag Antwoord 
+25.  Begrijp ik hiermee goed dat niet iedereen 
+met ideeën mag komen? Dus alleen maar 
+de selecteerde bedrijven? 
+ 
+Voor fase 1 het Haalbaarheidsonderzoek mag iedereen met projectvoorstellen komen, (open uitvraag) 
+zie ook vraag 18. Voor fase twee krijgt een geselecteerde groep een uitnodiging om offerte uit te 
+brengen, zie ook vraag 8. 
+26.  Is het mogelijk om een lijst met 
+deelnemers (incl hun bereikbaarheid c.q. 
+mailadres) aan dit webinar te krijgen? In 
+een live bijeenkomst zijn contacten voor 
+samenwerking te leggen, in deze opzet 
+van een webinar niet, vandaar mijn 
+vraag. 
+ 
+Nee, vanwege privacy (ABG)want AVG. Pas nadat RVO expliciete toestemming heeft ontvangen, 
+kunnen gegevens worden gedeeld. Dat is even het nadeel van een webinar. 
+27.  Wordt de presentatie aan de deelnemers 
+(u bekende emailadressen) toegestuurd? 
+of waar gepubliceerd, of van waar 
+kunnen we die downloaden? 
+De presentaties van RVO en ProRail staan op de site van TenderNed.  
+ 
+https://www.tenderned.nl/tenderned-tap/aankondigingen/196238 
+ 
+ 
+ 
+5 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+28.  Mogen kennisinstellingen uit Europa 
+meedoen aan het consortium? 
+Zie vraag 18. 
+29.  Is het van belang dat het octrooiëerbaar 
+is? 
+ 
+Nee, dat is op zich geen eis. Het is meer voor de inschrijver om te kijken of op de oplossing al een 
+octrooi rust. Het is verder aan de inschrijver om te bepalen of deze een octrooi onderzoek/aanvraag 
+wil doen. 
+30.  Waar kan ik info vinden over 
+octrooien/Octrooi Centrum Nederland? 
+https://www.rvo.nl/onderwerpen/innovatief-ondernemen/octrooien-ofwel-patenten/hulp-nodig/mkb-
+startend-ondernemer   
+ 
+OCNL geeft regelmatig gratis webinars over hoe en wat over octrooien.  
+31.  Is de verwachting dat het projectplan al 
+een concreet idee bevat of kan het ook 
+een (ontwerp/ontwikkel) proces 
+beschrijven met als resultaat in fase van 
+één of meerdere concepten? 
+Geef in het projectplan de oplossingsrichting aan. Het is immers een haalbaarheidsonderzoek waar 
+een en ander nog moet worden uitgezocht. 
+32.  Is het webinar van 17 juni ook nog terug 
+te zien? 
+Nee, dat is om meerdere redenen niet mogelijk. Deze Nota van Inlichtingen en de presentatie op de 
+site van TenderNed geven de info weer. Zie ook vraag 27. 
+33.  Het template van het projectplan is erg 
+gericht op tekstueel vlak. Wat zijn 
+verwachtingen qua visuele 
+ondersteuning? 
+Een afbeelding zegt vaak meer dan 1000 woorden. Als de afbeeldingen/visualisatie bijdraagt tot een 
+beter projectplan is dat aan te bevelen om dat toe te passen. 
+34.  Inschrijven als consortium, ik kan me 
+voorstellen dat er meerdere bedrijven nu 
+meedoen en graag willen samenwerken. 
+Dat kan, maar er is altijd 1 (hoofdindiener) en er wordt gekeken hoe het consortium is opgebouwd en 
+welke rollen/expertise de diverse leden van het consortium hebben. Zie verder vraag 18. 
+35.  In hoeverre is het belangrijk dat een 
+partij ook in staat is om de 
+Marktintroductie is van belang. Dat komt sterker terug in fase 2. Er kan in een later moment (fase 2 
+dus) een relevante partij worden gezocht voor samenwerking. 
+ 
+ 
+ 
+6 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+marktintroductie te verzorgen? Of kan op 
+een later moment een samenwerking met 
+een andere partij opgezet worden? 
+36.  Waar kan ik nieuwe SBIR oproepen 
+vinden? 
+ 
+Dat kan op www.TenderNed.nl en via (een abonnement nemen)  
+https://www.linkedin.com/groups/8675827/ 
+37.  Kan ik als start-up meedoen. Ik heb nog 
+geen KvK nummer. 
+Dat kan, maar mocht het tot contractvorming overgaan, dan moet u de start-up wel inschrijven bij de 
+KvK. Anders kan er niet tot contractvorming over gegaan worden. 
+38.    
+39.    
+40.  Waar kan ik de filmpjes van de 
+presentatie vinden? 
+https://youtu.be/H9154xIoYTA 
+https://youtu.be/Vz1oviZBOIk 
+ 
+41.  In hoeverre moet de oplossing ingaan op 
+het gedrag van wachtende reizigers? 
+De oplossing dient bij voorkeur een oplossing te bieden voor beide vraagstukken: suïcidepreventie en 
+drukte in de transfer. Dit laatste heeft raakvlakken met instappende en uitstappende reizigers. Het 
+gedrag is een component en daar kan rekening mee worden gehouden, maar het hoeft niet per sé. 
+42.  Moet er een combinatie zijn van ICT en 
+bijvoorbeeld fysieke bouw, of mag de 
+oplossing ook allen via ICT zijn? 
+ 
+ICT en of fysieke bouw of nog anders. Het maakt niet uit. Als het maar tot een oplossing van het 
+probleem leidt. Wees creatief. 
+ 
+43.  Stel we verzinnen een oplossing (stel 
+applicatie) dienen we deze dan zelf te 
+onderhouden of mogen we de exploitatie 
+hiervan ook bij een andere partij 
+wegleggen? 
+In deze fase is alles nog mogelijk. Aan het einde van fase 1 dient nagedacht te worden over mogelijke 
+licentiekosten. 
+ 
+ 
+ 
+7 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+44.  Delen jullie ook de (jaarlijkse) aantallen 
+van ongelukken op de perronrand? 
+(hoeveel vallen, hoeveel daarvan met 
+letsel...) 
+ 
+Cijfers transferongevallen en letsel zijn openbaar via jaarverslagen spoorwegveiligheid van ILT (bijv. 
+2017, 2018). 
+ 
+45.  Misschien voorbarig, maar kan je meer 
+vertellen over de kenmerken van iemand 
+die suïcide is op het spoor? Misschien 
+m.b.t. tijd tussen op het perron arriveren 
+en de daadwerkelijke daad. En 
+kenmerken van gedrag (dralen, houding, 
+etc.) 
+ 
+ 
+Belangrijke kenmerken van (mogelijk) suïcidale personen, waarna we verwijzen in de training van ons 
+personeel zijn: 
+1. Afzonderen, opzoeken van stille stukken perron 
+2. Dralen, langere tijd aanwezig zijn zonder de trein te pakken 
+3. Achterlaten van goederen (bv. fiets, kleding, schoenen) 
+4. In elkaar gezakte houding 
+5. Afwezige blik 
+6. Moeilijk eerste contact te leggen, personen verkeren in ‘soort van roes’.  
+46.  Hoe verhoudt zich jullie 'negatieve 
+reclame' (loop niet langs het spoor) zich 
+t.o.v. de 'positieve'? Wees duurzaam en 
+kom naar de trein? (m.a.w. teveel 
+'negatieve spotjes' jaagt ook mensen de 
+auto in, OV zit in een hoek waar je "niet 
+mag en wilt komen...") 
+ 
+Dit is niet relevant in het kader van deze uitvraag.  
+47.  Aangezien de oplossing mag bestaan uit 
+een combinatie van technieken (ICT en/of 
+fysiek) welke mogelijkheden biedt ProRail 
+om aan te sluiten op bestaande systemen 
+op het perron of in de trein? Denk hierbij 
+Het staat u vrij om na te denken om een combinatie te maken met een bestaand systeem of een 
+nieuw systeem. Er zal altijd een triggersignaal aangeboden worden om het systeem te activeren. Het 
+triggersignaal is geen onderdeel van deze uitvraag.  
+ 
+ 
+ 
+8 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+aan het ATB? Vertreksignaal van trein? 
+Stationsmanagementsysteem? 
+ 
+48.  In de documenten wordt gesproken over 
+een aantal OVS richtlijnen. Kunnen deze 
+alvast beschikbaar worden gesteld voor 
+de eerste fase? 
+In de volgende fase (fase 2) willen we die beschikbaar stellen. Voor de indiening in juli is die kennis 
+nog niet nodig. 
+ 
+49.  In hoeverre moet de oplossing ingaan op 
+het gedrag van wachtende reizigers? 
+Zie vraag 41 
+50.  Is er een signaal beschikbaar zodat 
+installaties op het station weten dat er 
+een trein aankomt? 
+Ja, er is een triggersignaal aanwezig wanneer een trein bij een station aankomt. 
+51.  Er is gezegd dat ook ICT mogelijkheden 
+wellicht mogelijk zijn. Tijdens de 
+presentatie is er een filmpje getoond dat 
+er iemand per(r)ongeluk in het spoor valt 
+met de opmerking: “dit willen we 
+voorkomen”. Daarnaast wordt er in het 
+kader van suïcidepreventie gezegd de 
+toegang tot het spoor te verhinderen (af 
+te sluiten). Wordt er dan in deze SBIR 
+(onbewust?) geschreven naar een fysieke 
+afsluiting? 
+Nee, dat hoeft niet. ICT en of fysieke bouw of nog anders. Het maakt niet uit. Als het maar tot een 
+oplossing van het probleem leidt. Wees creatief. 
+ 
+52.  Mijn vraag: zijn er al detectie systemen 
+bij de NS die een mens op een spoor 
+Een detectiesysteem voor mensen op het spoor bestaat nog niet. En bij detectie op het spoor ben je 
+eigenlijk al te laat. 
+ 
+ 
+ 
+ 
+9 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+direct detecteert? Zou zo een systeem 
+een bijdrage kunnen leveren? 
+ 
+53.  Hoe verhoudt zich het gewenste 
+innovatieve karakter met reeds elders in 
+de wereld beschikbare oplossingen voor 
+perronrandbeveiliging? Zeker vanuit 
+overwegingen van haalbaarheid, 
+toelating/vrijgave van de oplossing en 
+beschikbare doorlooptijd lijkt "vrije" 
+innovatie niet haalbaar. 
+De reeds beschikbare oplossingen zijn veelal bedacht op een vaststaande treinhaltering met vast 
+treinmaterieel. Het gaat hier vooral om goede ideeën. 
+ 
+54.  Kan een trein op een perron tot stilstand 
+op een nauwkeurigheid van 10 cm? zodat 
+de deuren op een specifieke locatie open 
+gaan? 
+Nee, dat is op dit moment niet mogelijk. 
+55.  Kan de trein stoppen op een vaste 
+positie? 
+ 
+Nee. De meeste treinen hebben een andere halteringspositie op basis van de lengte van de trein. Dat 
+verschilt in de spits en buiten de spits. Ook als de treinen doorrijden tot aan het einde van het perron 
+kan er in de haltering nog een verschil zitten van enkele meters. 
+56.  Kunnen jullie iets zeggen over lengtes 
+van treinstellen, posities van deuren? 
+Op 1 perron kunnen treinen over de dag halteren met verschillende treinlengtes en verschillende 
+posities van deuren etc. 
+57.  Er is gezegd dat ook ICT mogelijkheden 
+wellicht mogelijk zijn. Tijdens de 
+presentatie is er een filmpje getoond dat 
+er iemand per(r)ongeluk in het spoor valt 
+Zie vraag 51. 
+ 
+ 
+ 
+10 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+met de opmerking: “dit willen we 
+voorkomen”. 
+Daarnaast wordt er in het kader van 
+suïcidepreventie gezegd de toegang tot 
+het spoor te verhinderen (af te sluiten). 
+Wordt er dan in deze SBIR (onbewust?) 
+geschreven naar een fysieke afsluiting? 
+58.  In hoe verre is het van belang dat de 
+aanbiedende partij uiteindelijk de 
+oplossing (in de vorm van fysiek product) 
+geleverd kan worden? 
+ 
+In deze fase niet. Er kan in een latere fase ook een samenwerking met een andere partij gezocht 
+worden om tot uitwerking van een prototype te komen. 
+ 
+59.  In hoeverre mag er gebruik gemaakt 
+worden van bestaande ProRail 
+infrastructuur? (objecten als CCTV) 
+ 
+Er zijn in deze fase nog geen beperkingen qua ideeënvorming.  
+60.    
+61.  Is er beschikbare ruimte onder de 
+perronvloer? 
+ 
+Dit is niet altijd het geval.  
+ 
+62.  Wat zijn de hoogtebegrenzingen? 
+ 
+In de hoogte zijn er los van de profiel vrije ruimte geen beperkingen. 
+ 
+ 
+ 
+11 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+63.  Om zinloze conceptstudies te voorkomen: 
+wat zijn de bestaande oplossingen die 
+reeds onderzocht zijn en niet naar wens 
+van ProRail zijn? 
+ 
+In het verleden zijn oplossingrichtingen bedacht met geuren, kleuren en  
+geluiden. Deze hebben het niet gehaald.  
+ 
+64.  PVE geeft aan bij 4.1, pt. 1b, het 
+overrulen van mensen in geval van 
+calamiteiten. Tegelijkertijd is het ook 
+voor suïcidepreventie. Als het te 
+overrulen valt, is suïcide weer mogelijk. 
+Is het wenselijk om in de concepten na te 
+denken over mogelijke signalering 
+richting spoorbeveiliging? 
+ 
+Het overrulen zal altijd een bewuste actie moeten zijn met signalering.   
+65.  Volgens PVE, 4.1, pt. 8: Wat zijn de 
+kosten van enkele jaren crowd control, 
+om een vergelijk mogelijk te kunnen 
+maken met het mogelijke concept? 
+ 
+De kosten kunnen voor een station zoals Schiphol behoorlijk hoog zijn. 
+Concrete bedragen kunnen we helaas niet verstrekken. U dient zelf een inschatting te maken.   
+66.  Zorgt crowd control ook voor 
+suïcidepreventie voorkomt dit de kosten 
+die anders van toepassing zouden zijn 
+(spoorverkeer afsluiten, onderzoeks- en 
+reinigingskosten. 
+ 
+Ja. 
+67.  Welke energie- en 
+communicatievoorzieningen zijn 
+beschikbaar? 
+ 
+Energievoorziening in principe van het openbare net. Er is een omroepinstallatie aanwezig op elk 
+station.  
+ 
+ 
+ 
+ 
+ 
+12 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+68.  Is het wenselijk om bijvoorbeeld 
+spoorweginformatie en/of entertainment 
+te integreren in de oplossing? 
+ 
+Het is aan u om aan te tonen dat dit meerwaarde heeft.  
+69.  Wat zijn jullie verwachtingen bij het 
+prototype? Moet het een heel perron van 
+100+ meter beslaan of mag het voor het 
+concept ook bijvoorbeeld 20 meter in 
+beslag nemen? 
+Het gaat erom dat er bij het prototype inzichtelijk wordt gemaakt dat het in een opstelling met een 
+echt perron kan worden aangetoond dat het werkbaar en uitvoerbaar is. De test van het prototype 
+moet de opdrachtgever (ProRail) overtuigen dat het getoonde prototype ook echt een oplossing is 
+voor de perronrandbeveiliging. De techniek moeten worden aangetoond en ook dat het opschaalbaar 
+en economisch haalbaar is om het uiteindelijke product in de markt te zetten. 
+ 
+70.  Het budget is voor ons te laag om hier 
+een goed werkend prototype neer te 
+zetten. Dit zit in de personeelskosten, 
+maar ook in de materiaalkosten. Staat dit 
+budget als zodanig ook vast of kan dit 
+nog aangevuld worden? 
+De budgetten voor fase 1 en 2 staan vast. Het is aan de inschrijvende partij te beoordelen of men met 
+deze budgetten uit de voeten kan. De SBIR geeft overigens veel ruimte aan de ondernemer en kansen 
+om een innovatief product of dienst te ontwikkelen. 
+71.  Het was ons echter niet helemaal 
+duidelijk wat er precies verwacht en met 
+name voor fase 2. Moet er een proof of 
+concept prototype geleverd worden of is 
+een detailtekening van het prototype 
+voldoende. 
+Een detailtekening is echt onvoldoende in fase 2. Er moet een werkend prototype worden ontwikkeld 
+en uiteindelijk ook getoond. Daar is in fase 2 ook meer tijd en geld voor beschikbaar. ProRail zal 
+daarvoor ook een stuk spoor met perron beschikbaar stellen om het prototype in de praktijk te kunnen 
+testen. 
+72.  En wordt van het consortium verwacht 
+dat ze na het project als leverancier 
+zullen werken? 
+Het consortium hoeft op zich niet de leverancier te zijn, maar wel moet er zicht zijn op vermarkting 
+van het prototype. Het prototype kan dan bijvoorbeeld in licentie door een leverancier worden 
+gebouwd en verkocht worden. Dit heeft te maken met een reëel economisch perspectief van de 
+gekozen oplossing. 
+ 
+ 
+ 
+ 
+ 
+13 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+73.  Waaruit moet de offerte fase 1 bestaan? Een offerte bestaat uit: 1. een volledig ingevuld en ondertekend SBIR-formulier; 2. het projectplan in 
+het Nederlands volgens Model Projectplan fase 1; 3. de managementsamenvatting. 
+Zie verder de SBIR handleiding: 
+https://mijn.rvo.nl/documents/20448/80899/SBIR+handleiding+voor+ondernemers+2019/4e791d25-
+1042-087b-0025-d4d1fbcf1da6  
+ 
+74.  Ik heb wellicht ideeën die patent-waardig 
+zijn. Ik heb ze nu nog niet in een patent 
+omschreven, dat kost tijd en geld. In 
+hoeverre kan ik er van uitgaan dat 
+ProRail of een andere partij door mij 
+ingebrachte ideeën niet zelf patenteren? 
+ 
+Als een idee niet geoctrooieerd is, kan een andere partij dat wel doen. Het is aan de aanvrager om die 
+afweging te maken. Het Nederlands Octrooicentrum geeft gratis workshops: 
+https://www.rvo.nl/onderwerpen/innovatief-ondernemen/octrooien-ofwel-patenten/over-
+octrooicentrum-nederland 
+75.  Ik heb ook een idee dat niet te 
+patenteren is, maar wel origineel. Ik kan 
+het echter zeker niet zelf implementeren, 
+terwijl ProRail dat ongetwijfeld zelf wel 
+kan. Ik kan dus alleen dit idee aan jullie 
+geven. Ik zou het toch leuk vinden als ik 
+daarvoor gewaardeerd zou kunnen 
+worden in geval ProRail het overneemt.  
+ 
+SBIR aanvragen worden bij RVO vertrouwelijk behandeld. Het is aan de aanvrager om zijn/haar idee 
+te octrooieren. Zie verder vraag 74. 
+76.  Ik vroeg me ook af wat de nominale 
+snelheid is die een trein langs een perron 
+meestal heeft, en die dus dodelijk is voor 
+de mensen die suïcide plegen. 
+ 
+Een precieze nominale snelheid is niet aan te geven. Ook bij een snelheid waarbij een trein afremt om 
+te halteren aan een perron is het nog mogelijk dat dit een dodelijk ongeval tot gevolg heeft. 
+ 
+ 
+ 
+14 van 14 
+ 
+ 
+  
+ 
+ 
+ Vraag Antwoord 
+77.  In het document 'ProRail 
+perronrandbeveiliging Programma van 
+Eisen 17 februari 2020.pdf' staat onder 
+4.1 vraag 8: 
+Kosten: De oplossing dient qua 
+investeringskosten (total costs of 
+ownership) op te wegen tegen het 
+inzetten van enkele jaren crowd-control 
+op een groot station. 
+ 
+Is er een indicatie van deze kosten? 
+De kosten kunnen voor een station zoals Schiphol behoorlijk hoog zijn. Concrete bedragen kunnen we 
+helaas niet verstrekken. U dient zelf een inschatting te maken. Zie ook vraag 65. 
+78.  Is een oplossing zoals bij diverse 
+metrostations o.a. in Azië en bij 
+luchthavens (shuttle verbindingen) 
+mogelijk. Daar staan op de perrons 
+transparante schermen met op de juiste 
+plaatsen schuifdeuren ter hoogte van de 
+deuren van de metro. De metro stopt 
+exact op de goede plek, zodat deuren van 
+metro en scherm corresponderend zijn. 
+ 
+Deze oplossing, is niet toepasbaar op de Nederlandse treinstations. Eén van de eisen waar de oplossing 
+namelijk aan moet voldoen is: 
+ 
+De oplossing moet bruikbaar zijn voor alle op het Nederlandse spoor rijdende treinen met verschillende treinlengtes 
+die aan hetzelfde perron halteren. Dat betekent ook dat de deuren op verschillende locaties kunnen zitten. (Blz 11, 
+eis 4.4.4). Programma van eisen ProRail, feb 2020. 
+ 
+De deuren van treinen zitten dus op verschillende plekken langs het perron, afhanke lijk van de lengte van 
+de trein. Daarnaast is de locatie waar treinen halteren niet zo precies als bij metro’s. Het systeem waar 
+uw naar verwijst werkt daarom niet op de Nederlandse perrons.  
+ 
+79.  Kan ik mijn idee laten toetsen voordat ik 
+een aanvraag indien? 
+De beoordeling wordt door de onafhankelijke Adviescommissie gedaan. De samenstelling staat hiervan 
+in de SBIR oproep. Er wordt daarom geen advies gegeven voordat de Adviescommissie bij elkaar is 
+gekomen. Naar verwachting zal dit eind augustus, begin september zijn. 
+80.
+
+=== Document: sbir format eindrapport fase 1 ===
+Format SBIR eindrapport fase 1  1 van 5  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Format SBIR Eindrapport fase 1 
+Dit format heeft als doel om te zorgen dat het eindrapport van fase 1 compact en zelfstandig 
+leesbaar is. Bij dit format is een bijlage opgenomen om de voortgang en de effectiviteit van het 
+instrument SBIR in fase 1 te kunnen monitoren voor de opdrachtgevers van RVO.nl. De bijlage 
+maakt integraal onderdeel uit van dit format. 
+  
+Gegevens project 
+ SBIR-projectnummer 
+ Projecttitel 
+ Contactpersoon en uitvoerder 
+ Begin en einddatum van het project 
+ 
+1. Management samenvatting (1-2 pagina’s) 
+Beschrijf de doelstelling en probleemstelling van het haalbaarheidsonderzoek. Geef hierbij aan of 
+en zo ja waarom deze is gewijzigd ten opzichte van de offerte. Ga vervolgens in op de resultaten 
+en de conclusies van het onderzoek naar: 
+ Verwachte (kwantitatieve) bijdrage aan het maatschappelijk vraagstuk uit de oproep. 
+ Technische haalbaarheid. 
+ Economische haalbaarheid. 
+ 
+Beschrijf vervolgens op hoofdlijnen 
+ Het ziet het vervolg (fase 2) eruit en wat zijn hierbij de eventuele aandachtspunten (technisch, 
+economisch, organisatorisch). 
+ Een doorkijk naar fase 3, wie zijn de beoogde eindgebruikers en hoe betrekt u hun wensen bij 
+fase 2?. 
+ 
+2. Uitvoering van het project (2-4 pagina’s) 
+ Beschrijf de doelstelling en probleemstelling van het haalbaarheidsonderzoek. 
+ Geef een toelichting op de activiteiten die zijn ingezet in fase 1. Besteedt hierbij aandacht aan 
+de volgende onderdelen: 
+ de projectorganisatie; 
+ de fasering en de taakverdeling (inclusief eventueel ingeschakelde partners en 
+derden) zodat duidelijk is welke organisaties waar aan hebben bijgedragen. 
+ Geef tevens aan of de samenwerking en taakverdeling is verlopen zoals u bij aanvang had 
+gedacht en zo nee hoe u daarmee bent omgegaan. Het gaat daarbij bijvoorbeeld om benodigde 
+expertise, taakverdeling, kennisuitwisseling, wijze van samenwerking en gebruiksrecht op 
+resultaten. 
+ 
+3. Inhoudelijke bevindingen (5-10 pagina’s) 
+Beschrijf hieronder per onderwerp wat de bevindingen en conclusies zijn. Indien u beschikt over 
+rapporten die uw bevindingen ondersteunen dan kunt u deze toevoegen aan dit eindrapport. 
+ 
+Format SBIR eindrapport fase 1  2 van 5  
+ 
+ 
+ 
+ 
+ 
+3.1 Bijdrage aan het maatschappelijk vraagstuk 
+Geef – zo veel mogelijk kwantitatief – aan wat de verwachte bijdrage van de beoogde innovatie 
+aan de oplossing voor het maatschappelijk vraagstuk zoals beschreven in de SBIR oproep en hoe 
+dit inzicht is ontwikkeld door dit haalbaarheidsonderzoek. Geef tevens aan of u hierbij knelpunten 
+op het gebied van regelgeving, eigendomsbescherming en dergelijke bent tegengekomen en of u 
+deze knelpunten heeft kunnen oplossen. 
+ 
+3.2 Technische haalbaarheid 
+Het gaat hier om de technische risico’s en onzekerheden bij de realisatie van de beoogde innovatie 
+(of van andere onderzochte alternatieven). Motiveer of de technische haalbaarheid van een verder 
+onderzoek- en ontwikkelingstraject (fase 2) voldoende is aangetoond. Geef aan of de vragen die bij 
+de aanvang van het project zijn gesteld voldoende zijn beantwoord. Motiveer indien is afgeweken 
+van de oorspronkelijk vraagstelling. Geef tevens aan of u hierbij knelpunten op het gebied van 
+regelgeving, eigendomsbescherming en dergelijke bent tegengekomen en of u deze knelpunten 
+heeft kunnen oplossen. 
+ 
+3.3 Economische haalbaarheid 
+Het gaat hier om de economische risico’s en onzekerheden bij de realisatie van de beoogde 
+innovatie (of van andere onderzochte alternatieven). Beschrijf hoe het inzicht in de economische 
+haalbaarheid (bijvoorbeeld kostprijs, marktomvang, aanbieders en vragers), naar aanleiding van 
+dit project verder is ontwikkeld. Motiveer of de economische haalbaarheid van een verder 
+onderzoek- en ontwikkelingstraject (fase 2) in voldoende mate is aangetoond.  
+ 
+Geef aan of de vragen die bij de aanvang van het project zijn gesteld voldoende zijn beantwoord. 
+Motiveer indien is afgeweken van de oorspronkelijke vraagstelling. Geef tevens aan of u hierbij 
+knelpunten op het gebied van regelgeving, eigendomsbescherming en dergelijke bent 
+tegengekomen en of u deze knelpunten heeft kunnen oplossen. 
+ 
+4. Conclusies en vervolg (2-4 A4) 
+Beschrijf of een vervolg in fase 2 op grond van de resultaten haalbaar is. Geef op hoofdlijnen aan 
+hoe dit vervolg er uitziet: 
+ (Technische) risico’s en onzekerheden bij de realisatie van de beoogde innovatie. Geef daarbij 
+globaal aan wat na dit haalbaarheidsonderzoek nog aan onderzoek en/of ontwikkeling moet 
+plaatsvinden en wat daarvan naar uw inschatting nog de (technische) risico’s en 
+nieuwheidsaspecten zijn. 
+ Economische risico’s en onzekerheden die u voorziet voor het in fase 2 beoogde onderzoek- en 
+ontwikkelingsproject, denk bijvoorbeeld aan de relatie tussen verwachte opbrengst en 
+benodigde investering en de condities voor deze investering, geldende regelgeving en 
+concurrerende producten en diensten. 
+ Organisatorische risico’s en onzekerheden die u voorziet, denk bijvoorbeeld aan benodigde 
+expertise, taakverdeling, kennisuitwisseling, wijze van samenwerking, gebruiksrecht op 
+ 
+Format SBIR eindrapport fase 1  3 van 5  
+ 
+ 
+ 
+ 
+ 
+resultaten. Beschrijf eventueel ontbrekende expertise en hoe u in deze leemte denkt te 
+voorzien. 
+ Geef ten slotte een vooruitblik op fase 3, de commercialisatie fase. Wie zijn de beoogde 
+eindgebruikers en hoe betrekt u hun wensen bij fase 2? 
+ 
+5. Financiën (1-2 A4) 
+Geef een toelichting op de realisatie ten opzichte van de begroting. 
+ 
+Format SBIR eindrapport fase 1  4 van 5  
+ 
+ 
+ 
+ 
+ 
+BIJLAGE 1 BIJ FORMAT SBIR EINDRAPPORT FASE 1 
+Om de voortgang en effectiviteit van het instrument SBIR te kunnen monitoren voor de 
+opdrachtgevers heeft RVO.nl de volgende vragen opgesteld. Deze vragen zijn gemakshalve 
+gekoppeld aan het eindrapport en zijn daar een integraal onderdeel van. 
+ 
+SBIR-projectnummer: …………………… 
+ 
+1. Het directe effect van de SBIR opdracht: Zonder SBIR opdracht was dit project: 
+ Ongewijzigd uitgevoerd  Later uitgevoerd 
+ Niet gestart  Uitgevoerd zonder partners 
+ Kleiner geweest  Uitgevoerd met andere partners 
+ 
+2. Samenwerking en netwerkvorming 
+2.1 Vul hieronder voor elk van uw samenwerkingspartners de gevraagde kenmerken in. 
+Naam 
+samenwerkingspartner 
+Gevestigd in 
+(land) 
+Deze partner is 
+bekend / nieuw 
+voor mij 
+Soort bedrijf 
+(MKB met < 250 
+werknemers of 
+GRB ≥ 250 
+werknemers  
+Soort 
+kennisinstelling 
+(universiteit, 
+TNO, HBO, MBO 
+of anders) 
+  Nederland 
+ … 
+ Bekend 
+ Nieuw  
+ MKB 
+ GRB 
+ 
+  Nederland 
+ … 
+ Bekend 
+ Nieuw 
+ MKB 
+ GRB 
+ 
+  Nederland 
+ … 
+ Bekend 
+ Nieuw 
+ MKB 
+ GRB 
+ 
+  Nederland 
+ …  
+ Bekend 
+ Nieuw 
+ MKB 
+ GRB 
+ 
+  Nederland 
+ … 
+ Bekend 
+ Nieuw 
+ MKB 
+ GRB 
+ 
+ 
+ 
+2.2 Verwacht u in de toekomst nog vaker met de in het project betrokken organisaties te werken? 
+ Ja, met  bedrijven en/of  kennisinstellingen 
+ Nee 
+ 
+3. Bescherming intellectueel eigendom 
+3.1 Heeft u tijdens het fase 1 onderzoek het intellectueel eigendom van uw product of dienst 
+beschermd ? 
+ nee 
+ ja, ik heb patent aangevraagd 
+ ja, ik heb kennis geheim gehouden 
+ ja, op een andere wijze 
+ 
+Format SBIR eindrapport fase 1  5 van 5  
+ 
+ 
+ 
+ 
+ 
+ 
+3.2 Verwacht u dat u in de toekomst het intellectueel eigendom van uw ontwikkelde product of 
+dienst zal beschermen? 
+ nee        
+ ja, door het aanvragen van een patent 
+ ja, door kennis geheim te houden 
+ ja, op een andere wijze 
+ 
+4. Het instrument SBIR. 
+4.1 Wat vindt u sterke punten van het SBIR instrument? 
+ 
+4.2 Heeft u nog suggesties voor ons hoe wij SBIR in fase 1 of fase 2 als instrument kunnen 
+verbeteren?
+
+=== Document: sbir formulier aanbieding ===
+Aanbieding 
+SBIR 
+ 
+Stuur het ingevulde formulier met bijlagen naar het email-adres 
+vermeld in de oproep.  
+ 
+SBIR@RVO.nl  
+ 
+Meer informatie 
+Voor toelichting bij het formulier:  
+website: www.rvo.nl/sbir 
+T 088 042 5114 (op werkdagen van 8:30 – 17:30 uur) 
+ 
+Aanbieding SBIR 2018 
+ 
+Pagina 1 van 3 
+ 
+Over dit formulier 
+ 
+- Met dit formulier kunt u een SBIR-offerte indienen bij RVO.nl. 
+ 
+- Lever formulier en alle bijlagen in bij RVO.nl.  
+ 
+- Let op de juiste naamgeving van bijlagen. 
+ 
+- Lever tijdig in! De uiterste inleverdatum verschilt per SBIR. 
+ 
+- Ga naar rvo.nl/sbir voor meer informatie. 
+ 
+- Wij gaan zorgvuldig om met uw persoonsgegevens. Dit staat 
+op onze pagina Privacy op www.rvo.nl.  
+ 
+  
+  
+ 
+ 
+ 
+1 Aanbieder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Vul hier uw International Bank 
+Account Number (IBAN) en Bank 
+Identifier Code (BIC) in. Via 
+www.ibanbicservice.nl kunt u van 
+een bestaand Nederlands 
+rekeningnummer de juiste BIC-
+code en het juiste IBAN-nummer 
+opvragen. 
+Naam organisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ IBAN-nummer1       BIC-code 1       
+Aantal medewerkers 
+werkzaam bij de 
+organisatie? 
+      
+Jaar van oprichting 
+van de organisatie? 
+      
+Rechtsvorm van de 
+organisatie 
+      
+ 
+2 Contactpersoon bij de aanbieder2 
+2 Geef hier de gegevens op van de 
+inhoudelijk projectleider van het 
+project is. 
+Naam        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie 2019 Pagina 2 van 3 
+ 
+3 Intermediair 
+ Heeft u een intermediair 
+gemachtigd om namens u de 
+aanbieding in te dienen? 
+ Nee  > ga verder met 4 
+ Ja     > Vul hierna de gegevens in 
+   
+ Naam organisatie       
+ KvK-nummer       
+  Postadres       
+    Postcode       Plaats       
+  Land       
+  Bezoekadres       
+    Postcode       Plaats       
+  Land       
+ IBAN-nummer1       BIC-code 1       
+ 
+3 Vul hier de gegevens van de 
+contactpersoon van de intermediair 
+in. 
+Naam3        Dhr.   Mw. 
+ Titel(s)       
+  Functie       
+    Telefoon       Mobiel       
+    E-mail         
+ 
+ 
+ 
+4 Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Controleer of uw projectkosten 
+niet boven maximum toegestane 
+bedrag uitkomen 
+Titel SBIR oproep       
+ Naam van project       
+  Acroniem (afkorting  
+beginletters) 
+      
+    Dit is een offerte voor  Fase 1 
+ Fase 2 (vermeld SBIR nummer offerteverzoek): SB      
+ Fase 2a (vermeld SBIR nummer offerteverzoek): SB      
+ Totale projectkosten 
+(exclusief BTW) 
+      
+Totale projectkosten 
+(inclusief BTW) 4 
+      
+ Heeft u voor dit project ook andere subsidie(s)/opdracht(en) 
+aangevraagd en/of gekregen?  Ja  Nee 
+Werkt u samen met andere partijen?  Ja  Nee 
+Is een of meer van deze partijen een bedrijf?  Ja  Nee 
+Is een of meer van deze bedrijven in het buitenland gevestigd?  Ja  Nee 
+Is een of meer van deze partijen een kennisinstelling?  Ja  Nee 
+Is een of meer van deze kennisinstellingen in het buitenland 
+gevestigd?  Ja  Nee 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Aanbieding SBIR versie 2019 Pagina 3 van 3 
+ 
+ 
+5 Checklist bijlagen 
+ 
+ 
+ 
+ 
+4 Een machtiging dient toegevoegd 
+te worden waarin de aanbieder de 
+intermediair machtigt om namens 
+hem op te treden. 
+ 
+ 
+  Bijlage A Projectplan incl. managementsamenvatting en begroting 
+    Bijlage B Businessplan (alleen voor fase 2 en 2a) 
+  Bijlage C Managementsamenvatting als apart (pdf) bestand (alleen voor fase 1) 
+  Bijlage D Machtiging4 (indien van toepassing) 
+  Bijlage X Raadpleeg de oproep voor eventuele gevraagde aanvullende stukken  
+ NB gebruik het acroniem uit vraag 4 als titel voor al uw digitale bestanden, om 
+correcte en snelle verwerking mogelijk te maken, dus: 
+ acroniem.SBIRform.pdf 
+ acroniem.projectplan.pdf,  
+ acroniem.businessplan.pdf,  
+ acroniem.man.sam.pdf 
+ acroniem.machtiging.pdf  
+ acroniem.xxx.pdf 
+ 
+   
+   
+ 
+6 Verklaring en ondertekening 
+ - Ik ben bevoegd en/of gemachtigd om deze aanbieding te ondertekenen. 
+- Ik verklaar dat dit formulier en de bijlagen naar waarheid zijn ingevuld. 
+- Ik heb kennisgenomen van de SBIR Handleiding voor bedrijven. 
+- Ik ben bekend met de voorwaarden en procedures van deze pre-commerciële inkoop 
+zoals beschreven in de SBIR documenten en ik accepteer deze. 
+- Mijn organisatie voldoet aan de voorwaarden zoals gesteld in de SBIR documenten. 
+- (Indien van toepassing) de in het plan genoemde partners hebben een kopie van het 
+projectplan gezien en zijn hiermee akkoord. 
+ 
+ 
+Ondertekenaar       
+  
+Organisatie       
+  
+Datum       
+  
+Handtekening 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+7 Vervolg 
+ U levert het formulier in 
+Stuur het ingevulde en ondertekende formulier met alle bijlagen tijdig naar RVO.nl.  
+De uiterste inleverdatum verschilt per SBIR; ga naar www.rvo.nl/sbir voor meer informatie.  
+Vergeet niet alle vereiste bijlagen als aparte bestanden mee te sturen. 
+ 
+U ontvangt van ons ontvangstbevestiging 
+Binnen 10 dagen stuurt RVO.nl u per e-mail een ontvangstbevestiging.
+
+=== Document: sbir handleiding voor ondernemers 2019 ===
+SBIR handleiding voor ondernemers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deze handleiding is opgesteld door het team Valorisatie en Sectoren van de Rijksdienst voor Ondernemend 
+Nederland (RVO.nl), te bereiken op sbir@rvo.nl.  
+  
+SBIR Handleiding maart 2019 2 
+ 
+Inleiding  
+Het instrument SBIR1 daagt ondernemers uit om nieuwe producten en/of diensten te ontwikkelen en op de 
+markt te brengen. SBIR gebruikt de creativiteit van ondernemers om maatschappelijke problemen op te 
+lossen. SBIR is een innovatie-competitie. De ondernemingen met de beste offertes krijgen een opdracht voor 
+een haalbaarheidsonderzoek. De ondernemingen met de meest kansrijke haalbaarheidsonderzoeken krijgen 
+opdracht hun product verder te ontwikkelen. 
+SBIR is een pre-commercieel inkoopproces, een open competitie voor iedereen die innovatieve 
+(technologische) oplossingen voor maatschappelijke vraagstukken kan ontwikkelen. Ondernemingen zijn 
+bijzonder kosteneffectief als het gaat om onderzoek en ontwikkeling en zijn goed in staat resultaten om te 
+zetten in nieuwe producten, processen of diensten. SBIR richt zich daarbij op ideeën die vaak al langer 
+bestaan bij ondernemingen. 
+Iedere SBIR-competitie leidt tot opdrachten voor onderzoek en ontwikkeling2. Op steeds nieuwe 
+onderwerpen worden ondernemers uitgedaagd. Alleen in de beperkte periode dat een uitdaging open staat, 
+kunt u daarvoor een offerte aanbieden. RVO.nl voert SBIR uit in opdracht van verschillende ministeries en 
+andere overheden (aanbestedende diensten). 
+SBIR is opgedeeld in fasen. Dit verkleint de risico’s voor de overheid: alleen voor de beste projecten wordt 
+een (vervolg) onderzoek- en ontwikkelingstraject betaald. De fasen zijn: 
+ Fase 1: Haalbaarheidsonderzoek (oplossingen exploratie) 
+ Fase 2: Toegepast onderzoek en ontwikkeling (prototyping, praktijkproeven en beproeven van 
+prototype) 
+NB. Opdrachtgevers kunnen fase 2 opdelen in een fase 2a en een fase 2b. In fase 2b ligt de nadruk op 
+praktijkproeven, door-ontwikkelen en beproeven van prototype. Raadpleeg de SBIR oproep. 
+Het marktrijp maken, fase 3, (commerciële ontwikkeling) valt buiten de SBIR procedure. 
+Voor fase 1 en 2 geldt: geselecteerde offertes krijgen een opdracht om het voorgestelde onderzoek uit te 
+voeren. De hoogte van de vergoeding is het offertebedrag. Dit moet lager zijn dan (of gelijk zijn aan) het 
+maximumbedrag en marktconform. Fase 3 wordt niet door de overheid gefinancierd. 
+Voor fase 1 en voor fase 2 beoordeelt een commissie van experts de offertes op: 
+ Impact 
+ Technologische haalbaarheid 
+ Economisch perspectief 
+ Prijs van de offerte  
+                                                           
+ 
+1 De afkorting SBIR komt van het Amerikaanse Small Business Innovation Research program. Het Amerikaanse SBIR programma is 
+alleen toegankelijk voor kleine bedrijven. Het Nederlandse SBIR programma is toegesneden op kleinere ondernemingen, maar staat 
+open voor iedereen, ook voor grote ondernemingen. 
+2 SBIR behoort tot de zogeheten ‘precommerciële’ inkoop, de aanbestedingswet is hierop niet van toepassing. Wel geldt ook voor 
+SBIR dat de procedure open, eerlijk en transparant is. 
+SBIR Handleiding maart 2019 3 
+ 
+Inhoudsopgave 
+Inleiding ................................................................................................................................................................ 2 
+1. De oproep ..................................................................................................................................................... 5 
+1.1 De SBIR documenten ................................................................................................................................... 5 
+1.2 Vragen.......................................................................................................................................................... 5 
+2. Offerte SBIR fase 1 ........................................................................................................................................ 6 
+2.1 Onderdelen van de offerte .......................................................................................................................... 6 
+2.2 Eisen aan offerte fase 1 ............................................................................................................................... 6 
+2.3 Partijen ........................................................................................................................................................ 7 
+2.4 Prijs en duur van de opdracht ..................................................................................................................... 7 
+3. Beoordelingsproces SBIR fase 1 .................................................................................................................... 8 
+3.1 Beoordelingscommissie ............................................................................................................................... 8 
+3.2 De voorselectie ............................................................................................................................................ 8 
+3.3 De beoordelingscriteria ............................................................................................................................... 8 
+3.4 Drempelwaarde ........................................................................................................................................... 9 
+3.5 Opdrachtverlening ....................................................................................................................................... 9 
+3.6 Vertrouwelijkheid ........................................................................................................................................ 9 
+4. SBIR fase 1: Het haalbaarheidsonderzoek .................................................................................................. 10 
+4.1 De opdrachtverlening ................................................................................................................................ 10 
+4.2 Het intellectueel eigendom (IE) ................................................................................................................. 10 
+4.3 Het haalbaarheidsonderzoek .................................................................................................................... 10 
+4.4 Resultaat fase 1: eindrapport .................................................................................................................... 10 
+4.5 Wijzigingen tijdens fase 1 .......................................................................................................................... 10 
+5. Offerte fase 2 .............................................................................................................................................. 11 
+5.1 Partijen ...................................................................................................................................................... 11 
+5.2 Onderdelen offerte fase 2 ......................................................................................................................... 11 
+5.3 Prijs en duur van de opdracht ................................................................................................................... 11 
+5.4 Eisen offerte fase 2 .................................................................................................................................... 11 
+6. Beoordelingsproces SBIR fase 2 .................................................................................................................. 12 
+7. SBIR Fase 2: Het onderzoek- en ontwikkelingstraject ................................................................................ 13 
+7.1 De opdrachtverlening ................................................................................................................................ 13 
+SBIR Handleiding maart 2019 4 
+ 
+7.2 Het intellectueel eigendom (IE) ................................................................................................................. 13 
+7.3 Resultaten fase 2 ....................................................................................................................................... 13 
+7.4 Wijzigingen tijdens fase 2 .......................................................................................................................... 13 
+8. SBIR Fase 3: marktrijp maken ..................................................................................................................... 14 
+9. Formulieren, modellen, formats ................................................................................................................. 15 
+10. Nadere Juridische bepalingen ................................................................................................................. 16 
+10.1 Eisen aan partijen .................................................................................................................................... 16 
+10.2 Onderzoek en ontwikkeling ..................................................................................................................... 17 
+10.3 Definities Onderzoek en ontwikkeling .................................................................................................... 18 
+11. Voorbeeld contracten ............................................................................................................................. 19 
+11.1 Voorbeeld SBIR fase 1 contract ............................................................................................................... 19 
+11.2 Voorbeeld SBIR fase 2 contract ............................................................................................................... 20 
+ 
+  
+SBIR Handleiding maart 2019 5 
+ 
+1. De oproep 
+1.1 De SBIR documenten 
+Alle informatie over een specifieke SBIR-competitie staat in de documenten die daarbij horen: 
+ Het vraag en antwoord document (de nota van inlichtingen) Hierin staan de geanonimiseerde vragen die 
+zijn gesteld over de SBIR-competitie en de antwoorden hierop.  
+ De oproep. Deze beschrijft de inhoudelijke kant van een specifieke SBIR-competitie en eventueel 
+aanpassingen van de procedure zoals beschreven in de handleiding. 
+ De handleiding. Het voorliggende document dat de procedurele kant van SBIR beschrijft. De in de 
+oproep genoemde versie van de handleiding is van toepassing. 
+ De formats, modellen en formulieren waarnaar in deze handleiding wordt verwezen.  
+Mochten er tegenstrijdigheden zitten tussen bovenstaande documenten dan gaat steeds het eerder 
+genoemde document voor het later genoemde document.  
+Deze documenten zijn te downloaden via www.sbir.nl3.  
+Deze documenten bevatten informatie over zowel fase 1 als over fase 2. Voor fase 2 verstuurt RVO.nl een 
+offerteverzoek waarin aanvullende voorwaarden kunnen staan.  
+ 
+1.2 Vragen 
+Algemene vragen over SBIR kunt u altijd stellen aan het “SBIR@rvo.nl Uitvoerings- en expertisebureau”, 
+bereikbaar op nummer: 088 602 5114. Als u vragen heeft over een specifieke SBIR uitdaging dan kunt u: 
+ Deze per e-mail stellen via het e-mail adres dat in de SBIR oproep staat vermeld. Dit kan tot 10 dagen 
+voor het sluiten van de uitdaging. 
+ Deze stellen tijdens de informatiebijeenkomst. Informatie over de informatiebijeenkomst vindt u in de 
+oproep of op www.sbir.nl. 
+Vragen en antwoorden worden (geanonimiseerd) opgenomen in de Nota van inlichtingen, die zo snel 
+mogelijk na de informatiebijeenkomst wordt gepubliceerd op de website en – indien aan de orde – wordt 
+geactualiseerd met later ontvangen vragen en bijbehorende antwoorden. Het is niet mogelijk om uw idee 
+met RVO.nl te bespreken. Wel kunt u terugkoppeling krijgen of uw idee, naar oordeel van RVO.nl, past 
+binnen de SBIR uitdaging. Hiertoe kunt u een beknopte beschrijving (maximaal 1 pagina A4) per e-mail 
+voorleggen. Uw idee en de terugkoppeling worden niet opgenomen in de Nota van inlichtingen. 
+Het is niet toegestaan om, in het kader van een SBIR- competitie, contact te zoeken met de leden van de 
+beoordelingscommissie. Doet u dat wel dan kunt u worden uitgesloten van de verdere competitie. 
+ 
+                                                           
+ 
+3 Dit webadres verwijst door naar: http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir 
+SBIR Handleiding maart 2019 6 
+ 
+2. Offerte SBIR fase 1 
+2.1 Onderdelen van de offerte 
+Een offerte moet een afgebakend project aanbieden. Het is niet mogelijk een deel van een project aan te 
+bieden. Een offerte bestaat uit: 
+1. een volledig ingevuld en ondertekend SBIR-formulier; 
+2. het projectplan in het Nederlands volgens Model Projectplan fase 1; 
+3. de managementsamenvatting. 
+Wij verzoeken u uw offerte elektronisch aan te bieden op USB stick of per e-mail aan sbir@rvo.nl. Het 
+volledig ingevulde en ondertekende SBIR formulier, het projectplan en de managementsamenvatting moeten 
+daarbij als aparte PDF of Word bestanden worden aangeleverd.  
+ 
+2.2 Eisen aan offerte fase 1 
+Er wordt met nadruk op gewezen dat aanbieder zelf verantwoordelijk is voor de volledigheid van zijn offerte. 
+Een onvolledige offerte kan leiden tot uitsluiting van de procedure. De oproep is daarbij het belangrijkste 
+document, iedere SBIR-competitie staat op zichzelf. Enkele SBIR oproepen stellen aanvullende eisen en 
+vragen meer dan de in paragraaf 0 genoemde stukken. 
+RVO.nl toetst of de offerte voldoet aan onderstaande eisen. In de volgende gevallen komen offertes in ieder 
+geval niet in aanmerking voor een opdracht: 
+ De offerte overschrijdt (op welke manier dan ook) het maximum bedrag zoals aangegeven in de oproep. 
+Daarbij wordt gekeken naar het bedrag inclusief btw, tenzij u kunt aantonen dat er geen btw van 
+toepassing is. NB. Incidenteel kan het 0% BTW tarief van toepassing zijn. 
+ De offerte overschrijdt de maximale looptijd.  
+ De offerte is niet in het Nederlands opgesteld.  
+ Het projectplan ontbreekt of is niet in overeenstemming met het model op www.sbir.nl. 
+ De offerte biedt, op welke manier dan ook, een onderdeel van een project aan in plaats van een volledig 
+project.  
+RVO.nl kan, maar is daartoe niet verplicht, kleine omissies (die niet inhoudelijk zijn en hierboven niet zijn 
+genoemd) laten herstellen na het sluitingstijdstip. In die gevallen geldt dat RVO.nl per e-mail verzoekt om 
+binnen 2 werkdagen de omissies recht te zetten. Wanneer omissies niet tijdig, of niet juist worden 
+rechtgezet, wordt het voorstel uitgesloten van de competitie en wordt het niet beoordeeld door de 
+beoordelingscommissie. 
+Bij voorstellen die tot 2 werkdagen voor het sluitingstijdstip zijn ontvangen, kan RVO.nl, maar is daartoe niet 
+verplicht, de indiener attenderen op omissies. Wanneer de indiener de omissie(s) niet voor het 
+sluitingstijdstip of niet juist heeft rechtgezet, wordt het voorstel uitgesloten van de competitie en wordt het 
+niet beoordeeld door de beoordelingscommissie. 
+De volledige offerte moet voor het aangegeven tijdstip ontvangen zijn op de in de oproep aangegeven 
+locatie. Het risico van vertraging tijdens de (post)verzending of door onjuiste/onvolledige adressering is 
+geheel voor rekening van de aanbieder. Offertes die niet op tijd zijn ontvangen, zullen terzijde worden 
+gelegd. 
+SBIR Handleiding maart 2019 7 
+ 
+2.3 Partijen 
+Alle SBIR-competities zijn gericht op ondernemingen met onderzoek- en ontwikkelingscapaciteit. Ook 
+stichtingen, verenigingen, corporaties en startende ondernemers (privé personen) kunnen meedoen. Voor 
+startende ondernemers geldt dat de onderneming nog niet opgericht hoeft te zijn op het moment dat een 
+offerte wordt uitgebracht. Stichtingen, verenigingen en corporaties zullen extra moeten motiveren waarom 
+zij de aangewezen partij zijn om het voorgestelde product te ontwikkelen én succesvol op de markt te 
+brengen. Alle organisaties, ook die zonder winstoogmerk, moeten duidelijk aangeven hoe zij de resultaten 
+van het SBIR-traject op de markt willen gaan brengen (worden licenties uitgegeven, wordt te zijner tijd een 
+onderneming opgericht, etc.). 
+Een SBIR opdracht wordt gegeven aan één partij. Deze ‘hoofdaannemer’ is verantwoordelijk voor het 
+resultaat en heeft uiteraard de leiding over het project. Deze partij kan samenwerken met partners en 
+onderaannemers. RVO.nl adviseert u afspraken tussen hoofd- en onderaannemers en partners goed 
+schriftelijk vast te leggen.  
+In paragraaf 10.1 zijn nadere eisen aan deelnemende partijen opgenomen. 
+ 
+2.4 Prijs en duur van de opdracht 
+Fase 1 duurt maximaal 6 maanden. Indien in de oproep een kortere termijn is opgenomen, dan geldt de 
+kortere termijn. Binnen die tijd moet het haalbaarheidsonderzoek zijn afgerond. 
+U brengt een offerte uit voor een bepaald resultaat tegen een in de offerte aangegeven vaste prijs. Uw 
+offerte moet marktconform zijn. Dus een reële prijs voor wat u aanbiedt. Houdt er bij het bepalen van deze 
+prijs rekening mee dat het intellectueel eigendom (IE) bij u blijft. Er is geen overdracht aan de opdrachtgever. 
+Wel verwerft de opdrachtgever bepaalde rechten (zie paragraaf 0). Een marktconforme prijs houdt rekening 
+met het feit dat het IE bij u blijft en ligt daarom altijd lager dan de prijs van exclusief onderzoek en 
+ontwikkeling. Hiermee is bedoeld onderzoek en ontwikkeling dat u exclusief aan de overheid aanbiedt 
+waarbij alle resultaten die voortkomen uit het contract - inclusief alle IE - exclusief voor de overheid zijn. In 
+de begroting dient u het verschil toe te lichten. 
+U brengt een offerte altijd uit inclusief btw (let op: de bedragen genoemd in de oproep zijn altijd inclusief 
+btw). In voorkomende gevallen kan het zijn dat of het 0% BTW tarief geldt of dat er geen BTW van toepassing 
+is. U krijgt een vaste prijs voor de SBIR-opdracht en bent verantwoordelijk voor het resultaat. Bij de 
+uitvoering van de opdracht kunt u samenwerken met een kennisinstelling of met andere ondernemingen, of 
+delen van het werk uitbesteden. De omvang van de opdracht bedraagt nooit meer dan in de SBIR oproep is 
+aangegeven én nooit meer dan het offertebedrag. 
+Een onderneming kan financiering of subsidie vragen voor onderzoek aanvullend op of naast een SBIR-
+project, daarbij geldt dat RVO.nl alleen de reële kosten vergoedt waar geen subsidie tegenover staat of heeft 
+gestaan. Wél kan een SBIR-opdracht worden gecombineerd met fiscale tegemoetkomingen en 
+vermindering(en) op de belastingafdracht zoals bijvoorbeeld de WBSO4.  
+                                                           
+ 
+4 Met de fiscale innovatieregeling WBSO (Wet Bevordering Speur- en Ontwikkelingswerk) kunt u de kosten voor R&D (Research & 
+Development) verlagen. Meer informatie op www.rvo.nl/subsidies-regelingen/wbso 
+SBIR Handleiding maart 2019 8 
+ 
+3. Beoordelingsproces SBIR fase 1 
+3.1 Beoordelingscommissie 
+Een commissie van deskundigen adviseert over de rangschikking van de aangeboden projecten. RVO.nl 
+maakt de leden van de commissie bekend. De commissie bepaalt haar eigen werkwijze binnen de kaders die 
+door de beschreven procedure worden gegeven. 
+3.2 De voorselectie 
+In het geval er voor fase 1 veel offertes zijn ontvangen dan kan de commissie eerst een voorselectie van de, 
+naar haar mening, kansrijke offertes maken. Voor het maken van de voorselectie kan de commissie 
+uitsluitend naar de managementsamenvatting van iedere offerte kijken. Wanneer een offerte niet kansrijk 
+wordt geacht dan komt deze niet in aanmerking voor een opdracht. 
+3.3 De beoordelingscriteria 
+De oproep van een specifieke SBIR beschrijft de beoordelingscriteria waarop de beoordelingscommissie de 
+(kansrijke) offertes beoordeelt. De volgende vier criteria dienen hierbij als uitgangspunt: 
+1. Impact 
+a. Mate waarin de innovatie5 bijdraagt aan het oplossen van het maatschappelijk probleem. 
+b. Kwaliteit van de onderbouwing van de impact. 
+c. Mate van innovatie: Hoe groot is de ‘doorbraak’ en hoeveel nieuwe functionaliteit ontstaat voor 
+klanten? 
+d. Bruikbaarheid voor gebruikers. 
+e. Hoeveel waarde levert het voorstel voor het gevraagde budget (‘value for money’)?  
+2. Technologische haalbaarheid 
+a. Mate waarin het voorstel een technologisch interessante benadering voorstelt.  
+i. Is de benadering veelbelovend? 
+ii. Is de benadering haalbaar?  
+iii. Is de benadering inventief? 
+b. Is (Zijn) dit de juiste partij (partijen) om dit te ontwikkelen?  
+c. Kwaliteit van de technische onderbouwing:  
+i. Is duidelijk wat het ‘technologische startpunt’ is? 
+ii. Is duidelijk welk onderzoek men van plan is te doen? 
+iii. Zijn de voorgestelde middelen in overeenstemming met de voorgestelde aanpak?  
+iv. Is duidelijk hoe het voorgestelde onderzoek bijdraagt aan de doelstelling van het 
+project? 
+v. Is het voorstel goed leesbaar door iemand die goed bekend is met de materie maar geen 
+technisch expert is. 
+3. Economisch perspectief 
+a. Geeft het voorstel vertrouwen dat de ondernemer een product en/of dienst ontwikkelt waar 
+klanten voor willen betalen? 
+                                                           
+ 
+5 SBIR is gericht op het ontwikkelen van innovaties. Van een innovatie wordt gesproken indien (de toepassing van) het onderzochte 
+en ontwikkelde product, proces of dienst nieuw is of nieuw is binnen een bepaalde context waarin het eerder nog niet bestond. 
+SBIR Handleiding maart 2019 9 
+ 
+b. In hoeverre is de ondernemer (of het consortium) de juiste partij om de innovatie op de markt te 
+brengen?  
+c. Kwaliteit van de onderbouwing: 
+i. De mate waarin duidelijk is hoe de onderneming geld gaat verdienen 
+ii. De mate waarin onderbouwd is dat de juiste partijen betrokken zijn 
+4. Prijs (optioneel) 
+Bij de minimumprijs of lager krijgt een project het maximum aantal punten voor prijs. Bij de 
+maximumprijs krijgt een voorstel 0 punten voor prijs. Tussen minimum en maximum prijs worden punten 
+met een lineaire schaal toegekend. Wanneer de minimumprijs niet expliciet is benoemd, dan is deze € 0,- 
+Het gewicht (aantal punten) dat aan de verschillende criteria wordt toegekend, staat in de oproep. 
+De beoordeling leidt tot een rangorde van de offertes. De beoordelingscommissie adviseert de hoogst 
+gerangschikte offertes te honoreren met een opdracht binnen het beschikbare maximum in geld en/of in 
+aantal, zoals verwoord in de oproep. 
+3.4 Drempelwaarde 
+Om in aanmerking te komen voor een opdracht dient een offerte op ieder van de criteria, met uitzondering 
+van prijs, een voldoende te halen. Dat wil zeggen dat tenminste 60% van het maximum aantal punten per 
+criterium wordt behaald.  
+Wanneer de offertes, naar het oordeel van de commissie, volgens deze maatstaven van onvoldoende 
+kwaliteit zijn, adviseert de commissie het in de oproep gepubliceerde budget niet in zijn geheel te besteden, 
+danwel niet het totale aantal voorgenomen opdrachten te gunnen. 
+3.5 Opdrachtverlening 
+De beoordelingscommissie adviseert RVO.nl. Deze beslist over de opdrachtverlening namens of in overleg 
+met de verantwoordelijke opdrachtgever, dat is altijd een aanbestedende dienst. De uitslag staat na de 
+beslissing van RVO.nl vast. RVO.nl maakt, in het algemeen, binnen acht weken na het verstrijken van de 
+sluitingstermijn voor het aanbieden van offertes, de uitslag bekend aan de aanbieders.  
+Bent u ontevreden over de dienstverlening van Rijksdienst voor Ondernemend Nederland? Dan kunt u via 
+mijn.rvo.nl een klacht indienen. Een onderbouwde klacht is voor onze organisatie waardevol. Zo helpt u ons 
+om onze dienstverlening te verbeteren.  
+3.6 Vertrouwelijkheid 
+Alle offertestukken waaronder het projectplan, de managementsamenvatting worden vertrouwelijk 
+behandeld. RVO.nl publiceert de volgende gegevens van de organisaties die een opdracht gegund krijgen: 
+ de naam van de organisatie 
+ de titel van het project 
+ de publieke samenvatting uit het projectplan  
+ contactgegevens.  
+Alle commissieleden, vertegenwoordigers van de opdrachtgever(s) en alle medewerkers van RVO.nl die de 
+offertes inzien, hebben een geheimhoudingsplicht.  
+SBIR Handleiding maart 2019 10 
+ 
+4. SBIR fase 1: Het haalbaarheidsonderzoek 
+4.1 De opdrachtverlening 
+U ontvangt van RVO.nl een brief met een toelichting op de beoordeling en als bijlage het SBIR-contract. 
+Gangbaar is om bij aanvang een voorschot te geven van 80% van het offertebedrag. De resterende 20% 
+betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. Het exacte voorschotritme is 
+te vinden in de opdrachtbrief. Tegelijkertijd met het insturen van het ondertekende contract kunt u een 
+factuur voor het eerste voorschot indienen. Zie paragraaf 11.1 voor een voorbeeldcontract.   
+4.2 Het intellectueel eigendom (IE) 
+De opdrachtnemer behoudt het intellectueel eigendom. Opdrachtgever verwerft de volgende rechten: 
+ Het recht de resultaten te gebruiken voor publicitaire doeleinden. 
+ Het recht op het gebruik van de kennis, zonder betaling van licentiekosten.  
+ Het recht de kennis openbaar te maken als hij dat nodig acht in het kader van het algemeen belang.  
+ De mogelijkheid om de onderneming te verplichten om onder redelijke voorwaarden licenties te 
+verstrekken aan derden. 
+4.3 Het haalbaarheidsonderzoek 
+In het haalbaarheidsonderzoek onderzoekt u die aspecten die voor de haalbaarheid van uw product van 
+belang zijn. Na het haalbaarheidsonderzoek is minimaal duidelijk: 
+ wat de impact van uw project is op het maatschappelijk vraagstuk; 
+ of realisatie van innovatie technisch haalbaar is; 
+ of ontwikkeling en productie haalbaar zijn en 
+ of er een marktvraag is en, zo ja, welke partijen nodig zijn om de innovatie te realiseren. 
+Zaken die van te voren al duidelijk zijn, hoeft u uiteraard in het haalbaarheidsonderzoek niet te onderzoeken. 
+4.4 Resultaat fase 1: eindrapport 
+Het resultaat van een haalbaarheidsonderzoek is een rapport waarin u de resultaten van het 
+haalbaarheidsonderzoek beschrijft en de conclusies die hieruit komen voor een vervolgtraject. Het rapport is 
+opgesteld volgens het format eindrapport haalbaarheidsonderzoek. Dat fase 1 resulteert in een rapport 
+betekent niet dat fase 1 uitsluitend een bureaustudie is. Een eerste demonstratie kan bijvoorbeeld een 
+goede manier zijn om de haalbaarheid te onderzoeken.  
+4.5 Wijzigingen tijdens fase 1 
+In goed overleg kunnen, tijdens het uitvoeren van fase 1, wijzigingen in het project plaatsvinden. Schriftelijke 
+instemming van RVO.nl is vereist voor iedere wijziging die consequenties heeft voor de resultaten van het 
+project.  
+Onderaannemers kunnen tijdens het uitvoeren van de opdracht worden gewijzigd, mits het projectresultaat 
+hier niet onder lijdt. Wanneer een onderaannemer wordt vervangen moet, naar oordeel van RVO.nl, de 
+nieuwe onderaannemer dus minstens net zo goed zijn als de oude onderaannemer.  
+  
+SBIR Handleiding maart 2019 11 
+ 
+5. Offerte fase 2 
+5.1 Partijen 
+RVO.nl stuurt een offerteverzoek wanneer: 
+ fase 1 naar tevredenheid is afgerond en 
+ het haalbaarheidsonderzoek concludeert dat de innovatie haalbaar is. 
+Fase 2 staat alleen open voor partijen die daarvoor een offerteverzoek hebben ontvangen en voldoen aan de 
+voorwaarden die ook in fase 1 aan partijen zijn gesteld. Eventuele aanvullende voorwaarden staan in het 
+offerteverzoek.  
+Een andere onderneming dan de hoofdaannemer van fase 1 kan hoofdaannemer van fase 2 zijn als dit 
+logischerwijs voortkomt uit het haalbaarheidsonderzoek. Dit moet door de hoofdaannemer van fase 1 
+kenbaar worden gemaakt, uiterlijk op het moment dat de rapportage van fase 1 wordt opgeleverd. 
+ 
+5.2 Onderdelen offerte fase 2 
+Een offerte bestaat uit: 
+ Een volledig ingevuld en ondertekend SBIR-formulier. 
+ Projectplan in het Nederlands volgens model fase 2. 
+ Businessplan volgens model businessplan (het businessplan mag in het Engels zijn gesteld). 
+Voor de offerte voor fase 2 gelden alle procedures en voorwaarden die gelden voor de offertes voor fase 1. 
+Alleen de bijlagen bij het SBIR formulier verschillen zoals hierboven aangegeven. Daarnaast geldt de 
+volgende aanvullende voorwaarde: De offerte moet zich uitsluitend richten op onderzoek en ontwikkeling. 
+Activiteiten die hier niet binnen passen kunnen niet in de offerte worden opgevoerd. Welke werkzaamheden 
+onder het begrip onderzoek en ontwikkeling vallen is beschreven in hoofdstuk 10.2. 
+ 
+5.3 Prijs en duur van de opdracht  
+De bepalingen voor fase 1 (zie paragraaf 0) gelden ook voor fase 2. Het enige verschil is dat fase 2 maximaal 
+2 jaar duurt. Indien in de oproep een kortere termijn is opgenomen, dan geldt de kortere termijn. 
+ 
+5.4 Eisen offerte fase 2 
+In aanvulling op de eisen genoemd onder ‘Offerte fase 1’ geldt dat RVO.nl een offerte voor fase 2 ook niet 
+aan de commissie voorlegt wanneer het businessplan ontbreekt. 
+  
+SBIR Handleiding maart 2019 12 
+ 
+6. Beoordelingsproces SBIR fase 2  
+Het beoordelingsproces voor fase 2 verschilt alleen op de volgende punten van het beoordelingsproces voor 
+fase 1 (zie hoofdstuk 0): 
+ Voor fase 2 vindt geen voorselectie plaats. 
+ Doorgaans krijgen de aanbieders voor fase 2 de gelegenheid om hun offerte voor de commissie toe te 
+lichten. Voor fase 1 zal dit doorgaans niet het geval zijn. 
+ Voor de beoordeling van het economisch perspectief weegt expliciet mee wat de vooruitzichten voor 
+fase 3 zijn.  
+ 
+ 
+  
+SBIR Handleiding maart 2019 13 
+ 
+7. SBIR Fase 2: Het onderzoek- en ontwikkelingstraject 
+7.1 De opdrachtverlening 
+U ontvangt van RVO.nl een opdrachtbrief met als bijlage een het SBIR-contract, een overeenkomst tussen de 
+opdrachtgever en de opdrachtnemer. Gangbaar is om bij aanvang een voorschot te geven van 20% van het 
+offertebedrag. 60% betaalt RVO.nl tijdens het uitvoeren van fase 2. Deze betalingen zijn gekoppeld aan de 
+voortgang van het project. De laatste 20% betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl 
+is afgerond. 
+Het exacte voorschotritme is te vinden in de opdrachtbrief. Tegelijkertijd met het insturen van de 
+ondertekende uitvoeringsovereenkomst kunt u een factuur voor het eerste voorschot indienen.  
+Zie paragraaf 11.2 voor een voorbeeldcontract.   
+ 
+7.2 Het intellectueel eigendom (IE) 
+Ook voor fase 2 behoudt de opdrachtnemer het intellectueel eigendom. De rechten die de opdrachtgever 
+verwerft zijn gelijk aan de rechten voor fase 1 (zie paragraaf 0). 
+ 
+7.3 Resultaten fase 2 
+Aan het eind van SBIR fase 2 wordt opgeleverd: 
+ Een eindrapportage conform het format voor fase 2. 
+ Een demonstratie van een getest product, dienst of proces. 
+ 
+Op aanvraag wordt de volgende (achterliggende) documentatie beschikbaar gesteld om in te zien: 
+ een (technische) specificatie van het product of een beschrijving van de dienst; 
+ een testprotocol; 
+ een productieplan (plan voor de uitvoering van de dienst); 
+ technische documentatie, en 
+ het geactualiseerde businessplan. 
+ 
+7.4 Wijzigingen tijdens fase 2 
+De voorwaarden voor wijziging tijdens fase 2 zijn gelijk aan die van fase 1. 
+ 
+ 
+  
+SBIR Handleiding maart 2019 14 
+ 
+8. SBIR Fase 3: marktrijp maken 
+Fase 3 wordt niet vanuit het SBIR programma gefinancierd. De onderneming informeert de opdrachtgever 
+over de vorderingen van de commercialisatie.  
+  
+SBIR Handleiding maart 2019 15 
+ 
+9. Formulieren, modellen, formats  
+Op https://mijn.rvo.nl/sbir-innovatie-in-opdracht kunt u de volgende documenten downloaden:  
+ SBIR formulier fase 1, fase 2 en fase 2a 
+ Model Projectplan fase 1 
+ Format eindrapport fase 1 
+ Model Projectplan fase 2 
+ Model Businessplan fase 2 
+ Format eindrapportage fase 2 
+ 
+ 
+  
+SBIR Handleiding maart 2019 16 
+ 
+10. Nadere Juridische bepalingen 
+10.1 Eisen aan partijen 
+Iedereen die aan de volgende voorwaarden voldoet kan een offerte indienen voor fase 1 (of, in het geval van 
+het ontbreken van fase 1, fase 2) van een SBIR-.  
+ Bij opdrachtverlening moet de opdrachtnemer ingeschreven zijn in het beroepsregister of in het 
+handelsregister volgens de voorschriften van de lidstaat (EU) waar hij is gevestigd.  
+ Aanbieder mag niet bij een onherroepelijk vonnis of arrest veroordeeld zijn op grond van artikel 140, 
+177, 177a, 178, 225, 226, 227, 227a, 227b of 232a, 328ter, tweede lid, 416, 417, 417bis, 420bis, 420ter of 
+420quater van het Wetboek van Strafrecht. 
+ Aanbieder verkeert niet in staat van faillissement of van liquidatie, de werkzaamheden zijn niet gestaakt, 
+verkeert niet in surseance van betaling of akkoord, of verkeert niet in een andere vergelijkbare toestand 
+ingevolge een soortgelijke procedure die voorkomt in de op hem van toepassing zijnde wet- of 
+regelgeving. 
+ Voor aanbieder is niet faillissement of liquidatie aangevraagd, of is geen procedure van surseance van 
+betaling of akkoord, dan wel een andere soortgelijke procedure die voorkomt in de op hem van 
+toepassing zijnde wet- of regelgeving, aanhangig gemaakt. 
+ Aanbieder is in staat de opdracht met zijn bestaande financiële middelen uit te voeren. Aanbieder zijn 
+geen claims of noodzakelijke investeringen bekend gedurende de periode van de uitvoering van de 
+overeenkomst die de organisatie in een zodanige positie kunnen brengen dat de financieel-economische 
+draagkracht of de continuïteit van de organisatie in gevaar wordt gebracht. 
+ Aanbieder is niet bij een rechterlijke uitspraak die kracht van gewijsde heeft volgens de op hem van 
+toepassing zijnde wet- of regelgeving, veroordeeld geweest voor een delict dat de beroepsmoraliteit (van 
+de onderneming) in het gedrang brengt. 
+ Aanbieder heeft voldaan aan zijn verplichtingen ten aanzien van de betaling van de sociale 
+verzekeringsbijdragen overeenkomstig de wettelijke bepalingen van het land waar hij gevestigd is of in 
+het land van de aanbestedende dienst. 
+ Aanbieder is niet schuldig aan aantoonbaar ernstig professioneel wangedrag, zoals fraude en corruptie. 
+ Aanbieder heeft aan zijn verplichtingen voldaan ten aanzien van de betaling van zijn belastingen 
+overeenkomstig de wettelijke bepalingen van het land waar hij is gevestigd of van het land van de 
+aanbestedende dienst. 
+ 
+  
+SBIR Handleiding maart 2019 17 
+ 
+10.2 Onderzoek en ontwikkeling 
+De volgende werkzaamheden vallen onder het begrip “onderzoek en ontwikkeling”:  
+ Experimentele of theoretische activiteiten die worden verricht om nieuwe kennis te verwerven. 
+ Planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met het 
+oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, 
+procedés of diensten aanmerkelijk te verbeteren.  
+ Het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technische, 
+zakelijke en andere relevante kennis en vaardigheden voor plannen, schema's of ontwerpen van nieuwe, 
+gewijzigde of verbeterde producten, procedés of diensten.  
+ Het maken van ontwerpen, tekeningen, plannen en andere documentatie, mits zij niet voor commercieel 
+gebruik zijn bestemd. 
+ De ontwikkeling van commercieel bruikbare prototypes en proefprojecten, indien het prototype het 
+commerciële eindproduct is en de productie ervan te duur is om alleen voor demonstratie- en 
+validatiedoeleinden te worden gebruikt.  
+ De experimentele ontwikkeling en het testen van producten, procedés en diensten, voor zover deze niet 
+voor industriële toepassing of commerciële exploitatie kunnen worden gebruikt of geschikt gemaakt.  
+ De productie van een beperkte 0-serie: beperkte productie of levering om de resultaten van veldproeven 
+te incorporeren en te demonstreren dat het product of de dienst geschikt is voor productie of levering in 
+grotere hoeveelheden volgens aanvaardbare kwaliteitsnormen. 
+ 
+De volgende activiteiten vallen niet onder onderzoek en ontwikkeling: 
+ De routinematige of periodieke wijziging van bestaande producten, productielijnen, fabricageprocessen, 
+diensten en andere courante activiteiten, zelfs indien deze wijzigingen verbeteringen kunnen inhouden.  
+ Prototypes waarvan de marktrijpheid al is getoetst en routinematig of periodieke wijzigingen van 
+bestaande producten, productielijnen, fabricageprocessen of diensten en andere courante 
+werkzaamheden, zelfs indien deze wijzigingen verbeteringen zijn.  
+ Commerciële ontwikkelingsactiviteiten zoals serieproductie, levering om commerciële levensvatbaarheid 
+te bereiken of O&O-kosten te recupereren, integratie, maatwerk, incrementele aanpassingen en 
+verbeteringen van bestaande producten of procedés.  
+ 
+  
+SBIR Handleiding maart 2019 18 
+ 
+10.3 Definities Onderzoek en ontwikkeling 
+ 
+fundamenteel onderzoek: experimentele of theoretische werkzaamheden die voornamelijk worden verricht 
+om nieuwe kennis te verwerven over de fundamentele aspecten van verschijnselen en waarneembare feiten, 
+zonder dat hiermee een directe commerciële toepassing of een direct commercieel gebruik wordt beoogd; 
+ 
+industrieel onderzoek: planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en 
+vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande 
+producten, procedés of diensten aanmerkelijk te verbeteren. Het omvat de creatie van onderdelen voor 
+complexe systemen en kan ook de bouw omvatten van prototypes in een laboratoriumomgeving en/of in 
+een omgeving met gesimuleerde interfaces voor bestaande systemen, alsmede pilotlijnen, wanneer dat 
+nodig is voor het industriële onderzoek en met name voor de validering van generieke technologie; 
+ 
+experimentele ontwikkeling: het verwerven, combineren, vormgeven en gebruiken van bestaande 
+wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het 
+ontwikkelen van nieuwe of verbeterde producten, procedés of diensten. Dit kan ook activiteiten omvatten 
+die gericht zijn op de conceptuele formulering, de planning en documentering van alternatieve producten, 
+procedés of diensten. Experimentele ontwikkeling kan prototyping, demonstraties, pilotontwikkeling, testen 
+en validatie omvatten van nieuwe of verbeterde producten, procedés of diensten in omgevingen die 
+representatief zijn voor het functioneren onder reële omstandigheden, met als hoofddoel verdere technische 
+verbeteringen aan te brengen aan producten, procedés of diensten die niet grotendeels vast staan. Dit kan 
+de ontwikkeling omvatten van een commercieel bruikbaar prototype of pilot die noodzakelijkerwijs het 
+commerciële eindproduct is en die te duur is om te produceren alleen met het oog op het gebruik voor 
+demonstratie- en validatiedoeleinden. Onder experimentele ontwikkeling wordt niet verstaan routinematige 
+of periodieke wijziging van bestaande producten, productielijnen, fabricageprocessen, diensten en andere 
+courante activiteiten, zelfs indien die wijzigingen verbeteringen kunnen inhouden;  
+ 
+haalbaarheidsonderzoek: het onderzoek en de analyse van het potentieel van een project, met als doel de 
+besluitvorming te ondersteunen door objectief en rationeel de sterke en de zwakke punten van een project, 
+de kansen en risico's in kaart te brengen, waarbij ook wordt aangegeven welke middelen nodig zijn om het 
+project te kunnen doorvoeren en wat uiteindelijk de slaagkansen zijn; 
+ 
+procesinnovatie: de toepassing van een nieuwe of sterk verbeterde productie- of leveringsmethode 
+(daaronder begrepen aanzienlijke veranderingen in technieken, uitrusting of software), maar met uitsluiting 
+van geringe veranderingen of verbeteringen, verhogingen van de productie- of dienstverleningscapaciteit 
+door de toevoeging van productie- of logistieke systemen die sterk gelijken op die welke reeds in gebruik zijn, 
+het niet meer gebruiken van een procedé, eenvoudige vervangings- en uitbreidingsinvesteringen, 
+veranderingen die louter het gevolg van prijswijzigingen voor productiefactoren zijn, aanpassingen op maat, 
+lokalisatie, gebruikelijke seizoens- en andere cyclische veranderingen, het verhandelen van nieuwe of sterk 
+verbeterde producten. 
+  
+SBIR Handleiding maart 2019 19 
+ 
+11. Voorbeeld contracten 
+11.1 Voorbeeld SBIR fase 1 contract 
+U hebt op … een offerte uitgebracht voor werkzaamheden onder de projecttitel “…”. Hierbij verleen ik u de 
+opdracht tot de uitvoering van de werkzaamheden. 
+Omschrijving opdracht 
+De opdracht betreft de uitvoering van werkzaamheden zoals omschreven in uw offerte. 
+Termijn van de opdracht 
+De opdracht moet zijn voltooid op …  
+Vergoeding.  
+Vergoeding vindt plaats op basis van de vaste prijs van € … (incl. btw) en inclusief alle andere kosten.   
+Contactpersoon 
+De contactpersoon voor deze opdracht is: … 
+Voorwaarden 
+Op deze opdracht zijn de ‘Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het 
+verrichten van Diensten 2018 (ARVODI-2018) van toepassing. Eventueel door u gehanteerde (algemene) 
+voorwaarden zijn niet van toepassing. 
+1. De artikelen 13, 19, 24 en 26 ARVODI-2018 zijn niet van toepassing. 
+2. In afwijking van artikel 30 ARVODI-2018 behoeft Opdrachtnemer voor melding van de 
+opdrachtverlening in publicaties en reclame-uitingen geen toestemming van de Opdrachtgever. De 
+Opdrachtnemer vermeldt hierbij wel dat de opdracht is uitgevoerd in het kader van een SBIR-
+opdracht van de …. De Opdrachtnemer stuurt een kopie van de publicaties naar de Opdrachtgever. 
+3. De bovengenoemde contactpersoon behandelt deze opdracht en vertegenwoordigt mij hierin. In 
+afwijking van artikel 10.2 van de ARVODI-2018 kan de contactpersoon de partijen niet binden. 
+4. De navolgende documenten maken deel uit van deze overeenkomst: 
+a. deze opdrachtbrief 
+b. de ARVODI-2018 
+c. de Nota van inlichtingen bij deze SBIR 
+d. de SBIR-oproep  
+e. de SBIR handleiding  
+f. uw offerte 
+Voor zover deze documenten met elkaar in tegenspraak zijn, gaat het eerder genoemde document boven het 
+later genoemde. De documenten zijn – ook ongeparafeerd – Bijlagen in de zin van artikel 1.2 ARVODI-2018. 
+5. De betaling van het totaalbedrag vindt na ontvangst van de factuur hiertoe als volgt plaats: 
+- € [bedrag] (inclusief BTW) na ondertekening van akkoord op deze opdrachtbrief; 
+- en het restant € [bedrag] (inclusief BTW) na ontvangst en acceptatie van het 
+eindrapport/resultaat van de Diensten. 
+6. De prestaties worden geleverd in de vorm van c.q. afgerond door indiening van een eindrapport 
+conform het SBIR-format. Het eindrapport dient in ieder geval in digitale vorm te worden 
+opgeleverd.  
+7. De in artikel 21.3 ARVODI-2018 bedoelde aansprakelijkheid is, per gebeurtenis, beperkt tot een 
+bedrag van € 150.000. De beperking van de aansprakelijkheid als hiervoor bedoeld komt te vervallen 
+ingeval van aanspraken van derden op schadevergoeding ten gevolge van dood of letsel of indien 
+sprake is van opzet of grove schuld aan de zijde van Opdrachtnemer of diens Personeel. 
+8. Opdrachtnemer dient mee te werken aan evaluaties die tijdens en na afloop van het SBIR 
+haalbaarheidsonderzoek zullen plaatsvinden. 
+ 
+Contract en facturering 
+Ik verzoek u de bijgevoegde kopie van deze opdrachtbrief rechtsgeldig voor akkoord ondertekend aan mij 
+terug te zenden …. Indien ik deze ondertekende kopie niet binnen 14 dagen heb ontvangen, behoud ik mij 
+het recht voor om terug te komen op deze opdrachtverlening. 
+SBIR Handleiding maart 2019 20 
+ 
+11.2 Voorbeeld SBIR fase 2 contract 
+OVEREENKOMST 
+Referentienummer:  
+PARTIJEN: 
+ 
+1. De Staat der Nederlanden, waarvan de zetel is gevestigd te Den Haag, te dezen vertegenwoordigd door 
+het … namens … Rijksdienst voor Ondernemend Nederland, hierna te noemen: ‘Opdrachtgever’;  
+2. … gevestigd te … te dezen rechtsgeldig vertegenwoordigd door … hierna te noemen: ‘Opdrachtnemer’, 
+KOMEN HET VOLGENDE OVEREEN: 
+In deze Overeenkomst is een aantal begrippen met een hoofdletter gebruikt. Aan deze begrippen komt de 
+betekenis toe die hieraan wordt gegeven in artikel 1 van de ‘Algemene Rijksvoorwaarden voor het 
+verstrekken van opdrachten tot het verrichten van diensten 2018’ (ARVODI-2018). 
+1. Voorwerp van de Overeenkomst 
+1.1 Opdrachtgever verleent aan Opdrachtnemer opdracht tot het verrichten van Diensten overeenkomstig 
+de offerte van …, welke opdracht Opdrachtnemer bij deze aanvaardt. 
+1.2 De navolgende documenten maken deel uit van deze Overeenkomst. Voor zover deze documenten met 
+elkaar in tegenspraak zijn, prevaleert het eerder genoemde document boven het later genoemde: 
+1. deze Overeenkomst 
+2. de ARVODI-2018 
+3. het offerteverzoek van … 
+4. de nota van inlichtingen bij deze SBIR 
+5. de SBIR-oproep van … 
+6. de SBIR handleiding van <meest actuele versie> 
+7. de offerte van … 
+ 
+1.3 De in artikel 1.2 bedoelde documenten zijn – ook ongeparafeerd – Bijlagen in de zin van de ARVODI-2018. 
+1.4 De prestaties worden geleverd in de vorm van c.q. afgerond door indiening van een eindrapport conform 
+het SBIR-format hiertoe. Het eindrapport bevat in elk geval een opgave van de bereikte 
+onderzoeksresultaten, de daarbij gebruikte methoden en technieken, alsmede de daarop gebaseerde 
+conclusies. Het eindrapport wordt in digitale vorm aangeleverd bij … 
+1.5 Aan het einde van de opdracht zijn de hieronder genoemde zaken gerealiseerd. Op aanvraag wordt deze 
+documentatie beschikbaar gesteld: 
+ een (technische) specificatie van het product of een beschrijving van de dienst; 
+ een testprotocol; 
+ een productieplan (plan voor de uitvoering van de dienst); 
+ technische documentatie, en 
+ het geactualiseerde businessplan. 
+ 
+Daarnaast realiseert Opdrachtnemer in fase 2 een opstelling en geeft na afloop een presentatie aan 
+Opdrachtgever waarmee de unieke marktvoordelen van de innovatie overtuigend voor potentiële 
+investeerders en klanten kunnen worden gedemonstreerd. 
+SBIR Handleiding maart 2019 21 
+ 
+1.6 Het eindrapport dient vergezeld te gaan van een openbare samenvatting van maximaal twee pagina’s A-
+4, waarin opgenomen: de titel van het onderzoek, probleemstelling, doel van het onderzoek, opdrachtgever, 
+opdrachtnemer, onderzoeksmethode en resultaten. Deze samenvatting dient in digitale vorm te worden 
+geleverd. 
+ 
+2. Totstandkoming en duur van de Overeenkomst 
+ 
+2.1 Deze overeenkomst komt tot stand door ondertekening van de Overeenkomst door alle partijen. 
+2.2 De overeengekomen Diensten moeten uiterlijk op … voltooid zijn. 
+3. Prijs en overige financiële bepalingen 
+ 
+3.1. Betalingen geschieden op basis van een vast bedrag. 
+3.2 Het vaste bedrag bedoeld in artikel 3.1 bedraagt € … inclusief BTW, reis- en verblijfskosten en alle 
+eventuele overige kosten. 
+3.3 Betaling vindt plaats na oplevering van het eindresultaat. Voorafgaand aan en tijdens de werkzaamheden 
+worden voorschotten betaald. Voor zowel de eindafrekening als voor de voorschotten vindt de betaling na 
+ontvangst van de factuur hiertoe, als volgt plaats (voor alle bedragen geldt inclusief BTW): 
+- in afwijking van artikel 16.1 van de ARVODI-2018 € … na ondertekening van de overeenkomst (factuur kan 
+met ondertekende opdrachtbrief mee terug worden gezonden); 
+- € voorschot na ontvangst van de 1e voortgangsrapportage; 
+- € voorschot na ontvangst van de 2e voortgangsrapportage; 
+- etc. 
+- en het restant … na ontvangst en acceptatie van het eindrapport/resultaat van de Diensten. 
+3.4 Opdrachtnemer zendt de facturen aan: … en onder vermelding van het boven deze overeenkomst 
+vermelde referentienummer en van de namen van de contactpersonen van Opdrachtgever en 
+Opdrachtnemer. Indien de factuur niet volgens deze aanwijzingen wordt verzonden, kan dit ertoe leiden dat 
+de factuur niet in behandeling wordt genomen of dat de betalingstermijn wordt verlengd. 
+4. Contactpersonen 
+4.1 Contactpersoon van Opdrachtgever is …, contactpersoon van Opdrachtnemer is … 
+In afwijking van het bepaalde in artikel 10.2 ARVODI-2018 kunnen de in 4.1 genoemde personen partijen niet 
+binden. 
+5. Van toepassing zijnde Voorwaarden 
+ 
+5.1 Op deze Overeenkomst zijn uitsluitend van toepassing de ‘Algemene Rijksvoorwaarden voor het 
+verstrekken van opdrachten tot het verrichten van Diensten 2018’ (ARVODI-2018). De eventueel door 
+Opdrachtnemer gehanteerde voorwaarden zijn niet van toepassing.  
+5.2 Artikel 13 en 19 van de ARVODI-2018 zijn niet van toepassing. 
+5.3 De in artikel 21.3 ARVODI-2018 bedoelde aansprakelijkheid is, per gebeurtenis, beperkt tot een bedrag 
+van € 1.500.000. 
+SBIR Handleiding maart 2019 22 
+ 
+De beperking van de aansprakelijkheid als hiervoor bedoeld komt te vervallen ingeval van aanspraken van 
+derden op schadevergoeding ten gevolge van dood of letsel of indien sprake is van opzet of grove schuld aan 
+de zijde van Opdrachtnemer of diens Personeel. 
+5.4 Artikel 24 ARVODI-2018 is niet van toepassing. Wel regelt Opdrachtnemer voor Opdrachtgever een 
+passend gebruiksrecht. Daarnaast geldt dat Opdrachtnemer verplicht is onder eerlijke en redelijke 
+marktvoorwaarden gebruiksrechten aan derden te verstrekken. 
+5.5 Opdrachtnemer dient mee te werken aan evaluaties die tijdens en na afloop van het SBIR project zullen 
+plaatsvinden tot 10 jaar na afsluiting van het SBIR project. 
+5.6 In afwijking van artikel 31 ARVODI-2018 behoeft Opdrachtnemer voor melding van de opdrachtverlening 
+in publicaties en reclame-uitingen geen toestemming van Opdrachtgever. In dat geval vermeldt 
+Opdrachtnemer dat de opdracht is uitgevoerd in het kader van een SBIR-opdracht van Opdrachtgever. De 
+Opdrachtnemer stuurt een kopie van publicaties aan Opdrachtgever. 
+5.7 [eventueel aanvullende voorwaarden vanuit de opdrachtgever] 
+6. Integriteitsverklaring 
+Opdrachtnemer verklaart dat hij ter verkrijging van de opdracht Personeel van Opdrachtgever geen voordeel 
+heeft aangeboden of doen aanbieden, gegeven of doen geven. Hij zal dat ook niet alsnog doen teneinde 
+personen in dienst van Opdrachtgever te bewegen enige handeling te verrichten of na te laten. 
+7. Slotbepalingen 
+7.1 In aanvulling op artikel 22 ARVODI-2018 geldt dat in alle gevallen van voortijdige beëindiging van deze 
+Overeenkomst Opdrachtgever van Opdrachtnemer kan verlangen dat deze de Diensten op een zodanige 
+wijze afrondt en de resultaten zodanig overdraagt aan Opdrachtgever of een door hem aan te wijzen derde, 
+dat onbelemmerde voortzetting van de opdracht mogelijk is. 
+7.2 Afwijkingen van deze Overeenkomst zijn slechts bindend voor zover zij uitdrukkelijk tussen partijen 
+schriftelijk zijn overeengekomen. 
+7.3 Door ondertekening van deze Overeenkomst vervallen alle eventueel eerder door partijen gemaakte 
+mondelinge en schriftelijke afspraken omtrent de hierbij overeengekomen Diensten. 
+ 
+Aldus op de laatste van de twee hierna genoemde data overeengekomen en in tweevoud ondertekend, 
+ 
+  
+SBIR Handleiding maart 2019 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dit is een publicatie van: 
+Rijksdienst voor Ondernemend Nederland  
+Prinses Beatrixlaan 2 | 2595 AL Den Haag  
+Postbus 93144 | 2509 AC Den Haag  
+T +31 (0) 88 042 42 42 
+E klantcontact@rvo.nl  
+www.rvo.nl 
+ 
+Deze publicatie is tot stand gekomen in opdracht van het ministerie van Economische Zaken en Klimaat 
+© Rijksdienst voor Ondernemend Nederland | maart 2019 
+Publicatienummer: RVO-017-1901/BR-INNO 
+De Rijksdienst voor Ondernemend Nederland (RVO.nl) stimuleert duurzaam, agrarisch, innovatief en 
+internationaal ondernemen. Met subsidies, het vinden van zakenpartners, kennis en het voldoen aan wet- en 
+regelgeving. RVO.nl werkt in opdracht van ministeries en de Europese Unie. 
+RVO.nl is een onderdeel van het ministerie van Economische Zaken en Klimaat.

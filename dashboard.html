@@ -167,7 +167,7 @@ main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; }
 .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-bottom: 1.25rem; }
 .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 1.25rem; }
 .chart-title { font-size: 11px; font-weight: 700; color: var(--text2); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 1rem; display: flex; align-items: center; justify-content: space-between; font-family: 'Montserrat', sans-serif; }
-.legend { display: flex; gap: 12px; }
+.legend { display: flex; gap: 12px; flex-wrap: wrap; }
 .legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--text3); font-family: 'Open Sans', sans-serif; }
 .legend-dot { width: 8px; height: 8px; border-radius: 2px; }
 
@@ -209,7 +209,139 @@ a:hover { text-decoration: underline; }
 .no-data { padding: 3rem; text-align: center; color: var(--text3); font-size: 13px; }
 .ai-label { font-size: 10px; color: var(--ecorys-dark-blue); background: var(--ai-bg); padding: 1px 5px; border-radius: 3px; font-weight: 700; margin-left: 4px; font-family: 'Montserrat', sans-serif; }
 
-/* ── Uitklapbare rijen ── */
+/* ── Team selector ── */
+.team-bar {
+  background: var(--ecorys-dark-blue);
+  padding: 10px 2rem;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-bottom: 3px solid var(--ecorys-blue);
+}
+.team-bar-label {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  color: rgba(255,255,255,0.6);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.team-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.team-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid rgba(255,255,255,0.25);
+  background: transparent;
+  color: rgba(255,255,255,0.75);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.team-btn:hover { border-color: white; color: white; background: rgba(255,255,255,0.1); }
+.team-btn.active { background: white; color: var(--ecorys-dark-blue); border-color: white; }
+
+/* ── Login modal ── */
+.login-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,20,50,0.85); z-index: 2000;
+  align-items: center; justify-content: center;
+}
+.login-overlay.open { display: flex; }
+.login-box {
+  background: white; border-radius: 8px; padding: 32px;
+  width: 400px; max-width: 90vw; text-align: center;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+.login-box h2 { font-family: 'Montserrat',sans-serif; font-size: 16px; color: var(--ecorys-dark-blue); margin-bottom: 6px; }
+.login-box p { font-size: 13px; color: var(--text3); margin-bottom: 20px; line-height: 1.5; }
+.login-input {
+  width: 100%; padding: 12px 14px; border: 1.5px solid var(--border);
+  border-radius: 6px; font-family: 'Open Sans',sans-serif; font-size: 13px;
+  margin-bottom: 8px; outline: none;
+}
+.login-input:focus { border-color: var(--ecorys-blue); }
+.login-error { font-size: 12px; color: #e24b4a; margin-bottom: 12px; min-height: 16px; }
+.login-btn {
+  width: 100%; padding: 12px; background: var(--ecorys-blue); color: white;
+  border: none; border-radius: 6px; font-family: 'Montserrat',sans-serif;
+  font-size: 13px; font-weight: 600; cursor: pointer;
+}
+.login-btn:hover { background: var(--ecorys-dark-blue); }
+
+/* ── Document chat ── */
+.doc-chat-btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px; font-weight: 600;
+  padding: 4px 10px; border-radius: 4px;
+  border: 1.5px solid var(--ecorys-blue);
+  background: white; color: var(--ecorys-blue);
+  cursor: pointer; transition: all 0.15s;
+}
+.doc-chat-btn:hover { background: var(--ecorys-blue); color: white; }
+
+.modal-overlay {
+  display: none; position: fixed; inset: 0;
+  background: rgba(0,0,0,0.5); z-index: 1000;
+  align-items: center; justify-content: center;
+}
+.modal-overlay.open { display: flex; }
+.modal {
+  background: white; border-radius: 8px;
+  width: 720px; max-width: 95vw; max-height: 90vh;
+  display: flex; flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+.modal-header {
+  padding: 16px 20px; border-bottom: 1px solid var(--border);
+  display: flex; justify-content: space-between; align-items: flex-start;
+}
+.modal-header h3 { font-family: 'Montserrat',sans-serif; font-size: 14px; font-weight: 700; color: var(--ecorys-dark-blue); max-width: 560px; line-height: 1.4; }
+.modal-close { background: none; border: none; font-size: 20px; cursor: pointer; color: var(--text3); padding: 0 4px; line-height: 1; }
+.modal-close:hover { color: var(--text); }
+.modal-synthese {
+  padding: 16px 20px; background: var(--surface2);
+  border-bottom: 1px solid var(--border);
+  font-size: 13px; line-height: 1.7; color: var(--text2);
+  max-height: 200px; overflow-y: auto;
+}
+.modal-chat {
+  flex: 1; overflow-y: auto; padding: 16px 20px;
+  display: flex; flex-direction: column; gap: 12px;
+  min-height: 150px;
+}
+.chat-msg { display: flex; gap: 10px; align-items: flex-start; }
+.chat-msg.user { flex-direction: row-reverse; }
+.chat-bubble {
+  padding: 10px 14px; border-radius: 8px;
+  font-size: 13px; line-height: 1.6; max-width: 85%;
+}
+.chat-msg.user .chat-bubble { background: var(--ecorys-dark-blue); color: white; border-radius: 8px 8px 2px 8px; }
+.chat-msg.assistant .chat-bubble { background: var(--surface2); color: var(--text); border-radius: 8px 8px 8px 2px; border: 1px solid var(--border); }
+.chat-avatar { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; flex-shrink: 0; }
+.chat-msg.user .chat-avatar { background: var(--ecorys-dark-blue); color: white; }
+.chat-msg.assistant .chat-avatar { background: var(--ai-bg); color: var(--ecorys-dark-blue); font-weight: 700; }
+.modal-input-row {
+  padding: 12px 20px; border-top: 1px solid var(--border);
+  display: flex; gap: 8px;
+}
+.modal-input {
+  flex: 1; padding: 10px 14px; border: 1.5px solid var(--border);
+  border-radius: 6px; font-family: 'Open Sans',sans-serif;
+  font-size: 13px; outline: none; resize: none; height: 42px;
+}
+.modal-input:focus { border-color: var(--ecorys-blue); }
+.modal-send {
+  padding: 10px 18px; background: var(--ecorys-blue); color: white;
+  border: none; border-radius: 6px; font-family: 'Montserrat',sans-serif;
+  font-size: 12px; font-weight: 600; cursor: pointer; white-space: nowrap;
+}
+.modal-send:hover { background: var(--ecorys-dark-blue); }
+.modal-send:disabled { opacity: 0.5; cursor: not-allowed; }
+.chat-typing { color: var(--text3); font-size: 12px; font-style: italic; padding: 4px 0; }
 tbody tr.data-row { cursor: pointer; }
 tbody tr.data-row:hover { background: var(--surface2); }
 tbody tr.data-row.open { background: var(--blue-bg); }
@@ -286,18 +418,20 @@ tbody tr.detail-row.hidden { display: none; }
 </div>
 
 <div class="charts">
+  <div style="grid-column:1/-1;display:flex;align-items:center;gap:10px;margin-bottom:-8px;">
+    <label style="font-family:'Montserrat',sans-serif;font-size:11px;font-weight:700;color:var(--text2);text-transform:uppercase;letter-spacing:0.5px;white-space:nowrap;">Groepeer op</label>
+    <select id="disaggregatie" onchange="disaggregatieVar=this.value;render();" style="font-family:'Open Sans',sans-serif;font-size:12px;padding:5px 10px;border:1.5px solid var(--border);border-radius:4px;background:white;color:var(--text);cursor:pointer;">
+    </select>
+    <span class="ai-label" id="disaggr-ai" style="display:none;">AI</span>
+  </div>
   <div class="chart-card">
-    <div class="chart-title">Opdrachten per jaar
-      <div class="legend">
-        <div class="legend-item"><div class="legend-dot" style="background:#2FA26D;"></div>Kwantitatief</div>
-        <div class="legend-item"><div class="legend-dot" style="background:#C9D4D9;"></div>Overig</div>
-      </div>
-    </div>
+    <div class="chart-title" id="trend-title">Opdrachten per jaar</div>
+    <div id="trend-legend" class="legend"></div>
     <div style="position:relative;height:220px;"><canvas id="c-trend" role="img" aria-label="Trend">Trenddata</canvas></div>
   </div>
   <div class="chart-card">
-    <div class="chart-title">Verdeling methodiek <span class="ai-label">AI</span></div>
-    <div style="position:relative;height:220px;"><canvas id="c-methodiek" role="img" aria-label="Methodiek">Methodiek</canvas></div>
+    <div class="chart-title" id="distrib-title">Verdeling</div>
+    <div style="position:relative;height:220px;overflow:hidden;"><canvas id="c-methodiek" role="img" aria-label="Verdeling">Verdeling</canvas></div>
   </div>
 </div>
 
@@ -348,20 +482,37 @@ let showAll = false;
 // isAI: true = veld is AI-geschat, heeft betrouwbaarheidsscore
 // betrField: welk classificatieveld bevat de betrouwbaarheid voor dit filter
 const FILTERS = [
-  { id: "publicatie_type", label: "Status",         isAI: false, source: "record", multi: true },
-  { id: "europees",        label: "Nationaal/Europees", isAI: false, source: "record", multi: true },
+  { id: "teams",             label: "Team",            isAI: true,  source: "cl", multi: true },
+  { id: "inschrijving_open", label: "Inschrijving open", isAI: false, source: "computed", multi: true },
+  { id: "publicatie_type",   label: "Status",          isAI: false, source: "record", multi: true },
+  { id: "europees",          label: "Nationaal/Europees", isAI: false, source: "record", multi: true },
   { id: "type_opdracht_omschrijving", label: "Aard opdracht", isAI: false, source: "record", multi: true },
   { id: "aanbestedende_dienst", label: "Opdrachtgever", isAI: false, source: "record", multi: true },
-  { id: "jaar",            label: "Jaar",            isAI: false, source: "record", multi: true },
-  { id: "procedure_type",  label: "Procedure",       isAI: false, source: "record", multi: true },
-  { id: "thema",           label: "Thema",           isAI: true,  source: "cl", betrField: "thema_betrouwbaarheid", multi: true },
-  { id: "methodiek",       label: "Methodiek",       isAI: true,  source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
+  { id: "jaar",              label: "Jaar",            isAI: false, source: "record", multi: true },
+  { id: "procedure_type",    label: "Procedure",       isAI: false, source: "record", multi: true },
+  { id: "thema",             label: "Thema",           isAI: true,  source: "cl", betrField: "thema_betrouwbaarheid", multi: true },
+  { id: "methodiek",         label: "Methodiek",       isAI: true,  source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
   { id: "methodiek_kwantitatief", label: "Kwantitatief", isAI: true, source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
-  { id: "evaluatiefase",   label: "Evaluatiefase",   isAI: true,  source: "cl", betrField: "evaluatiefase_betrouwbaarheid", multi: true },
-  { id: "herhalingskans",  label: "Herhalingskans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
-  { id: "causaliteitsvraag", label: "Causaal effect", isAI: true, source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
-  { id: "consortiumkans",  label: "Consortiumkans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
-  { id: "opdrachtgrootte", label: "Opdrachtgrootte", isAI: true,  source: "cl", betrField: "opdrachtgrootte_betrouwbaarheid", multi: true },
+  { id: "evaluatiefase",     label: "Evaluatiefase",   isAI: true,  source: "cl", betrField: "evaluatiefase_betrouwbaarheid", multi: true },
+  { id: "herhalingskans",    label: "Herhalingskans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
+  { id: "causaliteitsvraag", label: "Causaal effect",  isAI: true,  source: "cl", betrField: "methodiek_betrouwbaarheid", multi: true },
+  { id: "consortiumkans",    label: "Consortiumkans",  isAI: true,  source: "cl", betrField: "betrouwbaarheid", multi: true },
+  { id: "opdrachtgrootte",   label: "Opdrachtgrootte", isAI: true,  source: "cl", betrField: "opdrachtgrootte_betrouwbaarheid", multi: true },
+];
+
+let disaggregatieVar = "";
+
+const DISAGGREGATIE_OPTIES = [
+  { id: "", label: "Geen", isAI: false },
+  ...FILTERS.filter(f => f.id !== "teams").map(f => ({
+    id: f.id, label: f.label, isAI: !!f.isAI
+  }))
+];
+
+const KLEURENPALET = [
+  "#006EB8","#2FA26D","#EA5437","#7B5EA7","#E9A227","#4ABFC7",
+  "#8D6E63","#F4A261","#6C757D","#D35FAA","#80B918","#455A64",
+  "#C84B31","#4A90D9","#52B788","#AAA"
 ];
 
 // Filter state: { [filterId]: { values: Set, betrouwbaar: bool } }
@@ -377,11 +528,18 @@ function getFieldValue(r, filterId) {
   if (!f) return null;
   if (filterId === "jaar") return jaar(r);
   if (filterId === "europees") return r.europees === true ? "Europees" : r.europees === false ? "Nationaal" : null;
+  if (filterId === "inschrijving_open") {
+    const sluit = r.sluitingsdatum ? new Date(r.sluitingsdatum) : null;
+    const open = r.publicatie_type === "lopend" && sluit && sluit > new Date();
+    return open ? "Ja" : "Nee";
+  }
   if (f.source === "record") return r[filterId] ?? null;
   const val = cl(r)[filterId];
   if (filterId === "methodiek_kwantitatief") return val ? "Ja" : "Nee";
   if (filterId === "causaliteitsvraag") return val ? "Ja" : "Nee";
   if (filterId === "consortiumkans") return val ? "Ja" : "Nee";
+  // Array velden (teams): geef de array terug
+  if (Array.isArray(val)) return val;
   return val ?? null;
 }
 
@@ -407,6 +565,12 @@ async function loadData() {
 
 // ── Filter UI bouwen ──────────────────────────────────────────────────────────
 function buildFilters() {
+  // Disaggregatie dropdown vullen
+  const sel = document.getElementById("disaggregatie");
+  sel.innerHTML = DISAGGREGATIE_OPTIES.map(o =>
+    `<option value="${o.id}" ${o.id===disaggregatieVar?'selected':''}>${o.label}${o.isAI?' (AI)':''}</option>`
+  ).join("");
+
   const row = document.getElementById("filter-row");
 
   FILTERS.forEach(f => {
@@ -627,6 +791,42 @@ function renderBars(containerId, entries, color) {
     : `<div style="color:var(--text3);font-size:12px;padding:1rem 0;">Geen data</div>`;
 }
 
+function renderStackedBars(containerId, records, key, kleurMap, topVals, n=10) {
+  // Tel per entity (opdrachtgever/winnaar) en per disaggregatie-categorie
+  const perEntity = {};
+  records.forEach(r => {
+    const entity = r[key] || "";
+    if (!entity) return;
+    if (!perEntity[entity]) perEntity[entity] = { totaal: 0, cats: {} };
+    perEntity[entity].totaal++;
+    const val = getFieldValue(r, disaggregatieVar);
+    const cat = (Array.isArray(val) ? val[0] : val) || "Onbekend";
+    const groep = topVals.includes(String(cat)) ? String(cat) : "Overig";
+    perEntity[entity].cats[groep] = (perEntity[entity].cats[groep] || 0) + 1;
+  });
+
+  const sorted = Object.entries(perEntity)
+    .sort((a, b) => b[1].totaal - a[1].totaal)
+    .slice(0, n);
+
+  if (!sorted.length) {
+    document.getElementById(containerId).innerHTML = `<div style="color:var(--text3);font-size:12px;padding:1rem 0;">Geen data</div>`;
+    return;
+  }
+
+  const max = sorted[0][1].totaal;
+  document.getElementById(containerId).innerHTML = sorted.map(([label, data]) => {
+    const segments = Object.entries(data.cats)
+      .sort((a, b) => b[1] - a[1])
+      .map(([cat, count]) => {
+        const pct = Math.round(100 * count / max);
+        const kleur = kleurMap[cat] || "#AAA";
+        return `<div title="${cat}: ${count}" style="width:${pct}%;background:${kleur};height:100%;display:inline-block;"></div>`;
+      }).join("");
+    return `<div class="bar-row"><div class="bar-label" title="${label}">${label}</div><div class="bar-track" style="display:flex;">${segments}</div><div class="bar-count">${data.totaal}</div></div>`;
+  }).join("");
+}
+
 function betrKleur(score) {
   if (!score && score !== 0) return "#ccc";
   if (score >= 0.7) return "#1d9e75";
@@ -649,41 +849,104 @@ function render() {
   document.getElementById("s-opdrachtgevers").textContent = opdrachtgevers;
   document.getElementById("s-winnaars").textContent = winnaars;
 
-  // Trend chart
+  // Update AI label indicator
+  const disaggrFilter = FILTERS.find(f => f.id === disaggregatieVar);
+  const aiLabel = document.getElementById("disaggr-ai");
+  aiLabel.style.display = disaggrFilter && disaggrFilter.isAI ? "inline" : "none";
+  const disaggrLabel = disaggrFilter ? disaggrFilter.label : "";
+  const geenGroepering = !disaggregatieVar;
+
+  // Bepaal waarden per record voor de geselecteerde variabele
+  function getDisaggrVal(r) {
+    if (geenGroepering) return "Alle";
+    const val = getFieldValue(r, disaggregatieVar);
+    if (val === null || val === undefined || val === "") return "Onbekend";
+    if (Array.isArray(val)) return val[0] || "Onbekend";
+    return String(val);
+  }
+
+  // Unieke waarden en kleuren
+  const valCounts = {};
+  filtered.forEach(r => { const v = getDisaggrVal(r); valCounts[v] = (valCounts[v]||0)+1; });
+  const topVals = Object.entries(valCounts).sort((a,b) => b[1]-a[1]).slice(0,12).map(([v])=>v);
+  const kleurMap = {};
+  if (geenGroepering) {
+    kleurMap["Alle"] = "#006EB8";
+  } else {
+    topVals.forEach((v,i) => { kleurMap[v] = KLEURENPALET[i % KLEURENPALET.length]; });
+  }
+
+  // ── Trend chart ──
   const perJaar = {};
   filtered.forEach(r => {
     const j = jaar(r); if (!j) return;
-    if (!perJaar[j]) perJaar[j] = {tot:0,kw:0};
-    perJaar[j].tot++;
-    if (cl(r).methodiek_kwantitatief) perJaar[j].kw++;
+    const v = getDisaggrVal(r);
+    const groep = topVals.includes(v) ? v : "Overig";
+    if (!perJaar[j]) perJaar[j] = {};
+    perJaar[j][groep] = (perJaar[j][groep]||0)+1;
   });
   const jaren = Object.keys(perJaar).sort();
+  const groepen = [...topVals.filter(v => jaren.some(j => (perJaar[j]||{})[v])), "Overig"].filter(g =>
+    jaren.some(j => (perJaar[j]||{})[g])
+  );
+
+  document.getElementById("trend-title").textContent = geenGroepering ? "Opdrachten per jaar" : `Opdrachten per jaar — ${disaggrLabel}`;
+  document.getElementById("trend-legend").innerHTML = geenGroepering ? "" : groepen.map(g =>
+    `<div class="legend-item"><div class="legend-dot" style="background:${kleurMap[g]||'#AAA'};"></div>${g.length > 20 ? g.slice(0,18)+'…' : g}</div>`
+  ).join("");
+
   if (chartTrend) chartTrend.destroy();
   chartTrend = new Chart(document.getElementById("c-trend"), {
     type:"bar",
-    data:{ labels:jaren, datasets:[
-      {label:"Kwantitatief", data:jaren.map(j=>perJaar[j].kw), backgroundColor:"#2FA26D", borderRadius:2},
-      {label:"Overig", data:jaren.map(j=>perJaar[j].tot-perJaar[j].kw), backgroundColor:"#C9D4D9", borderRadius:2}
-    ]},
+    data:{ labels:jaren, datasets: groepen.map(g => ({
+      label: g,
+      data: jaren.map(j => (perJaar[j]||{})[g] || 0),
+      backgroundColor: kleurMap[g] || "#AAA",
+      borderRadius: 2,
+    }))},
     options:{responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}},
       scales:{x:{stacked:true,ticks:{font:{size:10}},grid:{display:false}}, y:{stacked:true,ticks:{font:{size:10}},grid:{color:"rgba(0,0,0,0.05)"}}}}
   });
 
-  // Methodiek chart
-  const perM = {};
-  filtered.forEach(r => { const m=cl(r).methodiek||"Onbekend"; perM[m]=(perM[m]||0)+1; });
-  const mEntries = Object.entries(perM).sort((a,b)=>b[1]-a[1]).slice(0,8);
-  const kwantM = new Set(["Quasi-experimenteel","Statistisch / econometrisch","MKBA","RCT / experiment"]);
-  if (chartMethodiek) chartMethodiek.destroy();
-  chartMethodiek = new Chart(document.getElementById("c-methodiek"), {
-    type:"bar",
-    data:{labels:mEntries.map(([m])=>m.replace(" / niet gespecificeerd","").replace("Doeltreffendheidsevaluatie","Doeltreffendheid").slice(0,32)), datasets:[{label:"", data:mEntries.map(([,n])=>n), backgroundColor:mEntries.map(([m])=>kwantM.has(m)?"#2FA26D":"#006EB8"), borderRadius:2}]},
-    options:{indexAxis:"y", responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}},
-      scales:{x:{ticks:{font:{size:10}},grid:{color:"rgba(0,0,0,0.05)"}}, y:{ticks:{font:{size:10}},grid:{display:false}}}}
-  });
+  // ── Verdeling chart: horizontale bar ──
+  document.getElementById("distrib-title").innerHTML = geenGroepering
+    ? `Verdeling <span style="color:var(--text3);font-weight:400;text-transform:none;">— selecteer groepering</span>`
+    : `Verdeling ${disaggrLabel} ${disaggrFilter && disaggrFilter.isAI ? '<span class="ai-label">AI</span>' : ''}`;
 
-  renderBars("h-opdrachtgevers", topN(filtered,"aanbestedende_dienst"), "#006EB8");
-  renderBars("h-winnaars", topN(metWinnaar,"winnaar"), "#2FA26D");
+  if (chartMethodiek) chartMethodiek.destroy();
+  if (geenGroepering) {
+    document.getElementById("c-methodiek").parentElement.innerHTML = `<div style="display:flex;align-items:center;justify-content:center;height:220px;color:var(--text3);font-size:13px;">Selecteer een groepering om de verdeling te tonen</div><canvas id="c-methodiek" style="display:none;"></canvas>`;
+    chartMethodiek = null;
+  } else {
+    // Herstel canvas
+    const container = document.getElementById("c-methodiek").parentElement;
+    container.innerHTML = `<canvas id="c-methodiek" role="img" aria-label="Verdeling">Verdeling</canvas>`;
+    const distEntries = Object.entries(valCounts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+    chartMethodiek = new Chart(document.getElementById("c-methodiek"), {
+    type:"bar",
+    data:{
+      labels: distEntries.map(([m]) => m.length > 32 ? m.slice(0,30)+'…' : m),
+      datasets:[{label:"", data:distEntries.map(([,n])=>n), backgroundColor:distEntries.map(([m])=>kleurMap[m]||"#AAA"), borderRadius:2}]
+    },
+    options:{indexAxis:"y", responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false}},
+      layout:{padding:{right:10}},
+      scales:{
+        x:{ticks:{font:{size:10}},grid:{color:"rgba(0,0,0,0.05)"}},
+        y:{ticks:{font:{size:10}, callback: function(val, idx) {
+          const label = this.getLabelForValue(idx);
+          return label.length > 22 ? label.slice(0,22)+'…' : label;
+        }},grid:{display:false}}
+      }}
+  });
+  }
+
+  if (geenGroepering) {
+    renderBars("h-opdrachtgevers", topN(filtered,"aanbestedende_dienst"), "#006EB8");
+    renderBars("h-winnaars", topN(metWinnaar,"winnaar"), "#2FA26D");
+  } else {
+    renderStackedBars("h-opdrachtgevers", filtered, "aanbestedende_dienst", kleurMap, topVals);
+    renderStackedBars("h-winnaars", metWinnaar, "winnaar", kleurMap, topVals);
+  }
 
   // Concurrentiekaart
   const bureauData = {};
@@ -759,6 +1022,10 @@ function render() {
 
             <div class="detail-col">
               <div class="detail-field">
+                <div class="detail-label">Teams <span class="ai-label">AI</span></div>
+                <div class="detail-value">${(cl(r).teams||[]).length ? (cl(r).teams||[]).map(t=>`<span class="detail-pill ja">${t}</span>`).join("") : '<span style="color:var(--text3)">Niet relevant</span>'}</div>
+              </div>
+              <div class="detail-field">
                 <div class="detail-label">Subthema <span class="ai-label">AI</span></div>
                 <div class="detail-value ai">${subthema}</div>
               </div>
@@ -769,6 +1036,10 @@ function render() {
               <div class="detail-field">
                 <div class="detail-label">Opdrachtgrootte <span class="ai-label">AI</span></div>
                 <div class="detail-value ai">${cl(r).opdrachtgrootte || "—"}</div>
+              </div>
+              <div class="detail-field">
+                <div class="detail-label">Publicatiedatum</div>
+                <div class="detail-value">${(r.publicatiedatum||"—").slice(0,10)}</div>
               </div>
               <div class="detail-field">
                 <div class="detail-label">Waarde</div>
@@ -826,6 +1097,7 @@ function render() {
               <a href="${r.url||"#"}" target="_blank">→ Bekijk op TenderNed</a>
               ${r.winnaar ? ` &nbsp;·&nbsp; Winnaar: <strong>${r.winnaar}</strong>` : ""}
               ${r.datum_gunning ? ` &nbsp;·&nbsp; Gegund: ${r.datum_gunning}` : ""}
+              ${r.documenten_geladen ? `&nbsp;·&nbsp; <button class="doc-chat-btn" onclick="openDocChat('${r.id}','${(r.titel||'').replace(/'/g,"\\'").replace(/"/g,'&quot;')}');event.stopPropagation()">💬 Vraag documenten</button>` : ""}
             </div>
           </div>
         </td>
@@ -856,7 +1128,241 @@ function toggleDetail(rid) {
   }
 }
 
-loadData();
+// ── Document chat ─────────────────────────────────────────────────────────────
+
+// Versleutelde API key — gegenereerd door versleutel_key.py
+// !! Vervang deze waarde met de output van: python versleutel_key.py !!
+const ENCRYPTED_KEY = "olkYN2AG2WzSyCEHQU/cWCOs2s++hwSnuZykOKHuy4jpnfykmShEc55mQkW78hj4wHVjNhz6RI3SOq6MzWO/0oNXZ/pNF8vzbZAH7rcfXJhYFEp7N0BhL52VVFHDiDMnJ7mJQS+Ti7l07lINoOCkorqtN6kFEEDrwQ888JafSsap/XHqVpbqCm4TdNVnY3P4y5FeGbN99jo=";
+
+let ANTHROPIC_API_KEY = sessionStorage.getItem("anthropic_key") || "";
+
+function toonLogin() {
+  document.getElementById("login-overlay").classList.add("open");
+  document.getElementById("login-key").focus();
+}
+
+async function ontsleutelKey(wachtwoord) {
+  try {
+    const raw = Uint8Array.from(atob(ENCRYPTED_KEY), c => c.charCodeAt(0));
+    const salt = raw.slice(0, 16);
+    const iv = raw.slice(16, 28);
+    const tag = raw.slice(28, 44);
+    const ciphertext = raw.slice(44);
+    // Combineer ciphertext + tag (Web Crypto verwacht dit achter elkaar)
+    const combined = new Uint8Array(ciphertext.length + tag.length);
+    combined.set(ciphertext);
+    combined.set(tag, ciphertext.length);
+    // PBKDF2 key derivation
+    const keyMaterial = await crypto.subtle.importKey("raw", new TextEncoder().encode(wachtwoord), "PBKDF2", false, ["deriveKey"]);
+    const aesKey = await crypto.subtle.deriveKey(
+      { name: "PBKDF2", salt, iterations: 100000, hash: "SHA-256" },
+      keyMaterial,
+      { name: "AES-GCM", length: 256 },
+      false,
+      ["decrypt"]
+    );
+    const decrypted = await crypto.subtle.decrypt({ name: "AES-GCM", iv }, aesKey, combined);
+    return new TextDecoder().decode(decrypted);
+  } catch(e) {
+    return null;
+  }
+}
+
+async function submitLogin() {
+  const wachtwoord = document.getElementById("login-key").value.trim();
+  if (!wachtwoord) {
+    document.getElementById("login-error").textContent = "Voer een wachtwoord in";
+    return;
+  }
+  document.getElementById("login-error").textContent = "Ontsleutelen...";
+  const key = await ontsleutelKey(wachtwoord);
+  if (!key || !key.startsWith("sk-ant-")) {
+    document.getElementById("login-error").textContent = "Onjuist wachtwoord";
+    return;
+  }
+  ANTHROPIC_API_KEY = key;
+  sessionStorage.setItem("anthropic_key", key);
+  document.getElementById("login-overlay").classList.remove("open");
+  document.getElementById("login-error").textContent = "";
+  loadData();
+}
+
+// Toon login bij pagina laden als er geen key is
+if (!ANTHROPIC_API_KEY) {
+  window.addEventListener("DOMContentLoaded", toonLogin);
+} else {
+  loadData();
+}
+
+let chatDocTekst = "";
+let chatRecordMeta = "";
+let chatGeschiedenis = [];
+
+async function openDocChat(pubId, titel) {
+  chatGeschiedenis = [];
+  chatDocTekst = "";
+  chatRecordMeta = "";
+
+  // Record metadata ophalen uit DATA
+  const record = DATA.find(r => r.id === pubId);
+  if (record) {
+    const c = record.classificatie || {};
+    chatRecordMeta = `
+METADATA UIT AANBESTEDINGSREGISTER:
+- Titel: ${record.titel || "—"}
+- Opdrachtgever: ${record.aanbestedende_dienst || "—"}
+- Publicatiedatum: ${record.publicatiedatum || "—"}
+- Sluitingsdatum inschrijving: ${record.sluitingsdatum || "—"}
+- Gunningsdatum: ${record.gunningsdatum || "—"}
+- Status: ${record.publicatie_type || "—"}
+- Procedure: ${record.procedure_type || "—"}
+- Aard opdracht: ${record.type_opdracht_omschrijving || "—"}
+- Europees/Nationaal: ${record.europees ? "Europees" : "Nationaal"}
+- Winnaar: ${record.winnaar || "niet bekend"}
+- Gunningswaarde: ${record.gunningswaarde ? "€" + record.gunningswaarde : "niet bekend"}
+- Teams (AI): ${(c.teams || []).join(", ") || "geen"}
+- Thema (AI): ${c.thema || "—"}
+- Methodiek (AI): ${c.methodiek || "—"}
+`;
+  }
+
+  // Modal openen en reset
+  const overlay = document.getElementById("chat-overlay");
+  overlay.classList.add("open");
+  document.getElementById("chat-titel").textContent = titel;
+  document.getElementById("chat-synthese").innerHTML = `<span style="color:var(--text3)">Document laden...</span>`;
+  document.getElementById("chat-messages").innerHTML = "";
+  document.getElementById("chat-input").value = "";
+
+  // Document ophalen
+  try {
+    const resp = await fetch(`data/documenten/${pubId}.txt`);
+    if (!resp.ok) throw new Error("niet gevonden");
+    chatDocTekst = await resp.text();
+  } catch(e) {
+    document.getElementById("chat-synthese").innerHTML = `<span style="color:var(--ecorys-orange)">Geen aanbestedingsdocumenten beschikbaar voor deze opdracht.</span>`;
+    return;
+  }
+
+  // Synthese genereren
+  document.getElementById("chat-synthese").innerHTML = `<span style="color:var(--text3)">Synthese genereren...</span>`;
+  const synthese = await vraagClaude(
+    `Je bent een expert consultant assistent. Geef een beknopte synthese (max 150 woorden, gebruik markdown) van onderstaand aanbestedingsdocument. Dek: wat wordt gevraagd, welke methodiek, welke eisen, looptijd en waarde.\n\n${chatRecordMeta}\n\nDOCUMENT:\n${chatDocTekst.slice(0, 25000)}`,
+    [{ role: "user", content: "Geef de synthese van dit aanbestedingsdocument." }]
+  );
+  document.getElementById("chat-synthese").innerHTML = synthese.replace(/\*\*(.*?)\*\*/g,"<strong>$1</strong>").replace(/\n/g,"<br>");
+}
+
+async function stuurChatBericht() {
+  const input = document.getElementById("chat-input");
+  const vraag = input.value.trim();
+  if (!vraag) return;
+  input.value = "";
+
+  // Gebruikersbericht tonen
+  voegBerichtToe("user", vraag);
+  chatGeschiedenis.push({ role: "user", content: vraag });
+
+  // Typing indicator
+  const typingId = "typing-" + Date.now();
+  document.getElementById("chat-messages").insertAdjacentHTML("beforeend",
+    `<div id="${typingId}" class="chat-typing">Claude denkt na...</div>`);
+  scrollChat();
+
+  document.getElementById("chat-send").disabled = true;
+
+  const systeemContext = chatDocTekst
+    ? `Je bent een assistent die vragen beantwoordt over een aanbestedingsdocument. Beantwoord vragen op basis van onderstaand document en metadata. Als de informatie niet beschikbaar is, zeg dat dan eerlijk.\n\n${chatRecordMeta}\n\nDOCUMENT:\n${chatDocTekst.slice(0, 25000)}`
+    : `Je bent een assistent. Er zijn geen aanbestedingsdocumenten beschikbaar voor deze opdracht. Zeg dit eerlijk als er naar documentinhoud gevraagd wordt.`;
+
+  const antwoord = await vraagClaude(systeemContext, chatGeschiedenis);
+
+  // Typing verwijderen en antwoord tonen
+  document.getElementById(typingId)?.remove();
+  voegBerichtToe("assistant", antwoord);
+  chatGeschiedenis.push({ role: "assistant", content: antwoord });
+  document.getElementById("chat-send").disabled = false;
+}
+
+async function vraagClaude(systeem, geschiedenis) {
+  // Korte pauze om rate limit te vermijden
+  await new Promise(r => setTimeout(r, 1500));
+  try {
+    const resp = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true",
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 1024,
+        system: systeem,
+        messages: geschiedenis,
+      }),
+    });
+    const data = await resp.json();
+    if (data.error) return `Fout: ${data.error.message}`;
+    return data.content?.[0]?.text || "Geen antwoord ontvangen.";
+  } catch(e) {
+    return `Fout: ${e.message}`;
+  }
+}
+
+function voegBerichtToe(rol, tekst) {
+  const avatar = rol === "user" ? "JIJ" : "AI";
+  const html = `<div class="chat-msg ${rol}">
+    <div class="chat-avatar">${avatar}</div>
+    <div class="chat-bubble">${tekst.replace(/\n/g,"<br>")}</div>
+  </div>`;
+  document.getElementById("chat-messages").insertAdjacentHTML("beforeend", html);
+  scrollChat();
+}
+
+function scrollChat() {
+  const el = document.getElementById("chat-messages");
+  el.scrollTop = el.scrollHeight;
+}
+
+function sluitModal() {
+  document.getElementById("chat-overlay").classList.remove("open");
+}
+
+// Enter om te versturen
+document.addEventListener("DOMContentLoaded", () => {
+  document.getElementById("chat-input")?.addEventListener("keydown", e => {
+    if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); stuurChatBericht(); }
+  });
+});
 </script>
+<!-- Login modal -->
+<div class="login-overlay" id="login-overlay">
+  <div class="login-box">
+    <h2>Ecorys Marktonderzoek</h2>
+    <p>Voer het wachtwoord in om toegang te krijgen tot het dashboard.</p>
+    <input type="password" class="login-input" id="login-key" placeholder="Wachtwoord" onkeydown="if(event.key==='Enter')submitLogin()">
+    <div class="login-error" id="login-error"></div>
+    <button class="login-btn" onclick="submitLogin()">Inloggen</button>
+  </div>
+</div>
+
+<!-- Document chat modal -->
+<div class="modal-overlay" id="chat-overlay" onclick="if(event.target===this)sluitModal()">
+  <div class="modal">
+    <div class="modal-header">
+      <h3 id="chat-titel">Opdracht</h3>
+      <button class="modal-close" onclick="sluitModal()">✕</button>
+    </div>
+    <div class="modal-synthese" id="chat-synthese"></div>
+    <div class="modal-chat" id="chat-messages"></div>
+    <div class="modal-input-row">
+      <textarea class="modal-input" id="chat-input" placeholder="Stel een vraag over de aanbestedingsdocumenten..." rows="1"></textarea>
+      <button class="modal-send" id="chat-send" onclick="stuurChatBericht()">Verstuur</button>
+    </div>
+  </div>
+</div>
+
 </body>
 </html>

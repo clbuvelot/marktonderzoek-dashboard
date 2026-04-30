@@ -1,0 +1,2186 @@
+=== Document: ai 2019-0712 pve geotech_onderz_cluster 3_def _v1.0 ===
+Versie 2016-08-26 
+ 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Kenmerk: AI 2019-0712 
+ 
+ 
+ 
+  
+ 
+ 
+Versie 1 
+6 februari 2020    
+ 
+   
+Inhoud 
+1. Inleiding 1 
+1.1. Aanleiding 1 
+1.2. Scope 1 
+2. Specificatie van de Opdracht 3 
+2.1. Algemeen 3 
+2.2. Randvoorwaarden 3 
+2.3. Werkzaamheden betreffende Geotechnisch veldonderzoek. 5 
+2.4. Werkzaamheden Geotechnisch laboratoriumonderzoek 5 
+2.5. Werkzaamheden Hydrologisch onderzoek 6 
+2.6. Proceseisen 6 
+2.7. Resultaat van de opdracht 10 
+ 
+Bijlage(n) 
+Bijlage 1 - Beschrijving Amsterdam Inspectieportaal 
+Bijlage 2 - Handleiding AIP 
+Bijlage 3 - Format rapportageformulier 
+Bijlage 4 - Projectspecifieke locaties Geotechnische onderzoeken 
+Bijlage 5 - Object specifieke risico's  
+Bijlage 6 - Globale locatie peilbuizen 
+Bijlage 7 - Specificaties plaatsen peilbuizen 
+Bijlage 8 - BLVC-intakeformulier 
+Bijlage 9 - Specificering Objectgerichte 3D model Kademuurconstructie 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 1 van 10 
+ 
+1. Inleiding 
+1.1. Aanleiding 
+Ten behoeve van het programma “Vernieuwingsopgave Kademuren” in Amsterdam is geo-
+technisch veld - en laboratoriumonderzoek noodzakelijk. Het geotechnisch veldonderzoek 
+vindt plaats vanaf het land en water.  
+ 
+De aanleiding voor de gevraagde dienst is drieledig: 
+1. Ten eerste is er behoefte in het inzichtelijk maken van de grondopbouw ter plaatse van 
+de bestaande kademuren door middel van het uitvoeren van sonderingen zowel in den  
+droge als in den natte;  
+2. Ten tweede het uitvoeren van boringen om vervolgens laboratoriumproeven uit te voe-
+ren voor het meer nauwkeurig bepalen van de grondparameters zowel in den  droge als 
+in den natte. 
+3. Ten derde is het plaatsen van peilbuizen om de hoogte van het freatisch vlak (niveau 
+grondwater) te meten ter plaatse van het trottoir. 
+ 
+De Opdrachtgever streeft met het op de markt brengen van de Opdracht een hoge mate van 
+ontzorging na.  
+ 
+1.2. Scope 
+De scope behelst de uitvoering van bovenstaande werkzaamheden in Amsterdam ter plaatse 
+van de volgende locaties: 
+1. Geldersekade 84-128; 
+2. Geldersekade 95-109; 
+3. Leliegracht 2-34 en 15-27; 
+4. Leliegracht 38-58 en 35-51; 
+5. Singel 280-342; 
+6. Jacob Catskade 2-88; 
+7. Nieuwe Herengracht 52-263; 
+8. Da Costakade 13-165 en 2-216; 
+9. Jacob van Lennepkade 42-60; 
+10. Hugo de Grootkade 1-15. 
+ 
+ 
+De Opdrachtnemer dient bij het uitvoeren van de O pdracht rekening te houden dat van alle 
+locaties  - in ieder geval - vooruitlopend op de rapportages de gef  en pdf bestanden van alle 
+locaties uiterlijk eind oktober dienen te worden aangeleverd  via VISI. Daarnaast dient de Op-
+drachtnemer van alle locaties de onderzoeksresultaten inclusief de laboratoria onderzoeken  
+deze zo spoedig mogelijk doch uiterlijk 31 december 2020 in rapportagevorm aan te leveren . 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 2 van 10 
+ 
+Dit verandert niets aan het programma van eisen (PvE). Zie Specificatie van de opdracht, 
+Hoofdstuk 2. 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 3 van 10 
+ 
+2. Specificatie van de Opdracht 
+2.1. Algemeen 
+De locaties waar de werkzaamheden plaatsvinden zijn door de Opdrachtgever nader bepaald, zie 
+§1.2 en bijlage 4 (locatienummers 1 t/m 10).  
+ 
+U dient er rekening mee te houden dat er ter plaatse van de onderzoeklocaties woonarken en 
+schepen aanwezig kunnen zijn. Daarnaast zijn een aantal kades o.a. Geldersekade, Marnixstraat, 
+Da Costakade en de Nieuwe Herengracht geheel of gedeeltelijk voorzien van een noodmaatregel 
+in de vorm van een stalen damwand en zandaanvulling.  
+ 
+2.2. Randvoorwaarden 
+Voor de uitvoering van de werkzaamheden dient de Inschrijver: 
+a. Een (concept) uitvoeringsplanning tijdens het startoverleg - na gunning - aan te leveren 
+aan de hand van de opgegeven locaties (bijlage 4);  
+b. te voorzien in alle de benodigde materialen, materieel en gereedschappen alsmede hulp-
+middelen om de werkzaamheden correct en veilig te kunnen uitvoeren; 
+c. alle voor de werkzaamheden benodigde (water) vergunningen en toestemmingen te ver-
+zorgen (waaronder ook Klick-meldingen) inclusief eventuele benodigde verkeersmaatre-
+gelen, zowel in den droge als in den natte; 
+d. alle benodigde tijdelijke verkeersmaatregelen1 op (vaar)wegen conform de huidige richt-
+lijnen (CROW 96, 96 B én ARBO-eisen) en de eisen van de vaarwegbeheerder (Waternet) 
+te verzorgen; 
+e. zelf, op basis van de locatie en het PvE, een inschatting te maken of de betreffende werk-
+zaamheden in dag, nacht of in het weekend uitgevoerd dienen te worden en deze in vaste 
+som op te nemen in de prijsaanbieding; 
+f. alle verkregen informatie - e.e.a. overeenkomstig de beschreven werkzaamheden, zie 
+§2.3 t/m 2.5 - dient per rak2 en per locatie in een rapport aan te worden geleverd m.a.w. 
+rapportage veldwerkzaamheden en rapportage laboratorium onderzoeken; 
+g. de behandeling van het BLVC-plan in het WIOR-vooroverleg en de WWU te verzorgen on-
+der andere ook de MOOR-melding, zie hiervoor ook: 
+- De 7 stappen naar WIOR vergunning: https://www.amsterdam.nl/bestuur-organisa-
+tie/organisatie/overige/coordinatiestelsel/coordinatiestelsel/7-stappen-0/ 
+ 
+1 Waar in dit document wordt verwezen naar CROW richtlijnen, worden de CROW richtlijnen 96b (publicatie 517) en/of-
+CROW publicatie 265 (verkeersmaatregelen bij evenementen) bedoeld alsmede de CROW publicatie 991 (verkeersre-
+gelaars bij wegwerkzaamheden). CROW-richtlijnen voor werk in uitvoering (publicatie 517) geven kaders en eisen 
+voor het ontwerpen en plaatsen en in stand houden van tijdelijke verkeersmaatregelen op alle wegen binnen en bui-
+ten de bebouwde kom, inclusief de autosnelwegen. De richtlijn voor verkeersmaatregelen bij wegwerkzaamheden en 
+evenementen op gemeentelijke wegen beperkt zich tot de gemeentelijke wegen binnen en buiten de bebouwde kom 
+van gemeente Amsterdam 
+2 Definitie Rak = van brug tot brug 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 4 van 10 
+ 
+- Informatie over BLVC-plan / intakeformulier: https://www.amsterdam.nl/bestuur-or-
+ganisatie/organisatie/overige/coordinatiestelsel/werken-openbare-0/blvc-maatrege-
+len/  
+h. levert uiterlijk twee weken na datum definitieve gunning per onderzoeklocatie een speci-
+ficatie waarin de volgende aspecten zijn benoemd (zie bijlage 4 “Specificatie per onder-
+zoeklocatie”): 
+- Sondering/boringnummer/peilbuisnummer; 
+- Uitvoerbaarheid: of het onderzoek punt uitvoerbaar is of verplaatsing (méér dan 3 
+meter) nodig is door bijvoorbeeld een belemmering in het werk t.o.v. uitvraag. Bin-
+nen drie meter wordt beschouwd als zijnde uitvoerbaar; 
+- In de offerte een stelpost opnemen groot € 10.000,--  e.e.a. in overeenstemming met 
+het PvE als zijnde ‘Afstemming onderzoek locaties’ ten behoeve van boringen buiten 
+de drie meter zone en waarbij in overleg met de Opdrachtgever: 
+ een voorstel van de nieuwe locatie wordt aangeleverd (indien van toepassing), 
+welke verwerkt is in een tekening waarbij de RD-coördinaten aangegeven zijn; 
+ een beschrijving waarin uiteen gezet wordt op welke wijze (de methode) de In-
+schrijver het grondonderzoek gaat uitvoeren als gevolg van een belemmering;  
+- Sondering vanaf het land of water; 
+- Type ondergrond (asfalt, beton, water etc.); 
+- Materieel (met welk materieel wordt het onderzoek op een desbetreffende locatie 
+uitgevoerd); 
+- Kernboring (ja/nee); 
+- Verkeersmaatregelen (ja/nee); 
+- Tijdsduur verkeersmaatregelen (uren); 
+- Dagdeel uitvoering (dag/nacht/weekend/voor 09:30/buiten de ochtendspits 
+- Overige / opmerking(en). 
+i. Opdrachtnemer dient de meetpunten, sonderingen en boorgegevens binnen 20 dagen na 
+datum van inwinning aan te leveren bij de Basis Registratie Ondergrond (BRO, 
+www.bronhouderportaal-bro.nl. De eisen, het format en een handleiding voor bronhou-
+derportaal zijn te vinden op www.broinfo.nl. Inloggen met e-herkenning 2+, kvk-nummer 
+bronhouder: 34366966. Tevens worden de gegevens digitaal aangeleverd aan Opdracht-
+gever.  
+ 
+Van de Inschrijver wordt verwacht dat deze, bij onduidelijkheden in de door de aanbestedende 
+dienst verstrekte informatie, met name als deze een volledige prijsaanbieding in de weg staan, dit 
+gegeven expliciet aangeeft voor het moment dat de mogelijkheid om vragen te stellen sluit, zoals 
+aangegeven in de planning van de inschrijfleidraad, zodat de aanbestedende dienst eventuele wij-
+zigingen nog mee kan nemen in de Nota van Inlichtingen. Opdrachtgever heeft het doel om gedu-
+rende de uitvoering volledig ontzorgd te zijn en wil derhalve eventuele potentiële issues bij de uit-
+voering voorkomen om deze tijdig te identificeren. Na gunning is Opdrachtnemer verantwoorde-
+lijk voor de juistheid van de door Opdrachtgever verstrekte informatie.   
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 5 van 10 
+ 
+De Opdrachtgever heeft locatie specifieke risico’s omgeving en werkzaamheden geïnventariseerd 
+en opgenomen in bijlage 5. Voor het uitvoeren van de werkzaamheden dient de Inschrijver alle be-
+nodigde veiligheidsmaatregelen te treffen – en indien nodig ook verkeersregelaars - om het werk 
+veilig te kunnen uitvoeren. 
+ 
+2.3. Werkzaamheden betreffende Geotechnisch veldonderzoek.   
+ Circa 111 sonderingen  inclusief meting van de plaatselijke wrijving tot NAP -30,0 [m] 
+en tot NAP -40,0 [m] ter plaatse van de oergeul vanaf het land; 
+ Circa 40 sonderingen inclusief meting van de plaatselijke wrijving tot NAP -30,0 [m] en 
+tot NAP -40,0 [m] vanaf het water; 
+ Ter plaatse van de uit te voeren sondering welke zich naast de uit te voeren boringen 
+bevinden, dient tevens de waterspanning (u) gemeten te worden  (CPTu). Eén sonde-
+ring inclusief meting van de waterspanning per locatie waar een boring wordt uitge-
+voerd. Circa 20 boringen geeft circa 20 sonderingen inclusief meting van de waterspan-
+ning (CPTu). Er komen met deze post geen sondering locaties bij. De bestaande sonde-
+ring locaties naast de bestaande boring locaties (20 stuks) dienen uitgevoerd te worden 
+inclusief meting van de waterspanning (u); 
+ Sonderingen conform NEN-EN-ISO 22476-1, klasse 2;  
+ Circa 11 diepe boringen tot de aanzet van de eerste zandlaag [circa NAP -13,0m] vanaf 
+het land met een diameter van ten minste 66 [mm] . Ter plaatse van de oergeul de bo-
+ringen dieper uitvoeren, zie bijlage 4;.  
+ Circa 9 diepe boringen tot de aanzet van de Eerste Zandlaag [circa NAP -13,0m] vanaf 
+het water met een diameter van ten minste 66 [mm]; 
+ Onderzoeklocaties sonderingen en diepe boringen conform bijlage 4. 
+ Continue steken van ongeroerde monsters, Ø ≥ 60 mm. Steekbussen vervolgens geslo-
+ten houden; 
+ Identificeren en beschrijven van het boorprofiel gedurende het steken  van de bussen 
+(veldbeschrijving) conform NEN-EN-ISO 14688-1. 
+ Indien wordt voorgeboord de voorboorstaat vermelden bij de gelabelde sondering 
+en/of boring in het onderzoeksrapport. 
+ 
+2.4. Werkzaamheden Geotechnisch laboratoriumonderzoek 
+De laboratoriumproeven dienen allen uitgevoerd te worden conform de geldende landelijke 
+normen en/of internationale richtlijnen (NEN-normen, RAW-bepalingen). 
+ 
+De Opdrachtnemer dient het volgende aan te leveren: 
+Objectgericht 3D model in Revit conform bijlage 9 “Specificering Objectgericht 3D model ka-
+demuurconstructie”. De levering gebeurt gelijktijdig met de aanlevering van de rapportages.  
+ Gestoken bussen gesloten houden en afwegen om volumieke gewichten te bepalen (ge-
+wicht gevulde steekbus minus gewicht lege bus), bussen pas op enen na overleg met geo-
+technisch adviseur IB. Tevens de vulgraad van de steekbus bepalen; 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 6 van 10 
+ 
+ Een geotechnisch adviseur van het IB geeft na het analyseren van de verkregen data van de 
+boringen (volumieke gewichten gesloten bussen en de identificatie en beschrijving van het 
+boorprofiel gedurende het steken van de bussen) aan welke monsters beproeft dienen te 
+worden. 
+ Voor de identificatie en beschrijving van het boorprofiel welke in het laboratorium wordt uitge-
+voerd is tevens de (NEN-EN-ISO 14688-1) van toepassing. Oftewel, het bepalen van de grond-
+soort op basis van  zintuiglijke w aarnemingen en eenvoudige proeven. Beschrijfkwaliteit B2 
+(NEN-EN-ISO 14688-1:2019).  
+ Bepaling van volumieke massa’s en watergehalte van de grondlagen bij elke 0,4 [m] boor-
+lengte. 
+ Triaxiaal CIUc (Consolidated Undrained Compression): multi -stage-isotroop bij 3 verschil-
+lende consolidatiespanningen. De gedraineerde en ongedraineerde schuifsterkte worden 
+bepaald bij verschillende rekken. Circa 48 proeven. Te beproeven monsters in overleg met 
+geotechnisch adviseur IB, nadat de initiële gewichten van de gesloten bussen bepaald en 
+aangeleverd zijn.  
+ Bepaling Atterbergse grenzen met 3-puntsmethode (plasticiteitsindex index PI, vloeigrens 
+wL, uitrolgrens wp). Circa 48 proeven, te beproeven monsters in overleg met geotechnisch 
+adviseur IB. 
+ Bepaling korrelverdeling (63µm - 63 mm, inclusief < 63µm) . Bij de kleine fractieverdeling 
+onderscheid maken in verschillende diameters. Circa 24 proeven, te beproeven monsters 
+in overleg met geotechnisch adviseur IB. 
+  
+2.5. Werkzaamheden Hydrologisch onderzoek 
+ Circa  45. boringen voor het plaatsen van de peilbuizen tot 4 m – mv; 
+ Plaatsing van ca. 45 peilbuizen, per rak om de ca. 50 m. Globale locatie in bijlage (bij-
+lage 6), exacte locatie in stoep en nader te bepalen i.v.m. leidingen en instandhouding 
+tijdens realisatie werkzaamheden kademuren. 
+ Filterlengte van 1 m en filterdiepte tussen 2 – 4 meter onder maaiveld op basis van 
+boorbeschrijving.  
+ Het vervaardigen van boorbeschrijvingen. 
+ Peilbuizen installeren conform specificatie plaatsen peilbuizen (bijlage 7) en afgedekt 
+met afsluitbare straatpot; 
+ 
+2.6. Proceseisen 
+Ter realisatie van de opdracht worden bij uitvoering van de werkzaamheden aan de Opdracht-
+nemer een aantal proceseisen gesteld. 
+Projectmanagement 
+Projectplan 
+Het Projectplan dient een beschrijving te geven van hoe de gevraagde dienst geleverd gaat worden 
+en hoe dat op beheerste wijze tot kwalitatief goede producten zal leiden.  
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 7 van 10 
+ 
+Het projectplan dient binnen uiterlijk twee werkweken na gunning ter acceptatie voorgelegd te wor-
+den aan de Opdrachtgever. Acceptatie van het Projectplan vindt schriftelijk plaats. Opdrachtnemer 
+blijft (ondanks de acceptatie) volledig verantwoordelijk voor de inhoud en kwaliteit van het Project-
+plan en de uitgevoerde opdracht en de daaruit voortvloeiende (deel)producten. Acceptatie laat on-
+verlet dat Opdrachtnemer (direct en op eigen kosten) onvolledigheden in aangeleverde (deel)pro-
+ducten moet aanvullen, dan wel fouten moet herstellen, welke na accepta tie worden opgemerkt. 
+Het is Opdrachtnemer niet toegestaan uitvoeringswerkzaamheden in relatie tot de Opdracht te ver-
+richten als het Projectplan niet is geaccepteerd. Als het Projectplan herhaaldelijk niet wordt geac-
+cepteerd, is er sprake van een tekortkoming aan de zijde van Opdrachtnemer. Opdrachtnemer dient 
+dan binnen een week een vernieuwd Projectplan in te dienen.  
+ 
+In het plan dienen de volgende aspecten toegelicht te worden: 
+ Interpretatie van de opdracht; 
+ Omgang met onbereikbare constructieonderdelen door de aanwezigheid van woonboten 
+of anderszins; 
+ Communicatie met de opdrachtgever; 
+ Risico- inventarisatie en beheersmaatregelen  inclusief de in de Inschrijvingsleidraad be-
+noemde Kritische Succes Factoren; 
+ V&G-plan; 
+ BLVC-plan; 
+ Vergunningen, toestemmingen, meldingen en ontheffingen; 
+ Format rapportage ter goedkeuring, welke gebruikt zal worden t.b.v. de oplevering van de 
+onderzoeksresultaten naar de eisen en wensen van de opdrachtgever. 
+Samenwerking 
+ Het Projectplan dient zo veel als mogelijk gevolgd te worden. Opdrachtgever dient  geïn-
+formeerd te worden bij (significante/relevante) afwijkingen van het plan. 
+ De Opdrachtnemer organiseert spoedig na gunning een startoverleg waarin Opdrachtge-
+ver en Opdrachtnemer: 
+o nader kennismaken; 
+o praktische afspraken maken; 
+o (contractuele) onduidelijkheden bespreken; 
+o de wederzijdse (organisatie)belangen van het contract uitspreken; 
+o de wederzijdse  bedoeling met de (duurzame) samenwerking uitspreken. 
+ De Opdrachtgever dient z.s.m. geïnformeerd te worden: 
+o bij ongevallen of (veiligheids)incidenten; 
+o bij onveilige situaties veroorzaakt door de staat van de constructie; 
+o als de constructie of constructieonderdelen niet te bereiken of niet te inspecteren 
+zijn wegens geparkeerde auto’s, woonboten of anderszins. 
+ Op initiatief van de opdrachtnemer dient er, ten minste eens per zes maanden, een voort-
+gangsoverleg te worden ingepland. Op de agenda dient te staan: 
+o Evaluatie samenwerking; 
+o Evaluatie uitvoering; 
+o Prognose komende zes maanden. 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 8 van 10 
+ 
+ 
+Verzekering 
+Opdrachtnemer dient naar eigen inzicht adequaat verzekerd te zijn. Opdrachtgever voorziet op 
+geen manier in een polis waarvan de opdrachtnemer gebruik kan maken. 
+Procesbeheersing 
+Kwaliteitsmanagement 
+De Opdrachtnemer dient: 
+ ISO 9001 gecertificeerd te zijn en houdt zich derhalve aan de daarvoor geldende regels. Op ver-
+zoek van de opdrachtgever worden kopieën van de certificaten aangeleverd.  
+ expliciet te maken hoe de kwaliteit van de geleverde producten gegarandeerd wordt. 
+ een korte toelichting te geven op de gehanteerde werkwijze en het te doorlopen proces. 
+ een eindconclusie over de kwaliteit van de gegevens te leveren. 
+ een registratierapport te leveren. 
+ een vereffeningsrapport op grondslag te leveren. 
+ de rapportage moet worden gecontroleerd door de opdrachtgever. Voor deze controle dient 
+rekening gehouden te worden met de 2 weken reviewtijd voordat de rapportage en dienst be-
+taalbaar wordt. 
+ bij iedere factuur een korte beschrijving en/of overzicht van de daaronder ressorterende werk-
+zaamheden en resultaat van werkzaamheden te voegen. 
+Betalingsregeling 
+Voor start van de werkzaamheden dient over de prijs van de diens t een schriftelijk akkoord te zijn 
+van de Opdrachtgever. 
+Het Verzoek tot Prestatieverklaring kan tezamen met het indienen van de rapportage worden inge-
+diend. Opdrachtgever zal de Prestatieverklaring na akkoord van de rapportage direct verstrekken. 
+Informatiemanagement 
+De informatie dient te worden verwerkt in het Amsterdams Inspectie Portaal. Opdrachtgever 
+draagt zorg voor toegang tot de juiste gegevens en formulieren om dit te kunnen uitvoeren. Een 
+toelichting hierop is te vinden in Bijlage 1, Bijlage 2 en Bijlage 3. 
+Omgevingsmanagement 
+ De Opdrachtnemer dient zijn werkzaamheden te managen (plannen, organiseren, bewaken, 
+beheersen, rapporteren en corrigeren), zodanig dat de dienst wordt gerealiseerd met minimale 
+hinder voor de omgeving en optimaal past in zi jn omgeving, conform de uit de overeenkomst 
+voortvloeiende eisen. Onder hinder wordt verstaan: een negatieve beïnvloeding van de bereik-
+baarheid, leefbaarheid en/of veiligheid voor de omgeving. 
+ De Opdrachtnemer wordt geacht met alle wet- en regelgeving, inclusief lokaal van toepassing 
+zijnde regelgeving bekend te zijn, daar naar te handelen en naar beste kunnen en vermogen, 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 9 van 10 
+ 
+alles in het werk stelt om de noodzakelijke vergunningen en/of ontheffingen tijdig te verkrijgen, 
+inclusief het produceren en indienen van de daartoe noodzakelijke vergunningsbescheiden. 
+ Het verkrijgen en bekostigen van alle benodigde vergunningen en ontheffingen benodigd voor 
+de activiteiten op de betreffende locatie inclusief het vervaardigen van de daartoe vereiste ver-
+gunningsbescheiden en ondersteunende documenten. 
+ De Opdrachtnemer beschrijft in haar eigen Projectplan op welke wijze wordt voldaan aan de 
+benodigde toestemmingen, meldingen, vergunningen en ontheffingen. 
+ Bij klachten en schades dient dit bij de Opdrachtgever gemeld te worden zodat per geval naar 
+een passende oplossing gezocht kan worden. 
+ Alle werkzaamheden die van invloed kunnen zijn op de doorvaart, kwantiteit en kwaliteit va n 
+het water, dienen te worden afgestemd met het bevoegd gezag (Waternet). 
+ Het BLVC plan dient te borgen dat: 
+o de omgeving minimaal gehinderd wordt. 
+o er afgewogen en vooraf bepaalde maatregelen zijn indien er op BLVC aspecten toch 
+aantasting of hinder is. 
+Technisch Management 
+ De Opdrachtnemer beschrijft in het Projectplan op welke wijze wordt aan veiligheid en gezond-
+heid, waarbij minimaal aan de wet- en regelgeving wordt voldaan. 
+ De medewerkers die ingezet worden voor de uitvoering moeten aan de volgende eisen voldoen: 
+o Uitvoerend personeel moet aantoonbaar de opleiding Basisveiligheid VCA (B -VCA) 
+hebben gevolgd en projectleiders VCA Veiligheid voor Operationeel Leidinggevende 
+(VOL-VCA); 
+o Alle personeel moet voor de uitvoering van de opdracht over geschikte PBM’s beschik-
+ken.  
+o Het personeel is aantoonbaar opgeleid (minimaal MBO opleiding en/of voldoende er-
+varing met het uitvoeren van de werkzaamheden) om de beschreven werkzaamheden 
+conform de kwaliteitseisen uit te voeren. 
+ 
+Opstellen V&G-plan uitvoering 
+Het V&G-plan dient tenminste te voldoen aan artikel 2.28 van het Arbeidsomstandighedenbesluit 
+en omvatten minimaal de volgende onderdelen: 
+1. de naam en contactgegevens van de coördinatoren; 
+2. een beschrijving van de wijze waarop wordt voldaan aan de van toepassing zijnde wet- en re-
+gelgeving, normen en overige eisen op het gebied van veiligheid en gezondheid voor uitvoe-
+ring van de Opdracht; 
+3. beschrijving van de organisatie met betrekking tot V&G-aspecten; 
+4. beschrijving van de wijze voor melding, rapportage en afhandeling van incidenten en (bijna) 
+ongevallen; 
+5. beschrijving van de wijze waarop het V&G-dossier actueel gehouden wordt; 
+6. beschrijving van het proces van risico-inventarisatie en evaluatie met betrekking tot V&G-ri-
+sico’s; 
+7. het risicodossier op het gebied van V&G; 
+8. beschrijving van de wijze waarop voorlichting op het gebied van V&G wordt verzorgd. 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+Pagina 10 van 10 
+ 
+Contractmanagement 
+De communicatie met de Opdrachtgever verloopt via de contractmanager en middels VISI. 
+Gebruik van VISI systematiek 
+ Alle documenten dienen in VISI te worden aangeboden. 
+ Daar waar de overeenkomst schriftelijk (analoge) communicatie tussen partijen voorschrijft; 
+wordt (digitale) communicatie in VISI bedoeld. 
+ Wanneer in de overeenkomst uitwisseling van digitale informatie wordt vastgelegd prevaleert 
+de in VISI vastgelegde digitale versie van de informatie boven eventuele andere door Op-
+drachtgever of Opdrachtnemer verstrekte informatie. 
+ Het gebruik van VISI voor de contractbeheersing heeft een formele contractuele status. Het is 
+niet nodig en zelfs ongewenst om documenten van handtekeningen te voorzien en te scan-
+nen. 
+ De Opdrachtgever stelt aan de Opdrachtnemer het volgende ter beschikking:  
+o Gebruik van centrale server waarop VISI-raamwerk is geïnstalleerd; 
+o De VISI-gebruikerssoftware voorzien van het keurmerk van de CROW “VISI compati-
+ble” 
+o Een VISI-raamwerk waarin de gewenste wijze van communiceren wordt vastgelegd. 
+o Helpdesk voor VISI-gebruikerssoftware. Hiervoor kan de VISI-gebruiker terecht voor 
+1e lijns operationele vragen.  
+ Binnen 14 dagen nadat dit raamwerk door de Opdrachtgever aan Opdrachtnemer is verstrekt, 
+dient de Opdrachtnemer aan te geven welke communicatiepatronen uit zijn projectorganisa-
+tie aan het raamwerk toegevoegd moeten worden. 
+ De Opdrachtgever stelt het raamwerk en de software voor gebruik van VISI ter beschikking. 
+Het raamwerk omvat ten minste de volgende processen: 
+o verslaglegging overleggen; 
+o betaling; 
+o afgifte prestatieverklaring; 
+o overige conform benodigde en/of gezamenlijk vastgestelde transacties. 
+ De Opdrachtnemer wordt erop gewezen dat aanpassingen aan en/of uitbreidingen van het 
+VISI-raamwerk, extra kosten met zich mee kunnen brengen. Wijzigingen op het VISI-raam-
+werk op initiatief van Opdrachtnemer komen voor rekening van Opdrachtnemer.  
+ Kosten van stilstand en/of vertraging werkzaamheden als gevolg van tijdelijk niet beschikbaar 
+zijn van de helpdesk en/of storing van de centrale server komen niet in aanmerking voor verre-
+kening, indien de storing binnen een dag verholpen is. 
+ 
+2.7. Resultaat van de opdracht 
+De rapportages van de inspectie worden opgeslagen in het Amsterdam Inspectieportaal. Dit is van 
+toepassing bij rapporten die kademuren of bruggen betreffen. 
+De Opdrachtnemer dient een rapport per locatie (bijlage 4) dient binnen 10 werkdagen na uitvoering 
+te worden opgeleverd e.e.a. conform beschreven in §1.2.  
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+Bijlage 1- Beschrijving Amsterdam Inspectie-
+portaal 
+De Gemeente Amsterdam staat aan het begin van een grote opgave om haar (civiele) Assets te 
+inspecteren en analyseren. Niet alleen de wijze van inventariseren is in ontwikkeling en vraagt om 
+aanpassingen van de organisatie, ook de omvang en aard van de betreffende informatievergaring 
+vraagt om een gestructureerde aanpak.  
+ 
+Om de grote hoeveelheden informatie in goede banen te leiden heeft de Gemeente Amsterdam 
+een samenwerkingsportaal ontwikkeld waarmee het mogelijk is om grote hoeveelheden informa-
+tie te delen tussen Opdrachtgever en Opdrachtnemer. 
+Nota bene: dit betreft de nieuw te genereren informatie en niet de archiefinformatie (deze zal via 
+een ander kanaal worden gedeeld met de Opdrachtnemers). 
+Het doel is een maximale informatiebeschikbaarheid, bij voorkeur over de gehele Assetmanage-
+mentketen van de Gemeente Amsterdam. 
+ 
+Centrale registratie 
+Het Amsterdam Inspectieportaal bevat per beheerobject een online registratieformulier dat aan-
+sluit op de uitvraag van de Opdrachtgever en waarin de Opdrachtnemer de verkregen informatie 
+kan invoeren. Dit leidt ertoe dat alle resultaten: 
+• centraal kunnen worden aangeleverd en beschikbaar zijn 
+• op uniforme wijze kunnen worden vastgelegd 
+• op efficiënte wijze kunnen worden doorgrond en overgedragen 
+• op flexibele wijze kunnen worden geoptimaliseerd op basis van voortschrijdende inzichten 
+• als flexibele en vrije data beschikbaar zijn voor verdere toepassing door de Opdrachtgever 
+ 
+Het aantal overdrachts-, vertaling- en afhandelingsmomenten wordt sterk gereduceerd door de 
+informatie op één centrale plaats af te nemen, te beoordelen en te ontsluiten. 
+ 
+De registratieformulieren die op dit moment in het portaal beschikbaar zijn, zijn toegespitst op in-
+specties ten behoeve van de conditiemeting; toestandsinspectie op basis van NEN 2767, en de 
+kwalitatieve faalkansanalyse; instandhoudingsanalyse op basis van FMECA. De gegevens uit de 
+analyse, inspectie en advisering kunnen hierin worden vastgelegd en beschikbaar gesteld aan de 
+Opdrachtgever zonder dat gebruik gemaakt moet worden van andere, minder flexibele en uni-
+forme informatiedragers (Word, Excel, PDF, CAD, etc.). 
+ 
+Het Amsterdam Inspectieportaal maakt onderdeel uit van het Amsterdamse Datalab. De data die 
+daar wordt verzameld wordt binnen de Gemeente Amsterdam beheerd en gedistribueerd voor 
+verdere toepassing. 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+Werkwijze 
+De opdrachtnemer ontvangt als onderdeel van de opdracht een profiel (incl. inloggegevens) voor 
+het Amsterdam Inspectieportaal (te benaderen via www.zxy-cloud.amsterdam.nl). 
+Het gebruik van het Amsterdam Inspectieportaal wordt toegelicht door de Opdrachtgever in de 
+vorm van een instructie en een handleiding. 
+Eenmaal ingelogd ziet de Opdrachtnemer specifiek die objecten die onderdeel uitmaken van zijn 
+opdracht. Voor ieder object kan een formulier worden ingevuld met de resultaten die zijn verlangd 
+in de opdracht. Het is mogelijk om naast het formulier, informatie toe te voegen documenten, 
+foto’s, etc. om een zo volledig mogelijk resultaat te kunnen leveren. Het is niet nodig om separaat 
+een rapportage op te stellen; het uitgangspunt is dat alle benodigde informatie digitaal beschik-
+baar is in het registratieformulier. 
+ 
+Na (tijdens) levering beschikt de Opdrachtgever direct over de resultaten die worden geleverd 
+door de Opdrachtnemer en kan afstemming, beoordeling en afname plaatsvinden op basis van de 
+broninformatie in het Amsterdam Inspectieportaal. 
+Nota bene: het Amsterdam Inspectieportaal is geen inspectietool en ook geen assetmanagement 
+beheersysteem. Het betreft een centraal loket waarmee rechtstreeks data tussen Opdrachtgever 
+en Opdrachtnemer kan worden uitgewisseld zonder dat gebruik hoeft te worden gemaakt van do-
+cumenten en de distributie er van. Het staat de Opdrachtnemer vrij hoe zij haar (inspectie)data be-
+heert en beheerst. 
+ 
+Ontwikkeling 
+Het Amsterdam Inspectieportaal is sinds kort beschikbaar en bevindt zich in een eerste ontwikkel-
+fase. Het volstaat om de informatie die is verlangd uit de overeenkomsten te registreren en te dis-
+tribueren. De Opdrachtnemer kan er op vertrouwen dat de functionaliteit zoals nodig is tbv de in-
+vulling van de overeenkomst beschikbaar is. 
+ 
+Echter, de volgende ontwikkelfasen bieden een hoop kansen voor optimalisatie en uitbreiding van 
+de huidige functionaliteit. Amsterdam tracht het proces van de Opdrachtnemer zo optimaal mo-
+gelijk te faciliteren met het inspectieportaal. 
+Op basis van voortschrijdend inzicht, ervaringen en wensen en behoeften van alle gebruikers zul-
+len verbeteringen van het Amsterdam Inspectieportaal worden geïnitieerd. Van de Opdrachtne-
+mer wordt gevraagd om met de Opdrachtgever mee te denken met de ontwikkeling van het por-
+taal en met deze samenwerking een steeds efficiënter proces in te richten en verspillingen zoveel 
+als mogelijk te voorkomen. De Opdrachtnemer mag verbetervoorstellen doen. 
+Zie ook: “Handleiding en instructie Amsterdam Inspectieportaal” 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+Bijlage 2 - Handleiding AIP 
+Volgt na gunning. 
+  
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+Bijlage 3 - Format rapportageformulier 
+Volgt na gunning. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+Bijlage 4 - Projectspecifieke locaties Geotechnische onderzoeken 
+ 
+ 
+  
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+Versie 1 
+6 februari 2020    
+Kenmerk AI 2019-0712 
+ 
+ 
+ 
+ 
+ 
+Gemeente Amsterdam 
+Programma van Eisen 
+Geotechnische onderzoeken kademuren cluster 3 
+ 
+Versie 1 
+6 februari 2020    
+Kenmerk  AI 2019-0712 
+ 
+ 
+Bijlage 5 - Locatie specifieke risico’s 
+Risicochecklist project behorende bij offerteaanvraag 
+Doel verstrekken formulier 
+Met dit formulier willen wij, de gemeente Amsterdam als opdrachtgever onze (mogelijke) opdrachtnemer informe-
+ren over de aanwezige locatie specifieke risico’s. In deze projectfase is geen verplichting tot een V&G plan ont-
+werpfase, het werk valt niet onder de classificering zoals genoemd in van het Arbobesluit, hoofdstuk 2, afdeling 5 
+Bouwproces.  
+ 
+ 
+Algemene gegevens 
+Voor de contactgegevens van de opdrachtgever, planning, locatie en de aard van de werkzaamheden verwij-
+zen wij u naar de offerte aanvraag of de verstrekte opdracht. 
+ 
+Bevoegd gezag 
+ 
+ 
+Bevoegd gezag Arbeidsomstandighedenwet 
+Naam:     
+ 
+ 
+ 
+Bevoegd gezag Wet bodembescherming 
+Naam:  
+ 
+ 
+ 
+Wegbeheerder 
+Naam:  
+ 
+ 
+ 
+Nautisch beheerder 
+Naam: 
+ 
+ 
+ 
+Waterschap 
+Naam:    
+ 
+ 
+ 
+ETC..   
+  
+ 
+Inspectie - SZW 
+Postadres:  Postbus 90801 
+Postcode en plaats:  2509 LV Den Haag 
+Telefoon:  0800-5151 
+ 
+@@@@ 
+Bezoekadres:   
+Postcode en plaats:  
+Telefoon:   
+ 
+@@@@ 
+Bezoekadres:   
+Postcode en plaats:  
+Telefoon:   
+ 
+@@@@ 
+Bezoekadres:   
+Postcode en plaats:  
+Telefoon:   
+ 
+@@@@ 
+Bezoekadres:   
+Postcode en plaats:  
+Telefoon:
+
+=== Document: tn246597 - sf02 aankondiging van een opdracht 20200213125624 ===
+13/02/2020
+I. II. III. IV. VI.
+- 1 -
+AANKONDIGING VAN EEN OPDRACHT
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Gemeente Amsterdam, Ingenieursbureau
+Nationale identificatie:
+12034981
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+NUTS-code:
+NL
+Postcode:
+1018 DN
+Land:
+NL
+Contactpersoon:
+Aanbestedingsteam Amsterdam
+Telefoon:
++31 630475883
+E-mail:
+inkoopfysiek@amsterdam.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.ingenieursbureau.amsterdam.nl/
+Adres van het kopersprofiel:
+http://www.amsterdam.nl/ondernemen/inkoop-aanbesteden/
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+I.3) COMMUNICATIE
+De aanbestedingsstukken zijn rechtstreeks, volledig, onbeperkt en gratis beschikbaar op:
+13/02/2020
+I. II. III. IV. VI.
+- 2 -
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/1c929344d7005c4654424378916616f9
+Nadere inlichtingen zijn te verkrijgen op
+een ander adres:
+Officiële benaming:
+TenderNed
+Nationale identificatie:
+-
+Postadres:
+Bezuidenhoutseweg 73
+Plaats:
+'s Gravenhage
+NUTS-code:
+NL
+Postcode:
+2594 AC
+Land:
+NL
+Contactpersoon:
+TenderNed
+Telefoon:
++31 8008363376
+E-mail:
+servicedesk@tenderned.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.tenderned.nl
+Adres van het kopersprofiel:
+-
+Inschrijvingen of aanvragen tot deelneming moeten worden ingediend
+via elektronische weg op:
+https://www.tenderned.nl/tenderned-web/aankondiging/detail/publicatie/
+akid/1c929344d7005c4654424378916616f9
+het volgende adres:
+Officiële benaming:
+TenderNed
+13/02/2020
+I. II. III. IV. VI.
+- 3 -
+Nationale identificatie:
+-
+Postadres:
+Bezuidenhoutseweg 73
+Plaats:
+'s Gravenhage
+NUTS-code:
+NL
+Postcode:
+2594 AC
+Land:
+NL
+Contactpersoon:
+TenderNed
+Telefoon:
++31 8008363376
+E-mail:
+servicedesk@tenderned.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.tenderned.nl
+Adres van het kopersprofiel:
+-
+I.4) SOORT AANBESTEDENDE DIENST
+Regionale of plaatselijke instantie
+I.5) HOOFDACTIVITEIT
+• Algemene overheidsdiensten
+13/02/2020
+I. II. III. IV. VI.
+- 4 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+Referentienummer: AI 2019-0712
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Geotechnische onderzoeken kademuurvernieuwing cluster 3
+II.1.5) Geraamde totale waarde
+Waarde zonder btw: - Munt: -
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+71400000 - Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur
+13/02/2020
+I. II. III. IV. VI.
+- 5 -
+Subcategorie:
+-
+Hoofdcategorie:
+73000000 - Onderzoek en ontwikkeling, en aanverwante adviezen
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL329 Groot-Amsterdam
+Voornaamste plaats van uitvoering:
+Amsterdam
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De opdracht omvat in grote lijnen de volgende onderdelen:
+- Voorbereidende werkzaamheden ten behoeve van de uitvoering van de benodigde
+sonderingen en boringen;
+- Diverse onderzoekswerkzaamheden, bestaande uit: inmeten en waterpas meetpunten,
+voorboren, sonderingen, boringen, peilbuizen en dissipatietesten;
+- Diverse laboratoriumonderzoeken, bestaande uit opstellen boorbeschrijvingen,
+traxiaalproeven en monstername;
+- Rapporteren door middel van een eindrapportage.
+De totale opdracht betreft het onderzoeken van 22 rakken, waarbij een rak kan bestaan uit een
+geheel van één of meerdere kades.
+II.2.5) Gunningscriteria
+De onderstaande criteria
+Prijs
+Weging: -
+II.2.6) Geraamde waarde
+Waarde zonder btw: - Munt: -
+II.2.7) Looptijd van de opdracht, de raamovereenkomst of het dynamische
+aankoopsysteem
+Aanvang: 06/05/2020
+Einde: 31/12/2020
+13/02/2020
+I. II. III. IV. VI.
+- 6 -
+Deze opdracht kan worden verlengd: neen
+II.2.10) Inlichtingen over varianten
+Varianten worden geaccepteerd: neen
+II.2.11) Inlichtingen over opties
+Opties: neen
+II.2.12) Inlichtingen over elektronische catalogi
+-
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+II.2.14) Nadere inlichtingen:
+-
+13/02/2020
+I. II. III. IV. VI.
+- 7 -
+AFDELING III: JURIDISCHE, ECONOMISCHE, FINANCIËLE EN TECHNISCHE
+INLICHTINGEN
+III.1) VOORWAARDEN VOOR DEELNEMING
+III.1.1) Geschiktheid om de beroepsactiviteit uit te oefenen, waaronder de vereisten
+in verband met de inschrijving in het beroeps- of handelsregister
+Lijst en beknopte beschrijving van de voorwaarden:
+- Uniform Europees Aanbestedingsdocument,
+- Verklaring rechtmatigheid inschrijving,
+- Verklaring(en) beschikbaarheid bekwaamheden derde (indien van toepassing),
+- Verklaring milieu-, sociaal en arbeidsrecht
+III.1.2) Economische en financiële draagkracht
+Lijst en beknopte beschrijving van de selectiecriteria:
+-
+Eventuele minimumeisen:
+-
+III.1.3) Technische en beroepsbekwaamheid
+Lijst en beknopte beschrijving van de selectiecriteria:
+- Technische bekwaamheid kerncompetentie Geotechnische onderzoeken
+Eventuele minimumeisen:
+-
+III.1.5) Informatie over voorbehouden opdrachten
+-
+III.2) VOORWAARDEN MET BETREKKING TOT DE OPDRACHT
+III.2.1) Inlichtingen over een bepaalde beroepsgroep
+-
+III.2.2) Voorwaarden inzake de uitvoering van de opdracht:
+-
+13/02/2020
+I. II. III. IV. VI.
+- 8 -
+III.2.3) Inlichtingen over het personeel dat verantwoordelijk zal zijn voor de
+uitvoering van de opdracht
+-
+13/02/2020
+I. II. III. IV. VI.
+- 9 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.4) Inlichtingen over een beperking van het aantal oplossingen of inschrijvingen
+tijdens de onderhandeling of de dialoog
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: -
+IV.2.2) Termijn voor ontvangst van inschrijvingen of deelnemingsaanvragen
+Datum: 25/03/2020 Plaatselijke tijd: 14:00
+IV.2.3) Geraamde datum van verzending van uitnodigingen tot inschrijving of
+deelneming aan geselecteerde gegadigden:
+Datum: -
+IV.2.4) Talen die mogen worden gebruikt bij het indienen van inschrijvingen of
+aanvragen tot deelneming:
+• NL
+13/02/2020
+I. II. III. IV. VI.
+- 10 -
+IV.2.6) Minimumtermijn gedurende welke de inschrijver zijn inschrijving gestand
+moet doen
+Looptijd in maanden: 2 (vanaf de datum van ontvangst van de inschrijving)
+IV.2.7) Omstandigheden waarin de inschrijvingen worden geopend
+Datum: 25/03/2020 Plaatselijke tijd: 14:00
+Plaats:
+-
+Inlichtingen over gemachtigde personen en de openingsprocedure:
+-
+13/02/2020
+I. II. III. IV. VI.
+- 11 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.1) INLICHTINGEN OVER PERIODICITEIT
+Periodieke opdracht: neen
+VI.2) INLICHTINGEN OVER ELEKTRONISCHE WORKFLOWS
+-
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Rechtbank Amsterdam
+Postadres:
+Parnassusweg 220
+Plaats:
+Amsterdam
+Postcode:
+1076 AV
+Land:
+NL
+E-mail:
+berichtenprocesvoeringKG.rbams@rechtspraak.nl
+Telefoon:
++31 205412111
+Internetadres:
+http://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-
+Amsterdam/Contact/Paginas/default.aspx#d74f5322-f282-438b-a517-6d906bb7f3bd0
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+Officiële benaming:
+Bemiddeling
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+13/02/2020
+I. II. III. IV. VI.
+- 12 -
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+Officiële benaming:
+Klachtencoördinator Ingenieursbureau
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+13/02/2020
+
+=== Document: tn246597 - sf03 aankondiging van een gegunde opdracht 20200518155844 ===
+18/05/2020
+I. II. IV. V. VI.
+- 1 -
+AANKONDIGING VAN EEN GEGUNDE OPDRACHT
+RESULTATEN VAN DE AANBESTEDINGSPROCEDURE
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Gemeente Amsterdam, Ingenieursbureau
+Nationale identificatie:
+12034981
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+NUTS-code:
+NL
+Postcode:
+1018 DN
+Land:
+NL
+Contactpersoon:
+Aanbestedingsteam Amsterdam
+Telefoon:
++31 630475883
+E-mail:
+inkoopfysiek@amsterdam.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.ingenieursbureau.amsterdam.nl/
+Adres van het kopersprofiel:
+http://www.amsterdam.nl/ondernemen/inkoop-aanbesteden/
+I.2) GEZAMENLIJKE AANBESTEDING
+-
+18/05/2020
+I. II. IV. V. VI.
+- 2 -
+I.4) SOORT AANBESTEDENDE DIENST
+Regionale of plaatselijke instantie
+I.5) HOOFDACTIVITEIT
+• Algemene overheidsdiensten
+18/05/2020
+I. II. IV. V. VI.
+- 3 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+Referentienummer: AI 2019-0712
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.1.4) Korte beschrijving
+Geotechnische onderzoeken kademuurvernieuwing cluster 3
+II.1.6) Inlichtingen over percelen
+Verdeling in percelen: neen
+II.1.7) Totale waarde van de aanbesteding (exclusief btw)
+Waarde: 227 000,00
+Munt: EUR
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+18/05/2020
+I. II. IV. V. VI.
+- 4 -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+73000000 - Onderzoek en ontwikkeling, en aanverwante adviezen
+Subcategorie:
+-
+Hoofdcategorie:
+71400000 - Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL329 Groot-Amsterdam
+Voornaamste plaats van uitvoering:
+Amsterdam
+II.2.4) Beschrijving van de aanbesteding:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De opdracht omvat in grote lijnen de volgende onderdelen:
+- Voorbereidende werkzaamheden ten behoeve van de uitvoering van de benodigde
+sonderingen en boringen;
+- Diverse onderzoekswerkzaamheden, bestaande uit: inmeten en waterpas meetpunten,
+voorboren, sonderingen, boringen, peilbuizen en dissipatietesten;
+- Diverse laboratoriumonderzoeken, bestaande uit opstellen boorbeschrijvingen,
+traxiaalproeven en monstername;
+- Rapporteren door middel van een eindrapportage.
+De totale opdracht betreft het onderzoeken van 22 rakken, waarbij een rak kan bestaan uit een
+geheel van één of meerdere kades.
+II.2.5) Gunningscriteria
+Prijs
+Weging: -
+II.2.11) Inlichtingen over opties
+Opties: neen
+18/05/2020
+I. II. IV. V. VI.
+- 5 -
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+II.2.14) Nadere inlichtingen:
+-
+18/05/2020
+I. II. IV. V. VI.
+- 6 -
+AFDELING IV: PROCEDURE
+IV.1) BESCHRIJVING
+IV.1.1) Type procedure
+Openbare procedure
+IV.1.3) Inlichtingen over een raamovereenkomst of dynamisch aankoopsysteem
+-
+IV.1.6) Inlichtingen over elektronische veiling
+-
+IV.1.8) Inlichtingen over de Overeenkomst inzake overheidsopdrachten (GPA)
+De opdracht valt onder de GPA: ja
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Eerdere bekendmaking betreffende deze procedure
+Nummer van de aankondiging in het PB S: 2020/S 034-080410
+IV.2.8) Inlichtingen over de stopzetting van een dynamisch aankoopsysteem
+-
+IV.2.9) Inlichtingen over de stopzetting van een oproep tot mededinging in de vorm
+van een vooraankondiging
+-
+18/05/2020
+I. II. IV. V. VI.
+- 7 -
+AFDELING V: GUNNING VAN EEN OPDRACHT
+Opdracht nr.: 1
+Perceel nr.: -
+Benaming: AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+Een opdracht/perceel wordt gegund: ja
+V.2) GUNNING VAN EEN OPDRACHT
+V.2.1) Datum van de sluiting van de overeenkomst:
+14/05/2020
+V.2.2) Inlichtingen over inschrijvingen
+Aantal inschrijvingen: 5
+Aantal inschrijvingen van mkb-bedrijven: -
+Aantal inschrijvingen van inschrijvers uit andere EU-lidstaten: -
+Aantal inschrijvingen van inschrijvers uit landen die geen lid zijn van de EU: -
+Aantal langs elektronische weg ontvangen inschrijvingen: 5
+De opdracht is gegund aan een groep ondernemers: neen
+V.2.3) Naam en adres van de contractant
+Officiële benaming:
+BAM Infraconsult B.V.
+Nationale identificatie:
+09073590
+Postadres:
+H.J.Nederhorststraat 1
+Plaats:
+GOUDA
+NUTS-code:
+NL
+Postcode:
+2801SC
+Land:
+NL
+Telefoon:
++31 623520999
+E-mail:
+michel.bosboom@bam.com
+18/05/2020
+I. II. IV. V. VI.
+- 8 -
+Fax:
+-
+Internetadres:
+-
+De contractant is een mkb-bedrijf: ja
+V.2.4) Inlichtingen over de waarde van de opdracht/het perceel (exclusief btw)
+Aanvankelijk geraamde totale waarde van de opdracht/het perceel:
+-
+Totale waarde van de opdracht/het perceel: 227 000,00
+Munt: EUR
+V.2.5) Inlichtingen over uitbesteding
+-
+18/05/2020
+I. II. IV. V. VI.
+- 9 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Rechtbank Amsterdam
+Postadres:
+Parnassusweg 220
+Plaats:
+Amsterdam
+Postcode:
+1076 AV
+Land:
+NL
+E-mail:
+berichtenprocesvoeringKG.rbams@rechtspraak.nl
+Telefoon:
++31 205412111
+Internetadres:
+http://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-
+Amsterdam/Contact/Paginas/default.aspx#d74f5322-f282-438b-a517-6d906bb7f3bd0
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+Officiële benaming:
+Bemiddeling
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+18/05/2020
+I. II. IV. V. VI.
+- 10 -
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+Officiële benaming:
+Klachtencoördinator Ingenieursbureau
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+18/05/2020
+
+=== Document: tn246597 - sf20 aankondiging van een wijziging 20200924102622 ===
+24/09/2020
+I. II. IV. V. VI. VII.
+- 1 -
+AANKONDIGING VAN EEN WIJZIGING
+WIJZIGING VAN EEN OPDRACHT/CONCESSIEOVEREENKOMST
+GEDURENDE DE LOOPTIJD ERVAN
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST/INSTANTIE
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Gemeente Amsterdam, Ingenieursbureau
+Nationale identificatie:
+12034981
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+NUTS-code:
+NL
+Postcode:
+1018 DN
+Land:
+NL
+Contactpersoon:
+Aanbestedingsteam Amsterdam
+Telefoon:
++31 630475883
+E-mail:
+inkoopfysiek@amsterdam.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.ingenieursbureau.amsterdam.nl/
+Adres van het kopersprofiel:
+http://www.amsterdam.nl/ondernemen/inkoop-aanbesteden/
+24/09/2020
+I. II. IV. V. VI. VII.
+- 2 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+Referentienummer: AI 2019-0712
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+73000000 - Onderzoek en ontwikkeling, en aanverwante adviezen
+Subcategorie:
+-
+Hoofdcategorie:
+71400000 - Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL329 Groot-Amsterdam
+Voornaamste plaats van uitvoering:
+24/09/2020
+I. II. IV. V. VI. VII.
+- 3 -
+Amsterdam
+II.2.4) Beschrijving van de aanbesteding op het moment waarop de overeenkomst
+wordt gesloten:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De opdracht omvat in grote lijnen de volgende onderdelen:
+- Voorbereidende werkzaamheden ten behoeve van de uitvoering van de benodigde
+sonderingen en boringen;
+- Diverse onderzoekswerkzaamheden, bestaande uit: inmeten en waterpas meetpunten,
+voorboren, sonderingen, boringen, peilbuizen en dissipatietesten;
+- Diverse laboratoriumonderzoeken, bestaande uit opstellen boorbeschrijvingen,
+traxiaalproeven en monstername;
+- Rapporteren door middel van een eindrapportage.
+De totale opdracht betreft het onderzoeken van 22 rakken, waarbij een rak kan bestaan uit een
+geheel van één of meerdere kades.
+II.2.7) Looptijd van de opdracht, de raamovereenkomst, het dynamische
+aankoopsysteem of de concessieovereenkomst
+Aanvang: 06/05/2020
+Einde: 31/12/2020
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+24/09/2020
+I. II. IV. V. VI. VII.
+- 4 -
+AFDELING IV: PROCEDURE
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Aankondiging van de gegunde opdracht
+Nummer van de aankondiging in het PB S: 2020/S 099-237798
+24/09/2020
+I. II. IV. V. VI. VII.
+- 5 -
+AFDELING V: GUNNING VAN EEN OPDRACHT / CONCESSIEOVEREENKOMST
+Opdracht nr.: 1
+Perceel nr.: -
+Benaming: AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+V.2) GUNNING VAN EEN OPDRACHT / CONCESSIEOVEREENKOMST
+V.2.1) Datum van de sluiting van de overeenkomst/het besluit tot gunning van de
+concessieovereenkomst:
+14/05/2020
+V.2.2) Inlichtingen over inschrijvingen
+De opdracht/concessieovereenkomst is gegund aan een groep ondernemers: neen
+V.2.3) Naam en adres van de contractant/concessiehouder
+Officiële benaming:
+BAM Infraconsult B.V.
+Nationale identificatie:
+09073590
+Postadres:
+H.J.Nederhorststraat 1
+Plaats:
+GOUDA
+NUTS-code:
+NL
+Postcode:
+2801SC
+Land:
+NL
+Telefoon:
++31 623520999
+E-mail:
+michel.bosboom@bam.com
+Fax:
+-
+Internetadres:
+-
+De contractant/concessiehouder is een mkb-bedrijf: ja
+24/09/2020
+I. II. IV. V. VI. VII.
+- 6 -
+V.2.4) Inlichtingen over de waarde van de opdracht/het perceel/de
+concessieovereenkomst (op het moment waarop de overeenkomst is gesloten;
+exclusief btw)
+Totale waarde van de aanbesteding: 227 000,00 Munt: EUR
+24/09/2020
+I. II. IV. V. VI. VII.
+- 7 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Rechtbank Amsterdam
+Postadres:
+Parnassusweg 220
+Plaats:
+Amsterdam
+Postcode:
+1076 AV
+Land:
+NL
+E-mail:
+berichtenprocesvoeringKG.rbams@rechtspraak.nl
+Telefoon:
++31 205412111
+Internetadres:
+http://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-
+Amsterdam/Contact/Paginas/default.aspx#d74f5322-f282-438b-a517-6d906bb7f3bd0
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+Officiële benaming:
+Bemiddeling
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+24/09/2020
+I. II. IV. V. VI. VII.
+- 8 -
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+Officiële benaming:
+Klachtencoördinator Ingenieursbureau
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+24/09/2020
+24/09/2020
+I. II. IV. V. VI. VII.
+- 9 -
+AFDELING VII: WIJZIGINGEN VAN DE OPDRACHT /
+CONCESSIEOVEREENKOMST
+VII.1) BESCHRIJVING VAN DE AANBESTEDING NA DOORVOERING VAN
+DE WIJZIGINGEN
+VII.1.1) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+VII.1.2) Aanvullende CPV-code(s)
+-
+VII.1.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+Amsterdam
+VII.1.4) Beschrijving van de aanbesteding
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+VII.1.5) Looptijd van de opdracht, de raamovereenkomst, het dynamische
+aankoopsysteem of de concessieovereenkomst
+Aanvang: 13/05/2020
+Einde: 31/12/2020
+VII.1.6) Inlichtingen over de waarde van de opdracht/het perceel/de
+concessieovereenkomst (exclusief btw)
+Totale waarde van de opdracht/het perceel/de concessie: 227 000,00 Munt: EUR
+VII.1.7) Naam en adres van de contractant/concessiehouder
+De opdracht/concessieovereenkomst is gegund aan een groep ondernemers: neen
+24/09/2020
+I. II. IV. V. VI. VII.
+- 10 -
+Officiële benaming:
+BAM Infraconsult B.V.
+Nationale identificatie:
+09073590
+Postadres:
+H.J.Nederhorststraat 1
+Plaats:
+GOUDA
+NUTS-code:
+NL
+Postcode:
+2801SC
+Land:
+NL
+Telefoon:
++31 623520999
+E-mail:
+michel.bosboom@bam.com
+Fax:
+-
+Internetadres:
+-
+De contractant/concessiehouder is een mkb-bedrijf: ja
+VII.2) INLICHTINGEN OVER DE WIJZIGINGEN
+VII.2.1) Beschrijving van de wijzigingen
+Aard en omvang van de wijzigingen (met vermelding van eventuele eerdere veranderingen
+van de opdracht):
+Scope uitbreiding ten behoeve van opdracht AI2020-0712 ( waterwerk) a.g.v. beperking
+uitvoeringsduur op het water t.p.v. Leliegracht (LLG) en Da Costakade (DCK).
+Vanuit de vergunningverlener (bevoegd gezag) is een beperking opgelegd qua
+werktijden t.p.v Leliegracht en de Da Costakade welke buiten de invloedsfeer ligt van de
+Opdrachtnemer. Er mag slechts gewerkt worden tussen 7:00 tot 10:00 uur ter plaatse van de
+LLG en Hugo de Grootkade. Deze omstandigheid heeft tot gevolg dat de Opdrachtnemer in
+zijn werkzaamheden beperkt wordt waardoor zij langer als voorzien op het water bezig zijn
+om de scope te realiseren.
+Scope uitbreiding ten behoeve van opdracht AI2020-0712 (maaiveld werkzaamheden) a.g.v.
+obstakels ondergrond
+Ter plaatste van meerdere locaties welke onderdeel zijn van de opdracht AI2029-0712
+dienen er onverwachts op meerdere locaties a.g.v. de ondergrondse obstakels (kabels en
+leidingen, puin ed), welke niet uit voorbereidend onderzoek naar voren kwamen, nieuwe
+sonderingen worden gemaakt. Deze sonderingen zijn in 1e instantie middels x,y,z –
+coördinaten aangegeven echter door bovengenoemde reden is het niet mogelijk om deze
+24/09/2020
+I. II. IV. V. VI. VII.
+- 11 -
+op de aangegeven coördinaten uit te voeren. Dit betekent dat de scope welke was voorzien
+noodzakelijker wijze moet worden uitgebreid teneinde de juiste gegevens te verkrijgen om de
+voorlopige en definitieve ontwerpen op te kunnen stellen.
+VII.2.2) Redenen voor de wijziging
+De wijziging is noodzakelijk door omstandigheden die een zorgvuldige aanbestedende dienst/
+instantie niet kon voorzien (artikel 43, lid 1, onder c), van Richtlijn 2014/23/EU, artikel 72,
+lid 1, onder c), van Richtlijn 2014/24/EU en artikel 89, lid 1, onder c), van Richtlijn 2014/25/
+EU
+Beschrijving van de omstandigheden die de wijziging noodzakelijk maken en verklaring
+betreffende de onvoorziene aard van deze omstandigheden:
+Vanuit de vergunningverlener (bevoegd gezag) is een beperking opgelegd qua
+werktijden t.p.v Leliegracht en de Da Costakade welke buiten de invloedsfeer ligt van de
+Opdrachtnemer. Er mag slechts gewerkt worden tussen 7:00 tot 10:00 uur ter plaatse van de
+LLG en Hugo de Grootkade. Deze omstandigheid heeft tot gevolg dat de Opdrachtnemer in
+zijn werkzaamheden beperkt wordt waardoor zij langer als voorzien op het water bezig zijn
+om de scope te realiseren.
+VII.2.3) Prijsverhogingen
+Bijgewerkte totale opdrachtwaarde vóór de wijzigingen (rekening houdend met eventuele
+eerdere opdrachtwijzigingen en prijsaanpassingen en, in het geval van Richtlijn 2014/23/EU,
+de gemiddelde inflatie in de betrokken lidstaat)
+Waarde zonder btw: 40 000,00 Munt: EUR
+Totale opdrachtwaarde na doorvoering van de wijzigingen
+Waarde zonder btw: 267 000,00 Munt: EUR
+
+=== Document: tn246597 - sf20 aankondiging van een wijziging 20201223114403 ===
+23/12/2020
+I. II. IV. V. VI. VII.
+- 1 -
+AANKONDIGING VAN EEN WIJZIGING
+WIJZIGING VAN EEN OPDRACHT/CONCESSIEOVEREENKOMST
+GEDURENDE DE LOOPTIJD ERVAN
+Diensten
+Richtlijn 2014/24/EU
+AFDELING I: AANBESTEDENDE DIENST/INSTANTIE
+I.1) NAAM EN ADRESSEN
+Officiële benaming:
+Gemeente Amsterdam, Ingenieursbureau
+Nationale identificatie:
+12034981
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+NUTS-code:
+NL
+Postcode:
+1018 DN
+Land:
+NL
+Contactpersoon:
+Aanbestedingsteam Amsterdam
+Telefoon:
++31 630475883
+E-mail:
+inkoopfysiek@amsterdam.nl
+Fax:
+-
+Internetadres(sen)
+Hoofdadres:
+http://www.ingenieursbureau.amsterdam.nl/
+Adres van het kopersprofiel:
+http://www.amsterdam.nl/ondernemen/inkoop-aanbesteden/
+23/12/2020
+I. II. IV. V. VI. VII.
+- 2 -
+AFDELING II: VOORWERP
+II.1) OMVANG VAN DE AANBESTEDING
+II.1.1) Benaming
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+Referentienummer: AI 2019-0712
+II.1.2) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+II.1.3) Type opdracht
+Diensten
+II.2) BESCHRIJVING
+II.2.1) Benaming
+-
+Perceel nr.: -
+II.2.2) Aanvullende CPV-code(s)
+Hoofdcategorie:
+71400000 - Dienstverlening op het gebied van stedenbouw en landschapsarchitectuur
+Subcategorie:
+-
+Hoofdcategorie:
+73000000 - Onderzoek en ontwikkeling, en aanverwante adviezen
+Subcategorie:
+-
+II.2.3) Plaats van uitvoering
+NUTS-code:
+NL329 Groot-Amsterdam
+Voornaamste plaats van uitvoering:
+23/12/2020
+I. II. IV. V. VI. VII.
+- 3 -
+Amsterdam
+II.2.4) Beschrijving van de aanbesteding op het moment waarop de overeenkomst
+wordt gesloten:
+(aard en omvang van de werken, leveringen of diensten, of vermelding van de behoeften en
+vereisten)
+De opdracht omvat in grote lijnen de volgende onderdelen:
+- Voorbereidende werkzaamheden ten behoeve van de uitvoering van de benodigde
+sonderingen en boringen;
+- Diverse onderzoekswerkzaamheden, bestaande uit: inmeten en waterpas meetpunten,
+voorboren, sonderingen, boringen, peilbuizen en dissipatietesten;
+- Diverse laboratoriumonderzoeken, bestaande uit opstellen boorbeschrijvingen,
+traxiaalproeven en monstername;
+- Rapporteren door middel van een eindrapportage.
+De totale opdracht betreft het onderzoeken van 22 rakken, waarbij een rak kan bestaan uit een
+geheel van één of meerdere kades.
+II.2.7) Looptijd van de opdracht, de raamovereenkomst, het dynamische
+aankoopsysteem of de concessieovereenkomst
+Aanvang: 06/05/2020
+Einde: 31/12/2020
+II.2.13) Inlichtingen over middelen van de Europese Unie
+De aanbesteding houdt verband met een project en/of een programma dat met middelen van
+de EU wordt gefinancierd: neen
+23/12/2020
+I. II. IV. V. VI. VII.
+- 4 -
+AFDELING IV: PROCEDURE
+IV.2) ADMINISTRATIEVE INLICHTINGEN
+IV.2.1) Aankondiging van de gegunde opdracht
+Nummer van de aankondiging in het PB S: 2020/S 099-237798
+23/12/2020
+I. II. IV. V. VI. VII.
+- 5 -
+AFDELING V: GUNNING VAN EEN OPDRACHT / CONCESSIEOVEREENKOMST
+Opdracht nr.: 1
+Perceel nr.: -
+Benaming: AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+V.2) GUNNING VAN EEN OPDRACHT / CONCESSIEOVEREENKOMST
+V.2.1) Datum van de sluiting van de overeenkomst/het besluit tot gunning van de
+concessieovereenkomst:
+14/05/2020
+V.2.2) Inlichtingen over inschrijvingen
+De opdracht/concessieovereenkomst is gegund aan een groep ondernemers: neen
+V.2.3) Naam en adres van de contractant/concessiehouder
+Officiële benaming:
+BAM Infraconsult B.V.
+Nationale identificatie:
+09073590
+Postadres:
+H.J.Nederhorststraat 1
+Plaats:
+GOUDA
+NUTS-code:
+NL
+Postcode:
+2801SC
+Land:
+NL
+Telefoon:
++31 623520999
+E-mail:
+michel.bosboom@bam.com
+Fax:
+-
+Internetadres:
+-
+De contractant/concessiehouder is een mkb-bedrijf: ja
+23/12/2020
+I. II. IV. V. VI. VII.
+- 6 -
+V.2.4) Inlichtingen over de waarde van de opdracht/het perceel/de
+concessieovereenkomst (op het moment waarop de overeenkomst is gesloten;
+exclusief btw)
+Totale waarde van de aanbesteding: 227 000,00 Munt: EUR
+23/12/2020
+I. II. IV. V. VI. VII.
+- 7 -
+AFDELING VI: AANVULLENDE INLICHTINGEN
+VI.3) NADERE INLICHTINGEN
+-
+VI.4) BEROEPSPROCEDURES
+VI.4.1) Beroepsinstantie
+Officiële benaming:
+Rechtbank Amsterdam
+Postadres:
+Parnassusweg 220
+Plaats:
+Amsterdam
+Postcode:
+1076 AV
+Land:
+NL
+E-mail:
+berichtenprocesvoeringKG.rbams@rechtspraak.nl
+Telefoon:
++31 205412111
+Internetadres:
+http://www.rechtspraak.nl/Organisatie-en-contact/Organisatie/Rechtbanken/Rechtbank-
+Amsterdam/Contact/Paginas/default.aspx#d74f5322-f282-438b-a517-6d906bb7f3bd0
+Fax:
+-
+VI.4.2) Voor bemiddelingsprocedures bevoegde instantie
+Officiële benaming:
+Bemiddeling
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+23/12/2020
+I. II. IV. V. VI. VII.
+- 8 -
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.4.3) Beroepsprocedure
+Precieze aanduiding van de termijn(en) voor beroepsprocedures:
+-
+VI.4.4) Dienst waar inlichtingen over de beroepsprocedures kunnen worden
+verkregen
+Officiële benaming:
+Klachtencoördinator Ingenieursbureau
+Postadres:
+Weesperstraat 430
+Plaats:
+Amsterdam
+Postcode:
+1018 DN
+Land:
+NL
+E-mail:
+Klachten.IB@amsterdam.nl
+Telefoon:
++31 202511111
+Internetadres:
+http://www.amsterdam.nl/ingenieursbureau/
+Fax:
+-
+VI.5) DATUM VAN VERZENDING VAN DEZE AANKONDIGING
+23/12/2020
+23/12/2020
+I. II. IV. V. VI. VII.
+- 9 -
+AFDELING VII: WIJZIGINGEN VAN DE OPDRACHT /
+CONCESSIEOVEREENKOMST
+VII.1) BESCHRIJVING VAN DE AANBESTEDING NA DOORVOERING VAN
+DE WIJZIGINGEN
+VII.1.1) CPV-code(s)
+Hoofdcategorie:
+71332000 - Geotechnische diensten
+Subcategorie:
+-
+VII.1.2) Aanvullende CPV-code(s)
+-
+VII.1.3) Plaats van uitvoering
+NUTS-code:
+NL NEDERLAND
+Voornaamste plaats van uitvoering:
+Amsterdam
+VII.1.4) Beschrijving van de aanbesteding
+AI 2019-0712 Geotechnische onderzoeken kademuurvernieuwing cluster 3
+VII.1.5) Looptijd van de opdracht, de raamovereenkomst, het dynamische
+aankoopsysteem of de concessieovereenkomst
+Aanvang: 13/05/2020
+Einde: 28/02/2021
+VII.1.6) Inlichtingen over de waarde van de opdracht/het perceel/de
+concessieovereenkomst (exclusief btw)
+Totale waarde van de opdracht/het perceel/de concessie: 227 000,00 Munt: EUR
+VII.1.7) Naam en adres van de contractant/concessiehouder
+De opdracht/concessieovereenkomst is gegund aan een groep ondernemers: neen
+23/12/2020
+I. II. IV. V. VI. VII.
+- 10 -
+Officiële benaming:
+BAM Infraconsult B.V.
+Nationale identificatie:
+09073590
+Postadres:
+H.J.Nederhorststraat 1
+Plaats:
+GOUDA
+NUTS-code:
+NL
+Postcode:
+2801SC
+Land:
+NL
+Telefoon:
++31 623520999
+E-mail:
+michel.bosboom@bam.com
+Fax:
+-
+Internetadres:
+-
+De contractant/concessiehouder is een mkb-bedrijf: ja
+VII.2) INLICHTINGEN OVER DE WIJZIGINGEN
+VII.2.1) Beschrijving van de wijzigingen
+Aard en omvang van de wijzigingen (met vermelding van eventuele eerdere veranderingen
+van de opdracht):
+Tijdens de uitvoering van de overheidsopdracht is de aanbesteder geconfronteerd met
+omstandigheden die bij de voorbereiding van de aanbestedingsprocedure niet waren voorzien
+en een wijziging van de overheidsopdracht noodzakelijk maken.
+De wijziging is het gevolg van hetgeen hieronder nader wordt beschreven.
+Tijdens de uitvoering van de overheidsopdracht (Geotechnische onderzoeken AI2019-0712)
+was opdrachtgever genoodzaakt af te wijken van de standaard werkwijze omtrent het
+bepalen van laboratorium proeven. De standaard werkwijze tot op heden bij aanbesteden
+was vooraf de monsterbussen voor laboratoriumproeven aan te wijzen op basis van de
+veldboorbeschrijving. Tijdens de uitvoering van dit contract is gebleken dat nadat het
+aanwezige monstermateriaal is vrijgekomen d.m.v. het uitdrukken van de bussen, dit
+materiaal dusdanig afweek van wat verwacht was, dat dit niet geschikt was om succesvol
+een proef in te zetten welke leidt tot het gewenste resultaat. Dit kwam bijvoorbeeld door
+een afwijkend monstermateriaal (zand i.p.v. klei), niet homogeen i.p.v. homogeen materiaal
+of omdat het monstermateriaal een verstoring bevat of omdat de monsterbus simpelweg
+onvoldoende monstermateriaal bevatte voor de inzet van een specifieke proef.
+23/12/2020
+I. II. IV. V. VI. VII.
+- 11 -
+Verandering van opdrachtnemer wegens economische redenen:
+Een verandering van opdrachtnemer vanwege economische redenen is alles behalve
+aan te bevelen gezien het risico op vertraging wat op zal treden ten aanzien van de
+geprogrammeerde kades. Dit zal grotendeels veroorzaakt worden doordat een verlate levertijd
+het gevolg heeft dat de behandeltijd van de monsters in het laboratorium uitgesteld zal
+worden, doordat de reeds gereserveerde behandelmomenten niet benut kunnen worden en een
+nieuwe behandeling van de monsters op de wachtlijst geplaatst zal worden.
+Dit alles zal ook een kosten- en imag0schade veroorzaken als directe gevolg van overlast
+(verkeer, bewoners ect.) voor de gemeente Amsterdam in het geval een nieuwe aanbesteding
+in de markt wordt gezet.
+Daarnaast zal dit leiden tot aanzienlijk kosten voor het IB Amsterdam betekenen vanwege
+het vaststellen van een aanbestedingsstrategie, het opstellen van aanbestedingsdocumenten
+en gunningscriteria, het lezen van de binnengekomen inschrijvingsdocumenten en het
+intern bereiken van overeenstemming over de gunning. Eveneens zullen de inschrijvende
+partijen transactiekosten maken bestaande uit calculatiekosten, andere arbeidskosten
+door andere medewerkers of door de directie en overige kosten voor bijvoorbeeld
+advies, bewijsdocumenten etc. gezien de waarde van de wijziging (ad €30.000,-) zou dit
+disproportioneel zijn.
+Verandering van opdrachtnemer wegens technische redenen:
+Een verandering van opdrachtnemer vanwege technische redenen is niet aan te bevelen.
+Dit heeft met een aantal oorzaken te maken waaronder een van de belangrijkste is dat de
+monsterbussen waarin het monstermateriaal is opgeslagen beperkt houdbaar zijn voor het
+uitvoeren van laboratoriumproeven. De kwaliteit van het monster neemt na verloop van tijd
+af, wat erin resulteert dat de resultaten laboratoriumproeven minder van kwaliteit worden en
+daarmee minder betrouwbaar zijn voor het ontwerp van de kademuren. Extra transport van
+de monsterbussen vanwege verandering opdrachtnemer resulteert tevens in een afname van
+de monsterkwaliteit. Denk hierbij o.a. aan potentiele temperatuurwisselingen, dynamische
+belastingen en vochtigheid.
+Het hierboven beschreven levert aanzienlijk ongemak wat tijdens de voorbereiding van de
+opdracht niet te voorzien was en beargumenteerd de Wijziging.
+VII.2.2) Redenen voor de wijziging
+De wijziging is noodzakelijk door omstandigheden die een zorgvuldige aanbestedende dienst/
+instantie niet kon voorzien (artikel 43, lid 1, onder c), van Richtlijn 2014/23/EU, artikel 72,
+lid 1, onder c), van Richtlijn 2014/24/EU en artikel 89, lid 1, onder c), van Richtlijn 2014/25/
+EU
+Beschrijving van de omstandigheden die de wijziging noodzakelijk maken en verklaring
+betreffende de onvoorziene aard van deze omstandigheden:
+Vanuit de vergunningverlener (bevoegd gezag) is een beperking opgelegd qua
+werktijden t.p.v Leliegracht en de Da Costakade welke buiten de invloedsfeer ligt van de
+Opdrachtnemer. Er mag slechts gewerkt worden tussen 7:00 tot 10:00 uur ter plaatse van de
+LLG en Hugo de Grootkade. Deze omstandigheid heeft tot gevolg dat de Opdrachtnemer in
+23/12/2020
+I. II. IV. V. VI. VII.
+- 12 -
+zijn werkzaamheden beperkt wordt waardoor zij langer als voorzien op het water bezig zijn
+om de scope te realiseren.
+VII.2.3) Prijsverhogingen
+Bijgewerkte totale opdrachtwaarde vóór de wijzigingen (rekening houdend met eventuele
+eerdere opdrachtwijzigingen en prijsaanpassingen en, in het geval van Richtlijn 2014/23/EU,
+de gemiddelde inflatie in de betrokken lidstaat)
+Waarde zonder btw: 70 000,00 Munt: EUR
+Totale opdrachtwaarde na doorvoering van de wijzigingen
+Waarde zonder btw: 297 000,00 Munt: EUR
