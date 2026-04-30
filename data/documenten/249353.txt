@@ -1,0 +1,1578 @@
+=== Document: offerteaanvraag energie management systeem  1v0 ===
+Utrecht.nl 
+Offerteaanvraag 
+Energie Management Systeem 
+ 
+ 
+ 
+ 
+ 
+12 januari 2022 
+Kenmerk 2021-SB-056 
+Versie 1.0 
+Definitief 
+ 
+  
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 2/26 
+ 
+Aanbesteding 
+Financiën, Inkoop en Juridische Zaken 
+Gemeente Utrecht 
+ 
+bronversie Format A-104 v20210316 
+ 
+  
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 3/26 
+ 
+Inhoud 
+1 De opdracht 5 
+1.1 Scope van de Opdracht 5 
+1.2 Duur van de overeenkomst 8 
+1.3 Utrecht: Ruimte voor iedereen 8 
+1.3.1 Speerpunten Duurzaamheid 8 
+1.4 Social return 9 
+2 De aanbesteding 10 
+2.1 Doel van de aanbesteding 10 
+2.2 Marktverkenning 10 
+2.3 Aanbestedingsprocedure 10 
+2.4 De planning 10 
+2.5 Aanbestedingsvoorwaarden 10 
+2.6 Klachtenregeling 11 
+3 Uw inschrijving 12 
+3.1 Informatiefase 12 
+3.1.1 Vragen over de opdracht 12 
+3.1.2 Voorbehouden, alternatieven, verbeteringen 12 
+3.1.3 Nota van inlichtingen 12 
+3.2 Uw inschrijving indienen 12 
+4 De beoordeling 14 
+4.1 Beoordelingsteam 14 
+4.2 Beoordelingsprocedure 14 
+4.2.1 Toetsen op geschiktheidseisen en uitsluitingsgronden 14 
+4.2.2 Beoordelen op gunningscriteria 15 
+4.2.3 Berekenen totaalscore 16 
+4.2.4 Afronden oordeel 17 
+4.2.5 Bekendmaken resultaat van de beoordeling 17 
+4.2.6 Twintig dagen wachttijd 17 
+4.3 Procedure van verificatie 17 
+4.4 Definitieve gunning en contractsluiting 18 
+5 Uitsluitingsgronden en geschiktheidseisen 19 
+5.1 Uitsluitingsgronden 19 
+5.1.1 Uniform Europees Aanbestedingsdocument 19 
+5.2 Geschiktheidseisen 19 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 4/26 
+ 
+5.2.1 Kwaliteitsborging 19 
+5.2.2 Milieubeheer 19 
+5.2.3 Informatiebeveiliging 20 
+5.2.4 Vakbekwaamheid 20 
+6 Programma van eisen 22 
+7 Gunningscriteria 23 
+7.1 Inleiding 23 
+7.2 Gunningscriteria 23 
+7.2.1 Gunningscriterium 1: Functionaliteit EMS  en invulling dienstverlening 23 
+7.2.2 Gunningscriterium 2: Implementatieaanpak 24 
+7.2.3 Gunningscriterium 3: Prijs 25 
+8 Bijlagen 26 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 5/26 
+ 
+1 De opdracht 
+De gemeente Utrecht (hierna: de gemeente) is voornemens één overeenkomst af te sluiten met 
+betrekking tot het ter beschikking stellen van een Energie Management Systeem (EMS) en daarbij 
+behorende dienstverlening.  
+ 
+In dit EMS administreert de gemeente haar energieaansluitingen en heeft de gemeente inzicht in de 
+meetdata van deze aansluitingen. Met behulp van het EMS controleert de gemeente en/ of de 
+Opdrachtnemer deels geautomatiseerd een deel van haar energiefacturen.  
+ 
+De gemeente is voornemens om aan één inschrijver de opdracht te gunnen. De gemeente gunt de 
+opdracht aan de inschrijver met de economisch meest voordelige inschrijving. In  hoofdstuk 7 zijn de 
+verschillende gunningscriteria en weging opgenomen. 
+1.1 Scope van de Opdracht 
+Het EMS is de voornaamste tool van de energiecoördinator van de gemeente en stelt hem en daarmee 
+de gemeente in staat om: 
+• Het aansluitingenbestand van de gemeente te beheren; 
+• Energiemonitoring uit te voeren en verbruiksgegevens beschikbaar te stellen aan de organisatie; 
+• Facturen inzichtelijk en controleerbaar te maken. 
+De energiecoördinator van de gemeente geeft bij het werken met het EMS de voorkeur aan een hoge 
+mate van zelfbeschikking. Op basis van de opgebouwde ervaring met energiemonitoring en 
+factuurcontrole kiest de gemeente er daarom voor om een deel van de werkzaamheden zelf uit te 
+voeren. Het EMS zal derhalve niet dienen als het communicatiemiddel tussen gemeente en leveranciers 
+voor het aan en –afmelden van aansluitingen of het betaalbaar stellen van facturen.  
+ 
+Aansluitingenbestand 
+De energiecoördinator beheert actief het aansluitingenbestand van de gemeente en verzorgt aan- en 
+afmeldingen van aansluitingen bij de netbeheerders, meetbedrijven en leveranciers. Het gaat om alle 
+elektriciteits-, gas-, water-, en warmteaansluitingen van de gemeente.  
+ 
+In het EMS wordt alle relevante informatie over de aansluitingen nauwkeurig bijgehouden zodat 
+informatie altijd direct intern beschikbaar is. Het gaat bij de gemeente om de aantallen zoals opgenomen 
+in onderstaande tabel. De opdracht ziet toe op het verwerken van meetdata en facturen voor alle 
+bestaande en nieuwe aansluitingen van de gemeente gedurende de contractperiode.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 6/26 
+ 
+Energiestroom Elektriciteit Gas Stadsverwarming Water 
+Aantallen 2886 135 66 337 
+Aanvulling Grootverbruik totaal 119  
+112 slim 
+ 
+Kleinverbruik totaal 2767  
+1221 slim en functionerend 
+913 onbemeten 
+Grootverbruik totaal 11 
+3 slim 
+ 
+Kleinverbruik 124 
+63 slim en functionerend 
+32 slimme meters  
+ 
+Energiemonitoring 
+De gemeente monitort het energie- en waterverbruik primair om verspilling tegen te gaan. Aan de hand 
+van diverse analyses wordt bepaald waar energie en water bespaard zou kunnen worden zodat de 
+gemeente hierop actie kan ondernemen. Daar waar mogelijk zorgt de gemeente in samenwerking met 
+het meetbedrijf en de regionale netbeheerder(s) voor slimme meters om data beschikbaar te hebben en 
+afgerekend te worden op werkelijk verbruik.  
+ 
+Aansluitingen grootverbruik elektriciteit en gas 
+Joulz is het huidige meetbedrijf van de gemeente voor alle grootverbruiksaansluitingen voor elektriciteit 
+en gas en stelt als zodanig de meetdata beschikbaar aan het EMS. 
+ 
+Aansluitingen kleinverbruik elektriciteit en gas 
+Van alle aansluitingen elektriciteit en gas in het kleinverbruik segment wordt de data beschikbaar gesteld 
+door netbeheerder Stedin. Opdrachtnemer dient zelf de ODA (onafhankelijk dienstenaanbieder) rol te 
+faciliteren om deze data te collecteren, controleren en te verwerken. 
+ 
+Aansluitingen Grootverbruik stadsverwarming 
+Alle stadsverwarmingsaansluitingen met een capaciteit van meer dan 100 kW worden momenteel door 
+Eneco voorzien van een slimme meter. Eneco maakt hierbij gebruik van meetbedrijf Fudura om de 
+meetdata te verwerken. Fudura zal de meetdata van de betreffende aansluitingen beschikbaar stellen 
+aan het EMS, totdat Eneco zelf in staat is dit proces over te nemen.  
+ 
+Aansluitingen groot en -kleinverbruik water 
+Momenteel is er nog geen meetdata beschikbaar in een gangbaar format voor de watermeters in het 
+grootverbruik segment waarbij telemetrie vereist is. Voor kleinverbruik zijn er geen slimme meters 
+beschikbaar. Er wordt daarom in het EMS geen meetdata van wateraansluitingen verwerkt anders dan 
+eventueel handmatig opgenomen meterstanden.  
+ 
+Energiefacturen 
+De gemeente is in 2018 voor alle gas- en elektriciteitsaansluitingen volledig overgestapt naar de Energie 
+e-factuur op basis van individuele facturen per aansluiting en waar mogelijk op basis van werkelijk 
+verbruik. Met de leveranciers van stadsverwarming en water wordt momenteel gekeken om ook hier 
+o.b.v. e-facturatie te gaan werken. De gemeente ontvangt hiervan nu nog een PDF. 
+ 
+Met behulp van het EMS worden de facturen per aansluiting inzichtelijk gemaakt en worden er deels 
+geautomatiseerd en deels handmatig controles op uitgevoerd. Deze controles worden deels uitgevoerd 
+door de Opdrachtnemer en deels door de energiecoördinator van de gemeente. De gemeente heeft in de 
+afgelopen jaren ervaring opgedaan met het geautomatiseerd controleren van haar facturen en heeft 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 7/26 
+ 
+geconcludeerd dat de foutmarge in de facturen van leveranciers en netbeheerders zeer beperkt is. De 
+gemeente heeft voor deze opdracht daarom als uitgangspunt genomen dat een 100% controle onnodig 
+is. Facturen zullen daarom vooral gecontroleerd worden op compleetheid en middels een betrouwbare 
+steekproef op juistheid. 
+ 
+De gemeente heeft voor de levering van duurzame elektriciteit een contract met Greenchoice en voor de 
+levering van gas een contract met Gazprom. Het contract met Greenchoice loopt tot en met 31-12-2029. 
+Het contract met Gazprom loopt af per 1-1-2024 en zal gedurende de contractperiode voor het EMS 
+opnieuw worden aanbesteed. Een mogelijke switch dient zonder meerkosten binnen deze opdracht 
+uitgevoerd te worden door de Opdrachtnemer.  
+ 
+Functionele uitvraag 
+De gemeente vraagt een EMS in de vorm van een SAAS-oplossing om het aansluitregister te beheren, 
+de verbruiksdata te monitoren en facturen inzichtelijk te maken. Hierbij is een gebruiksvriendelijke 
+interface van groot belang zodat ook betrokkenen met beperkt begrip van energie inzicht hebben in de 
+relevante gegevens. 
+ 
+Dienstverlening 
+De gemeente vraagt aanvullende dienstverlening, in de vorm van het op zich nemen van de 
+onafhankelijke dienstenaanbieder rol (ODA-rol), het koppelen van meetdata en het (gedeeltelijk) 
+controleren van facturen, volgens de aangegeven kaders in het PVE. Hieronder volgt een beknopte 
+toelichting op de gevraagde dienstverlening. 
+ 
+Onafhankelijk dienstenaanbieder (ODA) rol 
+De gemeente heeft in de afgelopen jaren veel elektriciteit- en gasaansluitingen in het kleinverbruik 
+segment laten voorzien van een slimme meter om enerzijds inzicht te hebben in de verbruiksgegevens 
+en anderzijds op werkelijk verbruik te kunnen worden afgerekend. Opdrachtnemer  dient de ODA rol op 
+zich te nemen om de meetgegevens en statusberichten van alle elektriciteit- en gasaansluitingen in het 
+kleinverbruik segment te verwerken en inzichtelijk te maken. Opdrachtnemer mag dit laten faciliteren 
+door een derde partij, maar blijft verantwoordelijk en aanspreekpunt voor de gemeente.  
+ 
+Koppelen meetdata 
+Opdrachtnemer dient van alle groot en -kleinverbruik aansluitingen (bestaand en nieuw) opgenomen in 
+het EMS zonder tussenkomst van de gemeente de meetdata te collecteren. Het opnemen van een 
+aansluiting in het EMS door de gemeente triggert bij Opdrachtnemer een actie om de betreffende 
+meetdata op te halen.  
+ 
+Inzichtelijk maken energiefacturen en controle facturen 
+De energiefacturen die worden aangeleverd door de huidige leveranciers Greenchoice en Gazprom en 
+netbeheerder Stedin dienen inzichtelijk te worden gemaakt door Opdrachtnemer in het EMS. Dit dient 
+automatisch te gebeuren zonder tussenkomst van de gemeente. In het PVE is gedefinieerd hoe en op 
+welke niveaus deze inzichtelijk gemaakt dienen te worden en welke controleslagen de gemeente wil 
+laten uitvoeren. 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 8/26 
+ 
+1.2 Duur van de overeenkomst 
+De overeenkomst gaat in op 15 juni 2022. De duur van de overeenkomst is zes jaar met de optie om 
+twee keer met drie jaar te verlengen.  
+ 
+1.3 Utrecht: Ruimte voor iedereen 
+In het coalitieakkoord 2018-2022: ‘Utrecht: ruimte voor iedereen’ stelt de gemeente zich tot doel een stad 
+van Gezond Stedelijk Leven te zijn. 
+- We investeren in de ontwikkeling van kansrijke en duurzame economische sectoren en banen, zodat 
+mensen aan het werk kunnen. 
+- Utrecht wil koploper zijn als het gaat om de verandering naar een duurzame energievoorziening en 
+economie. 
+- We versnellen de verandering van onze energiesystemen om zo snel mogelijk klimaatneutraal te 
+worden. 
+- We koppelen deze transitie aan de groei van onze stad, de daarbij horende ruimtelijke 
+ontwikkelingen en mobiliteitssprong. 
+- We willen dat in Utrecht iedereen mee kan doen, zowel in fysiek als sociaal opzicht. En dat de stad 
+en haar voorzieningen voor iedereen toegankelijk zijn. 
+1.3.1 Speerpunten Duurzaamheid 
+- Onder het thema ‘Gezond Stedelijk Leven’ zet de gemeente in op de verdere ontwikkeling van een 
+gezonde en klimaatbestendige stad. 
+- De gemeente wil zo snel mogelijk klimaatneutraal zijn, en zet hierbij in op zonnepanelen, 
+verduurzaming van onze eigen inkoop en vastgoed, een plan om stadsverwarming te verduurzamen 
+en woningen van het gas af te krijgen. 
+- De gemeente heeft als doelstelling om in 2025 volledig uitstootvrij te bevoorraden in de binnenstad.  
+- Utrecht 100% circulair in 2050: in de circulaire economie behouden materialen en producten na 
+gebruik hun waarde. Als deelnemer van de Green Deal Circulair Inkopen, het Grondstoffenakkoord 
+en het convenant ‘Beton in een circulaire economie’ heeft de gemeente als doel in 2022 33% van het 
+inkoopvolume circulair in te kopen, met zo weinig mogelijk gebruik van schaarse grondstoffen. De 
+gemeente houdt voeling met de ontwikkelingen in de markt en daagt de markt ook uit om op 
+vernieuwende wijze aan de verduurzaming van de stad bij te dragen. Ziet u in deze opdracht kansen 
+voor circulair inkopen die de gemeente niet heeft gezien, gebruikt u dan alstublieft de mogelijkhe id 
+tot het stellen van vragen. 
+- De gemeente koopt alleen hout in dat FSC-gecertificeerd of daaraan gelijkwaardig is. 
+- Utrecht is een 'Global Goals City' en zet zich in voor duurzame ontwikkelingsdoelen: de Global 
+Goals. Binnen de mogelijkheden richt de gemeente zich op de mate waarin u als ondernemer 
+verantwoord en transparant onderneemt. Zowel in uw bedrijfsvoering als in de gehele keten (eerlijke 
+handel).  
+- De gemeente wil de laagste werkloosheid van Nederland realiseren. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 9/26 
+ 
+- De gemeente werkt aan de toegankelijkheid van de stad voor iedereen (met het VN-verdrag 
+handicap). Daarbij past de gemeente de Utrecht Standaard Toegankelijk toe op het (ver-)bouwen 
+van eigen gebouwen. 
+ 
+De gemeente stuurt in haar rol als opdrachtgever van haar inkopen op deze ambities. Dit betekent voor u 
+dat de gemeente - naast prijs en kwaliteit - ook aandacht heeft voor maatschappelijke thema’s in het 
+inkoopproces. 
+ 
+1.4 Social return 
+De gemeente vindt het belangrijk dat iedereen kan meedoen in de samenleving en perspectief heeft op 
+werk en inkomen, naar kennis en kunde. Door middel van het opnemen van social return in de inkopen, 
+beoogt de gemeente dat haar investeringen, naast het ‘gewone’ rendement, ook een concrete sociale 
+winst opleveren door mensen met een afstand tot de arbeidsmarkt kansen op werkgelegenheid te 
+bieden. 
+ 
+Bij aanbestedingen met een waarde groter dan € 100.000,00 vraagt de gemeente aan opdrachtnemers 
+om zich in te spannen voor social return. 
+ 
+De mogelijkheden die opdrachtnemers hebben om social return in te vullen zijn breed: van het creëren 
+van extra arbeidsplaatsen, werkervarings- of stageplaatsen, producten en diensten inkopen bij een 
+sociaal ondernemers tot het delen van kennis en expertise. 
+ 
+Het toepassen van social return is maatwerk, waarbij rekening wordt gehouden met de wensen van de 
+opdrachtnemer: we zoeken naar een ‘win-win-winsituatie’. De ‘Handleiding Social Return’ beschrijft de 
+randvoorwaarden en de mogelijkheden voor het realiseren van social return bij de uitvoering van de 
+opdracht. Kijk voor meer informatie op www.utrecht.nl/socialreturn en in het document 'Handleiding 
+Social Return’. 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 10/26 
+ 
+2 De aanbesteding 
+2.1 Doel van de aanbesteding 
+De gemeente wil de opdracht gunnen aan één inschrijver. De gemeente gunt de opdracht aan de 
+inschrijver met de economisch meest voordelige inschrijving op basis van de beste prijs-
+kwaliteitverhouding. 
+ 
+2.2 Marktverkenning  
+Voorafgaand aan deze aanbesteding heeft de gemeente een marktverkenning  uitgevoerd. Deze 
+informatie is gebruikt bij het opstellen van deze aanbesteding. 
+2.3 Aanbestedingsprocedure 
+Voor deze opdracht volgt de gemeente de Europese openbare aanbestedingsprocedure volgens de 
+Aanbestedingswet 2012. 
+ 
+2.4 De planning 
+ 
+2.5 Aanbestedingsvoorwaarden 
+- Als u zich inschrijft voor deze opdracht, dan verklaart u daarmee dat u onvoorwaardelijk akkoord 
+gaat met alle gestelde eisen. U verklaart met uw inschrijving ook dat u de opdracht onvoorwaardelijk 
+kunt uitvoeren volgens de gestelde eisen. 
+Er zijn voor de gemeente geen kosten verbonden aan uw inschrijving. De gemeente vergoedt geen 
+Activiteit Datum  
+Publicatie offerteaanvraag Woensdag 12 januari 2022 
+Deadline stellen vragen Nvi Dinsdag 1 februari 2022 10:00 uur 
+Publicatie Nota van inlichtingen Dinsdag 8 februari 2022 
+Deadline stellen vragen tweede Nvi Vrijdag 18 februari 2022 10:00 uur 
+Publicatie tweede Nota van inlichtingen Vrijdag 25 februari 2022 
+Uiterste datum voor het indienen van inschrijving Woensdag 16 maart 2022 10:00 uur 
+Presentaties Woensdag 23 maart 2022 
+Bekendmaken voorlopige gunningsbeslissing Woensdag 30 maart 2022  
+Definitieve gunningsbeslissing Woensdag 20 april 2022 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 11/26 
+ 
+schade of kosten zolang er geen schriftelijke, door beide partijen ondertekende overeenkomst tot 
+stand is gekomen.  
+- Alle communicatie over deze aanbesteding vindt plaats via TenderNed. Wanneer u vragen heeft, 
+stelt u deze via TenderNed. Alleen in uitzonderingssituaties kunt u contact opnemen met de inkoper 
+van de gemeente. Het is niet toegestaan om contact op te nemen met andere betrokkenen bij deze 
+aanbesteding. 
+- De gemeente kan ervoor kiezen om de aanbesteding geheel of gedeeltelijk, tijdelijk of definitief te 
+stoppen. U heeft dan geen recht op vergoeding van kosten die u heeft gemaakt of schaden die u 
+heeft geleden in het kader van deze aanbesteding. 
+- Alle communicatie tijdens de aanbesteding en tijdens de looptijd van de overeenkomst gebeurt in de 
+Nederlandse taal. 
+- De personen die binnen uw onderneming voor de uitvoering van deze opdracht verantwoordelijk 
+zullen zijn, beheersen de Nederlandse taal in woord en geschrift. In ieder geval voldoende om de 
+werkzaamheden en contractuele verplichtingen uit te voeren. 
+- Bij definitieve gunning ondertekenen de gemeente en de gegunde partij(en) de overeenkomst met 
+een digitale handtekening. De gemeente gebruikt hiervoor ValidSign. U bent bereid om voor het 
+ondertekenen van de overeenkomst, als extra autorisatie, het e-mailadres en mobiel 
+telefoonnummer van de vertegenwoordigingsbevoegde persoon aan te leveren.  
+- Geheimhouding: Personen binnen uw onderneming delen geen informatie die in het kader van deze 
+opdracht beschikbaar komt met derden. U mag wel informatie delen met partners, o nderaannemers 
+en/of hulppersonen die u inschakelt. In dat geval bent u ervoor verantwoordelijk dat zij geen 
+informatie met derden delen. 
+- Een onderneming mag slechts één inschrijving doen. Als een onderneming meerdere malen 
+inschrijft, zelfstandig of als deelnemer in een combinatie, dan wijst de gemeente alle inschrijvingen 
+van deze onderneming af als ongeldige inschrijvingen. 
+- Ondernemingen die behoren tot dezelfde groep mogen alleen een inschrijving doen als er géén 
+sprake is van onderling gesloten overeenkomsten en/of feitelijke gedragingen die de mededinging 
+beperken. De gemeente kan de betreffende ondernemingen vragen om aan te tonen dat de 
+mededinging niet wordt beperkt. Wordt dit niet aangetoond? Dan wijst de gemeente alle 
+inschrijvingen van alle ondernemingen uit dezelfde groep af als ongeldige inschrijvingen. 
+- Gestanddoeningstermijn: U garandeert uw inschrijving inclusief prijs voor een periode van minimaal 
+3 maanden na de datum waarop de inschrijvingen uiterlijk ingediend moeten worden. Binnen deze 
+termijn mag u de inschrijving niet wijzigen of intrekken. 
+- Wanneer er een kort geding wordt aangespannen tegen de voorlopige gunningsbeslissing, verlengt 
+u de gestanddoeningstermijn van uw inschrijving tot minimaal 2 weken na de datum van de uitspraak 
+in het kort geding. 
+- Alle gegevens die uw onderneming aanlevert, zijn naar waarheid ingevuld.   
+2.6 Klachtenregeling 
+De gemeente heeft een Klachtenregeling bij aanbesteden. Deze regeling is gepubliceerd op 
+https://www.utrecht.nl/ondernemen/inkopen-en-aanbesteden/. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 12/26 
+ 
+3 Uw inschrijving 
+Let op 
+Wilt u deelnemen aan deze aanbesteding? Controleer tijdig of uw onderneming op de juiste wijze is 
+geregistreerd op www.TenderNed.nl. Controleer ook wie bevoegd is om namens uw onderneming een 
+inschrijving digitaal in te dienen. 
+3.1 Informatiefase 
+3.1.1 Vragen over de opdracht 
+U kunt via TenderNed doorlopend vragen stellen over de aanbestedingsstukken. Dit kan uiterlijk tot de 
+daarvoor aangegeven datum op TenderNed. De gemeente kan de vragen doorlopend beantwoorden. 
+Alle geïnteresseerde partijen die op TenderNed geregistreerd zijn, hebben toegang tot de 
+(geanonimiseerde) vragen en antwoorden. 
+3.1.2 Voorbehouden, alternatieven, verbeteringen 
+Zitten er elementen in uw voorgenomen inschrijving die niet zonder voorbehoud voldoen aan de gestelde 
+eisen? Stel dan hierover een vraag tijdens de informatiefase. Door het indienen van uw inschrijving 
+verklaart u zich onvoorwaardelijk akkoord met alle aan de procedure en opdracht gestelde eisen.  
+ 
+3.1.3 Nota van inlichtingen 
+Ten minste tien dagen vóór de uiterste datum van indienen van de inschrijvingen stelt de gemeente in 
+TenderNed een Nota van Inlichtingen op. Hierin vindt u de antwoorden op alle gestelde vragen. Deze 
+Nota van Inlichtingen is een integraal onderdeel van de aanbestedingsstukken.  
+ 
+Ontdekt u tegenstrijdigheden in de antwoorden? Meld dit ons zo spoedig mogelijk via TenderNed.  
+ 
+Na deze informatiefase zijn de aanbestedingsstukken definitief. 
+3.2 Uw inschrijving indienen 
+De invulformulieren die u bij uw inschrijving moet uploaden, staan bij de aanbestedingsdocumenten op 
+TenderNed. U mag de opmaak en vorm van de (digitale) documenten niet aanpassen.  
+ 
+Let op 
+Het kan gebeuren dat de gemeente een invulformulier wijzigt naar aanleiding van de vragen en 
+antwoorden in de informatiefase. De gemeente past dan het versienummer aan. Controleer vlak voordat 
+u uw inschrijving indient of u de laatste versie van de formulieren gebruikt. Als u een verkeerd formulier 
+gebruikt, dan kan dat er toe leiden dat de gemeente uw inschrijving afwijst als een ongeldige inschrijving. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 13/26 
+ 
+ 
+Dien uw inschrijving in door deze vóór de aangegeven tijd op de sluitingsdatum in TenderNed in de 
+digitale kluis te plaatsen. Na dit tijdstip is het niet meer mogelijk om de stukken in de kluis te plaatsen en 
+is het dus niet meer mogelijk om een inschrijving in te dienen. 
+ 
+De gemeente accepteert alleen inschrijvingen die via TenderNed worden ingediend.  
+ 
+Uw inschrijving bevat de volgende documenten: 
+- Het Uniform Europees Aanbestedingsdocument 
+- Invulformulier Referentieprojecten  
+- Prijsinvulformulier  
+- Beantwoording gunningscriteria 
+ 
+En, indien van toepassing (zie geschiktheidseisen): 
+- Uitvoeringsverklaring onderaannemer 
+ 
+Documenten die niet direct aan een eis of gunningscriterium te koppelen zijn, kunt u in TenderNed 
+uploaden bij de tab 'Overige documenten'. 
+ 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 14/26 
+ 
+4 De beoordeling 
+Na sluiting van de termijn voor het indienen van inschrijvingen downloadt de gemeente de inschrijvingen 
+uit de digitale kluis en start de beoordelingsprocedure. 
+4.1 Beoordelingsteam  
+De gemeente heeft een beoordelingsteam samengesteld dat de inschrijvingen beoordeelt op de 
+gunningscriteria. Dit beoordelingsteam bestaat uit minimaal drie personen met expertise op het gebied 
+van Energie Management van de organisatieonderdelen stadsbedrijven, vastgoedorganisatie en 
+financiën. De beoordeling wordt begeleid en voorgezeten door een aanbestedingsexpert van de 
+gemeente. Het beoordelingsteam krijgt tijdens het beoordelen nog geen inzage in de inschrijvingsprijzen.  
+ 
+Mocht er tijdens de aanbesteding een functionaris uitvallen zal er naar geïnteresseerden/inschrijvers 
+gecommuniceerd worden of en door welke functionaris de uitvaller zal worden vervangen.  
+4.2 Beoordelingsprocedure  
+De beoordeling van de inschrijvingen vindt plaats in een aantal stappen. Deze stappen staan hieronder 
+beschreven. 
+4.2.1 Toetsen op geschiktheidseisen en uitsluitingsgronden 
+Voldoet u niet aan de gestelde geschiktheidseisen? Of is een van de uitsluitingsgronden van toepassing 
+op u, of op eventuele onderaannemers waarop u zich beroept om te voldoen aan de geschiktheidseisen? 
+Dan wijst de gemeente uw inschrijving af. 
+ 
+Ernstige beroepsfouten 
+In het Uniform Europees Aanbestedingsdocument staat de vraag of u of uw onderneming zich schuldig 
+heeft gemaakt aan ernstige beroepsfouten. De gemeente vindt dat uw onderneming in ieder geval een 
+ernstige beroepsfout heeft begaan als: 
+- Uw onderneming (waar ook haar medewerkers, vertegenwoordigers en ondergeschikten onder 
+vallen) met kwade opzet voordeel verschaft of heeft verschaft aan een medewerker, ondergeschikte 
+of vertegenwoordiger van de gemeente, en/of 
+- Uw onderneming zich bij eerdere opdrachten voor de gemeente schuldig heeft gemaakt aan grove 
+wanprestatie of (wan)gedrag dat ernstige twijfel doet rijzen aan de betrouwbaarheid van uw 
+onderneming. 
+ 
+De gemeente kan bij deze aanbestedingsprocedure gebruik maken van de Wet Bibob (Wet bevordering 
+integriteitsbeoordelingen door het openbaar bestuur) om te toetsen of er bij een inschrijver sprake is van 
+één van de verplichte of facultatieve uitsluitingsgronden, waaronder de hierboven genoemde ernstige 
+beroepsfout. De gemeente kan hierover aan het Landelijk Bureau Bibob advies vragen.  
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 15/26 
+ 
+Het advies dat het Landelijk Bureau Bibob op basis van de uitkomst van haar onderzoek zal uitbrengen, 
+is voor de gemeente niet bindend. De gemeente beoordeelt een inschrijver zelf, mede aan de hand van 
+het advies. 
+ 
+U bent als inschrijver verplicht aan dit onderzoek mee te werken. Als u dat niet doet, wijst de gemeente 
+uw inschrijving af als ongeldige inschrijving.  
+4.2.2 Beoordelen op gunningscriteria 
+De gemeente beoordeelt uw inschrijving op basis van de gunningscriteria zoals beschreven in deze 
+offerteaanvraag. De gunningscriteria zijn kwalitatief of kwantitatief. Uw inschrijving wordt beoordeeld op 
+basis van de gewogen factormethode. De kwalitatieve gunningscriteria worden absoluut beoordeeld en 
+het kwantitatieve gunningscriterium (de prijs) wordt relatief beoordeeld. 
+ 
+Absolute beoordeling van kwalitatieve gunningscriteria 
+Een gunningscriterium is kwalitatief als de gemeente vraagt naar niet kwantificeerbare gegevens, 
+bijvoorbeeld een Plan van Aanpak. 
+ 
+Aan de hand van de verstrekte informatie beoordeelt het beoordelingsteam de mate waarin of de wijze 
+waarop de inschrijvingen zo goed mogelijk invulling geven aan het gunningscriterium. Het 
+beoordelingsteam geeft hiervoor een cijfer tussen 0 (geen antwoord op de vraag) en 100 (uitmuntend).  
+ 
+Voor het toekennen van de cijfers maakt het beoordelingsteam gebruik van onderstaande lijst. Andere 
+cijfers, bijvoorbeeld 95 of 63, kennen we niet toe. 
+ 
+Cijfer Toelichting 
+100 Uitmuntend 
+90 Zeer goed 
+80 Goed 
+70 Ruim voldoende 
+60 Voldoende 
+50 Bijna voldoende 
+40 Onvoldoende 
+30 Gering 
+20 Slecht 
+10 Zeer slecht 
+0 Geen antwoord op de vraag 
+ 
+De beoordeling gaat als volgt: 
+1. De leden van het beoordelingsteam beoordelen de ingediende gegevens van elke inschrijver. Elk lid 
+van het beoordelingsteam kent aan het te beoordelen gunningscriterium een voorlopig cijfer toe op basis 
+van de puntenschaal die is opgenomen in de beschrijving van het gunningscriterium.  
+2. Op basis van de motiveringen en voorlopige cijfers bespreken de leden van het beoordelingsteam, in 
+een gezamenlijke beoordelingssessie, de inschrijvingen. Zij komen hierbij tot een voorlopig 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 16/26 
+ 
+consensuscijfer. Het definitieve cijfer wordt vastgesteld na de presentaties en is een cijfer waarover het 
+beoordelingsteam consensus is bereikt en betreft een geheel getal.  
+3. Nadat beoordelingscommissie de definitieve consensuscijfers heeft vastgesteld worden de 
+inschrijfprijzen gedeeld met beoordelaars en worden de scores van de inschrijfprijzen  bekend gemaakt.  
+ 
+Presentatie 
+De gemeente nodigt u uit om uw offerte toe te lichten met een presentatie, zoals u ziet in de planning. De 
+gemeente vraagt u vriendelijk de presentatie te laten verzorgen door de personen die verantwoordelijk 
+zijn voor de dienstverlening, bijvoorbeeld de projectleider en inhoudelijk deskundige. Voor de presentati e 
+zelf krijgt u in totaal maximaal 60 minuten. De gemeente verwacht een presentatie van circa 40 minuten 
+en circa 20 minuten gelegenheid voor het beantwoorden van eventuele verduidelijkingsvragen van het 
+beoordelingsteam. 
+ 
+Bij de presentatie zijn alleen leden van het beoordelingsteam en de inkoper(s) van de gemeente 
+aanwezig. De andere inschrijvers zijn niet bij de presentatie aanwezig. 
+ 
+De presentatie is bedoeld ter verduidelijking van uw offerte. Het beoordelingsteam stelt tijdens de 
+bijeenkomst eventuele verduidelijkingsvragen over uw offerte. U kunt uw offerte tijdens of na de 
+presentatie en de beantwoording van vragen niet meer wijzigen. 
+Beoordeling 
+De presentatie is onderdeel van het beoordelingsproces. Het beoordelingsteam stelt de beoordeling van 
+de alle kwalitatieve gunningscriteria na de presentaties definitief vast. 
+ 
+Relatieve beoordeling van kwantitatieve gunningscriteria 
+Een gunningscriterium is kwantitatief als de gemeente vraagt naar kwantificeerbare gegevens, 
+bijvoorbeeld een prijs. 
+ 
+De beoordeling gaat als volgt: 
+1. Als een lagere waarde beter wordt beoordeeld dan een hogere waarde (bijvoorbeeld de prijs), dan 
+krijgt de inschrijving met de laagst aangeboden waarde 100 punten. De overige inschrijvingen krijgen 
+punten volgens de volgende formule: 
+ 
+Punten = 100 x (laagst aangeboden waarde ÷ waarde inschrijving) 
+ 
+4.2.3 Berekenen totaalscore 
+Na de beoordeling bepaalt de gemeente de totaalscore. Het aantal punten dat het beoordelingsteam per 
+gunningscriterium heeft toegekend, wordt omgerekend in een score. Deze score komt tot stand door het 
+toegekende aantal punten te vermenigvuldigen met de weegfactor van het gunningscriterium.  
+ 
+Nadat de cijfers zijn toegekend en omgerekend naar een puntenscore wordt de beste prijs -
+kwaliteitverhouding bepaald. Door de scores van alle gunningscriteria bij elkaar op te tellen verkrijgt het 
+beoordelingsteam de totaalscore per inschrijving. De inschrijving met de hoogste totaalscore is de 
+economisch meest voordelige inschrijving. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 17/26 
+ 
+4.2.4 Afronden oordeel 
+Van de inschrijvingen waarvan de totaalscore na de beoordeling gelijk is, wordt de inschrijving  met het 
+hoogste aantal punten bij het gunningscriterium met de hoogste weging, in de rangorde als hoogste van 
+de gelijk geëindigde inschrijvers geplaats. Als blijkt dat het aantal punten bij dit gunningscriterium gelijk 
+is, wordt gekeken naar het volgende gunningscriterium met het hoogst aantal punten. Net zol ang tot er 
+een verschil zit in punten. Als vervolgens het aantal punten bij alle gunningscriteria gelijk is, dan bepaalt 
+een loting de plaatsingsvolgorde van de gelijk geëindigde inschrijvingen. De gelijk  geëindigde 
+inschrijvers ontvangen een uitnodiging om bij deze loting aanwezig te zijn. 
+ 
+4.2.5 Bekendmaken resultaat van de beoordeling 
+De gemeente maakt het resultaat van de beoordeling met motivering bekend via een bericht in 
+TenderNed. 
+ 
+Bij de inschrijver met de economisch meest voordelige inschrijving kan de gemeente officiële 
+bewijsstukken opvragen met betrekking tot de geschiktheidseisen en uitsluitingsgronden. Dit doet de 
+gemeente alleen als de bewijsstukken niet rechtstreeks en kosteloos te verkrijgen zijn door raadpleging 
+van een nationale databank.  
+4.2.6 Twintig dagen wachttijd 
+De inschrijvers die (vooralsnog) niet voor gunning van de opdracht in aanmerking komen, kunnen 
+inlichtingen vragen en in rechte opkomen tegen de gunningsbeslissing door een procedure in kort geding 
+aanhangig te maken bij de voorzieningenrechter in Utrecht. Dit kan tot 20 dagen na de verzenddatum 
+van het bericht van afwijzing. Na deze termijn kunnen inschrijvers niet meer in rechte opkomen tegen de 
+gunningsbeslissing. 
+4.3 Procedure van verificatie 
+De gemeente nodigt de inschrijver die de economisch meest voordelige inschrijving heeft gedaan, uit 
+voor een verificatiebespreking. U kunt hierbij als inschrijver het verzoek krijgen om aanvullende 
+informatie of documenten in te dienen. We kunnen u vragen stellen ter verduidelijking  en we bespreken 
+de eventueel te sluiten overeenkomst. 
+ 
+De gemeente kan in deze fase via de door u opgegeven e-mailadressen contact opnemen met de 
+referenten, om te controleren of de referentieopdrachten voldoen aan de minimumeisen. Als de referent 
+na zeven werkdagen nog niet heeft gereageerd, dan krijgt u nog vijf werkdagen de gelegenheid om aan 
+te tonen dat de opgegeven referentieopdracht voldoet. Vindt de gemeente dat u dit niet kunt aantonen? 
+Dan verklaren we uw inschrijving ongeldig. 
+ 
+Als uit de verificatie blijkt dat de inschrijving ongeldig had moeten worden verklaard, dan wijst de 
+gemeente de betreffende inschrijving alsnog af. De gemeente doet dan de beoordelingsprocedure uit 
+paragraaf 4.2 opnieuw, zonder de alsnog afgewezen inschrijver. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 18/26 
+ 
+4.4 Definitieve gunning en contractsluiting 
+De opdracht kan definitief gegund worden wanneer: 
+- Geen van de afgewezen partijen in rechte tegen het voorgenomen gunningsbesluit is opgekomen 
+en; 
+- Alle openstaande vragen afdoende zijn beantwoord en  
+- Het verslag van de verificatiebespreking door de deelnemers akkoord is bevonden.  
+ 
+Met het sluiten van de overeenkomst wordt de opdracht definitief gegund. 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 19/26 
+ 
+5 Uitsluitingsgronden en 
+geschiktheidseisen 
+Als u gebruik maakt van een onderaannemer om te voldoen aan de geschiktheidseisen, dan levert u ook 
+het ondertekende document 'uitvoeringsverklaring onderaannemer' bijlage 3 in bij uw inschrijving en het 
+door de onderaannemer ingevulde en ondertekende Uniform Europees Aanbestedingsdocument. 
+5.1 Uitsluitingsgronden 
+5.1.1 Uniform Europees Aanbestedingsdocument 
+Bij uw inschrijving levert u het rechtsgeldig ondertekende 'Uniform Europees Aanbestedingsdocument’ 
+in. Hierin geeft u aan of de uitsluitingsgronden op u van toepassing zijn en of u voldoet aan de in die 
+verklaring genoemde geschiktheidseisen en selectiecriteria.  
+ 
+De gemeente vraagt de Gedragsverklaring Aanbesteden, een Uittreksel uit het handelsregister en een 
+Verklaring betalingsgedrag nakoming fiscale verplichtingen als bewijsstukken op bij de voorlopig 
+gegunde partij. 
+ 
+Let op: zorg dat u tijdig beschikt over de Gedragsverklaring Aanbesteden en de Verklaring 
+betalingsgedrag nakoming fiscale verplichtingen.  
+5.2 Geschiktheidseisen 
+Bewijsstukken die aantonen dat u voldoet aan de geschiktheidseisen worden alleen opgevraagd bij de 
+voorlopig gegunde partij. In eerste instantie volstaat een rechtsgeldig ondertekend Uniform Europees 
+Aanbestedingsdocument. 
+ 
+5.2.1 Kwaliteitsborging  
+U beschikt op de uiterste datum voor het indienen van de inschrijving over een geldig 
+kwaliteitsborgingscertificaat conform ISO 9001:2015/EN 29000 of over gelijkwaardige maatregelen op 
+het gebied van kwaliteitsborging.  
+ 
+5.2.2 Milieubeheer  
+In het kader van duurzaam ondernemen vindt opdrachtgever het belangrijk dat u bij de uitoefening van 
+uw beroep of bedrijf rekening houdt met economische, sociale en milieu-belangen. U dient aan te tonen 
+dat duurzaam ondernemen in uw organisatie geborgd is. Dit kunt u bijvoorbeeld aantonen met:   
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 20/26 
+ 
+• ISO-14001-certificering of EMAS-registratie: het ISO-14001 certificaat eist dat het 
+milieuzorgsysteem van een organisatie voldoet aan wet- en regelgeving, en dat het milieubeleid 
+voorziet in een continu proces van verbetering. De EMAS-normen zijn voor een groot deel 
+vergelijkbaar met de ISO-14001-eisen, met als extra dat voor een EMAS-registratie ook een 
+verslag over duurzaamheid aan het jaarverslag moet worden toegevoegd;   
+• de sociale en milieuparagraaf in het jaarverslag: een organisatie kan in het jaarverslag aandacht 
+besteden aan sociale en milieuaspecten;   
+• beleidsdocument duurzaamheid: dat document geeft aan wat het duurzaamheidsbeleid inhoudt 
+en hoe vaak het wordt geactualiseerd.   
+  
+U beschikt op de uiterste datum van het indienen van de inschrijving over bewijsstukken waaruit blijkt dat 
+duurzaam ondernemen in uw onderneming is geborgd. 
+ 
+5.2.3 Informatiebeveiliging  
+U beschikt op de uiterste datum voor het indienen van de inschrijving over een geldig certificaat conform 
+ISO 27001 Informatiebeveiliging of over gelijkwaardige maatregelen op het gebied van 
+informatiebeveiliging.  
+ 
+5.2.4 Vakbekwaamheid  
+U toont met referentieopdrachten aan dat u of uw onderaannemer voldoet aan onderstaande 
+kerncompetenties. Een referentieopdracht is een opdracht die u in de laatste drie jaar, heeft uitgevoerd 
+en afgerond. Afgerond in de laatste drie jaar wil zeggen dat uw referentieopdracht niet eerder was 
+afgerond dan 16 maart 2019. Desgewenst kunt u één referentieopdracht gebruiken om te voldoen aan 
+meerdere kerncompetenties.  
+ 
+Bij uw inschrijving voegt u een ingevuld document 'Opgave referentieopdrachten' toe (bijlage 2) bij de 
+aanbestedingsdocumenten). Vul het document volledig in. Als uw opgave niet volledig is, dan is uw 
+inschrijving ongeldig.  
+ 
+U mag als referentieopdracht een opdracht noemen die u als onderaannemer of in combinatie hebt 
+uitgevoerd.  
+ 
+Als u zich voor een kerncompetentie beroept op de ervaringen of prestaties van een onderaannemer, 
+dan moet u deze onderaannemer ook voor de uitvoering van dat deel van de opdracht van de gemeente 
+inzetten.  
+ 
+Kerncompetentie 1: Ervaring met de levering en het beheer van een EMS als SaaS-oplossing 
+U beschikt over aantoonbare kennis van en ervaring met het leveren en beheren van een EMS als 
+SaaS-oplossing waarmee het beheer van aansluitingen, het bewaken van datakwaliteit en 
+energiemonitoring in één systeem mogelijk is gemaakt en volledig operationeel is.  
+ 
+U toont deze competentie aan door één referentieopdracht te overleggen waarin u een EMS heeft 
+geleverd en beheerd als SaaS-oplossing met een omvang van minimaal 500 aansluitingen in een 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 21/26 
+ 
+samenstelling van energiestromen zoals die gebruikelijk voorkomen in gebouwen  en andersoortige 
+energieaansluitingen. Deze referentieopdracht dient betrekking te hebben op 1 Opdrachtgever van 
+Inschrijver. 
+ 
+Kerncompetentie 2: Ervaring met het controleren van facturen 
+U beschikt over aantoonbare kennis van en ervaring met het ontvangen en verwerken van e-facturen in 
+een EMS en met het geautomatiseerd en handmatig controleren van facturen.  
+ 
+Bij de factuurcontrole dienen Nederlandse belastingen en toeslagen onderdeel hiervan uit te maken. 
+Inschrijver dient minimaal de onderstaande 3 typen factuurleveranciers te kunnen verwerken: 
+• Gasleverancier; 
+• Elektriciteitsleverancier; 
+• Netbeheerder(s). 
+ 
+U toont deze competentie aan door één referentieopdracht te overleggen waarin u e-facturen in een 
+EMS zijn ontvangen en facturen door u handmatig en geautomatiseerd zijn gecontroleerd met een 
+omvang van minimaal 500 aansluitingen en een mix van tenminste twee typen factuurleveranciers, zoals 
+hiervoor genoemd. Deze referentieopdracht dient betrekking te hebben op 1 Opdrachtgever van 
+Inschrijver. 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 22/26 
+ 
+6 Programma van eisen 
+De beschrijving van de opdracht en de eisen die hieraan gesteld worden zijn opgenomen in het 
+programma van eisen bijlage 4. 
+ 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 23/26 
+ 
+7 Gunningscriteria 
+7.1 Inleiding 
+Om de economisch meest voordelige inschrijving te bepalen, hanteert de gemeente de volgende 
+gunningscriteria met bijbehorende weegfactor: 
+ 
+Nummer Gunningscriterium Weegfactor Beoordeling 
+1 
+Functionaliteit EMS en invulling 
+dienstverlening  30% Kwalitatief 
+2 
+Implementatieaanpak 
+ 20% Kwalitatief 
+3 
+Prijs 
+ 50% Kwantitatief 
+ 
+7.2 Gunningscriteria 
+7.2.1 Gunningscriterium 1: Functionaliteit EMS  en invulling dienstverlening 
+U geeft aan in hoeverre uw oplossing voldoet aan de wens van de gemeente voor een  
+gebruiksvriendelijke SaaS-applicatie die de gemeente in staat stelt om het aansluitingenbestand te 
+beheren en de verbruiksdata te monitoren. Daarnaast geeft u aan op welke manier u invulling gaat 
+geven aan de in het PvE beschreven factuurcontrole en gaat u in op eventuele extra features/ 
+functionaliteit die het EMS biedt op het gebied van energiebesparing en kostenreductie. 
+ 
+In deze omschrijving gaat u duidelijk in op de volgende onderdelen: 
+1. Beschrijving van de manier waarop de factuurcontrole uitgevoerd gaat worden en op welke wijze 
+de gemeente zo min mogelijk belast wordt met eventueel in uw standaard EMS ingebouwde 
+geautomatiseerde controles. 
+2. De extra mogelijkheden die uw oplossing biedt boven op de initiële vraag van de gemeente qua 
+functionaliteiten op het gebied van energiebesparing en kostenreductie met betrekking tot 
+signalering. 
+3. Beschrijving welke methoden u heeft ingebouwd om zo min mogelijk handelingen voor de 
+gebruiker te laten plaatsvinden. Er is tevens sprake van een geïntegreerd systeem voor alle 
+gevraagde onderdelen en de wijze waarop de oplossing zo intuïtief mogelijk wordt ingericht en 
+gebruikers zo makkelijk mogelijk de analysetool en het dashboard kunnen gebruiken. 
+ 
+De beschrijving is niet groter dan 4 pagina’s A4 (enkelzijdig, gelijksoortig lettertype en lettergrootte). 
+Wanneer inschrijver meer dan het gevraagde aantal A4 overlegt, worden uitsluitend de eerste 4 pagina’s  
+A4 beoordeeld. 
+ 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 24/26 
+ 
+Beoordeling 
+Uw beantwoording bij dit gunningscriterium wordt integraal beoordeeld op volledigheid,  concreetheid, 
+samenhang, realiteit en op de mate waarin u de essentie van de opgave heeft geraakt en de uitwerking 
+de beoordelaars heeft overtuigd. Hoe beter/vollediger op basis van genoemde elementen blijk wordt 
+geven van de gebruiksvriendelijkheid en de mate van beschikbaarheid van functionaliteiten van uw 
+systeem, des te hoger het cijfer. 
+ 
+7.2.2 Gunningscriterium 2: Implementatieaanpak 
+U geeft de aanpak voor succesvolle start van de opdracht/opleverdatum, per 15 juni 2022 aan en de 
+succesvolle invulling van de opdracht daarna. U dient in het plan van aanpak in te gaan op de volgende 
+punten: 
+ 
+- Inrichten aansluitingenbestand 
+- Inrichten meetdata/monitoring 
+- Inrichten factuurweergave en controle 
+- Opleiding gebruikers (gebruikers en beheerders) 
+- Risico’s en maatregelen 
+- Planning 
+- Onderscheid werkzaamheden van u en de gemeente in taken, bevoegdheden en   
+verantwoordelijkheden-matrix 
+- In de planning geeft u duidelijk aan op welke momenten welke informatie en welke inzet u van  
+de gemeente verwacht 
+ 
+De beschrijving is niet groter dan 4 pagina’s A4 (enkelzijdig, gelijksoortig lettertype en lettergrootte). 
+Wanneer inschrijver meer dan het gevraagde aantal A4 overlegt, worden uitsluitend de eerste 4 pagina’s 
+A4 beoordeeld. 
+ 
+ 
+Beoordeling 
+Uw beantwoording op dit gunningscriterium wordt integraal beoordeeld op de mate waarop u inzichtelijk 
+heeft gemaakt dat u in staat bent om een zo compleet mogelijke uitvoering van het EMS te bieden in 
+combinatie met een realistische planning. Bij de beoordeling wordt minimaal de volgende punten in acht 
+genomen: 
+- Haalbaarheid 
+- Realiseerbaarheid 
+- Eenvoud en gemak van het inrichten van aansluitingenbestand, meetdata/monitoring en 
+factuurweergave en controle 
+- Detailniveau plan van aanpak 
+- Werkwijze bij overschrijding startdatum/opleverdatum 15 juni 2022 
+- Werkverdeling gemeente/opdrachtnemer 
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 25/26 
+ 
+7.2.3 Gunningscriterium 3: Prijs 
+U voegt bij uw inschrijving een all-in totaalprijs per jaar toe. Deze kunt u opgeven in TenderNed. Deze 
+all-in totaalprijs omvat de som de SaaS-oplossing en de bijbehorende dienstverlening. Een lagere 
+totaalprijs resulteert in een hogere beoordeling zoals omschreven in hoofdstuk 4.  
+ 
+ 
+ 
+Offerteaanvraag Energie Management Systeem | 12 januari 2022 26/26 
+ 
+8 Bijlagen 
+Bijlage 1: UEA 
+Bijlage 2: Opgave referenties 
+Bijlage 3: Uitvoeringsverklaring onderaanneming 
+Bijlage 4: Programma van Eisen 
+Bijlage 5: GIBIT 2020 
+Bijlage 6: Concept Overeenkomst  
+Bijlage 7: SaaS aansluitvoorwaarden
+
+=== Document: nota van inlichtingen 2022-02-09-1 ===
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 1 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Aanbesteding: Energie Management Systeem (EMS)
+Aanbestedende Dienst: Gemeente Utrecht
+Referentie: -
+Toelichting:
+-
+Ref.nr. Onderwerp:
+1 Aanbestedingsdocumenten
+Vraag:
+De aanbestedingsdocumenten zijn niet zichtbaar op TenderNed. Kunt u deze 
+toevoegen? Bij voorbaat dank!
+Antwoord:
+Deze onmissie is reeds opgelost.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Eis 5.5
+Vraag:
+De facturen worden door leveranciers aan Opdrachtnemer aangeleverd in 
+energie e-factuur indeling. Kunt u aangeven op welke wijze deze aanlevering 
+plaatsvindt? Bijvoorbeeld per e-mail, per FTP of via een applicatie?
+Antwoord:
+Aanlevering kan op meerdere manieren plaatsvinden.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Eis 4.4
+Vraag:
+De data van de voorgaande dag moet om 6:00 uur ingelezen zijn. Dit kan 
+uiteraard alleen als deze data ook beschikbaar is via de API van de 
+meetbedrijven. Indien de data niet beschikbaar is kan Opdrachtnemer niet 
+gehouden worden aan deze eis. Bent u het hiermee eens?
+Antwoord:
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 2 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Dat is akkoord
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Eisen 4.2
+Vraag:
+Wij zien dat met Joulz en Fudura is afgesproken dat meetdata ter 
+beschikking wordt gesteld via een API. Wij gaan er vanuit dat eventuele 
+kosten voor data-aanlevering door de meetbedrijven gedragen worden door 
+de gemeente. Kunt u aangeven of deze aanname correct is?
+Antwoord:
+Dat is correct.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 1.1 Scope
+Vraag:
+Tot wanneer loopt het huidige contract meetdiensten met Joulz?
+Antwoord:
+Er is geen sprake van een raamovereenkomst, maar een overeenkomst per 
+aansluiting. Deze overeenkomsten hebben geen vaste einddatum.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Scope
+Vraag:
+Kunt voor gas een opsplitsing geven naar type aansluiting. Hoeveel G1A,
+G2A,G2C,GXX,GGV?
+Antwoord:
+2 x GXX, 9x G2C, 75 x G2A en 50 x G1A
+Beantwoord op: 08-02-2022
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 3 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+7 1.1 Scope
+Vraag:
+Bij aansluitingen Grootverbruik stadsverwarming geeft u aan dat Eneco het 
+aanleveren van meetdata van Fudura op termijn gaat overnemen. Kunt u 
+aangeven wanneer u dit verwacht en welke eisen u aan deze overgang stelt?
+Antwoord:
+Exacte datum is momenteel niet bekend. Eventuele kosten voor het 
+aanbieden van betreffende meetdata zijn voor de opdrachtgever. Het is de 
+verantwoordelijkheid van de opdrachtnemer deze data correct te verwerken.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+8 1.1 Scope
+Vraag:
+Bij energiefacturen geeft u aan contracten met Greenchoice en Gazprom te 
+hebben. Waarbij het Gazprom contract gedurende de contractperiode 
+opnieuw aanbesteedt wordt. Kunt u gegeven of sprake is van vaste prijs 
+contracten of uur/dagprijs contracten?
+Antwoord:
+Er is sprake van een contract met een vaste prijs.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+9 1.2 Duur van de overeenkomst
+Vraag:
+De overeenkomst gaat in op 15 juni 2022. Bedoeld u hiermee dat dit het start 
+moment van de implementatie is?
+Antwoord:
+Nee, dat is niet correct. Per 15 juni 2022 dient het systeem operationeel te 
+zijn.
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 4 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+11 7.2.2 Gunningscriterium 2: Implementatieaanpak
+Vraag:
+Klopt het dat u verwacht dat de implementatie voor start van het contract op 
+15 juni 2022 is afgerond?
+Antwoord:
+Ja, dat is correct
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+12 7.2.2 Gunningscriterium 2: Implementatieaanpak
+Vraag:
+Op dit moment maakt u gebruik van het EMS van Energiemissie. In het 
+programma van eisen hoofdstuk 1 tot en met 5 zien we dit ook duidelijk naar 
+vorenkomen. In het implementatieplan moet in gegaan worden op: - - 
+Inrichten aansluitingenbestand 
+- Inrichten meetdata/monitoring 
+- Inrichten factuurweergave en controle 
+- Opleiding gebruikers (gebruikers en beheerders) 
+Het systeem van energiemissie is echter al operationeel. Hoe gaat u in de 
+beoordeling om met haalbaar, realiseerbaarheid en risico's? Het overstappen 
+naar een andere systeem is moeilijk vergelijkbaar met het continueren van 
+een bestaande implementatie
+Antwoord:
+De aanbestedende dienst staat met deze aanbesteding voor continuering van 
+de dienstverlening als beschreven in de aanbestedingsdocumenten. De 
+aanbestedende dienst bevindt zich daarmee in een bestaande situatie en 
+streeft er naar zoveel mogelijk gelijk speelveld te creëren door alle partijen 
+gelijke informatie te verschaffen. Voor de keuze van de nieuwe situatie 
+neemt de aanbestedende dienst de mogelijkheden in ogenschouw vanuit deze 
+bestaande situatie en heeft daar middels de gunningcriteria invulling aan 
+gegeven met betrekking tot de onderwerpen waar zij waarde aan hecht. Of 
+de huidige aanbieder een inschrijving indient, is een keuze aan de huidige 
+aanbieder. Als zij een inschrijving indient is de invulling van deze 
+dienstverlening aan haar. De wijze waarop de in de vraag geschetste risico’s 
+daarmee worden geborgd is dientengevolge ook aan haar.
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 5 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+13 Prijzen in TenderNed
+Vraag:
+Wat betreft de prijzen kunnen wij in Tenderned alleen maar de totale prijs 
+per jaar invullen, en niet de implementatiekosten. Moeten wij de 
+implementatiekosten dan verdisconteren over zes jaar in de totale prijs per 
+jaar?
+Antwoord:
+Dat is correct.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+14 Toekomst energiemonitoring
+Vraag:
+Is het op termijn ook wenselijk om duurzame bronnen toe te voegen aan het 
+energiemonitoring systeem?
+Antwoord:
+Nee, buiten de zonnepanelen die reeds in het PVE zijn opgenomen is het op 
+dit moment niet de verwachting dat er andere duurzame bronnen toegevoegd 
+moeten worden aan het EMS.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+15 Speerpunten duurzaamheid
+Vraag:
+Offerteaanvraag document 1.3.1. In uw aanbesteding wordt melding 
+gemaakt van de speerpunten duurzaamheid. Echter in het Programma van 
+Eisen (PvE) richt de uitvraag zich enkel op aansluitingenbeheer en 
+factuurcontrole. Is het geen wens om met de energiemonitoringstool ook 
+daadwerkelijk tot energiebesparing te komen, waarbij ook specifieke eisen in 
+het PvE worden gesteld?
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 6 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Antwoord:
+Nee, aanbestedende dienst heeft haar uitgangspunten op het gebied van 
+duurzaamheid en energiebesparing doorvertaald naar eisen in het PvE van 
+deze aanbesteding en ziet geen aanleiding voor het stellen van aanvullende 
+eisen.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+16 Programma van Eisen
+Vraag:
+In het programma van eisen slaat u een veel (statische) gegevens op die in 
+onze visie niet nodig zijn om uw doelstellingen te behalen. U geeft aan dat 
+met hele programma van eisen akkoord gegaan moet worden. Wij willen op 
+bepaalde onderdelen afwijken. Blijft onze inschrijving daarmee ontvankelijk?
+Antwoord:
+Met het indienen van een inschrijving gaat Inschrijver akkoord met het totale 
+Programma van Eisen inclusief de wijzigingen die door middel van een Nota 
+van Inlichtingen daarin zijn aangebracht.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+17 7.2.3 Gunningscriterium 3: Prijs
+Vraag:
+U vraagt om een all-in totaal prijs per jaar. In het eerste jaar zijn er 
+implementatiekosten die er in de vervolgjaren niet zijn. Hoe telt dit mee in 
+de waardering en op welke wijze kunnen deze kosten in Tenderned worden 
+opgevoerd.
+Antwoord:
+U kunt deze kosten verdisconteren in uw all-in prijs.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+18 4.2.2 Beoordelen op gunningscriteria
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 7 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Vraag:
+Voor de relatieve beoordeling van kwantitatieve gunningscriteria maakt u 
+gebruik van volgende formule: Punten = 100 x (laagst aangeboden waarde ÷ 
+waarde inschrijving). Kunt u aangegeven wat in deze formule de waarde is? 
+Is dat implementatiekosten+kosten jaar 1 tot en met 6 of tellen de optie jaren 
+ook mee? Of wordt waarde op een andere manier gedefinieerd? Graag 
+vernemen we dan uit welke componenten de waarde variabele is opgebouwd.
+Antwoord:
+Confrom de aanbestedingsleidraad 7.2.4 voegt u bij uw inschrijving een all-
+in totaalprijs per jaar toe. Deze kunt u opgeven in TenderNed. 
+Implementatiekosten dient u te verdisconteren in uw prijs per jaar.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+19 Beroepsaansprakelijkheid
+Vraag:
+In GIBIT 14.1 wordt gevraagd om een verzekering t.b.v. 
+beroepsaansprakelijkheid. Een beroepsaansprakelijkheidsverzekering is 
+alleen verplicht (en af te sluiten) voor bepaalde beroepen. Bijvoorbeeld voor 
+financieel adviseurs, advocaten, notarissen, accountants en architecten.
+In onze branche is het niet mogelijk om een 
+beroepsaansprakelijkheidsverzekering af te sluiten. Wij gaan er dus van uit 
+dat deze eis niet van toepassing is. Kunt u dat bevestigen?
+Antwoord:
+Aanbestedende dienst kan dit bevestigen. Een 
+beroepsaansprakelijkheidsverzekering is niet van toepassing.
+Beantwoord op: 08-02-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+20 IAM / MFA
+Vraag:
+U geeft aan dat u zelf IAM toepast. Het is logisch dat dan ook de MFA via 
+gemeente Utrecht verloopt en niet via Opdrachtnemer. In eis 19 vraagt u 
+echter wel om MFA via de applicatie. Dit lijkt strijdig met eis 20. Kunnen 
+wij er daarom van uit gaan dat eis 19 niet van toepassing is?
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 8 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Antwoord:
+Dat is akkoord
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+21 Presentatie
+Vraag:
+Voor alle duidelijkheid en in het kader van een “gelijk speelveld”: welke 
+onderwerpen moeten er in de presentatie aan de orde komen? Verwacht u 
+bijvoorbeeld een toelichting op het plan van aanpak, of juist een 
+demonstratie van de applicatie? Indien u een demonstratie wenst, welke 
+functionaliteiten wenst u dan te zien?
+Antwoord:
+De presentatie geeft Inschrijver de mogelijkheid om zijn Inschrijving toe te 
+lichten op gunningscriterium 1 en 2 zoals beschreven in hoofdstuk 7 van de 
+Offerteaanvraag. Het staat u daarbij vrij om in geval van gunningscriterium 
+1 een demonstratie te geven van het systeem voor zover dat bijdraagt aan de 
+toelichting op hetgeen in uw Inschrijving staat beschreven.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+22 Bijlage 4: PvE 2.3 / 2.4
+Vraag:
+Bij het aanmaken van een nieuwe gebruiker genereert ons portaal een 
+eenmalig bruikbare link welke voor beperkte duur geldig is. In plaats van 
+een initieel veilig wachtwoord. Is dit voor opdrachtgever akkoord?
+Antwoord:
+Ja, dat is als alternatief akkoord
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+23 Bijlage 4: PvE 4.23
+Vraag:
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 9 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+U wenst om elke periode (dag) in de grafiek een andere kleur te geven. Dit 
+zal zeer onrustig grafieken opleveren geven indien men meerdere dagen gaat 
+weergeven. 
+In de weergave worden onze grafieken logisch getoond, waarbij de dagen 
+binnen een periode eenzelfde kleur hebben. Wel worden de te vergelijken 
+perioden (bijvoorbeeld jaar 1 tov jaar 2) wel in een andere kleur 
+weergegeven. Is dit voor opdrachtgever akkoord?
+Antwoord:
+Dat is als alternatief akkoord.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+24 Bijlage 4: PvE 6.3
+Vraag:
+U vraagt om de applicatie 6 maanden na aflopen van de licentie werkzaam te 
+laten zijn. Kan opdrachtgever bevestigen dat gedurende deze periode de 
+licentie conform het (verlopen) contract wordt afgenomen?
+Antwoord:
+Nee, dat is niet correct.
+Beantwoord op: 08-02-2022
+Label: Contract
+Ref.nr. Onderwerp:
+25 Bijlage 4: PvE 6.4
+Vraag:
+U vraagt om een servicedesk die 24/7 bereikbaar is. Kan opdrachtgever 
+bevestigen dat het hier gaat om het insturen van supportmeldingen via de 
+mail buiten de genoemde tijden van 6.1?
+Antwoord:
+Dat is correct.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 10 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+26 Bijlage 4: PvE 1.8
+Vraag:
+In deze eis vraagt u om diverse gegevens in de foutlogging op te nemen. 
+Deze informatie tonen wij vanwege beveiligingsredenen niet in de 
+foutmeldingen op de voorgrond.
+Kan opdrachtgever bevestigen dat hier wordt bedoeld de logging op de 
+achtergrond?
+Antwoord:
+Dat is als alternatief akkoord.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+27 Programma van Eisen 1.9
+Vraag:
+Opdrachtnemer is verantwoordelijk voor het uploaden van alle 
+aansluitgegevens en beschikbare historische meetdata uit het huidige EMS-
+systeem naar het nieuwe EMS-systeem. Hoeveel jaar historie moet worden 
+overgezet?
+Antwoord:
+5 jaar.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+28 Programma van eisen 8.7
+Vraag:
+De kracht van ons systeem is dat we anonieme statistische gegevens van alle 
+verbruiksgegevens die zich binnen platform bevinden maken. Deze 
+statistische gegevens worden in bepaalde rapporten gebruikt voor alle 
+systeemgebruikers voor gemiddelde benchmarking. Doordat het 
+geanonimiseerde statische gegevens van duizenden panden is ervaren 
+gebruikers dit als een meerwaarde. We strekken zonder toestemming geen 
+data aan derden. Is voorgaande akkoord?
+Antwoord:
+Dat is, conform PVE eis 8.7, pas akkoord na schiftelijke toestemming van 
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 11 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+opdrachtgever.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+29 Uitsluitingsgronden en geschiktheidseisen
+Vraag:
+Wij zijn bekend met de ISO 9001 certificering en onderschrijven het belang 
+van deugdelijke kwaliteitssystemen.
+1. Wat zijn volgens de gemeente "gelijkwaardige maatregelen op het gebied 
+van kwaliteitsborging"?
+2. Wat wilt u toetsen/valideren met deze geschiktheidseis?
+3. Bent u zich ervan bewust dat dergelijke certificering veelal voor grotere 
+organisaties is bedoeld en daarmee kleinere leveranciers uitsluit?
+Antwoord:
+1: Onder gelijkwaardige maatregelen op het gebied van kwaliteitsborging 
+worden aantoonbare maatregelen en methodieken verstaan die grenzen aan 
+het niveau van een ISO 9001 certificering. 2: Aanbestedende dienst wil 
+toetsen/valideren dat zij een partner contracteert die voldoet aan de gewenste 
+kwaliteitsstandaard. 3: Aanbestedende dienst is van mening dat ook kleinere 
+bedrijven een ISO 9001 certificeringsproces kunnen opstarten. Het 
+aantoonbaar opstarten van deze procedure wordt door aanbestedende dienst 
+ook als 'vergelijkbaar' gedefinieerd.
+Beantwoord op: 08-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+30 Uitsluitingsgronden en geschiktheidseisen
+Vraag:
+Wij zijn bekend met de ISO 27001 certificering en onderschrijven het belang 
+van deugdelijke informatiebeveiliging.
+1. Wat zijn volgens de gemeente "gelijkwaardige maatregelen op het gebied 
+van informatiebeveiliging"?
+Antwoord:
+Onder gelijkwaardige maatregelen op het gebied van Informatiebeveiliging 
+worden aantoonbare maatregelen en methodieken verstaan die grenzen aan 
+het niveau van een ISO 27001 certificering.
+Beantwoord op: 08-02-2022
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 12 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Label: Proces
+Ref.nr. Onderwerp:
+31 Meetbedrijven
+Vraag:
+Bij welke meetbedrijven heeft de gemeente Utrecht (slimme) meters?
+Antwoord:
+Voor elektriciteit en aardgas is Joulz MV het meetbedrijf. Voor de 
+stadsverwarming is dit momenteel Fudura MV.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+32 Eis 1.8
+Vraag:
+Waarom moeten de gebruikersnaam en opmerkingen opgeslagen worden? Is 
+het de bedoeling dat de gebruiker hier input op kan geven? Wat ziet de 
+gemeente Utrecht als een niet-systeemfout?
+Antwoord:
+Opdrachtgever wil gevraagde informatie opgeslagen hebben om de bron van 
+de gemaakte fout te kunnen achterhalen. Als niet-systeemfout wordt 
+ondermeer gedacht aan fouten die te wijten zijn aan de gebruiker.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+33 Eis 2.4
+Vraag:
+Wanneer E-mailadres en gebruikersnaam hetzelfde is, volstaat dan één E-
+mail met de inloggegevens? Zo nee, wat maakt dat het dan niet volstaat?
+Antwoord:
+Ja, dat is als alternatief akkoord
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 13 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Ref.nr. Onderwerp:
+34 Eis 3.7
+Vraag:
+Wat zijn de keuzeopties bij profielcategorie?
+Antwoord:
+Het gaat om de volgende profielcategoriën. Bij gas: G1A, G2A, G2C, GXX, 
+GGV. Bij elektriciteit, E1A, E1B, E1C, E2A, E2B, E3A, E3B, E3C, E3D, 
+E4A, OPC. Wij veronderstellen dat deze materie bij de toekomstige 
+opdrachtnemer bekend is.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+35 Eis 3.13
+Vraag:
+Wat voor gegevens moeten hier ge-exporteerd worden? Wat valt er onder 
+geregistreerde gegevens? Bijvoorbeeld meetdata, metadata, 
+aansluitgegevens, etc.
+Antwoord:
+Bij eis 3.13 wordt alle informatie bedoeld die geregistreerd staat in het 
+aansluitingenbestand.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+36 Eis 4.11
+Vraag:
+Waarom moeten deze maandstanden afzonderlijk opgevraagd worden? Uit 
+de bestaande kwartierstanden kunnen de gewenste maandstanden berekend 
+worden, is dat voldoende?
+Antwoord:
+Nee, dat is niet voldoende. Opdrachtgever gebruikt deze informatie in geval 
+van ontbrekende of onvolledige/onjuiste meetdata.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 14 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Ref.nr. Onderwerp:
+37 Eis 4.12
+Vraag:
+Wat wordt verstaan onder "maandelijks rapport aan opdrachtgever"? Zijn 
+alarmeringen voldoende? Waarom uiterlijk de 10e werkdag na afloop van de 
+maand?
+Antwoord:
+Een overzichtelijke rapportage van alle aansluitingen met een slimme meter, 
+waarbij per aansluiting inzichtelijk wordt gemaakt of voor die aansluiting 
+meetdata wordt ontvangen en of deze meetdata kennelijk onjuist is. 
+Alarmeringen zijn daarvoor onvoldoende. Opdrachtgever wil deze 
+rapportage kort na afloop van een maand ontvangen om zo nodig te 
+bespreken met de netbeheerder.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+38 Eis 4.17
+Vraag:
+Waar wordt het standaard jaarverbruik voor gebruikt?
+Antwoord:
+Opdrachtgever registreert dit primair als indicatie van het jaarverbruik indien 
+er geen meetdata beschikbaar is. Tevens wordt dit gebruikt als 
+controlemiddel richting de netbeheerder.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+39 Eis 4.20
+Vraag:
+Wat bedoelt u met “één of meerdere dagen uit te sluiten”, anders dan het 
+uitsluiten van werkdagen of weekenddagen?
+Antwoord:
+Opdrachtgever bedoelt hier het uitsluiten van specifieke dagen.
+Beantwoord op: 08-02-2022
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 15 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+40 Eis 4.25
+Vraag:
+Betreft dit een weergave van alle meters op 1 pagina? Of is dit een 
+exportfunctie? Of gaat dit om de mogelijkheid om te kunnen aggregeren op 
+verschillende niveau's?
+Antwoord:
+Eis 4.25 komt te vervallen
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+41 Eis 6.8
+Vraag:
+Wat wordt bedoeld met “vrijgeven van de gebruikte bronnen”?
+Antwoord:
+Daarmee wordt bedoeld dat de data-import vanuit andere bronnen niet in 
+gevaar komt.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+42 Eis 6.11
+Vraag:
+Wat voor soort falen wordt hier bedoeld? Wat voor transacties worden hier 
+bedoeld?
+Antwoord:
+Daarmee wordt een systeemonderbreking bedoeld. Met transacties worden 
+alle processen zoals beschreven in het PVE bedoeld.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 16 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+43 SaaS aansluitvoorwaarde 7
+Vraag:
+Wat voor bestanden dienen uitgewisseld te worden? Moet het met alle 
+clouddiensten werken, of alleen een selectie daarvan?
+Antwoord:
+Op dit moment is er binnen de opdracht nog geen sprake van 
+bestandsuitwisseling. Zodra dit het geval wordt, zal in onderling overleg 
+bepaald worden hoe hier invulling aangegeven wordt.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+44 SaaS aansluitvoorwaarde 10
+Vraag:
+Microsoft Azure ondersteunt maximaal TLS versie 1.2, wat onder de ICT 
+beveiligingsrichtlijnen op pagina 25 als "goed" wordt bevonden. Is dat 
+voldoende?
+Bron: https://www.ncsc.nl/documenten/publicaties/2019/mei/01/ict-
+beveiligingsrichtlijnen-voor-transport-layer-security-tls
+Antwoord:
+Het NCSC heeft besloten TLS 1.2 in veiligheidsniveau af te schalen van 
+Goed naar Voldoende. TLS 1.3, een grondige herziening van TLS op basis 
+van moderne inzichten, bljft Goed. TLS 1.2 is minder robuust dan TLS 1.3 
+tegen toekomstige doorontwikkeling van aanvalstechnieken.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+45 SaaS aansluitvoorwaarde 12
+Vraag:
+Welke bestandsoverdracht wordt hier bedoeld?
+Antwoord:
+Op dit moment is er binnen de opdracht nog geen sprake van 
+bestandsuitwisseling. Zodra dit het geval wordt, zal in onderling overleg 
+bepaald worden hoe hier invulling aangegeven wordt.
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 17 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+46 SaaS aansluitvoorwaarde 13
+Vraag:
+Wat voor applicaties dienen gekoppeld te worden? Wat voor data moet er 
+verstuurd worden? Wat voor type ESB en welke leverancier gebruikt de 
+gemeente Utrecht?
+Antwoord:
+SaaS aansluitvoorwaarde 13 komt te vervallen.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+47 SaaS aansluitvoorwaarde 14
+Vraag:
+Welke applicaties betreft dit? Welke data moet vanuit ons systeem verstuurd
+/opgehaald worden?
+Antwoord:
+Op dit moment worden er geen specifieke applicaties bedoeld. Zodra dit het 
+geval wordt, zal in onderling overleg bepaald worden hoe hier invulling 
+aangegeven wordt.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+48 SaaS aansluitvoorwaarde 15
+Vraag:
+Welke leveranciers betreft dit? Voor welke applicaties?
+Antwoord:
+Op dit moment worden er geen specifieke applicaties bedoeld. Zodra dit het 
+geval wordt, zal in onderling overleg bepaald worden hoe hier invulling 
+aangegeven wordt.
+Beantwoord op: 08-02-2022
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 18 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+49 SaaS aansluitvoorwaarde 16
+Vraag:
+Welke applicaties betreft dit? Welke data moet vanuit ons systeem verstuurd
+/opgehaald worden?
+Antwoord:
+Zakelijke contact gegevens van de gemeente Utrecht medewerkers.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+50 SaaS aansluitvoorwaarde 21
+Vraag:
+Welke persoonlijke gegevens worden hier bedoeld?
+Antwoord:
+Leverancier is opdrachtnemer. Op dit moment worden er geen specifieke 
+applicaties bedoeld. Zodra dit het geval wordt, zal in onderling overleg 
+bepaald worden hoe hier invulling aangegeven wordt.
+Beantwoord op: 08-02-2022
+Label: Uitvoering
+Ref.nr. Onderwerp:
+51 Referenties kerncompetenties
+Vraag:
+Als toetsing van de vakbekwaamheid vraagt u om twee kerncompetenties en 
+de daarbijbehorende referenties. 
+T.a.v. de eerste kerncompetentie beschikken we over meerdere referenties in 
+NL, DE, UK van EMS als SaaS met 500-1000 aansluitingen bestaande uit 
+een samenstelling van zeer diverse energiestromen (energie gebruiks meters, 
+zonnevelden, windturbines, laadpalen, wagenpark, en batterijen).
+T.a.v. de tweede kerncompetentie beschikken we over referenties met meer 
+dan 500 aansluitingen maar een kleiner aantal facturen (controle alleen op 
+hoofdmeters). Uw definitie is hier niet geheel duidelijk. We hopen er van uit 
+te mogen gaan dat het aantal van 500 betrekking heeft op het totaal aantal 
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 19 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+aansluitingen, maar dat het aantal verschillende (digitale) facturen niet deze 
+minimale omvang hoeft te hebben.
+Om eventuele zorgen weg te nemen ten aanzien van schaalbaarheid, 
+benadrukken we dat de belasting van onze oplossing geen belemmering 
+vormt daar we installaties draaien waar er meer dan 10.000 koppelingen 
+gemaakt worden met live data uitwisseling in een frequentie van minuten. 
+wellicht kan hier een aanvullende eis toegevoegd worden om dit te borgen 
+voor het Utrecht EMS.
+Antwoord:
+Zoals beschreven in 5.2.4 onder kerncompetentie 2 betreft het een 
+referentieopdracht met een omvang van minimaal 500 aansluitingen, waarbij 
+de competentie met name toeziet op het beschikken over aantoonbare kennis 
+en ervaring met het ontvangen en verwerken van e-facturen in een EMS en 
+met het geautomatiseerd en handmatig controleren van facturen.
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+70 Support
+Vraag:
+Kunt u toelichten welke onderwerpen onder support vallen?
+Antwoord:
+Binnen de opdracht vallen in ieder geval de volgende aspecten met 
+betrekking tot support:
+• Alle nodige acties met betrekking tot het in stand houden van het systeem 
+en het gebruik ervan.
+• Kleine mutaties die niet door opdrachtgever zelf kunnen worden uitgevoerd.
+• Mutaties zoals het toevoegen van grotere aantallen extra aansluitingen / 
+gebruikers waarbij opdrachtgever alle kenmerken in een importformat heeft 
+verwerkt
+Beantwoord op: 08-02-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+71 Implementatieplan
+Vraag:
+Op dit moment maakt u gebruik van het EMS van Energiemissie. In het 
+Nota van inlichtingen Energie Management Systeem (EMS)
+Pagina 20 van 20 Datum genereren nota van inlichtingen: 09-02-2022
+programma van eisen hoofdstuk 1 tot en met 5 zien we dit ook duidelijk naar 
+vorenkomen. In het implementatieplan moet in gegaan worden op: - - 
+Inrichten aansluitingenbestand
+- Inrichten meetdata/monitoring
+- Inrichten factuurweergave en controle
+- Opleiding gebruikers (gebruikers en beheerders)
+Het systeem van energiemissie is echter al operationeel. Hoe gaat u in de 
+beoordeling om met haalbaar, realiseerbaarheid en risico's? Het overstappen 
+naar een andere systeem is moeilijk vergelijkbaar met het continueren van 
+een bestaande implementatie
+Antwoord:
+De opdracht zoals opdrachtgever deze nu publiceert wijkt op een aantal 
+punten af van de huidige opdracht met de huidige leverancier. Dat wil 
+zeggen dat opdrachtgever alle plannen (ook die van de huidige leverancier 
+als deze besluit om in te schrijven) individueel beoordeeld op de kwaliteit. 
+Ook voor de huidige leverancier zijn dus haalbaarheid, realiseerbaarheid en 
+risico`s van toepassing.
+Beantwoord op: 08-02-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+72 Antwoord vraag 12
+Vraag:
+Het antwoord van vraag 12 klopt niet. Deze kunt u als niet verzonden 
+beschouwen. Zie hiervoor het antwoord op vraag 71.
+Antwoord:
+Zie vraag en antwoord 71
+Beantwoord op: 09-02-2022
+Label: Proces
+
+=== Document: bijlage 1 uea energie management systeem 1v0 ===
+Please wait... 
+  
+If this message is not eventually replaced by the proper contents of the document, your PDF 
+viewer may not be able to display this type of document. 
+  
+You can upgrade to the latest version of Adobe Reader for Windows®, Mac, or Linux® by 
+visiting  http://www.adobe.com/go/reader_download. 
+  
+For more assistance with Adobe Reader visit  http://www.adobe.com/go/acrreader. 
+  
+Windows is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries. Mac is a trademark 
+of Apple Inc., registered in the United States and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other 
+countries.
+
+=== Document: bijlage 2 referentieformulier  energie management systeem 1v0 ===
+Dit document heeft  betrekking  Offerteaanvraag Energie Management Systeem    v an de gemeente Utrecht   U dient het volgende formulier  volledig  in te vullen  en rechtsgeldig te ondertekenen .   Het is toegestaan  één referentie voor meerdere kerncompetenties toe te passen. Referentie behoort toe aan: <naam inschrijver/ combinant /onderaannemer> Kerncompetentie 1: Ervaring met de levering en het beheer van een EMS als SaaS-oplossing U beschikt over aantoonbare kennis van en ervaring met het leveren en beheren van een EMS als SaaS-oplossing waarmee het beheer van aansluitingen , bewaken van datakwaliteit   en energiemonitoring in één systeem mogelijk is gemaakt en volledig operationeel is.  U toont deze competentie aan door één referentieopdracht te overleggen waarin u een EMS heeft geleverd en beheerd als SaaS-oplossing met een omvang van minimaal  500  aansluitingen in een samenstelling van energiestromen zoals die gebruikelijk voorkomen in gebouwen  en andersoortige energieaansluitingen . Deze referentieopdracht dient betrekking te hebben op 1 Opdrachtgever van Inschrijver. 1 NAW-gegevens referentieproject Naam  referentie organisatie            Naam contactpersoon           Telefoonnummer           E-mailadres           Naam en korte omschrijving van het project.            Referentieproject voldoet aan gestelde kerncompetentie 1 JA/NEE (doorhalen wat niet van toepassing is. 2 Omvang project Aantal aansluitingen           3 Looptijd project Datum aanvang project           Datum afronding project           4 Eventuele onderaanneming Naam onderaannemers           Adres onderaannemer(s)           5 Werkzaamheden project Korte beschrijving van de werkzaamheden           Referentie behoort toe aan: <naam inschrijver/ combinant /onderaannemer> Kerncompetentie 2: Ervaring met het controleren van facturen U beschikt over aantoonbare kennis van en ervaring met het  ontvangen van e-facturen in  een EMS  en met het geautomatiseerd en handmatig controleren van facturen .  Bij de  factuurcontrole dienen Nederlandse belastingen en toeslagen onderdeel hiervan uit te maken. Inschrijver dient minimaal de onderstaande  3  typen factuurleveranciers te kunnen verwerken: Gasleverancier ; Elektriciteitsleverancier ; Netbeheerder (s). U toont deze competentie aan door één referentieopdracht te overleggen waarin u  e-facturen in  een EMS  zijn ontvangen en facturen door  u  handmatig en geautomatiseerd zijn gecontroleerd  met een omvang van minimaal  500  aansluitingen  en een mix van tenminste twee typen factuurleveranciers, zoals hiervoor genoemd.  Deze referentieopdracht dient betrekking te hebben op 1 Opdrachtgever van Inschrijver. 1 NAW-gegevens referentieproject Naam referentie organisatie           Naam contactpersoon           Telefoonnummer           E-mailadres           Naam en korte omschrijving van het project.            Referentieproject voldoet aan gestelde kerncompetentie 1 Ja/Nee (doorhalen wat niet van toepassing is. 2 Omvang project Aantal aansluitingen           3 Looptijd project Datum aanvang project           Datum afronding project           4 Eventuele onderaanneming Naam onderaannemers           Adres onderaannemer(s)           5 Werkzaamheden project Korte beschrijving van de werkzaamheden
+
+=== Document: bijlage 3 uitvoeringsverklaring energie management systeem 1v0 ===
+Uitvoeringsverklaring onderaannemer Verklaring ten behoeve van de aanbestedin g  Energie Management Systeem ,  kenmerk  2021-SB-056 Ondergetekenden: <N aam onderneming  inschrijver > , statutair gevestigd te  <plaats> , kantoorhoudende te  <straatnaam, postcode, plaats> , ingeschreven bij de Kamer van Koophandel te  <plaats>  onder nummer  < kvk -nummer> , te dezen rechtsgeldig vertegenwoordigd door  <functie> <naam>  in zijn/haar hoedanigheid van  <hoedanigheid> , hierna te noe men  Inschrijver ; en < N aam onderneming onderaannemer> , statutair gevestigd te  <plaats> , kantoorhoudende te  <straatnaam, postcode, plaats> , ingeschreven bij de Kamer van Koophandel te  <plaats>  onder nummer  < kvk -nummer> , te dezen rechtsgeldig vertegenwoordigd door haar  <functie> <naam>  in  zijn/haar hoedanigheid van  <hoedanigheid> , hierna te noemen  O nderaannemer; hierna gezamenlijk te noemen Partijen, overwegende dat: - Gemeente Utrecht  de opdracht  <titel aanbesteding> , tot stand  wil  brengen en deze opdracht door middel van een aanbesteding  wil  plaatsen; - Inschrijver   voor deze aanbesteding  een  i nschrijving   wil  doen ; - Inschrijver  Onderaannemer nodig heeft om te kunnen voldoen  één of meer van de d oor de Aanbesteder gestelde geschiktheidseisen; verklaren  aan de Gemeente Utrecht dat zij  zijn overeengekomen: dat,  als   <naam  Inschrijver > , de  opdracht:  ” <titel aanbesteding> “  gegund krijgt,  <naam onderneming Onderaannemer>  het opdrachtonderdeel/de opdrachtonderdelen  <opdrachtonderde el of opdrachtonderdelen  welke  de  Onderaannemer de vereisten voor levert>  zal uitvoeren.  Aldus overeengekomen te  <plaats>  op  <datum> Inschrijver : Onderaannemer: <Naam vertegenwoordiger Inschrijver> <Naam vertegenwoordiger Onderaannemer>
