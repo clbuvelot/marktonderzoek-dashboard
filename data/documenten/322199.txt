@@ -1,0 +1,2368 @@
+=== Document: nota van inlichtingen 2024-02-06-1 ===
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 1 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+Aanbesteding: Influence of controlled brine bleed-off (CBBO) on cavern and 
+cavern cluster stability
+Aanbestedende Dienst: Ministerie van Economische Zaken en Klimaat
+Referentie: 202310082
+Toelichting:
+Ref.nr. Onderwerp:
+1 Tender document 202310082 – Section 2
+Vraag:
+Does the study focus on specific cases (e.g., the cavern cluster of Nedmag), 
+or will it consist of developing a general modeling approach?
+Antwoord:
+The study needs to focus on a general modeling approach.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Tender document 202310082 – Section 2
+Vraag:
+The characteristics of the salt rock(s) object of the study will impact the 
+modeling proposal for the current tender. Can you provide the main 
+characteristics of the salt rock to be studied in terms of chemical 
+compositions and rheological behavior? What kind of evidence on the salt 
+behavior for the set of caverns to analyze will be available?
+Antwoord:
+This work will focus on developing a general modeling approach. However, 
+detailed rheological and chemical studies for a few (relevant) locations in the 
+Netherlands are available and can be shared (KEM-17/ KEM-28/CCC).
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Tender document 202310082 – section 5.4
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 2 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+Vraag:
+How many points are assigned to the price criterion? Table 5.1 mentions 
+"100 points" for the price criterion. In section 5.4 of the tender document, 
+150 points are mentioned in parentheses and in one of the equations.
+Antwoord:
+The mentioned 150 points in section 5.4 is not correct. The correct ammount 
+is 100 points.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Proces
+Ref.nr. Onderwerp:
+4 Tender document 202310082 – Section 2
+Vraag:
+Can you provide the full reference list for the papers/reports cited in the 
+tender document?
+Antwoord:
+Yes we can, Annex 'Research Question KEM-45 - Risks of brine bleed-off 
+salt caverns- final accepted version' is uploaded on TenderNed (see 
+'Documents').
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 page 10
+Vraag:
+Document states: “
+A detailed model description (detailed enough so others could reproduce it)” 
+(deliverable Cb).
+Question: what is expected? Is it a) a description of the model equations, and 
+parameters that define geometry, loading scenarios and material parameters; 
+or b) all under a + source code of numerical model(s)?
+Antwoord:
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 3 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+The expected deliverable is what is given under a). We do want to have the 
+option to access the source code of the models if we want to conduct further 
+research or have a review of the model done.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 page 10
+Vraag:
+Document states: “Results that are compared with benchmark data (micro-
+seismic data, subsidence curves, etc.)”(deliverable Fb).
+Question: How will Contractor obtain these data, and in what format? 
+Digital? Hardcopy? Will the data be anonymized?
+Antwoord:
+Through SodM, or through publicly available sources. Data anonimity will 
+need to be discussed for any data not publicly available.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+7 page 8
+Vraag:
+We assume that Article 19 (Advance Payment) of the ARVODI-2018 is not 
+applicable (credit guarantee not required in case of public body). Can you 
+confirm please ?
+Antwoord:
+The Contracting Authority can confirm this.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 4 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+Ref.nr. Onderwerp:
+8 page 9
+Vraag:
+Article 21 paragraph 3 sub d (Exception Limitation of liability in relation to 
+Processor Agreement) does not apply. As a processor's agreement is not part 
+of the assignment, this article does not apply either. Can you confirm please?
+Antwoord:
+Article 21 paragraph 3 sub d ARVODI 2018 is only applicable if an data 
+processor agreement is needed. As long as this is not the case (judgement 
+now is that this is not the case), article 21 pragraph sub d ARVODI 2018 
+does not apply.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+9 page 10
+Vraag:
+Article 21.4 (Liability matters of the Client) is not applicable in this case.
+Considering the content of the assignment and the scope of the tender, which 
+is a research and consultancy assignment does not involve any potential 
+damage to the Client's business. Can you confirm please?
+Antwoord:
+The Contracting authority can confirm this as long as (judgement now is that 
+this is not the case) there will be no use of property of Contracting Authority 
+as mentioned in article 7 ARVODI 2018.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 clause 2.1
+Vraag:
+Document states: 
+“Nobian is currently (2023) undertaking a number of ‘controlled outflow 
+tests’ 5 , in line with recom-mendations in the KEM-17 6 report. Results of 
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 5 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+these tests might also be incorporated in the proposed study”.
+Question: How are we going to obtain these results? From SodM ?
+Antwoord:
+Yes, SodM can share these. Before the results can be published (anonymized 
+or otherwise), the Contracting Authority will check with the operator what is 
+possible.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 clause 2.1
+Vraag:
+Document states:
+“The main question of this research is: 
+What happens to the cavern stability and its integrity in the case of CBBO?”
+This research question and the sub-questions are formulated in a way that 
+suggests that the focus is on the stability and integrity of a single cavern in 
+case of CBBO. However, not far above this section, is stated: 
+“Basic research questions for CBBO are: how will the stress state change 
+around the cavern or between multiple caverns and what is the potential 
+effect of a changing stress state on cavern integrity (tightness) and stability?”
+Question: what is the expectation regarding the scenarios to be defined and 
+investigated through modeling? Should these focus on a single cavern only, 
+or also include multi-cavern scenarios incl. possibly different operational 
+regimes/uses?
+Antwoord:
+Focus of this research is a single cavern. Additional research on multi-cavern 
+systems are considered important. This will be appreciated as added value 
+when assessing the quotation. And if valuable and relevant, will lead to a 
+higher score on the award criteria relating to Plan of approach.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 6 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+12 page 8
+Vraag:
+We assume that Article 19 (Advance Payment) of the ARVODI-2018 is not 
+applicable (credit guarantee not required in case of public body). Can you 
+confirm please ?
+Antwoord:
+See answer question 7.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+Ref.nr. Onderwerp:
+13 page 9
+Vraag:
+Article 21 paragraph 3 sub d (Exception Limitation of liability in relation to 
+Processor Agreement) does not apply. As a processor's agreement is not part 
+of the assignment, this article does not apply either. Can you confirm please?
+Antwoord:
+See answer question 8.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+Ref.nr. Onderwerp:
+14 Article 24.1 Intellectual property rights
+Vraag:
+We propose to amend the text of Article 24.1 by the following:
+“Unless agreed otherwise, all copyrights that may be exercised in relation to 
+the results of the Services performed by the Contractor accrue to the 
+Contractor, irrespective of where and when they may be exercised. In respect 
+of these copyrights, the Contractor grants the Client, free of charge, a non-
+exclusive and non-cancellable right of use for an indefinite period of time for 
+the purposes intended by the Agreement.”
+Considering the actual outcomes of this assignment, the right of use 
+mentioned here is expected to be sufficient for that purpose. Can you 
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 7 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+confirm please?
+Antwoord:
+Not agreed. The Contracting Authority has an interest in the undisturbed use 
+of the rights arising from the execution of the assignment.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+Ref.nr. Onderwerp:
+15 Article 24.2 Intellectual property rights
+Vraag:
+We propose to amend the text of Article 24.2 by the following:
+'All database rights that can be exercised - wherever and whenever - in 
+respect of the results of the Services performed are vested in the Contractor. 
+In respect of these database rights, the Contractor grants the Client, free of 
+charge, a non-exclusive and non-cancellable right of use for an indefinite 
+period of time for the purposes intended by the Agreement.
+Considering the actual outcomes of this assignment, the right of use 
+mentioned here is expected to be sufficient for that purpose. Can you 
+confirm please?
+Antwoord:
+Not agreed. The Contracting Authority has an interest in the undisturbed use 
+of the rights arising from the execution of the assignment.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+Ref.nr. Onderwerp:
+16 Article 24.3 Intellectual property rights
+Vraag:
+We propose to modify the text of Article 24.3 by the following:
+“Insofar as the results of the Services performed are (partly) created by using 
+existing intellectual property rights that do not belong to Principal. In so far 
+as required for the use of the results. Contractor grants Principal a non-
+Nota van inlichtingen Influence of controlled brine bleed-off (CBBO) on cavern and cavern 
+cluster stability
+Pagina 8 van 8 Datum genereren nota van inlichtingen: 6 feb. 2024
+exclusive and non-cancellable right of use for an indefinite period of time 
+against a market-conform related fee. In that case, Contractor guarantees to 
+be entitled to grant the aforementioned right of use”
+Can you confirm please?
+Antwoord:
+Not agreed with the proposal.The Contracting Authority does not consider 
+this desirable or necessary in view of the compensation that the Contractor 
+receives as a result of this assignment.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+Ref.nr. Onderwerp:
+17 Article 13.5 Confidentiality
+Vraag:
+We trust that no penalties will be applicable in this case. Can you confirm 
+please?
+Antwoord:
+No penalty clauses apply to this assignment.
+Percelen: P  1 Influence of controlled brine bleed-off (CBBO) 
+on cavern and cavern cluster stability
+Beantwoord op: 6 feb. 2024
+Label: Juridisch
+
+=== Document: tender document 202310082 ===
+Tender Document 
+ 
+Invitation to tender in accordance with 
+the European open procedure for the 
+following research:  
+ 
+Influence of controlled brine bleed-off 
+(CBBO) on cavern and cavern cluster 
+stability 
+ 
+ 
+ 
+Publication date:  January 9th, 2024 
+Status:   Final 
+Reference:    202310082 
+  
+Tender Document 202310082  Page 2 of 32 
+ 
+Contents 
+ 
+Definition of terms .............................................................................................................. 4 
+1. Introduction ................................................................................................................ 6 
+1.1 Tendering Authority and IUC-EZK ............................................................................ 6 
+1.2 Reason for this invitation to tender .......................................................................... 6 
+1.3  Time schedule ....................................................................................................... 6 
+2. Description of assignment ............................................................................................. 8 
+2.1 Description and objective of the assignment ............................................................. 8 
+2.2 Lots ................................................................................................................... 11 
+2.3 Contract Period ................................................................................................... 11 
+2.4 Scope of the assignment ...................................................................................... 11 
+3. Requirements to this assignment ................................................................................. 12 
+3.1 Requirements relating to the research questions ..................................................... 12 
+3.2 Requirements relating to the deliverables ............................................................... 12 
+3.3 Requirements relating to the execution period ........................................................ 13 
+3.4 Requirements relating to the end result .................................................................. 13 
+3.5 Requirements relating to the prices/rates ............................................................... 13 
+3.6 Tax-related requirements ..................................................................................... 13 
+3.7 Invoicing requirements ........................................................................................ 14 
+3.8 Environmental requirements ................................................................................. 15 
+4. Requirements concerning the Tenderer ......................................................................... 16 
+4.1 Introduction ........................................................................................................ 16 
+4.2 Exclusion Grounds ............................................................................................... 16 
+4.3 Suitability Requirements ...................................................................................... 16 
+4.3.1 Financial and economic standing ........................................................................ 17 
+4.3.2 Reference data (technical qualifications) ............................................................. 17 
+4.3.3 Quality assurance (technical qualifications) ......................................................... 18 
+4.4 Professional/trade register extract ......................................................................... 19 
+5. Award criteria and assessment ..................................................................................... 20 
+5.1 Introduction ........................................................................................................ 20 
+5.2 Quality criteria .................................................................................................... 20 
+5.2.1 Award criteria relating to Plan and approach ........................................................ 20 
+5.2.2 Award criteria relating to the Quality of the project team: ..................................... 21 
+5.3 Assessment method for qualitative award criteria .................................................... 21 
+5.4 Award criteria relating to prices/rates (exclusive of VAT) .......................................... 22 
+6. Assessment of the Tender ........................................................................................... 23 
+6.1 Assessment of the Tender’s completeness and legal validity ..................................... 23 
+6.2 Assessment of requirements relating to the assignment ........................................... 23 
+6.3 Assessment of award criteria relating to the assignment .......................................... 23 
+6.4 Determination of definitive total score .................................................................... 23 
+6.5 Assessment of evidence ....................................................................................... 24 
+Tender Document 202310082  Page 3 of 32 
+ 
+7. Submission procedure for Tenders ................................................................................ 25 
+7.1 Statement of agreement ...................................................................................... 25 
+7.2 Schedule ............................................................................................................ 25 
+7.3 General procedure ............................................................................................... 25 
+7.3.1 Communication ................................................................................................ 25 
+7.3.2 eHerkenning .................................................................................................... 25 
+7.3.3 Questions and additional information/changes ..................................................... 26 
+7.3.4 Validity period and submission of Tender ............................................................ 26 
+7.3.5 Variants on Tender ........................................................................................... 26 
+7.3.6 Costs of submitting a Tender ............................................................................. 26 
+7.3.7 Termination of tendering process ....................................................................... 26 
+7.3.8 Order of precedence of documents ..................................................................... 26 
+7.3.9 Information about the Tenderer’s obligations ....................................................... 27 
+7.3.10 Guide Information security and Privacy for suppliers ............................................ 27 
+7.3.11 Complaints procedure ....................................................................................... 27 
+7.3.12 Dispute resolution ............................................................................................ 27 
+7.3.13 Submission of the Tender .................................................................................. 27 
+7.3.14 Structure and content of the Tender ................................................................... 28 
+7.3.15 Legally binding signature .................................................................................. 28 
+7.3.16 Submission of a Tender in collaboration with other organisations ........................... 28 
+7.3.17 Single Tender .................................................................................................. 29 
+7.3.18 Violation of the fundamental principles of procurement law and restriction of fair 
+competition................................................................................................................... 30 
+7.3.19 Communication and language ............................................................................ 30 
+7.3.20 General terms and conditions ............................................................................ 30 
+7.3.21 Contract conditions .......................................................................................... 30 
+7.3.22 Explanation and verification of the Tender ........................................................... 30 
+7.3.23 Request for supplementary information concerning the Tender .............................. 30 
+7.3.24 Announcement of the award of the Contract ........................................................ 30 
+Annexes .......................................................................................................................... 32 
+ 
+  
+Tender Document 202310082  Page 4 of 32 
+ 
+Definition of terms 
+ 
+Tendering authority State Supervision of Mines, department of the Ministry of 
+Economic Affairs and Climate Policy 
+ 
+Tender Document This document and all of its annexes. 
+ 
+Public Procurement Act The Public Procurement Act 2012 (Aanbestedingswet 2012) 
+ 
+General Government Terms and  
+Conditions General Government Terms and Conditions for Public 
+Service Contracts 2018 (ARVODI-2018: Algemene 
+Rijksvoorwaarden voor het verstrekken van Opdrachten tot 
+het verrichten van Diensten). 
+ 
+Most Economically Advantageous  
+Tender The Tender that achieves the highest definitive total score 
+based on the best price-quality ratio. 
+ 
+Suitability requirements The requirements with which Tenderers must comply in 
+order to be eligible to win the tender.  
+ 
+Tenderer An organization or organizations who have submitted a 
+Tender or is/are planning to submit a Tender. In this 
+document, the word ‘you’ is taken to mean the Tenderer. 
+ 
+Tender A quotation submitted by the Tenderer in response to this 
+Tender Document. 
+ 
+IUC-EZK The Procurement Office (IUC) – part of the Netherlands 
+Enterprise Agency (RVO.nl), which in turn is part of the 
+Ministry of Economic Affairs and Climate Policy (EZK) – will 
+serve as process manager during this tendering process. 
+ 
+Memorandum of Information A document containing all questions asked and answers 
+given, in anonymised form and, if applicable, additional 
+information. This includes the questions and answers 
+submitted via TenderNed. 
+ 
+Contracting Authority The State of the Netherlands, represented by the State 
+Secretary of Economic Affairs and Climate who concludes 
+the Contract with the Contractor on behalf of the 
+Contracting Authority. 
+ 
+Contractor The party with whom the Contracting Authority concludes 
+the Contract. 
+ 
+Contract The written agreement between the Contracting Authority 
+and the Contractor in which the conditions of the 
+assignment are recorded. 
+ 
+Exclusion Ground A circumstance applicable to the Tenderer or a person 
+affiliated with the Tenderer that results in exclusion of the 
+Tenderer from participating in the tendering process.  
+ 
+ 
+ 
+Tender Document 202310082  Page 5 of 32 
+ 
+European Single Procurement   
+Document A statement in which the Tenderer declares his compliance 
+with the requirements specified in this document.  
+Tender Document 202310082  Page 6 of 32 
+ 
+1.  Introduction 
+ 
+The Tender Document at hand contains information regarding this invitation to tender conducted in 
+accordance with the European open procedure for following research: Influence of controlled brine 
+bleed-off (CBBO) on cavern and cavern cluster stability.  
+ 
+You are hereby invited to submit a Tender based on this Tender Document.  
+1.1 Tendering Authority and IUC-EZK 
+This tendering process is being conducted on the instructions of State Supervision of Mines (SSM) 
+department of the Ministry of Economic Affairs and Climate Policy. IUC-EZK will act as process 
+manager during this tendering process. 
+ 
+State Supervision of Mines 
+State Supervision of Mines (SSM) protects and promotes the importance of safety and the 
+environment, both for employees and society at large, in the production, storage and 
+transportation of mineral resources, geothermal energy and offshore wind power. On behalf of the 
+Minister of Economic Affairs and Climate Policy, SSM supervises the exploration, extraction, 
+transportation and storage of mineral resources such as oil, gas and salt, as well as geothermal 
+energy. The supervision focuses on health and safety, the environment and optimal use of mineral 
+resources from a technical point of view. SSM’s responsibilities are set out in the Mining Act and 
+the Gas Act. In addition, on behalf of the Minister of Social Affairs and Employment, SSM monitors 
+compliance with legislation on working conditions and working hours at mining facilities and 
+offshore wind farms. On behalf of the Minister of Infrastructure and Water Management, SSM 
+monitors compliance with environmental and building legislation at mining installations. 
+1.2 Reason for this invitation to tender 
+SSM would like to understand the effects of CBBO: on subsidence, on stability and on integrity of 
+the cavern. SSM would also like to learn more about what best practices might be: which is better 
+for stability "fast and a lot" or “slow and few" releases? The study will be one of the building blocks 
+that helps SSM to assess the risks of various cavern abandonment scenarios: like hard shut-in, 
+CBBO, controlled high pressure or cavern filling. 
+1.3 Time schedule 
+The schedule below applies to this tendering process. 
+ 
+January 9th 2024 Issuing of publication, start of tendering period. 
+January 29th 2024, 12.00u Closure of round of questions: deadline for the Tenderer to 
+submit questions regarding this Tender Document and the 
+Contract (including the general terms and conditions) and/or 
+proposals for textual amendments to the draft Contract 
+(including the general terms and conditions). 
+February 6th 2024 Issuing of Memorandum of Information 
+March 4th 2024, 12.00u Deadline for the receipt of Tenders and opening of new 
+Tenders by the Tendering Authority. 
+March 4th up to and 
+including March 18th 2024 
+Assessment of Tenders. 
+March 19th 2024 Announcement of the award of the Contract. 
+April 3th 2024 Deadline for the winning Tenderer to provide the evidence 
+requested by the Tendering Authority. 
+April 8th 2024 Deadline for asking questions and/or filing an application for 
+a preliminary injunction in relation to the announcement of 
+the award of the Contract. 
+April 9th 2024 Starting date of Contract. 
+ 
+Tender Document 202310082  Page 7 of 32 
+ 
+If – in the opinion of the Tendering Authority – circumstances provide cause to do so, the 
+Tendering Authority is entitled to amend the specified period(s). In such a case, timely notification 
+of the new period(s) will be provided digitally.  
+Tender Document 202310082  Page 8 of 32 
+ 
+2.  Description of assignment 
+2.1 Description and objective of the assignment 
+ 
+Background 
+The current understanding of cavern abandonment is largely based on the hard shut-in scenarios, 
+where caverns are filled with brine and closed off. This has long been assumed to be a safe 
+method. Recent experiences in the Netherlands (fracture formation and leakage in the cavern 
+cluster of Nedmag1, and a hydraulic connection between an abandoned and an active cavern in the 
+Frisia concession2) have led to doubts about the safety of this method of abandonment. An 
+alternative method could be CBBO3. 
+ 
+CBBO has been identified by Ratigan4 and the KEM-17 report (2020) as an alternative for hard 
+shut-in. While applying the mechanism of CBBO, a cavern is allowed to passively close by creep, 
+with one or more wells either being constantly or intermittently opened up to let brine flow out. 
+The brine production is being driven by the combined effects of brine heating and expansion, and 
+the closure of the cavern due to creeping salt. This research has the aim to determine the impacts 
+and effects of CBBO and, especially, what is known about the safety of this method of closure.    
+ 
+According to the current literature, permeation of brine into the salt wall might (depending on the 
+pressures in the cavern) still play a role in the case of CBBO, even though these caverns are 
+generally expected to be under the equilibrium pressure (see KEM-17, 2020). It is expected that 
+CBBO has to last for multiple years to multiple decades, depending on the cavern characteristics. 
+This expectation would mean a significant extension of the operational commitment of an operator. 
+Currently the Nedmag cavern system is being bled-off in a controlled manner. Fokker (2018) 
+describes this bleed-off and it is one of the few studies currently available that looks at pre-
+abandonment bleed-off. These caverns are unique for salt mining in the Netherlands, as they are 
+clusters of caverns, designed to mine magnesium salts (bischofite, carnallite), interlayered with 
+halite. Fokker (2018) has used FEM modelling to study the effects of the bleed-off on the stress 
+state of caverns and subsidence in the Nedmag cavern cluster. Fokker (2018) shows that the 
+cavern situation is apparently stable, but with significantly increased subsidence. 
+ 
+Nobian is currently (2023) undertaking a number of ”controlled outflow tests”5, in line with 
+recommendations in the KEM-176 report. Results of these tests might also be incorporated in the 
+proposed study. 
+ 
+Other examples of bleed-offs in the literature appear to be more related to uncontrolled or 
+accidental bleed-off (see for example Bérest and Brouard, 2003). As these are unexpected effects, 
+both the dominant mechanisms and the parameters of the bleed-off (rate leakage or frequency of 
+pulses) are therefore difficult to determine. Also, the build-up to the event and the early effects 
+may be difficult to detect and monitor, especially in an abandoned cavern. Nevertheless, these 
+cases might offer insights in the processes and effects of CBBO. 
+ 
+In a general sense, the modelling of in-situ stress states is a relatively mature field, but 
+improvements are still necessary in order to obtain the insights needed for supervision and safety 
+assessments. The KEM-17 (2020) project has shown that the application of salt creep laws, in 
+practical situations like a real cavern, is not balanced. Generally, emphasis is put on the “non-
+linear creep” behavior caused by dislocation creep, which is dominant in laboratory settings. There 
+is, however, increasing evidence that the linear behavior of pressure solution is dominant at 
+cavern scales, but that the upper and lower ends of this domain are not well defined yet (see for 
+ 
+1 Oordeel SSM over overkoepelend rapport lekkage Nedmag april 2018 | Nieuwsbericht | Staatstoezicht op de Mijnen 
+2 Reactie SSM op afsluiten Frisia’s zoutcaverne Oosterbierum | Brief | Staatstoezicht op de Mijnen  
+3 It should be noted that according to the Dutch Mining law CBBO does not qualify as a formal abandonment, as the well is still in place 
+and being used. CBBO should therefore be seen as a temporary measure, but the legal implications of this are beyond the scope of this 
+work. 
+4 Ratigan was program manager of the SMRI sealed and abandoned caverns (CS&A) long-term research program, initiated 1996. 
+5 https://www.nobian.com/nl/zoutwinning/groningen/werkzaamheden/uitstroomtesten-bij-boring-hl-a-voor-fundamenteel-onderzoek  
+Tender Document 202310082  Page 9 of 32 
+ 
+example section 2.1 of Rowan et al., 2019, for a concise review). Recent scientific research is 
+starting to define these boundaries, and are also starting to define laws for other, non-halite 
+evaporites (see for example,  de Bresser et al., 2022 and Oosterhout et al., 2022). Inclusion of 
+linear creep (pressure solution creep) under low differential stresses can have a profound effect on 
+both the subsidence and the state of stress next to, and, in between caverns (Baumann et al., 
+2022).  
+ 
+Our provisional conclusion is that the effects of CBBO are not well known yet and further research 
+is needed. Given the limited number of real existing cases, some analogous activities might bring 
+valuable insights into understanding of CBBO.   
+ 
+A possible analogue to CBBO might be the pressure cycles that are required to keep the pressure 
+stable in the long-term crude storage caverns of the US strategic crude reserves (see for example: 
+Chekai, 2021). Here, salt creep requires regular bleed-off of brine, very much like CBBO, but 
+within a storage cavern in this case. There is a significant and growing body of research focused at 
+understanding the effect of cyclic pressure variations on the integrity of storage caverns in salt 
+(see for example: Liu and Xiao, 2014; Liu, et al., 2014; van der Valk, et al., 2020). However, 
+these cycles are on a much shorter time span and deal with different fluids and gases (under 
+higher pressures) than in the CBBO case. So, the applicability of this research to CBBO is not 
+evident. The applicability of this analogue needs to be further investigated to see if lessons learned 
+from these cases might be relevant for CBBO. 
+ 
+Another source of useful information might be the monitoring of cavern behavior. One tool to 
+monitor cavern stability is monitoring micro-seismicity (see for example: Mercerat et al., 2010; 
+Ford and Dredger, 2020). At the Cerville-Buissoncourt site in France, the deliberate progressive 
+collapse of a cavern by solution mining was monitored using several tools, including micro-
+seismicity (Daupley et al., 2010). The data collected from micro-seismicity records, especially in 
+cases where cavern pressures are known, can serve as input for the real-world testing of models 
+generated in this study. Another tool is sonar measurements to monitor cavern shape. It is 
+possible that these studies contain useful information with respect to the creep behavior and thus 
+the processes of CBBO. 
+ 
+With this study, we aim to complement the KEM-17 project, by looking at CBBO. SSM wishes to 
+understand the effects of CBBO on the local stress field, and changes therein, and, ultimately on 
+the stability of the cavern/cavern field, and potential interaction with surrounding underground 
+activities, in other caverns in the same field. 
+ 
+Objective 
+This research (this research question) focuses on the behavior of salt caverns after closure or 
+abandonment. In abandoned salt caverns the internal pressure can be increased by salt creep and 
+by expansion of brine caused by a rise in temperature. The internal pressure can be reduced by 
+controlled or uncontrolled release of brine from the cavern. The currently identified mechanisms 
+for brine release are: 
+i. Controlled pressure reduction during brine bleed-off (according to an intended and 
+prescribed procedure).  
+ii. Uncontrolled pressure reduction by permeation. 
+iii. Uncontrolled pressure reduction due to the formation of hydraulic fractures.  
+iv. Uncontrolled pressure reduction through a preferential leak-path.  
+These mechanisms can occur simultaneously, sequentially, or not at all, depending on the complex 
+interactions among the cavern properties, salt properties and other external controls. Leakage 
+mechanisms (ii), (iii) and (iv) were studied in KEM-176. The study proposed here will focus on 
+mechanism (i), to which we refer in this document as “controlled brine bleed-off” (CBBO).  
+ 
+ 
+6 See list of references at the end of this document.  
+Tender Document 202310082  Page 10 of 32 
+ 
+CBBO will result in a decrease of cavern pressure. This will subsequently affect the state of stress 
+around the cavern to some degree, and at different rates. Basic research questions for CBBO are: 
+how will the stress state change around the cavern or between multiple caverns and what is the 
+potential effect of a changing stress state on cavern integrity (tightness) and stability? A special 
+case is where the abandonment of caverns will be combined with the simultaneous creation or 
+operation of new (storage) caverns in the same salt dome.  
+ 
+SSM would like to understand the effects of CBBO: on subsidence, on stability and on integrity of 
+the cavern. SSM would also like to learn more about what best practices might be: which is better 
+for stability "fast and a lot" or “slow and few" releases? The study will be one of the building blocks 
+that helps SSM to assess the risks of various cavern abandonment scenarios: like hard shut-in, 
+CBBO, controlled high pressure or cavern filling. 
+ 
+The knowledge gathered form this research will help SSM (and hopefully also others) to improve 
+the assessment of studies from operators. This knowledge will also help SSM to give advice to the 
+ministry on operational plans for salt solution mining and gas storage caverns (production plan and 
+storage plan). Understanding of this process will be essential in order to determine whether 
+caverns can be abandoned safely before they are created. Also, it will help assessing the safest 
+method for abandoning existing caverns. 
+ 
+Research questions 
+The main question of this research is:  
+What happens to the cavern stability and its integrity in the case of CBBO? 
+ 
+Sub-questions of this research are: 
+1) How does the stress state around a cavern change during bleed-off? How is this dependent 
+on the bleed-off rate or the convergence rate? 
+2) How is the cavern stability influenced by these stress changes? Is it dependent on depth or 
+temperature? 
+3) What are the uncertainties/sensitivities/interactions among various parameters and how 
+can uncertainties be quantified or reduced? 
+4) Is there a safe/unsafe speed of bleed-off? What are advantages/disadvantages of certain 
+bleed-off cycles? 
+5) What are additional risks when leakage occurs uncontrolled? 
+Deliverables  
+Deliverables of this assignment are as followed:  
+A. Report of the Kick-off meeting 
+B. Report of the literature study and critical review of modelling approaches and field cases. 
+C. Report on the model:  
+a. A detailed description of assumptions, parameters/parameter space, sensitivities, 
+uncertainties and model limitations. 
+b. A detailed model description (detailed enough so others could reproduce it) 
+D. Progress report #1  
+E. Report of the progress meeting (includes GO/NO GO decision for the project*) 
+F. Report on the analysis: 
+a. A suite of modeled scenarios that accurately capture the uncertainties and all 
+realistic scenario’s. 
+b. Results that are compared with benchmark data (micro-seismic data, subsidence 
+curves, etc.). 
+G. Progress report #2  
+H. Report on the meeting to review intermediate results (progress report #2)  
+I. Optional: Report on the fine tuning of modelling 
+J. Draft final report: 
+a. Answering the research questions. 
+b. Recommendations. 
+Tender Document 202310082  Page 11 of 32 
+ 
+K. Report of the meeting regarding the draft of the final report 
+L. Final report 
+*After step E there is a possibility that the assignment will be terminated. In that case, the 
+Contractor will be reimbursed for the costs incurred up to that time of the assignment. There is no 
+right to reimbursement of the remainder of the costs for the assignment or other costs.  
+2.2 Lots 
+The invitation to tender has not been divided into lots, because the assignment cannot be divided 
+into separate lots. Because the various components of the research cannot be carried out 
+separately and independently of each other by different Contractors without compromising the 
+quality and coherence of the desired research. 
+2.3 Contract Period 
+The Contracting Authority intends to conclude a Contract for a period of maximum 24 months. The 
+agreement will end when the assignment is completed.  
+ 
+If the maximum value is exceeded (or is threatened to be exceeded), the Contracting Authority 
+has the right to unilaterally terminate the Agreement without compensating the Contractor for 
+this, in whatever form. See further in this regard the provisions in the (draft) Agreement. 
+2.4 Scope of the assignment 
+The Tendering Authority has estimated a total contract value of € 300.000,- (exclusive of VAT). 
+ 
+The estimated value is an indication from which no rights can be derived. This Tender Document 
+was created using up-to-date knowledge and insights valid at the time of its formulation. 
+ 
+It is possible that the services specified in the contract may change in the event of political, 
+budgetary, administrative or organisational developments within the Dutch government and the 
+Contracting Authority’s expansion or contraction resulting from this, or changes to the Contracting 
+Authority’s position within the government or to the targets that must be met. In the event such 
+circumstances occur, the Contracting Authority will consult with the Contractor.  
+  
+Tender Document 202310082  Page 12 of 32 
+ 
+3.  Requirements to this assignment 
+ 
+This section includes the requirements set by the Tendering Authority concerning the requested 
+services and the prices and rates.  
+  
+By submitting a Tender, you as Tenderer, explicitly consent to all requirements and 
+conditions specified in this Tender document and declare that you will continue to 
+comply with these throughout the entirety of the contract period. Furthermore, you 
+confirm that you will comply with all of the specified prices and rates, including any 
+agreed indexation. Failure to comply with one or more requirements will result in your 
+Tender being disqualified from the assessment process and therefore excluded from the 
+tendering process. 
+3.1 Requirements relating to the research questions 
+3.1.1 Contractor will answer the following research questions: 
+ 
+Main question:  
+What happens to the cavern stability and its integrity in the case of CBBO? 
+ 
+Sub-questions: 
+1) How does the stress state around a cavern change during bleed-off? How is this 
+dependent on the bleed-off rate or the convergence rate? 
+2) How is the cavern stability influenced by these stress changes? Is it dependent on 
+depth or temperature? 
+3) What are the uncertainties/sensitivities/interactions among various parameters 
+and how can uncertainties be quantified or reduced? 
+4) Is there a safe/unsafe speed of bleed-off? What are advantages/disadvantages of 
+certain bleed-off cycles? 
+5) What are additional risks when leakage occurs uncontrolled? 
+3.2 Requirements relating to the deliverables 
+3.2.1 The Contractor will deliver the following results: 
+A. Report of the Kick-off meeting 
+B. Report of the literature study and critical review of modelling approaches and field 
+cases. 
+C. Report on the model: 
+a. A detailed description of assumptions, parameters/parameter space, 
+sensitivities, uncertainties and model limitations. 
+b. detailed model description (detailed enough so others could reproduce it) 
+D. Progress report #1  
+E. Report of the progress meeting (includes GO/NO GO decision for the project*) 
+F. Report on the analysis: 
+a. A suite of modeled scenarios that accurately capture the uncertainties and 
+all realistic scenario’s. 
+b. Results that are compared with benchmark data (micro-seismic data, 
+subsidence curves, etc.). 
+G. Progress report #2 
+H. Report on the meeting to review intermediate results (progress report #2)  
+I. Optional: Report on the fine tuning of modelling 
+J. Draft of the final report: 
+a. Answering the research questions. 
+b. Recommendations. 
+K. Report of the meeting regarding the draft of the final report 
+L. Final report 
+ 
+Tender Document 202310082  Page 13 of 32 
+ 
+3.3 Requirements relating to the execution period 
+3.3.1 The contractor shall comply with the following deadlines in the execution of the 
+assignment: 
+- Completion of progress report #1; no later than 6 months after the start of the 
+assignment; 
+- Completion of progress report #2; no later than 12 months after the start of the 
+assignment; 
+- Completion of the draft final report; no later than 18 months after the start of the 
+assignment; 
+- Completion of the assignment (completion of the final report); no later than 24 
+months after the start of the assignment.  
+ 
+3.3.2 The Contractor and the Contracting Authority will consult monthly about the progress of 
+the assignment. The Contractor then draws up a short report.  
+ 
+3.3.3  The Contracting Authority anticipates at least the following consultation moments: 
+1. Kick-off meeting at the start of the assignment  
+2. Meeting to discuss progress report #1 
+3. Meeting to discuss progress report #2  
+4. Meeting to discuss the draft report 
+3.4 Requirements relating to the end result 
+3.4.1 The end result of this assignment is an independently readable research report that is 
+suitable for external web based publication. In addition to the final report, the Contractor 
+also provides underlying relevant research data upon delivery of the final report. The final 
+report must be submitted digitally (pdf format) in English. 
+3.5 Requirements relating to the prices/rates 
+3.5.1 The Tenderer will provide an overview of the prices and rates applicable to this 
+assignment. The Tenderer can use its own format. The format must at least include the 
+following information:  
+- The number of hours per phase per consultant; 
+- The total number of hours for the execution of the assignment; 
+- The hourly rate (excluding VAT) per consultant; 
+- The total price (excluding VAT) for the execution of the assignment.  
+ 
+3.5.2 The total price for execution of the assignment is not higher than € 300.000,- excluding 
+VAT.  
+ 
+3.5.3 The price/rates must be all inclusive. In any event, they must include all of the following: 
+wage costs, overheads (e.g. accommodation and wage costs for support staff), costs 
+relating to the use of equipment and machinery during the assignment, insurance costs, 
+any applicable costs for e-invoicing, and local travel and accommodation expenses. 
+ 
+3.5.3 The agreed (maximum) rates are fixed and invariable for the duration of this Agreement. 
+ 
+3.5.4 The Tenderer will not submit any zero or negative prices/rates. 
+ 
+3.5.5 The Tenderer will provide a budget with fixed hourly/daily rates, specified according to the 
+various duties. You will also give the total price. The Tenderer will charge on the basis of 
+actual realised costs up to the maximum total price (also see 3.7.1).  
+3.6 Tax-related requirements 
+3.6.1  The Contractor indemnifies the Contracting Authority against any claims from the Dutch 
+Tax and Customs Administration (Belastingdienst) or other tax authorities. 
+ 
+3.6.2  The Contractor will quote the prices according to the following structure: 
+Tender Document 202310082  Page 14 of 32 
+ 
+• the amount excluding Dutch VAT and any VAT due outside the EU; 
+• the amount of Dutch VAT due (if applicable) and the amount of any VAT due 
+outside the EU, and; 
+• the amount including Dutch VAT (if applicable) and any VAT due outside the EU. 
+ 
+3.6.3 If the Contractor indicates that no VAT is applicable, then he agrees to provide 
+documentary proof of the grounds for this to the Contracting Authority within fifteen 
+calendar days of the request to do so. 
+ 
+3.6.4 Contractor is liable for any extra costs for Dutch and/or foreign VAT due if Contractor 
+incorrectly charges no VAT or an incorrect amount of VAT to the Contracting Authority. If 
+applicable, Contractor is liable for accurate payment of VAT in the Netherlands and outside 
+the EU, with the exception of the case stipulated in the following sentence. If the 
+Contracting Authority procures a service from a foreign business and Dutch tax law 
+considers the work to have been performed in the Netherlands, then the Contracting 
+Authority is liable for the payment of VAT to the Dutch Tax and Customs Administration for 
+this/these service(s) performed in the Netherlands. 
+ 
+3.6.5 Contractor guarantees that the amounts specified in the quotation are inclusive of all taxes 
+and levies (including amounts considered equivalent to taxes or levies), regardless of their 
+description and wherever in the world they may have been levied. 
+ 
+3.6.6 Contractor indemnifies the Contracting Authority against any claims from any tax authority 
+for any taxes, levies or contributions considered equivalent to taxes or levies, originating 
+from either the Netherlands or outside the Netherlands. 
+ 
+3.6.7 If Contractor believes that his work is being taxed simultaneously (in part or in full) in both 
+the Netherlands and a foreign country (outside the EU), then he agrees to provide 
+evidence from the foreign tax authorities in question that prove VAT has been levied on 
+one of the services/amounts substantiated by him in the quotation. Contractor will provide 
+this statement in English. If the statement from the foreign tax authorities is not in 
+English, then he agrees to provide a sworn translation of this statement, the costs of which 
+will be borne by him. 
+3.7 Invoicing requirements 
+3.7.1 Invoicing is linked to the results as described in requirement 3.2.1. The Contractor will be 
+able to invoice the actual costs incurred at the times below. Invoicing is based on the 
+following schedule: 
+- A maximum of 15% of the total price upon completion of step 2 
+- A maximum of 15% of the total price upon completion of progress report #1 
+- A maximum of 15% of the total price upon completion of progress report #2 
+- A maximum of 15% upon delivering the draft of the final report: 
+- The remainder of the total price (a maximum of 40%) upon delivering the final 
+report.  
+ 
+3.7.2 If the assignment is stopped in step 5, the contractor is entitled to invoice the costs 
+actually incurred up to that point of the assignment. 
+ 
+3.7.3 Contractor must include a summary of the actual hours/days worked in accordance with 
+the applicable rates. 
+ 
+3.7.4 For companies established in the Netherlands only 
+E-invoicing 
+The general terms and conditions that apply to this contract contain a provision  that 
+invoices must be sent electronically (not in pdf). This can be done in 3 different ways: 
+• The invoicing portal of the Dutch government 
+• E-invoicing with your own (accounting) software package through Peppol 
+Tender Document 202310082  Page 15 of 32 
+ 
+• E-invoicing through a service provider. 
+ 
+For companies not established in the Netherlands 
+The paragraph concerning e invoicing does not apply to companies located outside of the 
+Netherlands. 
+3.8 Environmental requirements 
+3.8.1  The Tenderer must possess all environmental permits required in order to fulfil this 
+assignment. 
+ 
+ 
+  
+Tender Document 202310082  Page 16 of 32 
+ 
+4.  Requirements concerning the Tenderer 
+4.1 Introduction 
+In this section, you can find the requirements set by the Tendering Authority to determine whether 
+particular Tenderers are suitable to be awarded the Contract. For this purpose, Exclusion Grounds 
+and Suitability Requirements have been set. 
+ 
+You can indicate whether or not the Exclusion Grounds apply to you and whether or not you are in 
+compliance with the Suitability Requirements by completing the ‘European Single Procurement 
+Document’. 
+ 
+The ‘European Single Procurement Document’ is a PDF file that has been partially filled in for you. 
+You must fill in the rest of the form, print it, legally sign it, scan it and submit it together with your 
+Tender via TenderNed (see paragraph 7.3.15).  
+4.2 Exclusion Grounds 
+You can find the ‘European Single Procurement Document’ within the invitation to tender in 
+TenderNed. In this document, you will find the following Exclusion Grounds: 
+• all Exclusion Grounds specified in Part III A and B; 
+• the Exclusion Grounds in Part III C that have been selected by the Tendering Authority by 
+means of the tick boxes.  
+ 
+Go to the invitation to tender in TenderNed, select ‘Answers to Requirements’ and then tick ‘Yes’ or 
+‘No’ for the ‘Tenderer’s Statement’ requirement. 
+ 
+See Section 7 for information on how to submit a Tender in collaboration with other organisations. 
+This section specifies who must provide a completed and signed European Single Procurement 
+Document during the process of submitting a Tender. 
+ 
+The evidence relating to the Exclusion Grounds does not have to be submitted together 
+with the Tender: it is only required once the Tendering Authority requests it.  
+ 
+Please note: The process of applying for a GVA (certificate of conduct) can take several 
+weeks. 
+ 
+For information on types of evidence, see Section 2.89 of the Public Procurement Act. 
+http://wetten.overheid.nl/BWBR0032203/2016-07-01 
+ 
+The evidence consists of:  
+1. Extract of Trade Register (no older than 6 months see §4.3) 
+2. ‘Certificate of Conduct for procurement’ (‘Gedragsverklaring Aanbesteden’ -no older 
+than 2 years) 
+3. Tax statement (no older than 6 months) 
+The Tendering Authority, to which a Tenderer submits data in order to prove that the 
+exclusion grounds referred to in Article 2.86 or Article 2.87 do not apply to the Tenderer, 
+also accepts data and documents from another Member State, from the country of origin 
+of the Tenderer or from the country where the Tenderer is established, that serve an 
+equivalent purpose or that show that the exclusion ground does not apply to Tenderer. 
+ 
+Please refer to https://ec.europa.eu/tools/ecertis/search 
+eCertis is the information system that helps you identify different certificates 
+requested in procurement procedures across the EU. 
+4.3 Suitability Requirements 
+The purpose of the Suitability Requirements is to assess whether the Tenderer is suitable to fulfil 
+the Contract in the opinion of the Tendering Authority.  
+ 
+Tender Document 202310082  Page 17 of 32 
+ 
+By signing the annex ‘European Single Procurement Document’ (which uses the term ‘Selection 
+Criteria’ to refer to the Suitability Requirements), the Tenderer declares that he complies with the 
+Suitability Requirements as specified in this subsection of the Tender document. These Suitability 
+Requirements are further specified in the subsequent paragraphs in this section.  
+4.3.1  Financial and economic standing 
+By signing the ‘European Single Procurement Document’, the Tenderer declares: 
+a. That he possesses sufficient financial and economic capacity to fulfil the contractual 
+obligations. 
+b. That the Tenderer is unaware of any possible claims against him that may compromise his 
+organisation’s financial-economic capacity or continuity, and that no investment is required 
+during the Contract period that may have a similar compromising effect. 
+That the most recently issued auditor’s report (or, if applicable, a review report or compilation 
+report) does not include a ‘continuity section’ that expresses doubt concerning the viability of 
+the organisation. 
+c. That the Tenderer has a sufficient level of professional and/or statutory liability insurance for 
+the fulfilment of the assignment and that in the event of the Contract being awarded to him, 
+will remain sufficiently insured throughout the duration of the assignment(s). 
+ 
+Evidence (do not submit together with the Tender – only submit it when requested to do 
+so): 
+Proof of the economic operator’s economic and financial standing may, as a general rule, 
+be furnished by one or more of the following references: 
+a. appropriate statements from banks or, where appropriate, evidence of relevant 
+professional risk indemnity insurance; 
+b. the presentation of financial statements or extracts from the financial statements, 
+where publication of financial statements is required under the law of the country in 
+which the economic operator is established;  
+c. a statement of the undertaking’s overall turnover and, where appropriate, of turnover 
+in the area covered by the contract for a maximum of the last three financial years 
+available, depending on the date on which the undertaking was set up or the 
+economic operator started trading, as far as the information on these turnovers is 
+available.  
+ 
+If the data of the Tenderer’s parent/holding company is used in relation to the aspect of 
+financial-economic capacity, then the Tenderer must provide a statement from the 
+parent/holding company that specifies that the parent/holding company unconditionally 
+acts as a guarantor for the obligations to be undertaken by the subsidiary company and 
+any debts arising from the Contract incurred by the subsidiary company. The statement 
+by the parent/holding company must be signed by a legally authorised representative. 
+4.3.2  Reference data (technical qualifications) 
+The Tendering Authority has set the following core competences, which demonstrate experience 
+with essential aspects of the assignment: 
+• Demonstrable experience with numerical modelling in similar (preferably salt-related) 
+research. 
+ 
+By signing the ‘European Single Procurement Document’, the Tenderer declares that he has carried 
+out at least one reference assignment for the core competence listed above that meets the 
+following minimum requirements: 
+• The subject of the reference assignment must be comparable to the core competence in 
+question. Such reference assignments should at least, and in some detail, show how the core 
+competence of the Contractor has been used to fulfil the assignment 
+ 
+The reference assignment must have been executed or completed within the three years prior to 
+the closing date for the submission of tenders. If the Tenderer uses an assignment that is not yet 
+fully complete, then only the completed results of the ongoing assignment can be submitted for 
+Tender Document 202310082  Page 18 of 32 
+ 
+reference purposes: projected results cannot be taken into consideration. 
+ 
+Reference assignments including one or more subcontractors can only be used as reference 
+assignments if  the subcontractor(s) in question will be involved in the fulfilment of the Contract 
+and if the Tenderer can and will make use of the knowledge and experience of the 
+subcontractor(s) in question during the fulfilment of the assignment. 
+ 
+Evidence (do not submit together with the Tender – only submit it when requested to do so): 
+• You may not provide more than one reference for the core competence. 
+• The reference must be signed by the referee (the client in question). 
+ 
+If required, the Tendering Authority reserves the right to check the accuracy and completeness 
+of the references and to contact one or more of the reference parties without the Tenderer’s 
+involvement or permission. 
+4.3.3  Quality assurance (technical qualifications) 
+By signing the ‘European Single Procurement Document’, the Tenderer declares:  
+That he has a quality-assurance system that is at least equivalent to a certified quality-assurance 
+system. By ‘equivalent’, we mean the following: 
+o Quality assurance is embedded in the entire organisation (by means of policy), adopted 
+by the responsible department and executed by this department (e.g. by means of a 
+quality handbook). This department also bears responsibility for the correct design, 
+execution and management of this quality policy. 
+o Presence and company-wide implementation of relevant procedures relating to service 
+provision/end products and management of resources and documents, within which 
+continual improvement is an important point of attention. 
+o Operation of an internal quality cycle, including the measurement, analysis and 
+improvement of quality levels. 
+o Performance of a periodic, independent audit by an expert concerning compliance with 
+the quality procedures. 
+o Customer-oriented processes: a system is in place to ensure (from the customer’s 
+perspective) that there is a clear picture of the customer’s needs and that these needs 
+are implemented into your business processes.  
+Or: 
+• That the Tenderer possesses a validly certified quality-assurance system, the certificate for 
+which was drawn up by a certification institution recognised within the national or 
+international accreditation structure, such as the European standards series EN 45000. 
+ 
+In the event that your Tender involves a collaboration between organisations, see Section 7: 
+‘Tenders involving collaborations with other organisations’.  
+ 
+Tender Document 202310082  Page 19 of 32 
+ 
+Evidence (do not submit together with the Tender – only submit when requested by the 
+Tendering Authority). 
+ 
+Compliance with these quality-control requirements can be demonstrated by means of: 
+A description (max. two A4 sides, either single or double-sided) of the quality-assurance 
+system in place at your organisation, which demonstrates that this system is at least 
+equivalent to a certified quality-assurance system. The subsection ‘Quality Assurance’ 
+explains what is meant by the term ‘equivalent’. Your description must address all the 
+points specified in this subsection and demonstrate the system’s equivalence or more.  
+Or: 
+Provision of the latest audit report or a copy of a certificate or certificates for the quality-
+assurance system that was/were drawn up by a certification institution recognised within 
+the national or international accreditation structure, such as the European standards 
+series EN 45000. 
+ 
+In the event that your Tender involves a collaboration (consortium), then every member 
+of this collaboration, for their part, must provide the quality-assurance evidence 
+requested for the purposes of the Tender. 
+4.4 Professional/trade register extract 
+The Tendering Authority expects the Tenderer to be authorised to practise his trade. For this 
+reason, the Tendering Authority reserves the right to ask the Tenderer to demonstrate that he is 
+registered in the professional register or in the trade register referred to in Annex XI of EU 
+Directive 2014/24/EU in accordance with the regulations applicable in the country in which he is 
+established. 
+ 
+It is also vital that the signed documents included in the Tender have been signed by a legally 
+authorised representative of the Tenderer. For this reason, the Tendering Authority can also ask 
+the Tenderer who is awarded the contract to demonstrate the legal validity of the signature. 
+ 
+Evidence (do not submit together with the Tender – only submit when requested by the 
+Tendering Authority). 
+ 
+In order to establish the legal validity of the signed statements, declarations and other 
+evidence, it is vital that a recent and up-to-date (max. six months old, counted from 
+the time of submission of the Tender) extract from the professional register or trade 
+register is provided in compliance with the provisions stipulated in Section 2.98 of the 
+Public Procurement Act. The extract must demonstrate the legal authorisation of the 
+signatory. 
+ 
+If the signatory of the statements, declarations and other evidence is not featured on the 
+extract, then authorisation of the signatory must be provided by one of the parties 
+featured on the extract, in the form of a statement declaring that the signatory was 
+authorised to legally bind the Tenderer at the time that he signed the documents. 
+ 
+In the event that the Tender involves a collaboration (consortium), then every member of 
+this collaboration must provide the aforementioned evidence separately. 
+ 
+  
+Tender Document 202310082  Page 20 of 32 
+ 
+5.  Award criteria and assessment 
+ 
+5.1 Introduction 
+This Section concerns the award criteria. The Tenders are assessed based on the award criteria. 
+Your response to the award criteria must be included in your Tender. In your response, you must 
+take into account the requirements set in Section 3. 
+ 
+A maximum of 1.000 points can be obtained for your response to the award criteria. 
+ 
+Nr. Award criteria Weighting factor / 
+number of points 
+1 Plan approach 400 points 
+2 Quality of the project team  500 points 
+3 Price 100 points 
+Total 1.000 points 
+5.2 Quality criteria 
+5.2.1  Award criteria relating to Plan of approach 
+Max. no. of 
+points available 
+Assessment aspects 
+400 The project plan of approach will be assessed based on the following 
+aspects:  
+- Description of the activities that will be carried out to comply 
+with each of the tasks mentioned in chapter 2 and 3, including 
+an indication of the expected results of these activities (such 
+as deliverables). 
+- Description of the plan to coordinate these activities (in your 
+team and with the Client) in order to achieve the intermediate 
+and final products.    
+ 
+You add a detailed time schedule to your quotation, working out the 
+following points:  
+- A step-by-step description of how and when you will complete 
+each of the tasks and how you will incorporate them into the 
+final product;  
+- Description of the risks that you see with regard to the 
+planning and how you will manage it;  
+- Description in what way and with what frequency you involve 
+the client in the investigation.  
+ 
+Assessment basis (all aspects carry equal weight):  
+- The extent to which it appears that the tenderer has insight 
+into the purpose of the contract and in which the work makes 
+a convincing contribution to the purpose of the contract.  
+- The extent to which the description of activities in the review 
+proposal are complete, specific, clear and relevant.  
+- The extent to which it appears that the planning is complete 
+and realistic, demonstrating that the delivery timeframe can 
+be achieved, with clear description of the risks with regard to 
+the planning and how you will manage these risks.  
+Tender Document 202310082  Page 21 of 32 
+ 
+5.2.2  Award criteria relating to the Quality of the project team 
+Max. no. of 
+points available 
+Assessment aspects 
+500 You add an account of the employee(s)’s expertise to your quotation. 
+You are therefore requested to include the following in the quotation: 
+The names and functions of the employee(s) who will carry out the 
+work, stating the subsections: 
+- Relevant education, courses and training; 
+- Relevant (project) work experience with indication of purpose, 
+activities and results; 
+- A brief CV of the employee(s) to be deployed; 
+- The intended role / task distribution of the relevant 
+employee(s), including deployment in terms of hours, of the 
+relevant expert on this assignment, and why you think this is 
+the right person for the execution of the assignment. 
+ 
+The answer must also include a clear description of the way in which 
+backup for team members is organised to ensure progress of the 
+assignment.  
+ 
+Assessment basis (all aspects carry equal weight): 
+- The extent to which the knowledge and experience level of the 
+project team is sufficient for successful completion of the 
+assignment. 
+- The extent to which the team composition is sufficient for 
+successful execution of the assignment. 
+- The extent to which qualitative backup of team members is 
+organized in a way that the assignment will be continued in 
+the event of (unexpected) team member failure.  
+5.3 Assessment method for qualitative award criteria 
+During the assessment, the assessment team will work in accordance with the following scale for 
+the weighting of the quality criteria. 
+ 
+Plan of approach 
+Quality of the response Weighting percentage 
+of the maximum points 
+available per preference 
+Excellent: The description of the plan of approach 
+significantly exceeded expectations and offers a great deal of 
+added value. 
+400 points 
+Good: The description of the plan of approach exceeded 
+expectations and offered some added value in places. 
+250 points 
+Sufficient: The description of the plan of approach sufficiently 
+met our expectations. 
+100 points 
+Poor: The description of the plan of approach did not 
+completely meet our expectations and displays shortcomings 
+with regard to certain aspects. 
+0 points (Knock-out) 
+No response was provided to the question. 0 points (Knock-out) 
+ 
+If the score is lower than “Sufficient”, the Tender will be excluded from further 
+participation in the award procedure. 
+ 
+ 
+ 
+ 
+Tender Document 202310082  Page 22 of 32 
+ 
+ 
+Quality of the project team 
+ 
+Quality of the response Weighting percentage 
+of the maximum points 
+available per preference 
+Excellent: The description of the quality of the project team 
+significantly exceeded expectations and offers a great deal of 
+added value. 
+500 points 
+Good: The description of the quality of the project team 
+exceeded expectations and offered some added value in 
+places. 
+300 points 
+Sufficient: The description of the quality of the project team 
+sufficiently met our expectations. 
+150 points 
+Poor: The description of the quality of the project team did 
+not completely meet our expectations and displays 
+shortcomings with regard to certain aspects. 
+0 points (Knock-out) 
+No response was provided to the question. 0 points (Knock-out) 
+ 
+If the score is lower than “Sufficient”, the Tender will be excluded from further 
+participation in the award procedure. 
+5.4 Award criteria relating to prices/rates (exclusive of VAT) 
+The Tenderer adds the estimate of the number of hours to be deployed with the corresponding 
+hourly rates, per activity / phase / employee, to the Tender. The Tenderer also indicates the 
+maximum total price (excluding and including VAT) for carrying out the assignment. The Tenderer 
+will be reimbursed for the hours actually worked, up to a maximum of this maximum total price. 
+The Tenderer must take into account the requirements set out in chapter 3. 
+ 
+An absolute scoring methodology is used to assess your price. This method converts your price 
+into a score. A bandwidth of € 220.000,- (minimum price) to € 300.000,- (maximum price) 
+excluding VAT is used. When offering the total price, Tenderer must take into account the fact that 
+the total price must fit within this bandwidth. If the total price is higher than the bandwidth, your 
+Tender will be rejected and will not be assessed further. If the total price is lower than the 
+bandwidth, Tenderer will receive the maximum number of points that can be achieved for the price 
+criterion (150 points). The bandwidth can be found below. 
+ 
+Lowest possible total price € 220.000,- excluding VAT 
+Highest possible total price € 300.000,- excluding VAT 
+Bandwidth € 80.000,- excluding VAT 
+ 
+The basis for the number of points to be achieved for this criterion is your total price (the final 
+score is rounded to two decimal place). The lowest possible total price receives 150 points, the 
+highest possible total price receives 0 points. 
+ 
+The formula is as followed:  
+((highest possible total price € 300.000,- - your total price) / total bandwidth € 80.000) x 150 
+points 
+ 
+This implies that: 
+- At a price of € 220.000,- you receive 100 points. 
+- At a price of € 300.000,- you receive 0 points. 
+ 
+Example calculation: 
+If your total price is € 285.000,- excluding VAT, the calculation will look as followed: 
+ 
+((€ 300.000,- – € 285.000,-) / € 80.000,-) x 100 = 18,75 points 
+ 
+This gives you a score of 18,75 points on the price award criterion. 
+ 
+Tender Document 202310082  Page 23 of 32 
+ 
+ 
+6.  Assessment of the Tender 
+6.1 Assessment of the Tender’s completeness and legal validity 
+The Tender will be assessed according to the following procedure. The Tendering Authority will 
+check whether: 
+1. all required documents have been provided (see the checklist in the subsection ‘Structure and 
+content of the Tender’ in Section 7); 
+2. the information is correct and complete, and no adjustments have been made to the 
+documents provided by the Tendering Authority; 
+3. no provisos have been made by the Tenderer (e.g. specifying that the Tenderer’s own terms 
+and conditions apply); 
+4. the ‘European Single Procurement Document’ has been completed in full and has been legally 
+signed.  
+ 
+In the event that the aforementioned requirements have not been complied with, the Tender will 
+be excluded from assessment and further participation in the tendering process, unless 
+rectification is permitted within the boundaries of public procurement legislation. 
+6.2 Assessment of requirements relating to the assignment 
+Subsequently, the Tender’s compliance with the requirements to the assignment (see Section 3) 
+will be assessed. Any Tender that does not comply, will be excluded from further participation in 
+the tendering process. 
+6.3 Assessment of award criteria relating to the assignment 
+Subsequently, all Tenders not excluded from the tendering process, will be assessed according to 
+the award criteria stipulated in Section 5. 
+ 
+The assessment of the Tenders takes place by an assessment committee. The assessment 
+committee consists of 5 to a minimum of 3 adequately equipped and expert assessors. Each 
+Tender will first be assessed individually by each assessor on the basis of the assessment criteria 
+included in the Tender document. The assessment committee will then reach a final consensus 
+score decision for each award criteria in a plenary session. The final assessment for each award 
+criteria is rounded to two decimal places after the decimal point. 
+ 
+The total score of all award criteria will be determined in an arithmetic manner. The total score of 
+the award criteria together with the score on the price criterion constitutes the final score of the 
+Tender.  
+6.4 Determination of definitive total score 
+The Contract will be awarded according to the principle of the Most Economically Advantageous 
+Tender. The Most Economically Advantageous Tender is the Tender that achieves the highest 
+definitive total score based on the best price-quality ratio.  
+ 
+The Tenderer’s definitive total score will be rounded to two decimal place. No scores will be 
+rounded off until the moment that this definitive total score is determined. If two or more 
+Tenderers have an equal definitive total score that would result in the Tendering Authority having 
+to award the Contract to more parties than is desired, then the Tendering Authority will award the 
+Contract to the Tenderer with the highest final score for the subcriterion Quality of the project 
+team. In the event that the highest scoring Tenderers also achieve an equal score for this 
+subcriterion, then the highest final score for the subcriterion Plan of approach will determine to 
+which Tenderer the Tendering Authority will award the Contract. In the event that the highest 
+scoring Tenderers also achieve an equal score for this subcriterion, then determination of the 
+Tenderer to which the Contract will be awarded will be made by drawing lots.  
+Tender Document 202310082  Page 24 of 32 
+ 
+6.5 Assessment of evidence 
+At the moment that the Tenderer legally signs the ‘European Single Procurement Document’ and 
+submits the Tender, the Tenderer is not (yet) required to provide any evidence, unless expressly 
+asked to do so in this Tender document.  
+ 
+By signing the ‘European Single Procurement Document’ and submitting his Tender, the Tenderer 
+agrees that at a later date, the Tendering Authority is entitled to request that the winning 
+Tenderer provides the required evidence.  
+ 
+Upon awarding the Contract, the Tendering Authority will only request evidence from the winning 
+Tenderer. The Tendering Authority is entitled to request this evidence at an earlier stage and from 
+all Tenderers if it believes such a course of action is necessary to facilitate the progress of the 
+tendering process. 
+ 
+The evidence must demonstrate that the Tenderer indeed complies with the content of both the 
+‘European Single Procurement Document’ and the Tender. Following the Tendering Authority’s 
+request to provide the evidence, the Tenderer has 15 (fifteen) calendar days to hand over the 
+required evidence. If the Tendering Authority does not agree with the content and/or validity of 
+one or more of the pieces of evidence provided by the winning Tenderer, then this could result in 
+the winning Tenderer being excluded from further participation in the process. In such a case, the 
+Tendering Authority will inform every Tenderer of this situation. The Tendering Authority will then 
+determine the next Most Economically Advantageous Tender. The score of the Tenderer that has 
+just been excluded will be removed. The calculations will then be carried out once more and a new 
+ranking will be created. The award process will then be conducted again. 
+ 
+In the event a winning Tenderer does not qualify for the definitive award of the Contract, then all 
+Tenderers will be notified of this and the consequences thereof concerning the award of the 
+contract. 
+  
+Tender Document 202310082  Page 25 of 32 
+ 
+7.  Submission procedure for Tenders 
+ 
+7.1 Statement of agreement 
+By submitting a Tender, including the ‘European Single Procurement Document’, the Tenderer 
+explicitly consents to all requirements and conditions stipulated in this Tender document and the 
+Memorandum of Information and declares that he will continue to comply therewith throughout the 
+entirety of the contract period. Furthermore, the Tenderer confirms that he will comply with all of 
+the specified prices and rates, including any agreed indexation. Failing to comply with one or more 
+requirements will result in his Tender being disqualified from the assessment process and therefore 
+excluded from the tendering process. 
+7.2 Schedule 
+See schedule in Subsection 1.3. 
+7.3 General procedure 
+This tendering process will be carried out in compliance with the Public Procurement Act. In this 
+case, the ‘open procedure’ was selected. An announcement thereof was published on 
+www.tenderned.nl and on Tender European Daily (TED).  
+ 
+In the event that a Tender is not submitted in accordance with the provisions and regulations 
+stipulated in this section, the Tendering Authority can set aside the Tender and exclude the 
+Tenderer from further participation in this tender procedure.  
+7.3.1  Communication 
+All communication relating to this tender procedure will be conducted via TenderNed 
+(www.tenderned.nl), unless otherwise specified.  
+ 
+Once you have indicated your interest in this invitation to tender on TenderNed, you can send and 
+receive messages about this tender process via ‘My Tenders’. Any questions concerning the tender 
+process can be sent to the Tendering Authority’s contact person via TenderNed.  
+You will receive messages via TenderNed. Via your personal TenderNed settings, you can turn on 
+automatic notifications, including notifications to your private email address. It is your 
+responsibility to ensure that these emails are not blocked by your email provider’s security system.  
+If the communication cannot be conducted via TenderNed, you can contact the following contact 
+person(s): Thomas van den Kerkhoff, email address: thomas.vandenkerkhoff@rvo.nl.  
+ 
+Attempts to directly contact parties other than the contact person(s) stated above in relation to 
+this tender process are prohibited. 
+ 
+If you have any functional or technical questions regarding TenderNed, you can contact the 
+TenderNed service desk on weekdays between 08:30 and 17:00 CET on 0800-8363376 or via 
+servicedesk@tenderned.nl. You can also consult TenderNed voor ondernemingen | TenderNed or 
+TenderNed for foreign businesses | TenderNed. 
+7.3.2  eHerkenning 
+All TenderNed users affiliated with a Dutch company registered with the Dutch Chamber of 
+Commerce are obliged to log in and register using eHerkenning.  
+This obligation does not apply to companies not registered in the Netherlands. 
+ 
+Visit eHerkenning gebruiken voor TenderNed | TenderNed for more information about 
+eHerkenning, including the terms and conditions. You are responsible for any consequences arising 
+from the failure to register with eHerkenning in a timely manner. 
+Tender Document 202310082  Page 26 of 32 
+ 
+7.3.3  Questions and additional information/changes 
+During the procedure, you have the opportunity to ask questions. Ask your questions as soon as 
+possible. All questions will be answered anonymously. The Tendering Authority can answer your 
+questions via TenderNed in two ways: 
+- Via one or more Memoranda of Information. 
+- By means of the TenderNed ‘Questions and Answers’ facility.  
+ 
+The deadline for submission of your questions is specified in the schedule (see section 1.3). In any 
+event, all questions asked will be answered at least 10 days prior to the deadline for submission of 
+the Tender.  
+ 
+Submitting a question to the Tendering Authority 
+Questions are to be asked via TenderNed. See Vragen stellen in aanbesteding aan aanbestedende 
+dienst | TenderNed or English | TenderNed. 
+All questions and answers will be published anonymously for all interested parties to view. If you 
+have a compelling reason why you do not wish your question (and its answer) to be revealed to 
+the other interested parties, then tick the ‘Answer Individually’ box. However, the Tendering 
+Authority will decide whether or not to process your question individually.  
+ 
+Answers from the Tendering Authority 
+The Memoranda of Information are an integral part of this Tender document. The Tendering 
+Authority assumes that all sections for which no questions have been asked have been clearly and 
+fully understood. 
+7.3.4  Validity period and submission of Tender 
+The Tender must be valid for at least four months after the deadline for submitting the tenders. In 
+the event that an application for a preliminary injunction is filed with the competent court in The 
+Hague against the award decision, then the Tenderers must in any event ensure that their Tenders 
+are valid until four weeks subsequent to the initial decision by the court.  
+7.3.5  Variants on Tender 
+Upon submitting a Tender in accordance with the Tender document, the Tenderer is not permitted 
+to submit a variant of this Tender. 
+7.3.6  Costs of submitting a Tender 
+The Tendering Authority will not reimburse any Tenderers for any costs resulting from the drafting 
+and submitting of a Tender, including any further information requested of the Tenderer. 
+ 
+Any costs or damage that (may) arise as a result of not awarding this Tender are for the account 
+and risk of the Tenderer. 
+7.3.7  Termination of tendering process 
+Until the moment that the Contract is signed, the Tendering Authority reserves the right to 
+partially, fully, temporarily or permanently terminate the tendering process. In such cases, 
+Tenderers will not be entitled to receive compensation for any costs incurred by them in 
+connection with this Tender, unless the Contracting Authority is of the opinion that a (small) 
+contribution to the tender costs is appropriate in view of the circumstances.  
+7.3.8  Order of precedence of documents 
+In the event of inconsistencies between the Tender document and the Memorandum of 
+Information, the Memorandum of Information takes precedence.  
+In the event that there are multiple Memoranda of Information, then the provisions in the most 
+recent Memorandum of Information takes precedence in the event of inconsistencies between the 
+different Memoranda.  
+Tender Document 202310082  Page 27 of 32 
+ 
+7.3.9  Information about the Tenderer’s obligations 
+The Tenderer must take into account his obligations relating to environmental, social and 
+employment law in compliance with article 2.81 paragraph 2 of the Public Procurement Act. 
+ 
+Information on obligations resulting from Dutch legal provisions with regard to taxes, 
+environmental protection, occupational health and safety and terms of employment that will be 
+applicable to the Tenderer’s activities throughout the Contract period is available from the 
+following sources: 
+Information on taxes: the Dutch Tax and Customs Administration: (www.belastingdienst.nl). 
+Provisions concerning environmental protection: the Ministry of Infrastructure and Water 
+Management (www.rijksoverheid.nl). 
+Provisions pertaining to occupational health and safety and terms of employment: the Ministry of 
+Social Affairs and Employment: (www.rijksoverheid.nl). 
+7.3.10 Guide Information security and Privacy for suppliers 
+Protecting information and personal data is the top priority for the Ministry of Economic Affairs and 
+Climate Policy (EZK) That requires significant effort from our own employees, but also from our 
+suppliers. You can read more about it in this concise guide. 
+Suppliers guide Information Security and Privacy EZK 
+ 
+Inconsistencies and objections 
+If the Tenderer is of the opinion that the documents contain inconsistencies, errors or matters that 
+are unclear or if the Tenderer has any objections, then the Tenderer must report this to the 
+contact person in writing, including substantiation.  
+7.3.11 Complaints procedure 
+If a Tenderer disputes a response given by the Tendering Authority to a question, request, 
+comment or objection from the Tenderer, or if the Tenderer receives no response, then he can 
+submit a complaint. More detailed information on this matter can be found in the ‘Complaints 
+Procedure’ annex. 
+7.3.12 Dispute resolution 
+In addition to the provisions in the ‘Complaints Procedure’ subsection, any dispute arising from this 
+tendering process can be presented to the Public Procurement Experts Committee 
+(www.commissievanaanbestedingsexperts.nl) and/or to the competent court in The Hague. Dutch 
+law applies exclusively to such proceedings. 
+7.3.13 Submission of the Tender 
+The deadline (date and time) for submission of Tenders is stipulated in the ‘Time schedule’ (1.3).  
+• In order to submit a Tender, you must register with TenderNed. One or more registered users 
+must be connected and authorised to submit the Tender via TenderNed on behalf of your 
+company.  
+The Tendering Authority advises that you start the TenderNed registration process immediately 
+rather than postponing it until the tendering period is coming to a close. Upon registering your 
+organisation, you must add your tender via TenderNed’s announcements platform. 
+• For more information on registering and establishing your organisation with TenderNed and 
+digital submission of your Tender, visit TenderNed gebruiken als ondernemer | TenderNed or 
+TenderNed for foreign businesses | TenderNed.  
+• Only Tenders that have been submitted to the digital safe for this invitation to tender either 
+prior to or on the day of the deadline (prior to the time of the deadline) will be processed by the 
+Tendering Authority.  
+• The time and date as displayed on the digital countdown clock in TenderNed serves as the 
+definitive deadline for the submission of Tenders.  
+• The Tendering Authority is only able to see the Tenders once the digital safe opens in 
+TenderNed. This safe can only be opened upon expiry of the deadline for the submission of 
+Tenders. 
+Tender Document 202310082  Page 28 of 32 
+ 
+• In the event you have technical issues or questions regarding submission of your Tender via 
+TenderNed, you can contact the TenderNed service desk via servicedesk@tenderned.nl or +31 
+(0)70-3798899. If you believe that the TenderNed service desk is taking too long to answer 
+your question or comment, then you can contact your contact person within the Tendering 
+Authority.  
+• Any risks resulting from late submission of the Tender and/or submission of an incomplete 
+Tender is borne by the Tenderer.  
+• The Tendering Authority is neither responsible nor liable for any consequences resulting from a 
+Tender that is submitted too late, incorrectly or incompletely. 
+ 
+The Tendering Authority will treat confidentional information provided by the Tenderer with due 
+care. 
+7.3.14 Structure and content of the Tender 
+The Tender must be submitted entirely via TenderNed and the ‘European Single Procurement 
+Document’ must be legally signed. 
+ 
+You can use the following checklist during the submission of your quotation. 
+ 
+Subject Description Action required from tenderer 
+Annex 1 European Single Procurement Document* Fill in, legally sign and add to 
+TenderNed 
+Award criteria  A separate response to each of the 
+Tendering Authority’s award criteria (Plan of 
+approach and Quality of the project team)  
+Add to TenderNed  
+‘Prices/Rates’ Prices/rates included in the quotation. 
+Tenderer can use his own format 
+Add to TenderNed 
+* See Subsection 7.3.16 in the event your Tender is submitted in collaboration with other 
+companies.  
+7.3.15 Legally binding signature 
+A legally binding signature means that a document has been signed by a duly authorized  
+representative. If it is recorded in the professional or company register that two or more persons 
+only have joint powers of representation, then the documents requiring a legally binding signature 
+must be signed by those two or more persons. If any restrictions are in place regarding the 
+authorization to represent the organization, then these must be taken into account.  
+ 
+Where a legally binding signature is required, the Contracting Authority accepts either an original 
+handwritten signature, or the qualified electronic signature within the meaning of article 3: 15a of 
+the Civil Code (or EU Regulation no. 910/2014, article 3, part 12). 
+ 
+Please note: it is not possible to sign the European Single Procurement Document with a qualified 
+electronic signature immediately. You can provide the ESPD with a handwritten signature or you 
+must make a digital PDF printout of the PDF form, after which the qualified electronic signature 
+can be placed on this digital PDF printout. 
+ 
+The lack of a legally binding signature in principle will lead to exclusion from the tendering 
+procedure. In that case, however, you will be given one single opportunity to correct it within 48 
+hours. 
+7.3.16 Submission of a Tender in collaboration with other organisations 
+If you cannot carry out the assignment independently, you can set up a collaboration with other 
+organisations. 
+Tender Document 202310082  Page 29 of 32 
+ 
+ 
+There are two ways in which you can submit a Tender in collaboration: 
+1) As a consortium in which each member of the consortium is jointly and severally liable for the 
+fulfilment of the obligations arising from the Tender as well as the fulfilment of the Contract. 
+2) In a principal contractor-subcontractor structure in which the Contractor is liable for the 
+fulfilment of all obligations, including the obligations that will be subcontracted. 
+ 
+Tendering as a consortium 
+If a Tender is submitted by a consortium, then: 
+• Every member of the consortium must fill in and legally sign a separate ‘European Single 
+Procurement Document’, which also includes a specification of who the consortium members 
+are (see Part II of the ‘European Single Procurement Document’). Indicate the role each 
+member plays within the consortium. In the ‘European Single Procurement Document’, you 
+must indicate who is in charge of the consortium (who is lead manager) and will act as its 
+authorised representative. 
+• All organisations in the consortium accept joint and several liability for the fulfilment of the 
+obligations arising from the Tender and the eventual fulfilment of the Contract. If a 
+consortium member relies upon the capacity of another entity in order to demonstrate 
+compliance with the applicable Suitability Requirements (see section 4 of this document), then 
+the subcontractor(s) in question must also complete a separate ‘European Single Procurement 
+Document’, filling in parts II A, II B, III and IV and legally sign it (see the information under II 
+C in the ESPD).   
+• Every member of the consortium, for their part, must provide the evidence requested for the 
+Tender. 
+ 
+Submitting a tender as a principal contractor together with subcontractors 
+If a Tender is submitted by a principal contractor that does not rely upon the capacity of any 
+subcontractors, then only the principal contractor is required to complete and legally sign Part II D 
+of the ‘European Single Procurement Document’. 
+ 
+If the principal contractor does rely on the capacity of subcontractors in order to demonstrate 
+compliance with the applicable Suitability Requirements, see section 4 of this document), then the 
+subcontractor(s) in question must also complete a separate ‘European Single Procurement 
+Document’, filling in parts II A, II B, III and IV and legally sign it (see the information under II C in 
+the ESPD).   
+ 
+The subcontractor on whose capacity the principal contractor does rely must provide the evidence 
+requested for the Tender. 
+ 
+The principal c
+
+=== Document: annex 1 - european single procurement procument 202310082 ===
+Please wait... 
+  
+If this message is not eventually replaced by the proper contents of the document, your PDF 
+viewer may not be able to display this type of document. 
+  
+You can upgrade to the latest version of Adobe Reader for Windows®, Mac, or Linux® by 
+visiting  http://www.adobe.com/go/reader_download. 
+  
+For more assistance with Adobe Reader visit  http://www.adobe.com/go/acrreader. 
+  
+Windows is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries. Mac is a trademark 
+of Apple Inc., registered in the United States and other countries. Linux is the registered trademark of Linus Torvalds in the U.S. and other 
+countries.
+
+=== Document: annex 3 - arvodi 2018 government terms and conditions ===
+AVT18/BZ125884C 1  
+General Government Terms and Conditions 
+for Public Service Contracts 2018  
+(ARVODI 2018) 
+ 
+ 
+ 
+ 
+ 
+ 
+Adopted by order of  
+the Prime Minister, 
+Minister of General Affairs, 
+of 3 May 2018, no. 3219106 
+ 
+AVT18/BZ125884C 2  
+I GENERAL 
+Article 1 Definitions  
+The following terms are written with initial capitals in these general terms and 
+conditions and are defined as follows: 
+1.1 Professional Errors: shortcomings such as mistakes, acts of carelessness, 
+negligence, omissions and erroneous advice, which a competent and 
+conscientious contractor would, in the given circumstances and assuming a 
+normal degree of attention, competence and professionalism, not commit; 
+1.2 Schedule: a document attached to the Contract which, when initialled by both 
+Parties, forms an integral part of the Contract; 
+1.3 Services: the work the Contractor is to perform for the Contracting Authority 
+under the terms of the Contract; 
+1.4 Contracting Authority: the State of the Netherlands or any other contracting 
+authority using these general terms and conditions; 
+1.5 Contractor: the counterparty of the Contracting Authority; 
+1.6 Contract: the written agreement between the Contracting Authority and the 
+Contractor to which the Terms and Conditions are declared to apply; 
+1.7 Party: the Contracting Authority or Contractor, depending on the context; 
+1.8 Contracting Authority’s Staff: the members of staff and/or assistants used by the 
+Contracting Authority during the performance of the Contract; 
+1.9 Contractor’s Staff: the members of staff and/or assistants used by the Contractor 
+for the purpose of performing the Contract for whom the Contractor is 
+responsible under the terms of the Contract; 
+1.10 Terms and Conditions: these general terms and conditions, which apply to and 
+form an integral part of the Contract.  
+1.11 Working Day: calendar day, except weekends and generally recognised public 
+holidays within the meaning of section 3, subsection 1 of the General Extension 
+of Time Limits Act. 
+Article 2 Application 
+2.1 Amendments or additions to the Contract or derogations from the Terms and 
+Conditions (or parts of them) are binding only if they have been explicitly agreed 
+in writing by the Parties.  
+2.2 In the event of inconsistency between the Dutch text of these Terms and 
+Conditions and translations of them, the Dutch text prevails. 
+ 
+AVT18/BZ125884C 3  
+II PERFORMANCE OF THE CONTRACT 
+Article 3 Guarantees given by the Contractor 
+3.1 The Contractor guarantees that the Services to be provided by it or on its behalf 
+meet the requirements laid down in the Contract. 
+3.2 The Contractor guarantees that the Services to be provided by it or on its behalf 
+will be performed in a professional manner. 
+Article 4 Assessment and acceptance  
+4.1 The Contracting Authority will assess the results of the Services within 30 days 
+of the date of their delivery. If it decides that the results are satisfactory, it will 
+notify the Contractor that they have been accepted. 
+4.2 If the Contracting Authority decides that the results of the Services are 
+unsatisfactory, it will notify the Contractor that they have not been accepted. 
+4.3 The Contracting Authority may have the results of the Services assessed by 
+third parties. 
+4.4 If the Contracting Authority has not notified the Contractor within 30 days of the 
+date of delivery of the Services, it will be deemed to have accepted the results. 
+ 
+4.5 The Contracting Authority is not obliged to make any payment to the Contractor until the 
+results have been accepted. 
+ 
+Article 5 Place and time of performance 
+ 
+ The Services will be performed at the time and place stated in the Contract. 
+ 
+Article 6 Replacement of staff responsible for performing the Services 
+ 
+6.1 The Contractor may temporarily or permanently replace staff who are 
+responsible for performing the Services only by way of exception and with the 
+prior consent of the Contracting Authority. The Contracting Authority will not 
+withhold its consent without good reason and may attach conditions to its 
+consent. The fees charged for the staff originally deployed may not be raised if 
+they are replaced. 
+ 
+6.2 If the Contracting Authority wishes to replace staff who are responsible for 
+performing the Services, because it feels that this is either necessary or 
+desirable for the proper performance of the Contract, the Contractor will comply 
+with the Contracting Authority’s request. The fee charged for replacement staff 
+will not be any higher than that laid down in the Contract for the staff replaced. 
+ 
+6.3 If staff responsible for performing the Contract are replaced, the expertise, 
+qualifications and experience of the replacement staff deployed by the 
+Contractor must be at least equal to those of the original staff or must meet the 
+criteria agreed by the Parties in this regard. 
+AVT18/BZ125884C 4  
+Article 7 Use of Contracting Authority’s property 
+The Parties may agree that, in performing the Services, the Contractor may make use 
+of property belonging to the Contracting Authority, which the Contracting Authority has 
+lent to the Contractor for this purpose. The Contracting Authority may attach conditions 
+to the loan of this property. 
+Article 8 Subcontracting 
+8.1 In performing the Contract, the Contractor may make use of third-party services 
+only after it has obtained the Contracting Authority’s consent. The Contracting 
+Authority will not withhold its consent without good reason. It may attach 
+conditions to its consent. 
+8.2 The fact that the Contracting Authority has given its consent does not affect the 
+Contractor’s own responsibility and liability for discharging the obligations 
+imposed on it under the Contract, and for discharging the obligations imposed on 
+it as an employer under tax and social insurance law.
+ 
+ 
+ 
+III RELATIONSHIP BETWEEN PARTIES AND SUPERVISION
+ 
+Article 9 Progress reports 
+ 
+The Contractor will report to the Contracting Authority on the progress of the work as 
+often as and in a manner as the Contract prescribes, or as the Contracting Authority 
+deems fit. 
+Article 10 Contacts 
+ 
+10.1 Each Party will designate a contact who will be responsible for maintaining 
+contacts in relation to the performance of the Contract. The Parties will notify 
+each other of the person they have appointed as their contact.
+ 
+ 
+10.2 The contacts may represent and bind the Parties only as regards the 
+performance of the Contract. They may not amend the Contract.  
+ 
+Article 11 Supervisory/steering committee 
+ 
+The Contract may provide for the formation of a supervisory or steering committee 
+whose duties, powers and composition may be laid down in the Contract.  
+ 
+Article 12 Method of notification 
+ 
+12.1 Notifications given by one Party to the other, including undertakings and further 
+agreements, that are relevant to the performance of the Contract are binding on 
+the Parties only if they are given or confirmed in writing by an authorised person. 
+ 
+12.2 ‘In writing’ is understood to include ‘electronically’, provided: 
+a. the notification can be consulted by the addressee; 
+AVT18/BZ125884C 5  
+b. the authenticity of the notification is sufficiently guaranteed; and 
+c. the identity of the sender can be determined with sufficient certainty. 
+ 
+Article 13 Confidentiality 
+ 
+13.1 The Contractor will not divulge in any way any information that comes to its 
+knowledge in performing the Contract and which it knows or may reasonably be 
+assumed to know is confidential, except in so far as it is compelled to divulge 
+such information under a statutory regulation or court ruling. 
+ 
+13.2 The Contractor will impose the same duty of confidentiality on its own Staff and 
+guarantees that they will fulfil it. 
+ 
+13.3 The Contractor will not divulge to third parties in any way the results of the 
+Services performed or provide any information on the results to third parties 
+without the Contracting Authority’s express consent. The Contracting Authority 
+may attach conditions to such consent. 
+ 
+13.4 After termination of the Contract, the Contractor must hand over to the 
+Contracting Authority without delay, at the Contracting Authority’s first request, 
+information that the Contractor has in its possession for the purpose of 
+performing the Contract, with the exception of information that the Contractor is 
+required to have in its possession on the basis of legislation and/or generally 
+accepted professional rules applicable to the Contractor. 
+ 
+13.5 If the Contractor breaches its duty of confidentiality, the Contracting Authority 
+may impose a penalty, as laid down in the Contract. Payment of a penalty that is 
+payable immediately does not discharge the Contractor from its liability for 
+indemnifying any damage caused by the breach. 
+ 
+Article 14 Processing of personal data 
+ 
+14.1 In so far as the Contractor, as a processor within the meaning of the General 
+Data Protection Regulation, processes personal data for the Contracting 
+Authority in the framework of the implementation of the Personal Data 
+Agreement, the Contractor guarantees the application of appropriate technical 
+and organisational measures, so that processing meets the requirements of the 
+General Data Protection Regulation and the protection of the data subjects is 
+ensured. The Contractor will process personal data only for and on the basis of 
+written instructions from the Contracting Authority, barring statutory rules to the 
+contrary. 
+ 
+14.2. The Parties will regulate the processing of personal data by the Contractor for 
+the Contracting Authority by means of an agreement. 
+ 
+Article 15 Security 
+ 
+15.1 The Contractor will instruct the Contractor’s Staff involved in the performance of 
+the work, in so far as the work is performed on the Contracting Authority’s 
+premises, to comply with the Contracting Authority’s security procedures and 
+AVT18/BZ125884C 6  
+other rules. The Contracting Authority will inform the Contractor in good time 
+about these procedures and rules. 
+ 
+15.2  The Contracting Authority may require the Contractor to provide certificates of 
+conduct for the Contractor’s Staff, at least three Working Days before work 
+begins on the Contracting Authority’s premises. 
+ 
+15.3 The Contracting Authority may carry out security checks on members of the 
+Contractor’s Staff, in accordance with the rules usually applied by the 
+Contracting Authority. The Contractor will lend its full cooperation to such 
+checks. The Contracting Authority may, on the basis of the results of a security 
+check, refuse to allow the person in question to work on the Contract, without 
+giving any reasons.
+ 
+ 
+ 
+IV FINANCIAL PROVISIONS 
+ 
+Article 16 Payment and upward and downward contract variations 
+ 
+16.1 The Contracting Authority will pay for the costs actually incurred and the hours 
+actually worked by the Contractor, unless a fixed fee has been agreed in the 
+Contract. 
+ 
+16.2 Should any additional requirements stipulated by the Contracting Authority, any 
+new information that is brought to the notice of the Contracting Authority or any 
+changes to the statutory regulations applicable to the work in question lead to 
+the work performed by the Contractor under the Contract becoming 
+demonstrably more demanding or extensive, this additional work constitutes an 
+upward contract variation for which the Contractor may charge a fee. Additional 
+work or new information which the Contractor could have foreseen when the 
+Contract was signed is not regarded as constituting an upward contract 
+variation. If a Party regards a particular request as constituting an upward 
+contract variation, it will notify the other Party thereof as quickly as possible. 
+ 
+16.3 The Contractor will not start any additional work that constitutes an upward 
+contract variation until it has received a written order to this effect from the 
+Contracting Authority. In order to obtain such an order, the Contractor will issue 
+a written quotation specifying the amount of additional work that is to be 
+performed, its duration and cost. Any additional work performed by the 
+Contractor will be subject to the provisions of the Contract, including those on 
+fees and discounts, where relevant, in so far as these have not been amended 
+by the Contracting Authority’s written order. When submitting a quotation, the 
+Contractor may not impose terms and conditions that are either more detailed or 
+more stringent than the original Terms and Conditions, unless it does so with the 
+Contracting Authority’s consent.
+ 
+ 
+16.4 The Contractor will always accept and carry out an order for additional work 
+representing up to a maximum of 10% of the original Contract value. Such an 
+order for additional work is subject to the provisions of the Contract. 
+ 
+AVT18/BZ125884C 7  
+16.5 Should any new information that is brought to the notice of the Contracting 
+Authority or any changes to the statutory regulations applicable to the work in 
+question lead to the work performed by the Contractor under the Contract 
+becoming demonstrably less demanding or extensive, this constitutes a 
+downward contract variation for which the Contracting Authority is entitled to a 
+discount. If a Party regards a particular change as constituting a downward 
+contract variation, it will notify the other Party thereof in writing as quickly as 
+possible. If a fixed fee has been agreed, the Parties will consult to agree on the 
+value of the discount, which will be deducted from the agreed fee. 
+ 
+Article 17 Invoicing 
+ 
+17.1 The Contractor will send the invoice electronically so that the Contracting 
+Authority can receive and process it electronically, in accordance with the 
+specifications issued by the Contracting Authority. 
+ 
+17.2 The Contractor will send invoices to the Contracting Authority. Each invoice will 
+state the date and number of the Contract and the relevant VAT charge. If 
+applicable under article 4, the Contractor will enclose a copy of the notice of 
+acceptance with the invoice, together with any other information requested by 
+the Contracting Authority. 
+ 
+ 
+17.3 If it has been agreed that the invoice will be based on the actual amount of time 
+spent as calculated after the completion of the Contract, the Contractor will 
+compile an itemised invoice in a format which the Contracting Authority is free to 
+specify. The Contractor’s invoice will state the number of days and hours 
+actually and necessarily spent on the Contract, as well as the relevant dates, 
+and will also contain a brief description of the work performed, and of any travel 
+and accommodation expenses if these are not included in the daily or hourly 
+rates under the Contract. 
+ 
+17.4 The Contractor will present separate invoices for any upward contract variations 
+after the additional work in question has been completed and accepted by the 
+Contracting Authority. The invoices will explicitly state the nature and amount of 
+the additional work performed, which will be itemised on the basis of authentic 
+documents. 
+ 
+Article 18 Payment and invoice audits 
+ 
+18.1 The Contracting Authority will pay the Contractor the amount owing under the 
+Contract no later than 30 days of receiving the relevant invoice, provided it 
+satisfies the provisions of the Contract. 
+ 
+18.2 If the Contracting Authority fails without good reason to pay an invoice within 
+the time limit stipulated in article 18.1, it will automatically be liable to pay: a. 
+compensation as referred to in article 6:96, paragraph 4 of the Dutch Civil 
+Code, and b. statutory interest as referred to in article 6:119b, paragraph 1 of 
+the Dutch Civil Code. The compensation and interest will be payable on 
+demand. 
+ 
+ 
+AVT18/BZ125884C 8  
+18.3 The Contracting Authority may instruct an accountant designated by the 
+Contracting Authority, as referred to in article 2:393, paragraph 1 of the Dutch 
+Civil Code, to audit the invoices submitted by the Contractor to determine their 
+accuracy. The Contractor will allow the accountant to inspect its books and 
+documents, and will supply him with any information he requests. This audit is 
+confidential and does not involve any more than is necessary to check the 
+invoices. The accountant will report as quickly as possible to both Parties. The 
+Contracting Authority will pay the cost of the accountant’s audit, unless the 
+latter’s work reveals that the invoices in question are not accurate or complete, 
+in which case the Contractor will be liable for the cost of the inspection. 
+ 
+18.4 The Contracting Authority may defer payment of an invoice or a portion thereof,  
+about which the Parties have failed to reach agreement, for the duration of the 
+accountant’s audit. The Contracting Authority will exercise this right only if it has 
+reasonable doubts about the accuracy of the invoice in question. 
+ 
+18.5 The Contractor is not entitled to suspend or terminate its work on account of the 
+Contracting Authority’s failure to pay an invoice within the stipulated time limit, or 
+if the Contracting Authority does not pay an invoice because it suspects that the 
+invoice is inaccurate or because the Services have not been properly performed. 
+ 
+Article 19 Advance 
+ 
+19.1 If the Contracting Authority, for the purpose of performing the Contract, makes 
+one or more payments for Services that have not yet been rendered, it may 
+require the Contractor to issue the Contracting Authority with an on-demand 
+bank guarantee prior to making the payment(s) in question, to the value of the 
+payment(s) in question. The Contracting Authority will not be required to pay any 
+of the cost of the guarantee.  
+ 
+19.2 If the Contracting Authority does not accept certain Services within the stipulated 
+time limit as a result of a failure that is attributable to the Contractor, the 
+Contractor is liable to pay statutory interest on the advance for as long as the 
+failure persists. 
+ 
+19.3 The on-demand bank guarantee will be issued by a bank approved by the 
+Contracting Authority, in accordance with the model enclosed with these Terms 
+and Conditions (see Annexe 1). 
+ 
+ 
+V NON-PERFORMANCE 
+ 
+Article 20 Potential delays 
+ 
+20.1 If there is any risk of the performance of the Services being delayed, the 
+Contractor will immediately notify the Contracting Authority, explaining the 
+reasons for and the consequences of the potential delay. The Contractor will 
+also propose measures to avoid further delay. 
+ 
+ 
+AVT18/BZ125884C 9  
+20.2 Within 14 days of receiving the notification referred to in the preceding 
+paragraph, the Contracting Authority will notify the Contractor whether or not it 
+agrees with the proposed measures and the consequences described by the 
+Contractor. Agreement does not imply any acceptance by the Contracting 
+Authority of the cause of the potential delay, and does not affect any other rights 
+or claims accruing to the Contracting Authority under the Contract and 
+legislation. 
+ 
+Article 21 Liability  
+ 
+21.1 If one of the Parties fails to discharge its obligations under the Contract, the 
+other Party may give notice of default. The defaulting Party is deemed to be 
+immediately in default, however, if it is clear that there is no prospect 
+whatsoever of it discharging the obligations in question within the stipulated time 
+limit for reasons other than force majeure. The notice of default will be given in 
+writing, and the defaulting Party will be given a reasonable period of time in 
+which to discharge its obligations. This is a strict deadline. The defaulting Party 
+is in default if it fails to discharge its obligations by the deadline set. 
+ 
+21.2 The notice of default referred to in the preceding paragraph is not required if the 
+time limit by which the agreed Services should have been performed has been 
+extended prior to its expiry. If the defaulting Party fails to discharge its 
+obligations as described in the preceding paragraph by the end of the extended 
+time limit, the defaulting Party is held to be immediately in default as from that 
+date. 
+ 
+ 
+21.3 Unless agreed otherwise, a Party that imputably fails to discharge its obligations 
+is liable to the other Party for any damage incurred by the other Party, on the 
+understanding that liability is limited to the following amounts: 
+− for Contracts whose total value is less than or equal to €50,000: €150,000 
+per event and €300,000 for each year or part of a year that the Contract has 
+been in force; 
+− for Contracts whose total value is greater than €50,000 but less than or 
+equal to €100,000: €300,000 per event and €500,000 for each year or part of 
+a year that the Contract has been in force; 
+− for Contracts whose total value is greater than €100,000 but less than or 
+equal to €150,000: €500,000 per event and €1,000,000 for each year or part 
+of a year that the Contract has been in force; 
+− for Contracts whose total value is greater than €150,000 but less than or 
+equal to €500,000: €1,500,000 per event and €3,000,000 for each year or 
+part of a year that the Contract has been in force; 
+− for Contracts whose total value is greater than €500,000: €3,000,000 per 
+event and €5,000,000 for each year or part of a year that the Contract has 
+been in force. 
+ 
+Related events will be treated as a single event. 
+ 
+The limitation of liability referred to above will not apply: 
+a. in the event of third-party claims for compensation in respect of death or 
+personal injury; 
+AVT18/BZ125884C 10  
+b. in the event of intent or gross negligence on the part of the other Party, the 
+Contractor’s Staff or the Contracting Authority’s Staff; 
+c. in the event of a breach of intellectual property rights as referred to in article 
+24; 
+d. in the event of an agreement concluded between the Parties under article 
+14, paragraph 2: to claims for compensation in relation to failure to comply 
+with that agreement, including any fines imposed by the supervisory 
+authority. 
+ 
+21.4 If, in performing the Services, the Contractor makes use of property belonging to 
+the Contracting Authority as referred to in article 7, the Contractor is liable for 
+any damage caused to such property. The limitation of liability set out in 
+paragraph 3 applies mutatis mutandis. 
+ 
+21.5 If the Contractor or third parties suffer damage, in whatever manner, as a result 
+of using property belonging to the Contracting Authority as referred to in article 
+7, the Contractor will bear the full expense and risk. The limitation of liability set 
+out in paragraph 3 applies mutatis mutandis. 
+ 
+21.6 The Contractor is liable for all obligations in respect of the Contractor’s Staff, 
+including those arising under tax and social insurance law. The Contractor 
+indemnifies the Contracting Authority against any liability in this connection. The 
+limitation of liability referred to in paragraph 3 does not apply.
+ 
+ 
+Article 22 Cancellation and notice of termination 
+ 
+22.1 Without prejudice to the other provisions of the Contract, either Party may 
+cancel the Contract in full or in part by registered letter, without recourse to the 
+courts, if the other Party is in default or compliance is permanently or temporarily 
+impossible, unless the breach does not warrant cancellation in view of its 
+exceptional nature or limited importance.  
+ 
+22.2 If one of the Parties is unable to discharge its obligations under the Contract as 
+a result of force majeure, the other Party is entitled to cancel the Contract, 
+subject to a reasonable period, in full or in part out of court by registered mail, 
+without its action creating any entitlement to compensation, but no earlier than 
+15 Working Days as from the date on which the circumstance that produced the 
+force majeure arose. 
+ 
+22.3 The term ‘force majeure’ is in any event understood not to include: staff 
+shortages, strikes, staff illness, shortages of raw materials, transport problems, 
+late delivery or the unsuitability of items required for the performance of the 
+work, liquidity or solvency problems on the part of the Contractor or failures on 
+the part of third parties engaged by the Contractor. 
+ 
+22.4 The Contracting Authority may cancel the Contract forthwith out of court by 
+registered mail, without being required to send any demand or notice of default, 
+if the Contractor applies for or is granted a provisional or definitive suspension of 
+payments, files for bankruptcy, is declared bankrupt, if its business is wound up, 
+if it ceases trading, if a substantial proportion of its assets are seized, if it 
+AVT18/BZ125884C 11  
+undergoes a merger or a division or is dissolved, or if it is deemed on any other 
+grounds to be no longer capable of discharging its obligations under the 
+Contract. 
+ 
+22.5 If the Contract is cancelled, the Contractor will repay any undue amounts 
+already paid by the Contracting Authority, plus the statutory interest on those 
+amounts from the date on which they were paid. If the Contract is partially 
+cancelled, the Contractor only has to repay payments relating to the part of the 
+contract that has been cancelled. 
+ 
+22.6 In addition, the Contracting Authority may terminate the Contract at any time by 
+giving notice of termination by registered mail. In such an event, the account 
+between the Contracting Authority and the Contractor will be settled on the basis 
+of the Services provided and costs reasonably incurred by the Contractor in 
+carrying out the assignment in question and of any commitments reasonably 
+entered into for the future for the purposes of the present Contract. The 
+Contracting Authority is not obliged to compensate the Contractor in any way for 
+the consequences of the termination of the Contract.
+ 
+ 
+Article 23 Retention of right to demand performance 
+ 
+The fact that one of the Parties omits to demand the performance of any provision of 
+the Contract within a time limit set by the Contract does not affect its right to demand 
+performance at a later date, unless the Party in question has expressly agreed to the 
+non-performance in writing. 
+ 
+ 
+VI MISCELLANEOUS
+ 
+ 
+Article 24 Intellectual property rights 
+ 
+24.1 Unless agreed otherwise, all copyrights that may be exercised in relation to the 
+results of the Services performed by the Contractor accrue to the Contracting 
+Authority, irrespective of where and when they may be exercised. Pursuant to 
+the Contract, the Contractor assigns such intellectual property rights to the 
+Contracting Authority as soon as they arise. The Contracting Authority hereby 
+accepts the assignment of these rights. 
+  
+24.2 All database rights that may be exercised in relation to the results of the 
+Services performed by the Contractor accrue to the Contracting Authority, 
+irrespective of where and when they may be exercised. Pursuant to the 
+Contract, the Contractor assigns such intellectual property rights to the 
+Contracting Authority as soon as they arise. The Contracting Authority hereby 
+accepts the assignment of these rights 
+ 
+24.3 In so far as the results of the Services performed are achieved partly or wholly 
+using existing intellectual property rights that do not accrue to the Contracting 
+Authority, the Contractor grants the Contracting Authority a non-exclusive and 
+irrevocable right of use for an indefinite period. In such an event, the Contractor 
+guarantees that it is entitled to grant the aforesaid right of use. 
+AVT18/BZ125884C 12  
+24.4 In so far as a separate instrument needs to be executed for the assignment of 
+the rights referred to in articles 24.1 and 24.2, the Contractor hereby irrevocably 
+authorises the Contracting Authority to draft such an instrument and sign it on 
+the Contractor’s behalf, without prejudice to the Contractor’s obligation to 
+cooperate with the assignment of these rights as soon as the Contracting 
+Authority requests it to do so, without attaching any conditions to its cooperation.  
+ 
+24.5 If there is a difference of opinion between the Parties on the intellectual property 
+rights referred to in articles 24.1 and 24.2, in relation to the results of the 
+Services performed, it will be assumed, in the absence of proof to the contrary, 
+that the rights accrue to the Contracting Authority. In all cases, the Contracting 
+Authority may continue to use the results for the purposes specified in the 
+Contract. 
+ 
+24.6 The Contractor hereby renounces vis-à-vis the Contracting Authority any moral 
+rights vested in it, i.e. the Contractor, as referred to in the Copyright Act, in so far 
+as the relevant regulations allow it to do so. Acting both in its own capacity and 
+on behalf of the Contractor’s Staff, and as authorised to this end, the Contractor 
+renounces vis-à-vis the Contracting Authority any moral rights vested in these 
+staff, in so far as the relevant regulations allow it to do so. 
+ 
+24.7 The Contractor indemnifies the Contracting Authority against all claims brought 
+by third parties in respect of any breach of their intellectual property rights, 
+including equivalent claims relating to knowledge, unlawful competition and 
+suchlike. The Contractor is obliged to take any action that may help to prevent 
+stagnation and to limit the additional costs and/or damage incurred as a result of 
+such breaches, and to do so at its own expense. 
+ 
+24.8 Without prejudice to the above provisions, the Contracting Authority may, if a 
+third party holds the Contractor liable for a breach of its intellectual property 
+rights, cancel the Contract in writing, in full or in part, out of court, without 
+prejudice to its other rights vis-à-vis the Contractor, such to include but not 
+limited to any right to compensation. The Contracting Authority will not exercise 
+its right to cancel the Contract until it has first consulted the Contractor.  
+ 
+24.9 Intellectual property rights arising from the Services performed other than those 
+referred to in articles 24.1 and 24.2 may never be exercised against the 
+Contracting Authority, and the Contractor assigns to the Contracting Authority a 
+non-exclusive and irrevocable right to use such rights, free of charge, for an 
+indefinite period for the purposes of the Contract’s objectives.
+ 
+ 
+Article 25 Assignment of rights and obligations under the Contract 
+ 
+25.1 The Parties may not transfer their rights and obligations under the Contract to 
+third parties without the consent of the other Party. The other Party will not 
+withhold its consent without good reason. The Parties may attach conditions. 
+ 
+25.2 Paragraph 1 does not apply to the establishment of limited rights, such as a 
+right of pledge. 
+ 
+AVT18/BZ125884C 13  
+Article 26 Insurance 
+ 
+26.1 The Contractor has taken out and will retain adequate and customary insurance 
+cover in accordance with generally accepted standards in respect of the 
+following risks: 
+a. professional liability, i.e. the risks arising from Professional Errors; 
+b. business liability, including liability for damage caused to persons or the 
+Contracting Authority’s property; 
+c. loss of or damage to business property (including as a result of fire or theft), 
+including items of property owned by the Contracting Authority. 
+ 
+26.2 At the Contracting Authority’s request, the Contractor will immediately present 
+either the original or certified copies of the policies and proof of the payment of 
+premium for the insurances referred to in paragraph 1 or a statement from the 
+insurer to the effect that these policies exist and the premium has been paid. 
+The insurance premiums owed by the Contractor are deemed to be included in 
+the agreed prices and fees. 
+ 
+Article 27 Employment conditions 
+ 
+27.1 In performing the Services, the Contractor will comply with the applicable 
+legislation on employment conditions and with the collective labour agreement 
+applicable to it and its staff. 
+ 
+27.2  The Contractor will record all agreements on employment conditions made for 
+the purpose of the performance of the Contract in a clear and accessible 
+manner. 
+ 
+27.3 Upon request, the Contractor will immediately grant competent authorities 
+access to these agreements on employment conditions and cooperate with any 
+inspections, audits or salary validations. 
+ 
+27.4 Upon request, the Contractor will immediately grant the Contracting Authority 
+access to the agreements on employment conditions referred to in paragraph 2 
+if the Contracting Authority considers this necessary to prevent or deal with a 
+salary claim concerning work carried out for the purpose of the performance of 
+the Contract. 
+ 
+27.5 The Contractor will impose the obligations arising from the previous paragraphs 
+in full on all parties with which it enters into contracts for the purpose of the 
+performance of the Contract and will also stipulate that these parties impose 
+these obligations in full on all parties with which they, in turn, enter into contracts 
+for the purpose of the performance of the Contract. 
+ 
+Article 28 Bribery and conflict of interests 
+ 
+28.1 The Parties will not offer to each other or to third parties, or ask for, accept or 
+obtain a promise of, from each other or third parties, whether for themselves or 
+for any other party, any gift, reward, compensation or benefit of any form 
+whatsoever if this could be construed as constituting an illicit practice. Such a 
+AVT18/BZ125884C 14  
+practice may constitute grounds for cancelling the Contract either in full or in 
+part.  
+ 
+28.2 Should it transpire that a member of the Contracting Authority’s Staff is also in 
+the Contractor’s employment, regardless of whether or not such employment is 
+paid, or was in the Contractor’s employment at the time when negotiations took 
+place on the formation of the Contract, and that the Contracting Authority was 
+not informed of this prior to the signing of the Contract, the Contracting Authority 
+may cancel the Contract with immediate effect, without being required to give 
+any notice of default or to pay any compensation. 
+ 
+Article 29 Invalidity 
+ 
+If one or more provisions of the Terms and Conditions or the Contract are found to be 
+invalid or are nullified by a court of law, the remaining provisions will retain their legal 
+force. The Parties will consult on the former provisions in order to make an alternative 
+arrangement. The alternative arrangement must not undermine the purpose and the 
+purport of the Terms and Conditions or the Contract. 
+ 
+Article 30 Follow-up order 
+ 
+The Contract does not entitle the Contractor to any follow-up orders. 
+ 
+Article 31 Publicity 
+ 
+The Contractor may not refer to the Contract either implicitly or explicitly in publications 
+(including press releases) or advertisements and may use the Contracting Authority’s 
+name as a reference only with the Contracting Authority’s consent. 
+ 
+Article 32 Long-term provisions 
+ 
+Provisions which by their nature are intended to persist after the Contract has been 
+performed will remain in force after the expiry of the Contract. These obligations 
+include in any event the provisions on guarantees (article 3), liability (article 21), 
+intellectual property rights (article 24), confidentiality (article 13), and disputes and 
+applicable law (article 33).
+ 
+ 
+Article 33 Disputes and applicable law  
+ 
+33.1 Any dispute between the Parties in relation to the Contract will be submitted only 
+to the competent court in the district of The Hague, unless the Parties agree on 
+an alternative means of settlement at the time a dispute arises. 
+ 
+33.2 The Contract is governed by Dutch law.
+
+=== Document: annex 4 - complaints procedure ===
+Annex 3 Complaints procedure 
+ 
+ 
+Complaint 
+A complaint is a written notification by an enterprise with an interest in the tender1 to the contracting authority, 
+in which the entrepreneur specifies with reasons on what points he disagrees with the tender or any part of it. 
+ 
+The complaint must at least contain:  
+• The date. 
+• The name and address of the entrepreneur. 
+• The name of the tender. 
+• The content of the complaint in which the complaint is clearly defined as such. 
+• How the complaint could be resolved according to the entrepreneur. 
+ 
+Not every question by an entrepreneur in a tendering procedure needs to lead to a complaint and not every 
+complaint requires going through the entire complaints procedure. Questions and requests relating to 
+clarification of aspects of the tendering procedure must be submitted in time by the entrepreneur to the 
+contracting authority in accordance with the provisions in the tender document. This also applies to a request to 
+make a non-essential change in the tender documents. Only if the entrepreneur continues to disagree with the 
+response (in the summary of additional information and changes) of the contracting authority, or if a response 
+is not forthcoming, may he lodge a complaint with the contracting authority. The entrepreneur may also lodge a 
+complaint immediately.  
+ 
+Complaints relate to aspects of the tender that come within the scope of the Public Procurement Act 2012. 
+Complaints may not question the tender policy of the contracting authority in general. 
+ 
+Who is allowed to lodge a complaint? 
+A complaint may be lodged by entrepreneurs with an interest in being awarded a specific tender. This includes: 
+- interested entrepreneurs  
+- (potential) tenderers and candidates 
+- subcontractors2 of (potential) tenderers and candidates 
+- industry associations and industry-related advice centres of entrepreneurs. 
+ 
+Complaints may not be lodged anonymously. However, if it has any objections, an industry association may 
+submit a complaint in its private capacity if this complaint relates to a specific tender which concerns one or 
+more entrepreneurs in the industry. 
+ 
+What is the final date for submitting a complaint? 
+The entrepreneur is advised to lodge his complaint at the earliest possible opportunity. If the complaint is 
+submitted too late, the contracting authority will not be able to resolve the complaint during the ongoing 
+procedure. 
+ 
+Submitting a complaint does not stop a tender procedure. The contracting authority may or may not decide to 
+suspend the procedure. 
+ 
+1 Tender also includes the proposal procedure. 
+2 Subcontractors may lodge a complaint in so far as the complaint does not concern the relationship between 
+main contractor and subcontractor. 
+ 
+Where should you submit your complaint?  
+Complaints should be submitted in writing to: 
+KlachtenmeldpuntAanbesteden@minezk.nl 
+ 
+The complaint will be dealt with by one or more persons who have not been involved with the tender to which 
+the complaint relates. 
+ 
+The complaints handling procedure 
+a. After receiving the complaint in the manner described above, the complaints office immediately confirms it 
+has received the complaint. 
+b. The complaints office subsequently investigates if the complaint is legitimate, if necessary on the basis of 
+information provided by the entrepreneur and the contracting authority. The complaints office starts this 
+investigation as soon as possible, proceeds expeditiously, while taking account of the schedule of the 
+tender procedure. 
+c. If, after the complaint has been investigated by the complaints office, the contracting authority concludes 
+that the complaint is (partially) legitimate and the contracting authority takes corrective and/or preventive 
+measures, the contracting authority will inform the entrepreneur of this in writing as soon as possible. The 
+other (potential) tenderers and candidates are also informed. Depending on the stage of the tender 
+procedure, the contact person of the tender of the contracting authority may communicate the measures to 
+the persons involved in the tender at the same time as the person who made the complaint is informed. 
+This is to prevent giving undue preference to any of the parties.  
+d. If, after the investigation, the contracting authority concludes that the complaint is not legitimate, it will 
+reject the complaint giving its reasons for doing so and inform the entrepreneur. 
+e. At the request of the entrepreneur or the contracting authority, the complaints office may propose, before 
+the contracting authority makes a decision, to have the complaint submitted to the Committee of 
+Tendering Experts (article 4.27 Aanbestedingswet (Public Procurement Act) 2012). 
+f. When the contracting authority has informed the entrepreneur of the decision it has reached, or if the 
+contracting authority fails to respond to the complaint within a reasonable term, the complainant may 
+submit the complaint to the Committee of Tendering Experts.

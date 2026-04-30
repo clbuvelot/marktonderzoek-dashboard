@@ -1,0 +1,2332 @@
+=== Document: nota van inlichtingen 2024-04-26-1 ===
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 1 van 4 Datum genereren nota van inlichtingen: 26 apr. 2024
+Algemene informatie
+Aanbesteding: Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknr. 31195825
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Appendix K - Requirement specifications Annex 02-01 section 4.1.6
+Vraag:
+Which tasks, authorities and responsibilities will the VTMon role have (for 
+the simulation runs)? Is this the basis for the simulation runs?
+Antwoord:
+For the tasks, authorities and responsibilities of the VTMon role reference is 
+made to the report "Vessel Traffic Monitoring VTM in en rond windparken" 
+with English management summary at Noordzeeloket https://www.
+noordzeeloket.nl/functies-gebruik/windenergie/scheepvaartveiligheid-
+moswoz/vessel-traffic-monitoring/. The VTMon operator will execute the 
+tasks as described on the webpage during the simulation runs as if they are 
+on an actual watch. During the runs certain events will occur. Through i.e. 
+observations, information can be gained about their actions and behaviors.
+The tasks, authorities and responsibilities of the VTMon are not the basis of 
+the simulation runs. The behavior and response of the VTMon person is part 
+of the research. Where the VTMon is incorporated in the large simulation 
+runs, the number of ships in the complete area to be monitored by the 
+VTMon forms the basis of the VTMon performance.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Appendix K Requirement specs Annex 02-01, section 2
+Vraag:
+With regards to: …" These situations allow for collecting information 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 2 van 4 Datum genereren nota van inlichtingen: 26 apr. 2024
+regarding the crews choices, behaviour and actions. Where possible, culture-
+related information is also gathered. " 
+- How should cultural factors be considered in the simulation of crew 
+behavior, and are there any specific guidelines or expectations?
+Antwoord:
+There are no guidelines, however research into cultural differences is widely 
+available. Only those cultural aspects impacting on decisions taken by the 
+crew should be identified and considered whether they have an impact on the 
+outcome of the scenario. Certain cultural factors and possible findings 
+depend on and are strongly related to the ship’s crew and nationality selected 
+for the simulation runs.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Tender Guidelines v1.2, section 4.3.1
+Vraag:
+Can a Dutch company/partnership choose to draw up the tender in English?
+Antwoord:
+No, according to paragraph 4.3.1 section 1 of the Tender Guidelines the 
+Dutch tenderer (or the joint venture of Dutch business owners i.e. 
+consortium, as a general partnership), must submit the tender documents in 
+Dutch. If the consortium is represented by a foreign business owner among 
+foreign or Dutch business owners, the documents can be drawn up in 
+English. Please understand that the members of the evaluation committee 
+have equally good understanding of both languages.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Tender Guidelines v1.2, §3.2 Geschiktheidseisen / _Appendix G EMVI-
+BPKV Criteria Table v1.1 Performance criteria /
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 3 van 4 Datum genereren nota van inlichtingen: 26 apr. 2024
+How does client expect understanding of eligibility requirements/ 
+performance criteria:
+- the appendix G seems to indicate that four references are desired?
+Antwoord:
+Eligibility requirements (projectreferences) have been stated in paragraph 
+3.2 subsection 3 of the Tender Guidelines, and have to be filled in one or 
+more appendices D. 
+Once the tender passed the tender committee who will take notive of the 
+appendices D, the qualitative evaluation of the tenders wille be done by the 
+evaluation committee according to Appendix G. Preferences in appendix G 
+relate to appendix 02-02 “English version RWS MOSWOZ drawing up 
+simulation scenarios”, f.e. section 4.1.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Appendix D Data regarding technical competence / Tender guidelines v1.2 
+section 3.2
+Vraag:
+Appendix D refers to section 3.2 subsection 3.b1 and 3.b2. If these refer to 
+the subsections of the Tender Guidelines v1.2: where are sections 3.b1 and 3.
+b2 mentioned in section 3.2 of the Tender Guidelines? 
+Does this refer to: "(1) the provision of services relating to human factor 
+observations, analysis and reporting; (2) data analysis and reporting relating 
+to observations comparable with this contract and/or by conducting 
+comparable observations"?
+Antwoord:
+Correct. We apologies for this. 
+Paragraph 3.2 of the Tender Guidelines subsection 3 should be read as 
+follows.
+"3. The following eligibility requirements are stipulated with regard to 
+technical competence:
+a. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner has implemented at least one contract relating 
+to simulations in the field of sea shipping, and reporting on those 
+stimulations, with an agreed amount (contract price) or invoiced amount 
+equal to or larger than 20,000 euros (excluding turnover tax), in the course of 
+which the business owner bore final responsibility towards the Awarding 
+party for implementation of the contract.
+The contract was implemented in an expert and regular manner and the 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 4 van 4 Datum genereren nota van inlichtingen: 26 apr. 2024
+contract was handed over within the agreed term (including any granted 
+postponement of completion) or an equivalent action took place.
+b. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner implemented at least one (1) contract in which 
+knowledge was acquired of:
+(1) the provision of services relating to human factor observations, analysis 
+and reporting;
+(2) data analysis and reporting relating to observations comparable with this 
+contract and/or by conducting comparable observations"
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Tender Guidelines, paragraph 4.1.1
+Vraag:
+In paragraph 4.1.1 of the Tender Guidelines the subsections 6 and 7 are 
+drawn up in Dutch. Please provide the English translation.
+Antwoord:
+6. With his tender, the tenderer must also enclose a declaration according to 
+Appendix H, in which he indicates to have taken into account the obligations 
+in the fields of environmental, social and labour law by virtue of the laws of 
+the European Union, national law or group employment contracts or by 
+virtue of the provisions about international environmental, social and labour 
+law set out in Schedule X to Directive 2014/24/EU.
+This document must be signed by the tenderer - and in the case of multiple 
+tenderers: by all tenderers.
+7. With his tender, the tenderer must also enclose a declaration according to 
+Appendix N, in which he indicates to have taken into account one or more of 
+the formulated regimes regarding international social conditions.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Proces
+
+=== Document: nota van inlichtingen 2024-05-06-1 ===
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 1 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+Algemene informatie
+Aanbesteding: Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknr. 31195825
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Appendix K - Requirement specifications Annex 02-01 section 4.1.6
+Vraag:
+Which tasks, authorities and responsibilities will the VTMon role have (for 
+the simulation runs)? Is this the basis for the simulation runs?
+Antwoord:
+For the tasks, authorities and responsibilities of the VTMon role reference is 
+made to the report "Vessel Traffic Monitoring VTM in en rond windparken" 
+with English management summary at Noordzeeloket https://www.
+noordzeeloket.nl/functies-gebruik/windenergie/scheepvaartveiligheid-
+moswoz/vessel-traffic-monitoring/. The VTMon operator will execute the 
+tasks as described on the webpage during the simulation runs as if they are 
+on an actual watch. During the runs certain events will occur. Through i.e. 
+observations, information can be gained about their actions and behaviors.
+The tasks, authorities and responsibilities of the VTMon are not the basis of 
+the simulation runs. The behavior and response of the VTMon person is part 
+of the research. Where the VTMon is incorporated in the large simulation 
+runs, the number of ships in the complete area to be monitored by the 
+VTMon forms the basis of the VTMon performance.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Appendix K Requirement specs Annex 02-01, section 2
+Vraag:
+With regards to: …" These situations allow for collecting information 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 2 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+regarding the crews choices, behaviour and actions. Where possible, culture-
+related information is also gathered. " 
+- How should cultural factors be considered in the simulation of crew 
+behavior, and are there any specific guidelines or expectations?
+Antwoord:
+There are no guidelines, however research into cultural differences is widely 
+available. Only those cultural aspects impacting on decisions taken by the 
+crew should be identified and considered whether they have an impact on the 
+outcome of the scenario. Certain cultural factors and possible findings 
+depend on and are strongly related to the ship’s crew and nationality selected 
+for the simulation runs.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Tender Guidelines v1.2, section 4.3.1
+Vraag:
+Can a Dutch company/partnership choose to draw up the tender in English?
+Antwoord:
+No, according to paragraph 4.3.1 section 1 of the Tender Guidelines the 
+Dutch tenderer (or the joint venture of Dutch business owners i.e. 
+consortium, as a general partnership), must submit the tender documents in 
+Dutch. If the consortium is represented by a foreign business owner among 
+foreign or Dutch business owners, the documents can be drawn up in 
+English. Please understand that the members of the evaluation committee 
+have equally good understanding of both languages.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Tender Guidelines v1.2, §3.2 Geschiktheidseisen / _Appendix G EMVI-
+BPKV Criteria Table v1.1 Performance criteria /
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 3 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+How does client expect understanding of eligibility requirements/ 
+performance criteria:
+- the appendix G seems to indicate that four references are desired?
+Antwoord:
+Eligibility requirements (projectreferences) have been stated in paragraph 
+3.2 subsection 3 of the Tender Guidelines, and have to be filled in one or 
+more appendices D. 
+Once the tender passed the tender committee who will take notive of the 
+appendices D, the qualitative evaluation of the tenders wille be done by the 
+evaluation committee according to Appendix G. Preferences in appendix G 
+relate to appendix 02-02 “English version RWS MOSWOZ drawing up 
+simulation scenarios”, f.e. section 4.1.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Appendix D Data regarding technical competence / Tender guidelines v1.2 
+section 3.2
+Vraag:
+Appendix D refers to section 3.2 subsection 3.b1 and 3.b2. If these refer to 
+the subsections of the Tender Guidelines v1.2: where are sections 3.b1 and 3.
+b2 mentioned in section 3.2 of the Tender Guidelines? 
+Does this refer to: "(1) the provision of services relating to human factor 
+observations, analysis and reporting; (2) data analysis and reporting relating 
+to observations comparable with this contract and/or by conducting 
+comparable observations"?
+Antwoord:
+Correct. We apologies for this. 
+Paragraph 3.2 of the Tender Guidelines subsection 3 should be read as 
+follows.
+"3. The following eligibility requirements are stipulated with regard to 
+technical competence:
+a. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner has implemented at least one contract relating 
+to simulations in the field of sea shipping, and reporting on those 
+stimulations, with an agreed amount (contract price) or invoiced amount 
+equal to or larger than 20,000 euros (excluding turnover tax), in the course of 
+which the business owner bore final responsibility towards the Awarding 
+party for implementation of the contract.
+The contract was implemented in an expert and regular manner and the 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 4 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+contract was handed over within the agreed term (including any granted 
+postponement of completion) or an equivalent action took place.
+b. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner implemented at least one (1) contract in which 
+knowledge was acquired of:
+(1) the provision of services relating to human factor observations, analysis 
+and reporting;
+(2) data analysis and reporting relating to observations comparable with this 
+contract and/or by conducting comparable observations"
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Tender Guidelines, paragraph 4.1.1
+Vraag:
+In paragraph 4.1.1 of the Tender Guidelines the subsections 6 and 7 are 
+drawn up in Dutch. Please provide the English translation.
+Antwoord:
+6. With his tender, the tenderer must also enclose a declaration according to 
+Appendix H, in which he indicates to have taken into account the obligations 
+in the fields of environmental, social and labour law by virtue of the laws of 
+the European Union, national law or group employment contracts or by 
+virtue of the provisions about international environmental, social and labour 
+law set out in Schedule X to Directive 2014/24/EU.
+This document must be signed by the tenderer - and in the case of multiple 
+tenderers: by all tenderers.
+7. With his tender, the tenderer must also enclose a declaration according to 
+Appendix N, in which he indicates to have taken into account one or more of 
+the formulated regimes regarding international social conditions.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Proces
+Ref.nr. Onderwerp:
+7 Appendix G EMVI-BPKV Criteria Table v1.1
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 5 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+In the EMVI-criteria the total quality value of quality criteria A is set on 
+€1.025.000,- No value is added to the quality value of performance criteria 
+B. What is the maximum contract sum budgeted by Rijkswaterstaat?
+Antwoord:
+Apart from the quality criteria (A), no performance criteria have been 
+defined, consequently no added value related to criteria B will be added to 
+the total sum.
+The maximum contract sum budgetted by Rijkswaterstaat cannot not be 
+published.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Contract
+Ref.nr. Onderwerp:
+8 Annex 02-01 of Appendix K
+Vraag:
+Er wordt vereist om 3 FMB simulatoren beschikbaar
+te hebben maar in de beschrijving van de 8 simulaties worden hooguit 2 
+FMB simulatoren ingezet. Kan deze eis vervallen?
+Antwoord:
+Contrary to the requirement specifications, Appendix K only 2 FMB 
+simulators will be required.
+A higher EMVI-BVfM score however can be obtained through the criteria 
+1.2 (regarding downtime) and 1.3 (computing capacity).
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om alle brondata digitaal per simulatierun aan te leveren 
+aan de opdrachtgever. Als gedurende de simulatieruns fysiologische data 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 6 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+verzameld wordt van participanten valt dit ook onder de noemer “data”. Dit 
+betreft privacygevoelige data. Staat de opdrachtgever er open voor om 
+voorafgaand aan de simulaties een keuze te maken tussen welke ruwe data 
+opgeleverd wordt en welke data alleen in geproceste vorm wordt 
+aangeleverd? Ter achtergrond: als opdrachtnemer gaan wij een overkomst 
+aan met participanten waarbij wij hun privacy willen waarborgen (conform 
+AVG). Het opleveren van fysiologische ruwe data kan daar strijdig mee zijn. 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+After awarding the contract the issue of which fysiological source data 
+should be provided, raw and/or anonimized, will be mutually agreed.
+Raw data has no added value for the contracting party without the 
+appropriate viewing software.
+It is important that the tenderer is transparent which data and analyses have 
+been used during the project, moreover which anonymization or 
+pseudonymization according to the GDPR has been applied.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 Artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Vraag:
+Met verwijzing naar artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Is het mogelijk om dit artikel als volgt aan te passen. Nu staat er in artikel 
+7.6 van de overeenkomst:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 
+vrijwaart Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van 
+derden op vergoeding van schade als gevolg van het tekortschieten als 
+bedoeld in artikel 21.3 van de ARVODI-2018. De staffel inzake 
+aansprakelijkheid opgenomen in artikel 21.3 van de ARVODI-2018 is van 
+overeenkomstige toepassing.
+Voorstel:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 vrijwaart 
+Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van derden op 
+vergoeding van schade als gevolg van het tekortschieten als bedoeld in 
+artikel 21.3 van de ARVODI-2018. De staffel inzake aansprakelijkheid 
+opgenomen in artikel 21.3 van de ARVODI-2018 is van overeenkomstige 
+toepassing waarbij partijen uitdrukkelijk overeenkomen dat de 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 7 van 7 Datum genereren nota van inlichtingen: 6 mei 2024
+aansprakelijkheid in dit document en in artikel 21 van de ARVODI-2018 
+beperkt wordt tot de waarde van de opdracht tot een maximum van €500.000,
+-
+Antwoord:
+The Contracting party will not agree with the proposed adjustment and 
+adheres to the principle of article 21.3 (of the ARVODI 2018) to the effect 
+that the liability is limited to three times the contract value. This with 
+reference to page 8 of the public explanation of the ARVODI 2018.
+Nevertheless the amount of € 3.000.000,- in article 21.3 (of the ARVODI 
+2018) should be read as € 2.500.000,- in case the contractvalue fits in the 
+range € 150.000-500.000,-, as a result of which this suits better with the 
+standard of the particular industry. In the same way the amount of € 
+3.000.000 and € 5.000.000,- should be read as € 2.500.000,- in case the 
+contractvalue fits in the range higher than € 500.000,-.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Contract
+
+=== Document: nota van inlichtingen 2024-05-06-2 ===
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 1 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+Algemene informatie
+Aanbesteding: Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknr. 31195825
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Appendix K - Requirement specifications Annex 02-01 section 4.1.6
+Vraag:
+Which tasks, authorities and responsibilities will the VTMon role have (for 
+the simulation runs)? Is this the basis for the simulation runs?
+Antwoord:
+For the tasks, authorities and responsibilities of the VTMon role reference is 
+made to the report "Vessel Traffic Monitoring VTM in en rond windparken" 
+with English management summary at Noordzeeloket https://www.
+noordzeeloket.nl/functies-gebruik/windenergie/scheepvaartveiligheid-
+moswoz/vessel-traffic-monitoring/. The VTMon operator will execute the 
+tasks as described on the webpage during the simulation runs as if they are 
+on an actual watch. During the runs certain events will occur. Through i.e. 
+observations, information can be gained about their actions and behaviors.
+The tasks, authorities and responsibilities of the VTMon are not the basis of 
+the simulation runs. The behavior and response of the VTMon person is part 
+of the research. Where the VTMon is incorporated in the large simulation 
+runs, the number of ships in the complete area to be monitored by the 
+VTMon forms the basis of the VTMon performance.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Appendix K Requirement specs Annex 02-01, section 2
+Vraag:
+With regards to: …" These situations allow for collecting information 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 2 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+regarding the crews choices, behaviour and actions. Where possible, culture-
+related information is also gathered. " 
+- How should cultural factors be considered in the simulation of crew 
+behavior, and are there any specific guidelines or expectations?
+Antwoord:
+There are no guidelines, however research into cultural differences is widely 
+available. Only those cultural aspects impacting on decisions taken by the 
+crew should be identified and considered whether they have an impact on the 
+outcome of the scenario. Certain cultural factors and possible findings 
+depend on and are strongly related to the ship’s crew and nationality selected 
+for the simulation runs.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Tender Guidelines v1.2, section 4.3.1
+Vraag:
+Can a Dutch company/partnership choose to draw up the tender in English?
+Antwoord:
+No, according to paragraph 4.3.1 section 1 of the Tender Guidelines the 
+Dutch tenderer (or the joint venture of Dutch business owners i.e. 
+consortium, as a general partnership), must submit the tender documents in 
+Dutch. If the consortium is represented by a foreign business owner among 
+foreign or Dutch business owners, the documents can be drawn up in 
+English. Please understand that the members of the evaluation committee 
+have equally good understanding of both languages.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Tender Guidelines v1.2, §3.2 Geschiktheidseisen / _Appendix G EMVI-
+BPKV Criteria Table v1.1 Performance criteria /
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 3 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+How does client expect understanding of eligibility requirements/ 
+performance criteria:
+- the appendix G seems to indicate that four references are desired?
+Antwoord:
+Eligibility requirements (projectreferences) have been stated in paragraph 
+3.2 subsection 3 of the Tender Guidelines, and have to be filled in one or 
+more appendices D. 
+Once the tender passed the tender committee who will take notive of the 
+appendices D, the qualitative evaluation of the tenders wille be done by the 
+evaluation committee according to Appendix G. Preferences in appendix G 
+relate to appendix 02-02 “English version RWS MOSWOZ drawing up 
+simulation scenarios”, f.e. section 4.1.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Appendix D Data regarding technical competence / Tender guidelines v1.2 
+section 3.2
+Vraag:
+Appendix D refers to section 3.2 subsection 3.b1 and 3.b2. If these refer to 
+the subsections of the Tender Guidelines v1.2: where are sections 3.b1 and 3.
+b2 mentioned in section 3.2 of the Tender Guidelines? 
+Does this refer to: "(1) the provision of services relating to human factor 
+observations, analysis and reporting; (2) data analysis and reporting relating 
+to observations comparable with this contract and/or by conducting 
+comparable observations"?
+Antwoord:
+Correct. We apologies for this. 
+Paragraph 3.2 of the Tender Guidelines subsection 3 should be read as 
+follows.
+"3. The following eligibility requirements are stipulated with regard to 
+technical competence:
+a. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner has implemented at least one contract relating 
+to simulations in the field of sea shipping, and reporting on those 
+stimulations, with an agreed amount (contract price) or invoiced amount 
+equal to or larger than 20,000 euros (excluding turnover tax), in the course of 
+which the business owner bore final responsibility towards the Awarding 
+party for implementation of the contract.
+The contract was implemented in an expert and regular manner and the 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 4 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+contract was handed over within the agreed term (including any granted 
+postponement of completion) or an equivalent action took place.
+b. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner implemented at least one (1) contract in which 
+knowledge was acquired of:
+(1) the provision of services relating to human factor observations, analysis 
+and reporting;
+(2) data analysis and reporting relating to observations comparable with this 
+contract and/or by conducting comparable observations"
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Tender Guidelines, paragraph 4.1.1
+Vraag:
+In paragraph 4.1.1 of the Tender Guidelines the subsections 6 and 7 are 
+drawn up in Dutch. Please provide the English translation.
+Antwoord:
+6. With his tender, the tenderer must also enclose a declaration according to 
+Appendix H, in which he indicates to have taken into account the obligations 
+in the fields of environmental, social and labour law by virtue of the laws of 
+the European Union, national law or group employment contracts or by 
+virtue of the provisions about international environmental, social and labour 
+law set out in Schedule X to Directive 2014/24/EU.
+This document must be signed by the tenderer - and in the case of multiple 
+tenderers: by all tenderers.
+7. With his tender, the tenderer must also enclose a declaration according to 
+Appendix N, in which he indicates to have taken into account one or more of 
+the formulated regimes regarding international social conditions.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Proces
+Ref.nr. Onderwerp:
+7 Appendix G EMVI-BPKV Criteria Table v1.1
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 5 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+In the EMVI-criteria the total quality value of quality criteria A is set on 
+€1.025.000,- No value is added to the quality value of performance criteria 
+B. What is the maximum contract sum budgeted by Rijkswaterstaat?
+Antwoord:
+Apart from the quality criteria (A), no performance criteria have been 
+defined, consequently no added value related to criteria B will be added to 
+the total sum.
+The maximum contract sum budgetted by Rijkswaterstaat cannot not be 
+published.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Contract
+Ref.nr. Onderwerp:
+8 Annex 02-01 of Appendix K
+Vraag:
+Er wordt vereist om 3 FMB simulatoren beschikbaar
+te hebben maar in de beschrijving van de 8 simulaties worden hooguit 2 
+FMB simulatoren ingezet. Kan deze eis vervallen?
+Antwoord:
+Contrary to the requirement specifications, Appendix K only 2 FMB 
+simulators will be required.
+A higher EMVI-BVfM score however can be obtained through the criteria 
+1.2 (regarding downtime) and 1.3 (computing capacity).
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+9 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om de simulaties elders te
+kunnen volgen middels een livestream. Dit kan de druk op de participanten 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 6 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+op een onnatuurlijke manier verhogen. Is de opdrachtgever zich bewust van 
+dit mogelijk negatieve effect op participanten en daarmee op de resultaten? 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+Contracting party is aware of a possible mental pressure that a live stream 
+could create, however participants need to agree in advance. It is expected 
+that during the simulation runs it will not induce additional pressure, as it is 
+not an assessment. The live stream is a view only connection, chat or 
+otherwise is excluded.
+The link is only provided to the contracting party, who will decide which 
+persons of the project team wll have access to the live stream. Any employer 
+of participants will not be eligible for a link.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om alle brondata digitaal per simulatierun aan te leveren 
+aan de opdrachtgever. Als gedurende de simulatieruns fysiologische data 
+verzameld wordt van participanten valt dit ook onder de noemer “data”. Dit 
+betreft privacygevoelige data. Staat de opdrachtgever er open voor om 
+voorafgaand aan de simulaties een keuze te maken tussen welke ruwe data 
+opgeleverd wordt en welke data alleen in geproceste vorm wordt 
+aangeleverd? Ter achtergrond: als opdrachtnemer gaan wij een overkomst 
+aan met participanten waarbij wij hun privacy willen waarborgen (conform 
+AVG). Het opleveren van fysiologische ruwe data kan daar strijdig mee zijn. 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+After awarding the contract the issue of which fysiological source data 
+should be provided, raw and/or anonimized, will be mutually agreed.
+Raw data has no added value for the contracting party without the 
+appropriate viewing software.
+It is important that the tenderer is transparent which data and analyses have 
+been used during the project, moreover which anonymization or 
+pseudonymization according to the GDPR has been applied.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 7 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 Artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Vraag:
+Met verwijzing naar artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Is het mogelijk om dit artikel als volgt aan te passen. Nu staat er in artikel 
+7.6 van de overeenkomst:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 
+vrijwaart Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van 
+derden op vergoeding van schade als gevolg van het tekortschieten als 
+bedoeld in artikel 21.3 van de ARVODI-2018. De staffel inzake 
+aansprakelijkheid opgenomen in artikel 21.3 van de ARVODI-2018 is van 
+overeenkomstige toepassing.
+Voorstel:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 vrijwaart 
+Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van derden op 
+vergoeding van schade als gevolg van het tekortschieten als bedoeld in 
+artikel 21.3 van de ARVODI-2018. De staffel inzake aansprakelijkheid 
+opgenomen in artikel 21.3 van de ARVODI-2018 is van overeenkomstige 
+toepassing waarbij partijen uitdrukkelijk overeenkomen dat de 
+aansprakelijkheid in dit document en in artikel 21 van de ARVODI-2018 
+beperkt wordt tot de waarde van de opdracht tot een maximum van €500.000,
+-
+Antwoord:
+The Contracting party will not agree with the proposed adjustment and 
+adheres to the principle of article 21.3 (of the ARVODI 2018) to the effect 
+that the liability is limited to three times the contract value. This with 
+reference to page 8 of the public explanation of the ARVODI 2018.
+Nevertheless the amount of € 3.000.000,- in article 21.3 (of the ARVODI 
+2018) should be read as € 2.500.000,- in case the contractvalue fits in the 
+range € 150.000-500.000,-, as a result of which this suits better with the 
+standard of the particular industry. In the same way the amount of € 
+3.000.000 and € 5.000.000,- should be read as € 2.500.000,- in case the 
+contractvalue fits in the range higher than € 500.000,-.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 8 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+Label: Contract
+
+=== Document: nota van inlichtingen 2024-05-06-3 ===
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 1 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+Algemene informatie
+Aanbesteding: Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknr. 31195825
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Appendix K - Requirement specifications Annex 02-01 section 4.1.6
+Vraag:
+Which tasks, authorities and responsibilities will the VTMon role have (for 
+the simulation runs)? Is this the basis for the simulation runs?
+Antwoord:
+For the tasks, authorities and responsibilities of the VTMon role reference is 
+made to the report "Vessel Traffic Monitoring VTM in en rond windparken" 
+with English management summary at Noordzeeloket https://www.
+noordzeeloket.nl/functies-gebruik/windenergie/scheepvaartveiligheid-
+moswoz/vessel-traffic-monitoring/. The VTMon operator will execute the 
+tasks as described on the webpage during the simulation runs as if they are 
+on an actual watch. During the runs certain events will occur. Through i.e. 
+observations, information can be gained about their actions and behaviors.
+The tasks, authorities and responsibilities of the VTMon are not the basis of 
+the simulation runs. The behavior and response of the VTMon person is part 
+of the research. Where the VTMon is incorporated in the large simulation 
+runs, the number of ships in the complete area to be monitored by the 
+VTMon forms the basis of the VTMon performance.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+2 Appendix K Requirement specs Annex 02-01, section 2
+Vraag:
+With regards to: …" These situations allow for collecting information 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 2 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+regarding the crews choices, behaviour and actions. Where possible, culture-
+related information is also gathered. " 
+- How should cultural factors be considered in the simulation of crew 
+behavior, and are there any specific guidelines or expectations?
+Antwoord:
+There are no guidelines, however research into cultural differences is widely 
+available. Only those cultural aspects impacting on decisions taken by the 
+crew should be identified and considered whether they have an impact on the 
+outcome of the scenario. Certain cultural factors and possible findings 
+depend on and are strongly related to the ship’s crew and nationality selected 
+for the simulation runs.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 Tender Guidelines v1.2, section 4.3.1
+Vraag:
+Can a Dutch company/partnership choose to draw up the tender in English?
+Antwoord:
+No, according to paragraph 4.3.1 section 1 of the Tender Guidelines the 
+Dutch tenderer (or the joint venture of Dutch business owners i.e. 
+consortium, as a general partnership), must submit the tender documents in 
+Dutch. If the consortium is represented by a foreign business owner among 
+foreign or Dutch business owners, the documents can be drawn up in 
+English. Please understand that the members of the evaluation committee 
+have equally good understanding of both languages.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 Tender Guidelines v1.2, §3.2 Geschiktheidseisen / _Appendix G EMVI-
+BPKV Criteria Table v1.1 Performance criteria /
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 3 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+How does client expect understanding of eligibility requirements/ 
+performance criteria:
+- the appendix G seems to indicate that four references are desired?
+Antwoord:
+Eligibility requirements (projectreferences) have been stated in paragraph 
+3.2 subsection 3 of the Tender Guidelines, and have to be filled in one or 
+more appendices D. 
+Once the tender passed the tender committee who will take notive of the 
+appendices D, the qualitative evaluation of the tenders wille be done by the 
+evaluation committee according to Appendix G. Preferences in appendix G 
+relate to appendix 02-02 “English version RWS MOSWOZ drawing up 
+simulation scenarios”, f.e. section 4.1.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 Appendix D Data regarding technical competence / Tender guidelines v1.2 
+section 3.2
+Vraag:
+Appendix D refers to section 3.2 subsection 3.b1 and 3.b2. If these refer to 
+the subsections of the Tender Guidelines v1.2: where are sections 3.b1 and 3.
+b2 mentioned in section 3.2 of the Tender Guidelines? 
+Does this refer to: "(1) the provision of services relating to human factor 
+observations, analysis and reporting; (2) data analysis and reporting relating 
+to observations comparable with this contract and/or by conducting 
+comparable observations"?
+Antwoord:
+Correct. We apologies for this. 
+Paragraph 3.2 of the Tender Guidelines subsection 3 should be read as 
+follows.
+"3. The following eligibility requirements are stipulated with regard to 
+technical competence:
+a. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner has implemented at least one contract relating 
+to simulations in the field of sea shipping, and reporting on those 
+stimulations, with an agreed amount (contract price) or invoiced amount 
+equal to or larger than 20,000 euros (excluding turnover tax), in the course of 
+which the business owner bore final responsibility towards the Awarding 
+party for implementation of the contract.
+The contract was implemented in an expert and regular manner and the 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 4 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+contract was handed over within the agreed term (including any granted 
+postponement of completion) or an equivalent action took place.
+b. During the period of three (3) years prior to the closing date for receipt of 
+the tender, the business owner implemented at least one (1) contract in which 
+knowledge was acquired of:
+(1) the provision of services relating to human factor observations, analysis 
+and reporting;
+(2) data analysis and reporting relating to observations comparable with this 
+contract and/or by conducting comparable observations"
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 Tender Guidelines, paragraph 4.1.1
+Vraag:
+In paragraph 4.1.1 of the Tender Guidelines the subsections 6 and 7 are 
+drawn up in Dutch. Please provide the English translation.
+Antwoord:
+6. With his tender, the tenderer must also enclose a declaration according to 
+Appendix H, in which he indicates to have taken into account the obligations 
+in the fields of environmental, social and labour law by virtue of the laws of 
+the European Union, national law or group employment contracts or by 
+virtue of the provisions about international environmental, social and labour 
+law set out in Schedule X to Directive 2014/24/EU.
+This document must be signed by the tenderer - and in the case of multiple 
+tenderers: by all tenderers.
+7. With his tender, the tenderer must also enclose a declaration according to 
+Appendix N, in which he indicates to have taken into account one or more of 
+the formulated regimes regarding international social conditions.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 26 apr. 2024
+Label: Proces
+Ref.nr. Onderwerp:
+7 Appendix G EMVI-BPKV Criteria Table v1.1
+Vraag:
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 5 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+In the EMVI-criteria the total quality value of quality criteria A is set on 
+€1.025.000,- No value is added to the quality value of performance criteria 
+B. What is the maximum contract sum budgeted by Rijkswaterstaat?
+Antwoord:
+Apart from the quality criteria (A), no performance criteria have been 
+defined, consequently no added value related to criteria B will be added to 
+the total sum.
+The maximum contract sum budgetted by Rijkswaterstaat cannot not be 
+published.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Contract
+Ref.nr. Onderwerp:
+8 Annex 02-01 of Appendix K
+Vraag:
+Er wordt vereist om 3 FMB simulatoren beschikbaar
+te hebben maar in de beschrijving van de 8 simulaties worden hooguit 2 
+FMB simulatoren ingezet. Kan deze eis vervallen?
+Antwoord:
+Contrary to the requirement specifications, Appendix K only 2 FMB 
+simulators will be required.
+A higher EMVI-BVfM score however can be obtained through the criteria 
+1.2 (regarding downtime) and 1.3 (computing capacity).
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+9 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om de simulaties elders te
+kunnen volgen middels een livestream. Dit kan de druk op de participanten 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 6 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+op een onnatuurlijke manier verhogen. Is de opdrachtgever zich bewust van 
+dit mogelijk negatieve effect op participanten en daarmee op de resultaten? 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+Contracting party is aware of a possible mental pressure that a live stream 
+could create, however participants need to agree in advance. It is expected 
+that during the simulation runs it will not induce additional pressure, as it is 
+not an assessment. The live stream is a view only connection, chat or 
+otherwise is excluded.
+The link is only provided to the contracting party, who will decide which 
+persons of the project team wll have access to the live stream. Any employer 
+of participants will not be eligible for a link.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+10 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om alle brondata digitaal per simulatierun aan te leveren 
+aan de opdrachtgever. Als gedurende de simulatieruns fysiologische data 
+verzameld wordt van participanten valt dit ook onder de noemer “data”. Dit 
+betreft privacygevoelige data. Staat de opdrachtgever er open voor om 
+voorafgaand aan de simulaties een keuze te maken tussen welke ruwe data 
+opgeleverd wordt en welke data alleen in geproceste vorm wordt 
+aangeleverd? Ter achtergrond: als opdrachtnemer gaan wij een overkomst 
+aan met participanten waarbij wij hun privacy willen waarborgen (conform 
+AVG). Het opleveren van fysiologische ruwe data kan daar strijdig mee zijn. 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+After awarding the contract the issue of which fysiological source data 
+should be provided, raw and/or anonimized, will be mutually agreed.
+Raw data has no added value for the contracting party without the 
+appropriate viewing software.
+It is important that the tenderer is transparent which data and analyses have 
+been used during the project, moreover which anonymization or 
+pseudonymization according to the GDPR has been applied.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 7 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+Ref.nr. Onderwerp:
+11 Artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Vraag:
+Met verwijzing naar artikel 7.6 van Bijlage L Overeenkomst concept v 1.1.
+Is het mogelijk om dit artikel als volgt aan te passen. Nu staat er in artikel 
+7.6 van de overeenkomst:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 
+vrijwaart Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van 
+derden op vergoeding van schade als gevolg van het tekortschieten als 
+bedoeld in artikel 21.3 van de ARVODI-2018. De staffel inzake 
+aansprakelijkheid opgenomen in artikel 21.3 van de ARVODI-2018 is van 
+overeenkomstige toepassing.
+Voorstel:
+7.6 In aanvulling op artikel 21 van de ARVODI-2018 vrijwaart 
+Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van derden op 
+vergoeding van schade als gevolg van het tekortschieten als bedoeld in 
+artikel 21.3 van de ARVODI-2018. De staffel inzake aansprakelijkheid 
+opgenomen in artikel 21.3 van de ARVODI-2018 is van overeenkomstige 
+toepassing waarbij partijen uitdrukkelijk overeenkomen dat de 
+aansprakelijkheid in dit document en in artikel 21 van de ARVODI-2018 
+beperkt wordt tot de waarde van de opdracht tot een maximum van €500.000,
+-
+Antwoord:
+The Contracting party will not agree with the proposed adjustment and 
+adheres to the principle of article 21.3 (of the ARVODI 2018) to the effect 
+that the liability is limited to three times the contract value. This with 
+reference to page 8 of the public explanation of the ARVODI 2018.
+Nevertheless the amount of € 3.000.000,- in article 21.3 (of the ARVODI 
+2018) should be read as € 2.500.000,- in case the contractvalue fits in the 
+range € 150.000-500.000,-, as a result of which this suits better with the 
+standard of the particular industry. In the same way the amount of € 
+3.000.000 and € 5.000.000,- should be read as € 2.500.000,- in case the 
+contractvalue fits in the range higher than € 500.000,-.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Nota van inlichtingen Zaaknr. 31195825 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal windparken op zee
+Pagina 8 van 8 Datum genereren nota van inlichtingen: 6 mei 2024
+Label: Contract
+Ref.nr. Onderwerp:
+12 Sectie 3.6 uit bijlage K Vraagspecificatie
+Vraag:
+Er wordt gevraagd om de simulaties elders te
+kunnen volgen middels een livestream. Dit kan de druk op de participanten 
+op een onnatuurlijke manier verhogen. Is de opdrachtgever zich bewust van 
+dit mogelijk negatieve effect op participanten en daarmee op de resultaten? 
+(sectie 3.6 uit bijlage K Vraagspecificatie)
+Antwoord:
+Contracting party is aware of a possible mental pressure that a live stream 
+could create, however participants need to agree in advance. It is expected 
+that during the simulation runs it will not induce additional pressure, as it is 
+not an assessment. The live stream is a view only connection, chat or 
+otherwise is excluded.
+The link is only provided to the contracting party, who will decide which 
+persons of the project team wll have access to the live stream. Any employer 
+of participants will not be eligible for a link.
+Percelen: P  1 Advies over en onderzoek van het gedrag van 
+scheepsbemanning vanwege een groter aantal 
+windparken op zee
+Beantwoord op: 6 mei 2024
+Label: Inhoud
+
+=== Document: aanbestedingsleidraad v1.2 ===
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK
+Aanbestedingsleidraad
+voor de aanbesteding van de opdracht met zaaknummer
+31195825 voor het eind 2024 en/of vanaf begin 2025
+uitvoeren van en rapporteren over ten hoogste tien (10)
+simulaties voor beproeving van het gedrag van de
+bemanning, alsmede vanwege een groter aantal
+windturbines, de gevolgen inzake de scheepvaartveiligheid op
+de Noordzee
+Datum 29-3-2024
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK
+Colofon 1.0
+Uitgegeven door  Ministerie van Infrastructuur en Waterstaat
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+Lange Kleiweg 34
+2288 GK  RIJSWIJK
+Datum  29-3-2024
+Status  Definitief
+Versienummer  1.2
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK
+Inhoud
+1 Algemene uitgangspunten 5
+Algemeen 5
+Aanbestedingsprocedure via TenderNed 5
+Klachten met betrekking tot de aanbestedingsprocedure 6
+Motiveringen in het kader van de Aanbestedingswet 7
+Motiveringen in het kader van Ambitieweb 11
+2 Opdrachtomschrijving, contractvorm en planning 14
+Opdrachtomschrijving 14
+Rijkswaterstaat 14
+Water Verkeer en Leefomgeving (WVL) en Zee en Delta (ZD) 14
+Startsituatie 15
+Werkzaamheden 16
+Contractvorm 19
+Planning 20
+3 Uitsluitingsgronden en geschiktheidseisen 21
+Uitsluitingsgronden 21
+Geschiktheidseisen 21
+Toerekenen technische bekwaamheid 22
+Bewijsmiddelen met betrekking tot de geschiktheidseisen 22
+Beroep op een andere natuurlijke of rechtspersoon 23
+Voorkennis en belangenverstrengeling 23
+4 Inschrijvingsfase 24
+Procedurebeschrijving inschrijvingsfase 24
+Nadere inlichtingen 24
+Nadere inlichtingen als bedoeld in artikel 2.22 van het ARW 2016 24
+Nadere inlichtingen als bedoeld in artikel 2.23 van het ARW 2016 24
+Inschrijving 25
+Indienen van een inschrijving 25
+Varianten van de inschrijver 27
+Bevoegdheid tot het doen van een inschrijving 27
+Inschrijving door een samenwerkingsverband van ondernemers (combinatie) 27
+Bij inschrijving te verstrekken documenten 28
+Algemeen 28
+Bij de inschrijving te verstrekken prijsdocument 29
+Bij de inschrijving te verstrekken kwalitatieve documenten 30
+Opening van de inschrijvingen 30
+Gestanddoening 31
+5 Beoordelingsfase en gunningsbeslissing 32
+Algemeen 32
+Gunningscriteria 32
+Abnormaal lage inschrijving 33
+Gunningsbeslissing 33
+6 Opdrachtverlening 34
+Verstrekken bankgarantie 34
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK
+Verlenen opdracht 34
+Algemene Verordening Gegevensbescherming 34
+7 Overige bepalingen 35
+Lotingsprocedure 35
+Tussentijdse stopzetting of beëindiging van de aanbestedingsprocedure 35
+Forumkeuze; rechtsbescherming 35
+Blijvend voldoen 35
+Intrekking inschrijving 36
+Bijlage A Uniform Europees Aanbestedingsdocument/European Single Procurement
+Document 38
+Bijlage B Aanvullende eigen verklaring 39
+Bijlage C Model indieningsformulier voor documenten van andere natuurlijke of
+rechtspersonen op wie de gegadigde/inschrijver zich beroept die met een
+handgeschreven handtekening worden ingediend 44
+Bijlage D Gegevens omtrent technische bekwaamheid 46
+Bijlage E Inschrijvingsbiljet 47
+Bijlage F Risicotabel 49
+Bijlage G Uitwerking BPKV-criteria voor de beste prijs-kwaliteitverhouding 50
+Bijlage H Verklaring inzake de verplichtingen op het gebied van milieu-, sociaal en
+arbeidsrecht 53
+Bijlage I Format Staat van Tarieven en prijzen 54
+Bijlage J Verklaring onderaannemer 55
+Bijlage K Vraagspecificatie (opdrachtomschrijving) 56
+Bijlage L Concept overeenkomst (en ARVODI) 57
+Bijlage M Checklist inschrijving inclusief Overzicht overige bijlagen 58
+Bijlage N Verklaring internationale sociale voorwaarden 60
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 5 van 60
+1 Algemene uitgangspunten
+Algemeen
+1. Namens de Staat der Nederlanden gevestigd te ‘s-Gravenhage, Ministerie van
+Infrastructuur en Waterstaat wordt door Rijkswaterstaat Water, Verkeer en
+Leefomgeving, te Rijswijk vertegenwoordigd door de directeur Veiligheid en
+Water, K. Portegies (hierna: aanbesteder), een Europese aanbesteding voor het
+verlenen van een opdracht volgens de openbare procedure overeenkomstig het
+Aanbestedingsreglement Werken 2016 (ARW 2016) gehouden.
+2. De aanbestedingsprocedure betreft een opdracht voor diensten met
+zaaknummer 31195825 voor het eind 2024 en/of vanaf begin 2025 uitvoeren
+van en rapporteren over ten hoogste tien (10) simulaties voor beproeving van
+het gedrag van de bemanning, alsmede vanwege een groter aantal
+windturbines, de gevolgen inzake de scheepvaartveiligheid op de Noordzee.
+3. Op 15 april 2024 is de aankondiging gepubliceerd middelswww.tenderned.nl
+en ter publicatie aangeboden aan het Bureau voor publicaties van de Europese
+Unie.
+4. De aanbestedingsprocedure is gebaseerd op deze aanbestedingsleidraad, de
+nota’s van inlichtingen en de contractdocumenten: de conceptovereenkomst
+(ARVODI), de vraagspecificatie en de bijlagen bij de vraagspecificatie. In geval
+van tegenstrijdigheid tussen de aanbestedingsleidraad en de
+contractdocumenten prevaleren de contractdocumenten.
+5. Door het doen van een inschrijving verklaart een ondernemer zich
+onvoorwaardelijk akkoord met de in deze aanbestedingsleidraad beschreven
+aanbestedingsprocedure.
+6. Rijkswaterstaat hanteert de Gedragscode ‘Publiek Opdrachtgeverschap’. Deze
+gedragscode is te downloaden op de internetsite van Rijkswaterstaat via het
+adres: www.rws.nl/opdrachtgeverscode.
+Aanbestedingsprocedure via TenderNed
+De aanbestedingsprocedure wordt digitaal uitgevoerd via het elektronisch systeem
+voor aanbestedingen: TenderNed (www.tenderned.nl).
+Dit betekent dat  inschrijvingen van Nederlandse ondernemingen alleen via
+TenderNed mogelijk zijn.
+Dit vereiste geldt niet voor een of enkele buitenlandse ondernemingen die door
+nood gedwongen of door een onvoorziene, niet te beïnvloeden gebeurtenis,
+zelfstandig of gezamenlijk (al dan niet met een onderaannemer), per e-mail
+inschrijven met een inschrijving met handgeschreven handtekening.
+Het is dus in principe wel noodzakelijk dat deze buitenlandse ondernemingen hun
+inschrijvingen via Tenderned indienen
+(https://www.tenderned.nl/cms/en/english/tenderned-dutch-governments-online-
+tendering-system).
+Daarvoor moeten zij zich registreren en kunnen zij de leidraad volgen die vindbaar
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 6 van 60
+is op: https://www.tenderned.nl/cms/en/english/submitting-tender-open-procedure.
+In het algemeen is het aanbevelenswaardig dat zij, op de eerste plaats, op tijd
+beginnen om aan alle vereisten van Tenderned te voldoen. Een inschrijving moet
+immers op een bepaalde datum en tijdstip ingediend zijn.
+Op de tweede plaats dat zij zorgen dat zij met een (geldig) mobiel telefoonnummer
+transactiecodes kunnen ontvangen.
+Op de derde plaats dat zij bij vragen met de Tenderned Servicedesk contact kunnen
+opnemen via telefoonnummer +31 70 379 88 99 (or e-mail). De openingstijden
+zijn: 08:30-17:00 CET.
+Op de laatste plaats om van het begin af aan eventueel hulp in te roepen van
+Nederlandse adviesbureaus (zogenaamde tenderconsultancy-bureaus) die gewend
+zijn om met Tenderned te werken. Tenderned is alleen in het Nederlands
+beschikbaar.
+Het is een ondernemer niet toegestaan, tenzij uitdrukkelijk anders aangegeven, in
+het kader van deze aanbestedingsprocedure contacten te onderhouden of vragen te
+stellen anders dan via TenderNed, dan wel voor buitenlandse ondernemingen (bij
+wijze van uitzondering) via e-mail.
+Voor deelneming aan de aanbestedingsprocedure via Tenderned dient een
+ondernemer als gebruiker te zijn geregistreerd bij TenderNed. De
+“Gebruiksvoorwaarden TenderNed” zijn van toepassing.
+Van een ondernemer wordt verwacht dat deze alle benodigde kennis heeft om op
+een correcte wijze een aanbestedingsprocedure te kunnen doorlopen in TenderNed.
+Zie voor handleidingen www.tenderned.nl/egids.
+Gebruik van TenderNed is voor rekening en risico van de ondernemer, behoudens
+de volgende uitzonderingssituaties. In geval TenderNed op het uiterste tijdstip voor
+ontvangst van de inschrijving niet toegankelijk is als gevolg van een storing bij
+eHerkenning, in TenderNed of aan het hoogspanningsnet, dan is er sprake van een
+overmachtsituatie. In voorkomend geval kan het uiterste tijdstip voor ontvangst van
+de inschrijvingen afhankelijk van de situatie en de gevolgen door de aanbesteder
+worden uitgesteld. Het gewijzigde uiterste tijdstip wordt bekend gemaakt via
+TenderNed, “Rectificatie”, en ingeval van buitenlandse ondernemingen (bij wijze van
+uitzondering) per e-mail.
+Klachten met betrekking tot de aanbestedingsprocedure
+Ingevolge het advies ‘Klachtafhandeling bij aanbesteden’ heeft Rijkswaterstaat een
+klachtenmeldpunt ingericht. Klachten met betrekking tot de aanbestedingsprocedure
+kunnen worden ingediend bij het Centrale Klachtenmeldpunt Aanbesteden
+Rijkswaterstaat, op het e-mailadres:klachtenmeldpunt@rws.nl.
+Klachten kunnen betrekking hebben op het niet naleven van wettelijke bepalingen of
+inbreuk op algemene aanbestedingsbeginselen. Een klacht moet schriftelijk worden
+ingediend en moet duidelijk en gemotiveerd aangeven op welk aspect van de
+aanbestedingsprocedure de klacht betrekking heeft. Een klacht wordt behandeld
+door ter zake kundige functionarissen die niet betrokken zijn of zullen worden bij de
+onderhavige aanbestedingsprocedure. Een klacht wordt zo spoedig mogelijk
+afgehandeld; de klager wordt daarover geïnformeerd.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 7 van 60
+Het indienen van een klacht heeft geen opschortende werking en laat onverlet dat
+een gegadigde of inschrijver tijdig formeel bezwaar dient te maken of een procedure
+dient te starten indien en voor zover dat aan de orde is (zie paragraaf 7.3).
+Zie voor meer informatie: www.rws.nl/klachtenmeldpuntaanbesteden.
+Motiveringen in het kader van de Aanbestedingswet
+Deze aanbesteding heeft betrekking op specialistische adviesdiensten op het gebied
+van onderzoek, inwinning, analyse en rapportage van gegevens, meer in het
+bijzonder voor het eind 2024 en/of vanaf begin 2025 uitvoeren van en rapporteren
+over ten hoogste tien (10) simulaties voor beproeving van het gedrag van de
+bemanning, alsmede vanwege een groter aantal windturbines, de gevolgen inzake
+de scheepvaartveiligheid op de Noordzee.
+Op het Nederlandse deel van de Noordzee wordt tot 2030 een groot aantal
+windparken gebouwd. Zonder aanvullende maatregelen heeft dit gevolgen voor de
+veiligheid van de scheepvaart. Daarom heeft het IDON1 in 2018 opdracht gegeven
+tot een nader onderzoek naar de cumulatieve effecten van windenergie op zee voor
+de scheepvaartveiligheid (https://www.noordzeeloket.nl/functies-
+gebruik/windenergie/scheepvaart-moswoz/).
+Voor zowel RWS WVL2 vanwege de nautische veiligheid, mede voor de kennis en/of
+advisering aan DGLM3), als voor RWS ZD4 in de rol van beheerder van de Noordzee,
+is de aanbesteding belangrijk om de toenemende scheepvaartveiligheidsrisico's als
+gevolg van het toenemend aantal windparken op de Noordzee te kunnen beheersen.
+De opdracht betreft het verrichten van:
+a) het voorbereiden en uitvoeren van simulatieruns op basis van uitgewerkte
+en meegeleverde scenariobeschrijvingen;
+b) het analyseren van de human factor-waarnemingen;
+c) het rapporteren over de resultaten van het onderzoek.
+De opdracht valt binnen de taak van de directie Netwerkontwikkeling, afdeling
+Netwerkontwikkeling en visie, van RWS ZD, en moet voorzien in de behoefte aan
+inzicht in de gevolgen voor de scheepvaartveiligheid van het toenemend aantal
+windparken met betrekking tot aanvaringen tussen schepen en voor aanvaringen
+tussen een schip en een windturbine middels simulatie op een Class A simulator
+voor Bridge/DP en VTS operations.
+De resultaten van dit onderzoek zijn bestemd voor beleid van het Ministerie van
+Infrastructuur en Waterstaat, Rijkswaterstaat in het algemeen en de regionale
+onderdelen (ROO)5 in het bijzonder, en met als uiteindelijk doel om de gevolgen van
+windturbines voor de scheepvaartverkeersveiligheid goed in kaart te brengen en te
+kunnen beheersen.
+Deze aanbesteding staat los van andere soortgelijke opdrachten van
+Rijkswaterstaat, zoals die voor:
+ de jaarlijkse netwerkanalyse Noordzee;
+1 Interdepartementaal Directeuren Overleg Noordzee
+2 Rijkswaterstaat Water, Verkeer en Leefomgeving
+3 Directoraat-generaal Luchtvaart en Maritieme Zaken
+4 Rijkswaterstaat Zee en Delta
+5 regionale onderdelen van Rijkswaterstaat (ROO)
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 8 van 60
+ het opstellen van BowTie analyses schip-schip- en schip-windturbine-
+aanvaringen;
+ het beschrijven van scenario’s voor nautische simulaties, als directe input voor
+deze opdracht;
+ andere verkeersveiligheidsprojecten of programma’s;
+ de eventuele initiatieven bij de regio’s van Rijkswaterstaat.
+Doelstellingen
+De Diensten richten zich op advies inzake onderzoek, inwinning, analyse en
+rapportage van gegevens, meer specifiek op het uitvoeren van meerdere nautische
+simulaties, in nauwe afstemming met de opdrachtgever en andere
+belanghebbenden, zoals betrokken thematrekkers MOSWOZ6.
+De bedoelde analyse van gegevens moet als doel hebben om antwoord te geven op
+de onderzoeksvragen, mede aan de hand van de scenariobeschrijvingen zoals
+meegeleverd bij deze aanbesteding.
+Op basis van de simulaties moet er daadwerkelijk meer inzicht zijn verkregen in de
+gevolgen voor de scheepvaartveiligheid van het toenemend aantal windparken met
+betrekking tot aanvaringen tussen schepen en voor aanvaringen tussen een schip
+en een windturbine middels simulatie op een Class A simulator voor Bridge/DP en
+VTS operations.
+Afwegingen ten aanzien van de gekozen inkoopprocedure
+Op de eerste plaats is overwogen wat de aard is van de Diensten, zijnde
+specialistische adviesdiensten op het gebied van onderzoek door simulaties,
+inwinning, analyse en rapportage van gegevens.
+Gezien de bovenbeschreven doelstellingen en de bij de opdracht voorkomende
+omstandigheden, is sprake van een meer dan gemiddelde complexiteit en omvang
+van de opdracht. Het werk heeft daarnaast een duidelijk specialistisch karakter.
+Op de tweede plaats is voor de uitvoering van deze specialistische Diensten
+bestaande en breed toepasbare kennis beschikbaar op het gebied van
+scheepvaartverkeersveiligheid op zee, alsmede op het gebied van
+scheepvaartsimulaties, data-analyse en rapportage, al dan niet op het bredere
+niveau van de Noordzee of op gebiedsgericht niveau, en in een marktsegment met
+een beperkt tot gemiddeld aantal aanbieders.
+Daar komt bij dat er voor deze opdracht om meerdere redenen één ‘dedicated
+supplier’ vereist is. Dat is om reden van onafhankelijkheid, gebiedsgerichte visie
+met betrekking tot de scheepvaartveiligheid op zee, uniformiteit van de
+dienstverlening, continuïteit, en de gewenste inhoudelijke kwaliteit en zorg die aan
+de Diensten moeten worden besteed.
+Deze aandachtspunten vereisen echter geen speciale behandeling of procedure.
+Gezien de geschetste omstandigheden, alsmede de wens om de transactiekosten7
+voor de ondernemers (en voor de aanbesteder) beperkt te houden, is inkoop van
+deze Diensten met behulp van de Europese openbare aanbestedingsprocedure een
+prima keuze.
+Ook gezien de mogelijkheid om passende geschiktheidseisen te stellen en
+gunningscriteria te formuleren, volstaat in dit geval de openbare procedure.
+6 Monitorings- en Onderzoeksprogramma Scheepvaartveiligheid Wind op Zee
+7 de kosten die partijen moeten maken voor het indienen van een inschrijving of het verrichten van een
+inkooptransactie
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 9 van 60
+Desalniettemin worden hierna nog andere inkoopprocedures in beschouwing
+genomen.
+Afwegingen andere inkoopprocedures
+Rijkswaterstaat maakt voor de inkoop vaningenieursdiensten al jaren gebruik van
+een raamovereenkomst, waaronder onderhandse aanbestedingen worden gehouden
+die in de plaatsing van opdrachten voorzien. Deze raamovereenkomst is echter
+specifiek bedoeld voor vaak voorkomende technische ir-diensten, doorgaans met
+een objectgericht belang, voor bepaalde aanleg- en onderhoudsprojecten.
+Zoals hierboven gezegd hebben de werkzaamheden verbonden aan deze inkoop
+(specialistische adviesdiensten op het gebied van simulaties, analyse en rapportage
+met betrekking tot de scheepvaartverkeersveiligheid op zee) een vrij specialistisch
+karakter en is duidelijk sprake van een marktsegment van niet alleen grote bureaus,
+maar ook kleinere ondernemingen met bepaalde kennis van de scheepvaart of
+specifiek van scheepvaartverkeersveiligheid op zee, al dan niet gecombineerd met
+kennis op het gebied van simulaties, inwinning van data, data-analyse en
+rapportage.
+Daar komt bij dat er bij deze inkoop geen sprake is van een objectgericht spectrum,
+maar van strategische kennis en daaruit voortvloeiende gebiedsgerichte kaders,
+welke niet vaak voorkomen, bezien vanuit visie, onafhankelijkheid, en vanuit
+scheepvaartperspectief, met uitkomsten die invloed kunnen hebben op te maken
+relevante strategische of tactische keuzes, al dan niet onderworpen aan de invloed
+van de bestuurlijke en politieke omgeving.
+Hiermee zijn deze Diensten in ieder geval inhoudelijk anders dan die van de vaak
+voorkomende technische ingenieursdiensten zoals die bij Rijkswaterstaat reeds
+meerdere malen Europees in de vorm van raamovereenkomsten, zijn aanbesteed.
+Een onderhandse aanbesteding onder de raamovereenkomst voor
+ingenieursdiensten is daarom niet gepast.
+Vervolgens is uit onderzoek onder de beschikbare aanbestedingsprocedures
+gebleken dat de niet openbare procedure minder goed past. De niet openbare
+procedure is eerder geschikt bij een meer dan gemiddeld aantal ondernemers, bij
+een meer dan gemiddelde complexiteit en waarbij een voorafgaande selectie de
+transactiekosten voor alle partijen zou beperken.
+De onderhandelingsprocedure met één ondernemer of de mededingingsprocedure
+met onderhandeling met enkele ondernemers, zijn eveneens niet de meest geschikt
+geachte aanbestedingsprocedure. Op globaal, Europees of op niveau van de
+zeescheepvaart is er geen volledig beeld van de laatste inhoudelijke of
+technologische ontwikkelingen. Daarmee is het in zekere zin niet zinvol om de
+deelname van de markt op voorhand te beperken. En daarnaast zijn de betreffende
+marktsegmenten zeker niet verstoken van geschikte marktpartijen.
+De concurrentiegerichte dialoog is uiteraard ook niet gewenst, omdat de elementen
+van een bijzondere complexiteit in samenhang met extreem hoge kosten, minder
+prominent zijn dan voor een dergelijke procedure vereist.
+Het innovatiepartnerschap leent zich tenslotte niet voor de aanbesteding van deze
+opdracht, omdat er geen nieuwe oplossing noodzakelijk is.
+Deze redenen hebben er bij deze aanbesteding toe geleid dat plaatsing van deze
+opdracht met een Europese openbare procedure het meest geschikt wordt geacht.
+De keuze voor de openbare procedure is voorts nog ingegeven door het volgende.
+1. Nieuwe (al dan niet technologische) ontwikkelingen kunnen toch een aanleiding
+zijn voor bepaalde ondernemers om in te schrijven.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 10 van 60
+2. Toetreding van Europese ondernemers (of bedrijven wereldwijd) wordt zeker niet
+uitgesloten. Om dat te faciliteren, zullen de essentiële stukken ook in het Engels
+verschijnen.
+3. Verzameling of verwerking van de gegevens kan zeer wel geschieden door
+personen met een beperkte ervaring op de aangegeven ervaringsgebieden. De
+advisering op de desbetreffende gebieden dient echter toegewijd en van goed
+niveau te zijn. In het contract worden daarom waarborgen opgenomen rondom de
+geschiktheidseisen.
+4. In deze open procedure zijn mogelijkheden ingebouwd voor voldoende
+contactmomenten voordat inschrijving plaatsvindt.
+Geen opdeling in verschillende onderdelen (perceelindeling)
+De gevraagde Dienstverlening bestaat uit logisch samenhangende onlosmakelijk
+met elkaar verbonden onderdelen van opdrachten die binnen deze samenstelling
+overigens in de markt voldoende verkrijgbaar is. De onderdelen hebben betrekking
+op advisering en onderzoek op het gebied van simulaties en
+scheepvaartverkeersveiligheid op zee, met toepassing van de inwinning van data, -
+analyse en rapportage, maar zien niet op uitermate complexe
+gegevensverwerkingsdiensten. Van belang is in ieder geval wel een uitgesproken
+betrouwbaarheid van de in de op te leveren rapportages weergegeven informatie.
+Uit marktverkenning is gebleken dat de gevraagde Dienstverlening goed
+toegankelijk is voor het MKB, ondanks het bredere niveau van de scheepvaart of
+andere relevante invloedsfactoren. Zowel uit de toegankelijkheid voor het MKB, als
+uit het absolute aantal ondernemers dat in aanmerking komt voor inschrijving,
+alsmede uit de internationale omgeving waarin deze Dienstverlening plaatsvindt,
+kan afgeleid worden dat de mededinging en toegankelijkheid voldoende
+gewaarborgd zijn. Voorts moet worden meegewogen of een dergelijke aanbesteding
+het, bij een gedwongen samenwerking met grotere bureaus, voor bepaalde
+marktpartijen met hun specialistische kennis, onnodig complex maken. Die
+specialistische partijen wordt wellicht de mogelijkheid ontnomen om zelfstandig voor
+een overheidsopdracht in aanmerking te komen. Daarbij komt dat een gedwongen
+samenwerking in bepaalde gevallen extra ongewenste complicaties kan opleveren.
+Onderzoek heeft voorts uitgewezen dat de gestelde geschiktheidseisen proportioneel
+zijn en de toelating van kleine ondernemingen niet beperkt.
+Om deze reden is besloten om geen aparte onderdelen te introduceren en daarmee
+‘niet onnodig’ samen te voegen.
+Naast deze overweging (bij de keuze van de aanbestedingsprocedure) is mede het
+volgende meegenomen.
+1. Omdat er een inhoudelijke relatie bestaat tussen bepaalde aspecten, is het
+verdergaand splitsen daarvan over meerdere bedrijven vanuit efficiency-
+oogpunt ongewenst. Het is verder voor de inschrijvers belangrijk om te weten
+dat er niet onnodig veel verschillende specialisten mogen worden ingezet.
+Het inzetten van ten hoogste twee partijen in een samenwerkingsverband is wel
+toegestaan, maar gezien de marktsituatie niet noodzakelijk.
+2. Meerdere losse percelen (voor de verzameling van gegevens inclusief
+verwerking en los daarvan advisering bijvoorbeeld) zouden (gezien over de
+looptijd van de opdracht) een te kleine geldwaarde kunnen omvatten en niet
+meer in verhouding staan tot de transactiekosten. Daarbij valt ook te denken
+aan data-inwinning, data-analyse en/of rapportage, dan wel analyse van human
+factor-waarnemingen op zich.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 11 van 60
+3. Meerdere gelijkgerichte percelen waarin alle vereiste werkzaamheden in gelijke
+volumes zijn opgedeeld, zou tot het onoverkomelijke bezwaar kunnen leiden dat
+er ruis en verwarring ontstaat tussen die percelen. Uit oogpunt van uniformiteit
+in advisering en uniformiteit in de op te leveren kaders in documenten en/of
+rapportages, kan niet anders dan worden vastgesteld dat één partij de lijnen
+moet kunnen uitzetten en in samenspraak met de Opdrachtgever consistentie in
+resultaten moet realiseren. Splitsing over meerdere partijen zou voor de
+Opdrachtgever een bijna onuitvoerbare coördinatietaak opleveren om die
+partijen op één lijn te krijgen en te houden.
+4. Zoals gezegd moet deze opdracht, of percelen daarvan, de samenhang en
+afstemming blijven vertonen die zijn vereist. Het doel van deze aanbesteding is
+dat de Opdrachtgever zodanig wordt ondersteund dat er zo min mogelijk tijd en
+geld verloren gaat aan overleg en afstemming. Die afstemming tussen deze
+aspecten en die met de Opdrachtgever is en blijft van groot belang.
+5. Door procesverbetering en door een intensieve relatie met de Opdrachtgever,
+zijn er voorts mogelijkheden om aan beide zijden (voor de Opdrachtnemer en
+de Opdrachtgever) concrete voordelen te behalen, dan wel verspillingen te
+voorkomen. De Opdrachtgever vindt het ook prettig indien er eenduidige
+informatie wordt verstrekt (één aanspreekpunt). De Opdrachtnemer verliest
+eveneens het liefst zo min mogelijk tijd aan een misschien wel gedwongen
+samenwerking met andere partijen.
+Twee ondernemingen die (in een combinatie) de opdracht min of meer
+gedwongen samen hebben moeten aannemen, kunnen voor een aanbesteding
+onderlinge werkafspraken maken, maar de praktijk is soms anders. Om
+verbrokkeling te voorkomen en om verbeteringen in het proces te initiëren, kan
+het daarom een aanbeveling zijn om te werken met één onderneming als
+aanspreekpunt die zich eventueel kan bedienen van eventuele onderaannemers.
+De Opdrachtnemer en -gever hebben daarbij uiteraard ook oog voor het
+verhogen van de efficiency en/of duurzaamheidseffecten door het beperken van
+reistijd of efficiënt vergaderen. Uiteraard wordt onverlet gelaten dat één
+onderneming of meer ondernemingen gezamenlijk inschrijven, mits die aan de
+betreffende in paragraaf 3.2 gestelde geschiktheidseisen voldoen.
+Al met al zijn er gezien de marktsituatie voldoende ondernemingen die met de
+bovenvermelde uitgangspunten in het achterhoofd, kunnen inschrijven op deze
+(openbare) inkoopprocedure en voor voldoende uitdaging kunnen zorgen.
+Motiveringen in het kader van Ambitieweb
+Maatschappelijk Verantwoord Inkopen (MVI) binnen de overheid is een uitvloeisel
+van een politiek besluit. In 2010 is de rijksoverheid al verplicht om 100% duurzaam
+in te kopen. Door gelijktijdig milieu-, sociale- en economische afwegingen in alle
+aankopen mee te nemen leidt dit tot winst voor de belastingbetaler, de
+overheidsorganisatie en de samenleving.
+Ook de achtereenvolgende Coalitieakkoorden gaan ervan uit dat de overheid zijn
+inkoopkracht kan benutten voor het versnellen van duurzame transities, inschakelen
+van kwetsbare groepen en om innovatief in te kopen.
+Om deze redenen heeft Opdrachtgever deze voorgenomen opdracht ingevuld in de
+speciale tool voor het Ambitieweb voor een duurzame inkoop en besproken in het
+projectteam.
+Uit het gesprek met het projectteam volgde dat er met deze opdracht een bijdrage
+kan worden geleverd aan de duurzaamheidsambitie.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 12 van 60
+Een voorbeeld daarvan zijn de locatiebezoeken voor de uit te voeren waarnemingen
+waaronder die van de bemanning tijdens de opdracht en de overleggen die indien
+gewenst in hoofdzaak met MS Teams plaats zullen kunnen vinden (behoudens in
+ieder geval de project startup en het evaluatiegesprek).
+Het projectteam staat verder open voor andere mogelijkheden, zoals voor SROI
+(Social Return On Investment,https://www.rijkswaterstaat.nl/zakelijk/zakendoen-
+met-rijkswaterstaat/inkoopbeleid/de-groeituin-social-return-waar-mensen-centraal-
+staan/sociale-impact-bereiken-als-leverancier). Daarbij zal een bepaald gedeelte
+van het werk binnen dit project kunnen worden uitgevoerd door mensen met een
+afstand tot de arbeidsmarkt zoals vroegtijdige schoolverlaters,
+bijstandsgerechtigden, mensen met een leeftijd van 50+, werkzoekende niet-
+uitkeringsgerechtigden, ex-topsporters, ex-militairen, ex-gedetineerden,
+uitkeringsgerechtigden volgens de WIA (voorheen WAO) en mensen met een andere
+taal- en culturele achtergrond, zoals statushouders of arbeidsmigranten
+(https://www.maatwerkvoormensen.nl/praktijkvoorbeelden/rws-groeituin).
+Hun inzet kan leiden tot een ‘groeituin’, waarmee hun duurzame inzetbaarheid
+wordt gestimuleerd (https://www.aofondsrijk.nl/artikel/rijkswaterstaat-biedt-
+maatwerk-bij-social-return/).
+Voor werkzaamheden van het verwerken van data vanuit waarnemingen en/of
+metingen en afhankelijk van het geval voor analyse en/of rapportage, kan het werk
+verricht worden door mensen met een afstand tot de arbeidsmarkt. Deze
+werkzaamheden worden geacht plaats te vinden op tenminste MBO-niveau.
+Werkzaamheden betreffende de communicatie met de Opdrachtgever, de beheerder
+en/of Kustwacht, in sommige gevallen de scheepvaartverkeersdeelnemers, maar
+ook het beoordelen van de human factor waarnemingen terwijl een fysieke hindernis
+of het gebrek aan kennis een goede uitvoering kan belemmeren, of werkzaamheden
+in specifieke omstandigheden die volledige focus vergen (geen nachtblindheid,
+kleurenblindheid, of wat dies meer zij), vereisen – uitzonderingen daargelaten- de
+aandacht van mensen die geen afstand tot de arbeidsmarkt hebben.
+Inzet van sociale plaatsing is met name ook mogelijk in combinatie met de post 7, 8
+10, 11 en 13 van Bijlage I Staat van Tarieven en prijzen, mits de inzet geen
+2
+1
+2
+1
+1
+1
+0
+0
+Energie & Klimaat
+Materialen &
+Grondstoffen
+Milieu en
+Leefomgeving
+Welzijn &
+Gezondheid
+Sociale Aspecten
+Arbeidsaspecten in
+de Keten
+Maatschappelijke
+Kosten en Baten
+Launching
+Customership
+AMBITIEWEB
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 13 van 60
+gevolgen heeft voor de inhoudelijke kwaliteit van de waarnemingen, data, analyse
+en/of de rapportage.
+Voor de duidelijkheid moet het tarief en de uren voor sociale plaatsing apart worden
+gespecificeerd in het Plan van Aanpak. Ook moeten de totale kosten daarvan in de
+kolommen L en Q van de desbetreffende posten Bijlage I Staat van tarieven en
+prijzen worden opgenomen.
+Inschrijvers worden uitgenodigd om ideeën (‘unsollicited proposal’) op het gebied
+van social return in de inschrijving te vermelden, met dien verstande dat er geen
+beoordeling van die ideeën plaatsvindt, en dat er geen waarde aan toegekend wordt
+bij de afweging van de prijs-/kwaliteit van de inschrijvingen.
+Nadat de eventuele gunning van de opdracht heeft plaatsgevonden, wordt de
+desbetreffende Opdrachtnemer uitgenodigd om die ideeën met het team van de
+Groeituin te bespreken. Tijdens het gesprek zal meer specifiek worden stilgestaan
+bij de bedoelde duurzame inzetbaarheid bij de Opdrachtnemer en de voorwaarden
+waaronder, en zal het plan van aanpak van de Opdrachtnemer tegen het licht
+worden gehouden van de ambitie, concreetheid, haalbaarheid en realiteit ervan.
+Een mogelijke bijdrage aan social return kan zijn:
+1. Arbeidsplaatsing; het aanbieden van passende en betaalde werkplekken.
+Hierbij staat het koppelen van talent aan ondernemers of binnen hun
+netwerk centraal. De Groeituin kan hierbij ondersteuning bieden via sociale
+partners binnen hun netwerk.
+2. Kennis, middelen en expertise; ondernemers kunnen in overleg met de
+Groeituin vanuit hun eigen kennis en expertise invulling geven aan social
+return. De Groeituin adviseert ondernemers bij de inzet van hun expertise,
+producten en dienstenverlening. Met als doel om meer werkgelegenheid en
+duurzame plaatsingen te realiseren voor de kandidaten.
+3. Sociaal inkopen; ondernemers kunnen indirect extra werkgelegenheid
+creëren door de inkoop van producten of diensten die afkomstig zijn van
+sociale werkplaatsen of sociale ondernemingen.
+4. Arbeidsontwikkeling; dit zijn los aan te bieden interventies die alleen als
+aanvulling dienen op de bovenstaande interventies. Deze interventies
+dragen bij aan een hoger gevoel van motivatie en welzijn kandidaten en
+verbeterde bekendheid met hun eigen competenties en talenten. Door
+bijvoorbeeld het aanbieden van cursussen, opleidingen, trainingen en
+stages.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 14 van 60
+2 Opdrachtomschrijving, contractvorm en planning
+Opdrachtomschrijving
+Rijkswaterstaat
+Rijkswaterstaat is de uitvoeringsorganisatie van het ministerie van Infrastructuur en
+Waterstaat en werkt dagelijks aan een veilig, leefbaar en bereikbaar Nederland.
+De circa 10.000 werknemers van Rijkswaterstaat werken verspreid over landelijke
+en regionale organisatieonderdelen. Hieronder een overzicht van deze
+organisatieonderdelen.
+Op www.rijkswaterstaat.nl/zakelijk staat meer informatie over zakendoen met
+Rijkswaterstaat.
+Water Verkeer en Leefomgeving (WVL) en Zee en Delta (ZD)
+WVL ontwikkelt voor Rijkswaterstaat de visie op het hoofdwegennet, het
+hoofdvaarwegennet en het hoofdwatersysteem en op onze leefomgeving. WVL geeft
+met die visie aan:
+
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 15 van 60
+ hoe het hoofdwegennet, het hoofdvaarwegennet en het
+hoofdwatersysteem zich moeten ontwikkelen;
+ welke kwaliteit aan de gebruikers wordt geleverd;
+ welke zorg aan de leefomgeving moet worden besteed.
+WVL doet de aanbesteding van deze opdracht, ZD is nauw betrokken bij de
+voorbereiding en met name de uitvoering.
+Zee en Delta is de regionale partner voor de regio’s Zeeland, de Noordzee en
+Caribisch Nederland op het gebied van veiligheid, bereikbaarheid en leefbaarheid.
+Daarnaast richt ZD zich op het beheer en onderhoud van het areaal. Ook de
+Rijksrederij is onderdeel van dit organisatieonderdeel.
+Startsituatie
+De Noordzee is een van de drukst bevaren zeeën ter wereld. Naast scheepvaart
+gebruiken we de Noordzee voor vele andere doeleinden. Het winnen van energie is
+hier een van. De ambitie is om de komende decennia meer windenergie op zee te
+produceren om de klimaatdoelen te halen. Dat heeft invloed op de
+scheepvaartveiligheid. Rijkswaterstaat doet daarom onderzoek op dat gebied, zodat
+maatregelen genomen kunnen worden om de scheepvaartveiligheid op peil te
+houden. Ook heeft Rijkswaterstaat het MOSWOZ8 opgezet. Binnen dit programma
+doen we onderzoek naar het effect op de scheepvaartveiligheid van windparken op
+zee.
+Maatregelen behoud en verbetering scheepvaartveiligheid
+De Noordzee mag dan een van de intensiefst gebruikte zeeën zijn, het uitgangspunt
+van de overheid blijft dat we het veiligheidsniveau op zee behouden én waar
+mogelijk verbeteren. Op het Nederlandse deel van deze zee komen er tot en met
+2031 nog zo'n 1500 windturbines bij; de Aanvullende Routekaart windenergie op
+zee 2030 (https://www.rijksoverheid.nl/onderwerpen/duurzame-
+energie/documenten/kamerstukken/2022/06/10/aanvullende-routekaart-
+windenergie-op-zee-2030) geeft in hoofdlijnen de plannen weer. Uit onderzoek van
+Stichting MARIN9,
+https://www.noordzeeloket.nl/publish/pages/166436/wind_op_zee_2030_gevolgen
+_voor_scheepvaartveiligheid_en_mogelijke_mitigerende_maatregelen.pdf) blijkt dat
+de kans op aanvaringen tussen schepen en windturbines aanzienlijk toeneemt met
+de komst van nieuwe windparken. Daarom zijn er extra maatregelen nodig;
+preventieve maatregelen om incidenten te voorkomen zoals extra sensoren in
+windparken, extra toezicht en handhaving, en daarnaast maatregelen voor het geval
+er een incident is, bijvoorbeeld inzet van extra noodsleepcapaciteit. Ook MOSWOZ is
+een van die maatregelen omdat het leidt tot betere inzichten en een efficiëntere
+inzet van alle middelen.
+Inzicht risico’s en effectiviteit maatregelen
+We weten nog niet voldoende over de risico’s en de effectiviteit van de maatregelen.
+MOSWOZ werkt daarom aan meer inzicht, waarmee we passende maatregelen
+kunnen treffen om het veiligheidsniveau te borgen. Steeds is het doel om snel in te
+spelen op nieuwe ontwikkelingen en innovaties. Zo heeft een recent onderzoek naar
+risico’s van scheepsaanvaringen met windturbines geleid tot ontwikkelingen om
+8 Monitorings- en Onderzoeksprogramma Scheepvaartveiligheid Wind op Zee
+9 Stichting Maritiem Research Institute Nederland
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 16 van 60
+deze risico’s te verminderen. Er zijn extra Emergency Response Towing Vessels
+(ERTV) paraat nabij windparken en bij de Kustwacht wordt extra personeel ingezet
+die schepen nabij windparken actief monitort en indien nodig oproept.
+Thema’s binnen MOSWOZ
+MOSWOZ zoekt antwoorden op uiteenlopende onderzoeksvragen, die onder te
+brengen zijn in een aantal thema's. Het gaat hierbij om vragen als: Manifesteren de
+voorspelde risico’s zich ook daadwerkelijk en ook zoals verwacht? Welke
+onverwachte ontwikkelingen ontstaan er? En hoe effectief en efficiënt zijn de
+maatregelen die worden ingezet voor de scheepvaartveiligheid? Zo ondersteunen en
+adviseren we beleidsmakers en andere betrokkenen.
+Een overzicht van de thema’s is te vinden op:
+https://www.noordzeeloket.nl/functies-gebruik/windenergie/scheepvaart-moswoz/
+In de afgelopen tijd zijn er naast de bij deze opdracht te verzamelen en te
+verwerken gegevens, eerdere opdrachten voor specifieke advisering, in
+verschillende projecten verwerkt en gerapporteerd.
+Met deze aanbesteding wordt tevens beoogd de werkzaamheden gericht op de
+risico’s en mogelijke maatregelen bij Wind op Zee, zo uniform mogelijk (en niet
+versplinterd) uit te laten voeren. De Opdrachtgever heeft er voor gekozen om de
+opdracht met name uit oogpunt van uniformiteit, efficiency en zorg voor
+inhoudelijke kwaliteit, in één opdracht en daarom in één geheel (perceel) aan te
+besteden, bestaande uit een onderdeel voor acht (8) simulaties, en een optie tot
+verlenging van het contract voor nog een keer twee (2) simulaties.
+Correcte informatie die op tijd beschikbaar komt tenslotte, is en blijft van groot
+belang voor de primaire taken van Rijkswaterstaat in het algemeen, de wettelijke
+taken en de bedrijfsvoering in het bijzonder.
+Voor nadere informatie over de opdracht wordt kortheidshalve verwezen naar
+Bijlage K (Vraagspecificatie), inclusief eventuele bijlage(n).
+Werkzaamheden
+De opdrachtnemer dient in hoofdzaak het volgende te verrichten:
+specialistische adviesdiensten op het gebied van onderzoek, simulaties, inwinning
+van data, data-analyse en rapportage van gegevens over scheepvaartveiligheid, op
+het bredere niveau van de Noordzee en/of op gebiedsgericht niveau, om inzicht te
+verkrijgen in de ontwikkeling van risico’s en mogelijke maatregelen, waardoor het
+Ministerie van Infrastructuur en Waterstaat én Rijkswaterstaat (als beheerder)
+gerichter en effectiever kunnen sturen op de scheepvaartverkeersveiligheidsaanpak,
+zowel op beleidsniveau als in de uitvoering.
+De werkzaamheden strekken zich verder uit tot het in 2024 en indien de optie tot
+verlenging is ingeroepen, vanaf begin 2025:
+1. voorbereiden en uitvoeren van ten minste 8 simulaties, aan de hand van de
+bij de aanbestedingstukken gevoegde documenten, inclusief tenminste 8
+Detailrapportages;
+2. het ingeval van verlenging nogmaals voorbereiden en uitvoeren van
+tenminste 2 simulaties, inclusief tenminste 2 Detailrapportages;
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 17 van 60
+3. het opstellen van tenminste 1, en indien de verlenging is ingeroepen ten
+hoogste 2 definitieve rapportages over de uitgevoerde simulaties;
+4. tenminste 1 korte rapportage Toetsing technische haalbaarheid
+simulatiebeschrijvingen en methodologische aanpak, alsmede human factor
+monitoring aanpak;
+5. tenminste 8, en als de optie tot verlenging wordt opgedragen, 2 aanvullende
+korte Uitvoeringsplannen ten behoeve van elke simulatierun;
+6. tenminste 8, en als de optie tot verlenging wordt opgedragen, 2 aanvullende
+korte Uitvoeringsplannen Human factor ten behoeve van elke simulatierun;
+7. tenminste 2 presentaties over het uitgevoerde onderzoek van het minimale
+aantal van 8 simulatieruns;
+8. tenminste 1, en indien de verlenging wordt ingeroepen, ten hoogste 2
+Samenvattingen betreffende de resultaten van de onderzoeksvragen
+(Engels/Nederlands);
+9. aanvullende werkzaamheden voortvloeiend uit de opdracht en zoals vermeld
+in Bijlage I Staat van Tarieven en prijzen;
+10. afstemmen van de Diensten en hierin te adviseren en te toetsen of de
+werkzaamheden voldoende op elkaar zijn afgestemd;
+11. reflecteren en adviseren ten aanzien van de vorm van de rapportages en dit
+waar mogelijk toe te passen.
+Basisvereisten verbonden aan de uitvoering
+De inschrijver moet - om de opdracht goed te kunnen uitvoeren - tenminste voldoen
+aan de geschiktheidseisen zoals vermeld in 3.2 van deze Aanbestedingsleidraad en
+gedegen kennis hebben van het volgende.
+1) dienstverlening met betrekking tot het uitvoeren van simulaties op het
+gebied van scheepvaartverkeersveiligheid op zee
+2) dienstverlening met betrekking tot human factor waarnemingen, analyse en
+rapportage
+3) data-analyse en rapportage met betrekking tot met deze opdracht
+vergelijkbare observaties en/of door middel van het uitvoeren van
+vergelijkbare waarnemingen
+Tijdens de uitvoering van de opdracht is het niet toegestaan om minder capabel
+Personeel in te zetten dan bij de inschrijving voorgesteld. Derhalve is in het
+(concept) contract een daartoe strekkende bepaling (1.7) opgenomen.
+Indien bepaalde werkzaamheden van het verwerken van data vanuit metingen, en
+afhankelijk van het geval, voor analyse en/of rapportage, worden verricht door de in
+paragraaf 1.5 bedoelde mensen met een afstand tot de arbeidsmarkt, dan worden
+deze werkzaamheden overeenkomstig paragraaf 1.5 geacht plaats te vinden op
+tenminste MBO-niveau.
+De uitvoering van de werkzaamheden kan uiteindelijk afhankelijk zijn van data,
+informatie en processen van RWS-onderdelen zoals de ROO’en10, alsmede van
+specifieke situaties verbonden aan de specificaties, doorlooptijden en scope zoals
+vermeld in de Vraagspecificatie (Bijlage K) en de Staat van tarieven en prijzen
+(Bijlage I).
+10 ROO’en zijn Regionale Organisatie Onderdelen van Rijkswaterstaat
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 18 van 60
+De inschrijver moet voorts rekening houden met de eventuele externe
+publicatieplicht van de Opdrachtgever. De (concept) overeenkomst bevat enkele
+nadere bepalingen die daarin voorzien.
+Tijdens de uitvoering van de opdracht is de Opdrachtnemer steeds verplicht zich te
+houden aan de richtlijnen en maatregelen om belangenverstrengeling tegen te gaan
+(paragraaf 3.6). Een op eigen initiatief bij de inschrijving ingediend
+Belangenbeschermingsplan is toegestaan en kan tegemoet komen aan de wens van
+partijen om Personeel of informatie afdoende van elkaar te scheiden.
+Optie(s)
+Bij de opdracht is een optie tot verlenging met twee (2) extra simulaties van
+toepassing.
+De keuze van de Opdrachtgever voor het opnemen van deze verlengingsoptie is
+inherent aan de aard van het werk en is voor nu beperkt tot deze 2 extra simulaties.
+Het is voorts de ervaring en de staande praktijk dat tijdens de uitvoering van het
+werk vertraging kan ontstaan die een exogene oorzaak11 heeft, zoals de late
+aanlevering van data, of een politieke - of bestuurlijke beslissing, en die tot gevolg
+heeft dat de planning kan opschuiven, zodanig dat niet moet worden uitgesloten dat
+er een langere doorlooptijd met de uitvoering van het werk gemoeid blijkt te zijn.
+Het geheel van het cyclische rapportageproces kent mogelijk afhankelijkheden die
+ook de Opdrachtnemer soms gezien de exogene oorzaak niet zijn aan te rekenen.
+Dat de aard van het werk afhankelijkheden kent en daarmee een vertraging in zich
+draagt, heeft de Opdrachtgever er dus toe gebracht om een optie tot verlenging toe
+te passen, hetgeen echter niet betekent dat dergelijke vertragingen iets wijzigen in
+de scope van de opdracht. De scope, onderdelen en/of producten blijven immers
+hetzelfde, slechts de looptijd wordt verlengd.
+Een optie tot verlenging kan voorts worden ingeroepen om de volgende redenen.
+1. Continuïteit van de werkzaamheden, hetgeen naar het oordeel van de
+Opdrachtgever mogelijk is binnen het geldende budgettaire kader en feitelijk
+gelijk gebleven externe marktomstandigheden, óf;
+2. Vertraging in de levering van data of de verwerking van informatie in de
+processen van Rijkswaterstaat, niet te wijten aan de Opdrachtnemer, of;
+3. Eén of meer andere van buiten komende oorzaken of vergelijkbare
+omstandigheden die ervoor zorgen dat de Opdrachtnemer, ondanks de door
+hem in acht genomen zorgvuldigheid, niet binnen de contractueel
+afgesproken doorlooptijd kan opleveren.
+Kwaliteitssysteem
+Vervolgens dienen alle werkzaamheden volgens de gesloten Overeenkomst, op een
+zoveel mogelijk integrale, beheerste, expliciete en transparante wijze verricht te
+worden op basis van een projectmanagementsysteem.
+Dit projectmanagementsysteem, inclusief zijn onderliggende processen, dient
+gebaseerd te zijn op een:
+a) kwaliteitsmanagementsysteem welke - of in geval van een combinatie van
+enkele ondernemingen, eventueel meerdere kwaliteitsmanagementsystemen
+– is/zijn gecertificeerd door een daartoe geaccrediteerde certificatie-
+11 Een aan de Opdrachtgever te wijten omstandigheid of een door de Opdrachtgever veroorzaakte gebeurtenis, dan
+wel een andere buiten de schuld van de Opdrachtnemer liggende oorzaak waardoor vertraging ontstaat of reeds is
+ontstaan. Oorzaken, gebeurtenissen of omstandigheden die op de weg van de Opdrachtnemer liggen zijn hier niet
+mee bedoeld
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 19 van 60
+instelling op basis van de vigerende versie van de norm NEN-EN-ISO 9001
+of gelijkwaardig, dan wel;
+b) op een eigen kwaliteitsmanagementsysteem, naar het oordeel van de
+aanbesteder passend bij de aard van de werkzaamheden en ingericht
+volgens de Plan-Do-Check-Act cyclus, en waarbij:
+a. is beschreven op welke wijze bij de levering van de Diensten zal
+worden voldaan aan de gestelde eisen (Plan);
+b. de Diensten worden geleverd volgens het opgestelde plan waarbij
+wordt voldaan aan de gestelde eisen (Do);
+c. de kwaliteit van de geleverde Diensten aantoonbaar wordt
+beoordeeld op het voldoen aan de gestelde eisen (Check);
+d. in geval van niet voldoen aan de gestelde eisen, passende
+maatregelen worden genomen gericht op het herstellen en
+voorkomen van geconstateerde afwijkingen (Act).
+Informatiebeveiliging en open standaarden
+Op deze opdracht is het Rijksbrede beleid van informatiebeveiliging en open
+standaarden van toepassing, met als achterliggende doelen de bevordering van de
+informatiebeveiliging, interoperabiliteit en de vergroting van de
+leveranciersonafhankelijkheid.
+Daarvoor wordt verwezen naar de website van het Forum standaardisatie
+(www.forumstandaardisatie.nl). Aan de hand van de beslisboom op deze website
+https://www.forumstandaardisatie.nl/beslisboom/beslisboom-open-standaarden zijn
+de volgende open standaarden verplicht:
+1. Odf v1.2
+2. Pdf/A-1, Pdf/A-2, Pdf 1.7, Pdf/UA
+3. NEN-EN-ISO/IEC27002
+4. Digikoppeling
+5. OWMS
+6. Digitoegankelijk (EN301549 met WCAG 2.1)
+7. Geo-standaarden
+Mocht een van deze open standaarden niet op de op te leveren Diensten of
+producten van toepassing zijn, dan dient deze open standaard te vervallen. Is een
+open standaard hier niet vermeld en toch (mede gezien de Beslisboom en het
+Rijksbrede beleid van open standaarden) vereist voor de op te leveren Diensten of
+producten, dan is deze open standaard vanzelfsprekend wel van toepassing.
+Mocht de inschrijver een ‘gelijkwaardige’ standaard aanbieden, dan dient deze aan
+te tonen dat dit alternatief voldoet aan de door het Forum Standaardisatie
+gehanteerde en gepubliceerde criteria voor opname op de ‘Pas toe of leg uit’-lijst,
+zodat interoperabiliteit en leveranciersonafhankelijkheid in voldoende mate voor de
+Opdrachtgever zijn gewaarborgd.
+Voor een volledige lijst van de verplichte open standaarden wordt verwezen naar
+https://www.forumstandaardisatie.nl/open-standaarden/verplicht
+Contractvorm
+De aanbesteder is voornemens de opdracht te verlenen in de vorm van een
+dienstverleningsovereenkomst, met als voorwaarden de ARVODI 2018 (Algemene
+Rijksvoorwaarden voor het verstrekken van opdrachten tot het verrichten van
+Diensten 2018), welke bij de aankondiging van de aanbesteding (via Tenderned) ter
+beschikking zijn gesteld.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 20 van 60
+De omvang en reikwijdte van de opdracht en de voorwaarden waaronder de
+opdracht wordt gerealiseerd worden opgenomen in de conceptovereenkomst, de
+vraagspecificatie, de bijlagen bij de vraagspecificatie en overige
+contractdocumenten.
+Planning
+Voor de aanbestedingsprocedure geldt onderstaande indicatieve planning.
+Activiteit Datum
+Verzenden aankondiging door publicatie op
+www.tenderned.nl
+15 april 2024
+Inschrijvingsfase
+1e ronde vragen (tot uiterlijk op) 24 april 2024
+Bekendmaking 1e Nota van inlichtingen (uiterlijk op) 26 april 2024
+2e ronde vragen (uiterlijk op) 3 mei 2024
+Bekendmaking 2e Nota van inlichtingen (uiterlijk op) 6 mei 2024
+Uiterste datum ontvangst van de inschrijvingen 27 mei 2024
+Beoordelingsfase
+Openen digitale kluis in TenderNed met inschrijvingen 27 mei 2024
+Verzenden gunningsbeslissing 10 juni 2024
+Uiterste datum rechtsbeschermingstermijn 1 juli 2024
+Verzenden opdracht 8 juli 2024
+Aan bovenstaande planning kunnen geen rechten worden ontleend. De planning die
+is opgenomen in TenderNed prevaleert. De aanbesteder behoudt zich het recht voor
+de planning te wijzigen.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 21 van 60
+3 Uitsluitingsgronden en geschiktheidseisen
+Uitsluitingsgronden
+1. Een ondernemer die zich bevindt in één of meer van de omstandigheden
+genoemd in de artikelen 2.13.1 tot en met 2.13.5 of 2.13.7 van het ARW 2016
+wordt uitgesloten van deelneming aan de aanbestedingsprocedure, overigens
+onverminderd het bepaalde in artikel 2.13.12 van het ARW 2016.
+Indien inschrijving geschiedt door een samenwerkingsverband van ondernemers
+(combinatie), al dan niet als vennootschap onder firma, wordt het
+samenwerkingsverband uitgesloten van deelneming aan de
+aanbestedingsprocedure, wanneer één of meer van de ondernemers zich in één
+of meer van deze omstandigheden bevindt.
+2. Indien mocht blijken dat een andere natuurlijke of rechtspersoon, op wie de
+ondernemer een beroep doet om te voldoen aan de geschiktheidseisen, zich
+bevindt in één of meer van de omstandigheden genoemd in de artikelen 2.13.1
+tot en met 2.13.5 of 2.13.7 van het ARW 2016, wordt deze andere natuurlijke of
+rechtspersoon door de aanbesteder niet geaccepteerd.
+3. Als bewijsmiddelen verlangt de aanbesteder de documenten als genoemd in de
+artikelen 2.13.6 respectievelijk 2.13.9 van het ARW 2016.
+Bewijsmiddelen dienen te worden verstrekt binnen twee werkdagen na een
+daartoe ontvangen verzoek van de aanbesteder door middel van TenderNed,
+“Berichten”, dan wel per e-mail (bij wijze van uitzondering) ingeval van
+buitenlandse ondernemingen.
+4. Indien de aanbesteder aanwijzingen heeft dat eenondernemer zich bevindt in
+één of meer van de omstandigheden genoemd in de artikelen 2.13.1 tot en met
+2.13.5 of 2.13.7 van het ARW 2016, maar er bij de aanbesteder onvoldoende
+informatie beschikbaar is om het uitsluiten van deelneming of verdere
+betrokkenheid van die ondernemerte motiveren, dan kan door de aanbesteder
+advies worden gevraagd aan het Bureau BIBOB (zie artikel 8 van de Wet
+Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur (Wet BIBOB)).
+De ondernemer over wie advies is gevraagd, wordt door de aanbesteder over de
+inhoud van dat advies geïnformeerd door middel van TenderNed, “Berichten”,
+dan wel per e-mail (bij wijze van uitzondering) ingeval van buitenlandse
+ondernemingen.
+ Het in dit lid bepaalde geldt mutatis mutandis voor ondernemers in een
+samenwerkingsverband van ondernemers (combinatie)dan wel andere
+natuurlijke of rechtspersonen bedoeld in lid 2.
+Geschiktheidseisen
+1. Onverminderd het bepaalde in de paragrafen 3.1 en 3.6 komt voor de
+opdrachtverlening uitsluitend in aanmerking de ondernemer die, naar het
+oordeel van de aanbesteder, voldoet aan elk van de in deze paragraaf gestelde
+geschiktheidseisen.
+2. Met betrekking tot financiële en economische draagkracht worden geen
+geschiktheidseisen gesteld.
+3. Met betrekking tot technische bekwaamheid worden de volgende
+geschiktheidseisen gesteld:
+a. De ondernemer heeft in de periode van drie (3) jaar voorafgaande aan de
+uiterste datum voor ontvangst van de inschrijving ten minste één opdracht
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 22 van 60
+uitgevoerd met betrekking tot simulaties op het gebied van zeescheepvaart,
+alsmede rapportage ten aanzien daarvan, met een overeengekomen bedrag
+(aannemingssom) of gefactureerd bedrag gelijk aan of groter dan 20.000,-
+euro (exclusief omzetbelasting) waarbij de ondernemer jegens de
+opdrachtgever eindverantwoordelijk was voor de uitvoering van de
+opdracht.
+De opdracht is op een vakkundige en regelmatige wijze uitgevoerd en de
+opdracht is binnen de overeengekomen termijn (verleend uitstel van
+oplevering daarin begrepen) opgeleverd, of een daaraan gelijkwaardige
+handeling heeft plaatsgevonden.De ondernemer heeft in de periode van drie
+(3) jaar voorafgaande aan de uiterste datum voor ontvangst van de
+inschrijving tenminste één (1) opdracht uitgevoerd waarbij kennis is
+opgedaan van:
+(1) dienstverlening met betrekking tot human factor waarnemingen,
+analyse en rapportage;
+(2) data-analyse en rapportage met betrekking tot met deze opdracht
+vergelijkbare observaties en/of door middel van het uitvoeren van
+vergelijkbare waarnemingen.
+4. De in lid 3 genoemde competenties onder a en b kunnen elk in één aparte
+referentie worden aangetoond, dan wel gezamenlijk in één of enkele
+referentieopdrachten.
+5. Mocht de inschrijver uit eigener beweging naast de referentieopdrachten de niet
+verplichte bewijzen van persoonlijke kwalificaties (waaronder cv’s), hebben
+ingediend, dan dienen die niet ter adstructie of ter vervanging van de
+referentieopdrachten. Slechts de referentieopdrachten moeten voor elke
+inschrijver dienen als bewijs om te voldoen aan de gestelde geschiktheidseisen.
+Ingevolge de Algemene Verordening Gegevensbescherming (EU) 2016/679
+moeten de (overigens niet verplichte) cv’s niet integraal in een eventueel plan
+van aanpak worden opgenomen, maar in aparte bestanden worden ingediend,
+om eenvoudige vernietiging (na de inschrijving) mogelijk te maken.
+Toerekenen technische bekwaamheid
+Een ondernemer kan zich technische bekwaamheid slechts toerekenen indien de
+ondernemer de werkzaamheden waarop de technische bekwaamheid berust
+daadwerkelijk zelf heeft verricht.
+Bewijsmiddelen met betrekking tot de geschiktheidseisen
+De ondernemer verstrekt de aanbesteder, binnen een termijn van twee werkdagen
+na een daartoe ontvangen verzoek door middel van TenderNed, “Berichten”,
+bewijsmiddelen, waaruit blijkt dat de gegevens met betrekking tot de
+referentieopdracht(en), waarmee de ondernemer beoogt te voldoen aan de
+geschiktheidseisen, juist zijn weergegeven. De ondernemer kan hiertoe gebruik
+maken van opdrachtgeversverklaringen en/of accountantsverklaringen. De
+aanbesteder is gerechtigd navraag te doen bij de betreffende opdrachtgever, dan
+wel inzage te verlangen in contractdocumenten van de betreffende
+referentieopdracht(en).
+Om aan te tonen dat wordt voldaan aan de geschiktheidseisen is toerekening van
+technische bekwaamheid op grond van de referentieopdracht(en) of
+werkzaamheden uitgevoerd door andere ondernemers (in een
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 23 van 60
+samenwerkingsverband van ondernemers (combinatie)) of door zelfstandige
+hulppersonen (onderaannemers, leveranciers, etc.) uitsluitend mogelijk
+overeenkomstig het bepaalde in paragraaf 3.5.
+Beroep op een andere natuurlijke of rechtspersoon
+1. Een ondernemer kan zich, om te voldoen aan de geschiktheidseisen, beroepen
+op de technische bekwaamheid van andere natuurlijke of rechtspersonen. In dat
+geval dient de ondernemer:
+a. de aanbesteder aan te tonen dat hij daadwerkelijk en onherroepelijk kan
+beschikken over de voor de uitvoering van de opdracht noodzakelijke
+middelen van de andere natuurlijke of rechtspersonen;
+ b. die andere natuurlijke of rechtspersonen ook daadwerkelijk en
+onherroepelijk in te zetten bij de uitvoering van de opdracht, voor zover het
+de onderdelen betreft waarop de technische bekwaamheid betrekking heeft.
+Indien de opdracht aan de ondernemer wordt verleend, is hij tot deze inzet
+verplicht.
+2. De ondernemer verstrekt de aanbesteder, binnen twee werkdagen na een
+daartoe ontvangen verzoek door middel van TenderNed, “Berichten”, dan wel
+per e-mail (bij wijze van uitzondering) ingeval van buitenlandse ondernemingen,
+bewijsmiddelen waaruit blijkt dat de ondernemer daadwerkelijk en
+onherroepelijk kan beschikken over de voor de uitvoering van de opdracht
+noodzakelijke middelen van de andere natuurlijke of rechtspersonen, alsmede
+bewijsmiddelen waaruit blijkt dat de andere natuurlijke of rechtspersonen
+daadwerkelijk en onherroepelijk worden ingezet bij de uitvoering van de
+opdracht. Als bewijsmiddel kan onder meer dienen een ter zake gesloten
+(onderaannemings-)overeenkomst of een ter zake door de ondernemer en de
+andere natuurlijke of rechtspersoon opgestelde, gedateerde en rechtsgeldig
+ondertekende verklaring, zulks ter beoordeling van de aanbesteder.
+Voorkennis en belangenverstrengeling
+1. De richtlijnen van Rijkswaterstaat ter voorkoming van voorkennis en
+belangenverstrengeling, zoals opgenomen in de nota ‘Scheiding van belang,
+Beleid tegen belangenverstrengeling bij de aanbesteding’ d.d. 14 september
+2007 (zie www.rws.nl/scheidingvanbelang), zijn onverkort van toepassing op
+deze aanbestedingsprocedure.
+2. Iedere ondernemer of iedere andere natuurlijke of rechtspersoon, op wie de
+ondernemer zich beroept om te voldoen aan de geschiktheidseisen, dient in
+bijlage B “Aanvullende eigen verklaring” aan te geven of er sprake is (geweest)
+van betrokkenheid bij de voorbereiding van de opdracht en of er conflicterende
+belangen zijn die een negatieve invloed op de uitvoering van de opdracht
+kunnen hebben. Indien er sprake is van betrokkenheid bij de voorbereiding van
+de opdracht, wordt er vermoed sprake te zijn van voorkennis en/of
+belangenverstrengeling.
+3. De aanbesteder stelt de ondernemer in de gelegenheid om, ten genoegen van
+de aanbesteder, het in lid 2 bedoelde vermoeden te weerleggen en aan te tonen
+dat de eerlijke mededinging niet wordt geschaad door de (eerdere)
+betrokkenheid. Een ondernemer kan worden uitgesloten van deelneming aan de
+aanbestedingsprocedure indien het vermoeden, bedoeld in lid 2, niet wordt
+weerlegd of indien er conflicterende belangen zijn die een negatieve invloed
+kunnen hebben op de uitvoering van de opdracht.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 24 van 60
+4 Inschrijvingsfase
+Procedurebeschrijving inschrijvingsfase
+De inschrijvingsfase bestaat uit twee (2) termijnen voor inlichtingen en een (1)
+termijn voor inschrijving. Ondernemers hebben vervolgens tot aan de afloop van
+elke vragenronde de mogelijkheid tot het verzoeken om nadere inlichtingen. Na elke
+vragenronde wordt een nota van inlichtingen opgemaakt en vervolgens via
+Tenderned aan de potentiële inschrijvers toegezonden, dan wel (bij wijze van
+uitzondering) ingeval van buitenlandse ondernemingen per e-mail.
+Na de tweede en laatste nota van inlichtingen kunnen de ondernemers de
+inschrijving opstellen.
+Vervolgens dienen de ondernemerseen inschrijving in.
+Nadere inlichtingen
+Nadere inlichtingen als bedoeld in artikel 2.22 van het ARW 2016
+Nadere inlichtingen over deze aanbestedingsleidraad, de contractdocumenten en de
+overige aanbestedingsstukken kunnen tijdens twee (2) inlichtingenronden (en tot
+uiterlijk op 3 mei 2024) worden aangevraagd door middel van TenderNed, “Vragen
+en antwoorden”, dan wel (bij wijze van uitzondering) ingeval van buitenlandse
+ondernemingen per e-mail naarWVL-aanbestedingsdocumenten@rws.nl onder
+vermelding van zaaknummer 31195825 MOSWOZ Simulaties.
+De eerste ronde vragen kunnen tot uiterlijk op24 april 2024 worden aangevraagd
+door middel van TenderNed, “Vragen en antwoorden”, dan wel (bij wijze van
+uitzondering) ingeval van buitenlandse ondernemingen per e-mail zoals
+voorschreven in de eerste zin.
+De tweede ronde vragen kunnen tot uiterlijk op3 mei 2024 via Tenderned worden
+ingediend, dan wel (bij wijze van uitzondering) ingeval van buitenlandse
+ondernemingen per e-mail zoals voorschreven.
+Vragen dienen helder en duidelijk te zijn geformuleerd met een referentie naar het
+onderdeel van de aanbestedingsstukken waarop de vraag betrekking heeft. Vragen
+worden zo spoedig mogelijk door de aanbesteder beantwoord door middel van
+TenderNed, “Vragen en antwoorden”, dan wel (bij wijze van uitzondering) ingeval
+van buitenlandse ondernemingen per e-mail zoals voorschreven.
+De via TenderNed gestelde vragen en de daarop gegeven antwoorden worden door
+de aanbesteder, na sluiting van de desbetreffende termijn voor inlichtingen,
+vastgelegd in een nota van inlichtingen. Deze nota wordt gepubliceerd op
+TenderNed, dan wel (bij wijze van uitzondering) ingeval van buitenlandse
+ondernemingen per e-mail zoals voorschreven.
+Nadere inlichtingen als bedoeld in artikel 2.23 van het ARW 2016
+Een ondernemer die voornemens is in te schrijven kan verzoeken om nadere
+inlichtingen als bedoeld in artikel 2.23 van het ARW 2016.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 25 van 60
+Een dergelijk verzoek om inlichtingen kan worden ingediend door middel van
+TenderNed, “Vragen en antwoorden” dan wel ingeval van buitenlandse
+ondernemingen per e-mail zoals in paragraaf 4.2.1 (eerste zin) beschreven. In
+TenderNed (ingeval van buitenlandse ondernemingen per e-mail zoals in paragraaf
+4.2.1 beschreven) dient dan verzocht te worden om de vraag individueel te
+behandelen en dient in de vraag het gerechtvaardigd economisch belang te worden
+gemotiveerd. Dergelijke inlichtingen worden uitsluitend verstrekt in de periode van
+15 april 2024 tot en met 22 april 2024.
+Daarnaast kan een ondernemer die voornemens is in te schrijven eenmalig
+verzoeken om een bijeenkomst inzake bedoelde nadere inlichtingen. Een dergelijk
+verzoek dient tot uiterlijk op 19 april 2024 om 12.00 uur te zijn ingediend door
+middel van TenderNed, “Berichten” (dan wel bij wijze van uitzondering ingeval van
+buitenlandse ondernemingen per e-mail zoals in paragraaf 4.2.1 beschreven). Bij
+het verzoek dient te worden aangegeven:
+- de vragen die de ondernemer wil stellen;
+- waarom, ten aanzien van die vragen, sprake is van een gerechtvaardigd
+economisch belang.
+Indien het verzoek door de aanbesteder wordt gehonoreerd, worden in overleg met
+de betreffende ondernemer een datum en een tijdstip voor een bijeenkomst
+vastgesteld, binnen de periode van 22 april 2024 tot en met 23 april 2024.
+Indien de aanbesteder oordeelt dat er geen sprake is van gerechtvaardigd
+economisch belang, dan wordt de ondernemer in de gelegenheid gesteld zijn
+verzoek om nadere inlichtingen in te trekken zonder dat de gevraagde inlichtingen
+worden verstrekt dan wel zijn verzoek om nadere inlichtingen opnieuw in te dienen
+doch dan als een verzoek om nadere inlichtingen als bedoeld in artikel 2.22 van het
+ARW 2016.
+Van de tijdens de bijeenkomst door de ondernemer gestelde vragen en de daarop
+door de aanbesteder gegeven antwoorden wordt door de aanbesteder een proces-
+verbaal opgesteld. De ondernemer ontvangt dat proces-verbaal door middel van
+TenderNed, “Berichten”(dan wel bij wijze van uitzondering ingeval van buitenlandse
+ondernemingen per e-mail zoals in paragraaf 4.2.1 beschreven).
+Inschrijving
+Indienen van een inschrijving
+1. De bij de inschrijving te verstrekken documenten dienen te zijn gesteld in de
+Nederlandse taal, dan wel in de Engelse taal wanneer inschrijving door een of
+enkele buitenlandse ondernemingen plaatsvindt.
+2. Een inschrijving moet digitaal worden ingediend door middel van TenderNed. Bij
+buitenlandse ondernemingen kan de inschrijving (bij wijze van uitzondering door
+nood gedwongen of door een onvoorziene, niet te beïnvloeden gebeurtenis)
+schriftelijk en met een handgeschreven handtekening op Bijlage A, B, C, E, H en
+J en vervolgens in pdf-formaat worden ingediend op het e-mailadres
+WVL-aanbestedingsdocumenten@rws.nl onder vermelding van zaaknummer
+31195825.
+De overige documenten waaronder Bijlage D, Bijlage I, 2 en 3 van de
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 26 van 60
+Verwerkersovereenkomst en het Plan van Aanpak behoeven geen handtekening
+en moeten op de voorschreven wijze (in de eerste zin van dit lid 2) worden
+ingediend. Ingeval een onderaannemer wordt ingeschakeld om aan de gestelde
+geschiktheidseisen te voldoen en waarvan de stukken met een handgeschreven
+handtekening worden ingediend Bijlage C Model indieningsformulier en
+Bijlage J Verklaring onderaannemer, vereisen Bijlage C en J wel een
+handtekening.
+3. De inschrijving dient uiterlijk op 27 mei 2024 om 10.00 uur te zijn ingediend,
+waarbij de klok van TenderNed bepalend is. Op dat tijdstip eindigt de
+inschrijvingstermijn en sluit de digitale kluis in TenderNed. De genoemde datum
+en het genoemde tijdstip gelden als uiterste datum en uiterste tijdstip voor
+ontvangst van de inschrijvingen. In het geval van indiening van de digitale en
+schriftelijke stukken door buitenlandse ondernemingen per e-mail volgens lid 2,
+gelden dezelfde datum en hetzelfde tijdstip.
+4. Alle overige bij inschrijving te verstrekken documenten moeten eveneens
+digitaal worden opgesteld (bijvoorbeeld in pdf-formaat).
+5. De documenten die bij inschrijving dienen te worden ondertekend, dienen te zijn
+ondertekend door een bevoegd vertegenwoordiger van de inschrijver.
+6. De documenten die dienen te worden ondertekend dienen in pdf-format te zijn
+voorzien van een gekwalificeerde elektronische handtekening conform
+Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23
+juli 2014.12 Indien een bepaald digitaal pdf-formulier (bijvoorbeeld het Uniform
+Europees Aanbestedingsdocument) niet rechtstreeks op deze wijze kan worden
+ondertekend, dient een digitale pdf-afdruk van het pdf-formulier gemaakt te
+worden en dient die digitale pdf-afdruk op bovenvermelde wijze te worden
+ondertekend.
+Dit vereiste van elektronische handtekening geldt niet voor een of enkele
+buitenlandse ondernemingen die zelfstandig of gezamenlijk al dan niet met een
+onderaannemer bij wijze van uitzondering door nood gedwongen of door een
+onvoorziene, niet te beïnvloeden gebeurtenis, per e-mail inschrijven met een
+inschrijving met handgeschreven handtekening.
+7. Documenten die door andere natuurlijke of rechtspersonen op wie de inschrijver
+zich (conform 3.5) beroept, worden ingediend, mogen door deze andere
+natuurlijke of rechtspersonen in plaats van een gekwalificeerde elektronische
+handtekening conform Verordening (EU) nr. 910/2014 van het Europees
+Parlement en de Raad van 23 juli 2014 ook worden voorzien van een
+handgeschreven handtekening. In dat geval dient de inschrijver een scan in pdf-
+format van het originele document voorzien van een verklaring conform bijlage
+C “Model indieningsformulier voor documenten van derden die met een
+handgeschreven handtekening worden ingediend” bij zijn inschrijving te voegen.
+Tevens dient de inschrijver het originele document met handgeschreven
+handtekening, onder vermelding van zaaknummer 31195825, zo spoedig
+mogelijk na zijn inschrijving te verzenden aan:
+Rijkswaterstaat Water, Verkeer en Leefomgeving
+T.a.v. afdeling Inkoop
+Postadres: Postbus 2232  3500 GE  UTRECHT
+12 Elektronische handtekeningen die aan deze norm voldoen zijn bijvoorbeeld: PKIoverheid, EU Qualified, of andere
+STORK IV handtekeningen, maar ook geavanceerde elektronische handtekeningen die zijn aangemaakt met een
+gekwalificeerd middel voor het aanmaken van elektronische handtekeningen, gebaseerd op een gekwalificeerd
+certificaat voor elektronische handtekeningen zoals omschreven in de Verordening (EU) nr. 910/2014 van het
+Europees Parlement en de Raad van 23 juli 2014.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 27 van 60
+Dit vereiste geldt niet voor een of enkele buitenlandse ondernemingen die (bij
+wijze van uitzondering door nood gedwongen of door een onvoorziene, niet te
+beïnvloeden gebeurtenis) zelfstandig of gezamenlijk, al dan niet met een
+onderaannemer, per e-mail inschrijven met een inschrijving met
+handgeschreven handtekening.
+Varianten van de inschrijver
+Het indienen van varianten van de inschrijver is niet toegestaan.
+Bevoegdheid tot het doen van een inschrijving
+1. De inschrijving dient te zijn gedaan door een daartoe bevoegde
+vertegenwoordiger van de inschrijver.
+2. Binnen twee werkdagen na een daartoe ontvangen verzoek van de aanbesteder,
+door middel van TenderNed, “Berichten”, dan wel ingeval van buitenlandse
+ondernemingen per e-mail zoals nader omschreven in paragraaf 4.3.1 lid 2,
+dient de inschrijver een (kopie van een) uittreksel uit het register van de Kamer
+van Koophandel te verstrekken, waarin is aangegeven wie namens de
+ondernemer bevoegd is de inschrijving te ondertekenen.
+Indien ondertekening geschiedt door een ander dan degene die is vermeld in het
+register dient tevens (een gewaarmerkte kopie van) de daartoe vereiste
+volmacht te worden verstrekt.
+3. Indien inschrijving geschiedt door een samenwerkingsverband van ondernemers
+(combinatie), al dan niet als vennootschap onder firma, dienen de in lid 2
+genoemde documenten door iedere ondernemer afzonderlijk te worden
+verstrekt.
+4. Indien de inschrijver niet is gevestigd in Nederland dienen uittreksels en/of
+documenten te worden verstrekt waaruit de bevoegdheid blijkt, overeenkomstig
+de wettelijke bepalingen geldend in het land van vestiging.
+5. Indien blijkt dat de inschrijving is gedaan door een persoon die daartoe, op het
+moment dat de inschrijving werd gedaan, niet bevoegd was, is de inschrijving
+ongeldig.
+Inschrijving door een samenwerkingsverband van ondernemers (combinatie)
+1. Inschrijving door een samenwerkingsverband van ondernemers (combinatie) is
+toegestaan.
+Door de aanbesteder worden geen bijzondere eisen gesteld met betrekking tot
+de rechtsvorm (na opdracht) van het samenwerkingsverband van ondernemers
+(combinatie).
+2. Indien de aanbesteder vermoedt dat het aantal ondernemingen in een
+samenwerkingsverband van ondernemers (combinatie) onevenredig groot is,
+gelet op de Mededingingswet, zal de aanbesteder een melding doen bij de
+Autoriteit Consument en Markt.
+3. In aanvulling op het bepaalde in artikel 2.26.2 van het ARW 2016 wordt bepaald
+dat een ondernemer in een samenwerkingsverband van ondernemers
+(combinatie) die voor minder dan 10% van het bedrag van de inschrijving
+deelneemt in de uitvoering van de opdracht, hoofdelijk aansprakelijk is voor de
+nakoming van alle uit de overeenkomst voortvloeiende verplichtingen, doch tot
+ten hoogste 10% van het bedrag van de inschrijving.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 28 van 60
+4. Het bepaalde in lid 3 geldt uitsluitend indien de deelname van een ondernemer
+voor minder dan 10% bij de inschrijving uitdrukkelijk is aangegeven op het
+inschrijvingsbiljet en deze deelname, indien de aanbesteder daarom verzoekt,
+wordt gespecificeerd en aangetoond.
+Bij inschrijving te verstrekken documenten
+Algemeen
+1. De inschrijving dient te geschieden middels bijlage E “Inschrijvingsbiljet” dan
+wel op een geheel overeenkomstig daaraan opgesteld biljet. Indien het
+inschrijvingsbiljet niet is ondertekend conform paragraaf 4.3.1, dan is de
+inschrijving ongeldig.
+2. De inschrijver dient bij zijn inschrijving twee eigen verklaringen te voegen:
+a. het Uniform Europees Aanbestedingsdocument (UEA), of ESPD13 ingeval van
+een of enkele buitenlandse ondernemingen), en
+b. een Aanvullende eigen verklaring,
+overeenkomstig de modellen die respectievelijk als bijlage A en bijlage B bij zijn
+gevoegd. De inschrijver dient op het Uniform Europees Aanbestedingsdocument
+(of ESPD) onder Deel II A, Identificatie, zijn KvK-nummer en vestigingsnummer
+te vermelden.
+De eigen verklaringen gelden als een eigen verklaring van de inschrijver bedoeld
+in artikel 2.21 van het ARW 2016.
+Indien inschrijving geschiedt door een samenwerkingsverband van ondernemers
+(combinatie), al dan niet als vennootschap onder firma, dienen beide eigen
+verklaringen door iedere ondernemer te worden bijgevoegd.
+3. De inschrijver dient bij zijn inschrijving een volledig ingevulde opgave conform
+bijlage D “Gegevens omtrent technische bekwaamheid” bij te voegen met een
+overzicht waaruit blijkt met welke referentieopdrachten de inschrijver beoogt te
+voldoen aan de geschiktheidseisen en de gegevens over die
+referentieopdracht(en). Per geschiktheidseis mag slechts 1 referentieopdracht
+worden aangedragen. Een referentieopdracht mag voor meerdere
+geschiktheidseisen worden gebruikt.
+4. De inschrijver dient bij zijn inschrijving Bijlagen 2 en 3 van de (concept)
+Verwerkersovereenkomst te voegen zoals is bepaald in paragraaf 6.3.
+5. Indien de inschrijver zich, om te voldoen aan de geschiktheidseisen genoemd in
+paragraaf 3.2, beroept op de financiële en economische draagkracht en/of de
+technische bekwaamheid van andere natuurlijke of rechtspersonen, dient de
+inschrijver dit aan te geven in het Uniform Europees Aanbestedingsdocument of
+ESPD.
+Voorts dient de inschrijver bij zijn inschrijving de volgende documenten te
+voegen:
+a. van elke andere natuurlijke of rechtspersoon, een Uniform Europees
+Aanbestedingsdocument (ESPD)die als bijlage A is bijgevoegd, waarbij van
+deel II de afdelingen A en B zijn ingevuld en deel III volledig, alsmede de
+Aanvullende eigen verklaring die als bijlage B is bijgevoegd. Elke andere
+natuurlijke of rechtspersoon dient op het Uniform Europees
+Aanbestedingsdocument (ESPD) onder Deel II A, Identificatie, zijn KvK-
+nummer en vestigingsnummer te vermelden; en
+13 European Single Procurement Document
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 29 van 60
+b. een door elke andere natuurlijke of rechtspersoon opgestelde, gedateerde
+en conform paragraaf 4.3.1ondertekende verklaring, waarin deze jegens de
+aanbesteder verklaart dat de inschrijver over de voor de uitvoering van de
+opdracht noodzakelijke middelen kan beschikken; en
+c. voor wat betreft de technische bekwaamheid, een door elke andere
+natuurlijke of rechtspersoon opgestelde, gedateerde en conform paragraaf
+4.3.1 ondertekende verklaring, waarin deze jegens de aanbesteder verklaart
+het betreffende onderdeel van de opdracht te zullen uitvoeren.
+6. De inschrijver dient bij zijn inschrijving een verklaring conform bijlage H
+“Verklaring inzake de verplichtingen op het gebied van milieu-, sociaal en
+arbeidsrecht” bij te voegen waarin hij aangeeft dat hij bij het opstellen van zijn
+inschrijving rekening heeft gehouden met de verplichtingen op het gebied van
+het milieu-, sociaal en arbeidsrecht uit hoofde van het recht van de Europese
+Unie, het nationale recht, collectieve arbeidsovereenkomsten en uit hoofde van
+de in bijlage X van richtlijn 2014/24/EU vermelde bepalingen van internationaal
+milieu-, sociaal en arbeidsrecht. Indien inschrijving geschiedt door een
+samenwerkingsverband van ondernemers (combinatie), al dan niet als
+vennootschap onder firma, dient deze verklaring door iedere ondernemer te
+worden bijgevoegd.
+7. De inschrijver dient bij zijn inschrijving een verklaring conform bijlage N
+“Verklaring internationale sociale voorwaarden” bij te voegen waarin hij
+aangeeft dat hij bij het opstellen van zijn inschrijving rekening heeft gehouden
+met één of meer van de vermelde regimes ten aanzien van internationale
+sociale voorwaarden.
+8. Met uitzondering van het inschrijvingsbiljet, kan de aanbesteder voor gebreken
+bij het indienen van de documenten als bedoeld in deze paragraaf gelegenheid
+geven tot herstel. In dat geval bepaalt de aanbesteder een termijn waarbinnen
+het gebrek moet zijn hersteld.
+Bij de inschrijving te verstrekken prijsdocument
+1. De inschrijver dient, ter informatie van de aanbesteder, bij zijn inschrijving een
+specificatie van het bedrag van de inschrijving (inschrijvingssom) te verstrekken
+conform het format dat als bijlage I “Staat van Tarieven en prijzen” is
+bijgevoegd.
+2. De in de Staat van Tarieven en prijzen op te nemen bedragen, dienen realistisch
+te zijn en in redelijke verhouding te staan tot de aard en omvang van de te
+verrichten werkzaamheden.
+3. De in de Staat van Tarieven en prijzen opgenomen optelsom van de totale vaste
+prijs en de eventuele variabele kosten geldt als inschrijfprijs.
+4. Nadat de vergoeding van een vaste hoeveelheid product heeft plaatsgevonden,
+kan een aanvullende (variabele) hoeveelheid in opdracht worden gegeven tegen
+de (vaste) prijs per product zoals vermeld in de Staat van Tarieven en prijzen.
+5. Voor gebreken bij het indienen van de Staat van Tarieven en prijzen kan de
+aanbesteder gelegenheid geven tot herstel. In dat geval bepaalt de aanbesteder
+een termijn waarbinnen het gebrek moet zijn hersteld.
+6. Voor de duidelijkheid moet het tarief en de uren voor sociale plaatsing apart
+worden gespecificeerd in het Plan van Aanpak. Ook moeten de totale kosten
+daarvan in de kolommen L en Q van de desbetreffende posten van Bijlage I
+Staat van Tarieven en prijzen worden opgenomen.
+Aanbestedingsleidraad | Zaaknummer: 31195825 | 29-3-2024
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIJK Pagina 30 van 60
+Bij de inschrijving te verstrekken kwalitatieve documenten
+De inschrijver dient bij zijn inschrijving een Plan van Aanpak te verstrekken.
+In het Plan van Aanpak moet worden ingegaan op de criteria volgens Bijlage G
+EMVI-BPKV Tabel, zoals welke is gevoegd bij de aanbestedingsstukken.
+Het kwalitatieve deel van de inschrijving bevat hetgeen nodig is om te kunnen
+komen tot een kwalitatieve beoordeling van de gunningscriteria voor het bepalen
+van de inschrijving met de BPKV14, met een maximum van 20 pagina’s A4 formaat
+(inclusief bijlagen maar exclusief voorblad, inleiding, inhoudsopgave en tabbladen),
+waarbij gebruik wordt gemaakt van een lettertype Verdana (of vergelijkbaar), 9pt,
+een minimale regelafstand van 12 pt wordt aangehouden en met minimale marges
+van 2,5 cm boven en onder en 3 cm links en rechts wordt gewerkt. Voor de
+efficiency en kwaliteit van het beoordelingsproces dient de structuur van de
+kwalitatieve documenten overeen te komen met de Tabel BPKV-criteria uit bijlage G
+“Uitwerking BPKV criteria voor de beste prijs-kwaliteitverhouding”.
+De bovenvermelde gunningscriteria dienen om die reden te worden uitgewerkt in
+het bovenvermelde - bij de inschrijving in te dienen - Plan van Aanpak. Verder moet
+het Plan van Aanpak worden bezien in samenhang met de eisen vermeld in Bijlage K
+Vraagspecificatie.
+Het staat de inschrijver vrij om reeds bij de inschrijving en/of in het Plan van
+Aanpak globaal aan te geven in hoeverre aan aspecten op het gebied van social
+return kan worden voldaan en welke bijdrage daaraan bij de opdracht kan worden
+geleverd (met inachtneming van paragraaf 1.5).
+De inschrijver moet er rekening mee houden dat de documenten van de inschrijving
+die niet behoren tot deze paragraaf bestemd zijn voor de aanbestedingscommissie
+bedoeld in paragraaf 4.5. Zodra deze documenten van de inschrijving door de
+aanbestedingscommissie zijn gecontroleerd, worden de kwalitatieve documenten
+volgens deze paragraaf (en documenten zoals een kwaliteitssysteemcertificaat)
+doorgegeven aan de beoordelingscommissie ter beoordeling.
+Opening van de inschrijvingen
+1. De opening van de inschrijvingen vindt plaats op 27 mei 2024 omstreeks
+10.15 uur door een vanwege de aanbesteder ingestelde
+aanbestedingscommissie. De aanbestedingscommissie opent dan de digitale
+kluis in TenderNed, dan wel de door buitenlandse ondernemingen (bij wijze van
+uitzondering door nood gedwongen of door een onvoorziene, niet te beïnvloeden
+gebeurtenis) per e-mail ingestuurde stukken.
+2. Behalve de leden van de in lid 1 genoemde aanbestedingscommissie mag
+niemand bij de opening van de inschrijvingen aanwezig zijn.
+3. De aanbestedingscommissie stelt vast, aan de hand van de
+inschrijvingsbiljetten:
+a. het aan
