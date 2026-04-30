@@ -1,0 +1,2302 @@
+=== Document: beschrijvend document eu aanbesteding onderzoek koloniaal verleden v1.0 ===
+BESCHRIJVEND DOCUMENT
+bij de Europese openbare aanbesteding 
+Onderzoek koloniaal verleden KNAW 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  2 / [32] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Colofon 
+ 
+ 
+Uitgegeven door: Koninklijke Nederlandse Akademie van Wetenschappen 
+ 
+Postadres:  Postbus 19121 
+   1000 GC Amsterdam 
+ 
+Bezoekadres:  Kloveniersburgwal 29 
+   1011 JV Amsterdam 
+ 
+Datum:     6 januari 2025 
+ 
+Versie:   1.0 
+ 
+ 
+ 
+© KNAW 2024: Alle rechten voorbehouden 
+ 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  3 / [32] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+ 
+Opdracht 
+Dit Beschrijvend document en alle andere aanbestedingsdocumenten zijn geen formele opdracht en 
+kunnen ook niet als zodanig worden uitgelegd. Pas na de definitieve Gunning vormen zij de basis 
+van de daadwerkelijke Opdracht, welke middels ondertekende Overeenkomst(en) tussen de KNAW 
+en de gegunde Opdrachtnemer(s) wordt vastgelegd. Waar in de aanbestedingsdocumenten 
+gesproken wordt over ‘Opdracht’ dient Inschrijver dit in acht te nemen. 
+ 
+Getallen 
+Alle getallen genoemd in dit Beschrijvend document met betrekking tot hoeveelheden en waarden 
+zijn voorbeelden en/of inschattingen, bedoeld om een zo goed mogelijk beeld te geven van de 
+omvang van de Opdracht. Aan deze getallen kunnen geen rechten worden ontleend, tenzij anders 
+aangegeven. Dit heeft geen betrekking op datums, tijdsduren en tijdstippen, tenzij anders 
+aangegeven. 
+ 
+Merknamen 
+Op die plaatsen in dit Beschrijvend document en overige aanbestedingsdocumenten waar 
+gesproken wordt over bepaalde merknamen, fabricaten, typen, etc. en waarbij het (wellicht) handelt 
+om een unieke zaak zal het gestelde in artikel 2.76 lid 4 van de Aanbestedingswet 2012 van 
+toepassing zijn op het bewuste tekstdeel. Inschrijvers dienen in een dergelijk geval aansluitend op 
+het bewuste tekstdeel de zinsnede “of gelijkwaardig” te lezen – voor zover dit niet terplekke 
+vermeld is – tenzij expliciet anders aangegeven.  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  4 / [32] 
+INHOUDSOPGAVE 
+ 
+Begripsbepaling 6 
+1. Aanbesteding 10 
+1.1 Aanbestedende Dienst 10 
+1.2 Wettelijk Kader 10 
+1.2.1 Non-discriminatie 10 
+1.2.2 Gelijke behandeling 10 
+1.2.3 Transparantie 11 
+1.2.4 Proportionaliteit 11 
+1.3 Doel 11 
+1.4 Opdracht 11 
+1.4.1 Omvang & Scope 11 
+1.5 Looptijd 11 
+1.6 Percelen 12 
+1.7 Planning 12 
+2. Inschrijving 13 
+2.1 TenderNed 13 
+2.2 Communicatie & Contactpersoon 13 
+2.3 Vragenronde(s) 13 
+2.4 Inschrijving Indienen 14 
+2.5 Storing 14 
+2.6 Inschrijfdocumenten en naamgeving 15 
+2.7 Tegenstrijdigheden 15 
+2.8 Voorbehoud 16 
+2.9 Vertrouwelijkheid 16 
+2.10 Gestanddoeningstermijn 16 
+2.11 Voorwaarden 16 
+2.12 Klachtenregeling 17 
+2.13 Inschrijfvergoeding 17 
+3. Beoordeling 18 
+3.1 Beoordelingsteam 18 
+3.2 Fase 1: Volledigheid en Geldigheid 18 
+3.3 Fase 2: Uitsluitingsgronden en Geschiktheidseisen 18 
+3.4 Fase 3: Inhoudelijke Beoordeling 18 
+3.4.1 Gunningscriterium Kwaliteit 19 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  5 / [32] 
+3.4.2 Gunningscriterium Prijs 19 
+3.5 Fase 4: Afronding Oordeel 19 
+3.6 Fase 5: Mededelingen en Bezwaar 20 
+3.7 Fase 6: Verificatie 20 
+4. Uitsluiting & Geschiktheid 21 
+4.1 Algemeen 21 
+4.2 Uitsluitingsgronden 21 
+4.2.1 Universeel Europees Aanbestedingsdocument (UEA) 21 
+4.2.2 Overige Verklaringen 21 
+4.2.3 Bewijsstukken ter Verificatie 21 
+4.3 Geschiktheidseisen 22 
+4.3.1 Financiële en Economische Draagkracht 22 
+4.3.2 Verzekering 22 
+4.4 Juridische Bindingen 22 
+4.5 Combinaties 22 
+4.6 Beroep op Derden 23 
+4.7 Onderaanneming 23 
+4.8 Inschrijvers van één Concern 23 
+5. Programma van Eisen 24 
+6. Gunning 25 
+6.1 Algemeen 25 
+6.2 Kwaliteit 25 
+6.2.1 Vormvereisten 26 
+6.2.2 Subgunningscriterium 1 27 
+6.2.3 Subgunningscriterium 2 28 
+6.2.4 Subgunningscriterium 3 28 
+6.3 Prijs 30 
+7. Bijlagen 31 
+ 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  6 / [32] 
+BEGRIPSBEPALING 
+ 
+ 
+ 
+In dit document hebben de navolgende begrippen, indien aangeduid met een beginhoofdletter, de 
+volgende betekenis: 
+ 
+Aanbestedende dienst 
+De Koninklijke Nederlandse Akademie van Wetenschappen (KNAW), zetelend aan de 
+Kloveniersburgwal 29 te Amsterdam, met inbegrip van haar (onderzoeks)instituten en alle andere 
+onder haar ressorterende organisaties. 
+ 
+Aanbesteding 
+De procedure waarbij de Aanbestedende dienst bekend maakt een Opdracht te willen laten 
+uitvoeren waarop geïnteresseerden een Inschrijving in kunnen dienen. 
+ 
+Aanbestedingsdocumenten 
+Alle documenten die de Aanbestedende dienst vóór sluiting van de Inschrijftermijn op het 
+Aanbestedingsplatform publiceert horende bij de onderhavige Aanbesteding, waaronder het 
+Beschrijvend document, de Bijlagen, en de Nota(‘s) van Inlichtingen. Ook wel 
+‘Aanbestedingsstukken’ genoemd.   
+ 
+Aanbestedingsplatform 
+Het door de Aanbestedende dienst en Inschrijver gebruikte online platform voor het publiceren van 
+de Aanbestedingsdocumenten dan wel het indienen van de Inschrijvingen. De KNAW maakt gebruik 
+van het Aanbestedingsplatform TenderNed (www.tenderned.nl
+).  
+ 
+Aanbestedingsstukken 
+Zie Aanbestedingsdocumenten. 
+ 
+Aanbestedingswet 2012 
+Wet van 1 november 2012, herzien per 22 juni 2016, volgens de laatst aangebrachte wijzigingen 
+inwerking getreden per 18 april 2019, in verband met de implementatie van Europese 
+aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU, 2014/25/EU en 2014/55/EU, te vinden op 
+wetten.overheid.nl
+ onder de naam “Aanbestedingswet 2012”. 
+ 
+Aannemer 
+Eenieder die de uitvoering van Werken op de markt aanbiedt. 
+ 
+Beschrijvend document (BD) 
+Dit document, inclusief Bijlagen, waarin door de Aanbestedende dienst de Opdracht, de te volgen 
+aanbestedingsprocedure, de Uitsluitingsgronden, de Geschiktheidseisen, het Programma van Eisen 
+en de Gunningscriteria beschreven zijn. 
+ 
+Bijlage (B#) 
+Alle documenten die als bijlage gepubliceerd worden op het Aanbestedingsplatform behorende bij 
+het Beschrijvend document. Alle Bijlagen maken integraal onderdeel uit van het Beschrijvend 
+document. Bijlagen zijn genummerd en worden afgekort tot B#, waarbij # staat voor het nummer. 
+ 
+Combinant 
+Een persoon, onderneming, of organisatie, die als onderdeel van een Combinatie (ook wel 
+Samenwerkingsverband) een Inschrijving indient ten behoeve van de onderhavige Aanbesteding. 
+Alle Combinanten zijn gezamenlijk en hoofdelijk aansprakelijk voor de nakoming van alle 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  7 / [32] 
+verplichtingen die voortvloeien uit de Raamovereenkomst wanneer de Opdracht aan de Combinatie 
+wordt gegund. 
+ 
+Combinatie 
+Een groep bestaande uit personen, ondernemingen, organisaties, of een combinatie daarvan, die 
+gezamenlijk één Inschrijving indient om de producten en/of diensten te leveren die in deze 
+Aanbesteding worden gevraagd.   
+ 
+Contactwerkgroep 
+Een binnen de KNAW ingestelde werkgroep, die twee keer per jaar met het onderzoeksteam 
+overlegt over de betekenis van het onderzoek voor de organisatie. De contactwerkgroep heeft de 
+taak om de KNAW te ondersteunen bij het informeren van leden en medewerkers over de voortgang 
+van het onderzoek zodat het onderwerp levend blijft binnen de organisatie. 
+ 
+Contractant 
+De in de Overeenkomst genoemde wederpartij van de KNAW. 
+ 
+Derde 
+Een natuurlijke of rechtspersoon op wie Inschrijver een beroep doet met betrekking tot het voldoen 
+aan de Geschiktheidseisen. Deze derde partij is niet per se hetzelfde als een Onderaannemer. 
+ 
+Diensten 
+Alle inkopen die niet onder Werken of Leveringen vallen. 
+ 
+Dienstverlener 
+Eenieder die Diensten op de markt aanbiedt. 
+ 
+Geïnteresseerde 
+Een partij die geïnteresseerd is om mee te dingen naar de overheidsopdrachten. De Geïnteresseerde 
+heeft het Beschrijvend document en/of de Nota(‘s) van Inlichtingen gedownload van 
+www.tenderned.nl
+. 
+ 
+Geschiktheidseisen 
+De eisen zoals gesteld in de Aanbestedingsdocumenten op basis waarvan de geschiktheid van de 
+Inschrijver wordt getoetst. 
+ 
+Gids Proportionaliteit 
+Het ingevolge het Aanbestedingsbesluit aangewezen richtsnoer inzake de toepassing van het 
+proportionaliteitsbeginsel. Dit richtsnoer moet door Aanbestedende diensten verplicht worden 
+toegepast bij het uitvoeren van aanbestedingen. 
+ 
+Goederen 
+Alle zaken die in het economisch verkeer een waarde bezitten. 
+ 
+Gunningscriteria 
+Het criterium, te weten beste Kwaliteit, op basis waarvan een Inschrijving wordt beoordeeld. 
+Binnen een Gunningscriterium kunnen Subgunningscriteria (SGC) worden gedefinieerd waarop een 
+Inschrijver punten kan verdienen als onderdeel van de beoordeling van zijn Inschrijving. 
+ 
+Inschrijfdeadline 
+Het sluitingstijdstip van de Inschrijftermijn, gegeven als datum en tijdstip en gemeten op de minuut, 
+waarop Inschrijvingen niet meer kunnen worden ingediend. Bij een Inschrijfdeadline van 3 maart 
+12:00u, kan een Inschrijving uiterlijk op 3 maart 11:59u worden ingediend. 
+ 
+Inschrijftermijn 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  8 / [32] 
+De termijn waarbinnen Inschrijvingen kunnen worden ingediend. Dit is een fatale termijn, wat 
+betekent dat aanbiedingen die niet binnen de Inschrijftermijn worden ingediend, niet als 
+Inschrijving worden meegenomen in het kader van de onderhavige Aanbesteding.  
+ 
+Inschrijver 
+Een partij die een Inschrijving voor de huidige Aanbesteding heeft ingediend. 
+ 
+Inschrijving 
+De aanbieding die de Inschrijver op basis van de Aanbestedingsdocumenten vóór afloop van de 
+Inschrijftermijn indient via het Aanbestedingsplatform. 
+ 
+Instituut 
+Eén van de (onderzoeks)instituten die onderdeel uitmaakt van de Koninklijke Nederlandse 
+Akademie van Wetenschappen, en dat in of ten dienste van de wetenschap werkzaam is. 
+ 
+Leverancier 
+Eenieder die producten op de markt aanbiedt, in de context van Leveringen. 
+ 
+Leveringen 
+De aankoop, huur, lease, en huurkoop van producten. 
+ 
+Nota van Inlichtingen (NvI) 
+Een document van de Aanbestedende dienst waarin antwoorden op vragen van geïnteresseerden 
+staan. De namen van de geïnteresseerden worden niet genoemd. In de Nota van Inlichtingen kunnen 
+ook verduidelijkingen en toelichtingen op het Beschrijvend document of op de 
+aanbestedingsprocedure zijn opgenomen. De Aanbestedende dienst zorgt ervoor dat de Nota van 
+Inlichtingen voor alle geïnteresseerden beschikbaar is en publiceert deze op www.tenderned.nl
+. De 
+Nota van Inlichtingen is bindend, leidend, en prevaleert boven het Beschrijvend document inclusief 
+Bijlagen. Indien er meerdere Nota’s van Inlichtingen zijn, dan prevaleert de inhoud van de laatste 
+Nota van Inlichtingen boven eerdere versies. 
+ 
+Offerte 
+De nadere offerte die Opdrachtnemer uitbrengt naar aanleiding van de Offerteaanvraag voor een 
+Nadere opdracht, in de zin van artikel 6:217 van het Burgerlijk Wetboek. 
+ 
+Offerteaanvraag 
+Document met Opdrachtbeschrijving in het kader van een Nadere opdracht. 
+ 
+Onderaannemer 
+Een persoon, onderneming, of organisatie, bijv. een leverancier of dienstverlener, die de 
+Opdrachtnemer inzet om een gedeelte van de opdracht uit te voeren, onder verantwoordelijkheid 
+van de Opdrachtnemer als hoofdaannemer. De Opdrachtnemer is te allen tijde volledig 
+verantwoordelijk en aansprakelijk voor de (uitvoering van de) Opdracht en de resultaten ervan. 
+Deze onderaannemer is niet per se de Derde als bedoeld in het Beschrijvend document. 
+ 
+Opdracht 
+De opdracht zoals beschreven in het Beschrijvend document. 
+ 
+Opdrachtgever 
+De opdrachtgever die de Overeenkomst aangaat met Opdrachtnemer. 
+ 
+Opdrachtnemer 
+De Inschrijver met wie de Opdrachtgever, in het kader van deze Aanbesteding, een Overeenkomst 
+sluit. 
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  9 / [32] 
+Overeenkomst 
+De te sluiten overeenkomst tussen Opdrachtgever en Opdrachtnemer, met het doel de voorwaarden 
+vast te leggen waaronder de onder de Opdracht vallende dienstverlening en/of levering(en) 
+verricht dient te worden. 
+ 
+Programma van Eisen (PvE) 
+Opsomming van eisen die in het kader van deze Aanbesteding ten aanzien van de invulling van de 
+Opdracht van toepassing zijn, waaraan de Opdrachtnemer te allen tijde dient te voldoen. 
+ 
+Projectgroep 
+Team dat namens de KNAW dat samenwerkt aan de voorbereiding en begeleiding van het 
+onderzoek. 
+ 
+Samenwerkingsverband 
+Zie Combinatie. 
+ 
+Subgunningscriterium (SGC) 
+Zie Gunningscriteria. 
+ 
+Uniform Europees Aanbestedingsdocument (UEA) 
+In het Uniform Europees Aanbestedingsdocument, zoals vastgesteld door het ministerie van 
+Economische zaken, geeft de Inschrijver aan dat hij/zij voldoet aan het gestelde omtrent 
+Uitsluitingsgronden, Geschiktheidseisen, technische specificaties en uitvoeringsvoorwaarden zoals 
+verwoord in het Programma van Eisen. 
+ 
+Uitsluitingsgronden 
+De gronden voor uitsluiting van deelname aan de aanbestedingsprocedure zoals genoemd in het 
+Uniform Europees Aanbestedingsdocument. 
+ 
+Werk 
+Het product van een geheel van bouwkundige en civieltechnische werken dat ertoe bestemd is als 
+zodanig een economische of technische functie te vervullen. 
+ 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  10 / [32] 
+1. AANBESTEDING 
+ 
+ 
+ 
+1.1 Aanbestedende Dienst 
+ 
+Kerntaken KNAW 
+De Koninklijke Nederlandse Akademie van Wetenschappen (KNAW) is een rechtspersoon met 
+wettelijke taken. De KNAW heeft invulling gegeven aan deze wettelijke taken door de inrichting van 
+drie kerntaken. 
+1) Forumfunctie: de KNAW verenigt excellente wetenschappers en kunstenaars van 
+Nederland in drie Akademies – het Genootschap, De Jonge Akademie en de Akademie van 
+Kunsten – en biedt hun een podium. 
+2) Adviesfunctie: de KNAW adviseert de regering over het wetenschapsbeleid en over het 
+gebruik van wetenschap voor beleid. 
+3) Onderzoeksfunctie: de KNAW is verantwoordelijk voor tien nationale 
+onderzoeksinstituten en drie instituten die infrastructuur bieden voor onderzoek. Zij zijn 
+werkzaam in de geesteswetenschappen, sociale wetenschappen en levenswetenschappen. 
+ 
+Organisatie KNAW 
+In Figuur 1 is een overzicht gegeven van de KNAW als organisatie. Het bestuur van de KNAW stelt 
+de hoofdlijnen van het beleid en de begroting vast. De dagelijkse leiding is in handen van de 
+algemeen directeur. Het bestuur van de Akademie bestaat uit de president, de vicepresident, de 
+algemeen secretaris en vier bestuursleden. Zij worden benoemd door de leden. De driehoofdige 
+collegiale directie is verantwoordelijk voor de dagelijkse leiding van de KNAW-organisatie.  
+ 
+De KNAW en haar Instituten maken alle onderdeel uit van de KNAW als één rechtspersoon. Ze zijn 
+werkzaam op het terrein van de geesteswetenschappen, de sociale wetenschappen en de 
+levenswetenschappen. Eén Instituut beweegt zich op het grensvlak van wetenschap en 
+overheidsbeleid. De KNAW-Instituten nemen een prominente plaats in de (internationale) 
+wetenschap in te nemen. Een aantal Instituten beheert unieke collecties en apparatuur die 
+functioneren als (inter)nationale onderzoeksinfrastructuren en –faciliteiten. Als nationale 
+kenniscentra zijn de KNAW-Instituten complementair aan universiteiten en andere 
+kennisinstellingen. Voor meer informatie zie: www.knaw.nl
+. 
+ 
+1.2 Wettelijk Kader 
+De KNAW is als zelfstandig bestuursorgaan aanbestedingsplichtig en zal de huidige aanbesteding 
+krachtens de Aanbestedingswet 2012 en alle andere relevante wet- en regelgeving invulling geven. 
+Hierbij zijn haar uitgangspunten dezelfde als de beginselen van de Aanbestedingswet 2012, 
+hieronder verder uitgewerkt. 
+ 
+1.2.1 Non-discriminatie 
+De KNAW zal geen onderscheid maken naar nationaliteit van de Inschrijver.  
+ 
+1.2.2 Gelijke behandeling 
+De KNAW waakt ervoor dat er geen discriminerende factoren aanwezig zijn bij de aanbesteding 
+waardoor de ene Inschrijver meer kansen krijgt dan de andere. Iedere Inschrijver krijgt dezelfde 
+informatie en wordt op dezelfde wijze behandeld. 
+ 
+ 
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  11 / [32] 
+Figuur 1: Organogram KNAW 
+1.2.3 Transparantie 
+De KNAW zal werken met voor iedereen leesbare beschrijvingen zodat duidelijk is wat zij verwacht. 
+Beslissingen zullen duidelijk worden gemotiveerd. In het kader van transparantie zal de KNAW 
+Inschrijvers in de gelegenheid stellen vragen te stellen over de aanbesteding en de 
+aanbestedingsdocumenten, en zij zal de antwoorden op de vragen aan alle Inschrijvers beschikbaar 
+stellen zoals beschreven in paragraaf 2.3. 
+ 
+1.2.4 Proportionaliteit 
+De KNAW waakt ervoor dat gevraagde technische specificaties en gestelde uitsluitingsgronden, 
+geschiktheidseisen en selectie- en gunningscriteria relevant zijn en in verhouding staan tot de aard 
+en omvang van de Opdracht.  
+ 
+1.3 Doel 
+Het doel van deze aanbesteding is het sluiten van een Overeenkomst tussen de KNAW en één 
+Opdrachtnemer  voor de uitvoering van het onderzoek naar het koloniale verleden van de KNAW. 
+ 
+1.4 Opdracht 
+De Overeenkomst wordt conform de specificaties en voorwaarden van de KNAW afgesloten met de 
+Opdrachtnemer wiens Inschrijving als beste wordt beoordeeld op basis van beste kwaliteit. De 
+gevolgde procedure hierbij is de Openbare procedure. 
+ 
+1.4.1 Omvang & Scope 
+Zie bijlage 3: Onderzoeksopdracht 
+ 
+1.5 Looptijd 
+Deze overeenkomst kent geen vaste looptijd. De looptijd van de overeenkomst wordt bepaald door 
+de inhoud van de onderzoeksopdracht (bijlage 3) en het uitgewerkte voorstel dat is ingediend als 
+inschrijving.  
+Alle werkzaamheden en resultaten, zoals beschreven in de aanbestedingsdocumenten en 
+onderzoeksopdracht dienen behaald te zijn binnen de termijnen die zijn gesteld in de 
+onderzoeksopdracht en de inschrijving. 
+ 
+
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  12 / [32] 
+1.6 Percelen 
+Gezien de aard en op te leveren resultaten beschouwt Opdrachtgever deze opdracht als één 
+onlosmakelijk geheel en acht zij het niet opportuun om de aanbesteding in meerdere percelen te 
+verdelen. 
+ 
+1.7 Planning 
+Op maandag 6 januari 2025 heeft de KNAW op TenderNed (www.tenderned.nl) en op Tenders 
+Electronic Daily (TED) (ted.europa.eu) de Aankondiging van de Opdracht geplaatst. Daarmee is de 
+aanbestedingsprocedure gestart. 
+ 
+De beoogde planning van de aanbestedingsprocedure staat in Tabel 1. De KNAW behoudt zich het 
+recht voor de genoemde data gedurende de aanbestedingsprocedure aan te passen. (Potentiële) 
+Inschrijvers zullen tijdig worden geïnformeerd in het geval van wijzigingen. Kijk voor de meest 
+actuele planning altijd op TenderNed, de planning aldaar is leidend. 
+ 
+Activiteit Datum 
+Publiceren aanbesteding op TenderNed Maandag 6 januari 2025 
+Uiterste datum voor stellen van vragen 1e NvI Vrijdag 31 januari 2025 
+Beschikbaar stellen 1e Nota van Inlichtingen Vrijdag 7 februari 2025 
+Uiterste datum voor stellen van vragen 2e NvI Vrijdag 21 februari 2025 
+Beschikbaar stellen 2e Nota van Inlichtingen Vrijdag 28 februari 2025 
+Uiterste datum indienen Inschrijvingen Woensdag 30 april 2025 
+Beoordeling Inschrijvingen Week 19, 2025 
+Interviews Donderdag 15 mei 2025 
+Behandeling Gunningsadvies door Directie en 
+Bestuur KNAW Week 21 t/m 24, 2025 
+Verzenden voornemen tot Gunning Dinsdag 17 juni 2025 
+Verificatiebespreking (indien gewenst) Donderdag 26 juni 2025 
+Einde bezwaartermijn Vrijdag 9 juli 2025 
+Ondertekening overeenkomst Week 29, 2025 
+Publiceren gegunde Opdracht TenderNed Week 30, 2025 
+Gewenste startdatum 1 september  2025 
+ 
+Tabel 1: Beoogde planning aanbestedingsprocedure 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  13 / [32] 
+2. INSCHRIJVING 
+ 
+ 
+ 
+2.1 TenderNed 
+Deze aanbesteding zal geheel digitaal en online plaatsvinden, gebruik makend van het e-
+procurement platform van TenderNed (www.tenderned.nl).  Het is uitsluitend toegestaan de 
+Inschrijving digitaal in te dienen middels dit e-procurement platform. 
+In het geval van technische vragen of onduidelijkheden betreffende de werking van TenderNed kan 
+contact worden opgenomen met TenderNed: 
+ 
+ 
+ 
+Deze digitale vorm van aanbesteden betekent dat alle met deze aanbesteding verband houdende 
+communicatie tussen de KNAW en (potentiële) Inschrijvers, de gehele procedure van deze 
+aanbesteding zelf en de Inschrijvingen via TenderNed zullen plaatsvinden. Voor de 
+aanbestedingsprocedure houdt dit in: 
+- Het downloaden van documenten die verband houden met deze aanbesteding; 
+- Het uploaden en indienen van alle gevraagde documenten; 
+- Alle communicatie, inclusief het indienen van vragen voor de Nota(‘s) van Inlichtingen (zie 
+bijlage 2); 
+- Publicatie van de Nota(‘s) van Inlichtingen;  
+- Alle verdere communicatie tussen de KNAW en de Inschrijvers vindt plaats via de Berichten-
+/mailbox van TenderNed. 
+ 
+2.2 Communicatie & Contactpersoon 
+Alle communicatie met betrekking tot de aanbestedingsprocedure vindt uitsluitend plaats via 
+TenderNed en op de wijze zoals voorgeschreven in dit Beschrijvend document. De contactpersoon 
+voor deze procedure is: 
+ 
+Het is niet toegestaan om in het kader van de aanbestedingsprocedure contact te zoeken met leden 
+van de Projectgroep van de KNAW ter verkrijging van welke informatie dan ook. Het niet nakomen 
+hiervan kan leiden tot uitsluiting van deelname aan de aanbesteding.  
+ 
+2.3 Vragenronde(s) 
+Inschrijvers worden in de gelegenheid gesteld vragen en/of opmerkingen over de 
+aanbestedingsdocumenten en/of de beoordelingsprocedure te maken. Daartoe is in twee 
+schriftelijke informatierondes voorzien. Inschrijvers kunnen hun vragen schriftelijk stellen en 
+dienen daartoe het Excelbestand (bijlage 2) te gebruiken en dit als bericht te verzenden aan 
+TenderNed Servicedesk: 
+ 
+Telefoon: 0800-8363376 
+E-mail:  servicedesk@TenderNed.nl 
+Website: www.tenderned.nl/cms/contact 
+Contactpersoon KNAW: 
+ 
+Naam:   de heer L. Woning 
+Functie:  Inkoopmanager 
+Afdeling:  Financiën/Inkoop 
+Postadres:  Postbus 19121, 1000 GC Amsterdam 
+Bezoekadres:  Kloveniersburgwal 29, 1011JV Amsterdam 
+E-mail:  Berichtenbox/TenderNed 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  14 / [32] 
+TenderNed/berichtenbox vóór de sluiting van de vragentermijn. Het is de bedoeling bij het stellen 
+van de vragen zoveel mogelijk te verwijzen naar de naam van het document, de paragraaf- en/of 
+paginanummer waar de vraag betrekking op heeft. Alle vragen worden geanonimiseerd, 
+beantwoord en middels twee Nota(‘s) van Inlichtingen (NvI’s) op TenderNed geplaatst.  
+De tweede ronde is uitsluitend bedoeld voor verdiepingsvragen op vragen en antwoorden uit de 
+eerste ronde. Nieuwe vragen in de tweede ronde worden in principe niet in behandeling genomen. 
+ 
+Alle Nota‘s van Inlichtingen maken onlosmakelijk deel uit van de aanbestedingsdocumenten. Vragen 
+die ná sluiting van de vragentermijn worden ontvangen, worden in principe niet beantwoord. De 
+KNAW kan echter oordelen dat een specifieke vraag alsnog beantwoord moet worden voor een goed 
+verloop van de aanbesteding. Indien de KNAW daartoe aanleiding ziet, kan zij besluiten de termijn 
+voor het indienen van de Inschrijvingen te verlengen. Inschrijvers kunnen aan deze bevoegdheid 
+van de KNAW uitdrukkelijk geen rechten ontlenen. 
+ 
+Inschrijvers dienen in hun Inschrijving onvoorwaardelijk te voldoen aan elke eis. Doen zij dat niet, 
+dan worden zij uitgesloten van verdere deelname aan de aanbestedingsprocedure. Het is daarom 
+belangrijk dat geïnteresseerden alle elementen uit hun voorgenomen Inschrijving die niet zonder 
+enig voorbehoud voldoen aan de gestelde eisen, alsmede mogelijke alternatieven en, in hun ogen, 
+verbeteringen, tijdens de informatieronde aan de KNAW ter beoordeling voorleggen. Na deze 
+schriftelijke informatieronde worden de eisen definitief vastgesteld. 
+ 
+Let op: Inschrijvers zijn zelf verantwoordelijk voor het downloaden van de Nota’s van Inlichtingen 
+via TenderNed. Indien Inschrijver graag automatisch op de hoogte gehouden wil worden wanneer 
+de KNAW nieuwe documenten (bijvoorbeeld een Nota van Inlichtingen) toevoegt, dient de 
+Inschrijver op TenderNed op de knop ‘Houd mij op de hoogte van deze aanbesteding’ te drukken. 
+Het enkel downloaden van de aanbestedingsdocumenten zorgt er niet voor dat Inschrijvers 
+automatisch op de hoogte wordt gehouden. 
+ 
+2.4 Inschrijving Indienen 
+De Inschrijvingen dienen geheel digitaal, volledig en tijdig ingediend te worden via TenderNed. Dat 
+wil zeggen dat alle vragenlijsten, de prijzenbladen en bijlagen zijn ingevuld en voor de gestelde 
+deadline, zoals opgenomen in de planning (zie paragraaf 1.7), in de kluis van TenderNed worden 
+geplaatst. Indien een Inschrijving niet aan deze voorwaarde voldoet, kan de inschrijving niet 
+geaccepteerd worden. Inschrijvingen per e-mail, fax of post worden niet geaccepteerd. 
+ 
+Inschrijvers zijn zelf verantwoordelijk voor het tijdig indienen van de digitale Inschrijving. Bij 
+vragen of onduidelijkheden kan er contact opgenomen worden met de Servicedesk van TenderNed 
+(zie paragraaf 2.1). 
+ 
+De KNAW adviseert Inschrijvers hun Inschrijving ruim voor de sluitingsdatum te uploaden en in de 
+digitale kluis van TenderNed te plaatsen.  
+ 
+2.5 Storing 
+Als er een storing in TenderNed is vastgesteld, informeert de servicedesk van TenderNed de KNAW 
+indien de inschrijftermijn van de aanbesteding binnen een uur sluit. Daarnaast meldt TenderNed dit 
+zo spoedig mogelijk via de homepage van TenderNed. 
+ 
+Indien Inschrijver door een storing (van TenderNed of anderszins) niet tijdig zijn/haar vragen of 
+Inschrijving kan indienen dient hij/zij contact op te nemen met de inkoopmanager van de KNAW 
+(tel.nr.: 020 551 0700). De KNAW kan vragen om bewijsmateriaal, zoals screenshots van de storing. 
+Na contact verifieert de KNAW of er daadwerkelijk sprake van een storing is en wat haar 
+vervolgacties zijn. 
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  15 / [32] 
+Na afloop van een storing kan de KNAW besluiten om de sluitingstermijn voor het indienen van een 
+Inschrijving te verlengen indien een Inschrijver daar een verzoek toe doet omdat hij/zij is getroffen 
+door de storing. 
+ 
+In navolging van advies van TenderNed, raadt de KNAW met klem aan géén gebruik te maken van 
+Internet Explorer voor het indienen van vragen of Inschrijvingen. Ook het gebruik van Microsoft 
+Edge wordt afgeraden. Problemen als gevolg van het gebruik van Internet Explorer of Microsoft 
+Edge worden niet gezien als storing. 
+ 
+2.6 Inschrijfdocumenten en naamgeving 
+De Inschrijving dient te bestaan uit onderstaande documenten en dient te worden aangevuld met de 
+naam van Inschrijver (zonder ‘<<’ en ‘>>’). Inschrijvingen die niet voldoen aan de juiste naamgeving 
+kunnen door de KNAW als ongeldig terzijde worden gelegd. 
+In hoofdstukken 4 t/m 6 worden de in te dienen documenten verder toegelicht. 
+ 
+Document Indienen onder bestandsnaam Type 
+Volledig ingevuld en rechtsgeldig ondertekend 
+Inschrijfformulier (IF) conform bijlage 1 
+IF_<<naam Inschrijver>> PDF 
+Volledig ingevuld en rechtsgeldig ondertekend 
+Uniform Europees Aanbestedingsdocument (UEA) 
+in TenderNed 
+Online TenderNed  
+Volledig ingevuld Prijzenblad conform bijlage 6 Prijzenblad_<<naam Inschrijver>> XLS of 
+XLSX 
+Volledig ingevuld en rechtsgeldig ondertekend 
+Prijzenblad conform bijlage 6 
+Prijzenblad_<<naam Inschrijver>> PDF 
+Volledig uitgewerkt Onderzoeksvoorstel, zoals 
+beschreven in bijlage 3 (onderzoeksopdracht) en 
+paragraaf 6.2.1. 
+Onderzoeksvoorstel_<<naam 
+Inschrijver>> 
+PDF 
+Volledig ingevuld en rechtsgeldig ondertekende 
+Verklaring aansprakelijkheid concern/holding 
+(VAC) conform bijlage 5, of een 403 verklaring, 
+alleen indien van toepassing 
+VAC_<<naam Inschrijver>> PDF 
+Tabel 2: Document, naamgeving en bestandstype van in te dienen Inschrijvingsbijlagen. De ‘<<’ en ‘>>’ 
+rondom de naam van Inschrijver dienen te worden weggelaten.  
+ 
+2.7 Tegenstrijdigheden 
+Alle aanbestedingsdocumenten zijn met grote zorg samengesteld. Mocht Inschrijver desondanks 
+tegenstrijdigheden, onvolmaaktheden of onjuistheden vaststellen dan kan hij/zij dit aangeven op de 
+wijze beschreven in paragraaf 2.3 tot de in de planning aangegeven deadline voor het stellen van 
+vragen (paragraaf 1.7). Alle na deze datum gemelde tegenstrijdigheden, onvolmaaktheden of 
+onjuistheden worden niet meer in behandeling genomen.  
+ 
+Indien naderhand blijkt dat de aanbestedingsdocumenten zulke onvolkomenheden bevat en deze 
+niet door Inschrijver zijn gemeld, zijn de consequenties voor risico van Inschrijver. Inschrijver die 
+niet overeenkomstig het vorenstaande handelt verspeelt zijn/haar rechten op dit punt, blijkens 
+jurisprudentie van zowel het Europese Hof van Justitie als van nationale rechters. 
+ 
+Met betrekking tot eventuele tegenstrijdigheden in de aanbestedingsdocumenten geldt in de 
+aanbestedingsfase de hieronder aangegeven rangorde van stukken, waarbij het eerder genoemde 
+document prevaleert boven het later genoemde document. 
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  16 / [32] 
+ 
+2.8 Voorbehoud 
+De KNAW behoudt zich het recht voor om de gehele aanbestedingsprocedure tijdelijk of definitief te 
+stoppen, bijvoorbeeld in geval van: 
+- Het niet beschikbaar hebben van voldoende financiële middelen; 
+- Het ontbreken van (formeel) positieve besluitvorming aangaande (het voornemen tot) 
+Gunning; 
+- Gewijzigde regelgeving op nationaal en/of Europees niveau, of zodanig overheidsbeleid dat 
+de inhoud van de Opdracht aangepast dient te worden; 
+- Het, naar het oordeel van de KNAW, ontbreken van een passende/ geschikte Inschrijving. 
+Voor dit voortgangsrisico van de aanbestedingsprocedure kan de KNAW – zolang de Opdracht 
+formeel nog niet is gegund – niet aansprakelijk worden gesteld. Inschrijvers kunnen op geen enkele 
+wijze hieraan rechten ontlenen, noch is de KNAW op welke wijze dan ook jegens Inschrijvers 
+schadeplichtig. Potentiële Inschrijvers zijn zich hiervan bewust en aanvaarden het feit dat zij geheel 
+voor eigen rekening en risico meedoen aan deze aanbesteding. 
+ 
+2.9 Vertrouwelijkheid 
+Inschrijver mag de gegevens die de KNAW hem/haar in verband met deze aanbesteding ter 
+beschikking stelt (met inbegrip van dit Beschrijvend document, alle bijlagen, de Nota’s van 
+Inlichtingen en eventuele gesprekken/schouwen) alleen gebruiken voor het doel waarvoor ze zijn 
+verstrekt. Publiciteit met betrekking tot dit project zowel in de Inschrijvingsfase als na eventuele 
+Gunning is alleen toegestaan met schriftelijke toestemming van de KNAW. 
+ 
+De KNAW zal de Inschrijvingen met vertrouwelijkheid behandelen. De Inschrijvingen zullen 
+uitsluitend getoond worden aan medewerkers van de KNAW die deze vanuit hun functie en/of rol 
+nodig hebben.  
+ 
+2.10 Gestanddoeningstermijn 
+De Inschrijving heeft een gestanddoeningstermijn van minimaal 120 dagen na de datum waarop de 
+Inschrijving uiterlijk ingediend dient te worden. Tijdens deze periode heeft de Inschrijving het 
+karakter van een onherroepelijk aanbod. De Opdrachtnemer gaat er mee akkoord dat de 
+gestanddoeningstermijn van de Inschrijving, in het geval een kort geding wordt aangespannen, 
+verlengd wordt tot minimaal twee weken na de datum van de uitspraak in het kort geding. 
+ 
+2.11 Voorwaarden 
+Inschrijver verklaart door het indienen van een Inschrijving dat hij/zij akkoord is dat op deze 
+aanbestedingsprocedure, en de (eventueel) hieruit voortvloeiende overeenkomst(en), de ARVODI 
+2018, Algemene Rijks Inkoopvoorwaarden voor Diensten, van toepassing zijn (bijlage 8). Inschrijver 
+is akkoord dat zijn/haar eigen koop-, betalings- en andere algemene voorwaarden niet van 
+toepassing zijn en uitdrukkelijk van de hand worden gewezen. 
+ 
+Inschrijver dient de juridische, procedurele en alle andere voorschriften en voorwaarden genoemd 
+in de aanbestedingsdocumenten in acht te nemen. Het niet in acht nemen kan ertoe leiden dat 
+Inschrijver wordt uitgesloten van verdere deelname aan de aanbestedingsprocedure. Door het 
+indienen van een Inschrijving verklaart de Inschrijver zich onverkort en onvoorwaardelijk akkoord 
+Prevaleren aanbestedingsdocumenten: 
+ 
+1. Nieuwste Nota van Inlichtingen; 
+2. Eerdere Nota(‘s) van Inlichtingen; 
+3. Beschrijvend document; 
+4. Programma van Eisen; 
+5. Concept overeenkomst(en); 
+6. Algemene Inkoopvoorwaarden KNAW. 
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  17 / [32] 
+met de juridische, procedurele en andere voorschriften en voorwaarden genoemd in de 
+aanbestedingsdocumenten. 
+ 
+Met het uitbrengen van een Inschrijving conformeert de Opdrachtnemer zich onvoorwaardelijk aan 
+de volgende eisen: 
+- De Inschrijving is in de Nederlandse taal gesteld en de gehanteerde tarieven zijn in euro's, 
+exclusief btw; 
+- In de Inschrijving worden de van toepassing zijnde btw-tarieven (in procenten) en btw-
+bedragen (in euro’s) vermeld; 
+- In de door Inschrijver aangeboden prijzen zijn alle kosten inbegrepen voor het leveren van 
+goederen en het uitvoeren van diensten/ onderzoek. Na het sluiten van de overeenkomst 
+kunnen geen extra kosten in rekening worden gebracht. De KNAW behoudt zich het recht 
+voor om een Inschrijving waarvan prijzen niet aan deze vereisten voldoen ongeldig te 
+verklaren en/of de overeenkomst op te zeggen. De KNAW is hiertoe echter niet verplicht; 
+- Inschrijver gaat ermee akkoord dat de KNAW zich het recht voorbehoudt om in een later 
+stadium alsnog te verzoeken om officiële bewijsstukken te overleggen. Indien deze 
+bewijsstukken niet overeenkomen met hetgeen in de verklaringen wordt verklaard, dan 
+wordt de Inschrijver uitgesloten van Gunning, zonder recht op vergoeding van welke kosten 
+dan ook; 
+- Inschrijver is bekend en gaat akkoord met de beoordelingsprocedure zoals beschreven in dit 
+Beschrijvend document (zie ook hoofdstuk 3); 
+- Alle door Inschrijver overgelegde gegevens zijn naar waarheid ingevuld en kunnen door 
+hem/haar gestand worden gedaan. De KNAW behoudt zich het recht voor op 
+schadevergoeding in het geval van onjuiste en/of onvolledige informatie en/of het niet 
+kunnen nakomen van hetgeen door Inschrijver is aangeboden. 
+ 
+2.12 Klachtenregeling 
+Een Inschrijver kan een klacht indienen bij het klachtenmeldpunt van de KNAW via het e-mailadres: 
+aanbestedingsklachten@knaw.nl
+. De klacht wordt door een onafhankelijke inkoopmanager in 
+behandeling genomen. 
+De procedure “Klachtafhandeling bij aanbesteden” is als bijlage 12 toegevoegd. 
+ 
+2.13 Inschrijfvergoeding 
+Voor het schrijven van een volledig onderzoeksvoorstel dat voldoet aan alle vereiste criteria wordt 
+een vergoeding van € 5.000 .- inclusief BTW, beschikbaar gesteld, uit te keren aan de projectleider 
+van het voorstel die het verder onder het onderzoeksteam verdeelt. Voorstellen waarvoor het team 
+wordt uitgenodigd voor een interview krijgen daarbij nog een bedrag van € 5.000,-, inclusief BTW, 
+vergoed.   
+Voorstellen die naar mening van het beoordelingsteam niet kwalificeren als voldoende komen niet 
+in aanmerking voor een vergoeding. 
+Om als voldoende gekwalificeerd te worden, dient de inschrijving te voldoen aan de criteria van de 
+ontvankelijkheidstoets, zoals beschreven in paragraaf 6.2.1.  
+Na bekendmaken van het voornemen tot gunning zal met de projectleider(s) van de Inschrijver(s) 
+een instructie worden gedeeld over het factureren van de Inschrijfvergoeding. 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  18 / [32] 
+3. BEOORDELING 
+ 
+ 
+ 
+3.1 Beoordelingsteam 
+Het beoordelingsteam bestaat uit 5 deskundigen: 
+- Een directeur van een KNAW instituut met expertise op het gebied van onderzoek naar het 
+koloniaal verleden 
+- Twee KNAW leden met expertise op het bredere thema van het koloniale verleden en de 
+doorwerking daarvan in het heden 
+- Een lid van De Jonge Akademie met expertise op het gebied van onderzoek naar het 
+koloniale verleden en/of met expertise op het bredere thema van het koloniale verleden en 
+de doorwerking daarvan in het heden 
+- Een lid van de Akademie van Kunsten met expertise op het bredere thema van het koloniale 
+verleden en het huidige maatschappelijke debat in Nederland.  
+ 
+Het beoordelingsteam wordt ondersteund door een projectleider en inkoopmanager, beiden 
+werkzaam bij de KNAW. 
+ 
+Het is niet toegestaan om in het kader van de aanbestedingsprocedure contact te zoeken met leden 
+van de Projectgroep en het beoordelingsteam van de KNAW ter verkrijging van welke informatie 
+dan ook. Het niet nakomen hiervan kan leiden tot uitsluiting van deelname aan de aanbesteding. Het 
+inwinnen van informatie kan uitsluitend op de wijze zoals beschreven in paragraaf 2.3. 
+ 
+3.2 Fase 1: Volledigheid en Geldigheid 
+Inschrijvingen worden als eerste beoordeeld met inachtneming van de formele eisen, gesteld in de 
+aanbestedingsdocumenten en Nota(’s) van Inlichtingen. Voldoet de Inschrijving niet aan deze 
+formele eisen, dan kan de Inschrijving ongeldig worden verklaard – tenzij herstel van een hiervoor 
+bedoeld gebrek in de Inschrijving is toegestaan – en kan worden uitgesloten van verdere deelname 
+aan de aanbestedingsprocedure.  
+ 
+Om de administratieve lasten voor Opdrachtnemers bij aanbestedingen te verminderen hoeven niet 
+alle (officiële) bewijsstukken direct in de Inschrijving overlegd te worden. De KNAW behoudt zich 
+evenwel het recht voor om de (officiële) bewijsstukken bij Inschrijver op te vragen. Inschrijver dient 
+deze bewijsstukken op eerste aanvraag van de KNAW binnen tien (10) werkdagen te verstrekken. 
+ 
+3.3 Fase 2: Uitsluitingsgronden en Geschiktheidseisen 
+De KNAW toetst aan de hand van het ingediende en rechtsgeldig ondertekende Uniform Europees 
+Aanbestedingsdocument (UEA; zie TenderNed) of de Inschrijver valt onder een van de gestelde 
+uitsluitingsgronden zoals beschreven in paragraaf 4.1.  
+ 
+Als de toets op de uitsluitingsgronden geen aanleiding geeft tot uitsluiting van de Inschrijver, wordt 
+het UEA getoetst aan de geschiktheidseisen zoals beschreven in paragraaf 4.2. Voldoet Inschrijver 
+niet aan de geschiktheidseisen, dan wordt hij/zij uitgesloten van verdere deelname aan de 
+aanbestedingsprocedure. 
+ 
+3.4 Fase 3: Inhoudelijke Beoordeling 
+De Opdracht wordt gegund aan de Inschrijver wiens Inschrijving als beste wordt beoordeeld op 
+basis van de beste kwaliteit. Dit oordeel wordt gevormd op basis van de door het Beoordelingsteam 
+toegekende scores per subgunningscriteria Kwaliteit (hoofdstuk 6).  
+ 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  19 / [32] 
+Aan alle subgunningscriteria is door de projectgroep een maximale puntenscore toegekend. Hierbij 
+geldt dat een subgunningscriterium met lagere maximale puntenscore dus minder zwaar meeweegt 
+dan een subgunningscriterium waaraan een hogere puntenscore is toegekend. 
+ 
+3.4.1 Gunningscriterium Kwaliteit 
+Alle ingezonden onderzoeksvoorstellen zullen eerst een ontvankelijkheidstoets ondergaan, uit te 
+voeren door de afdeling FAO van het KNAW-bureau. Zie paragraaf 6.2.1. voor de criteria voor de 
+ontvankelijkheidstoets. 
+Daarna beoordelen de leden van het Beoordelingsteam het onderzoeksvoorstel op basis van de 
+subgunningscriteria Kwaliteit (SGC1 t/m SGC3) eerst individueel. Vervolgens bepaalt het 
+Beoordelingsteam tijdens een consensusvergadering de definitieve score per subgunningscriterium 
+met bijbehorende motivatie. 
+ 
+Het beoordelingsteam baseert haar score per subgunningscriterium op het totaalbeeld van de 
+Inschrijving en op de gevraagde en vermelde elementen.  
+ 
+Door de scores van alle subgunningscriteria bij elkaar op te tellen verkrijgt men de totaalscore. 
+ 
+Zie paragraaf 6.2 voor de exacte puntentoekenning en –berekeningen binnen de 
+subgunningscriteria Kwaliteit. 
+ 
+Inschrijver dient op alle Gunningscriteria Kwaliteit minimaal een voldoende te scoren. Indien op een 
+van deze een “matig” of “onvoldoende” wordt gescoord, kan Opdrachtgever de gehele inschrijving 
+naast zich neerleggen.  
+ 
+3.4.2 Gunningscriterium Prijs 
+Aan de inschrijfprijs wordt geen score toegekend. 
+Voor deze aanbesteding geldt een maximale inschrijfprijs. Inschrijvingen die middels het 
+totaalbedrag op het prijzenblad (bijlage 6) boven het drempelbedrag uitkomen, worden uitgesloten 
+van de aanbesteding. 
+ 
+Het drempelbedrag is: 1.100.000 euro, inclusief BTW. 
+ 
+Tijdens de uitvoering van het onderzoek worden geen declaraties en facturen geaccepteerd die 
+boven opgeteld boven de inschrijfprijs uit komen. Opdrachtnemer is gehouden aan het uitvoeren en 
+voltooien van het onderzoek, zoals overeengekomen middels de aanbestedingsdocumenten, 
+inclusief bijlagen en de inschrijving, inclusief onderzoeksvoorstel, prijzen en aangeleverde 
+documenten en informatie. 
+Meerwerk of aanvullende opdrachten behoren niet tot de mogelijkheden. 
+ 
+3.5 Fase 4: Afronding Oordeel 
+Op grond van alle beschikbare informatie komt het Beoordelingteam tot een totaaloordeel, rangorde 
+en het bepalen van de winnaar. Dit is de Inschrijver met de hoogste totaalscore (score 
+gunningscriteria kwaliteit).  
+ 
+Indien er na beoordeling een situatie ontstaat dat Inschrijvingen een gelijke totaalscore hebben, zal 
+een Opdrachtnemer met een hogere totaalscore kwaliteit (de som van alle punten verkregen uit de 
+Subgunningscriteria Kwaliteit), hoger eindigen dan een Opdrachtnemer met een lagere totaalscore 
+kwaliteit. 
+Mocht er dan nog steeds een gelijke score zijn, dan worden de scores per individueel 
+Subgunningscriterium Kwaliteit vergeleken, beginnend bij het Subgunningscriterium met de 
+hoogste weging en daarna op volgorde van afnemende zwaarte weging. De Opdrachtnemer met de 
+hoogste score op een individueel Subgunningscriterium wordt voorgedragen als winnende partij 
+aan het bestuur van de KNAW.  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  20 / [32] 
+Mocht er na alle voorgaande stappen er nog steeds sprake zijn van een gelijke score dan zal om de 
+winst worden geloot. De betreffende Opdrachtnemer waaronder geloot wordt zullen gelijktijdig op 
+de hoogte worden gesteld over waar, wanneer en door wie de loting wordt gehouden. De 
+betreffende Opdrachtnemer zijn bevoegd om bij de loting aanwezig te zijn. 
+ 
+3.6 Fase 5: Mededelingen en Bezwaar 
+Na de inhoudelijke beoordeling van de geldige Inschrijvingen zal de KNAW aan alle Inschrijvers 
+door middel van een Gunningbeslissing of voornemen tot gunning schriftelijk mededelen met welke 
+Inschrijver de KNAW voornemens is een Overeenkomst te sluiten. Deze mededeling van het 
+voornemen tot Gunning geeft de winnaar nog geen aanspraak op Gunning van een Overeenkomst 
+aangezien de mededeling geen aanvaarding van de aanbieding inhoudt. Er is dan dus nog geen 
+sprake van een overeenkomst tussen de KNAW en de beoogde winnaar.  
+ 
+Inschrijvers die bezwaren hebben tegen het Gunningsvoornemen dienen binnen 20 kalenderdagen 
+na de Gunningsbeslissing een daartoe strekkend kort geding aanhangig te hebben gemaakt bij de 
+Voorzieningenrechter te Amsterdam. 
+ 
+3.7 Fase 6: Verificatie 
+De Projectgroep stelt ter voorbereiding op de verificatie vast op welke punten de door de winnende 
+Inschrijver geleverde informatie geverifieerd moet worden en/of welke documenten of nadere 
+informatie de Inschrijver moet overleggen. Tevens wordt vastgesteld welke vragen nog opheldering 
+behoeven en welke punten nog afgestemd moeten worden in de verificatiebespreking tussen de 
+KNAW en de winnende Inschrijver. 
+ 
+Als tijdens de verificatiebesprekingen met de Inschrijver blijkt dat in de Inschrijving onjuiste 
+informatie is verstrekt of dat op andere punten onoverkomelijke bezwaren bestaan, dan kan dat 
+leiden tot het alsnog afvallen van de betreffende Inschrijver. In gevallen als deze zal besloten 
+worden opnieuw bij Fase 3 te beginnen. 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  21 / [32] 
+4. UITSLUITING & GESCHIKTHEID 
+ 
+ 
+ 
+4.1 Algemeen 
+In dit hoofdstuk staan de uitsluitingsgronden en geschiktheidseisen waaraan Inschrijvers dienen te 
+voldoen. Als Inschrijver niet volledig aan het gestelde in dit hoofdstuk voldoet, kan de KNAW de 
+Inschrijving als onvolledig terzijde leggen en niet voor verdere beoordeling aanmerken. 
+In de vragenlijsten ten aanzien van uitsluitingsgronden en geschiktheidseisen wordt er 
+onderscheid gemaakt tussen drie soorten bewijsstukken:  
+1. bewijsstukken die bij de Inschrijving gevoegd dienen te zijn (zie ook Tabel 2 in paragraaf 
+2.6); 
+2. bewijsstukken die bij de voorgenomen Gunning moeten worden aangeleverd; en  
+3. bewijsstukken die Inschrijver op eerste verzoek van KNAW binnen tien (10) werkdagen 
+dient aan te leveren.  
+Dit is aan het begin van iedere paragraaf aangegeven met respectievelijk: 
+1. Bij Inschrijving bijvoegen; 
+2. Bij voorgenomen Gunning aanleveren; 
+3. Op verzoek overleggen. 
+ 
+De KNAW behoudt zich het recht voor om relevante bewijsstukken op te vragen die verband houden 
+met eisen waaraan de 
+Inschrijver zich verklaart te voldoen, zowel tijdens de aanbestedingsprocedure 
+als tijdens de overeenkomstperiode. De Inschrijver levert deze bewijsstukken op eerste verzoek van 
+KNAW binnen tien (10) werkdagen aan. 
+ 
+4.2 Uitsluitingsgronden 
+De uitsluitingsgronden welke zijn vermeld in het UEA zijn alle van toepassing op deze aanbesteding. 
+Inschrijvers die voldoen aan minimaal één van de uitsluitingsgronden zijn uitgesloten van de 
+aanbestedingsprocedure. 
+ 
+4.2.1 Universeel Europees Aanbestedingsdocument (UEA) 
+Bij Inschrijving bijvoegen. 
+ 
+Het UEA  is een online document van het Ministerie van Economische Zaken en deze is online 
+formulier toegevoegd aan de aanbesteding in TenderNed.   
+ 
+4.2.2 Overige Verklaringen 
+Met het indienen van het UEA verklaart Inschrijver tevens onvoorwaardelijk en zonder enig 
+voorbehoud akkoord te zijn met de inhoud van de aanbestedingsdocumenten en de 
+aanbestedingsprocedure. Daarnaast verklaart de Inschrijver met het indienen van het UEA te 
+voldoen aan de geschiktheidseisen, zoals beschreven in paragraaf 4.3. 
+ 
+4.2.3 Bewijsstukken ter Verificatie 
+Bij voorgenomen Gunning aanleveren. 
+ 
+Ter verificatie van het UEA dienen na het voornemen tot Gunning de volgende bewijsstukken, op 
+straffe van uitsluiting, door de voorgenomen gegunde Opdrachtnemer aangeleverd te worden: 
+- Uittreksel uit het KvK Handelsregister, waaruit blijkt dat de Inschrijving rechtsgeldig is 
+ondertekend door een daartoe bevoegd persoon. Het uittreksel mag niet ouder zijn dan zes 
+(6) maanden bij het indienen van de Inschrijving. Rechtsgeldigheid van ondertekening kan 
+ook aangetoond worden middels een volmachtverklaring welke getekend is door een van de 
+bestuurders genoemd in het uittreksel; 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  22 / [32] 
+- Gedragsverklaring aanbesteden (GVA). De GVA is bij het indienen van de Inschrijving nog 
+minimaal zes (6) maanden geldig. Alle bestuurders die in het handelsregister zijn vermeld 
+moeten ook in de GVA van de Inschrijver voorkomen; 
+- Verklaring van de Belastingdienst omtrent het betalen van belastingen en/of sociale 
+verzekeringspremies. De verklaring is niet ouder dan zes (6) maanden bij het indienen van 
+de Inschrijving. 
+ 
+4.3 Geschiktheidseisen 
+ 
+4.3.1 Financiële en Economische Draagkracht 
+Op verzoek overleggen. 
+ 
+Met het indienen van een Inschrijving verklaart Inschrijver financieel voldoende gezond te zijn om 
+de Opdracht uit te voeren. Bij een voorgenomen Gunning kan de KNAW een controleverklaring van 
+een accountant met betrekking tot de financiële gegevens van de Inschrijver(s) vragen. Deze 
+controleverklaring mag geen continuïteitsparagraaf bevatten.  
+ 
+4.3.2 Verzekering 
+Op verzoek overleggen. 
+ 
+Inschrijver beschikt op de uiterste datum voor het indienen van een Inschrijving over een 
+beroepsaansprakelijkheidsverzekering die hem/haar gedurende de uitvoering van de opdracht 
+afdoende verzekert tegen beroepsaansprakelijkheid die voortvloeit uit de overeenkomst.  
+ 
+Op verzoek van de KNAW overlegt Inschrijver een kopie van een recente, geldige, en relevante polis 
+van de beroepsaansprakelijkheidsverzekering, of een verklaring van de verzekeringsmaatschappij 
+waarin de dekking is aangegeven met betrekking tot deze aansprakelijkheid. Het origineel van de 
+kopie mag niet ouder zijn dan twaalf (12) maanden op de sluitingsdatum van de Inschrijving. 
+ 
+4.4 Juridische Bindingen 
+Op verzoek overleggen. 
+ 
+Indien Inschrijver gebruik maakt van de gegevens van de moederorganisatie voor wat betreft de 
+technische- en beroepsbekwaamheid en/of financiële en economische draagkracht en/of 
+samenwerkingsverbanden met andere partijen, dan overlegt Inschrijver op eerste verzoek binnen 
+tien (10) werkdagen een beschrijving hoe de juridische bindingen met deze partij(en) zijn en wat de 
+aard van deze relatie is. 
+ 
+4.5 Combinaties 
+Bij Inschrijving bijvoegen (Inschrijfformulier, bijlage 1). 
+ 
+Twee of meer partijen kunnen zich gezamenlijk als combinatie inschrijven op de opdracht, waarbij 
+alle aan de combinatie deelnemende combinanten contractspartner van de KNAW worden en 
+hoofdelijke aansprakelijkheid aanvaarden. Een combinatie geldt als één (1) Inschrijver.  
+ 
+Alle aan een combinatie deelnemende Combinanten dienen aan de gestelde eisen te voldoen. Iedere 
+combinant overlegt ter toetsing van de geschiktheid alle gevraagde informatie, wat inhoudt dat de 
+KNAW per Combinant onder meer een ingevuld UEA, een ondertekend PvE, bij voorgenomen 
+gunning een KvK Handelsregister uittreksel, en verder alle andere gevraagde bijlagen en informatie 
+ontvangt. 
+ 
+De Combinatie dient aan te geven welke partij en contactpersoon het aanspreekpunt is tijdens de 
+aanbestedingsprocedure en hoe de taakverdeling binnen de combinatie is geregeld. Alle 
+Combinaties dienen zich gezamenlijk en hoofdelijk aansprakelijk te stellen voor een juiste en 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  23 / [32] 
+complete afhandeling van de door hen aanvaarde opdracht en de hieruit voortvloeiende 
+verplichtingen.  
+ 
+Het vormen van Combinaties na indienen van de Inschrijving is normaal gesproken niet toegestaan. 
+Opdrachtgever is zich echter bewust van voortschrijdend inzicht tijdens de uitvoering van het 
+onderzoek en de noodzaak om extra partijen toe te voegen aan het team om specifieke kennis of 
+competenties toe te voegen die vooraf niet bekend waren.  
+Opdrachtgever dient echter eerst in te stemmen met iedere wijziging. Toevoegen van Combinaties 
+of partijen aan een Combinatie kan uitsluitend na toetsing of deze voldoen aan alle vereisten uit de 
+aanbesteding en kan pas in werking treden na schriftelijke toestemming van Opdrachtgever. 
+ 
+4.6 Beroep op Derden 
+Bij Inschrijving bijvoegen (Inschrijfformulier, bijlage 1). 
+ 
+Voor zowel zelfstandige Inschrijvers als Inschrijvers bestaande uit een Combinatie is het mogelijk 
+dat zij zich, in het kader van en ter voldoening aan de in deze aanbesteding gestelde 
+geschiktheidseisen, beroepen op de kwalificaties van derden (waaronder technische- en 
+beroepsbekwaamheid, en financiële en economische draagkracht). Indien Inschrijvers een dergelijk 
+beroep doen op derden, dienen zij dat expliciet bij de Inschrijving in het UEA te vermelden. 
+ 
+Voorts neemt de Inschrijver bij een beroep op de derde(n) de verplichting op zich deze derde(n) bij 
+de uitvoering van de opdracht ook daadwerkelijk aantoonbaar beschikbaar te hebben en in te zetten 
+voor die onderdelen waarvoor het beroep op de derde(n) is gedaan (zelfvereiste). Voor een beroep 
+in het kader van de toetsing van de financiële en economische draagkracht houdt deze verplichting 
+in, dat de desbetreffende derde(n) hoofdelijke aansprakelijkheid voor de nakoming van de 
+overeenkomst aanvaardt.  
+ 
+Indien Inschrijver een beroep doet op een in te zetten derde(n) dient Inschrijver bij eventuele 
+aanvang van de werkzaamheden  rechtsgeldige verklaringen van de desbetreffende derde(n) te 
+overleggen, waaruit blijkt dat deze daadwerkelijk gedurende de loop van de opdracht beschikbaar 
+is/zijn. Alle in te zetten derden dienen te voldoen aan de gestelde eisen. 
+ 
+4.7 Onderaanneming 
+Bij Inschrijving bijvoegen (Inschrijfformulier, bijlage 1). 
+ 
+Inschrijver geeft aan of hij/zij voornemens is delen van de gevraagde dienstverlening in 
+onderaanneming te geven. Bij onderaanneming moet Inschrijver op het UEA een overzicht 
+verstrekken van het gedeelte van de Opdracht dat Inschrijver voornemens is in onderaanneming te 
+geven. 
+ 
+4.8 Inschrijvers van één Concern 
+Op verzoek overleggen. 
+ 
+Als meerdere geïnteresseerden van één concern zich willen inschrijven – zelfstandig of als 
+combinatie – moeten zij op verzoek van de KNAW aan kunnen tonen dat: 
+- Zij ieder hun Inschrijving onafhankelijk hebben opgesteld van de andere Inschrijvers die 
+deel uitmaken van dat concern; 
+- Zij hierbij strikte vertrouwelijkheid in acht hebben genomen. 
+Als dit niet eenduidig en naar genoegen van de KNAW kunnen aantonen, kan dit leiden tot 
+uitsluiting van verdere deelname aan de aanbestedingsprocedure van alle tot het betreffende 
+concern behorende Inschrijvers. 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  24 / [32] 
+5. PROGRAMMA VAN EISEN 
+ 
+ 
+ 
+Door het indienen van een Inschrijving gaat de Inschrijver onvoorwaardelijk akkoord met, en kan de 
+Inschrijver geheel voldoen aan, de gestelde eisen en voorwaarden zoals beschreven in het 
+Programma van Eisen (PvE), bijgevoegd bij deze aanbesteding als bijlage 9. 
+  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  25 / [32] 
+6. GUNNING 
+ 
+ 
+ 
+6.1 Algemeen 
+Nadat Inschrijvers in beoordelingsfases 1 en 2 (zie hoofdstuk 3) met goed gevolg en conform de 
+voorwaarden en eisen gesteld in alle aanbestedingsdocumenten zijn beoordeeld, worden de 
+Inschrijvingen inhoudelijk beoordeeld. 
+ 
+De KNAW zal de Opdracht gunnen aan de Inschrijvers met beste Inschrijving op basis van de beste 
+kwaliteit.  
+ 
+De gunningscriteria Kwaliteit zijn onderverdeeld in onderdelen met ieder een procentuele weging 
+zoals weergegeven in Tabel 3 (samen 100%). 
+ 
+Criterium Subgunningscriterium Weging 
+(in %) 
+Maximaal te 
+behalen punten 
+Kwaliteit (100 %) 
+1. subgunningscriterium 1 50 500 
+2. subgunningscriterium 2 30 300 
+3. subgunningscriterium 3 20 200 
+Totaal: 100% 1000 
+Tabel 3: Gunningscriteria Kwaliteit, met bijbehorende subgunningscriteria, wegingen en maximaal 
+aantal te behalen punten zoals vastgelegd door de Projectgroep. 
+ 
+6.2 Kwaliteit 
+Inschrijver dient de volgende informatie aan te leveren bij zijn Inschrijving. In deze informatie dient 
+Inschrijver altijd de minimumeisen zoals opgenomen in het Programma van Eisen (bijlage 9) in acht 
+te nemen.  
+ 
+We beoordelen uw uitwerkingen van SGC1 t/m SGC3 hoog als ze compleet zijn en als wij vinden dat 
+de uitwerking bijdraagt aan een kwalitatief hoge uitvoering van de Opdracht. Wij hechten veel 
+waarde aan concrete toezeggingen, duidelijke voorbeelden en het tonen van expertise. Wij hechten 
+weinig waarde aan intenties, beloftes tot ontzorging, niet-gedefinieerde woorden en 
+containerbegrippen. Dat nemen wij ook mee in onze beoordeling. 
+ 
+Hieronder staat het beoordelingskader. U krijgt per Subgunningscriterium (SGC1 t/m SGC3) slechts 
+één score, u krijgt geen score per gevraagd element. 
+ 
+BEOORDELINGSKADER 
+Score Omschrijving 
+100 
+ 
+Uitstekend 
+Naast alle gevraagde elementen heeft u ook extra elementen uitgewerkt die relevant zijn. 
+Uw uitwerking is zeer concreet en roept geen vragen op. 
+U geeft veel overtuigende voorbeelden en bewijzen (waar mogelijk en relevant).  
+Uw uitwerking toont veel klantgerichtheid en is goed toegespitst op ons.  
+Uw uitwerking past uitstekend bij onze wensen en draagt bij aan een zeer hoge kwaliteit.  
+70 
+ 
+Goed 
+U heeft alle gevraagde elementen uitgewerkt. 
+Uw uitwerking is goed concreet maar roept enkele vragen op.  
+U geeft enkele overtuigende voorbeelden en bewijzen (waar mogelijk en relevant).  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  26 / [32] 
+Uw uitwerking toont veel klantgerichtheid maar is wat weinig toegespitst op ons.  
+Uw uitwerking past goed bij onze wensen en draagt bij aan een goede kwaliteit.  
+50 
+ 
+Voldoende 
+U heeft één of enkele gevraagde elementen niet uitgewerkt. 
+Uw uitwerking is voldoende concreet maar roept enkele vragen op.  
+U geeft voorbeelden en bewijzen (waar mogelijk en relevant) maar ze zijn wat weinig 
+overtuigend. 
+Uw uitwerking toont voldoende klantgerichtheid. 
+Uw uitwerking past grotendeels bij onze wensen en draagt bij aan een voldoende kwaliteit.  
+30 
+ 
+Matig 
+U heeft meerdere gevraagde elementen niet uitgewerkt. 
+Uw uitwerking is weinig concreet en roept meerdere vragen op. 
+U geeft weinig voorbeelden en bewijzen (waar mogelijk en relevant) en/of ze zijn niet 
+overtuigend. 
+Uw uitwerking toont weinig klantgerichtheid. 
+Uw uitwerking past weinig bij onze wensen en draagt bij aan matige kwaliteit.  
+0 
+ 
+Onvoldoende 
+U heeft de meeste of alle gevraagde elementen niet uitgewerkt.  
+Uw uitwerking is weinig of niet concreet en roept veel vragen op. 
+U geeft geen voorbeelden en bewijzen (waar mogelijk en relevant).  
+Uw uitwerking toont geen klantgerichtheid. 
+Uw uitwerking past niet bij onze wensen en draagt bij aan onvoldoende kwaliteit.  
+ 
+6.2.1 Vormvereisten 
+Belangrijke eisen voor de vorm van uw uitwerking van SGC1 t/m SGC3: 
+ 
+- Wij vragen u bewust om korte, bondige uitwerkingen. Wij willen geen commerciële tekst, 
+maar juist een concrete uitwerking toegespitst op ons en deze Opdracht. Daarom heeft u 
+voor de uitwerkingen een maximum aantal woorden met een bepaald lettertype (Arial) en 
+grootte (10 pt).  
+- Laat voorbladen, voorwoorden en begeleidende brieven weg. Als u meer woorden indient 
+dan wij vragen, dan beoordelen wij de extra woorden niet. Als daardoor informatie mist is 
+dat voor uw eigen risico. Voeg ook geen bijlages, rapporten of links naar websites toe. Die 
+informatie nemen wij niet mee in de beoordeling. 
+- Tekst in tabellen, afbeeldingen en andere visuals moet goed leesbaar zijn bij 100% 
+inzoomen op het beeldscherm en bij uitprinten. Als dat niet zo is, kunnen wij dat meenemen 
+in de beoordeling.  
+- Lever uw uitwerkingen in als PDF of als Word-document. Dan kunnen wij ze goed openen. 
+ 
+ 
+Stap 1 in het beoordelingsproces: Ontvankelijkheidstoets 
+Alle ingezonden onderzoeksvoorstellen zullen eerst een ontvankelijkheidstoets ondergaan, uit te 
+voeren door de afdeling FAO van het KNAW-bureau.  
+Criteria voor de ontvankelijkheidstoets zijn: 
+- Is het voorstel compleet (zie inhoudsopgave onderzoeksvoorstel hieronder) 
+- Voldoet het profiel van de projectleider aan de minimale eisen zoals beschreven in het 
+programma van eisen: “De projectleider dient in het bezit te zijn van een doctorstitel (dr.) en 
+moet in de afgelopen drie jaar aantoonbare publicaties hebben in toonaangevende, peer-
+reviewed wetenschappelijke tijdschriften.” (De inhoudelijke beoordeling van de 
+projectleider wordt gedaan door de beoordelingscommissie. Meer details hieronder.) 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  27 / [32] 
+- Zijn de leden van het onderzoeksteam onafhankelijk zoals beschreven in het programma van 
+eisen: “KNAW-leden, DJA-leden, AvK-leden, en onderzoekers met een (deeltijd-) aanstelling 
+aan een KNAW-instituut geen deel uitmaken van het onderzoekersteam.” 
+- Heeft het voorstel oog voor zowel het Caribisch gebied als Indonesië? 
+ 
+ 
+Inhoudsopgave voor een compleet onderzoeksvoorstel: 
+Alleen voorstellen voor uitvoering van de gehele onderzoeksopdracht komen in aanmerking. 
+- In het onderzoeksvoorstel dienen de volgende zaken te zijn opgenomen: 
+• Vertaling van de doelstellingen van de KNAW naar een overkoepelende vraagstelling en 
+deelvragen (max 250 woorden) 
+• Theoretisch kader (max 700 woorden) 
+• Aanpak en methodologie (max 700 woorden) 
+• Werkplan en beoogde eindproducten  
+• Wijze waarop expertise van KNAW-leden en onderzoekers van KNAW-instituten zal 
+worden verkregen. 
+• Maatschappelijke relevantie  
+• Risicoanalyse en mogelijke maatregelen om risico's zoveel mogelijk in te perken 
+• Invulling van communicatie en interactie met de Opdrachtgever 
+• Samenstelling onderzoeksteam:  
+o Van ieder lid van het onderzoeksteam (incl. projectleider) wordt aangeleverd: 
+ Een evidence based CV (profiel van max 700 woorden en tussen 5 en 10 
+outputs) 
+ Een beschrijving van de werkzaamheden binnen het onderzoek 
+ De omvang van de werkzaamheden in uren 
+ Verklaring dat de onderzoeker de principes en normen die zijn gesteld in 
+de Nederlandse gedragscode wetenschappelijke integriteit in acht neemt 
+• Beoogde samenstelling onafhankelijke begeleidingscommissie 
+• Begroting: salaris, materiële kosten, reis- en verblijf, eventueel te verrekenen overhead 
+en BTW, eventuele stelposten 
+• Pre-DPIA om de verwerking van persoonsgegevens in kaart te brengen. ; een 
+uitgewerkte DPIA wordt geleverd bij toekenning van de opdracht.
+1  
+• Schets Datamanagement en publicatieplan (FAIR principes); een uitgewerkte plan wordt 
+geleverd bij toekenning van de opdracht. 
+  
+De ontvankelijkheidstoets is procesmatig; de afdeling FAO draagt hier verantwoordelijkheid voor. 
+Stap 2 in het beoordelingsproces: Inhoudelijke beoordeling Onderzoeksvoorstellen 
+Als Onderzoeksvoorstellen de ontvankelijkheidstoets doorstaan, wordt het Onderzoeksvoorstel 
+inhoudelijk beoordeeld. Dit wordt gedaan op basis van onderstaande 3 subgunningscriteria.  
+ 
+6.2.2 Subgunningscriterium 1 
+Kwaliteit van onderzoeksplan en de voorgestelde methode in relatie tot de doelstellingen 
+van de KNAW:  
+Uw ingediende onderzoeksvoorstel wordt beoordeeld op basis van de volgende elementen:  
+ 
+ 
+1 Ter referentie, zie: https://www.autoriteitpersoonsgegevens.nl/themas/basis -avg/praktisch-avg/data-protection-
+impact-assessment-dpia 
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  28 / [32] 
+A. De mate waarin verschillende perspectieven op het koloniale verleden tot uiting 
+komen 
+B. De mate waarin het onderzoeksvoorstel een balans weet te realiseren tussen het 
+onderzoeken van de concrete rol van de KNAW in het wetenschapssysteem en de 
+activiteiten van het genootschap en instituten enerzijds, en de institutionele rol van 
+de KNAW binnen wetenschap, economie en politiek anderzijds. 
+C. De wijze waarop het onderzoeksvoorstel invulling geeft aan de communicatie en 
+interactie met de KNAW tijdens het onderzoek. 
+D. De wijze waarop het onderzoeksvoorstel invulling geeft aan de maatschappelijke 
+relevantie van het onderzoek. 
+ 
+Uw inschrijving dient op dit criterium minimaal met een “voldoende” beoordeeld te worden. 
+Een beoordeling met een “matig” of “onvoldoende” (zie beoordelingskader paragraaf 6.2) kan leiden 
+tot uitsluiting van verdere beoordeling en de aanbesteding. 
+ 
+Beoordeling met maximale aantal te behalen punten: 500 punten 
+ 
+6.2.3 Subgunningscriterium 2 
+Samenstelling, kennis en ervaring van het onderzoeksteam: 
+Uw ingediende onderzoeksvoorstel wordt beoordeeld op basis van de volgende elementen:  
+ 
+A. Aantoonbare ervaring met het uitvoeren van onderzoek naar het koloniale verleden van 
+instituties en/of expertise op het bredere thema van het koloniale verleden en de 
+doorwerking daarvan in het heden 
+B. Aantoonbare expertise om het voorgesteld onderzoek uit te kunnen voeren  
+C. Diversiteit van het team: de mate waarin het team de verscheidenheid aan mogelijke 
+perspectieven op het onderzoeken van het koloniale verleden van de KNAW 
+vertegenwoordigt.  
+  
+Uw inschrijving dient op dit criterium minimaal met een “voldoende” beoordeeld te worden. 
+Een beoordeling met een “matig” of “onvoldoende” (zie beoordelingskader paragraaf 6.2) kan leiden 
+tot uitsluiting van verdere beoordeling en de aanbesteding. 
+ 
+Beoordeling met maximale aantal te behalen punten: 300 punten 
+ 
+6.2.4 Subgunningscriterium 3 
+Haalbaarheid van het plan van aanpak: 
+Uw ingediende onderzoeksvoorstel wordt beoordeeld op basis van de volgende elementen: 
+A. Planning/ tijdspad/ mijlpalen 
+B. Doeltreffendheid van de begroting 
+ 
+Uw inschrijving dient op dit criterium minimaal met een “voldoende” beoordeeld te worden. 
+Een beoordeling met een “matig” of “onvoldoende” (zie beoordelingskader paragraaf 6.2) kan leiden 
+tot uitsluiting van verdere beoordeling en de aanbesteding. 
+ 
+Beoordeling met maximale aantal te behalen punten: 200 punten 
+ 
+ 
+Stap 3 in het beoordelingsproces: Interview met (een selectie van) de teams  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  29 / [32] 
+Alle Inschrijvingen die op SGC1 t/m SGC3, per criterium, een voldoende of hoger hebben gehaald en 
+rekenkundig nog als hoogst scorende Inschrijver uit de bus kunnen komen, worden voorgedragen 
+voor een interview.  
+Criteria die leidend zijn bij het interview zijn: 
+- In hoeverre heeft de projectleider ervaring met het aansturen van een team als beschreven in 
+het Programma van Eisen (bijgevoegd bij deze aanbesteding als bijlage 9)? (25%) 
+- In hoeverre is het onderzoekersteam, en in het bijzonder de projectleider, in staat om een 
+verbindende rol te spelen tussen het onderzoek en de KNAW als organisatie? (25%) 
+- In hoeverre vertoont het onderzoeksteam, en in het bijzonder de projectleider, leiderschap over 
+de waarde van het onderzoek voor de KNAW, en voor de maatschappij in het algemeen? (25%) 
+- In hoeverre is het onderzoeksteam, en in het bijzonder de projectleider, in staat om de risico’s 
+van het onderzoek te mitigeren? (25%) 
+ 
+Voor elk van deze criteria kent de commissie een score toe tussen de 0 en 100, conform 
+beoordelingskader, inclusief toelichting. 
+Beoordeling met maximale aantal te behalen punten: 1000 punten.  
+Na het interview worden de definitieve scores vastgesteld, als optelsom van de schriftelijke 
+beoordeling en de mondelinge beoordeling, en met de weging waarbij de schriftelijke beoordeling 
+voor 60% weegt en het interview voor 40%.  
+Het voorstel met de hoogste score, na de interviews, wordt aan het bestuur voorgedragen als partij 
+die de opdracht wordt gegund. 
+Alle voorstellen met een totaal- of deelbeoordeling “matig” of “onvoldoende” worden niet 
+voorgedragen. 
+ 
+De KNAW behoudt zich het recht voor om inschrijvingen gemotiveerd af te wijzen. 
+ 
+BEOORDELINGSKADER INTERVIEW 
+Score Omschrijving 
+100 
+ 
+Uitstekend 
+Naast alle gevraagde elementen heeft u ook extra elementen uitgewerkt die relevant zijn.  
+Uw ervaring is zeer concreet en roept geen vragen op. 
+U geeft veel overtuigende voorbeelden en bewijzen (waar mogelijk en relevant).  
+Uw uitwerking toont veel klantgerichtheid en is goed toegespitst op ons.  
+Uw uitwerking past uitstekend bij onze wensen en draagt bij aan een zeer hoge kwaliteit.  
+70 
+ 
+Goed 
+U heeft alle gevraagde elementen uitgewerkt. 
+Uw ervaring is goed concreet maar roept enkele vragen op. 
+U geeft enkele overtuigende voorbeelden en bewijzen (waar mogelijk en relevant).  
+Uw uitwerking toont veel klantgerichtheid maar is wat weinig toegespitst op ons.  
+Uw uitwerking past goed bij onze wensen en draagt bij aan een goede kwaliteit.  
+50 
+ 
+Voldoende 
+U heeft één of enkele gevraagde elementen niet uitgewerkt. 
+Uw ervaring is voldoende concreet maar roept enkele vragen op. 
+U geeft voorbeelden en bewijzen (waar mogelijk en relevant) maar ze zijn wat weinig 
+overtuigend. 
+Uw uitwerking toont voldoende klantgerichtheid, maar is weinig toegespitst op ons  
+   
+ 
+KNAW   |   Beschrijvend document   |   Europese aanbesteding Onderzoek koloniaal verleden  30 / [32] 
+Uw uitwerking past grotendeels bij onze wensen en draagt bij aan een voldoende kwaliteit.  
+30 
+ 
+Matig 
+U heeft meerdere gevraagde elementen niet uitgewerkt. 
+Uw ervaring is weinig concreet en roept meerdere vragen op. 
+U geeft weinig voorbeelden en bewijzen (waar mogelijk en relevant) en/of ze zijn niet 
+overtuigend. 
+Uw uitwerking toont weinig klantgerichtheid. 
+Uw uitwerking past weinig bij onze wensen en draagt bij aan matige kwaliteit.  
+0 
+ 
+Onvoldoende 
+U heeft de meeste of alle gevraagde elementen niet uitgewerkt.  
+Uw ervaring is weinig of niet concreet en roept veel vragen op. 
+U geeft geen voorbeelden en bewijzen (waar mogelijk en relevant).  
+Uw uitwerking toont geen klantgerichtheid. 
+Uw uitwerking past niet bij onze wensen en draagt bij aan onvoldoende kwaliteit.  
+ 
+ 
+6.3 Prijs 
+ 
+Inschrijver dient alleen dit Prijzenblad te gebruiken voor het opgeven van de project begroting.  
+Aan de inschrijfprijs wordt geen score toegekend.  
+De totale inschrijfprijs moet onder het drempelbedrag van € 1.100.000, inclusief BTW blijven, zoals 
+beschreven in paragraaf 3.4.2. 
+Een niet (volledig) ingevuld en gespecificeerd Prijzenblad kan leiden tot het terzijde leggen van de 
+Inschrijving.  
+ 
+Inschrijver dient bij het invullen van het Prijzenblad rekening te houden met de volgende aspecten: 
+- Negatieve bedragen of bedragen van € 0 mogen niet worden ingevoerd ; 
+- De op te geven prijzen dienen het volledige onderzoek te dekken; 
+- Niet in de prijzen opgenomen kosten zullen niet worden vergoed; 
+- Inschrijver biedt op het prijzenblad netto prijzen aan, in euro’s, exclusief btw; 
+- Inschrijver vermeldt de btw-tarieven (in procenten) en btw-bedragen (in euro’s) in separate 
+kolommen op het prijzenblad, in de rijen behorende bij het betreffende artikel; 
+- Alle kosten en tarieven met betrekking tot administratie, overhead, materiaal, reis- en 
+verblijfkosten, verzekeringen, transport, belastingen, heffingen, rapportage, overleg en alle 
+eventuele overige kosten zijn bij de geoffreerde prijzen inbegrepen; 
+- De prijzen zijn inclusief eventuele opslagen;
+
+=== Document: bijlage 9 - programma van eisen onderzoek koloniaal verleden ===
+KNAW   |   Europese openbare aanbesteding   |   Onderzoek Koloniaal Verleden   |   PvE  1 / 5 
+BIJLAGE 9  PROGRAMMA VAN EISEN (PvE) 
+ 
+1. INLEIDING 
+1.1  SPELREGELS 
+ 
+Dit Programma van Eisen (PvE) hoort bij de Europese openbare aanbesteding Onderzoek 
+Koloniaal Verleden KNAW. Als u een Inschrijving indient gaat u akkoord met alle eisen in dit PvE 
+en de andere Aanbestedingsdocumenten. De eisen zijn harde eisen. Als u er niet aan voldoet, dan 
+wordt u uitgesloten van verdere deelname aan de Aanbesteding.  
+ 
+Dit PvE wordt na de definitieve gunning onderdeel van de Overeenkomst. Alle eisen zijn van 
+toepassing op Opdrachtnemer. Daarom moet de term “Opdrachtnemer” in dit PvE ook als 
+“Opdrachtnemer” worden gelezen. En “Aanbestedende dienst” als “Opdrachtgever”.  
+ 
+1.2 VRAGENRONDE 
+ 
+Wij hebben de eisen met zorg samengesteld. Maar u bent de expert en u weet welke 
+mogelijkheden u en/of de markt wel en niet kan bieden. Geef daarom in de vragenronde (zie 
+Beschrijvend document paragraaf 2.3) gemotiveerd aan welke eisen niet redelijk, niet haalbaar 
+of niet uitvoerbaar zijn in uw optiek. Via Nota’s van Inlichtingen geven wij aan of en hoe u van de 
+eisen mag afwijken. 
+ 
+ 
+2. EISEN 
+2.1 ALGEMEEN 
+ 
+Nummer Eis 
+ALG-01 Opdrachtnemer is akkoord met de inhoud van alle aanbestedingsdocumenten, eisen, 
+voorwaarden, concept overeenkomsten, etc. en dat deze niet aanpasbaar zijn na het 
+verstrijken van de laatste vragenronde (NvI), zoals beschreven in paragraaf 2.3 van het 
+Beschrijvend Document 
+ALG-02 Opdrachtnemer is akkoord met de procedure van deze Aanbesteding om te komen tot 
+een door beide partijen ondertekende Overeenkomst op basis van de Concept 
+Overeenkomst (bijlage 11x) en verwerkersovereenkomst (bijlage xx) 
+ALG-03 Opdrachtnemer is akkoord met alle bepalingen in de Concept Overeenkomst (Bijlage 7), 
+aangevuld of aangepast op basis van Nota’s van Inlichtingen, waarbij een later 
+gepubliceerde Nota prevaleert over een eerder gepubliceerde Nota.  
+Opdrachtnemer is akkoord dat Aanbestedende dienst na gunning van de Opdracht de 
+Concept Overeenkomst en Verwerkersovereenkomst aanpast op basis van aanvullingen 
+en aanpassingen uit Nota’s van Inlichtingen om te komen tot de definitieve 
+Overeenkomst. De definitieve Overeenkomst wordt zo snel mogelijk nadat de Opdracht 
+definitief gegund is door beide partijen ondertekend en gedeeld.  
+ALG-04 Opdrachtnemer is akkoord dat hij de definitieve Overeenkomsten zo snel mogelijk na 
+gunning ondertekent, in het geval hij de winnende Inschrijving heeft ingediend. 
+KNAW   |   Europese openbare aanbesteding   |   Onderzoek Koloniaal Verleden   |   PvE  2 / 5 
+ALG-05 Opdrachtnemer is akkoord met de toepassing van de Algemene Inkoopvoorwaarden 
+KNAW, de ARVODI 2018, onder uitdrukkelijke uitsluiting van Opdrachtnemers eigen 
+voorwaarden of voorwaarden van derden. 
+ALG-06 Opdrachtnemer garandeert de vereiste capaciteiten, vaardigheden en middelen te 
+kunnen leveren om te kunnen (blijven) voldoen aan het gestelde in de 
+Aanbestedingsdocumenten. Opdrachtnemer stelt Aanbestedende dienst onmiddellijk op 
+de hoogte van elke substantiële wijziging in de situatie van Opdrachtnemer om te 
+kunnen voldoen aan het gestelde. 
+ALG-07 Opdrachtnemer is akkoord dat zijn/haar uitwerkingen van de (Sub)Gunningscriteria 
+onderdeel worden van de Overeenkomst. Opdrachtnemer verplicht zich in de uitvoering 
+van de Opdracht te voldoen aan hetgeen hij/zij heeft aangeboden. Als uitzondering 
+hierop gelden die elementen binnen de uitwerkingen waarvan Aanbestedende dienst 
+aangeeft dat ze niet mogelijk, werkzaam of wenselijk zijn. Ook uitgezonderd zijn 
+eventuele aanbevelingen en voorgestelde maatregelen rondom kansen en risico’s; 
+Aanbestedende dienst geeft separaat aan wanneer hier gebruik van wordt gemaakt.  
+ 
+ALG-08 Opdrachtnemer is akkoord dat Aanbestedende dienst na gunning slechts die 
+onderaannemers, derden, partners, combinanten en/of andere samenwerkende partijen 
+accepteert die tijdens de aanbestedingsprocedure zijn opgegeven in de Inschrijving van 
+Opdrachtnemer en die voldaan hebben aan de procedurele vereisten. Na gunning is 
+wijziging/toevoeging van partners, combinanten of andere samenwerkende partijen 
+alleen mogelijk als zij aantoonbaar aan alle in deze aanbesteding gestelde eisen en 
+voorwaarden voldoen. Wijziging/toevoeging van onderaannemers en/of derden is 
+slechts mogelijk nadat Opdrachtgever hierover schriftelijke goedkeuring heeft gegeven. 
+ALG-09 Opdrachtnemer dient eventueel geconstateerde reële tekortkomingen in de uitvoering 
+van het onderzoek alle gevallen te verhelpen, waarbij het overeen gekomene alsnog 
+gerealiseerd wordt. De kosten voor deze (extra) werkzaamheden zijn voor rekening van 
+Opdrachtnemer. 
+ALG-10 Het eindrapport dient uiterlijk drie jaar na de start van het onderzoek te worden 
+aangeleverd.  
+ 
+ALG-11 Opdrachtnemer dient alle onderzoeksdata volgens de FAIR principes te verwerken, en 
+stemt in om daarvoor een uitgewerkte plan bij Aanbestedende dienst in te dienen na 
+gunning van de opdracht.  
+ 
+ 
+2.2 WET- EN REGELGEVING 
+ 
+Nummer Eis 
+WET-01 Opdrachtnemer staat ervoor in dat alle uit te voeren werkzaamheden, diensten en op te 
+leveren producten, die verband houden met deze opdracht, of daaruit voorkomen, 
+voldoen aan de hoogste wettelijke vereisten en overige overheidsvoorschriften, 
+waaronder de Europese wet- en regelgeving en wet- en regelregelgeving in de landen 
+waar werkzaamheden worden uitgevoerd 
+WET-02 Opdrachtnemer garandeert dat hij/zij voldoet aan alle relevante vigerende wet- en 
+regelgeving die van toepassing is  
+KNAW   |   Europese openbare aanbesteding   |   Onderzoek Koloniaal Verleden   |   PvE  3 / 5 
+WET-03 Opdrachtnemer is in het bezit van alle verplichte vergunningen en ontheffingen voor de 
+uitvoering van de te leveren dienstverlening. De kosten hiervoor zijn voor de 
+Opdrachtnemer. 
+ 
+ 
+2.3 PROJECTLEIDER 
+ 
+Nummer Eis 
+PRJLD-01 De projectleider van het onderzoeksteam heeft aantoonbare staat van dienst als 
+wetenschappelijke onderzoeker, voldoet aan de hoogste wetenschappelijke 
+kwaliteitseisen en heeft toegang tot institutionele klachtstelsels voor het borgen van 
+wetenschappelijke integriteit en sociale veiligheid.  
+ 
+PRJLD-02 De projectleider dient in het bezit te zijn van een doctorstitel (dr.) en moet in de 
+afgelopen drie jaar aantoonbare publicaties hebben in toonaangevende, peer-reviewed 
+wetenschappelijke tijdschriften. De publicaties moeten van hoge kwaliteit zijn en 
+bijdragen aan het relevante vakgebied. 
+ 
+PRJLD-03 De projectleider is geen lid van de KNAW, De Jonge Akademie, of de Akademie van 
+Kunsten, en heeft geen (deeltijd-)aanstelling bij een KNAW-instituut.  
+ 
+PRJLD-04 De projectleider dient voor minimaal 0,2 fte betrokken te zijn gedurende het hele 
+traject. 
+PRJLD-05 De projectleider heeft aantoonbare ervaring met het verbinden van verschillen 
+kennisnetwerken, zowel binnen Nederland als in voormalige koloniën. 
+ 
+PRJLD-06 De projectleider is verantwoordelijk voor:  
+- de wetenschappelijke kwaliteit en integriteit van het onderzoek  
+- de tijdige uitvoering van de in het onderzoeksplan beschreven activiteiten 
+- de financiële verantwoording van het onderzoek 
+- de communicatie met opdrachtgever, als eerste aanspreekpunt 
+- tussentijdse en eind rapportage 
+ 
+ 
+ 
+2.4 ONDERZOEKSTEAM 
+ 
+Nummer Eis 
+TEAM-01 Alleen voorstellen voor uitvoering van de gehele onderzoeksopdracht komen in 
+aanmerking.  
+TEAM-02 Uitvoering kan geschieden door een onderzoeksteam van een enkele organisatie of door 
+een team bestaande uit leden van meerdere organisaties. ZZP-ers kunnen onderdeel zijn 
+van het onderzoeksteam. 
+TEAM-03 Omwille van de onafhankelijkheid van het onderzoek kunnen KNAW-leden, leden van 
+de Jonge Akademie, leden van de Akademie van Kunsten, en onderzoekers met een 
+(deeltijd-) aanstelling aan een KNAW-instituut geen deel uitmaken van het 
+KNAW   |   Europese openbare aanbesteding   |   Onderzoek Koloniaal Verleden   |   PvE  4 / 5 
+onderzoekersteam. Uiteraard kan de expertise die binnen de KNAW aanwezig is wel 
+geconsulteerd worden. 
+TEAM-04 Het team vertegenwoordigt een verscheidenheid aan mogelijke perspectieven op het 
+onderzoeken van het koloniale verleden van de KNAW. 
+TEAM-05 Conform de KNAW-richtlijnen voor historisch-wetenschappelijk onderzoek in opdracht 
+(2007) (zie bijlage 4 van deze aanbesteding) valt de begeleiding van het onderzoek 
+onder de verantwoordelijkheid van de opdrachtnemer. Het onderzoeksteam dient een 
+begeleidingscommissie voor te stellen, die fungeert als extern wetenschappelijk 
+klankbord voor het onderzoeksteam. 
+ 
+2.5 COMMUNICATIE EN PUBLICATIE 
+ 
+Nummer Eis 
+COM-01 Onderzoeksresultaten of andere uitingen worden niet publiek gemaakt zonder overleg 
+vooraf tussen Opdrachtnemer en Opdrachtgever. 
+ 
+COM-02 Opdrachtnemer verleent medewerking aan het opstellen van een communicatieplan 
+door de KNAW en conformeert zich hier aan. 
+ 
+COM-03 De Projectleider is voor de KNAW de vaste aanspreek- en contactpersoon voor, tijdens 
+en na het onderzoek. Bij afwezigheid dient er één vaste vervanger beschikbaar te zijn. 
+COM-04 De projectleider zal iedere zes maanden een verslag (maximaal vier pagina’s) van de 
+voortgang van het onderzoeksproject uitbrengen. Dit betreft:  
+- een verslag van de werkzaamheden 
+- een financieel verslag 
+- ervaren en voorziene knelpunten. 
+ 
+COM-05 Conform de KNAW-richtlijnen voor historisch-wetenschappelijk onderzoek in opdracht 
+(2007) (zie bijlage 4) vermelden alle publicaties de auteurs, opdrachtgever, 
+opdrachtnemer, en de samenstelling van de begeleidingscommissie. 
+ 
+COM-06 Wetenschappelijke onderzoeksresultaten worden openbaar gemaakt, waarbij 
+opdrachtgever een termijn van twaalf maanden publicatierecht in acht neemt. Na deze 
+termijn vervalt het publicatierecht aan opdrachtnemer.   
+ 
+COM-07 Resultaten van het onderzoek worden pas na overleg tussen Opdrachtgever en 
+Opdrachtnemer gepubliceerd. Na afloop van het onderzoek hebben de auteurs het recht 
+hun onderzoeksresultaten publiek te presenteren en te gebruiken voor nieuw 
+wetenschappelijk onderzoek. 
+ 
+COM-08 De voertaal van de verslaglegging dient Nederlands te zijn. Voor bijdragen van lokale 
+kennisnetwerken in een andere taal dient een Nederlandse vertaling bijgevoegd 
+worden. 
+ 
+KNAW   |   Europese openbare aanbesteding   |   Onderzoek Koloniaal Verleden   |   PvE  5 / 5 
+COM-09 Er vindt minimaal tweemaal per jaar overleg plaats tussen (een afvaardiging van) het 
+onderzoeksteam en de door de KNAW in te stellen contact werkgroep. 
+ 
+ 
+ 
+2.6 PRIJZEN & FACTURERING 
+ 
+Nummer Eis 
+PRY-01 Inschrijver verdeelt de eventuele inschrijfvergoeding eerlijk over alle partijen die een 
+inspanning hebben geleverd om te komen tot de inschrijving. Opdrachtgever kan 
+hiervan een specificatie opvragen. 
+PRY-02 Opdrachtnemer rekent geen andere of extra kosten dan die opgenomen zijn in het 
+prijzenblad dat hij/zij indient met zijn/haar Inschrijving.  
+PRY-03 Per mijlpaal wordt een separate factuur ingediend: 
+1. Factuur Inschrijfvergoeding  
+2. 30% bij opdrachtverstrekking 
+3. 10% bij ontvangst eerste tussentijdse rapportage 
+4. 10% bij ontvangst tweede tussentijdse rapportage 
+5. 10% bij ontvangst derde tussentijdse rapportage 
+6. 10 % bij ontvangst vierde tussentijdse rapportage 
+7. 10 % bij ontvangst vijfde tussentijdse rapportage 
+8. 10 % bij ontvangst eindrapportage 
+9. 10% na acceptatie en afronding  
+ 
+PRY-04 Opdrachtnemer stuurt facturen in PDF-format naar: facturen.financien@knaw.nl. Een 
+PDF bevat niet meer dan één factuur. 
+ Opdrachtnemer zorgt ervoor dat alle facturatie die verband houdt met de Opdracht uit 
+naam van Opdrachtnemer verloopt. Aanbestedende dienst accepteert alleen facturen 
+die van Opdrachtnemer komen, niet van derden.  
+PRY-05 Facturen moeten voldoen aan de wettelijke vereisten en bevatten minimaal de volgende 
+gegevens: 
+o Naam Opdrachtnemer; 
+o Adres Opdrachtnemer; 
+o T.a.v. Forum, Advies en Onderzoek 
+o BTW nummer Opdrachtnemer;  
+o KvK-nummer Opdrachtnemer;  
+o Uniek volgnummer; 
+o Datum waarop de factuur gemaakt is;  
+o Omschrijving van de mijlpaal;  
+o Bedrag (in €) exclusief btw per dienst;  
+o Btw-tarief (in %) per dienst;  
+o Btw-bedrag (in €) per dienst;  
+o Totaalbedrag (in €) exclusief btw ;  
+o Totaal btw-bedrag (in €).
+
+=== Document: bijlage 9 - schedule of requirements programma van eisen onderzoek koloniaal verleden_en_gb_en-gb ===
+1 
+ 
+SCHEDULE OF REQUIREMENTS (SoR) 
+1. INTRODUCTION 
+1.1 RULES 
+The present Schedule of Requirements (SoR) is part of the European public procurement procedure for an 
+Investigation into the Academy’s Colonial Past. By submitting a Tender, you agree to all requirements 
+listed in this SoR and the other Tender documents. The requirements are strict requirements. If you do not 
+satisfy them, you will be excluded from further participation in the Tender. 
+Upon the award being finalised, the present SoR will form part of the Agreement. Contractor is subject to 
+all requirements. That is why the term ‘Contractor’ should be construed as referring to ‘Contractor’ in this 
+SoR. In the same vein, ‘Contracting Party’ should be construed as referring to ‘Client’. 
+1.2 QUESTION ROUND 
+We have drawn up the schedule of requirements with due care. You, however, are the expert and better 
+aware of what you yourself and/or the market can and cannot provide. Once we have entered the question 
+round (see the Descriptive Document, section 2.3), we therefore ask that you explain with reasons which 
+requirements you consider unreasonable, unfeasible or not enforceable. We will indicate whether and to 
+what extent you may deviate from the requirements in our Information Memos. 
+2. REQUIREMENTS 
+2.1 GENERAL REQUIREMENTS 
+No. Requirement 
+ALG-01 Contractor agrees to the contents of all tender documents, requirements, terms and conditions, 
+draft agreements, and so on and further agrees that these can no longer be amended after the 
+conclusion of the final question round (IM), as described in section 2.3 of the Descriptive 
+Document. 
+ALG-02 Contractor agrees to this Tender's procedure for arriving at an Agreement signed by both 
+parties based on the Draft Agreement (Appendix 11x) and Data Processing Agreement 
+(Appendix xx). 
+ALG-03 Contractor agrees to all provisions of the Draft Agreement (Appendix 7), supplemented or 
+amended pursuant to Information Memos, whereby a Memo published later will take 
+precedence over a Memo published at an earlier date. 
+Contractor agrees that after awarding the Contract, Contracting Party will amend the Draft 
+Agreement and Data Processing Agreement based on the additions and changes set out in the 
+Information Memos so as to arrive at the final Agreement. The final Agreement will be signed 
+and shared by both parties as soon as possible after the Contract is awarded. 
+ALG-04 The contractor that has submitted the winning Tender agrees to sign the final Agreements as 
+soon as possible after the Contract is awarded. 
+  
+APPENDIX 9 
+2 
+ 
+ALG-05 Contractor agrees to apply the Academy's General Purchasing Conditions and the General 
+Government Terms and Conditions for Public Service Contracts (ARVODI) 2018, explicitly 
+excluding Contractor's own terms and conditions or those of third parties. 
+ALG-06 Contractor guarantees that it has the required capabilities, skills and resources to comply (and 
+continue to comply) with the provisions of the Tender documents. Contractor will immediately 
+inform Contracting Party of any significant change in Contractor's situation affecting its ability 
+to comply with the set requirements. 
+ALG-07 Contractor agrees that its renditions of the (Sub)Award Criteria will become part of the 
+Agreement. Contractor undertakes to adhere to what it has proposed to do when performing the 
+Contract. Exceptions to this are those elements within the renditions that Contracting Party has 
+indicated are impossible, ineffective or undesirable. Further exceptions are any 
+recommendations and proposed measures regarding opportunities and risks; if these are to be 
+undertaken, Contracting Party will indicate so under separate cover. 
+ALG-08 Contractor agrees that after the award is made, Contracting Party will accept only those 
+subcontractors, third parties, partners, consortium members and/or other cooperating parties 
+that have been identified in Contractor's Tender during the tender procedure and have met the 
+procedural requirements. After the award is made, partners, consortium members or other 
+cooperating parties may be changed/added only if they demonstrably satisfy all the 
+requirements and terms and conditions set out in this tender. Subcontractors and/or third parties 
+may only be changed/added after Client has consented in writing to the same. 
+ALG-09 In all cases, Contractor must remedy any genuine flaws found in the execution of the 
+investigation while nevertheless delivering what has been agreed. Contractor will bear the cost 
+of this remedy, even if additional. 
+ALG-10 The final report must be submitted no more than three years after the investigation commences. 
+ALG-11 
+Contractor must process all research data according to the FAIR principles, and agrees to 
+submit a detailed plan for this purpose to Contracting Party after being awarded the contract.  
+ 
+2.2 LEGISLATION AND REGULATIONS 
+No. Requirement 
+WET-01 Contractor guarantees that all work to be performed, services to be provided, and products to 
+be delivered that are related to, or arise from, this contract will comply with the strictest 
+statutory requirements and other government stipulations, including EU legislation and the 
+legislation of the countries in which the work is being performed. 
+WET-02 Contractor guarantees that it complies with all relevant prevailing legislation and regulations. 
+  
+3 
+ 
+WET-03 Contractor is in possession of all mandatory permits and exemptions to perform the relevant 
+services. Any related costs will be borne by Contractor. 
+ 
+ 
+2.3 PROJECT COORDINATOR 
+No. Requirement 
+PRJLD-01 The research team’s project coordinator must have a proven track record as a researcher, 
+comply with the strictest research quality standards, and have access to institutional complaints 
+systems ensuring research integrity and social safety. 
+PRJLD-02 The project coordinator should hold a PhD (Dr) and be able to produce evidence of having 
+published in leading, peer-reviewed scholarly journals within the past three years. These 
+publications should be of outstanding quality and should have contributed to the relevant field 
+of study. 
+PRJLD-03 The project coordinator may not be a member of the Academy, The Young Academy or the 
+Society of Arts and may not have a part-time or other appointment at an Academy institute. 
+PRJLD-04 The project coordinator must have an 0.2 FTE involvement at the very least for the entire 
+duration of the project. 
+PRJLD-05 The project coordinator must have demonstrable experience in connecting various knowledge 
+networks, both in the Netherlands and in its former colonies. 
+PRJLD-06 The project coordinator will be responsible for: 
+- the research quality and integrity of the investigation 
+- timely completion of the activities described in the research plan 
+- financial accountability for the investigation 
+- communication with the client as the main contact person 
+- the interim and final reports. 
+ 
+ 
+2.4 RESEARCH TEAM 
+No. Requirement 
+TEAM-01 Only proposals that cover the entire research brief will be considered. 
+TEAM-02 The investigation may be carried out by a research team whose members are all affiliated with 
+a single organisation, or by a team whose members are affiliated with multiple different 
+organisations. Research teams may include self-employed individuals. 
+ 
+ 
+TEAM-03 For reasons of research independence, Academy members, members of The Young Academy, 
+members of the Society of Arts, and researchers with a part-time or other appointment at an 
+Academy institute are excluded from the research team. The team may, of course, consult 
+experts available within the Academy organisation.   
+4 
+ 
+TEAM-04 The team will represent a variety of different conceivable perspectives on investigating the 
+Academy's colonial past. 
+TEAM-05 In accordance with the Academy’s Guidelines for Historical-Scholarly Contract Research 
+(2007) (see Appendix 4 of this tender), the contractor will be responsible for arranging 
+supervision for the investigation. In its proposal, the research team must suggest a guidance 
+committee to serve as an external scholarly sounding board for the team. 
+2.5 COMMUNICATION AND PUBLICATION  
+ 
+No. Requirement 
+COM-01 Research results or other statements will not be made public without prior consultation between 
+Contractor and Client. 
+COM-02 Contractor will cooperate in the preparation of a communication plan by the Academy and 
+adhere to this plan. 
+COM-03 The Project Coordinator will be the designated contact person for the Academy before, during 
+and after the investigation. In their absence, a single individual must be available as their 
+designated substitute. 
+COM-04 The project coordinator will submit a report (of up to four pages) every six months regarding 
+the progress of the research project. The report should cover: 
+- a report on the work 
+- a financial report 
+- any problems encountered or anticipated. 
+COM-05 Pursuant to the Guidelines for Historical-Scholarly Contract Research (2007) (see Appendix 
+4), all publications will report the authors, client, contractor, and members of the guidance 
+committee. 
+COM-06 Scholarly research results will be made public, with Client observing a publication right term 
+of 12 months. After expiry of this term, the publication right will revert to Contractor. 
+COM-07 The results of the investigation will be published only after consultation between Client and 
+Contractor. Upon completing the investigation, the authors will have the right to present their 
+research results to the public and to reuse them in new scholarly research. 
+COM-08 The reports must be written in Dutch. Contributions by local knowledge networks in another 
+language should be accompanied by a translation into Dutch. 
+  
+5 
+ 
+COM-09 Consultations between the research team (or its delegates) and the contact working group to be 
+established by the Academy will take place at least twice a year. 
+ 
+ 
+2.6 PRICES & INVOICING 
+No. Requirement 
+PRY-01 Tenderer will divide any tender fee paid fairly among all the parties that have endeavoured to 
+arrive at the tender. Client may request a specification of this. 
+PRY-02 Contractor will not charge any costs other than or in addition to those listed on the price sheet 
+submitted with its Tender. 
+PRY-03 A separate invoice will be submitted for each milestone: 
+1. Invoice for Tender Fee 
+2. 30% upon contract award 
+3. 10% upon receipt of first interim report 
+4. 10% upon receipt of second interim report 
+5. 10% upon receipt of third interim report 
+6. 10% upon receipt of fourth interim report 
+7. 10% upon receipt of fifth interim report 
+8. 10% upon receipt of final report 
+9. 10% after acceptance and completion 
+PRY-04 Contractor will submit invoices in PDF format to: facturen.financien@knaw.nl. A PDF will 
+consist of no more than one invoice. 
+ 
+Contractor will ensure that all invoices related to the Contract are administered on Contractor’s 
+behalf. Contracting Party will only accept invoices from Contractor, not from third parties. 
+PRY-05 Invoices must comply with statutory requirements and include at least the following 
+information: 
+o Contractor’s name 
+o Contractor’s address 
+o Attn.: Forum, Advies en Onderzoek 
+o Contractor’s VAT number 
+o Contractor’s Chamber of Commerce number 
+o Unique sequence number 
+o Date on which invoice was drawn up 
+o Description of milestone 
+o Amount (in €) excluding VAT per service rendered 
+o VAT rate (in %) per service rendered 
+o VAT amount (in €) per service rendered 
+o Total amount (in €) excluding VAT 
+o Total VAT amount (in €)
+
+=== Document: nota van inlichtingen 1 ===
+BIJLAGE 1 – VRAGENFORMULIER
+Naam Aanbesteding Onderzoek KoloniaalVverleden KNAW
+Datum Vrijdag, 7 februari 2025
+30
+Nr.
+Doc.
+Par.
+Nr. Doc. Par. Vraag/Opmerking Antwoord
+1 B6 Prijscomponen
+t overig
+Indien er sprake is van overhead en deze binnen een organisatie doorgaans wordt 
+berekend aan de hand van een vast percentage, is het toegestaan om dit % toe te 
+passen?
+Het is aan Inschrijver hoe deze de overhead inzichtelijk maakt of calculeert. Dat mag een percentage zijn, vast bedrag, etc.. Zo lang het voor 
+Opdrachtgever maar transparant is en binnen de kaders van het drempelbedrag blijft. 
+2 B6 Prijscomponen
+t overig
+De regel 42 - onvoorzien bevat een opmerkingen over een vast %. Dit is mogelijk een 
+suggestie/advies. Dient deze verantwoord te worden op basis van werkelijke kosten 
+(bv meer uren dan verwacht)?
+Dit commentaar kan genegeerd worden. Een nieuwe versie van het prijzenblad wordt toegevoegd
+3 B6 Kolom D Kolom D geeft geen % weer, maar EUR. Aangepast in nieuwe versie van het prijzenblad
+4 B6 Kolom E en F
+Alleen de gele velden dienen te worden ingevuld. De witte velden in kolommen E en F 
+en ook de totaal inschrijfprijs (cel F44) blijven echter leeg. De formules ontbreken.
+Formules toegevoegd aan nieuwe versie van het prijzenblad
+5
+BD/C OvK / AIV 
+KNAW /B8
+2.11, ALG-05 In het BD (artikel 2.11) en B1 worden de ARVODI voorwaarden (B8) onverkort van 
+toepassing verklaard. In B7, conceptovereenkomst Diensten wordt echter aangegeven 
+dat uitsluitend de Algemene Inkoopvoorwarden van de KNAW 2016, kenmerk 
+JZ/AV.01 van toepassing is. Deze algemene inkoopvoorwaarden zijn niet als bijlage 
+bijgevoegd bij de documenten op TenderNed. Zij zijn wel te vinden op de KNAW 
+website en niet gelijk aan ARVODI 2018. In het programma van eisen impliceert ALG-
+05 dat de Algemene Inkoopvoorwaarden KNAW, én ARVODI 2018 van toepassing zijn. 
+Deze zijn echter onderling op sommige punten tegenstrijdig. In het BD (artikel 2.7) 
+wordt in de volgorde van prevalentie alleen de KNAW Algemene voorwaarden 
+genoemd, niet de ARVODI voorwaarden. Kunt u aangeven welke inkoopvoorwaarden 
+van toepassing zijn, en indien beide, welke prevaleert bij tegenstrijdigheden?
+Alleen de ARVODI 2018 is van toepassing. Andere inkoopvoorwaarden zijn niet van toepassing. Overal waar in het BD, PvE of Concept Overeenkomst  
+"Algemene inkoopvoorwaarden", of vergelijkbaar, staat, moet dit gelezen worden als ARVODI 2018. 
+6 C OvK / AIV KNAW / 
+B8
+In de conceptovereenkomst staat dat de Richtlijnen voor historisch onderzoek in 
+opdracht (KNAW, 2007) de basis zal vormen voor afspraken omtrent intellectueel 
+eigendom. Echter, in de Richtlijnen is niets opgenomen over Intellectueel Eigendom. 
+De Richtlijnen en het PvE zijn in tegenspraak met de ARVODI voorwaarden en de 
+KNAW algemene inkoopvoorwaarden (e.g. ARVODI artikel 13.3 en KNAW algemene 
+inkoopvoorwarden artikel 25, spreken de Richtlijn artikel 3 en PvE COM-06/07 tegen). 
+Kunt u specifiek aangeven wat de uitgangspunten zullen zijn omtrent afspraken over: 
+1) publicatievrijheid opdrachtnemer; 2) intellectueel eigendom van de resultaten
+1. Artikel 13.3 van de ARVODI is niet van toepassing
+2. Er zijn geen andere inkoopvoorwaarden dan de ARVODI van toepassing en daarmee artikel 25 van Inkoopvoorwaarden KNAW ook niet.
+3. Het PvE (COM-6 + COM-7) is hier leidend.
+Aangaande IE rechten is een Academic Licence van toepassing:
+Academische Licentie is een niet-exclusieve, niet-overdraagbare, niet-(sub)licentieerbare, eeuwigdurende, gratis, wereldwijde, onherroepelijke licentie 
+om het (Gemeenschappelijke) Resultaat c.q. de Uitvinding te gebruiken voor niet-commercieel wetenschappelijk onderzoek en educatieve doeleinden.
+Publicatie:
+Een schriftelijk, digitale of mondelinge wijze van openbaar maken van informatie op een in de wetenschap gebruikelijke en aanvaarde wijze, zoals door 
+middel van een wetenschappelijk artikel, congresbijdrage, posterpresentaties, abstract en college.
+1.1.	 Met betrekking tot het Resultaat (onderzoeksresultaten en publicatie) verleent opdrachtgever aan opdrachtnemer een Academische Licentie. 
+Publicatie:
+1.2.	 Onverminderd en met in achtneming van het bepaalde in artikel 1.1, mag zowel opdrachtgever als opdrachtnemer het Resultaat gebruiken ten 
+behoeve van een Publicatie. 
+1.3.	 Van dit recht tot Publicatie zal geen gebruik worden gemaakt dan nadat overleg is gevoerd tussen de Opdrachtgever en Opdrachtnemer over 
+inhoud en tijdstip van voorgenomen Publicatie, met dien verstande dat Opdrachtgever en Opdrachtnemer de voorgenomen Publicatie tot maximaal 12 
+maanden kunnen doen uitstellen, om:
+a.	 IE-rechten daarop te vestigen (waaronder het indienen voor een octrooi aanvrage voor de daaraan gerelateerde Uitvinding, voor zover die 
+Publicatie daarvoor schadelijk zou kunnen zijn); en/of, 
+b.	 Vertrouwelijke Informatie te verwijderen. 
+Aantal vragen
+Legenda Kolommen
+Doorlopende nummering vraag/opmerking
+Op welk document de vraag/opmerking betrekking heeft (BD = Beschrijvend document; PvE = Programma van Eisen; AIV KNAW = Algemene Inkoopvoorwaarden KNAW; C OvK =  Concept Overeenkomst; B(nummer) = andere bijlage)
+Op welke paragraaf/sectie/artikel/pagina de vraag betrekking heeft
+
+7 C OvK Art. 4.5a
+De factuur bevat minimaal opgave van het aantal werkelijk en noodzakelijk bestede 
+uren, alsmede de data/periode waarop/waarin een en ander is verricht, of een korte 
+omschrijving van de verrichte prestatie. Betekent dit dat er geen verdere specificatie 
+hoeft te worden gegeven m.b.t. de kosten ondergebracht onder de prijscomponent 
+overig? 
+Dit artikel gaat over de informatie die minimaal op de factuur vermeld moet worden. Kosten zoals bijvoorbeeld overhead, communicatie en onvoorzien 
+worden op de factuur als zodanig vermeld
+Middels bijlage 6 vragen we alle kostenelementen uit te werken. Kostenelementen die hier niet zijn uitgewerkt, kunnen niet gefactureerd worden.
+8 BD 4,5
+In BD artikel 4.5 staat dat Iedere combinant overlegt [...] een ondertekend PvE, Echter, 
+noch in BD artikel 2.6 noch in de checklist staat een ondertekend PvE als in te leveren 
+document. De enige te ondertekenen documenten zijn het IF, het UEA en het 
+Prijzenblad. Kunt u aangeven welke documenten door elke combinant ondertekent 
+dienen te worden, en in het geval 1) het IF door elke combinant getekend dient te 
+worden, wat dan ingevuld moet worden bij 'projectleider' van combinanten die geen 
+penvoerder zijn: de projectleider van de penvoerder, of het teamlid van de combinant 
+en 2) het Prijzenblad door elke combinant getekend dient te worden, of elke 
+combinant een separaat document dient in te leveren, of één gezamenlijk Prijzenblad 
+van alle combinanten gemaakt dient te worden?
+In het geval van een combinatie:
+Projectleider/ penvoerder levert de volgende ondertekende documenten in:
+- UEA
+- IF
+- Prijzenblad
+Overige combinanten:
+- UEA
+- IF (zelfstandig ingevuld of samen met Projectleider)
+Het Prijzenblad wordt alleen ingediend door Projectleider/ penvoerder.
+In geval van een Combinatie, schrijft alleen de Projectleider in, maar leveren de Combinanten, via de inschrijving van de Projectleider, het UEA en IF 
+aan.
+9 B11
+Over het algemeen treedt de universiteit nooit op als  verwerker, omdat dat betekent 
+dat wij als onderzoekers een afgebakende taak doet voor de 
+verwerkersverantwoordelijke, wat vaak niet passend is voor de opzet van het 
+onderzoek waarbij  onderzoekers bijvoorbeeld zelf (mede) de methode opstellen, data 
+verzamelen, analyseren en/of over de bevindingen publiceren. Is co-
+verwerkingsverantwoordelijke (KNAW en de universiteit) mogelijk?
+Bij twee partijen die gezamenlijk het doel vaststellen en ook gezamenlijk het onderzoek uitvoeren, kan sprake zijn van twee 
+verwerkingsverantwoordelijken. In deze situatie is dat niet van toepassing. De KNAW heeft het doel bepaald voor de gegevensverwerking, namelijk 
+'onderzoek doen naar kolonialisatieverleden en slavernijgeschiedenis'. De middelen voor dit doel zijn ook door de KNAW vastgesteld, namelijk het 
+uitbesteden van het onderzoek aan een externe partij, de KNAW heeft het budget vastgesteld en zal ook door middel van de aanbestedingsprocedure 
+en het beoordelen van de onderzoeksvoorstellen uiteindelijk verantwoordelijk zijn voor het bepalen van de categorieën van persoonsgegevens die 
+verwerkt worden. Dit maakt dat de KNAW kwalificeert als verwerkingsverantwoordelijke en de opdrachtnemer kwalificeert als verwerker. 
+10 TN504746-EF16 2.1.3 In dit document wordt Exclusief BTW. genoemd, inconsistent met Bijlage 3  
+Onderzoeksopdracht Koloniaal Verleden, par. 7 financien waar staat Inclusief BTW 
+Het drempelbedrag is € 1.100.000,- INCLUSIEF overhead, communicatie, onvoorzien én BTW.
+11 B2/B1
+Nummers van bijlagen zijn niet consistent en scheppen verwarring, bijvoorbeeld in het 
+vragendocument dat staat genummerd als Bijlage 2 is de titel in het document 'Bijlage 
+1'.
+De titel van bijlage 2 moet zijn: Bijlage 2 - Vragenformulier. Bijlagen worden niet vervangen.
+12 B3 1.1. Is de inhoud van de Engelse of Nederlandse tekst leidend, want de inhoud geschreven 
+in  de verschillende talen wijkt een beetje af.
+De Nederlandse tekst is leidend
+13 B8 4.1
+Een duidelijke definitie van wat acceptatie precies inhoudt, ontbreekt. Dit kan leiden 
+tot interpretatieverschillen en mogelijke discussies over de vraag wanneer de 
+resultaten formeel zijn goedgekeurd. Ook merken wij op dat het niet acceptabel is dat 
+de opdrachtgever na het indienen van de resultaten nog inhoudelijke wijzigingen kan 
+eisen. Is een nadere toelichting en/of aanpassing van dit artikel mogelijk?
+Opdrachtgever verwacht een wetenschappelijke kwaliteit van de resultaten, en zal de resultaten in dat licht beoordelen. Dat uitgangspunt, i.c.m. de 
+periodieke gesprekken en voortgangsrapportages tussen Opdrachtgever en Opdrachtnemer zou voldoende moeten borgen dat het resultaat leidt tot 
+acceptatie. 
+Opdrachtgever hecht grote waarde aan wetenschappelijke integriteit. Acceptatie van de resultaten zal dan altijd in lijn zijn met het borgen van 
+wetenschappelijke integriteit. 
+14 B8 13.5
+Dit artikel vermeldt een boetebeding bij schending van de geheimhoudingsplicht. Dat 
+beding is niet in lijn met de richtlijnen van de universiteit. Kan dit element uit de 
+ARVODI worden verwijderd?  
+Artikel 13.5 komt te vervallen
+15 B8 21
+Is het mogelijk een extra lid toe te voegen aan artikel 21 waarin de opdrachtgever de 
+opdrachtnemer vrijwaart tegen alle mogelijke aanspraken van derden die voortvloeien 
+uit het gebruik van de geleverde resultaten? Bijvoorbeeld: "21.7. Opdrachtgever 
+vrijwaart opdrachtnemer voor alle aanspraken van derden in verband met het gebruik 
+van de uit de Diensten verkregen resultaten."
+Nee wij kunnen niet een dergelijke bepaling opnemen.
+16 B8 24.1
+Is het mogelijk de intellectuele eigendomsrechten verder te verduidelijken? Dit kan 
+bijvoorbeeld door de toevoeging aan artikel 24.1: "Opdrachtnemer is te allen tijde 
+gerechtigd de resultaten van de verrichte Diensten te gebruiken voor niet-
+commerciële onderzoeks- en onderwijsdoeleinden." Dit stelt de opdrachtnemer in 
+staat om de resultaten in academische contexten te gebruiken zonder beperkingen
+Zie antwoord op vraag 6
+17 B8 24
+Is het mogelijk artikel aan te vullen met de volgende tekstsuggestie: "Opdrachtnemer 
+is te allen tijde gerechtigd over de resultaten van de verrichte Diensten te publiceren. 
+Opdrachtnemer stelt Opdrachtgever in kennis van elke voorgenomen publicatie over 
+het onderzoek (de “Publicatiekennisgeving”). Opdrachtgever kan binnen dertig (30) 
+dagen na de datum van de Publicatiekennisgeving door het verzenden van een 
+schriftelijk opschorting verzoek opschorting van de publicatie verlangen. 
+Opdrachtgever kan slechts wijzigingen verlangen die geen afbreuk doen aan de 
+wetenschappelijke integriteit van Opdrachtnemer. Indien Opdrachtnemer geen 
+opschorting verzoek heeft ontvangen binnen dertig (30) dagen na de datum van de 
+Publicatiekennisgeving, dan is zij vrij te publiceren." Deze wijziging zou de 
+wetenschappelijke vrijheid van de opdrachtnemer waarborgen en tegelijkertijd 
+voldoende bescherming bieden voor de opdrachtgever.
+Zie antwoord op vraag 6
+18 B8 28.2
+De reikwijdte van dit artikel is zeer breed en lastig uitvoerbaar in grotere organisaties. 
+Is het mogelijk de bepaling te beperken tot medewerkers die direct betrokken zijn bij 
+de specifieke onderzoeksgroep en werkzaamheden in het kader van deze opdracht. Dit 
+maakt het artikel realistischer en werkbaarder. De voorgestelde tekst zou als volgt 
+kunnen luiden: "28.2. Indien blijkt dat een lid van het Personeel van de Opdrachtgever 
+een al dan niet betaalde nevenfunctie vervult bij onderzoeksgroep [X] van de 
+organisatie [Y], of ten tijde van de onderhandelingen over de totstandkoming van de 
+Overeenkomst heeft vervuld, zonder dat de Opdrachtgever daarover vóór het sluiten 
+van de Overeenkomst is ingelicht, kan de Opdrachtgever de Overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang ontbinden, zonder tot enige 
+schadevergoeding te zijn gehouden."
+Dit is geregeld middels de defnities van "Personeel (Artikel 1.8 en 1.9 ARVODI 2018). Deze dragen deze beperking al in zich (personen die bij de 
+Overeenkomst betrokken zijn).
+19 PvE PRJLD-03
+Dit artikel stelt: "De projectleider is geen lid van de KNAW, De Jonge Akademie, of de 
+Akademie van Kunsten, en heeft geen (deeltijd-)aanstelling bij een KNAW-instituut." 
+Mag een beoogd projectleider wel op een andere manier in een onbezoldigde relatie 
+staan tot een KNAW instituut zonder dat er dus sprake is van een dienstverband of 
+gezagsverhouding (bijvoorbeeld als fellow of als lid van een adviesraad)?
+In beginsel mag de projectleider geen relatie met de KNAW hebben. Deze moet vrij zijn van alle schijn van beinvloedbaarheid, betrokkenheid of 
+vooringenomenheid.
+Opdrachtgever beseft zich dat veel wetenschappers en onderzoekers op dit onderwerp enige raakvlakken of interactie hebben met Opdrachtgever. 
+Mocht gegadigde twijfel hebben over de relatie van de projectleider, in welke rol dan ook, met de KNAW, of twijfel hebben over de relatie van 
+teamleden in dit kader, dan kan deze relatie beschreven worden en aan de KNAW voorgelegd worden. 
+Dit kan middels een separaat "nieuw bericht" in TenderNed, met het verzoek deze z.s.m. te laten beoordelen, zodat Opdrachtgever zo ruim mogelijk 
+voor de inschrijvingstermijn een terugkoppeling kan geven of Opdrachtgever voldoende onafhanelijkheid van de projectleider of teamleden ziet. 
+Hiervoor gelden dezelfde aangepaste termijnen als voor Vragenronde 2. 
+20 B3 4,2
+Wat zijn de verwachtingen t.a.v. het product ‘gericht op het brede publiek’. In hoeverre 
+moet dit worden uitgewerkt? Komen de kosten van de uitvoering van dit product ook 
+ten laste van de begroting van de onderzoeksopdracht?  
+De verwachting is dat er een product voor een breed publiek volledig is uitgewerkt en binnen de begroting past. Het hoeft geen groot product te zijn en 
+kan vervlochten zijn met het wetenschappelijke werk, maar we zien graag dat (delen van) de onderzoeksresultaten beschikbaar zijn voor een divers 
+publiek.
+21 Algemeen
+Hoe ziet de KNAW haar maatschappelijke verantwoordelijkheid in dit onderzoek? In 
+dat kader onder andere de volgende vraag: het onderzoeksbudget en de 
+opdrachtformulering zijn nu zo opgesteld  dat dit een opdracht voor en over de KNAW 
+is(we onderzoeken voor de KNAW (de doorwerking van) het verleden van de KNAW). 
+Daarmee moet er met BTW ingeschreven worden; op 1,1 miljoen betekent dat 
+ongeveer twee ton niet inzetbaar voor onderzoeksdoeleinden.  Alleen de 
+belastingdienst is daarmee gediend; het onderzoek zelf (de opdrachtgever en de 
+opdrachtnemer) en de Nederlandese samenleving krijgen juist minder kennis en 
+refelectiekansen. Is het denkbaar dat de KNAW deze opdracht alsnog als subsidie 
+uitzet , en op deze manier meer mogelijkheden schept om haar maatschappelijke 
+verantwoordelijkheid vorm te geven. Er wordt nu wel gesproken over de waarde van 
+het onderzoek voor de maatschappij in het algemeen Dat kan meer concrete handen en 
+voeten krijgen als dit onderzoek als subsidie wordt uitgezet.  
+De aard van de opdracht en de rechtverhoudingen, maken het onmogelijk de opdracht als subsidie te kwalificeren. O.a. omdat:
+1. Er is sprake van een tweezijdige handeling: aanbod en aanvaarding, wederkerigheid. In geval van subsidies is er in beginsel geen prestatieplicht
+2. De resultaten van het onderzoek zijn voor Opdrachtgever. Niet enkel in het "algemeen belang", ondanks dat Opdrachtgever de resultaten wel 
+beschikbaar wil maken voor derden.
+3. De Opdrachtgever heeft het initiatief genomen en de behoefte geformuleerd en gekaderd. Bij subsidies ligt het initiatief bij de aanvragen die de 
+behoefte aan een subsidie moet aantonen.
+De KNAW verstrekt geen subsidies. Als subsidies via bijvoorbeeld NWO zouden worden verstrekt dan sluit dat bij voorbaat marktpartijen uit die 
+volgens de NWO-normen niet subsidiabel zijn. Deze suggestie wordt gemaakt vanuit de veronderstelling dat slechts partijen uit kennisinstellingen 
+kunnen deelnemen.  
+22 BD 6.2.1 p.27-28
+Aangaande de vormvereisten aan de inschrijving: er is sprake van 
+subgunningscriteria, een inhoudsopgave van een compleet onderzoeksvoorstel, een 
+werkplan, een onderzoeksplan en een plan van aanpak.  Het is ons niet altijd even 
+duidelijk wat de KNAW onder wat verstaat. In dit kader: is het de bedoeling dat wij de 
+inschrijving structureren langs de lijnen van de subgunningscriteria
+, of  langs de lijnen 
+van de inhoudsopgave voor een compleet voorstel ?  Als dat laaste het geval is wat heeft 
+de KNAW voor ogen bij een 'werkplan'?  Is het werkplan de paragraaf over planning, 
+consortium en rolverdeling? Of is het werkplan een uitgewerkt inhoudelijk 
+onderzoeksvoorstel?  In beide gevallen  willen wij graag weten hoeveel woorden het 
+werkplan mag bevatten
+Het is de bedoeling dat inschrijvingen gestructureerd zijn volgens de lijn van de inhoudsopgave van een compleet onderzoeksvoorstel.
+Onder ‘werkplan’ wordt verstaan planning, consortium en rolverdeling. Max 700 woorden.
+23 BD 6.2.1. p.27
+Aaangaande de vormvereisten aan een compleet onderzoeksvoorstel:  aan de eerste 
+drie items daar is een maximaal aantal woorden gekoppeld. Bij de volgende items 
+ontbreekt deze richting. Kunt u ons vertellen hoeveel pagina's/ of woorden  u 
+verwacht in een een compleet onderzoeksvoorstel:  idealiter/minimaal/ maximaal ?
+Het aantal teamleden dat aan het onderzoek meedoet, zal het aantal pagina's van het complete onderzoeksvoorstel beïnvloeden. Om die reden stellen 
+we geen minimum- of maximumaantal pagina’s vast. Betreft de volgende punten kunnen we de volgende richtlijnen meegeven:                                                                                                                                                                                                                                                                                                                                                                                      
+- Werkplan en beoogde eindproducten: max 300 woorden;                                                                                                                                                                                                                                                                                            
+-  Wijze waarop expertise van KNAW-leden en onderzoekers van KNAW-instituten zal worden verkregen: max 500 woorden;                                                                    
+-  Maatschappelijke relevantie: max 500 worden;                                                                                                                                                                                      -  
+Risicoanalyse en mogelijke maatregelen om risico's zoveel mogelijk in te perken: max 500 woorden;                                                                                              -  
+Invulling van communicatie en interactie met de Opdrachtgever: max 300 woorden                                                                                                                                                   
+24 BD 1.7 p.12
+Nu het publiceren van de aanbesteding op TenderNed niet woensdag 18 december 
+heeft plaatsgevonden, maar  dinsdag 7 januari willen wij vragen of het mogelijk is om 
+de planning verder ook op te schuiven. Kan de uiterste datum voor het indienen van 
+de inschrijvingen met 3 weken verlaat worden? Dat wil zeggen: van 30 april 2025 naar  
+dinsdag 20 mei 2025? Dat zou inschrijvers die een op de opdracht gericht consortium 
+aan het vormen zijn, de oorspronkelijke gegeven tijd (terug)geven om aan vorm en 
+inhoud te werken. dit komt de kwaliteit van de voorstellen ten goede.
+De huidige deadline heeft rekening gehouden met een extra maand tov de planning die tijdens de marktconsultatie is voorgelegd. 
+KNAW was voornemens de publicatie in december te doen. Dit is ook gedaan. Echter is door een technische storing bij TenderNed de publicatie niet 
+verschenen op het platform en TED. 
+Opdrachtgever is van mening dat er voldoende tijd is om een inschrijving te doen. Alle gegadigden hebben kennis kunnen nemen van dezelfde 
+infomatie op hetzelfde moment, waardoor alle gegadigden gelijk worden behandeld.
+Wegens de planning van het beoordelingsproces kan de inschrijfdeadline uiterlijk verlengd worden tot dinsdag 6 mei 2025, 9.00 uur. Dit zal 
+gecorrigeerd worden in de publicatie. 
+I.v.m. de voorjaarsvakantie wordt de deadline voor het indienen van vragen voor vragenronde 2 (uitsluitend vervolgvragen op vragenronde 1) 
+verlengd tot 28 februari  21 00 uur  De beantwoording daarvan schuift door naar uiterlijk 7 maart
+25 BD 6.2.3. p.27-28
+Ten aanzien van het verwachte/beoogde projectleiderschap: wij krijgen de indruk dat 
+de KNAW  voor deze opdracht aanstuurt op 1 projectleider. Er staat steeds 
+projectleider (enekelvoud) Wij kunnen ons voorstellen dat een gedeeld 
+projectleiderschap een meerwaarde kan hebben, zowel in verband met het 
+interdisciplinaire karakter van het gevraagde voorstel, als in verband met de 
+aanwezigheid van witte wetenschappers en wetenschappers van kleur (zwarte 
+aanwezigheid) in team en projectleiderschap.  Is een gedeeld projectleiderschap (van 2 
+personen) aanvaardbaar voor de KNAW in deze opdracht? 
+Een gedeeld projectleiderschap is aanvaardbaar zolang deze keuze gemotiveerd is, én zolang beide projectleiders voldoen aan de eisen zoals vermeld 
+in het PvE onder 2.3 én zolang het duidelijk is wie van hen eindverantwoordelijk is voor:    
+- de wetenschappelijke kwaliteit en integriteit van het onderzoek 
+- de tijdige uitvoering van de in het onderzoeksplan beschreven activiteiten
+- de financiële verantwoording van het onderzoek
+- de communicatie met opdrachtgever, als eerste aanspreekpunt
+- tussentijdse en eind rapportage 
+In en dergelijk geval is er wel één Opdrachtnemer
+26 B6 	 Bijlage 6 - Prijzenblad is een Excel zonder formules en berekeningen. Moeten we die 
+zelf toevoegen of is per abuis een EXCEL zonder formules verstrekt?
+Aangepast in nieuwe versie van het prijzenblad
+27 B6
+	 In Bijlage 6 - Prijzenblad wordt onderscheid gemaakt in 'Prijscomponent uren' en 
+'Prijscomponent overig'. Bij overig staat de categorie 'Overhead'. Dit wekt de indruk 
+dat we de overhead op onze integrale uurtarieven apart moeten laten zien op het 
+prijzenblad. Liever maken we gebruik van een integraal uurtarief. Is dit akkoord?
+Het is aan Inschrijver hoe deze de overhead inzichtelijk maakt of calculeert. Dat mag een percentage zijn, vast bedrag, etc.. Zo lang het voor 
+Opdrachtgever maar transparant is en binnen de kaders van het drempelbedrag blijft. 
+28 B3 p.2
+In hoeverre is het de bedoeling om ook het koloiale verleden van de bij de KNAW 
+aangesloten instituten bij het onderzoek te betrekken? In bijlage 3 staan verschillende 
+thema's benoemd die onderzoekbaar zijn bij de KNAW als koepelorganisatie, als 
+genootschap van wetenschappers en instituten, maar misschien kunt u iets explicieter 
+zijn over het niveau van uw belangstellingsgebied en de blans tussen deze gebieden: 
+koelpelorganisatie, instituten, individuen?
+Deze passage uit de onderzoeksopdracht is ons uitgangspunt: "Het onderzoek dient een balans te realiseren tussen het onderzoeken van 
+de concrete rol van de KNAW in het wetenschapssysteem en de activiteiten van het genootschap en instituten enerzijds; en de institutionele rol van de 
+KNAW binnen wetenschap, economie en politiek anderzijds." Daarbij zijn we ons ervan bewust dat de beschikbare tijd en middelen het niet mogelijk 
+maken om het volledige verleden van elk KNAW-instituut volledig uit te pluizen. Vandaar onze voorkeur voor het uitwerken van een aantal concrete 
+casussen (zie ook antwoord op vraag 30).
+29 B3 p.2
+In bijlage 3 wordt gesproken over de verhouding van de KNAW tot slavernij en 
+kolonialisme. Hoewel slavernij en koloniale systemen vaak altijd aan elkaar 
+gerelateerd zijn, is er geen 1 op 1 relatie, en staan de begrippen onderzoekstechnisch 
+voor andere uitdagingen. Er zal vast verschil zijn tussen een geschiedenis van de 
+KNAW die ingaat op de verhouding tot slavernij en een geschiedenis van de KNAW die 
+ingaat op haar verhouding met de (voormalig) koloniën. Hoe ziet opdrachtgever deze 
+kwestie? van welke verhouding tussen slavernij en kolonialisme gaat opdrachtgever 
+uit? en als er gekozen moet worden tussen  een focus op het één of het ander, waar 
+gaat de voorkeur dan naar uit?
+Deze passage uit de onderzoeksopdracht is ons uitgangspunt: "Het onderzoek dient uit te gaan van een breed begrip van kolonialisme, waarbij 
+netwerken van connecties, kennis, en machtsrelaties centraal staan. Door het onderzoek te richten op het koloniale verleden wordt de houding van de 
+KNAW ten opzichte van slavernij als het ware vanzelf zichtbaar, en wordt er recht gedaan aan de complexiteit van het kolonialisme in haar 
+verschillende vormen." maw: als er gekozen moet worden, dan gaat de voorkeur gaat uit naar een geschiedenis van de KNAW die ingaat op haar 
+verhouding met de (voormalige) koloniën. 
+30 B3
+Binnen het gegeven budget  is het niet mogelijk om heel het verleden uit te gaan 
+pluizen. in hoeverre behoort de vraag naar de financieringsgeschiedenis van de KNAW 
+tot de onmisbare thema's/must haves voor de opdrachtgever? Maw. Dient 
+opdrachtnemer de rol van slavernijbaten of koloniale baten in de ontwikkeling van de 
+KNAW en haar instituten, (perse) te onderzoeken of niet? 
+Deze passage uit de onderzoeksopdracht is ons uitgangspunt: 'Voor de tastbaarheid van het onderzoek, en om de resultaten van het onderzoek tot 
+leven te laten komen, verdient het aanbeveling een aantal concrete casussen uit te werken.' De financieringsgeschiedenis van de KNAW behoort 
+mogelijk tot een concrete casus als daar aanwijzingen voor zijn, maar het inzicht of dit een relevante casus is, laten we aan de onderzoekers over.
+
+=== Document: nota van inlichtingen 2 ===
+Nota van Inlichtingen 2
+Naam Aanbesteding Openbare Europese Aanbesteding Onderzoek Koloniaal Verleden KNAW
+Datum Dinsdag 4 maart 2025
+5
+Nr.
+Doc.
+Par.
+Nr. Doc. Par. Vraag/Opmerking Antwoord
+1
+nota van 
+inlichtingen 1 
+(antwoorden op 
+eerste vragenronde  
+dd 7 feb. 2025)
+antwoord op 
+vraag  nr. 10
+toch nog even voor de zekerheid: Vraag  10 in de nota van inlichtingen zegt: 
+Het drempelbedrag is € 1.100.000,- INCLUSIEF overhead, communicatie, 
+onvoorzien én BTW.
+Dat is strijdig met de gloednieuwe TN504746 - EF16, waar op twee plekken nog 
+steeds het tegenovergestelde staat:
+2.1.3 Waarde Geraamde waarde exclusief btw: 1 100 000Euro
+5.1.5 Waarde Geraamde waarde exclusief btw: 1 100 000Euro Vraag: het is en blijft 
+1.100.000 inclusief? ondanks 2.1.3 en 5.1.5?
+Publicatie op Tenderned wordt aangepast naar € 909.090,- excl BTW, uitgaande van 21% BTW. U dient 
+altijd te rekenen  1.100.00 Euro INCLUSIEF BTW, omdat mogelijk verschillende BTW percentages van 
+toepassing zijn op onderdelen. 
+Opdrachtgever heeft een totaalbedrag beschikbaar van € 1.100.000,- voor de gehele opdracht INCLUSIEF 
+alle overhead, BTW, etc.
+2
+nota van 
+inlichtingen 1 
+(antwoorden op 
+eerste vragenronde  
+dd 7 feb. 2025)
+antwoord op 
+vraag nr. 23
+Het aantal teamleden dat aan het onderzoek meedoet, zal het aantal pagina's van 
+het complete onderzoeksvoorstel beïnvloeden. Om die reden stellen we geen 
+minimum- of maximumaantal pagina’s vast. Vraag: kunnen we ook een lijst van 
+referenties toevoegen aan het proposal? worden die dan meegeteld in het max. 
+aantal woorden per sectie? of is het beter deze in een aparte bijlage toe te voegen. 
+Eventuele referenties kunnen toegevoegd worden middels het formulier in bijlage 13. Deze is bij de 
+bekendmaking van NvI 2 toegevoegd aan de publicatie op Tenderned. er geldt geen maximum aantal 
+referenties. Eventuele referenties wegen niet mee in de beoordeling van de inschrijving en dienen enkel ter 
+ondersteuning van de inschrijving. Alleen informatie die is verstrekt in SGC1 t/m SGC3 worden beoordeeld. 
+3
+nota van 
+inlichtingen 1 
+(antwoorden op 
+eerste vragenronde  
+dd 7 feb. 2025)
+antwoord op 
+vraag nr. 24
+Wegens de planning van het beoordelingsproces kan de inschrijfdeadline uiterlijk 
+verlengd worden tot dinsdag 6 mei 2025, 9.00 uur. Dit zal  gecorrigeerd worden in 
+de publicatie. Vraag:   verschuift hierdoor ook de datum van de interviews met één 
+week?
+Interviews worden gehouden op woensdag 11 juni 2025. 
+4 BD 6.2.1. p.27
+In de antwoorden op de eerste vragenronde (antwoord vraag 23) spreekt u in 2 
+versies over een maximum aantal woorden voor het werkplan: 700 woorden en 
+300 woorden. Wij nemen aan dat het geheel dat onder de kop werkplan valt 
+maximaal 700 woorden mag zijn. Klopt dat?
+max 700 woorden voor de werkplan is het juiste aantal. 
+5  PvE  PRJLD-03
+Aanvullend op vraag 19 NvI: Wij begrijpen dat projectleider en andere leden van 
+het uitvoerende team niet in dienst magen zijn van de KNAW of een KNAW-
+instituut. Hierbij een aanvullende vraag: mag  de beoogde projectleider lid zijn van 
+de Raad van Advies van een van de KNAW-instituten?
+Aangezien leden van een Raad van Advies een onafhankelijk rol hebben, kunnen ze in aanmerking komen 
+als beoogde projectleider 
+Legenda Kolommen
+Aantal vragen
+Doorlopende nummering vraag/opmerking
+BD = Beschrijvend document; PvE = Programma van Eisen; AIV KNAW = Algemene Inkoopvoorwaarden KNAW; C OvK =  Concept Overeenkomst; B(nummer) = andere bijlage
+Op welke paragraaf/sectie/artikel/pagina de vraag betrekking heeft

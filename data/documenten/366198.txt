@@ -1,0 +1,1192 @@
+=== Document: bijlage 05 - programma van eisen ===
+Bijlage 5 – Programma van Eisen 
+ 
+Algemene eisen 
+1.  Alle communicatie omtrent de dienstverlening dient plaats te vinden in de 
+Nederlandse taal. 
+2.  Opdrachtnemer draagt zorg voor een eindredactie op de documenten die worden 
+opgeleverd. Indien blijkt dat aanpassingen benodigd zijn door een onzorgvuldige 
+eindredactie verzorgt opdrachtnemer deze aanpassingen voor zijn rekening. 
+3.  Opdrachtnemer en het in te zetten personeel van opdrachtnemer dient 
+vertrouwelijk om te gaan met de informatie. 
+ 
+Commerciële eisen 
+4.  De aangeboden prijzen per onderdeel (conform bijlage 4 – Prijzenblad) zijn 
+maximumprijzen. 
+5.  Deprijzen mogen gedurende de looptijd van de overeenkomst niet geïndexeerd 
+worden.  
+ 
+Eisen aan de communicatie 
+6.  Opdrachtnemer stelt een vaste contactpersoon en een vaste vervanger ter 
+beschikking. 
+7.  De vaste contactpersoon is op werkdagen tussen 09:00 en 17:00 uur bereikbaar 
+per mail en telefoon. 
+8.  Tweemaal per jaar levert opdrachtnemer een rapportage op waarin minimaal een 
+update over de voortgang is opgenomen. Het staat Inschrijver vrij om eventuele 
+andere zaken op te nemen in de rapportage.  
+9.  Tweemaal per jaar, na oplevering van de rapportage, vindt een overleg plaats om 
+de dienstverlening te bespreken.  
+ 
+Opdrachtnemer verzorgt de verslaglegging van het overleg. Op verzoek van de 
+opdrachtgever kan dit overleg vaker georganiseerd wordt. 
+ 
+Verantwoordelijkheden opdrachtnemer 
+10.  Opdrachtnemer is verantwoordelijk voor: 
+- Ecologisch onderzoek naar de relevante soorten.   
+- Onderzoeks-data, moet beschikbaar worden gesteld voor de opdrachtgever 
+via GIS-data en naar de NDFF worden ge-exporteert.   
+- SMP , inclusief rapportage, mitigatie- en compensatieplan, monitoringsplan 
+en een management- en administratieplan   
+- Ontheffingsaanvraag, benodigde afstemming met de provincie en het 
+verkrijgen van de ontheffing Wet natuurbescherming   
+- Ondersteuning naar de opdrachtgever bij het opstellen van processen, 
+communicatieplan, administratief systeem en vaststellen doel en ambitie en 
+het tijdig in beeld brengen van benodigde achtergrondinformatie.  
+- Producten zijn taalkundig correct, voldoen aan wetgeving en richtlijnen 
+inclusie en (voor zover relevant) geschikt om zonder toelichting te delen met 
+belanghebbenden. Opdrachtgever krijgt voor alle uitingen enkele weken de 
+tijd voor controle op lokale gevoeligheden en leesbaarheid.  
+- Ondersteunen van opdrachtgever bij bestuurlijk proces, zoals presentatie 
+aan raad/college. 
+ 
+Social return 
+ 
+ 
+11.  De opdrachtnemer gaat akkoord met de bijzondere uitvoeringsvoorwaarde social 
+return van 5% van de opdrachtwaarde. 
+ 
+De opdrachtnemer neemt binnen zeven kalenderdagen na definitieve gunning 
+contact op met de projectleider social return omtrent de invulling van de social 
+return-verplichting.
+
+=== Document: deel a beschrijvend document soortenmanagementplan ===
+1 van 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Commercieel vertrouwelijk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document 
+Europese aanbesteding volgens de openbare procedure 
+voor de uitvoering van een Soortenmanagementplan (SMP) 
+ 
+Zaaknummer 1254084 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 2 van 22 
+ 
+ 
+INHOUDSOPGAVE 
+1. INLEIDING ...................................................................................................................................................... 4 
+1.1 ALGEMEEN ............................................................................................................................................................. 4 
+1.2 BESCHRIJVING VAN DE AANBESTEDENDE DIENST ............................................................................................................. 4 
+1.3 BESCHRIJVING EN DOEL VAN DE AANBESTEDING ............................................................................................................. 6 
+1.3.1. Huidige situatie................................................................................................................................................. 6 
+1.3.2. Gewenste situatie en onderwerp en beschrijving van de overeenkomst ........................................................ 6 
+1.3.3. Wijze van aanbesteding.................................................................................................................................... 8 
+1.3.3.1. Keuze procedure .............................................................................................................................................. 8 
+1.3.3.2. Indeling in percelen .......................................................................................................................................... 8 
+1.4 DUURZAAMHEID ...................................................................................................................................................... 8 
+1.5 SOCIAL RETURN ....................................................................................................................................................... 9 
+1.6 CONTACTPERSONEN ............................................................................................................................................... 10 
+1.7 PLANNING ............................................................................................................................................................ 10 
+2. INSCHRIJVINGSPROCEDURE ......................................................................................................................... 11 
+2.1 INLICHTINGEN ....................................................................................................................................................... 11 
+2.2 WIJZE VAN AANBIEDEN INSCHRIJVING ........................................................................................................................ 11 
+2.3 VOORWAARDEN .................................................................................................................................................... 12 
+3. EISEN AAN DE ONDERNEMING ........................................................................................................................ 13 
+3.1 UITSLUITING EN GESCHIKTHEID ................................................................................................................................. 13 
+3.2 GESCHIKTHEIDSEISEN .............................................................................................................................................. 13 
+3.2.1. Financiële en economische draagkracht: ........................................................................................................... 13 
+3.2.2. Technische- en beroepsbekwaamheid ............................................................................................................... 14 
+3.2.3. Beroepsbevoegdheid .......................................................................................................................................... 14 
+4. EISEN- EN WENSENPAKKET EN BIJZONDERE VOORWAARDEN ......................................................................... 16 
+4.1 EISEN EN WENSEN .................................................................................................................................................. 16 
+4.2 VARIANTEN ........................................................................................................................................................... 16 
+4.3 BIJZONDERE VOORWAARDEN .................................................................................................................................... 16 
+5. BEOORDELINGS- EN GUNNINGSPROCEDURE ................................................................................................... 17 
+5.1 BEOORDELINGSPROCEDURE ..................................................................................................................................... 17 
+5.1.1. Voldoen aan de gestelde eisen ........................................................................................................................... 17 
+5.1.2. Beoordeling op basis van de (sub)gunningscriteria. ........................................................................................... 17 
+5.1.3. Toelichting op het subgunningscriterium kwaliteit ............................................................................................ 19 
+5.1.4. Toelichting op het subgunningscriterium prijs ................................................................................................... 21 
+5.2 GUNNINGPROCEDURE ............................................................................................................................................ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 van 22 
+ 
+ 
+Overzicht gegevens en bijlagen  
+De volgende documenten en invulformulieren maken als bijlagen deel uit van dit beschrijvend 
+document en zijn geplaatst op TenderNed: 
+Deel B  Aanbestedingsvoorwaarden 
+Bijlage 1 Uniform Europees Aanbestedingsdocument (geïntegreerd in TenderNed) 
+Bijlage 2 Referentieopdracht 
+Bijlage 3 Verklaring omtrent inschrijving 
+Bijlage 4  Prijzenblad 
+Bijlage 5 Programma van eisen 
+Bijlage 6 Grensgebied gemeenten 
+Bijlage 7 Beschikbare data 
+Bijlage 8 Richtlijn Soortenmanagementplan 
+Bijlage 9 Social return gemeente Krimpen aan den IJssel 
+Bijlage 10 Concept overeenkomst 
+Bijlage 11 Algemene inkoopvoorwaarden 
+Bijlage 12 Concept verwerkersovereenkomst 
+Bijlage 13 Format voor het stellen van vragen 
+  
+ 
+ 
+ 4 van 22 
+ 
+ 
+1. INLEIDING 
+1.1 ALGEMEEN 
+Dit beschrijvend document betreft de openbare procedure voor de uitvoering van een 
+Soortenmanagementplan (hierna te noemen: SMP) voor gemeente Krimpen aan den IJssel, 
+hierna te noemen ‘de aanbestedende dienst, met zaaknummer 1254084.  
+ 
+Het beschrijvend document bestaat uit twee delen. Deel A, dit document, bevat een 
+beschrijving van de aanbestedende dienst en van de aanbesteding (hoofdstuk 1), alle 
+informatie die u nodig heeft voor het indienen van een inschrijving, zoals de 
+inschrijvingsprocedure (hoofdstuk 2), de eisen aan de onderneming (hoofdstuk 3), het eisen- en 
+wensenpakket (hoofdstuk 4) en de beoordeling van de inschrijvingen (hoofdstuk 5). In deel B 
+treft u de Aanbestedingsvoorwaarden aan die van toepassing zijn op deze aanbesteding.  
+ 
+Op deze aanbesteding is de Aanbestedingswet 2012 van toepassing. 
+ 
+Deel B ‘Aanbestedingsvoorwaarden’ maakt als bijlage deel uit van dit beschrijvend document 
+en is separaat te vinden op het TenderNed aanbestedingsplatform. 
+ 
+De aanbesteding wordt elektronisch uitgevoerd via TenderNed (zie www.tender.nl). Zie voor 
+meer informatie hierover: https://www.tenderned.nl/cms/nl/voor-ondernemingen/aanmelden-en-
+inschrijving-aanbesteding. In het stappenplan van TenderNed is opgenomen, dat “De 
+inschrijving/aanmelding is voltooid wanneer de SMS-transactiecode is ingevoerd en verstuurd. 
+De persoon die deze handeling verricht, moet minimaal de rol van procesleider hebben” 
+ 
+Wij maken u erop attent dat de inschrijving pas definitief is wanneer TenderNed de SMS-
+transactiecode heeft ontvangen en verwerkt. Inschrijver dient dan ook rekening te houden met 
+de tijd voor de verzending en de verwerkingstijd bij TenderNed. 
+1.2 BESCHRIJVING VAN DE AANBESTEDENDE DIENST 
+De aanbestedende dienst gelooft in het leveren van eerlijk en betekenisvol werk. Voor alle 
+inwoners – en ondernemers – van Krimpen. De aanbestedende dienst doet dit met 28 
+betrokken teams. Zij dragen allemaal hun steentje bij, zodat we als gemeente steeds net weer 
+wat beter worden dan we ervoor waren. 
+ 
+De aanbestedende dienst is er voor de inwoners door: 
+• Open te werken: we laten zien wat we doen en zijn aanspreekbaar. 
+• Eerlijk te zijn: we bieden snel helderheid over wat wel en niet kan. 
+• Betrokken te zijn: we staan midden in de Krimpense samenleving. 
+• Betekenisvol te zijn: we voegen waarde toe en denken in mogelijkheden. 
+ 
+Aan het hoofd van de organisatie staat de gemeentesecretaris. De secretaris ondersteunt het 
+college van burgmeester en wethouders. Ook vormt de gemeentesecretaris samen met de 
+twee directeuren een team. Zij zijn eindverantwoordelijk en het aanspreekpunten voor de 
+gemeentelijke organisatie.  
+ 
+De missie van de aanbestedende dienst luidt: “Krimpen is een thuis voor bijna 30.000 
+inwoners, ruim 500 ondernemers en meer dan 100 verenigingen en gemeenschappen. Als 
+organisatie hechten wij aan een zo groot mogelijk welzijn. Voor zoveel mogelijk mensen die 
+ 
+ 
+ 5 van 22 
+ 
+ 
+hier wonen, werken en leven. Dat doen wij met aandacht voor het algemeen belang en oog 
+voor elke inwoner. De kaders hiervoor heeft het gemeentebestuur vastgesteld. Zo maken wij 
+Krimpen samen iedere dag een beetje mooier.” 
+ 
+De visie is: “Bij de gemeente Krimpen aan den IJssel staat de mens centraal. Zowel in onze 
+samenleving als in onze organisatie. Onze adviezen en beleidsvoorstellen vormen de basis 
+waarop het gemeentebestuur beslissingen neemt. Na het vaststellen van het beleid brengen wij 
+dit tot leven en laten het werken voor ons dorp. En dat maakt ons werk van waarde. 
+Wij geloven in vrijheid, verantwoordelijkheid en vertrouwen. Daarom krijg je bij ons de ruimte 
+om te ontdekken wat je talenten zijn. En hoe je dit zo goed mogelijk kunt inzetten voor onze 
+inwoners. Toevoegde waarde leveren wij samen. Met elkaar, onze partners én met de 
+samenleving.” 
+ 
+Teams 
+Het team waar inschrijver tijdens de uitvoering van de opdracht mee gaat samenwerken is 
+Team Duurzaam Wonen en Werken. Dit team heeft als globaal doel om de kwaliteit van leven 
+voor inwoners te verbeteren: Fijner wonen en werken. 
+ 
+Vanuit het team zijn hiervoor mensen op economie, mobiliteit, wonen en duurzaamheid.  
+Onder duurzaamheid verstaan wij bijvoorbeeld biodiversiteit, Klimaatadaptatie, circulariteit, de 
+verkeers- en energietransities, etc.  
+ 
+Andere teams zijn in de voorbereiding van deze opdracht meegenomen en hebben input 
+kunnen leveren op het traject. Deze teams hebben geen verdere actieve rol in het traject 
+anders dan dat ze belang hebben bij het ontwikkelen van het SMP en de bijhorende ontheffing. 
+ 
+Inkoopvisie 
+De aanbestedende dienst koopt op gecoördineerde wijze 100% duurzaam, rechtmatig, 
+doelmatig en transparant in. De aanbestedende dienst doet dit via gedigitaliseerde 
+bedrijfsprocessen. De aanbestedende dienst stelt zich proactief en klantgericht op en biedt 
+daarin toegevoegde waarde aan het primaire proces van de organisatie.  
+• Duurzaam: binnen inkopen wordt onder duurzaamheid verstaan dat milieuaspecten en 
+sociale aspecten toegepast worden in alle fasen van het inkoopproces, zodat dit 
+uiteindelijk leidt tot de daadwerkelijke levering van een levering, dienst of werk dat aan 
+deze milieuaspecten en sociale aspecten voldoet.  
+• Rechtmatigheid: bij alle aankopen en aanbestedingen wordt minimaal voldaan aan de 
+relevante wet- en regelgeving op zowel nationaal als Europees niveau.  
+• Doelmatig: het effectief inzetten van publieke gelden door middel van het professioneel 
+inkopen van (noodzakelijke) en kwalitatief goede leveringen, diensten en werken.  
+• Transparant: de besluitvorming, die omtrent inkopen en inkoophandeling plaats vindt, 
+dient open te zijn.  
+• Proactief: inkopen is vooral op het juiste moment de juiste dingen doen. Door scherp te 
+monitoren en te analyseren wat intern en op de markt speelt wordt getracht om 
+voordelen te realiseren door op strategisch, tactisch en operationeel niveau 
+aanbevelingen te formuleren.  
+• Klantgericht: de gecoördineerde inkoop is afgestemd op de wensen en behoeften van 
+haar interne klant en speelt daar op adequate wijze in. 
+ 
+ 
+ 
+ 6 van 22 
+ 
+ 
+Meer informatie over de aanbestedende dienst, haar bestuur en de gemeentelijke organisatie is 
+te vinden op de internetsite www.krimpenaandenijsel.nl. 
+ 
+Gemeente Krimpen aan den IJssel voert deze aanbesteding uit in samenwerking met 
+QuaWonen, een belangrijke stakeholder. In het vervolg van de aanbestedingsdocumenten valt 
+onder de term aanbestedende dienst zowel Gemeente Krimpen aan den IJssel als QuaWonen. 
+Hierbij is de gemeente de hoofdaanbesteder.   
+1.3 BESCHRIJVING EN DOEL VAN DE AANBESTEDING 
+1.3.1. Huidige situatie  
+De aanbestedende dienst heeft zelf al data inzichtelijk gemaakt. Deze data zijn opgenomen in 
+bijlage 7. 
+1.3.2. Gewenste situatie en onderwerp en beschrijving van de overeenkomst 
+De aanbestedende dienst zet zich in om in 2050 een klimaat-neutrale en gezonde gemeente te 
+zijn. Een gemeente waarin wijzelf en onze kinderen met plezier kunnen blijven wonen. De 
+aanbestedende dienst gaat van aardgas over naar meer duurzame energiebronnen. Ook het 
+besparen van energie is een essentieel onderdeel van de energietransitie. Daarom zet de 
+aanbestedende dienst de komende jaren volop in op energiebesparing en het aanjagen van 
+isolatie van de gebouwde omgeving. Dit mag alleen niet ten koste gaan van de biodiversiteit 
+binnen onze gemeente. De aanbestedende dienst heeft de ambitie om een plan op te stellen 
+om de biodiversiteit en beschermde soorten binnen Krimpen aan den IJssel duurzaam te 
+beschermen en te versterken, ondanks de voorgenomen activiteiten in het kader van vastgoed- 
+en gebiedsontwikkeling, klimaatadaptatie, verduurzaming, etc.  
+ 
+Hiervoor wil de aanbestedende dienst in samenwerking met de woningcorporatie QuaWonen 
+een SMP laten opstellen om op basis daarvan een gebiedsgerichte ontheffing voor de 
+gemeente aan te vragen bij het bevoegd gezag, zijnde de Omgevingsdienst Haaglanden. Het 
+op te stellen SMP moet dus voldoen aan de richtlijnen en eisen die de provincie Zuid-Holland 
+en Omgevingsdienst Haaglanden hieraan stellen. Deze zijn beschreven in de Richtlijn SMP’s 
+Zuid-Holland, versie 2, Oktober 2023 (bijlage 8). 
+ 
+Gebiedsbeschrijving 
+De gemeente Krimpen aan den IJssel is een gemeente in de provincie Zuid-Holland en ligt in 
+het regionale gebied van Rotterdam en de Krimpenerwaard. De gemeente telt ongeveer 29.500 
+(2024) inwoners en heeft een oppervlakte van ongeveer 893 hectare (waarvan 110 hectare 
+water). Krimpen aan den IJssel kent geen ondergeschikte kernen. 
+ 
+Krimpen aan den IJssel is gelegen aan de oevers van de Hollandsche IJssel en de Nieuwe 
+Maas en heeft verschillende natuurlijke habitats zoals uiterwaarden, moerassen, en 
+graslanden. Deze habitats bieden een thuis aan diverse planten- en diersoorten.  
+ 
+Krimpen aan den IJssel wordt gekenmerkt door een mix van natuurlijke en stedelijke gebieden, 
+wat kan leiden tot habitatfragmentatie. Het SMP moet zich richten op het behoud en het herstel 
+van natuurlijke verbindingen tussen habitats om de mobiliteit van soorten te bevorderen. 
+ 
+ 
+ 
+ 7 van 22 
+ 
+ 
+Het gebied herbergt verschillende bedreigde en beschermde soorten, zoals de ijsvogel, de 
+grutto en de rugstreeppad. Het SMP moet specifieke maatregelen bevatten voor de 
+bescherming en het herstel van hun leefgebieden. 
+ 
+Omvang onderzoeksgebied   
+Het SMP moet betrekking hebben op de volledige gemeente. In bijlage 6 is ook een kaart met 
+een globale omlijning van het onderzoeksgebied toegevoegd.   
+ 
+De opdracht omvat: 
+1. Het aanvragen van een gebiedsgerichte ontheffing Wet natuurbescherming bij de 
+Omgevingsdienst Haaglanden op basis van een SMP. 
+2. Het opstellen van het voor 1 benodigde SMP inclusief maatregelenplan, uitvoeringsplan 
+en ontheffingsaanvraag. 
+3. Het uitvoeren van het voor 2 benodigde ecologische onderzoek. 
+4. Ondersteuning van de aanbestedende dienst omtrent ecologische advisering bij het 
+SMP traject inclusief advisering van QuaWonen. De aanbestedende dienst heeft geen 
+ecoloog in dienst en wil derhalve gedurende de opdracht gebruik maken van de 
+expertise van inschrijver op dit stuk. 
+ 
+Opdrachtnemer neemt de verantwoordelijkheid op zich tot het tijdig verkrijgen van de ontheffing 
+en zodoende met het SMP te voldoen aan alle eisen van de Omgevingsdienst. De 
+aanbestedende dienst streeft naar onderstaande tijdlijn: 
+• Vanaf ingangsdatum overeenkomst: één jaar voor het uitvoeren van ecologisch 
+onderzoek. 
+• Vervolgens zes maanden om het SMP op te stellen. 
+• Vervolgens zes maanden voor het aanvragen van de ontheffing en de bijbehorende 
+processen. 
+ 
+Onder de werkzaamheden valt in ieder geval het volgende:   
+• Het opleveren van een SMP, conform de Richtlijn Soortenmanagementplannen Zuid-
+Holland van Omgevingsdienst Haaglanden, met daarin een soortgericht onderzoek en 
+rapportage, mitigatie- en compensatieplan, monitoringsplan en een management- en 
+administratieplan. De ambitie van de aanbestedende dienst is om het SMP uiterlijk 2026 
+in overeenstemming met de Omgevingsdienst Haaglanden afgerond te hebben. Op 
+basis van de opgegeven planning in het plan van aanpak van de inschrijver zien wij 
+graag terug of dit haalbaar is.   
+• Het namens de aanbestedende dienst indienen van een ontheffingsaanvraag, die 
+voldoet aan de juridische kaders en wettelijke eisen, met een basisonderzoek en de 
+effectbepaling en instandhouding van de soorten. De ambitie van de aanbestedende 
+dienst is om de ontheffing in 2027 te verkrijgen. Op basis van de opgegeven planning in 
+het plan van aanpak van de inschrijver zien wij graag terug of dit haalbaar is. 
+• Aanbevolen wordt om gebied dekkende onderzoeken ten bate van het basisonderzoek 
+uit te voeren conform vastgestelde richtlijnen en protocollen (Onderzoeksrichtlijn 
+Vleermuizen Grote Gebieden NGB en ZV en Gierzwaluwprotocol Gebieden van RVO).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 van 22 
+ 
+ 
+In de uitvoering van de opdracht neemt de aanbestedende dienst de volgende 
+verantwoordelijkheden op zich: 
+1. Het vaststellen van het doel en de ambitie van het SMP. 
+2. Het aanleveren van informatie benodigd voor het uitvoeren van het onderzoek, 
+waaronder: 
+a. Begrenzing SMP-gebied  
+b. Beschrijving geplande activiteiten SMP  
+c. Communicatie richting inwoners over het uit te voeren nachtelijke onderzoek langs 
+de openbare weg en bij uitzondering langs openbaar toegankelijke brandgangen.   
+3. Communicatie richting belanghebbenden als woningcorporaties en VvE’s.  
+4. Het opstellen en implementeren van de benodigde processen voor uitvoer SMP. 
+5. Het aanleveren van benodigde achtergrondinformatie voor het opstellen van het SMP 
+(gemeentelijk beleid, processen, communicatie).  
+ 
+De aanbestedende dienst wenst een overeenkomst te sluiten met één partij. De gewenste 
+ingangsdatum van de overeenkomst is 6 mei 2025. De overeenkomst duurt tot het resultaat is 
+geaccepteerd door de aanbestedende dienst, waarbij de aanbestedende dienst streeft naar 
+een doorlooptijd van maximaal twee (2) jaar.  
+1.3.3. Wijze van aanbesteding 
+1.3.3.1. Keuze procedure 
+Er is om de volgende redenen gekozen voor het volgen van een openbare procedure. De 
+geschatte waarde van de opdracht overschrijdt het drempelbedrag van € 221.000 exclusief btw 
+voor het uitvoeren van een Europese aanbesteding. Daarnaast is gebruik gemaakt van de 
+openbare procedure gezien de aanbestedende dienst verwacht dat het aantal inschrijvingen 
+beperkt is. Inschrijvers hoeven in verhouding tot een niet-openbare procedure een minder 
+omvangrijke/tijdsintensieve inspanning te doen om hun inschrijving op te stellen. 
+1.3.3.2. Indeling in percelen 
+De aanbesteding is niet opgedeeld in percelen.  
+ 
+De aanbestedende dienst acht het om de volgende redenen niet passend de aanbesteding op 
+te delen in percelen: 
+• De werkzaamheden zijn onlosmakelijke aan elkaar verbonden. Een opdrachtnemer 
+maakt het mogelijk integraal advies te leveren. 
+• Het is voor de aanbestedende dienst wenselijk dat de uitvoering van de diensten bij (of 
+onder regie van) één partij plaatsvindt. Hierbij moet wel worden opgemerkt dat niets in 
+de weg staat om aan te bieden als hoofd-/onderaannemer constructie of een andere 
+samenwerkingsvorm. 
+1.4 DUURZAAMHEID 
+De aanbestedende dienst heeft een duurzaamheidsagenda ontwikkeld voor de periode 2021 – 
+2024 en een Circulair Uitvoeringsprogramma voor de periode 2024 - 2027. Momenteel werkt de 
+aanbestedende dienst aan een nieuwe agenda voor de periode 2025 – 2028. Middels de 
+duurzaamheidsagenda en het Circulaire Uitvoeringsprogramma werkt de aanbestedende dienst 
+aan een klimaatneutraal en gezond Krimpen in 2050. De duurzaamheidsagenda bestaat uit vier 
+thema’s: 
+ 
+ 
+ 9 van 22 
+ 
+ 
+• Energie: het tegengaan van klimaatverandering door de uitstoot van CO2 te verlagen. 
+• Circulair: het omvormen van het economisch systeem waarin we grondstoffen niet 
+uitputten en reststoffen opnieuw gebruiken in het productieproces. Het gaat hiermee om 
+een vermindering van afvalstromen, het opnieuw gebruiken van reststoffen en het 
+gebruiken van hernieuwbare grondstoffen.  
+• Klimaatadaptie: het klimaat verandert. De aanbestedende dienst zorgt ervoor dat ze is 
+voorbereid op klimaatverandering en het zoveel mogelijk beperken van schade en 
+overlast. 
+• Gezond en voedsel: het maken van duurzame keuzes die bijdragen aan de gezondheid 
+en de verandering van het voedselsysteem. 
+ 
+De aanbestedende dienst verwacht dat opdrachtnemer een bijdrage levert aan het realiseren 
+van de duurzaamheidsdoelstellingen. Een doorvertaling hiervan is opgenomen in het 
+programma van eisen en/of de gunningscriteria. 
+ 
+1.5 SOCIAL RETURN 
+De aanbestedende dienst vindt maatschappelijk verantwoord ondernemen belangrijk. De 
+aanbestedende dienst wil opdrachtnemers stimuleren om mensen met een kwetsbare positie 
+op de arbeidsmarkt aan het werk te helpen. Daarom legt de aanbestedende dienst een 
+verplichting op aan opdrachtnemers, om de kansen op (duurzaam) werk voor mensen met een 
+afstand tot de arbeidsmarkt te vergroten. Dat noemen we social return.  
+ 
+Voor deze overeenkomst moet ten minste 5% van de opdrachtwaarde (exclusief btw en 
+inclusief meerwerk en eventuele verlengingen) ingezet worden voor social return. Alle 
+afspraken in het kader van social return worden in overleg met de projectleider social return 
+van de aanbestedende dienst vastgelegd in een uitvoeringsplan. Dit uitvoeringsplan maakt 
+onderdeel uit van de overeenkomst. De invulling van de social return-verplichting moet op 
+enigerlei wijze verband houden met de inhoud van de opdracht. Binnen zeven (7) 
+kalenderdagen na definitieve gunning van de opdracht dient de opdrachtnemer contact op te 
+nemen omtrent de invulling van de social-return verplichting. 
+ 
+De mogelijkheden om de social-return verplichting te realiseren zijn (in volgorde van voorkeur): 
+1. Werken; 
+2. Leren; 
+3. Sociaal inkopen; 
+4. Maatschappelijke activiteiten; 
+5. Sociaal investeren; 
+6. Open social impact invulling. 
+ 
+Aanvullende informatie over de social-return verplichting, de invullingsmogelijkheden en de 
+waardering van deze mogelijkheden is opgenomen in bijlage 9 – Social return gemeente 
+Krimpen aan den IJssel. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 van 22 
+ 
+ 
+1.6 CONTACTPERSONEN  
+ 
+Aanbestedende dienst  
+Procesbegeleider Marylène Verhaar Functie Inkoopadviseur 
+Telefoonnummer 06 19 30 44 45 E-mailadres Via de berichtenmodule op 
+TenderNed 
+ 
+TenderNed Voor technische vragen over het aanbestedingsplatform* 
+Contactpersoon Servicedesk van TenderNed 
+Telefoonnummer  0800 8363 376 Mailadres Servicedesk@TenderNed.nl 
+* Bijvoorbeeld als het u niet lukt in te loggen of documenten in te dienen. 
+ 
+1.7 PLANNING 
+Hieronder is de planning van de aanbesteding opgenomen. De cursief weergegeven data zijn 
+definitieve en fatale data behoudens een andersluidend schriftelijk bericht van de 
+aanbestedende dienst. De andere data zijn indicatief en niet bindend. 
+ 
+5 februari 2025 Verzending aankondiging 
+Beschrijvend document incl. bijlagen wordt beschikbaar 
+gesteld op het aanbestedingsplatform 
+12 februari 2025 voor 10:00 
+uur 
+Sluiting termijn voor het indienen van vragen met betrekking 
+tot dit beschrijvend document 
+19 februari 2025 Streefdatum beschikbaarstelling nota van inlichtingen  
+26 februari 2025 voor 10:00 
+uur 
+Sluiting termijn voor het indienen van vragen met betrekking 
+tot nota van inlichtingen nr. 2 
+5 maart 2025 Streefdatum beschikbaarstelling nota van inlichtingen nr. 2 
+18 maart 2025 10:00 uur Sluiting inschrijvingstermijn  
+19 maart 2025 t/m 7 april 
+2025 
+Evaluatie inschrijvingen 
+8 april 2025 Verwachte datum van de mededeling van de 
+gunningsbeslissing 
+28 april 2025 Gelegenheid tot het stellen van vragen en het indienen van 
+eventuele bezwaren zo spoedig mogelijk na de mededeling 
+van de gunningsbeslissing, maar uiterlijk 20 kalenderdagen 
+na de datum van de mededeling van de gunningsbeslissing. 
+6 mei 2025 Beoogde ingangsdatum overeenkomst 
+ 
+ 
+ 11 van 22 
+ 
+ 
+2. INSCHRIJVINGSPROCEDURE 
+In dit hoofdstuk is de inschrijvingsprocedure beschreven. Inschrijvingen dienen, conform de 
+aanwijzingen in dit hoofdstuk, gedaan te worden.  
+2.1 INLICHTINGEN 
+Inhoudelijke vragen omtrent de aanbesteding kunnen uitsluitend via een bericht op TenderNed 
+worden gesteld. U dient bij het stellen van vragen gebruik te maken van het daartoe 
+beschikbaar gestelde format.   
+2.2 WIJZE VAN AANBIEDEN INSCHRIJVING 
+Inschrijvingen dienen met volledige inachtneming van onderstaande voorschriften te zijn 
+opgemaakt en te worden ingediend. Indien een inschrijving niet met volledige inachtneming van 
+onderstaande voorschriften is opgemaakt en/of ingediend kan de aanbestedende dienst 
+besluiten deze inschrijving uit te sluiten van verdere deelname aan deze procedure. De 
+betreffende inschrijving komt dan niet langer voor gunning in aanmerking.  
+ 
+De inschrijvingstermijn sluit op de datum en het tijdstip als vermeld in de paragraaf Planning bij 
+“Sluiting inschrijvingstermijn”. Inschrijvingen die worden ingediend nadat de inschrijvingstermijn 
+is verstreken, worden niet in behandeling genomen.  
+ 
+U vindt de modellen, die ten behoeve van uw inschrijving ingevuld moeten worden, separaat op 
+het aanbestedingsplatform. Alleen digitale inschrijvingen via het aanbestedingsplatform worden 
+door de aanbestedende dienst in behandeling genomen. Documenten die rechtsgeldig dienen 
+te worden ondertekend, dienen voorzien te zijn van een ‘natte handtekening’ en te worden 
+ingescand of voorzien te zijn van een geavanceerde elektronische handtekening. Desgevraagd 
+dient inschrijver binnen zeven (7) werkdagen, na een daartoe strekkend verzoek, het originele 
+document te voorzien van een ‘natte’ handtekening en deze aan de aanbestedende dienst te 
+overleggen. Het niet bijvoegen van de genoemde bijlagen kan ertoe leiden dat uw inschrijving 
+niet voor gunning in aanmerking komt. 
+ 
+Onderstaande documenten dienen onderdeel te zijn van uw inschrijving: 
+Document 1 Uniform Europees Aanbestedingsdocument (rechtsgeldig ondertekend) 
+conform bijlage 1 
+Voorgestelde bestandsnaam: “Naam inschrijver – UEA” 
+Document 2 Referentieopdracht (rechtsgeldig ondertekend) conform bijlage 2 
+Voorgestelde bestandsnaam: “Naam inschrijver – Referentieopdracht” 
+Document 3 Verklaring omtrent inschrijving (rechtsgeldig ondertekend) conform bijlage 3 
+Voorgestelde bestandsnaam: “Naam inschrijver – Verklaring omtrent 
+inschrijving” 
+Document 4 Uittreksel(s) van de KvK (maximaal zes maanden oud op het moment van het 
+indienen van de inschrijving) 
+Voorgestelde bestandsnaam: “Naam inschrijver – KvK uittreksel” 
+Document 5 Kostenopgave inschrijving (rechtsgeldig ondertekend) conform bijlage 4 
+Prijzenblad 
+Voorgestelde bestandsnaam: “Naam inschrijver – Prijzenblad” 
+Document 6 Beantwoording van/reactie op de kwalitatieve criteria 
+Voorgestelde bestandsnaam: “Naam inschrijver – Beantwoording Kwalitatieve 
+Gunningcriteria” 
+ 
+ 
+ 
+ 12 van 22 
+ 
+ 
+2.3 VOORWAARDEN  
+Op deze aanbesteding zijn de Aanbestedingsvoorwaarden van toepassing die zijn opgenomen 
+in deel B. Door een inschrijving in te dienen gaat u akkoord met deze 
+aanbestedingsvoorwaarden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 van 22 
+ 
+ 
+3. EISEN AAN DE ONDERNEMING 
+In dit hoofdstuk is beschreven welke gegevens u bij uw inschrijving moet verstrekken en aan 
+welke criteria uw onderneming, al dan niet in samenwerking met anderen, moet voldoen om in 
+aanmerking te komen voor gunning. 
+3.1 UITSLUITING EN GESCHIKTHEID 
+Inschrijver wordt geschikt geacht indien geen van de in het Uniform Europees 
+Aanbestedingsdocument genoemde uitsluitingsgronden van toepassing is én inschrijver voldoet 
+aan alle geschiktheidseisen. 
+ 
+Inschrijver dient stellig, zonder voorbehoud en onvoorwaardelijk het Uniform Europees 
+Aanbestedingsdocument volledig en juist in te vullen en rechtsgeldig te ondertekenen (zie 
+bijlage 1 – geïntegreerd in TenderNed). Het niet (rechtsgeldig) ondertekend indienen van het 
+Uniform Europees Aanbestedingsdocument of het aanbrengen van wijzigingen in het Uniform 
+Europees Aanbestedingsdocument kan leiden tot uitsluiting. 
+ 
+Wanneer met betrekking tot het Uniform Europees Aanbestedingsdocument bewijsmiddelen 
+worden opgevraagd als bedoeld in de Aanbestedingswet 2012 artikelen 2.86, 2.89 en 2.91 tot 
+en met 2.98, dienen deze bewijsmiddelen, voor zover in de aanbestedingstukken niet afwijkend 
+of aanvullend is bepaald, binnen zeven (7) dagen na verzending van het verzoek hiertoe te 
+worden ingediend. Zo nodig kan de aanbestedende dienst vragen de overgelegde verklaringen 
+en bescheiden toe te lichten en aan te vullen. Het verzoek tot het overleggen van 
+bewijsmiddelen wordt verstuurd samen met het bericht over de gunningsbeslissing of zoveel 
+eerder als de voortgang van de procedure dit noodzakelijk maakt. 
+ 
+U dient te beschikken over een Gedragsverklaring Aanbesteden, die op het tijdstip van het 
+indienen van de inschrijving niet ouder is dan twee jaar. Ook kan aan de winnende inschrijver 
+gevraagd worden een verklaring van de Belastingdienst te overleggen. Let op dat u deze 
+bewijsstukken tijdig aanvraagt. Het verkrijgen kan namelijk ongeveer 6 weken duren. 
+3.2 GESCHIKTHEIDSEISEN 
+3.2.1. Financiële en economische draagkracht: 
+• Inschrijver heeft voldoende financiële en economische draagkracht om de continuïteit 
+van zijn bedrijfsvoering gedurende de contractperiode, inclusief eventuele verlengingen, 
+te waarborgen; 
+• Inschrijver heeft voldoende financiële en economische draagkracht om alle 
+verplichtingen voortvloeiend uit de overeenkomst gedurende de gehele contractduur 
+inclusief eventuele verlengingen uit te voeren;  
+• Aan inschrijver zijn geen claims bekend en voor zover hem bekend, zijn gedurende de 
+periode van de uitvoering van de overeenkomst geen investeringen noodzakelijk die de 
+financieel economische draagkracht van zijn onderneming of de continuïteit van zijn 
+bedrijfsvoering in gevaar kunnen brengen; 
+• De laatst aan inschrijver afgegeven accountantsverklaring met betrekking tot de 
+jaarrekening (of in voorkomend geval een beoordelings- of samenstellingsverklaring) 
+bevat geen zogenoemde continuïteitsparagraaf. Indien u op grond van artikel 2:396 li6 
+BW bent vrijgesteld van de verplichting tot controle van de jaarrekening door een 
+accountant, dan dient u aan te tonen conform artikel 2:284 lid 3 BW 
+(continuïteitsveronderstelling) dat uw jaarrekening geen continuïteitsparagraaf bevat 
+ 
+ 
+ 14 van 22 
+ 
+ 
+over het laatst afgesloten boekjaar. Dit kan door middel van een schriftelijke verklaring 
+van de accountant dat de jaarrekening is opgesteld op basis van de 
+continuïteitsveronderstelling; 
+• Inschrijver heeft zich passend verzekerd tegen beroepsrisico’s (minimaal €1.500.000 
+per gebeurtenis en minimaal €3.000.000 per jaar). 
+ 
+Indien inschrijver zich beroept op de financiële en economische draagkracht van andere 
+natuurlijke personen of rechtspersonen, zijn zowel inschrijver als die andere natuurlijke 
+personen of rechtspersonen hoofdelijk aansprakelijk voor de uitvoering van de desbetreffende 
+opdracht. 
+3.2.2. Technische- en beroepsbekwaamheid 
+Kerncompetenties 
+Inschrijver beschikt over onderstaande kerncompetenties:  
+• Kerncompetentie 1: Inschrijver heeft ervaring met het uitvoeren van ecologisch 
+basisonderzoek voor een gemeente. 
+ 
+Inschrijver toont door middel van referenties aan dat hij over deze kerncompetenties beschikt. 
+Iedere kerncompetentie dient te worden aangetoond door middel van één referentie, tenzij 
+anders vermeld bij de betreffende kerncompetentie. 
+ 
+De referentie(s) voldoen aan de volgende eisen: 
+• De referentie bevat de naam van de opdrachtgever. 
+• De referentie bevat een omschrijving van de prestaties die voor deze referent zijn 
+verricht en naar behoren zijn uitgevoerd. 
+• De referentie is niet ouder dan drie jaar gerekend vanaf de datum, waarop de 
+inschrijvingstermijn sluit. 
+• Er mogen alleen geheel afgeronde opdrachten als referentie worden opgegeven of, 
+indien gebruik gemaakt wordt van een nog niet (geheel) afgeronde opdracht mogen 
+alleen de werkelijk behaalde resultaten van de lopende opdracht worden opgegeven en 
+kan niet volstaan worden met een prognose van de resultaten.  
+• De referentieopdracht dient naar tevredenheid van de opdrachtgever te zijn uitgevoerd. 
+De aanbestedende dienst kan dit nagaan bij de referenten. 
+• Een referentie kan betrekking hebben op meer competenties. Indien verschillende 
+uitgevraagde competenties blijken uit één uitgevoerd project, kan dezelfde 
+referentieopdracht worden gebruikt om deze meerdere competenties aan te tonen. 
+ 
+De te overleggen referenties dienen te worden ingevuld in bijlage 2 Referentieopdracht.  
+ 
+ 
+3.2.3. Beroepsbevoegdheid 
+• Inschrijver is ingeschreven in het beroeps- of handelsregister in de lidstaat waar hij is 
+gevestigd. Inschrijver vermeldt het inschrijfnummer in het betreffende register in het 
+Uniform Europees Aanbestedingsdocument.  
+ 
+ 
+ 
+ 
+ 
+ 15 van 22 
+ 
+ 
+Bewijsstuk: uittreksel(s) KvK 
+Aanleveren documenten: 
+De aanbestedende dienst vraagt het grootste gedeelte van de documenten, waaronder de 
+bewijsstukken, die aantonen dat u aan het bovenstaande voldoet, enkel op bij de winnende 
+inschrijver. Bij uw inschrijving dient u enkel mee te sturen: 
+• het UEA; en 
+• de referenties;  
+• uittreksel(s) van de KvK (maximaal zes maanden oud op het moment van het indienen 
+van de inschrijving).  
+ 
+Optionele bewijsstukken: 
+• certificaten (bijvoorbeeld ISO 9001 of vergelijkbaar);  
+ 
+De volgende bewijsstukken worden enkel bij de winnende inschrijver opgevraagd: 
+• Gedragsverklaring aanbesteden, als bewijs dat de uitsluitingsgronden niet op uw 
+organisatie van toepassing zijn (maximaal twee jaar oud op het moment van het 
+indienen van de inschrijving); 
+• De jaarrekening met accountantsverklaring met betrekking tot de jaarrekening (of in 
+voorkomend geval een beoordelings- of samenstellingsverklaring) zonder 
+continuïteitsparagraaf of een schriftelijke verklaring van de accountant dat de 
+jaarrekening is opgesteld op basis van de continuïteitsveronderstelling; 
+• De verzekeringspolis of een certificaat waaruit de dekking van de verzekering blijkt en 
+waaruit blijkt dat de premie is betaald. 
+ 
+De laatstgenoemde bewijsstukken dienen uiterlijk binnen zeven werkdagen na de datum 
+waarop ze zijn opgevraagd door de aanbestedende dienst te zijn verstrekt door inschrijver.  
+  
+ 
+ 
+ 16 van 22 
+ 
+ 
+4. EISEN- EN WENSENPAKKET EN BIJZONDERE VOORWAARDEN  
+4.1 EISEN EN WENSEN 
+Inschrijver dient onvoorwaardelijk akkoord te gaan met alle in bijlage 5 Programma van Eisen 
+gestelde eisen middels het invullen, rechtsgeldig ondertekenen en bij zijn inschrijving indienen 
+van bijlage 3 Verklaring omtrent inschrijving. Inschrijver gaat daarnaast door het inschrijven op 
+deze aanbesteding automatisch onvoorwaardelijk akkoord met alle bepalingen zoals gesteld in 
+dit beschrijvend document inclusief bijlagen waaronder de contractuele bepalingen. Inschrijver 
+bevestigt dit door bijlage 3 Verklaring omtrent inschrijving in te vullen, rechtsgeldig te 
+ondertekenen en bij zijn inschrijving in te dienen. Verder dient inschrijver aan de hand van de 
+gestelde bepalingen en eisen een prijsopgave te doen. Daar waar inschrijver in de inschrijving 
+heeft aangegeven op welke wijze inschrijver aan een kwaliteitscriterium voldoet, dienen de 
+kosten daarvan te zijn inbegrepen in de door inschrijver ingediende prijs op bijlage 4 
+Prijzenblad. 
+ 
+Voor de onderdelen van de contractuele bepalingen waarmee u niet (direct) kunt instemmen, 
+kunt u vóór de datum en het tijdstip als vermeld in de paragraaf Planning bij “Sluiting termijn 
+voor het indienen van vragen met betrekking tot dit beschrijvend document” tekstvoorstellen 
+indienen, dan wel de aard van uw bezwaar toelichten. Uiterlijk tien dagen voor de datum als 
+vermeld in de paragraaf Planning bij “Sluiting inschrijvingstermijn” zal de aanbestedende dienst 
+door middel van een nota van inlichtingen aan alle inschrijvers laten weten op welke punten en 
+op welke wijze de overeenkomst zal worden aangepast. Deze aangepaste versie vormt 
+vervolgens een vast uitgangspunt voor uw inschrijving. Met andere woorden: inschrijving 
+betekent instemming met de conceptovereenkomst en daarvan deel uitmakende voorwaarden, 
+alsmede met de voorstellen tot wijziging die zijn gehonoreerd en bekend gemaakt via de Nota 
+van Inlichtingen. 
+ 
+De algemene voorwaarden van inschrijver worden uitdrukkelijk van de hand gewezen. 
+4.2 VARIANTEN 
+Het indienen van varianten is niet toegestaan. 
+4.3 BIJZONDERE VOORWAARDEN 
+Social return is opgenomen als bijzondere voorwaarde. Zoals opgenomen in paragraaf 1.5 
+dient 5% van de opdrachtwaarde besteed te worden aan social return. 
+ 
+  
+ 
+ 
+ 17 van 22 
+ 
+ 
+5. BEOORDELINGS- EN GUNNINGSPROCEDURE  
+In dit hoofdstuk zijn achtereenvolgens beschreven: de beoordelingsprocedure (paragraaf 0), en 
+de gunningprocedure (paragraaf 0). De mogelijkheden om naar aanleiding van de 
+gunningsbeslissing vragen te stellen of bezwaar in te dienen zijn opgenomen in paragraaf 4 
+van deel B (Aanbestedingsvoorwaarden).  
+5.1 BEOORDELINGSPROCEDURE 
+Inschrijvingen die niet tijdig zijn ingediend, worden niet in behandeling genomen. Deze 
+inschrijvingen worden terzijde gelegd en komen niet voor gunning in aanmerking. 
+ 
+Na sluiting van de inschrijvingstermijn wordt van iedere inschrijver op basis van de 
+inschrijvingsdocumenten een beoordeling uitgevoerd op basis van de volgende stappen: 
+1. Of een van de uitsluitingsgronden van toepassing is. Als een van de uitsluitingsgronden 
+van toepassing kan de aanbestedende dienst besluiten dat inschrijver niet voor gunning 
+in aanmerking komt. De inschrijving wordt dan niet verder beoordeeld. 
+2. Of de inschrijver voldoet aan de geschiktheidseisen. Als de inschrijver voor de opdracht 
+waarop de aanbesteding betrekking heeft, niet geschikt wordt bevonden, komt hij niet 
+voor gunning in aanmerking en wordt zijn inschrijving niet verder beoordeeld. Optionele 
+bewijsstukken worden niet meegenomen bij de beoordeling.  
+3. De inschrijvingen van inschrijvers die geschikt zijn bevonden worden inhoudelijk 
+beoordeeld.  
+3.1 Eerst wordt het voldoen aan de eisen gecontroleerd. Inschrijvingen, die niet aan de 
+eisen voldoen, worden niet verder in behandeling genomen.  
+3.2 Daarna worden de overgebleven inschrijvingen die aan de eisen voldoen 
+geëvalueerd aan de hand van de subgunningscriteria zoals in paragraaf 5.1.2 
+vermeld. Dit zijn criteria met betrekking tot de kwaliteit (kwaliteitscriteria) en met 
+betrekking tot de prijs. 
+ 
+Gunning vindt plaats aan de inschrijver die voldoet aan de in dit beschrijvend document 
+gestelde eisen én de economisch meest voordelige inschrijving heeft gedaan op basis van de 
+beste prijs-kwaliteitverhouding. 
+5.1.1. Voldoen aan de gestelde eisen 
+Nadrukkelijk wordt gesteld dat aan de in dit beschrijvend document gestelde eisen aan de 
+diensten volledig moet worden voldaan. Het niet voldoen aan een eis betekent dat de 
+inschrijver op basis van deze inschrijving niet in aanmerking komt voor gunning.  
+5.1.2. Beoordeling op basis van de (sub)gunningscriteria. 
+De beoordeling van de gunningcriteria kwaliteit en prijs vindt als volgt plaats: voor het 
+onderdeel kwaliteit kunt u maximaal 700 punten behalen. Voor het onderdeel prijs kunt u 
+maximaal 300 punten behalen. Per kwalitatief subgunningscriterium is een maximaal aantal 
+punten te behalen. Alle punten van de kwalitatieve (sub)gunningcriteria worden bij elkaar 
+opgeteld, dit is het totale aantal behaalde punten voor het gunningcriterium kwaliteit.  
+ 
+Voor de prijs geldt dat de laagste prijs het maximale aantal punten voor prijs krijgt. De volgende 
+formule zal gehanteerd worden. Vervolgens worden de punten voor kwaliteit en prijs bij elkaar 
+opgeteld.  
+ 
+ 
+ 
+ 18 van 22 
+ 
+ 
+(Laagste inschrijfprijs / aangeboden inschrijfprijs) * maximale aantal punten voor prijs = 
+score prijs 
+ 
+Vervolgens worden de behaalde punten op kwaliteit en prijs bij elkaar opgeteld. De inschrijving 
+die voldoet aan alle gestelde eisen en na de beoordeling het hoogste aantal punten heeft, 
+wordt gekenmerkt als economisch meest voordelige inschrijving op basis van de beste prijs-
+kwaliteitverhouding en komt in aanmerking voor gunning.  
+ 
+De beoordeling van de subgunningscriteria wordt uitgevoerd door een beoordelingsteam 
+bestaande uit de volgende functies: 
+• Projectleider duurzaamheid 
+• Beleidsmedewerker duurzaamheid 
+• Beleidsmedewerker openbare ruimte 
+• Projectleider QuaWonen 
+ 
+Indien door onvoorziene omstandigheden leden van het beoordelingsteam uitvallen behoudt de 
+aanbestedende dienst zich het recht voor deze medewerker(s) te vervangen door een 
+medewerker met een vergelijkbare expertise en rol. Beoordeling van de verschillende 
+inschrijvingen zal per subcriterium altijd plaatsvinden door hetzelfde team voor het betreffende 
+subcriterium. 
+ 
+Allereerst worden de uitwerkingen van de kwaliteitscriteria beoordeeld. Elk teamlid beoordeelt 
+de inschrijvingen zelfstandig en kent zonder overleg met andere teamleden op basis van de in 
+dit hoofdstuk opgenomen beoordelingssystematiek per kwaliteitscriterium waarden toe aan de 
+inschrijvingen. In een plenair overleg van het beoordelingsteam worden de argumenten die 
+hebben geleid tot de individuele waardering besproken. Daarna komt het beoordelingsteam tot 
+een unaniem oordeel op basis van consensus. Dit oordeel is de basis voor het verdere verloop 
+van de gunningprocedure.  
+ 
+Per inschrijving worden de door het beoordelingsteam vastgestelde punten van de 
+kwaliteitscriteria opgeteld. Vervolgens wordt voor de prijscomponent uitgegaan van de 
+totaalprijs zoals opgenomen in bijlage 4 Prijzenblad, dit is de inschrijfprijs.  
+ 
+In het geval dat inschrijvingen een aantal punten hebben, dan geldt het volgende. Het 
+kwaliteitscriterium met het hoogste maximale aantal punten zal de doorslag geven, dus de 
+inschrijving met de hoogste beoordeling op dat kwaliteitscriterium zal als de economisch meest 
+voordelige inschrijving op basis van beste prijs-kwaliteitverhouding gelden. Indien de 
+inschrijvingen ook op dat kwaliteitscriterium gelijk scoren, zal het kwaliteitscriterium met de 
+daaropvolgende hoogste maximale aantal punten de doorslag geven. Wanneer er sprake is 
+van kwaliteitscriteria met dezelfde maximale aantal punten, geldt de volgorde waarin de 
+kwaliteitscriteria zijn benoemd in dit beschrijvend document. Wanneer uiteindelijk dit alles geen 
+doorslag geeft, zal middels een loting worden bepaald welke inschrijving als economisch meest 
+voordelige inschrijving op basis van beste prijs-kwaliteitverhouding zal gelden. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 van 22 
+ 
+ 
+Kwaliteit: te bepalen aan de hand van: 
+ Criteria met betrekking tot kwaliteit  Maximale aantal 
+punten 
+K1. Plan van aanpak 300 punten 
+K2. Projectmanagement 300 punten 
+K3. Duurzaamheid 100 punten 
+ Totale maximale aantal punten van de kwaliteitscriteria 700 punten 
+ 
+Prijs: te bepalen aan de hand van de inschrijfprijs conform ingevuld Prijzenblad: 
+ Prijs  Geboden prijs 
+P1. Totaalprijs vermeld op Prijzenblad  300 punten 
+5.1.3. Toelichting op het subgunningscriterium kwaliteit  
+Hieronder zijn de kwaliteitscriteria nader beschreven en is beschreven hoe de beoordeling van 
+de inschrijvingen op basis van deze kwaliteitscriteria zal plaatsvinden.  
+ 
+K1: Plan van aanpak 
+Inschrijver dient een plan van aanpak omtrent de inhoudelijke werkzaamheden in. Daarnaast 
+dient inschrijver een planning bij te voegen voor de uit te voeren werkzaamheden. De 
+aanbestedende dienst hecht waarde aan ontzorging tijdens de uitvoering van de opdracht. Zij 
+verwacht dat inschrijver tijdens de uitvoering in de lead is. In de uitwerking dient inschrijver 
+minimaal aandacht te besteden aan: 
+• De wijze van uitvoering van het ecologisch onderzoek met daarbij de te gebruiken 
+technieken en methode voor het aangegeven gebied in bijlage 6. 
+• Een planning voor de uitvoering van de werkzaamheden, waarbij de aanbestedende 
+dienst streeft naar het verkrijgen van de ontheffing per 2027. 
+• De benodigde inzet van de aanbestedende dienst. 
+• Toelichting op het in te zetten team en relevant opgedane ervaring bij vergelijkbare 
+opdrachten.  
+• Uitwerking over de kwaliteitsborging gedurende de uitvoering van de opdracht.   
+ 
+Bovenstaande aspecten worden beschouwd als samenhangend geheel en de aanbestedende 
+dienst beoordeelt de kwaliteit hiervan in zijn geheel. De aanbestedende dienst kent geen score 
+toe per subonderdeel, maar beoordeelt de totale uitwerking. De beantwoording dient plaats te 
+vinden op maximaal vier (4) A4 in Arial 11. Pagina’s die dit maximum overschrijden worden niet 
+meegenomen in de beoordeling. Het gebruik van bijlagen is niet toegestaan.  
+ 
+K2: Projectmanagement 
+Inschrijver geeft een omschrijving van de invulling van het projectmanagement dat wordt 
+uitgevoerd door inschrijver. In de uitwerking dient inschrijver minimaal aandacht te besteden 
+aan: 
+• Het ontzorgen van de aanbestedende dienst op het gebied van projectmanagement. 
+• Afstemming met de Omgevingsdienst Haaglanden vooraf aan het uitvoeren van het 
+onderzoek en opstellen van SMP. 
+• Communicatie met en het meenemen van de aanbestedende dienst in de voortgang. 
+ 
+ 
+ 20 van 22 
+ 
+ 
+• Het begeleiden van de aanbestedende dienst in het gehele traject zodat de juiste 
+keuzes gemaakt kunnen worden wetende dat er geen ecoloog binnen de 
+aanbestedende dienst actief is. 
+ 
+Bovenstaande aspecten worden beschouwd als samenhangend geheel en de aanbestedende 
+dienst beoordeelt de kwaliteit hiervan in zijn geheel. De aanbestedende dienst kent geen score 
+toe per subonderdeel, maar beoordeelt de totale uitwerking. De beantwoording dient plaats te 
+vinden op maximaal vier (4) A4 in Arial 11. Pagina’s die dit maximum overschrijden worden niet 
+meegenomen in de beoordeling. Het gebruik van bijlagen is niet toegestaan. 
+ 
+K3: Duurzaamheid 
+Zoals aangegeven in paragraaf 1.4 van dit beschrijvend document heeft de aanbestedende 
+dienst een duurzaamheidsagenda opgesteld waarin vier thema’s centraal staan. De 
+aanbestedende dienst wenst ondersteund te worden op deze thema’s, zicht te krijgen in de 
+wijze waarop en de mate waarin inschrijver zelf beleid heeft op deze thema’s en op welke wijze 
+dit waarde toevoegt aan de uitvoering van de opdracht. In de uitwerking dient inschrijver 
+minimaal aandacht te besteden aan: 
+• De mate waarin en de wijze waarop inschrijver de aanbestedende dienst ondersteunt in 
+deze thema’s; 
+• Het beleid van inschrijver op duurzaamheid en de mate waarin dit aansluit op het beleid 
+van de aanbestedende dienst; 
+• Op welke wijze inschrijver een toegevoegde waarde kan leveren op het gebied van 
+duurzaamheid in de uitvoering van de opdracht. 
+ 
+Bovenstaande aspecten worden beschouwd als samenhangend geheel en de aanbestedende 
+dienst beoordeelt de kwaliteit hiervan in zijn geheel. De aanbestedende dienst kent geen score 
+toe per subonderdeel, maar beoordeelt de totale uitwerking. De beantwoording dient plaats te 
+vinden op maximaal twee (2) A4 in Arial 11. Pagina’s die dit maximum overschrijden worden 
+niet meegenomen in de beoordeling. Het gebruik van bijlagen is niet toegestaan. 
+ 
+De beoordeling van K1, K2 en K3 vindt plaats op basis van onderstaande beoordelingsmatrix. 
+Beoordeling Maximale waarde 
+Uitstekend  
+• De beantwoording gaat in op alle gevraagde onderdelen; 
+• En de beantwoording sluit uitstekend aan bij het gevraagde en 
+geeft blijk van uitstekend inzicht in de behoefte van de 
+aanbestedende dienst; 
+• En de beantwoording is zeer goed onderbouwd, concreet en 
+realistisch;  
+• En de beantwoording bevat elementen die in relatie tot het 
+gevraagde een meerwaarde betekenen voor de aanbestedende 
+dienst. 
+100% van het 
+maximale aantal 
+punten 
+  
+Goed  
+• De beantwoording gaat in op alle gevraagde onderdelen; 
+• En de beantwoording sluit goed aan bij het gevraagde en geeft 
+blijk van goed inzicht in de behoefte van de aanbestedende 
+dienst; 
+• En de beantwoording is goed onderbouwd, concreet en 
+realistisch; 
+• De beantwoording biedt voor de aanbestedende dienst niet of 
+nauwelijks meerwaarde ten opzichte van het gevraagde.  
+90% van het maximale 
+aantal punten 
+  
+ 
+ 
+ 21 van 22 
+ 
+ 
+Voldoende  
+• De beantwoording gaat in op een groot deel van de gevraagde 
+onderdelen; 
+• En de beantwoording sluit voldoende aan bij het gevraagde; 
+• En de beantwoording is in voldoende mate onderbouwd, concreet 
+en realistisch. 
+50% van het maximale 
+aantal punten 
+  
+Matig  
+• De beantwoording gaat slechts in op een deel van de gevraagde 
+onderdelen; 
+• Of de beantwoording sluit slechts gedeeltelijk aan bij het 
+gevraagde; 
+• Of de beantwoording is in beperkte mate onderbouwd, concreet 
+en realistisch. 
+20% van het maximale 
+aantal punten 
+  
+Onvoldoende of geen inhoudelijke beantwoording  
+• De beantwoording gaat in op een beperkt deel van de gevraagde 
+onderdelen; 
+• Of de beantwoording sluit onvoldoende aan het gevraagde of er is 
+geen inhoudelijke beantwoording gegeven; 
+• Of de beantwoording is onvoldoende of niet onderbouwd, 
+concreet en realistisch. 
+0% van het maximale 
+aantal punten 
+  
+ 
+5.1.4. Toelichting op het subgunningscriterium prijs  
+Alle vermelde prijzen en tarieven dienen gesteld te zijn in euro’s, exclusief BTW. De door u 
+aangeboden prijzen en tarieven dienen inclusief overige belastingen en/of heffingen te zijn. De 
+prijzen worden aangeboden in twee decimalen. 
+ 
+Alle in bijlage 4 opgenomen aantallen en cijfers zijn indicatief, gebaseerd op gegevens uit het 
+verleden. U kunt hieraan geen rechten ontlenen, afwijkingen in de realisatie kunnen 
+voorkomen. 
+ 
+Inschrijver geeft in bijlage 4 Prijzenblad de gevraagde prijzen op, ondertekent deze bijlage 
+rechtsgeldig en voegt deze bij zijn inschrijving. Inschrijvers uploaden het volledig ingevulde en 
+rechtsgeldig ondertekende bijlage 4 Prijzenblad als .xls(x)- én .pdf-bestand. 
+ 
+Het indienen van een irreële of manipulatieve inschrijving kan leiden tot uitsluiting: 
+• Inschrijvers mogen (per item/eenheid) geen prijzen indienen die de gunningsystematiek 
+manipuleren c.q. verstoren. 
+• Inschrijvers dienen per item/ eenheid een op zichzelf beschouwd realistische prijs aan 
+te bieden. Ten aanzien van de volgende prijzen bestaat het vermoeden dat deze 
+onrealistisch zijn: 
+- negatieve prijzen; 
+- prijzen van 0 euro; 
+- abnormaal lage prijzen. 
+ 
+Inschrijver dient bij gebruik van prijzen die hierboven als onrealistisch zijn aangemerkt in de 
+inschrijving uitvoerig te motiveren waarom er geen sprake is van onrealistische prijzen. Dit dient 
+inschrijver te staven met bewijs. Indien deze motivatie naar het oordeel van de aanbestedende 
+dienst onvoldoende is dan zal zij een verificatievraag hierover aan inschrijver stellen. Indien de 
+ 
+ 
+ 22 van 22 
+ 
+ 
+aanbestedende dienst van mening blijft dat de prijzen onrealistisch zijn dan wordt de 
+inschrijving als ongeldig aangemerkt. 
+ 
+De gevraagde prijzen worden vermenigvuldigd met indicatieve aantallen per jaar. Deze 
+bedragen worden bij elkaar opgeteld. Op deze manier ontstaat de totaalprijs voor één jaar. Dit 
+is de inschrijfprijs, waarvan de score voor de kwaliteitscriteria wordt afgetrokken om de 
+vergelijkingsprijs vast te stellen. 
+5.2 GUNNINGPROCEDURE 
+Alle inschrijvers ontvangen schriftelijk bericht over de gunningsbeslissing. Dit bericht houdt 
+geen aanvaarding in van het aanbod van de inschrijver(s) zoals bedoeld in artikel 6:217 eerste 
+lid BW en er komt dus door deze voorlopige gunningsbeslissing geen overeenkomst tot stand. 
+ 
+De inschrijvers van wie de inschrijving is afgewezen, ontvangen in het schriftelijk bericht 
+betreffende de gunningbeslissing de motivering van de afwijzing. In dit bericht wordt de naam 
+van de inschrijver, die de economisch meest voordelige inschrijving heeft gedaan op basis van 
+de beste prijs-kwaliteitverhouding vermeld alsmede de kenmerk(en) en voorde(e)l(en) van de 
+winnende inschrijving ten opzichte van hun eigen inschrijving.  
+ 
+Bezwaar tegen de afwijzing dient kenbaar gemaakt te worden conform het bepaalde in deel B 
+onder punt 4.
+
+=== Document: beantwoording nota van inlichtingen i ===
+Bijlage 13 – Format voor het stellen van vragen 
+ 
+Aanbestedende dienst Gemeente Krimpen aan den IJssel 
+Betreft Vragen Europese aanbesteding ten behoeve van 
+Soortenmanagementplan (SMP) 
+Zaaknummer 1254084 
+Datum 19 februari 2025 
+Van  
+ 
+Toelichting: Onder het kopje ‘betreft’ dient u zo specifiek mogelijk te vermelden welk 
+document van de aanbestedingsstukken het betreft, gespecificeerd naar paragraaf/pagina. 
+Bij de vraag dient ook zoveel mogelijk een voorstel te worden gedaan voor de door de 
+onderneming gewenste aanpassing/uitkomst. Het aantal vragen kan door de inschrijver 
+conform het gegeven format worden uitgebreid. 
+ 
+Nr. Pagina Betreft 
+1.  Scope van de opdracht 
+Vraag Welke (gebouwbewonende) soorten dienen er onderzocht te worden. In de 
+leidraad wordt verwezen naar de Richtlijn voor SMP Zuid-Holland. Mogen 
+wij ervan uit gaan dat alle soorten die hier in staan binnen de scope van het 
+onderzoek vallen? Of wordt nog gespecificeerd? 
+Antwoord Het resultaat van het proces moet een goedgekeurd SMP met bijhorende 
+ontheffing zijn. Dus er kan vanuit gegaan worden dat alle soorten binnen de 
+richtlijn in de scope van het onderzoek vallen. Er is geen specifiek 
+soortenvoorschrift.
+
+=== Document: beantwoording nota van inlichtingen ii - ea smp ===
+Bijlage 13 – Format voor het stellen van vragen 
+ 
+Aanbestedende dienst Gemeente Krimpen aan den IJssel 
+Betreft Vragen Europese aanbesteding ten behoeve van 
+Soortenmanagementplan (SMP) 
+Zaaknummer 1254084 
+Datum 24-02-2025 
+Van  
+ 
+Toelichting: Onder het kopje ‘betreft’ dient u zo specifiek mogelijk te vermelden welk 
+document van de aanbestedingsstukken het betreft, gespecificeerd naar paragraaf/pagina. 
+Bij de vraag dient ook zoveel mogelijk een voorstel te worden gedaan voor de door de 
+onderneming gewenste aanpassing/uitkomst. Het aantal vragen kan door de inschrijver 
+conform het gegeven format worden uitgebreid. 
+ 
+Nr. Pagina Betreft 
+1.  Onderzoek conform de Richtlijn en Soortenmanagementplannen 
+Zuid-Holland van Omgevingsdienst Haaglanden.  
+Vraag Dient er zowel onderzoek uitgevoerd naar vleermuizen, gierzwaluwen, 
+huismussen als overige cat. 5 soorten zoals huiszwaluw en spreeuw?  
+Antwoord Het onderzoek moet de soorten bevatten die opgenomen zijn in de 
+richtlijnen opgesteld door het bevoegd gezag. 
+Nr. Pagina Betreft 
+2.  Definitieve gunning opdracht 
+Vraag Bent u ermee bekend dat een definitieve gunning/start opdracht op 6 mei 
+2025 aan de late kant is met betrekking tot het huismussenonderzoek en de 
+richtlijn Vleermuizen Grote Gebieden waar in staat dat op 15 april gestart 
+dient te worden.  
+Antwoord Wij gaan ervanuit dat de inschrijvende partij ons kan informeren en 
+betrekken in dit soort aspecten van het onderzoek. 
+Nr. Pagina Betreft 
+3.  Mitigatie 
+Vraag Voor het verkrijgen van een generieke ontheffing zullen er op voorhand 
+mitigerende maatregelen genomen dienen te worden, maakt dit tevens deel 
+uit van de opdracht. Zo ja, is dit op nacalculatie mogelijk omdat op voorhand 
+aantallen van benodigde voorzieningen niet in te schatten zijn.  
+Antwoord Het op voorhand nemen van mitigerende maatregelen maakt op dit moment 
+geen onderdeel uit van de aanbesteding/te gunnen opdracht. Op een later 
+tijdstip zal gesproken worden over eventueel uitvoeren van mitigerende 
+maatregelen.  
+Nr. Pagina Betreft 
+4.  Doorlooptijd aanvraag ontheffing 
+Vraag Bent u ermee bekend dat de doorlooptijd voor het verkrijgen van een 
+ontheffing bij Omgevingsdienst haaglanden gemiddeld langer duurt dan 6 
+maanden, hoe houdt u hier rekening mee bij de gunning in het plan van 
+aanpak?  
+Antwoord Wij zijn bekend met de uitlopende doorlooptijden. De opgenomen 6 
+maanden komt voort uit de termijn die hiervoor is opgegeven door de 
+omgevingsdienst Haaglanden zelf. Geplande uitloop in het plan van aanpak 
+rondom deze aanvraag van de ontheffing is begrijpelijk.
+
+=== Document: bijlage 02 - referentieopdracht ===
+B ijlage   2 -   Referentieopdracht U dient gebruik te maken van onderstaand model voor referenties  (per referentie 1 model) . Uw beschrijving van de aard van de opdracht dient zodanig te zijn dat het de aanbestedende dienst voldoende inzicht verschaft om te kunnen beoordelen of u over de gevraagde competentie beschikt en of aan alle te beoordelen aspecten van de referentie is voldaan. Opmerking:  De aanbestedende dienst behoud t  zich het recht voor om zonder tussenkomst van de inschrijver contact op te nemen met de opgegeven referentie(s). Gegevens opdrachtgever 1) Naam opdrachtgever Adres Postcode en plaatsnaam 2) Naam contactpersoon opdrachtgever Functie contactpersoon Telefoonnummer contactpersoon E-mailadres contactpersoon Projectgegevens 3) Projectduur Datum start project Datum eind project 4) Omvang van de gehele opdracht € …./……m²/andere eenheid Totale omvang per jaar € …./……m²/andere eenheid 5) Aard van opdracht 6) Betreft kerncompetentie 1? Ja/nee Toelichting:…. Hierbij verklaart inschrijver dat bovenstaande opdracht is uitgevoerd zonder dat er sprake is geweest van opschorting van de betaling dan wel vroegtijdige beëindiging van de overeenkomst wegens wanprestatie, of dat er sprake is geweest van het opleggen van (contractuele) boetes ten gevolge van onvoldoende presteren.  Inschrijver Naam Functie Onderneming Handtekening Plaats en datum

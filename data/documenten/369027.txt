@@ -1,0 +1,1855 @@
+=== Document: bijlage 1 programma van eisen ===
+Bijlage 1 Programma van Eisen 
+ 
+Voor de Europese openbare aanbestedingsprocedure 
+ten behoeve van 
+ 
+Raamovereenkomst Ecologische waterkwaliteit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kenmerk TenderNed: 488315 
+Referentienummer: DM2006031 
+Datum: 1 oktober 2024 
+ 
+ 
+ 
+ 
+ 
+  
+1 Algemene eisen aan de opdracht 
+1.11 1 De door Opdrachtnemer in haar Inschrijving aangeboden en omschreven kwaliteit – in 
+aanvulling op of ter invulling van de eisen zoals gesteld in het onderhavige document (het 
+Programma van Eisen) - dient ook daadwerkelijk gedurende de looptijd van de 
+Overeenkomst t en uitvoer gebracht te worden. Alle aangeboden specificaties, 
+maatregelen, voorstellen, oplossingen of anderszins omschreven invulling van de 
+Dienstverlening worden geacht in de aangeboden prijzen te zijn inbegrepen. 
+Opdrachtnemer is dus gehouden de aangeb oden kwaliteit ook daadwerkelijk te 
+bieden/leveren en meerkosten komen niet voor vergoeding in aanmerking.  
+2 Externe promotionele communicatie met betrekking tot de inhoud en werkzaamheden van 
+de gegunde opdracht mag alleen plaatsvinden na schriftelijk akkoord van de 
+Opdrachtgever. 
+1.4 3 Opdrachtnemer dient zich bij uitvoering van de werkzaamheden te allen tijde te houden 
+aan de relevante wet- en regelgeving, protocollen en gedragscodes. 
+1.54 4 Opdrachtnemer realiseert zich, dat Opdrachtgever ook als overheid optreedt en aanvaardt 
+deze bijzondere  positie van Opdrachtgever als overheid. Opdrachtgever behoudt bij 
+nakoming van het in de Raamovereenkomst bepaalde haar bevoegdheden tot 
+publiekrechtelijke rechtshandelingen. 
+  
+2 Eisen aan medewerkers van opdrachtnemer 
+1 1 Opdrachtnemer is verplicht voor het verrichten van de werkzaamheden goed geïnstrueerd 
+personeel in te zetten dat over de benodigde vakkennis beschikt en in staat is zelfstandig 
+te werken.  
+2.2 2 Bij gebleken ongeschiktheid van een medewerker van Opdrachtnemer kan Opdrachtgever 
+eisen dat Opdrachtnemer een andere medewerker inzet. 
+33 3 Bij elke opdracht leest of schrijft minimaal 1 senior mee.  
+  
+3  Communicatie 
+3.1 1 Alle communicatie tussen Opdrachtnemer en Opdrachtgever dient plaats te vinden in de 
+Nederlandse taal. 
+3.22 2 Opdrachtnemer stelt een vaste contactpersoon voor Opdrachtgever aan voor de duur van 
+de Overeenkomst. Opdrachtnemer stelt contactgegevens (telefoon en e -mail) ter 
+beschikking voor vragen, klachten en meldingen. 
+3.3 3 Opdrachtnemer dient tijdens werktijden telefonisch en per e -mail bereikbaar te zijn voor 
+de Opdrachtgever. 
+3.4 4 De projectleider van Opdrachtnemer is het primaire aanspreekpunt voor Opdrachtgever. 
+Opdrachtnemer heeft te allen tijde een projectleider, en indien nodig een back -up, 
+beschikbaar. Bij afwezigheid van de projectleider wordt een vervanger aangewezen.  
+5 Voor aanvang van een opdracht is er een startoverleg met de Opdrachtgever.  
+3.6 6 Na afloop van een opdracht is er een evaluatieoverleg met de Opdrachtgever. 
+3.7 7 In geval van (bijna) ongelukken of calamiteiten tijdens de uitvoering van de 
+werkzaamheden wordt Opdrachtgever zo spoedig mogelijk op de hoogte gebracht. 
+  
+4 Maatschappelijk verantwoord ondernemen en milieu 
+4.1 1 Het heeft de voorkeur dat de opdrachtnemer reisbewegingen waar mogelijk beperkt of 
+kiest voor een duurzaam vervoersmiddel zoals het openbaar vervoer 
+4.5 2 Er wordt voorkomen dat exoten zich kunnen verspreiden, denk hierbij aan het schoon 
+houden van materialen en schoenzolen tussen locaties. 
+4.6 3 U zorgt dat er geen fysieke monitoringsmaterialen achterblijven in het milieu.  
+  
+5 Rapportage/ inhoud van de oplevering 
+5.1 1 In de nadere offerte wordt het gevraagde onderzoek beschreven en wordt dit afgestemd 
+met de opdrachtgever. 
+5.2 2 Grafieken en tabellen dienen duidelijk (af)leesbaar te worden gerapporteerd. 
+5.3 3 Rapportages met ruimtelijke data worden op verzoek weergegeven op kaarten. Deze data 
+wordt ook ontsloten met RD coördinaten of shapefiles (op aanvraag opdrachtgever).  
+5.4 4 Elke rapportage wordt voorzien van een samenvatting. 
+5.5 5 Het definitieve rapport wordt opgeleverd als .pdf en .docx bestan d, concepten worden 
+opgeleverd als .docx 
+5.6 6 Meetpuntcodes van HDSR worden altijd vermeld bij tabellen, grafieken, kaarten of tekst. 
+5.8 7 Alle databestanden, rapportages en presentaties worden digitaal verstrekt aan HDSR (er 
+worden geen exemplaren gedrukt). 
+  
+6 Data en dataverwerking 
+6.1 1 Opdrachtnemer documenteert alle wijzigingen / stappen aan databestanden zodanig dat 
+deze reproduceerbaar/herleidbaar zijn, bij voorkeur via een script. 
+6.2 2 Eventueel contact met dataleveranciers verloopt altijd via een contactpersoon van de 
+Opdrachtgever, tenzij dit binnen de nadere opdracht anders wordt afgesproken. 
+6.3 3 
+ 
+Opdrachtnemer houdt er rekening mee dat nog niet alle biologische monitoringsgegevens 
+reeds in het datasysteem van HDSR zitten, en (deels) nog niet beschikbaar zijn in het 
+Aquo IM Metingen exportformaat.  
+6.4 4 Scripting wordt gedaan in R zodat samenwerking mogelijk is tussen Opdrachtnemer en 
+Opdrachtgever en er verder gewerkt kan worden met eventuele scripts die er al zijn. 
+6.5 5 Binnen de opdracht gemaakte scripts worden ter beschikking gesteld aan Opdrachtgever, 
+inclusief documentatie en overdracht (uitleg) van het script. Versiebeheer wordt binnen de 
+github-organisatie van HDSR  gedaan op de  scripts, wederom om samenwerking tussen 
+Opdrachtnemer en Opdrachtgever mogelijk te maken. 
+6.6 6 KRW toetsingen vinden plaats in Aquo-Kit, indien nodig stelt Opdrachtgever hiervoor een 
+account beschikbaar. 
+7 7 Indien databestanden geleverd dienen te worden, dan hebben deze het door 
+Opdrachtgever aangegeven format. Hierbij streeft HDSR ernaar zoveel mogelijk te werken 
+conform Aquo IM Metingen. 
+  
+7 Monitoringsplan 
+7.1 1 Een monitoringsplan dient minimaal voorzien te worden van de onderdelen: 
+- Aanleiding 
+- Monitoringsdoel 
+- Gebiedsbeschrijving 
+- Monitoringshistorie 
+- Verwachte effecten 
+- Meetprogramma incl. meetpunten (incl. omschrijving en X Y), parameters, 
+tijdsduur en frequentie en monitoringsmethodiek 
+- Toelichting en beargumentatie van de gemaakte keuzes 
+- Beschrijving gewenste resultaten en benodigde vervolgstappen 
+- Context en aandachtspunten (bijv. samenwerking, toestemmingen, capaciteit, 
+draagvlak, afhankelijkheden) 
+7.2 2 Indien een bestaand monitoringsplan geactualiseerd wordt, dan wordt het eerder 
+gehanteerde format aangehouden. 
+7.4 3 Er wordt rekening gehouden met het door HDSR opgegeven budget (voor de monitoring). 
+  
+8 Termijnen en opleveringen 
+8.1 1 Voorafgaand aan de start van de opdracht maakt u een planning van de werkzaamheden 
+en laat deze goedkeuren door Opdrachtgever. 
+8.2 2 Opdrachtnemer levert een concept (eind)rapportage of monitoringsplan (.docx) en 
+concept data aan binnen de termijn die wordt vastgesteld tussen de Opdrachtgever en 
+Opdrachtnemer. 
+8.7 3 Opdrachtnemer levert binnen twee weken na reactie van de aanbestedende dienst de 
+definitieve data (.xlsx of .csv) en rapportage (Word .docx en PDF.pdf) op. Opdrachtgever 
+streeft naar een reactie op het concept binnen vier weken. Overschrijding van deze termijn 
+kan desalniettemin geen aanleiding voor Opdrachtnemer zijn om zijn reactietijd te 
+verlengen.
+
+=== Document: bijlage 1a programma van eisen saas diensten ===
+Bijlage 1A Programma 
+van Eisen SaaS diensten 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+PvE SaaS diensten HDSR  2 
+Eis Standaarden voor clouddiensten 
+U.01 De inschrijver past aantoonbaar relevante, nationale standaarden en internationale 
+standaarden (conform Forum standaardisatie) toe voor de opzet en exploitatie van de 
+diensten en de interactie met HDSR - Sluit aan bij architectuurprincipe AL001 
+(221020_Enterprise_Architectuur_HDSR_Architectuurprincipes V0.9) 
+U.01.1 De inschrijver maakt haar dienstverlening transparant, zodanig dat HDSR daarmee 
+aantoonbaar aan de voor haar verplichte BIO en ‘pas toe of leg uit’-standaarden kan 
+voldoen. 
+ 
+Eis Continuïteitsservices 
+U.02 Informatie verwerkende faciliteiten behoren met voldoende redundantie te worden 
+geïmplementeerd om aan HDSR continuïteitseisen te voldoen. 
+U.02.1 De technische beschikbaarheid, (d.w.z. server, storage, netwerk en koppelpunt 
+datacenter, besturingssoftware, virtualisatie, database en middleware) van de SaaS-
+dienst dient, binnen de gestelde reactietijden (max. 1 seconde) en gebruikersaantallen 
+(tussen 500 en 600 en concurrent 200), een jaarlijkse beschikbaarheid te hebben van 
+minimaal 99,6%. 
+U.02.2 De  SaaS-dienst dient optimale performance te bieden (maximale reactietijd van 1 
+seconde). 
+U.02.3 De inschrijver dient gepland onderhoud minimaal 1 maand van te voren aan te 
+kondigen bij HDSR, inclusief welke wijzigingen doorgevoerd gaan worden. Het gepland 
+onderhoud vindt plaats tussen 99:00 uur tot 99:00 uur (SaaS dienst specifiek invulling 
+aangeven) van maandag tot en met vrijdag. Inschrijver bepaalt in overleg met HDSR 
+wanneer de werkzaamheden worden doorgevoerd.  EIS is dat het aangekondigd moet 
+worden 
+U.02.4 De inschrijver rubriceert storingen in de SaaS-dienst als volgt: 
+Kritiek: Wanneer HDSR meer dan 1 uur geen gebruik kan maken van de 
+dienstverlening. 
+Overig: Alle storingen die niet vallen onder de rubriek Kritiek of daartoe bijdragen.  
+Voor de storingen en servicelevels geldt e.e.a. voor zover dit in de invloedsfeer zit van 
+de Inschrijver. Voor storingen buiten de invloedsfeer van de Inschrijver geldt een 
+coördinatieverplichting om storingen zo snel mogelijk met HDSR of derden op te 
+lossen.  
+U.02.4a Voor storingen met rubricering Kritiek geldt voor de technische werking (d.w.z. server, 
+storage, netwerk en koppelpunt datacenter, besturingssoftware, virtualisatie, database 
+en middleware) de reactietijd op het incident, statusrapportage en hersteltijd zoals 
+hieronder vermeld: 
+- Reactietijd (de tijd tussen de melding bij de tweedelijnsupport van de Inschrijver, 
+interne bewakingsdienst of geautomatiseerde detectie en het tijdstip waarop Inschrijver 
+respons geeft met indicatie van corrigerende maatregelen) is maximaal 15 minuten na 
+melding; 
+- Hersteltijd (de tijd tussen de melding bij de tweedelijnsupport van de Inschrijver, 
+interne bewakingsdienst of geautoriseerde detectie en het tijdstip waarop de storing is 
+opgelost) is maximaal 60 minuten na melding. 
+U.02.4b Voor storingen met rubricering Overig geldt voor de technische werking de reactietijd 
+op het incident, statusrapportage en hersteltijd zoals hieronder vermeld: 
+• Reactietijd (de tijd tussen de melding bij de tweedelijnsupport van de Inschrijver, 
+interne bewakingsdienst of geautomatiseerde detectie en het tijdstip waarop Inschrijver 
+respons geeft met indicatie van corrigerende maatregelen) is maximaal 240 minuten; 
+• Statusrapportage wordt meegenomen in de periodieke rapportage  en bij elke 
+verandering van de situatie;  
+• Hersteltijd (de tijd tussen de melding bij de tweedelijnsupport van de Inschrijver, 
+interne bewakingsdienst of geautoriseerde detectie en het tijdstip waarop de storing is 
+opgelost) is maximaal 2 werkdagen in 85% van de gevallen, tenzij anders 
+overeengekomen met HDSR. 
+U.02.4c De inschrijver dient met HDSR de regels voor prioritering van incidenten op te stellen 
+en te onderhouden zodat alle incidenten meteen een prioriteit krijgen.  
+ 
+PvE SaaS diensten HDSR  3 
+Eis Continuïteitsservices 
+U.02.5 De inschrijver garandeert dat in geval van een calamiteit dat SaaS-dienst binnen 24 uur 
+na het ontstaan van de calamiteit weer beschikbaar is.  
+ 
+Eis Herstelfunctie voor data en clouddiensten 
+U.03 De herstelfunctie van de data en SaaS-diensten, gericht op ondersteuning van 
+bedrijfsprocessen, behoort te worden gefaciliteerd met infrastructuur en IT-diensten, die 
+robuust zijn en periodiek worden getest. 
+U.03.1 In geval van een calamiteit  dienen alle gegevens in de SaaS dienst tot maximaal 8 uur 
+voor het tijdstip van de calamiteit,  beschikbaar te zijn voor herstel. 
+U.03.2 Het continue proces van herstelbaar beveiligen van data wordt gemonitord en met 
+HDSR gedeeld danwel gerapporteerd. 
+U.03.3 Het toereikend functioneren van de herstelfuncties wordt periodiek (min. jaarlijks) of na 
+een grote wijziging getest door gekwalificeerd personeel en de resultaten daarvan 
+worden gedeeld met danwel gerapporteerd aan HDSR. 
+ 
+Eis Dataprotectie 
+U.04 Data (‘op transport’, ‘in verwerking’ en ‘in rust’) met de classificatie BBN2 of hoger 
+behoort te worden beschermd met cryptografische maatregelen en te voldoen aan 
+Nederlandse wetgeving. 
+U.04.1 Gegevenstransport wordt naar de laatste stand der techniek beveiligd met cryptografie 
+(conform Forum Standaardisatie), waarbij het sleutelbeheer zo mogelijk door HDSR 
+zelf wordt uitgevoerd. 
+U.04.2 De binnen de SaaS-dienst opgeslagen gegevens worden naar de laatste stand der 
+techniek beveiligd met encryptie en met een tenminste voor het doel toereikende 
+sleutellengte, waarbij het sleutelbeheer zo mogelijk niet als SaaS-dienst wordt 
+afgenomen en door HDSR zelf wordt uitgevoerd. 
+U.04.3 Gegevens dienen gegarandeerd binnen de Europees Economische Ruimte te worden 
+opgeslagen. 
+ 
+Eis Dataretentie en gegevensvernietiging 
+U.05 Gearchiveerde data behoren gedurende de overeengekomen bewaartermijn, 
+technologie-onafhankelijk, raadpleegbaar, onveranderbaar en integer te worden 
+opgeslagen en op aanwijzing van HDSR/data-eigenaar te kunnen worden vernietigd. 
+U.05.1 De gegarandeerde en met de inschrijver overeengekomen opslagduur is gelijk aan de 
+duur van de overeenkomst. En bepalingen in de exit strategie. 
+U.05.2 Gegevens zijn, onafhankelijk van de door de inschrijver toegepaste technologie, 
+raadpleegbaar tijdens de gehele bewaartermijn.  
+U.05.3 Gegevens worden gearchiveerd met Write Once Read Many (WORM)-technologie, 
+waarmee de integriteit van de data wordt gegarandeerd. 
+U.05.4 Voorafgaand aan het voor onderhoudsdoeleinden wijzigen van opslagmedia, worden 
+de data van HDSR, inclusief de back-up van gegevens en metadata veilig gesteld. 
+U.05.5 Bij het beëindigen van de overeenkomst worden de data van HDSR, inclusief de back-
+up van gegevens en de metadata na overdracht aan HDSR veilig gewist, om te 
+voorkomen dat HDSR-gegevens naderhand door de inschrijver kunnen worden 
+hersteld, bijvoorbeeld met forensische hulpmiddelen. 
+ 
+Eis Datascheiding 
+U.06 HDSR-gegevens behoren tijdens transport, bewerking en opslag duurzaam geïsoleerd 
+te zijn van beheerfuncties en data van andere dienstafnemers, die de inschrijver in 
+beheer heeft.  
+ 
+PvE SaaS diensten HDSR  4 
+Eis Datascheiding 
+U.06.1 De bevoegdheden voor het inzien of wijzigen van HDSR-data en/of van 
+encryptiesleutels door beheerfuncties en beheerders worden gecontroleerd verleend en 
+het gebruik van deze rechten wordt gelogd. 
+ 
+Eis Scheiding dienstverlening 
+U.07 De cloud-infrastructuur is zodanig ingericht dat de dienstverlening aan gebruikers van 
+informatiediensten zijn gescheiden. 
+U.07.1 De inschrijver realiseert de volgende scheiding van SaaS-diensten: 
+* onderlinge scheiding van dienstafnemers in een multi-tenant-omgeving; 
+* scheiding tussen de afgenomen cloud-service en de interne informatievoorziening van 
+de inschrijver; 
+* de inschrijver maakt het mogelijk om de beoogde scheiding van SaaS-diensten te 
+verifiëren. 
+ 
+Eis Malware-protectie 
+U.08 Ter bescherming tegen malware behoren door de inschrijver beheersmaatregelen te 
+worden geïmplementeerd voor detectie, preventie en herstel in combinatie met een 
+passend bewustzijn van de gebruikers. 
+U.08.1 De inschrijver specificeert, als onderdeel van de overeenkomst, welke maatregelen 
+(voor onder andere malware-protectie) op welke positie in de informatieketen van 
+HDSR en de inschrijver moeten worden genomen. 
+U.08.2 De inschrijver heeft de voor ontwikkeling en exploitatie van SaaS-diensten gebruikte IT-
+systemen en netwerkperimeters, waarvoor zij verantwoordelijk is, uitgerust met tools ter 
+bescherming en verwijdering van malware. 
+U.08.3 De malware-bescherming wordt op verschillende omgevingen uitgevoerd, zoals op 
+mailservers, (desktop)computers en bij de toegang tot het netwerk van de organisatie. 
+De scan op malware omvat onder andere: 
+* alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, 
+nog voor het gebruik; 
+* alle bijlagen en downloads nog voor het gebruik; 
+* virtuele machines; 
+* netwerkverkeer. 
+ 
+Eis Toegang IT-diensten en data 
+U.09 Gebruikers behoren alleen toegang te krijgen tot de IT-diensten en data waarvoor zij 
+specifiek bevoegd zijn. 
+U.09.1 De inschrijver biedt HDSR uitsluitend toegang tot services, IT-diensten en data 
+waarvoor zij specifiek bevoegd is, waarbij: 
+* Technische maatregelen voorkomen dat gebruikers en beheerders toegang hebben 
+tot services, IT-diensten en data buiten datgene wat formeel is toegestaan. 
+* Gebruikers met nood-toegangsrechten (in geval van calamiteiten, wanneer acties niet 
+door bevoegde beheerders kunnen worden uitgevoerd), zijn gedocumenteerd, door het 
+management geaccordeerd en wordt uitgevoerd met functiescheiding. Noodtoegang is 
+geactiveerd zolang als nodig is voor de corresponderende taak/taken. 
+U.09.2 Onder verantwoordelijkheid van de inschrijver wordt aan beheerders: 
+* toegang verleend tot data met het least privilege-principe; 
+* toegang verleend tot data met het need-to-know principe; 
+* toegang verleend met multi-factorauthenticatie; 
+* toegang verleend tot data en applicatieve functies via autorisatie maatregelen.  
+U.09.3 Alleen gebruikers met geauthenticeerde apparatuur kunnen toegang krijgen tot IT -
+diensten en data.  
+U.09.4 Onder de verantwoordelijkheid van de inschrijver worden bevoegdheden 
+(systeemautorisaties) voor gebruikers toegekend via formele procedures.  
+ 
+PvE SaaS diensten HDSR  5 
+Eis Toegang IT-diensten en data 
+U.09.5 Toegang tot IT-diensten en data is beperkt door technische maatregelen en is 
+geïmplementeerd, met gebruik van het rollen- en rechtenconcept. Gebruik van rollen en 
+rechten zoals vastgelegd in Active Directory; Single sign on is hierbij een eis.  
+U.09.6 Het benaderen van de een SaaS-dienst dient via het (webbased)  https protocol (de 
+toepassingslaag volgens het TCP/IP model) te geschieden. Andere protocollen voor 
+het benaderen van een SaaS dienst zijn niet toegestaan. 
+U.09.10 De SaaS dienst dient benaderbaar te zijn via een “fully qualified domain name”.  
+Een Fully Qualified Domain Name (FQDN) is een in het Internet Domain Name System 
+(DNS) geregistreerde volledige naam waarmee een server op het Internet uniek is te 
+identificeren en te adresseren. 
+ 
+Eis Cryptoservices 
+U.10 Gevoelige data van HDSR behoren middels cryptografische maatregelen tijdens 
+transport via netwerken en bij opslag bij inschrijver te zijn versleuteld. 
+U.10.1  In geval van PKIoverheid-certificaten: de inschrijver hanteert de PKIoverheid-eisen ten 
+aanzien van het sleutelbeheer. In overige situaties: de inschrijver hanteert de standaard 
+ISO 11770 voor het beheer van cryptografische sleutels. 
+ 
+Eis Koppelvlakken 
+U.11 De onderlinge netwerkconnecties (koppelvlakken) in de keten van HDSR naar de 
+inschrijver behoren door de inschrijver te worden bewaakt en beheerst om de risico’s 
+van datalekken te beperken. 
+U.11.1 In koppelpunten met externe of onvertrouwde zones heeft de inschrijver zijn 
+maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de 
+informatievoorziening negatief beïnvloeden (bijvoorbeeld Distributed Denial of Service 
+attacks (DDos)-aanvallen) te signaleren en hierop te reageren. 
+U.11.2 Fysieke en gevirtualiseerde netwerkcomponenten zijn door de inschrijver zodanig 
+ontworpen en geconfigureerd dat netwerkconnecties tussen vertrouwde en 
+onvertrouwde netwerken worden beperkt en gemonitord (bewaakt). 
+U.11.3 Beheeractiviteiten van de inschrijver zijn strikt gescheiden van de data van HDSR.  
+U.11.4 Dataverkeer voor dienstafnemers bij de inschrijver zijn in gezamenlijk gebruikte 
+netwerkomgevingen gescheiden volgens een gedocumenteerd concept voor de op 
+netwerkniveau (logische) segmentatie van dienstafnemers, om zo de integriteit en 
+vertrouwelijkheid van de verzonden gegevens te garanderen. 
+U.11.5 Het dataverkeer dat bij de inschrijver binnenkomt of uitgaat wordt, in relatie tot de aard 
+van de te beschermen gegevens/informatiesystemen, bewaakt en geanalyseerd op 
+kwaadaardige elementen middels detectievoorzieningen. 
+U.11.6 De inschrijver heeft Intrusion Detection Prevention (IDP) en Intrusion Detection System 
+(IDS) geïntegreerd in een allesomvattend Security Information and Event Management 
+(SIEM), zodat beveiligingsgebeurtenissen en onbekende apparatuur vanuit de 
+benodigde technische maatregelen worden opgemerkt en correctieve maatregelen 
+kunnen worden genomen. 
+U.11.7 Bij ontdekte nieuwe dreigingen worden deze, rekening houdend met geldende 
+juridische kaders, verplicht gedeeld binnen de overheid, waaronder met het NCSC of 
+het sectorale Computer Emergency Response Team (CERT), bij voorkeur door 
+geautomatiseerde mechanismen (threat intelligence sharing). 
+U.11.8 Er wordt door de inschrijver geen gebruik gemaakt van plug-in componenten (zoals o.a. 
+Microsoft Active X, Microsoft Silverlight, Microsoft ClickOnce, Adobe Flash en Java 
+plug-in. Onder plug-in componenten worden tevens de volgende software verstaan 
+VMware Horizon client, Citrix Receiver en Microsoft remote client.  
+Bedoeld wordt Java-software voor een client-device, ook Java Runtime Environment, 
+Java Runtime, JRE, Java Virtual Machine, Java VM, JVM, Java-uitbreiding of Java-
+download genoemd. 
+ 
+PvE SaaS diensten HDSR  6 
+ 
+Eis Interoperabiliteit en portabiliteit 
+U.12 Cloud-services zijn bruikbaar (interoperabiliteit) op verschillende IT-platforms en 
+kunnen met standaarden verschillende IT-platforms met elkaar verbinden en data 
+overdragen (portabiliteit). 
+U.12.1 Om de interoperabiliteit van cloud-services te garanderen, zijn gegevens beschikbaar 
+conform erkende industrie-standaarden en gedocumenteerde invoer- en 
+uitvoerinterfaces. 
+U.12.2 Om de portabiliteit van de data te garanderen, maakt de inschrijver gebruik van 
+beveiligde netwerkprotocollen voor de import en export van data waarmee de integriteit 
+en vertrouwelijkheid worden gegarandeerd. 
+ 
+Eis Logging en monitoring 
+U.13 Logbestanden waarin gebruikersactiviteiten, en informatiebeveiliging gebeurtenissen 
+worden geregistreerd, behoren te worden bewaard en regelmatig te worden 
+beoordeeld. 
+U.13.1 Beoordelingen en eventueel hieruit volgende maatregelen dienen door de inschrijver en 
+daar waar van toepassing door HDSR te worden vastgelegd. 
+U.13.2 De SIEM en/of Security Operation Centre (SOC) hebben heldere regels over wanneer 
+een incident moet worden gerapporteerd aan het verantwoordelijk management. 
+U.13.3 De inschrijver hanteert een lijst van alle assets die kritisch zijn in termen van logging  en 
+monitoring en beoordeelt deze lijst regelmatig (min. 1x per half jaar) op correctheid.  
+U.13.4 Aan logboeken en bewaking worden strenge eisen gesteld. Voor de kritieke 
+componenten zijn geavanceerde beveiligingen voor logboeken en bewaking door de 
+inschrijver gedefinieerd. 
+U.13.5 De toegang tot en het beheer van de loggings- en monitoringsfunctionaliteit is beperkt 
+tot geselecteerde en geautoriseerde medewerkers van de inschrijver.  
+U.13.6 Wijzigingen in logging en monitoring worden gecontroleerd door onafhankelijke en 
+geautoriseerde medewerkers. (Logregels mogen nooit worden gewijzigd; deze zijn 
+immers bedoeld om als bewijslast te kunnen gebruiken). 
+ 
+Eis Multi-tenantarchitectuur 
+U.14 Bij multi-tenancy worden HDSR-data binnen SaaS-diensten, die door meerdere klanten 
+worden afgenomen, in rust versleuteld en gescheiden verwerkt op gehardende 
+(virtuele) machines. 
+U.14.1 HDSR-data op transport en in rust zijn versleuteld.  
+U.14.2 Virtuele machine platforms voor dienstafnemers van de inschrijver met 
+speciale/verhoogde beveiligingsvereisten zijn gescheiden ingericht. 
+U.14.3 Virtuele machine platforms zijn gehardend.  
+ 
+Eis Tweedelijnsupport 
+U.H. HDSR heeft een eigen helpdesk organisatie voor eerste lijn support, een productowner, 
+functioneelbeheerders en keyusers.  
+U.H.1 De Inschrijver zal minimaal 2 vaste contactpersonen toewijzen voor tweede lijnsupport 
+voor de HDSR productowner en functioneelbeheerders. 
+U.H.2 Alle contactpersonen van de inschrijver voor de tweedelijnsupport zijn na de 
+projectfase bij voorkeur Nederlandstalig en anders tenminste Engelstalig. 
+U.H.3 De contactpersonen van de inschrijver zijn bereikbaar op, werkdagen tussen 8:00 en 
+17:00 uur, via diverse media zoals telefoon, mail en chat. 
+U.H.4 De inschrijver geeft maandelijks aan HDSR input op basis van loggegevens om de 
+frequently asked questions en antwoorden daarop te verbeteren.  
+ 
+ 
+PvE SaaS diensten HDSR  7 
+Eis SaaS dienst 
+S.D. Specifieke eisen met betrekking tot een SaaS dienst het device waarop gewerkt wordt.  
+(Denk aan laptop, mobiele telefoon of tablet)  
+S.D.1 Een SaaS dienst dient responsivie  te zijn. De SaaS dienst dient zich te kunnen 
+aanpassen aan het device waarop gewerkt wordt.  (Denk aan laptop, mobiele telefoon 
+of tablet) 
+S.D.2 Alle gebruikersinterfaces (GUI's) zijn volledig ‘webbased’ en conformeren zich aan de 
+W3C standaard zonder enige beperking voor wat betreft weergave en functionaliteit 
+(interfaces t.b.v. functioneel beheer vallen hier ook onder).  
+S.D.3 Voor de presentatie van een SaaS dienst aan eindgebruikers (inclusief funct ioneel 
+beheerders) is het niet toegestaan gebruik te maken van zogenaamde remote desktop, 
+virtual desktop infrastructuur (VDI) en/of server based computing (SBC) technologieën 
+(voorbeelden hiervan zijn o.a. VMware Horizon, Citrix Xenapp en Microsoft remote  
+desktop services). Deze technologieën worden niet als "volledig webbased" beschouwd 
+(zie voorgaande eis). 
+S.D.4 HDSR streeft naar browseronafhankelijkheid van een SaaS dienst, daarom dient een 
+SaaS dienst (voor wat betreft de volledig aangeboden functionaliteit) MINIMAAL 
+geschikt te zijn voor het gebruik in de volgende webbrowsers: Mozllla Firefox; Google 
+Chrome; Safari; Microsoft Edge. 
+S.D.5 Voor het functioneren van een SaaS dienst op het client device en/of in de webbrowser 
+zijn geen verdere instellingen, dan wel installaties (op het client device en/of in de 
+browser) benodigd. 
+S.D.6 De inschrijver accepteert dat goedkeuring tot het gebruik van de SaaS dienst alleen 
+afgegeven wordt na een technische acceptatietest waarbij nagegaan wordt of de SaaS 
+disnet, voor wat betreft de volledige functionaliteit, ook daadwerkelijk aan de gestelde 
+eisen in dit document voldoet.
+
+=== Document: nota van inlichtingen def ===
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+1 Tenderned Eisen UEA Dient het UEA formulier tweemaal geüpload te worden bij vraag 2 
+Verplichte Uitsluitingsgronden en vraag 3 Facultatieve 
+uitsluitingsgronden?
+Nee, u hoeft slechts eenmaal het UEA in te vullen en te uploaden.
+2 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit par 5.3 pag 
+19
+Mogen er in de plannen van aanpak voor de verschillende 
+subgunningscriteria namen genoemd worden van experts?
+Ja, dat mag.
+3 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit par 5.1 pag 
+18
+In het rekenvoorbeeld staat een inschrijfprijs vermeld, is deze prijs 
+de uiteindelijke totaalprijs die uit het inschrijfbiljet komt na invullen 
+van de uurtarieven met de al reeds ingevulde uren ? (Er zit een 
+factor 10 verschil in deze totaalprijs)
+Nee, dit is niet de uiteindelijke totaalprijs. Dit is een fictief bedrag 
+dat puur bedoeld is als voorbeeld om toe te lichten hoe de 
+gunningsmethodiek laagste prijs per kwaliteitspunt werkt. 
+4 Bijlage 2 Concept Raamovereenkomst 
+Artikel 5.1 pag 3-4
+In artikel 5.1 staat dat de opdrachtnemer jaarlijks gerechtigd is per 1 
+mei haar tarieven aan te passen op basis van de CBS dienstenindex 
+voor ingenieurs en aanverwante technische adviseurs (7112). Is de 
+eerste mogelijkheid op 1 mei 2025 of op 1 mei 2026.
+Dit is 1 mei 2026. Zie ook het antwoord op vraag 8.
+5 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit par 5.1 pag 
+18
+De wegingen in de eerste tabel komen niet overeen met de 
+wegingen uit de 2e tabel. Is de gegeven voorbeeldberekening een 
+toepassing van een ander wegingsysteem?
+De wegingen in de tweede tabel zijn niet de wegingen die gebruikt 
+worden in deze aanbesteding maar fictieve wegingen. Deze tabel 
+is puur bedoeld om de werking van de systemathiek uit te leggen. 
+6 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit par. 3.4 pag 
+16
+Voor elk van de kercompetities dient minimaal één referentie 
+ingedient te worden. Dit indiceert dat er ook meerdere referenties 
+ingediend mogen worden. Klopt dat?
+Hiermee wordt bedoeld dat u tenminste één opdracht heeft 
+uitgevoerd waarin u de beschreven ervaring heeft opgedaan. 
+Hiervan geeft u de referentie. Heeft u meerdere opdrachten 
+uitgevoerd waarin u de opgedane ervaring heeft opgedaan dan 
+kiest u één van de opdrachten als referent. U hoeft maar één 
+referentie per kerncompetentie in te dienen.
+7 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit	 5.3.2 en 
+5.3.1 pag 21
+Het plan van aanpak voor de 2 casussen mag uit max. 4 pagina’s 
+bestaan. Is het aantal pagina's inclusief voorblad/ inhoudsopgave?
+het maximaal aantal pagina's van 4 is exclusief een eventueel 
+voorblad en inhoudsopgave.
+8 concept Raamovereenkomst art. 5.6 Uw geeft aan dat indexering per 1 mei mogelijk is. Dit zou dan voor 
+het eerst mei 2026 zijn, terwijl de ROK per 1 januari 2025 start, dus 
+bijna 1,5 jaar na start. Dit is in tegenstrijd met art. 5.4, waar 1 jaar 
+bedoeld wordt.
+Kunt 5.6 aanpassen naar jaarlijks indexeren per 1 januari.
+De indexering gaat in jaarlijks per 1 mei omdat dan de definitieve 
+indexcijfers bekend zijn en gebruikt kunnen worden. HDSR 
+hanteert als uitgangspunt dat nooit binnen het eerste jaar wordt 
+geïndexeerd. De eerste keer indexering duurt daardoor inderdaad 
+meer dan 1 jaar; vervolgens vindt indexering wel ieder jaar plaats.
+9 concept raamovereenkomst artikel 
+5.12
+Wat bedoelt u met verklaring van de Bedrijfsvereniging omtrent 
+betalingsgedrag? Normaliter wordt alleen verklaring van de 
+Belastingdienst opgevraagd.
+Een dergelijke verklaring is alleen nodig indien HDSR hierom 
+vraagt, en alleen indien deze beschikbaar is. Indien een dergelijke 
+verklaring bijvoorbeeld in uw branche niet gebruikelijk is zal HDSR 
+u hier niet om vragen.
+Europese openbare aanbesteding
+
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+10 concept Raamovereenkomst artikel 
+11.2
+Wat bedoelt u met "een beroep op overmacht kan maximaal 5 
+werkdagen duren"? Een situatie vanwege overmacht kan immers 
+veel langer duren, dat is niet te voorspellen. Bedoelt u dat het beroep 
+binnen 5 werkdagen moet worden aangekaart? Graag 
+verduidelijken.
+Hiermee bedoelen wij dat u overmacht binnen 5 werkdagen 
+kenbaar moet maken.
+11 Bijlage 6a verordening EU De pdf is zo te zien niet invulbaar. Kunt u dit controleren en zo nodig 
+een nieuwe wel invoelbare versie in TenderNed zetten.
+Het bestand is vervangen door een word-versie.
+12 Social Return Hoe ziet u de realisatie van Social Return voor zich bij een 
+raamovereenkomst waarvan de omzet voor opdrachtnemer 
+onvoorspelbaar is. Pas achteraf kan er 5% berekend worden. Inzet 
+van mensen uit de doelgroepen is in het veelal hoogspecialistische 
+werk om meerdere redenen (opleidingsniveau, veiligheidsaspecten 
+veldwerk) zeer lastig te realiseren en bij relatief kleine opdrachten 
+niet realistisch. De doelstelling van social return is lovenswaardig 
+maar het levert in de praktijk veel bureaucratie op waar de doelgroep 
+niet mee bereikt wordt, oftewel werkverschaffing voor anderen dan 
+de doelgroepen.
+HDSR is zich ervan bewust dat het bij opdrachten waarbij 
+specialistische kennis wordt vereist moeilijk is om invulling te 
+geven aan social return binnen de uitvoering van de opdracht. Om 
+deze reden zijn in bijlage 9 meerdere manieren benoemd waarop 
+invulling kan worden gegeven aan social return. Na 
+opdrachtverlening wordt de opdracht aangemeld bij het 
+werkgeverservicepunt (WGSP) waar HDSR mee samenwerkt. Het 
+WGSP stelt samen met u een plan op voor de invulling van de 
+verplichting. De praktijk laat zien dat op deze manier ook in 
+opdrachten voor specialistische dienstverlening invulling kan 
+worden gegeven aan SROI.
+Voor wat betreft het bedrag wordt bij opdrachtverlening door 
+HDSR een verwachte opdrachtwaarde meegegeven. Uw invulling 
+van de SROI-verplichting wordt gebaseerd op dit bedrag. De 
+uiteindelijke verplichting wordt gebaseerd op de gerealiseerde 
+omzet en kan daarmee afwijken van het initiële bedrag.
+13 Aanbestedingsdocument § 1.6 Kunt u nader toelichten hoe u deze verdeling transparant uitvoert? De genoemde percentages zijn niet exact, maar geven een 
+streven aan. Door verschillen in opdrachtwaarde tussen 
+individuele opdrachten zal de verdeling niet exact worden bereikt. 
+Uitgangspunt is echter wel dat de opdrachten ongeveer gelijk 
+verdeeld zullen worden tussen de raamcontractanten, waarbij de 
+winnende partij een klein voordeel heeft. De opdrachten worden 
+daarom in principe ook min of meer bij toerbeurt verdeeld (het is 
+niet de bedoeling om één partij meerdere opdrachten achter elkaar 
+te geven voordat wordt overgegaan tot de volgende partij). De 
+verdeling van opdrachtwaarde wordt bijgehouden door de 
+contractmanager. Deze kan ingrijpen als de verdeling scheef 
+dreigt te lopen.
+2
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+14 inschrijving via TenderNed: UEA 
+meermaals gevraagd
+In TenderNed wordt op twee plaatsen om het UEA gevraagd. Is dit 
+echt nodig, het gaat immers om hetzelfde document.
+Zie het antwoord op vraag 1
+15 Gunningscriteria 2 en 3 Kunt u bevestigen dat de gunningscriteria 2 en 3 niets met de casus 
+van gunningscriterium 1 te maken hebben?
+Ja, dat klopt. Subgunningscriterium 2 en 3 worden los van 
+subgunningscriterium 1 beoordeeld. De casus is alleen relevant 
+voor criterium 1. 
+16 kwaliteitsdocumenten Kunt u bevestigen dat alleen het aantal pagina's per 
+subgunningscriterium is bepaald, en dat het format (lettertype, 
+marges e.d.) door inschrijvers zelf bepaald kan worden.
+We gaan uit van minimaal lettertype 10 in arial of een soortgelijk 
+lettertype, waarbij vooral van belang is dat de tekst goed leesbaar 
+is. Een eventueel voorblad en inhoudsopgave tellen niet mee met 
+het maximaal aantal pagina's. 
+17 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit 5.3.2 en 
+5.3.1 pag 19-20-21
+Mogen bij de uitwerking van casus 1 en casus 2 namen worden 
+benoemd voor specifieke rollen?
+Ja, dat mag.
+18 Aanbestedingsdocument ROK 
+ecologische waterkwaliteit 5.3.2 pag 
+20-21
+In de casus 2 datavewerking en KRW-toetsing wordt op pagina 20 
+gesproken over "Beschrijf de werkzaamheden die u uitvoert vanaf de 
+oplevering van een databestand met als einduitkomst de EKR-
+toetsbestanden uit Aquo-Kit.". Vervolgens wordt op pagina 21 
+gesproken over "De mate waarin de aanpak concreet en volledig is 
+uitgewerkt op onderdelen die voor de KRW-beoordeling van belang 
+zijn.". Betekent dit dat de uitwerking van de casus inclusief KRW-
+beoordeling is?
+Ja, dat klopt. Op pagina 21 wordt ook vermelding gemaakt van 
+controle van de toetsoordelen en een beknopte verschillenanalyse 
+en overzicht van oordelen. 
+19 Bijlage 4 Inschrijfbiljet onderdeel 
+PRIJS
+Is het mogelijk om per functie minimale- en maximale uurtarieven op 
+te geven voor het gunningscriterium prijs?
+Nee, dit is niet mogelijk, omdat de inschrijvingen dan niet met 
+elkaar te vergelijken zijn op het criterium prijs.
+20 5.3.2.Subgunningscriterium 2: 
+dataverwerking en KRW-toetsing; 
+pagina 20
+Wat verstaat u onder een verschillenanalyse of is dit vrij in te vullen 
+door de opdrachtnemer?
+We verstaan onder een verschillen analyse: het vergelijken en 
+inzichtelijk maken van verschillen in EKR's tussen jaren, 
+kwaliteitselementen/ parameters/ (deel)maatlatten  voor de 
+waterlichamen en onderliggende locaties.
+21 5.3.2.Subgunningscriterium 2: 
+dataverwerking en KRW-toetsing; 
+pagina 20
+"ongeacht of e.e.a. al verwerkt is in bestaande scripts."  Kan u toch 
+inzicht geven in welke scripts  er al zijn en zou u een voorbeeld 
+beschikbaar kunnen maken?
+In 5.3.2 is aangegeven dat er scripts zijn o.a. voor het controleren 
+van de opgeleverde biologische databestanden en voor exports uit 
+het datasysteem zodat deze Aquo-Kit-proof zijn. Het delen van de 
+scripts heeft op dit moment geen meerwaarde. Er wordt juist 
+gevraagd om uw input ongeacht de scripts, zodat u blijk kan geven 
+van uw kennis en inzichten in dit vakgebied.
+22 Bijlage 1 Programma van Eisen, 6 
+Data en dataverwerking, punt 5
+Krijgt opdrachtnemer directe toegang tot de github-organisatie van 
+HDSR?
+We verwachten van wel. Indien niet mogelijk dan zorgt HDSR voor 
+beschikbaarheid van de juiste versie
+3
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+23 Bijlage 1 Programma van Eisen, 6 
+Data en dataverwerking, punt 3
+"Opdrachtnemer houdt er rekening mee dat nog niet alle biologische 
+monitoringsgegevens reeds in het datasysteem van HDSR zitten, en 
+(deels) nog niet beschikbaar zijn in het Aquo IM Metingen 
+exportformaat." --> Betekent dit dat niet alle meetjaren in het 
+datasysteem zitten of ook bepaalde parameter(groepen)? En zo ja, 
+om welke parameter(groepen) gaat dit?
+Nog niet alle biologische data zit in het datasysteem. Dit geldt voor 
+de meeste soortgroepen na 2020. Van eerdere jaren zitten de 
+gegevens er wel in van alle soortgroepen. Uiteraard zijn de reeds 
+getoetste KRW-gegevens van na 2020 al wel beschikbaar in Aquo 
+formaat. Chemische data zitten wel volledig in datasysteem.
+24 1.6. Opdrachtwaarde en verdeling; 
+pagina 7
+Verstrekt u binnen de ROK op regelmatige basis overzichten van uit 
+te zetten opdrachten, zodat wij ons kunnen voorbereiden en 
+opdrachten eventueel in gezamenlijk overleg met andere ROK-
+houders kunnen verdelen?
+We proberen zoveel mogelijk inzichtelijk te maken welke 
+opdrachten we verwachten uit te zetten en dit vooraf te 
+communiceren. Uiteindelijk is het aan HDSR om te bepalen welke 
+raamcontractant welke opdracht uitvoert.
+25 1.6. Opdrachtwaarde en verdeling; 
+pagina 7
+"Per nadere opdracht wordt bekeken welke van de 
+raamcontractanten de meest geschikte partij is voor de opdracht. De 
+partij die de beste prijs-kwaliteitsverhouding behaalt bij deze 
+aanbesteding heeft daarbij recht op het grootste deel van de omzet. 
+Hierbij houdt HDSR de volgende verdeling van opdrachtwaarde aan 
+van 40-30-30%'. Wat gebeurt er als een partij zijn/haar aandeel van 
+40%/ 30% heeft gehad, maar voor de volgende opdracht de meeste 
+geschikte partij is? Hoeveel en hoe kunnen we recht ontlenen aan de 
+verdeling van 40-30-30?
+De genoemde percentages zijn niet exact, maar geven een 
+streven aan. Door verschillen in opdrachtwaarde tussen 
+individuele opdrachten zal de verdeling niet exact worden bereikt. 
+Uitgangspunt is echter wel dat de opdrachten ongeveer gelijk 
+verdeeld zullen worden tussen de raamcontractanten, waarbij de 
+winnende partij een klein voordeel heeft. De opdrachten worden 
+daarom in principe ook min of meer bij toerbeurt verdeeld (het is 
+niet de bedoeling om één partij meerdere opdrachten achter elkaar 
+te geven voordat wordt overgegaan tot de volgende partij). De 
+verdeling van opdrachtwaarde wordt bijgehouden door de 
+contractmanager. Deze kan ingrijpen als de verdeling scheef 
+dreigt te lopen.
+26 5.1. Gunning; pagina 18 De weging in de eerste tabel van de subgunningscriteria (45-35-
+20%) is anders dan in het fictieve rekenvoorbeeld (50-3-20%). Wat is 
+de goede verhouding?
+De weging van de eerste tabel is de juiste. De wegingen in de 
+tweede tabel zijn niet de wegingen die gebruikt worden in deze 
+aanbesteding maar fictieve wegingen. Deze tabel is puur bedoeld 
+om de werking van de systemathiek uit te leggen. 
+27 Bijlage 4 inschrijfbiljet U geeft een aantal uren per functie. Is dit ook ongeveer de 
+verwachtte inzet per functie (in verhouding)?
+Dit is een hypothetische inzet maar mogelijk wel enigszins 
+representatief. 
+28 5.2. Gunningscriterium Prijs; pagina 
+19
+U geeft een medior adviseur aan indien gebruikelijk bij ON. Dit veld 
+zien we echter niet terug in Bijlage 4 Inschrijfbiljet. Bovendien is 
+onduidelijk welke ervaring u hecht aan de medior adviseur. Ons 
+voorstel is om de medior adviseur > 5 jaar ervaring te hanteren en 
+een senior adviseur> 15 jaar ervaring.
+HDSR heeft een derde tarief voor ecologisch adviseur toegevoegd 
+en de urenverdeling op het inschrijfbiljet aangepast. In het 
+aanbestedingsdocument is de derde tariefgroep toegevoegd in de 
+tabel op pagina 19. Mocht u maar twee tarieven hanteren, dan 
+kunt u voor de medior en senior hetzelfde tarief hanteren. U kunt 
+deze tarieven ook hanteren in de casus.
+4
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+29 5.2. Gunningscriterium Prijs; pagina 
+19
+U vraagt van een aantal functies een uurtarief in te vullen. U noemt 
+specifiek een ervaren ecoloog met meer dan 5 jaar werkervaring. Wij 
+missen hier echter de functie voor zeer ervaren ecoloog met meer 15 
+jaar ervaring. Deze functie biedt meerwaarde ten opzichte van de 
+ecoloog met > 5 jaar ervaring . Deze ecoloog > 15 jaar werkervaring 
+zullen we straks in opdrachten niet in kunnen zetten voor hetzelfde 
+bedrag als waarvoor we een ecoloog > 5 jaar ervaring inzetten. Kunt 
+u een functie toevoegen voor een ecoloog  > 15 jaar ervaring, zodat 
+wij daar ook een tarief voor kunnen aangeven?
+Zie het antwoord op vraag 28.
+30 5.3.2.Subgunningscriterium 2: 
+dataverwerking en KRW-toetsing; 
+pagina 21
+U geeft een tabel met werkzaamheden in rijen en functies in 
+kolommen om in te vullen voor de casus. Mogen wij de rijen 
+aanpassen naar door ons voorziene werkzaamheden?
+Voor de vergelijkbaarheid willen we dit enigszins gelijkhouden. Er 
+mag eventueel 1 aanvullende kolom worden toegevoegd. 
+31 5.3.1.Subgunningscriterium 1: 
+Watersysteemanalyse; pagina 19
+U geeft een tabel met werkzaamheden in rijen en functies in 
+kolommen om in te vullen voor de casus. Mogen wij de rijen 
+aanpassen naar door ons voorziene werkzaamheden?
+Voor de vergelijkbaarheid willen we dit enigszins gelijkhouden. Er 
+mogen eventueel 2 aanvullende kolommen worden toegevoegd. 
+32 Bijlage 10 Casus Oud kamerik De analyse vindt binnen 3 maanden plaats'. Is dat willekeurig in het 
+jaar, vanaf heden of vanaf start raamcontract?
+Dat is vanaf het start van het raamcontract. Er mag zelf worden 
+gekozen wanneer in het jaar de analyse plaatsvindt.  
+33 5.3.3.Subgunningscriterium 3: 
+Expertise, efficiëntie en capaciteit; 
+pag. 22
+Voor subgunningscriterium 3 is maximaal 1 pagina toegestaan. Kan 
+dit uitgebreid worden naar maximaal 2 pagina's?
+Nee, we verwachten dat het mogelijk is om dit op 1 pagina te 
+beschrijven. 
+34 Aanbestedingsdocument 3.4.1 Voor de kerncompetentie ‘watersysteemanalyse’ willen we graag een 
+opdracht opvoeren die in twee fases door ons is uitgevoerd en 
+waarvoor door opdrachtgever afzonderlijk opdracht is verstrekt. De 
+twee fases hebben betrekking op de watersysteemanalyse voor 
+exact hetzelfde watersysteem. Is het akkoord als we beide fases als 
+gezamenlijk project opvoeren voor de kerncompetentie 
+’watersysteemanalyse’?
+Indien de tweede opdracht een logisch vervolg is op de eerste 
+opdracht dan mogen de gefactureerde bedragen worden opgeteld. 
+35 Paragraaf 1.6 In paragraaf 1.6 wordt  beschreven hoe de totale opdrachtwaarde 
+over de die raamcontractanten wordt verdeeld. Geldt er voor de 
+raamcontractanten een verplichting om de toebedeelde opdrachten 
+aan te nemen?
+Ja, conform art. 2.1 van de raamovereenkomst bent u in principe 
+verplicht een offerte uit te brengen en de opdracht uit te voeren als 
+HDSR daarom vraagt. Aangezien er meerdere raamcontractanten 
+zijn, is het in bijzondere gevallen mogelijk dat HDSR aan een 
+tweede raamcontractant een offerte vraagt. 
+5
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+36 Paragraaf 3.3 In paragraaf 3.3 worden geschiktheidseisen benoemd waar de 
+inschrijvers aan moeten voldoen. Gelden deze eisen, met name die 
+ten aanzien van financiële en economische draagkracht, bij 
+combinatievorming voor elk van de deelnemers aan de combinatie 
+afzonderlijk of volstaat het als een van de deelnemers uit de 
+combinatie aan de eisen voldoet? En geldt dat ook in dezelfde mate 
+voor derden waarop een beroep wordt gedaan?
+Bij combinatievorming of een beroep op derden geldt dat één van 
+de deelnemers aan de genoemde eis moet voldoen. 
+37 Paragraaf 3.4.2 Paragraaf 3.4.2 beschrijft de kerncompetentie KRW-toetsing. Mogen 
+opdrachten bij elkaar opgeteld worden om tot de gevraagde 
+gefactureerde opdrachtwaarde te komen?
+Nee, dat is niet toegestaan. U dient één referentieproject in te 
+dienen dat aan de gevraagde opdrachtwaarde voldoet. Zie het 
+antwoord op vraag 34 voor een uitzondering hierop. Mocht u zelf 
+geen referentieproject hebben dat aan deze eis voldoet, dan kunt 
+u inschrijven in samenwerking met een derde (combinatie of 
+onderaanneming).
+38 Paragraaf 5.1 In paragraaf 5.1 worden fictieve inschrijfsommen genoemd tussen 
+150.000 en 160.000 euro. Qua ordegrootte lijkt dit niet overeen te 
+komen met de waarde van de uren die in bijlage 4 genoemd worden. 
+Kunt u een nadere toelichting geven op de berekening van de 
+inschrijfsom die wordt gebruikt voor het gunningscriterium prijs 
+(paragraaf 5.2)?
+De bedragen in deze tabel zijn fictief en staat totaal los van de 
+inschrijfprijs. Deze tabel is puur bedoeld als voorbeeld om toe te 
+lichten hoe de gunningsmethodiek laagste prijs per kwaliteitspunt 
+werkt. 
+39 Paragraaf 5.3.2 In paragraaf 5.3.2 wordt verwezen naar reeds bestaande R-scripts. 
+Kunnen deze R-scripts bij de Nota van Inlichtingen worden gedeeld 
+ten behoeve van de uitwerking van de casus voor 
+subgunningscriterium 2?
+In 5.3.2 is aangegeven dat er scripts zijn o.a. voor het controleren 
+van de opgeleverde biologische databestanden en voor exports uit 
+het datasysteem zodat deze Aquo-Kit-proof zijn. Het delen van de 
+scripts heeft op dit moment geen meerwaarde. Er wordt juist 
+gevraagd om uw input ongeacht de scripts, zodat u blijk kan geven 
+van uw kennis en inzichten in dit vakgebied.
+40 Aanbestedingsdocument par. 5.1, 
+pagina 18
+Welk van de tabellen in 5.1 klopt qua weging subcriterium? De 
+eerste tabel waar 45% staat als weging. Of de tweede tabel waar 
+50% staat als weging. (moeten de percentages punten zijn?).
+De eerste is de juiste. De wegingen in de tweede tabel zijn niet de 
+wegingen die gebruikt worden in deze aanbesteding maar fictieve 
+wegingen. Deze tabel is puur bedoeld om de werking van de 
+systemathiek uit te leggen. 
+41 Aanbestedingsdocument § 5.3.2 Casus 2 gaat over 2 verschillende zaken: Dataverwerking en KRW-
+toetsing. Verwacht u dat we ook de controle van de oplevering van 
+leveranciers doen die een monitoring hebben uitgevoerd vóór 
+acceptatie van de data door het waterschap?
+Ja
+6
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+42 Aanbestedingsdocument par. 5.3.2 Hoe ziet de interne datacontrole eruit bij HDSR voor en na het 
+moment van acceptatie van data door leveranciers die een 
+monitoring hebben uitgevoerd?
+Voor fysisch chemische data zijn validatieregels opgenomen in het 
+datasysteem van HDSR. Biologische data wordt via scripts 
+gecontroleerd. Deze zijn continu in ontwikkeling. De output wordt 
+alijd via expert judgement beoordeeld en vervolgens waar nodig 
+omgezet naar feedback voor de dataleverancier. Data die opnieuw 
+wordt opgeleverd door de leverancier wordt wederom 
+gecontroleerd.
+43 Aanbestedingsdocument § 5.3.2 Wat verwacht u dat we nog aan datacontrole/bewerking doen na de 
+acceptatie van de data door het waterschap en voor KRW-toetsing?
+Het controleren van de geleverde gegevens en het voorbereiden 
+van de KRW-toetsing incl. hierbij behorende controles zijn 2 
+verschillende dingen. Wij vragen nu om uw input zodat u blijk kan 
+geven van uw kennis en inzichten in dit vakgebied. Voorbeelden 
+zijn format, biotaxon namen, wel/niet importeren van specifieke 
+parameter(groepen) in bepaalde compartimenten, etc. 
+44 Aanbestedingsdocument par. 5.3.2 Mogen wij ervan uitgaan dat we geen controle hoeven uit te voeren 
+op de data die al in FEWS zitten en/of daaruit geëxporteerd worden?
+In principe is deze data al gevalideerd. Desondanks is het altijd 
+van belang om alert te zijn op afwijkingen en (on)volledigheid, 
+afhankelijk van het doel van de exports.
+45 Aanbestedingsdocument § 5.3.2 De praktijk wijst uit dat er vaak nog foutjes zitten in databases zowel 
+voor en na invoer in het datasysteem. Heeft het waterschap hier 
+interne controleprocedures voor of verwacht u dat wij dit beide 
+verzorgen?
+Ja, er zijn procedures voor. Deze zijn bij een toetsing onderdeel 
+van de opdracht. Ook kan gevraagd worden de procedures te 
+optimaliseren.
+46 Aanbestedingsleidraad par. 5.3.3. 
+pagina 20-21
+Er wordt veel tekst gewijd aan bestaande controles, in de vorm van 
+R-scripts en FEWS-EFCIS. Tegelijkertijd wordt er gesteld dat de 
+casus moet worden ingestoken alsof er nog geen bestaande scripts 
+zijn. Hoe moeten we beide met elkaar rijmen?
+Voor het hebben van realistische verwachtingen voor eventuele 
+opdrachten onder deze raamovereenkomst is het goed als u weet 
+dat bepaalde werkprocessen al ondergebracht zijn in bepaalde 
+scripts. Voor dit criterium wordt juist gevraagd om uw input 
+ongeacht de scripts, zodat u blijk kan geven van uw kennis en 
+inzichten in dit vakgebied.
+47 Aanbestedingsdocument par. 1.3 
+pagina 5
+Wat verstaat u onder chemische waterkwaliteit? Nutriënten, toxische 
+stoffen of bijvoorbeeld ook prioritaire stoffen?
+Het betreft inderdaad ook stoffen zoals prioritaire stoffen. Echter 
+als het erg gedetaileerde analyses betreft waarbij zeer specifieke 
+kennis nodig is, dan kunnen de analyses buiten de scope vallen. 
+Zie daarom ook deze bullet bij  buiten de scope: "Analyses met als 
+nadruk toxicologische beoordelingen en gerelateerde methodes 
+(o.a. bio-assays). Hetzelfde geldt voor studies naar nieuwe stoffen 
+en medicijnresten."
+7
+Nota van Inlichtingen
+Raamovereenkomst Ecologische waterkwaliteit
+Datum: 4-11-2024
+Nr. Betreft Vraag Antwoord
+Europese openbare aanbesteding
+48 Aanbestedingsdocument par. 2.7.2 Onder 2.7.2 staat bij de eerste bullet  'Als u een beroep doet op een 
+derde om te kunnen voldoen aan de geschiktheidseisen en/of 
+gunningscriteria'. Bij de tweede bullet staat alleen "Als u een beroep 
+doet op een derde om te kunnen voldoen aan de 
+geschiktheidseisen"  Wat is juist en kunt u dit toelichten? (met een 
+voorbeeld)
+Voor beide geldt dat het alleen gaat om de geschiktheidseisen. Dit 
+is aangepast in de tekst. Als u een beroep doet op een derde partij 
+om te voldoen aan een geschiktheidseis (bijvoorbeeld een 
+referentieproject), dan bent u verplicht om deze partij ook 
+daadwerkelijk in te zetten bij de uitvoering van de opdracht, en om 
+voor deze partij een UEA in te dienen. Als u wél een derde in 
+wenst te zetten als onderaannemer, maar u heeft deze partij níet 
+nodig om aan de geschiktheidseisen te voldoen, dan hoeft u voor 
+deze partij géén UEA in te dienen. 
+Voor de gunningscriteria geldt: de beloftes die u doet bij de 
+beantwoording van de gunningscriteria, worden onderdeel van de 
+overeenkomst. Dat betekent dat als u de inzet van een specifieke 
+partij belooft voor bepaalde onderdelen van de opdracht, u ook 
+verplicht bent deze partij voor die onderdelen daadwerkelijk in te 
+zetten. 
+49 Aanbestedingsdocument par. 2.7.2. Mogen we in een later stadium nog derden betrekken die nu niet in 
+het proces zitten?
+Ja, dit is toegestaan. Als u een beroep wenst te doen op een 
+derde om te voldoen aan de geschiktheidseisen, dan dient u deze 
+derde wel bij inschrijving te noemen en dient deze derde ook een 
+UEA in te vullen. Als u echter na opdrachtverlening gebruik wil 
+maken van een derde bij uitvoering van een individuele opdracht, 
+dan hoeft u dit niet nu al aan te geven.
+8
+
+=== Document: uea_488315_20240926102216 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 32TN-488315 - 26 sep. 2024
+Relevante aankondiging
+Nummer aankondiging in PB 
+EU S (alleen indien u beschikt 
+over dit nummer):
+-
+Vermeld, wanneer 
+bekendmaking van een 
+aankondiging in het 
+Publicatieblad van de 
+Europese Unie niet is vereist, 
+andere gegevens op basis 
+waarvan ondubbelzinnig kan 
+worden vastgesteld om 
+welke 
+aanbestedingsprocedure het 
+gaat (bijvoorbeeld verwijzing 
+naar een bekendmaking op 
+nationaal niveau):
+TenderNed-kenmerk: 488315
+Procedure
+Deze aanbesteding betreft 
+een procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit (inclusief 
+speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: waterschap Hoogheemraadschap De Stichtse Rijnlanden
+Om welke aanbesteding gaat 
+het? Wat is de titel van de 
+aanbesteding?
+Raamovereenkomst Waterkwaliteit
+Korte beschrijving van de 
+aanbesteding:
+-
+Referentienummer van het 
+dossier bij de aanbestedende 
+dienst of aanbestedende 
+entiteit (indien van 
+toepassing):
+DM2004844
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 32TN-488315 - 26 sep. 2024
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identificatie
+Naam ondernemer:
+BTW-nummer:
+KVK-nummer:
+Vermeld indien er geen BTW-
+nummer of KVK-nummer van 
+toepassing is, een ander 
+nationaal 
+identificatienummer, indien 
+vereist en toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-
+, kleine of middelgrote 
+onderneming:
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 32TN-488315 - 26 sep. 2024
+ In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor 
+statistische doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met 
+een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een 
+onderneming met minder dan 50 werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet 
+meer dan 10 miljoen euro; middelgrote ondernemingen, ondernemingen die micro noch klein zijn en met 
+minder dan 250 personen werknemers en een jaaromzet van niet meer dan 50 miljoen euro en/of een 
+jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+Wijze van deelneming
+Neemt de ondernemer 
+samen met anderen deel aan 
+de aanbestedingsprocedure?
+ Ja
+ Nee
+ Met name als deel van een combinatie, consortium, joint venture, enz.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de 
+ondernemer binnen de 
+combinatie (leider, 
+verantwoordelijk voor 
+specifieke taken, enz.):
+b) Vermeld de identiteit van 
+de andere ondernemers die 
+gezamenlijk aan de 
+aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de 
+naam van de deelnemende 
+combinatie:
+Percelen
+Vermeld het perceel/de 
+percelen waarop de 
+ondernemer wil inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 32TN-488315 - 26 sep. 2024
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen.
+ Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie 
+over de vertegenwoordiging 
+(vorm, reikwijdte, doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 32TN-488315 - 26 sep. 2024
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie 
+over de vertegenwoordiging 
+(vorm, reikwijdte, doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 32TN-488315 - 26 sep. 2024
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie 
+over de vertegenwoordiging 
+(vorm, reikwijdte, doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op financiële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certificaten.
+Doet de ondernemer beroep 
+op de draagkracht van 
+andere entiteiten om te 
+voldoen aan de 
+selectiecriteria en de 
+(eventuele) criteria en regels?
+ Ja
+ Nee
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 32TN-488315 - 26 sep. 2024
+ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die elk
+wordt gevraagd in de . Dit formulier moet door de betrokken afdelingen A en B van dit deel en deel III
+entiteiten naar behoren worden ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer 
+behorende technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole 
+en, in het geval van overheidsopdrachten voor werken, de technici of technische organen die de 
+ondernemer ter beschikking zullen staan om de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de specifieke draagkracht waarop de ondernemer steunt, voor elk 
+van de betrokken entiteiten de informatie.
+Vermeld de specifieke 
+draagkracht waarop de 
+ondernemer steunt voor elk 
+van de betrokken entiteiten:
+Deel II D: Informatie betreffende onderaannemers op wier draagkracht de ondernemer 
+geen beroep doet
+ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit 
+ om deze gegevens vraagt.expliciet
+Is de ondernemer van plan 
+een gedeelte van de 
+opdracht in onderaanneming 
+aan derden te geven?
+ Ja
+ Nee
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de 
+(categorieën van) betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit 
+ om deze informatie vraagt naast de informatie in dit deel.expliciet
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 32TN-488315 - 26 sep. 2024
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 32TN-488315 - 26 sep. 2024
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+ Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 
+57, lid 1, van de richtlijn vermelde gronden worden omgezet.
+ Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding 
+van georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de 
+Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 
+25.6.1997, blz. 1) en artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de 
+bestrijding van corruptie in de privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond 
+omvat ook corruptie in de zin van de nationale wetgeving van de aanbestedende dienst 
+(aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de financiële belangen 
+van de Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of financiering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 
+oktober 2005 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld 
+en de financiering van terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking 
+van, medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van 
+genoemd kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 
+2011 inzake de voorkoming en bestrijding van mensenhandel en de bescherming van slachtoffers 
+daarvan, en ter vervanging van Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 
+1).
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit 
+indien het een procedure 
+onder de Europese 
+aanbestedingsdrempel of 
+een procedure van een 
+speciale-sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of financiering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische activeiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 32TN-488315 - 26 sep. 2024
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om deelneming aan een criminele organisatie veroordeeld bij 
+onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet 
+een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 32TN-488315 - 26 sep. 2024
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij 
+ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie 
+betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van Kaderbesluit 2003/568/JBZ 
+van de Raad van 22 juli 2003.
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 32TN-488315 - 26 sep. 2024
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 32TN-488315 - 26 sep. 2024
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk vonnis, welk vonnis 
+niet later dan vijf jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die 
+nog steeds van toepassing is?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 32TN-488315 - 26 sep. 2024
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Witwassen van geld of financiering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om witwassen van geld of financiering van terrorisme 
+veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is 
+gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 32TN-488315 - 26 sep. 2024
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 32TN-488315 - 26 sep. 2024
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om terroristische misdrijven of strafbare feiten in verband met 
+terroristische activiteiten veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan 
+vijf jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 32TN-488315 - 26 sep. 2024
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om kinderarbeid en andere vormen van mensenhandel 
+veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is 
+gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de 
+grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 32TN-488315 - 26 sep. 2024
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen 
+dat hij ondanks de 
+toepasselijke 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 32TN-488315 - 26 sep. 2024
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit 
+indien het een procedure 
+onder de Europese 
+aanbestedingsdrempel of 
+een procedure van een 
+speciale-sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de betaling van 
+belastingen of sociale premies, zowel in het land waar hij is gevestigd als in de lidstaat van 
+de aanbestedende dienst of aanbestedende entiteit indien dit een ander land is dan het 
+land van vestiging.
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn 
+nagekomen:
+1. Door middel van een 
+rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing 
+onherroepelijk en bindend?
+ Ja
+ Nee
+- Vermeld de datum van het 
+vonnis of de beslissing:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 32TN-488315 - 26 sep. 2024
+- In geval van een vonnis: 
+vermeld de duur van de 
+uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? 2.
+Vermeld:
+d) Is de ondernemer zijn 
+verplichtingen nagekomen 
+door de verschuldigde 
+belastingen, met inbegrip 
+van lopende rente of boetes 
+indien toepasselijk, te 
+betalen of een bindende 
+regeling tot betaling daarvan 
+aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of 
+bindende regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 32TN-488315 - 26 sep. 2024
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de betaling van 
+belastingen of sociale premies, zowel in het land waar hij is gevestigd als in de lidstaat van 
+de aanbestedende dienst of aanbestedende entiteit indien dit een ander land is dan het 
+land van vestiging.
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn 
+nagekomen:
+1. Door middel van een 
+rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing 
+onherroepelijk en bindend?
+ Ja
+ Nee
+- Vermeld de datum van het 
+vonnis of de beslissing:
+- In geval van een vonnis: 
+vermeld de duur van de 
+uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? 2.
+Vermeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 32TN-488315 - 26 sep. 2024
+d) Is de ondernemer zijn 
+verplichtingen nagekomen 
+door de verschuldigde 
+belastingen, met inbegrip 
+van lopende rente of boetes 
+indien toepasselijk, te 
+betalen of een bindende 
+regeling tot betaling daarvan 
+aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of 
+bindende regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconflicten of beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel 
+boven als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconflict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beinvloeding
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 32TN-488315 - 26 sep. 2024
+ Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden 
+preciezer omschreven kunnen zijn in de nationale wetgeving, de betreffende aankondiging of de 
+aanbestedingsstukken. De nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige 
+beroepsfout” verschillende gedragingen kan omvatten.
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het milieu-, 
+sociaal of arbeidsrecht geschonden?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer 
+maatregelen genomen om 
+aan te tonen dat hij ondanks 
+de toepasselijkheid van deze 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 32TN-488315 - 26 sep. 2024
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers getroffen, of 
+hij verkeert in een andere, vergelijkbare toestand ingevolge een soortgelijke procedure uit 
+hoofde van nationale wet- of regelgeving, of zijn activa worden beheerd door een curator of 
+door de rechtbank, of zijn bedrijfsactiviteiten zijn gestaakt?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de 
+juridische beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder 
+enige mogelijkheid tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 32TN-488315 - 26 sep. 2024
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht zijn 
+op vervalsing van de mededinging?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de 
+juridische beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder 
+enige mogelijkheid tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer 
+maatregelen genomen om 
+aan te tonen dat hij ondanks 
+de toepasselijkheid van deze 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 32TN-488315 - 26 sep. 2024
+Beschrijf de genomen 
+maatregelen:
+Belangenconflict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconflict als gevolg van zijn deelneming aan 
+de aanbestedingsprocedure?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de 
+juridische beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder 
+enige mogelijkheid tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 32TN-488315 - 26 sep. 2024
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of een 
+met hem verbonden onderneming anderszins betrokken geweest bij de voorbereiding van 
+de aanbestedingsprocedure?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de 
+juridische beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder 
+enige mogelijkheid tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 32TN-488315 - 26 sep. 2024
+Prestaties uit het verleden
+Wetsverwijzing(en): Artikel 2.87, lid 1g Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer blijk gegeven van aanzienlijke of voortdurende tekortkomingen bij de 
+uitvoering van een wezenlijk voorschrift van een eerdere overheidsopdracht, een eerdere 
+opdracht van een speciale-sectorbedrijf of een eerdere concessieopdracht en heeft dit 
+geleid tot vroegtijdige beëindiging van die eerdere opdracht, tot schadevergoeding of tot 
+andere vergelijkbare sancties?
+Door te antwoorden met ‘Ja’ geeft u aan dat deze uitsluitingsgrond niet op u van toepassing 
+is en u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de 
+juridische beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder 
+enige mogelijkheid tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer 
+maatregelen genomen om 
+aan te tonen dat hij ondanks 
+de toepasselijkheid van deze 
+uitsluitingsgrond 
+betrouwbaar is (“Self-
+Cleaning”)?
+ Ja
+ Nee
+ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 29 van 32TN-488315 - 26 sep. 2024
+Beschrijf de genomen 
+maatregelen:
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft gemaakt 
+aan valse verklaringen bij het verstrekken van de informatie die nodig is om te controleren 
+of er geen gronden voor uitsluiting zijn dan wel of aan de selectiecriteria wordt voldaan, hij 
+dergelijke informatie niet heeft achtergehouden, hij de door de aanbestedende dienst of 
+aanbestedende entiteit gevraagde ondersteunende documenten onverwijld heeft kunnen 
+overleggen.
+Door te antwoorden met ‘Ja’ geeft u aan dat u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces van 
+de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,om 
+vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, selectie 
+of gunning?
+Door te antwoorden met ‘Ja’ geeft u aan dat u voldoet aan deze eis.
+Voldoet u aan deze eis?  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 30 van 32TN-488315 - 26 sep. 2024
+a.  
+b.  
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreffende selectiecriteria door de 
+aanbestedende dienst of aanbestedende entiteit in de betreffende aankondiging of in de in die 
+aankondiging bedoelde aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart 
+met betrekking tot de 
+selectiecriteria dat, hij 
+voldoet aan de 
+voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het afleggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certificaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of
+ Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende 
+entiteit, precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende 
+instantie daartoe in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreffende 
+instemming met een dergelijke raadpleging.
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt.
+ Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24
+/EU.
+
+=== Document: bijlage 2 concept raamovereenkomst ===
+Raamovereenkomst  voor het verrichten van diensten inzake   onderzoek naar waterkwaliteit  (DM XXX ) De ondergetekenden: Hoogheemraadschap de Stichtse Rijnlanden , een  publiekrechtelijk e  rechtspersoon  gevestigd en kantoorhoudende  aan de Poldermolen  2  te Houten , rechtsgeldig vertegenwoordigd door de Dijkgraaf, de heer  J. C. H. Haan , namens hem  Cis Apeldoorn, Secretaris-Directeur , verder te noemen :  ‘HDSR’. en < volledige   naam  en rechtsvorm  raamcontractant > , een  privaatrechtelijke  rechtspersoon gevestigd en kantoorhoudende aan  < adres > , voor deze  Raamovereenkomst  rechtsgeldig vertegenwoordigd door  < naam en functie > , verder te noemen:  ‘Opdrachtnemer’.  De  ondergetekenden 1 en 2  ook  gezamenlijk  aangeduid als  Partijen en  s eparaat van elkaar  als  Partij. OVERWEGENDE DAT: HDSR met betrekking tot de uitvoering van Diensten op het gebied van  onderzoek naar waterkwaliteit  gedurende een zekere tijd vaste afspraken met  drie  dienstverleners wil maken; HDSR daartoe een  Raamovereenkomst  wil sluiten met een looptijd van  twee  jaar  met  twee maal een verlengingsoptie van  één  jaar  (hierna te noemen: de  Raamovereenkomst ), waarin de voorwaarden voor alle door HDSR gedurende die looptijd te verstrekken opdrachten tot het verrichten van Diensten zijn vastgelegd; HDSR  daartoe  een Europese openbare  aanbesteding heeft georganiseerd  met kenmerk  488315 , welke op  30 september 2024  is gepubliceerd; Opdrachtnemer op voornoemde aanbesteding een inschrijving heeft gedaan en zich daarbij onverkort heeft geconformeerd aan alle eisen die in het Aanbestedingsdocument zijn gesteld;  HDSR op < datum > de  inschrijving van  Opdrachtnemer  alsmede  de inschrijvingen van  twee  andere Raamcontractanten als economisch meest voordelige inschrijving  heeft beoordeeld;  Partijen op deze grond wensen  over te gaan tot het sluiten van deze  Raamovereenkomst ; goede  dienstverlening van groot belang is voor HDSR voor h et uitvoeren van haar kerntaken en  Opdrachtnemer zich hiervan bewust is en al het mogelijke doet en zal blijven doen om goede dienstverlening te garanderen, onder andere door altijd een zodanig praktische uitleg te ge ven aan de bepalingen van deze  Raamovereenkomst  dat goede dienstverlening wordt bevorderd en door altijd proactief te handelen indien goede dienstverlening in het gedrang dreigt te komen;  in  deze  Raamovereenkomst  de voorwaarden zijn vastgelegd die van toepassing zijn op   alle opdrachten tot het verrichten van  Diensten  die HDSR   voornemens is te gunnen gedurende de  looptijd van deze  Raamovereenkomst ; Partijen zich verbinden om maximaal en op een integrale wijze met elkaar mee te   denken, in het kader van duurzaamheid, innovatie en kostenbewust zijn, met het   oog op de doorontwikkeling waar HDSR zich in bevindt;  Partijen zullen h andelen als vastgelegd in deze  Raamovereenkomst , in de geest van wederzijd s vertrouwen en samenwerking; HDSR met de  twee  andere Raamcontractanten een soortgelijke  o vereenkomst  als de onderhavige aangaat. KOMEN OVEREEN: Begripsbepalingen In deze  Raamovereenkomst  wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in artikel 1 van de AWVODI 2018. In afwijking daarvan of aanvulling daarop wordt onder de volgende begrippen in deze  Raamovereenkomst  verstaan: Aanbestedingsdocument: het document van HDSR d.d.  30 september 2024  met kenmerk  DM2004844  waarin de deelname aan de  Raamovereenkomst  met betrekking tot de uitvoering van Diensten gedurende een bepaalde periode, de te volgen aanbestedingsprocedure en de selectie- en gunningscriteria worden beschreven en toegelicht. Diensten: de door Opdrachtnemer ten behoeve van Opdrachtgever te verrichten werkzaamheden op het gebied van  het uitvoeren van onderzoek naar waterkwaliteit   op basis van een onder deze  Raamovereenkomst  gesloten  Nadere Opdracht .  Inschrijving: de in het kader van  de Europese   openbare aanbesteding   Raamovereenkomst Waterkwaliteit  met kenmerk  488315  door Opdrachtnemer op basis van het Aanbestedingsdocument ingediende inschrijving d.d.  <datum> . Nadere Opdracht: opdracht tot het verrichten van Diensten onder deze Raamovereenkomst. Opdrachtbevestiging :  schriftelijke  opdrachtbevestiging waarmee HDSR een Nadere Opdracht verstrekt aan Opdrachtnemer  gedurende de looptijd van deze  Raamovereenkomst . Offerte: een aanbieding tot het verrichten van Diensten die Opdrachtnemer naar aanleiding van een Offerteaanvraag uitbrengt aan HDSR onder deze  Raamovereenkomst .  Offerteaanvraag: een uitnodiging door HDSR onder deze  Raamovereenkomst  aan één van de Raamcontractanten  tot het uitbrengen van een Offerte voor  een  Nadere Opdracht  tot het verrichten van Diensten. Raamcontractant: een inschrijver aan wie deelname aan de  Raamovereenkomst  is gegund. Van deze  Raamovereenkomst  maken de volgende bijlagen onderdeel uit: < beschrijf  eventuele bijlagen> Voorwerp van de  Raamovereenkomst HDSR  is gerechtigd gedurende de looptijd van deze  Raamovereenkomst  een Offerteaanvraag uit te brengen voor een opdracht tot het verrichten van Diensten. Opdrachtnemer is verplicht naar aanleiding van een Offerteaanvraag een Offerte uit te brengen, die niet minder gunstig is dan de door Opdrachtnemer ingediende Inschrijving.  Indien  de in de Offerteaanvraag genoemde opdracht door HDSR aan Opdrachtnemer wordt gegund, is Opdrachtnemer verplicht die opdracht uit te voeren  Overeenkomstig  de voorwaarden van deze  Raamovereenkomst .  Nadere Opdracht verlening vindt plaats door middel van  een Opdrachtbevestiging. De navolgende documenten vormen gezamenlijk de  Raamovereenkomst . Voor zover deze documenten met elkaar in tegenspraak zijn, prevaleert het eerdergenoemde do cument boven het later genoemde. deze   Raamovereenkomst  d.d.  <datum> ; nota ( ‘ s) van Inlichtingen d.d.  <datum> ; Aanbestedingsdocument (inclusief bijlagen en appendices ) d.d.  <datum> ; de  AWVODI 2018; de  inschrijving van Opdrachtnemer d.d.  <datum> .   HDSR is niet verplicht om gedurende de looptijd van deze  Raamovereenkomst  opdrachten tot het verrichten van Diensten te verstrekken, maar is daartoe gerechtigd. Opdrachtnemer kan  derhalve  generlei aanspraak maken op het verkrijgen van opdrachten tot het verrichten van Diensten gedurende de looptijd van deze  Raamovereenkomst . HDSR dient de op het moment van het sluiten van de  Raamovereenkomst  de nog lopende  Overeenkomst en met derde(n) te respecteren. Opdrachtnemer kan  derhalve  dan ook geen  aanspraak maken op opdrachten waarvoor (nog) andere verplichtingen gelden, voortvloeiende uit vorenbedoelde lopende  Overeenkomst en. De voorwaarden van deze  Raamovereenkomst  zijn integraal van toepassing op alle  Nadere Opdracht en  die gedurende de looptijd van deze  Raamovereenkomst  tussen HDSR enerzijds en Opdrachtnemer anderzijds worden gesloten met betrekking tot opdrachten tot het verrichten van in een Offerteaanvraag gespecificeerde Diensten, tenzij in een  Opdrachtbevestiging  uitdrukkelijk schriftelijk van deze  Raamovereenkomst  wordt afgeweken. In een  Opdrachtbevestiging  wordt  vastgelegd met betrekking tot welke specifieke Diensten en gedurende welke periode de desbetreffende  Nadere Opdracht  wordt aangegaan . Duur van de  Raamovereenkomst Deze Raamovereenkomst gaat in op  1 januari 2025  en eindigt op  31 december 2026 . De Raamovereenkomst kan  twee  keer verlengd worden met een jaar op initiatief van HDSR.  Indien  van alle verlengingsopties gebruik wordt gemaakt eindigt de Raamovereenkomst op  31 december 2028 . Deze  Raamovereenkomst  eindigt van rechtswege  indien   de maximale omvang van  €900.000  is bereikt. Beëindiging van deze  Raamovereenkomst  om welke reden dan ook laat de rechten en verplichtingen voortvloeiend uit (een )  Opdrachtbevestiging (en)  onverlet.  De voorwaarden van deze  Raamovereenkomst  blijven van toepassing op alle  Nadere Opdracht en  die na het eindigen van deze  Raamovereenkomst  nog voortduren. De duur van de  Nadere Opdracht en  die onder deze Raamvereenkomst aan Opdrachtnemer wordt/ worden gegund wordt in de  Opdrachtbevestiging  per opdracht vastgelegd. Nadere gunning Opdrachtgever kan een Offerteaanvraag uitbrengen aan  Opdrachtnemer . Partijen treden in overleg over de beschikbaarheid van capaciteit bij Opdrachtnemer en de termijn waarbinnen   Opdrachtnemer een Offerte uitbrengt.  Aan het verkrijgen van een Offerte zijn voor  HDSR  geen kosten verbonden. De Offerte en daarin opgenomen prijscalculatie moeten voldoen aan, en mogen niet minder gunstig zijn dan de ingediende Inschrijving  en de eisen uit de Offerteaanvraag .   Nadere gunning vindt plaats volgens hetgeen daarover is opgenomen in het Aanbestedingsdocument.   Op verzoek van Opdrachtgever vinden selectiegesprekken  plaats  met  het  Personeel dat  Opdrachtnemer  voornemens is in te zetten .  F inanciële bepalingen In alle Opdrachtbevestigingen wordt overeengekomen dat Opdrachtnemer de in de Opdrachtbevestiging gespecificeerde Diensten tegen een vaste totaalprijs verricht.  De in artikel 5 .1 van deze  Raamovereenkomst   bedoelde tarieven hebben  betrekking op alle door Opdrachtnemer in het kader van de desbetreffende  Nadere Opdracht  te verrichten Diensten en eventueel da artoe benodigde materialen en zijn  inclusief event uele reis- en verblijfskosten,  alle eventueel bijkomende kosten , alle door Opdrachtnemer te betalen premies  en exclusief BTW. Uitdrukkelijk wordt bepaald dat indien Opdrachtnemer geen BTW in rekening brengt, maar voor (een deel van) de Diensten geen vrijstelling van BTW blijkt te bestaan, deze niet ten laste komt van Opdrachtgever. Opdrachtgever past eenmaal per jaar een prijsindexering toe, voor het eerst minimaal één jaar na de ingangsdatum van de Raamovereenkomst.  De  prijsaanpassingen mogen pas geëffectueerd worden nadat Opdrachtgever  deze  per  heeft aangekondigd . Prijsindexaties  worden in geen enkel geval met terugwerkende kracht toegekend. Na de goedkeuring van Opdrachtgever levert Opdrachtnemer aan Opdrachtgever een actuele lijst met de geldende prijzen en tarieven. De prijsindexatie die  Opdrachtgever hanteert  ten  aanzien van de Diensten  is  gemaximeerd op de betreffende landelijke prijsindexatiecijfers per dienst op Centraal Bureau van de  Statistiek, afgerond op twee decimalen. Opdrachtnemer is gerechtigd jaarlijks per 1  mei  haar tarieven aan te passen op basis van de CBS dienstenindex  voor  ingenieurs en aanverwante technische adviseurs (7112) ,  jaarcijfer reeks 2015=100, van het voorgaande jaar  ten opzichte van het jaar daarvoor,  volgens de volgende rekenmethode: (indexcijfer nieuw jaar – indexcijfer oud jaar ) /  indexcijfer oud jaar x 100% . Opdrachtnemer dient zijn  f acturen  eens per maand  digitaal aan te leveren  in PDF of SI-UBL format  en te versturen naar  facturen@hdsr.nl   respectievelijk  het netwerk  https://peppolautoriteit.nl/ . Facturering in  Sl -UBL heeft  de  voorkeur  van HDSR  en kan op een bepaald moment verplicht  worden gesteld . Facturatie vindt altijd achteraf plaats.  Facturen  dienen te   zijn voorzien van een verplichtingennummer en te  voldoen a an de wettelijke vereisten , artikel 15 van de AWVODI 2018  en eventuele in het Aanbestedingsdocument gestelde eisen. Betaling zal plaatsvinden door HDSR binnen 30 dagen nadat een correcte factuur bij HDSR is ontvangen en goedgekeurd.   HDSR kan een factuur geheel of gedeeltelijk afwijzen,  indien  deze inhoudelijk niet juist is of niet voldoet aan de  in lid  8 en 9   gestelde eisen.  Uitgevoerde werkzaamheden  zonder voorafgaande schriftelijke toestemming van HDSR, worden niet vergoed .  Het afwijzen van een factuur levert geen rechtsgrond op voor Opdrachtnemer om de dienstverlening op te schorten. Indien Opdrachtnemer zijn verbintenissen voortvloeiend uit de  Raamovereenkomst  niet geheel of niet behoorlijk is nagekomen, heeft HDSR het recht de betaling op te schorten. Terstond na ondertekening van deze  Raamovereenkomst  en vervolgens elk kalenderjaar overlegt Opdrachtnemer op verzoek van  HDSR  een verklaring van de Inspecteur der Directe Belastingen en van de Bedrijfsvereniging  omtrent  het betalingsgedrag, waarin wordt aangegeven dat ten aanzien van het Personeel van Opdrachtnemer afdracht van belastingen en sociale premies heeft plaatsgevonden. Contactpersonen De contactpersonen  omtrent  onderhavige  Raamovereenkomst  bij HDSR zijn: < INVULLEN > bereikbaar via < INVULLEN >. De contactpersonen  omtrent  onderhavige  Raamovereenkomst  bij Opdrachtnemer zijn: < INVULLEN > bereikbaar via < INVULLEN >. Bij wisseling van een contactpersoon stelt een Partij de andere Partij schriftelijk op de hoogte.  Tijden en plaats werkzaamheden In de  Opdrachtbevestiging kunnen  de tijden en plaatsen van de voor de  Nadere Opdracht  gespecificeerde Diensten  worden vastgelegd.  Partijen verplichten zich het Personeel van de andere Partij toegang te verlenen tot de plaats waar de  voor de  Nadere Opdracht  gespecificeerde Diensten moeten worden verricht,  alsmede  dit Personeel in staat te stellen de werkzaamheden onder de bij die Partij ge brui kelijke arbeidsomstandigheden te ver richten gedurende de regulier geldende kantoortijden. Partijen verplichten zich hun Personeel op te dragen de ter plekke van de uitvoering geldende huisregels na te leven. Toepasselijkheid algemene voorwaarden, wettelijke en andere voorschriften Op deze  Raamovereenkomst ,  alsmede  op een  Nadere Opdracht  tot het verrichten van Diensten  Overeenkomstig   een  Opdrachtbevestiging ,  zijn uitsl uitend van toepassing de AWVODI  2018, reeds in het bezit van Partijen, voor zover daarvan in deze  Raamovereenkomst  niet wordt afgeweken.  Daar waar in de AWVODI  2018 het begrip  “ Overeenkomst ” staat vermeld wordt voor de doeleinden van deze  Raamovereenkomst , dan wel een  Opdrachtbevestiging ,  dat begrip vervangen door “ Raamovereenkomst ”  respectievelijk “ Opdrachtbevestiging ” . Partijen zullen alle wettelijke voorschriften  e n alle andere op de  Raamovereenkomst  van toepassing zijnde voorschriften naleven. Kwaliteit dienstverlening HDSR streeft ernaar om haar werkzaamheden met de hoogst mogelijke kwaliteit uit te voeren. Om dit te realiseren zal HDSR de kwaliteit van de  geleverde diensten onder deze  Raamovereenkomst  gaan monitoren. Evaluaties vinden plaats na afloop van iedere Nadere Opdracht en verder op verzoek van één der Partijen .  De resultaten van de evaluatie kunnen invloed hebben op de beslissing om de Raamovereenkomst al dan niet te verlengen. Social  Return on Investment Opdrachtnemer dient gedurende de looptijd van de  Raamovereenkomst   minimaal  5 % van  het gefactureerde bedrag exclusief BTW in te zetten aan  Social  Return on Investment, zoals beschreven in Bijlage  <XX >  b ij deze  Raamovereenkomst . Tekort koming in de nakoming van de  Raamovereenkomst Indien Opdrachtnemer de  Raamovereenkomst  heeft gesloten als combinatie, zijn alle leden van de combinatie hoofdelijk verbonden en hoofdelijk aansprakelijk voor de nakomin g van de verbintenissen uit de  Raamovereenkomst . Indien Opdrachtn emer voor de uitvoering van de  Raamovereenkomst  gebruik maakt van een Onderaannemer blijft Opdrachtnemer volledig verbonden en aansprakelijk voor de nakomin g van de verbintenissen uit de  Raamovereenkomst . In  aanvulling op artikel 20.2 AWVODI 2018 wordt, in  geval een tekortkoming in de nakoming niet kan worden toegerekend aan  een der Partijen als gevolg van overmacht,  de nakoming door de betref fende Partijen van de uit deze  Raamovereenkomst  en voortvloeiende verplichtingen geheel of gedeeltelijk opgeschort voor de duur van zodanige tekortkoming, zonder dat Partijen over en weer tot enige schadevergoeding ter zake zullen zijn gehouden. Van een geval van niet toerekenbare tekortkoming zal onder overlegging van de nodige bewijsstukken, schriftelijk aan de andere Partij mededeling worden gedaan. Deze mededeling dient terstond na constatering van de niet toerekenbare tekortkoming te worden gedaan.   Een beroep op overmacht kan maximaal 5 werkdagen duren. In aanvulling op artikel 20.3 AWVODI 2018 geldt dat onder overmacht in ieder geval niet wordt verstaan: ongeschiktheid van materialen of van programmatuur.  Geschillenregeling Partijen komen overeen dat zij  bij het ontstaan van conflicten of geschillen bij de uitvoering van deze  Raamovereenkomst ,  alvorens gebruik te maken va n een gang naar de rechter  eerst onderling in overleg zullen treden om deze conflicten en geschillen op te lossen. Partijen  dienen  vervolgens gebruik  te  maken van  mediation , waarbij zij de kosten in gelijke delen dragen. Leiden onderling overleg en  mediation  niet binnen 2 maanden tot een oplossing van het conflict of geschil, dan staat een gang naar de rechter open. Partijen leggen, als een gang naar de rechter openstaat, geschillen voor aan de bevoegde rechter in Midden-Nederland. Overige bepalingen Opdrachtnemer is verplicht gedurende de looptijd van de Overeenkomst te blijven voldoen aan de bij de aanbesteding gestelde geschiktheidseisen. Alle in redelijkheid door HDSR gemaakte en te maken kosten als gevolg van de in  artikel 23.1 AWVODI 2018  bedoelde overdracht komen volledig  voor rekening van Opdrachtnemer. Opdrachtnemer verklaart dat hij  noch  in het kader van de gunning van deze  Raamovereenkomst , noch  ter verkrijging van  Nadere Opdracht en tot het verrichten van Diensten, Personeel van  HDSR   eni generlei voordeel heeft geboden, gegeve n, doen aanbieden of doen geven . Hij zal dat ook niet alsnog doen  teneinde  personen in dienst van  HDSR  te bewegen enige handeling te verrichten of na te laten. Door ondertekening van deze  Raamovereenkomst  vervallen alle eventueel eerder door Partijen gemaakte mondelinge, dan wel schriftelijke afspraken  omtrent  de hierbij overeengekomen verrichtingen van diensten. Hoogheemraadschap De Stichtse Rijnlanden <NAAM> Dijkgraaf en  h oogheemraden namens  hen, <NAAM> <NAAM> <FUNCTIE> <FUNCTIE> Datum: Datum:

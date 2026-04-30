@@ -1,0 +1,2929 @@
+=== Document: beschrijvend document gedragsonderzoeken ===
+Project: 
+ 
+Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Europese Openbare Aanbesteding 
+Type Procedure Openbare procedure conform de Aanbestedingswet 
+2012 
+Opdrachtgever Directie Algemeen Strategisch Advies (ASA) 
+Aanbestedende Dienst Staat der Nederlanden, Ministerie van Infrastructuur 
+en Waterstaat 
+Referentienummer TN 509811 
+Versie 0. 
+Status Definitief 
+Datum 5 februari 2025 
+ 
+  
+  
+ 
+ 
+  
+
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+INHOUDSOPGAVE         PAGINA 
+ 
+1 DE OPDRACHT ............................................................................................................... 5 
+ Omschrijving en omvang van de opdracht ................................................................... 5 
+1.1.1 Opdracht ......................................................................................................... 5 
+1.1.2 Aanbestedende dienst en Opdrachtgever ............................................................. 6 
+1.1.3 Duur en omvang van de opdracht ....................................................................... 6 
+1.1.4 Herzieningsclausule ........................................................................................... 6 
+1.2 Perceelindeling ........................................................................................................... 6 
+1.2.1 Motivering perceelverdeling ................................................................................ 7 
+1.3 Conceptovereenkomst en contractuele voorwaarden ..................................................... 7 
+1.4 Functionele specificaties ............................................................................................ 7 
+1.5 Duurzaamheid en Maatschappelijk Verantwoord Ondernemen ........................................ 7 
+1.5.1 Social return .................................................................................................... 8 
+ Bepalingen inzake belastingen, milieubescherming, arbeidsbescherming en 
+arbeidsvoorwaarden .......................................................................................................... 8 
+ Verordening (EU) 2022/576 van de Raad betreffende Russische ondernemingen .............. 8 
+2 EISEN AAN DE INSCHRIJVER ........................................................................................... 9 
+2.1 Eenmalig inschrijven – zelfstandig of als een samenwerkingsverband ............................. 9 
+2.1.1 Zelfstandige inschrijving .................................................................................... 9 
+2.1.2 Samenwerkingsverband ..................................................................................... 9 
+ Onderaanneming ..................................................................................................... 10 
+2.2.1 Beroep op draagkracht van derden .................................................................... 10 
+2.2.2 Overige onderaannemers .................................................................................. 10 
+ Verplichte uitsluitingsgronden ................................................................................... 11 
+ Facultatieve uitsluitingsgronden ................................................................................ 11 
+ Geschiktheidseisen .................................................................................................. 11 
+2.5.3 Financiële en economische draagkracht ................................................................... 12 
+ Uitsluiting of afwijzing van een inschrijver .................................................................. 13 
+3 De inschrijving ............................................................................................................. 13 
+3.1 Knock-out eisen ...................................................................................................... 13 
+3.2 Gunningscriterium ................................................................................................... 14 
+Subgunningscriteria perceel 1 ......................................................................................... 15 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+Subgunningscriteria perceel 2 ......................................................................................... 16 
+Subgunningscriteria perceel 3 ......................................................................................... 16 
+3.2.1  Subgunningscriterium Prijs................................................................................ 18 
+3.2.2 Subgunningscriterium Kwaliteit.......................................................................... 18 
+3.3  Varianten ........................................................................................................... 18 
+3.4 Beoordeling ............................................................................................................ 18 
+3.5 Mededeling gunningsbeslissing .................................................................................. 19 
+3.6 Aan te leveren stukken ............................................................................................ 19 
+4 ALGEMENE BEPALINGEN ................................................................................................ 21 
+4.1 Aankondiging, inschrijving en inschrijvingstermijn ....................................................... 21 
+4.2 Communicatie ......................................................................................................... 22 
+ Inlichtingen, vragen en bezwaren .............................................................................. 22 
+4.3.1 Vragen en bezwaren......................................................................................... 22 
+4.4 Beoordeling van u en uw Inschrijving ........................................................................ 23 
+4.5  Taal ................................................................................................................... 24 
+4.6 Opschorten / afbreken aanbesteding ......................................................................... 24 
+4.8 Vertrouwelijkheid .................................................................................................... 24 
+5 RECHTSBESCHERMING .................................................................................................. 25 
+5.1  Klachtenmeldpunt / Commissie van Aanbestedingsexperts ....................................... 25 
+5.2  Kort geding ......................................................................................................... 25 
+AFKORTINGEN EN BEGRIPPENLIJST ...................................................................................... 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+BIJLAGEN: 
+ 
+Bijlage 1:  Briefing waaronder mede beroepsbekwaamheid (referenties & CV’s) 
+ 
+Bijlage 2:  Gedragsanalyse voor de casus: Jongeren gaan zelf hun meubels opknappen  
+                       (casus perceel 2) 
+ 
+Bijlage 3:  Vragenformulier (Excel) 
+ 
+Bijlage 4: Prijzenblad – perceel 1 
+ 
+Bijlage 5:  Prijzenblad – perceel 2 
+ 
+Bijlage 6: Prijzenblad – perceel 3 
+ 
+Bijlage 7:  Concept overeenkomst – perceel 1 
+ 
+Bijlage 8: Concept overeenkomst – perceel 2 
+ 
+Bijlage 9: Concept overeenkomst – perceel 3 
+ 
+Bijlage 10:  Arvodi -2018 
+ 
+Bijlage 11: Toelichting Voorwaarden (ARVODI-2018) 
+ 
+Bijlage 12: Eigen Verklaring -/ UEA (Uniform Europees Aanbestedingsdocument) 
+ 
+Bijlage 13: Model Referentieopdrachten 
+ 
+Bijlage 14: Verplichte invulformulieren - verificatieformulier 
+ 
+Bijlage 15: Gedragscode Integriteit Rijk 
+ 
+Bijlage 16: Model Integriteitsverklaring Rijk voor externen – perceel 3 
+ 
+Bijlage 17: Klachtenprotocol Aanbestedingen 
+  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+1 DE OPDRACHT  
+ 
+De Aanbestedende dienst nodigt u hierbij uit om u in te schrijven voor de aanbesteding van 
+ 
+‘Het verrichten van gedragsonderzoeken voor het ministerie van Infra en Waterstaat’. 
+ 
+De hierbij gebruikte procedure is de openbare procedure uit de Aanbestedingswet 2012 (AW).  
+ 
+De procedure verloopt volledig elektronisch via het online aanbestedingsplatform Tenderned. 
+Nadere informatie over het gebruik van Tenderned leest u hier
+. 
+ 
+ Omschrijving en omvang van de opdracht 
+1.1.1 Opdracht 
+De opdracht betreft een Raamovereenkomst voor gedragsonderzoeken voor het ministerie van 
+Infrastructuur en Waterstaat.  
+ 
+Onder de Raamovereenkomst vallen opdrachten voor gedragsonderzoek ten behoeve van 
+beleidsontwikkeling op IenW onderwerpen zoals mobiliteit, circulaire economie en klimaatadaptatie. 
+Dat zijn opdrachten waarbij er vanuit gedragsexpertise doelgroeponderzoek wordt gedaan of een 
+interventie wordt ontworpen met als doel om gedrag van burgers of bedrijven te veranderen. Dit 
+kan zowel via een afgebakende opdracht of via inhuur van een gedragsexpert.  
+ 
+Buiten scope opdracht: 
+• Specifieke kennis: Buiten de Raamovereenkomst vallen opdrachten waarbij specifieke 
+kennis over het onderwerp aanwezig dient te zijn bij opdrachtnemer. Soms willen we 
+namelijk dat het bureau niet alleen kennis over gedrag en gedragsonderzoek meebrengt, 
+maar ook inhoudelijke kennis over het onderwerp van het project. 
+ 
+• Netwerk bij relevante stakeholders: Wanneer voor de opdracht vereist is dat 
+opdrachtnemer een bestaand netwerk heeft bij relevante stakeholders, hoeft er geen 
+gebruik gemaakt te worden van deze Raamovereenkomst gedragsonderzoek. 
+ 
+• HR of organisatieverandering: interne organisatievraagstukken hebben vaak ook een 
+gedragsinvalshoek. Deze opdrachten vallen echter buiten de Raamovereenkomst. Deze 
+Raamovereenkomst richt zich op gedragsonderzoek naar burgers en bedrijven in de 
+samenleving. 
+ 
+• Campagne: Opdrachten waarbij we van tevoren al weten dat de interventie een campagne 
+of ander communicatiemiddel gaat worden, vallen buiten deze Raamovereenkomst. Die 
+opdrachten vallen binnen de Raamovereenkomst: RROK Communicatieadvies en- 
+uitvoering - Perceel 2 -31189818 van Algemene Zaken. 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+1.1.2 Aanbestedende dienst en Opdrachtgever  
+De Aanbestedende dienst is de Staat der Nederlanden, ministerie van Infrastructuur en Waterstaat. 
+De aanbesteding wordt in opdracht van het Behavioural Insights Team (BIT), directie Algemeen 
+Strategisch Advies (ASA) uitgevoerd door Directie Financiën en Inkoop (FenI). 
+1.1.3 Duur en omvang van de opdracht 
+ 
+De Aanbestedende dienst heeft een zo zorgvuldige mogelijke schatting van de omvang van de 
+Raamovereenkomst gemaakt, maar de daadwerkelijke afname is niet gegarandeerd. 
+ 
+De Raamovereenkomst wordt gesloten voor een initiële periode van 2 jaar, met tweemaal een 
+mogelijkheid om de overeenkomst met 1 jaar te verlengen. De totale duur van de 
+Raamovereenkomst wordt gesloten voor de duur van 4 jaar. 
+ 
+De Aanbestedende dienst schat in dat gedurende de gehele looptijd van de Raamovereenkomst een 
+maximale omvang van 8 miljoen (€ 8.000.000,-) excl. btw zal worden afgenomen.  
+1.1.4 Herzieningsclausule 
+Gedurende de looptijd van de Overeenkomst behoudt Opdrachtgever zich het recht voor om de 
+opdracht als volgt te wijzigen:  
+- toepassen prijsindexeringen zoals opgenomen in de overeenkomst; 
+- beschrijving omvang -/aard en de voorwaarden waaronder deze wijzigingen kunnen plaatsvinden; 
+1.2 Perceelindeling 
+De opdracht wordt verdeeld in de volgende percelen: 
+ 
+Perceel 1: Doelgroeponderzoek  
+Onder dit perceel valt kwalitatief en-/ of kwantitatief onderzoek om de gedragsfactoren die een rol 
+spelen bij het gewenste gedrag in kaart te brengen onder de doelgroep(en). Dus onder andere 
+vragenlijstonderzoek, interviews, focusgroepen, dagboekonderzoek, etc. Per project wordt bepaald 
+welk type onderzoek passend is voor de casus.  
+   
+Perceel 2: Gedragsaanpak, interventies en effect 
+Onder dit perceel valt altijd: Advisering over gedragsaanpak (bijv. opstellen gedragsstrategie, 
+uitvoeren gedragsscan op beleidsdocumenten).  
+ 
+Verder kan er onder dit perceel vallen: Vooronderzoek voor de gedragsanalyse, het uitdenken van 
+de interventie(s) (de interventiestrategie), verdere ontwikkeling -/ vormgeving van de interventie, 
+uitvoering van de interventie, evaluatie van de interventie*. Voor vormgeving, ontwikkeling en 
+uitvoering mag een onderaannemer worden ingeschakeld.  
+  
+*Het evalueren van de interventie kan via een kleine pretest, een veldexperiment of een online 
+experiment. Per project zal worden bepaald op welke manier de interventie wordt getest.   
+ 
+Perceel 3: Inhuur van gedragsdeskundige(n)  
+Onder dit perceel valt tijdelijke inhuur van een (of meerdere) gedragsdeskundige(n) voor het 
+gedragsinhoudelijk begeleiden van een project of adviesklus, van een aantal uur tot meerdere 
+dagen per week.  
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+Voor elk perceel wordt een overeenkomst aangegaan met maximaal vier partijen. Opdrachten 
+onder de 50.000 euro excl. btw kunnen onderhands aan elk van de partijen rechtstreeks worden 
+gegund. Voor opdrachten boven de 50.000 euro excl. btw wordt altijd een minicompetitie gedaan 
+tussen alle partijen uit het desbetreffende perceel. De doorlooptijd van een minicompetitie is circa 
+3 weken van offerte-aanvraag tot aan de gunning. Facturatie is altijd na afloop van een project. 
+1.2.1 Motivering perceelverdeling 
+De drie percelen geven weer welk type gedragsonderzoek wordt uitgevoerd -/of vraag naar is 
+binnen IenW. De opdracht is verdeeld in drie percelen omdat bekend is dat bureaus met de 
+gevraagde expertise niet altijd in alle drie de percelen opereren. Op deze manier kan IenW 
+meerdere leveranciers de kans geven opdrachten uit te voeren binnen de Raamovereenkomst en 
+kunnen we gebruikmaken van bureaus die zich hebben gespecialiseerd op één van deze percelen. 
+1.3 Conceptovereenkomst en contractuele voorwaarden 
+De opdracht moet worden uitgevoerd volgens de conceptovereenkomst zoals gevoegd bij dit 
+Beschrijvend document als bijlage 7, 8 en 9. Op de overeenkomst zijn uitsluitend de ARVODI 2018 
+als algemene voorwaarden van toepassing. Zie bijlage 10.  
+ 
+Ook zijn er uitvoeringsvoorwaarden op het gebied van Social return van toepassing. Dit wordt in de 
+paragrafen 1.5 en 1.5.1 uitgelegd.  
+ 
+De toepasselijkheid van algemene (levering)voorwaarden van de inschrijver en derden is 
+nadrukkelijk uitgesloten.  
+1.4 Functionele specificaties 
+De functionele specificaties voor de uitvoering van de opdracht zijn omschreven in de briefing. Zie 
+bijlage 1 en 2 bij dit Beschrijvend document. 
+ 
+Door het indienen van een offerte geeft u aan dat uw Inschrijving voldoet aan het programma van 
+eisen. Deze eisen staan opgenomen in de briefing. 
+ 
+U moet er voor zorgen dat er geen misverstand kan ontstaan over de aanbieding in relatie tot de 
+aangeboden prijs. 
+ 
+Tijdens de gehele uitvoering van de opdracht dient u te blijven voldoen aan het programma van 
+eisen. 
+1.5 Duurzaamheid en Maatschappelijk Verantwoord Ondernemen 
+De Rijksoverheid stimuleert het Maatschappelijk Verantwoord Ondernemen. Dit is een 
+bedrijfsconcept waarbij naast de factor winst ook de factoren mens en milieu worden meegenomen 
+in de ondernemingsbeslissingen en in de beoordeling van de ondernemingsresultaten. In deze 
+aanbesteding zijn eisen en criteria opgenomen op het gebied van Social return.  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+1.5.1 Social return 
+De winnende inschrijver wordt gevraagd om bij te dragen aan Social return. Social return is een 
+maatregel om mensen met een grote(re) afstand tot de arbeidsmarkt perspectief op werk en 
+inkomen te bieden. 
+ 
+U moet zich tijdens de uitvoering van de opdracht inspannen om aan Social Return bij te dragen 
+door het creëren van extra werk(ervarings)plaatsen voor mensen met een grote(re) afstand tot de 
+arbeidsmarkt. Het streefpercentage is 5% van de opdrachtsom van de nadere opdracht. Dit is het 
+gedeelte van de opdracht dat moet worden verricht door mensen uit de doelgroep Social Return.  
+ 
+Verdere invulling aan Social Return zal na de kick-off met de gecontracteerde partijen plaatsvinden 
+en de gemaakte afspraken worden vastgelegd. 
+ Bepalingen inzake belastingen, milieubescherming, arbeidsbescherming 
+en arbeidsvoorwaarden 
+Inschrijvers kunnen informatie over verplichtingen inzake belastingen, milieubescherming, 
+arbeidsbescherming en arbeidsvoorwaarden die gelden in Nederland, verkrijgen via 
+http://www.rijksoverheid.nl onder ‘Ministeries’: 
+- met betrekking tot belastingen bij het Ministerie van Financiën; 
+- met betrekking tot milieubescherming bij het Ministerie van Economische Zaken en Klimaat; 
+- met betrekking tot arbeidsbemiddeling en arbeidsvoorwaarden bij het Ministerie van Sociale 
+Zaken en Werkgelegenheid.  
+ 
+Met het doen van een Inschrijving garandeert Inschrijver aan alle verplichtingen inzake 
+belastingen, milieubescherming, arbeidsbescherming en arbeidsvoorwaarden die gelden in 
+Nederland te voldoen. 
+ 
+ Verordening (EU) 2022/576 van de Raad betreffende Russische 
+ondernemingen 
+Uit het vijfde sanctiepakket van de Raad van de EU volgt dat Russische partijen niet meer mogen 
+deelnemen aan Europese aanbestedingen. Deze maatregel is ingevoerd bij Verordening (EU) 
+2022/576 VAN DE RAAD d.d. 8 a pril 2022 en is rechtstreeks toepasselijk in de lidstaten.  
+ 
+Dit betekent ook dat u zeer beperkt een beroep kunt doen op de draagkracht van een derde of 
+gebruik kunt maken van een derde uit Rusland. 
+ 
+Door het indienen van een Inschrijving verklaart u niet in strijd te handelen met de Verordening. 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+2 EISEN AAN DE INSCHRIJVER 
+ 
+In dit hoofdstuk worden de uitsluitingsgronden, geschiktheidseisen en eventuele selectiecriteria 
+weergegeven, waar u als Inschrijver aan moet voldoen om u te kwalificeren voor de aanbesteding. 
+Bij elke eis wordt aangegeven welke documenten u daarbij moet meesturen als onderdeel van uw 
+Inschrijving. 
+2.1 Eenmalig inschrijven – zelfstandig of als een samenwerkingsverband 
+Een onderneming mag maar één keer een Inschrijving indienen. Dat kan zelfstandig, als individuele 
+onderneming of in een samenwerkingsverband, dus met één of meer andere ondernemingen. Een 
+samenwerkingsverband geldt als één Inschrijver. 
+ 
+Als een onderneming zelfstandig én als lid van een samenwerkingsverband een inschrijving indient, 
+beoordeelt de Aanbestedende dienst alleen de inschrijving van het samenwerkingsverband. De 
+zelfstandige inschrijving wordt dan uitgesloten van de aanbesteding. 
+ 
+Uit een concern of groep mag er één (1) inschrijving gedaan worden tenzij de verschillende 
+inschrijvers kunnen aantonen dat zij hun inschrijvingen voor deze opdracht onafhankelijk van 
+elkaar hebben opgesteld. Kan dit niet, of niet voldoende, worden aangetoond, dan worden alle 
+inschrijvingen van leden van dit concern of deze groep uitgesloten. 
+2.1.1 Zelfstandige inschrijving 
+Indien u kiest om zelfstandig een inschrijving in te dienen, dan moet u een Eigen Verklaring (ook 
+wel UEA genoemd, zie bijlage 5 invullen en indienen. U vult dan de afdelingen A en B van Deel II, 
+Deel III, Deel IV en Deel VI van deze verklaring in. Ook moet u – na schriftelijk verzoek van de 
+Aanbestedende dienst – de gevraagde bewijsstukken indienen. 
+ 
+Indien u zelfstandig deelneemt en u zich niet beroept op de draagkracht van een derde (zie 
+paragraaf 2.2.1) om aan de geschiktheidseisen te voldoen, hoeft u maar 1 Eigen Verklaring in te 
+dienen. Indien u een beroep doet op de draagkracht van een derde, moet u ervoor zorgen dat 
+naast uw Eigen Verklaring, ook de Eigen Verklaringen van de ondernemingen waarop u steunt, 
+worden ingediend. 
+2.1.2 Samenwerkingsverband 
+U kunt ook samen met één of meer andere ondernemingen inschrijven, als een 
+samenwerkingsverband. Als u samen met andere ondernemingen deelneemt aan de 
+aanbestedingsprocedure, dan moet u dit aangeven in de Eigen Verklaring. U moet ook aangeven 
+wat uw rol is binnen het samenwerkingsverband (bijvoorbeeld die van penvoerder – waardoor u als 
+verantwoordelijk gemachtigde mag optreden tijdens de looptijd van de overeenkomst – of dat u 
+verantwoordelijk bent voor specifieke taken).  
+ 
+Alle deelnemers van het samenwerkingsverband moeten afzonderlijk een Eigen Verklaring invullen 
+en indienen. Ze vullen dan de afdelingen A en B van Deel II, Deel III, Deel IV en Deel VI van deze 
+verklaring in. Ook moet iedere deelnemer – na verzoek van de Aanbestedende dienst – de 
+gevraagde bewijsstukken indienen. 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+De deelnemers van het samenwerkingsverband zijn zowel gezamenlijk als hoofdelijk 
+verantwoordelijk voor de uitvoering van de overeenkomst.  
+ 
+Let op! Het is niet mogelijk om gedurende de aanbestedingsprocedure het samenwerkingsverband 
+te wijzigen. 
+ 
+Indien het samenwerkingsverband een beroep doet op de draagkracht van een (of meerdere) 
+derde(n), (zie paragraaf 2.2.1), moet naast de Eigen Verklaringen van de verschillende 
+deelnemers, ook de Eigen Verklaring(en) van de onderneming(en) waarop wordt gesteund, worden 
+ingediend. 
+ Onderaanneming 
+2.2.1 Beroep op draagkracht van derden 
+Wanneer u, om aan de geschiktheidseisen te voldoen, een beroep wilt doen op de draagkracht van 
+een derde (de holding waar u deel van uitmaakt, een andere rechtspersoon of een natuurlijke 
+persoon), dan geeft u dat aan in de Eigen Verklaring. Uit uw Inschrijving moet ook blijken met 
+betrekking tot welke geschiktheidseis u een beroep doet op een derde.  
+ 
+Deze onderaannemer op wie een beroep wordt gedaan moet ook een Eigen Verklaring invullen en 
+indienen. Deze onderaannemer vult de afdelingen A en B van Deel II, Deel III en Deel VI van de 
+Eigen Verklaring in. Hieruit blijkt dat de derde voor de opdracht kan worden ingezet en er geen 
+grond voor uitsluiting, als bedoeld in deel III van de Eigen Verklaring, van toepassing is. 
+ 
+De hoofdaannemer (Inschrijver) levert – na verzoek van de Aanbestedende dienst – de gevraagde 
+bewijsstukken aan, ook namens de onderaannemer (derde). 
+ 
+Let op! Als u een beroep doet op de kennis en ervaring van een derde voor een onderdeel van de 
+opdracht, moet deze derde dit onderdeel van de opdracht daadwerkelijk uitvoeren. Door 
+ondertekening van de Eigen Verklaring gaat u hiermee akkoord.  
+ 
+De samenwerking met een onderaannemer laat de aansprakelijkheid van de inschrijver, als 
+hoofdaannemer, voor de uitvoering van de opdracht ongewijzigd. 
+2.2.2 Overige onderaannemers 
+Naast de hierboven genoemde derde(n) mogen tijdens de looptijd van de (raam)overeenkomst, na 
+toestemming van de Aanbestedende dienst, ook andere ondernemingen worden ingezet om delen 
+van de opdracht uit te voeren. Dit zijn onderaannemers op wie u geen beroep hoeft te doen om 
+aan de geschiktheidseisen te voldoen. 
+ 
+Het is niet verplicht, maar indien u bij uw Inschrijving al wilt laten weten dat u een deel van de 
+opdracht wil laten uitvoeren door een of meer onderaannemers, dan kunt u dit aangeven in de 
+Eigen Verklaring in Deel II D. Daarbij moet u aangeven welke onderdelen van de opdracht het 
+betreft en, voor zover bekend, welke onderaannemers u voorstelt.  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+Er is geen verplichting om van deze derde(n) een Eigen verklaring in te dienen. 
+ 
+De samenwerking met een onderaannemer laat de aansprakelijkheid van de inschrijver, als 
+hoofdaannemer, voor de uitvoering van de opdracht ongewijzigd. 
+ Verplichte uitsluitingsgronden 
+In de Eigen Verklaring verklaart u dat de uitsluitingsgronden zoals genoemd in Deel III van de 
+Eigen Verklaring (artikel 2.86 AW) niet op uw onderneming van toepassing zijn. Hiervoor moet u 
+de afdelingen A en B van Deel III van de Eigen Verklaring invullen. 
+ 
+Als u in aanmerking komt voor gunning van de opdracht, moet u binnen 10 werkdagen na 
+verzoek van de Aanbestedende dienst de wettelijke bewijsstukken indienen om aan te tonen dat op 
+u en – indien van toepassing – uw onderaannemer, de uitsluitingsgronden niet van toepassing zijn.  
+ 
+Voor Nederlandse ondernemers bestaan de wettelijke bewijsstukken uit: 
+ 
+Uitsluitingsgrond Bewijsmiddel 
+Een verklaring van de 
+Belastingdienst (art. 2.89 
+lid 3 AW) 
+Deze verklaring mag niet ouder zijn dan 6 
+maanden, te rekenen vanaf het tijdstip van het 
+indienen van uw Inschrijving  
+Gedragsverklaring 
+aanbesteden (art. 2.89 lid 2 
+AW) 
+Deze mag niet ouder zijn dan 2 jaar te rekenen 
+vanaf het tijdstip van het indienen van uw 
+Inschrijving 
+ 
+Let op! De aanvraag- en verwerkingstijd voor deze documenten kan enige tijd duren. Vraag ze 
+daarom tijdig aan. 
+ 
+Bewijzen kunnen per land verschillen. In e-Certis
+ (een databank van de Europese Commissie) vindt 
+u een overzicht van de bewijsstukken uit Europese lidstaten. 
+ 
+Indien er echter in het land van vestiging geen gelijkwaardig document bestaat, kan ook een 
+verklaring onder ede of een schriftelijke verklaring van een bevoegde instantie worden ingediend.  
+ Facultatieve uitsluitingsgronden 
+Voor deze aanbesteding gelden geen facultatieve uitsluitingsgronden. 
+ Geschiktheidseisen 
+U verklaart in Deel IV van de Eigen Verklaring of u wel of niet aan de gestelde geschiktheidseisen 
+voldoet. 
+ 
+Een of meerdere geschiktheidseisen uit de volgende paragrafen worden gesteld: 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+-  Beroepsbekwaamheid (referenties & CV’s); zie hiervoor de bijlage 1, het briefing document; 
+-  Financiële en economische draagkracht; 
+2.5.3 Financiële en economische draagkracht 
+U moet kunnen aantonen dat uw onderneming financieel in staat is de opdracht uit te voeren. Om 
+dit te kunnen bepalen, geldt het volgende: 
+ 
+U heeft een Aansprakelijkheidsverzekering voor bedrijven voor een bedrag van tenminste  
+€ 1.000.000,00 per gebeurtenis en € 2.500.000,00 per jaar. Indien u hieraan nog niet kunt 
+voldoen, dient u een document (offerte) van een verzekeringsmaatschappij toe te voegen waarin 
+deze aangeeft de dekking tot minimaal het gestelde bedrag te willen verhogen. 
+ 
+U heeft daarnaast ook een beroepsaansprakelijkheidsverzekering (BAV) voor een bedrag van 
+tenminste € 500.000,00 per gebeurtenis en € 1.500.000,00 per jaar. Indien u hieraan nog niet 
+kunt voldoen, dient u een document (offerte) van een verzekeringsmaatschappij toe te voegen 
+waarin deze aangeeft de dekking tot minimaal het gestelde bedrag te willen verhogen. 
+ 
+Wanneer u in aanmerking komt voor gunning, moet u binnen 10 werkdagen na schriftelijk verzoek 
+een passende bankverklaring en/of een bewijs van een verzekering tegen bedrijfsrisico’s en 
+beroepsrisico’s indienen.  
+ 
+Inschrijver dient over voldoende financiële en economische draagkracht te beschikken om de 
+opdracht zonder onaanvaardbare financiële risico’s voor Opdrachtgever correct en tijdig uit te 
+voeren. Aanbestedende dienst hanteert hiervoor de navolgende minimumeisen: 
+ 
+A: Er is geen sprake van gerede twijfel over de duurzame voortzetting van de activiteiten van 
+Inschrijver. In geval van Inschrijving in een samenwerkingsverband, geldt deze minimumeis voor 
+alle afzonderlijke deelnemers aan de samenwerking. 
+ 
+B: Inschrijver is niet bekend met substantiële aanspraken van derden, financieel of anderszins, die 
+de continuïteit van zijn bedrijfsvoering in gevaar kunnen brengen. In geval van een Inschrijving in 
+een samenwerkingsverband geldt deze minimumeis voor alle afzonderlijke deelnemers aan de 
+samenwerking. 
+ 
+Om de juistheid van de Eigen Verklaring met betrekking tot de minimumeisen ten aanzien van 
+financiële en economische draagkracht te toetsen, zal Aanbestedende dienst, wanneer u in 
+aanmerking komt voor gunning, onderstaande bewijsstukken opvragen. U dient deze verklaring 
+binnen 10 dagen na schriftelijk verzoek van Aanbestedende dienst in te dienen. 
+ 
+Een schriftelijke verklaring van een registeraccountant of een Accountant-Administratieconsulent in 
+de zin van artikel 2:393 lid 1 BW met goedkeurende strekking zonder toelichtende paragraaf 
+wegens onzekerheid omtrent de continuïteit (continuïteitsparagraaf). De accountantsverklaring 
+heeft betrekking op de jaarrekeningen over de laatste drie beschikbare boekjaren. Uit deze 
+verklaring moet blijken dat (a) de jaarrekeningen een getrouw beeld geven van het vermogen en 
+het resultaat en (b) er geen gerede twijfel is over de continuïteit van de activiteiten van 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+Inschrijver. Voor bedrijven die geen jaarrekening hoeven op te stellen, volstaat een beoordelings- 
+of samenstellingsverslag. 
+ 
+Als u voor de financiële draagkracht een beroep wilt doen op de draagkracht van een derde, door 
+bijvoorbeeld een beroep te doen op de door het concern afgesloten verzekering, moet de Eigen 
+Verklaring van de betreffende derde (moedermaatschappij) worden ingediend.  
+ Uitsluiting of afwijzing van een inschrijver 
+Wanneer één of meer van de uitsluitingsgronden op u, een lid van uw samenwerkingsverband of op 
+uw onderaannemer van toepassing zijn, wordt u in beginsel uitgesloten van deelname aan de 
+aanbestedingsprocedure. In dat geval wordt uw Inschrijving terzijde gelegd. 
+ 
+U krijgt eerst de gelegenheid om te bewijzen dat u voldoende maatregelen heeft genomen en de 
+bedrijfsvoering heeft aangepast ten aanzien van deze uitsluitingsgrond. Het is aan de 
+Aanbestedende dienst om te bepalen of de genomen maatregelen en/of het bewijs toereikend zijn. 
+De Aanbestedende dienst kan ook om andere redenen afzien van toepassing van de 
+uitsluitingsgrond, indien uitsluiting bijvoorbeeld kennelijk onredelijk zou zijn. 
+ 
+De mogelijkheid om de betrouwbaarheid aan te tonen (ook wel proportionaliteitstoets genoemd) 
+geldt niet voor de uitsluitingsgrond ‘Valse verklaring’. In dat geval heeft de Aanbestedende dienst 
+het recht om de inschrijving direct terzijde te leggen. 
+ 
+Ook als u niet voldoet aan één of meer van de gestelde geschiktheidseisen, wordt u uitgesloten van 
+deelname aan de aanbestedingsprocedure. In dat geval wordt uw Inschrijving terzijde gelegd en 
+niet verder beoordeeld. 
+ 
+Het niet tijdig of onvolledig aanleveren van de gevraagde bewijsstukken kan eveneens leiden tot 
+uitsluiting en/of afwijzing van uw Inschrijving. In paragraaf 3.6 staat een tabel die aangeeft wat 
+wanneer moet worden aangeleverd. 
+3 De inschrijving 
+ 
+In dit hoofdstuk staan de methodiek en de criteria beschreven die voor de beoordeling van de 
+inschrijvingen zullen worden gehanteerd, ter bepaling welke inschrijver de economisch meest 
+voordelige inschrijving heeft ingediend. Hierbij wordt onderscheid gemaakt tussen eisen die leiden 
+tot een directe knock-out van een inschrijving indien de inschrijving daar niet aan voldoet, en de 
+nadere (subgunnings)criteria waarmee de uiteindelijke rangorde tussen inschrijvingen wordt 
+bepaald. 
+3.1 Knock-out eisen 
+Er zijn knock-out eisen die de inhoud van de inschrijving betreffen, en die hieronder worden 
+uiteengezet bij K1 tot en met K4: 
+ 
+K1: U stemt met uw Inschrijving onvoorwaardelijk in met de conceptovereenkomst – inclusief 
+eventuele rectificaties die voortvloeien uit de nota van inlichtingen; 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+K2: Uw Inschrijving voldoet aan de eisen in de briefing als bedoeld in bijlagen 1 en 2– inclusief 
+eventuele rectificaties die voortvloeien uit de nota van inlichtingen; 
+Dit aan te geven in de briefing als bijgevoegd in bijlagen 1 en 2.  
+ 
+K3: Beantwoorden van casus; 
+Dit aan te geven in de briefing als bijgevoegd in bijlagen 1 en 2.  
+ 
+K4: Beroepsbekwaamheid: referenties en CV’s; 
+Dit aan te geven in de briefing als bijgevoegd in bijlage 1.  
+3.2 Gunningscriterium 
+De Aanbestedende dienst gunt de opdracht aan de inschrijver met de economisch meest voordelige 
+inschrijving. De economisch meest voordelige inschrijving wordt op de volgende manier bepaald: 
+ 
+De ingediende inschrijvingen beoordelen wij op basis van het gunningscriterium “beste prijs 
+kwaliteit verhouding (BPKV)”. Hierbij kijken wij naar prijs én kwaliteitsaspecten. De gehanteerde 
+beoordelingsmethodiek is “prijs per punt”.  
+ 
+De kwaliteit wordt beoordeeld aan de hand van de volgende gunningscriteria: 
+ 
+Gunningscriteria - Perceel 1 
+Kwaliteit, bestaande uit:  
+G1 Kwaliteit beantwoording Casus Maximaal 650 punten 
+G2 Beroepsbekwaamheid Maximaal 350 punten 
+Totaal aantal te behalen punten Maximaal 1000 punten 
+ 
+ 
+Gunningscriteria - Perceel 2 
+Kwaliteit, bestaande uit:  
+G1 Kwaliteit beantwoording Casus Maximaal 650 punten 
+G2 Beroepsbekwaamheid Maximaal 350 punten 
+Totaal aantal te behalen punten Maximaal 1000 punten 
+ 
+ 
+Gunningscriteria - Perceel 3 
+Kwaliteit, bestaande uit:  
+G1 Beoordeling van de CV’s Maximaal 650 punten 
+G2 Beroepsbekwaamheid Maximaal 350 punten 
+Totaal aantal te behalen punten Maximaal 1000 punten 
+ 
+De score van uw offerte wordt berekend volgens de formule: 
+ 
+Gemiddeld uurtarief / totaalscore kwaliteit 
+ 
+De winnende offerte is de offerte met de laagste score.  
+ 
+ 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+Voorbeeld 
+Onderstaande tabel toont de score die behaald zou worden aan de hand van een aantal 
+voorbeelden: 
+ 
+Inschrijver  Prijs Kwaliteit Score 
+Inschrijver A € 39.000,- 500 punten 78 punten 
+Inschrijver B € 42.000,- 500 punten 84 punten 
+Inschrijver C € 45.000,- 675 punten 66,67 punten 
+ 
+De score wordt afgerond op twee decimalen. 
+In dit voorbeeld heeft Inschrijver C de winnende offerte. 
+ 
+Beoordeling kwaliteit 
+De kwaliteit van uw offerte beoordelen wij aan de hand van: 
+ 
+Subgunningscriteria perceel 1 - Doelgroeponderzoek 
+Kwaliteit beantwoording casus 
+U wordt verzocht een plan van aanpak (maximaal 6 
+pagina’s, lettertype Verdana 9, excl. foto’s-/ afbeeldingen) 
+bij te voegen voor de vervulling van de fictieve casus. 
+Hierin besteedt u ten minste aandacht aan:  
+• Visie en aanpak/methode; 
+• Doelgroepsegmentatie en wijze van 
+respondentenwerving; 
+• Toepassing gedragskennis in onderzoeksvoorstel; 
+• Moet passen binnen fictief budget van 50.000,-. 
+Hierbij is een goede onderbouwing essentieel, maar ook 
+het laten zien van originele denkkracht.  
+ 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Maximaal 350 
+punten 
+Totaal aantal te behalen punten 1000 punten 
+ 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+Subgunningscriteria perceel 2 - Gedragsaanpak, interventies en effect 
+Kwaliteit beantwoording casus 
+U wordt verzocht een plan van aanpak (maximaal 6 
+pagina’s, lettertype Verdana 9, excl. foto’s-/ afbeeldingen) 
+bij te voegen voor de vervulling van de fictieve casus. 
+Hierin besteedt u ten minste aandacht aan:  
+• Visie op de casus en 2 of 3 interventierichtingen; 
+• Toepassing gedragskennis in interventieontwikkeling; 
+• Methode van evalueren interventies; 
+• Pretest/ Experiment moet passen binnen fictief budget 
+van 50.000,-. 
+Hierbij is een goede onderbouwing essentieel, maar ook 
+het laten zien van originele denkkracht. 
+ 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Maximaal 350 
+punten 
+Totaal aantal te behalen punten 1000 punten 
+ 
+Subgunningscriteria perceel 3 - Inhuur van gedragsdeskundige(n)  
+Beoordeling van de CV’s op: 
+- Gedragsexpertise;  
+- Werkervaring als gedragsdeskundige; 
+- Gedragsprojecten voor de overheid; 
+- Gedragsprojecten waarbij gedragsonderzoek en -/ 
+of interventieontwikkeling onderdeel was; 
+- Affiniteit met IenW-onderwerpen. 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+Maximaal 350 
+punten 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Totaal aantal te behalen punten 1000 punten 
+ 
+ 
+De volgende scores zijn te behalen conform onderstaande waarderingstabel:  
+ 
+Waardering % van maximale te 
+behalen punten 
+Uitstekend: 
+De uitwerking van het subgunningscriterium: 
+• sluit uitstekend aan bij hetgeen gevraagd;  
+• voldoet aan alle gevraagde aspecten; 
+• biedt aan IenW extra meerwaarde die concreet 
+onderbouwd is. 
+100 
+Goed:  
+De uitwerking van het subgunningscriterium: 
+• sluit goed aan bij hetgeen gevraagd; 
+• voldoet aan alle gevraagde aspecten; 
+• biedt aan IenW geen extra meerwaarde ten opzichte 
+van wat is gevraagd. 
+75 
+Voldoende:  
+De uitwerking van het subgunningscriterium: 
+• sluit voldoende aan bij hetgeen gevraagd; 
+• voldoet slechts nipt of grotendeels aan de gevraagde 
+aspecten; 
+• sluit minimaal aan bij de behoeften en wensen van 
+IenW. 
+50 
+Onvoldoende: 
+De uitwerking van het subgunningscriterium: 
+• sluit onvoldoende aan bij hetgeen gevraagd; 
+• gaat niet in op alle aspecten; 
+• is niet in voldoende detail uitgewerkt en/of schetst 
+geen realistisch beeld. 
+25 
+Niet ingediend: 
+Het subgunningscriterium is niet uitgewerkt/ingediend 
+of de uitwerking is niet relevant, dan wel sluit niet aan 
+bij hetgeen is gevraagd. 
+0 
+ 
+De beoordelaars bepalen met elkaar op basis van consensus de definitieve waardering - en 
+daarmee het aantal punten - per gunningscriterium.  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+Wanneer kwalitatieve gunningscriteria G1 of G2 lager scoren dan voldoende, leggen wij uw offerte 
+terzijde. 
+ 
+Beoordeling prijs 
+In uw inschrijving vermeldt u de uurtarieven voor uw dienstverlening, voor junior en senior 
+medewerkers. U vult hiervoor de inschrijvingsstaat (Bijlage B) in. De prijzen vermeldt u in euro, 
+zowel inclusief als exclusief btw.  
+ 
+De prijzen per eenheid en per (deel)product/dienst moeten reëel en marktconform zijn. Het is 
+bijvoorbeeld niet toegestaan om als prijs een nul (0) of een negatieve waarde in te vullen. Wij 
+maken u erop attent dat wij offertes met dergelijke prijzen aanmerken als ongeldig en terzijde 
+leggen. 
+ 
+ 
+ 
+3.2.1  S ubgunningscriterium Prijs 
+Inschrijver geeft zijn prijzen aan door het Prijzenblad (bijlagen 4,5 en 6) volledig en zonder 
+voorbehoud in te vullen. De prijzen van perceel 1 en 2 betreffen de ‘fictieve’ casus. Voor alle 
+perceel vult u de gemiddelde uurtarieven in. 
+ 
+Dit betekent ook dat de ingediende prijzen na sluitingsdatum niet gewijzigd kunnen worden, tenzij 
+een wijziging van prijzen is toegestaan volgens de overeenkomst (bijvoorbeeld indien er een 
+prijsherziening is opgenomen).    
+ 
+De opgegeven prijzen gelden gedurende de eerste 2 (twee) jaar van de Overeenkomst en worden 
+daarna jaarlijks geïndexeerd op basis van de CPI-index van 2025. Deze staat opgenomen in de 
+Overeenkomst. Zie bijlagen 7, 8 en 9. 
+3.2.2 Subgunningscriterium Kwaliteit 
+De beoordeling van de Kwaliteit vindt plaats op basis van de uitwerking die door inschrijver is 
+gegeven op de subgunningscriteria ‘Kwaliteit’ zoals deze zijn opgenomen in deze paragraaf en is op 
+basis van de puntenscore zoals opgenomen in de tabel onder 3.2 gunningscriterium. 
+ 
+3.3  Varianten 
+Het indienen van varianten is niet toegestaan. Het is dus niet mogelijk om op eigen initiatief af te 
+wijken van de technische specificaties. 
+3.4 Beoordeling 
+Eerst worden de inschrijvingen op de formele eisen en de uitsluitingsgronden en geschiktheidseisen 
+beoordeeld. Ongeldige of ongeschikte inschrijvingen worden terzijde gelegd en niet verder 
+beoordeeld. Vervolgens is er een beoordelingsteam dat de kwaliteit beoordeelt en tenslotte wordt 
+de prijs beoordeeld.  
+ 
+Het beoordelingsteam Kwaliteit bestaat uit drie personen en beoordeelt de inschrijvingen op de 
+inhoudelijke knock-out eisen en de nadere (subgunnings)criteria zoals opgenomen onder paragraaf 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+3.2.  
+ 
+De beoordelingscommissie bestaat uit 3 beoordelaars 
+ 
+Eerst beoordeelt iedere beoordelaar individueel, dus onafhankelijk van de andere beoordelaars, de 
+inschrijvingen. Hierna vindt een plenaire sessie plaats en worden de individuele scores besproken. 
+De uiteindelijke score komt door een gezamenlijk oordeel van het beoordelingsteam Kwaliteit tot 
+stand. Dit is het zogenoemde consensusmodel. 
+ 
+3.5 Mededeling gunningsbeslissing 
+Alle inschrijvers krijgen gelijktijdig bericht van de Aanbestedende dienst over de 
+gunningsbeslissing. Dit bericht bevat de naam van de winnende inschrijver, de relevante redenen 
+voor de gunningsbeslissing en informatie over de opschortende termijn. De mededeling van de 
+gunningsbeslissing wordt in ieder geval via Tenderned verzonden. 
+ 
+De Aanbestedende dienst kan altijd besluiten de gunningsbeslissing in te trekken of te herzien.  
+  
+3.6 Aan te leveren stukken  
+ 
+Bij inschrijving maar ook na voorlopige gunning dient u een aantal stukken aan te leveren. 
+In onderstaande tabel staat samengevat welke documenten wanneer moeten worden aangeleverd. 
+ 
+Wanneer u in aanmerking komt voor gunning van de opdracht, vraagt de Aanbestedende dienst u 
+een aantal bewijsstukken aan te leveren. Welke stukken dat zijn staat in onderstaande tabel. 
+ 
+Doet u dit niet binnen 10 werkdagen na verzoek van de Aanbestedende dienst, of voldoen uw 
+stukken niet, dan kan de Aanbestedende dienst u alsnog uitsluiten of afwijzen en de volgende 
+inschrijver in de rangorde benaderen. 
+ 
+Wat Wanneer  Wie 
+    Zelfstandige  
+Inschrijver 
+Samenwerkings-
+verband  
+Derde(n)  (paragraaf  2.2.1) 
+ 
+(Samenwerkingsverband/zelf
+standige inschrijver dient de 
+documenten namens derde 
+in)  
+Bijlage Eigen 
+Verklaring (UEA, zie 
+Tenderned)  
+Ingevuld en 
+ondertekend 
+Inschrijving X X X 
+Bijlage Eigen 
+Verklaring (UEA, zie 
+Tenderned) ingevuld 
+en ondertekend van 
+(indien van 
+toepassing)  
+ 
+Op verzoek 
+  X 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+overige derden 
+(paragraaf 2.2.2) 
+Bijlage Model 
+referentieopdrachten 
+Inschrijving X X  
+Prijzenblad Inschrijving X X  
+<Passende 
+bankverklaringen 
+en/of een bewijs van 
+een verzekering tegen 
+bedrijfsrisico’s <en 
+beroepsrisico’s>> 
+<<Een schriftelijke 
+verklaring van een 
+registeraccountant of 
+een Accountant-
+Administratieconsulent
+>> 
+Op 
+verzoek/In
+schrijving 
+X X  
+Uitwerken Briefing Inschrijving x x  
+Gedragsverklaring 
+aanbesteden (GVA) 
+Op verzoek X X X 
+ 
+ 
+ 
+  
+Verklaring nakoming 
+belastingverplichtingen 
+Op verzoek X X X 
+  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21 
+4 ALGEMENE BEPALINGEN 
+ 
+In dit hoofdstuk staan relevante voorwaarden en bepalingen die de Aanbestedende dienst stelt aan 
+uw Inschrijving. De procedure verloopt volledig elektronisch via het online aanbestedingsplatform 
+Tenderned. Nadere informatie over het gebruik daarvan leest u hier
+. 
+4.1 Aankondiging, inschrijving en inschrijvingstermijn 
+Voor de inschrijvingen gebruikt de Aanbestedende dienst het platform Tenderned. Uw hele 
+Inschrijving inclusief alle gevraagde informatie en stukken moet dus worden ingediend c.q. 
+geüpload in Tenderned.  
+ 
+U mag de gebruikte formats van de Aanbestedende dienst niet wijzigen en uw Inschrijving moet 
+minimaal 90 dagen geldig zijn na de sluitingsdatum. 
+ 
+De Aanbestedende dienst streeft ernaar de termijnen volgens onderstaande planning aan te 
+houden maar behoudt zich het recht voor om deze planning tussentijds aan te passen. 
+Uitgezonderd de wettelijk opgelegde minimale termijnen kunnen aan deze planning geen rechten 
+worden ontleend. Alle tijdstippen in de planning zijn aangeduid in lokale Nederlandse tijd. 
+ 
+Activiteit Dag Datum 
+Verzending van de Publicatie van de 
+aanbesteding via www.tenderned.nl  
+Woensdag 5 februari 2025 
+Sluitingsdatum voor het stellen van 
+vragen via www.tenderned.nl (eerste 
+ronde). 
+Woensdag 19 februari 2025 om 12:00 uur 
+Publiceren van de nota van 
+inlichtingen via www.tenderned.nl.  
+Woensdag 5 maart 2025 
+Sluitingsdatum en uiterlijke 
+ontvangst inschrijvingen via 
+www.tenderned.nl. 
+Woensdag 19 maart 2025 om 12:00 uur 
+Opening inschrijvingen via digitale 
+kluis Tenderned.  
+Woensdag 19 maart 2025 om 12:00 uur 
+Beoordeling van de inschrijvingen Woensdag Van 19 maart t/m 9 april 2025 
+Mededeling van het voornemen tot 
+gunning via Tenderned, dit onder de 
+voorwaarden als genoemd in 
+paragraaf 3.5 van dit Beschrijvend 
+document. 
+Woensdag 16 april 2025 
+Opschortende termijn  
+(vervaltermijn 20 dagen) 
+Woensdag 7 mei 2025 
+Aanleveren benodigde bewijsstukken 
+(zie paragraaf 3.6 van dit 
+Beschrijvend document) 
+Donderdag 15 mei 2025 
+   
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+Voorziene datum ondertekening van 
+de Overeenkomst, datum van 
+gunning. 
+Dinsdag 20 mei - na geslaagde 
+Verificatiefase 
+Inwerkingtreding Overeenkomst Maandag 2 juni 2025 
+ 
+Als sluitingsdatum en uiterste tijdstip voor ontvangst van uw Inschrijving door de Aanbestedende 
+dienst geldt de datum in de planning in Tenderned (sluitingsdatum en uiterlijke ontvangst 
+inschrijvingen). De opening van de digitale inschrijvingen geschiedt via de digitale kluis van 
+Tenderned. U kunt niet bij de opening aanwezig zijn. 
+ 
+Let op! De sluitingsdatum en -tijd is een fatale datum. Na het verstrijken van de deadline kunnen 
+geen inschrijvingen meer worden ingediend. Eventuele vertraging in het uploaden is voor uw 
+rekening. 
+4.2 Communicatie 
+Alle communicatie verloopt via Tenderned. De contactpersoon voor deze aanbesteding is ook in 
+Tenderned opgenomen. Alleen ingeval van een storing bij Tenderned mag op een andere manier 
+contact worden opgenomen met de contactpersoon: 
+ 
+Eveline Spaans: eveline.spaans@minienw.nl Tel: 06-27893714. 
+Let op! Het is tijdens de aanbestedingsprocedure niet toegestaan over deze aanbesteding contact 
+op te nemen met andere medewerkers van Aanbestedende dienst dan de genoemde 
+contactpersoon, tenzij uitdrukkelijk anders vermeld in dit Beschrijvend document. U kunt hiervoor 
+worden uitgesloten. 
+ Inlichtingen, vragen en bezwaren 
+4.3.1 Vragen en bezwaren 
+Heeft u vragen over de Aanbestedingsstukken, tegenstrijdigheden gesignaleerd of wilt u bezwaar 
+maken tegen (delen van) de aanbestedingsprocedure, dan dient u dit zo spoedig mogelijk, maar 
+uiterlijk op de in de planning in Tenderned opgenomen datum via de Vraag en Antwoord module 
+van Tenderned middels gebruikmaking van het vragenformulier bijgevoegd als bijlage 18 kenbaar 
+te maken.  
+ 
+Alleen vragen en opmerkingen die tijdig en op de juiste manier worden ingediend, worden 
+beantwoord. Beantwoording gebeurt door een geanonimiseerde nota van inlichtingen die uiterlijk 
+10 kalenderdagen voor de sluitingsdatum van de inschrijving wordt gepubliceerd. 
+ 
+In het geval u een commerciële of vertrouwelijke vraag wilt stellen, mag u een verzoek doen om 
+uw vraag individueel te stellen. De Aanbestedende dienst beoordeelt dit verzoek. Als de 
+Aanbestedende dienst het verzoek honoreert zal het antwoord niet worden gepubliceerd en alleen 
+aan u worden gestuurd. Als de Aanbestedende dienst de vraag niet individueel kan of mag 
+beantwoorden, wordt u verzocht de vraag alsnog via de Vraag en Antwoord module van Tenderned 
+middels gebruikmaking van het vragenformulier bijgevoegd als bijlage 8 te stellen en zal de vraag 
+worden beantwoord in de nota van inlichtingen. 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+Let op! Tijdens de daarvoor gestelde termijn heeft u het recht om bezwaar te maken tegen 
+eventuele gebreken of onduidelijkheden. Als u dat tijdens deze termijn niet doet, kunt u daar in 
+principe niet meer op terug komen.  
+ 
+Door het indienen van een Inschrijving stemt u in met alle voorwaarden en bepalingen van de 
+aanbestedingsprocedure en de bijbehorende stukken. 
+  
+In geval van tegenstrijdigheden tussen de nota(’s) van inlichtingen en dit Beschrijvend document 
+(inclusief bijlagen), gaat de meest recente nota van inlichtingen voor. 
+4.4 Beoordeling van u en uw Inschrijving 
+Beoordeling van de inschrijver en de door inschrijver ingediende informatie/documenten vindt in   
+fases plaats. 
+ 
+1. In de eerste fase toetst de Aanbestedende dienst of zich één of meer van de volgende situaties 
+voordoen: 
+ 
+- De Inschrijving is niet via het online aanbestedingsplatform Tenderned of niet tijdig ingediend; 
+- De gevraagde informatie en documenten zijn niet, niet volledig, onder voorbehoud, onder 
+voorwaarden of onjuist verstrekt; 
+- De Inschrijving is niet ingediend met de juiste documenten of de Inschrijver heeft de verstrekte 
+documenten gewijzigd; 
+- De Inschrijving (de Eigen Verklaring en/of indien gevraagd het prijzenblad) zijn niet 
+ondertekend door de daartoe bevoegde persoon; 
+- De gevraagde informatie is niet in de voorgeschreven taal ingediend. 
+ 
+Indien zich één of meer van de hiervoor aangegeven situaties voordoen, wordt uw Inschrijving 
+ongeldig verklaard. Voor een ongeldige inschrijving geldt dat deze niet wordt beoordeeld en 
+terzijde wordt gelegd. 
+ 
+Rechtsgeldig ondertekenen van de Eigen verklaring/UEA houdt in dat de persoon (of 
+personen!) die de Eigen verklaring ondertekent in het handelsregister moet zijn 
+ingeschreven als vertegenwoordigingsbevoegde van de onderneming. 
+Wanneer in het handelsregister is opgenomen dat twee of meer personen slechts 
+gezamenlijk vertegenwoordigingsbevoegd zijn, zal de ondertekening ook door die twee 
+of meer personen moeten plaatsvinden. Wanneer er bij de bevoegdheid tot het 
+vertegenwoordigen van de onderneming beperkingen zijn opgenomen moet daar 
+rekening mee gehouden worden. 
+ 
+Als u de Eigen Verklaring niet rechtsgeldig heeft ondertekend, maar een ander document zoals een 
+aanbiedingsbrief wèl, dan is dat geen reden om de Inschrijving ongeldig te verklaren. De 
+handtekening onder de aanbiedingsbrief geldt dan ook als ondertekening van de Eigen Verklaring. 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+2. In de tweede fase toetst de Aanbestedende dienst de uitsluitingsgronden en geschiktheidseisen, 
+zoals opgenomen in hoofdstuk 2.  
+ 
+3. In de derde fase gelden er formele (knock-out) Eisen, deze staan in paragraaf. 3.1 van dit 
+Beschrijvend document. Wanneer uw Inschrijving niet aan de in hoofdstuk 3 genoemde Eisen 
+voldoet, wordt uw Inschrijving terzijde gelegd. 
+ 
+4. Tenslotte wordt in fase 4 uw Inschrijving inhoudelijk getoetst aan de gunningscriteria. 
+ 
+De Aanbestedende dienst kan u vragen uw Inschrijving te verduidelijken of u de gelegenheid geven 
+kleine gebreken in de Inschrijving te herstellen. U krijgt hiervoor meestal een termijn van 
+maximaal 5 werkdagen. 
+ 
+4.5  Taal 
+De voertaal in de Aanbestedingsstukken, de aanbestedingsprocedure zelf én de uitvoering van de 
+overeenkomst is Nederlands. Door u in te dienen stukken moeten in de Nederlandse taal zijn 
+gesteld. Als de gevraagde informatie een officieel document betreft dat niet in het Nederlands 
+beschikbaar is, moet naast het originele document een Nederlandse of Engelse vertaling worden 
+bijgevoegd. 
+4.6 Opschorten / afbreken aanbesteding 
+De Aanbestedende dienst behoudt zich te allen tijde het recht voor om de aanbestedingsprocedure 
+op te schorten of af te breken. Een reden voor afbreken kan bijvoorbeeld zijn dat politiek draagvlak 
+en/of financiering komt te vervallen. U ontvangt een bericht van de Aanbestedende dienst over het 
+opschorten of beëindigen van de aanbestedingsprocedure. In uitzonderlijke gevallen kan er bij 
+beëindiging sprake zijn van een tenderkostenvergoeding. De Aanbestedende dienst neemt in dat 
+geval contact met u op. 
+4.8 Vertrouwelijkheid 
+Alle informatie die u van de Aanbestedende dienst ontvangt tijdens deze procedure moet u 
+vertrouwelijk behandelen en mag niet aan derden worden verstrekt. Dit geldt niet voor informatie 
+die al openbaar verkrijgbaar is of voor informatie die vanwege een wettelijke verplichting openbaar 
+moet worden gemaakt. Uiteraard mag u vertrouwelijke informatie wel verstrekken aan uw 
+werknemers, adviseurs of opdrachtnemers, eventueel onder oplegging van een 
+vertrouwelijkheidsbeding. 
+ 
+Omgekeerd geldt dat de Aanbestedende dienst uw Inschrijving vertrouwelijk zal behandelen, tenzij 
+de informatie op basis van een wettelijke verplichting openbaar moet worden gemaakt.  
+ 
+De vertrouwelijkheid zoals bedoeld in deze paragraaf zal ook worden bewaard wanneer de 
+aanbestedingsprocedure niet tot de totstandkoming van een overeenkomst leidt. 
+ 
+Uitwisseling en gegevensverwerking van persoonsgegevens tijdens de aanbesteding gebeurt in 
+overeenstemming met de Algemene Verordening Gegevensbescherming (AVG).  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+Het intellectueel eigendom van de Aanbestedingsstukken berust bij de Aanbestedende dienst. 
+5 RECHTSBESCHERMING 
+ 
+U kunt tijdens de looptijd van de aanbestedingsprocedure een klacht indienen wanneer u bezwaar 
+heeft tegen de gunningsbeslissing of de aanbestedingsprocedure. 
+5.1  Klachtenmeldpunt / Commissie van Aanbestedingsexperts 
+Tijdens de procedure kunt u een klacht indienen bij het klachtenmeldpunt, e-mailadres: 
+klachten.inkoop@minienw.nl met in CC een bericht aan mevrouw E. Spaans, e-mail 
+eveline.spaans@minienw.nl . U dient hierbij duidelijk en gemotiveerd aan te geven op welk aspect 
+van de aanbesteding uw klacht betrekking heeft. Wij verzoeken u om in uw klacht het volgende 
+aan te geven: 
+- naam en contactgegevens van uw onderneming; 
+- naam en kenmerk van de onderhavige aanbesteding; 
+- een beschrijving van de klacht en uw verzoek (voorstel voor een oplossing); 
+- evt. aanvullende bijlagen. 
+ 
+De klacht zal zo spoedig mogelijk worden behandeld door een onafhankelijke deskundige binnen 
+het ministerie van Infrastructuur en Waterstaat. 
+ 
+Voordat u bezwaar maakt, moet u eerst gebruik maken van de vraag- en antwoordprocedure om 
+uw klacht kenbaar te maken. Als de reactie van de Aanbestedende dienst naar uw mening niet 
+voldoet, kunt u een klacht indienen bij het klachtenmeldpunt. 
+ 
+Als u het niet eens bent met de klachtafhandeling van het klachtenmeldpunt, dan is het mogelijk 
+de klacht voor te leggen aan de Commissie van Aanbestedingsexperts. Voor nadere informatie over 
+de werkwijze van de Commissie kunt u terecht op www.commissievanaanbestedingsexperts.nl
+. 
+5.2  Kort geding  
+Heeft u bezwaar tegen de gunningbeslissing, dan moet u binnen een termijn van 20 kalenderdagen 
+na verzending van de mededeling van de gunningsbeslissing een kort gedingprocedure aanhangig 
+maken bij de rechtbank te Den Haag. Dit moet blijken uit toezending van een kopie van het 
+exploot van de dagvaarding aan de contactpersoon van deze aanbesteding. In dat geval zal de 
+Aanbestedende dienst niet tot gunning van de opdracht overgaan voordat in kort geding vonnis is 
+gewezen. 
+ 
+De termijn van 20 kalenderdagen is een vervaltermijn. Dit betekent dat als u in deze periode geen 
+kort geding aanhangig maakt, uw rechten om nog op te komen tegen de gunningsbeslissing komen 
+te vervallen. Indien geen enkele Inschrijver binnen de hiervoor genoemde termijn een kort geding 
+heeft aangespannen, staat het de Aanbestedende dienst vrij om een overeenkomst te sluiten met 
+de winnende inschrijver(s).   
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+AFKORTINGEN EN BEGRIPPENLIJST 
+ 
+Aanbestedende dienst 
+De Staat der Nederlanden, ministerie van Infrastructuur en Waterstaat, < Aanbestedende dienst>; 
+ 
+Aanbestedingsstukken 
+Alle documenten in een aanbestedingsprocedure die door de Aanbestedende dienst in de procedure 
+zijn gebracht; 
+ 
+Aanbestedingswet 2012 
+Wet van 1 november 2012, houdende nieuwe regels omtrent aanbestedingen, Stb. 2012, 313, 
+zoals laatstelijk gewijzigd op 22 juni 2016, Stb. 2016, 241 (i.w.tr. 01-07-2016); 
+ 
+Eigen Verklaring 
+Een verklaring als bedoeld in artikel 2.84, eerste lid AW; 
+ 
+Inschrijving 
+Een door een ondernemer ingediende Inschrijving op basis van de Aanbestedingsstukken zoals 
+gepubliceerd op Tenderned; 
+ 
+Inschrijver 
+Een ondernemer die een Inschrijving heeft ingediend. 
+ 
+AFKORTINGEN 
+ 
+AVG  Algemene Verordening Gegevensbescherming 
+ 
+AW  Aanbestedingswet 2012 
+ 
+PvE  Programma van eisen 
+ 
+UEA  Uniform Europees Aanbestedingsdocument (Eigen Verklaring als bedoeld in artikel 
+2.84, eerste lid AW). 
+ 
+ 
+ 
+ 
+  
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+- BIJLAGE 1 Briefing waaronder mede beroepsbekwaamheid (referenties & CV’s) 
+De briefing is opgenomen in een afzonderlijk pdf-bestand. 
+ 
+- BIJLAGE 2  Gedragsanalyse voor de casus – perceel 2 
+De gedragsanalyse voor de casus is opgenomen in een afzonderlijk pdf-bestand. 
+- BIJLAGE 3 Vragenformulier 
+Het vragenformulier is opgenomen in een afzonderlijk Excel-bestand. 
+ 
+- BIJLAGE 4 Prijzenblad – perceel 1 
+Het prijzenblad is opgenomen in een afzonderlijk Excel-bestand. 
+ 
+- BIJLAGE 5 Prijzenblad – perceel 2 
+Het prijzenblad is opgenomen in een afzonderlijk Excel-bestand. 
+ 
+- BIJLAGE 6 Prijzenblad – perceel 3 
+Het prijzenblad is opgenomen in een afzonderlijk Excel-bestand. 
+ 
+- BIJLAGE 7 Concept overeenkomst – perceel 1 
+De concept overeenkomst is afzonderlijk opgenomen in een Word-bestand. 
+ 
+- BIJLAGE 8 Concept overeenkomst – perceel 2 
+De concept overeenkomst is afzonderlijk opgenomen in een Word-bestand. 
+ 
+- BIJLAGE 9 Concept overeenkomst – perceel 3 
+De concept overeenkomst is afzonderlijk opgenomen in een Word-bestand. 
+ 
+- BIJLAGE 10 Arvodi -2018 
+De Arvodi-2018 is opgenomen in een afzonderlijk pdf-bestand. 
+ 
+- BIJLAGE 11 Toelichting Voorwaarden (ARVODI-2018) 
+De toelichting voorwaarden is opgenomen in een afzonderlijk pdf-bestand. 
+ 
+- BIJLAGE 12 Eigen Verklaring -/ UEA (Uniform Europees Aanbestedingsdocument) 
+Het Uniform Europees Aanbestedingsdocument (UEA) (de Eigen Verklaring) is opgenomen in een 
+afzonderlijk in te vullen pdf-bestand in Tenderned dat uitsluitend met Adobe Reader geopend en 
+ingevuld kan worden. 
+ 
+- BIJLAGE 13 Model Referentieopdrachten 
+Het model referentieopdrachten is opgenomen in een afzonderlijk Word-bestand. 
+ 
+- BIJLAGE 14 Verplichte invulformulieren – verificatieformulier 
+De verplichte invulformulieren zijn opgenomen in een afzonderlijk Word-bestand. 
+ 
+ 
+Ministerie van Infrastructuur en Waterstaat 
+Directie Algemeen Strategisch Advies 
+Europese openbare aanbesteding: Gedragsonderzoeken 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+- BIJLAGE 15 Gedragscode Integriteit Rijk 
+De gedragscode Integriteit Rijk is opgenomen in een afzonderlijk pdf-bestand. 
+ 
+- BIJLAGE 16 Model Integriteitsverklaring Rijk voor externen – perceel 3 
+Het model Integriteitsverklaring Rijk voor externen is opgenomen in een afzonderlijk pdf-bestand. 
+ 
+- BIJLAGE 17 Klachtenprotocol Aanbestedingen 
+Het klachtenprotocol is opgenomen in een afzonderlijk pdf-bestand.
+
+=== Document: nota van inlichtingen 2025-03-05-7 ===
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 1 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Algemene informatie
+Aanbesteding: Gedragsonderzoeken
+Aanbestedende Dienst: Ministerie van Infrastructuur en Waterstaat
+Referentie: -
+Toelichting:
+Abusievelijk is in het excel document verwezen naar bijlage 3, 4 en 5 prijzenblad. Dit dient 
+bijlage 4, 5 en 6 te zijn.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Ondersteuning vanuit bureau
+Vraag:
+Aan te geven hoe de in te huren gedragsdeskundige kan worden ondersteund 
+door gedragskennis/ gedragscollega’s vanuit het bureau gedurende de inhuur 
+opdracht" - Wat bedoelt u hier precies mee?
+Antwoord:
+Wij bedoelen hier o.a mee dat de ingehuurde gedragsdeskundige voor advies 
+terug kan vallen op collega's of door het bureau eerder uitgevoerd onderzoek.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+2 Indienen
+Vraag:
+Is het toegestaan om één document in te dienen waarin de gunningscriteria 
+van alle percelen waarop inschrijver wenst in te schrijven gezamenlijk 
+worden beantwoord? Of moeten wij per perceel een apart document 
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 2 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+indienen?
+Antwoord:
+Ja, dat mag. Hou daarbij wel rekening met de maximaal toegestane pagina's 
+per inschrijving op een van de percelen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+3 CV's
+Vraag:
+U vraagt om voor ieder perceel een aparte beantwoording voor het criterium 
+beroepsbekwaamheid. Geldt dit ook voor de aan te leveren CV's?
+Antwoord:
+Ja, dat klopt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 3 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Ref.nr. Onderwerp:
+4 Innovatieve onderzoeksmethoden
+Vraag:
+Wat verstaat u onder innovatieve onderzoeksmethoden?
+Antwoord:
+Innovatieve onderzoeksmethoden gaat o.a om het vermogen nieuwe 
+inzichten uit de internationale vakliteratuur te operationaliseren in 
+onderzoeksmethoden.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+5 Bijlage 1
+Vraag:
+U geeft aan dat er mogelijk gesprekken volgen met de best scorende 
+inschrijvingen. Op welke gronden besluit u deze gesprekken wel of niet te 
+voeren en welk gewicht heeft het gesprek in de beoordeling.
+Antwoord:
+We zullen voor gesprekken gaan als verschillende hoog scorende 
+inschrijvers op een perceel dicht bij elkaar zitten. De gesprekken kunnen dan 
+invloed hebben op de definitieve score.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 4 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+6 Bijlage 1
+Vraag:
+Wat verstaat u onder traditionele onderzoeksmethodes en wat onder 
+innovatieve?
+Antwoord:
+Innovatieve onderzoeksmethoden gaat o.a om het vermogen nieuwe 
+inzichten uit de internationale vakliteratuur te operationaliseren in 
+onderzoeksmethoden.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+7 Prijzenblad perceel 1
+Vraag:
+Is het aantal uren dat we invullen per functie gekoppeld aan de ingediende 
+aanpak voor de casus?
+Antwoord:
+U dient alleen het uurtarief aan te geven, de uren kunt u negeren. De 
+gecorrigeerde prijzenbladen onder bijlage 3, 4 en 5 zullen bij de Nvi worden 
+toegevoegd.
+Fase:
+ Inschrijffase
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 5 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+8 Prijzenblad perceel 1
+Vraag:
+Hoe verwerken we andere kosten (dan uren) in het prijzenblad, bv. 
+panelkosten? Prijs per respondent?
+Antwoord:
+Hiervoor geldt dat u deze verdisconteerd in uw uurtarief in deze 
+aanbesteding. Bij opdrachtgeving onder de ROK kan deze afhankelijk van de 
+opdracht apart worden opgenomen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+9 Bijlage 1 - casus
+Vraag:
+Dient het onderzoeksvoorstel van de casus van perceel 1 een planning 
+bevatten?
+Antwoord:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 6 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Dat is facultatief.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+10 Bijlage 1 - casus
+Vraag:
+Moet een onderbouwing van het budget en de daarbij horende keuzes 
+meegenomen worden in de casus van perceel 1?
+Antwoord:
+Er dient in ieder geval realistisch & aannemelijk gemaakt moeten worden dat 
+het onderzoek binnen de 50 K euro excl. btw kan worden uitgevoerd.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+11 Bijlage 1 - referenties
+Vraag:
+Is het voor perceel 1 ook van belang voor de referentieprojecten en de CV's 
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 7 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+dat ervaring met adviestrajecten wordt aangetoond? Zo ja, gaat dit om 
+adviestrajecten in de algemene zin of moeten dit gedragsadviestrajecten zijn?
+Antwoord:
+Hiervoor verwijzen we naar de gunningscriteria onder perceel 1.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+12 Bijlage 1 - referenties
+Vraag:
+Als er voor en referentie een beroep gedaan is op een derde, moet die derde 
+dan automatisch ingezet worden bij deze opdracht? Ook als we de taken 
+waarvoor die partij ingezet werd bij de referentie opdracht inmiddels zelf 
+kunnen
+Antwoord:
+Nee. Wij gaan er wel vanuit dat de ingezette persoon dezelfde is al welke 
+wordt aangeboden in de aanbieding.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 8 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Ref.nr. Onderwerp:
+13 Beschrijvend document - Beoordelingscommissie
+Vraag:
+Welke competenties zijn vertegenwoordigd in de beoordelingscommissie? 
+Zijn alle commissieleden bijvoorbeeld expert in zowel onderzoek als in 
+implementatie van adviestrajecten?
+Antwoord:
+Ja, dat klopt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+14 Beschrijvend document - Opdrachten tot 50.000
+Vraag:
+Op welke wijze worden opdrachten tot 50.000 euro toegewezen aan de 
+geselecteerde partijen?
+Antwoord:
+Dit zal afhangen van gevraagde onderzoekstechniek en in hoeverre de 
+inschrijver die in huis heeft, alsmede capaciteit om snel aan de slag te gaan.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 9 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+15 Beschrijvend document - Doelgroep onderzoek
+Vraag:
+Bij doelgroep onderzoek wordt per onderzoek bepaald wat de juiste 
+methodiek is voor de casus. Wie bepaalt de methodiek, wordt die opgelegd 
+door u?
+Antwoord:
+Als opdrachtgever (veel collega's met een gedragsachtergond) hebben we 
+een goed idee bij welke methodiek geschikt is. Bij twijfel aan onze of jullie 
+kant gaan we in gesprek.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+16 Beschrijvend document - Omzet
+Vraag:
+Kunt u aangeven wat de (verwachtte) verdeling is van het totaalbudget van 8 
+miljoen over de 3 percelen?
+Antwoord:
+Een ruwe schatting is: P1 - 30%, P2- 50%, P-3 -20%.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 10 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+17 Bijlage gedragsanalyse perceel 2
+Vraag:
+Kan het hele onderzoek van de gedragsanalyse die als bijlage bij perceel 2 
+als bijlage is gevoegd beschikbaar gesteld worden?
+Antwoord:
+Nee.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+18 Aantal CV's
+Vraag:
+Is er een maximaal aantal cv dat ingediend mag worden per perceel? Mogen 
+dezelfde CV's bij verschillende percelen ingediend worden?
+Antwoord:
+Ja dat mag. Minstens 3 CV’s , in ieder geval 1 junior en senior medewerker.
+Fase:
+ Inschrijffase
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 11 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+19 Aantallen inhuur gedragsdeskundige(n)
+Vraag:
+Kunt u een indicatie geven over hoeveel gedragsdeskundige(n) u verwacht in 
+te huren?
+Antwoord:
+Dat hangt af van de vraag vanuit de beleidsdirecties. Op jaarbasis zijn dat 
+enkele gedragsdeskundigen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+20 Referenties
+Vraag:
+Is het toegestaan om dezelfde referentie voor meerdere percelen te 
+gebruiken?
+Antwoord:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 12 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Ja, dat mag.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+21 Beoordeling beroepsbekwaamheid
+Vraag:
+Bij perceel 1, 2 en 3 bij het onderdeel Beroepsbekwaamheid 
+subgunningscriteria staat ‘We beoordelen de inschrijving op de volledigheid 
+van de beantwoording van de vragen’. Naar welke vragen wordt hier 
+verwezen?
+Antwoord:
+De winnende offerte is de offerte met de laagste score.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 13 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+22 I&W onderwerpen
+Vraag:
+Wat bedoelt u met de IenW-onderwerpen zoals genoemd op pagina 16 bij 
+subgunningscriteria perceel 3 van het beschrijvend document?
+Antwoord:
+IenW onderwerpen zoals mobiliteit, circulaire economie en klimaatadaptatie.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+23 Thema's en opdrachten
+Vraag:
+Kunt u aangeven hoe de verdeling van opdrachten is over de I&W thema’s 
+binnen de totale opdrachtsom van 8 mljn?
+Antwoord:
+Vooralsnog gemaakte schatting is P1-1/3e deel, P2-1/3e deel, P3-1/3e deel.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 14 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+24 Duur en omvang van de opdracht
+Vraag:
+In uw uitvraag benoemt u bij 1.1.3 van het beschrijvend document dat, 
+gedurende de gehele looptijd van de Raamovereenkomst, een maximale 
+omvang van 8 miljoen (€ 8.000.000,-) excl. btw zal worden afgenomen. 
+Betekent dit 8 mljn over twee jaar of bedoelt u hierbij de looptijd incl. de 
+verlengingsperiode van twee x twee jaar, dus de looptijd van zes jaar?
+Antwoord:
+De maximale looptijd van de raamovereenkomst is 4 jaar en niet 6 jaar. De 
+totale opdrachtwaarde van 8 miljoen euro geldt voor de gehele maximale 
+looptijd van vier jaar.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+25 Bijlage 1
+Vraag:
+In Bijlage 1 ‘Briefing inschrijving Raamovereenkomst Gedragsonderzoeken’ 
+wordt aangegeven dat opdrachten onder de €50.000,- excl. btw. direct aan 
+elk van de partijen rechtstreeks gegund kunnen worden. Wordt hierbij dan 
+gebruik gemaakt van een toerbeurtsysteem? Of mag de opdrachtgever zelf 
+een keuze maken tussen de partijen in het perceel?
+Antwoord:
+Opdrachtgever mag zelf kiezen.
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 15 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+26 Bijlage 1
+Vraag:
+In Bijlage 1 ‘Briefing inschrijving Raamovereenkomst Gedragsonderzoeken’ 
+wordt aangegeven dat facturatie altijd na afloop is van een project. Geldt dit 
+zowel voor projecten boven en onder de grens van €50.000 excl. btw? En is 
+hier nog ruimte in om andere afspraken over te maken? Bijvoorbeeld 50% na 
+oplevering conceptleidraad of conceptvragenlijst en 50% na afloop project?
+Antwoord:
+Dit verschilt per opdracht, grootte en duur van de opdracht. Hierbij is 
+deelfacturatie een mogelijkheid bij bijv. de oplevering van tussentijdse 
+diensten -/of producten. Opdrachten tot een opdrachtwaarde van 50K euro 
+worden volledig achteraf betaald.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+27 Beschrijvend document - Samenwerkingsverband
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 16 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Vraag:
+We hebben het voornemen om met een andere partij in 
+samenwerkingsverband in te schrijven. Dient het deel 
+‘beroepsbekwaamheid’ (in max 4 pagina’s een beschrijving geven van uw 
+bureau) dan samen voor het gehele samenwerkingsverband ingeleverd te 
+worden, of mogen de partijen binnen het samenwerkingsverband dit apart 
+doen (elk 4 pagina’s per bureau)?
+Antwoord:
+U dient het deel van de beroepsbekwaamheid in geval van een 
+samenwerkingsverband als een (1) geheel (max. 4 pagina's) in te dienen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+28 Bijlage 1 - Briefing inschrijving
+Vraag:
+Kunt u een indicatie geven van de hoeveelheid minicompetities die te 
+verwachten zijn per kalenderjaar? Hoe ruim vooraf worden minicompetities 
+aangekondigd aan bureaus? Kunt u meer vertellen over het proces van de 
+minicompetities?
+Antwoord:
+Grove indicatie is 10 keer per jaar. We streven naar een korte doorlooptijd 
+en wanneer mogelijk stellen we de perceelpartijen vooraf op de hoogte van 
+dat er een opdracht aan zit te komen. De doorlooptijd van een 
+minicompetitie is gemiddeld 2 tot 3 weken. Dit is uiteraard afhankelijk van 
+de aard van de opdracht. De opdrachtgever houdt hier voorafgaande 
+rekening mee in de planning. Dit kan dus verschillen per inkoopaanvraag.
+Fase:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 17 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+29 Bijlage 1 - Briefing inschrijving
+Vraag:
+Kunt u een indicatie geven van de hoeveelheid minicompetities die te 
+verwachten zijn per kalenderjaar?
+Antwoord:
+Grove indicatie is 10 keer per jaar. We streven naar een korte doorlooptijd 
+en wanneer mogelijk stellen we de perceelpartijen vooraf op de hoogte van 
+dat er een opdracht aan zit te komen. De doorlooptijd van een 
+minicompetitie is gemiddeld 2 tot 3 weken. Dit is uiteraard afhankelijk van 
+de aard van de opdracht. De opdrachtgever houdt hier voorafgaande 
+rekening mee in de planning. Dit kan dus verschillen per inkoopaanvraag.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+30 Bijlage 2 - Casus perceel 2
+Vraag:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 18 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Zouden jullie de literatuur en expert interviews waarop de gedragsanalyse is 
+gebaseerd met ons kunnen delen?
+Antwoord:
+Nee.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+31 Bijlage 1 - Briefing inschrijving (pagina 5)
+Vraag:
+Doelgroep. Doelgroep die er al het meest voor open staat, maar het gedrag
+nog weinig vertoont. Dit zijn jongeren tussen 18-35, voornamelijk 
+hoogopgeleid en gemotiveerd om met duurzaamheid aan de slag te gaan. Ze 
+vinden hun sociale status belangrijk en zijn trendgevoelig. Waarop is het 
+gebaseerd dat deze doelgroep er het meest voor open staat? Bv. vanwege 
+hogere motivatie mbt duurzaamheid? Of vanwege sociale status en 
+trendgevoeligheid? Wat is daarbij de relatie met het opknappen van meubels?
+Antwoord:
+Voor deze fictieve casus laten we dit in het midden.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 19 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+32 Bijlage 1 - Briefing inschrijving (pagina 5)
+Vraag:
+Doelgedrag. Er wordt gesteld dat jullie het als een gegeven zien dat mensen 
+hun meubilair eens in de zoveel jaar willen vervangen en dat dat daarom 
+moeilijk te veranderen is. Daarom ligt de focus op de kansen om mensen zelf 
+hun meubel te laten opknappen. Kunnen we daarom de volgende zin uit het 
+doelgedrag negeren? Ze kopen dus geen nieuw meubel wanneer ze erop 
+uitgekeken zijn. We interpreteren het doelgedrag dus als volgt: de doelgroep 
+knapt een meubel op dat ze al bezitten (simpele handelingen etc.), ervan 
+uitgaande dat ze er nog niet op uitgekeken zijn. Klopt dat?
+Antwoord:
+Nee niet negeren aub, je kunt een meubel ook zo opknappen dat die een 
+andere look krijgt zodat je er na het opknappen niet meer op uitgekeken bent.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+33 Bijlage 1 - Briefing inschrijving (pagina 5)
+Vraag:
+‘Vooronderzoek laat zien dat de meeste consumenten weinig kennis en 
+capaciteit hebben om zelf hun meubels op te knappen -/ (repareren). 24% 
+van de mensen heeft zelf een meubel gerepareerd.’ Zouden jullie dit 
+vooronderzoek met ons kunnen delen?
+Antwoord:
+Nee.
+Fase:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 20 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+34 Bijlage 1 - Briefing inschrijving
+Vraag:
+U vereist een aanbiedingsplicht van ten minste 75%. Dit is een fors 
+percentage, zeker als er van tevoren geen planning is van de uitvragen waar 
+de bureaus rekening mee houden. Hoe kijkt u hiernaar? Bent u bereid dit 
+percentage te verlagen?
+Antwoord:
+Nee, deze overweging is bewust gemaakt en intern besproken om zo ook een 
+duidelijke commitment en inzet van alle opdrachtnemers te kunnen 
+verwachten.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+35 Bijlage 1 - Briefing inschrijving
+Vraag:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 21 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+U noemt het Behaviour Change Wheel. Heeft u voorkeur voor een bepaald 
+gedragsmodel of instrument om te gebruiken?
+Antwoord:
+Nee, niet op voorhand maar wel een evidence-based model of instrument.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+36 Bijlage 1 - Briefing inschrijving
+Vraag:
+In hoeverre heeft I&W de intentie om samen te werken met waterbedrijven 
+of andere instanties voor objectieve data over waterverbruik?
+Antwoord:
+Nee, niet op voorhand maar wel een evidence-based model of instrument.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+37 Bijlage 1 - Briefing inschrijving
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 22 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Vraag:
+In hoeverre is er behoefte aan segmentatie van de doelgroep middels 
+demografische gegevens? Of volstaat het motiveren van de keuze van 
+afkadering van de doelgroep waar het gedragsonderzoek zich op focust?
+Antwoord:
+Als deze vraag betrekking heeft op de casus dan kunt u kiezen voor een 
+motivering waarom u in dit geval kiest voor een segmentatie middels 
+demografische gegevens. Bij een echte opdracht dan kan segmentatie op 
+basis van demografische gegevens nodig zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+38 Bijlage 1 - Briefing inschrijving
+Vraag:
+In hoeverre is er behoefte aan inzicht in het daadwerkelijke douchegedrag 
+(zoals frequentie, tijdstippen en regionale verschillen) naast de 
+psychologische factoren die dit gedrag beïnvloeden?
+Antwoord:
+Hiervoor verwijzen we graag terug naar de causbeschrijving: "We willen een 
+onderzoek laten uitvoeren om te achterhalen wat het douchegedrag van 
+verschillende doelgroepen is en wat de gedragsfactoren zijn waarmee we hen 
+kunnen stimuleren om minder vaak te douchen tijdens de piekmaanden."
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 23 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+39 Bijlage 1 - Briefing inschrijving.pdf
+Vraag:
+“gemiddeld douchen mensen 6,3 keer per week, maar in april-juli is
+dat 8 keer per week” Wat is hier de bron van en kunnen we dit onderzoek 
+ontvangen?
+Antwoord:
+Nee.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+40 Facturatie Bijlage 1 - Briefing inschrijving
+Vraag:
+"Facturatie is altijd na afloop van een project.” Kunt u dit wijzigen? Het is 
+niet reëel om te vragen dat bureaus forse bedragen voorschieten. Wij stellen 
+voor: 50% vooraf en 50% na afronding.
+Antwoord:
+Nee. Dit verschilt per opdracht, grootte en duur van de opdracht. Hierbij is 
+deelfacturatie een mogelijkheid bij bijv. de oplevering van tussentijdse 
+diensten -/of producten. Opdrachten tot een opdrachtwaarde van 50K euro 
+worden volledig achteraf betaald.
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 24 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+41 Bijlage 1 - Briefing inschrijving
+Vraag:
+Welke expertises zijn vertegenwoordigd in het beoordelingsteam?
+Antwoord:
+De beoordelaars hebben expertise op het gebied van sociale-psychologie en 
+beleidskunde.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+42 Bijlage 1 - Briefing inschrijving
+Vraag:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 25 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+De omvang van de raamovereenkomst wordt becijferd op 8 miljoen. Hoe is 
+dit verdeeld over de percelen? Wat is de inschatting van de jaarlijkse 
+begroting voor de afzonderlijke percelen?
+Antwoord:
+Een ruwe schatting is: P1-30%, P2-50%, P3-20%.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+43 Bijlage 1 - Briefing inschrijving gunning onder de 50.000
+Vraag:
+“Opdrachten onder de 50.000 euro excl. btw kunnen direct aan elk van de 
+partijen
+rechtstreeks worden gegund.” Via welk proces wordt bepaald aan welke 
+partij deze opdrachten gegund wordt? Op welke manier wordt gezorgd voor 
+een evenredige verdeling over de partijen?
+Antwoord:
+Opdrachtgever mag zelf kiezen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 26 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+44 Bijlage 1 - Briefing inschrijving
+Vraag:
+"Voor opdrachten boven de 50.000 euro wordt altijd
+een minicompetitie gedaan tussen alle partijen uit het desbetreffende 
+perceel.” Is er een vergoeding beschikbaar voor deze minicompetities?
+Antwoord:
+Nee.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+45 Prijzenblad
+Vraag:
+Is het mogelijk om de functie medior onderzoeker toe te voegen?
+Antwoord:
+Ja. De medior functie wordt alsnog opgenomen. Dit is een aanpassing op het 
+beschrijvend document, pagina 8, paragraaf 4 'Inschrijving prijs'. Wij vragen 
+u bij een inschrijving een prijsformulier in te vullen waarop uurtarieven voor 
+junior, medior en senior onderzoekers/ adviseurs worden opgegeven.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 27 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+46 Referentieprojecten
+Vraag:
+De inschrijving: beroepsbekwaamheid: Er wordt gevraagd om maximaal drie 
+referentieprojecten. Zijn dit in totaal drie referentieprojecten? Of zijn dit in 
+totaal maximaal drie referentieprojecten per perceel?
+Antwoord:
+Totaal maximaal drie referentieprojecten per perceel.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+47 Bijlage 1 - Perceel 2
+Vraag:
+Er wordt gevraagd om een plan uit te werken voor het testen van de 
+interventies. Hiervoor staat een budget genoemd van 50.000 euro. Klopt het 
+dat alleen de evaluatie van de interventies binnen dit budget hoeft te vallen 
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 28 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+en niet de ontwikkeling/implementatie van de interventies?
+Antwoord:
+Ja, dat klopt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+48 Bijlage 1- Paragraaf 2.3 en 5.1 - Beoordeling perceel 3
+Vraag:
+Hoe wordt de beantwoording van de gevraagde toelichting in paragraaf 2.3 
+beoordeeld (dit komt nu niet terug in het beoordelingstabel in hoofdstuk 5), 
+en onder welk onderdeel (CV's – 650 punten of beroepsbekwaamheid – 350 
+punten) worden de CV's meegenomen in de beoordeling van perceel 3?
+Antwoord:
+Dit komt terug in de beroepsbekwaamheid. En ja CV's worden zeker 
+meegenomen in de beoordeling.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 29 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Ref.nr. Onderwerp:
+49 Bijlage 1 - Vormvereisten
+Vraag:
+Zijn de gestelde paginalimieten in- of exclusief wetenschappelijke 
+referenties?
+Antwoord:
+Exclusief wetenschappelijke referenties.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+50 Inzet panelbureau
+Vraag:
+Voor het verzamelen van data kan het nodig zijn om te werken met een 
+panel via een panelbureau. Is het nodig om een panelbureau aan te dragen als 
+onderaannemer als de inschrijver zelf geen panel heeft?
+Antwoord:
+Nee, dat is niet nodig.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Nota van inlichtingen Gedragsonderzoeken
+Pagina 30 van 78 Datum genereren nota van inlichtingen: 5 mrt. 2025
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+51 1.3 Concept-overeenkomst & facturatie
+Vraag:
+Er wordt aangegeven dat facturatie altijd na afloop is van een project of 
+dienst. In de ARVODI staat dat factureren mogelijk is na het leveren van een 
+prestatie. Is het mogelijk om:
+te factureren na het opleveren van deelproducten bij projecten.
+te factureren na elke maand bij het leveren van inhuur.
+Dit is gebruikelijk bij projecten en inhuur en voorkomt dat marktpartijen 
+onredelijk lang geld moeten voorschieten.
+Antwoord:
+Ja, dat is mogelijk. Dit verschilt per opdracht, grootte en duur van de 
+opdracht. Hierbij is deelfacturatie een mogelijkheid bij bijv. de oplevering 
+van tussentijdse diensten -/of producten. Opdrachten tot een opdrachtwaarde 
+van 50K euro worden volledig achteraf betaald.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Doelgroeponderzoek
+P  2 Gedragsaanpak, interventies en effect
+P  3 Inhuur van gedragsdeskundige(n)
+Beantwoord op: 5 mrt. 2025
+Ref.nr. Onderwerp:
+52 1.2 Perceelindeling. Perceel 3
+Vraag:
+Er wordt bij inhuur gesproken over enkele uren tot meerdere dagen per 
+week. Bij de inhuur op basis van dagen zijn andere uurtarieven gebruikelijk 
+dan bij enkele uren aan begeleiding. Inhuur op basis van enkele uren heeft
+
+=== Document: bijlage 1 - briefing inschrijving ===
+Pagina 1 van 10 
+ 
+ 
+ 
+ 
+ 
+Bijlage 1 - Briefing inschrijving 
+Raamovereenkomst 
+Gedragsonderzoeken 
+TenderNed kenmerk: 509811 
+ 
+1 Achtergrond 
+1.1 Aanleiding en achtergrond van de Raamovereenkomst 
+Gedragsonderzoeken 
+ 
+Bij het ministerie van Infrastructuur en Waterstaat wordt regelmatig 
+gedragsonderzoek uitgevoerd. Via verschillende wegen wordt er structureel meer 
+geld vrijgemaakt voor gedragsonderzoek. Dit is aanleiding om een 
+Raamovereenkomst Gedragsonderzoek op te stellen, waarmee we een vaste 
+samenwerking met leveranciers aan gaan. 
+ 
+De Raamovereenkomst wordt beheerd door het BIT IenW Gedragsteam 
+(onderdeel van Directie Algemeen Strategisch Advies). Collega’s vanuit heel IenW 
+kunnen gebruikmaken van de Raamovereenkomst Gedragsonderzoeken. 
+1.2 Onderverdeling percelen: 
+Zoals te lezen in het Beschrijvend document, bestaat de Raamovereenkomst uit 
+drie percelen: 
+ 
+Perceel 1: Doelgroeponderzoek  
+Onder dit perceel valt kwalitatief en-/ of kwantitatief onderzoek om de 
+gedragsfactoren die een rol spelen bij het gewenste gedrag in kaart te brengen 
+onder de doelgroep(en). Dus onder andere vragenlijstonderzoek, interviews, 
+focusgroepen, dagboekonderzoek, etc. Per project wordt bepaald welk type 
+onderzoek passend is voor de casus.  
+   
+Perceel 2: Gedragsaanpak, interventies en effect 
+Onder dit perceel valt altijd: Advisering over gedragsaanpak (bijv. opstellen 
+gedragsstrategie, uitvoeren gedragsscan op beleidsdocumenten).  
+ 
+Verder kan er onder dit perceel vallen: Vooronderzoek voor de 
+gedragsanalyse, het uitdenken van de interventie(s) (de 
+interventiestrategie), verdere ontwikkeling -/ vormgeving van de interventie, 
+uitvoering van de interventie, evaluatie van de interventie*. Voor vormgeving, 
+ontwikkeling en uitvoering mag een onderaannemer worden ingeschakeld.  
+  
+*Het evalueren van de interventie kan via een kleine pretest, een veldexperiment 
+of een online experiment. Per project zal worden bepaald op welke manier de 
+interventie wordt getest.   
+   
+Perceel 3: Inhuur van gedragsdeskundige(n)  
+ 
+ 
+  
+ 
+Pagina 2 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+Onder dit perceel valt tijdelijke inhuur van een (of meerdere) 
+gedragsdeskundige(n) voor het gedragsinhoudelijk begeleiden van een project of 
+adviesklus, van een aantal uur tot meerdere dagen per week.  
+ 
+Voor elk perceel wordt een overeenkomst aangegaan met maximaal vier partijen.  
+ 
+Opdrachten onder de 50.000 euro excl. btw kunnen direct aan elk van de partijen 
+rechtstreeks worden gegund. Voor opdrachten boven de 50.000 euro wordt altijd 
+een minicompetitie gedaan tussen alle partijen uit het desbetreffende perceel. De 
+doorlooptijd van een minicompetitie is circa 3 weken van offerte-aanvraag tot aan 
+de gunning. Facturatie is altijd na afloop van een project. 
+2 De inschrijving: beantwoording casus 
+ 
+Om in aanmerking te komen voor selectie van deze Raamovereenkomst, schrijft u 
+zich in voor één of meerdere percelen. De inschrijving bestaat uit twee delen:  
+1) De beantwoording van een casus; 
+2) en een beschrijving van uw beroepsbekwaamheid door onder andere 
+referentieprojecten en cv’s.  
+ 
+Als u zich voor meerdere percelen wilt inschrijven, dient u uw beschrijving van de 
+beroepsbekwaamheid meerdere keren in, toegespitst op het specifieke perceel. 
+ 
+ 
+  
+ 
+Pagina 3 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+2.1 Casus perceel 1 
+ 
+ 
+Bij deze casus vragen we u een onderzoeksvoorstel te maken hoe u dit 
+doelgedrag zou onderzoeken. Het doel van het onderzoek is het ophalen van 
+de relevante gedragsfactoren zodat een gedragsaanpak kan worden opgesteld 
+(ontwikkelen van de aanpak is geen onderdeel van deze casus).  
+ 
+- Geef uw visie op het doelgedrag van de casus; 
+- Benoem welke gedragsfactoren u in ieder geval wilt meenemen in het 
+onderzoek; 
+- Geef aan welke onderzoeksmethode(n) u wilt gebruiken en waarom; 
+- Beschrijf of, en zo ja welke doelgroep segmentatie u wilt maken; 
+- Geef aan hoe u de deelnemers werft; 
+- Maak expliciet welke gedragskennis u toepast bij het maken van een 
+onderzoeksplan (denk aan gebruik gedragsmodel zoals Behaviour Change 
+Wheel); 
+- Fictief budget voor de fictieve casus: 50.000 euro exclusief btw; 
+- Traditionele en innovatieve onderzoeksmethodes mogen worden 
+meegenomen. We nodigen inschrijvers uit om creatief na te denken over 
+de beste onderzoeksopzet; 
+Casus minder douchen tijdens piekmomenten 
+ 
+Context: Drinkwatergebruik in Nederland staat onder druk, de vraag stijgt 
+terwijl het aanbod afneemt. Nederland kent van april-juli piekmaanden in 
+drinkwatergebruik, wanneer er meer drinkwater wordt gebruikt en er tevens 
+minder regen valt. Tijdens deze piekmomenten wordt er 121,4 liter meer 
+water gebruikt per persoon per week, dan in de rest van het jaar. Dit komt 
+onder andere doordat het douchegedrag van Nederlanders deze maanden 
+verandert: gemiddeld douchen mensen 6,3 keer per week, maar in april-juli is 
+dat 8 keer per week. 
+ 
+We weten dat douchen gewoontegedrag is en dat mensen weinig zicht hebben 
+op hoe vaak (of hoe lang) ze zelf douchen. We verwachten dat mensen hun 
+eigen drinkwatergebruik door te douchen onderschatten. Ook is het gedrag 
+dat achter de voordeur plaatsvindt moeilijk door observatie -/ data te 
+onderzoeken. We willen een onderzoek laten uitvoeren om te achterhalen wat 
+het douchegedrag van verschillende doelgroepen is en wat de gedragsfactoren 
+zijn waarmee we hen kunnen stimuleren om minder vaak te douchen tijdens 
+de piekmaanden. 
+ 
+Doelgroep: Algemeen Nederlands Publiek. Er is nog geen kennis over 
+douchegedrag van specifieke doelgroepen. 
+ 
+Doelgedrag: Tijdens piekmomenten (april – juli) minder vaak douchen (niet 
+meer dan 6 keer per week). Het gaat hierbij dus expliciet om frequentie en 
+niet de duur van het douchen (duur is bijvangst). 
+ 
+Onderzoeksvragen: Waarom douchen Nederlanders vaker tijdens de 
+piekmaanden? Welke doelgroepen zijn relevant en hoe kunnen we hen 
+stimuleren minder vaak te douchen? 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Pagina 4 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+- De beantwoording van de casus mag maximaal 6 pagina’s in beslag 
+nemen, lettertype Verdana 9, excl. foto’s-/ afbeeldingen).  
+2.2 Casus perceel 2 
+Zie pagina 4. 
+ 
+ 
+ 
+  
+ 
+Pagina 5 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+Bij deze casus vragen we u 2 a 3 interventierichtingen uit te werken om het 
+doelgedrag te stimuleren bij de doelgroep. En een voorstel te maken voor het 
+Casus; Jongeren gaan zelf hun meubels opknappen.  
+ 
+Context: Meubels gaan in Nederland veel te kort mee. Waar meubels een 
+technische levensduur hebben van gemiddeld 20 jaar, hebben ze doorgaans 
+een sociale levensduur van 7 jaar. Daarna zijn mensen erop uitgekeken en 
+ontstaat de wens voor een nieuwe inrichting. Meubels zijn impactvolle 
+producten voor de transitie naar een circulaire economie omdat er zoveel 
+materialen worden gebruikt. Ook komt er veel CO2 uitstoot bij kijken, het 
+grootste deel hiervan is te wijden aan de productie en verbranding (aan het 
+einde van de levensduur) van de materialen hout, textiel en schuim.  
+ 
+Dat trends snel veranderen en mensen van hun meubilair eens in de zoveel 
+jaar willen vervangen zien we als een gegeven. We verwachten dat moeilijk te 
+kunnen veranderen op korte termijn. Daarom verkennen we de kansen om 
+mensen zelf hun meubel te laten opknappen. Professionele meubelmakers zijn 
+lastig te vinden/ prijzig, waardoor we dat niet als een kansrijk alternatief zien. 
+ 
+Vooronderzoek laat zien dat de meeste consumenten weinig kennis en 
+capaciteit hebben om zelf hun meubels op te knappen -/ (repareren). 24% 
+van de mensen heeft zelf een meubel gerepareerd. Simpele activiteiten zoals 
+schuren, verven, gaatjes vullen, lijmen en simpele bekleding zijn haalbaar 
+volgens experts. Complexe bekleding, houten structuren aanpassen en 
+metaalbewerking is te uitdagend. 
+ 
+Doelgedrag: Doelgroep knapt een meubel op dat ze al bezitten. Ze kopen dus 
+geen nieuw meubel wanneer ze erop uitgekeken zijn. Het gaat om simpele 
+opknap handelingen van meubels van de materialen hout, textiel en/of 
+schuim. 
+ 
+Doelgroep: Doelgroep die er al het meest voor open staat, maar het gedrag 
+nog weinig vertoont. Dit zijn jongeren tussen 18-35, voornamelijk 
+hoogopgeleid en gemotiveerd om met duurzaamheid aan de slag te gaan. Ze 
+vinden hun sociale status belangrijk en zijn trendgevoelig. 
+ 
+Gedragsanalyse/ customer journey (zie vergrote versie in bijlage 4): 
+ 
+ 
+
+ 
+ 
+  
+ 
+Pagina 6 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+testen van de interventies. U mag aanvullend voor deze casus zelf aanvullend 
+onderzoek doen naar het doelgedrag, maar het hoeft niet. 
+ 
+- Geef aan welke gedragsfactoren uit de gedragsanalyse u gebruikt voor 
+interventieontwikkeling; 
+- Onderbouw de interventierichtingen aan de hand van deze 
+gedragsfactoren; 
+- Maak expliciet welke gedragskennis u toepast bij het ontwikkelen van de 
+interventies (Bijvoorbeeld welke theorie of gedragsmodel u gebruikt). 
+- We definiëren interventierichtingen in de breedste zin van het woord: 
+Normerend, beprijzend en stimulerend. Idealiter landen interventies in 
+beleid of kunnen ze worden toegepast door stakeholders waar IenW mee 
+samenwerkt: gemeenten en bedrijven (vaak de koplopers in de transitie 
+naar een circulaire economie); 
+- Maak een plan voor het uittesten van de interventies door middel van een 
+pretest/ experiment. Voor deze evaluatie van de interventies geldt een 
+fictief budget van 50.000 exclusief btw; 
+- De beantwoording van de casus mag maximaal 6 pagina’s in beslag 
+nemen (lettertype Verdana 9, excl. foto’s-/ afbeeldingen). 
+ 
+2.3 Inschrijving perceel 3 
+ 
+Voor inschrijving op dit perceel vragen we u geen casus te beantwoorden, maar: 
+- Aan te geven hoe de in te huren gedragsdeskundige kan worden 
+ondersteund door gedragskennis/ gedragscollega’s vanuit het bureau 
+gedurende de inhuur opdracht; 
+- Aan te geven hoe deze persoon te werk gaat en hoe deze persoon ervoor 
+zorgt dat er kwalitatieve gedragskennis wordt ingebracht op het 
+behoevende thema.  
+ 
+3 De inschrijving: beroepsbekwaamheid 
+ 
+Voor dit deel van uw inschrijving vragen we u in max 4 pagina’s (lettertype 
+Verdana 9) een beschrijving te geven van uw bureau. Als u zich voor meerdere 
+percelen wilt inschrijven, dient u uw beschrijving van de beroepsbekwaamheid 
+meerdere keren in, toegespitst op het specifieke perceel. 
+ 
+Geef een omschrijving van uw bureau, de visie, omvang, aanbod van diensten. 
+Beantwoord daarnaast de volgende vragen: 
+- Hoe wordt de kwaliteit van de projecten geborgd?; 
+- Op welke manier en in welke mate is uw bureau bezig met innovatie van 
+de eigen onderzoekstechnieken?; 
+- Hoe wordt ervoor gezorgd dat medewerkers voldoende gedragskennis 
+hebben en op de hoogte zijn van nieuwe gedragsonderzoeken -/ 
+gedragsinzichten? En kunt u voorbeelden geven waar dit uit blijkt?; 
+- Hoe borgt u continuïteit van de projecten in geval van vakantieperiodes of 
+onverwacht uitval van een medewerker?; 
+- (Wanneer van toepassing) Welke (vaste) samenwerkingspartners heeft u 
+voor doelgroeponderzoek en respondentenwerving, of uitvoering van 
+gedragsinterventies? Beschrijf in welke mate u nu al samenwerkt met 
+ 
+ 
+  
+ 
+Pagina 7 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+deze partijen en hoe u de samenwerking voor u ziet gedurende de looptijd 
+van deze raamovereenkomst. 
+ 
+Ook vragen we om een beschrijving van maximaal drie referentieprojecten, deze 
+beschrijving valt NIET binnen de zonet genoemde 4 pagina’s. Bij de 
+referentieprojecten letten we op de volgende kerncompetenties: 
+a. Ervaring met gedragsonderzoeken/ adviestrajecten;  
+b. Ervaring met werken voor de overheid; 
+c. Pré: Affiniteit met mobiliteit, circulaire economie of klimaatadaptatie. 
+d. Pré: Affiniteit met de relatie tussen individuele gedragsverandering en 
+systeemverandering 
+ 
+Voorwaarden aan opgave referentieproject: 
+a. Indien gebruik wordt gemaakt van een nog niet (geheel) afgeronde 
+opdracht mag alleen het werkelijk behaalde resultaat van de opdracht 
+worden opgegeven en kan niet worden volstaan met een prognose van het 
+te verwachten resultaat. 
+b. De referentieopdracht mag niet ouder zijn dan drie jaar gerekend vanaf de 
+sluitingsdatum voor het indienen van de Inschrijving. 
+c. Indien u een beroep doet op een derde, dient dit worden ingevuld in 
+onderdeel 4a van de bijlage 6 Model Referentieopdrachten. De daar 
+vermelde derde moet ook bij deze opdracht worden ingezet (zie paragraaf 
+2.2.1).  
+d. Indien de referentieopdracht is uitgevoerd in een samenwerkingsverband, 
+dient u aan te geven welke werkzaamheden door wie zijn uitgevoerd. Dit 
+geeft u aan in onderdeel 4b van de bijlage 6 Model Referentieopdrachten. 
+Uit de referentieopdracht moet blijken dat u, zelfstandig hetzij met behulp 
+van een derde, voldoet aan de gevraagde kerncompetentie.  
+ 
+Referentieopdrachten die niet voldoen aan de hierboven gestelde 
+(kern)competenties en voorwaarden, zijn ongeldig en worden niet in de 
+beoordeling meegenomen. 
+ 
+U vult per referentie het Model referentieopdrachten (bijlage 13) volledig in en 
+dient deze samen met uw Inschrijving in.  
+ 
+Daarnaast vragen we u minstens 3 CV’s mee te sturen, in ieder geval 1 junior -/ 
+medior en senior medewerker die werkt aan projecten op het perceel waarvoor u 
+inschrijft. Ook deze vallen NIET binnen het maximale aantal van 4 pagina’s. Bij de 
+CV’s letten we op de volgende competenties: 
+a. Sociaalwetenschappelijke achtergrond; psychologie of soortgelijk 
+b. Senior medewerkers hebben minstens drie jaar ervaring met 
+gedragsonderzoek/ advies;  
+c. Senior medewerkers hebben minstens drie jaar ervaring met werken voor 
+de overheid;  
+d. Pré: Affiniteit met mobiliteit, circulaire economie of klimaatadaptatie. 
+e. Pré: Affiniteit met de relatie tussen individuele gedragsverandering en 
+systeemverandering 
+ 
+ 
+ 
+ 
+  
+ 
+Pagina 8 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+4 Inschrijving: Prijs 
+ 
+Wij vragen u bij een inschrijving een prijsformulier in te vullen waarop uurtarieven 
+voor junior en senior onderzoekers/ adviseurs worden opgegeven. Hiermee doet u 
+een aanbod voor de uurtarieven voor de eerste twee jaar van de 
+Raamovereenkomst. Na deze twee jaar kunnen de uurtarieven worden 
+geïndexeerd. Zie bijlagen 7, 8 en 9 Concept overeenkomst. 
+ 
+5 Beoordeling offertes 
+5.1 Beoordeling 
+De ingediende offerte(s) worden beoordeeld op basis van het gunningscriterium 
+“economisch meest voordelige inschrijving”. Bij deze beoordeling worden naast de 
+prijs ook kwaliteitsaspecten beoordeeld. De beoordelingsmethodiek die wordt 
+gehanteerd is “prijs per punt”.  
+De offertes worden beoordeeld aan de hand van de volgende formule:  
+gemiddeld uurtarief / totaalscore kwaliteit.  
+De best scorende inschrijvingen kunnen worden uitgenodigd voor een gesprek, 
+waarbij verduidelijkende vragen kunnen worden gesteld over de inschrijving. Na 
+deze gesprekken worden de scores op de gunningscriteria definitief en wordt de 
+voorlopige gunningsuitslag met de inschrijvers gedeeld. 
+Per perceel worden vier inschrijvingen geselecteerd. De winnende inschrijvingen 
+hebben de laagste prijs per kwaliteitspunt.  
+ 
+Beoordeling kwaliteit 
+De kwaliteit wordt beoordeeld aan de hand van de criteria zoals in onderstaande 
+tabel zijn uitgewerkt. De volgende scores kunnen worden toegekend:  
+Uitstekend = 100% van maximaal te behalen punten  
+Goed  =  75% van maximaal te behalen punten 
+Voldoende =  50% van maximaal te behalen punten 
+Matig  =  25% van maximaal te behalen punten 
+Onvoldoende    =  0% van maximaal te behalen punten 
+ 
+Subgunningscriteria perceel 1 
+Kwaliteit beantwoording casus 
+U wordt verzocht een plan van aanpak (maximaal 6 
+pagina’s, lettertype Verdana 9 exclusief afbeeldingen) bij te 
+voegen voor de vervulling van de fictieve casus. 
+Hierin besteedt u ten minste aandacht aan:  
+• Visie en aanpak/methode; 
+• Doelgroepsegmentatie en wijze van 
+respondentenwerving; 
+• Toepassing gedragskennis in onderzoeksvoorstel; 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Pagina 9 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+• Moet passen binnen fictief budget van 50.000,-. 
+Hierbij is een goede onderbouwing essentieel, maar ook 
+het laten zien van originele denkkracht.  
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Maximaal 350 
+punten 
+Totaal aantal te behalen punten 1000 punten 
+ 
+ 
+Subgunningscriteria perceel 2 
+Kwaliteit beantwoording casus 
+U wordt verzocht een plan van aanpak (maximaal 6 
+pagina’s, lettertype Verdana 9, exclusief afbeeldingen) bij 
+te voegen voor de vervulling van de fictieve casus. 
+Hierin besteedt u ten minste aandacht aan:  
+• Visie op de casus en 2 of 3 interventierichtingen; 
+• Toepassing gedragskennis in interventieontwikkeling; 
+• Methode van evalueren interventies; 
+• Pretest/ Experiment moet passen binnen fictief budget 
+van 50.000,-. 
+Hierbij is een goede onderbouwing essentieel, maar ook 
+het laten zien van originele denkkracht. 
+ 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Maximaal 350 
+punten 
+Totaal aantal te behalen punten 1000 punten 
+ 
+ 
+ 
+  
+ 
+Pagina 10 van 10 
+ 
+ 
+Directie Communicatieafdeling 
+Advies en Onderzoek 
+ 
+ 
+ 
+Subgunningscriteria perceel 3 
+Beoordeling van de CV’s op: 
+- Gedragsexpertise;  
+- Werkervaring als gedragsdeskundige; 
+- Gedragsprojecten voor de overheid; 
+- Gedragsprojecten waarbij gedragsonderzoek en -/ 
+of interventieontwikkeling onderdeel was; 
+- Affiniteit met IenW-onderwerpen. 
+Maximaal 650 
+punten  
+ 
+ 
+ 
+Beroepsbekwaamheid 
+We beoordelen de inschrijving op de volledigheid van de 
+beantwoording van de vragen en in welke mate dit ons 
+vertrouwen geeft in de geschiktheid van uw bureau. Hierbij 
+kijken we specifiek naar: 
+- Gedragsexpertise binnen bureau; 
+- Borging kwaliteit; 
+- Borging continuïteit; 
+- Innovatie. 
+Maximaal 350 
+punten 
+Totaal aantal te behalen punten 1000 punten 
+ 
+Beoordeling van de kwaliteit vindt plaats door leden van een ingestelde 
+beoordelingscommissie. De beoordelaars zullen met elkaar op basis van 
+consensus de score en daarmee het aantal punten per (sub-)gunningscriterium 
+bepalen.
+
+=== Document: bijlage 2 - casus perceel 2 ===
+Bijlage 2: Gedragsanalyse voor de casus: Jongeren gaan zelf hun meubels opknappen (casus perceel 2) – kenmerk TenderNed 509811
+
+=== Document: bijlage 7 - concept rok gedragsdeskundige p1 - doelgroepenonderzoek ===
+Bijlage  7 Concept  Raamovereenkomst ARVODI-2018 Perceel 1  –  Doelgroepenonderzoek   Onderwerp :   Gedrags onderzoeken -  P erceel 1 Procedure :  Openbare Europese Aanbesteding TenderNed   kenmerk :   509811 Datum :   03  februari  2025 Versie :   1.0 Raamovereenkomst  ARVODI- 2018   inzake  EA  Gedragsd onderzoeken   Perceel  1   - Doelgroepenonderzoek De ondergetekenden: 1. De Staat der Nederlanden, waarvan de zetel is gevestigd te Den Haag,  te dezen vertegenwoordigd door de Minister/Staatssecretaris van  [ naam portefeu ille] , namens  deze, [ fu nctienaam en naam ondertekenaar] hierna te noemen: Opdrachtgever, en 2.  [ volledige  naam  en rechtsvorm  contractant] , (statutair) gevestigd te ........, te dezen vertegenwoordigd door ............... ( en  ..............) [ naam onderte kenaar] hierbij krachtens volmacht tevens handelend namens [volledige naam en rechtsvorm  combinant (en) ], (statutair) gevestigd te ........,  waarbij alle genoemde partijen (zowel de gevolmachtigde als de volmachtgever(s), tenzamen de combinanten) jegens Opdrachtgever volledig en hoofdelijk aansprakelijk zijn, en waarbij [volledige naam en rechtsvorm contractant] als penvoerder en als enig aanspreekpunt zal fungeren, hierna te noemen: Opdrachtnemer, OVERWEGENDE DAT: 1.   Opdrachtgever met betrekking tot de uitvoering  van Diensten op het gebied van   Gedrags onderzoeken ,  perceel   1   Doelgroepenonderzoek ,  gedurende een zekere tijd vaste afspraken met   4   dienstverleners wil maken; 2.   Opdrachtgever daartoe een  R aamovereenkomst wil sluiten met een looptijd van  twee  ( 2 ) jaar met  twee   ( 2 ) maal een verlengingsoptie van  maximaal  één (1) jaar (hierna te noemen: de Raamovereenkomst), waarin de voorwaarden voor alle door Opdrachtgever gedurende die looptijd te verstrekken opdrachten tot het verrichten van Diensten zijn vastgelegd; 3.   een Europese aanbesteding  met referentienummer:  509811 ,  voor de gunning van de deelname aan deze  R aamovereenkomst heeft plaatsgevonden op basis van het Beschrijvend document onder toepassing van  de Aanbestedingswet 2012 ; 4.  Opdrachtgever de  inschrijving  van Opdrachtnemer, alsmede de  inschrijvingen  van   < aantal >  andere Raamcontractanten  als d e  beste prijs-kwaliteitverhouding   heeft beoordeeld; 5. I n deze  Raam o vereenkomst de voorwaarden zijn vastgelegd die van toepassing zijn op alle opdrachten tot het verrichten van Diensten die Opdrachtgever voornemens is te gunnen gedurende de looptijd van deze  Raamo vereenkomst en die na een (nadere)   concurrentiestelling tussen de Raamcontractanten op bas is van het gunningscriterium  de  beste prijs-kwaliteitverhouding   al dan niet aan Opdrachtnemer worden gegund; 6.  Opdrachtgever met de   < aanta l>  andere Raamcontractanten een soortgelijke over eenkomst als de onderhavige aangaat . KOMEN OVEREEN : In deze  Raamo vereenkomst wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in artikel 1 van de Algemene Rijks voorwaarden voor het verstrekken van opd rachten tot het verrichten van D iensten  2018   (ARVODI - 2018 ). In afwijking daarvan of aanvulling daarop wordt onder de volgende begrippen in deze  Raamo vereenkomst verstaan: Beschrijvend document:  het doc ument van Opdrachtgever d.d.  < datum >   wa arin de deelname aan de  R aamovereenkomst met betrekking tot de uitvoering van Diensten gedurende een bepaalde periode, de te volgen aanbestedingsprocedure en de selectie- en gunningscriteria worden beschreven en toegelicht Diensten:  de door Opdrachtnemer op basis van een onder deze  Raamo vereenkomst gesloten  n adere Overeenkomst ten behoeve van Opdrachtgever te verrichten werkzaamheden  op het gebied van  Gedrags o nderzoeken ,  perceel   1 - Doelgroepenonderzoek . Inschrijving:  de in het kader van de (Europese) aanbesteding  Gedragsonderzoeken  –   perceel  1   met kenmerk   < SAP zaaknummer >   door Opdrachtnemer op basis van het Beschrijvend document i ngediende inschrijving d.d.  […datum…]  met kenmerk  [ ……… ] Nadere Overeenkomst:  de nadere overeenkomst tussen Opdrachtgever en Opdrachtnemer op basis waarvan Opdrachtgever gedurende de looptijd van deze Raamovereenkomst aan Opdrachtnemer opdrachten tot het verrichten van Diensten kan verstrekken Offerte:  een aanbieding tot het verrichten van Diensten die Opdrachtnemer naar aanleiding van een Offerteaanvraag uitbrengt aan Opdrachtgever onder deze  Raam vereenkomst Offerteaanvraag:  een uitnodiging door Opdrachtgever onder deze  Raam vereenkomst aan  ( alle )  Raamcontractant ( en )  tot het uitbrengen van een Offerte voor een opdracht tot het verrichten van Diensten Minicompetitie :  een uitnodiging door Opdrachtgever onder deze Raamvereenkomst aan alle Raamcontractanten tot het uitbrengen van een  nadere  Offerte voor een opdracht tot het verrichten van Diensten Raamcontractant:  een inschrijver aan wie deelname aan de ze   R aamovereenkomst is gegund   1. Voorwerp van de  Raamo vereenkomst 1.1  Opdrachtgever is gerechtigd gedurende de looptijd van deze  Raamo vereenkomst een Offerteaanvraag uit te brengen voor een opdracht tot het verrichten van Diensten. Opdrachtnemer is verplicht naar aanleiding van een Offerteaanvraag een Offerte uit te brengen, die niet minder gunstig is dan de door Opdrachtnemer ingediende Inschrijving. Indien de in de Offerteaanvraag genoemde opdracht op basis van de in het Beschrijvend document voor de nadere gunning vermelde gunningscriteria door Opdrachtgever aan Opdrachtnemer wordt gegund, is Opdrachtnemer verplicht die opdracht uit te voeren overeenkomstig de voorwaarden van deze  Raamo vereenkomst. Daartoe is Opdrachtnemer alsdan verplicht met Opdrachtgever een Nadere Overeenkomst te sluiten. 1.2 De navolgende do cumenten vormen gezamenlijk de Raamo vereenkomst. Voor zover deze documenten met elkaar in tegenspraak zijn, prevaleert het eerder genoemde document boven het later genoemde: Onderhavige Raamovereenkomst, inclusief de hierbij beho rende considerans en bijlagen; De Nota van Inlichtingen; Het Beschrijvend document  (incl.  B ijlagen) d.d.  ...... mei 2025 ; De ARVODI 2018; De I nschrijving van Opdrachtnemer. 1.3  Opdrachtgever is niet verplicht om gedurende de  l ooptijd van deze  Raamo vereenkomst opdrachten tot het verrichten van Diensten te verstrekken, maar is daartoe gerechtigd. Opdrachtnemer kan derhalve generlei aanspraak maken op het verkrijgen van opdrachten tot het verrichten van Diensten gedurende de looptijd van deze  Raamo vereenkomst.   1.4 De voorwaarden van deze  Raamo vereenkomst zijn integraal van toepassing op alle Nadere Overeenkomsten die gedurende de looptijd van deze  Raamo vereenkomst tussen Opdrachtgever enerzijds en Opdrachtnemer anderzijds worden gesloten met betrekking tot opdrachten tot het verrichten van in een Offerteaanvraag gespecificeerde Diensten, tenzij in een Nadere Overeenkomst uitdrukkelijk schriftelijk van deze   Raamo vereenkomst wordt afgeweken.    1.5   In een Nadere Overeenkomst wordt  vastgelegd met betrekking tot welke specifieke Diensten en gedurende welke periode de desbetreffende Nadere Overeenkomst wordt aangegaan.   2. Duur van de  Raamo vereenkomst 2.1 Deze Raamovere enkomst gaat in  op  1  juni  2025  voor de duur van  twee  ( 2 )  jaar met daarna de mogelijkheid om de Raamovereenkomst tot maximaal  twee  ( 2 )  keer te verlengen met een aansluitend jaar. Deze optie  is  eenzijdig uit te oefenen door Opdrachtgever en kunnen de Raamovereenkomst uitsluitend onder gelijkblijvende voorwaarden verlengen .   Opdrachtgever stelt Opdrachtnemer  uiterlijk  drie ( 3 )   maand en  voor het verstrijken van de initiële looptijd van de Raamovereenkomst schriftelijk in kennis indien gebruik wordt gemaakt door Opdrachtgever van de  verlengingsoptie. Indien de verlengingsoptie door Opdrachtgever niet wordt uitgeoefend eindigt de Raamovereenkomst van rechtswege na het verstrijken van de op dat moment geldende termijn tenzij  beide  partijen evident uiting  in hun handelingen  geven aan de wens de  Raamovereenkomst  te continueren . Beëindiging van deze  Raamo vereenkomst om welke reden dan ook laat de rechten en verplichtingen voortvloeiend uit (een) Nadere Overeenkomst(en) onverlet.  De voorwaarden van deze  Raamo vereenkomst blijven van toepassing op alle Nadere Overeenkomsten die na het eindigen van deze  Raamo vereenkomst nog voortduren. 2.3  De duur van de Nadere Overeenkomst(en) die onder deze  Raam vereenkomst aan Opdrachtnemer wordt / worden gegund  wordt  in de Nadere Ove reenkomst(en) per opdracht  vastgelegd. 2.4     De Raamovereenkomst kan door Opdrachtgever eenzijdig worden opgezegd met een opzegtermijn van  éé n  (1)  maand indien de maximale opdrachtwaarde is bereikt of deze door een eerstvolgende opdrachtverstrekking kan worden overschreden, zonder dat daardoor enig recht op schadevergoeding ontstaat. Ingeval van voortijdige uitputting van de Raamovereenkomst, zonder dat een gerechtvaardigd beroep op artikel 2.163a — 2.163g Aanbestedingswet 2012 kan worden gedaan, kan deze bepaling worden ingeroepen. 3. Nadere gunning 3.1  Opdrachtnemer is verplicht om  bij minicompetities  aan een aanbiedingsplicht van ten minste  75 % te voldoen. De Inschrijver dient te verklaren door middel van het doen van een inschrijving op minimaal  75 %  die in minicompetitie zijn uitgezet . Aan het verkrijgen van een Offerte zijn voor Opdrachtgever geen kosten verbonden. 3.2 Wanneer een leverancier de  75 % aanbiedingsplicht niet kan waarmaken en deze niet kan  verbeteren , vervalt deze Raamovereenkomst  met  IenW .  3.3 De Offerte en daarin opgenomen prijscalculatie moeten voldoen aan, en mogen niet minder gunstig zijn dan de ingediende Inschrijving.   4. Prijs en overige financiële bepalingen 4.1 In alle Nadere overeenkomsten wordt overeengekomen dat Opdrachtnemer garandeert dat de in de Nadere overeenkomst eventueel genoemde maximum totaalprijs voor het verrichten van de Diensten niet wordt overschreden. 4.2 Uitdrukkelijk wordt bepaald dat indien Opdrachtnemer geen  btw  in rekening brengt, maar voor (een deel van) de Diensten geen vrijstelling van  btw  blijkt te bestaan, deze niet ten laste komt van Opdrachtgever. 4.3 De in artikel 4.1  van deze  Raam overeenkomst  bedoelde prijs heeft betrekking op alle door Opdrachtnemer in het kader van de desbetreffende Nadere Overeenkomst te verrichten Diensten en eventueel daartoe benodigde materialen en is inclusief eventuele reis- en verblijfskosten en alle eventueel bijkomende kosten en exclusief  btw .  4.4 Opdrachtnemer   factureert elektronisch op de in de Offerteaanvraag voorgeschreven wijze.    4.6  Betaling vindt plaats na ontvangst en acceptatie van de overeenkomstig een Nadere O vereenkomst verrichte Diensten. 4.7  De overeengekomen tarieven in d eze  overeenkomst liggen vast voor de duur van  ten minste  twee (2) jaar en zullen niet geindexeerd worden.  De  maximaal afgesproken  uurtarieven kunnen na 1 juni 2027 één maal per jaar per 1 juni worden bijgesteld gelijk aan het per kwartaal vastgestelde C BS -prijsindexcijfer. Hierbij wordt telkens het indexcijfer   (73000000-2 Onderzoek en ontwikkeling, en aanverwante diensten)   van het tweede kwartaal van het daaraan voorafgaande jaar gehanteerd, waarbij het indexcijfer van het tweede kwartaal 2025 wordt gesteld op 100%.  4.8 U moet zich tijdens de uitvoering van de opdracht inspannen om aan Social Return bij te dragen door het creëren van extra werk(ervarings)plaatsen voor mensen met een grote(re) afstand tot de arbeidsmarkt. Het streefpercentage is 5% van de opdrachtsom van de nadere opdracht. Dit is het gedeelte van de opdracht dat moet worden verricht door mensen uit de doelgroep Social Return. 5. Contactpersonen /  Projectleiders 5.1 Contactpersoon voor Opdrachtgever is .............. Contactpersoon voor Opdrachtnemer is .............. 5.2 Ten minste  twee (2)  maal per  jaar  vindt overleg plaats  tussen de contactpersonen van  P artijen over de wijze waarop deze  Raamo vereenkomst wordt uitgev oerd (tussentijdse evaluatie(s) ) . 5.3    Additionele  kosten gemaakt ten behoeve van overleggen zullen niet door de Opdrachtnemer in rekeningen (kunnen) wor den gebracht aan Opdrachtgever. 6. Tijden en plaats werkzaamheden 6.1    De werkzaamheden, verband houdend met de in een Nadere Overeenkomst gespecificeerde Diensten, worden verricht op de in de Nadere Overeenkomst aan te geven plaats(en). 6.2 Partijen verplichten zich het Personeel van de andere Partij to egang te verlenen tot de plaats  waar de werkzaamheden verband houdend met de in de Nadere Overeenkomst  gespecificeerde Diensten moeten worden verricht, alsmede dit Personeel in staat te stellen de werkzaamheden onder de bij die Partij ge brui kelijke arbeidsomstandigheden te ver richten gedurende de regulier geldende kantoortijden. Partijen verplichten zich hun Personeel op te dragen de ter plekke van de uitvoering geldende huisregels na te leven. 7. Overige  Voorwaarden 7.1 Op deze Raamovereenkomst, alsmede op een opdracht tot het verrichten van Diensten overeenkomstig een Nadere Overeenkomst zijn uitsluitend van toepassing de ARVODI- 2018   ( B ijlage 14) ,  voor zover daarvan in deze Raamovereenkomst niet wordt afgeweken. De            toepasselijkheid van (eventuele) algemene en bijzondere voorwaarden van Opdrachtnemer is uitgesloten. 7.2 Onverminderd de plicht genoemd in artikel 9 van de ARVODI-2018 om over de voortgang van de werkzaamheden aan Opdrachtgever te rapporteren wanneer en op de wijze waarop deze dat nodig acht, is Opdrachtnemer in ieder geval gehouden  om 1 keer per half jaar aan  de contractmanager van Opdrachtgever een voortgangsrapportage te verstrekken. Daarnaast verstrekt de Opdrachtnemer, zo dikwijls als Opdrachtgever dat verlangt, door Opdrachtgever aan te geven rapportages. 7.3 In aanvulling op artikel 21 van de ARVODI-2018 vrijwaart Opdrachtnemer Opdrachtgever tegen eventuele aanspraken van derden op vergoeding van schade als gevolg van het tekortschieten als bedoeld in artikel 21.3 van de ARVODI-2018. De staffel inzake aansprakelijkheid opgenomen in artikel 21.3 van de ARVODI-2018 is van overeenkomstige toepassing. 7.4 In aanvulling op het bepaalde in artikel 22 ARVODI-2018 kan Opdrachtgever deze Overeenkomst zonder enige aanmaning of ingebrekestelling, met onmiddellijke ingang buiten rechte door middel van een aangetekend schrijven, ontbinden in de volgende gevallen:  a.       de Opdrachtnemer verkeert in een van de uitsluitingsgronden als gesteld in het Beschrijvend document; b.      de Opdrachtnemer niet meer voldoet aan de geschiktheidseisen als gesteld in het Beschrijvend document; c. de Opdrachtnemer niet meer voldoet aan de eisen als gesteld in  b ijlage  1   b riefing  inschrijving ; d. door handelen of nalaten van Opdrachtnemer, daaronder mede verstaan diens Personeel, de Opdrachtgever en/of dienst Personeel in gevaar is of wordt gebracht, en/of het imago van Opdrachtgever is of wordt geschaad. e. indien Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor discriminatie in de zin van de artikelen 137c tot en met 137g en art. 429 quater van het Wetboek van Strafrecht; f. indien Personeel van Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor discriminatie  in de zin van de artikelen 137c tot en met g en artikel 429 quater van het Wetboek van Strafrecht en de desbetreffende persoon lid is van een bestuurs-, leidinggevend of toezichthoudend orgaan van Opdrachtnemer of daarin vertegenwoordigings-, beslissings-, of controlebevoegdheid heeft. In de onder e. en f. genoemde gevallen vervalt het recht op ontbinding drie jaar nadat de desbetreffende veroordeling onherroepelijk is geworden. 8 . Integriteitsverklaring Opdrachtnemer verklaart dat hij in het kader van de gunning van deze  Raamo vereenkomst en evenmin ter verkrijging van opdrachten tot het verrichten van Diensten onder Nadere Overeenkomsten,   Personeel van Opdrachtgever generlei voordeel heeft geboden, gegeven, doen aanbieden of doen geven, respectievelijk zal bieden, geven, zal doen aanbieden of zal doen geven. Hij zal dat ook niet alsnog doen teneinde personen in dienst van Opdrachtgever te bewegen enige handeling te verrichten of na te laten. 9 . Slotbepaling 9 .1 Afwijkingen van deze  Raamo vereenkomst of een Nadere Overeenkomst zijn slechts bindend voor zover zij uitdrukkelijk tussen  P artijen schriftelijk zijn overeengekomen. 9 .2 Door ondertekening van deze  Raamo vereenkomst vervallen alle eventueel eerder door  P artijen gemaakte mondelinge en schriftelijke afspraken omtrent het verstrekken van opdrachten tot het verrichten van Diensten, al dan niet onder een Nadere Overeenkomst. Aldus op de laatste van de twee hierna genoemde data overeengekomen en in tweevoud ondertekend, Den Haag, [ datum ]          [ Plaats ], [ datum ] DE MINISTER/STAATSSECRETARIS VAN  [naam Opdrachtnemer] [naam portefeuille] namens deze, [functienaam ondertekenaar] [naam ondertekenaar]                                                           [functie en naam ondertekenaar] [Bijlage(n): …]

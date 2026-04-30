@@ -1,0 +1,623 @@
+=== Document: tn516014 - ef25 aankondiging in geval van vrijwillige transparantie vooraf - algemene richtlijn 20250312134953 ===
+12/03/2025
+1. Koper
+1.1 Koper
+Officiële naam: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Rechtsvorm van de 
+koper: Centrale overheidsinstantie
+Activiteit van de 
+aanbestedende dienst: Openbare orde en veiligheid
+2. Procedure
+2.1 Procedure
+Titel: Wetenschappelijk onderzoek en doorontwikkeling dialectherkenningssysteem 
+Arabische dialecten
+Beschrijving:
+De opdracht betreft in het kort wetenschappelijk onderzoek naar de 
+toepasbaarheid en doorontwikkeling van een dialectherkenningssysteem 
+genaamd Y-ACCDIST op Arabische dialecten ten behoeve van de Immigratie 
+en Naturalisatiedienst. Deze opdracht heeft een geraamde waarde van: 
+€950.000. De opdracht start vooralsnog op 1 juni 2025 en eindigt bij afronding 
+en oplevering van de onderzoeksresultaten. De geschatte duur is 27 maanden.
+Identificatiecode van de 
+procedure: a1e8e3f0-d72c-4d6d-88cf-37554ec20d0f
+Type procedure: Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging
+2.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie(cpv): 73000000Onderzoek en ontwikkeling, en aanverwante adviezen
+Aanvullende 
+classificatie(cpv):
+72212461Diensten voor ontwikkeling van analytische of wetenschappelijke 
+software
+Aanvullende 
+classificatie(cpv): 79720000Onderzoeksdiensten
+2.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie: Nederland
+2.1.4 Algemene informatie
+Rechtsgrondslag:
+Richtlijn 2014/24/EU
+5. Perceel
+5.1 Technische ID van het kavel:LOT-0000
+Titel: Wetenschappelijk onderzoek en doorontwikkeling dialectherkenningssysteem 
+Arabische dialecten
+De opdracht betreft in het kort wetenschappelijk onderzoek naar de 
+toepasbaarheid en doorontwikkeling van een dialectherkenningssysteem 
+genaamd Y-ACCDIST op Arabische dialecten ten behoeve van de Immigratie 
+en Naturalisatiedienst (verder: de IND). De opdracht maakt onderdeel uit van 
+een project dat de IND uitvoert in opdracht van de Europese Unie, niet alleen 
+ten behoeve van zichzelf, maar ook ten behoeve van organisaties in de Europese 
+Beschrijving:
+Unie die zich bezig houden met immigratie en naturalisatie, zoals de IND. In 
+2024 heeft de IND een verkennend onderzoek laten uitvoeren naar de 
+haalbaarheid van automatische Arabische dialectherkenning binnen de eisen 
+van de EU AI Act. Dit heeft geleid tot het advies om separate systemen te 
+ontwikkelen voor (1) grofmazige taalherkenning en (2) fijnmazige 
+dialectherkenning. Y-ACCDIST maakt gebruik van verschillen op klankniveau 
+en is daardoor geschikt voor (2). De gebruikte metriek is transparanter en 
+minder data-hongerig dan andere metrieken die gebruikt worden voor 
+taalherkenning. Y-ACCDIST is ontwikkeld voor forensische toepassingen. Het 
+is een doorontwikkeling van een metriek genaamd ACCDIST en is speciaal 
+ontwikkeld voor fijnmazige dialectherkenning. Een versie die is ontwikkeld 
+voor het Arabisch is vastgesteld als versie “Y-ACCDIST-Arabic 1.0”. Het 
+intellectueel eigendom hiervan ligt bij Lancaster University en University of 
+York. Binnen de opdracht wordt door Lancaster University een samenwerking 
+aangegaan met de University of York (subcontractor). Y-ACCDIST-Arabic 1.0 
+is nog niet klaar om ingezet te kunnen worden als een vorm van 
+herkomstonderzoek in asieldossiers. Daarvoor is verdere methodeontwikkeling 
+noodzakelijk. Verder moet het systeem gevalideerd en getest worden in 
+verschillende condities. Voor de ontwikkeling en validatie worden onder andere 
+Arabische datasets gebruikt die eigendom zijn van University of York en/of 
+Lancaster University. Deze datasets heten IVAr (Intonational Variation in 
+Arabic) en DiVaL (Dialect Variation in the Levant). Y-ACCDIST-Arabic 1.0 is 
+een semi-automatisch dialectherkenningssyteem. Onderdeel van de opdracht is 
+om het systeem voor zover mogelijk volledig automatiseerbaar te maken. In de 
+overeenkomst wordt de optie meegenomen om na het onderzoek en de 
+doorontwikkeling de oplossing daadwerkelijk af te nemen (bijvoorbeeld door 
+middel van een gebruiksrecht). De opdracht start vooralsnog op 1 juni 2025 en 
+eindigt bij afronding en oplevering van de onderzoeksresultaten. De geschatte 
+duur is 27 maanden.
+Interne identificatiecode
+: 1
+5.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie(cpv): 73000000Onderzoek en ontwikkeling, en aanverwante adviezen
+Aanvullende 
+classificatie(cpv):
+72212461Diensten voor ontwikkeling van analytische of wetenschappelijke 
+software
+Aanvullende 
+classificatie(cpv): 79720000Onderzoeksdiensten
+5.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie: Nederland
+5.1.3 Geraamde duur
+Begindatum: 05/06/2025
+Einddatum van de duur: 05/09/2027
+5.1.6 Algemene informatie
+Aanbestedingsproject dat niet uit EU-fondsen wordt gefinancierd
+De aanbesteding valt 
+onder de Overeenkomst 
+inzake 
+overheidsopdrachten 
+(GPA):
+ja
+5.1.7 Strategische aanbestedingen
+Doel van strategische 
+aanbestedingen: Geen strategische aanbesteding
+5.1.10 Gunningscriteria
+Criterium:
+Type: Prijs
+Naam: Prijs
+Beschrijving: Prijs
+Gewicht (punten, exact): 100
+5.1.15 Technieken
+Raamovereenkomst:
+Geen raamovereenkomst
+Informatie over het dynamische aankoopsysteem:
+Geen dynamisch aankoopsysteem
+5.1.16 Nadere inlichtingen, bemiddeling en evaluatie
+Bemiddelingsorganisatie
+: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Organisatie voor 
+beroepsprocedures: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Organisatie die nadere 
+inlichtingen over de 
+aanbestedingsprocedure 
+verstrekt:
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Organisatie die meer 
+informatie geeft over 
+beroepsprocedures:
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Organisatie die het 
+contract ondertekent: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+6. Resultaten
+Waarde van alle 
+contracten toegekend in 
+deze kennisgeving:
+950 000Euro
+Onderhandse gunning:
+Rechtvaardiging voor 
+onderhandse gunning: Specifieke uitsluitingen voor opdrachten voor diensten
+DJI is op basis van art. 4.15 en 4.16 van de Aanbestedingswet, voornemens een 
+contract te sluiten met Lancaster University na 20 kalenderdagen na publicatie. 
+De opdracht kan alleen door Lancaster University worden verricht, omdat er 
+sprake is van uitsluitende rechten, intellectuele-eigendomsrechten, die 
+beschermd moeten worden en waarvoor geen redelijk alternatief of substituut 
+bestaat (art. 2.32 lid 1 sub a onder 3 Aanbestedingswet). In 2021-2022 heeft een 
+samenwerking plaatsgevonden (om-niet) tussen IND, University of York en 
+Lancaster University, in het kader van dataverzameling en een pilot. De 
+verzamelde dataset genaamd DiVaL (Dialect Variation in the Levant) is 
+Andere rechtvaardiging:
+specifiek verzameld met de huidige doelstelling van automatische fijnmazige 
+dialectherkenning voor ogen, en specifiek gericht op het Levantijns Arabisch 
+(waaronder Syrië), voor toepassing in een forensische context zoals de 
+asielprocedure. Naast het feit dat opdrachtnemer de juiste expertise bezit op het 
+gebied van automatische dialectherkenning, en via de subcontractor ook van de 
+Arabische dialectologie, heeft de onderzoeker het intellectuele eigendomsrecht 
+op het bestaande dialectherkenningssysteem welke verder ontwikkeld en 
+gevalideerd zal worden. Daarbij worden twee datasets gebruikt die eigendom 
+zijn van opdrachtnemer en subcontractor. Deze opdracht borduurt voort op 
+eerder uitgevoerd onderzoek en ontwikkeling van een 
+dialectherkenningssysteem voor Arabische dialecten. De uitsluitende rechten 
+van de onderzoeker dienen beschermd te worden. Er bestaat geen redelijk 
+alternatief of substituut wegens de volgende redenen: - Er is geen andere 
+methode bekend naast Y-ACCDIST-Arabic die specifiek is ontwikkeld voor 
+fijnmazige dialectherkenning van de Arabische taal en voor toepassing in het 
+forensische domein. - Er zijn twee Arabische datasets in eigendom van de 
+opdrachtnemer en subcontractor die specifiek geprepareerd zijn voor analyse 
+door Y-ACCDIST-Arabic. - Er is geen andere methode bekend naast Y-
+ACCDIST die zo weinig trainingsdata voor ieder dialect nodig heeft. - Er is 
+geen andere methode bekend die de akoestiek van elke klank analyseert voor 
+dialectherkenning en inzichtelijk kan maken hoe sterk elke klank heeft 
+bijgedragen aan het resultaat van een analyse. Deze aankondiging wordt 
+gebruikt om de voorgenomen procedurekeuze vooraf bekend te maken aan de 
+markt, met als doel belanghebbenden in de gelegenheid te stellen om eventuele 
+bezwaren kenbaar te maken. Als u het niet eens bent met dit voornemen, maak 
+dan bezwaar binnen 20 kalenderdagen na publicatiedatum van deze 
+aankondiging. Uw onderbouwde bezwaar kunt u sturen naar IENEA@dji.
+minjus.nl. Na de termijn vervalt het recht om bezwaar te maken tegen het 
+besluit om de opdracht te gunnen aan Lancaster University. U kunt dan geen 
+enkele vordering tot schadevergoeding of welke aanspraak dan ook laten gelden.
+6.1 ID resultaat perceel:LOT-0000
+6.1.2 Informatie over winnaars
+Winnaar:
+Officiële naam: Lancaster University
+Inschrijving:
+Identificatiecode van de 
+inschrijving: 1
+Identificatiecode van 
+het perceel of de groep 
+percelen:
+LOT-0000
+Waarde van de 
+aanbesteding: 950 000Euro
+De inschrijving is 
+gerangschikt: neen
+Onderaanneming: Neen
+Informatie over het contract:
+Identificatiecode van 
+het contract: CON-0001
+Titel: P1 Wetenschappelijk onderzoek en doorontwikkeling 
+dialectherkenningssysteem Arabische dialecten
+De opdracht wordt 
+gegund in het kader van 
+een raamovereenkomst:
+neen
+Organisatie die het 
+contract ondertekent: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+8. Organisaties
+8.1 ORG-0001
+Officiële naam: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Registratienummer: 3814225
+Postadres: Bezuidenhoutseweg 20
+Stad: Den Haag
+Postcode: 2594 AV
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage(NL332)
+Land: Nederland
+Contactpunt: IUC DJI Team EA
+E-mail: ienea@dji.minjus.nl
+Telefoon: +31 880754321
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Postadres: Turfmarkt 147
+Stad: Den Haag
+Postcode: 2500 EH
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage(NL332)
+Land: Nederland
+E-mail: klachtenmeldpunt.ea@minjenv.nl
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Postadres: Turfmarkt 147
+Stad: Den Haag
+Postcode: 2500 EH
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage(NL332)
+Land: Nederland
+E-mail: klachtenmeldpunt.ea@minjenv.nl
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Rechtbank Den Haag
+Postadres: Prins Clauslaan 60
+Stad: Den Haag
+Postcode: 2595 AJ
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage(NL332)
+Land: Nederland
+E-mail: ienea@dji.minjus.nl
+Internetadres: http://www.dji.nl
+Rollen van deze organisatie:
+Koper
+Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt
+Organisatie voor beroepsprocedures
+Organisatie die meer informatie geeft over beroepsprocedures
+Bemiddelingsorganisatie
+Organisatie die het contract ondertekent
+8.1 ORG-0002
+Officiële naam: Lancaster University
+Omvang van de 
+ondernemer: Groot
+Registratienummer: 0000-1678787947
+Postadres: Bailrigg 1
+Stad: Lancaster
+Postcode: LA1 4YW
+Onderverdeling land 
+(NUTS): Warrington(UKD61)
+Land: Verenigd Koninkrijk
+Internetadres: https://www.lancaster.ac.uk
+Rollen van deze organisatie:
+Inschrijver
+Winnaar van deze 
+percelen: LOT-0000
+11. Informatie over een aankondiging
+11.1 Informatie over een aankondiging
+Identificatiecode/versie 
+van de aankondiging: 39eace05-37cb-47c2-96ef-0d072e8f315d-01
+Type formulier: Vooraankondiging onderhandse gunning
+Type aankondiging: Aankondiging in geval van vrijwillige transparantie vooraf
+Verzenddatum van de 
+aankondiging: 12/03/202513:49 +01:00
+Talen waarin deze 
+aankondiging officieel 
+beschikbaar is:
+Nederlands
+11.2 Informatie over de bekendmaking
+
+=== Document: tn516014 - ef29 aankondiging gegunde opdracht - algemene richtlijn, standaardregeling 20250407091521 ===
+07/04/2025
+1. Koper
+1.1 Koper
+Officiële naam: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Rechtsvorm van de 
+koper: Centrale overheidsinstantie
+Activiteit van de 
+aanbestedende dienst: Openbare orde en veiligheid
+2. Procedure
+2.1 Procedure
+Titel: Wetenschappelijk onderzoek en doorontwikkeling 
+dialectherkenningssysteem Arabische dialecten
+Beschrijving: 
+De opdracht betreft in het kort wetenschappelijk onderzoek naar de 
+toepasbaarheid en doorontwikkeling van een dialectherkenningssysteem 
+genaamd Y-ACCDIST op Arabische dialecten ten behoeve van de 
+Immigratie en Naturalisatiedienst. Deze opdracht heeft een geraamde 
+waarde van: €950.000. De opdracht start vooralsnog op 1 juni 2025 en 
+eindigt bij afronding en oplevering van de onderzoeksresultaten. De 
+geschatte duur is 27 maanden.
+Identificatiecode van de 
+procedure: a1e8e3f0-d72c-4d6d-88cf-37554ec20d0f
+Type procedure: Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging
+2.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie (cpv): 73000000 Onderzoek en ontwikkeling, en aanverwante adviezen
+Aanvullende 
+classificatie (cpv): 
+72212461 Diensten voor ontwikkeling van analytische of wetenschappelijke 
+software
+Aanvullende 
+classificatie (cpv): 79720000 Onderzoeksdiensten
+2.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie
+: Nederland
+2.1.3 Waarde
+Geraamde waarde 
+exclusief btw: 950 000 Euro
+2.1.4 Algemene informatie
+Aanvullende informatie
+: 
+Gezien het feit dat binnen de gestelde termijn van 20 kalenderdagen geen 
+bezwaar is ingediend. De Aanbestedende dienst concludeert op basis hiervan 
+dat er geen bezwaren zijn en dat er geen vorderingen of aanspraken kunnen 
+worden geformuleerd met betrekking tot de publicatie.
+Rechtsgrondslag:
+Richtlijn 2014/24/EU
+5. Perceel
+5.1 Technische ID van het kavel: LOT-0000
+Titel: Wetenschappelijk onderzoek en doorontwikkeling 
+dialectherkenningssysteem Arabische dialecten
+Beschrijving: 
+De opdracht betreft in het kort wetenschappelijk onderzoek naar de 
+toepasbaarheid en doorontwikkeling van een dialectherkenningssysteem 
+genaamd Y-ACCDIST op Arabische dialecten ten behoeve van de 
+Immigratie en Naturalisatiedienst (verder: de IND). De opdracht maakt 
+onderdeel uit van een project dat de IND uitvoert in opdracht van de 
+Europese Unie, niet alleen ten behoeve van zichzelf, maar ook ten behoeve 
+van organisaties in de Europese Unie die zich bezig houden met immigratie 
+en naturalisatie, zoals de IND. In 2024 heeft de IND een verkennend 
+onderzoek laten uitvoeren naar de haalbaarheid van automatische Arabische 
+dialectherkenning binnen de eisen van de EU AI Act. Dit heeft geleid tot het 
+advies om separate systemen te ontwikkelen voor (1) grofmazige 
+taalherkenning en (2) fijnmazige dialectherkenning. Y-ACCDIST maakt 
+gebruik van verschillen op klankniveau en is daardoor geschikt voor (2). De 
+gebruikte metriek is transparanter en minder data-hongerig dan andere 
+metrieken die gebruikt worden voor taalherkenning. Y-ACCDIST is 
+ontwikkeld voor forensische toepassingen. Het is een doorontwikkeling van 
+een metriek genaamd ACCDIST en is speciaal ontwikkeld voor fijnmazige 
+dialectherkenning. Een versie die is ontwikkeld voor het Arabisch is 
+vastgesteld als versie “Y-ACCDIST-Arabic 1.0”. Het intellectueel eigendom 
+hiervan ligt bij Lancaster University en University of York. Binnen de 
+opdracht wordt door Lancaster University een samenwerking aangegaan met 
+de University of York (subcontractor). Y-ACCDIST-Arabic 1.0 is nog niet 
+klaar om ingezet te kunnen worden als een vorm van herkomstonderzoek in 
+asieldossiers. Daarvoor is verdere methodeontwikkeling noodzakelijk. 
+Verder moet het systeem gevalideerd en getest worden in verschillende 
+condities. Voor de ontwikkeling en validatie worden onder andere 
+Arabische datasets gebruikt die eigendom zijn van University of York en/of 
+Lancaster University. Deze datasets heten IVAr (Intonational Variation in 
+Arabic) en DiVaL (Dialect Variation in the Levant). Y-ACCDIST-Arabic 
+1.0 is een semi-automatisch dialectherkenningssyteem. Onderdeel van de 
+opdracht is om het systeem voor zover mogelijk volledig automatiseerbaar 
+te maken. In de overeenkomst wordt de optie meegenomen om na het 
+onderzoek en de doorontwikkeling de oplossing daadwerkelijk af te nemen 
+(bijvoorbeeld door middel van een gebruiksrecht). De opdracht start 
+vooralsnog op 1 juni 2025 en eindigt bij afronding en oplevering van de 
+onderzoeksresultaten. De geschatte duur is 27 maanden.
+Interne identificatiecode
+: 1
+5.1.1 Doel
+Aard van het contract: Diensten
+Belangrijkste 
+classificatie (cpv): 73000000 Onderzoek en ontwikkeling, en aanverwante adviezen
+Aanvullende 
+classificatie (cpv): 
+72212461 Diensten voor ontwikkeling van analytische of wetenschappelijke 
+software
+Aanvullende 
+classificatie (cpv): 79720000 Onderzoeksdiensten
+5.1.2 Plaats van uitvoering
+Land: Nederland
+Overal in het desbetreffende land
+Aanvullende informatie
+: Nederland
+5.1.3 Geraamde duur
+Begindatum: 05/06/2025
+Einddatum van de duur: 05/09/2027
+5.1.5 Waarde
+Geraamde waarde 
+exclusief btw: 950 000 Euro
+5.1.6 Algemene informatie
+Aanbestedingsproject dat niet uit EU-fondsen wordt gefinancierd
+De aanbesteding valt 
+onder de Overeenkomst 
+inzake 
+overheidsopdrachten 
+(GPA): 
+ja
+5.1.7 Strategische aanbestedingen
+Doel van strategische 
+aanbestedingen: Geen strategische aanbesteding
+5.1.10 Gunningscriteria
+Criterium:
+Type: Prijs
+Naam: Prijs
+Beschrijving: Prijs
+Categorie van het 
+gunningscriterium 
+drempel: 
+Gewicht (punten, exact)
+Gunningscriterium 
+numerieke waarde: 100
+5.1.15 Technieken
+Raamovereenkomst:
+Geen raamovereenkomst
+Informatie over het dynamische aankoopsysteem:
+Geen dynamisch aankoopsysteem
+5.1.16 Nadere inlichtingen, bemiddeling en evaluatie
+Bemiddelingsorganisatie
+: 
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI) - 
+Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Organisatie voor 
+beroepsprocedures: 
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI) - 
+Rechtbank Den Haag
+Organisatie die nadere 
+inlichtingen over de 
+aanbestedingsprocedure 
+verstrekt: 
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Organisatie die meer 
+informatie geeft over 
+beroepsprocedures: 
+Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI) - 
+Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Organisatie die het 
+contract ondertekent: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+6. Resultaten
+Waarde van alle 
+contracten toegekend in 
+deze kennisgeving: 
+950 000 Euro
+Onderhandse gunning:
+Rechtvaardiging voor 
+onderhandse gunning: 
+De opdracht kan alleen door een bepaalde ondernemer worden uitgevoerd 
+wegens het ontbreken van mededinging om technische redenen
+DJI is op basis van art. 4.15 en 4.16 van de Aanbestedingswet, voornemens 
+Andere rechtvaardiging
+: 
+een contract te sluiten met Lancaster University na 20 kalenderdagen na 
+publicatie. De opdracht kan alleen door Lancaster University worden 
+verricht, omdat er sprake is van uitsluitende rechten, intellectuele-
+eigendomsrechten, die beschermd moeten worden en waarvoor geen redelijk 
+alternatief of substituut bestaat (art. 2.32 lid 1 sub a onder 3 
+Aanbestedingswet). In 2021-2022 heeft een samenwerking plaatsgevonden 
+(om-niet) tussen IND, University of York en Lancaster University, in het 
+kader van dataverzameling en een pilot. De verzamelde dataset genaamd 
+DiVaL (Dialect Variation in the Levant) is specifiek verzameld met de 
+huidige doelstelling van automatische fijnmazige dialectherkenning voor 
+ogen, en specifiek gericht op het Levantijns Arabisch (waaronder Syrië), 
+voor toepassing in een forensische context zoals de asielprocedure. Naast 
+het feit dat opdrachtnemer de juiste expertise bezit op het gebied van 
+automatische dialectherkenning, en via de subcontractor ook van de 
+Arabische dialectologie, heeft de onderzoeker het intellectuele 
+eigendomsrecht op het bestaande dialectherkenningssysteem welke verder 
+ontwikkeld en gevalideerd zal worden. Daarbij worden twee datasets 
+gebruikt die eigendom zijn van opdrachtnemer en subcontractor. Deze 
+opdracht borduurt voort op eerder uitgevoerd onderzoek en ontwikkeling 
+van een dialectherkenningssysteem voor Arabische dialecten. De 
+uitsluitende rechten van de onderzoeker dienen beschermd te worden. Er 
+bestaat geen redelijk alternatief of substituut wegens de volgende redenen: - 
+Er is geen andere methode bekend naast Y-ACCDIST-Arabic die specifiek 
+is ontwikkeld voor fijnmazige dialectherkenning van de Arabische taal en 
+voor toepassing in het forensische domein. - Er zijn twee Arabische datasets 
+in eigendom van de opdrachtnemer en subcontractor die specifiek 
+geprepareerd zijn voor analyse door Y-ACCDIST-Arabic. - Er is geen 
+andere methode bekend naast Y-ACCDIST die zo weinig trainingsdata voor 
+ieder dialect nodig heeft. - Er is geen andere methode bekend die de 
+akoestiek van elke klank analyseert voor dialectherkenning en inzichtelijk 
+kan maken hoe sterk elke klank heeft bijgedragen aan het resultaat van een 
+analyse.
+6.1 ID resultaat perceel: LOT-0000
+Er is ten minste één winnaar gekozen.
+6.1.2 Informatie over winnaars
+Winnaar:
+Officiële naam: Lancaster University
+Inschrijving:
+Identificatiecode van de 
+inschrijving: 1
+Identificatiecode van 
+het perceel of de groep 
+percelen: 
+LOT-0000
+Waarde van de 
+aanbesteding: 950 000 Euro
+De inschrijving is 
+gerangschikt: neen
+De inschrijving is een 
+variant: neen
+Onderaanneming: Neen
+Informatie over het contract:
+Identificatiecode van 
+het contract: CON-0001
+Titel: P1 Wetenschappelijk onderzoek en doorontwikkeling 
+dialectherkenningssysteem Arabische dialecten
+Datum van sluiting van 
+het contract: 11/03/2025
+Organisatie die het 
+contract ondertekent: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+6.1.4 Statistische informatie
+Samenvatting van de door de koper ontvangen beroepen:
+Aantal klagers: 0
+Ontvangen inschrijvingen of verzoeken tot deelname:
+Type van de ontvangen 
+inschrijvingen: Inschrijvingen van micro-, kleine en middelgrote inschrijvers
+Aantal ontvangen 
+inschrijvingen of 
+verzoeken tot deelname
+: 
+0
+Type van de ontvangen 
+inschrijvingen: Inschrijvingen
+Aantal ontvangen 
+inschrijvingen of 
+verzoeken tot deelname
+: 
+1
+8. Organisaties
+8.1 ORG-0001
+Officiële naam: Inkoop Uitvoeringscentrum Dienst Justitiële Inrichtingen (IUC DJI)
+Registratienummer: 3814225
+Postadres: Bezuidenhoutseweg 20  
+Stad: Den Haag
+Postcode: 2594 AV
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage (NL361)
+Land: Nederland
+Contactpunt: IUC DJI Team EA
+E-mail: ienea@dji.minjus.nl
+Telefoon: +31 880754321
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Postadres: Turfmarkt 147  
+Stad: Den Haag
+Postcode: 2500 EH
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage (NL361)
+Land: Nederland
+E-mail: klachtenmeldpunt.ea@minjenv.nl
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Klachtenmeldpunt Europees Aanbesteden Justitie en Veiligheid
+Postadres: Turfmarkt 147  
+Stad: Den Haag
+Postcode: 2500 EH
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage (NL361)
+Land: Nederland
+E-mail: klachtenmeldpunt.ea@minjenv.nl
+Internetadres: http://www.dji.nl
+Andere contactpunten:
+Officiële naam: Rechtbank Den Haag
+Postadres: Prins Clauslaan 60  
+Stad: Den Haag
+Postcode: 2595 AJ
+Onderverdeling land 
+(NUTS): Agglomeratie ’s-Gravenhage (NL361)
+Land: Nederland
+E-mail: ienea@dji.minjus.nl
+Internetadres: http://www.dji.nl
+Rollen van deze organisatie:
+Koper
+Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt
+Organisatie voor beroepsprocedures
+Organisatie die meer informatie geeft over beroepsprocedures
+Bemiddelingsorganisatie
+Organisatie die het contract ondertekent
+8.1 ORG-0002
+Officiële naam: Lancaster University
+Omvang van de 
+ondernemer: Groot
+Registratienummer: 0000-1678787947
+Postadres: Bailrigg 1  
+Stad: Lancaster
+Postcode: LA1 4YW
+Land: Verenigd Koninkrijk
+Internetadres: https://www.lancaster.ac.uk
+Rollen van deze organisatie:
+Inschrijver
+Winnaar van deze 
+percelen: LOT-0000
+Informatie over een aankondiging
+Identificatiecode/versie 
+van de aankondiging: fad3befe-a996-4830-8cad-bab202c1093d - 01
+Type formulier: Resultaat
+Type aankondiging: Aankondiging van een gegunde opdracht of concessie – standaardregeling
+Verzenddatum van de 
+aankondiging: 07/04/2025 09:15 +02:00
+Talen waarin deze 
+aankondiging officieel 
+beschikbaar is: 
+Nederlands
