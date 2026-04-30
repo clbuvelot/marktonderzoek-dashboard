@@ -1,0 +1,1632 @@
+=== Document: beschrijvend document it market reasearch 2022 080 fit-it 1.0 ===
+2022/080/FIT-IT Independent Market Research & IT advice 1 / 28 
+ 
+  
+ 
+ 
+ 
+ 
+  
+Instituut/Dienst Faciliteiten en Informatietechnologie 
+Opleiding/Afdeling Inkoop & Contractmanagement 
+Opdrachtgever Anjo van Kelckhoven  
+Auteur(s) Maria van der Bruggen 
+Functie auteur(s) Adviseur Inkoop 
+Datum 15 september 2022 
+Versie 1.0 Final 
+BESCHRIJVEND DOCUMENT 
+EUROPESE OPENBARE 
+AANBESTEDING 
+INDEPENDENT MARKET 
+RESEARCH & IT ADVICE 
+ 
+ 
+ 
+REFERENTIENUMMER 2022/080/FIT-IT 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 2 / 28 
+ 
+ 
+Inhoud 
+BIJLAGEN 5 
+1. Inleiding 6 
+2. Doel, onderwerp en omvang van de aanbesteding 7 
+2.1. Hogeschool Rotterdam 7 
+2.2. Faciliteiten en Informatietechnologie 7 
+2.3. Onderwerp van de opdracht en omvang van de aanbesteding 8 
+2.3.1. Samenvoeging van opdrachten 8 
+2.3.2. Percelen 8 
+2.4. De opdracht 8 
+3. Planning, procedure en gunnings- en beoordelingssystematiek 11 
+3.1. Algemene informatie 11 
+3.1.1. Contactpersoon 11 
+3.1.2. Elektronisch aanbesteden 11 
+3.2. Openbare aanbestedingsprocedure 11 
+3.3. Planning 11 
+3.4. Vragenronde 12 
+3.5. Indienen van de Inschrijving: vormvereisten 13 
+3.6. Selectieonderzoek 13 
+3.6.1. Toets op compleetheid 13 
+3.6.2. Controle op de Uitsluitingsgronden en Geschiktheidseisen 14 
+3.6.3. Beoordeling van het Programma van Eisen 14 
+3.6.4. Klaarblijkelijke fouten (herstel van verzuim) 14 
+3.6.5. Gebrekkige Inschrijving (herstel van gebreken) 14 
+3.7. Gunning en beoordelingssystematiek 14 
+3.7.1. Gunningcriterium 14 
+3.7.2. Beoordeling van het element ‘Prijs’ 15 
+3.7.3. Beoordeling van het element ‘Kwaliteit’ (Programma van Wensen) 15 
+3.8. Resultaat van beoordeling en gunningsadvies 16 
+3.9. Voorlopige gunningsbeslissing 17 
+3.10. Opschortende termijn (stand-stilltermijn) 17 
+3.11. Controle van bewijsstukken na voorlopige gunning 18 
+3.12. Voorbehoud van beslissing stopzetten aanbesteding 18 
+3.13. Randvoorwaarden 18 
+3.13.1. Eenmaal inschrijven 18 
+3.13.2. Irreële of manipulatieve Inschrijving 19 
+3.13.3. Vertrouwelijkheid en communicatieverbod 19 
+3.13.4. Taal 19 
+3.13.5. Bedragen 19 
+3.13.6. Gestanddoeningstermijn 19 
+3.13.7. Rechten ontlenen aan gegevens 20 
+3.13.8. Intellectueel eigendom 20 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 3 / 28 
+ 
+3.13.9. Geheimhouding 20 
+3.13.10. Tegenstrijdigheden en/of onregelmatigheden 20 
+3.13.11. Klachtenregeling 20 
+4. Uitsluitingsgronden en Geschiktheidseisen 22 
+4.1.1. A. Geschiktheid 22 
+4.1.2. B. Economische en financiële draagkracht 23 
+4.1.3. C. Technische en beroepsbekwaamheid 24 
+4.1.4. D. Kwaliteitsborgingsregelingen en normen inzake milieubeheer 25 
+5. Programma van Eisen 26 
+5.1. Specifieke eisen met betrekking tot het voorwerp van aanbesteding 26 
+5.2. Raamovereenkomst en inkoopvoorwaarden 26 
+5.2.1. Concept Raamovereenkomst en Algemene Inkoopvoorwaarden 26 
+5.3. Wachtkamerconstructie 26 
+5.4. Verwerkersovereenkomst - Privacy en gegevensbescherming 27 
+5.5. Contractmanagement 27 
+6. Programma van Wensen (subgunningscriteria) 28 
+7. Prijs 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 4 / 28 
+ 
+BEGRIPPEN  
+In deze aanbesteding worden de volgende definities gehanteerd, gebaseerd op de gewijzigde 
+aanbestedingswet 2012: 
+ 
+ Aw 2012 Aanbestedingswet 2012, waarmee Nederland invulling geeft aan de 
+Europese richtlijnen voor aanbesteden. 
+Beschrijvend Document De uitnodiging tot inschrijving inclusief de bijlagen welke ten behoeve van 
+de aanbestedingsprocedure is opgesteld. 
+Bijlage Een document dat bij dit Beschrijvend Document is gevoegd. Een Bijlage is 
+onlosmakelijk onderdeel van deze Beschrijvend Document. 
+Geschiktheidseisen Eisen die worden gebruikt om de geschiktheid van een Inschrijver te 
+beoordelen, zoals genoemd in § 2.3.6.1 Aw 2012/ artikel 2.13 ev. ARW 
+2016 en zoals door de aanbestedende dienst van toepassing verklaard in 
+hoofdstuk 4 van dit Beschrijvend Document. 
+Inschrijver(s) De organisatie (of een combinatie van organisaties) die een Inschrijving 
+indient op basis van dit Beschrijvend Document, of voornemens is een 
+Inschrijving in te dienen. 
+Inschrijving De door een Inschrijver tijdig ingediende aanbieding op basis van dit 
+Beschrijvend Document. 
+Nota van inlichtingen Document waarin de geanonimiseerde vragen van (potentiële) Inschrijvers 
+en geanonimiseerde antwoorden van de aanbestedende dienst zijn 
+opgenomen, evenals eventuele wijzigingen van dit Beschrijvend 
+Document. 
+Opdracht De door opdrachtnemer op basis van de Raamovereenkomst te verlenen 
+diensten/leveringen/werken, te verrichten werkzaamheden en in dat kader 
+te leveren prestaties.  
+Raamovereenkomst Contract tussen de aanbestedende dienst en de Inschrijver aan wie de 
+Opdracht gegund is waarin de voorwaarden betreffende de Opdracht zijn 
+vastgelegd. 
+UEA Uniform Europees Aanbestedingsdocument, zoals nader uitgewerkt in de 
+Aw 2012 en bijgevoegd in Bijlage UEA bij dit Beschrijvend Document. 
+Uitsluitingsgronden De gronden van uitsluiting zoals genoemd in artikel 2.86 en 2.87 Aw 2012/ 
+2.13 ARW 2016 en zoals door de aanbestedende dienst van toepassing 
+verklaard in hoofdstuk 4 van dit Beschrijvend Document. 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 5 / 28 
+ 
+BIJLAGEN 
+Aan dit Beschrijvend Document zijn de volgende Bijlagen toegevoegd. 
+ 
+ UEA-formulier (PDF) 
+1 Programma van Eisen 
+2 Kennisgebieden 
+3 Referenties 
+4 Programma van Wensen 
+5 Prijzenblad 
+6 Concept Raamovereenkomst 
+7 ARBIT_2018-mei2018 
+8 Concept Verwerkersovereenkomst  
+9 Concept Wachtkamerovereenkomst 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 6 / 28 
+ 
+1. Inleiding 
+De aanbestedende dienst is de rechtspersoon Hogeschool Rotterdam met al aan haar gelieerde 
+onderdelen (hierna: Hogeschool Rotterdam en/of aanbestedende dienst en/of Opdrachtgever) is 
+conform de begripsbepalingen van artikel 1.1 van de Aanbestedingswet 2012 (laatstelijk gewijzigd in 
+2016, Stb 241) (hierna te noemen: Aanbestedingswet) een publiekrechtelijke instelling. Als zodanig is 
+Hogeschool Rotterdam verplicht haar inkopen met een geraamde contractwaarde die de geldende 
+Europese drempelbedragen overschrijdt, Europees aan te besteden conform de Aanbestedingswet), 
+het Aanbestedingsbesluit (laatstelijk gewijzigd in 2016, Stb 242) (hierna te noemen: 
+Aanbestedingsbesluit) en de Gids Proportionaliteit en Aanbestedingsreglement Werken 2016. 
+ 
+Meer informatie over de Hogeschool Rotterdam is terug te vinden via de website van Hogeschool 
+Rotterdam op www.hogeschoolrotterdam.nl/hogeschool/over-ons/ 
+ 
+De doelstelling van deze aanbestedingsprocedure is door gunning een Raamovereenkomst te sluiten 
+met één leverancier voor Independent market reseach & IT advice. Dit Beschrijvend Document 
+beschrijft alle relevante aspecten van deze Europese openbare aanbestedingsprocedure. 
+ 
+Hoofdstuk 2 geeft inzicht in het doel, het voorwerp en de omvang van de aanbesteding. De te volgen 
+procedure en de planning zijn in hoofdstuk 3 beschreven evenals de gunning en 
+beoordelingssystematiek.  
+Hoofdstuk 4 gaat in op de selectiecriteria en behandelt de Uitsluitingsgronden en de 
+Geschiktheidseisen voor Inschrijvers. Hoofdstuk 5 gaat in op de aanvullende voorwaarden met 
+betrekking tot de opdracht (Programma van Eisen).  
+Met het oog op de gunningbeslissing en de uiteindelijke contractsluiting komt in hoofdstuk 6 het 
+Programma van Wensen aan bod dat ingaat op de kwaliteitsaspecten van de aanbesteding, a ls 
+onderdeel van het gunningcriterium ‘Beste prijs -kwaliteitverhouding’. Hoofdstuk 7 is gewijd aan het 
+element ‘Prijs’ als onderdeel van het gunningcriterium. 
+ 
+Met het oog op de gunningbeslissing en de uiteindelijke contractsluiting komt in hoofdstuk 6 het 
+element ‘Prijs’ van het gunningcriterium aan de orde.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 7 / 28 
+ 
+2. Doel, onderwerp en omvang van de aanbesteding 
+Dit hoofdstuk geeft een beknopte beschrijving van de aanbestedende dienst, het doel, het voorwerp 
+en de omvang van de aanbesteding. Daarnaast wordt ingegaan op de projectorganisatie en volgt een 
+beschrijving van de huidige- en beoogde situatie van de dienstverlening. 
+ 
+Alvorens op deze onderwerpen in te gaan, benadrukt Hogeschool Rotterdam dat zij veel waarde hecht 
+aan Maatschappelijk Verantwoord Ondernemen en hanteert daartoe de volgende beginselverklaring: 
+ 
+“Hogeschool Rotterdam heeft Maatschappelijk Verantwoord Ondernemen (MVO) hoog in het vaandel 
+staan en onderschrijft daarom de OESO-richtlijnen voor Multinationale Ondernemingen (versie 2011). 
+Deze bieden richtlijnen voor bedrijven om met kwesties om te gaan als: ketenverantwoordelijkheid, 
+mensenrechten, kinderarbeid, milieu en corruptie. Hogeschool Rotterdam verwacht van haar 
+leveranciers dat zij deze richtlijnen respecteren.” 
+2.1. Hogeschool Rotterdam 
+Bij Hogeschool Rotterdam studeren ruim 45000 studenten en zijn meer dan 4500 medewerkers 
+werkzaam. Het opleidingsassortiment bestaat uit een breed aanbod in alle onderwij ssectoren, met 
+uitzondering van de agrarische sector. Het onderwijs is nauw verweven met de grootstedelijke 
+ontwikkelingen in de regio Rotterdam. 
+ 
+Onze opdracht 
+We leiden elke student op tot een professional die een waardevolle bijdrage levert aan de maatschappij. 
+Dat doen we in Rotterdam, een internationale en grootstedelijke context. In alles wat wij doen gaan we 
+uit van gelijkwaardigheid, bevorderen we wederzijds respect en werken we emancipatiegericht. 
+ 
+Onze visie 
+Elke student verdient het best mogelijk hoger beroepsonderwijs. Onderwijs waarbij de student gez ien 
+en gekend wordt, gelijke kansen krijgt en wordt uitgedaagd het beste uit zichzelf te halen. Het 
+docententeam maakt het verschil. Docenten, onderzoekers en professionals uit het werkveld leren met 
+en van elkaar om de student van actueel en uitdagend ond erwijs te voorzien.  Met een diploma van 
+Hogeschool Rotterdam is elke student klaar voor de wereld van morgen.  
+ 
+Voor meer informatie verwijst Hogeschool Rotterdam naar 
+www.hogeschoolrotterdam.nl/hogeschool/over-ons/ 
+2.2. Faciliteiten en Informatietechnologie 
+Hogeschool Rotterdam is opdrachtgever voor deze aanbesteding. De Opdracht wordt hoofdzakelijk 
+uitgevoerd ten behoeve van Faciliteiten en Informatietechnologie,  
+ 
+Faciliteiten en Informatietechnologie (FIT) ondersteunt de kernactiviteiten van Hogeschool Rotterdam 
+door het proactief en tijdig leveren van kwalitatief hoogwaardige facilitaire - en ICT-diensten tegen zo 
+laag mogelijke kosten aan de instituten en de diensten van Hogeschool Rotter dam. De wensen en 
+behoeften van de klant zijn daarbij het uitgangspunt. In een economie waarbij de focus op beleving en 
+klantgerichtheid steeds belangrijker wordt in de aankoopbeslissing, is FIT van mening dat deze factoren 
+een essentieel onderdeel van de dienstverlening dienen te zijn. Onze dienstverlening vormt de basis 
+voor een plezierige, effici ënte en veilige werk - en studieomgeving waarin studenten en medewerkers 
+zichzelf kunnen overtreffen, doordat ze zich welkom en thuis voelen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 8 / 28 
+ 
+2.3. Onderwerp van de opdracht en omvang van de aanbesteding 
+ 
+Hogeschool Rotterdam staat voor een aantal technologische grootschalige veranderingen. Er zijn op 
+het gebied van ICT vele vragen over diverse ontwikkelingen. Er wordt gezocht naar: templates, RFP’s 
+rekenmodellen kaders, benchmarks, inzicht in nieuwe technologieën en technologische consultaties. 
+Er is behoefte om op strategisch en tactisch niveau technologische, organisatorische en financiële 
+ontwikkel- en innovatieve vraagstukken neer te leggen en gevoed te worden met kennis en informatie 
+op het gebied van het ICT-vakgebied en marktanalyses, alvorens instellingen strategische ICT-keuzes 
+kunnen maken.  
+ 
+Omvang 
+De omvang van de Opdracht in waarde en hoeveelheden is een schatting en is gebaseerd op de 
+afname over een periode van vier (4) jaar, zijnde een raamovereenkomst.  
+ 
+De verwachte waarde van de Opdracht in euro’s is € 200.000, - voor de initiële looptijd van 4 jaar. 
+ 
+Het resultaat van deze Europese aanbesteding is een ondertekende Raamovereenkomst met één partij 
+voor uitvoering van de Opdracht. Deze Raamovereenkomst zal worden aangegaan voor 4 jaar met een 
+verlengingsoptie van 2 keer maximaal 24 maanden. De verwachte ingangsdatum is 01-01-2023*. 
+ 
+Aan deze opgave kunnen geen rechten ontleend worden. Met het oog op politieke, economische, 
+budgettaire, organisatorische en/of bestuurlijke ontwikkelingen en de hiermee samenhangende groei 
+en krimp van H ogeschool Rotterdam is het mogelijk dat het aantal locaties en andere specificaties 
+waarop de Raamovereenkomst betrekking heeft kan uitbreiden, krimpen of wijzigen. Deze 
+ontwikkelingen kunnen van invloed zijn op de omvang van de Raamovereenkomst. Inschrijvers dienen 
+hiermee rekening te houden. 
+2.3.1. Samenvoeging van opdrachten 
+ 
+Er is bij deze Opdracht geen sprake van samenvoeging van opdrachten.  
+2.3.2. Percelen 
+ 
+De Opdracht is niet onderverdeeld in Percelen. De Aanbestedende dienst vindt het opdelen van de 
+Opdracht in Percelen niet passend, omdat de schaalvoordelen niet dan wel in onvoldoende mate bereikt 
+kunnen worden. Het feit dat de onderdelen van de Opdracht gelijksoortig zijn, logisch samenhangend 
+en onlosmakelijk met elkaar verbonden, is indeling in Percelen niet wenselijk. Eveneens worden er geen 
+wezenlijk andere expertises gevergd die alsnog verdeling van de Opdracht in Percelen noodzakelijk 
+maakt.  
+ 
+Een andere mogelijkheid om de Opdracht in Percelen te verdelen, is het overgaan tot geografische 
+opsplitsing of opsplitsing (bijvoorbeeld WO, HBO of MBO). Dergelijke wijzen van onderverdeling dienen 
+geen nut. Dit zou kostenverhogend werken en meer leveranc iers- en contractmanagement vereisen, 
+zonder dat hiervoor een rechtvaardiging bestaat.  
+2.4. De opdracht 
+ 
+Binnen deze aanbesteding, heeft Hogeschool Rotterdam tot doel het contracteren van één 
+dienstverlener, die een bijdrage levert aan het bereiken van de volgende doelen:  
+ 
+1. Breed en diepgaand marktinzicht: Het verschaffen van inzicht in de huidige en toekomstige 
+markt (ontwikkelingen) op een breed aantal kennisgebieden, en het diepgaand bieden van 
+(technisch) advies op deze kennisgebieden. Denk daarbij aan best practices, implementatie 
+guidelines, de impact van (markt)ontwikkelingen op strategische keuzes in relatie tot de 
+sector(en) waarin Hogeschool Rotterdam zich bevindt.  
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 9 / 28 
+ 
+2. Klantgedreven - Pro-actief informatie verstrekken over ontwikkelingen die relevant kunnen zijn 
+voor Hogeschool Rotterdam. Beschikbaarheid van experts voor consultering over specifieke 
+onderzoeks,- educatie,- en/of IT-projecten en/of doelstellingen die Hogeschool Rotterdam 
+heeft binnen zijn IT-strategie. Bijdragen aan het verder professionaliseren en verbeteren van 
+deze projecten en strategieën van (Gebruikers van) Hogeschool Rotterdam.  
+ 
+3. Gebruikersvriendelijk - Op een laagdrempelige wijze toegang faciliteren tot een zo breed 
+mogelijk scala aan informatie en onderzoek voor Gebruikers van Hogeschool Rotterdam;  
+ 
+4. Verbinden – Toegang bieden tot een netwerk van analisten, klanten en andere stakeholders 
+op IT-gebied, bijvoorbeeld op basis van seminars en congressen, zodat de leereffecten bij 
+Hogeschool Rotterdam worden gemaximaliseerd.  
+ 
+5. Waarde voor € – Een Inschrijver die maximale waarde biedt voor haar tarieven. Zowel voor 
+Gebruikers met toegang tot de basis dienstverlening als voor Gebruikers met toegang tot de 
+plus dienstverlening.  
+ 
+In Bijlage 2 vindt u een overzicht van de gevraagde kennisgebieden/onderwerpen waar de gevraagde 
+dienstverlening betrekking op heeft. U dient in deze onderwerpen te kunnen voorzien, door het 
+leveren van Independent Market Research & IT Advice bestaande uit onderstaande dienstverlening: 
+ 
+1. Dienstverlening - BASIS  
+a) Toegang tot een database voor Deelnemer en haar Gebruikers voor genoemde niet 
+limitatieve lijst aan producten:  
+  - Templates;  
+  - RFP’s;  
+  - Rekenmodellen;  
+  - Onderzoeksrapporten;  
+  - Productstrategieën van leveranciers en fabrikanten;  
+  - Nieuwe leveranciers en technologieën;  
+  - Positie van leveranciers in de markt;  
+  - Productvergelijkingen aan de hand van End user case studies en Lessons  
+    learned/best practices;  
+  - Toolkit;  
+  - Benchmarks (inhoudelijk en financieel);  
+  - Trends en ontwikkelingen op de ICT-markt. 
+b) Bieden van ondersteuning bij het vinden van informatie. 
+c) Ondersteuning tijdens kantooruren Nederlandse tijd.  
+ 
+2. Dienstverlening - PLUS  
+a) Dienstverlening BASIS; 
+b) Advies:  
+- Het via telefoon of mail toegang hebben tot analisten/ calls met experts van 
+informatie en  onderzoeksrapporten voor overleg over de toepassing of 
+interpretatie van het rapport en het stellen van verdiepende vragen. Analisten 
+en/of experts verstrekken samenvatting van het gegeven advies op schrift.  
+c) Adviseren over hoe bepaalde ICT-ontwikkelingen passen bij Hogeschool Rotterdam;  
+d) Toegang tot communities. 
+ 
+NB: De diensten genoemd onder b, c en d zien op dienstverlening in het kader van Dienstverlening 
+BASIS, en vloeien hieruit voort. Dit betekent dat indien de dienstverlening niet voortvloeit uit 
+Dienstverlening BASIS, Hogeschool Rotterdam deze ook kan afnemen bij andere marktpartijen. 
+Hierbij kan worden gedacht aan toegang tot andere communities, of advies over ICT-ontwikkelingen.  
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 10 / 28 
+ 
+ 
+ 
+3. Dienstverlening – EXTRA. Denk hierbij bijvoorbeeld aan:  
+a) Bieden van de mogelijkheid en evenementen bij te kunnen wonen;  
+b) Bieden van de mogelijkheid om seminars bij te wonen;  
+c) Bieden van de mogelijkheid om webinars bij te wonen;  
+d) Video on demand;  
+e) Bieden van thematische bijeenkomsten;  
+f) Bieden van workshops.  
+ 
+Ten aanzien van Dienstverlening EXTRA, is dit door de aard van de dienstverlening - een optionele 
+dienst. Deze kan door Hogeschool Rotterdam ook bij andere marktpartijen worden afgenomen. 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 11 / 28 
+ 
+3. Planning, procedure en gunnings- en beoordelingssystematiek 
+Dit hoofdstuk geeft een uiteenzetting van de aanbestedingsprocedure en de tijdsplanning.  
+Daarnaast wordt de gunnings- en beoordelingssystematiek toegelicht zoals geldt voor onderhavige 
+Europese aanbesteding.  
+3.1. Algemene informatie 
+3.1.1.  Contactpersoon 
+De contactpersoon voor deze aanbesteding is de inkoopadviseur van de directie Faciliteiten en 
+Informatietechnologie:  
+ 
+Faciliteiten en Informatietechnologie 
+Afdeling Inkoop & Contractmanagement 
+Maria van der Bruggen - inkoopadviseur 
+Tel: 06-48797892 
+Email: via de berichtenmodule van TenderNed. 
+ 
+Indien TenderNed als gevolg van een technische storing buiten gebruik is, kunt u bovengenoemde 
+contactpersoon van de aanbestedende dienst bereiken via inkoop@hr.nl. 
+ 
+3.1.2. Elektronisch aanbesteden 
+ 
+Deze aanbesteding wordt volledig digitaal uitgevoerd via het TenderNed platform. Dat houdt in dat alle 
+communicatie en informatie-uitwisseling tussen de aanbestedende dienst en de markt elektronisch 
+plaatsvindt. De aanbestedende dienst kondigt er de Opdracht aan, stelt er de aanbestedingsstukken 
+beschikbaar, communiceert er in de inlichtingen- en besluitvormingsfase en kondigt er de Opdracht af. 
+In het geval elektronische communicatie niet wenselijk is, bijvoorbeeld in het geval van een schouw of 
+presentatie, zal het verslag ervan aansluitend via TenderNed beschikbaar wordt gesteld. 
+ 
+Inschrijvers dienen gebruik te maken van het TenderNed platform voor het verkrijgen van informatie, 
+het stellen van vragen en het indienen van de Inschrijving. De Inschrijver is verantwoordelijk voor het 
+bijhouden van TenderNed alsmede het aanvragen en downloaden van de relevante documenten. 
+ 
+Voor meer informatie over het digitaal inschrijven verwijst de aanbestedende dienst u naar 
+www.tenderned.nl. 
+ 
+3.2. Openbare aanbestedingsprocedure 
+De openbare procedure is een aanbestedingsprocedure in één ronde. De aanbesteding wordt algemeen 
+bekend gemaakt. Iedere geïnteresseerde aanbieder kan direct inschrijven. De aanbestedende dienst 
+mag bepalen dat enkel Inschrijvers die aan de door hem gestelde Geschiktheidseisen voldoen, voor 
+verlening van de opdracht in aanmerking komen. Gunnin g geschiedt op basis van de Inschrijving. De 
+aanbestedende dienst mag niet met Inschrijvers onderhandelen over de ingediende Inschrijvingen 
+3.3. Planning 
+De aanbestedende dienst heeft onderstaande indicatieve planning vastgesteld. Deze planning is onder 
+voorbehoud. U kunt geen rechten ontlenen aan deze planning. De aanbestedende dienst behoudt zich 
+het recht voor om de planning aan te passen.  In het geval de aanbestedende dienst  overgaat tot 
+wijziging van de beoogde planning, wordt dit naar alle betrokkenen gecommuniceerd. 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 12 / 28 
+ 
+ONDERDEEL DATUM 
+Aankondiging op TenderNed 19 september 2022 
+Sluitingsdatum indienen van vragen NvI 1 7 oktober 2022 voor 12:00 
+Publicatie Nota van inlichtingen 1 12 oktober 2022 
+Indienen Inschrijving 4 november 2022 uiterlijk 15.00 uur 
+Beoordeling “wensen” afgerond 9 november 2022 
+Afstemmingssessie beoordeling “wensen”  10 november 2022 
+Bekendmaking resultaat beoordeling 14 november 2022 
+Voorlopige gunning 14 november 2022 
+Verificatie UEA afgerond 29 november 2022 
+Bezwaartermijn  5 december 2022 
+Definitieve gunning 6 december 2022  
+Overeenkomst gereed  15 december 2022 
+Start dienstverlening 01 januari 2023* 
+ 
+ 
+Ons huidige contract heeft een looptijd tot 31-3-2023. Afhankelijk met welke Inschrijver we verder 
+gaan zal ingangsdatum nader bepaald worden, i.v.m. de integratie van de huidige mediatheek en 
+opzegging huidig contract.  
+ 
+Met het publiceren van de aankondiging, via www.tenderned.nl ter publicatie in het supplement op het 
+publicatieblad van de Europese Unie, is de aanbestedingsprocedure formeel van start gegaan. 
+Aan deze planning kunt u geen rechten ontlenen. Van planningswijzigingen word t u via TenderNed op 
+de hoogte gesteld. 
+3.4. Vragenronde 
+De Inschrijvers kunnen toelichtende vragen stellen over de inhoud van het Beschrijvend Document en 
+de bijlagen. Ook over de gegeven motiveringen in het Beschrijvend Document en eventuele 
+tegenstrijdigheden kunnen vragen worden gesteld. Voor eventuele vragen of opmerkingen over de 
+aanbestedingsstukken verzoekt de aanbestedende dienst de Inschrijver gebruik te maken van het 
+dashboard van TenderNed ‘Vraag&Antwoorden’. U wordt verzocht niet te wachten tot het laatste 
+moment voor het indienen van vragen. Vragen kunnen op verschillende momenten worden 
+beantwoord tijdens de Nota van inlichtingen fase. 
+ 
+In het geval een samenwerkingsverband, bedoeld in § ‘Samenwerkingsverband of beroep op een 
+derde/derden’ in hoofdstuk 4, inschrijft, worden de toelichtende vragen door de penvoerder als formele 
+Inschrijver gesteld en ingediend.  
+ 
+De ingediende vragen worden geanonimiseerd, beantwoording van de ingediende vragen geschiedt in 
+de Nota van inlichtingen. Als daarvoor aanleiding is, kan de aanbestedende dienst b esluiten één of 
+meer extra vragenronde(s) in te lassen. De Nota(s) van inlichtingen maakt (maken) integraal onderdeel 
+uit van de aanbesteding(sdocumenten) en prevaleren boven dit Beschrijvend Document. In geval van 
+strijdigheid, prevaleert het bepaalde in de meest recente Nota van inlichtingen. 
+ 
+Mondelinge toezeggingen of afspraken hebben geen rechtskracht, tenzij deze schriftelijk zijn bevestigd 
+in de Nota van inlichtingen. 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 13 / 28 
+ 
+ 
+3.5. Indienen van de Inschrijving: vormvereisten 
+Indiening van verlangde stukken en informatiewisseling geschiedt geheel digitaal met gebruikmaking 
+van TenderNed. Inschrijvingen die (ook) in papieren vorm worden ingediend, worden ongeopend 
+geretourneerd aan de Inschrijver. Zodanig ingediende stukken worden geacht niet te zijn ingediend.  
+De Inschrijving dient volledig en rechtsgeldig te zijn: alle gevraagde bewijsstukken en andere informatie 
+moet zijn bijgesloten . Daarnaast verzoekt  de aanbestedende dienst  Inschrijver om alle in dit 
+Beschrijvend Document vermelde vragen te beantwoorden. 
+ 
+De Inschrijving dient uiterlijk op de, in de planning aangegeven, sluitingsdatum te worden geüpload in 
+TenderNed. Tot dat moment kan de Inschrijver zijn Inschrijving wijzigen, aanvullen en vervolmaken. 
+Vanaf dit moment is de Inschrijving voor de Inschrijver gesloten en kan de aanbestedende dienst (de 
+stukken van) de Inschrijving openen. Te laat ontvangen Inschrijvingen zijn uitgesloten van verdere 
+deelname.  
+ 
+In het geval van een algemene storing van TenderNed op het moment van of nabij de sluitingstermijn, 
+behoudt de aanbestedende dienst zich het recht voor de sluitingstermijn op te schuiven zolang de 
+kluis met Inschrijvingen nog niet is geopend, ook als de sluitingstermijn gepasseerd is.  
+3.6. Selectieonderzoek 
+ 
+3.6.1. Toets op compleetheid 
+Eerst beoordeelt aanbestedende dienst of de ingediende Inschrijvingen compleet zijn. De 
+selectiecommissie verifieert of de geüploade documenten en voorgeschreven formats volledig en 
+volgens de geldende procedure zijn ingediend. 
+ 
+Volledigheid van de Inschrijving wordt getoetst aan de hand van onderstaand overzicht. 
+Tenaamstelling Omschrijving Format 
+101 Inschrijver Kvk.pdf KvK uittreksel(s) en eventuele volmacht(en) (indien 
+rechtsgeldige ondertekening niet blijkt uit het KvK 
+uittreksel). 
+n.v.t. 
+102 Inschrijver UEA.pdf UEA Bijlage PDF 
+103 Inschrijver Referentie  Referentie(s) Bijlage 3 
+104 Programma van Eisen Beantwoording van Eisen Bijlage 1 
+104 Inschrijver Programma van 
+Wensen (subgunnuingscriteria) 
+Beantwoording van wensen  Vrij (zie 
+Bijlage 4) 
+105 Inschrijver Prijzenblad excel en 
+PDF 
+Ingevuld en ondertekend prijzenblad (Excel en PDF) Bijlage 5 
+ 
+Alle correspondentie en documenten in het kader van deze aanbesteding dienen voorzien te zijn van 
+de naam van uw organisatie (of samenwerkingsverband) en van referentienummer 2022/080/FIT-IT. 
+ 
+- Het is niet toegestaan vaste teksten en indelingen in formulieren en Bijlagen te wijzigen. 
+- Hogeschool Rotterdam verzoekt u de tenaamstelling, zoals voorgesteld in de tabel aan te houden.  
+Bij [Inschrijver] dient u de naam van uw onderneming (of samenwerkingsverband) te vermelden. 
+- Daar waar om bewijsstukken of andere informatie wordt gevraagd, voegt u het betreffende stuk toe 
+met een eenduidige verwijzing naar de Bijlage waarvoor het stuk als bewijs dient. 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 14 / 28 
+ 
+3.6.2. Controle op de Uitsluitingsgronden en Geschiktheidseisen 
+Vervolgens controleert de aanbestedende dienst of de Inschrijver voldoet aan het gestelde in 
+hoofdstuk 4 ‘Uitsluitingsgronden en Geschiktheidseisen’. Indien er één of meerdere 
+Uitsluitingsgronden van toepassing zijn en de aanbestedende dienst niet besluit af te zien van 
+uitsluiting, en/of indien uw organisatie niet aan één of meerdere Geschiktheidseisen voldoet, leidt dit 
+tot uitsluiting van verdere deelname aan de aanbesteding. 
+ 
+3.6.3. Beoordeling van het Programma van Eisen 
+Vervolgens beoordeelt de aanbestedende dienst of de Inschrijver voldoet aan het gestelde in 
+hoofdstuk 5 ‘Programma van Eisen’. Indien de Inschrijving niet aan één of meerdere van deze eisen 
+kan voldoen of indien u één of meerdere van deze eisen voorwaardelijk heeft beantwoord, leidt dit tot 
+uitsluiting van verdere deelname aan de aanbesteding en komt dus niet in aanmerking voor verdere 
+beoordeling. 
+ 
+3.6.4. Klaarblijkelijke fouten (herstel van verzuim) 
+Na opening van de Inschrijving behoudt de aanbestedende dienst zich het recht voor om 
+klaarblijkelijke misverstanden, overduidelijke omissies of onduidelijkheden, door de Inschrijver te laten 
+herstellen of toe te lichten. Het gaat hierbij om (kleine) gebreken in de Inschrijving die eenvoudig 
+hersteld kunnen worden. De Inschrijving mag hierdoor echter geen inhoudelijke wijziging ondergaan. 
+De Inschrijver zal hierop binnen de gestelde termijn alsnog moeten reageren. De aanvullingen en/of 
+verbeteringen als herstel van fouten maken vervolgens onlosmakelijk deel uit van de Inschrijving. Als 
+de gevraagde reactie niet, niet tijdig of niet volledig is verstrekt, leidt dit tot uitsluiting van verdere 
+deelname aan de aanbestedingsprocedure. 
+ 
+3.6.5. Gebrekkige Inschrijving (herstel van gebreken) 
+Uit het beginsel van gelijke behandeling volgt dat Inschrijvingen die niet voldoen aan de gestelde 
+vereisten zoals beschreven in deze Uitnodiging tot Inschrijving, niet in aanmerking genomen mogen 
+worden. Ontbreken van deze bestekconformiteit leidt in de regel tot de ongeldigheid of 
+onregelmatigheid van de Inschrijving. Hoewel de mogelijkheid tot herstel van een gebrek in de regel 
+zich niet verdraagt met dit beginsel, kan het ontbreken van bestekconformiteit onder omstandigheden 
+in redelijkheid tot herstel leiden, wanneer dit niet tot concurrentievervalsing zal leiden. Hierbij dient 
+onderscheid te worden gemaakt in: 
+• Gebreken door het niet voldoen aan inhoudelijke eisen;  
+• Gebreken van louter procedurele aard zoals een te late of onvolledige Inschrijving.  
+  
+Dergelijke gebrekkige Inschrijvingen komen in de regel niet voor gunning in aanmerking. Het 
+ontbreken van stukken, de incompleetheid en/of de onvolledigheid van invulling of verstrekking, het 
+niet voldoen aan de gestelde eisen e.d. leidt in de regel tot uitsluiting van verdere deelname. De 
+aanbestedende dienst is gehouden in beperkte mate gebruik te maken van de mogelijkheid van het 
+herstel van gebreken. 
+3.7. Gunning en beoordelingssystematiek  
+ 
+Deze paragraaf beschrijft het proces van totstandkoming van de gunningsbeslissing. Het gaat in op de 
+beoordelingssystematiek, de wijze van inhoudelijke beoordeling van de Inschrijvingen en de 
+mogelijkheden van puntentoekenning. 
+ 
+3.7.1. Gunningcriterium 
+De aanbestedende dienst gunt de opdracht op grond van het gunningscriterium ‘Beste prijs-
+kwaliteitverhouding’. 
+Hierbij geldt dat het element ‘Kwaliteit’ voor 80% meeweegt en het element ‘Prijs’ voor 20%. Het 
+maximale aantal te behalen punten voor ‘Kwaliteit’ en ‘Prijs’ is in totaal 1000 punten, met de volgende 
+onderverdeling, maximaal 700 punten voor ‘Kwaliteit’ en 300 punten voor ‘Prijs’. 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 15 / 28 
+ 
+3.7.2. Beoordeling van het element ‘Prijs’ 
+ 
+De volgende stap in de procedure is het beoordelen van het element ‘Prijs’. Dit geschiedt geheel 
+onafhankelijk van de beoordeling van het element ‘Kwaliteit’. De beoordeling van het element ‘Prijs’ 
+wordt uitgevoerd door de Inkoopadviseur en projectleider, zo nodig daarin ondersteund door een 
+specifiek financieel deskundige. 
+ 
+Voor het subgunningscriterium Prijs worden punten toegekend op basis van de opgegeven prijzen op 
+het prijzenblad (Bijlage 5).  
+ 
+De aanbestedende dienst beoordeelt het element ‘Prijs’ door toepassing van de onderstaande 
+formule:   
+((laagste inschrijving/ inschrijving) x xx punten) = totaal aantal gescoorde punten 
+ 
+De Inschrijver met de laagste Inschrijving wordt als uitgangspunt voor toepassing van de formules 
+gebruikt. De uitkomst heeft een ondergrens van 0 punten. 
+ 
+In onderstaande tabel is het maximaal aantal te behalen punten per prijsonderdeel weergegeven: 
+Omschrijving prijs Maximaal te behalen aantal punten 
+Prijsonderdeel 1 Inschrijfprijs 300 
+Totaal aantal te behalen punten 300 
+  
+3.7.3. Beoordeling van het element ‘Kwaliteit’ (Programma van Wensen) 
+De beoordeling van het element ‘Kwaliteit’ geschiedt door individuele beoordelaars op strikt 
+persoonlijke basis, zonder onderling overleg of afstemming. Zij houden zich aan de algemene 
+aanwijzingen in het beoordelingsprotocol ten einde de hoogste mate van objectiviteit te bereiken. Om 
+die reden hebben de individuele beoordelaars geen wetenschap van de ingediende prijs. 
+ 
+Met in achtneming van de criteria in het Programma van Wensen (hoofdstuk 6) worden per wens 
+punten toegekend volgens de onderstaande schema’s voor ‘puntentoekenning’ (de 
+beoordelingssystematiek). De beoordeling van het element ‘Kwaliteit’ geschiedt op basis van een 
+absolute beoordeling, wat betekent dat elke Inschrijving op zichzelf wordt beoordeeld en de punten 
+per wens door de individuele beoordelaars op basis van onderstaand schema worden toegekend. 
+ 
+Schema van puntentoekenning 
+Punten Toelichting 
+0 Nihil score. De Inschrijver geeft naar het oordeel van de beoordelaar geen antwoord op de 
+wens of heeft de wens geheel overgeslagen. 
+4 Naar het oordeel van de beoordelaar gaat de Inschrijver onvoldoende inhoudelijk-
+relevant in op de gevraagde elementen en aspecten. Inschrijver houdt onvoldoende 
+rekening met de gestelde uitgangspunten van deze aanbesteding. Aansluiting op de 
+wens(en) van de aanbestedende dienst is onvoldoende. 
+6 Naar het oordeel van de beoordelaar gaat de Inschrijver voldoende maar te beperkt 
+inhoudelijk-relevant in op de gevraagde elementen en aspecten. Inschrijver houdt 
+voldoende, maar te beperkt rekening met de gestelde uitgangspunten van deze 
+aanbesteding. Aansluiting op de wens(en) van de aanbestedende dienst is gedeeltelijk maar 
+voldoende. 
+8 Naar het oordeel van de beoordelaar gaat de Inschrijver goed inhoudelijk-relevant in op 
+de gevraagde elementen en aspecten. Inschrijver houdt goed rekening met de gestelde 
+uitgangspunten van deze aanbesteding. Aansluiting op de wens(en) van de aanbestedende 
+dienst is goed. 
+10 Naar het oordeel van de beoordelaar gaat de Inschrijver zeer goed inhoudelijk-relevant in 
+op de gevraagde elementen en aspecten. Inschrijver houdt volledig rekening met de 
+gestelde uitgangspunten van deze aanbesteding. Aansluiting op de wens(en) van de 
+aanbestedende dienst is zeer goed. 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 16 / 28 
+ 
+ 
+De beschreven subgunningscriteria worden als volgt gewogen: 
+ 
+ 
+Onderstaand wordt de beoordelingssystematiek toegelicht: 
+ 
+• Elke beoordelaar kent per wens punten toe volgens het ‘Schema van puntentoekenning’ en geeft 
+daarbij een schriftelijke motivering. 
+• Het aantal gegeven punten per beoordelaar per wen s. Dit leidt per wens tot een score per  
+individuele beoordelaar.  
+• In een gezamenlijke bijeenkomst van de beoordelaars (de beoordelingscommissie), worden de 
+individuele scores en schriftelijke motiveringen besproken.  
+• Per wens worden alle individuele scores bij elkaar opgeteld en gedeeld door he t aantal 
+beoordelaars. Dit leidt tot de gemiddelde score per wens. De gemiddelde scores worden afgerond 
+op één decimaal. Tevens wordt gezamenlijk de motivering vastgesteld. 
+• Per Inschrijving worden de gemiddelde scores van alle wensen opgeteld, zodat een to tale score 
+voor het element ‘Kwaliteit’ per Inschrijver ontstaat. De totale score voor het element ‘Kwaliteit’ wordt 
+afgerond op hele punten. 
+ 
+De aanbestedende dienst communiceert bij voorlopige gunning de gemiddelde scores per wens en de 
+totaalscore op het element ‘Kwaliteit’ van de Inschrijver.  
+3.8. Resultaat van beoordeling en gunningsadvies 
+ 
+De uitkomsten van het proces worden door het projectteam besproken en vastgesteld. Per Inschrijver 
+worden de scores op de elementen ‘Kwaliteit’ en ‘Prijs’ bij elkaar opgeteld om de totaalscore vast te 
+stellen. De Inschrijver met de hoogste totaalscore heeft de ‘Beste prijs-kwaliteitverhouding’ 
+aangeboden en is de voorlopig winnende Inschrijver. 
+ 
+Indien de situatie zich voordoet dat twee of meer Inschrijvers exact dezelfde hoogste totaalscore 
+hebben, zal op basis van het behaalde aantal punten van de wensen bepaald worden wie van hen de 
+opdracht gegund krijgt. De Inschrijver met de hoogste score voor de wens G2, zal de opdracht gegund 
+krijgen. Indien Inschrijvers bij deze wens een gelijke score hebben behaald, zal gekeken worden naar 
+de wens G1 en dan G3. Indien op alle wensen een gelijke score is behaald, zal door loting bij de 
+notaris worden bepaald wie van hen de opdracht gegund krijgt. De notaris zal door de Hogeschool 
+Rotterdam worden aangewezen. 
+ 
+Verantwoording aan de interne opdrachtgever binnen de organisatie van de aanbestedende dienst 
+vindt plaats door middel van het proces-verbaal van gunning waarvan het gemotiveerde 
+gunningadvies deel uitmaakt. Als het gunningadvies door de interne opdrachtgever wordt 
+geaccordeerd, heeft deze beslissing de vorm van een voorlopige gunningbeslissing die aan alle 
+betrokken Inschrijvers wordt meegedeeld. 
+ 
+Gunningcriterium Subgunningscriterium Punten Wegings% 
+Kwaliteit  G1 Casus – Technisch georiënteerd 270 31 
+ G2 Casus – Strategisch georiënteerd 280 32 
+ G3 Accountmanagement 150 17 
+Prijs  G4 Prijs 300 20 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 17 / 28 
+ 
+De aanbestedende dienst communiceert bij voorlopige gunning de totaalscores op de elementen 
+‘Kwaliteit’ en ‘Prijs’ van de Inschrijver ten opzichte van de gegunde Inschrijvers. Daarnaast wordt per 
+wens een motivering weer gegeven ten opzichte van de behaalde scoren.  
+3.9. Voorlopige gunningsbeslissing  
+Nadat de beoordeling van de Inschrijvingen is afgerond, zal de mededeling van voorlopige gunning 
+worden verzonden met de bekendmaking van deze beslissing aan zowel de winnende als de 
+afgewezen Inschrijver(s). Gunning geschiedt onder het nadrukkelijke voorbehoud van: 
+• Het resultaat van de controle van de bewijsstukken voor Uitsluitingsgronden en 
+Geschiktheidseisen; 
+• Goedkeuring door College van Bestuur van de aanbestedende dienst.  
+ 
+Indien er op andere wijze daartoe aanleiding bestaat, behoudt de aanbestedende dienst zich het recht 
+voor om (al dan niet voorlopig) van gunning af te zien. 
+ 
+De afgewezen Inschrijvers wordt de mogelijkheid geboden om een mondelinge toelichting te krijgen 
+op het beoordelingsresultaat. Mocht u naar aanleiding van de afwijzing behoefte hebben aan een 
+mondelinge toelichting, dan verzoekt de aanbestedende dienst u contact op te nemen met de 
+contactpersoon. Evenwel schort een dergelijk verzoek de opschortende termijn niet op. 
+ 
+De aanbestedende dienst is niet verplicht documenten die betrekking hebben op deze aanbesteding, 
+zoals resultaten van (onderlinge) beoordelingen, vergelijkingen en prijzenbladen betreffende 
+kwalificatie en gunning, aan de Inschrijvers bekend te maken. 
+ 
+De mededeling door de aanbestedende dienst van de voorlopige gunningsbeslissing houdt geen 
+aanvaarding van het aanbod van de Inschrijver in als bedoeld in artikel 6:217, eerste lid van het 
+Burgerlijk Wetboek. Opdrachtverstrekking vindt pas plaats door rechtsgeldige ondertekening van de 
+Raamovereenkomst. 
+3.10. Opschortende termijn (stand-stilltermijn) 
+De aanbestedende dienst neemt een opschortende termijn in acht van ten minste 20 
+(twintig) kalenderdagen die aanvangt op de dag na de datum van verzending van de mededeling van 
+de voorlopige gunningsbeslissing aan de betrokken Inschrijvers. 
+ 
+Iedere betrokken Inschrijver die het niet eens is met deze beslissing, kan hiertegen binnen de 
+bovengenoemde termijn opkomen in een kort geding bij de voorzieningenrechter in Rotterdam.  
+Dit geschiedt door betekening van de dagvaarding aan de aanbestedende dienst: 
+ 
+Hogeschool Rotterdam 
+t.a.v. Juridische Zaken 
+Museumpark 40 
+3015 CX Rotterdam  
+ 
+In het belang van een snelle en goede voortgang wordt de Inschrijver die een kort geding aanhangig 
+maakt dringend verzocht de contactpersoon van de aanbestedende dienst hiervan per omgaande op 
+de hoogte te stellen door het toezenden van een kopie van de dagvaarding via de berichtenmodule 
+van het TenderNed. De aanbestedende dienst zal vervolgens via de berichtenmodule van TenderNed 
+aan de overige Inschrijvers communiceren dat er een kort geding is ingesteld. 
+ 
+Een vordering tot voeging of tussenkomst dient zo spoedig mogelijk, doch uiterlijk voor de dag van 
+behandeling van het kort geding, bij de bevoegde rechter te zijn ingediend. De aanbestedende dienst 
+wacht in beginsel de uitspraak in kort geding af alvorens tot definitieve gunning over te gaan. 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 18 / 28 
+ 
+Indien door geen van de belanghebbende Inschrijvers, binnen de opschortende termijn, tegen de 
+gunningsbeslissing een kort geding is aangespannen en de verificatie van de Uitsluitingsgronden en 
+Geschiktheidseisen geen onregelmatigheden oplevert, acht de aanbestedende dienst zich vrij om aan 
+de winnende Inschrijver te gunnen en met deze Inschrijver een overeenkomst aan te gaan. Als dan 
+vervalt het recht tegen al het voornoemde in rechte op te komen en/of daarop enige vordering te 
+baseren tot schadevergoeding of welke andere aanspraak dan ook. 
+3.11. Controle van bewijsstukken na voorlopige gunning 
+De controle van de bewijsstukken betreft alleen de ‘voorlopige gegunde Inschrijver’ en vindt plaats na 
+bekendmaking van de voorlopige gunningsbeslissing. De wet schrijft voor dat de bewijsstukken niet 
+eerder opgevraagd kunnen worden dan na de voorlopige gunningbeslissing. 
+ 
+Door middel van het ‘Uniform Europees Aanbestedingsdocument’ (UEA) heeft de Inschrijver verklaard 
+dat gestelde Uitsluitingsgronden niet op hem van toepassing zijn en hij voldoet aan de gestelde 
+Geschiktheidseisen.  
+ 
+Er kan aanleiding zijn dat, naar het inzicht van de aanbestedende dienst, een zodanig ingediend 
+bewijsstuk een nadere toelichting vraagt of aanvulling behoeft. De ‘voorlopig gegunde Inschrijver’ 
+wordt hiertoe in de gelegenheid gesteld. De toelichting of de aanvulling zal in de regel betrekking 
+hebben op klaarblijkelijke onvolkomenheden en omissies, bedoeld in § ‘Klaarblijkelijke fouten’ in dit 
+hoofdstuk. De aanbestedende dienst zal een dergelijk verzoek motiveren.  
+Is de aanbestedende dienst na controle van de bewijsstukken van oordeel dat sprake is van een 
+gebrekkige Inschrijving (zie § ‘Gebrekkige Inschrijving’ in dit hoofdstuk) dan wordt de Inschrijving 
+vanaf de formele indiening geacht ongeldig te zijn.  
+ 
+Het ongeldig verklaren van de voorlopig gegunde Inschrijving kan gevolgen hebben voor de score en 
+puntentoekenning van het element ‘Prijs’ en de ranking als grondslag van de voorlopige gunnings-
+beslissing. De aanbestedende dienst zal de gevolgen ervan overwegen en beoordelen en zo nodig 
+een nieuwe voorlopige gunningsbeslissing nemen. 
+3.12. Voorbehoud van beslissing stopzetten aanbesteding 
+Onvoorziene omstandigheden kunnen voor de aanbestedende dienst aanleiding zijn de aanbesteding 
+geheel of gedeeltelijk, tijdelijk of definitief te stoppen en de opdracht niet te gunnen. De 
+aanbestedende dienst zal een dergelijke beslissing kenbaar maken en motiveren. 
+3.13. Randvoorwaarden 
+Het gaat hier om vormvereisten en inhoudelijke richtlijnen om een geldige Inschrijving te doen. 
+ 
+3.13.1. Eenmaal inschrijven 
+Een Inschrijver mag zich slechts eenmaal voor de onderhavige aanbesteding inschrijven, hetzij 
+individueel, hetzij als lid van een samenwerkingsverband of in onderaanneming. 
+ 
+In geval een Inschrijving wordt ingediend als samenwerkingsverband of combinatie gelden de 
+volgende additionele bepalingen: 
+• Het samenwerkingsverband als geheel moet voldoen aan alle Geschiktheidseisen. 
+• De leden van het samenwerkingsverband gaan akkoord met de aanvaarding van de 
+gezamenlijke en hoofdelijke aansprakelijkheid (van alle leden van het 
+samenwerkingsverband) voor de volledige en correcte nakoming van alle verbintenissen 
+jegens de aanbestedende dienst voortvloeiende uit/samenhangende met de opdracht, bij een 
+eventuele gunning. 
+• De leden van het samenwerkingsverband dienen ieder afzonderlijk een volledig UEA in te 
+vullen en in te dienen bij de Inschrijving. De zodanig ingediende UEA’s tezamen gelden als 
+het formele bewijs van de Inschrijving. 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 19 / 28 
+ 
+• De aanbestedende dienst stelt vooraf geen eis voor de rechtsvorm van deze combinatie van 
+ondernemingen. De aanbestedende dienst kan wel eisen dat het samenwerkingsverband een 
+bepaalde rechtsvorm aanneemt als dit voor een goede uitvoering van de opdracht 
+noodzakelijk is. De (uiteindelijke) rechtsvorm van het samenwerkingsverband wordt in de 
+overeenkomst opgenomen. 
+3.13.2. Irreële of manipulatieve Inschrijving 
+Het indienen van een irreële of manipulatieve Inschrijving is verboden. Van een manipulatieve 
+Inschrijving kan sprake zijn wanneer - als gevolg van miskenning door de Inschrijver van bepaalde 
+aannames van de aanbestedende dienst - de beoordelingssystematiek zo wordt gemanipuleerd dat 
+het daarmee beoogde doel, zoals bijvoorbeeld het innemen van een realistische positie, wordt 
+verstoord. Een irreële of manipulatieve Inschrijving is ongeldig en wordt terzijde gelegd. Een 
+Inschrijving is in ieder geval doch niet uitsluitend manipulatief en/of irreëel als: 
+• Één of meer tarieven worden aangeboden die op zichzelf beschouwd niet marktconform en/of 
+niet realistisch zijn; 
+• De tarieven niet een in de branche gebruikelijke opbouw/samenhang hebben; 
+• Één of meerdere tarieven de gehanteerde formule frustreren; 
+• Er sprake is van negatieve of nultarieven. 
+ 
+3.13.3. Vertrouwelijkheid en communicatieverbod 
+De beginselen van objectiviteit en gelijke behandeling van Inschrijvers brengt mee dat het 
+(medewerkers van) de aanbestedende dienst en (medewerkers van) de Inschrijver niet is toegestaan 
+contact te hebben en/of mededelingen te doen over de Inschrijving en aanbesteding, anders dan via 
+de vaste contactpersoon van de aanbestedende dienst. 
+ 
+Deze gedragsregel geldt vanaf het moment dat de aanbesteding gepubliceerd is, of zoveel eerder 
+vanaf het moment waarop de aanbestedende dienst zich expliciet over het communicatieverbod heeft 
+geuit, tot na het moment van bekendmaking van de definitieve gunning. Overtreding kan leiden tot 
+uitsluiting van verdere deelname aan de aanbestedingsprocedure. Niet onder het verbod valt het 
+contact met de Inschrijver, die al contractpartij is en tot de kring van huidige leveranciers van de 
+aanbestedende dienst behoort en de medewerkers van de aanbestedende dienst over de lopende 
+zaken binnen bestaande contractuele relaties en opdrachten. 
+3.13.4. Taal 
+Alle correspondentie en documentatie die door de aanbestedende dienst wordt opgesteld zal alleen in 
+het Nederlands worden uitgegeven. Correspondentie en documentatie van Inschrijvers wordt alleen 
+geaccepteerd als die in het Nederlands is opgesteld. Uitzondering wordt gemaakt voor documenten die 
+oorspronkelijk in een andere taal zijn opgesteld, bijvoorbeeld referentieverklaringen van buitenlandse 
+opdrachtgevers, technische omschrijving van materiaal, jaarverslag, verzekeringspolis, bankgarantie 
+etc. In voorkomend geval kan de aanbestedende dienst om een officiële vertaling verzoeken. Eventuele 
+kosten zijn dan voor uw rekening. 
+ 
+3.13.5. Bedragen 
+Bedragen moeten in euro’s exclusief omzetbelasting worden vermeld, tenzij anders is aangegeven. 
+3.13.6. Gestanddoeningstermijn 
+U dient uw Inschrijving minimaal tot 90 dagen na sluitingsdatum gestand te doen. Indien een kort geding 
+aanhangig wordt gemaakt tegen de gunningsbeslissing, wordt de gestanddoeningstermijn (voor zover 
+nodig, gelet op de lopende termijn) automatisch verlengd tot en met vier weken na de uitspraak in kort 
+geding. Gedurende de gestanddoeningstermijn is de Inschrijving onherroepelijk. 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 20 / 28 
+ 
+3.13.7. Rechten ontlenen aan gegevens 
+De in dit Beschrijvend Document gestelde eisen en subgunningscriteria zijn gebaseerd op de huidige 
+en de op dit moment bekende, toekomstige situatie bij de aanbestedende dienst. U kunt geen enkel 
+recht ontlenen aan de in dit Beschrijvend Document  genoemde planning, aantallen of specificaties. 
+Deze dienen slechts ter indicatie van de te contracteren leveringen/diensten en als basis voor de 
+vergelijking van de verschillende Inschrijvingen.  
+3.13.8. Intellectueel eigendom 
+Behoudens uitzonderingen in de Auteurswet , mag onder schriftelijke toestemming van de 
+aanbestedende dienst mag niets uit dit Beschrijvend Document worden verveelvoudigd (anders dan 
+voor het doel van deze aanbesteding) door middel van druk, fotokopie of anderszins. 
+3.13.9. Geheimhouding 
+Alle door u aangeboden informatie en documentatie wordt eigendom van de aanbestedende dienst. De 
+aanbestedende dienst zal alle verkregen informatie uit deze procedure vertrouwelijk behandelen en niet 
+gebruiken voor andere doeleinden dan beschreven, tenzij u anders vermeldt. 
+ 
+Door het indienen van een Inschrijving verklaart u vertrouwelijk om te gaan met alle informatie die in het 
+kader van deze aanbesteding wordt verkregen. Het is ni et toegestaan informatie aan derden 
+beschikbaar te stellen, behalve aan door u in te schakelen partners, onderaannemers en hulppersonen. 
+U blijft echter wel verantwoordelijk voor het nakomen van de geheimhoudingsplicht. 
+3.13.10. Tegenstrijdigheden en/of onregelmatigheden 
+Het onderhavige Beschrijvend Document en bijbehorende bijlagen zijn met grote zorg opgesteld. 
+Indien deze desondanks kennelijk fouten, omissies of tegenstrijdigheden bevatten, dient de Inschrijver 
+hiervan tijdig vóór het sluiten van de aanmeldingstermijn melding te maken bij de aanbestedende 
+dienst dan wel hier vragen over te stellen, zodat de aanbestedende dienst eventuele fouten, omissies 
+of tegenstrijdigheden tijdig kan herstellen. Indien inschrijver dit nalaat, en fouten, omissies of 
+tegenstrijdigheden pas later aan de orde stelt, terwijl deze hem bekend waren of hadden moeten zijn, 
+kan dit tot gevolg hebben dat hij zich hierop niet meer kan beroepen in een eventuele 
+(bezwaar)procedure bijvoorbeeld tegen de (voorgenomen) gunningbeslissing. 
+3.13.11. Klachtenregeling 
+Indien u een klacht heeft over het onjuist handelen van de aanbestedende dienst in deze 
+aanbestedingsprocedure, dan kunt u uw klacht indienen bij het klachtenmeldpunt van de 
+aanbestedende dienst.  
+ 
+Het meldpunt behandelt klachten die blijven bestaan nadat de vraag is gesteld in de vragenronde van 
+de aanbesteding en die vraag naar het oordeel van de klager onvoldoende of onjuist is beantwoord. 
+Het meldpunt behandelt ook klachten die zijn ontstaan na de vragenronde. Het meldpunt behandelt 
+geen vragen die naar hun aard in de vragenronde gesteld hadden moeten worden. 
+ 
+Het klachtenmeldpunt is bereikbaar door een email te sturen aan klacht@hr.nl. In de email maakt u 
+duidelijk:  
+• Om welke Europese aanbesteding het gaat (inclusief referentienummer); 
+• Dat de klacht reeds behandeld is in een Nota van inlichtingen; 
+• De inhoud van de klacht; 
+• Een voorstel tot oplossing van de klacht; en 
+• Uw contactdetails. 
+ 
+Na het indienen van een klacht, ontvangt u binnen 48 uur (reguliere kantoortijden) een 
+ontvangstbevestiging. Een inhoudelijke reactie zal binnen een redelijke termijn plaatsvinden, 
+afhankelijk van de complexiteit van de klacht. 
+ 
+Het indienen van een klacht legt de aanbestedingsprocedure niet stil. Het staat de aanbestedende 
+dienst vrij om al dan niet tot opschorting van de aanbestedingsprocedure over te gaan. 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 21 / 28 
+ 
+ 
+Indien uw klacht wordt afgewezen, zal dit onderbouwd plaatsvinden. Indien uw klacht gehonoreerd 
+wordt en dit gevolgen heeft voor de aanbesteding, dan zullen alle Inschrijvers geïnformeerd worden 
+over het vervolg.  
+ 
+Indien u het niet eens bent met de reactie van het meldpunt, dan kunt u contact opnemen met de 
+Commissie van Aanbestedingsexperts (CvAE). In dat geval verzoekt de aanbestede dienst u een 
+afschrift van de klacht te sturen aan de contactpersoon. Ook hier heeft een ingediende klacht geen 
+opschortende werking. Een uitspraak van de CvAE is niet bindend. 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 22 / 28 
+ 
+4. Uitsluitingsgronden en Geschiktheidseisen 
+Dit hoofdstuk geeft de Uitsluitingsgronden en de Geschiktheidseisen weer waaraan uw organisatie 
+dient te voldoen. De Uitsluitingsgronden en Geschiktheidseisen zijn gebaseerd op het Uniform 
+Europees Aanbestedingsdocument (UEA).    
+ 
+Het UEA is het wettelijke bewijsstuk waarmee de Inschrijver verklaart aan de in dit hoofdstuk 
+opgenomen Geschiktheidseisen te voldoen en dat de Uitsluitingsgronden niet op Inschrijver van 
+toepassing zijn. Voor onderhavige aanbesteding maakt de aanbestedende dienst gebruik van het UEA 
+pdf-formulier. De Inschrijver vult de onderdelen van de verklaring in, die daartoe vooraf door de 
+aanbestedende dienst zijn aangegeven. Het betreft de delen II t/m VI van het UEA. 
+ 
+De voor deze aanbesteding geldende UEA is als invulformulier UEA op TenderNed beschikbaar. Het 
+UEA geldt tevens als het formele bewijs van indienen van het verzoek tot Inschrijving. Voor verdere 
+uitleg over het gebruik en invullen van het UEA zie deze link. 
+ 
+Let op: het formulier vult meerdere keren automatisch de voor de Inschrijver positieve antwoorden in. 
+Het blijft de verantwoordelijkheid van de Inschrijver om te verifiëren of dit klopt. 
+ 
+Het invulformulier UEA moet bij de Inschrijving worden ingediend. 
+ 
+4.1.1. A. Geschiktheid 
+De aanbestedende dienst eist dat de Inschrijver voldoet aan de navolgende voorschreven 
+Geschiktheidseisen: 
+ 
+4.1.1.1. Inschrijving in een handelsregister 
+Inschrijver is ingeschreven in een handelsregister dat wordt bijgehouden in de lidstaat waar de 
+ondernemer is gevestigd, als beschreven in bijlage XI bij Richtlijn 2014/24/EU; ondernemers uit 
+bepaalde lidstaten moeten wellicht voldoen aan andere eisen uit die bijlage. 
+ 
+Naast het gestelde in het UEA moet het uittreksel voldoen aan de volgende vereisten: 
+• Actueel en niet ouder dan zes maanden, te rekenen vanaf de uiterste datum van indiening van de 
+Inschrijving. 
+• Op basis van het uittreksel moet de rechtsgeldige vertegenwoordigingsbevoegdheid van de 
+indiener ondubbelzinnig blijken. Indien dit niet mogelijk is kan, aanvullend, een afschrift van een 
+toereikende, ondertekende volmacht worden bijgevoegd. Ook de bevoegdheid van de 
+volmachtgever moet uit het uittreksel van Inschrijving blijken. 
+• Om de vertegenwoordigingsbevoegdheid te verifiëren dient de Inschrijver een geldig en 
+gewaarmerkt uittreksel1 van Inschrijving in een handelsregister in te dienen. Met ‘gewaarmerkt’ is 
+bedoeld dat het uittreksel voorzien is van een ondertekening door het desbetreffende 
+handelsregister. 
+ 
+Het uittreksel Inschrijving in een handelsregister moet bij indiening van de Inschrijving worden 
+ingediend. 
+ 
+4.1.1.2. Gedragsverklaring Aanbesteden (GVA) 
+De GVA is een verklaring van de minister van Veiligheid en Justitie De GVA geeft aan dat uit een 
+onderzoek naar de betrokken natuurlijke persoon of rechtspersoon geen bezwaren bestaan in 
+verband met het aanmelden voor en het Inschrijving op overheidsopdrachten, speciale-
+sectoropdrachten, concessieovereenkomsten voor openbare werken en/of diensten of prijsvragen. De 
+voorlopig gegunde Inschrijver(s) dienen na voorlopige gunning een geldige GVA in te dienen als 
+bewijsstuk dat de Uitsluitingsgronden niet op hem van toepassing zijn. 
+ 
+ 
+1 ‘Het uittreksel’ kan bestaan uit een samenstel van uittreksels  
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 23 / 28 
+ 
+Omdat de doorlooptijd van een aanvraag varieert van minimaal van 4 tot 8 weken, is het raadzaam 
+om de GVA bijtijds aan te vragen. Het is de verantwoordelijkheid van de voorlopig gegunde 
+Inschrijver(s) dat hij tijdig over een geldige GVA beschikt. De GVA mag op het tijdstip van indiening 
+van de Inschrijving niet ouder zijn dan twee jaar. Het niet (tijdig) kunnen verstrekken van de GVA leidt 
+tot onvoorwaardelijke uitsluiting van de aanbestedingsprocedure. 
+ 
+De aanbestedende dienst verwijst voor nadere informatie over de GVA naar de site van het ministerie 
+van Veiligheid en Justitie (www.justis.nl). 
+ 
+Buitenlandse bedrijven zonder een Nederlandse dochteronderneming kunnen geen GVA aanvragen. 
+Als een Inschrijver is gevestigd in een land dat geen GVA of een gelijkwaardig formulier afgeeft, moet 
+Inschrijver een verklaring overleggen waarin Inschrijver plechtig en onder ede heeft verklaard dat de 
+Uitsluitingsgronden niet van toepassing zijn op de onderneming. De verklaring moet worden afgelegd 
+ten overstaan van een bevoegde gerechtelijke of administratieve autoriteit, een notaris of een 
+bevoegde beroepsorganisatie van dat land en moet worden gericht aan de aanbestedende dienst. 
+ 
+4.1.2. B. Economische en financiële draagkracht 
+Eisen voor economische en financiële draagkracht hebben een ruime betekenis. Zij dienen ertoe om 
+te kunnen inschatten of gedurende de contractperiode onvoorziene problemen kunnen ontstaan die 
+de continuïteit van de bedrijfsvoering van Inschrijver in gevaar brengen en het risico inhoudt dat hij 
+niet meer in staat is de overeengekomen verplichting(en) verbonden aan (de uitvoering van) de 
+opdracht na te komen. De aanbestedende dienst formuleert een aantal nadere Geschiktheidseisen 
+met betrekking tot economische en financiële draagkracht. 
+ 
+4.1.2.1.  Financiële en economische draagkracht 
+ 
+Om deze Opdracht uit te voeren dient uw organisatie te beschikken over voldoende financiële en 
+economische draagkracht. 
+ 
+Door het ondertekenen van het ‘Uniform Europees Aanbestedingsdocument’ verklaart Inschrijver:  
+dat hij adequaat verzekerd is voor de uitvoering van de Opdracht en dat hij zich, indien de 
+Raamovereenkomst met hem wordt gesloten, gedurende de duur van de uitvoering van de Opdracht 
+adequaat verzekerd houdt. Bij wijziging in de omstandigheden van verzekering moet de Inschrijver de 
+aanbestedende dienst hiervan op de hoogte te stellen. 
+• Inschrijver beschikt over een adequate aansprakelijkheidsverzekering voor 
+bedrijfsaansprakelijkheid. Hierbij beschouwt de Aanbestedende dienst een 
+aansprakelijkheidsverzekering, welke minimaal een totale verzekerde som van € 2.500.000, - 
+per jaar en een verzekerde som van € 1.250.000, - per gebeurtenis afdekt, als adequaat. 
+• Inschrijver beschikt over een adequate aansprakelijkheidsverzekering voor 
+beroepsaansprakelijkheid. Hierbij beschouwt de Aanbestedende dienst een 
+aansprakelijkheidsverzekering, welke minimaal een totale verzekerde som van € 2.500.000,- 
+per jaar en een verzekerde som van € 1.250.000,- per gebeurtenis afdekt, als adequaat.  
+ 
+Bewijsstuk: Verzekeringsbewijs (geldt alleen voor de ‘voorlopig gegunde Inschrijver(s)’) 
+De Inschrijver dient na voorlopige gunning een kopie van de polis of de verklaring van de 
+verzekeringsmaatschappij als bewijsstuk in te dienen. Het niet (tijdig) kunnen verstrekken van dit 
+bewijsstuk leidt tot onvoorwaardelijke uitsluiting.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 24 / 28 
+ 
+4.1.3. C. Technische en beroepsbekwaamheid 
+De technische en beroepsbekwaamheidseisen hebben te maken met de mate waarin van de 
+Inschrijver verwacht mag worden dat hij in staat is de feitelijke werkzaamheden naar behoren te 
+verrichten. Onderstaande Geschiktheidseisen sluiten aan bij de kerncompetenties die voor het 
+uitvoeren opdrachten van essentieel belang zijn. Aan de hand van bewijsstukken (beschrijvingen, 
+certificaten e.d.) moet de aanbestedende dienst kunnen beoordelen of de Inschrijver over voldoende 
+ervaring en bekwaamheden beschikt en voldoende geëquipeerd is om opdrachten uit te voeren. De 
+aanbestedende dienst formuleert een aantal nadere Geschiktheidseisen met betrekking tot technische 
+en beroepsbekwaamheid. 
+ 
+a. Technische bekwaamheid (referenties) 
+ 
+De aanbestedende dienst beoordeelt de technische bekwaamheid aan de hand van referenties van 
+eerdere opdrachten. U dient bij uw Inschrijving de referenties (Bijlage 3) toe te voegen die voldoen 
+aan de hieronder genoemde kenmerken. 
+ 
+Kerncompetentie 1:  
+Inschrijver heeft aantoonbaar ervaring met het leveren van het gevraagde onafhankelijk Independent 
+Market Research & IT Advice, binnen organisaties gericht op onderwijs, onderzoek, zorg, waarbij sprake 
+is van een heterogene2 werk- en veelal politieke omgeving.  
+De referentieopdracht moet uitgevoerd of afgerond zijn in de afgelopen drie jaar voorafgaand aan de 
+sluitingsdatum voor het indienen van de inschrijving of is nog lopend. Inschrijver dient door middel van 
+het overleggen van een referentie aan te tonen te beschikken over de genoemde kerncompetentie 
+ 
+Indienen referenties 
+Een Inschrijver dient het aantal aangegeven referenties te overleggen waarmee Inschrijver aantoont 
+over de kerncompetenties te beschikken. In de bijlage ‘Format referenties’ (Bijlage 3) vindt u terug welke 
+gegevens u in ieder geval dient te verstrekken. 
+ 
+De referenties moeten opdrachten betreffen die gedurende de afgelopen 3 (drie) jaar werden verricht. 
+De aanbestedende dienst behoudt zich het recht voor met betrekking tot opgegeven referenties, ook 
+voor toetsing van de tevredenheid van de opdrachtgever, navraag te doen bij de betreffende 
+opdrachtgever(s). De aanbestedende dienst is daartoe echter niet verplicht.  
+ 
+Inschrijvers kunnen zich ten bewijze van de technische bekwaamheid en beroepsbekwaa mheid 
+beroepen op middelen van derden, mits deze derde daadwerkelijk betrokken zal worden bij de uitvoering 
+van de opdracht. Dit dient de Inschrijver bij de Inschrijving aan te geven in het UEA. 
+ 
+Het invulformulier ‘Referenties’ (Bijlage 3) moet bij indiening van de Inschrijving worden ingediend. 
+ 
+b. Certificaten van instituten voor kwaliteitscontrole  
+ 
+De Inschrijver moet met het oog op de technische bekwaamheid en beroepsbekwaamheid de 
+volgende certificaten kunnen overleggen. 
+ 
+Kwaliteitszorgsysteem 
+Inschrijver beschikt over een kwaliteitssysteem waarmee de interne processen op systematische wijze 
+worden beheerst en geborgd. Dit systeem is gecertificeerd (bijv. NEN/ISO 9001) door een certificerende 
+instantie, zoals bedoeld in artikel 2.96 Aw 2012. De aanbestedende dienst accepteert ook certificaten 
+of verklaringen die gebaseerd zijn op een gelijkwaardig kwaliteitsborgingsysteem. In dat geval voegt u 
+een beschrijving van het betreffende kwaliteitsborgingssysteem toe, inclusief een beschrijving van de 
+afwijkingen ten opzichte van NEN/ISO 9001. 
+ 
+2  Onder heterogene wordt verstaan: omgevingen die fysiek en/of functioneel door één of meerdere partijen en/of 
+doelgroepen wordt gebruikt, waarbij er afhankelijkheden zijn in de techniek, organisatie, gebruikerspopulatie en besturing.  
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 25 / 28 
+ 
+ 
+Kwaliteitsborging informatiebeveiliging 
+De Inschrijver moet een certificaat (of een vergelijkbaar bewijs) van afdoende informatiebeveiliging 
+vertrekken waaruit blijkt dat er voldaan wordt aan de geldende nationale en internationale security 
+standaarden (ISO 27001/27002).  
+ 
+Bewijsstukken: Certificeringen (geldt alleen voor de ‘voorlopig gegunde Inschrijver’) 
+De voorlopige gegunde Inschrijver dient na voorlopige gunning de bewijsstukken voor de gevraagde 
+certificeringen in te dienen. Het niet (tijdig) kunnen verstrekken van de bewijsstukken leidt tot 
+onvoorwaardelijke uitsluiting.  
+ 
+4.1.4. D. Kwaliteitsborgingsregelingen en normen inzake milieubeheer 
+Er zijn voor onderhavige aanbesteding geen kwaliteitsborgingsregelingen en normen met betrekking 
+tot milieubeheer van toepassing. 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 26 / 28 
+ 
+5. Programma van Eisen 
+Naast in het vorige hoofdstuk gestelde Uitsluitingsgronden en Geschiktheidseisen, formuleert de 
+aanbestedende dienst een aantal uitvoerings- en/of aanvullende voorwaarden dat betrekking heeft op 
+de uitvoering van de opdracht en de begeleidende omstandigheden. Deze vereisten zijn zogenaamde 
+‘knock-outeisen’: als Inschrijver niet kan voldoen aan de genoemde eisen, wordt uw Inschrijving niet 
+beoordeeld. 
+ 
+5.1. Specifieke eisen met betrekking tot het voorwerp van aanbesteding 
+De Inschrijver gaat akkoord met de in Bijlage 1 gestelde Programma van Eisen. 
+5.2. Raamovereenkomst en inkoopvoorwaarden 
+ 
+De ingangsdatum van de Raamovereenkomst is 01-01-2023. De aanbestedende dienst sluit een 
+Raamovereenkomst met één Inschrijver voor een periode van 4 jaren met 01-01-2027 als einddatum. 
+Tevens wordt een optie tot verlenging van 2 maal twaalf (24) kalendermaanden in de 
+Raamovereenkomst opgenomen.  
+ 
+5.2.1. Concept Raamovereenkomst en Algemene Inkoopvoorwaarden 
+Als informatiebijlagen bij het Beschrijvend Document zijn een concept Raamovereenkomst, (zie 
+Bijlage 6). 
+ 
+In de Raamovereenkomst is te lezen hoe de aanbestedende dienst omgaat met leverings -, betalings- 
+en andere algemene voorwaarden van de Opdrachtnemer. De Algemene Rijksvoorwaarden voor het 
+verstrekken van opdrachten tot het verrichten van diensten 2018 (ARVODI -2018) zijn van toepassing 
+op de Opdracht, want naast het verlenen van toegang bestaat een substa ntieel deel van de Opdracht 
+uit een component “Dienstverlening”. Gezien de Opdracht is een aantal artikelen in de ARVODI -2018 
+niet van toepassing. De specifieke afwijkingen op de ARVODI -2018 ten behoeve van de Opdracht zijn 
+opgenomen in de concept Raamovereenkomst in Bijlage 6. De ARVOD-2018 zijn opgenomen in Bijlage 
+7. 
+ 
+De Inschrijver die niet kan instemmen met (onderdelen van) de concept Raamovereenkomst en/of de 
+Arvodi moet dit beargumenteerd aangeven. Ook in geval de Inschrijver andere op- en/of 
+aanmerkingen onder de aandacht van de aanbestedende dienst wil brengen of een nadere toelichting 
+wil op onderdelen van de concept Raamovereenkomst of de Arvodi dient hij dit kenbaar te maken met 
+gebruikmaking van de Vraag&Antwoord module op TenderNed. 
+ 
+Inschrijver verklaart zich bij indiening van de Inschrijving akkoord met de dan geldende definitieve 
+versie van de concept Raamovereenkomst. Indien gunning zal plaatsvinden aan de onderneming van 
+Inschrijver, zal de definitieve versie van de concept Raamovereenkomst met Bijlagen en alle daarin 
+opgenomen clausules gelden als enige bindende overeenkomst tussen Partijen.  
+5.3. Wachtkamerconstructie 
+ 
+De aanbestedende dienst heeft ervoor gekozen om voor deze Opdracht een 
+wachtkamerovereenkomst toe te voegen. 
+ 
+Indien na gunning één van de tot de Raamovereenkomst toegelaten onderneming om wat voor reden 
+ook wegvalt en niet langer deelneemt aan de Raamovereenkomst, dan is het de aanbestedende 
+dienst toegestaan om binnen één jaar na ingang van de Raamovereenkomst, de opvolgende 
+Inschrijver (die in eerste instantie niet was toegelaten tot de Raamovereenkomst te verzoeken om 
+(althans indien de gestanddoeningstermijn van de Inschrijving inmiddels is verstreken) zijn Inschrijving 
+(alsnog) gestand te doen, en indien die Inschrijver dat verzoek inwilligt, die Inschrijver toe te laten tot 
+de Raamovereenkomst voor het restant van de looptijd.  
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 27 / 28 
+ 
+De aanbestedende dienst is hiertoe niet verplicht. De opvolgende Inschrijver heeft de keuze om 
+gehoor te geven aan dit verzoek en is daartoe geenszins verplicht. Indien de opvolgende Inschrijver 
+ervoor kiest om geen gehoor te geven aan het hier voor genoemde verzoek, dan kan de 
+aanbestedende dienst de daaropvolgende Inschrijver(s) met een soortgelijk verzoek benaderen. 
+5.4. Verwerkersovereenkomst - Privacy en gegevensbescherming 
+ 
+Indien Inschrijver in opdracht van de aanbestedende dienst persoonsgegevens verwerkt, dient zij zich 
+aan de eisen toepasselijke wet- en regelgeving te houden, waaronder de Algemene verordening 
+gegevensbescherming (AVG).  
+ 
+Ook vereist de wetgeving dat de aanbestedende dienst een overeenkomst aangaat met de te 
+contracteren partij waarin de verantwoordelijkheden bij de verwerking van persoonsgegevens worden 
+vastgelegd, zoals welke gegevens er verwerkt worden en wanneer deze vernietigd moeten worden. 
+Daarnaast dient via dit document akkoord te worden gegeven op het feit dat de persoonsgegevens 
+uitsluitend in opdracht en op basis van schriftelijke instructies van de aanbestedende dienst worden 
+verwerkt behoudens afwijkende wettelijke voorschriften. 
+ 
+Inschrijver die niet kan instemmen met (onderdelen van) de concept verwerkersovereenkomst moet dit 
+beargumenteerd aangeven. Ook in geval de Inschrijver andere op- en/of aanmerkingen onder de 
+aandacht van de aanbestedende dienst wil brengen of een nadere toelichting wil op onderdelen van 
+de concept verwerkersovereenkomst dient hij dit kenbaar te maken met gebruikmaking van de 
+Vraag&Antwoord module op TenderNed. 
+ 
+Inschrijver verklaart zich bij indiening van de Inschrijving akkoord met de dan geldende definitieve 
+versie van de concept verwerkersovereenkomst. Indien gunning zal plaatsvinden aan de onderneming 
+van Inschrijver, zal de definitieve versie van de concept verwerkersovereenkomst met Bijlagen en alle 
+daarin opgenomen clausules gelden als enige bindende overeenkomst tussen partijen. 
+ 
+De concept verwerkersovereenkomst is bijgevoegd bij het Beschrijvend document, zie Bijlage 8. 
+5.5. Contractmanagement 
+ 
+De Opdrachtnemer houdt managementinformatie bij over de dienstverlening waaronder: response- en 
+doorlooptijden, advisering, uitvoering, aanvullende diensten, afhandeling van klachten, kosten per 
+locatie, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2022/080/FIT-IT Independent Market Research & IT advice 28 / 28 
+ 
+6. Programma van Wensen (subgunningscriteria) 
+In Bijlage 4 treft de Inschrijver de wensen aan die de aanbestedende dienst stelt aan de kwaliteit van 
+het resultaat van de opdracht. Op basis van de beantwoording van de geformuleerde vragen wordt de 
+‘Kwaliteit’ van de Inschrijving beoordeeld in overeenstemming met de systematiek van beoordeling en 
+puntentoekenning. 
+ 
+Vormvereisten voor de beantwoording: 
+• Inschrijver geeft per subgunningscriterium het verlangde antwoord en houdt hierbij de 
+volgorde aan waarin deze zijn gesteld; 
+• De Inschrijver maakt gebruik van lettergrootte 10; 
+• De beantwoording (inclusief afbeeldingen en Bijlagen) overschrijdt niet het maximaal 
+toegestane aantal pagina’s. Pagina’s die het maximumaantal overschrijden worden niet 
+beoordeeld; 
+• Inschrijver dient met de beantwoording van de wensen rekening te houden met alle informatie 
+uit het Beschrijvend document met bijbehorende stukken; 
+• De Inschrijver dient onder geen beding prijzen of alles wat ermee samenhangt in de 
+beantwoording op te nemen; 
+• Het is niet toegestaan verwijzingen naar externe documenten of websites op te nemen in de 
+beantwoording. Alleen de ingediende tekst zal worden beoordeeld door het beoordelingsteam. 
+Eventuele verwijzingen naar externe documenten of websites worden niet meegenomen in de 
+beoordeling. 
+ 
+ 
+7. Prijs 
+ 
+Per Inschrijver wordt de behaalde score per prijsonderdeel opgeteld wat resulteert in de totale score 
+op het element ‘Prijs’. De totale score wordt afgerond op hele punten. 
+ 
+De aanbestedende dienst communiceert in de voorlopige gunning alleen de totale score voor het 
+element ‘Prijs’. 
+ 
+In paragraaf 3.13.2 is aangegeven dat indienen van een irreële of manipulatieve Inschrijving is 
+verboden. Indien de toekenning van punten op het prijscriterium is gebaseerd op een referentieprijs 
+die na beoordeling irreëel blijkt, dan vindt een herbeoordeling op dat criterium plaats aan de hand van 
+de opvolgende laagst geoffreerde prijs.
+
+=== Document: bijlage 1 programma van eisen 1.0 ===
+Faciliteiten en 
+Informatietechnologie 
+ 
+ 
+ 
+ 
+ 
+Blaak 555 • 3011 GB Rotterdam • Postbus 25035 • 3001 HA Rotterdam 
+Tel. (010) 794 45 64 • hogeschoolrotterdam.nl 
+  
+ 
+ 
+ 
+ 
+Bijlage 1 Programma van eisen 
+ 
+ 
+  
+pagina 2 van 4 
+In deze bijlage worden de Eisen beschreven zoals die voor de gevraagde dienstverlening ter zake van 
+Independent Marketresearch & IT-Advice van toepassing zijn.  
+ 
+Programma van Eisen  
+ 
+Algemeen 
+1. Inschrijver dient de gevraagde dienstverlening zoals benoemd in het Beschrijvend 
+Document (paragraaf 2.4 en de kennisgebieden conform Bijlage 2) te kunnen leveren. 
+2. Inschrijver draagt er zorg voor dat HR kan beschikken over een breed scala aan Independent Market 
+Research & IT Advice, dat marktconform is in inhoudelijke en financiële zin, en dat in de in de 
+aanbestedingsstukken genoemde behoefte voorziet. 
+3. De invulling van de kwaliteit van Independent Market Research & IT Advice dient ten alle tijden 
+hoogwaardig en voor de Raamovereenkomst relevant te zijn. 
+4. Inschrijver stelt al het Independent Market Research & IT Advice beschikbaar in, in ieder 
+geval, de Nederlandse of Engelse taal. 
+5. De auteurs van Independent Market Research & IT Advice dienen (gerenommeerde) senior 
+auteurs te zijn met diepgaande kennis van en ervaring aangaande het onderwerp van publicatie. 
+6. De onderwerpen die aan de orde dienen te komen in Independent Market Research & IT Advice 
+dienen het merendeel aan ICT-gebieden te beslaan, zoals vermeld in bijlage 2. 
+7. Inschrijver zorgt voor Independent Market Research & IT Advice dat aansluit op actualiteit en 
+op de generieke en specifieke behoefte die gebruikers hebben als het gaat om de ICT gebieden 
+zoals benoemd in Bijlage 2. 
+8. Independent Market Research & IT Advice is gericht op zowel de Nederlandse, Europese markt als de 
+gehele wereldmarkt. 
+ 
+Gebruiksrecht typen dienstverlening 
+9. Independent Market Research & IT Advice biedt u aan in de vorm van een account. Een account 
+verschaft het gebruiksrecht aan Gebruiker over Independent Market Research & IT Advice. 
+10. U biedt de volgende typen accounts aan voor de gevraagde dienstverlening: 
+a. Een gebruikersaccount op staffelbasis en op naam voor afname dienstverlening BASIS; 
+b. Een gebruikersaccount op staffelbasis en op naam voor afname dienstverlening PLUS; 
+c. Een campuslicentie voor afname dienstverlening BASIS. 
+Accounts die u aanbiedt, dienen binnen één van deze soorten accounts te vallen. 
+11. Toegang tot accounts en overeengekomen dienstverlening wordt na het afsluiten van de 
+Raamovereenkomst binnen 48 uur verstrekt. 
+12. U zorgt voor eenvoudige en snelle toegang tot alle typen dienstverlening en u informeert Gebruiker 
+over mogelijkheden van benutting van de typen dienstverlening. 
+13. De looptijd van elk soort aangeboden account is maximaal 12 maanden. Vanaf 11 maanden 
+garandeert Inschrijver een opzegtermijn van één maand vanaf de dag van opzegging. 
+14. Een gebruiksrecht gekoppeld aan een persoonsgebonden account (bijvoorbeeld bij uit dienst/ 
+vertrek) is binnen HR tussen Gebruikers overdraagbaar. Vóór overdracht wordt u hierover 
+schriftelijk (per email) geïnformeerd. 
+ 
+ 
+ 
+pagina 3 van 4 
+Authenticatie Gebruiker 
+15. Inschrijver verstrekt aan Gebruiker toegang tot de database via een koppeling met SURFconext 
+zoals beschreven op https://www.surf.nl/diensten-en-producten/surfconext/index.html  
+16. Binnen elk soort account dient een profiel te kunnen worden aangemaakt, waarbinnen specifieke 
+interessegebieden ICT worden aangeven. 
+17. Per account wordt gebruiker na het inloggen geïnformeerd over relevant nieuw en gewijzigd 
+Onafhankelijke marktonderzoek & advies ICT van de afgelopen periode vanaf de laatste keer dat is 
+ingelogd. 
+18. U dient voor elk soort account het instellen van automatische persoonlijke (e-
+mail)notificaties mogelijk te maken wanneer nieuwe informatie wordt gepubliceerd. HR 
+verschaft een gerubriceerde keuze van onderwerpen voor de Gebruiker. 
+ 
+Beschikbaarheid en portal 
+19. De onderzoeksdata van Inschrijver dient online beschikbaar en benaderbaar te zijn middels een 
+account met de in de markt gangbare webbrowers en twee versies ouder op desktop en mobiele 
+systemen. 
+20. De website van Inschrijver met het Independent Market Research & IT Advice is 7/24 beschikbaar 
+voor 98% per maand; gemeten in minuten over een kalendermaand. 
+21. Bij de accounts wordt een zoekfunctie aangeboden: met vrije zoekmogelijkheid op woorden 
+of delen van tekst, onderwerp en metagegevens. 
+22. De accounts worden aangeboden met navigatiemogelijkheid met een gebruiksvriendelijke structuur. 
+23. De Informatie en onderzoeksrapporten dienen toegankelijk te zijn per onderwerp c.q. thema. 
+24. De Informatie en onderzoeksrapporten dienen toegankelijk te zijn per auteur c.q. expert. 
+ 
+Dienstverlening EXTRA 
+25. Door de Inschrijver dienen ook evenementen en/of opleidingen te worden aangeboden over 
+ICT-onderwerpen in de breedste zin van het woord die HR kan afnemen. Verwacht mag worden 
+dat uw aanbod gedurende een kalenderjaar minimaal de volgende zaken omvat: 
+Evenement(en), congres(sen), thematische bijeenkomst(en), video on demand, verschillende 
+webinars, seminars en workshops die HR kan afnemen. 
+26. Evenementen en/of opleidingen) dienen te worden aangeboden zonder dat een afnameverplichting 
+bestaat voor het hebben van een account of standaard dienstverlening: evenementen (en/of 
+opleidingen) kunnen derhalve worden bijgewoond door medewerkers van HR: gebruikers en niet-
+gebruikers. 
+27. Bij elk evenement dient tenminste één professional met zeer gedegen kennis van zaken een 
+belangrijke inhoudelijke invulling te geven. 
+28. U dient op verzoek van HR, dienstverlening extra te leveren aan medewerkers die 
+strategische ICT-functies vervullen. De inhoud van aanvullende dienstverlening kan door HR 
+worden ingevuld in het kader van onderhavige Raamovereenkomst. 
+29. Alvorens HR besluit tot het afnemen van dienstverlening extra kunnen afspraken worden gemaakt 
+over de doelstelling, het eindresultaat, de medewerkers die bij de dienstverlening worden ingezet, 
+het maximaal aantal uren om het eindresultaat te bereiken en/of de maximumprijs. 
+30. Facturatie van dienstverlening extra dient afzonderlijk plaats te vinden en in overleg met het 
+contractmanagement van HR, tenzij de extra dienstverlening onderdeel uitmaakt van een 
+gebruikersaccount. 
+ 
+Intellectueel Eigendom 
+31. Inschrijver blijft eigenaar van het Independent Market Research & IT Advice. Gebruikers 
+verkrijgen gedurende en na afloop van de Raamovereenkomst het gebruiksrecht en mogen de 
+verkregen informatie delen binnen hun Instelling indien een bronvermelding wordt 
+pagina 4 van 4 
+toegevoegd. 
+32. Wanneer informatie over de organisatie van HR wordt verzameld, zal de informatie steeds 
+geanonimiseerd worden gebruikt door Inschrijver behoudens met ontzegging van HR. Het 
+onthouden van deze toestemming mag op generlei wijze de werking van de dienstverlening 
+beïnvloeden. 
+ 
+Rapportage en communicatie 
+33. U verzorgt maximaal 2 keer per jaar een digitale rapportage richting HR, waarin minimaal 
+de volgende informatie is opgenomen: 
+- Cumulatief overzicht in aantallen van geleverde aantal en soorten accounts; 
+- Aantal gebruikers per Deelnemer; 
+- Toegepaste tarifering; 
+- Extra dienstverlening; 
+- Beschikbaarheid; 
+- Gemiddelde responstijd. 
+34. U verzorgt op verzoek van de contractmanager van Aanbestedende dienst aanvullende informatie. 
+35. U streeft er naar rapportages online, met realtime data beschikbaar te stellen. 
+36. U verzorgt voor Aanbestedende dienst een vast aanspreekpunt tijdens de looptijd van de 
+Raamovereenkomst zowel op operationeel, tactisch als strategisch niveau. 
+37. Aanbestedende dienst behoudt het recht om gebruikerstevredenheid van de dienstverlening te 
+meten en te koppelen aan KPI’s (Key Performance Indicators). Wanneer de Gebruikerstevredenheid 
+onvoldoende is volgens de vooraf overeengekomen waardering, stemt u er mee in dat u een plan 
+opstelt om de gebruikersvriendelijkheid te verhogen, dit plan door Aanbestedende dienst laat 
+goedkeuren, en de verbeteringen uitvoert volgens het plan. 
+38. Tenminste eenmaal per jaar vindt een gesprek plaats met Partijen om de uitgevoerde 
+dienstverlening te bespreken. Minimaal de volgende onderwerpen komen aan de orde: 
+- Klachtafhandeling; 
+- Lopende issues; 
+- Gebruikerstevredenheid; 
+- KPI’s; 
+- Ontwikkelingen. 
+ 
+Facturatie & Betaling 
+39. U factureert de af te nemen dienstverlening maandelijks achteraf, waarbij Independent Market 
+Research & IT Advice dat is afgenomen in een bepaald kalender jaar ook gefactureerd wordt in 
+dat desbetreffende kalenderjaar.
+
+=== Document: nota van inlichtingen 2022-10-12-1 ===
+Nota van inlichtingen Independent market research & IT advice
+Pagina 1 van 4 Datum genereren nota van inlichtingen: 12-10-2022
+Aanbesteding: Independent market research & IT advice
+Aanbestedende Dienst: Stichting Hogeschool Rotterdam
+Referentie: 2022/080/FIT-IT
+Toelichting:
+Ref.nr. Onderwerp:
+1 opzeg van de overeenkomst
+Vraag:
+Is het mogelijk om de opzegperiode van de contracten te wijzigen naar 23 
+maanden in plaats van 11 maanden ?
+Antwoord:
+"In art. 4.2 van het contract staat: 4.2 Hogeschool Rotterdam heeft eenzijdig 
+het recht om de Raamovereenkomst onder gelijke voorwaarden tweemaal 
+voor een periode van maximaal 24 maanden te verlengen. De 
+Opdrachtnemer dient daaraan gehoor te geven. Uiterlijk op 01-07-2026 
+treden partijen in overleg om de uitvoering van de Raamovereenkomst te 
+evalueren en te bespreken of, en met welke periode, de Raamovereenkomst 
+zal worden verlengd. In art. 11.2 Hogeschool Rotterdam is te allen tijde 
+gerechtigd de Raamovereenkomst buiten rechte te ontbinden, dan wel op te 
+zeggen. Hogeschool Rotterdam zal de Opdrachtnemer schriftelijk in kennis 
+stellen van haar besluit daartoe en houdt daarbij een opzegtermijn van drie 
+maanden in acht. Wij zien nergens opzeggingsperiode van 11 maanden. 
+Indien u dit nader specificeert zullen wij hier alsnog op antwoorden.
+Beantwoord op: 12-10-2022
+Label: Contract
+Ref.nr. Onderwerp:
+2 verwerkersovereenkomst
+Vraag:
+Wij positioneren ons als verantwoordelijke van de verwerking en kunnen als 
+dusdanig geen verwerkersovereenkomst ondertekenen. Is dit aanvaardbaar ?
+Antwoord:
+Op het gebied van financiële afhandeling (contractbeheer, facturering, etc.) 
+van de dienstverlening begrijpen we dit standpunt. Maar als HR en FIT 
+kiezen wij wel voor het gebruik van Inschrijver en zullen ook 
+persoonsgegevens afstaan en laten verwerken voor het afnemen van de 
+dienst. Nu zijn dit niet de meest spannende gegevens (waarschijnlijk beperkt 
+tot naam en emailadres. In plaats van de verwerkersovereenkomst willen we 
+vragen dat Inschrijver dit officieel op papier zal zetten, zodat wij hier later 
+Nota van inlichtingen Independent market research & IT advice
+Pagina 2 van 4 Datum genereren nota van inlichtingen: 12-10-2022
+op kunnen terugvallen mocht er zich een privacy issue voordoen, omdat de 
+verwerkingsverantwoordelijke een flink aantal zaken op orde moet hebben 
+volgens de AVG.
+Beantwoord op: 12-10-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+3 intellectueel eigendom
+Vraag:
+In punt 31 van het Programma van eisen wordt vermeld dat het 
+gebruiksrecht ook na afloop van de overeenkomst doorloopt. Wij hanteren 
+de regel dat het gebruiksrecht afloopt op het einde van de overeenkomst voor 
+de betreffende dienst. Is het mogelijk deze wijziging op te nemen ?
+Antwoord:
+Deze wijziging kan worden opgenomen, waarbij we wel een 
+overbruggingsperiode willen vastleggen, indien contracten elkaar niet 
+aansluitend opvolgen.
+Beantwoord op: 12-10-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+4 bijkomende diensten
+Vraag:
+Niet alle diensten die wij aanbieden kunnen herleid worden tot een dienst 
+basis of plus. Is het toegelaten een afzonderlijke prijslijst met deze diensten 
+toe te voegen ?
+Antwoord:
+Een afzonderlijke prijslijst aanleveren is toegestaan.
+Beantwoord op: 12-10-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+5 omvang van de opdracht
+Vraag:
+De overeenkomst bepaalt dat een verlenging met maximum 2 jaren mogelijk 
+is onder dezelfde voorwaarden. Houdt dit in dat de prijs die nu opgegeven 
+Nota van inlichtingen Independent market research & IT advice
+Pagina 3 van 4 Datum genereren nota van inlichtingen: 12-10-2022
+wordt, geldig is voor een duur van 6 jaren ? Kan de maximumduur van de 
+overeenkomst beperkt worden tot 4 jaar ?
+Antwoord:
+"In concept raamovereenkomst is opgenomen: 5.2 De opgegeven prijzen 
+blijven ongewijzigd gedurende het eerste contractjaar. Daarna kan 
+Inschrijver per jaar een prijsverhoging/-verlaging voorstellen met als 
+maximum het CBS consumentenprijsindexcijfer (totaalindex, alle 
+huishoudens). Als basis voor de berekening van de eerste wijziging gaan we 
+uit van de maand voorafgaand aan de maand waarin de Raamovereenkomst 
+is ingegaan.
+5.3 Opdrachtnemer dient hiertoe uiterlijk twee (2) maanden voor gewenste 
+indexering een schriftelijk voorstel aan Hogeschool Rotterdam te doen. Na 
+goedkeuring door Hogeschool Rotterdam kan de indexering worden 
+doorgevoerd.
+Beantwoord op: 12-10-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+6 facturatie
+Vraag:
+Onze facturatie gebeurt jaarlijks. Is een wijziging van maandelijkse naar 
+jaarlijkse facturatie mogelijk ?
+Antwoord:
+Ja, prima jaarlijkse facturen.
+Beantwoord op: 12-10-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+8 omvang van de opdracht
+Vraag:
+De opdracht heeft een verwachte waarde van 200.000 Euro voor de initiële 
+looptijd van 4 jaar. Is dit het budget voor de 3 types van dienstverlening 
+(basis, plus en extra) of enkel voor de dienst basis ? En is dit het maximum 
+toegelaten bedrag van de aanbieding ?
+Antwoord:
+Dit is onze verwachting voor de drie delen o.b.v. het verleden. Het is niet het 
+maximum bedrag, echter als het veel hoger uitvalt zullen wij ons intern 
+Nota van inlichtingen Independent market research & IT advice
+Pagina 4 van 4 Datum genereren nota van inlichtingen: 12-10-2022
+moeten beraden over de dienstverlening.
+Beantwoord op: 12-10-2022
+Label: Inhoud
+
+=== Document: bijlage 2 kennisgebieden 1.0 ===
+Faciliteiten en 
+Informatietechnologie 
+ 
+ 
+ 
+ 
+ 
+Blaak 555 • 3011 GB Rotterdam • Postbus 25035 • 3001 HA Rotterdam 
+Tel. (010) 794 45 64 • hogeschoolrotterdam.nl 
+  
+ 
+ 
+ 
+ 
+Document ICT gebieden 
+ 
+- Inrichting van nieuwe datacentra 
+- Datacenters en infrastructuur; server, storage, netwerken (WAN, wireless), virtualisatie, cloud, 
+cloudtechnologie 
+- Het Nieuwe Werken (mobiel, BYOD) 
+- Mobiele platforms en devices, mobiele werkomgeving, Mobiel ontsluiten/ apps 
+- Mobiele en robuuste Netwerken 
+- Collaboration; voice, video, digitale samenwerkingsruimte 
+- Cloud (IaaS, PaaS en SaaS) 
+- Dienstverlening aan burgers en bedrijven (callcenters, kanalenstrategie) 
+- Strategisch Leveranciers- en categorie- en contractmanagement 
+- Control grote/politieke programma’s 
+- Hergebruik van bestaande instrumenten 
+- Opensource en standaardisatie 
+- End user devices; pc’s, smartphones 
+- Portfoliomanagement 
+- ICT beveiliging; cryptografie; data in flight, data at rest 
+- Cybersecurity 
+- Applicatie ontwikkeling en webservices 
+- Applicaties en apps 
+- Enterprise architectuur 
+- ICT-processen 
+- ICT-beheer 
+- ICT-innovatie 
+- Big data 
+- Business intelligence/ analytics 
+- Open source en open data 
+- Datamanagement 
+- Internet of things, smart cities/grids 
+- Archivering 
+- Digitale handtekening/identiteitsmanagement 
+- Project-, programma- en verandermanagement 
+- Stakeholdermanagement 
+- Risicomanagement en compliancy 
+- Sourcing 
+- Kwaliteit van dienstverlening en meten daarvan 
+- Gegevenskwaliteit 
+- ICT-organisatie en –processen, Organisatieontwikkeling 
+- Organisatie van (systeem-) ontwikkeling (Lean, agile etc) 
+- Transitie/migratie scenario's en best practices, IT-transformatie 
+- Nieuwe leveranciers en producten 
+ 
+pagina 2 van 2 
+- ICT-Productstrategieën van leveranciers en fabrikanten 
+- Productvergelijkingen met aandacht voor technische aspecten en financiële aspecten 
+- Benchmarks 
+- Lessons learned en Best practices 
+- Low code development 
+- Privacy 
+- UX 
+- Trends in I(C)T voor hoger onderwijs en onderzoek 
+- Data science (inclusief machine learning en deep learning) 
+- Continuïteitsmanagement, - planning (disaster/recovery in hybrid cloud infrastructure)
+
+=== Document: bijlage 3 referenties 1.0 ===
+Bijlage  3  -   Format  referentie -opgave behorende  bij openbare   Europese   aanbesteding   Independent Market Research & IT Advice Inschrijver dient voor de gevraagde referentie-opgave dit format te hanteren en ingevuld in te dienen bij zijn Inschrijving. Kopieer onderstaande format zo vaak als nodig en vul in.  Opgave referentieopdracht(en) KERNCOMPETENTIE: 1/ 2  1. Gegevens organisatie voor wie de referentieopdracht is uitgevoerd Naam organisatie: Soort organisatie: Vestigingsland organisatie: Naam contactpersoon: Contactgegevens contactpersoon (telefoonnummer/e-mailadres) : 2. Gegevens referentie-opdracht Naam, omvang en omschrijving van de referentieopdracht : Datum aanvang referentieopdracht : Datum afronding referentieopdracht : 3. Werkzaamheden referentieopdracht Korte beschrijving werkzaamheden, voor zover relevant voor deze referentie-uitvraag : Opdracht geheel zelfstandig uitgevoerd of in samenwerking met andere Ondernemers? Percentage van de referentieopdracht dat is uitgevoerd door de Inschrijver : Korte beschrijving van de in samenwerking uitgevoerde werkzaamheden : Ruimte voor eventuele relevante opmerkingen die niet elders in dit format passen :

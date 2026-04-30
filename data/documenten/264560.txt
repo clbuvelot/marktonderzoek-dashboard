@@ -1,0 +1,1197 @@
+=== Document: marktconsultatiedocument verkeers- en vervoermodellen ===
+Marktconsultatie Beheer, Actualisatie en Vernieuwing 
+strategische Verkeer – en Vervoermodellen 
+  
+  
+  
+  
+  
+  
+Datum 4 februari 2022 
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+ 
+MARKTCONSULTATIE BEHEER, ACTUALISATIE EN VERNIEUWING VERKEER – EN VERVOERMODELLEN 
+ 
+Colofon 
+Uitgegeven door Ministerie van Infrastructuur en Waterstaat  
+Rijkswaterstaat Water, Verkeer en Leefomgeving 
+ 
+Datum 4 februari 2022 
+Status Definitief 
+Versienummer 1.0 
+  
+ 
+ 
+  
+Projectnaam: Beheer, Actualisatie en Vernieuwing 
+Strategische Verkeer – en Vervoer Modellen 
+  
+Opdrachtgevende dienst (OGD): WVL 
+Projectmanager: Onno Miete, Benno van der Griendt, Frank 
+Hofman 
+Adviseur Inkoop: John van der Haar, Sander Knol 
+  
+  
+  
+ 
+MARKTCONSULTATIE BEHEER, ACTUALISATIE EN VERNIEUWING VERKEER – EN VERVOERMODELLEN 
+   
+1 Inleiding 
+Deze marktconsultatie van het team verkeer en vervoer van de afdeling Modellen en 
+Applicaties van Rijkswaterstaat WVL heeft als doel om marktpartijen te informeren 
+over het concept werkprogramma, hierover een eerste gedachtewisseling met elkaar 
+te hebben en eventuele suggesties  van de markt met betrekking tot de inhoud van 
+het werkprogramma en de wijze van samenwerken met elkaar op te halen. 
+ 
+Daarnaast wil RWS graag in gesprek over de manier waarop de markt benaderd 
+wordt – de inkoopstrategie. RWS zal deze marktconsultatie ook benutten om voor 
+verschillende onderdelen uit het werkprogramma te inventariseren of er één of 
+meerdere gegadigde marktpartijen zijn, zodat zij hier vervolgens de wijze van 
+marktbenadering (bijvoorbeeld openbaar Europees of gunning uit de hand) voor 
+deze onderdelen op af kan stemmen.  
+ 
+Belang van modellen voor Nederland 
+De verkeer en vervoermodellen staan aan de basis van veel beleidsanalyses, 
+verkeerskundige verkenningen en planuitwerkingen voor projecten op het 
+hoofdwegennet, hoofdvaarwegennet en spoor in Nederland. Ze bieden inzicht in de 
+voor- en nadelen van mogelijke opties of de effecten van verschillende alternatieven 
+van infrastructuuraanpassingen. Voor het hoofdwegennet en het spoornetwerk 
+worden het Landelijk Model Systeem (LMS) en de Nederlandse Regionale Modellen 
+(NRM) gebruikt, alsmede verschillende modellen hier omheen die invoer voor 
+LMS/NRM leveren dan wel uitvoer van LMS/NRM gebruiken.  
+ 
+Via vernieuwing, actualisatie en beheer worden de modellen en de jaarlijks 
+opgestelde referentieprognoses op orde gehouden. 
+ 
+Belang van vernieuwing 
+Het is belangrijk dat verkeer en vervoermodellen ook in de toekomst kunnen 
+worden gebruikt voor het genereren van de informatie die nodig is voor beleid en 
+uitvoering. Om dit te borgen wordt jaarlijks in beeld gebracht welke 
+informatiebehoefte beleid en uitvoering hebben en wat dat betekent voor de 
+modellen. In samenwerking met kennisinstellingen en de markt worden de kansen 
+voor innovaties opgepakt. Vernieuwing wordt onder andere mogelijk gemaakt door 
+informatie te verzamelen over het verplaatsingsgedrag van de Nederlandse 
+bevolking. Hiervoor wordt jaarlijks in opdracht van RWS een grootschalig onderzoek 
+uitgevoerd: het ODIN (Onderweg in Nederland (cbs.nl)). 
+ 
+Belang van actualisatie 
+De verkeer en vervoermodellen worden periodiek geactualiseerd. Dit betreft de 
+basisinformatie die in het model wordt gebruikt en de uitgangspunten die bij 
+toepassing van de modellen worden gehanteerd. Jaarlijks verschijnt een 
+geactualiseerde versie van de referentieprognoses met de modellen NRM/LMS, te 
+herkennen aan het jaartal - bijvoorbeeld NRM/LMS referentieprognoses 2021. Het 
+actueel houden van de referentieprognoses is niet alleen belangrijk vanwege de 
+informatiebehoefte van de gebruikers van de modellen zoals het Ministerie van 
+IenW, Rijkswaterstaat, ProRail, het PBL, andere overheden etc. maar ook ten 
+behoeve van de onderbouwing van besluiten van de Minister met betrekking tot 
+uitbreiding van de weg – of spoorwegcapaciteit. 
+ 
+Beheer,  kaders en advisering:  
+Via Beheer NRM/LMS wordt het modelinstrumentarium van de verkeer en 
+vervoermodellen uitgeleverd en worden verkeersrapporten van studies 
+gearchiveerd. Daarnaast worden kaders ontwikkeld voor het goed kunnen toepassen 
+van het modelinstrumentarium en wordt georganiseerd dat de software van de 
+ 
+MARKTCONSULTATIE SPOOR 2 KENNISPROGRAMMA ZEESPIEGELSTIJGING  
+ 
+Pagina 5 van 8 
+applicaties wordt beheerd. Een voorbeeld van een kader is het ‘Kader Toepassing 
+NRM’. Beheer is onlosmakelijk verbonden met advisering over de interpretaties van 
+de modelresultaten in studies. 
+ 
+Deze marktverkenning betreft werkzaamheden rond verkeer – en vervoermodellen 
+in 2022, 2023 en 2024. 
+1.1 Doel van de marktconsultatie  
+ 
+De scope van de markconsultatie betreft het werkprogramma 2022-2024, hierin zijn 
+de werkzaamheden gevat voor de verkeer – en vervoermodellen in 2022, 2023 en 
+2024 voor zover nu bekend. 
+ 
+Het doel van deze marktconsultatie is: 
+ De marktpartijen en kennisinstituten informeren over het voorgenomen 
+werkprogramma op hoofdlijnen voor de jaren 2022, 2023 en 2024 
+ De dialoog aan te gaan met de markt over de maakbaarheid van het 
+voorgenomen werkprogramma 
+ Inhoudelijke suggesties voor de aanpak van de projecten ophalen bij de markt  
+ De inkoopstrategie van het team verkeer en vervoer toelichten en reacties daarop 
+ontvangen om uitvragen te optimaliseren. 
+ Voor verschillende onderdelen uit het werkprogramma inventariseren of er één of 
+meerdere gegadigde marktpartijen zijn, zodat hier vervolgens de wijze van 
+marktbenadering (bijvoorbeeld openbaar Europees of gunning uit de hand) voor 
+deze onderdelen op afgestemd kan worden. 
+ Reacties ophalen van de marktpartijen over hoe nu wordt omgegaan met de 
+markt en met aanbestedingen en hoe RWS daarin kan optimaliseren. 
+1.2 Aanpak van de marktconsultatie op hoofdlijnen  
+De marktconsultatie bestaat uit een (digitale) bijeenkomst met alle partijen die zich 
+hebben aangemeld en een bijdrage willen leveren. Geïnteresseerde partijen wordt 
+verzocht om het marktconsultatiedocument (dit document) door te nemen teneinde 
+een constructieve bijeenkomst te hebben.  
+ 
+Tijdens de bijeenkomst zal Rijkswaterstaat plenair toelichten hoe het 
+werkprogramma eruitziet, welke producten geleverd moeten worden of welke 
+onderzoeken uitgevoerd moeten worden, welke tijdsplanning hieraan verbonden is 
+en het proces dat RWS hierbij voor ogen heeft. Vervolgens krijgen de marktpartijen 
+de gelegenheid vragen te stellen. 
+ 
+Vragen waar RWS middels deze marktconsultatie een antwoord op wil krijgen zijn: 
+1. Hoe kan RWS de markt het best benutten bij het bereiken van de 
+doelstellingen van het team verkeer – en vervoermodellen van RWS WVL? 
+2. Welke (specialistische) kennis kunt u inbrengen, waarom en ook 
+nadrukkelijk: welke niet? Dit mag u naderhand vertrouwelijk toesturen in 
+reactie op de vraag die na afloop van de marktconsultatie aan de 
+deelnemende partijen zal worden gesteld. De achterliggende vraag is: welke 
+inhoud is waar ‘te koop’ en is dit bestaande kennis of ten dele R&D? 
+3. Hoe kunnen deelprojecten efficiënt en effectief aanbesteed worden met 
+minimale inspanning voor zowel marktpartijen als RWS? Wat zijn hiervan de 
+gevolgen? Wat zijn slimme indelingen/bundelingen etc. zodat RWS de markt 
+optimaal benut en tevens optimaal stimuleert?  
+4. Wanneer zijn uitvragen voor u interessant (ook i.r.t. vraag 2), wat is 
+werkbaar en hoe borgen we onderlinge samenhang tussen uitvragen? 
+5. Hoe kijkt de markt aan tegen de huidige manier van uitvragen/aanbesteden 
+en inrichting/perceelopbouw? Wat zijn redenen om niet in te schrijven, 
+ 
+MARKTCONSULTATIE SPOOR 2 KENNISPROGRAMMA ZEESPIEGELSTIJGING  
+ 
+Pagina 6 van 8 
+schrijft RWS de te hanteren aanpak in te veel detail voor of juist niet (is er 
+voldoende ruimte om eigen ideeën in te brengen), etc. 
+ 
+ 
+Dagprogramma 18 februari 
+Tijd: 
+Programma Marktconsultatie 
+12.45 – 13.00  Digitale inloop deelnemers         
+13.00 – 13.10  Welkom Herma de Wilde, Directeur 
+Bereikbaarheid en Netwerkkwaliteit WVL  
+13.10 – 13.45 Presentatie werkprogramma (Onno 
+Miete, Benno van der Griendt, Frank 
+Hofman) 
+13.45 – 14.00 Pauze, inrichten discussie 
+14.00 – 15.00   Vragen en discussie a.d.h.v. 
+bovenstaande vragen 
+15.00 – 15.15 Introductie Rick Klijberg, Directeur 
+Bedrijfsvoering RWS WVL– relatie RWS - 
+markt 
+15.15 – 16.00 Discussie Inkoopstrategie en 
+samenwerking op basis van stellingen 
+16.00 – 16.15 Afsluitend woord Rick Klijberg  
+ 
+Na aanmelding ontvangt u een link naar de digitale omgeving waar de 
+marktconsultatie gehouden zal worden.  
+1.3 Doelgroep van de marktconsultatie  
+De marktconsultatie van het team verkeer en vervoer van WVL richt zich op alle 
+marktpartijen en kennisinstellingen die kennis en kunde/ervaring hebben in het 
+uitvoeren van werkzaamheden in relatie tot de strategische verkeer – en vervoer 
+modellen. Het gaat dan zowel om de ontwikkeling, de actualisatie, het beheer, de 
+toepassing als om de implementatie van de modellen in software. 
+  
+ 
+MARKTCONSULTATIE SPOOR 2 KENNISPROGRAMMA ZEESPIEGELSTIJGING  
+ 
+Pagina 7 van 8 
+2 Marktconsultatie  
+2.1 Procedure  
+ 
+RWS hanteert de volgende planning voor de marktconsultatie: 
+ 
+Activiteit  Datum  
+Publiceren Marktconsultatiedocument  4 februari 2022 
+Uiterste datum aanmelding  15 februari 2022 
+Marktconsultatie  18 februari 2022 
+Publiceren verslag en vragenlijst ter 
+invulling 
+11 maart 2022 
+Uiterlijke ontvangst input marktpartijen 1 april 2022 
+ 
+Belangstellenden kunnen aan bovenstaande planning geen rechten ontlenen.  
+RWS behoudt zich het recht voor de planning te wijzigen. Bovenstaande planning is 
+derhalve indicatief, waarbij de grootst mogelijke zorg in acht wordt genomen om de 
+planning aan te houden. 
+2.2 Aanmelding  
+Iedere geïnteresseerde marktpartij die voldoet aan hetgeen in paragraaf 1.3 is 
+beschreven en die van mening is dat zij een bijdrage kan leveren aan de 
+marktconsultatie, wordt verzocht om zich uiterlijk op de in paragraaf 2.1 genoemde 
+‘Uiterste datum aanmelding’ aan te melden bij rita.van.veldhoven@rws.nl, onder 
+vermelding van “Aanmelding marktconsultatie”. Vermeld hierbij uw naam, 
+organisatie en functie. Vragen kunt u ook via dit e-mailadres stellen. Per organisatie 
+mogen maximaal twee personen deelnemen. 
+2.3 Afronding marktconsultatie en terugkoppeling resultaten  
+Afronding van de marktconsultatie vindt plaats op de in paragraaf 2.1 genoemde 
+datum.  
+ 
+Het projectteam zal een verslag van de marktconsultatie op TenderNed publiceren. 
+In het verslag zullen de, naar het oordeel van het projectteam, belangrijkste 
+conclusies van de marktconsultatie opgenomen worden. In verband met dit verslag 
+wijst het projectteam marktpartijen uitdrukkelijk op het volgende:  
+ 
+1. Het verslag wordt met alle genodigden gedeeld c.q. op TenderNed gepubliceerd. 
+Marktpartijen verlenen toestemming aan het projectteam om door hen verstrekte 
+informatie en/of gegevens te gebruiken in dit verslag;  
+2. De beantwoording en andere informatie en/of gegevens zal/zullen 
+geanonimiseerd in het verslag worden opgenomen. Het verslag zal wel melding 
+maken van de deelnemende marktpartijen;  
+3. Het verslag bevat de conclusies zoals deze door het projectteam zijn verwoord. 
+(De inhoud van) het verslag zal niet in concept worden afgestemd met 
+deelnemende marktpartijen. In het verslag zal wel gemeld worden dat het 
+verslag de weergave van het projectteam behelst en dat dit niet 
+noodzakelijkerwijs gedeeld is door de deelnemende marktpartijen.  
+ 
+Na afloop van de marktconsultatie zal aan de individuele deelnemers de vraag 
+gesteld worden aan welke projecten men denkt een bijdrage te kunnen leveren. De 
+antwoorden op deze vraag kunnen gevolgen hebben voor de manier waarop voor 
+die projecten de markt benaderd zal worden. 
+ 
+MARKTCONSULTATIE SPOOR 2 KENNISPROGRAMMA ZEESPIEGELSTIJGING  
+ 
+Pagina 8 van 8 
+2.4 Vertrouwelijkheid  
+RWS neemt geen specifieke verwijzingen naar deelnemers of commercieel gevoelige 
+informatie op in de aanbestedingsstukken. De nagezonden informatie van 
+marktpartijen over hun kennis en kunde, alsmede de onderdelen waar zij geen 
+kennis van hebben, worden niet gepubliceerd en vertrouwelijk behandeld. 
+ 
+2.5 Overige bepalingen ten aanzien van de marktconsultatie  
+De marktconsultatie maakt geen onderdeel uit van een specifieke aanbesteding. Bij 
+zo’n eventuele aanbesteding bestaat geen onderscheid in de beoordeling tussen 
+partijen die al dan niet hebben deelgenomen aan de marktconsultatie. 
+ 
+Informatie in deze marktconsultatie kan afwijken van informatie die later (in het 
+kader van een aanbesteding of ander verwervingstraject) wordt verstrekt. Aan de 
+informatie die in het kader van de marktconsultatie wordt verstrekt kunnen geen 
+rechten worden ontleend. De informatie is indicatief en louter bedoeld om de 
+kwaliteit van de marktconsultatie en mogelijk volgende aanbestedingen te 
+verhogen. Indien deze informatie strijdig is met de informatie, die later (in het 
+kader van een aanbesteding of ander verwervingstraject) wordt verstrekt, is de 
+laatstgenoemde leidend. RWS WVL is niet gebonden aan de uitkomsten van de 
+marktconsultatie.  
+ 
+RWS kent geen onkostenvergoeding toe aan deelnemers van de marktconsultatie.
+
+=== Document: werkprogramma tbv marktconsultatie_def ===
+• Onder voorbehoud, naar beste inschatting van februari 2022 (geen rechten aan te ontlenen)
+• Excl. goederenvervoermodellen (werkzaamheden geprogrammeerd en uitgevoerd in meerjarig 
+partnerschap van marktpartijen en RWS)
+• Ingedeeld naar beheer, actualisatie en vernieuwing
+– Beheer: doorlopend
+– Actualisatie: jaarlijks light-update (uitgangspunten), eens per vier jaar grote actualisatie (incl. basisjaar)
+– Vernieuwing: eens per vier jaar ingebruikname nieuwe modelversies van NRM/LMS en tussentijds ook 
+vernieuwing overige modellen
+• Werkprogramma 2022-2024 in relatie tot vierjaarlijkse cyclus:
+• Sommige onderdelen in doorlopende contracten (met verschillende einddatum)
+1RWS INFORMATIE
+Werkprogramma V&V-modellen 2022-2024
+BP2019 
+(light)
+RP2021 
+(groot)
+RP2022 
+(light)
+RP2023 
+(light)
+RP2024 
+(light)
+RP2025 
+(groot)
+RP2026 
+(light)
+Werkprogramma 2022-2024
+Reguliere terugkerende zaken:
+• In basis cf huidige werkwijze met lopende contracten 
+– Gebruikersadvies, toetsing en ondersteuning (gegund t/m 2023/2024)
+– 2e lijns ondersteuning Groeimodel en Qblok (gegund t/m 2024)
+• Advisering t.b.v. beleidsstudies en toepassingen
+– Omgang met modellen t.a.v. RO (bijv. woningdeals), smart mobility en niet-infra maatregelen
+– Ondersteuning Vervanging en Renovatie, uitgaande van intensivering vraagstukken VenR
+– Toepassing indicatoren in planstudies en projecten (bijv. gebiedsgerichte afweging post IMA) 
+• Diverse kleine projecten
+– Kader Toepassing NRM actualiseren
+– Ad hoc adviesvragen
+– Communicatieproducten gericht op zichtbaarheid en kennis bij derden over modellen RWS
+2
+Beheer, advisering en kaders (1/2)
+Overig:
+• Verbeteren applicatie- en databeheer
+– (cyber)security verbeteren en kwetsbaarheden verminderen 
+– GITLAB: opzetten omgeving voor beheer en ontwikkeling, incl opzet procedures en instructie werkproces
+– SIG kwaliteitsmonitoring: analyse portfolio en automatische koppeling
+• Deskundig opdrachtgever: materie meer in de vingers krijgen / meer zelf doen
+– Omvang waarschijnlijk marginaal
+– Officiële en complexe berekeningen voor bijvoorbeeld planstudies en productiewerk gewoon via markt
+3
+Beheer, advisering en kaders (2/2)
+Reguliere terugkerende zaken:
+• Jaarlijkse light actualisatie referentieprognoses LMS/NRM (gegund voor RP2022+RP2023, optie RP2024)
+• Vierjaarlijkse grootschalige actualisatie referentieprognoses LMS/NRM
+– RP2025, met actualisatie basisjaar, ingebruikname nieuwe modelversies en implementatie nieuwe WLO
+• Jaarlijkse actualisatie autonetwerken (gegund voor RP2022+RP2023, opties RP2024 en RP2025)
+• Jaarlijkse actualisatie sociaaleconomische gegevens (gegund t/m RP2023)
+• Jaarlijkse middellange termijn prognose (MLT):
+– in 2022 MLT HWN 2022 (light update)
+– beoogd vanaf 2023: integrale middellange termijn prognose met LMS/NRM
+• Kleine zaken:
+– Actualisatie fietsnetwerken (frequentie variabel)
+– Actualisatie autobezitsmodel (frequentie variabel)
+– Actualisatie netwerk verrijkingsfactoren, afleiding groeifactoren
+4
+Actualisatie (1/2)
+Overig:
+• Update zonering LMS/NRM t.b.v. eerstvolgende basisjaar (in 2022)
+• Update toetskader kalibratie / kalibratiestrategie (in 2022)
+• Vervolg op onderzoek integratie LMS-NRM? (in 2022)
+• Onderzoek “big data” voor nieuwe basisjaar (in 2022)
+• Kleine zaken:
+– Hercalibratie basismatrices LMS t.b.v. RP2022 (gegund, in 2022)
+– Cursus Cube/NRM (gegund, in 2022)
+5
+Actualisatie (2/2)
+• Nader onderzoek naar bevindingen uit een uitgevoerde Review, uit het Backcast project en uit een 
+aantal andere voorbereidende projecten zoals het project Restpunten openbaar vervoer
+• Verbeteringen uit verschillende vooronderzoeken meenemen bij de realisatie van “GM4.X”, de versie 
+voor de volgende IMA, herschat op dezelfde gedragsgegevens (OVIN 2015-2017) maar met 
+specificatieverbeteringen. Realisatie gereed eind 2023
+6
+Vernieuwing Groeimodel
+• Vernieuwing AEOLUS 
+– Software
+– Vlootsamenstelling
+– CO2 emissies
+• Autobezitsmodel SPARK
+– Testen van usecases, Oplossen eventuele kinderziektes, werkzaamheden om de overgang DYNAMO – SPARK goed te laten verlopen.
+• Analyse basisjaar t.b.v. IMA 2025
+• Integrale MLT
+• Deelmobiliteit hubs en MaaS
+• Smart Mobility
+• Mobiliteitsscan
+– 2022 focus op integraal maken (OV, fiets, modal shift)
+– Later door ontwikkelen samen met derden, focus op optimaliseren toepassing
+7
+Overige vernieuwing (1/2)
+• ALBATROSS
+– Documenteren, technisch + Handleiding
+– Verrijken m.b.t. keuzes thuis – versus buitenshuis
+– Software onderzoeken
+• Grensoverschrijdend verkeer en vervoer
+• Algemeen evenwichtsmodel woon – werk lokaties – verbeteren modelleren pendel
+• QBLOK – wensvraag concept actualiseren/verbeteren
+• QBLOK – routekeuze vooraf, beperkt aantal routes per H-B
+• TIGRIS XL – vervolg op basis van aanbevelingen review commissie
+• LMS BT vernieuwen op basis van nieuw geschatte modellen op FCD
+• Nadere analyses en verbetering indicatoren
+8
+Overige vernieuwing (2/2)
+• Is dit werkprogramma herkenbaar? Zijn er zaken die jullie nog missen?
+• Inhoudelijke suggesties voor de onderdelen uit het werkprogramma?
+• Is het werkprogramma maakbaar?
+• Overige aandachtspunten bij het werkprogramma?
+• Terugkijkend naar 2021: leerpunten t.a.v. inkoop en realisatie?
+9
+Vragen
+
+=== Document: 220304-belangstellingspeiling marktconsultatie_def ===
+Beste dee lnemers aan de marktconsultatie en  overige  geïnteresseerden, Zoals aangekondigd tijdens de marktconsultatie  op 18 februari 2022   willen  we jullie vragen om aan te geven voor welke projecten jullie belangstelling hebben en welke kennis en expertise jullie kunnen inbrengen bij die projecten. We zouden jullie willen vragen bijgevoegd formulier in te vullen en  vóór  1 april 2022  te sturen aan   rita.van.veldhoven@rws.nl .  De door jullie aangeleverde informatie zal vertrouwelijk worden gehouden , zie ook de voorwaarden voor deze belangstellingspeiling  zoals hieronder benoemd .  RWS zal deze belangstellingspeiling ook benutten om voor verschillende onderdelen uit het werkprogramma te inventariseren of er één of meerdere gegadigde marktpartijen zijn, zodat zij hier vervolgens de wijze van marktbenadering (bijvoorbeeld openbaar Europees of gunning uit de hand) voor deze onderdelen op af kan stemmen. Voorwaarden: RWS neemt geen specifieke verwijzingen naar deelnemers of commercieel gevoelige informatie op in de aanbestedingsstukken. Deze nagezonden informatie van marktpartijen over hun kennis en kunde, alsmede de onderdelen waar zij geen kennis van hebben, worden niet gepubliceerd en vertrouwelijk behandeld. Deze belangstellingspeiling maakt geen onderdeel uit van een specifieke aanbesteding. Bij zo’n eventuele aanbesteding bestaat geen onderscheid in de beoordeling tussen partijen die al dan niet hebben deelgenomen aan de marktconsultatie. Informatie in deze belangstellingspeiling kan afwijken van informatie die later (in het kader van een aanbesteding of ander verwervingstraject) wordt verstrekt. Aan de informatie die in het kader van de belangstellingspeiling wordt verstrekt kunnen geen rechten worden ontleend.  Uw aangeleverde informatie is bedoeld om de kwaliteit van eventueel mogelijk volgende aanbestedingen te verhogen en eventuele wijze van marktbenadering te kunnen bepalen. RWS WVL is niet gebonden aan de uitkomsten van deze belangstellingspeiling. Met vriendelijke groet, F rank Hofman senior adviseu r Organisatie Naam contactpersoon e-mail adres Telefoon nummer Projecten Interesse (j/n) Kennis en expertise  van uw organisatie in relatie tot dit project Advisering t.b.v. beleidsstudies en toepassingen Kader toepassing NRM  (Nederlands Regionaal Model)  actualiseren Communicatieproducten gericht op zichtbaarheid en kennis bij derden over modellen RWS Verbeteren  applicatie - en databeheer Eerstvolgende  grootschalige actualisatie referentieprognoses  LMS/NRM , met  mogelijke onderdelen als  actualisatie basisjaar  en/of  ingebruikname nieuwe modelversies en /of  implementatie nieuwe WLO   A ctualisatie sociaaleconomische gegevens  voor de prognosejaren (huidige contract loopt nog tot begin 2023) Actualisatie sociaaleconomische gegevens voor een nieuw basisjaar vanaf 2023: integrale middellange termijn prognose met LMS/NRM Actualisatie fietsnetwerken Actualisatie autobezitsmodel Actualisatie netwerk verrijkingsfactoren, afleiding groeifactoren Update zonering LMS/NRM t.b.v. eerstvolgende basisjaar Update toets - kader kalibratie / kalibratiestrategie  LMS/NRM Verv olg op onderzoek integratie LMS/ NRM , bijvoorbeeld:  aanpassingen uitwerken en uitvoeren om kalibratie van één gezamenlijke basismatrix mogelijk te maken (oplossen aggregatieprobleem) Onderzoek “big data” voor nieuwe basisjaar Nader onderzoek naar  een aantal  bevindingen  rondom Groeimodel versie 4 Bouw nieuwe versie GM4.X – geschat op OVIN 2015, 2016 en   2017 maar met specificatieverbeteringen Vernieuwing AEOLUS – herziening software Vernieuwing AEOLUS  – bijv. vlootsamenstelling, CO2 emissies Autobezitsmodel SPARK: testen, overgang DYNAMO – SPARK faciliteren Opbouw data en methode  voor een zgn. “ analysebasisjaar ”   (een recentere ‘huidige situatie’ dan het modelbasisjaar dat onder de motorkap van het model zit, om prognoses tegen af te kunnen zetten)  t.b.v. de  eerstvolgende  Integrale Mobiliteits-Analyse Test integrale MLT in 2022 Test functionaliteit GM deelmobiliteit , hubs  en  MaaS Na vooronderzoeken vaststellen werkwijze  in/met modellen  m.b.t. Smart  Mobility   Werkzaamheden aan de Mobiliteitsscan (integraal maken en door ontwikkelen) ALBATROSS documenteren, verrijken ALBATROSS software assessment Modellering g rensoverschrijdend verkeer en vervoer QBLOK –  “ wensvraag ”  concept aanpassen/actualiseren . (om te corrigeren voor de extra verkeersvraag waardoor file ontstaat) QBLOK – routes buiten iteraties om genereren TIGRIS XL – vervolgstappen na wetenschappelijke review Nadere analyses en verbeteringen indicatoren gebruikt in de Integrale Mobiliteits-Analyse 2021 Lijst van afkortingen: NRM Nederlands Regionaal Model LMS Landelijk Model Systeem GM Groeimodel van LMS/NRM) MLT Middellange Termijn Prognose AEOLUS Luchtvaartprognosemodel QBLOK Toedelingsmodel van LMS/NRM voor het wegverkeer MaaS Mobility as a Service ALBATROSS A Learning Based Transportation Oriented Simulation System  (activity-based  vervoermodel ) TIGRIS XL Landgebruik en transport interactie m odel WLO Welvaart- en Leefomgevingsscenario’s van PBL/CPB (input voor de modellen) DYNAMO Dynamic  Automobile Market Model (h uidige  personen auto park model ) SPARK Strategisch Personenauto Rekenkader (n ieuwe  personenautopark model ) Eventuele overige zaken die u ons mee wilt geven in relatie tot ons werkprogramma: Eventuele overige zaken die u ons mee wilt geven in relatie tot inkoopstrategie en samenwerking:
+
+=== Document: 20220310 - marktconsultatie - verslag-def ===
+RWS INFORMATIE - PERSOONSVERTROUWELIJK 
+ 
+Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen 
+verslag bijeenkomst 18 februari 2022 
+ 
+ 
+ 
+ 
+ 
+Datum 8 maart 2022 
+Versie 0.3 
+Status CONCEPT 
+ 
+  
+ 
+ 
+Pagina 2 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+Colofon 
+Uitgegeven door Rijkswaterstaat, Water Verkeer en Leefomgeving 
+Auteur Frank Hofman 
+Telefoon +31 6 52306337 
+E-mail frank.hofman@rws.nl 
+  
+Datum 8 maart 2022 
+Versie 0.3 
+Status CONCEPT 
+ 
+ 
+Versiebeheer 
+0.1 23-02-2022 Uitwerking eerste concept (Amélie Donga) 
+0.2 25-02-2022 Tekstuele correcties op eerste concept (Amélie Donga) 
+0.3 08-03-2022 Correcties van Frank Hofman en Benno v/d Griendt 
+doorgevoerd (Amélie Donga) 
+   
+   
+   
+   
+   
+ 
+  
+ 
+ 
+Pagina 3 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+Inhoud 
+1  Welkom en Inleiding  4 
+1.1 Programma Marktconsultatie  4 
+1.2 Gesprek met Herma de Wilde, Directeur Bereikbaarheid en  
+Netwerkkwaliteit WVL  4 
+2 Presentatie werkprogramma V&V-modellen 2022-2024  6 
+2.1 Toelichting werkprogramma 6 
+2.2 Vragen en opmerkingen 6 
+3 Vragen / discussie over Werkprogramma V&V-modellen  7 
+3.1 Vragen  7 
+3.2 Reacties, opmerkingen en vragen  7 
+4 Discussie Inkoopstrategie en samenwerking RWS-markt  12 
+4.1 Introductie Rick Klijberg, Directeur Bedrijfsvoering RWS WVL  12 
+4.1.1 Signaal over samenwerking RWS-markt 12 
+4.1.2 Reacties  12 
+4.2 Discussie Inkoopstrategie  14 
+4.2.1 De stellingen  14 
+4.2.2 Vragen/opmerkingen  15 
+5 Afsluiting  16 
+5.1 Afsluitend woord Rick Klijberg  16 
+5.2 Afsluitend woord Herma de Wilde  16 
+ Deelnemerslijst  17 
+ Bijlagen  18 
+ 
+  
+ 
+ 
+Pagina 4 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+● Welkom en Inleiding 
+Nanda van der Kleijn, hoofd afdeling kennisinkoop bij Rijkswaterstaat WVL en 
+voorzitter van deze marktconsultatiemiddag, heet de aanwezigen welkom en geeft 
+een toelichting op het programma van deze middag. 
+Het verslag van deze middag en de presentaties worden gedeeld. 
+1.1 Programma Marktconsultatie 
+ 
+13.00 – 13.10 uur Welkom en Inleiding 
+Gesprek met Herma de Wilde, Directeur Bereikbaarheid en 
+Netwerkkwaliteit WVL 
+13.10 – 13.45 uur Presentatie werkprogramma V&V-modellen 2022-2024 
+13.45 – 14.00 uur Pauze 
+14.00 – 15.00 uur Vragen en Discussie n.a.v. het werkprogramma 
+15.00 – 15.15 uur Introductie Rick Klijberg, Directeur Bedrijfsvoering RWS WVL 
+Gesprek over de relatie RWS - markt 
+15.15 – 16.00 uur Discussie Inkoopstrategie en samenwerking op basis van stellingen 
+(Mentimeter) 
+16.00 – 16.15 uur Afsluitend woord Rick Klijberg 
+ 
+1.2 Gesprek met Herma de Wilde, Directeur Bereikbaarheid en 
+Netwerkkwaliteit WVL  
+Herma de Wilde stelt zich voor aan de aanwezigen. Zij is directeur Bereikbaarheid 
+en Netwerkkwaliteit bij Rijkswaterstaat WVL. De bijeenkomst deze middag gaat over 
+de modellen die erbij helpen de discussie over bereikbaarheid goed te kunnen 
+voeren. Herma is blij met de opkomst. De inbreng van de deelnemers is nodig om te 
+bespreken hoe WVL de werkopgaven die zij voor ogen heeft ook kan realiseren met 
+hulp en ondersteuning van de markt. 
+RWS heeft het voornemen om regelmatig marktconsultaties te organiseren, en nu 
+doen we het ook echt. Herma vindt het een goed iniatief om – al is het digitaal – 
+met de aanwezige partijen dit gesprek te hebben, en zij hoopt op een open en 
+mooie dialoog waar RWS als organisatie verder mee kan. 
+1.2.1 Vragen aan Herma  
+ Wat is het beeld van Herma bij het belang van modellen en applicaties voor 
+Nederland? 
+In de afgelopen Corona-periode is wel gebleken hoe belangrijk de modellen (in 
+dit geval van het RIVM) waren en nog steeds zijn, voor prognoses en 
+beleidsontwikkeling. 
+Voor de infrastructuur heeft Rijkswaterstaat o.a. de verkeers- en 
+vervoermodellen, en de informatie daaruit is nodig om beleid te ontwikkelen 
+voor personen- en goederenvervoer. We hebben daarvoor modellen en de 
+informatie uit die modellen is nodig voor ondersteuning van verkenningen en 
+planuitwerkingen, en naar de toekomst toe bij ontwikkelingen zoals 
+verduurzaming en nieuwe thema’s die ingeregeld moeten worden.  
+Belangrijk is dat de modellen betrouwbaar, transparant, uitlegbaar en 
+wetenschappelijk onderbouwd zijn. Ze zijn immers noodzakelijk in 
+besluitvormingsprocessen. Wat RWS doet heeft grote impact op de Nederlandse 
+maatschappij. 
+ 
+ 
+Pagina 5 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+ Liggen daar voor Herma ook de uitdagingen? 
+De uitdaging ligt erin te zorgen dat het actueel is, dat het transparant is, dat de 
+uitkomsten kloppen, dat het gevalideerd is. De uitdagingen hebben ook te 
+maken met de ontwikkelingen waarop RWS antwoorden moet formuleren, zoals 
+recent de invoering van 100 km/u door de stikstofsituatie. Vooruitlopend op zo’n 
+beleidsbesluit moet worden gekeken naar wat het effect hiervan is, wat dit 
+betekent voor het OWN, etc. De informatie uit de modellen hierover wordt 
+gebruikt om beleid te ondersteunen. Het is dus van belang om nieuwe 
+ontwikkelingen ook te kunnen verankeren in de modellen om toekomstige 
+beleidsondersteuning te kunnen geven.  
+ Waarom een marktconsultatie? Wat is het belang van deze consultatie? 
+Dat is tweeledig, volgens Herma. RWS wil graag het werkprogramma 
+presenteren en informatie geven, de dialoog met de markt aangaan. Met een 
+marktconsultatie krijgen we misschien ook suggesties en ideeën, hoe het werk 
+anders of efficiënter kan. RWS wil de inkoopstrategie ook zo goed mogelijk 
+vormgeven o.b.v. deskundigheid en mogelijkheden die in de markt aanwezig 
+zijn. 
+ Wanneer is Herma tevreden over deze bijeenkomst? 
+Zij is al tevreden met de opkomst. RWS zal zo goed mogelijk het programma 
+voor komende 2/3 jaar aangeven. Herma roept de aanwezigen op om daarin 
+mee te denken en suggesties te geven. Het is belangrijk dat iedereen eind van 
+de middag heeft kunnen zeggen, wat hij/zij gezegd wilde hebben en dat het een 
+open gesprek zal zijn. 
+1.2.2 Vragen en opmerkingen 
+ Zou het niet verstandig zijn om een aantal van dit soort marktconsultaties i.p.v. 
+één consultatie te houden? 
+Het kan zijn dat dit de uitkomst is van deze middag, maar er moet ergens mee 
+gestart worden. Het kan ook zijn dat er over specifieke onderwerpen in een 
+kleiner comité nog nadere invulling noodzakelijk wordt geacht. 
+  
+ 
+ 
+Pagina 6 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+2 Presentatie werkprogramma V&V-modellen 2022-2024 
+2.1 Toelichting werkprogramma 
+Onno Miete geeft aan de hand van bijgevoegde presentatie een toelichting op het 
+werkprogramma (programma op hoofdlijnen naar beste inschatting van februari 
+2022 [hieraan zijn geen rechten te ontlenen]). 
+Het werkprogramma is ingedeeld naar reguliere terugkerende zaken en overige 
+zaken betreffende: 
+ Beheer 
+Projectleider: Benno v/d Griendt 
+Doorlopend beheer 
+ Actualisatie  
+Projectleider: Onno Miete 
+Jaarlijks een light-update (uitgangspunten), eens per vier jaar een grote 
+actualisatie (incl. basisjaar) 
+ Vernieuwing  
+Projectleider: Frank Hofman  
+Eens per vier jaar ingebruikname van de nieuwe modelversies van NRM/LMS en 
+tussentijds ook vernieuwing van overige modellen 
+Dit werkprogramma is exclusief de goederenvervoermodellen. Deze werkzaamheden 
+zijn geprogrammeerd en worden uitgevoerd in een meerjarig partnerschap van 
+marktpartijen en RWS. 
+Enkele onderdelen van het werkprogramma zijn nog ondergebracht in lopende 
+contracten (met verschillende einddata). 
+2.2 Vragen en opmerkingen 
+ Is er een overzicht welke modellen en tools onder het werkprogramma vallen? 
+Dit komt in de presentatie van het werkprogramma aan de orde. Er zal achteraf 
+nog een lijst rondgaan met de vraag om aan te geven over welke modellen en 
+applicaties partijen expertise in huis hebben, en waar hun interesse ligt als het 
+gaat om opdrachten die RWS de komende jaren wil gaat uitzetten. Daarin komt 
+ook de lijst met modellen en applicaties weer terug. 
+ 
+  
+ 
+ 
+Pagina 7 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+3 Vragen / discussie over Werkprogramma V&V-modellen 
+3.1 Vragen 
+In de presentatie van zojuist is informatie verstrekt over het werkprogramma.  
+Frank Hofman wil in dit onderdeel de volgende kernvragen met de deelnemers 
+bespreken: 
+1. Is dit werkprogramma herkenbaar? Zijn er zaken die jullie nog missen? 
+2. Inhoudelijke suggesties voor de onderdelen uit het werkprogramma? 
+3. Is het werkprogramma maakbaar? 
+4. Overige aandachtspunten bij het werkprogramma? 
+5. Terugkijkend naar 2021: leerpunten t.a.v. inkoop en realisatie? 
+3.2 Reacties, opmerkingen en vragen 
+ Opmerking: ik ben bezig om betreffende bereikbaarheid voor groepen in de 
+samenleving open source tools te ontwikkelen (CROW-opdracht). Er wordt 
+opgeroepen om daar ook naar te kijken in deze discussie.  
+ Opmerking: De maakbaarheid heeft natuurlijk ook een relatie met hoe jullie 
+e.e.a. in de tijd willen zetten. Hebben jullie al een soort planning voor de 
+komende 3 jaar wanneer wat ongeveer uitgevraagd gaat worden?  Reactie: onze 
+planning is nog op hoofdlijnen en onzeker. 
+ Opmerking: Wat ik mis is het meetbaar maken van bereikbaarheid - ook in 
+relatie tot de bevolkingssamenstelling en het verdelingsvraagstuk in het 
+werkprogramma. IMA kijkt naar gemiddelden, maar daarmee mis je de 
+mogelijkheden van mensen met een lager inkomen die vaak geen auto hebben.  
+In het werkprogramma staat o.a. de doorontwikkeling van indicatoren, en zaken 
+als brede welvaart, vervoerongelijkheid, etc. hebben de aandacht van DGMo. 
+RWS heeft dus zeker de intentie om daarin stappen te gaan zetten. 
+Onno Miete heeft aangegeven dat er ook nieuwe omgevingsscenario’s gaan 
+komen en kan zich voorstellen dat dit één van de aspecten is die daar 
+geadresseerd gaan worden, en uiteindelijk in de modellen een plek zullen gaan 
+krijgen. 
+ Opmerking: ik ben betrokken bij de verstedelijkingsopgave van de regio 
+Breda/Tilburg en daarin is geconcludeerd dat de vervoerongelijkheid de 
+afgelopen decennia alleen maar is toegenomen, met de huidige 
+beleidsmaatregelen alleen maar verder toeneemt en dat dit aspect heel goed in 
+de verstedelijkingsopgave moet worden meegenomen, omdat ook RO 
+ontzettend belangrijk hierin is. Het zou mooi zijn, omdat ook de vier grote 
+steden hiermee graag verder willen, als bezien kan worden hoe hierin samen 
+opgetrokken kan worden. De mobiliteits- en bereikbaarheidsmodellering kan een 
+belangrijke bijdrage leveren aan dit soort vraagstukken. 
+ Opmerking: De laatste IMA is net gedaan. Wat zouden we beter, meer of anders 
+willen doen de komende jaren als de volgende IMA weer begint? 
+Frank Hofman denkt dat het klimaatbeleid een van de aspecten is waarvoor we 
+gesteld moeten staan vóór de volgende IMA. Dit komt ook terug in het overzicht 
+van activiteiten die RWS wil gaan uitvoeren, en in de afspraken die met DGMo 
+zijn gemaakt.  
+ Opmerking: Marktpartijen zouden eigenlijk steeds aan RWS suggesties moeten 
+doen, dus wat minder afwachtend zijn, en actief ideeën moeten kunnen 
+aandragen. 
+Benno v/d Griendt merkt op dat RWS niet alles zelf initieert, maar dat het mede 
+een gevolg is van wat beleid aan RWS vraagt. Bij beleid is de nadrukkelijke 
+wens om het NRM/LMS niet complexer te maken, maar eerst goed te kijken wat 
+ 
+ 
+Pagina 8 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+met de huidige ‘knoppen’ gedaan kan worden. Dat is dus ook de context van 
+hoe aspecten van het werkprogramma tot stand zijn gekomen.  
+Ook zonder nieuwe ‘knoppen’ zijn nog veel verbeteringen mogelijk, en deze 
+marktconsultatie is er juist voor bedoeld om meer in dialoog te zijn. Frank 
+Hofman onderstreept dat deze marktconsultatie vanuit RWS een uitnodiging is 
+aan alle deelnemers om te helpen en mee te denken. 
+ Opmerking: De toename van thuiswerken kan effect hebben op mobiliteit en de 
+spreiding over de dagen van de week. In de werkdagmatrices wordt nog geen 
+rekening gehouden met grote verschillen over de dagen van de week. Is het niet 
+verstandig om daar ook goed naar te kijken? 
+Frank Hofman is het daarmee eens. Enige tijd geleden heeft RWS een 
+consultatie gedaan van enkele wetenschappers/hoogleraren en is o.a. de vraag 
+gesteld hoe omgegaan zou moeten worden met de verdere digitalisering van de 
+samenleving met zaken als e-shopping, thuiswerken, etc. Toen is het advies 
+gegeven dat RWS misschien meer richting op activiteiten gebaseerde modellen 
+zou moeten gaan voor dit soort vraagstukken. In het werkprogramma wordt 
+ALBATROSS genoemd, en dat is een model dat naar voren geschoven is om te 
+kunnen helpen bij dit soort vraagstukken. 
+Vervolgens moeten de uitkomsten worden doorvertaald naar uitspraken die nu 
+over het algemeen met het LMS worden gedaan. 
+In het verleden is al een keer een project uitgevoerd om deze koppeling te 
+realiseren, maar wellicht dat dit opnieuw zal moeten worden gedaan om de 
+aansluiting op de kernmodellen vorm te geven. 
+ Opmerking: T.a.v. de waardering van de reistijd is het zo dat mensen graag in 
+de trein werken, wat van reistijd werktijd maakt. Dat is in de modellen niet 
+terug te zien. In het deltaplan van Noord-Nederland is aangelopen tegen het 
+vraagstuk hoe om te gaan met het fenomeen dat mensen graag reizen met de 
+trein vanwege het werken, en hoe om te gaan met de mogelijkheid dat mensen 
+dit in de toekomst ook in de auto kunnen doen. 
+Frank Hofman merkt op dat er momenteel een tijdwaarderingsstudie loopt bij 
+het KiM, waarin de tijdwaardering zal worden herzien en geactualiseerd. De 
+verwachting is dat de aspecten die Henk noemde hierin terug te vinden zijn. Die 
+tijdwaarderingen spelen een kleine rol in de RWS-modellen. Als echter de 
+modellen worden herschat op basis van geactualiseerd gedrag, dan zal dat ook 
+in de gevoeligheden voor reistijd terugkomen. 
+ Terugkomend op hetgeen zojuist is gezegd over ontwikkelingen die door 
+marktpartijen gedaan worden: In Utrecht is een vragensteller nadrukkelijk bezig 
+met parkeerbeleid (o.a. parkeren op afstand) als instrument om mensen uit de 
+auto te krijgen, in combinatie met het aanbieden van goede alternatieven. 
+Parkeerbeleid wordt nog gemist in het werkprogramma, en als ‘knop’ in tools. 
+Parkeren vindt RWS ook een belangrijk thema, aldus Frank Hofman. Afgelopen 
+jaar is een vooronderzoek gestart of parkeren beter in de modellen kan worden 
+opgenomen, maar dat onderzoek is nog niet afgerond. Hiervoor is nieuwe data 
+gebruikt die TNO heeft gegenereerd op basis van een GIS-analyse van allerlei 
+basisregistraties, omdat informatie over het beschikbare parkeerareaal lastig te 
+krijgen is. De wens is die informatie mee te nemen in de toekomstige modellen, 
+zodat parkeercapaciteit daarin een rol gaat spelen. Parkeren is een complex 
+onderwerp, maar de indruk is dat hiermee wel een slag gemaakt kan worden. 
+ Opmerking: Er zijn dus al ontwikkelingen geweest en leerervaringen opgedaan. 
+De vraag is of er behoefte aan is bij RWS om dat over te nemen of daarvan 
+gebruik te maken. 
+Het aanbod om een reeds ontwikkelde code een rol te laten spelen, vindt Frank 
+Hofman interessant, en hij denkt dat hierover in gesprek moet worden gegaan 
+(wat kunnen we hiermee doen en onder welke condities) 
+ 
+ 
+Pagina 9 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+Benno v/d Griendt merkt op dat dit raakt aan een opmerking in de chat die is 
+gemaakt over open source ontwikkelingen. Over de vraag of RWS helemaal 
+open source kan/mag/wil is echter nog geen standpunt bepaald. Er worden al 
+wel stapjes gezet bij bijvoorbeeld de Mobiliteitsscan met de inrichting van de 
+zgn. proeftuin waarin derden modules kunnen ontwikkelen.  
+Geconstateerd wordt dat dit een latere stap is in een traject waarin 
+leerervaringen worden gedeeld. 
+ Opmerking: Het is belangrijk om de reikwijdte van de modellen in de gaten te 
+houden. Een aantal eerder genoemde punten is op gemeentelijk/regionaal 
+niveau een belangrijker vraagstuk dan op landelijk niveau. De modellen moeten 
+niet te complex gemaakt worden, maar moeten de vragen van beleid kunnen 
+beantwoorden. Dat moet het belangrijkste kompas zijn. 
+Opmerking: Transparantie is erg belangrijk. Getoond moet worden wat er ‘onder 
+de motorkap’ gebeurt, hoe de reiziger zich gedraagt en welke keuzes de reiziger 
+kan maken. Daarbij is de parkeermogelijkheid geen detail, want de optelling van 
+details betreft grote aantallen. Het lokale beleid kan wel degelijk landelijk 
+impact hebben. 
+De eerdere opmerking m.b.t. de reikwijdte bedoelde aan te geven dat ervoor 
+gewaakt moet worden dat in het landelijk systeem kunstmatig wordt getracht 
+iets in te bouwen wat de suggestie wekt dat je verantwoord op gedetailleerd 
+niveau dit kunt modelleren. Dat hoort op een ander detailniveau. De oproep is 
+dus: hou de reikwijdte van het model in de gaten (waar pas ik het voor toe en 
+wat heb ik daarvoor nodig). 
+Frank Hofman bevestigt dat het belangrijk is de reikwijdte van het model in de 
+gaten te houden. 
+ Opmerking: ik sluit me aan bij de eerdere vraag over wat je bij de volgende IMA 
+beter zou willen doen, en bij een andere gemaakte opmerking over het parkeren 
+in de steden. Ik weet dat er in de afgelopen jaren verbeteringen zijn 
+doorgevoerd in het LMS/NRM voor stedelijk verkeer, maar bij de presentatie van 
+de IMA bleken de steden hier kritisch over. Omdat het landelijk beleid en 
+stedelijk beleid invloed op elkaar hebben, zou het zinvol zijn om dit toch dichter 
+bij elkaar te brengen procesmatig, maar ook inhoudelijk. Dat wordt enigszins 
+gemist in het werkprogramma voor de komende jaren. 
+ Vraag: wordt er nog iets specifiek gedaan voor vervanging en renovatie? 
+Frank Hofman verwacht dat het instrument voor de iMLT-prognose een rol kan 
+spelen bij vraagstukken rond VenR, m.n. betreffende hinder. Het is vooral een 
+toepassingsvraagstuk voor bestaande instrumenten, en wat nieuwe 
+ontwikkelingen betreft, verwacht Frank dus dat de iMLT-prognose de 
+belangrijkste tool daarin zal zijn. 
+Benno v/d Griendt: in combinatie met het kunnen toedelen, toepassen en kijken 
+naar kritieke netwerkschakels. Intern is nog niet duidelijk of die vragen bij WVL 
+terecht zullen komen, of bij de regio’s zullen blijven. 
+ Vraag: Bij verbeteren applicatiebeheer zijn cyber(security), GITLAB en SIG 
+genoemd. Security en kwaliteit (SIG) zijn duidelijk. Wat is het achterliggende 
+idee en doel bij gebruik van GITLAB? 
+Benno v/d Griendt merkt op dat binnen de alliantie voor goederenvervoer 
+GITLAB ook is gebruikt om de verschillende software/data te beheren en beter 
+om te gaan met issues die spelen en verschillende versies die er zijn. Daarover 
+zijn collega’s erg enthousiast, en daarom wil WVL dit uitrollen voor de rest van 
+de applicaties.  
+ Vraag: In hoeverre blijft CUBE het platform waar alles in opgeleverd moet 
+worden? Licentie-/onderhoudskosten van CUBE worden steeds hoger. 
+Dit inzicht is nieuw voor Benno v/d Griendt.  
+Frank Hofman merkt op dat bij ProRail Visum wordt gebruikt, en de 
+ 
+ 
+Pagina 10 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+communicatie Visum/Cube niet altijd makkelijk is. Het is dus een belangrijk punt 
+van aandacht hoe hiermee in de toekomst om te gaan. 
+Visum brengt nog hogere kosten met zich mee, zo is de indruk. 
+Benno v/d Griendt krijgt graag suggesties voor alternatieven. 
+ Vraag: Zijn er toepassingen waar nog geen goed bestaand model voor is en 
+waar wel modelstudies gewenst zijn?  
+Frank Hofman noemde zojuist al de consultatie van hoogleraren die heeft 
+plaatsgevonden. Eén van hen was Erik Verhoef (VU) en hij begon over modellen 
+om het gedrag van actoren, zoals MaaS-dienstverleners, te voorspellen, want 
+als de vraag naar MaaS toeneemt zal de aanbieder zijn gedrag aanpassen. Naar 
+de mening van Erik Verhoef moet hiermee in de toekomst wel iets gedaan 
+worden. Het is nog niet opgenomen in het werkprogramma, maar Frank sluit 
+niet uit dat dit in de toekomst wel noodzakelijk wordt. 
+ Vraag: is er animo bij RWS om dit soort dingen buiten het eigen 
+instrumentarium te doen, of is het de bedoeling dat het eigen instrumentarium 
+wordt aangepast? 
+Frank Hofman merkt op dat is afgesproken met het ministerie dat studies voor 
+infra-uitbreiding altijd met hetzelfde model worden gedaan. Andere 
+tools/instrumenten kunnen voor specifieke vraagstukken een aanvulling 
+opleveren. RWS staat dus wel open voor instrumenten van anderen voor 
+specifieke vraagstukken, ter aanvulling op het eigen instrumentarium. 
+Benno v/d Griendt merkt op dat wel altijd wordt geëist dat het betrouwbaar en 
+transparant is. Dat is een kanttekening hierbij. 
+ Vraag: klopt het dat ik INWEVA heb gemist in jullie werkprogramma? Hoe zien 
+jullie de relatie tussen INWEVA/MLT/NRM? 
+Benno v/d Griendt: INWEVA is niet genoemd in het werkprogramma, omdat dit 
+bij een andere afdeling wordt beheerd. De afdeling Modellen en Applicaties is 
+intern klant van die afdeling. 
+De indruk is dat de iMLT een stap is richting tijdlijnmodellering, waarbij voor 
+middellange termijn hetzelfde soort instrumentarium wordt gebruikt als voor de 
+lange termijn. 
+Onno Miete merkt op dat INWEVA een opvolger krijgt, en dat met die andere 
+afdeling wordt meegedacht t.a.v. het monitoringsysteem, en hoe dit te koppelen 
+aan het LMS. 
+ Opmerking: T.a.v. de discussie dat RWS zich bij de nationale modellen moet 
+houden, speelt ook een rol dat modelexpertise bij lagere overheden aan het 
+afnemen is. Hopelijk hebben RWS en CROW een rol om die lagere overheden te 
+helpen bij het soort modellen dat zij kunnen inzetten. 
+Frank Hofman merkt op dat RWS met een aantal decentrale overheden werkt 
+aan het opzetten van een samenwerkingsverband voor het delen van kennis en 
+ervaring. Dat betreft wel de grotere decentrale overheden (provincies en 
+metropool regio’s).  
+Nanda v/d Kleijn denkt dat het probleem dat wordt geschetst veel groter is dan 
+decentrale overheden. Ook RWS en marktpartijen zullen te maken krijgen met 
+personeelstekorten. De enige manier om dit op te lossen, is door de handen 
+ineen te slaan om de kennis op kritische punten op peil te houden. Eén van de 
+doelstellingen van vanmiddag is om elkaar te vinden ook voor dit soort 
+problemen. 
+ Vraag: In hoeverre kan Urban Tools nog een bijdrage leveren? 
+RWS is betrokken geweest bij het project Urban Tools next, stelt Frank Hofman. 
+Het is een project met decentrale overheden waarbij allerlei nieuwe 
+ontwikkelingen in modellen zijn gevat, waaronder hubs, parkeren en 
+deelmobiliteit. RWS heeft al gebruik gemaakt van een deel van de oogst uit dat 
+project m.b.t. informatie over parkeerareaal. Bezien wordt nog of we de manier 
+ 
+ 
+Pagina 11 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+waarop in dat project is omgegaan met hubs en het overstappen van de ene op 
+de andere modaliteit, kan worden gebruikt om onze modellen mee te verrijken. 
+ Vraag: Verkeerstransitie (richting fiets en ov) is beleidstrend in veel grote 
+steden, vanuit CO2 en stedelijke leefbaarheid. Zit dit onder "niet 
+inframaatregelen" of is hier nog extra aandacht nodig? 
+De verkeerstransitie wordt vormgegeven door maatregelen van gemeenten.  
+De vraag is of we met onze modellen voldoen in staat zijn die maatregelen mee 
+te nemen. Niet-inframaatregelen maken daar onderdeel van uit. Het heeft 
+aandacht en bovendien is beleidsmatig de fiets een speerpunt, en dus moet 
+goed worden bezien of we dit met voldoende precisie kunnen meenemen. 
+ Vraag: Bij de vernieuwingen lijken jullie nu uit te gaan van verbeteringen in de 
+bestaande modules en software. Staan jullie ook open voor alternatieve 
+methoden en technieken die in de markt ontwikkeld worden en op de langere 
+termijn mogelijk meer potentie bieden? 
+Daar staat RWS voor open, maar wel met de kanttekeningen die Benno v/d 
+Griendt zojuist stelde. RWS stelt eisen t.a.v. transparantie en kwaliteit. Als er 
+een tool van marktpartij gebruikt wordt, is het belangrijk om ook afspraken te 
+maken over de condities waaronder dit gebeurt. 
+Dit geldt echter in de huidige situatie ook al, wordt opgemerkt.  
+De modellen die RWS op dit moment hanteert zijn overwegend (en de 
+belangrijke modellen zoals LMS, NRM, BASGOED etc. helemaal) in eigendom van 
+RWS. 
+ Vraag: Is het een idee om interfaces te ontwikkelen voor diverse software 
+pakketten om op die manier LMS/NRM onafhankelijk te maken van Cube, maar 
+ook onafhankelijk van Omnitrans, Visum, e.d.? Dan kunnen de marktpartijen 
+zelf bepalen welk pakket gebruikt wordt om resultaten te presenteren?  
+Frank Hofman: Dat is in het verleden geprobeerd te doen, maar recent in de 
+laatste update van de modellen is geconstateerd dat dit niet altijd volstaat. 
+Onder de motorkap blijken verschillende software pakketten anders om te gaan 
+met bepaalde berekeningen waardoor consistentie niet vanzelfsprekend is. Dit 
+blijkt behoorlijk ingewikkeld te zijn, maar wellicht is het een goed onderwerp om 
+eens over door te spreken. Als hiervoor nog een extra bijeenkomst nodig is, kan 
+dit naar de mening van Nanda v/d Kleijn worden georganiseerd. 
+ 
+Verzoek aan de deelnemers is om aanvullende vragen/opmerkingen in de chat te 
+stellen, zodat hier indien nodig op een later moment op gereageerd kan worden. 
+ 
+  
+ 
+ 
+Pagina 12 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+4 Discussie Inkoopstrategie en samenwerking RWS-markt  
+4.1 Introductie Rick Klijberg, Directeur Bedrijfsvoering RWS WVL 
+Nanda v/d Kleijn introduceert Rick Klijberg aan de deelnemers. Hij vindt het 
+belangrijk om er vanmiddag bij te zijn ter kennismaking en zodat we elkaar weten 
+te vinden als dat nodig is. Het is goed te zien hoe kennisuitwisseling in deze 
+marktconsultatie al plaatsvindt, zoals het wisselen van ervaringen uit projecten van 
+andere overheden of in gesprekken met andere kennispartijen. 
+4.1.1 Signaal over samenwerking RWS-markt 
+Er is echter ook een concrete en serieuze aanleiding voor de aanwezigheid van Rick 
+Klijberg en dat is dat het signaal is ontvangen dat RWS niet altijd zuiver zou zijn in 
+het beoordelen van inschrijvingen en dat een kritisch rapport/advies de kans op 
+andere opdrachten kleiner zou maken.  
+Als concreet voorbeeld werd genoemd dat het meewerken aan het doorrekenen van 
+alternatieven voor Ring Utrecht riskant zou zijn en een probleem voor de kans op 
+toekomstige opdrachten. Een serieus signaal dus. Rick vindt dit heel zorgelijk maar 
+tegelijk vindt hij het fijn dat het signaal RWS bereikt heeft, dat het gesprek 
+daarover wordt aangegaan. 
+Het signaal is natuurlijk intern besproken met collega’s binnen de directie WVL, in 
+het directieteam van WVL en met collega directeuren inkoop o.a. uit de GWW-, ICT- 
+en BV-directies. 
+Het signaal is ook besproken met de brenger van dit signaal, en Rick hecht er aan 
+om het ook nu te bespreken met de deelnemers aan deze marktconsultatie. 
+ 
+Rijkswaterstaat is een grote opdrachtgever in Nederland en realiseert zich dit ook. 
+Rijkswaterstaat staat er ook daarom voor om een betrouwbare en integere 
+opdrachtgever te zijn met respect voor de positie van de opdrachtnemer. Andere 
+kernwaarden naast betrouwbaar en integer, zijn transparantie en maatschappelijke 
+verantwoordelijkheid. Die vier kernwaarden zijn vastgelegd in de gedragscode 
+publiek opdrachtgeverschap. Dat is belangrijk, want de missie van RWS is een 
+veilig, leefbaar en bereikbaar Nederland, en die missie wordt het best ondersteund 
+met bijvoorbeeld goede modellen in dit geval, feitelijke data die uitlegbaar, 
+vergelijkbaar en ook transparant zijn. Het moet uitlegbaar zijn; bestuurders moeten 
+het kunnen begrijpen, om vervolgens, op basis van feitelijke data, ook goed de 
+beleids- en politieke afweging te kunnen maken. Kortom, betrouwbaar en integer 
+opdrachtgever wil RWS zijn, en tegelijk realiseert Rick zich ook dat de projecten zich 
+afspelen in de maatschappelijke dynamiek. Ze zijn complex en er staat vaak een 
+veelheid aan belangen op het spel, en die afweging hoort vervolgens (maar wel op 
+basis van goede data en goed onderzoek) onder het primaat van de politiek en met 
+het beleidsdepartement gemaakt te worden, en hierover dient ook verantwoording 
+afgelegd te kunnen worden. De term Raad van State-proof is een kwaliteitsstempel 
+dat RWS ook moet kunnen zetten, maar liefst nog daarvóór wil RWS op allerlei 
+manieren haar neutraliteit, controleerbaarheid en transparantie waarborgen.  
+4.1.2 Reacties 
+Kortom, RWS wil betrouwbaar en integer opdrachtgever zijn in alles, en wil dit ook 
+uitstralen. Tegelijk wordt gewerkt in een politieke en maatschappelijke omgeving, 
+maar de rolverdeling daarin moet heel duidelijk zijn.  
+Het signaal dus, dat de markt voorzichtig is in het verstrekken van kritische 
+adviezen/rapporten, is heel zorgelijk, maar Rick is ook nieuwsgierig of dit signaal 
+ 
+ 
+Pagina 13 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+door de deelnemers wordt herkend en of zij feedback hebben op RWS in haar rol 
+van integer en betrouwbaar opdrachtgever. 
+ 
+ Opmerking: wij hebben heel andere ervaringen met RWS als opdrachtgever en 
+zien RWS als een betrouwbare en integere organisatie. Wij herkennen dit 
+signaal dus absoluut niet. Soms ben je het niet eens met de uitslag van een 
+aanbesteding, als je de opdracht niet gegund krijgt, maar er is altijd integer 
+naar gekeken en het kan altijd onderbouwd worden. 
+ Opmerking: er lopen hier twee discussies door elkaar. Enerzijds de beoordeling 
+van offertes en de uitbestedingen. Anderzijds het feit dat uitkomsten uit de 
+modellen soms onwelgevallig kunnen zijn voor RWS, en als je dit als 
+opdrachtnemer van tevoren voelt aankomen, je weleens voorzichtig zou kunnen 
+worden in je aanbieding. Dit is iets dat je ook niet zou moeten willen. Dat heeft 
+ook weer te maken met hoe transparant je bent over de rekenmethodes en over 
+de indicatoren waarmee je de uitkomsten toetst. Als bij de indicatoren wordt 
+gekozen voor de doorstroming, dan is dat voor bijvoorbeeld stedelijke 
+ringwegen best riskant, en raak je in offertefase al verwikkeld in een 
+belangenstrijd. Dat is een andere discussie dan die over het integer geven van 
+opdrachten. 
+Rick Klijberg: Als uitkomsten van beleidsonderzoek leiden tot een kritisch advies 
+van opdrachtnemer, dan hoort bij betrouwbaar en integer opdrachtgeverschap 
+dat dit in het vervolg meegaat richting IenW. Het brengen van de kritische 
+boodschap, zou RWS niet in de relatie met de uitvoerder van het onderzoek of 
+bij vervolgopdrachten willen laten meewegen. 
+De spreker heeft die ervaring ook niet, dat er na een kritisch advies geen 
+vervolgopdrachten gegund zouden worden, maar hij kreeg wel de indruk dat dit 
+een deel van het signaal was. 
+Benno v/d Griendt vraagt of het wel zo is dat marktpartijen soms overwegen 
+geen offerte uit te brengen als uitkomsten van een onderzoek verwacht worden 
+onwelgevallig te zijn. 
+De spreker herkent dit zelf niet, maar weet dat dit wel speelt in bepaalde 
+situaties. Het helpt als je kunt laten zien dat de rekenregels transparant zijn en 
+begrepen worden, maar ook als de beleidsindicatoren waarop je toetst van 
+tevoren helder zijn. Dan gaat dat niet tijdens uitvoering van een project 
+impliciet sturend zijn voor de wijze waarop de uitkomsten worden geframed. 
+ Het lijkt Nanda v/d Kleijn goed om hieraan toch meer aandacht te besteden, 
+want ook al zijn de bedoelingen van RWS integer, het kan zijn dat hieraan 
+voorbij gegaan wordt in de huidige processen. RWS wil hierin ook leren. 
+Rick Klijberg: De ideale positie voor RWS zou zijn dat, als er een dergelijke 
+afweging speelt om niet in te schrijven, die afweging ook met RWS gedeeld zou 
+worden. Dat is immers voor RWS ook een waardevol signaal. Dit kwam ook aan 
+de orde tijdens het gesprek hierover met de directeuren inkoop. 
+ Opmerking: ik heb eveneens goede ervaringen in de samenwerking met RWS en 
+WVL. Wel zou ik als het gaat over inkoop twee dingen willen inbrengen in de 
+discussie: 
+o RWS Inkoop zou beter kunnen kijken naar het delen van de risico’s met 
+de markt bij bijvoorbeeld innovatietrajecten. 
+Rick Klijberg: Het delen vooraf van bepaalde risico’s die spelen in een 
+bepaald onderzoek (breder kunnen dat ook politieke, bestuurlijke of 
+maatschappelijke zijn) is iets dat vooraf moet worden bediscussieerd. 
+o WVL heeft vaak een helder idee van wat nodig is, maar dan wordt de 
+uitvraag vanuit de CIV gedaan, waardoor er een mismatch ontstaat 
+tussen wat WVL wil en wat CIV uitvraagt. 
+Nanda v/d Kleijn herkent dit in de interne processen en er wordt ook 
+ 
+ 
+Pagina 14 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+zeker aan gewerkt om de interne processen te verbeteren o.a. op dit 
+punt. 
+ Opmerking: ik heb ook geen slechte ervaringen bij de beoordeling van offertes. 
+Ik heb altijd het gevoel dat hier integer naar gekeken wordt. Ik heb ook geen 
+ervaring met het niet offreren voor projecten omdat de uitkomst wellicht 
+onwelgevallig zou kunnen zijn. Voor wat betreft het delen van risico’s, kun je 
+soms wel de vraag stellen of risico’s volledig bij de markt kunnen worden 
+gelegd, bijvoorbeeld als het gaat om modelontwikkelingen en de bestuurlijke 
+acceptatie daarop. Dat kan heel ver gaan bij innovatieve producten als je dit 
+onderdeel van de uitvraag letterlijk neemt, maar in de praktijk wordt dit vaak in 
+het midden gelaten. Er is ook wel een verschil tussen landen. In België wordt 
+het risico meer bij de overheid gelegd; in Engeland volledig bij de marktpartij. 
+De indruk is echter dat de balans daarin ook in Nederland iets opschuift richting 
+marktpartij. Advies is om niet nog verder richting het Engelse model te gaan. 
+Rick Klijberg herkent de trend die wordt geschetst en ook dat daar een grens 
+aan zit. Daar zijn ook gesprekken over met de directeuren Inkoop. 
+ 
+De Code publiek opdrachtgeverschap is te vinden op de internetpagina van 
+Rijkswaterstaat (Gedragscode publiek opdrachtgeverschap | Rijkswaterstaat).  
+Daar is ook een meldpunt voor het indienen van klachten.  
+Rick Klijberg wil nog benadrukken dat WVL (ook degenen die vandaag aanwezig 
+zijn) benaderbaar is, ook voor signalen als deze. 
+4.2 Discussie Inkoopstrategie  
+Sander Knol en John v/d Haar (strategisch inkoopadviseurs bij de afdeling 
+kennisinkoop van WVL) hebben de discussie voorbereid met een aantal stellingen in 
+MentiMeter. 
+Samen met Onno Miete, Benno v/d Griendt en Frank Hofman werken de 
+inkoopadviseurs aan een inkoopstrategie voor het werkprogramma dat vanmiddag 
+centraal staat. Daarbij wordt ook rekening gehouden met de mogelijkheden en 
+onmogelijkheden van de markt. RWS heeft een aantal doelstellingen waaraan zij 
+zich moet maar ook wil houden, zoals kennisborging bij zowel RWS als markt, 
+beperken van risico’s (ook bij de markt), maar ook marktverbreding en stimuleren 
+van innovatie. Vanuit inkoopperspectief wil RWS ook een gezonde markt hebben, 
+waarbij een aantal kaders wordt gehanteerd o.a. het beperken van de 
+transactiekosten.  
+Vanmiddag wordt via MentiMeter op de inkoopstrategie ingegaan, en kan aan de 
+hand van de uitkomsten daaruit het gesprek worden aangegaan. 
+4.2.1 De stellingen 
+1. Het is goed voor RWS én markt om terugkerende werkzaamheden meerjarig 
+aan te besteden voor een periode van 4 jaar. 
+2. RWS zou intensiever dan in de huidige situatie moeten investeren om de markt 
+te verbreden en monopolies te voorkomen. 
+3. Bij een meervoudige uitvraag (geen EU aanbesteding) gaan wij regelmatig niet 
+in op het verzoek om offerte uit te brengen. 
+4. Wij zien regelmatig af van inschrijving op een (Europese) aanbesteding vanwege 
+de transactiekosten (o.a. opstellen alle benodigde documenten). 
+5. Bij de huidige wijze van uitvragen voor modellen door RWS, voelt onze 
+organisatie zich voldoende uitgedaagd om met eigen oplossingen te komen. 
+6. RWS besteedt op een logische manier samenhangende werkzaamheden in één 
+opdracht uit. 
+7. We krijgen voldoende kans om aan de voorkant mee te denken over de vraag 
+die RWS aan de markt stelt. 
+ 
+ 
+Pagina 15 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+9. Er zouden andere samenwerkingsvormen tussen markt en RWS aangegaan 
+moeten worden (bijv. alliantie zoals bij goederenvervoersmodellen). 
+10. RWS is als opdrachtgever voldoende deskundig. 
+11. De zogeheten EMVI-BPKV methode en keuze van de bijbehorende criteria is een 
+eerlijke en transparante methode om tot afweging van offertes te komen. 
+12. RWS hanteert reële leverdata in de uitvoering. 
+13. Opdrachten uitvoeren voor RWS is … 
+4.2.2 Vragen/opmerkingen 
+De antwoorden uit de MentiMeter worden in bijgevoegd document volledig 
+weergegeven. 
+Aanvullende vragen/opmerkingen: 
+ Meerjarig aanbesteden voor 4 jaar heeft niet altijd de voorkeur, want als 
+partijen niet gegund krijgen o.b.v. referenties en dit bijvoorbeeld twee keer 
+gebeurt, dan ontstaat er een soort monopolie voor 8 jaar. 
+Een periode van 2 jaar zou meer acceptabel zijn, maar is er dan nog de 
+bereidheid te investeren? 
+ Partnerschap wordt veel genoemd om monopolies te voorkomen, maar dit heeft 
+ook een prijs (natuurlijk levert het ook resultaat). De omvang van de 
+Nederlandse markt is ook belangrijk, deze is soms te klein voor bepaalde 
+innovaties.  
+ Het partnerschap voor goederenvervoer werkt goed in de praktijk. 
+ Bij ‘te grote scope’ n.a.v. vraag 3 wordt als voorbeeld het project Backcast 
+genoemd. Het is wel lastig voor RWS te bepalen hoe opdrachten goed gesplitst 
+kunnen worden. Soms als het een homogene opdracht is, móet het zelfs één 
+uitvraag zijn. 
+ Deze marktconsultatie is al een stap in de goede richting om als markt mee te 
+denken aan de voorkant. Dit wordt als zeer nuttig gezien. Soms krijgt de markt 
+een uitvraag en heeft daar een mening over. Omdat dan het 
+aanbestedingstraject al loopt is er dan geen ruimte meer voor inbreng. Soms 
+moet een formulier worden ingevuld waarin de vraag wordt gesteld of je 
+betrokken bent geweest bij het opstellen van de uitvraag. Als je dan hebt 
+meegedacht heeft dat consequenties in het aanbestedingstraject. 
+Je kunt wel bredere sessies organiseren over een bepaald thema waarin 
+iedereen dan de kans krijgt om mee te denken. 
+ Regelmatig is het alleen mogelijk om schriftelijke vragen te stellen. Plezierig is 
+een gesprek vooraf per partij, want in een bredere sessie zitten partijen ook met 
+concurrenten aan tafel. 
+ N.a.v. de leverdata wordt opgemerkt dat de uitbestedingen niet altijd geleidelijk 
+over het jaar plaatsvinden. Piek in uitvragen ligt in september en de uitvoering 
+moet dan eind november of begin december afgerond zijn. 
+Dit wordt bij de afdeling inkoop herkend, want daar ligt de piek van 
+werkzaamheden altijd in de zomermaanden. 
+ Is het een idee om een portaal te hebben waar de (onderzoeks)rapporten terug 
+te vinden zijn? Dit in het kader van kennisdeling. 
+De link naar de publicatieomgeving zal in het verslag worden opgenomen: 
+Rijkswaterstaat Rapportendatabank (overheid.nl). 
+ In vergelijking met onze buurlanden neemt de offerteomvang toe. We zijn in de 
+afgelopen jaren steeds dikkere plannen van aanpak aan het schrijven. Misschien 
+kunnen we dat met zijn allen proberen te verminderen. 
+ 
+ 
+Pagina 16 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+5 Afsluiting 
+Nanda v/d Kleijn geeft aan blij te zijn met alle input die vandaag is geleverd. Zij wil 
+Rick Klijberg en Herma de Wilde in de gelegenheid stellen om nog een afsluitend 
+woord te zeggen. 
+ 
+5.1 Afsluitend woord Rick Klijberg 
+Rick Klijberg bedankt alle aanwezigen voor de goede sessie. RWS had een aantal 
+doelen vooraf. Eén daarvan was de markt informeren, en dat is gelukt. Een ander 
+doel was het goede gesprek, suggesties voor ideeën- of kennisinput, en dat is 
+gebeurd als reactie op de presentatie van het werkprogramma.  
+Er is input geleverd over ontwikkelingen rondom thuiswerken, e-shopping, de 
+samenhang tussen het rijkswegennet en stedelijk wegennet, het parkeren, etc. en 
+hoe dit alles invloed kan hebben en meegenomen kan worden in de kennisvraag. 
+Dank daarvoor. 
+5.2 Afsluitend woord Herma de Wilde 
+Herma de Wilde wil de deelnemers ook hartelijk danken. Zij heeft een oproep 
+gehoord om dit vaker te doen. RWS wil daarnaar luisteren en heeft daarom ook 
+oprecht gezegd dat dit een eerste stap is.  
+Dank voor de mooie opkomst en voor het open neerleggen van de vraagstukken die 
+besproken moeten worden.  
+ 
+ 
+Pagina 17 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+Deelnemerslijst 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Naam Organisatie 
+1. Bakker, Dick 4CAST 
+2. Benjamins, Michiel Demis 
+3. Broekman, Erik Witteveen + Bos 
+4. Bussche, Dirk Move Mobility 
+5. Donga, Amélie Rijkswaterstaat WVL, notulen 
+6. Graaf, Stefan de Dat Mobility 
+7. Grebber, Jeroen de Tenuki 
+8. Griendt, Benno van der Rijkswaterstaat, WVL 
+9. Groenendijk, Jaap TwynstraGudde 
+10. Groenemeijer, Léon ABF 
+11. Grol, Rik van Significance 
+12. Groot, Niels de Arcadis 
+13. Gun, Jeroen van der Fileradar 
+14. Haaijer, Rinus MuConsult 
+15. Haar, John van der Rijkswaterstaat, WVL 
+16. Herder, Jelmer Goudappel 
+17. Hinsbergen, Chris van Fileradar 
+18. Hoeven, Wim van der TDIMCO BV 
+19. Hofman, Frank Rijkswaterstaat, WVL 
+20. Kiel, Jan Panteia 
+21. Kleijn, Nanda van der Rijkswaterstaat, WVL 
+22. Klijberg, Rick Rijkswaterstaat, WVL 
+23. Knol, Sander Rijkswaterstaat, WVL 
+24. Koopal, Rogier Goudappel 
+25. Meurs, Henk MuConsult 
+26. Miete, Onno Rijkswaterstaat, WVL 
+27. Mijjer, Peter 4CAST 
+28. Nijenhuis, Albert Transpute 
+29. Palm, Henri Dat Mobility 
+30. Plasmeijer, Ronald Sweco 
+31. Rademaker, Han Infosupport 
+32. Rij, Martijn van Sweco 
+33. Roes, Pieter-Jan Charta Software 
+34. Roest, Mark VORTECH 
+35. Romph, Erik de RHDHV 
+36. Spronken, Valérie  Rijkswaterstaat, WVL 
+37. Teule, Olga RHDHV 
+38. Tjon-Sien-Kie, Mariska Tenuki 
+39. Tromp, Henk Move Mobility 
+40. Tuin, Marieke van der TNO 
+41. Uil, Karsten Charta Software 
+42. Voerknecht Hans Een Nieuwe Kijk 
+43. Vuijk, Bart TNO 
+44. Wilde, Herma de Rijkswaterstaat, WVL 
+45. Zondag, Barry Significance 
+ 
+ 
+Pagina 18 van 18 
+RWS INFORMATIE - PERSOONSVERTROUWELIJK| CONCEPT | Marktconsultatie Beheer, Actualisatie en Vernieuwing  
+strategische Verkeer– en Vervoermodellen | 3 maart 2022 
+Bijlagen 
+1. Presentatie werkprogramma V&V-modellen 2022-2024 
+2. Marktconsultatiedocument v1.0 d.d. 4 februari 2022 
+3. Antwoorden mentimeter marktconsultatie modellen en applicaties 18-2-2022

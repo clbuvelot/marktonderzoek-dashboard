@@ -1,0 +1,3100 @@
+=== Document: beschrijvend document - ea gezondheidsmonitor jongvolwassenen ===
+SIGSYN 20210526EDv1.7   
+ 
+ 
+Beschrijvend Document 
+ 
+ 
+Gezondheidsmonitor Jongvolwassenen 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+GGD GHOR Nederland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opgesteld door:  GGD GHOR Nederland 
+Versie:   1.0 
+Datum:   23 december 2021  
+TenderNed-kenmerk: 342415 
+Referentienummer: 1164 
+
+2 van 33 
+Inhoud 
+ 
+Begrippen ............................................................................................................................................................ 4 
+1. Inleiding .......................................................................................................................................................... 6 
+1.1 Aanleiding en context van de Aanbesteding .......................................................................................... 6 
+1.2 De Aanbestedende dienst ...................................................................................................................... 6 
+1.3 Doelstellingen......................................................................................................................................... 6 
+1.4 Marktconsultatie ..................................................................................................................................... 6 
+1.5 Gebruik Aanbestedingsplatform ............................................................................................................. 6 
+2. Inhoud van de Opdracht ............................................................................................................................... 8 
+2.1 Perceelindeling....................................................................................................................................... 8 
+2.2 Binnen de scope van de Opdracht ......................................................................................................... 8 
+2.3 Buiten de scope van de Opdracht .......................................................................................................... 9 
+2.4 Omvang van de Opdracht ...................................................................................................................... 9 
+2.5 Varianten ................................................................................................................................................ 9 
+2.6 Contractvorm.......................................................................................................................................... 9 
+2.7 Wijziging van de Opdracht ................................................................................................................... 10 
+3. Verloop van de Aanbesteding .................................................................................................................... 11 
+3.1 Procedure ............................................................................................................................................ 11 
+3.2 Planning ............................................................................................................................................... 11 
+3.3 Communicatie gedurende de Aanbesteding ........................................................................................ 11 
+3.4 Informatieverstrekking .......................................................................................................................... 11 
+3.5 Indienen van de Inschrijvingen ............................................................................................................. 12 
+3.6 Opening van de Inschrijvingen ............................................................................................................. 12 
+3.7 Beoordeling van de Inschrijvingen ....................................................................................................... 12 
+3.8 Gunningsbeslissing .............................................................................................................................. 12 
+3.9 Verificatie ............................................................................................................................................. 13 
+4. Eisen aan de Inschrijver .............................................................................................................................. 14 
+4.1 Inleiding ................................................................................................................................................ 14 
+4.2 Aanbiedingsbrief (A1) ........................................................................................................................... 14 
+4.3 Uitsluitingsgronden ............................................................................................................................... 14 
+4.4 Geschiktheidseisen .............................................................................................................................. 16 
+5. Toetsing van de Inschrijving ...................................................................................................................... 18 
+5.1 Inleiding ................................................................................................................................................ 18 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 ........................................................................... 18 
+6. Beoordeling van de Inschrijving ................................................................................................................ 19 
+6.1 Gunningsmethode: gewogenfactormethode ........................................................................................ 19 
+6.2 Beoordelingsteam ................................................................................................................................ 19 
+6.3 Wijze van beoordeling .......................................................................................................................... 19 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria .................................................................. 19 
+6.5 Beoordelingsscores voor de kwantitatieve Gunningscriteria ................................................................ 20 
+6.6 Documenten/gegevens en beoordelingsaspecten ............................................................................... 20 
+6.7 Berekenen van de eindscores .............................................................................................................. 20 
+6.8 Gunningscriteria ................................................................................................................................... 21 
+7. Voorschriften en voorwaarden ................................................................................................................... 27 
+7.1 Voorbehouden van de Aanbestedende dienst ..................................................................................... 27 
+7.2 Toepasselijk recht ................................................................................................................................ 27 
+7.3 Nederlandse taal .................................................................................................................................. 27 
+7.4 Inschrijven in een Samenwerkingsverband .......................................................................................... 27 
+7.5 Inschrijven met Onderaannemers ........................................................................................................ 27 
+7.6 Inschrijving conform de Aanbestedingsstukken ................................................................................... 28 
+7.7 Voorwaardelijke Inschrijving ................................................................................................................. 28 
+7.8 Gedeeltelijke Inschrijving ..................................................................................................................... 28 
+7.9 Opgave van prijzen, tarieven en kosten ............................................................................................... 28 
+7.10 Manipulatief inschrijven ........................................................................................................................ 28 
+7.11 Geldigheidsduur van de Inschrijving .................................................................................................... 28 
+3 van 33 
+7.12 Ondertekening van het UEA en van de Inschrijving ............................................................................. 28 
+7.13 Aantal malen inschrijven ...................................................................................................................... 29 
+7.14 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving .................................... 29 
+7.15 Medewerking onderzoek ...................................................................................................................... 29 
+7.16 Kostenvergoeding ................................................................................................................................ 29 
+7.17 Status informatie in de Aanbestedingsstukken .................................................................................... 30 
+7.18 Merknamen .......................................................................................................................................... 30 
+7.19 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken .................. 30 
+7.20 Uitsluiting van Inschrijvers .................................................................................................................... 30 
+7.21 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname ................................................ 30 
+7.22 Communicatie gedurende de Aanbesteding ........................................................................................ 31 
+7.23 Beïnvloeding van de beoordeling ......................................................................................................... 31 
+7.24 Mededeling van de gunningsbeslissing ................................................................................................ 31 
+7.25 Rechtsmiddel ....................................................................................................................................... 31 
+7.26 Klachtafhandeling ................................................................................................................................. 31 
+8. Bijlagen ......................................................................................................................................................... 33 
+Bijlage A.1: Programma van eisen Perceel 1 - Communicatiebureau ............................................................... 33 
+Bijlage A.2: Programma van eisen Perceel 2 - Veldwerkbureau ....................................................................... 33 
+Bijlage B.1: Concept van de Overeenkomst ...................................................................................................... 33 
+Bijlage B.2: Concept van de Verwerkersovereenkomst ..................................................................................... 33 
+Bijlage C: Algemene inkoopvoorwaarden van de Opdrachtgever ...................................................................... 33 
+Bijlage D: Indienen vragen en opmerkingen ...................................................................................................... 33 
+Bijlage E: Uniform Europees Aanbestedingsdocument ..................................................................................... 33 
+Bijlage F: Ervaring Inschrijver ............................................................................................................................ 33 
+Bijlage G: Beroep financiële en economische draagkracht ................................................................................ 33 
+Bijlage H: Beroep technische en beroepsbekwaamheid .................................................................................... 33 
+Bijlage I: Prijzenblad .......................................................................................................................................... 33 
+Bijlage J: Marktconsultatieverslag Gezondheidsmonitor jongvolwassenen ....................................................... 33 
+Handleiding TenderNed aanbestedende diensten ............................................................................................. 33 
+Invulinstructie UEA ............................................................................................................................................ 33 
+4 van 33 
+Begrippen 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien aangeduid met 
+een beginhoofdletter, de volgende betekenis. Als het begrip in enkelvoud is gegeven wordt daaronder ook het 
+meervoud begrepen. Als het begrip in meervoud is gegeven wordt daaronder ook het enkelvoud begrepen.  
+ 
+Aanbestedende dienst Stichting Verenigingsbureau Publieke Gezondheid en 
+Veiligheid Nederland handelend onder de naam GGD GHOR 
+Nederland. 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt tot 
+verlening van de Opdracht. 
+Aanbestedingsplatform Het platform van TenderNed waarop de 
+Aanbestedingsstukken worden geplaatst en waarop de 
+communicatie tussen de Aanbestedende dienst en de 
+Inschrijver plaatsvindt en dat als medium dient voor het 
+indienen van een Inschrijving. 
+Aanbestedingsstukken Alle documenten die door de Aanbestedende dienst 
+gedurende de Aanbesteding worden ingebracht. 
+Aanbestedingswet Wet van 1 november 2012, houdende nieuwe regels omtrent 
+Aanbestedingen, Stb. 2012, 542, zoals onder meer gewijzigd 
+bij Wet van 22 juni 2016 tot wijziging van de 
+Aanbestedingswet 2012 in verband met de implementatie van 
+aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 
+2014/25/EU, Stb. 2016, 241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van het 
+voorwerp van de Aanbesteding wordt gegeven. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage maakt 
+integraal deel uit van de Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep doet met 
+betrekking tot het voldoen aan de Geschiktheidseisen. Deze 
+derde partij is niet per se hetzelfde als een Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de Overeenkomst 
+ten behoeve van de Opdrachtgever te verlenen diensten, te 
+verrichten werkzaamheden en in het kader daarvan te leveren 
+prestaties, een en ander zoals beschreven in de 
+Aanbestedingsstukken. Het gebruik van de termen ‘Diensten’ 
+en ‘Dienstverlening’ heeft mede betrekking op eventuele 
+leveringen die in het kader van die diensten (dienen te) 
+worden gedaan. 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, onderneming 
+of organisatie die geïnteresseerd is om mee te dingen naar de 
+Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gunningscriteria Criteria op basis waarvan de economisch meest voordelige 
+inschrijving wordt bepaald. 
+Gezondheidsmonitor De Gezondheidsmonitor geeft inzicht in de gezondheid en 
+leefstijl van Nederlanders van 16 tot en met 25 jaar. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of wijzigingen 
+ten aanzien van de Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft ingediend. 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende dienst en 
+dat strekt tot het uitvoeren van de Opdracht. 
+5 van 33 
+Leveringen De door de Opdrachtnemer op basis van de Overeenkomst 
+ten behoeve van de Opdrachtgever te leveren producten, een 
+en ander zoals beschreven in de Aanbestedingsstukken.  
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele mededelingen 
+van de Aanbestedende dienst en wijzigingen van het 
+Beschrijvend document en/of andere Aanbestedingsstukken.  
+De Nota van inlichtingen maakt onderdeel uit van het 
+Beschrijvend document en prevaleert boven het Beschrijvend 
+document en de daarbij behorende Bijlagen. Bij een Nota van 
+inlichtingen beschikbaar gestelde Herziene documentatie 
+prevaleert boven eerdere versies van die betreffende 
+documenten.  
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer zelf 
+inzet om een gedeelte van de gecontracteerde opdracht uit te 
+voeren, onder verantwoordelijkheid van de Opdrachtnemer als 
+hoofdaannemer. De Opdrachtnemer blijft altijd volledig 
+verantwoordelijk en aansprakelijk voor de (uitvoering van de) 
+Opdracht en de resultaten ervan. Deze onderaannemer is niet 
+per se de Derde als bedoeld in het Beschrijvend document. 
+Opdracht De opdracht van de Opdrachtgever aan de Opdrachtnemer tot 
+hetgeen is overeengekomen in de Overeenkomst en in het 
+kader daarvan te verrichten werkzaamheden en te leveren 
+prestaties, een en ander zoals beschreven in de 
+Aanbestedingsstukken. Omdat deze Aanbesteding is 
+opgedeeld in meerdere Percelen is er sprake van meerdere 
+afgebakende subopdrachten binnen de totale opdracht. 
+Opdrachtgever De opdrachtgever, in dit geval GGD GHOR Nederland, die de 
+Overeenkomst aangaat met de Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de Overeenkomst 
+afsluit. 
+Overeenkomst De overeenkomst of de Raamovereenkomst tussen de 
+Opdrachtgever en de Opdrachtnemer voor het leveren van 
+(een) product(en), de te verrichten werkzaamheden en/of het 
+verlenen van een Dienst, zoals beschreven in het 
+Beschrijvend document. 
+Perceel Een afgebakend onderdeel van de Opdracht waarop kan 
+worden ingeschreven.  
+Programma van eisen Het document waarin de specificaties ten aanzien van het 
+uitvoeren van de Opdracht zijn opgenomen. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk als één 
+Inschrijver aan de Aanbesteding deelneemt. 
+Uniform Europees Aanbestedingsdocument 
+(UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin verkeert, 
+kunnen leiden tot uitsluiting van deelname aan de 
+Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een zondag, 
+(ii) een algemeen erkende feestdag (conform lid 1 van artikel 
+3 van de Algemene Termijnenwet). 
+ 
+ 
+  
+6 van 33 
+1. Inleiding 
+1.1 Aanleiding en context van de Aanbesteding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding van de Gezondheidsmonitor onder 
+jongvolwassenen (16 tot en met 25 jaar) voor GGD GHOR Nederland. De Aanbestedende dienst wenst een 
+Overeenkomst te sluiten met maximaal twee ondernemer(s) (één per Perceel).  
+ 
+De Aanbestedende dienst nodigt geïnteresseerden uit om een Inschrijving in te dienen op basis van de informatie 
+in de Aanbestedingsstukken. Inschrijvers moeten voldoen aan de voorwaarden in dit Beschrijvend document. 
+ 
+GGD GHOR Nederland faciliteert namens de GGD’en centraal de Gezondheidsmonitor onder jongvolwassenen. 
+De Gezondheidsmonitor onder jongvolwassenen is landelijk gezien een nieuwe monitor die nu voor het eerst 
+wordt uitgevoerd in het kader van COVID-19.  
+1.2 De Aanbestedende dienst  
+GGD GHOR Nederland is dé belangenbehartiger voor de publieke gezondheid en veiligheid in Nederland. GGD 
+GHOR Nederland is de overkoepelende brancheorganisatie van de 25 Gemeentelijke Gezondheidsdiensten 
+(GGD’en) en Geneeskundige Hulpverleningsorganisaties in de Regio (GHOR). De belangrijkste taak als 
+landelijke vereniging bestaat uit het collectief behartigen van de belangen van haar leden - de directeuren 
+publieke gezondheid en de regionale GGD'en en GHOR bureaus - richting politiek, (lokale) overheden, 
+samenwerkingspartners, media en publiek.  
+ 
+Daarnaast draagt GGD GHOR Nederland namens de GGD’en bij aan oplossingen voor maatschappelijke 
+vraagstukken als het gaat om jeugd, sociaal domein en veiligheid. Deze drie taakvelden staan dan ook centraal 
+bij GGD GHOR Nederland, waarin GHOR, Omgevingswet, Jeugdgezondheid, DPG als Trusted Advisor, 
+Stimuleringsprogramma en OGGZ/Personen met verward gedrag de strategische thema's zijn. Verder geeft de 
+landelijke vereniging betekenis aan de vier kernwaarden: proactief, verantwoordelijk, betrouwbaar en 
+omgevingsgericht.  
+ 
+Ook voert Opdrachtgever projecten uit, die centraal moeten worden uitgevoerd en die randvoorwaarden en 
+producten opleveren waarmee de GGD’en en GHOR-bureaus hun werkzaamheden kunnen verrichten. 
+Opdrachtgever vervult samen met de aangesloten organisaties op dit moment een belangrijke rol bij de 
+bestrijding van COVID-19. Zie voor meer informatie de website www.ggdghor.nl.  
+ 
+Daar waar in dit Beschrijvend document wordt gesproken van (handelingen verricht door) GGD GHOR 
+Nederland, wordt te allen tijde bedoeld dat wordt gehandeld namens de GGD’en.  
+1.3 Doelstellingen 
+De Aanbestedende dienst wenst met de Aanbesteding de volgende doelstelling te realiseren. Gemeenten hebben 
+de wettelijke taak om de gezondheidssituatie in kaart te brengen na rampen en crisissen, zoals de situatie 
+rondom COVID-19. In de praktijk is deze taak door gemeenten belegt bij de GGD’en. Met deze aanbesteding 
+wenst GGD GHOR Nederland namens de GGD’en op regionaal en lokaal niveau inzicht te geven over de 
+gezondheidssituatie tijdens en na de coronacrisis, van jongvolwassenen in de leeftijd van 16 tot en met 25 jaar. 
+Deze aanbesteding leidt ertoe dat in het tweede kwartaal van 2022 in heel Nederland een Gezondheidsmonitor 
+onder jongvolwassenen wordt uitgevoerd. 
+1.4 Marktconsultatie 
+Voorafgaand aan deze Aanbesteding heeft de Aanbestedende dienst een marktconsultatie gehouden. Van de 
+marktconsultatie is een beknopt verslag opgesteld. Deze kunt u vinden in Bijlage J. 
+1.5 Gebruik Aanbestedingsplatform 
+De Aanbestedende dienst stelt alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform 
+TenderNed. De Inschrijver kan zijn Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De 
+Aanbestedende dienst is op geen enkele wijze verantwoordelijk voor het gebruik van het Aanbestedingsplatform 
+door de Inschrijver en wijst iedere vorm van aansprakelijkheid nadrukkelijk van de hand. 
+ 
+7 van 33 
+Voor zover omschrijvingen op het Aanbestedingsplatform en het Beschrijvend document met elkaar in 
+tegenspraak zijn, prevaleert het Beschrijvend document boven de omschrijvingen op het Aanbestedingsplatform. 
+ 
+Let op – Om toegang te krijgen tot TenderNed, dient een onderneming te beschikken over e-Herkenning. Het 
+aanvragen van e-Herkenning kan enkele weken duren. Meer informatie over het aanvragen van e-Herkenning is 
+te vinden op de website van TenderNed. 
+ 
+  
+8 van 33 
+2. Inhoud van de Opdracht 
+2.1 Perceelindeling 
+De Opdracht is verdeeld in twee Percelen, te weten: 
+ 
+Perceel 1 - Communicatiebureau 
+Communicatiebureau voor on- en offline werven van jongvolwassenen voor de enquête. 
+ 
+Perceel 2 - Veldwerkbureau 
+Gezondheidsmonitor Jongvolwassenen uitvoeren (vragenlijst programmeren, data verzamelen, inzicht in respons 
+verschaffen tijdens dataverzameling, en data verwerken en opleveren). 
+ 
+De Opdracht wordt opgedeeld in Percelen om te voorkomen dat een belangrijk deel van de markt wordt 
+uitgesloten. 
+ 
+Inschrijven op aantal Percelen 
+Inschrijvers kunnen zich op beide Percelen inschrijven. Het maximum aantal Percelen dat wordt gegund aan één 
+Opdrachtnemer bedraagt twee.  
+2.2 Binnen de scope van de Opdracht 
+De Opdracht bestaat uit het programmeren van een vragenlijst in een enquêtetool (veldwerkbureau) en het 
+werven van respondenten (communicatiebureau). Een communicatiebureau enthousiasmeert jongvolwassenen 
+om een vragenlijst over gezondheid tijdens of na de coronacrisis in te vullen met behulp van voornamelijk online 
+werving (o.a. via betaalde advertenties op sociale media), maar ook offline werving (bijv. via posters op openbare 
+plekken). Met een klik worden ze doorgeleid naar een vragenlijst over gezondheid na de coronacrisis. Dit betreft 
+een zogenoemde open link, die voor iedereen in Nederland hetzelfde zal zijn (geen regionale verschillende 
+vragenlijsten). Het doel van de monitor is om gemeentecijfers op te kunnen leveren. De gemeentecijfers moeten 
+een representatieve weerspiegeling zijn van de jongvolwassenen in de desbetreffende gemeentes wonen. Om dit 
+te bereiken is een goede samenwerking tussen het veldwerkbureau en het communicatiebureau van essentieel 
+belang, zodat er inzicht is in de respons per gemeente naar achtergrondkenmerken, opdat er tijdig extra ingezet 
+kan worden op werving in slecht responderende groepen en/of gemeenten. Ook met de contactpersonen van de 
+GGD’en dient een goede samenwerking te zijn, zodat er besloten kan worden welk lokaal maatwerk wenselijk is. 
+ 
+De Gezondheidsmonitor onder jongvolwassenen vindt plaats in 2022. De enquête moet starten in week 15/16 in 
+april 2022 en eindigt uiterlijk in week 27 (voor de zomervakantie). Eenzelfde Gezondheidsmonitor onder 
+jongvolwassenen kan optioneel worden afgenomen in het jaar 2024. 
+ 
+Het verwerken van de vragenlijst in een enquêtetool en het analyseren van de resultaten 
+Onderzoekers publieke gezondheid van de GGD’en, ondersteund door onderzoekers van GGD GHOR Nederland 
+stellen de vragen voor de enquête op. Vervolgens wordt het veldwerk verricht door de Opdrachtnemer van 
+Perceel 2. Dit houdt in dat de vragenlijst wordt geprogrammeerd (waarbij de Opdrachtgever met testrondes kan 
+controleren of alles klopt), jongvolwassenen de vragenlijst kunnen invullen, waarbij ook de mogelijkheid is om een 
+helpdesk te benaderen, tijdens het veldwerk inzicht in de respons wordt gegeven, de data wordt verwerkt volgens 
+het codeboek van GGD GHOR Nederland en na afloop van de dataverzameling de data wordt opgeleverd in de 
+vorm van een SPSS-databestand.  
+ 
+Benaderen doelgroep 
+De doelgroep jongvolwassenen bestaat uit ruim 2,1 miljoen (2,164,319) personen. De Gezondheidsmonitor moet 
+door voldoende jongvolwassenen ingevuld worden. De respondenten moeten een representatieve groep vormen 
+waarover op regionaal en lokaal niveau inzicht verkregen kan worden. Inschrijver van Perceel 1 dient daarbij aan 
+te geven wat de beste manier is om de doelgroep te benaderen waardoor voldoende respons en representatie 
+behaald wordt.  
+ 
+De campagne voor het werven van de doelgroep vindt zowel on- als offline plaats. GGD GHOR Nederland en de 
+GGD’en stemmen met Opdrachtnemer van Perceel 1 de inhoud van deze campagne af en hoe Opdrachtnemer 
+hierin kan ondersteunen. Dit kan zowel plaatsvinden door GGD’en gezamenlijk als afzonderlijk. Afzonderlijke 
+afstemming is dan bedoeld ten behoeve van lokaal maatwerk.  
+ 
+9 van 33 
+Reageren op de vragenlijst 
+De vragenlijst wordt digitaal ingevuld door de respondenten. Invullen zal voor een groot deel plaatsvinden via 
+smartphone. Het is dus belangrijk dat de vragenlijst responsive is.  
+ 
+Incentive 
+Als incentive wordt door Opdrachtgever vaak ingezet op het winnen van een cadeaubon, waarbij de winkans 1 op 
+10 is. Mogelijk kan Inschrijver hier een alternatief voor bieden. Inschrijver kan maximaal €1,- inclusief btw per 
+respondent inzetten voor een incentive tot een maximum van €100.000,- inclusief btw en dient dit op te nemen in 
+Bijlage I - Prijzenblad. De incentive wordt uitgedacht door Opdrachtnemer van Perceel 1. Opdrachtnemer van 
+Perceel 2 zorgt zo nodig voor een digitale koppeling naar de incentive na afronding van de vragenlijst. 
+ 
+Landingspagina en slotpagina 
+Voordat de enquête start komt de respondent op een landingspagina terecht. Na afloop van de enquête komt 
+respondent op een slotpagina terecht. Het programmeren van de landingspagina, het doorlinken naar de enquête 
+en vervolgens het doorlinken naar slotpagina dient Inschrijver op Perceel 2 te verzorgen. Het aanleveren van de 
+inhoud van deze landings- en slotpagina dient Inschrijver op Perceel 1 te verzorgen. 
+ 
+Optioneel 
+Inschrijver op Perceel 2 dienst de volgende opties aan te bieden:   
+- Engelse versie van de vragenlijst; 
+- Reactie na afloop kunnen downloaden als respondent zijnde 
+Opdrachtgever kan dit optioneel afnemen. 
+2.3 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdracht, maar behoren niet tot de scope van 
+de Opdracht:  
+• Het opstellen van de vragen voor de enquête; 
+• Het analyseren van de data en rapporteren over de resultaten die voortkomen uit de enquêtes. 
+2.4 Omvang van de Opdracht 
+De Opdracht bestaat uit het werven van respondenten voor de vragenlijst (perceel 1) voor de 
+Gezondheidsmonitor onder jongvolwassenen die in 2022 plaatsvindt en het bouwen van een digitale enquête 
+(perceel 2). De aanbesteding bevat een optie voor het opnieuw uitvoeren van deze monitor in het jaar 2024.  
+ 
+De raming voor de inkoop bedraagt €535.000,- inclusief btw per Gezondheidsmonitor jongvolwassenen. De 
+raming voor Perceel 1 bedraagt maximaal €500.000,- inclusief btw en de raming voor Perceel 2 bedraagt 
+maximaal €35.000,- inclusief btw. Voor twee Gezondheidsmonitoren (in het jaar 2022 en jaar 2024) bedraagt de 
+raming €1.070.000,- inclusief btw voor Perceel 1 en €1.000.000,- inclusief btw voor Perceel 2 en €70.000,-  
+inclusief btw in totaal. 
+2.5 Varianten 
+Een variant is een niet-bestek conforme Inschrijving, dat wil zeggen: een andere oplossing voor de behoefte dan 
+gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten leidt ertoe dat in het 
+Beschrijvend document duidelijk moet worden beschreven op welke wijze de aangeboden varianten zullen 
+worden beoordeeld en hoe de varianten ten opzichte van de opties die voldoen aan het Programma van eisen en 
+de Gunningscriteria worden beoordeeld. Varianten zijn niet toegestaan.  
+2.6 Contractvorm  
+2.6.1 Type en duur van de Overeenkomst 
+De Opdrachtgever is voornemens om één Overeenkomst af te sluiten per Perceel. 
+ 
+De Overeenkomst heeft een initiële looptijd van vier maanden. De verwachte ingangsdatum van de 
+Overeenkomst is 18 maart 2022 en eindigt van rechtswege op 1 augustus 2022, zonder verlenging.  
+ 
+Opdrachtgever behoudt zich het recht voor om gedurende maart 2024 tot augustus 2024 een vervolgopdracht te 
+verstrekken voor de uitvoering van dezelfde monitor.  
+10 van 33 
+2.7 Wijziging van de Opdracht 
+2.7.1 Herhaling soortgelijke Diensten 
+In het geval er behoefte is aan een herhaling van de Dienstverlening behoudt de Opdrachtgever zich het recht 
+voor om, met een beroep op artikel 2.36 Aanbestedingswet 2012, de aanvullende opdracht middels de 
+onderhandelingsprocedure zonder aankondiging te verstrekken aan de Opdrachtnemer waaraan de 
+oorspronkelijke Opdracht werd gegund. 
+ 
+Wanneer de behoefte ontstaat aan een herhaling van de Dienstverlening, dan vraagt de Opdrachtgever een 
+offerte aan bij de Opdrachtnemer. De Opdrachtnemer stelt een offerte op, waarbij de specificaties uit de 
+offerteaanvraag worden overgenomen. De Opdrachtgever is niet verplicht om de gewenste Diensten af te nemen. 
+Indien de Opdrachtgever daar om welke reden dan ook van afziet, zal dat worden toegelicht aan de 
+Opdrachtnemer. 
+ 
+  
+11 van 33 
+3. Verloop van de Aanbesteding 
+3.1 Procedure 
+De Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 2012. Als 
+criterium voor gunning wordt gehanteerd: de beste prijs-kwaliteitverhouding.  
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; er kunnen geen rechten aan worden 
+ontleend. De Aanbestedende dienst behoudt zich het recht voor de planning te wijzigen en de Aanbesteding te 
+staken of op te schorten.  
+ 
+Mijlpaal Datum 
+Verzenden van de aankondiging van de Opdracht  Donderdag 23 december 2021 
+Sluitingsdatum vragenronde 1: Indienen vragen en 
+opmerkingen (deadline)  
+Donderdag 13 januari 2022 tot 11:00 uur 
+Publicatie eerste Nota van inlichtingen (streefdatum) Woensdag 19 januari 2022 
+Sluitingsdatum vragenronde 2: Indienen vragen en 
+opmerkingen (deadline) 
+Dinsdag 25  januari 2022 tot 11:00 uur 
+Publicatie tweede Nota van inlichtingen (streefdatum)  Maandag 31 januari 2022 
+Sluitingsdatum indienen Inschrijvingen (deadline) Vrijdag 11 februari 2022 tot 11:00 uur 
+Openen van Inschrijvingen Vrijdag 11 februari 2022 na 11:01 uur 
+Bekendmaking gunningsbeslissing (streefdatum)   Donderdag 3 maart 2022 
+Deadline aanleveren bewijsstukken woensdag 9 maart 2022 
+Einddatum opschortende termijn donderdag 24  maart 2022 
+Ingangsdatum Overeenkomst Vrijdag 25 maart 2022 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie met betrekking tot deze Aanbesteding verloopt uitsluitend via het Aanbestedingsplatform. De 
+Aanbestedende dienst neemt berichten die op een andere wijze worden verzonden niet in behandeling.  
+3.4 Informatieverstrekking  
+3.4.1 Indienen van vragen en opmerkingen 
+De Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen over de 
+Aanbestedingsstukken. Voor het stellen van vragen dient gebruik te worden gemaakt van Bijlage D ‘Indienen 
+vragen en opmerkingen’. Vragen die op een andere manier worden ingediend, worden in de regel niet 
+beantwoord. De Aanbestedende dienst kan niet garanderen dat vragen die binnenkomen na de uiterste 
+indieningsdatum voor het stellen van vragen, worden beantwoord. De Aanbestedende dienst behoudt zich het 
+recht voor vragen en/of opmerkingen ter zijde te leggen of slechts gedeeltelijk te verwerken zolang daarmee de 
+aanbestedingsrichtlijnen niet worden geschonden. 
+ 
+De Geïnteresseerde wordt verzocht om in de vraagstelling geen gebruik te maken van bedrijfsnamen, 
+productnamen en andere aan uw organisatie gerelateerde namen. De Aanbestedende dienst publiceert de 
+gestelde vragen zonder daarbij de naam van de vraagsteller te vermelden en behoudt zich het recht voor om 
+vragen met dat doel aan te passen. De Aanbestedende dienst geeft geen garantie op anonimiteit, bijvoorbeeld 
+omdat uit noodzakelijke technische vragen de identiteit van de vragensteller kan worden afgeleid. 
+ 
+Indien de Geïnteresseerde vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan kunnen 
+deze vragen buiten de Nota van inlichtingen om worden beantwoord. De Geïnteresseerde kan de Aanbestedende 
+dienst gemotiveerd verzoeken een vraag vertrouwelijk te beantwoorden, door ‘Commercieel vertrouwelijk - Niet 
+beantwoorden in de Nota van inlichtingen’ te vermelden. Indien de Aanbestedende dienst van oordeel is dat een 
+vraag niet (commercieel) vertrouwelijk van aard is, wordt dit medegedeeld aan de Geïnteresseerde. De 
+Geïnteresseerde kan de desbetreffende vraag vervolgens 1) terugtrekken of 2) door de Aanbestedende dienst 
+laten beantwoorden in de Nota van inlichtingen.  
+12 van 33 
+3.4.2 Beantwoorden vragen in Nota(’s) van inlichtingen 
+De Aanbestedende dienst sluit een vragenronde af met het publiceren van een Nota van inlichtingen met daarin 
+alle gestelde vragen van Geïnteresseerden en de antwoorden daarop van de Aanbestedende dienst. Ook van 
+eventuele wijzigingen in Aanbestedingsstukken maakt de Aanbestedende dienst melding in een Nota van 
+inlichtingen. Dit kan gepaard gaan met herziene documentatie van de betreffende Aanbestedingsstukken.  
+ 
+De informatie in de Nota’s van inlichtingen is bindend en leidend en prevaleert boven de oorspronkelijke 
+informatie in de Aanbestedingsstukken.  
+ 
+De Aanbestedende dienst publiceert de Nota’s van inlichtingen op het Aanbestedingsplatform. Hiervan wordt 
+geen notificatie verstuurd; een Geïnteresseerde dient er zelf voor zorg te dragen dat de informatie tot hem komt.  
+3.5 Indienen van de Inschrijvingen  
+De Inschrijving moet digitaal worden ingediend via het Aanbestedingsplatform vóór de sluitingsdatum zoals 
+vermeld in de planning op het Aanbestedingsplatform.  
+ 
+De Aanbestedende dienst adviseert de Inschrijver om de Inschrijving ruim op tijd in te dienen. Na de sluiting van 
+de inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. De Aanbestedende 
+dienst beschouwt een niet tijdig ingediende Inschrijving als niet ingediend en neemt deze daarom niet in 
+behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor rekening van de Inschrijver. 
+Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+De Inschrijver is zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De Aanbestedende 
+dienst, de aanbieder van het Aanbestedingsplatform zijn hiervoor niet verantwoordelijk. 
+3.6 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor de Aanbestedende dienst niet eerder zichtbaar dan op het moment dat de 
+sluitingsdatum voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+opent de Aanbestedende dienst de Inschrijvingen. Inschrijvers kunnen niet bij de opening van Inschrijvingen 
+aanwezig zijn.  
+3.7 Beoordeling van de Inschrijvingen 
+Na opening worden de Inschrijvingen gecontroleerd en beoordeeld.  
+ 
+Controle volledigheid en vormvereisten 
+De Aanbestedende dienst controleert of een Inschrijving volledig is en voldoet aan de vormvereisten. Een 
+Inschrijving die niet volledig is of niet voldoet aan de vormvereisten wordt in de regel als ongeldig terzijde gelegd 
+en uitgesloten van verdere deelname aan de Aanbesteding. 
+ 
+Toetsing 
+De Aanbestedende dienst toetst of Uitsluitingsgronden van toepassing zijn en of de Inschrijver en de Inschrijving 
+voldoen aan de Geschiktheidseisen en de toetsingscriteria. Een Inschrijving die niet voldoet aan deze criteria 
+wordt in de regel als ongeldig terzijde gelegd en uitgesloten van verdere deelname aan de Aanbesteding.  
+ 
+Inhoudelijke beoordeling  
+De Aanbestedende dienst beoordeelt de Inschrijving op basis van het gunningscriterium de beste prijs-
+kwaliteitverhouding. De wijze waarop de Aanbestedende dienst dat doet is beschreven in hoofdstuk 6. 
+3.8 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maakt de Aanbestedende dienst de gunningsbeslissing tegelijkertijd 
+bekend aan alle Inschrijvers. Aan de gunningsbeslissing kunnen geen rechten worden ontleend noch houdt deze 
+beslissing de aanvaarding van een aanbod in. Gedurende een opschortende termijn van ten minste twintig 
+kalenderdagen na verzending van de mededeling van de gunningsbeslissing is het de Aanbestedende dienst niet 
+toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+13 van 33 
+3.9 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kan de Aanbestedende dienst bewijs opvragen om de 
+informatie die de Inschrijver in het kader van deze aanbestedingsprocedure heeft gegeven te verifiëren.  
+ 
+Om de administratieve last te beperken is bepaald dat de Aanbestedende dienst aan Inschrijvers bij inschrijving in 
+eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) mag vragen, in plaats van alle 
+bewijsstukken. De bewijsstukken die vallen onder het UEA, met uitzondering van de referenties, vraagt de 
+Aanbestedende dienst in de regel alleen op bij de Inschrijver(s) die op basis van de beoordeling in aanmerking 
+komt/komen voor de Opdracht. De Inschrijver moet de gevraagde bewijsstukken binnen korte tijd aanleveren, in 
+de regel binnen een termijn van drie Werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit controle van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+- niet voldoet aan de gestelde eisen, of  
+- geen afdoende bewijs kan overleggen, of  
+- onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. De Aanbestedende dienst zal de gunningsbeslissing 
+dan in de regel intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van verdere deelname aan de 
+aanbestedingsprocedure. Vervolgens zal de Aanbestedende dienst de procedure opnieuw starten vanaf 
+paragraaf Fout! Verwijzingsbron niet gevonden., waarbij de Inschrijver die als tweede in de rangorde eindigde 
+zal worden aangemerkt als de potentieel winnende Inschrijver. 
+ 
+  
+14 van 33 
+4. Eisen aan de Inschrijver 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen de Aanbestedende dienst hanteert en 
+welke informatie de Inschrijver dient aan te leveren. Met het Uniform Europees Aanbestedingsdocument (UEA) 
+geeft de Inschrijver aan of de Uitsluitingsgronden wel of niet op hem van toepassing zijn en of hij voldoet aan de 
+Geschiktheidseisen. Eveneens is beschreven welke eisen gelden indien:  
+- de Inschrijver inschrijft met Onderaannemer(s); 
+- de Inschrijver inschrijft als een Samenwerkingsverband; 
+- de Inschrijver zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+- de Inschrijver zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 7.4 en 7.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers of als een 
+Samenwerkingsverband.  
+ 
+In de tabel hieronder is aangegeven welke bewijsstukken/documenten de Inschrijver moet bijvoegen bij de 
+Inschrijving. Alleen de winnende Inschrijver dient de bewijsstukken in de kolom ‘Op verzoek’ aan te leveren, 
+binnen drie Werkdagen na verzoek van de Aanbestedende dienst. Het risico dat bewijsstukken niet tijdig kunnen 
+worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van deelname aan de 
+Aanbesteding. Het verdient aanbeveling de genoemde bewijsstukken tijdig te verzamelen en gereed te hebben.  
+ 
+De Aanbestedende dienst behoudt zich het recht voor om nader onderzoek uit te (laten) voeren naar (de 
+verklaringen van) de Inschrijver.  
+ 
+ # Omschrijving Bij inschrijving Op verzoek 
+Algemene 
+verklaringen 
+A1 Aanbiedingsbrief X  
+A2 Uniform Europees Aanbestedingsdocument X  
+Bewijsmiddelen 
+t.b.v. 
+Uitsluitingsgronden 
+U1 Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+U2 Gedragsverklaring aanbesteden  X 
+U3 Verklaring van de Belastingdienst  X 
+Geschiktheidseisen E1 Afdekking aansprakelijkheidsrisico’s  X 
+E2 Ervaring van de Inschrijver X  
+4.2 Aanbiedingsbrief (A1) 
+De Inschrijver dient een aanbiedingsbrief bij de Inschrijving te voegen. In de aanbiedingsbrief dienen ten minste 
+de volgende zaken te zijn opgenomen: 
+• Het Perceel of de Percelen waarop de Inschrijver inschrijft. 
+• De naam van de Inschrijver waarmee hij staat ingeschreven in het nationale beroeps- of handelsregister.  
+• De naam van de contactpersoon, inclusief contactgegevens, die namens de Inschrijver het aanspreekpunt 
+zal zijn tijdens de Aanbesteding.   
+• De namen van de Onderaannemers of Derden of leden van het Samenwerkingsverband waarmee zij staan 
+ingeschreven in het nationale beroeps- of handelsregister. Een toelichting op waarom en voor welk deel van 
+de Opdracht op hen een beroep wordt gedaan. 
+4.3 Uitsluitingsgronden 
+4.3.1 Verplichte en facultatieve Uitsluitingsgronden 
+De Aanbestedende dienst verklaart naast de verplichte Uitsluitingsgronden de facultatieve Uitsluitingsgronden 
+van toepassing die zijn aangevinkt in deel III van het Uniform Europees Aanbestedingsdocument (UEA). De 
+redenen voor het van toepassing verklaren van de facultatieve Uitsluitingsgronden zijn als volgt. De 
+Aanbestedende dienst wenst uitsluitend ondernemingen te contracteren die financieel gezond zijn van 
+onbesproken gedrag, waarbij geen sprake is van belangenverstrengeling en die integer en ethisch handelen.  
+ 
+15 van 33 
+Aan de toepasselijkheid van een Uitsluitingsgrond op een onderneming wordt conform artikel 2.86 lid 3 van de 
+Aanbestedingswet 2012 gelijkgesteld de situatie dat een Uitsluitingsgrond van toepassing is op een persoon die 
+lid is van het bestuurs-, leidinggevend of toezichthoudend orgaan of die daarin vertegenwoordigings-, beslissings- 
+of controlebevoegdheid heeft.  
+4.3.2 Invullen van het Uniform Europees Aanbestedingsdocument (A2) 
+De Inschrijver vult alle benodigde gegevens in het UEA volledig en juist in en voegt deze toe aan de Inschrijving. 
+Zie paragraaf 7.12 voor aanwijzingen voor de ondertekening van het UEA.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s), dan dient hij hiervan melding te 
+maken in Deel II D van het UEA. Tevens dient elke Onderaannemer een UEA in te vullen (Deel II A & B en 
+Deel III) en rechtsgeldig te ondertekenen.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dienen alle leden 
+van het Samenwerkingsverband afzonderlijk het UEA in te vullen en rechtsgeldig te ondertekenen. De 
+Inschrijver vermeldt onder Deel II A met welke entiteiten hij een Samenwerkingsverband aangaat. 
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op (een) Derde(n) om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen, dan dient de Inschrijver in Deel II C van het UEA hiervan melding te 
+maken. Tevens dient elk betreffende Derde een eigen UEA in te vullen (Deel II A en B en Deel III) en 
+rechtsgeldig te ondertekenen. 
+4.3.3 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 
+De hierna genoemde documenten gelden als bewijs van de verklaring van de Inschrijver middels het UEA dat op 
+hem geen Uitsluitingsgronden van toepassing zijn.  
+ 
+Van een onderneming die gevestigd is in een andere lidstaat van de Europese Unie aanvaardt de 
+Aanbestedende dienst, conform lid 4 van artikel 2.89 van de Aanbestedingswet 2012, ook gegevens en 
+bescheiden uit de betreffende lidstaat die een gelijkwaardig doel dienen als de hieronder genoemde 
+bewijsmiddelen of waaruit blijkt dat de Uitsluitingsgronden niet op de betreffende onderneming van toepassing 
+zijn.  
+ 
+• Inschrijving in het nationale beroeps- of handelsregister (U1)  
+Een verklaring zoals bedoeld in lid 1 van artikel 2.89 van de Aanbestedingswet 2012, die niet ouder is dan zes 
+maanden op het moment van het indienen van de Inschrijving. Uit de verklaring moet blijken dat de Inschrijver 
+volgens de eisen die gelden in het land waarin de Inschrijver is gevestigd, is ingeschreven in het nationale 
+beroeps- of handelsregister. Indien een dergelijke verklaring in het land van vestiging niet wordt afgegeven dient 
+de Inschrijver een verklaring of attest onder ede te verstrekken. Binnen Nederland volstaat hiertoe een uittreksel 
+van inschrijving in het handelsregister van de Kamer van Koophandel.  
+ 
+• Gedragsverklaring aanbesteden (U2)  
+Een afschrift van de gedragsverklaring aanbesteden, zoals bedoeld in lid 2 van artikel 2.89 en hoofdstuk 4.1 van 
+de Aanbestedingswet 2012. De gedragsverklaring aanbesteden mag op het moment van inschrijven niet ouder 
+zijn dan twee jaar. Indien zich na afgifte van de gedragsverklaring aanbesteden een Uitsluitingsgrond heeft 
+voorgedaan, is de Inschrijver verplicht dat in de Inschrijving te vermelden, op straffe van uitsluiting.   
+ 
+De Inschrijver kan de gedragsverklaring aanbesteden aanvragen via Justis. In verband met de lange 
+verwerkingstermijn adviseert de Aanbestedende dienst om de gedragsverklaring aanbesteden, voorafgaand aan 
+een mogelijk verzoek van de Aanbestedende dienst, tijdig aan te vragen. Indien de beslissing op de aanvraag 
+langer duurt, is dit voor risico van de Inschrijver. Voor meer informatie zie: https://www.justis.nl/producten/gva/. 
+ 
+• Verklaring van de Belastingdienst (U3)  
+Een verklaring van de Belastingdienst dat de Inschrijver zijn verplichte belastingen en sociale zekerheidspremies 
+heeft betaald, zoals bedoeld in lid 3 van artikel 2.89 van de Aanbestedingswet 2012. De verklaring mag op het 
+moment van inschrijven niet ouder zijn dan zes maanden.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt voor de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 het volgende: 
+16 van 33 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s) hoeft alleen de hoofdaannemer 
+de drie bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken. 
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dient ieder lid van 
+het Samenwerkingsverband de drie bovengenoemde bewijsstukken te verstrekken.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) (om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen), dan dienen zowel de Inschrijver als de Derde(n) de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken.  
+4.4 Geschiktheidseisen  
+Aan de hand van de hierna beschreven Geschiktheidseisen bepaalt de Aanbestedende dienst mede of een 
+Inschrijver geschikt is om de Opdracht uit te voeren.  
+ 
+Door het aanvinken van ‘Ja’ in onderdeel A in Deel IV van het UEA verklaart de Inschrijver dat zijn onderneming 
+voldoet aan alle hiernavolgende Geschiktheidseisen. Met de term ‘selectiecriteria’ wordt in het UEA de 
+Geschiktheidseisen bedoeld. Indien de Inschrijver niet voldoet aan de gestelde Geschiktheidseisen is de 
+Inschrijving ongeldig en wordt deze terzijde gelegd. 
+4.4.1 Aantonen van financiële en economische draagkracht – Afdekking aansprakelijkheidsrisico’s (E1) 
+De Inschrijver dient voldoende verzekerd te zijn tegen aansprakelijkheidsrisico’s in verband met de uitvoering van 
+de Opdracht. De Aanbestedende dienst acht een minimale dekking van € 1.000.000,- per gebeurtenis en een 
+minimale dekking van € 2.500.000,- per kalenderjaar passend. Door ondertekening van het UEA verklaart de 
+Inschrijver dat de verzekering wordt gehandhaafd voor ten minste de voornoemde bedragen gedurende de 
+contractperiode.  
+ 
+Indien de Inschrijver op dit moment niet voldoende is verzekerd voor de uitvoering van de Opdracht, dient hij een 
+schriftelijke verklaring van zijn verzekeringsmaatschappij te verstrekken waarin de verzekeringsmaatschappij 
+verklaart dat zij, voorafgaande aan de gunning van de Opdracht, met de Inschrijver de hierboven genoemde 
+verzekering afsluit.  
+ 
+De winnende Inschrijver verstrekt als bewijs een kopie van de betreffende verzekeringspolis. 
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer het bewijs van verzekering te verstrekken.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan verstrekt minimaal 
+één van de leden het bewijs van verzekering waaruit blijkt dat de gezamenlijke en hoofdelijke 
+aansprakelijkheid van de leden van het Samenwerkingsverband in verband met de Opdracht afdoende is 
+gedekt.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste verzekering tegen aansprakelijkheidsrisico’s, dan verstrekt de Inschrijver daarvan 
+bewijs en vult hij Bijlage G in. 
+4.4.2 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Ervaring van de Inschrijver (E2) 
+De Inschrijver dient aan te tonen dat hij voldoende deskundig en ervaren is voor de uitvoering van de Opdracht. 
+Daartoe acht de Aanbestedende dienst het noodzakelijk dat de Inschrijver bepaalde kerncompetenties heeft. De 
+Inschrijver toont met referentieopdrachten aan dat hij beschikt over die kerncompetenties. 
+ 
+Voor de uitvoering van de Opdracht moet de Inschrijver beschikken over de volgende kerncompetenties:   
+ 
+Perceel 1 - communicatiebureau: 
+ 
+Competentie 
+Ervaring met het online en offline werven van een representatieve groep van minimaal 5.000 personen 
+onder de doelgroep jongvolwassenen in de leeftijd tussen 16 en 25 jaar voor het invullen van een 
+enquête. 
+17 van 33 
+ 
+Perceel 2 - veldwerkbureau: 
+ 
+Competentie 
+Ervaring met het programmeren en live laten gaan van een enquête onder minimaal 20.000 personen in 
+een digitale vorm waarbij gegevens centraal en digitaal worden verzameld. 
+ 
+De Inschrijver toont de gevraagde bekwaamheid aan met maximaal één referentieopdracht per kerncompetentie. 
+Het is toegestaan om dezelfde referentieopdracht ter aantoning van meerdere kerncompetenties te gebruiken. De 
+Inschrijver gebruikt hiervoor Bijlage F. 
+ 
+Een referentieopdracht moet voldoen aan de volgende criteria: 
+• Ingeval van een reeds afgeronde opdracht is de afrondingsdatum van de referentieopdracht niet ouder dan 
+drie jaar gerekend vanaf de publicatiedatum van deze Aanbesteding. De opdracht moet binnen een periode 
+van maximaal één jaar zijn uitgevoerd. 
+• Ingeval van een nog lopende opdracht is de startdatum van de referentieopdracht ouder dan één jaar 
+gerekend vanaf de publicatiedatum van deze Aanbesteding. 
+• Ingeval van een nog lopende opdracht gebruikt de Inschrijver alleen de reeds behaalde resultaten om 
+daarmee zijn bekwaamheid aan te tonen. Een prognose van de resultaten volstaat niet.  
+• Indien de Inschrijver bij de uitvoering van de referentieopdracht onderdeel was/is van een 
+samenwerkingsverband, dan beschrijft de Inschrijver wat zijn aandeel is (geweest) bij de uitvoering van de 
+referentieopdracht. Slechts zijn aandeel in de referentieopdracht telt mee bij de beoordeling of aan deze 
+Geschiktheidseis wordt voldaan. 
+• De referentieopdracht is of wordt succesvol en naar tevredenheid van de betreffende opdrachtgever 
+uitgevoerd.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij beschikt over de vereiste kerncompetenties. Indien de Inschrijver 
+inschrijft met Onderaannemer(s) om op die manier te kunnen voldoen aan de Geschiktheidseis, dan tonen de 
+Onderaannemer(s) aan dat zij beschikken over de vereiste kerncompetenties.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan tonen de leden van 
+het Samenwerkingsverband gezamenlijk aan dat zij beschikken over de vereiste kerncompetenties.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste ervaring, dan vult de Inschrijver Bijlage H in en verstrekt bewijs dat hij daadwerkelijk 
+kan beschikken over de vereiste kerncompetenties van de Derde(n). 
+ 
+Alles wat de Aanbestedende dienst in deze paragraaf vraagt dient duidelijk te blijken uit de door de Inschrijver 
+verschafte informatie. De Aanbestedende dienst behoudt zich het recht voor de juistheid van de referentie te 
+controleren door contact op te nemen met de contactpersoon van de referentie.  
+ 
+ 
+ 
+  
+18 van 33 
+5. Toetsing van de Inschrijving 
+5.1 Inleiding 
+Dit hoofdstuk beschrijft de toetsingscriteria waaraan de Inschrijving moet voldoen. Niet voldoen aan een 
+toetsingscriterium betekent in de regel uitsluiting van verdere deelname aan de Aanbesteding.  
+ 
+# Toetsingscriterium 
+T1 Voorwaarden en bepalingen van deze Aanbesteding 
+T2 Programma van eisen 
+T3 Concept van de Overeenkomst  
+T4 Concept van de Verwerkersovereenkomst 
+T5 Algemene inkoopvoorwaarden van de Opdrachtgever  
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4  
+Met het ondertekenen van het UEA verklaart de Inschrijver: 
+- dat hij onvoorwaardelijk akkoord gaat met alle voorschriften, voorwaarden en bepalingen die zijn opgenomen 
+in de Aanbestedingsstukken; 
+- dat hij voldoet aan c.q. akkoord gaat met (de inhoud van) het Programma van eisen dat is opgenomen in 
+Bijlage A, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met het concept van de Overeenkomst dat is opgenomen in Bijlage B.1, 
+en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met het concept van de Verwerkersovereenkomst dat is opgenomen in 
+Bijlage B.2, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met de algemene inkoopvoorwaarden die zijn opgenomen in Bijlage C, 
+en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop, en dat eventuele leverings-, 
+betalings- en/of andere algemene voorwaarden van de Inschrijver niet van toepassing zijn;  
+ 
+ 
+  
+19 van 33 
+6. Beoordeling van de Inschrijving 
+De Aanbestedende dienst is voornemens de Opdracht te gunnen aan de Inschrijver per Perceel met de 
+economisch meest voordelige Inschrijving. De Aanbestedende dienst weegt zowel prijs als kwantitatieve en 
+kwalitatieve criteria om tot een eindoordeel te komen.  
+6.1 Gunningsmethode: gewogenfactormethode 
+Om de Inschrijving op prijs en kwaliteit te kunnen beoordelen maakt de Aanbestedende dienst gebruik van de 
+‘gewogenfactormethode’. Bij de gewogenfactormethode wordt aan elk Gunningscriterium een weging toegekend, 
+uitgedrukt in een percentage. Bij elkaar opgeteld is het totaal van de wegingspercentages 100%.  
+ 
+Afhankelijk van de beoordeling wordt per Gunningscriterium een score gegeven (zie de tabel in paragraaf 6.4). 
+Deze ongewogen score wordt vermenigvuldigd met de weging van het desbetreffende Gunningscriterium (zie de 
+tabel in paragraaf 6.8), wat resulteert in een gewogen score per Gunningscriterium. De gewogen scores van alle 
+Gunningscriteria bij elkaar opgeteld vormen samen de eindscore. De Inschrijving met de hoogste eindscore komt 
+als eerste in aanmerking voor gunning van de Opdracht. 
+6.2 Beoordelingsteam 
+Voor de beoordeling van de Inschrijving stelt de Aanbestedende dienst een beoordelingsteam samen. Het 
+beoordelingsteam bestaat uit minimaal drie leden die de deskundigheid hebben die nodig is om de Inschrijving 
+inhoudelijk te beoordelen.  
+6.3 Wijze van beoordeling 
+Het beoordelingsteam beoordeelt elk Gunningscriterium op basis van de informatie die de Inschrijver met 
+betrekking tot dat specifieke Gunningscriterium heeft overgelegd. Iedere Inschrijving wordt beoordeeld op zijn 
+eigen verdiensten. Indien een Inschrijver meent dat voor de beoordeling van een Gunningscriterium ook een deel 
+van een ander Gunningscriterium uit zijn Inschrijving van belang is, dient de Inschrijver daar expliciet (met 
+vermelding van paragraaf-/paginanummers) naar te verwijzen, inclusief een toelichting waarom de informatie 
+waarnaar wordt verwezen van belang is voor de beoordeling van het betreffende Gunningscriterium.  
+Per Gunningscriterium komt het beoordelingsteam in consensus tot één gezamenlijke score. 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria 
+In de hiernavolgende paragrafen zijn de Gunningscriteria omschreven. Voor de kwalitatieve Gunningscriteria kent 
+het beoordelingsteam per Gunningscriterium een beoordelingsscore toe aan de kwaliteit van de door de 
+Inschrijver ingediende informatie. Afhankelijk van de kwaliteit van het aangebodene wordt per Gunningscriterium 
+een van de volgende scores gegeven:  
+ 
+Score Omschrijving Max. te behalen punten 
+Uitstekend De kwalificatie ‘uitstekend’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 10 100 punten 
+Zeer goed De kwalificatie ‘zeer goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 9 90 punten 
+Goed De kwalificatie ‘goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 8  70 punten 
+Ruim voldoende De kwalificatie ‘ruim voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 7  30 punten 
+Voldoende  De kwalificatie ‘voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 6  10 punten 
+Onvoldoende Alles lager dan ‘voldoende’ Uitsluiting  
+ 
+Voor de kwalitatieve Gunningscriteria G1 (Perceel 1 en 2) en G2 (Perceel 1) is een voldoende het minste wat de 
+Aanbestedende dienst verwacht. Daarom geldt voor deze Gunningscriteria een vereiste minimumscore van een 
+voldoende. Indien voor de Gunningscriteria G1 (Perceel 1 en 2) en G2 (Perceel 1) niet minimaal de score 
+‘voldoende’ wordt behaald, is de Inschrijving ongeldig en wordt deze terzijde gelegd. 
+20 van 33 
+6.5 Beoordelingsscores voor de kwantitatieve Gunningscriteria 
+De methode die de Aanbestedende dienst gebruikt voor de beoordeling van een kwantitatief Gunningscriterium 
+wordt toegelicht bij de omschrijving van het betreffende Gunningscriterium.    
+6.6 Documenten/gegevens en beoordelingsaspecten 
+Verderop in dit hoofdstuk wordt per Gunningscriterium beschreven: 
+(i) welke documenten/gegevens de Inschrijver in het kader van het betreffende Gunningscriterium moet 
+aanleveren; en  
+(ii) op welke aspecten het beoordelingsteam de beoordeling op het betreffende Gunningscriterium uitvoert 
+(per Gunningscriterium is hiervoor een grijs beoordelingskader opgenomen in het vervolg van dit 
+hoofdstuk). 
+ 
+Ad (i) Het beoordelingsteam zal nagaan of de Inschrijver op het betreffende Gunningscriterium alle gevraagde 
+documenten/gegevens heeft aangeleverd. Als dat niet het geval is, leidt dit in de regel tot een lagere beoordeling. 
+In uitzonderlijke gevallen kan het niet aanleveren van gevraagde documenten/gegevens leiden tot ongeldigheid 
+van de Inschrijving (bijvoorbeeld als de Inschrijving in het geheel geen, of slechts een zeer gebrekkig, onderdeel 
+bevat).  
+ 
+Ad (ii) Bij de beoordeling op de Gunningscriteria houdt het beoordelingsteam, naast de in de beoordelingskaders 
+benoemde beoordelingsaspecten, ook rekening met de wijze waarop de Inschrijver de door hem gemaakte 
+keuzes heeft onderbouwd. Daarbij kunnen bijvoorbeeld de volgende vragen aan de orde komen: 
+• Geeft de Inschrijver een duidelijk inzicht in de afwegingen?  
+• Zit er een duidelijke logica/gedachte achter de gemaakte keuzes?  
+• Toont de Inschrijver zich bewust van eventuele nadelen van de keuzes en licht hij toe waarom de voordelen 
+van de keuzes opwegen tegen die nadelen? 
+Kortom: Het is aan de Inschrijver om de beoordelaars uit te leggen welke keuzes zijn gemaakt, en te overtuigen 
+dat die keuzes juist zijn. 
+ 
+Let op: de Inschrijver wordt gevraagd in de Inschrijving concreet en ondubbelzinnig te beschrijven wat hij aanbiedt 
+(dus niet: ‘we kunnen...’ of ‘we doen mogelijk...’, maar: ‘we zullen...’ of ‘we doen...’). Onduidelijkheden in de 
+Inschrijving leiden in de regel tot een lagere beoordeling. 
+ 
+De genoemde beoordelingsaspecten die per Gunningscriterium zijn weergegeven in het vervolg van dit hoofdstuk 
+zijn geen nadere gunningscriteria of subgunningscriteria. Het betreffen aspecten waaraan de Inschrijver wordt 
+gevraagd ten minste aandacht te besteden bij het opstellen van de Inschrijving. De genoemde aspecten zijn 
+steeds in willekeurige volgorde van belang opgenomen. 
+6.7 Berekenen van de eindscores  
+De eindscore per Inschrijver wordt berekend door optelling van de gewogen scores op alle Gunningscriteria. De 
+Inschrijver met de hoogste eindscore komt in aanmerking voor gunning van de Opdracht.  
+ 
+Indien twee of meer Inschrijvers dezelfde hoogste eindscore halen, dan geldt het volgende: 
+ 
+• De Opdracht wordt gegund aan de Inschrijver met de hoogste niet-afgeronde eindscore.  
+• Ingeval ook de niet-afgeronde eindscores gelijk zijn, dan wordt de Opdracht gegund aan de Inschrijver met 
+de hoogste score op het Gunningscriterium G1.  
+• Indien ook op het Gunningscriterium G1 door die betreffende Inschrijvers een gelijke score is behaald, dan 
+wordt de Opdracht gegund aan de Inschrijver met de hoogste score op het Gunningscriterium G2. 
+• Voor Perceel 1 geldt: Indien ook op het Gunningscriterium G2 door die betreffende Inschrijvers een gelijke 
+score is behaald, dan wordt de Opdracht gegund aan de Inschrijver met de hoogste score op het 
+Gunningscriterium G3. 
+• Indien ook op het Gunningscriterium G3 (Perceel 1) of G2 (Perceel 2) door desbetreffende Inschrijvers een 
+gelijke score is behaald, dan vindt loting plaats tussen die Inschrijvers, om te bepalen aan wie de Opdracht 
+wordt gegund. De loting wordt uitgevoerd door de Aanbestedende dienst. De betreffende Inschrijvers mogen 
+aanwezig zijn bij de loting.  
+21 van 33 
+6.8 Gunningscriteria  
+Om de Inschrijving met de beste prijs-kwaliteitverhouding te kunnen bepalen, hanteert de Aanbestedende dienst 
+de onderstaande Gunningscriteria.  
+ 
+De Gunningscriteria zijn gerelateerd aan de doelstellingen die de Aanbestedende dienst met deze Aanbesteding 
+nastreeft, zoals opgenomen in hoofdstuk 1. De Gunningscriteria worden verder uitgewerkt in dit hoofdstuk.  
+ 
+Perceel 1 – Communicatiebureau  
+ 
+Gunningscriterium Weging Max. aantal punten 
+(ongewogen) Max. score (gewogen) 
+Kwaliteit 70%   
+G1 Plan van Aanpak 50% 100 500 
+G2 Communicatieplan 20% 100 200 
+Prijs 30%   
+G3 Prijs 30% 100 300 
+Totaal 100%  1000 
+ 
+Perceel 2 – Veldwerkbureau 
+ 
+Gunningscriterium Weging Max. aantal punten 
+(ongewogen) Max. score (gewogen) 
+Kwaliteit 60%   
+G1 Plan van Aanpak 60% 100 600 
+Prijs 40%   
+G2 Prijs 40% 100 400 
+Totaal 100%  1000 
+ 
+6.8.1 Perceel 1 - G1: Plan van Aanpak  
+GGD’en dienen aan de hand van een Gezondheidsmonitor op regionaal en lokaal niveau inzicht te geven in de 
+gezondheidssituatie van jongvolwassen tijdens en na de coronacrisis. Daarom is het belangrijk dat de 
+Gezondheidsmonitor met precisie en middels een doordacht plan wordt uitgevoerd. GGD GHOR Nederland 
+ondersteunt de GGD’en in deze.  
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in wat Inschrijver verstaat onder 
+een representatieve respons en hoe de Inschrijver deze respons behaald.  
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht zal uitvoeren. In ieder geval de volgende 
+aspecten dienen aan de orde te komen: 
+• Een beschrijving hoe men volgens Inschrijver borgt dat de respons voldoende én representatief is voor de 
+gehele groep jongvolwassenen. 
+• Een voorstel hoe men bovenstaande gaat realiseren, waarbij in ieder geval social media kanalen ingezet 
+worden. Inschrijver dient hierbij rekening te houden met een manier van werven die past bij de GGD’en als 
+publieke organisatie en bij jongvolwassenen als doelgroep.  
+• Een voorstel welke incentive Inschrijver gaat inzetten en hoe Inschrijver dit organiseert binnen het hiervoor 
+geoormerkte budget om jongvolwassenen extra aan te sporen de enquête in te vullen en wat Inschrijver 
+hiervoor nodig heeft van de Opdrachtnemer van Perceel 2.  
+• Voorstel hoe de landingspagina, slotpagina en enquête aantrekkelijk gemaakt kunnen worden (‘look and 
+feel’) en wat Inschrijver hiervoor nodig heeft van de Opdrachtnemer van Perceel 2. 
+• Een voorstel hoe de enquête en advertenties in dezelfde stijl worden gerealiseerd. 
+22 van 33 
+• Een planning waarin het voorstel van Inschrijver tot uiting komt met daarin de uit te voeren activiteiten en de 
+verantwoordelijke personen. 
+ 
+Maximumaantal pagina’s 
+Het plan van aanpak is maximaal vijf (5) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de 
+hoofdtekst (in een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar 
+exclusief het voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt 
+overschreden, leidt dit niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan 
+pagina’s niet in de beoordeling betrekken.  
+ 
+Beoordelingskader G1: Plan van Aanpak 
+Het plan van aanpak wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het 
+‘totaalbeeld’ van het plan van aanpak en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het Plan van Aanpak beter aansluit op de context en inhoud van de Opdracht en 
+Opdrachtgever, des te beter wordt dit beoordeeld. 
+• Des te beter Deelnemer de omvang en complexiteit van de Opdracht kan doorgronden en daarmee kan 
+vertalen naar een passend Plan van Aanpak, des te beter dit wordt beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.2 Perceel 1 - G2: Communicatieplan 
+De Opdrachtnemer van Perceel 1 is tijdens de voorbereiding en tijdens de dataverzameling het eerste 
+aanspreekpunt voor Opdrachtgever en verzorgt het contact met Opdrachtnemer van Perceel 2 voor zaken die 
+betrekking hebben op zowel Perceel 1 als Perceel 2. Daarnaast is Opdrachtnemer van Perceel 1 eerste 
+aanspreekpunt voor de GGD’en, om zo de communicatie met beide Percelen te stroomlijnen. Er is contact met de 
+afzonderlijke GGD’en over lokale werving.  
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in hoe Inschrijver invulling geeft 
+aan de communicatie en afstemming met verschillende partijen.   
+ 
+Door de Inschrijver aan te leveren informatie 
+Werk uit hoe Inschrijver de communicatie van deze Opdracht inricht. In ieder geval de volgende aspecten dienen 
+aan de orde te komen: 
+• Een plan met betrekking tot. hoe u communiceert en met welke frequentie voor tenminste: 
+o Eerste contactpersoon voor Opdrachtgever; 
+o Afstemming met afzonderlijke GGD’en; 
+o Communicatie met Opdrachtnemer van Perceel 2. 
+ 
+23 van 33 
+Maximumaantal pagina’s 
+De uitwerking is maximaal vier (4) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de hoofdtekst (in 
+een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar exclusief het 
+voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt overschreden, leidt dit 
+niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan pagina’s niet in de 
+beoordeling betrekken. 
+ 
+Beoordelingskader G2: Communicatieplan 
+De uitwerking wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het ‘totaalbeeld’ 
+van de uitwerking en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het voorstel beter aansluit op de context en inhoud van de Opdracht en Opdrachtgever, des te 
+beter wordt dit beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.3 Perceel 1 – G3: Prijs 
+Vul de prijzen in in het prijzenblad (Bijlage I).  
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moeten worden aangeboden in euro’s en inclusief btw.  
+• Inschrijver kan maximaal €1,- inclusief btw per respondent inzetten voor een incentive tot een maximum van 
+€100.000,- inclusief btw en dient dit op te nemen in Bijlage I - Prijzenblad. 
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: salariskosten, 
+overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en ondersteunend werk, kosten voor het 
+gebruik van apparatuur en software, reiskosten, parkeerkosten, afleverkosten en logistieke kosten. Ook alle 
+eventueel verdere bijkomende kosten die de Inschrijver als professionele onderneming moet kunnen 
+voorzien, moeten zijn inbegrepen.  
+• Het is de Inschrijver niet toegestaan om in te schrijven met een negatieve prijs.  
+• Opgegeven (eenheids)prijzen mogen niet abnormaal laag zijn. Bij de vaststelling of hiervan sprake is neemt 
+de Aanbestedende dienst artikel 2.116 van de Aanbestedingswet 2012 in acht.  
+• Het is de Inschrijver niet toegestaan manipulatief in te schrijven. Hiermee wordt in deze context bedoeld dat 
+een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-Inschrijvers te ontkomen, 
+respectievelijk dat de aangekondigde maatstaf ter beoordeling van de economisch meest voordelige 
+inschrijving wordt misbruikt, waardoor de door de Aanbestedende dienst gehanteerde 
+beoordelingsmethodiek wordt gefrustreerd.  
+ 
+Niet voldoen aan bovenstaande voorwaarden leidt in de regel tot het terzijde leggen van de Inschrijving en 
+uitsluiting van verdere deelname aan de aanbestedingsprocedure.  
+ 
+24 van 33 
+Beoordelingskader G3: Prijs 
+De score voor het Gunningscriterium wordt kwantitatief beoordeeld. Het aantal punten dat bij dit 
+Gunningscriterium wordt toegekend is afhankelijk van de aangeboden prijs, namelijk: 
+De Inschrijver krijgt 100 punten als de prijs € 300.000,- bedraagt of lager. Als de prijs € 500.000,- of hoger is, 
+wordt de Inschrijver uitgesloten.  
+ 
+Als de prijs ligt tussen € 300.000,- en € 500.000,- dan wordt het aantal punten als volgt berekend: 
+ 
+100  - (inschrijfprijs – 300.000) / 200.000 * 100 
+ 
+ 
+ 
+6.8.4 Perceel 2 - G1: Plan van Aanpak  
+GGD’en dienen aan de hand van een Gezondheidsmonitor op regionaal en lokaal niveau inzicht te geven in de 
+gezondheidssituatie van jongvolwassen tijdens en na de coronacrisis. Het invullen van de enquête door 
+respondenten biedt die inzichten aan de GGD’en  Daarom is het belangrijk dat de enquête goed functioneert en 
+zo gebruiksvriendelijk mogelijk ingevuld kan worden. 
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in hoe Inschrijver de enquête 
+programmeert en gebruiksvriendelijk maakt, de resultaten en respons terugkoppelt en een digitale link naar een 
+incentive koppelt en hoe Inschrijver invulling geeft aan de communicatie.  
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht invult. In ieder geval de volgende aspecten 
+dienen aan de orde te komen: 
+• Een beschrijving van de wijze waarop de enquête en responstool worden geprogrammeerd. 
+• Een beschrijving hoe de enquête in gebruik wordt genomen door de respondenten en hoe het invullen van de 
+enquête zo gebruiksvriendelijk en aantrekkelijk mogelijk wordt gemaakt. 
+• Een beschrijving hoe de enquêtetool een koppeling kan maken met een digitale incentive, zoals een link naar 
+een winactie als dank voor het invullen van de enquête. 
+• Een beschrijving van de wijze waarop Inschrijver de resultaten terugkoppelt aan Opdrachtgever. 
+• Een voorgestelde planning met daarin de uit te voeren activiteiten en de verantwoordelijke personen.  
+• Een beschrijving van de helpdesk functie die Inschrijver biedt aan de respondenten. 
+• Een communicatieplan waarin u aangeeft hoe u communiceert met Opdrachtgever en Opdrachtnemer van 
+Perceel 1. Opdrachtnemer van Perceel 1 is eerste contactpersoon voor opdrachtgever. 
+ 
+Maximumaantal pagina’s 
+Het plan van aanpak is maximaal zeven (7) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de 
+hoofdtekst (in een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar 
+exclusief het voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt 
+0
+20
+40
+60
+80
+100
+€ 200.000 € 300.000 € 400.000 € 500.000
+Punten
+Prijs
+25 van 33 
+overschreden, leidt dit niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan 
+pagina’s niet in de beoordeling betrekken.  
+ 
+Beoordelingskader G1: Plan van Aanpak 
+Het plan van aanpak wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het 
+‘totaalbeeld’ van het plan van aanpak en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het Plan van Aanpak beter aansluit op de context en inhoud van de Opdracht en 
+Opdrachtgever, des te beter wordt dit beoordeeld. 
+• Des te beter Deelnemer de omvang en complexiteit van de Opdracht kan doorgronden en daarmee kan 
+vertalen naar een passend Plan van Aanpak, des te beter dit wordt beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.5 Perceel 2 – G2: Prijs 
+Vul de prijzen in in het prijzenblad (Bijlage I).  
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moeten worden aangeboden in euro’s en inclusief btw.  
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: salariskosten, 
+overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en ondersteunend werk, kosten voor het 
+gebruik van apparatuur en software, reiskosten, parkeerkosten, afleverkosten en logistieke koste
+
+=== Document: herziene documentatie - beschrijvend document ea ggd ghor v1.1 ===
+SIGSYN 20210526EDv1.7   
+ 
+ 
+Beschrijvend Document 
+ 
+ 
+Gezondheidsmonitor Jongvolwassenen 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+GGD GHOR Nederland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opgesteld door:  GGD GHOR Nederland 
+Versie:   1.0 
+Datum:   23 december 2021  
+TenderNed-kenmerk: 342415 
+Referentienummer: 1164 
+
+2 van 33 
+Inhoud 
+ 
+Begrippen ............................................................................................................................................................ 4 
+1. Inleiding .......................................................................................................................................................... 6 
+1.1 Aanleiding en context van de Aanbesteding .......................................................................................... 6 
+1.2 De Aanbestedende dienst ...................................................................................................................... 6 
+1.3 Doelstellingen......................................................................................................................................... 6 
+1.4 Marktconsultatie ..................................................................................................................................... 6 
+1.5 Gebruik Aanbestedingsplatform ............................................................................................................. 6 
+2. Inhoud van de Opdracht ............................................................................................................................... 8 
+2.1 Perceelindeling....................................................................................................................................... 8 
+2.2 Binnen de scope van de Opdracht ......................................................................................................... 8 
+2.3 Buiten de scope van de Opdracht .......................................................................................................... 9 
+2.4 Omvang van de Opdracht ...................................................................................................................... 9 
+2.5 Varianten ................................................................................................................................................ 9 
+2.6 Contractvorm.......................................................................................................................................... 9 
+2.7 Wijziging van de Opdracht ................................................................................................................... 10 
+3. Verloop van de Aanbesteding .................................................................................................................... 11 
+3.1 Procedure ............................................................................................................................................ 11 
+3.2 Planning ............................................................................................................................................... 11 
+3.3 Communicatie gedurende de Aanbesteding ........................................................................................ 11 
+3.4 Informatieverstrekking .......................................................................................................................... 11 
+3.5 Indienen van de Inschrijvingen ............................................................................................................. 12 
+3.6 Opening van de Inschrijvingen ............................................................................................................. 12 
+3.7 Beoordeling van de Inschrijvingen ....................................................................................................... 12 
+3.8 Gunningsbeslissing .............................................................................................................................. 12 
+3.9 Verificatie ............................................................................................................................................. 13 
+4. Eisen aan de Inschrijver .............................................................................................................................. 14 
+4.1 Inleiding ................................................................................................................................................ 14 
+4.2 Aanbiedingsbrief (A1) ........................................................................................................................... 14 
+4.3 Uitsluitingsgronden ............................................................................................................................... 14 
+4.4 Geschiktheidseisen .............................................................................................................................. 16 
+5. Toetsing van de Inschrijving ...................................................................................................................... 18 
+5.1 Inleiding ................................................................................................................................................ 18 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4 ........................................................................... 18 
+6. Beoordeling van de Inschrijving ................................................................................................................ 19 
+6.1 Gunningsmethode: gewogenfactormethode ........................................................................................ 19 
+6.2 Beoordelingsteam ................................................................................................................................ 19 
+6.3 Wijze van beoordeling .......................................................................................................................... 19 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria .................................................................. 19 
+6.5 Beoordelingsscores voor de kwantitatieve Gunningscriteria ................................................................ 20 
+6.6 Documenten/gegevens en beoordelingsaspecten ............................................................................... 20 
+6.7 Berekenen van de eindscores .............................................................................................................. 20 
+6.8 Gunningscriteria ................................................................................................................................... 21 
+7. Voorschriften en voorwaarden ................................................................................................................... 27 
+7.1 Voorbehouden van de Aanbestedende dienst ..................................................................................... 27 
+7.2 Toepasselijk recht ................................................................................................................................ 27 
+7.3 Nederlandse taal .................................................................................................................................. 27 
+7.4 Inschrijven in een Samenwerkingsverband .......................................................................................... 27 
+7.5 Inschrijven met Onderaannemers ........................................................................................................ 27 
+7.6 Inschrijving conform de Aanbestedingsstukken ................................................................................... 28 
+7.7 Voorwaardelijke Inschrijving ................................................................................................................. 28 
+7.8 Gedeeltelijke Inschrijving ..................................................................................................................... 28 
+7.9 Opgave van prijzen, tarieven en kosten ............................................................................................... 28 
+7.10 Manipulatief inschrijven ........................................................................................................................ 28 
+7.11 Geldigheidsduur van de Inschrijving .................................................................................................... 28 
+3 van 33 
+7.12 Ondertekening van het UEA en van de Inschrijving ............................................................................. 28 
+7.13 Aantal malen inschrijven ...................................................................................................................... 29 
+7.14 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving .................................... 29 
+7.15 Medewerking onderzoek ...................................................................................................................... 29 
+7.16 Kostenvergoeding ................................................................................................................................ 29 
+7.17 Status informatie in de Aanbestedingsstukken .................................................................................... 30 
+7.18 Merknamen .......................................................................................................................................... 30 
+7.19 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken .................. 30 
+7.20 Uitsluiting van Inschrijvers .................................................................................................................... 30 
+7.21 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname ................................................ 30 
+7.22 Communicatie gedurende de Aanbesteding ........................................................................................ 31 
+7.23 Beïnvloeding van de beoordeling ......................................................................................................... 31 
+7.24 Mededeling van de gunningsbeslissing ................................................................................................ 31 
+7.25 Rechtsmiddel ....................................................................................................................................... 31 
+7.26 Klachtafhandeling ................................................................................................................................. 31 
+8. Bijlagen ......................................................................................................................................................... 33 
+Bijlage A.1: Programma van eisen Perceel 1 - Communicatiebureau ............................................................... 33 
+Bijlage A.2: Programma van eisen Perceel 2 - Veldwerkbureau ....................................................................... 33 
+Bijlage B.1: Concept van de Overeenkomst ...................................................................................................... 33 
+Bijlage B.2: Concept van de Verwerkersovereenkomst ..................................................................................... 33 
+Bijlage C: Algemene inkoopvoorwaarden van de Opdrachtgever ...................................................................... 33 
+Bijlage D: Indienen vragen en opmerkingen ...................................................................................................... 33 
+Bijlage E: Uniform Europees Aanbestedingsdocument ..................................................................................... 33 
+Bijlage F: Ervaring Inschrijver ............................................................................................................................ 33 
+Bijlage G: Beroep financiële en economische draagkracht ................................................................................ 33 
+Bijlage H: Beroep technische en beroepsbekwaamheid .................................................................................... 33 
+Bijlage I: Prijzenblad .......................................................................................................................................... 33 
+Bijlage J: Marktconsultatieverslag Gezondheidsmonitor jongvolwassenen ....................................................... 33 
+Handleiding TenderNed aanbestedende diensten ............................................................................................. 33 
+Invulinstructie UEA ............................................................................................................................................ 33 
+4 van 33 
+Begrippen 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien aangeduid met 
+een beginhoofdletter, de volgende betekenis. Als het begrip in enkelvoud is gegeven wordt daaronder ook het 
+meervoud begrepen. Als het begrip in meervoud is gegeven wordt daaronder ook het enkelvoud begrepen.  
+ 
+Aanbestedende dienst Stichting Verenigingsbureau Publieke Gezondheid en 
+Veiligheid Nederland handelend onder de naam GGD GHOR 
+Nederland. 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt tot 
+verlening van de Opdracht. 
+Aanbestedingsplatform Het platform van TenderNed waarop de 
+Aanbestedingsstukken worden geplaatst en waarop de 
+communicatie tussen de Aanbestedende dienst en de 
+Inschrijver plaatsvindt en dat als medium dient voor het 
+indienen van een Inschrijving. 
+Aanbestedingsstukken Alle documenten die door de Aanbestedende dienst 
+gedurende de Aanbesteding worden ingebracht. 
+Aanbestedingswet Wet van 1 november 2012, houdende nieuwe regels omtrent 
+Aanbestedingen, Stb. 2012, 542, zoals onder meer gewijzigd 
+bij Wet van 22 juni 2016 tot wijziging van de 
+Aanbestedingswet 2012 in verband met de implementatie van 
+aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 
+2014/25/EU, Stb. 2016, 241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van het 
+voorwerp van de Aanbesteding wordt gegeven. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage maakt 
+integraal deel uit van de Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep doet met 
+betrekking tot het voldoen aan de Geschiktheidseisen. Deze 
+derde partij is niet per se hetzelfde als een Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de Overeenkomst 
+ten behoeve van de Opdrachtgever te verlenen diensten, te 
+verrichten werkzaamheden en in het kader daarvan te leveren 
+prestaties, een en ander zoals beschreven in de 
+Aanbestedingsstukken. Het gebruik van de termen ‘Diensten’ 
+en ‘Dienstverlening’ heeft mede betrekking op eventuele 
+leveringen die in het kader van die diensten (dienen te) 
+worden gedaan. 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, onderneming 
+of organisatie die geïnteresseerd is om mee te dingen naar de 
+Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gunningscriteria Criteria op basis waarvan de economisch meest voordelige 
+inschrijving wordt bepaald. 
+Gezondheidsmonitor De Gezondheidsmonitor geeft inzicht in de gezondheid en 
+leefstijl van Nederlanders van 16 tot en met 25 jaar. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of wijzigingen 
+ten aanzien van de Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft ingediend. 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende dienst en 
+dat strekt tot het uitvoeren van de Opdracht. 
+5 van 33 
+Leveringen De door de Opdrachtnemer op basis van de Overeenkomst 
+ten behoeve van de Opdrachtgever te leveren producten, een 
+en ander zoals beschreven in de Aanbestedingsstukken.  
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele mededelingen 
+van de Aanbestedende dienst en wijzigingen van het 
+Beschrijvend document en/of andere Aanbestedingsstukken.  
+De Nota van inlichtingen maakt onderdeel uit van het 
+Beschrijvend document en prevaleert boven het Beschrijvend 
+document en de daarbij behorende Bijlagen. Bij een Nota van 
+inlichtingen beschikbaar gestelde Herziene documentatie 
+prevaleert boven eerdere versies van die betreffende 
+documenten.  
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer zelf 
+inzet om een gedeelte van de gecontracteerde opdracht uit te 
+voeren, onder verantwoordelijkheid van de Opdrachtnemer als 
+hoofdaannemer. De Opdrachtnemer blijft altijd volledig 
+verantwoordelijk en aansprakelijk voor de (uitvoering van de) 
+Opdracht en de resultaten ervan. Deze onderaannemer is niet 
+per se de Derde als bedoeld in het Beschrijvend document. 
+Opdracht De opdracht van de Opdrachtgever aan de Opdrachtnemer tot 
+hetgeen is overeengekomen in de Overeenkomst en in het 
+kader daarvan te verrichten werkzaamheden en te leveren 
+prestaties, een en ander zoals beschreven in de 
+Aanbestedingsstukken. Omdat deze Aanbesteding is 
+opgedeeld in meerdere Percelen is er sprake van meerdere 
+afgebakende subopdrachten binnen de totale opdracht. 
+Opdrachtgever De opdrachtgever, in dit geval GGD GHOR Nederland, die de 
+Overeenkomst aangaat met de Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de Overeenkomst 
+afsluit. 
+Overeenkomst De overeenkomst of de Raamovereenkomst tussen de 
+Opdrachtgever en de Opdrachtnemer voor het leveren van 
+(een) product(en), de te verrichten werkzaamheden en/of het 
+verlenen van een Dienst, zoals beschreven in het 
+Beschrijvend document. 
+Perceel Een afgebakend onderdeel van de Opdracht waarop kan 
+worden ingeschreven.  
+Programma van eisen Het document waarin de specificaties ten aanzien van het 
+uitvoeren van de Opdracht zijn opgenomen. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk als één 
+Inschrijver aan de Aanbesteding deelneemt. 
+Uniform Europees Aanbestedingsdocument 
+(UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin verkeert, 
+kunnen leiden tot uitsluiting van deelname aan de 
+Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een zondag, 
+(ii) een algemeen erkende feestdag (conform lid 1 van artikel 
+3 van de Algemene Termijnenwet). 
+ 
+ 
+  
+6 van 33 
+1. Inleiding 
+1.1 Aanleiding en context van de Aanbesteding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding van de Gezondheidsmonitor onder 
+jongvolwassenen (16 tot en met 25 jaar) voor GGD GHOR Nederland. De Aanbestedende dienst wenst een 
+Overeenkomst te sluiten met maximaal twee ondernemer(s) (één per Perceel).  
+ 
+De Aanbestedende dienst nodigt geïnteresseerden uit om een Inschrijving in te dienen op basis van de informatie 
+in de Aanbestedingsstukken. Inschrijvers moeten voldoen aan de voorwaarden in dit Beschrijvend document. 
+ 
+GGD GHOR Nederland faciliteert namens de GGD’en centraal de Gezondheidsmonitor onder jongvolwassenen. 
+De Gezondheidsmonitor onder jongvolwassenen is landelijk gezien een nieuwe monitor die nu voor het eerst 
+wordt uitgevoerd in het kader van COVID-19.  
+1.2 De Aanbestedende dienst  
+GGD GHOR Nederland is dé belangenbehartiger voor de publieke gezondheid en veiligheid in Nederland. GGD 
+GHOR Nederland is de overkoepelende brancheorganisatie van de 25 Gemeentelijke Gezondheidsdiensten 
+(GGD’en) en Geneeskundige Hulpverleningsorganisaties in de Regio (GHOR). De belangrijkste taak als 
+landelijke vereniging bestaat uit het collectief behartigen van de belangen van haar leden - de directeuren 
+publieke gezondheid en de regionale GGD'en en GHOR bureaus - richting politiek, (lokale) overheden, 
+samenwerkingspartners, media en publiek.  
+ 
+Daarnaast draagt GGD GHOR Nederland namens de GGD’en bij aan oplossingen voor maatschappelijke 
+vraagstukken als het gaat om jeugd, sociaal domein en veiligheid. Deze drie taakvelden staan dan ook centraal 
+bij GGD GHOR Nederland, waarin GHOR, Omgevingswet, Jeugdgezondheid, DPG als Trusted Advisor, 
+Stimuleringsprogramma en OGGZ/Personen met verward gedrag de strategische thema's zijn. Verder geeft de 
+landelijke vereniging betekenis aan de vier kernwaarden: proactief, verantwoordelijk, betrouwbaar en 
+omgevingsgericht.  
+ 
+Ook voert Opdrachtgever projecten uit, die centraal moeten worden uitgevoerd en die randvoorwaarden en 
+producten opleveren waarmee de GGD’en en GHOR-bureaus hun werkzaamheden kunnen verrichten. 
+Opdrachtgever vervult samen met de aangesloten organisaties op dit moment een belangrijke rol bij de 
+bestrijding van COVID-19. Zie voor meer informatie de website www.ggdghor.nl.  
+ 
+Daar waar in dit Beschrijvend document wordt gesproken van (handelingen verricht door) GGD GHOR 
+Nederland, wordt te allen tijde bedoeld dat wordt gehandeld namens de GGD’en.  
+1.3 Doelstellingen 
+De Aanbestedende dienst wenst met de Aanbesteding de volgende doelstelling te realiseren. Gemeenten hebben 
+de wettelijke taak om de gezondheidssituatie in kaart te brengen na rampen en crisissen, zoals de situatie 
+rondom COVID-19. In de praktijk is deze taak door gemeenten belegt bij de GGD’en. Met deze aanbesteding 
+wenst GGD GHOR Nederland namens de GGD’en op regionaal en lokaal niveau inzicht te geven over de 
+gezondheidssituatie tijdens en na de coronacrisis, van jongvolwassenen in de leeftijd van 16 tot en met 25 jaar. 
+Deze aanbesteding leidt ertoe dat in het tweede kwartaal van 2022 in heel Nederland een Gezondheidsmonitor 
+onder jongvolwassenen wordt uitgevoerd. 
+1.4 Marktconsultatie 
+Voorafgaand aan deze Aanbesteding heeft de Aanbestedende dienst een marktconsultatie gehouden. Van de 
+marktconsultatie is een beknopt verslag opgesteld. Deze kunt u vinden in Bijlage J. 
+1.5 Gebruik Aanbestedingsplatform 
+De Aanbestedende dienst stelt alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform 
+TenderNed. De Inschrijver kan zijn Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De 
+Aanbestedende dienst is op geen enkele wijze verantwoordelijk voor het gebruik van het Aanbestedingsplatform 
+door de Inschrijver en wijst iedere vorm van aansprakelijkheid nadrukkelijk van de hand. 
+ 
+7 van 33 
+Voor zover omschrijvingen op het Aanbestedingsplatform en het Beschrijvend document met elkaar in 
+tegenspraak zijn, prevaleert het Beschrijvend document boven de omschrijvingen op het Aanbestedingsplatform. 
+ 
+Let op – Om toegang te krijgen tot TenderNed, dient een onderneming te beschikken over e-Herkenning. Het 
+aanvragen van e-Herkenning kan enkele weken duren. Meer informatie over het aanvragen van e-Herkenning is 
+te vinden op de website van TenderNed. 
+ 
+  
+8 van 33 
+2. Inhoud van de Opdracht 
+2.1 Perceelindeling 
+De Opdracht is verdeeld in twee Percelen, te weten: 
+ 
+Perceel 1 - Communicatiebureau 
+Communicatiebureau voor on- en offline werven van jongvolwassenen voor de enquête. 
+ 
+Perceel 2 - Veldwerkbureau 
+Gezondheidsmonitor Jongvolwassenen uitvoeren (vragenlijst programmeren, data verzamelen, inzicht in respons 
+verschaffen tijdens dataverzameling, en data verwerken en opleveren). 
+ 
+De Opdracht wordt opgedeeld in Percelen om te voorkomen dat een belangrijk deel van de markt wordt 
+uitgesloten. 
+ 
+Inschrijven op aantal Percelen 
+Inschrijvers kunnen zich op beide Percelen inschrijven. Het maximum aantal Percelen dat wordt gegund aan één 
+Opdrachtnemer bedraagt twee.  
+2.2 Binnen de scope van de Opdracht 
+De Opdracht bestaat uit het programmeren van een vragenlijst in een enquêtetool (veldwerkbureau) en het 
+werven van respondenten (communicatiebureau). Een communicatiebureau enthousiasmeert jongvolwassenen 
+om een vragenlijst over gezondheid tijdens of na de coronacrisis in te vullen met behulp van voornamelijk online 
+werving (o.a. via betaalde advertenties op sociale media), maar ook offline werving (bijv. via posters op openbare 
+plekken). Met een klik worden ze doorgeleid naar een vragenlijst over gezondheid na de coronacrisis. Dit betreft 
+een zogenoemde open link, die voor iedereen in Nederland hetzelfde zal zijn (geen regionale verschillende 
+vragenlijsten). Het doel van de monitor is om gemeentecijfers op te kunnen leveren. De gemeentecijfers moeten 
+een representatieve weerspiegeling zijn van de jongvolwassenen in de desbetreffende gemeentes wonen. Om dit 
+te bereiken is een goede samenwerking tussen het veldwerkbureau en het communicatiebureau van essentieel 
+belang, zodat er inzicht is in de respons per gemeente naar achtergrondkenmerken, opdat er tijdig extra ingezet 
+kan worden op werving in slecht responderende groepen en/of gemeenten. Ook met de contactpersonen van de 
+GGD’en dient een goede samenwerking te zijn, zodat er besloten kan worden welk lokaal maatwerk wenselijk is. 
+ 
+De Gezondheidsmonitor onder jongvolwassenen vindt plaats in 2022. De enquête moet starten in week 15/16 in 
+april 2022 en eindigt uiterlijk in week 27 (voor de zomervakantie). Eenzelfde Gezondheidsmonitor onder 
+jongvolwassenen kan optioneel worden afgenomen in het jaar 2024. 
+ 
+Het verwerken van de vragenlijst in een enquêtetool en het analyseren van de resultaten 
+Onderzoekers publieke gezondheid van de GGD’en, ondersteund door onderzoekers van GGD GHOR Nederland 
+stellen de vragen voor de enquête op. Vervolgens wordt het veldwerk verricht door de Opdrachtnemer van 
+Perceel 2. Dit houdt in dat de vragenlijst wordt geprogrammeerd (waarbij de Opdrachtgever met testrondes kan 
+controleren of alles klopt), jongvolwassenen de vragenlijst kunnen invullen, waarbij ook de mogelijkheid is om een 
+helpdesk te benaderen, tijdens het veldwerk inzicht in de respons wordt gegeven, de data wordt verwerkt volgens 
+het codeboek van GGD GHOR Nederland en na afloop van de dataverzameling de data wordt opgeleverd in de 
+vorm van een SPSS-databestand.  
+ 
+Benaderen doelgroep 
+De doelgroep jongvolwassenen bestaat uit ruim 2,1 miljoen (2,164,319) personen. De Gezondheidsmonitor moet 
+door voldoende jongvolwassenen ingevuld worden. De respondenten moeten een representatieve groep vormen 
+waarover op regionaal en lokaal niveau inzicht verkregen kan worden. Inschrijver van Perceel 1 dient daarbij aan 
+te geven wat de beste manier is om de doelgroep te benaderen waardoor voldoende respons en representatie 
+behaald wordt.  
+ 
+De campagne voor het werven van de doelgroep vindt zowel on- als offline plaats. GGD GHOR Nederland en de 
+GGD’en stemmen met Opdrachtnemer van Perceel 1 de inhoud van deze campagne af en hoe Opdrachtnemer 
+hierin kan ondersteunen. Dit kan zowel plaatsvinden door GGD’en gezamenlijk als afzonderlijk. Afzonderlijke 
+afstemming is dan bedoeld ten behoeve van lokaal maatwerk.  
+ 
+9 van 33 
+Reageren op de vragenlijst 
+De vragenlijst wordt digitaal ingevuld door de respondenten. Invullen zal voor een groot deel plaatsvinden via 
+smartphone. Het is dus belangrijk dat de vragenlijst responsive is.  
+ 
+Incentive 
+Als incentive wordt door Opdrachtgever vaak ingezet op het winnen van een cadeaubon, waarbij de winkans 1 op 
+10 is. Mogelijk kan Inschrijver hier een alternatief voor bieden. Inschrijver kan maximaal €1,- inclusief btw per 
+respondent inzetten voor een incentive tot een maximum van €100.000,- inclusief btw en dient dit op te nemen in 
+Bijlage I - Prijzenblad. De incentive wordt uitgedacht door Opdrachtnemer van Perceel 1. Opdrachtnemer van 
+Perceel 2 zorgt zo nodig voor een digitale koppeling naar de incentive na afronding van de vragenlijst. 
+ 
+Landingspagina en slotpagina 
+Voordat de enquête start komt de respondent op een landingspagina terecht. Na afloop van de enquête komt 
+respondent op een slotpagina terecht. Het programmeren van de landingspagina, het doorlinken naar de enquête 
+en vervolgens het doorlinken naar slotpagina dient Inschrijver op Perceel 2 te verzorgen. Het aanleveren van de 
+inhoud van deze landings- en slotpagina dient Inschrijver op Perceel 1 te verzorgen. 
+ 
+Optioneel 
+Inschrijver op Perceel 2 dienst de volgende opties aan te bieden:   
+- Engelse versie van de vragenlijst; 
+- Reactie na afloop kunnen downloaden als respondent zijnde 
+Opdrachtgever kan dit optioneel afnemen. 
+2.3 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdracht, maar behoren niet tot de scope van 
+de Opdracht:  
+• Het opstellen van de vragen voor de enquête; 
+• Het analyseren van de data en rapporteren over de resultaten die voortkomen uit de enquêtes. 
+2.4 Omvang van de Opdracht 
+De Opdracht bestaat uit het werven van respondenten voor de vragenlijst (perceel 1) voor de 
+Gezondheidsmonitor onder jongvolwassenen die in 2022 plaatsvindt en het bouwen van een digitale enquête 
+(perceel 2). De aanbesteding bevat een optie voor het opnieuw uitvoeren van deze monitor in het jaar 2024.  
+ 
+De raming voor de inkoop bedraagt €535.000,- inclusief btw per Gezondheidsmonitor jongvolwassenen. De 
+raming voor Perceel 1 bedraagt maximaal €500.000,- inclusief btw en de raming voor Perceel 2 bedraagt 
+maximaal €35.000,- inclusief btw. Voor twee Gezondheidsmonitoren (in het jaar 2022 en jaar 2024) bedraagt de 
+raming €1.070.000,- inclusief btw voor Perceel 1 en €1.000.000,- inclusief btw voor Perceel 2 en €70.000,-  
+inclusief btw in totaal. 
+2.5 Varianten 
+Een variant is een niet-bestek conforme Inschrijving, dat wil zeggen: een andere oplossing voor de behoefte dan 
+gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten leidt ertoe dat in het 
+Beschrijvend document duidelijk moet worden beschreven op welke wijze de aangeboden varianten zullen 
+worden beoordeeld en hoe de varianten ten opzichte van de opties die voldoen aan het Programma van eisen en 
+de Gunningscriteria worden beoordeeld. Varianten zijn niet toegestaan.  
+2.6 Contractvorm  
+2.6.1 Type en duur van de Overeenkomst 
+De Opdrachtgever is voornemens om één Overeenkomst af te sluiten per Perceel. 
+ 
+De Overeenkomst heeft een initiële looptijd van vier maanden. De verwachte ingangsdatum van de 
+Overeenkomst is 18 maart 2022 en eindigt van rechtswege op 1 augustus 2022, zonder verlenging.  
+ 
+Opdrachtgever behoudt zich het recht voor om gedurende maart 2024 tot augustus 2024 een vervolgopdracht te 
+verstrekken voor de uitvoering van dezelfde monitor.  
+10 van 33 
+2.7 Wijziging van de Opdracht 
+2.7.1 Herhaling soortgelijke Diensten 
+In het geval er behoefte is aan een herhaling van de Dienstverlening behoudt de Opdrachtgever zich het recht 
+voor om, met een beroep op artikel 2.36 Aanbestedingswet 2012, de aanvullende opdracht middels de 
+onderhandelingsprocedure zonder aankondiging te verstrekken aan de Opdrachtnemer waaraan de 
+oorspronkelijke Opdracht werd gegund. 
+ 
+Wanneer de behoefte ontstaat aan een herhaling van de Dienstverlening, dan vraagt de Opdrachtgever een 
+offerte aan bij de Opdrachtnemer. De Opdrachtnemer stelt een offerte op, waarbij de specificaties uit de 
+offerteaanvraag worden overgenomen. De Opdrachtgever is niet verplicht om de gewenste Diensten af te nemen. 
+Indien de Opdrachtgever daar om welke reden dan ook van afziet, zal dat worden toegelicht aan de 
+Opdrachtnemer. 
+ 
+  
+11 van 33 
+3. Verloop van de Aanbesteding 
+3.1 Procedure 
+De Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 2012. Als 
+criterium voor gunning wordt gehanteerd: de beste prijs-kwaliteitverhouding.  
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; er kunnen geen rechten aan worden 
+ontleend. De Aanbestedende dienst behoudt zich het recht voor de planning te wijzigen en de Aanbesteding te 
+staken of op te schorten.  
+ 
+Mijlpaal Datum 
+Verzenden van de aankondiging van de Opdracht  Donderdag 23 december 2021 
+Sluitingsdatum vragenronde 1: Indienen vragen en 
+opmerkingen (deadline)  
+Donderdag 13 januari 2022 tot 11:00 uur 
+Publicatie eerste Nota van inlichtingen (streefdatum) Woensdag 19 januari 2022 
+Sluitingsdatum vragenronde 2: Indienen vragen en 
+opmerkingen (deadline) 
+Dinsdag 25  januari 2022 tot 11:00 uur 
+Publicatie tweede Nota van inlichtingen (streefdatum)  Maandag 31 januari 2022 
+Sluitingsdatum indienen Inschrijvingen (deadline) Vrijdag 11 februari 2022 tot 11:00 uur 
+Openen van Inschrijvingen Vrijdag 11 februari 2022 na 11:01 uur 
+Bekendmaking gunningsbeslissing (streefdatum)   Donderdag 3 maart 2022 
+Deadline aanleveren bewijsstukken woensdag 9 maart 2022 
+Einddatum opschortende termijn donderdag 24  maart 2022 
+Ingangsdatum Overeenkomst Vrijdag 25 maart 2022 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie met betrekking tot deze Aanbesteding verloopt uitsluitend via het Aanbestedingsplatform. De 
+Aanbestedende dienst neemt berichten die op een andere wijze worden verzonden niet in behandeling.  
+3.4 Informatieverstrekking  
+3.4.1 Indienen van vragen en opmerkingen 
+De Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen over de 
+Aanbestedingsstukken. Voor het stellen van vragen dient gebruik te worden gemaakt van Bijlage D ‘Indienen 
+vragen en opmerkingen’. Vragen die op een andere manier worden ingediend, worden in de regel niet 
+beantwoord. De Aanbestedende dienst kan niet garanderen dat vragen die binnenkomen na de uiterste 
+indieningsdatum voor het stellen van vragen, worden beantwoord. De Aanbestedende dienst behoudt zich het 
+recht voor vragen en/of opmerkingen ter zijde te leggen of slechts gedeeltelijk te verwerken zolang daarmee de 
+aanbestedingsrichtlijnen niet worden geschonden. 
+ 
+De Geïnteresseerde wordt verzocht om in de vraagstelling geen gebruik te maken van bedrijfsnamen, 
+productnamen en andere aan uw organisatie gerelateerde namen. De Aanbestedende dienst publiceert de 
+gestelde vragen zonder daarbij de naam van de vraagsteller te vermelden en behoudt zich het recht voor om 
+vragen met dat doel aan te passen. De Aanbestedende dienst geeft geen garantie op anonimiteit, bijvoorbeeld 
+omdat uit noodzakelijke technische vragen de identiteit van de vragensteller kan worden afgeleid. 
+ 
+Indien de Geïnteresseerde vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan kunnen 
+deze vragen buiten de Nota van inlichtingen om worden beantwoord. De Geïnteresseerde kan de Aanbestedende 
+dienst gemotiveerd verzoeken een vraag vertrouwelijk te beantwoorden, door ‘Commercieel vertrouwelijk - Niet 
+beantwoorden in de Nota van inlichtingen’ te vermelden. Indien de Aanbestedende dienst van oordeel is dat een 
+vraag niet (commercieel) vertrouwelijk van aard is, wordt dit medegedeeld aan de Geïnteresseerde. De 
+Geïnteresseerde kan de desbetreffende vraag vervolgens 1) terugtrekken of 2) door de Aanbestedende dienst 
+laten beantwoorden in de Nota van inlichtingen.  
+12 van 33 
+3.4.2 Beantwoorden vragen in Nota(’s) van inlichtingen 
+De Aanbestedende dienst sluit een vragenronde af met het publiceren van een Nota van inlichtingen met daarin 
+alle gestelde vragen van Geïnteresseerden en de antwoorden daarop van de Aanbestedende dienst. Ook van 
+eventuele wijzigingen in Aanbestedingsstukken maakt de Aanbestedende dienst melding in een Nota van 
+inlichtingen. Dit kan gepaard gaan met herziene documentatie van de betreffende Aanbestedingsstukken.  
+ 
+De informatie in de Nota’s van inlichtingen is bindend en leidend en prevaleert boven de oorspronkelijke 
+informatie in de Aanbestedingsstukken.  
+ 
+De Aanbestedende dienst publiceert de Nota’s van inlichtingen op het Aanbestedingsplatform. Hiervan wordt 
+geen notificatie verstuurd; een Geïnteresseerde dient er zelf voor zorg te dragen dat de informatie tot hem komt.  
+3.5 Indienen van de Inschrijvingen  
+De Inschrijving moet digitaal worden ingediend via het Aanbestedingsplatform vóór de sluitingsdatum zoals 
+vermeld in de planning op het Aanbestedingsplatform.  
+ 
+De Aanbestedende dienst adviseert de Inschrijver om de Inschrijving ruim op tijd in te dienen. Na de sluiting van 
+de inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. De Aanbestedende 
+dienst beschouwt een niet tijdig ingediende Inschrijving als niet ingediend en neemt deze daarom niet in 
+behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor rekening van de Inschrijver. 
+Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+De Inschrijver is zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De Aanbestedende 
+dienst, de aanbieder van het Aanbestedingsplatform zijn hiervoor niet verantwoordelijk. 
+3.6 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor de Aanbestedende dienst niet eerder zichtbaar dan op het moment dat de 
+sluitingsdatum voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+opent de Aanbestedende dienst de Inschrijvingen. Inschrijvers kunnen niet bij de opening van Inschrijvingen 
+aanwezig zijn.  
+3.7 Beoordeling van de Inschrijvingen 
+Na opening worden de Inschrijvingen gecontroleerd en beoordeeld.  
+ 
+Controle volledigheid en vormvereisten 
+De Aanbestedende dienst controleert of een Inschrijving volledig is en voldoet aan de vormvereisten. Een 
+Inschrijving die niet volledig is of niet voldoet aan de vormvereisten wordt in de regel als ongeldig terzijde gelegd 
+en uitgesloten van verdere deelname aan de Aanbesteding. 
+ 
+Toetsing 
+De Aanbestedende dienst toetst of Uitsluitingsgronden van toepassing zijn en of de Inschrijver en de Inschrijving 
+voldoen aan de Geschiktheidseisen en de toetsingscriteria. Een Inschrijving die niet voldoet aan deze criteria 
+wordt in de regel als ongeldig terzijde gelegd en uitgesloten van verdere deelname aan de Aanbesteding.  
+ 
+Inhoudelijke beoordeling  
+De Aanbestedende dienst beoordeelt de Inschrijving op basis van het gunningscriterium de beste prijs-
+kwaliteitverhouding. De wijze waarop de Aanbestedende dienst dat doet is beschreven in hoofdstuk 6. 
+3.8 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maakt de Aanbestedende dienst de gunningsbeslissing tegelijkertijd 
+bekend aan alle Inschrijvers. Aan de gunningsbeslissing kunnen geen rechten worden ontleend noch houdt deze 
+beslissing de aanvaarding van een aanbod in. Gedurende een opschortende termijn van ten minste twintig 
+kalenderdagen na verzending van de mededeling van de gunningsbeslissing is het de Aanbestedende dienst niet 
+toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+13 van 33 
+3.9 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kan de Aanbestedende dienst bewijs opvragen om de 
+informatie die de Inschrijver in het kader van deze aanbestedingsprocedure heeft gegeven te verifiëren.  
+ 
+Om de administratieve last te beperken is bepaald dat de Aanbestedende dienst aan Inschrijvers bij inschrijving in 
+eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) mag vragen, in plaats van alle 
+bewijsstukken. De bewijsstukken die vallen onder het UEA, met uitzondering van de referenties, vraagt de 
+Aanbestedende dienst in de regel alleen op bij de Inschrijver(s) die op basis van de beoordeling in aanmerking 
+komt/komen voor de Opdracht. De Inschrijver moet de gevraagde bewijsstukken binnen korte tijd aanleveren, in 
+de regel binnen een termijn van drie Werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit controle van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+- niet voldoet aan de gestelde eisen, of  
+- geen afdoende bewijs kan overleggen, of  
+- onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. De Aanbestedende dienst zal de gunningsbeslissing 
+dan in de regel intrekken, de Inschrijving als ongeldig terzijde leggen en uitsluiten van verdere deelname aan de 
+aanbestedingsprocedure. Vervolgens zal de Aanbestedende dienst de procedure opnieuw starten vanaf 
+paragraaf Fout! Verwijzingsbron niet gevonden., waarbij de Inschrijver die als tweede in de rangorde eindigde z
+al worden aangemerkt als de potentieel winnende Inschrijver. 
+ 
+  
+14 van 33 
+4. Eisen aan de Inschrijver 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen de Aanbestedende dienst hanteert en 
+welke informatie de Inschrijver dient aan te leveren. Met het Uniform Europees Aanbestedingsdocument (UEA) 
+geeft de Inschrijver aan of de Uitsluitingsgronden wel of niet op hem van toepassing zijn en of hij voldoet aan de 
+Geschiktheidseisen. Eveneens is beschreven welke eisen gelden indien:  
+- de Inschrijver inschrijft met Onderaannemer(s); 
+- de Inschrijver inschrijft als een Samenwerkingsverband; 
+- de Inschrijver zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+- de Inschrijver zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 7.4 en 7.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers of als een 
+Samenwerkingsverband.  
+ 
+In de tabel hieronder is aangegeven welke bewijsstukken/documenten de Inschrijver moet bijvoegen bij de 
+Inschrijving. Alleen de winnende Inschrijver dient de bewijsstukken in de kolom ‘Op verzoek’ aan te leveren, 
+binnen drie Werkdagen na verzoek van de Aanbestedende dienst. Het risico dat bewijsstukken niet tijdig kunnen 
+worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van deelname aan de 
+Aanbesteding. Het verdient aanbeveling de genoemde bewijsstukken tijdig te verzamelen en gereed te hebben.  
+ 
+De Aanbestedende dienst behoudt zich het recht voor om nader onderzoek uit te (laten) voeren naar (de 
+verklaringen van) de Inschrijver.  
+ 
+ # Omschrijving Bij inschrijving Op verzoek 
+Algemene 
+verklaringen 
+A1 Aanbiedingsbrief X  
+A2 Uniform Europees Aanbestedingsdocument X  
+Bewijsmiddelen 
+t.b.v. 
+Uitsluitingsgronden 
+U1 Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+U2 Gedragsverklaring aanbesteden  X 
+U3 Verklaring van de Belastingdienst  X 
+Geschiktheidseisen E1 Afdekking aansprakelijkheidsrisico’s  X 
+E2 Ervaring van de Inschrijver X  
+4.2 Aanbiedingsbrief (A1) 
+De Inschrijver dient een aanbiedingsbrief bij de Inschrijving te voegen. In de aanbiedingsbrief dienen ten minste 
+de volgende zaken te zijn opgenomen: 
+• Het Perceel of de Percelen waarop de Inschrijver inschrijft. 
+• De naam van de Inschrijver waarmee hij staat ingeschreven in het nationale beroeps- of handelsregister.  
+• De naam van de contactpersoon, inclusief contactgegevens, die namens de Inschrijver het aanspreekpunt 
+zal zijn tijdens de Aanbesteding.   
+• De namen van de Onderaannemers of Derden of leden van het Samenwerkingsverband waarmee zij staan 
+ingeschreven in het nationale beroeps- of handelsregister. Een toelichting op waarom en voor welk deel van 
+de Opdracht op hen een beroep wordt gedaan. 
+4.3 Uitsluitingsgronden 
+4.3.1 Verplichte en facultatieve Uitsluitingsgronden 
+De Aanbestedende dienst verklaart naast de verplichte Uitsluitingsgronden de facultatieve Uitsluitingsgronden 
+van toepassing die zijn aangevinkt in deel III van het Uniform Europees Aanbestedingsdocument (UEA). De 
+redenen voor het van toepassing verklaren van de facultatieve Uitsluitingsgronden zijn als volgt. De 
+Aanbestedende dienst wenst uitsluitend ondernemingen te contracteren die financieel gezond zijn van 
+onbesproken gedrag, waarbij geen sprake is van belangenverstrengeling en die integer en ethisch handelen.  
+ 
+15 van 33 
+Aan de toepasselijkheid van een Uitsluitingsgrond op een onderneming wordt conform artikel 2.86 lid 3 van de 
+Aanbestedingswet 2012 gelijkgesteld de situatie dat een Uitsluitingsgrond van toepassing is op een persoon die 
+lid is van het bestuurs-, leidinggevend of toezichthoudend orgaan of die daarin vertegenwoordigings-, beslissings- 
+of controlebevoegdheid heeft.  
+4.3.2 Invullen van het Uniform Europees Aanbestedingsdocument (A2) 
+De Inschrijver vult alle benodigde gegevens in het UEA volledig en juist in en voegt deze toe aan de Inschrijving. 
+Zie paragraaf 7.12 voor aanwijzingen voor de ondertekening van het UEA.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s), dan dient hij hiervan melding te 
+maken in Deel II D van het UEA. Tevens dient elke Onderaannemer een UEA in te vullen (Deel II A & B en 
+Deel III) en rechtsgeldig te ondertekenen.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dienen alle leden 
+van het Samenwerkingsverband afzonderlijk het UEA in te vullen en rechtsgeldig te ondertekenen. De 
+Inschrijver vermeldt onder Deel II A met welke entiteiten hij een Samenwerkingsverband aangaat. 
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op (een) Derde(n) om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen, dan dient de Inschrijver in Deel II C van het UEA hiervan melding te 
+maken. Tevens dient elk betreffende Derde een eigen UEA in te vullen (Deel II A en B en Deel III) en 
+rechtsgeldig te ondertekenen. 
+4.3.3 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 
+De hierna genoemde documenten gelden als bewijs van de verklaring van de Inschrijver middels het UEA dat op 
+hem geen Uitsluitingsgronden van toepassing zijn.  
+ 
+Van een onderneming die gevestigd is in een andere lidstaat van de Europese Unie aanvaardt de 
+Aanbestedende dienst, conform lid 4 van artikel 2.89 van de Aanbestedingswet 2012, ook gegevens en 
+bescheiden uit de betreffende lidstaat die een gelijkwaardig doel dienen als de hieronder genoemde 
+bewijsmiddelen of waaruit blijkt dat de Uitsluitingsgronden niet op de betreffende onderneming van toepassing 
+zijn.  
+ 
+• Inschrijving in het nationale beroeps- of handelsregister (U1)  
+Een verklaring zoals bedoeld in lid 1 van artikel 2.89 van de Aanbestedingswet 2012, die niet ouder is dan zes 
+maanden op het moment van het indienen van de Inschrijving. Uit de verklaring moet blijken dat de Inschrijver 
+volgens de eisen die gelden in het land waarin de Inschrijver is gevestigd, is ingeschreven in het nationale 
+beroeps- of handelsregister. Indien een dergelijke verklaring in het land van vestiging niet wordt afgegeven dient 
+de Inschrijver een verklaring of attest onder ede te verstrekken. Binnen Nederland volstaat hiertoe een uittreksel 
+van inschrijving in het handelsregister van de Kamer van Koophandel.  
+ 
+• Gedragsverklaring aanbesteden (U2)  
+Een afschrift van de gedragsverklaring aanbesteden, zoals bedoeld in lid 2 van artikel 2.89 en hoofdstuk 4.1 van 
+de Aanbestedingswet 2012. De gedragsverklaring aanbesteden mag op het moment van inschrijven niet ouder 
+zijn dan twee jaar. Indien zich na afgifte van de gedragsverklaring aanbesteden een Uitsluitingsgrond heeft 
+voorgedaan, is de Inschrijver verplicht dat in de Inschrijving te vermelden, op straffe van uitsluiting.   
+ 
+De Inschrijver kan de gedragsverklaring aanbesteden aanvragen via Justis. In verband met de lange 
+verwerkingstermijn adviseert de Aanbestedende dienst om de gedragsverklaring aanbesteden, voorafgaand aan 
+een mogelijk verzoek van de Aanbestedende dienst, tijdig aan te vragen. Indien de beslissing op de aanvraag 
+langer duurt, is dit voor risico van de Inschrijver. Voor meer informatie zie: https://www.justis.nl/producten/gva/. 
+ 
+• Verklaring van de Belastingdienst (U3)  
+Een verklaring van de Belastingdienst dat de Inschrijver zijn verplichte belastingen en sociale zekerheidspremies 
+heeft betaald, zoals bedoeld in lid 3 van artikel 2.89 van de Aanbestedingswet 2012. De verklaring mag op het 
+moment van inschrijven niet ouder zijn dan zes maanden.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt voor de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 het volgende: 
+16 van 33 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft met Onderaannemer(s) hoeft alleen de hoofdaannemer 
+de drie bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken. 
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan dient ieder lid van 
+het Samenwerkingsverband de drie bovengenoemde bewijsstukken te verstrekken.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) (om op die manier te kunnen 
+voldoen aan de Geschiktheidseisen), dan dienen zowel de Inschrijver als de Derde(n) de drie 
+bovengenoemde bewijsstukken met betrekking tot Uitsluitingsgronden U1, U2, en U3 te verstrekken.  
+4.4 Geschiktheidseisen  
+Aan de hand van de hierna beschreven Geschiktheidseisen bepaalt de Aanbestedende dienst mede of een 
+Inschrijver geschikt is om de Opdracht uit te voeren.  
+ 
+Door het aanvinken van ‘Ja’ in onderdeel A in Deel IV van het UEA verklaart de Inschrijver dat zijn onderneming 
+voldoet aan alle hiernavolgende Geschiktheidseisen. Met de term ‘selectiecriteria’ wordt in het UEA de 
+Geschiktheidseisen bedoeld. Indien de Inschrijver niet voldoet aan de gestelde Geschiktheidseisen is de 
+Inschrijving ongeldig en wordt deze terzijde gelegd. 
+4.4.1 Aantonen van financiële en economische draagkracht – Afdekking aansprakelijkheidsrisico’s (E1) 
+De Inschrijver dient voldoende verzekerd te zijn tegen aansprakelijkheidsrisico’s in verband met de uitvoering van 
+de Opdracht. De Aanbestedende dienst acht een minimale dekking van € 1.000.000,- per gebeurtenis en een 
+minimale dekking van € 2.500.000,- per kalenderjaar passend. Door ondertekening van het UEA verklaart de 
+Inschrijver dat de verzekering wordt gehandhaafd voor ten minste de voornoemde bedragen gedurende de 
+contractperiode.  
+ 
+Indien de Inschrijver op dit moment niet voldoende is verzekerd voor de uitvoering van de Opdracht, dient hij een 
+schriftelijke verklaring van zijn verzekeringsmaatschappij te verstrekken waarin de verzekeringsmaatschappij 
+verklaart dat zij, voorafgaande aan de gunning van de Opdracht, met de Inschrijver de hierboven genoemde 
+verzekering afsluit.  
+ 
+De winnende Inschrijver verstrekt als bewijs een kopie van de betreffende verzekeringspolis. 
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer het bewijs van verzekering te verstrekken.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan verstrekt minimaal 
+één van de leden het bewijs van verzekering waaruit blijkt dat de gezamenlijke en hoofdelijke 
+aansprakelijkheid van de leden van het Samenwerkingsverband in verband met de Opdracht afdoende is 
+gedekt.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste verzekering tegen aansprakelijkheidsrisico’s, dan verstrekt de Inschrijver daarvan 
+bewijs en vult hij Bijlage G in. 
+4.4.2 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Ervaring van de Inschrijver (E2) 
+De Inschrijver dient aan te tonen dat hij voldoende deskundig en ervaren is voor de uitvoering van de Opdracht. 
+Daartoe acht de Aanbestedende dienst het noodzakelijk dat de Inschrijver bepaalde kerncompetenties heeft. De 
+Inschrijver toont met referentieopdrachten aan dat hij beschikt over die kerncompetenties. 
+ 
+Voor de uitvoering van de Opdracht moet de Inschrijver beschikken over de volgende kerncompetenties:   
+ 
+Perceel 1 - communicatiebureau: 
+ 
+Competentie 
+Ervaring met het online en offline werven van een representatieve groep van minimaal 5.000 personen 
+onder de doelgroep jongvolwassenen in de leeftijd tussen 16 en 25 jaar voor het invullen van een 
+enquête. 
+17 van 33 
+ 
+Perceel 2 - veldwerkbureau: 
+ 
+Competentie 
+Ervaring met het programmeren en live laten gaan van een enquête onder minimaal 20.000 personen in 
+een digitale vorm waarbij gegevens centraal en digitaal worden verzameld. 
+ 
+De Inschrijver toont de gevraagde bekwaamheid aan met maximaal één referentieopdracht per kerncompetentie. 
+Het is toegestaan om dezelfde referentieopdracht ter aantoning van meerdere kerncompetenties te gebruiken. De 
+Inschrijver gebruikt hiervoor Bijlage F. 
+ 
+Een referentieopdracht moet voldoen aan de volgende criteria: 
+• Ingeval van een reeds afgeronde opdracht is de afrondingsdatum van de referentieopdracht niet ouder dan 
+drie jaar gerekend vanaf de publicatiedatum van deze Aanbesteding. De opdracht moet binnen een periode 
+van maximaal één jaar zijn uitgevoerd. 
+• Ingeval van een nog lopende opdracht is de startdatum van de referentieopdracht ouder dan één jaar 
+gerekend vanaf de publicatiedatum van deze Aanbesteding. 
+• Ingeval van een nog lopende opdracht gebruikt de Inschrijver alleen de reeds behaalde resultaten om 
+daarmee zijn bekwaamheid aan te tonen. Een prognose van de resultaten volstaat niet.  
+• Indien de Inschrijver bij de uitvoering van de referentieopdracht onderdeel was/is van een 
+samenwerkingsverband, dan beschrijft de Inschrijver wat zijn aandeel is (geweest) bij de uitvoering van de 
+referentieopdracht. Slechts zijn aandeel in de referentieopdracht telt mee bij de beoordeling of aan deze 
+Geschiktheidseis wordt voldaan. 
+• De referentieopdracht is of wordt succesvol en naar tevredenheid van de betreffende opdrachtgever 
+uitgevoerd.  
+ 
+In het geval ondernemers besluiten om samen in te schrijven op de Aanbesteding geldt het volgende: 
+ 
+• Onderaannemer(s) – Indien de Inschrijver inschrijft als hoofdaannemer met Onderaannemer(s) hoeft alleen 
+de hoofdaannemer aan te tonen dat hij beschikt over de vereiste kerncompetenties. Indien de Inschrijver 
+inschrijft met Onderaannemer(s) om op die manier te kunnen voldoen aan de Geschiktheidseis, dan tonen de 
+Onderaannemer(s) aan dat zij beschikken over de vereiste kerncompetenties.  
+• Samenwerkingsverband – Indien de Inschrijver inschrijft als Samenwerkingsverband, dan tonen de leden van 
+het Samenwerkingsverband gezamenlijk aan dat zij beschikken over de vereiste kerncompetenties.  
+• Beroep op Derde(n) – Indien de Inschrijver een beroep doet op een Derde(n) om op die manier te kunnen 
+voldoen aan de vereiste ervaring, dan vult de Inschrijver Bijlage H in en verstrekt bewijs dat hij daadwerkelijk 
+kan beschikken over de vereiste kerncompetenties van de Derde(n). 
+ 
+Alles wat de Aanbestedende dienst in deze paragraaf vraagt dient duidelijk te blijken uit de door de Inschrijver 
+verschafte informatie. De Aanbestedende dienst behoudt zich het recht voor de juistheid van de referentie te 
+controleren door contact op te nemen met de contactpersoon van de referentie.  
+ 
+ 
+ 
+  
+18 van 33 
+5. Toetsing van de Inschrijving 
+5.1 Inleiding 
+Dit hoofdstuk beschrijft de toetsingscriteria waaraan de Inschrijving moet voldoen. Niet voldoen aan een 
+toetsingscriterium betekent in de regel uitsluiting van verdere deelname aan de Aanbesteding.  
+ 
+# Toetsingscriterium 
+T1 Voorwaarden en bepalingen van deze Aanbesteding 
+T2 Programma van eisen 
+T3 Concept van de Overeenkomst  
+T4 Concept van de Verwerkersovereenkomst 
+T5 Algemene inkoopvoorwaarden van de Opdrachtgever  
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3 en T4  
+Met het ondertekenen van het UEA verklaart de Inschrijver: 
+- dat hij onvoorwaardelijk akkoord gaat met alle voorschriften, voorwaarden en bepalingen die zijn opgenomen 
+in de Aanbestedingsstukken; 
+- dat hij voldoet aan c.q. akkoord gaat met (de inhoud van) het Programma van eisen dat is opgenomen in 
+Bijlage A, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met het concept van de Overeenkomst dat is opgenomen in Bijlage B.1, 
+en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met het concept van de Verwerkersovereenkomst dat is opgenomen in 
+Bijlage B.2, en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop; 
+- dat hij onvoorwaardelijk akkoord gaat met de algemene inkoopvoorwaarden die zijn opgenomen in Bijlage C, 
+en de in de Nota’s van inlichtingen eventueel vermelde wijzigingen daarop, en dat eventuele leverings-, 
+betalings- en/of andere algemene voorwaarden van de Inschrijver niet van toepassing zijn;  
+ 
+ 
+  
+19 van 33 
+6. Beoordeling van de Inschrijving 
+De Aanbestedende dienst is voornemens de Opdracht te gunnen aan de Inschrijver per Perceel met de 
+economisch meest voordelige Inschrijving. De Aanbestedende dienst weegt zowel prijs als kwantitatieve en 
+kwalitatieve criteria om tot een eindoordeel te komen.  
+6.1 Gunningsmethode: gewogenfactormethode 
+Om de Inschrijving op prijs en kwaliteit te kunnen beoordelen maakt de Aanbestedende dienst gebruik van de 
+‘gewogenfactormethode’. Bij de gewogenfactormethode wordt aan elk Gunningscriterium een weging toegekend, 
+uitgedrukt in een percentage. Bij elkaar opgeteld is het totaal van de wegingspercentages 100%.  
+ 
+Afhankelijk van de beoordeling wordt per Gunningscriterium een score gegeven (zie de tabel in paragraaf 6.4). 
+Deze ongewogen score wordt vermenigvuldigd met de weging van het desbetreffende Gunningscriterium (zie de 
+tabel in paragraaf 6.8), wat resulteert in een gewogen score per Gunningscriterium. De gewogen scores van alle 
+Gunningscriteria bij elkaar opgeteld vormen samen de eindscore. De Inschrijving met de hoogste eindscore komt 
+als eerste in aanmerking voor gunning van de Opdracht. 
+6.2 Beoordelingsteam 
+Voor de beoordeling van de Inschrijving stelt de Aanbestedende dienst een beoordelingsteam samen. Het 
+beoordelingsteam bestaat uit minimaal drie leden die de deskundigheid hebben die nodig is om de Inschrijving 
+inhoudelijk te beoordelen.  
+6.3 Wijze van beoordeling 
+Het beoordelingsteam beoordeelt elk Gunningscriterium op basis van de informatie die de Inschrijver met 
+betrekking tot dat specifieke Gunningscriterium heeft overgelegd. Iedere Inschrijving wordt beoordeeld op zijn 
+eigen verdiensten. Indien een Inschrijver meent dat voor de beoordeling van een Gunningscriterium ook een deel 
+van een ander Gunningscriterium uit zijn Inschrijving van belang is, dient de Inschrijver daar expliciet (met 
+vermelding van paragraaf-/paginanummers) naar te verwijzen, inclusief een toelichting waarom de informatie 
+waarnaar wordt verwezen van belang is voor de beoordeling van het betreffende Gunningscriterium.  
+Per Gunningscriterium komt het beoordelingsteam in consensus tot één gezamenlijke score. 
+6.4 Beoordelingsscores voor de kwalitatieve Gunningscriteria 
+In de hiernavolgende paragrafen zijn de Gunningscriteria omschreven. Voor de kwalitatieve Gunningscriteria kent 
+het beoordelingsteam per Gunningscriterium een beoordelingsscore toe aan de kwaliteit van de door de 
+Inschrijver ingediende informatie. Afhankelijk van de kwaliteit van het aangebodene wordt per Gunningscriterium 
+een van de volgende scores gegeven:  
+ 
+Score Omschrijving Max. te behalen punten 
+Uitstekend De kwalificatie ‘uitstekend’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 10 100 punten 
+Zeer goed De kwalificatie ‘zeer goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 9 90 punten 
+Goed De kwalificatie ‘goed’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 8  70 punten 
+Ruim voldoende De kwalificatie ‘ruim voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 7  30 punten 
+Voldoende  De kwalificatie ‘voldoende’ is vergelijkbaar met het in 
+Nederland algemeen gangbare rapportcijfer 6  10 punten 
+Onvoldoende Alles lager dan ‘voldoende’ Uitsluiting  
+ 
+Voor de kwalitatieve Gunningscriteria G1 (Perceel 1 en 2) en G2 (Perceel 1) is een voldoende het minste wat de 
+Aanbestedende dienst verwacht. Daarom geldt voor deze Gunningscriteria een vereiste minimumscore van een 
+voldoende. Indien voor de Gunningscriteria G1 (Perceel 1 en 2) en G2 (Perceel 1) niet minimaal de score 
+‘voldoende’ wordt behaald, is de Inschrijving ongeldig en wordt deze terzijde gelegd. 
+20 van 33 
+6.5 Beoordelingsscores voor de kwantitatieve Gunningscriteria 
+De methode die de Aanbestedende dienst gebruikt voor de beoordeling van een kwantitatief Gunningscriterium 
+wordt toegelicht bij de omschrijving van het betreffende Gunningscriterium.    
+6.6 Documenten/gegevens en beoordelingsaspecten 
+Verderop in dit hoofdstuk wordt per Gunningscriterium beschreven: 
+(i) welke documenten/gegevens de Inschrijver in het kader van het betreffende Gunningscriterium moet 
+aanleveren; en  
+(ii) op welke aspecten het beoordelingsteam de beoordeling op het betreffende Gunningscriterium uitvoert 
+(per Gunningscriterium is hiervoor een grijs beoordelingskader opgenomen in het vervolg van dit 
+hoofdstuk). 
+ 
+Ad (i) Het beoordelingsteam zal nagaan of de Inschrijver op het betreffende Gunningscriterium alle gevraagde 
+documenten/gegevens heeft aangeleverd. Als dat niet het geval is, leidt dit in de regel tot een lagere beoordeling. 
+In uitzonderlijke gevallen kan het niet aanleveren van gevraagde documenten/gegevens leiden tot ongeldigheid 
+van de Inschrijving (bijvoorbeeld als de Inschrijving in het geheel geen, of slechts een zeer gebrekkig, onderdeel 
+bevat).  
+ 
+Ad (ii) Bij de beoordeling op de Gunningscriteria houdt het beoordelingsteam, naast de in de beoordelingskaders 
+benoemde beoordelingsaspecten, ook rekening met de wijze waarop de Inschrijver de door hem gemaakte 
+keuzes heeft onderbouwd. Daarbij kunnen bijvoorbeeld de volgende vragen aan de orde komen: 
+• Geeft de Inschrijver een duidelijk inzicht in de afwegingen?  
+• Zit er een duidelijke logica/gedachte achter de gemaakte keuzes?  
+• Toont de Inschrijver zich bewust van eventuele nadelen van de keuzes en licht hij toe waarom de voordelen 
+van de keuzes opwegen tegen die nadelen? 
+Kortom: Het is aan de Inschrijver om de beoordelaars uit te leggen welke keuzes zijn gemaakt, en te overtuigen 
+dat die keuzes juist zijn. 
+ 
+Let op: de Inschrijver wordt gevraagd in de Inschrijving concreet en ondubbelzinnig te beschrijven wat hij aanbiedt 
+(dus niet: ‘we kunnen...’ of ‘we doen mogelijk...’, maar: ‘we zullen...’ of ‘we doen...’). Onduidelijkheden in de 
+Inschrijving leiden in de regel tot een lagere beoordeling. 
+ 
+De genoemde beoordelingsaspecten die per Gunningscriterium zijn weergegeven in het vervolg van dit hoofdstuk 
+zijn geen nadere gunningscriteria of subgunningscriteria. Het betreffen aspecten waaraan de Inschrijver wordt 
+gevraagd ten minste aandacht te besteden bij het opstellen van de Inschrijving. De genoemde aspecten zijn 
+steeds in willekeurige volgorde van belang opgenomen. 
+6.7 Berekenen van de eindscores  
+De eindscore per Inschrijver wordt berekend door optelling van de gewogen scores op alle Gunningscriteria. De 
+Inschrijver met de hoogste eindscore komt in aanmerking voor gunning van de Opdracht.  
+ 
+Indien twee of meer Inschrijvers dezelfde hoogste eindscore halen, dan geldt het volgende: 
+ 
+• De Opdracht wordt gegund aan de Inschrijver met de hoogste niet-afgeronde eindscore.  
+• Ingeval ook de niet-afgeronde eindscores gelijk zijn, dan wordt de Opdracht gegund aan de Inschrijver met 
+de hoogste score op het Gunningscriterium G1.  
+• Indien ook op het Gunningscriterium G1 door die betreffende Inschrijvers een gelijke score is behaald, dan 
+wordt de Opdracht gegund aan de Inschrijver met de hoogste score op het Gunningscriterium G2. 
+• Voor Perceel 1 geldt: Indien ook op het Gunningscriterium G2 door die betreffende Inschrijvers een gelijke 
+score is behaald, dan wordt de Opdracht gegund aan de Inschrijver met de hoogste score op het 
+Gunningscriterium G3. 
+• Indien ook op het Gunningscriterium G3 (Perceel 1) of G2 (Perceel 2) door desbetreffende Inschrijvers een 
+gelijke score is behaald, dan vindt loting plaats tussen die Inschrijvers, om te bepalen aan wie de Opdracht 
+wordt gegund. De loting wordt uitgevoerd door de Aanbestedende dienst. De betreffende Inschrijvers mogen 
+aanwezig zijn bij de loting.  
+21 van 33 
+6.8 Gunningscriteria  
+Om de Inschrijving met de beste prijs-kwaliteitverhouding te kunnen bepalen, hanteert de Aanbestedende dienst 
+de onderstaande Gunningscriteria.  
+ 
+De Gunningscriteria zijn gerelateerd aan de doelstellingen die de Aanbestedende dienst met deze Aanbesteding 
+nastreeft, zoals opgenomen in hoofdstuk 1. De Gunningscriteria worden verder uitgewerkt in dit hoofdstuk.  
+ 
+Perceel 1 – Communicatiebureau  
+ 
+Gunningscriterium Weging Max. aantal punten 
+(ongewogen) Max. score (gewogen) 
+Kwaliteit 70%   
+G1 Plan van Aanpak 50% 100 500 
+G2 Communicatieplan 20% 100 200 
+Prijs 30%   
+G3 Prijs 30% 100 300 
+Totaal 100%  1000 
+ 
+Perceel 2 – Veldwerkbureau 
+ 
+Gunningscriterium Weging Max. aantal punten 
+(ongewogen) Max. score (gewogen) 
+Kwaliteit 60%   
+G1 Plan van Aanpak 60% 100 600 
+Prijs 40%   
+G2 Prijs 40% 100 400 
+Totaal 100%  1000 
+ 
+6.8.1 Perceel 1 - G1: Plan van Aanpak  
+GGD’en dienen aan de hand van een Gezondheidsmonitor op regionaal en lokaal niveau inzicht te geven in de 
+gezondheidssituatie van jongvolwassen tijdens en na de coronacrisis. Daarom is het belangrijk dat de 
+Gezondheidsmonitor met precisie en middels een doordacht plan wordt uitgevoerd. GGD GHOR Nederland 
+ondersteunt de GGD’en in deze.  
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in wat Inschrijver verstaat onder 
+een representatieve respons en hoe de Inschrijver deze respons behaald.  
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht zal uitvoeren. In ieder geval de volgende 
+aspecten dienen aan de orde te komen: 
+• Een beschrijving hoe men volgens Inschrijver borgt dat de respons voldoende én representatief is voor de 
+gehele groep jongvolwassenen. 
+• Een voorstel hoe men bovenstaande gaat realiseren, waarbij in ieder geval social media kanalen ingezet 
+worden. Inschrijver dient hierbij rekening te houden met een manier van werven die past bij de GGD’en als 
+publieke organisatie en bij jongvolwassenen als doelgroep.  
+• Een voorstel welke incentive Inschrijver gaat inzetten en hoe Inschrijver dit organiseert binnen het hiervoor 
+geoormerkte budget om jongvolwassenen extra aan te sporen de enquête in te vullen en wat Inschrijver 
+hiervoor nodig heeft van de Opdrachtnemer van Perceel 2.  
+• Voorstel hoe de landingspagina, slotpagina en enquête aantrekkelijk gemaakt kunnen worden (‘look and 
+feel’) en wat Inschrijver hiervoor nodig heeft van de Opdrachtnemer van Perceel 2. 
+• Een voorstel hoe de enquête en advertenties in dezelfde stijl worden gerealiseerd. 
+22 van 33 
+• Een planning waarin het voorstel van Inschrijver tot uiting komt met daarin de uit te voeren activiteiten en de 
+verantwoordelijke personen. 
+ 
+Maximumaantal pagina’s 
+Het plan van aanpak is maximaal vijf (5) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de 
+hoofdtekst (in een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar 
+exclusief het voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt 
+overschreden, leidt dit niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan 
+pagina’s niet in de beoordeling betrekken.  
+ 
+Beoordelingskader G1: Plan van Aanpak 
+Het plan van aanpak wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het 
+‘totaalbeeld’ van het plan van aanpak en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het Plan van Aanpak beter aansluit op de context en inhoud van de Opdracht en 
+Opdrachtgever, des te beter wordt dit beoordeeld. 
+• Des te beter Deelnemer de omvang en complexiteit van de Opdracht kan doorgronden en daarmee kan 
+vertalen naar een passend Plan van Aanpak, des te beter dit wordt beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.2 Perceel 1 - G2: Communicatieplan 
+De Opdrachtnemer van Perceel 1 is tijdens de voorbereiding en tijdens de dataverzameling het eerste 
+aanspreekpunt voor Opdrachtgever en verzorgt het contact met Opdrachtnemer van Perceel 2 voor zaken die 
+betrekking hebben op zowel Perceel 1 als Perceel 2. Daarnaast is Opdrachtnemer van Perceel 1 eerste 
+aanspreekpunt voor de GGD’en, om zo de communicatie met beide Percelen te stroomlijnen. Er is contact met de 
+afzonderlijke GGD’en over lokale werving.  
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in hoe Inschrijver invulling geeft 
+aan de communicatie en afstemming met verschillende partijen.   
+ 
+Door de Inschrijver aan te leveren informatie 
+Werk uit hoe Inschrijver de communicatie van deze Opdracht inricht. In ieder geval de volgende aspecten dienen 
+aan de orde te komen: 
+• Een plan met betrekking tot. hoe u communiceert en met welke frequentie voor tenminste: 
+o Eerste contactpersoon voor Opdrachtgever; 
+o Afstemming met afzonderlijke GGD’en; 
+o Communicatie met Opdrachtnemer van Perceel 2. 
+ 
+23 van 33 
+Maximumaantal pagina’s 
+De uitwerking is maximaal vier (4) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de hoofdtekst (in 
+een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar exclusief het 
+voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt overschreden, leidt dit 
+niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan pagina’s niet in de 
+beoordeling betrekken. 
+ 
+Beoordelingskader G2: Communicatieplan 
+De uitwerking wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het ‘totaalbeeld’ 
+van de uitwerking en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het voorstel beter aansluit op de context en inhoud van de Opdracht en Opdrachtgever, des te 
+beter wordt dit beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.3 Perceel 1 – G3: Prijs 
+Vul de prijzen in in het prijzenblad (Bijlage I).  
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moeten worden aangeboden in euro’s en inclusief btw.  
+• Inschrijver kan maximaal €1,- inclusief btw per respondent inzetten voor een incentive tot een maximum van 
+€100.000,- inclusief btw en dient dit op te nemen in Bijlage I - Prijzenblad. 
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: salariskosten, 
+overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en ondersteunend werk, kosten voor het 
+gebruik van apparatuur en software, reiskosten, parkeerkosten, afleverkosten en logistieke kosten. Ook alle 
+eventueel verdere bijkomende kosten die de Inschrijver als professionele onderneming moet kunnen 
+voorzien, moeten zijn inbegrepen.  
+• Het is de Inschrijver niet toegestaan om in te schrijven met een negatieve prijs.  
+• Opgegeven (eenheids)prijzen mogen niet abnormaal laag zijn. Bij de vaststelling of hiervan sprake is neemt 
+de Aanbestedende dienst artikel 2.116 van de Aanbestedingswet 2012 in acht.  
+• Het is de Inschrijver niet toegestaan manipulatief in te schrijven. Hiermee wordt in deze context bedoeld dat 
+een oneigenlijk middel wordt aangewend om aan de concurrentie van mede-Inschrijvers te ontkomen, 
+respectievelijk dat de aangekondigde maatstaf ter beoordeling van de economisch meest voordelige 
+inschrijving wordt misbruikt, waardoor de door de Aanbestedende dienst gehanteerde 
+beoordelingsmethodiek wordt gefrustreerd.  
+ 
+Niet voldoen aan bovenstaande voorwaarden leidt in de regel tot het terzijde leggen van de Inschrijving en 
+uitsluiting van verdere deelname aan de aanbestedingsprocedure.  
+ 
+24 van 33 
+Beoordelingskader G3: Prijs 
+De score voor het Gunningscriterium wordt kwantitatief beoordeeld. Het aantal punten dat bij dit 
+Gunningscriterium wordt toegekend is afhankelijk van de aangeboden prijs, namelijk: 
+De Inschrijver krijgt 100 punten als de prijs € 300.000,- bedraagt of lager. Als de prijs € 500.000,- of hoger is, 
+wordt de Inschrijver uitgesloten.  
+ 
+Als de prijs ligt tussen € 300.000,- en € 500.000,- dan wordt het aantal punten als volgt berekend: 
+ 
+100  - (inschrijfprijs – 300.000) / 200.000 * 100 
+ 
+ 
+ 
+6.8.4 Perceel 2 - G1: Plan van Aanpak  
+GGD’en dienen aan de hand van een Gezondheidsmonitor op regionaal en lokaal niveau inzicht te geven in de 
+gezondheidssituatie van jongvolwassen tijdens en na de coronacrisis. Het invullen van de enquête door 
+respondenten biedt die inzichten aan de GGD’en  Daarom is het belangrijk dat de enquête goed functioneert en 
+zo gebruiksvriendelijk mogelijk ingevuld kan worden. 
+ 
+Doelstelling 
+Het doel van dit Gunningscriterium is dat het GGD GHOR Nederland inzicht krijgt in hoe Inschrijver de enquête 
+programmeert en gebruiksvriendelijk maakt, de resultaten en respons terugkoppelt en een digitale link naar een 
+incentive koppelt en hoe Inschrijver invulling geeft aan de communicatie.  
+ 
+Door de Inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht invult. In ieder geval de volgende aspecten 
+dienen aan de orde te komen: 
+• Een beschrijving van de wijze waarop de enquête en responstool worden geprogrammeerd. 
+• Een beschrijving hoe de enquête in gebruik wordt genomen door de respondenten en hoe het invullen van de 
+enquête zo gebruiksvriendelijk en aantrekkelijk mogelijk wordt gemaakt. 
+• Een beschrijving hoe de enquêtetool een koppeling kan maken met een digitale incentive, zoals een link naar 
+een winactie als dank voor het invullen van de enquête. 
+• Een beschrijving van de wijze waarop Inschrijver de resultaten terugkoppelt aan Opdrachtgever. 
+• Een voorgestelde planning met daarin de uit te voeren activiteiten en de verantwoordelijke personen.  
+• Een beschrijving van de helpdesk functie die Inschrijver biedt aan de respondenten. 
+• Een communicatieplan waarin u aangeeft hoe u communiceert met Opdrachtgever en Opdrachtnemer van 
+Perceel 1. Opdrachtnemer van Perceel 1 is eerste contactpersoon voor opdrachtgever. 
+ 
+Maximumaantal pagina’s 
+Het plan van aanpak is maximaal zeven (7) pagina’s A4-formaat. Dit maximumaantal pagina’s geldt voor de 
+hoofdtekst (in een leesbare lettergrootte, niet kleiner dan 9 punt) inclusief tabellen, figuren en afbeeldingen maar 
+exclusief het voorblad en de inhoudsopgave. Indien het voorgeschreven maximumaantal pagina’s wordt 
+0
+20
+40
+60
+80
+100
+€ 200.000 € 300.000 € 400.000 € 500.000
+Punten
+Prijs
+25 van 33 
+overschreden, leidt dit niet tot ongeldigheid van de Inschrijving, maar zal het beoordelingsteam het teveel aan 
+pagina’s niet in de beoordeling betrekken.  
+ 
+Beoordelingskader G1: Plan van Aanpak 
+Het plan van aanpak wordt kwalitatief beoordeeld. Bij de beoordeling kijkt het beoordelingsteam naar het 
+‘totaalbeeld’ van het plan van aanpak en de geleverde onderbouwing. Daarbij let het beoordelingsteam op:  
+• Des te concreter de beantwoording en onderbouwing ten aanzien van dit criterium is, des te beter wordt 
+dit beoordeeld. 
+• Naarmate het Plan van Aanpak beter aansluit op de context en inhoud van de Opdracht en 
+Opdrachtgever, des te beter wordt dit beoordeeld. 
+• Des te beter Deelnemer de omvang en complexiteit van de Opdracht kan doorgronden en daarmee kan 
+vertalen naar een passend Plan van Aanpak, des te beter dit wordt beoordeeld. 
+Naarmate de voorgestelde maatregelen beter bijdragen aan hetgeen wordt gevraagd, wordt dit hoger 
+gewaardeerd.  
+ 
+Aanbestedende dienst acht een uitwerking kwalitatief beter uitgewerkt aan de hand van voornoemde 
+beoordelingsaspecten naar mate Aanbieder zijn uitwerking ondersteunt met concrete voorbeelden en 
+onderbouwt met relevante bewijsmiddelen. Referenties, best practices, getuigenissen en klantbeoordelingen, 
+certificaten dan wel certificaten van in de praktijk gangbare kwaliteitsstandaarden en normeringen kunnen 
+dienen als bewijsmiddel. 
+ 
+De beoordelingsaspecten zijn geen nadere (sub)gunningscriteria en kennen geen onderlinge weging. Het 
+betreffen aspecten waarop de beoordelaars dit Gunningscriterium beoordelen om te komen tot één integrale 
+beoordelingskwalificatie, waarbij rekening wordt gehouden met de onderbouwing. De Aanbestedende dienst 
+kiest bewust voor een integrale beoordeling, omdat hij van mening is dat er een duidelijke relatie ligt tussen de 
+beoordelingsaspecten.  
+ 
+De uitwerking van dit Gunningscriterium dient een duidelijke en concrete beschrijving van het aangebodene te 
+bevatten en op een deugdelijke manier te zijn onderbouwd. 
+6.8.5 Perceel 2 – G2: Prijs 
+Vul de prijzen in in het prijzenblad (Bijlage I).  
+ 
+Voor de op te geven prijzen/tarieven geldt het volgende: 
+• Alle prijzen en tarieven moeten worden aangeboden in euro’s en inclusief btw.  
+• De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten inbegrepen: salariskosten, 
+overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en ondersteunend werk, kosten voor het 
+gebruik van apparatuur en software, reiskosten, parkeerkosten, afleverkosten en logistieke koste
+
+=== Document: nota van inlichtingen 1 - gezondheidsmonitor jongvolwassenen ===
+SIGSYN 20211019ED1.1   
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 19 januari 2022 
+Versie: 1.0 
+TenderNed-kenmerk: 342415  
+  
+Nota van inlichtingen 1 
+ 
+GGD GHOR Nederland 
+ 
+Gezondheidsmonitor Jongvolwassenen 
+ 
+Europese aanbesteding  
+ 
+
+2 van 7 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen maakt onderdeel uit van de Aanbestedingsstukken en prevaleert boven het 
+Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Deze Nota van inlichtingen bevat de antwoorden en reacties van de Aanbestedende dienst op vragen en 
+opmerkingen van Geïnteresseerden.  
+Aanvullingen 
+Met deze Nota van inlichtingen zijn de volgende documenten gewijzigd en bijgevoegd als Herziene documentatie: 
+• Beschrijvend Document versie 1.1; 
+• Programma van Eisen versie 1.1; 
+• Prijzenblad versie 1.1. 
+ 
+  
+3 van 7 
+ 
+Vragen en opmerkingen van Geïnteresseerden en antwoorden en reacties van de Aanbestedende dienst 
+ 
+Nr. Betreft Vraag Antwoord  
+1 Beschrijvend document 2.2 Voor de incentive is maximaal 100.000 euro incl btw beschikbaar. Klopt 
+onze aanname dat dit budget deel uitmaakt van de maximaal 500.000 euro 
+incl btw die voor perceel 1 beschikbaar is? 
+Ja, dat klopt. 
+2 Beschrijvend document 2.2 Wat is de beoogde lengte van de vragenlijst in minuten? De beoogde invulduur is circa 15 minuten.  
+3 Bijlage A.1   Het resultaat dient per gemeente representatief te zijn voor de 
+jongvolwassenen in die gemeente. Voor welke kenmerken dient 
+representativiteit bereikt te worden? 
+De representativiteit dient bereikt te worden voor geslacht, leeftijd, 
+migratieachtergrond en welke wijk de jongeren woonachtig zijn. Dat zijn de 
+kenmerken waarop ook gewogen kan worden.  
+4 Bijlage A.1   Hier wordt bij Eis 2 een aantal van 10.0000 genoemd. Wij gaan er vanuit dat 
+u hier 10.000 bedoelt. Klopt dat? 
+Ja, dat klopt. 
+ 
+Zie herziene documentatie 'Bijlage A.1 - Programma van eisen'. 
+5 Beschrijvend document 2.2 Wat zijn uw verwachtingen bij de landings- en slotpagina? Welke informatie 
+moet hier getoond worden? 
+De landingspagina moet de plek zijn waar jongeren kunnen starten met het 
+invullen van de vragenlijst. Er staat ook meer informatie over het onderzoek 
+en een link naar de privacyverklaring. De slotpagina dient onder andere om 
+nog websites aan te bieden met gezondheidsinformatie. 
+6 Beschrijvend document 2.2 Wat bedoelt u met de optie 'Reactie na afloop kunnen downloaden als 
+respondent zijnde' 
+Hiermee bedoelen we dat de respondent de antwoorden die hij/zij gegeven 
+heeft op de vragenlijst na afloop van het invullen kan downloaden als een 
+soort naslagwerk/afschrift. 
+7 Bijlage A.1   Eis 12: is er community management nodig onder de reacties van de ads 
+(moet het bureau de webcare op zich nemen)? 
+Ja, het is wenselijk dat de opdrachtnemer de webcare op zich neemt. 
+Uiteraard in afstemming met opdrachtgever. 
+8 Bijlage A.1   Bij Eis 12 staat dat opdrachtnemer social media accounts aanmaakt, 
+beheert en na afloop overdraagt. Kan er gebruik worden gemaakt van 
+bestaande accounts van opdrachtgevers / GGD's? 
+Nee, hiervoor zijn nog geen geschikte accounts aanwezig.  
+9 Beschrijvend document 2.2 Wat is de omvang van de vragenlijst c.q. uit hoeveel vragen bestaat de 
+vragenlijst? 
+De omvang van de vragenlijst is op dit moment nog niet bekend. Het aantal 
+onderwerpen dat bevraagd wordt is circa 30. De beoogde invulduur circa 15 
+minuten. 
+4 van 7 
+ 
+10 Beschrijvend document 2.2 Levert opdrachtgever een vertaling van de vragenlijst in het Engels aan als 
+gebruik wordt gemaakt van de opie "Engelse versie van de vragenlijst" of 
+dient opdrachtnemer het vertalen van de vragenlijst te verzorgen? 
+De opdrachtgever levert hiervoor een vertaling aan. 
+11 Beschrijvend document 2.2 Wat is de bedoeling bij de gevraagde optionele werkzaamheden "Reactie na 
+afloop kunnen downloaden als respondent zijnde"? Kan hier een nadere 
+omschrijving worden gegeven van hetgeen hier gevraagd wordt van 
+opdrachtnemer? Is het hier de bedoeling dat de respondent alleen een 
+overzicht van de hem/haar ingevulde antwoorden ziet en dat dit overzicht 
+identiek is voor alle respondenten? Moeten er berekende waarden c.q. 
+indicatoren worden weergegeven? 
+Hiermee bedoelen we dat de respondent de antwoorden die hij/zij gegeven 
+heeft op de vragenlijst na afloop van het invullen kan downloaden als een 
+soort naslagwerk/afschrift. Het is niet nodig om waarden te 
+berekenen/indicatoren weer te geven. 
+12 Beschrijvend document 2.4 
+icm 
+6.8.3 
+In paragraaf 2.4 wordt voor perceel 2 als maximale prijs gesproken over € 
+35.000,- inclusief BTW. In paragraaf 6.8.5 is een deel van de tekst ("als de 
+prijs ligt tussen € 15.000,- en € 35.000,-, dan wordt het aantal punten als 
+volgt berekend:" inclusief de formule) en de grafiek waarin het verloop van 
+het aantal punten wordt getoond hiermee in lijn. Er staat in paragraaf 6.8.5 
+echter ook "Als de prijs € 30.000,- of hoger is, wordt de Inschrijving 
+uitgesloten". Klopt het dat dit niet correct is en dat dit € 35.000,- inclusief 
+BTW moet zijn? 
+Dit moet €35.000 inclusief btw zijn. 
+ 
+Zie herziene documentatie 'Beschrijvend document'. 
+13 Prijzenblad Bijlage 
+I 
+In het prijzenblad wordt gevraagd een uurtarief af te geven voor aanvullende 
+werkzaamheden. Een uurtarief is erg afhankelijk van het soort 
+werkzaamheden dat wordt gevraagd en daaraan gekoppeld het soort 
+medewerker dat wordt ingezet om de gevraagde werkzaamheden uit te 
+voeren. Kan een toelichting worden geven van het soort werkzaamheden 
+waar opdrachtgever hierbij aan denkt, aangezien deze post mede bepalend 
+is voor de fictieve aanneemsom op basis waarvan de punten voor het 
+onderdeel prijs worden bepaald? 
+Opdrachtgever voegt de functies junior, medior en senior toe aan Bijlage I - 
+Prijzenblad. Werkzaamheden waar Inschrijver aan kan denken is 
+bijvoorbeeld het toevoegen van een vraag na het accorderen van de 
+vragenlijst. 
+ 
+Zie herziene documentatie 'Bijlage I - Prijzenblad'. 
+14 Beschrijvend document 2.2 "Dit houdt in dat de vragenlijst wordt geprogrammeerd […] waarbij ook de 
+mogelijkheid is om een helpdesk te benaderen" 
+ 
+Klopt het dat de helpdesk alleen gericht is op de doelgroep? 
+Ja, dat klopt. De helpdesk is bedoeld voor mensen die (mogelijk) deelnemen 
+aan de vragenlijst. 
+5 van 7 
+ 
+15 Beschrijvend document 4.4.2 Betreft: competentie perceel 1: 
+Wanneer de Inschrijver ervaren is in het uitzetten van enquêtes en met het 
+online en offline bereiken van deze doelgroep, maar geen ervaring heeft met 
+een enquête op dergelijke schaal (" minimaal 5.000 personen"), wordt diens 
+inschrijving in overweging genomen en beoordeeld? 
+Aanbestedende dienst verwijst u graag naar paragraaf 4.4 uit het 
+Beschrijvend Document, waarin staat aangegeven: “Indien de Inschrijver 
+niet voldoet aan de gestelde Geschiktheidseisen is de Inschrijving ongeldig 
+en wordt deze terzijde gelegd.”. Zie daarnaast het antwoord op vraag 21. 
+16 Beschrijvend document 6.8.1 "Door de inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht zal 
+uitvoeren. In ieder geval de volgende 
+aspecten dienen aan de orde te komen: 
+[...] 
+- Een voorstel hoe men bovenstaande gaat realiseren, waarbij in ieder geval 
+social media kanalen ingezet  
+worden. Inschrijver dient hierbij rekening te houden met een manier van 
+werven die past bij de GGD’en als  
+publieke organisatie en bij jongvolwassenen als doelgroep.  
+ 
+Bij de tweede bullet staat: "Inschrijver dient rekening te houden met een 
+manier van werven die past bij de GGD'en". Kan concreter gemaakt worden 
+wat hiermee wordt bedoeld en wat past bij de GGD'en? 
+Hiermee wordt bedoeld dat de GGD een publieke organisatie is, waarbij een 
+agressieve toon niet wenselijk is, maar ook het adverteren op bijvoorbeeld 
+pornografische websites niet de bedoeling is. De communicatie moet binnen 
+de waarden en normen van de overheid passen.  
+17 Beschrijvend document 6.8.1 "Door de inschrijver aan te leveren informatie 
+Beschrijf in een plan van aanpak hoe Inschrijver deze Opdracht zal 
+uitvoeren. In ieder geval de volgende 
+aspecten dienen aan de orde te komen: 
+[...] 
+- Een voorstel hoe de enquête en advertenties in dezelfde stijl worden 
+gerealiseerd." 
+ 
+Bij de vijfde bullet staat 'advertenties'. Worden hiermee de paid berichten op 
+social media bedoeld? 
+Onder advertenties wordt verstaan het plaatsen van off- en online berichten 
+in allerlei vormen. Het gaat dus eigenlijk meer om communicatie-uitingen in 
+het algemeen dan advertenties. Betaalde berichten op social media kunnen 
+daar een onderdeel van zijn. 
+6 van 7 
+ 
+18 Beschrijvend document 6.8.2 Communicatieplan wordt uitgelegd als: 
+"Een plan met betrekking tot hoe u communiceert en met welke frequentie 
+voor tenminste: 
+- opdrachtgever 
+- Afstemming afzonderlijke GGD'en 
+- Communicatie met Opdrachtgever perceel 2." 
+ 
+Klopt het dat dit dus alleen een intern communicatieplan is, en de 
+communicatie met de jongvolwassenen dus niet omvat? 
+Correct. 
+19 Beschrijvend document 6.8.3 "De prijzen moeten integraal zijn. Hierbij zijn in elk geval de volgende kosten 
+inbegrepen: salariskosten,  
+overheadkosten, telefoonkosten/online kosten, kosten voor reistijd en 
+ondersteunend werk, kosten voor het  
+gebruik van apparatuur en software, reiskosten, parkeerkosten, 
+afleverkosten en logistieke kosten. Ook alle  
+eventueel verdere bijkomende kosten die de Inschrijver als professionele 
+onderneming moet kunnen  
+voorzien, moeten zijn inbegrepen." 
+ 
+Klopt het dat de integrale kosten ook kosten voor algemene 
+communicatiemiddelen en mediakosten bevatten? 
+Met ''de prijzen moeten integraal zijn'' bedoelt opdrachtgever dat alle 
+omvattende kosten in de prijs moeten zijn inbegrepen. 
+20 Beschrijvend document 6.8.3 Door wie worden de kosten van de incentive gedragen? Vallen deze ook 
+onder de "integrale kosten"? 
+Zie het antwoord op vraag 1. 
+7 van 7 
+ 
+21 Beschrijvend document 4.4.2 Wij begrijpen dat u bewijslast wenst over technische bekwaamheid en 
+beroepsbekwaamheid. U vraagt daarom onder andere naar ervaring met het 
+online en offline werven van een representatieve groep van minimaal 5.000 
+personen onder de doelgroep jongvolwassenen in de leeftijd tussen 16 en 
+25 jaar voor het invullen van een enquête. Bent u bereid om de omvang van 
+de representatieve groep naar beneden bij te stellen naar 2.000, zodat meer 
+bureaus kunnen meedingen naar de opdracht? Wij hebben met succes 
+ruime ervaring met deze doelgroep, alleen vaak in kleinere werkgebieden. 
+De werkwijze blijft hetzelfde, alleen de schaal is groter. In onze ogen kunnen 
+bureaus dan nog steeds hun bekwaamheid aantonen. En uiteraard 
+toelichten in het plan van aanpak e.d. 
+Aanbestedende dienst acht een representatieve groep van minimaal 5.000 
+personen relevant en gaat hiermee niet akkoord. 
+22 Beschrijvend document 4.4.2 Wij begrijpen dat u bewijslast wenst over technische bekwaamheid en 
+beroepsbekwaamheid. U vraagt daarom onder andere naar ervaring met het 
+programmeren en live laten gaan van een enquête onder minimaal 20.000 
+personen in een digitale vorm waarbij gegevens centraal en digitaal worden 
+verzameld. Bent u bereid om de omvang van minimaal 20.000 personen 
+naar beneden bij te stellen naar 10.000, zodat meer bureaus kunnen 
+meedingen naar de opdracht? Wij hebben met succes ruime ervaring met 
+deze werkzaamheden. Parallel in meerdere opdrachten soms wel 40.000 
+personen tegelijkertijd in ons systeem. We mogen hiervoor echter maar één 
+referentie opgeven. OF bent u bereid om meerdere referenties toe te staan 
+om aan de eis van 20.000 te voldoen? 
+Aanbestedende dienst acht een representatieve groep van minimaal 20.000 
+personen relevant en gaat hiermee niet akkoord.
+
+=== Document: nota van inlichtingen 2 - gezondheidsmonitor jongvolwassenen ===
+SIGSYN 20211019ED1.1   
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum: 31 januari 2022 
+Versie: 1.0 
+TenderNed-kenmerk: 342415  
+  
+Nota van inlichtingen 2 
+ 
+GGD GHOR Nederland 
+ 
+Gezondheidsmonitor Jongvolwassenen 
+ 
+Europese aanbesteding  
+ 
+
+2 van 8 
+ 
+Inleiding 
+Algemeen 
+Deze Nota van inlichtingen maakt onderdeel uit van de Aanbestedingsstukken en prevaleert boven het 
+Beschrijvend document en de daarbij behorende Bijlagen.  
+ 
+Deze Nota van inlichtingen bevat de antwoorden en reacties van de Aanbestedende dienst op vragen en 
+opmerkingen van Geïnteresseerden.  
+Aanvullingen 
+Met deze Nota van inlichtingen zijn de volgende documenten gewijzigd en bijgevoegd als Herziene documentatie: 
+• Concept Overeenkomst Diensten v1.1 
+ 
+  
+3 van 8 
+ 
+Vragen en opmerkingen van Geïnteresseerden en antwoorden en reacties van de Aanbestedende dienst 
+ 
+# Document Paragraaf 
+/ eis 
+Vraag Antwoord 
+1 Bijlage I   In bijlage I wordt perceel 2 verdeeld in een aantal 
+onderdelen. Wat wordt verstaan onder 'Verzamelen en 
+terugkoppelen reacties'? 
+Hiermee wordt de dataverzameling bedoeld, het verwerken van de data 
+volgens het codeboek dat door Opdrachtgever wordt aangeleverd en het 
+opleveren van de data aan GGD'en en RIVM.  
+2 Bijlage A.2 (eis 36)   In eis 36 wordt beschreven dat het mogelijk moet zijn om 
+een pop-up in te stellen om een vraag toe te lichten. Wat 
+wordt bedoeld met een pop-up? 
+Met een pop-up wordt een scherm of kader bedoeld dat verschijnt als er 
+bijvoorbeeld op een informatiebutton bij de vraag wordt geklikt.  
+3 Bijlage A.2 (eis 31)   In eis 31 wordt beschreven dat er een mogelijkheid moet 
+zijn om een uitklapscherm te gebruiken. Wat wordt bedoeld 
+met een 'uitklapscherm'? 
+Met een uitklapscherm wordt een drop-down menu bedoeld (met bijv. een 
+lijst met gemeenten). 
+4 Beschrijvend 
+document 2.2 
+2.2 In het beschrijvend document is beschreven dat de 
+vragenlijst optioneel in het Engels beschikbaar moet zijn. 
+Wordt de Engelse vertaling door GGD GHOR 
+aangeleverd? En kunt u toelichten waarom u uitsluitend 
+kiest voor de Nederlandse en Engelse taal waarmee de 
+kans bestaat dat een groep respondenten uitgesloten wordt 
+die deze talen niet beheersen (of niet digivaardig genoeg 
+zijn in deze talen)? 
+De Engelse vertaling wordt inderdaad aangeleverd door Opdrachtgever. 
+Opdrachtgever kiest hiervoor, omdat de ervaring leert dat de Engelse 
+vertaling volstaat onder de doelgroep. 
+5 Beschrijvend 
+document 2.2 
+2.2 In het beschrijvende document wordt beschreven dat de 
+online vragenlijst een open/anonieme link moet zijn. Dat 
+breng het gevaar met zich mee dat kwaadwillenden 
+misbruik ervan kunnen maken en de kans krijgen om geen 
+'echte' data in te voeren. Een manier om dit te voorkomen 
+is dat de open link gaat naar een pagina waar 
+geïnteresseerden hun e-mailadres achterlaten en 
+vervolgens automatisch een unieke link naar de vragenlijst 
+toegestuurd krijgen op het ingevulde e-mailadres. Hiervoor 
+is wel ReCAPTCHA nodig, wat een drempel kan zijn. Een 
+alternatief is het plaatsen van de open link op een pagina 
+waar men pas toegang toe krijgt na inloggen op een pagina 
+van de GGD die bijvoorbeeld met DigiD toegang is 
+beveiligd. Dit maakt het tevens mogelijk dat elke persoon 
+de vragenlijst maar 1 keer kan invullen. Hoe kijken jullie 
+Opdrachtgever heeft in eerdere regionale onderzoeken ook met een open 
+link gewerkt. Er zijn mensen die het onderzoek meerdere keren invullen 
+(waarschijnlijk om meer kans te maken op een prijs). Bij de uitleg voor het 
+winnen van de prijs, wordt duidelijk aangegeven dat alle dubbele 
+mailadressen worden verwijderd. We hebben niet het idee dat er in de 
+eerdere onderzoeken kwaadwillenden waren die geen "echte" data hebben 
+ingevoerd. Maar aangezien dit onderzoek gericht is op jongvolwassenen in 
+heel Nederland, neemt de kans hierop wellicht wel toe. We staan daarom 
+open voor veiligere alternatieven voor het beschikbaar stellen van de open 
+link. Het snel en makkelijk toegankelijk zijn van de vragenlijst is echter ook 
+heel belangrijk. We vragen ons af in hoeverre een extra stap de respons 
+beinvloedt. We zijn dan ook vooral geinteresseerd in alternatieven waarbij 
+de invloed op de respons nihil/minimaal is. 
+4 van 8 
+ 
+aan tegen deze veiligere alternatieven voor het 
+beschikbaar stellen van de open link? 
+6 Bijlage A.2 (eis 28)   In eis 28 wordt beschreven dat er een helpdesk 
+beschikbaar moet zijn. Volstaat een Nederlandse voertaal 
+en indien nodig Engels voor deze helpdesk? 
+Het is voldoende als de helpdesk (potentiële) respondenten in het 
+Nederlands of Engels te woord kan staan. 
+7 Bijlage A.2 (eis 28)   In eis 28 wordt beschreven dat er een helpdesk 
+beschikbaar moet zijn. Wat verwachten jullie van de 
+helpdesk in het kader van digitoegankelijkheid (eis 29)? 
+We verwachten dat de helpdesk voldoet aan de digitoegankelijkheidseisen 
+die gelden voor een overheidsorganisatie. 
+8 Bijlage A.2 (eis 28)   In eis 28 wordt beschreven dat er een helpdesk buiten 
+kantooruren beschikbaar moet zijn. Om welke tijden gaat 
+het in de avond en welke tijden in het weekend? 
+Uit eerdere regionale onderzoeken onder jongvolwassenen blijkt dat dat de 
+populairste tijd om de vragenlijst in te vullen tussen 10.00 uur en 23.00 uur 
+ligt, met pieken tussen 17.00 en 18.00 en tussen 12.00 en 13.00 uur. Voor 
+het weekend geldt hetzelfde, tijdens het weekend wordt de vragenlijst 
+gemiddeld genomen wel minder vaak ingevuld dan door de week. We zien 
+graag dat inschrijver hier rekening mee houdt en een redelijk aanbod doet 
+in tijden waarbinnen de helpdesk beschikbaar is. 
+9 Bijlage A.2 (eis 28)   In eis 28 wordt beschreven dat er een helpdesk buiten 
+kantooruren beschikbaar moet zijn. Het is niet duidelijk hoe 
+deze helpdesk buiten kantooruren ingericht moet worden. 
+Volstaat het om tijdens kantooruren direct persoonlijk 
+contact te bieden en buiten kantooruren een automatisch 
+bericht in te stellen naar een FAQ pagina met veelgestelde 
+vragen en als de vraag daar niet bij staat te verzoeken om 
+een mail te sturen naar de helpdesk die binnen 1 werkdag 
+beantwoord wordt? Dit ook gezien de onduidelijkheid over 
+het aantal verwachte vragen buiten kantoortijden. 
+Het volstaat niet om buiten kantooruren een automatisch bericht te sturen 
+naar een FAQ pagina met veelgestelde vragen. Buiten kantooruren is het 
+vooral belangrijk dat vragen over of problemen met de invulbaarheid van de 
+vragenlijst snel beantwoord en opgelost worden. Als er iets mis is met de 
+invulbaarheid van de vragenlijst en de potentiële respondenten moeten één 
+werkdag wachten op een reactie, dan is de kans groot dat we een hoop van 
+deze potentiële respondenten verliezen (dat we uiteraard willen 
+voorkomen). Ook verwachten we dat er afstemming is met de 
+Opdrachtnemer van perceel 1. Opdrachtnemer dient een helpdesk 
+beschikbaar te hebben van maandag tot en met vrijdag tussen 09:00 en 
+20:00 uur. 
+5 van 8 
+ 
+10 Bijlage A.2 (eis 19)   In eis 19 wordt beschreven dat alle vragen behalve een 
+aantal achtergrondgegevens niet verplicht ingevuld moeten 
+worden. Waarom is hiervoor gekozen in combinatie met 
+een beloning voor deelname, die iemand in de praktijk dus 
+kan krijgen voor het invullen van alleen een aantal 
+achtergrondvragen en verder incomplete data? 
+Opdrachtgever vindt het belangrijk dat vragen in de vragenlijst niet verplicht 
+zijn. Mensen doen vrijwillig mee en moeten de keuze hebben of ze op een 
+bepaalde vraag wel of geen antwoord willen geven. De uitzondering wordt 
+gemaakt voor de achtergrondgegevens, omdat Opdrachtgever deze nodig 
+heeft om de resultaten te wegen en zinvol te rapporteren. Wel is 
+Opdrachtgever gewend dat er een melding verschijnt als iemand door wil 
+klikken zonder dat de vraag is beantwoord. Dat kan namelijk ook een 
+vergissing zijn. Dit in acht nemend, in combinatie met de winkans en de 
+hoogte van de prijs, verwacht Opdrachtgever niet dat er veel 
+jongvolwassenen zullen zijn die alleen maar door de vragenlijst klikken voor 
+de prijs. 
+11 Bijlage A.2 (eis 15)   In eis 15 wordt beschreven dat de vragenlijst in te vullen 
+moet zijn op veelgebruikte browsers, waaronder Internet 
+Explorer. Internet Explorer is een browser waarvan 
+Microsoft zegt dat deze niet meer gebruikt mag worden. 
+Hoe kijken jullie hier tegenaan? 
+Dat is een terechte opmerking. Internet Explorer had er als browser niet 
+tussen moeten staan en kan daarmee buiten beschouwing worden gelaten. 
+12 Bijlage A.2 (eis 13)   In eis 13 wordt beschreven dat bekend moet zijn op welke 
+browser en device de vragenlijst is ingevuld. Wat wordt met 
+'device' bedoeld? Gaat het om inzicht in of de vragenlijst 
+via een laptop, computer of smartphone is ingevuld of meer 
+detail informatie over het type smartphone? 
+Met device wordt het type apparaat bedoeld waarop de vragenlijst wordt 
+ingevuld: laptop, computer, smartphone of tablet.  
+13 Bijlage A.2 (eis 11 
+en 12) 
+  In eisen 11 en 12 wordt beschreven dat een respondent 
+ongemerkt naar een andere vragenlijst moet gaan voor het 
+maken van kans op een prijs of aanmelding voor het GGD-
+panel. Als dit 'ongemerkt' moet gebeuren, wat is dan de 
+reden om naar een andere vragenlijst te gaan en niet in 
+dezelfde vragenlijst te blijven? Gegevens voor een 
+verloting/prijs of aanmelding voor het GGD-panel worden 
+altijd apart verwerkt van andere gegeven antwoorden. 
+Het doel is inderdaad om de gegevens apart te verwerken. Dat is een 
+voorwaarde. Als dat op een andere manier mogelijk is dan met twee 
+verschillende vragenlijsten, dan is dat ook een optie. Antwoorden op de 
+vragen mogen nooit herleidbaar zijn naar een emailadres. 
+14 Bijlage A.2 (eis 7) - 
+2 
+  In eis 7 wordt beschreven dat bij de testlink naar voorkeur 
+gewerkt wordt met inlogcodes. Wat wordt hiermee bedoeld 
+in het kader van een anonieme link? 
+Opdrachtgever wil niet dat de testlink benaderd kan worden door anderen 
+dan degenen die uitgenodigd zijn om te testen. De testlink hoeft ook niet 
+anoniem te zijn, deze data worden niet meegenomen in het onderzoek.  
+15 Bijlage A.2 (eis 7)   In eis 7 wordt beschreven dat de testlink niet gelijk mag zijn 
+aan de URL van de uiteindelijke vragenlijst. Wat is hiervoor 
+de reden? Wordt er tijdens de echte 
+dataverzamelingsperiode ook getest? 
+In principe is het niet de bedoeling om tijdens de dataverzamelingsperiode 
+te testen, al zou dit wel aan de orde kunnen zijn om even na te gaan hoe 
+iets exact is ingebouwd (naslagwerk). De voornaamste redenen voor 
+verschillende URL's zijn de angst voor vervuiling van de data en het risico 
+dat de URL al voor het onderzoek een eigen leven gaat leiden.  
+6 van 8 
+ 
+16 Beschrijvend 
+document 
+2.1 U heeft de opdracht verdeeld in 2 percelen: 1) 
+Communicatiebureau en 2) veldwerkbureau. Worden beide 
+percelen individueel beoordeeld? Of geeft inschrijving op 2 
+percelen voordeel op organisaties die inschrijven op 1 
+perceel? 
+Beide percelen worden individueel beoordeeld. Voor de wijze van 
+beoordelen verwijst Opdrachtgever naar paragraaf 6.3 van het Beschrijvend 
+document. 
+17 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Art. 3.3 
+(VNG) 
+Door deze toevoeging: "De schriftelijke aan-vaarding geldt 
+enkel als aanvaarding, indien daaraan een besluit ten 
+grondslag ligt als bedoeld in artikel 160, eerste lid aanhef 
+en onder e van de Gemeentewet dat is genomen door of 
+namens het college van burgemeester en wethouders en 
+de aanvaarding ondertekend is door de burgemeester of 
+een ander waaraan op grond van het bepaalde in artikel 
+171, tweede lid van de Gemeentewet de 
+vertegenwoordiging van de Gemeente is opgedragen." is 
+het voor ons nooit zeker of er opdracht verstrekt is.  
+ 
+Kunt u bevestigen dat het besluit als bedoeld in art. 3.3 van 
+de inkoopvoorwaarden met betrekking tot deze opdracht is 
+genomen? 
+Opdrachtgever kan dit bevestigen. 
+18 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Art. 4.5 
+(VNG) 
+Wij kunnen niet instemmen met deze generieke vrijwaring 
+voor boetes/sancties omdat deze ook boetes/sancties 
+omvat waar opdrachtnemer redelijkerwijs geen invloed op 
+heeft.  
+ 
+Wij gaan ervan uit dat het bepaalde in art. 4.5 van de 
+inkoopvoorwaarden alleen geldt indien eventuele sancties 
+die zijn toe te rekenen aan de schuld van de 
+opdrachtnemer. Kunt u dit bevestigen? 
+Opdrachtgever gaat hiermee deels akkoord, in die zin dat artikel 4.5 van de 
+Algemene Inkoopvoorwaarden uitsluitend van toepassing is indien 
+eventuele sancties toerekenbaar zijn aan Opdrachtnemer, als gevolg van 
+handelen en/of nalaten aan de zijde van Opdrachtnemer. 
+19 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Art. 6.1 
+(VNG) 
+De aard van onze dienstverlening verhoudt zich niet met 
+het afgeven van garanties of resultaatsverplichtingen.  
+ 
+Wij gaan ervan uit dat met betrekking tot de te verrichten 
+werkzaamheden de wettelijke norm geldt dat 
+opdrachtnemer dient te handelen zoals van een zorgvuldig 
+en redelijk handelend adviseur mag worden verwacht. Kunt 
+u dit bevestigen? Voorts stellen wij voor de duur van de 
+garantie te bepalen tot het moment van acceptatie van de 
+diensten. 
+Opdrachtgever bevestigt dit en gaat akkoord met het voorstel om de duur 
+van de garanties te bepalen tot het moment van acceptatie van de 
+diensten. 
+7 van 8 
+ 
+20 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Art. 8.1 
+(VNG) 
+IE-rechten op de resultaten van de opdracht gaan over 
+naar de gemeente. Dat is in sommige gevallen ongewenst. 
+Dit is bijvoorbeeld het geval bij bestekken, software en 
+sommige rapporten.  
+ 
+Het is ons niet toegestaan de "achterliggende" intellectuele 
+eigendomsrechten (zoals softwarelicenties) aan derden 
+over te dragen. Dit is wel mogelijk voor de door ons 
+geleverde fysieke resultaten van onze werkzaamheden, 
+waar het de gemeente uiteindelijk om gaat. Wij verzoeken 
+u artikel 8.1 van de inkoopvoorwaarden aan te vullen met 
+de navolgende passage: 
+"Uitgesloten van dit artikel zijn de materialen, 
+(ontwikkelings-)producten, methoden en technieken 
+(inclusief software) die opdrachtnemer gedurende de 
+uitvoering van de overeenkomst gebruikt, waarvan 
+opdrachtnemer of haar licentiegevers voorafgaand aan de 
+overeenkomst de intellectuele eigendomsrechten bezaten." 
+Opdrachtnemer gaat hiermee akkoord en vult artikel 8.1 aan. 
+ 
+Zie herziene documentatie Bijlage B.1 - Concept Overeenkomst Diensten 
+v1.1. 
+21 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Art. 11.1 
+(VNG) 
+Wij verzoeken de gemeente de termijnen conform artikel 
+11.1 van de inkoopvoorwaarden niet als fataal te betitelen. 
+Gegadigde verzoekt de gemeente om in plaats daarvan de 
+wettelijke regeling te gebruiken, waarbij gegadigde eerst in 
+gebreke wordt gesteld en vervolgens een redelijke termijn 
+wordt geboden om te herstellen, een en ander zoals in de 
+toelichting bij de voorwaarden ook wordt aangeraden. Kunt 
+u dit bevestigen? Zo niet, kunt u dan toelichten waarom 
+niet? 
+Opdrachtgever gaat hiermee akkoord en zal Opdrachtnemer in casu eerst 
+in gebreke stellen en een redelijke termijn bieden voor herstel.  
+22 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Artikel 
+14.7 
+“Een in hoogte onbeperkte aansprakelijkheid voor schade 
+van derden is onredelijk en niet verzekerbaar. Terugvallen 
+op het BW is wel acceptabel bij dood of ernstig letsel.  
+ 
+Bent u in dat verband bereid om aan artikel 14.7 sub a toe 
+te voegen (onderstreept): In geval van aanspraken van 
+derden op schadevergoeding ‘ten gevolge van dood of 
+ernstig letsel’, zoals ook staat opgenomen in de toelichting 
+bij de VNG-modelvoorwaarden?” 
+Opdrachtgever gaat hiermee deels akkoord, in die zij dat de clausule 'als 
+gevolg van dood of ernstig letsel' zal toevoegen, evenals de passage: 'en/of 
+schade van derden voortvloeit uit bestuurlijke besluitvorming van bevoegde 
+instanties welke buiten de invloedssfeer van Opdrachtgever ligt. 
+8 van 8 
+ 
+23 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Artikel 15 
+(VNG) 
+Het opleggen van een boete, naast de mogelijkheid om 
+schadevergoeding te vorderen, is onredelijk bezwarend. 
+Wij verzoeken u de boete te schrappen. 
+Opdrachtgever gaat hiermee akkoord, de bevoegdheid om een boete op te 
+leggen komt te vervallen.  
+24 Bijlage C.2 - 
+Addendum AIV 
+Diensten en 
+Leveringen GGD 
+GHOR 
+Artikel 
+17.2 
+(VNG) 
+Mogen wij ervan uitgaan dat de meerwerkbepaling niet 
+naar de letterlijke tekst onredelijk beperkt wordt uitgelegd? 
+De formulering van 17.2 lijkt nu aan derden toe te rekenen 
+oorzaken, zoals bezwaren en calamiteiten waarop 
+opdrachtnemer geen invloed heeft, uit te sluiten. 
+Opdrachtgever legt de meerwerkbepaling niet naar de letterlijke tekst 
+onredelijk beperkt uit. Indien en voor zover er omstandigheden zijn welke 
+buiten de invloedssfeer van Opdrachtnemer vallen en welke aantoonbaar 
+leiden tot meerwerk in opdracht van Opdrachtgever, kan Opdrachtnemer 
+alsdan het meerwerk in rekening brengen. 
+25 Beschrijvend 
+document 
+6.8.4 U vraagt een beschrijving van de wijze waarop de enquête 
+en responstool worden geprogrammeerd. Welke vereisten 
+zitten verbonden aan deze tool? Kan ON iedere gewenste 
+tool hiervoor gebruiken mits deze de eisen in het PvE kan 
+waarmaken? 
+Ja, iedere tool kan gebruikt worden, mits deze aan de gestelde eisen 
+voldoet.  
+26 Beschrijvend 
+document 
+6.8.4 Het gebruiksvriendelijk en aantrekkelijk maken van de 
+enquête heeft ook alles te maken met de lengte van de 
+vragen(lijst). Wordt hier met het opstellen van de vragen 
+rekening mee gehouden? 
+Ja, hier wordt in het opstellen van de vragenlijst rekening mee gehouden. 
+27 Nota van 
+Inlichtingen 
+Vraag 2 Is er een conceptvragenlijst beschikbaar die we kunnen 
+inzien? 
+Nee, er is nog geen conceptvragenlijst. Hier wordt op dit moment nog druk 
+aan gewerkt. Wat algemene informatie: er zal routing in de vragenlijst zitten 
+en verschillende type vragen (meerkeuzevragen, beoordelingschalen, 
+Likert-schalen, matrixvragen, open vragen). 
+28 Nota van 
+Inlichtingen 
+Vraag 3 Representativiteit naar wijken waar jongeren wonen is 
+ambitieus. Amsterdam kent bijvoorbeeld meer dan 100 
+wijken. Bent u ermee akkoord om 'wijk' als 
+representativiteitscriterium te laten vallen? Of anders om 
+deze te vervangen door 'stadsdeel'? 
+Het gaat Opdrachtgever er niet om dat we op wijkniveau willen rapporteren, 
+dat is geen streven. Wel vindt Opdrachtgever het belangrijk dat de 
+spreiding goed is. In de vragenlijst zit PC4 (en in sommige gevallen PC6). 
+Met sturing daarop zou die spreiding (zo goed mogelijk) geborgd kunnen 
+worden. Uiteindelijke representativiteit is dan vereist op gemeenteniveau. In 
+grotere steden bestaat wel de wens om op een kleiner niveau te kunnen 
+rapporteren. Zo is in Amsterdam de wens om op gebiedsniveau (22 
+gebieden) te kunnen rapporteren.  
+29 Beschrijvend 
+document 
+6.8.1 Voor G1 Plan van Aanpak voor perceel 1 staan maximaal 5 
+A4. Bent u bereid dit aantal verhogen naar 8 A4, zodat er 
+meer ruimte is voor voorbeelden van de op te zetten 
+campagne?  
+Opdrachtgever is van mening dat 5 A4 moet volstaan om een heldere 
+uiteenzetting te geven. Er kan eventueel naar afbeeldingen in een bijlage 
+(maximaal 2 pagina's) worden verwezen.
+
+=== Document: invulinstructie uea ===
+INVULINSTRUCTIE UEA
+GGD GHOR NEDERLAND
+3 maart 2021DATUM
+Onderliggende invulinstructie ondersteunt de inschrijver bij het invullen van het UEA en geeft waar nodig een beknopte 
+toelichting. Het volledig en juist invullen van het Uniform Europees Aanbestedingsdocument (UEA) blijft te allentijde een 
+verantwoordelijkheid van de inschrijver. 
+Geen actie vereist van inschrijvers op deze pagina
+Vul hier uw gegevens in als (hoofd)inschrijver
+Geef aan of uw onderneming een micro-, kleine of middelgrote 
+onderneming is.
+Geef aan of uw onderneming een sociale werkplaats of ‘sociale 
+onderneming’ is.
+Geef hier aan of u als ondernemer alleen inschrijft of in een 
+samenwerkingsvorm. Er zijn diverse samenwerkingsvormen, 
+zoals, maar niet uitsluitend, een combinatie, consortium, joint 
+venture, coöperatie enzovoort. Indien u als 
+samenwerkingsvorm inschrijft, dient u dit hier aan te geven.
+Indien u als ondernemer deelneemt met anderen aan de 
+aanbestedingsprocedure, dient u hier aan te geven wat u rol is 
+in de samenwerking (onder a), wie de andere ondernemers zijn 
+die deelnemen (onder b) en indien van toepassing, de naam 
+van de deelnemende combinatie (onder c). Tevens dienen de 
+overige betrokkenen afzonderlijk een UEA-formulier in te 
+dienen.
+Let op: indien u niet met anderen deelneemt aan de 
+procedure en de optie ‘Nee’ aanvinkt bij de Wijze van 
+deelneming, krijgt u deze vragen niet te zien.
+Geef hier aan welke persoon rechtsgeldig gemachtigd om de 
+ondernemer bij de aanbestedingsprocedure te 
+vertegenwoordigen. 
+Let op: de rechtsgeldige machtiging van een persoon om  
+de onderneming te vertegenwoordigen moet blijken uit het 
+uittreksel van de Kamer van Koophandel.
+Geef hier aan op welke percelen u wilt inschrijven. 
+Indien u met meerdere anderen inschrijft, geeft u hier ook voor 
+de anderen aan op welk perceel zij inschrijven.
+Let op: schrijft een onderneming in op perceel 2? Dan is 
+dezelfde onderneming verplicht om ook op perceel 1 in te 
+schrijven (conform paragraaf 1.7 van het Beschrijvend 
+document).
+Indien u als inschrijver beroep doet op anderen om te voldoen 
+aan de gestelde geschiktheidseisen, dan dient u hier aan te 
+geven of dat het geval is en zo ja, op welke specifieke 
+draagkracht een beroep wordt gedaan door inschrijver op 
+anderen. 
+Let op: indien u beroep doet op anderen om te voldoen 
+aan de geschiktheidseisen, dan zijn de andere 
+ondernemingen afzonderlijk verplicht om ook het UEA-
+formulier in te vullen. 
+Indien u als inschrijver voornemens bent een gedeelte van de 
+opdracht in onderaanneming aan derden te geven, maar u doet 
+geen beroep op de draagkracht van deze derden om te voldoen 
+aan de geschiktheidseisen, dan kunt u de betreffende 
+onderaannemers hier vermelden (indien reeds bekend).
+De betreffende onderaannemers, waar geen beroep op wordt 
+gedaan om te voldoen aan de geschiktheidseisen, hoeven 
+geen UEA-formulier in te dienen.
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat geen van de 
+genoemde uitsluitingsgronden op u als ondernemer van 
+toepassing zijn. 
+Bevestig dat u als ondernemer heeft voldaan aan de betaling 
+van belastingen en sociale premies.
+Door de optie ‘Nee’ aan te vinken, bevestigt u, voor zover u 
+weet, dat u als ondernemer geen milieu-, sociaal of 
+arbeidsrecht geschonden heeft.
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat faillissement, 
+insolventie of gelijksoortig niet op u als ondernemer van 
+toepassing is. 
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat u als 
+ondernemer zich niet schuldig heeft gemaakt aan een ernstige 
+beroepsfout.
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat u als 
+ondernemer zich niet schuldig heeft gemaakt aan vervalsing 
+van mededinging.
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat u als 
+ondernemer niet betrokken bent geweest bij de voorbereiding 
+van de aanbesteding.
+Door de optie ‘Ja’ aan te vinken, bevestigt u dat u zich als 
+ondernemer niet schuldig heeft gemaakt aan onder andere 
+valse verklaringen.
+Door de optie ‘Ja’ aan te vinken, bevestigt u dat u als 
+ondernemer niet heeft getracht het besluitvormingsproces van 
+de aanbestedende dienst onrechtmatig te beïnvloeden.
+Door de optie ‘Nee’ aan te vinken, bevestigt u dat de 
+ondernemer zich niet schuldig heeft gemaakt aan enig 
+belangenconflict als gevolg van zijn deelneming aan de 
+aanbestedingsprocedure.
+Deel V is niet van toepassing op deze procedure. U hoeft hier 
+niks in te vullen.
+Door de optie ‘Ja’ aan te vinken, bevestigt u dat u voldoet aan 
+de gestelde selectiecriteria (waaronder de geschiktheidseisen). 
+Zorg dat het UEA-formulier wordt ondertekend door een 
+rechtsgeldige vertegenwoordiger van de onderneming.

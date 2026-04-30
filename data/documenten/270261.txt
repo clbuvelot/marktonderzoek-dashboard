@@ -1,0 +1,570 @@
+=== Document: 20220523 notification kem 27 ===
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Notification: ”Monitoring requirements for CO2 storage sites on the Dutch Continental Shelf 
+(KEM-27)” 
+ 
+Organization: Ministry of Economic Affairs and Climate Policy (MEA) 
+ 
+Reference: KEM-27 | 202205006 
+ 
+Purpose of the notification 
+The purpose of this notification is to determine whether there are parties interested to perform the 
+research as described below. 
+ 
+Objective 
+The objective of this proposal is to provide guidance to CO2 storage operators, the competent 
+authority and supervisory bodies regarding best practice monitoring plans for CO2 storage in offshore 
+depleted gas fields and saline aquifers. The work should include detailed technical analysis of available 
+monitoring tools and techniques, and the most appropriate means of applying them as part of an 
+integrated risk management system for storage sites. The evaluation of the monitoring tools should 
+also include potential innovations that as of yet cannot be considered best practice, but show promise 
+with regards to their application in CO2 storage activities.    
+ 
+The monitoring applications covered should include, but not necessarily limit to, tools for assessing 
+conformance, well integrity, plume migration, (micro-)seismicity and leakage detection, localization 
+and quantification. A clear distinction should be made between monitoring strategies under normal 
+operating conditions, and additional contingency monitoring in case of deviations from modelled 
+behaviour. The monitoring strategies should specify baseline monitoring, monitoring during injection, 
+post-closure and long-term monitoring after storage permit relinquishment.     
+ 
+Where multiple monitoring techniques can be considered, an evaluation should be made of the 
+foreseen benefits and disadvantages of each. The approximate costs and list of suppliers should be 
+provided for each type of monitoring tool and instrumentation. The monitoring strategies should be 
+tailored to the specific requirement of CO2 storage in depleted fields as well as saline aquifers, and 
+include consultation with (potential) storage operators, oil and gas service providers, the competent 
+authority (MEA) and supervisory bodies (the Dutch State Supervision of Mines, SSM). 
+ 
+Background information 
+Monitoring is a key activity in the implementation of a CO2 storage project. Monitoring is essential to 
+assess whether injected CO2 is behaving as expected, whether any migration or leakage occurs, and 
+whether any identified leakage is damaging the environment or human health. A site-specific 
+monitoring plan must be submitted by any project developer during the application for a geological 
+CO2 storage permit. The requirements of CO2 storage permits and monitoring plans for CO2 storage 
+projects in Europe are covered by a limited number of national, international and European legislative 
+acts. 
+ 
+The applicable regulation for the monitoring of CO2 storage sites does not prescribe the use of specific 
+monitoring tools and techniques, but requires the operator to apply the prevailing ‘best practice’ at the 
+time of operation. So far there is limited experience in the monitoring of CO2 injected into depleted 
+gas fields. Monitoring of CO2 injection has taken place at the K12-B gas field in the Netherlands,  
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+where primarily pressure and temperature were monitored, but also tracers were used. In this case 
+the amount of CO2 injected was relatively small (80 ktCO2). While the K12-B project can be 
+considered a success, the scale of the project and the injection strategy (low pressure gas phase) is  
+not comparable to the planned large-scale CO2 storage projects which will involve high-pressure 
+(liquid) CO2 injection. There have been monitoring plans developed for the P18-4 gas field in the 
+Netherlands, and also the Goldeneye gas field in the United Kingdom, however these projects have as 
+of yet not been implemented. In addition, CO2 storage operations in saline aquifers, both onshore and 
+offshore, as well as CO2 enhanced oil recovery operations have already been performed (e.g. Sleipnir 
+and Snøhvit in Norway) and can therefore provide useful insights into appropriate monitoring 
+techniques. Moreover, there are expected to be a number of tools and techniques developed for 
+conventional oil and gas production which can be adjusted/adapted for application in CO2 storage 
+projects.  
+ 
+Both a lack and a shortage of ‘best practices’ for monitoring of injected CO2, for depleted gas fields 
+and saline aquifers respectively, may lead to delays during the permitting process. This work is 
+therefore particularly important for the competent authority in assessing whether a monitoring plan 
+submitted as part of a CO2 storage license application is fit for purpose. Accordingly, a comprehensive 
+evaluation of the efficacy as well as the associated costs of different monitoring tools, will assist with 
+determining effective and balanced monitoring plans which do not lead to excessive costs to the 
+operator. 
+ 
+Research questions 
+ 
+• Task 1: Technical review of monitoring tools and techniques  
+Conduct a comprehensive technical review of the range of potentially suitable monitoring tools and 
+techniques for CO2 storage in depleted offshore gas fields and saline aquifers. Provide an elaborate 
+textual overview as well as a schematic overview of their purpose, application, costs, advantages and 
+disadvantages (such as practicability or expected data quality). The review should include market 
+ready and high-Technology Readiness Levels (≥TRL61) monitoring techniques. The technical review 
+should encompass all facets of monitoring and include, but not necessarily limit to, conformance 
+monitoring, well integrity, plume migration and leakage detection, localization and quantification 
+including seabed and environmental monitoring. In addition, monitoring tools and techniques for 
+detecting (micro-)seismicity and accurate localization of seismic (micro-)events should be included, 
+hereby taking into account the possibility of deploying a local network of seismometers. Where 
+innovative monitoring techniques are to be considered, recommendations on future R&D actions and 
+testing should be given.    
+ 
+• Task 2a: Recommendations for monitoring plans in depleted gas fields 
+Based on the findings from Task 1, recommendations should be made for appropriate monitoring plans 
+for CO2 storage activities in offshore depleted gas fields. The recommendations for monitoring plans 
+should cover at least all aforementioned facets of monitoring (conformance monitoring, well integrity, 
+plume migration, leakage detection, localization and quantification, seabed and environmental 
+monitoring). Monitoring plans should contain recommendations regarding (micro-)seismic acquisition 
+instruments, configurations and modus operandi. Clear distinctions should be made between baseline- 
+ 
+ 
+ 
+ 
+1 TRL6 refers to a technology that has been demonstrated in a relevant environment  
+ 
+3 
+ 
+  
+  
+  
+  
+  
+monitoring (pre-injection), monitoring during injection, monitoring post-closure and long-term 
+monitoring. In addition to a ‘base-case’ monitoring plan, a set of hypothetical, but realistic storage site 
+risks (or site non-conformance) should be provided, for example the monitoring of legacy wells, spill- 
+points, potential fault reactivation, induced or triggered seismicity and suspected leakage to the 
+marine environment. Recommendations should be made for contingency monitoring in case of 
+deviations from modelled behaviour or scenarios involving suspected leakage or induced seismicity. 
+Moreover, the report should include a scenario that includes offshore wind turbines and related 
+infrastructure (e.g. cables, substations) above or close to a CO2 storage site, taking into account the 
+additional risks and operational limitations this might pose. Total cost indications should be given for 
+each of the proposed monitoring plans.     
+ 
+• Task 2b: Recommendations for monitoring plans in saline aquifers 
+Due to potentially larger uncertainties in the containment of CO2, separate recommendations should 
+be made for appropriate monitoring plans for CO2 storage activities in offshore saline aquifers. Similar 
+to Task 2a, a ‘base-case’ monitoring plan as well as a set of hypothetical, but realistic storage site  
+risks (or site non-conformance) should be provided. Distinctions should be made between standard 
+operation and contingency monitoring, and between the baseline, injection, post-closure and long-
+term monitoring requirements. Total cost indications should be given for each of the proposed 
+monitoring plans.     
+ 
+Deliverables expected 
+ 
+The research should lead to a final report in which answers are given to the research questions. The 
+final report must be an independently readable report that is suitable for external publication and 
+should contain a description of all activities performed during the project. The report should contain 
+sufficient details so that the results can be reproduced by a third party. Any underlying data must also 
+be made available to the Contracting Authority. The final report must be submitted digitally in English 
+(PDF file). 
+ 
+a) Report on Task 1 
+b) Report on Task 2 
+ 
+Expected use 
+The final documents will be used in discussion between storage operators, the competent authority 
+and supervisory bodies for the identification of appropriate monitoring plans for CO2 storage sites. 
+Recommendations on innovative technologies will be used in policy developments by the competent 
+authority to target R&D developments through policy intervention.  
+The deliverables/reports will be open-access; publication of project results is encouraged. 
+ 
+  
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+Timeline 
+The duration of this research is maximum 12 months, with the following milestones: 
+ 
+• Project kick-off meeting (M1) 
+• Project inception report (M1) 
+• Project progress meeting (M4) 
+• Task 1 review meeting (M8) 
+• Task 2 review meeting (M11) 
+• Final project presentation (M12) 
+ 
+The maximum budget for this research is € 250.000 exclusive of VAT. 
+ 
+Requirements 
+Companies/consultants meet at a minimum the following requirements: 
+• Professional proficiency in communicating (writing/speaking) in English. 
+• Verifiable experience with offshore CO2 storage (CCS) projects. 
+ 
+Moreover, it is preferred companies/consultants meet the following requirements: 
+• Practical experience with offshore activities (for example: the production of oil and gas and 
+preferably, CO2 storage activities) 
+• Familiarity with instrumentation used for controlling offshore activities (including pressure and 
+temperature monitoring, seismic surveys, well integrity monitoring and seabed monitoring 
+techniques). 
+• Familiarity with the  legal requirements for monitoring plans for CO2 storage (in particular EU 
+Directive on the geological storage of CO2 2009/31/EC). 
+• Familiarity with risk management assessments. 
+ 
+NB. A consortium of companies and research institutes may be necessary in order to acquire the 
+relevant expertise. If you cannot perform the contract independently, there is the option to submit an 
+offer in cooperation with other companies. An offer can be submitted in cooperation with other 
+companies in two ways: 
+ 
+• Either as a partnership ('combination’) in which each partner is individually and jointly and severally 
+liable for the performance of the obligations arising from the offer as well as any performance of the 
+agreement. Your offer must show who the consortium leader of the partnership is, who the partners 
+are and who may act as authorised representative towards the contracting authority. 
+• Or as main contractor -subcontractor construction in which the main contractor acts as the 
+contracting party and is liable for performing all obligations, so including the obligations that are 
+subcontracted. Your offer must show who the subcontractors (third parties) are. 
+ 
+We would like to hear whether you intend to submit an offer. If possible, we would like to hear upfront 
+whether you intend to submit an offer in collaboration with other parties and which other parties. 
+ 
+Quality assurance, Organisational and communication requirements 
+A representative of the KEM panel as well as a member of MEA will be involved in the progress meetings 
+from the onset of the project ensuring continuity and reporting to the KEM panel. The project will be 
+presented at the bi-annual KEM meeting. 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Application 
+Interested companies/consultants, fitting the above-mentioned requirements, are invited to respond 
+to the Procurement Office of the Ministry of Economic Affairs and Climate Policy, to the attention of 
+Mr. Ramon van Dijk by e-mail at iuc.accountezk@rvo.nl.  
+ 
+You do not have to send documents, only an e-mail if you are interested. The procedure 
+following up this notification will be determined based on the number of interested parties. 
+ 
+Interested parties will receive the request for the tender by e-mail as soon as possible after the deadline 
+for responding to this notification.  
+ 
+The deadline for responding to this notification is set at June 17th, 2022. 
+ 
+ 
+ 
+References 
+1. Bacci, V.O., O’Brien, S., Frank, J., Anderson, M., 2017. Using a Walk-away DAS Time-lapse VSP 
+for CO2 Plume Monitoring at the Quest CCS Project. Shell Canada, Calgary, Canada. 
+2. European Commission, 2016. Commission Opinion of 20.1.2016 on a draft permit for the 
+permanent storage of carbon dioxide in the depleted Goldeneye gas condensate field located in 
+blocks 14/28b, 14/29a, 14/29e, 20/3b, 20/4b and 20/4c on the United Kingdom Continental Shelf, 
+in accordance with Article 10(1) of Directive 2009/31/EC of 23 April 2009 on the geological 
+storage of carbon dioxide. C(2016) 152 final, Brussels. 
+3. Harris, Kyle, Don White, Dave Melanson, Claire Samson, and Thomas M Daley, 2016. "Feasibility 
+of time-lapse VSP monitoring at the Aquistore CO2 storage site using a distributed acoustic 
+sensing system." International Journal of Greenhouse Gas Control, 2016: 248-260. 
+4. IEAGHG; Review of Offshore Monitoring for CCS Projects; 2015/02. July, 2015 
+5. Mikunda, T & Dixon, T. 2017. Review of Project Permits under the London Protocol – An 
+Assessment of the Proposed P18-4 CO2 Storage Site. Energy Procedia, 2017, V.114, 7431-7442 
+6. Vandeweijer, V.P., van der Meer, B., Hofstee, C., Mulders, F., D’Hoore, D., Graven, H., (2011). 
+Monitoring the CO2 injection site: K12-B. Energy Proc. 4, 5471–5478. 
+7. Fugro; Safety Study CCS and offshore wind farms (2022) - Project Technical Outline. 
+Commissioned by Ministry of Economic Affairs and Climate Policy.
+
+=== Document: tn363752 - sf01 vooraankondiging 20220603103503 ===
+03/06/2022
+I. II. IV. VI.
+- 1 -
+PRIOR INFORMATION NOTICE
+Services
+Directive 2014/24/EU
+This notice is for prior information only
+SECTION I: CONTRACTING AUTHORITY
+I.1) NAME AND ADDRESSES
+Official name:
+Ministerie van Economische Zaken en Klimaat
+National ID:
+502035258
+Postal address:
+Prinses Beatrixlaan 2
+Town:
+Den Haag
+NUTS code:
+NL
+Postal code:
+2595 AL
+Country:
+NL
+Contact person:
+Ramon van Dijk
+Telephone:
+-
+E-mail:
+IUC.accountEZK@rvo.nl
+Fax:
+-
+Internet address(es)
+Main address:
+https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat
+Address of the buyer profile:
+-
+I.2) JOINT PROCUREMENT
+-
+03/06/2022
+I. II. IV. VI.
+- 2 -
+I.3) COMMUNICATION
+Additional information can be obtained from
+the abovementioned address
+I.4) TYPE OF THE CONTRACTING AUTHORITY
+Ministry or any other national or federal authority, including their regional or local
+subdivisions
+I.5) MAIN ACTIVITY
+• Economic and financial affairs
+03/06/2022
+I. II. IV. VI.
+- 3 -
+SECTION II: OBJECT
+II.1) SCOPE OF THE PROCUREMENT
+II.1.1) Title
+Notification: Monitoring requirements for CO2 storage sites on the Dutch Continental Shelf
+(KEM-27)
+Reference number: 202205006
+II.1.2) CPV code(s)
+Main code:
+73200000 - Advies inzake onderzoek en ontwikkeling
+Supplementary code:
+-
+II.1.3) Type of contract
+Services
+II.1.4) Short description
+The purpose of this notification is to determine whether there are parties interested to perform
+the research as described in the attachment. If you are interested, please let us know via
+email.
+II.1.5) Estimated total value
+Value excluding VAT: 250 000,00 Currency: EUR
+II.1.6) Information about lots
+This contract is divided into lots: no
+II.2) DESCRIPTION
+II.2.1) Title
+-
+Lot No: -
+03/06/2022
+I. II. IV. VI.
+- 4 -
+II.2.2) Additional CPV code(s)
+-
+II.2.3) Place of performance
+NUTS code:
+NL NEDERLAND
+Main site or place of performance:
+-
+II.2.4) Description of the procurement:
+(nature and quantity of works, supplies or services or indication of needs and requirements)
+€ 250.000 excluding VAT
+II.2.14) Additional information:
+-
+II.3) ESTIMATED DATE OF PUBLICATION OF CONTRACT NOTICE
+12/12/2050
+03/06/2022
+I. II. IV. VI.
+- 5 -
+SECTION IV: PROCEDURE
+IV.1) DESCRIPTION
+IV.1.8) Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: yes
+03/06/2022
+I. II. IV. VI.
+- 6 -
+SECTION VI: COMPLEMENTARY INFORMATION
+VI.3) ADDITIONAL INFORMATION
+-
+VI.5) DATE OF DISPATCH OF THIS NOTICE
+03/06/2022
+
+=== Document: tn363752 - sf03 aankondiging van een gegunde opdracht 20220823074950 ===
+23/08/2022
+I. II. IV. V. VI.
+- 1 -
+CONTRACT AWARD NOTICE
+RESULTS OF THE PROCUREMENT PROCEDURE
+Services
+Directive 2014/24/EU
+SECTION I: CONTRACTING AUTHORITY
+I.1) NAME AND ADDRESSES
+Official name:
+Ministerie van Economische Zaken en Klimaat
+National ID:
+502035258
+Postal address:
+Prinses Beatrixlaan 2
+Town:
+Den Haag
+NUTS code:
+NL
+Postal code:
+2595 AL
+Country:
+NL
+Contact person:
+Ramon van Dijk
+Telephone:
+-
+E-mail:
+IUC.accountEZK@rvo.nl
+Fax:
+-
+Internet address(es)
+Main address:
+https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat
+Address of the buyer profile:
+-
+I.2) JOINT PROCUREMENT
+-
+23/08/2022
+I. II. IV. V. VI.
+- 2 -
+I.4) TYPE OF THE CONTRACTING AUTHORITY
+Ministry or any other national or federal authority, including their regional or local
+subdivisions
+I.5) MAIN ACTIVITY
+• Economic and financial affairs
+23/08/2022
+I. II. IV. V. VI.
+- 3 -
+SECTION II: OBJECT
+II.1) SCOPE OF THE PROCUREMENT
+II.1.1) Title
+Notification: Monitoring requirements for CO2 storage sites on the Dutch Continental Shelf
+(KEM-27)
+Reference number: 202205006
+II.1.2) CPV code(s)
+Main code:
+73200000 - Advies inzake onderzoek en ontwikkeling
+Supplementary code:
+-
+II.1.3) Type of contract
+Services
+II.1.4) Short description
+The purpose of this notification is to determine whether there are parties interested to perform
+the research as described in the attachment. If you are interested, please let us know via
+email.
+II.1.6) Information about lots
+This contract is divided into lots: no
+II.1.7) Total value of the procurement (excluding VAT)
+-
+II.2) DESCRIPTION
+II.2.1) Title
+-
+Lot No: -
+23/08/2022
+I. II. IV. V. VI.
+- 4 -
+II.2.2) Additional CPV code(s)
+-
+II.2.3) Place of performance
+NUTS code:
+NL NEDERLAND
+Main site or place of performance:
+-
+II.2.4) Description of the procurement:
+(nature and quantity of works, supplies or services or indication of needs and requirements)
+€ 250.000 excluding VAT
+II.2.5) Award criteria
+Quality criterion
+Name: n.v.t.
+Weighting: 100
+Cost criterion
+Name: n.v.t.
+Weighting: 100
+II.2.11) Information about options
+Options: no
+II.2.13) Information about European Union funds
+The procurement is related to a project and/or programme financed by European Union
+funds: no
+II.2.14) Additional information:
+-
+23/08/2022
+I. II. IV. V. VI.
+- 5 -
+SECTION IV: PROCEDURE
+IV.1) DESCRIPTION
+IV.1.1) Type of procedure
+Open procedure
+IV.1.3) Information about a framework agreement or a dynamic purchasing system
+-
+IV.1.6) Information about electronic auction
+-
+IV.1.8) Information about the Government Procurement Agreement (GPA)
+The procurement is covered by the Government Procurement Agreement: yes
+IV.2) ADMINISTRATIVE INFORMATION
+IV.2.1) Previous publication concerning this procedure
+Notice number in the OJ S: 2022/S 109-307988
+IV.2.8) Information about termination of dynamic purchasing system
+-
+IV.2.9) Information about termination of call for competition in the form of a prior
+information notice
+-
+23/08/2022
+I. II. IV. V. VI.
+- 6 -
+SECTION V: AWARD OF CONTRACT
+Contract No: -
+Lot No: -
+Title: -
+A contract/lot is awarded: no
+V.1) INFORMATION ON NON-AWARD
+The contract/lot is not awarded
+Other reasons (discontinuation of procedure)
+23/08/2022
+I. II. IV. V. VI.
+- 7 -
+SECTION VI: COMPLEMENTARY INFORMATION
+VI.3) ADDITIONAL INFORMATION
+Zoals aangekondigd, traject afgehandeld via de mail.
+As announced, process completed by mail.
+VI.4) PROCEDURES FOR REVIEW
+VI.4.1) Review body
+Official name:
+Rechtbank 's Gravenhage
+Postal address:
+Postbus 20302
+Town:
+'s Gravenhage
+Postal code:
+2500 EH
+Country:
+NL
+E-mail:
+voorlichting.rb.den.haag@rechtspraak.nl
+Telephone:
++31 703813509
+Internet address:
+https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-
+den-haag
+Fax:
+-
+VI.4.2) Body responsible for mediation procedures
+Official name:
+Commissie van aanbestedingsexperts
+Postal address:
+-
+Town:
+Den Haag
+Postal code:
+-
+Country:
+NL
+E-mail:
+info@commissievanaanbestedingsexperts.nl
+Telephone:
++31 703797480
+23/08/2022
+I. II. IV. V. VI.
+- 8 -
+Internet address:
+https://www.commissievanaanbestedingsexperts.nl/
+Fax:
+-
+VI.4.3) Review procedure
+Precise information on deadline(s) for review procedures:
+-
+VI.4.4) Service from which information about the review procedure may be
+obtained
+-
+VI.5) DATE OF DISPATCH OF THIS NOTICE
+23/08/2022

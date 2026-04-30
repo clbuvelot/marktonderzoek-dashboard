@@ -1,0 +1,1853 @@
+=== Document: nota van inlichtingen 2022-05-20-1 ===
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 1 van 3 Datum genereren nota van inlichtingen: 20-05-2022
+Aanbesteding: Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknummer 31178877
+Toelichting:
+1.Deze eerste nota van inlichtingen maakt onderdeel uit van de te sluiten Overeenkomst (concept 
+Overeenkomst is verstrekt bij de stukken).
+2.De termijn voor indiening van de inschrijving is ongewijzigd.
+3.Contacten tijdens deze aanbestedingsprocedure met individuen van de kant van de 
+Opdrachtgever zijn uitdrukkelijk niet toegestaan, totdat de definitieve gunning is geschied.
+4.Voor wat betreft de elektronische ondertekening bij de inschrijving wordt verwezen naar 
+hoofdstuk 4 van de Aanbestedingsleidraad en/of Bijlage M.
+5.Uitdrukkelijk wordt nog bepaald dat een Staat van Tarieven en prijzen moet worden ingevuld 
+en ingediend en welke niet hoeft te zijn ondertekend.
+6.Het inschrijven met algemene-, eigen en /of branchevoorwaarden is niet toegestaan. De 
+inschrijving is dan ongeldig en zal niet meer in behandeling worden genomen. In de verstrekte 
+aanbestedingsstukken (en nota’s van inlichtingen) zijn alle voorwaarden vermeld die gelden 
+voor de opdracht.
+7.Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel
+voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen andere (dan in deze en 
+eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, bijlagen of andere stukken 
+getoond.
+Ref.nr. Onderwerp:
+1 vraagspecificatie
+Vraag:
+KRW heeft voorafgaand aan deze opdracht voorwerk verricht. Kunt u de 
+resultaten/rapportages van KRW met ons delen om een level playing field te 
+creëren?
+Antwoord:
+Ja, de rapportage is nog niet opgeleverd. Zodra dat is gebeurd, wordt dit 
+gedeeld (uiterlijk op 30 mei 2022). Ook wordt het R-script beschikbaar 
+gesteld.
+Beantwoord op: 20-05-2022
+Label: Proces
+Ref.nr. Onderwerp:
+2 Vraagspecificatie
+Vraag:
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 2 van 3 Datum genereren nota van inlichtingen: 20-05-2022
+In uw vraagspecificatie staat op pagina 6 dat er “met de opgestelde 
+protocollen zullen in 2022 (en 2023) opnieuw data analyses worden 
+uitgevoerd”. Kunt u deze protocollen tijdnes de offertefase beschikbaar 
+stellen?
+Antwoord:
+Ja, de R-scripts zijn beschikbaar in R-Markdown (bij aankondiging reeds in 
+van Tenderned te downloaden via de zip Bijlagen).
+Beantwoord op: 20-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+3 inhoud
+Vraag:
+In uw vraagspecificatie staat op pagina 6 dat er “moet gebruik gemaakt 
+worden van de opgeleverde resultaten in 2021”. Bedoelt u hier resultaten van 
+KWR of andere resultaten. Kunt u in ieder geval deze resultaten beschikbaar 
+stellen?
+Antwoord:
+Bedoeld wordt dat verder gewerkt zal worden met de gemaakte R-scripts in 
+2021. Overigens zullen alle resultaten beschikbaar worden gesteld
+Beantwoord op: 20-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+4 procedure
+Vraag:
+Aangezien KWR het voortraject heeft uitgevoerd hebben ze een voorsprong 
+in kennis. Hoe is een level playing field gegarandeerd?
+Antwoord:
+Deze aanbesteding is een vervolg op een eerste data-analyseopdracht aan 
+KWR. De kennisvoorsprong van KWR wordt echter grotendeels 
+geneutraliseerd door de informatie die beschikbaar is gesteld. Het zal in de 
+praktijk vaker voorkomen dat inschrijvers eerder opdrachten hebben 
+uitgevoerd die een bepaalde mate van kennisvoorsprong kunnen betekenen, 
+maar de aanbestedende dienst doet er alles aan om de relevante informatie 
+beschikbaar te stellen en verzoekt inschrijvers daarom –mochten er nog 
+onduidelijkheden bestaan- hun inhoudelijke punten naar voren te brengen, 
+zodat daarop in de tweede ronde van vragen een antwoord kan worden 
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 3 van 3 Datum genereren nota van inlichtingen: 20-05-2022
+gegeven.
+Beantwoord op: 20-05-2022
+Label: Proces
+
+=== Document: nota van inlichtingen 2022-05-25-2 ===
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 1 van 1 Datum genereren nota van inlichtingen: 25-05-2022
+Aanbesteding: Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknummer 31178877
+Toelichting:
+1.Deze 2e nota van inlichtingen maakt onderdeel uit van de te sluiten Overeenkomst (concept 
+Overeenkomst is verstrekt bij de stukken).
+2.De termijn voor indiening van de inschrijving is ongewijzigd.
+3.Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere (dan in deze en eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, 
+bijlagen of andere stukken getoond.
+Ref.nr. Onderwerp:
+11 Nota van inlichtingen
+Vraag:
+U heeft in de NvI ronde 1 aangegeven (bij vraag 1) dat het onderzoek dat 
+door KWR wordt uitgevoerd beschikbaar wordt gesteld op 30 mei bij de 2e 
+NvI. Tegelijkertijd geeft u aan in uw antwoord op vraag 4 (over een level 
+playing field) dat de inschrijvers gebruik moeten maken van de tweede ronde 
+van vragen om onduidelijkheden te verhelderen. Doordat u de rapportage 
+van KWR en een deel van de scripts pas beschikbaar stelt bij de 2e NvI is 
+het echter voor ons niet mogelijk om daar vragen over te stellen. We stellen 
+voor om een derde vragenronde in te stellen waarin we vragen over de 
+aanpak kunnen stellen naar aanleiding van de toegezonden informatie.
+Antwoord:
+Het rapport van KWR is beschikbaar en wordt bij deze beschikbaar gesteld.
+Beantwoord op: 25-05-2022
+Label: Proces
+
+=== Document: nota van inlichtingen 2022-05-30-1 ===
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 1 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+Aanbesteding: Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Aanbestedende Dienst: Rijkswaterstaat Water, Verkeer en Leefomgeving
+Referentie: Zaaknummer 31178877
+Toelichting:
+1. Deze derde en laatste nota van inlichtingen maakt onderdeel uit van de te sluiten 
+Overeenkomst (concept Overeenkomst is verstrekt bij de stukken).
+2. De termijn voor indiening van de inschrijving is ongewijzigd.
+3. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel
+voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen andere (dan in deze en 
+eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, bijlagen of andere stukken 
+getoond.
+Ref.nr. Onderwerp:
+5 Vraagspecificatie (2.2 mbt features
+Vraag:
+In de vraagspecificatie (2.2) is opgenomen dat we in werkpakket 2 features 
+moeten identificeren. Deze features moeten we prioriteren op basis van nog 
+vast te stellen criteria en in overleg met u. Kunt u een indicatie geven 
+hoeveel features u verwacht dat worden uitgewerkt?
+Antwoord:
+Verwacht wordt dat er minimaal twee features worden gekozen om verder te 
+gaan identificeren. En dan zowel in de LR (minimaal twee features) als in 
+beide HR sporen (minimaal twee features in oppervlaktewater data en 
+minimaal twee features in RWZI data).
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+6 vraagspecificatie over RWZI’s
+Vraag:
+In de vraagspecificatie is een aantal keer opgenomen dat een dataset van 
+RWZI’s wordt meegenomen. Kunt u dit specificeren? Betreft dit één RWZI, 
+alle RWZI’s van één waterbeheerder, of data van meerdere waterbeheerders?
+Antwoord:
+OG zorgt voor aanleveren van data van één RWZI, opdat ON de tooling die 
+gebruikt wordt ook kan testen op dit soort data.
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 2 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+7 EMVI criteria is onder 1.2 dataset
+Vraag:
+In de EMVI criteria is onder 1.2 opgenomen dat niet alle datasets geschikt 
+zijn om screening mee te verrichten. We gaan ervan uit dat in de studie van 
+KWR hier ook ervaring mee is opgedaan. Zal deze informatie ook worden 
+ontsloten bij de rapportage om een level playing field te garanderen?
+Antwoord:
+Ja, de eindrapportage wordt gedeeld. Hierin staat beschreven waar datasets 
+aan moeten voldoen om de data-analyse mee te kunnen uitvoeren.
+Beantwoord op: 30-05-2022
+Label: Proces
+Ref.nr. Onderwerp:
+8 EMVI criteria is onder 3.1 reizen
+Vraag:
+In de EMVI criteria is onder 3.1 een criterium opgenomen voor CO2 
+reductie. Daarin wordt gesproken over reizen naar besprekingslocaties en 
+bezoekstrategie waarbij bespreeklocaties die met fiets of te voet bereikbaar 
+zijn het hoogst worden gewaardeerd. Een inschrijver die een kantoor dicht 
+bij het kantoor van Rijkswaterstaat heeft, heeft daardoor meer kans op een 
+hoge score. De nabijheid van een kantoor is ons inziens geen indicator voor 
+een kwalitatief goede opdracht. Toeval wil ook nog eens dat de partij die het 
+voorwerk heeft gedaan in deze studie, en inhoudelijk dus al een voorsprong 
+heeft, is gevestigd is op fietsafstand van het kantoor van Rijkswaterstaat in 
+Utrecht. Dit geeft deze partij nogmaals een voorsprong. We vinden dit 
+bezwaarlijk. Ons voorstel is om de score voor OV en elektrische auto 
+vergelijkbaar te maken aan de score voor fietsen, steppen en wandelen.
+Antwoord:
+Op de eerste plaats wenst de aanbesteder bij opdrachten gaandeweg meer 
+ruimte te maken voor duurzaamheid. Aangezien er bij deze opdracht vele 
+overleggen plaatsvinden die in veel gevallen fysiek of hybride (i.e. 
+combinatie fysiek en digitaal) zullen zijn, is ervoor gekozen om dit 
+onderwerp een relevante plaats te laten innemen bij de beoordeling van de 
+inschrijvingen.
+Daarbij is het niet de bedoeling om dwingend op te treden en te bepalen 
+waar overleggen plaatsvinden. De locatie(s) van overleggen staat/staan dus 
+vrij en dat betekent dat de partij die het voorwerk heeft gedaan, niet per 
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 3 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+definitie een voorsprong heeft.
+Op de tweede plaats heeft de aanbesteder bij het antwoord op vraag 4 
+aangegeven dat de voorsprong van de partij die het voorwerk heeft gedaan 
+wordt geneutraliseerd door de relevante informatie beschikbaar te stellen.
+Beantwoord op: 30-05-2022
+Label: Proces
+Ref.nr. Onderwerp:
+9 MVI criteria is onder 3.1 CO2
+Vraag:
+n de EMVI criteria is onder 3.1 een criterium opgenomen voor CO2 
+reductie. Daarin wordt gesproken over reizen naar besprekingslocaties en 
+bezoekstrategie. Kunnen we ervan uit gaan dat de standplaats van de RWS 
+medewerkers Utrecht is?
+Antwoord:
+Zie het antwoord op vraag 8 en op vraag 10. De standplaatsen van alle 
+deelnemers aan de overleggen zijn wisselend.
+Beantwoord op: 30-05-2022
+Label: Proces
+Ref.nr. Onderwerp:
+10 EMVI criteria is onder 3.1
+Vraag:
+In de EMVI criteria is onder 3.1 een criterium opgenomen voor CO2 
+reductie. Daarin wordt gesproken over reizen naar besprekingslocaties en 
+bezoekstrategie. Geldt deze bepaling voor alle deelnemers van overleggen? 
+Dit vragen we omdat de selectie van deelnemende waterbeheerders nog moet 
+worden gemaakt en hun reisafstand mogelijkheden tot besprekingslocaties 
+nog niet te bepalen valt. Kunnen we ons voor de bezoekstrategie richten op 
+RWS en ons bureau? Als we wel alle deelnemers moeten meenemen, hoe 
+stelt u voor dat we omgaan met het feit dat we niet weten wie deze partijen 
+zijn.
+Antwoord:
+Het is redelijk goed in te schatten wie aan de overleggen zullen deelnemen. 
+In de Bijlage K Vraagspecificatie is daar al aandacht aan besteed, echter 
+voor de helderheid volgt hier nogmaals de (globale) opsomming (volgens de 
+posten van Bijlage I Staat van Tarieven en prijzen):
+1. Post 10; vast aantal van 4 overleggen (hybride) WP1 met RWS en HWL 
+voor respectievelijk LRMS- en HRMS-data, elk twee overleggen
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 4 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+2. Post 11; vast aantal van 3 overleggen met de BC voor WP1. Deelnemers 
+van de BC zijn uiteengezet in voetnoot 5 op bladzijde 7 van Bijlage K 
+Vraagspecificatie en voor WP1 zijn dat twee vertegenwoordigers van 
+DGWB, drie vertegenwoordigers van RWS, één vertegenwoordiger van ILT, 
+één vertegenwoordiger van drinkwaterlaboratoria, één vertegenwoordiger 
+van waterschapslaboratoria één vertegenwoordiger van RIWA (tevens 
+voorzitter).
+3. Post 12; de deelnemers aan de workshop (hybride) betreffen dezelfde 
+personen als in de BC, aangevuld met mensen uit de werkgroep aanpak 
+Opkomende stoffen (dat betekent dat het gaat om de mensen uit de BC 
+aangevuld met nog één vertegenwoordiger van DGWB en nog één 
+vertegenwoordiger van een waterschap)
+4. Post 16; vast aantal van 4 overleggen (hybride) WP2, waaronder twee 
+overleggen over de visie op de features (samen met de stakeholders volgens 
+‘voetnoot 5’ en zoals hierboven vermeld als deelnemers van de BC voor 
+WP1) en elk één overleg voor de twee visiedocumenten over respectievelijk 
+het proces voor toekomstige data-analyses in reguliere (chemische) 
+meetnetten (samen met stakeholders volgens voetnoot 5 en zoals hierboven 
+vermeld als deelnemers van de BC voor WP1) en het handelingsperspectief 
+(RWS en DGWB)
+5. Post 17; vast aantal van 3 overleggen WP2 met de BC volgens voetnoot 5 
+en voor WP2 zijn dat dezelfde als voor WP1
+6. Post 18; de deelnemers aan de workshop (hybride) betreffen dezelfde als 
+bij post 12
+7. Post 19; de deelnemers betreffen ten hoogste 24 maal die van RWS en 12 
+maal RWS met DGWB. De overleggen met RWS hiervan kunnen digitaal 
+plaatsvinden (zie PM003A op bladzijde 17 van Bijlage K Vraagspecificatie)
+8. Post 21; ten hoogste 3 maal overleg met de werkgroep Opkomende 
+stoffen, waarvan het de deelnemers betreffen van post 12 (zie het antwoord 
+bij 3)
+Beantwoord op: 30-05-2022
+Label: Proces
+Ref.nr. Onderwerp:
+12 Bijlage K Vraagspecificatie par 1.3.3 pag 11
+Vraag:
+"In beide gevallen is de Opdrachtnemer verantwoordelijk voor het 
+verzamelen van zowel de LRMS en de HRMS data." Kunnen we er van 
+uitgaan dat deze data reeds is ingewonnen (monstername + LRMS / HRMS 
+analyse)? Of valt de inwinning van de data binnen scope van de opdracht? In 
+hoeverre moeten we daarmee rekening houden in ons budget?
+Antwoord:
+Onder ‘verzameling’ wordt inderdaad niet de inwinning verstaan.
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 5 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+13 Bijlage K Vraagspecificatie par 1.3.3 pag 10
+Vraag:
+"Uiteindelijk dienen de data te worden aangeboden via Waterinfo Extra." 
+We gaan er van uit dat het overeen te komen "acceptabel data format" 
+daarvoor volstaat en dat er geen extra inspanning is vereist om de data 
+geschikt te maken voor Waterinfo Extra. Is dat correct?
+Antwoord:
+Ja, dat is correct.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+14 Bijlage K Vraagspecificatie par 1.3.3 pag 10
+Vraag:
+De tooling is ontwikkeld in R. In Python zijn vergelijkbare packages 
+beschikbaar. Is het toegestaan om de tooling geheel of gedeeltelijk om te 
+schrijven naar Python?
+Antwoord:
+Ja, dat is akkoord.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+15 Bijlage K Vraagspecificatie par 1.3.3 pag 10
+Vraag:
+Bij welk product uit hst 3 moet de verbeterde tooling worden opgeleverd? 
+Welke eisen gelden voor de oplevering van de tooling?
+Antwoord:
+Dat dient als resultaat van WP1 plaats te vinden, tenzij dat onderdeel van de 
+verbeterde tooling bij de duiding volgens WP2 behoort. Dan vindt 
+oplevering van dat gedeelte van de tooling bij WP2 plaats en voor het 
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 6 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+overige bij WP1.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+16 Bijlage K Vraagspecificatie par 1.3.3 pag 10
+Vraag:
+"""Gaandeweg dient de gebruikte tooling te worden bewaard en eventueel 
+verbeterd. De (verbeterde) tooling wordt in eerste instantie bij 
+Rijkswaterstaat ondergebracht."" In hst 3 (Te leveren diensten en/of 
+producten) wordt de tooling niet genoemd. 
+Kunt u aangeven wat u precies van opdrachtnemer verwacht ten aanzien van 
+het bewaren en verbeteren van de tooling? Wat bedoelt u met het 
+onderbrengen van tooling bij RWS? "
+Antwoord:
+Het gaat er om dat de gebruikte tooling (scripts bijvoorbeeld) met alle 
+betrokkenen wordt gedeeld en openbaar beschikbaar komt. Na afloop van de 
+opdracht zal in eerste instantie RWS verantwoordelijk zijn voor deze tooling 
+en als aanspreekpunt dienen voor vragen naar aanleiding van het gebruik van 
+de tooling.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+17 Bijlage K Vraagspecificatie par 1.3.2 pag 8
+Vraag:
+"Verzamelde data dient structureel te worden opgeslagen. Opdrachtnemer 
+neemt hiervoor contact op met opdrachtgever om te komen tot een 
+acceptabel data format." Bij welk product uit hst 3 moet de verzamelde data 
+worden opgeleverd? Welke eisen gelden voor de data?
+Antwoord:
+De verzamelde data moet worden opgeleverd bij WP1 en WP2. Het is de 
+bedoeling dat de opgeleverde data in één format voor LR data worden 
+opgeslagen en één format voor HR worden opgeslagen.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 7 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+18 Bijlage K Vraagspecificatie par 1.3.2 pag 8
+Vraag:
+In werkpakket 1 wordt een stakeholdersanalyse gevraagd. De groep 
+stakeholders is niet helder afgebakend. Kunt u aangeven welke stakeholders 
+volgens u betrokken moeten worden in deze analyse?
+Antwoord:
+Zie het antwoord op vraag 10.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+19 Bijlage K Vraagspecificatie par 1.3.2 pag 8
+Vraag:
+Werkpakket 1: Hoeveel LRMS / HRMS data bestanden zijn er beschikbaar? 
+Welk dataformat hebben de bestanden?
+Antwoord:
+OG verwacht dat er met net zoveel bestanden gewerkt gaat worden als in de 
+eerdere werkzaamheden. OG verwijst hierbij naar de eindrapportage van 
+deze eerdere werkzaamheden. Ook voor het dataformat wordt naar deze 
+eindrapportage verwezen, veelal gaat het om ‘Qxmax’ bestanden.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Ref.nr. Onderwerp:
+20 Bijlage K Vraagspecificatie par 1.2.1 pag 5
+Vraag:
+In de inleiding staat dat LRMS = GCMS en HRMS = LCMS. Oftewel 
+gaschromatografie is lage resolutie, vloeistofchromatografie is hoge 
+resolutie. In voetnoot 3 (op pag 6) staat echter dat HRMS zowel met 
+vloeistof- als gaschromatografie kan. Kunt u dit verhelderen?
+Antwoord:
+Natuurlijk kan ook na scheiding via GC de detectie via hoge resolutie 
+plaatsvinden. In het huidige project wordt echter gewerkt met GC en lage 
+resolutie MS als detectie. Het is inderdaad wat verwarrend opgeschreven.
+Beantwoord op: 30-05-2022
+Label: Inhoud
+Nota van inlichtingen Data-analyses op Hoge Resolutie en Lage Resolutie data, alsmede 
+duiding en rapportage
+Pagina 8 van 8 Datum genereren nota van inlichtingen: 30-05-2022
+Ref.nr. Onderwerp:
+21 ARVODI-2018 artikel 26.2
+Vraag:
+Uit artikel 26.2 ARVODI-2018 vloeit voort dat Opdrachtnemer op verzoek 
+van Opdrachtgever onverwijld (een gewaarmerkt afschrift van) de polissen 
+en de bewijzen van premiebetaling ter zake van de verzekeringen dan wel 
+een verklaring van de verzekeraar betreffende het bestaan van deze 
+verzekeringen en het betaald zijn van de premie dient te overleggen. Vanuit 
+concurrentieoverwegingen verstrekken wij geen inzage in onze polissen. Er 
+zijn kopieën van verzekeringscertificaten beschikbaar, waarin wordt 
+aangetoond dat aan de verzekeringsvereisten wordt voldaan. Kan worden 
+volstaan met het overleggen van een kopie van een verzekeringscertificaat?
+Antwoord:
+Mocht de Opdrachtgever daaraan behoefte hebben, dan is dat akkoord.
+Beantwoord op: 30-05-2022
+Label: Juridisch
+Ref.nr. Onderwerp:
+22 ARVODI-2018 artikel 19
+Vraag:
+Conform artikel 19 ARVODI-2018 kan de opdrachtgever een 
+kredietinstellingsgarantie ‘op afroep’ verlangen, hetgeen extra kosten met 
+zich meebrengt voor opdrachtnemer en dus in de prijsstelling meegenomen 
+moet worden. Bent u van plan een kredietinstellingsgarantie ‘op afroep’ te 
+verlangen?
+Antwoord:
+Neen. In 6.3 van Bijlage L (concept Overeenkomst) is overigens vermeld dat 
+artikel 19 van de ARVODI-2018 niet van toepassing is.
+Beantwoord op: 30-05-2022
+Label: Juridisch
+
+=== Document: 403817_eindrapportage_definitief ===
+KWR 2022.053 | May 2022 
+Final report HRMS 
+data science PoC 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 1 
+Report 
+Final report HRMS data science PoC 
+KWR 2022.053 | May 2022 
+ 
+Project number 
+403817/001 
+Project manager 
+ing. Ton van Leerdam 
+Client 
+Rijkswaterstaat 
+Author(s) 
+Dr. Frederic Béen, Nienke Meekel MSc 
+Quality Assurance 
+dr. Peter van Thienen, Erik Emke BSc 
+Sent to 
+Marcel Kotte 
+ 
+This report is not a public document and is only provided to the client. KWR will refrain from distributing this report outside the client 
+organisation and will therefore not provide the report to third parties, unless KWR and the client agree otherwise. The client is entitled 
+to distribute the report subject to KWR's prior consent. KWR may attach conditions to consent to the dissemination of (parts of) the 
+report. 
+Procedures, calculation models, techniques, designs of trial installations, prototypes and proposals and ideas put forward by KWR, as 
+well as instruments, including software, that are included in research results are and remain the property of KWR. 
+Keywords 
+mass spectrometry, trend analysis 
+Year of publishing 
+2022 
+ 
+More information 
+Dr. Frederic Béen 
+T +31 30 606 9748 
+E frederic.been@kwrwater.nl 
+PO Box 1072 
+3430 BB Nieuwegein 
+The Netherlands 
+ 
+T +31 (0)30 60 69 511 
+E info@kwrwater.nl 
+I www.kwrwater.nl 
+ 
+ 
+May 2022 © 
+All rights reserved by KWR. No part of this publication may be 
+reproduced, stored in an automatic database, or transmitted in 
+any form or by any means, be it electronic, mechanical, by 
+photocopying, recording, or otherwise, without the prior 
+written permission of KWR. 
+ 
+ 
+KWR 2022.053 | Mei 2022  Final report HRMS data science PoC 2 
+Managementsamenvatting 
+Proof of Concept voor analyse bestaande data uit verschillende water monitoring 
+programma’s – praktijkgebruik kan starten 
+ 
+Auteur(s)  Dr. Frederic Béen, Nienke Meekel MSc. 
+In opdracht van Rijkswaterstaat heeft KWR onderzoek gedaan naar de analyse van databestanden uit verschillende 
+meetinstrumenten en – programma’s voor onderzoek van watermonsters. Daarvoor is een eenduidige, schaalbare 
+en overdraagbare workflow ontwikkeld. Er zijn nu twee proofs of concept of PoC’s: een voor hoge-resolutie-data en 
+een voor lage-resolutie-data, waarmee data-analisten (na een uitgebreide demonstratie) nu al bestaande gegevens 
+kunnen analyseren om nieuwe opkomende verontreinigingen op te sporen en te identificeren.  
+  
+ 
+Belang: meer inzicht in de aanwezigheid van 
+onbekende stoffen 
+Steeds vaker en op steeds grotere schaal worden 
+monsters uit het aquatische milieu gescreend, vooral 
+om probleemstoffen op te sporen, maar ook om de 
+aanwezigheid van nog onbekende stoffen te 
+detecteren. Rijkswaterstaat en andere partijen 
+hebben daarvoor specifieke meetprogramma’s 
+opgezet. De gegevens worden bewaard en er bestaat 
+een behoefte om deze verder te analyseren. De data 
+kunnen bijvoorbeeld meer inzicht geven in de 
+aanwezigheid van onbekende stoffen in 
+(oppervlakte)water dan uit de individuele metingen 
+voortkomt. 
+Doel: Proof of Concept (PoC) voor uitgebreide data-
+analyse 
+In opdracht van Rijkswaterstaat heeft KWR 
+onderzoek gedaan naar de analyse van 
+databestanden uit verschillende meetinstrumenten 
+en – programma’s, met het doel een proof of 
+concept te leveren voor de analyse van 
+chromatografische en massaspectrometrische 
+gegevens. De nadruk moest daarbij liggen op het 
+ontwikkelen van een strategie die het mogelijk maakt 
+chemische signalen (features) voorlopig te 
+identificeren en relevante (voorheen onbekende) 
+features te detecteren in tijd en plaats. Dit draagt bij 
+aan de detectie van calamiteiten en van opkomende 
+stoffen die geen onderdeel zijn van reguliere 
+monitoring.  
+Aanpak: benaderingen voor hoge- en lage-
+resolutie-data 
+Er zijn twee benaderingen toegepast en dus twee 
+PoC’s opgesteld: een voor zogenaamde lage-
+resolutie massaspectrometriegegevens (SPE-GC-MS, 
+een veelgebruikte bewakingstechniek) en een 
+tweede voor hoge-resolutie 
+massaspectrometriegegevens (LC-HRMS, een 
+opkomende techniek die SPE-GC-MS potentieel kan 
+(deels) gaan vervangen). Dit was nodig wegens de 
+verschillen tussen lage- en hoge-resolutiegegevens. 
+Zo ontstonden twee PoC’s, die een algemene 
+gemeenschappelijke strategie delen, beide 
+ontwikkeld volgens een stapsgewijze aanpak:  
+(i) invoer en filteren van de gegevens,  
+(ii) normalisatie,  
+(iii) verkennende analyse,  
+(iv) identificatie,  
+(v) validatie en  
+(vi) rapportage. 
+  
+
+ 
+Jaar van publicatie 
+2022 
+ 
+Meer informatie 
+Dr. Frederic Béen  
+T +31 (0)30 606 97048 
+E Frederic.Been@kwrwater.nl 
+Keywords 
+mass spectrometry, trend analysis 
+PO Box 1072 
+3430 BB Nieuwegein 
+The Netherlands 
+ 
+T +31 (0)30 60 69 511 
+E info@kwrwater.nl 
+I www.kwrwater.nl 
+ 
+ 
+Mei 2022 © 
+Alle rechten voorbehouden aan KWR. Niets uit deze uitgave mag - 
+zonder voorafgaande schriftelijke toestemming van KWR - worden 
+verveelvoudigd, opgeslagen in een geautomatiseerd 
+gegevensbestand, of openbaar gemaakt, in enige vorm of op enige 
+wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen, of 
+enig andere manier. 
+ 
+KWR 2022.053 | Mei 2022  Final report HRMS data science PoC 2 
+Resultaten: twee PoC’s voor verkennende analyse 
+en trendanalyse van onbekende stoffen in water 
+Met de PoC’s voor respectievelijk hoge- en lage-
+resolutie-data kunnen gebruikers gegevens 
+verwerken volgens een eenduidige, schaalbare en 
+overdraagbare workflow. Zij krijgen hulp bij de 
+selectie (prioritering) en identificatie van relevante 
+features. Deze twee PoC’s vormen een eerste 
+platform dat kan worden aangepast en uitgebreid op 
+basis van feedback van gebruikers en hun specifieke 
+behoeften/vragen. Inzet in de praktijk kan worden 
+gebruikt om de praktische haalbaarheid van dit data 
+analyseconcept te bepalen. 
+Beide ontwikkelde methodes zorgen ervoor dat 
+meerdere metingen met elkaar vergeleken kunnen 
+worden. Met verschillende statistische technieken 
+(o.a. PCA, HCA) worden metingen gegroepeerd en 
+kunnen afwijkende monsters worden gedetecteerd. 
+Met behulp van trendanalyses kunnen onbekende 
+stoffen die over de tijd toe- of afnemen worden 
+geprioriteerd. Vervolgens kunnen de geprioriteerde 
+stoffen voorlopig geïdentificeerd worden door het 
+massaspectrum te screenen met verschillende 
+databases. Zo is het mogelijk incidentele calamiteiten 
+en trends te traceren.   
+ 
+Toepassing: in de praktijk testen; aanbevelingen 
+De ontwikkelde PoC’s vormen een eerste stap in de 
+richting van de toepassing van de analyse van data 
+uit verschillende meetprogramma’s of -systemen. 
+Beide open source methoden zijn gepresenteerd 
+tijdens een afsluitende demo. Na een uitgebreide 
+demonstratie kunnen data-analisten de PoC’s in hun 
+huidige staat van ontwikkeling gebruiken om 
+bestaande gegevens te analyseren om nieuwe 
+opkomende verontreinigingen op te sporen en te 
+identificeren. In een volgende stap kunnen 
+gebruikers de ontwikkelde strategieën testen, 
+ervaring opdoen en feedback geven, zodat de 
+werkwijze verder kan worden verbeterd. 
+Tijdens de ontwikkeling van de PoC’s zijn diverse 
+aanbevelingen geformuleerd die de implementatie 
+van deze aanpak kunnen bevorderen. Voor SPE-
+GC/MS data betreft dit voornamelijk het uitvoeren 
+van blanco metingen en metingen in triplo. Voor LC-
+HRMS data betreft dit voornamelijk een hogere 
+frequentie (meer monsters in de tijd), zodat 
+eventuele trends eenvoudiger te detecteren zijn: een 
+hogere meetfrequentie maakt de gegevensanalyse 
+over het algemeen robuuster.  
+Rapport 
+Dit onderzoek is beschreven in het rapport Final 
+report HRMS data science PoC (KWR 2022.053).  
+  
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 2 
+Management summary 
+Proof of Concept for analysis of existing data from different water monitoring programs 
+– practical use can start 
+ 
+Author(s)  Dr. Frederic Béen, Nienke Meekel MSc. 
+KWR was commissioned by Rijkswaterstaat to investigate possibilities to analyse data generated from different 
+analytical instruments and monitoring programs used to monitor water quality. For this purpose, a uniform, 
+scalable and transferable workflow was developed. Two poofs of concept or PoCs were developed: one for high-
+resolution data and one for low-resolution data, which allow data analysts (after an extensive demonstration) to 
+analyse existing data to detect and identify new emerging contaminants.  
+  
+ 
+Importance: more insight into the presence of 
+unknown substances 
+Samples from the aquatic environment are being 
+screened more often and on a larger scale, mainly to 
+detect problematic substances, but also to detect the 
+presence of previously unknown substances. 
+Rijkswaterstaat and other parties have set up specific 
+monitoring programs for this purpose. The generated 
+data are stored and there is a need to further analyse 
+it. This data can, for example, provide more insight 
+into the presence of unknown substances in (surface) 
+water than can be obtained from individual 
+measurements. 
+ 
+Goal: Proof of Concept (PoC) for comprehensive 
+data analysis 
+KWR was commissioned by Rijkswaterstaat to 
+conduct research into the analysis of data from 
+various instruments and monitoring programs, with 
+the aim of delivering a proof of concept for the 
+analysis of chromatographic and mass spectrometric 
+data. The focus was to develop a strategy that makes 
+it possible to tentatively identify chemical signals 
+(features) and to detect relevant (previously 
+unknown) features based on their spatial and 
+temporal occurrence. This contributes to the 
+detection of calamities and of emerging substances 
+that are not part of regular monitoring.  
+ 
+Approach: workflows for high- and low-resolution 
+data 
+Two approaches have been used and thus two PoCs 
+were developed: one for so-called low-resolution 
+mass spectrometry data (SPE-GC-MS, a widely used 
+monitoring technique) and a second one for high-
+resolution mass spectrometry data (LC-HRMS, an 
+emerging technique that could potentially (partly) 
+replace SPE-GC-MS). This was necessary because of 
+the differences between low and high-resolution 
+data. Thus, two PoCs were developed, sharing a 
+general common strategy, both based on a stepwise 
+approach:  
+(i) input and filtering of the data,  
+(ii) normalisation,  
+(iii) exploratory analysis,  
+(iv) identification,  
+(v) validation and  
+(vi) reporting. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Year of publication 
+2022 
+ 
+More information 
+Dr. Frederic Béen  
+T +31 (0)30 606 97048 
+E Frederic.Been@kwrwater.nl 
+Keywords 
+mass spectrometry, trend analysis 
+PO Box 1072 
+3430 BB Nieuwegein 
+The Netherlands 
+ 
+T +31 (0)30 60 69 511 
+E info@kwrwater.nl 
+I www.kwrwater.nl 
+ 
+ 
+May 2022 © 
+All rights reserved by KWR. No part of this publication may be 
+reproduced, stored in an automatic database, or transmitted in any 
+form or by any means, be it electronic, mechanical, by photocopying, 
+recording, or otherwise, without the prior written permission of KWR. 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 2 
+Results: two PoCs for exploratory analysis and 
+trend analysis of unknown compounds in water 
+With the PoCs for high- and low-resolution data 
+respectively, users can process combined data 
+according to a unified, scalable and transferable 
+workflow. They receive assistance in selecting 
+(prioritizing) and identifying relevant features. These 
+two PoCs form an initial platform that can be 
+adapted and extended based on users’ feedback and 
+their specific needs/questions. Implementation in 
+practice can be used to determine the practical 
+feasibility of this data analysis concept. 
+ 
+Both developed methods ensure that analysis results 
+can be compared. With various statistical techniques 
+(e.g. PCA, HCA), measurements are grouped and 
+deviating samples can be detected. Trend analyses 
+can be used to prioritise unknown substances that 
+increase or decrease over time. Subsequently, the 
+prioritised substances can be tentatively identified by 
+screening the mass spectrum with different 
+databases. This makes it possible to trace incidental 
+calamities and trends.   
+ 
+Application: testing in practice; recommendations 
+The developed PoCs are a first step towards the 
+application of the analysis of data from different 
+monitoring programs or instruments. Both open 
+source methods were presented during a closing 
+demo. After an extensive demonstration, data 
+analysts can use the PoCs in their current state of 
+development to analyse existing data to detect and 
+identify new emerging contaminants. In a next step, 
+users can test the developed strategies, gain 
+experience and provide feedback, so that the 
+method can be further improved. 
+During the development of the PoCs, several 
+recommendations were formulated that could 
+promote the implementation of this approach. For 
+SPE-GC/MS data, this mainly concerns performing 
+blank measurements and measurements in triplicate. 
+For LC-HRMS data, this mainly concerns a higher 
+frequency (more samples in time), so that potential 
+trends are easier to detect: a higher measurement 
+frequency generally makes the data analysis more 
+robust.  
+ 
+Report 
+This research is described in the report Final report 
+HRMS data science PoC (KWR 2022.053).  
+ 
+ 
+ 
+  
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 2 
+Contents 
+Report 1 
+Contents 2 
+List of abbreviations & terminology 4 
+1 Introduction 5 
+2 Low-resolution GC-MS analysis 6 
+2.1 Objective 6 
+2.2 GC-MS data 6 
+2.3 Data analysis strategy 6 
+2.3.1 Input and filtering 7 
+2.3.2 Normalisation 8 
+2.3.3 Exploratory analysis 11 
+2.3.4 Identification 15 
+2.3.5 Validation 15 
+2.4 Outcomes of the validation and recommendations for 
+using the PoC with low-resolution data 18 
+2.5 Recommendations for the improvement of the SPE-GC-
+MS method 19 
+2.6 Perspectives for future applications 19 
+3 High-resolution LC-HRMS analysis 21 
+3.1 Objective 21 
+3.2 LC-HRMS data 21 
+3.3 Data analysis strategy 22 
+3.4 (Pre)processing 22 
+3.4.1 Re-calibration 22 
+3.4.2 Feature detection and grouping 23 
+3.4.3 Noise removal and blank filtration 24 
+3.5 Data analysis 26 
+3.5.1 Principal component and hierarchical clustering 
+analysis 26 
+3.5.2 Outcomes and perspectives 28 
+3.6 Trend analysis 28 
+3.7 Outcomes of the validation and recommendations for 
+using the PoC with high-resolution data 30 
+3.8 Perspectives for future applications 31 
+4 Conclusion 32 
+5 Acknowledgements 32 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 3 
+6 References 33 
+I Process of PoC development 36 
+II Feedback from the Demo session 36 
+III Internal standards GC-MS analyses 36 
+IV Internal standards LC-HRMS analyses 37 
+V Overview of used packages 37 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 4 
+List of abbreviations & terminology 
+BPC   Base Peak Chromatogram 
+EI   Electron impact ionization 
+ESI   Electrospray ionization 
+Feature  Refers to each component or peak (i.e., ion) detected during the analysis and generally 
+consists of three parameters, namely its retention time (in minutes or seconds), its 
+intensity (i.e., the height or area of the chromatographic peak) and, in the case of high -
+resolution mass spectrometry, of its accurate mass. 
+GC-MS   Gas Chromatography-Mass Spectrometry 
+HCA   Hierarchical Clustering Analysis 
+HRMS    High Resolution Mass Spectrometry 
+HWL   Het Waterlaboratorium N.V. 
+IS   Internal standard 
+KWR   KWR Water Research Institute 
+LC-MS   Liquid Chromatography-Mass Spectrometry 
+MinIenW  Dutch Ministry of Infrastructure and Water Management 
+MSC   Multiplicative Scatter Correction 
+m/z   Mass-to-charge ratio  
+PCA   Principal Component Analysis 
+PoC   Proof of Concept 
+Rt   Retention time 
+Rt-index   Retention time normalised using IS 
+RWS   Rijkswaterstaat 
+SNV   Standard Normal Variate 
+SPE   Solid Phase Extraction 
+Spectral Similarity  A function, generally involving the calculation of the scalar product of two vec tors, used 
+to determine the similarity between two mass spectra.  
+TIC   Total Ion Chromatogram  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 5 
+1 Introduction 
+This project focused on developing a data analysis approach for Rijkswaterstaat (RWS) which can be applied to low - 
+and high-resolution mass spectrometry data collected using gas and liquid chromatography (GC -MS and LC-HRMS).  
+This project had two major goals with respect to the analysis of data: 
+ 
+(i) development of a strategy that allows to tentatively identify features (i.e., compounds detected during 
+the analysis, but which have not been formally identified yet using reference standards); 
+(ii) develop a data analysis strategy that allows to detect relevant (and previously unknown) features based 
+on relevant temporal and/or geographical patterns (e.g., increasing trends) and tentatively identify 
+them. 
+Two “proof of concept” (PoC s)1 workflows which achieve these goals were developed, one for low -resolution 
+(referred to as instruments which have a mass resolution between 0.5 and 1 Da, in this case GC-MS) and one for high-
+resolution (referred to as instruments with a higher mass resolution , in the mDa range, in this case LC-HRMS) mass 
+spectrometry data. In fact, as will be discussed in detail below, although similar approaches can be implemented, the 
+nature of low- and high-resolution data requires the development of distinct solutions. According to the tender call 
+and project proposal, the project consisted of 5 sequential steps, referred to as “iterations”, which are summarised 
+in Table 1. 
+ 
+Table 1: Overview of project phases as described in the initial project proposal.  
+Project phase/Part Main activities/outcomes Start date End date 
+1. Up to the first 
+iteration 
+• Inventory of data 
+• Overview of already available 
+strategies/methods/algorithms 
+• Define strategy for the workflow 
+Q2 2021 Q3 2021 
+2. During the first 
+iteration 
+• Workflow execution 
+• First iteration of data analysis Q3 2021 Q4 2021 
+3. During the second 
+iteration 
+• Extend data analysis 
+• Include temporal and spatial 
+component 
+• Data & requirements outside RWS 
+Q3 2021 Q4 2021 
+Go / No Go moment    
+4. During the third 
+iteration 
+• Further extend the data analysis 
+• Detection/identification and (ii) 
+prioritisation  
+• First description of the PoC 
+Q4 2021 Q4 2021 
+5. After the third 
+iteration • First complete and working PoC Q4 2021 Q4 2021 
+ 
+It should be noted that due to the circumstances, in particular the fact that high-resolution data was not initially 
+available and that it was decided to work on low -resolution data first, deviations were made from the iterations -
+based approach detailed in Table 1. Despite these changes, the overall strategy applied, and outputs remained in line 
+with the goals described above.   
+ 
+1 It should be noted that in the context of this work, terms such as proof of concept (PoC), workflow or data analysis strategy are used as synonyms, and 
+all refer to the development of a data analysis approach allowing to process and evaluate low- and high-resolution mass spectrometry data. Proof of 
+concept is being used as a term as this was also mentioned in the initial tender published by Rijkswaterstaat.  
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 6 
+2 Low-resolution GC-MS analysis 
+2.1 Objective 
+The PoC which was specifically deve loped for GC -MS data focused on the development of a strategy to import, 
+process and analyse data with the goal of detecting samples which deviate from normal patterns (e.g., calamities) 
+and the features which might be causing the observed deviation, as well as to (tentatively) identify them using existing 
+databases.  
+2.2 GC-MS data 
+The developed PoC for low-resolution GC-MS data relied on data collected from the monitoring stations of Bimmen 
+and Lobith ( located along the river Rhine). Both locations are equipp ed with an online solid -phase extraction  
+(SPE-)GC-MS instrument. Water samples are collected over 12 hours (composite) and then an aliquot is extracted 
+with SPE and analysed. Prior to analysis, samples are spiked with 8 stable isotopically labelled internal standards (IS), 
+which are used for quantification and quality control . These play an important role in the development of the PoC 
+(see Annex III for a list of the used internal standards). It should be noted that, for unknown reasons, not all internal 
+standards could always be found in the chromatograms. Consequently, there are instances in which the PoC was 
+implemented using a selection of IS . Furthermore, solvent or procedural blanks (i.e., including of the SPE system) 
+were not available. As will be discussed further, this has important im plications for the developed strategies and 
+should be included in future. 
+2.3 Data analysis strategy 
+A multi-step strategy was developed for the processing and analysis of the data. This approach is based on commonly 
+implemented strategies used to process and analyse large amounts of mass spectrometry data (1,2). An overview of 
+the approach is illustrated in Figure 1. The various steps are described in more detail in the following paragraphs. The 
+entire data analysis strategy described in this rep ort was developed using  R 4.0.2 (R Core Team, 2020)  and  
+RStudio (3) and several packages, which are described in Annex V.   
+ 
+Data analysis in mass spectrometry commonly uses the term “feature” which is used to refer to ions (i.e., molecules) 
+detected during the analysis. A feature generally consists of three elements, namely its chromat ographic retention 
+time (Rt), its intensity (either peak area or height) and, in the case of HRMS instruments, its accurate mass.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 7 
+ 
+Figure 1: Overview of the data analysis strategy. PCA = principal component analysis; HCA = hierarchical cluster analysis 
+2.3.1 Input and filtering 
+The first step consisted of selecting relevant chromatograms from the large amount of data available. In fact, given 
+that data is collected with an online system, not all recorded chromatograms are relevant  (i.e., some of the data 
+refers to calibration standards, controls, etc . which are not relevant for the development of the PoC) . For filtering 
+purposes, KWR uses the “Qxmax file ”, an inventory of all analyses done by the instrument and which allows to 
+distinguish samples from other (not relevant) data files.   
+Data was imported using the  R-package Rawrr (4), which has been developed to import and read .raw files created 
+by instruments of the brand Thermo Fisher Scientific (brand of the online GC-MS system used by RWS). The package 
+is open source (as are all packages developed for RStudio). Alternative packages, such as XCMS (5) and enviGCMS (6), 
+are available for the import and (pre-)processing of data generated with instruments from other manufacturers. The 
+import and filtering steps were implemented in a fully functional R script that allows for raw online SPE-GC-MS data 
+to be imported and converted into a format that can be used in RStudio. Below, an example of a  chromatogram 
+imported with the Rawrr package is illustrated (Total Ion Chromatogram (TIC; left) and base peak plot (BPC, right)), 
+which were visualized using the developed script in RStudio (see Figure 2). 
+ 
+1. Input & 
+filtering
+•Selection criteria
+•Quality
+2. 
+Normalisation 
+•Retention time (Rt) 
+correction
+•Blanks
+•Normalisation (IS)
+3. Exploratory
+analysis
+•Feature selection
+•PCA & HCA
+•Time series analysis
+4. Identification •Database research
+5. Validation 
+6. Reporting
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 8 
+ 
+Figure 2: Illustration of an imported chromatogram (TIC, left) and a base peak plot (right). The latter corresponds to the most intense ion (i.e., 
+m/z) detected at each point of the analysis. Both TIC and BPC have been made with the above-mentioned R-script and the Rawrr package.  
+2.3.2 Normalisation 
+Prior to data analysis, in particular to identify te mporal and/or geographical patterns, it is crucial to ensure that 
+variability in data is solely due to actual differences in sample composition and are not due to instrumental variability 
+(e.g., natural fluctuations in detector response, ageing of the chromatographic columns, maintenance). Although the 
+influence of external factors cannot be completely excluded, it is important to minimize it so that true patterns can 
+be detected. In the specific case of MS data (both low and high-resolution), two main factors caused by instrumental 
+variability can affect the results, namely changes in retention time (Rt) and intensity (or peak area).  In the case of 
+high-resolution data, deviations in the measurement of the accurate mass of detected features ( also referred to as 
+“mass drift”) is a third important instrumental factor which needs to be accounted for. In the specific case of low -
+resolution data, this is considered less of an issue as potential errors in measured masses are assumed to fall within 
+the accuracy of the instrument. Compared to high -resolution mass spectrometry, n ormalisation is more complex 
+when working with low -resolution data, in particular , because it lacks information about the accurate mass of the 
+detected features, which can be used to align chromatographic signals. In the case of low-resolution data, alignment 
+has to be applied to the whole signal (or Total Ion Chromatogram , TIC) before features can be selected for further 
+analysis. This is an important difference which substantially complicates the alignment process of low-resolution data.  
+ 
+2.3.2.1 Retention time correction 
+To correct for shifts in retention time (Rt), which can occur due to random variations caused by the chromatographic 
+separation, and ensure that only true differences in data are de tected, an approach based on the calculation of 
+retention time indexes was implemented (7). For this purpose, the retention times of internal standards (present in 
+each chromatogram) were retrieved and used to calculate Rt-indexes for all detected features. This is done using the 
+following formula (derived from the original approach developed by Kováts (7)): 
+ 
+𝑅𝑡𝑦 = 𝑅𝑡𝐴 + (𝑅𝑡𝐵 − 𝑅𝑡𝐴)
+(𝑅𝑡𝐵
+′ − 𝑅𝑡𝐴
+′ ) (𝑅𝑡𝑥 − 𝑅𝑡𝐴
+′ ) 
+ 
+where  𝑅𝑡𝑦 corresponds to the corrected rete ntion time, which is calculated from the original retention time ( 𝑅𝑡𝑥), 
+fixed retention times for the internal standards 𝑅𝑡𝐴 and 𝑅𝑡𝐵 (derived from a user defined reference chromatogram) 
+and the measured (actual) retention times from the internal s tandards 𝑅𝑡𝐴
+′  and 𝑅𝑡𝐵
+′ . This non-linear approach was 
+implemented per window, meaning that the Rt-index of each feature in the chromatogram was calculated using the 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 9 
+closest two internal standards (eluting left and right of the feature in question). Figure 3 illustrates the impact that  
+retention time correction has on a chromatogram.  
+Because this approach relies on the Rts of internal standards, these have to be obtained for each chromatogram. 
+However, due to the large amount of data available, this cannot be done manually. Hence, a dedicated algorithm was 
+developed, allowing to automatically retrieve the Rts of all internal standards in each chromatogram. The algorithm 
+relies on the specific MS-spectrum of the internal standard. In particular, a reference MS-spectrum, the expected Rt 
+of the internal standard and a Rt search window are defined by the operator. Based on the parameters provided by 
+the user, the algorithm uses a spectral similarity function (i.e., generally the scalar product, which allows to calculate 
+the similarity between two mass spectra)  to find which of the recorded spectra in the window matches the one 
+defined by the user.  
+ 
+ 
+Figure 3: Illustration of an original TIC (top) and a retention time corrected TIC (bottom) using the retention times of the internal standards. 
+ 
+In addition to this ad -hoc approach, KWR investigated the possibility of implementing alternative approaches to 
+correct for  retention time shifts, namely "step-wise alig nment" and "dynamic time warping" . However, when 
+compared to the IS-based approach, it becomes clear that the latter two approaches are less adequate. The reason 
+for this is that these approaches use a reference signal to correct for  retention time shifts and are less capable of 
+accounting for large shifts as the ones observed in the availab le data. These two alternative techniques are more 
+useful when chromatograms to be aligned have been measured in the same run  and are hence affected only by 
+limited Rt shifts, or in cases where no internal standards are available. However, the data which is being considered 
+here covers multiple years and observed  Rt shifts can be substantial (> 2 minutes for the same IS) and there is no 
+adequate reference signal to be used.  
+ 
+The use of K ováts retention time indexes is also an interesting alternative (7). This approach relies on the same 
+equation presented above but uses pre-defined alkanes as reference standards to calculate corrected Rt (instead of 
+mass labelled reference standards as implemented here). However, these reference alkanes need to be analysed at 
+regular intervals to determine their Rt , which is not part o f the method currently used by RWS to monitor water 
+quality in Bimmen and Lobith. For future analyses and optimisation of the SPE-GC-MS method, KWR strongly advises 
+RWS to include the measurement of refe rence alkanes at regular intervals, as the obtained Rt-indexes can also be 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 10 
+used for identification purposes. For the sole purpose of alignment, however, the use of alkanes has no added value 
+compared to the IS-based approach implemented here.  
+ 
+2.3.2.2 Intensity normalisation and baseline correction 
+The second step in the process comprises intensity normalisation and baseline correction. This step is important 
+because baseline shifts (i.e., changes in the overall intensity of a chromatogram) can occur due to the status of the 
+instrument, in particular column ageing and detector sensitivity, or the composition of the matrix. For this purpose, 
+various approaches have been implemented, such as standard normal variate  (SNV) and multiplicative scatter 
+correction (MSC). The former is a straightforward “centre and scale ” approach, while the latter uses a reference 
+chromatogram to correct for intensity and baseline shifts. However, as mentioned previously, the use of refe rence 
+signals in the context of this data might be problematic. These approaches were compared but none of the two 
+seemed to outperform the other. Therefore, both approaches were implemented in the PoC and it is advised to select 
+the best approach case by case, depending on the dataset and by testing the grouping/outpu ts obtained with each 
+approach. An example of an intensity normalised chromatogram is shown in Figure 4. 
+ 
+Figure 4: Illustration of a TIC (top) and a binned and MSC corrected TIC (bottom). 
+ 
+In addition to intensity normalisation, it is also important to take into account potential baseline shifts. For this, 
+various algorithms have been developed which rely on polynomial fitting or weighted local smoothers (8). These were 
+tested, combined with the different intensity corrections. Results showed that these did not have large effects on 
+the datasets used  here. However, all algorithms mentioned have be en included in the PoC in order to let the user 
+decide whether to apply them or not, depending on the nature of the data and the outcomes of the exploratory 
+analysis (see 2.3.3). In particular, their effect on the grouping and calamity detection should be used to select the 
+most appropriate technique.  
+ 
+2.3.2.3 Flow normalisation 
+Intensities of detected features are also dependent on the water flow rate (volume per unit of time) at the sampling 
+points, which can cause decreases (dilution during wet seasons) or increases (concentration during dry seasons) in 
+the concentration of chemicals in the collected samples. In the context of this work, it was not possible to include 
+flow data due to time restrictions. However, these should be included in future updates of the developed approach 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 11 
+as they can improve the interpretation of the data and, in particular, help detect the occurrence of calamities or 
+interpret temporal changes. Ideally , mean 12h flow s should be included as this  corresponds to the sampling 
+frequency used in this particular case . Finally, the collected samples should be 12h flow - or volume -proportional 
+composites, to account for changes in flows during the sampling period. Nevertheless, in an ideal case, the operator 
+would evaluate raw concentrations, mass loads and flows to determine whether the observed trends are due to an 
+actual increase in a given feature, for instance, or whether their due to changes in flow rates and/or seasonal effects 
+(e.g., increased used of certain compounds during a specific season). 
+ 
+2.3.2.4 Data pre-processing and transformation 
+Depending on the type of data and application, additional pre-processing might be necessary to further optimise the 
+detection of specific patterns during the exploratory data analysis (point 3 of the established strategy shown in Figure 
+1). For this purpose, various steps were considered , suc h as smoothing using a Savitzky–Golay filte r, which is 
+commonly used in signal processing to smoothen data, followed by data transformation  to 1 st or higher-order 
+derivatives (9). The selection of the most appropriate pre -processing technique is generally done using a cross -
+validation approach, in particular if the goal is to classify samples based on similarities in the chemical profile (e.g., 
+chromatographic and mass spectrometric data). However, in this case, no prior knowledge about groups is available 
+and the selection of the most appropriate pre -processing technique was done based on the detection of known 
+calamities (see 2.3.5 for more details about this point). Based on the outcomes of the validation step, it was decided 
+to implement all pre-processing techniques in the PoC in order to let the user decide what pre-processing techniques 
+suit the dataset best. For example, if the main interest goes out to compounds at low concentrations, or low ionisable 
+compounds, smoothing might not be suitable since this will smoothen out these peaks. 
+ 
+2.3.3 Exploratory analysis 
+2.3.3.1 Principal component and hierarchical cluster analysis 
+Exploratory data analysis is focused on the application of various pattern recognition algorithms to identify features 
+of interest . Principal component analysis (PCA) and hierarchical cluster analysis (HCA) are two commonly us ed 
+approaches to reduce data dimensionality and facilitate the detection of groups based on underlying patterns in the 
+chemical signal (in this case their chromatographic and mass spectrometric profile). These visualization steps help to 
+interpret the data. A more detailed explanation about PCA and HCA is given in box below. In this context, the idea of 
+using these algorithms is that they create groups/clusters among a large set of samples , highlighting in particular 
+outliers (e.g., calamities), and they he lp determine which feature(s) is/are causing the differentiation. The latter 
+features are then selected for further analysis and eventual identification. The advantage of these two methods, and 
+of other unsupervised algorithms, is that they do not require any prior information about the data and are hence 
+ideal to detect unknown or unexpected patterns in datasets.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 12 
+ 
+Principal Component Analysis (PCA). PCA is data a technique to reduce data dimensionality and can be used to 
+visualize large datasets and their patterns. In fact, analytical instruments (e.g., mass spectrometry, infrared 
+spectroscopy) often measure a large number of variables (e.g., the intensity of masses ranging from 30 to 330 m/z 
+as is the case here), which are difficul t to visualise in a 2 or 3 dimensional space. PCA is used to do just that, namely 
+to reduce the number of dimensions and be able to visualise the data using only few dimensions (referred to as 
+Principal Components (PCs)) and determine whether groups (i.e., samples characterised by similar chemical signals) 
+are present in the data. PCs are calculated by linear combinations of the original data and are supposed to capture 
+as much as possible of the variance in the original dataset. A PCA biplot (see the example figure below) shows clusters 
+of samples based on their similarity, so if a sample is far away from the others, it has distinct properties (i.e., chemical 
+signal, such as a mass spectrum or a chromatographic profile). If samples are close to each other, they have similar 
+properties. Samples with deviating peaks like calamities or emerging substances are expected to form separate 
+groups. Features/peaks that are responsible for these grouping can be examined further, using loadings. The higher 
+the loading, the more important this variable (in this case a feature or a peak) is for the group.  A biplot is a way of 
+visualizing PCA results, as shown in the figure below. The x - and y -axis represent the first two PCs, i.e. the two 
+directions that cover the largest  amount of information of the data. Samples are represented by dots and the 
+different colours indicate the group to which each sample belongs. The blue lines represent the loadings of the data 
+set, so the different variables and what effect they have on the distribution of the data. 
+ 
+ 
+Figure 5: Biplot figure in the box obtained from (10) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 13 
+ 
+ 
+Hierarchical Cluster Analysis (HCA). HCA can be used in addition or as alternative to PCA. It is a different technique 
+but the goal remains the same: identifying groups and subsequently identification of the variables (in this case 
+features or peaks) that cause the group ing. Samples are grouped based on similarities among them and no 
+dimensionality reduction takes place, in contrast to PCA. Samples with deviating peaks will be grouped separately, 
+like in PCA. The results can be visualized using a heatmap, as shown in the figure below.  In this example, the x axis 
+represents the different variables (in the context if this work that would correspond to the features and the colouring 
+would reflect their intensity), the y -axis represents the different samples. Both dendrograms  on top and at the left 
+visualize the results of the cluster analysis, namely which samples belong to the same group (which can be 
+determined when looking at the left dendrogram) and which features belong to the same group (which can be 
+determined by obser ving the dendrogram on the top). Each time there is a split in the dendrogram, two separate 
+groups are formed. The higher the splitting, the larger the differences between groups. In the example below, for 
+instance, the first two samples (marked in green o n the left side of the heatmap) are separated at a high level from 
+the rest of the samples, meaning that these are the most different samples compared to the rest. The next group 
+which can be separated are the samples marked in red, and so forth. This allo ws to determine which groups are 
+present in the data set. Then, by looking at which features (vertical lines) are abundant (or vice versa) in a specific 
+group, it is possible to determine which features are responsible for the separation. Going back to the  example of 
+the samples marked in green, one can clearly observe that features on the right side of the heatmap are particularly 
+abundant in this group. In fact, the colours represent the intensity (red = high, blue/green = low). 
+ 
+ 
+Figure 6: Heat map taken from (11) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 14 
+An example of the application of PCA to the data used in this project is shown in Figure 7. As can be seen, samples 
+(i.e., chromatograms) are plotted against the calcula ted value of the first two principal components (PCs). What is 
+immediately visible is that there are at least three samples (i.e., 180902_LOB_06, 180902_LOB18 and 
+180912_LOB_12) which are clearly separated from the rest. In addition to plotting the two PCs, it is possible to include 
+information about which features influence the observed separation the most. These are represented by the arrows 
+shown in Figure 7 (the number indicating the Rt of the feature in question). This plot hence allows the operator to 
+quickly identify if there are samples which strongly deviate from the rest and to get an idea of which features are 
+involved. In Section 2.3.5, a detailed explanation of how information can be derived from heatmaps/HCA is provided.  
+ 
+ 
+ 
+Figure 7: Example of a Principal Component Analysis biplot (combination of PCA score plot and loading plot) of 60 chromatograms (September 
+2019)  processed as described above. Chromatograms (red dots) are plotted against their PC1 and PC2 values and the black arrows represent 
+the most significant features which separate the data across the two PCs. The number plotted next to each arrow is the Rt of the feature in 
+question. As can be seen, there are three samples which can be clearly distinguished from the rest of the dataset. The purpose of the PCA is 
+exactly to determine whether such “very different” samples are present in the data.   
+ 
+ 
+ 
+2.3.3.2 Unsupervised machine learning algorithms 
+The use of additional unsupervised classification algorithms, such as Density-Based Spatial Clustering of Applications 
+with Noise (DBSCAN) or Self-Organising Maps (SOMs), were initially contemplated as a complement to PCA and HCA. 
+However, based on finding from the validation step (see 2.3.5), it was decided that these were currently not necessary 
+as satisfying results were obtained with PCA and, in particular, HCA.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 15 
+2.3.4 Identification 
+After potentially relevant features have been detected through the explora tory data analysis, they need to be 
+(tentatively) identified by comparison with existing spectral libraries. For this purpose, it is first necessary to retrieve 
+the mass spectrum of the selected features. An algorithm was written which allows the user to s elect a feature of 
+interest and, by back-calculating its original retention time (given that all features were aligned using Rt-indexes (see 
+2.3.2.1)), obtain its mass spectrum at the specific retention time specified by the user. The latter is then exported in 
+text format (i.e., .txt) and can be used to search in spectral libraries such as MetFrag  (12), NIST (13) and MassBank 
+(14). 
+2.3.5 Validation 
+As detailed in the previous paragraphs, the  developed PoC involves various steps and data processing approaches 
+whose goal is to improve the detection and identification of relevant features. However, the selection of the most 
+effective set of pre-processing strategies and guaranteeing that no unwanted artifact is being introduced in the data 
+is crucial. For this purpose, developing a validation strategy is essential. In a conventional classification or pattern 
+recognition approach, validation would be performed using a test set, which consists of a subset of the data not used 
+for training purposes and solely serves to test the developed model/algorithm.  
+ 
+In this case, however, given that the goal is to detect samples which might contain features indicative of a pollution 
+event, the optimization of data pre -processing and pattern recognition w as done using known historic data of 
+calamities. More specifically, chromatograms of samples which are known to contain specific compounds, linked to 
+known pollution events, w ere randomly introduced into a subse t of the whole dataset . These were then used to 
+determine whether the developed PoC could highlight their presence (i.e., whether they could be labelled as specific 
+groups within PCA and/or HCA) and whether a positive identification could be achieved based on the comparison of 
+their MS-spectra with existing databases.  
+ 
+2.3.5.1 Aniline 
+The first calamity selected for validation was an increased concentration ( up to 6 µg/L) of aniline in the river Rhine. 
+Specifically, 67 chromatograms from samples collected in Bimmen and Lobith in November 2019 were used. These 
+chromatograms were processed as described above and an HCA was performed and the results were plotted in a 
+heatmap (Figure 8). As described above, each horizontal line represents one chromatogram, while each vertical line 
+represents a feature (the color gives an indication of the intensity of the feature). The left-hand side of the heatmap 
+also shows a dendrogram, which simply illustrates the groups that were made (i.e., samples are grouped together 
+when they are characterized by a similar chemical signal or, in other words, when they all have a similar set of features 
+at similar intensities) . A closer look at the groups of samples that we made shows that a set of six chromatograms 
+(shown at the top of the heatmap) is clearly separated from the rest of the dataset and that this group of samples is 
+characterized by a  particularly intense feature (marked by the black circle in Figure 8). By retrieving the mass 
+spectrum of this feature and by comparing it with the MassBankEU database, one obtains a match with aniline with 
+a similarity score of 0.9817 (as calculated by MassBankEU). This can be also confirmed by visually inspecting the two 
+mass spectra, as shown in Figure 9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 16 
+ 
+Figure 8: Heatmap of a Hierarchical Cluster Analysis (Euclidean distance, max normalised) of Bimmen and Lobith data from November 2019, after 
+alignment based on IS, binning and normalisation using MSC, the solvent peak (t0) and  internal standard peaks were excluded from the TIC’s 
+before conducting HCA. The highlighted features in the figure correspond to aniline. Each line represents a sample (i.e., chromatogram), where 
+the x-axis represents the retention time  (i.e., feature). The colour scale indicates signal intensity.  The goal of this heatmap is to illustrate the 
+grouping of samples made based on similarities in their chromatographic profile and illustrate (through the colour gradient) which features differ 
+between the groups.   
+ 
+ 
+Figure 9: MS spectra of Aniline as found in MassBankEU (top, SPLASH: splash10-00kf-9000000000-9a543eee5081cc927e82) and the measured 
+MS spectrum (bottom). 
+ 
+2.3.5.2 Phenol 
+The second calamity selected for validation was an increased concentration (1.4 µg/L) of phenol in the river Rhine. 
+The analysed dataset consisted of all 60 measurements in Bimmen and Lobith of that month, September 2018. 
+Similarly, to the previous example of aniline, HCA was performed and the results were plotted as a heatmap which is 
+shown in Figure 10. Also in this case, a specific group containing only one sample is made. Contrarily to the previous 
+example, however, the separation of this group f rom the rest of the dataset occurs at a lower level, which makes it 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 17 
+less obvious to detect this calamity compared to the case of aniline in which 6 samples were immediately separated 
+by the rest of the group. Nevertheless, one can clearly see that this sam ple is one of the few in the entire dataset 
+which contains a very intense feature in the first part of the chromatogram (marked in blank in Figure 10). By 
+retrieving the mass spectrum of this feature and by comparing it to MassBankEU, as done previously for aniline, a 
+match with phenol at a similarity score 0.9776 (as computed by MassBankEU) is obtained. This can be also confirmed 
+by visually inspecting the two mass spectra, as shown in Figure 11.  
+In this specific dataset, additional high-level groups can be observed (in particular at the top of the heatmap). When 
+analyzing this kind of data, it would be very interesting to focus on these groups and try to and identify the features 
+which are respons ible for this separation. For instance, a group characterized by intense features which repeat at 
+regular intervals is clearly visible in the heatmap. Given their repetitive nature, these features could be a part of 
+homologues series of chemicals which only differ in size (e.g., length of an alkyl chain).  
+ 
+ 
+Figure 10: Heatmap of an Hierarchical Cluster Analysis (Euclidean distance, max normalised) of Bimmen and Lobith data from September 2018,  
+after alignment based on IS, binning  and normalisation using MSC, the solvent peak (t0) and  internal standard peaks were excluded from the 
+TIC’s before conducting HCA. The highlighted features in the figure correspond to phenol. Each line represents a TIC, where the x-axis represents 
+the retention time. The color scale indicates signal intensity.  The goal of this heatmap is to illustrate the grouping of samples made based on 
+similarities in their chromatographic profile and illustrate (through the colour gradient) which features differ between the groups.   
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 18 
+ 
+Figure 11: MS spectra of Phenol as found in MassBankEU (top, SPLASH: splash10-00kf-9000000000-6fb456992902a13931f9) and the measured 
+MS spectrum (bottom). 
+ 
+2.4 Outcomes of the validation and recommendations for using the PoC with low-
+resolution data 
+The validation showed that using the developed approach, it is possible to highlight the presence of specific 
+compounds (i.e., calamities) and to identify them using existing spectral libraries. However, in both cases, it is clear 
+that the chances of detecting a new compound/calamity strongly depend on the number of samples that are being 
+processed simultaneously and the amount of background noise present in the chromatograms. In the first case, 
+findings from tests run by KWR suggest that the analysis should be performed using one month's worth of samples 
+(i.e., approximately 60 chromatograms) at most. Ideally, one would want to perform the analysis with fewer samples, 
+for instance one or two weeks. This would avoid having too much in formation being represented in a single 
+heatmap/PCA plot. In fact, it is clear from the outcomes of the validation that, although the features related to the 
+calamities were grouped separately from the rest of the samples, there is still a large amount of information present 
+which could complexify the interpretation. This is particularly true for features which appear in few or just one 
+chromatogram (as is the case for phenol). On the other hand, however, it is possible that large discharges might be 
+visible in samples collected over longer periods (days o r weeks). In these cases, one  might need broader time 
+windows to observe the increase and then the decrease of one or multiple previously unknown features. It is hence 
+important to analyse the data using different time windows to make sure that both short- (i.e., acute) and long-lasting 
+(i.e., large disposal) events can be detected.  
+ 
+Regarding the background noise, inclusion of blanks which can be used to remove parasite peaks is highly desirable. 
+Furthermore, noise removal would most likely also benefit the data analysis as a larger number of samples can be 
+processed and visualized as only relevant features would be included. In fact, based on experience from other 
+screening methods indicates that the number of relevant features can be reduced substantially by removing signals 
+present in the blanks (e.g., 50% or more in the case of LC-HRMS analysis).  
+  
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 19 
+2.5 Recommendations for the improvement of the SPE-GC-MS method 
+Following the analysis of the SPE -GC-MS data, it was possible to identify three points in the current method(s) used 
+by RWS that can be improved in future. Firstly, the measurement of blanks (either solvent or, ideally, procedural 
+(SPE) blanks) at regular intervals needs to be included in the monitoring scheme. Blanks are essential to ensure that 
+no contamination or carry-over is taking place and play an important role in the development of any automated data 
+analysis strategy. In addition, they would allow improving the data analysis approach as irrelevant features would be 
+filtered out and more samples could be analysed simultaneously. Currently, the data analysis can still be performed, 
+however the absence of blanks serious complexifies the detection of c alamities or new contaminants, in particular, 
+if these are present at low concentrations. In fact, the operator will need to interpret the outcomes of the exploratory 
+analysis very carefully as potentially relevant features might be present at intensities comparable to the background 
+(which would have been removed if blanks were available). Secondly, alkanes should be measured at regular intervals 
+to allow the calculation of Kováts retention indexes for normalisation and identification purposes. Finally, the analysis 
+of replicates could also help improve the data analysis as artefacts and/or non -reproducible features could be 
+excluded (as is done for the LC-HRMS data, see 3.4). 
+2.6 Perspectives for future applications 
+A data analysis strategy was developed allowing to import, process, evaluate online SPE -GC-MS data and identify  
+features of interest . The approach was developed using data generated by a Thermo Fisher Scientific instrument, 
+however, the goal of the PoC is that it can be used with data from any manufacturer. Although the developed 
+algorithms can be used with data from any manufacturer, there are a number of aspects that will always need to be 
+customized given that different laboratories and/or instruments will provide slightly different data. In particular, the 
+following aspects will need to be customized prior to implementation of the PoC in another laboratory: 
+ 
+1. Import and conversion of data to a usable format . This is rather straightforward and there are numerous 
+packages, depending on the manufacturer, which can be used to convert proprietary raw files to open-
+source formats such as mzML.  
+2. Criteria to select rele vant chromatograms. As described previously, this is currently being done using the 
+Qxmax file inventory. Another laboratory might have a different approach to record which data represents 
+a sample and which not. However, assuming all samples are measured using the same method, minimum 
+information requirements are: sample name, file location, sampling date and time, analysis date and time, 
+corresponding blank and the applied ionization mode (i.e. positive or negative).  
+3. Information about internal standards . Laboratories are likely to use different  internal standards and/or 
+methods, hence the retention time of internal standards needs to be retrieved (using the developed 
+algorithm) and the normalisation step needs to be updated (Rt -indexes of features need to  be computed 
+using retention time windows specific to the method in question). Furthermore, mass-labelled internal 
+standards should always be preferred where possible.  
+4. Information about methods used . Different method parameters (e.g., gradient, oven program, run time, 
+injection volume , chromatographic column and maintenance ) will lead to different results, which might 
+hinder the comparison of data from different methods. The current GC-MS PoC is not yet cross-compatible 
+between different instruments. This issue can partly be solved by using Rt -indexes (e.g., Kováts retention 
+indexes), however differences will most likely always exist between different methods/laboratories. Detailed 
+records of maintenance should also be kept to help interpret findings.  
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 20 
+5. Availability and usability of blank samples . Subtraction of features that occur in blanks is currently not 
+included in the developed PoC as these were not available. In future versions of the PoC, this can easily be 
+implemented.  
+Despite the abovementioned points, which will need to be adapted/ optimized for each new method/laboratory, 
+there are a number of elements which are universal and independent of the method used, namely: 
+- Type of samples: the developed approach can be implemented regardless of the type of samples and sample 
+processing technique which is being used. In this specific case, samples were processed with SPE prior to 
+analysis. This is however not a requirement as the sample type or preparation does not affect the data 
+analysis used here.  
+- Sampling frequency: the data used to develop the PoC was collected at very high frequency (i.e., one sample 
+every 12h), however, this is once more not a requirement as the approach can be implemented with much 
+smaller datasets without any chang e needed. However, should the goal be to identify specific spatial or 
+temporal trends, then it is important to have sufficient data to guarantee that external factors (e.g., seasonal 
+effects, noise) can be accounted for.   
+- Real-time applications : currently , the PoC was developed using historical data (2016 -2021) provided by 
+RWS. However, in its current design, the PoC can be implemented also for real -time applications, in the 
+sense that newly analysed samples can be immediately processed and compared to previous samples.    
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 21 
+3 High-resolution LC-HRMS analysis 
+3.1 Objective 
+The PoC which was specifically developed for LC -HRMS data focused on the development of a strategy to import, 
+process and analyse data with the goal of detecting samples which deviate from normal patterns (e.g., calamities) 
+and the features which might be causing the observed deviation, as well as to (tentatively) identify them using existing 
+databases. However, in this case, specific attention was given to developing an approach which allows to analyse 
+time trends as this was not implemented for GC -MS data, due to the absence of LC -HRMS data at the beginning of 
+this project and consequent time constraints.   
+3.2 LC-HRMS data 
+Although significantly different from HRMS data, the work that was performed on low-resolution data has allowed 
+us to define an overall strategy which can be implemented also for HRMS data. The major difference between low- 
+and high-resolution data is that the latter is substantially easier to pre -process. As discussed above, accounting for 
+retention time shifts in high -resolution data is less complex because of the increased specificity that accurate mass  
+information offers. In fact, t his can be used to easily detect and group  features across numerous chromatograms 
+without the need to first align the whole signal. Furthermore, a larger and more comprehensive set of data analysis 
+packages exists for HRMS compared to low-resolution data. One point, however, where HRMS-data is more complex 
+is the identification step, in particular if data has been acquired using liquid chromatography coupled to HRMS (as is 
+the case here). In fact, the ionization in such instru ments, which mainly occurs using electrospray ionization (ESI), is 
+substantially less reproducible  and standardized  compared to electron impact (EI), which is used in GC -MS 
+instruments. Hence, the comparison with existing databases is less obvious and an expert operator is still required to 
+evaluate whether there is a true match between the experimental MS and the one from the database. Finally, 
+databases are far from being comprehensive, thus the risk that a detected feature might not be identifiable through 
+available databases is non-negligible.  
+ 
+High-resolution data was not available at RWS and hence had to be retrieved from other laboratories. Het 
+Waterlaboratorium (HWL), which is a member of the supervisory board of this project, indicated that it had sufficient 
+HRMS data to perform the tasks as described in the project plan. An official request from RWS/MinIenW was made 
+to HWL to provide HRMS data. For this purpose, KWR established a detailed list of requirements that HRMS data 
+should fulfill in order to be able to develop the described PoC also for this kind of high -resolution data (memo of 
+Frederic Béen, 4th October 2021). On 6th January 2022, HWL provided data which fulfilled the requirements. For the 
+data analysis of LC -HRMS data, it was decided to develop the PoC using the existing , internationally widely used 
+package ‘patRoon’ (15) developed by the University of Amsterdam. One of the advan tages of patRoon, besides the 
+fact that it has been implemented by numerous research groups across the world, is that it is a platform which makes 
+use of various validated and commonly used algorithms and packages used to process HRMS data. In addition, KWR 
+has extensive knowledge in the use of this package (and has been directly involved in its development).  
+ 
+The data consisted of 68 measurements of surface water samples from 3 locations ( Lekkanaal/Rhine, Meuse and 
+IJsselmeer) over a 2-year period. All samples, including procedural blanks, were measured in triplicate in both positive 
+and negative ionization mode. Samples and blanks were all spiked with internal standards, as given in Annex IV. Data 
+was acquired with a Bruker Daltonics maXis series Impact II micrOTOF mass spectrometer, using a quadrupole mass 
+analyser and electrospray ionization. The total runtime of the chromatogram was around 20 minutes. Mobile phase 
+A consisted of 95% 5mM ammonium formate  in 5% MeOH and mobile phase B consisted of 5 mM ammonium 
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 22 
+formate in MeOH. An example of two chromatograms (TIC) is shown in Figure 12. In this proof of principle, only data 
+acquired in the positive ionization mode was considered. 
+ 
+ 
+Figure 12: Two TICs of a sample from the river Meuse, in negative mode (top) and positive ionization mode (bottom). 
+3.3 Data analysis strategy 
+Globally, the strategy implemented for high-resolution data follows similar steps as those illustrated in Figure 1, and 
+described in Section 2, except for some of the details related to importing (step 1) and normalisation (step 2) which, 
+as will be described in detail in the following sections, differs due from low -resolution data due to the fact that 
+information about accurate mass is available. With respect to the actual data analysis steps, PCA and HCA were 
+implemented for LC -HRMS as previously done for GC -MS data, however,  additional emphasis was put here on the 
+development of the trend analysis which was not included in the GC -MS data due to time constraints and also 
+because LC-HRMS data was not initially available.  
+3.4 (Pre)processing 
+3.4.1 Re-calibration  
+Given that data was acquired using a Bruker instrument, re-calibration was necessary prior to exporting the raw data 
+as this instrument uses an external calibration . In agreement with HWL, this step was kindly performed by the 
+University of Amsterdam as proprietary Bruker software is required and KWR does not have access to such software. 
+Not having worked directly with raw Bruker data before, KWR was not aware of this step. In future, if data from 
+Bruker has to be processed, then re-calibration needs to be carried out before exporting the raw data.  
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 23 
+3.4.2 Feature detection and grouping  
+Next, the re-calibrated data was converted to the open format mzML, using the ProteoWizard msconvert tool (16), 
+embedded in patRoon (15). Subsequently, features were generated using the OpenMS (17) software, also embedded 
+in patRoon. The resulting features were filtered to exclude all features eluting before or during the solvent peak . In 
+the specific ca se of the data provided by HWL, a threshold was set at 180 seconds. The remaining features were 
+grouped and aligned using the OpenMS algorithm. More specifically, features in different samples having accurate 
+mass, isotopic pattern and  retention time withi n a defined threshold were considered to be the same feature . 
+Thresholds used for grouping are reported in the PoC script and users can modify them based to the instruments 
+used and the type of data being analysed.  Features which were not present in all replicates and/or features whose 
+relative standard deviation of the intensities within triplicates was above 75% were removed.  Once more, these 
+criteria can be modified by the users in the PoC script.  This is a standard procedure done to remove features which 
+are likely artefacts, not reproducible or related to background contaminations. A downside of these steps is that the 
+risk of losing relevant features is posed, such as features eluting prior to or within the solvent peak 
+ 
+The steps described above were performed using patRoon’s default settings. It should be noted that these 
+parameters can be further optimized if deemed necessary using a design of experiments approach embedded in 
+patRoon. In fact, m/z and retentio n time thresholds have a significant impact on the outcomes of feature grouping. 
+This is shown in Figure 13, where in the first 180 analyses, the  internal standards atrazine-d5 is labelled as being 
+feature group ‘M221_R547_5652’, while this same group does not contain any feature in the subsequent 72 analyses. 
+In these subsequent 72 analyses, an additional group, labelled ‘M221_R560_5653’ was present having the same m/z 
+but with a retention time shift of on average 13 seconds. Tweaking the retention time threshold allowed for all 
+features related to atrazine -d5 to be grouped together (i.e., ‘M221_R550_5692’). The fact that these groups all 
+contained atrazine-d5 was confirmed by inspecting the MS2 spectra of the feature (see Figure 14). 
+ 
+Figure 13: Chromatographic data of feature group ‘M221_R550_6592’, every line is a measurement. The left peak is generated by the data from 
+the first 180 analyses, whereas the right peak is from the other 72 analyses. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+KWR 2022.053 | May 2022  Final report HRMS data science PoC 24 
+ 
+Figure 14: Average MS2 peaklist obtained using the mzR algorithm, for the feature group ‘M221_R550_5692’ 
+ 
+A similar situation was observed for other IS, for example neburon, which was attributed to two feature groups with 
+a retention time difference of ± 11.9 seconds. The shift occurred between the same sample sets as for atrazine -d5, 
+attributed to a different analysis batch. These examples show that setting grouping parameters is important and that 
+the use of internal standards is highly valuable also for HRMS data t o ensure that features are being grouped (i.e., 
+aligned) correctly. This is particularly important when comparing data from samples that have been analysed at 
+different times. In fact, as for GC -MS data, retention time shifts can occur due to random variab ility but also due to 
+column ageing or slight differences in eluents or ageing of the HPLC seals or other factors.  
+3.4.3 Noise removal and blank filtration  
+ 
+Grouped features (also referred to as feature list) were converted into a data frame and feature intens ities were 
+normalised (i.e., divided) by the intensity of atrazine-d5. This should in the future be extended to all available internal 
+standards and feature intensities should be normalised per retention time windows, as done for the SPE-GC-MS data. 
+Due to time constraints, this could not be implemented at this stage. Nevertheless, the decision of whether or not to 
+normalize the data using internal standards will remain to the description of the operator, based on the effect that 
+this step has on the outcomes. In fact, it cannot be excluded that this approach might introduce artefacts due to local 
+ion suppression or enhancement. However, this issue is present even without IS -normalisation as features across 
+different samples might have different intensitie s at equivalent concentrations due to different matrix effects. For 
+this reason, one would ideally use a sufficient number of IS covering the whole chromatogram.   
+ 
+Subsequently, an intensity filter was applied . Namely, all features whose intensity was <10% of that of the  internal 
+standards were removed. Generally, in HRMS data analysis workflows, features whose intensity falls below a certain 
+threshold (e.g., 50k to 500k counts depending on the type of sample being analysed) are filtered out to remove 
+noise/background peaks. However, this approach is generally used when samples were analysed in one sequence 
+(i.e., all at the same time). In this case, however, analyses were carried out at different times and it cannot be assumed 
+that the background will be t he same across all samples. Hence, it was decided to remove features based on their 
+intensity relative to the  internal standards (as the latter was analysed in all samples and should allow taking 
+instrumental variability into account). Subsequently, the remaining features were averaged for all triplicates in order 
+to have one intensity per feature group per sample. Afterwards, blank correction was performed by removing all 
+feature groups with intensities < 5x intensity in the blank samples.  Similarly to the previous step, this is a common 
+step that allows to reduce the number of features to be analysed by removing features which are present in blanks 
+in substantial levels. Finally, the intensity of the blank was removed from features which were also present in blanks,
+
+=== Document: 403817_demo_juni2022 ===
+9 juni 2022
+Demo Data Science 
+PoC
+Nienke Meekel
+Frederic Béen
+Ton van Leerdam
+2
+Doel project
+• Ontwikkeling van aanpak om massaspectrometrie data te analyseren
+• Bijzondere aandacht voor
+• Langere tijdreeksen
+• Meerdere locaties
+• Identificatie relevante kenmerken/features (prioriteren)
+• Selecteren van relevante features op basis van hun voorkomen en/of temporele trends
+• Multi-platform 
+3
+Ontwikkelomgeving voor RProgrammeertaal voor statistische berekeningen en 
+figuren
+ Wijdverbreid gebruikt voor de analyse van 
+massaspectrometrie data (MS data)
+R(Studio)
+
+4
+1. Input & filtering
+•Selectiecriteria
+•Kwaliteit
+2. Normalisatie
+•Rt correctie
+•Blanco’s
+•Normalisatie (IS)
+3. Verkennende 
+analyse
+•Kenmerken selectie
+•PCA, clustering,…
+•Time series analysis
+•(Unsupervised ML)
+4. Identificatie •Match met 
+databanken
+5. Rapportage
+Strategie
+Gebruik van bestaande 
+(open source) 
+workflows/packages
+5
+GC-MS
+Import & filtering
+Normalisatie
+•IS zoeken
+•Rt correctie
+•Normalisatie
+Exploratory data analysis
+•Principal component analysis
+•Hierarchical cluster analysis
+•Feature selectie
+Identificatie
+Validatie
+LC-HRMS
+Import & re-calibratie
+Normalisatie
+•Feature detectie & groepen
+•Noise removal & blank filtering
+Exploratory data analysis
+•Principal component analysis
+•Hierarchical cluster analysis
+Trend analyse
+Identificatie
+Overzicht van de ontwikkelde PoC
+SPE-GC/MS data
+6
+7
+SPE-GC/MS data
+
+8
+Massaspectrum
+
+9
+• Elk jaar heeft tot 730 chromatogrammen (periode 2016 – 2021)
+• Eén monster per 12u
+• Elk chromatogram bevat > 700 variabelen (d.w.z. features)
+• Onmogelijk (of zeer onpraktisch) om handmatig naar specifieke pieken 
+(relevante kenmerken) te zoeken
+ Vergemakkelijk (en automatiseer) de detectie van relevante kenmerken 
+(prioriteren)
+ Exploratory data analysis
+Achtergrond GC-MS data
+10
+1. Import & filtering
+2. Normalisatie
+
+11
+Twee aanpakken:
+1. Principal component analysis (PCA)
+2. Hierarchical cluster analysis (HCA)
+Verkennende analyse
+Lima et al., 2011 PLoS One, 6 (1)
+12
+Exploratory data analysis
+Doel: patronen identificeren uit een grote dataset
+Achtergrond
+• Er is weinig of geen informatie beschikbaar over patronen
+• Gegevens zijn multivariaat 
+• d.w.z. dat elke observatie (monster) wordt beschreven 
+door talrijke variabelen
+• In ons geval: 
+- y = Intensiteit
+- x = massa (30-330 m/z)
+- z = Retentie tijd (min)
+Verkennende analyse
+
+13
+• Nuttig voor snelle beoordeling
+• Detecteert snel uitschieters (d.w.z. 
+calamiteiten)
+Principal component analysis (PCA)
+Lobith, Sept. 2018
+14
+• Gebruik beschikbare informatie over calamiteiten
+• Neem willekeurig chromatogrammen op 
+1. Test of PCA en/of HCA monsters van calamiteiten kan markeren
+2. Test of (tentatieve) identificatie succesvol is 
+Validatie
+15
+Zoeken van een bekende calamiteit
+• Aniline (6 µg/L) 
+• Gedetecteerd in Nov 2019 in Bimmen
+• Exact mass: 93.057849228 Da
+• RT: 5.96 min
+• De hele maand november 2019 met metingen van Bimmen en Lobith 
+geselecteerd: 67 chromatogrammen
+Validatie (I)
+16 Bron: 2019_11_23_Anilin_Screenshot.doc
+
+17
+Retentie tijd index (min)
+Groepen op basis van kenmerken
+18
+
+19
+Export MS
+1. Operator kiest RT vanuit HCA plot
+2. Script zoekt originele RT en scannummer
+3. Schrijft naar .txt file in bestandsformaat voor 
+MassBank EU / MoNA
+
+20
+Zoekresultaten
+
+21
+Zoeken van een bekende calamiteit
+• Phenol (1.4 µg/L)
+• Gedetecteerd in maar 1 dag in september 2018
+• Exact mass: 94.0418648 Da
+• RT: 5.50 min
+• De hele maand september 2018 met metingen van Bimmen en Lobith 
+geselecteerd: 60 chromatogrammen
+Validatie (II)
+
+22
+
+23
+Validatie (II)
+
+24
+
+25
+• Afwezigheid van blanco monsters
+• Kováts retentie index
+• Herhalingen
+Uitdagingen tijdens de ontwikkeling
+LC-HRMS data
+Oppervlaktewater, 3 locaties 
+• (Lekkanaal-Rijn, Maas, IJsselmeer)
+Over 2 jaar
+Blanco’s
+Triplo metingen
+Inclusief interne standaarden
+LC-HRMS dataset
+
+28
+• Bruker gegevens moeten opnieuw gekalibreerd worden (externe kalibrant) vóór 
+de uitvoer naar onbewerkt formaat
+• Uitgevoerd door UvA
+• Na kalibratie kunnen de gegevens getransformeerd worden naar universeel 
+formaat: mzML
+Import & re-calibratie
+29
+• patRoon
+• Ruwe gegevens (van leveranciers) importeren
+• Pre-processen, deconvolueren, pieken opsporen en feature-lijsten genereren
+Normalisatie
+Helmus et al. 2021
+30
+Instrumentele fouten kunnen leiden tot variaties in 
+retentietijd en m/z  groeperen van features na
+uitlijning
+Features & Feature Groups
