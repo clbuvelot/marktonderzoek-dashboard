@@ -1,0 +1,1467 @@
+=== Document: bijlage 1a programma van eisen visstandmonitoring ===
+Bijlage 1A – Programma van eisen visstandmonitoring 
+ 
+ 
+Nr Omschrijving eis 
+1 U heeft een primair contactpersoon voor deze dienstenovereenkomst en een plaatsvervanger. 
+2 U draagt gedurende de looptijd van de dienstenovereenkomst zorg voor een adequate 
+vervanging tijdens vakanties, ziekte en personele wisselingen. 
+3 Uw in te zetten medewerkers beheersen de Nederlandse taal in woord en geschrift op dusdanig e 
+wijze dat communicatie met HDSR voor zover het de te verrichten diensten betreft, mogelijk is. 
+4 U draagt zorg voor het gehele proces van voorbereiden, uitvoeren en rapporteren van het 
+gevraagde visstandonderzoek.  
+5 Jaarlijks heeft u een startoverleg op kantoor van HDSR. In het startoverleg wordt het voorgaande 
+jaar geëvalueerd en worden aandachtspunten voor het aanvangende meetjaar besproken. 
+Hiervan legt u notulen vast met afgesproken actie- en verbeterpunten.  
+6 U regelt zelf de benodigde toestemmingen, vergunningen, ontheffingen en monitoringsmaterialen 
+die u nodig heeft voor het uitvoeren van het visserijkundig onderzoek.  
+7 U informeert jaarlijks, uiterlijk in mei, de visrechthebbenden van het onderzoek dat u in dat jaar 
+uitvoert. Hiervoor maakt u gedetailleerde kaarten met de meetlocaties en een planning.  
+8 Perceeleigenaren en terreinbeherende organisaties van meetlocaties in het agrarisch en stedelijk 
+meetnet worden door HDSR geïnformeerd over de monitoring. Indien u een particulier terrein 
+betreedt t.b.v. het onderzoek dan meldt u zich bij de aanwonende. Indien u geen toestemming 
+verkrijgt voor de betreding dan kies u volgens de richtlijnen van HDSR een alternatieve locatie.   
+9 U voert de visbemonsteringen uit in de maanden september en/of oktober. Het heeft de voorkeur 
+de KRW locaties in september te bevissen.  
+10 U voert de visbemonsteringen uit conform het Handboek Hydrobiologie. 
+11 U draagt zorg voor het welzijn van de vissen. U voert geen bemonsteringen uit bij een 
+watertemperatuur < 5 ºC. Bij een watertemperatuur van 23 ºC of hoger overlegt u met HDSR over 
+het wel/niet uitvoeren van de bemonsteringen. Bij een watertemperatuur van 2 5 ºC en hoger 
+wordt geen bemonstering uitgevoerd.  
+12 U draagt zorg voor het tegengaan van verspreiding van ziektes (zoals het Ranavirus) en exoten 
+(bijvoorbeeld grote waternavel en waterwaaier). 
+13 U dient de gehanteerde codering en naamgeving van de waterlichamen, meetlocaties en 
+trajecten te gebruiken zoals die wordt aangegeven door HDSR. Indien een meetlocatie in het veld 
+voor meer dan de helft van de oorspronkelijke lengte wordt verplaatst dan vraagt u een nieuwe 
+codering aan bij HDSR.  
+14 U draagt zorg voor de vastlegging van de voor de databestanden benodigde gegevens. De aan 
+te leveren databestanden zijn:  
+1. vissen_data_format 
+2. data_overige_vangsten_vis 
+3. milieuparameters_vis 
+4. bestandschattingen:  
+a meetpunten_n_ha_vis 
+b meetpunten_kg_ha_vis 
+c waterlichamen_n_ha_vis 
+d waterlichamen_kg_ha_vis  
+5. Aquo-Kit invoerbestanden voor KRW en ASM: 
+a meetpunten_invoer_Aquo_Kit_vis  
+b data_invoer_Aquo_Kit_vis 
+6. Aquo-Kit uitvoerbestanden voor KRW en ASM:  
+a rapportagebestand 
+b bestandschatting (export van module uitvoeren bestandschatting) 
+c export toetsresultaten 
+Van de bestanden 1 t/m 5 is een voorbeeld (bijlage 15) meegeleverd ter duiding van format en 
+inhoud waar elk bestand aan moet voldoen.  
+15 U voert de bestandschatting en toestandbeoordeling ten behoeve van de verwerking in het 
+rapport uit in Aquo-Kit met de maatlat 2018.  
+16 Opleveringen: 
+- U dient uw concept rapportage (incl bijlagen) vóór 31 december van het betreffende jaar 
+op te leveren. 
+- U dient uw concept databestanden vóór 31 december van het betreffende jaar op te 
+leveren, incl. bestandschattingen en toestandbeoordeling. 
+- U dient binnen vier weken na reactie van HDSR uw definitieve rapport en databestanden 
+op te leveren. U bent bekend en gaat ermee akkoord dat HDSR streeft naar een reactie 
+op de definitieve concept rapportage binnen vier weken. Overschrijding van deze termi jn 
+kan desalniettemin geen aanleiding voor u zijn om uw reactie tijd te verlengen.  
+17 De rapportage dient per individueel KRW-waterlichaam en per individueel afvoergebied (3-6 
+geclusterde meetpunten per gebied in agrarisch en stedelijk meetnet) in enkele pagina’s in te 
+gaan op het verloop van de bemonstering, milieukenmerken, soortsamenstelling, omvang in 
+aantal en biomassa, lengtesamenstelling, toetsing, bijzondere/zeldzame soorten en exoten, 
+vergelijking met voorgaande bemonstering en een eindoordeel/expertoordeel.  
+18 U dient de resultaten in de rapportages te presenteren met behulp van grafieken en tabellen. 
+Waar nodig worden gegevens verduidelijkt met kaarten en foto’s. 
+19 U dient de rapportages en databestanden digitaal aan te leveren. 
+20 U dient alle werkzaamheden in lijn met het voorschrift Veilig werken op locaties: Voorschriften en 
+procedures voor contractors Groen en de bijlage met hoofdstuk 3.7 Werken op, langs of in het 
+water uit te voeren (bijlage 12). 
+21 U bent op de hoogte van de aanwezige biologische risico’s, zoals tekenbeten, Lyme -ziekte, 
+blauwalg, berenklauw, botulisme, ziekte van Weil en Gevlekte scheerling en u neemt zelf 
+passende maatregelen ter bescherming van uw medewerkers. 
+22 Het materieel dat u inzet bij uitvoering van de opdracht dient minimaal te voldoen aan de op dat 
+moment geldende eisen uit het basisniveau van het Convenant Schoon en Emissieloos Bouwen 
+(SEB). Daarnaast dient u als brandstof minimaal HVO100 in te zetten. De spelregels ten aanzien 
+van de inzet van materieel en te gebruiken brandstoffen zijn beschreven in de bijlage “Schoon en 
+Emissieloos Bouwen bij HDSR” (Bijlage 11). Afwijking van de minimale eisen is alleen mogelijk in 
+afstemming met Opdrachtgever.
+
+=== Document: bijlage 1b programma van eisen rivierkreeftenmonitoring ===
+Bijlage 1B – Programma van eisen monitoring rivierkreeften 
+ 
+ 
+Nr. Omschrijving eis 
+1 U heeft een primair contactpersoon voor deze dienstenovereenkomst en een plaatsvervanger.  
+2 U draagt gedurende de looptijd van de dienstenovereenkomst zorg voor een adequate 
+vervanging tijdens vakanties, ziekte en personele wisselingen. 
+3 Uw in te zetten medewerkers beheersen de Nederlandse taal in woord en geschrift op 
+dusdanige wijze dat communicatie met HDSR voor zover het de te verrichten diensten betreft, 
+mogelijk is. 
+4 U draagt zorg voor het gehele proces van voorbereiden, uitvoeren en rapporteren van de 
+gevraagde rivierkreeftenmonitoring.    
+5 Jaarlijks heeft u een startoverleg op kantoor van HDSR. In het startoverleg wordt het 
+voorgaande jaar geëvalueerd en worden aandachtspunten voor het aanvangende meetjaar 
+besproken. Hiervan legt u notulen vast met afgesproken actie- en verbeterpunten.  
+6 U regelt zelf de benodigde toestemmingen, vergunningen, ontheffingen en 
+monitoringsmaterialen die u nodig heeft voor het uitvoeren van het visserijkundig onderzoek. 
+Een uitzondering hierop vormt de onderzoeksontheffing om op rivierkreeften te mogen vissen.  
+Deze kan desgewenst door HDSR bij de RVO voor u aangevraagd worden.  
+7 U informeert jaarlijks, minimaal drie maanden vóór de start van de rivierkreeftenmonitoring, de 
+visrechthebbenden van het onderzoek dat u in dat jaar uitvoert. Hiervoor maakt u gedetailleerde 
+kaarten met de meetlocaties en een planning. In 2026 informeert HDSR de visrechthebbenden 
+zelf i.v.m. de aanbestedingsplanning. 
+8 Perceeleigenaren en terreinbeherende organisaties van meetlocaties worden voor HDSR 
+geïnformeerd over de monitoring. Indien u een particulier terrein betreedt t.b.v. het onderzoek 
+dan meldt u zich bij de aanwonende. Indien u geen toestemming verkrijgt voor de betreding dan 
+kies u volgens de richtlijnen van HDSR een alternatieve locatie.   
+9 U voert de bemonsteringen uit conform het door u ingediende bemonsteringsprotocol, tenzij 
+expliciet samen met HDSR anders overeengekomen. Bijvoorbeeld als het 
+bemonsteringsprotocol door omstandigheden op een locatie niet uitvoerbaar is, of als door 
+voortschrijdend inzicht een (net) iets andere werkwijze wenselijker is. 
+10 U draagt zorg voor het tegengaan van verspreiding van ziektes (zoals het Ranavirus) en exoten 
+(bijvoorbeeld grote waternavel en waterwaaier). 
+11 U dient de gehanteerde codering en naamgeving van de waterlichamen, meetlocaties en 
+trajecten te gebruiken zoals die wordt aangegeven door HDSR. Indien een traject waarover 
+vangtuigen geplaatst worden meer dan 50 meter afwijkt van de originele onderzoekslo catie, 
+wordt door u een nieuwe codering aangevraagd bij HDSR.  
+12 U draagt zorg voor de vastlegging van de voor de databestanden benodigde gegevens. De aan 
+te leveren databestanden zijn: 
+1. kreeften_data_format 
+2. data_overige_vangsten_kreeft 
+3. milieuparameters_kreeft 
+4. overzichten totale vangsten en gewicht: 
+a. meetpunten_n_kreeft 
+b. meetpunten_g_kreeft 
+c. waterlichamen_gebieden_n_kreeft 
+Van de bestanden 1 t/m 4 is een voorbeeld (bijlage 16) meegeleverd van het format en 
+(voorbeeld)inhoud waar elk bestand aan moet voldoen.  
+13 Opleveringen: 
+- U dient uw concept rapportage (incl bijlagen) vóór 31 december van het betreffende 
+jaar op te leveren. 
+- U dient de ruwe kreeften vangstgegevens van de KRW waterlichamen uiterlijk 15 
+september van het betreffende jaar op te leveren. 
+- U dient uw concept databestanden vóór 31 december van het betreffende jaar op te 
+leveren. 
+- U dient binnen vier weken na reactie van HDSR uw definitieve rapport en 
+databestanden op te leveren. U bent bekend en gaat ermee akkoord dat HDSR streeft 
+naar een reactie op de definitieve concept rapportage binnen vier weken. 
+Overschrijding van deze termijn kan desalniettemin geen aanleiding voor u zijn om uw 
+reactie tijd te verlengen. 
+14 De jaarlijkse rapportage dient per KRW-waterlichaam en per afvoergebied te bevatten: 
+• Een overzicht van de aantallen per soort per meetpunt. De meetpunten worden 
+gegroepeerd weergegeven in tabellen per waterlichaam (of afvoergebied)  
+• Een totaal overzicht van alle aantallen per soort per KRW-waterlichaam (of 
+afvoergebied) 
+• Een overzicht van de lengteverdeling van de gevangen rivierkreeften per soort per 
+meetpunt. De meetpunten worden gegroepeerd weergegeven in tabellen per 
+waterlichaam (of afvoergebied) 
+• Een totaal overzicht van de lengteverdeling van de rivierkreeften per soort per KRW 
+waterlichaam (of afvoergebied) 
+• Totaalgewicht per meetpunt en per KRW waterlichaam (of afvoergebied) 
+• Een overzichtskaart van (delen van) het beheersgebied van HDSR, waarop de 
+aantallen rivierkreeften per soort weergeven wordt, zodoende dat er een ruimtelijk 
+beeld ontstaat van de verspreiding en relatieve aantallen van rivierkreeften.  
+Verder wordt per waterlichaam en per afvoergebied ingegaan op: het verloop van de 
+bemonstering, milieukenmerken, een kwalitatieve beschrijving van de vangst, de vangst 
+uitgedrukt als Catch per Unit Effort, bijvangst en een expertoordeel m.b.t. het aantal k reeften. 
+15 U dient de resultaten in de rapportages te presenteren met behulp van grafieken en tabellen. 
+Waar nodig dient de rapportage ondersteunt te worden met kaarten en foto’s.  
+16 U dient de rapportages en databestanden digitaal aan te leveren. 
+17 U dient alle werkzaamheden in lijn met het voorschrift Veilig werken op locaties: Voorschriften 
+en procedures voor contractors Groen en de bijlage met hoofdstuk 3.7 Werken op, langs of in 
+het water uit te voeren (bijlage 12). 
+18 U bent op de hoogte van de aanwezige biologische risico’s, zoals tekenbeten, Lyme -ziekte, 
+blauwalg, berenklauw, botulisme, ziekte van Weil en Gevlekte scheerling en u neemt zelf 
+passende maatregelen ter bescherming van uw medewerkers. 
+19  Het materieel dat u inzet bij uitvoering van de opdracht dient minimaal te voldoen aan de op dat 
+moment geldende eisen uit het basisniveau van het Convenant Schoon en Emissieloos Bouwen 
+(SEB). Daarnaast dient u als brandstof minimaal HVO100 in te zetten. De spelregels ten 
+aanzien van de inzet van materieel en te gebruiken brandstoffen zijn beschreven in de bijlage 
+“Schoon en Emissieloos Bouwen bij HDSR” (Bijlage 11). Afwijking van de minimale eisen is 
+alleen mogelijk in afstemming met Opdrachtgever.
+
+=== Document: nota van inlichtingen 1 ===
+Nota van Inlichtingen
+Datum: 19-1-2026
+Nr. Perceel Betreft Vraag Antwoord
+1 Rivierkreeftenmonitoring Kreeftenmonitoring Dienen de gevangen kreeften en krabben (exoten) weer vrijgelaten 
+te worden of dienen deze te worden vernietigd?
+Uitgangspunt is dat de kreeften weer worden teruggezet. Hierop 
+zijn uitzonderingen mogelijk, maar dat voorzien we op dit moment 
+niet. 
+2 Rivierkreeftenmonitoring Locaties Is er een digitale GIS kaart beschikbaar met daarop de te 
+onderzoeken locaties? De bijgeleverde excel bestanden bevatten 
+onjuiste X Y coördinaten
+De aangeleverde X Y coördinaten zijn Rijksdriehoekscoördinaten / 
+Amersfoortcoördinaten, deze kunnen ingelezen worden in GIS. 
+Geadviseerd wordt om coördinaten als een CSV in te laden. U 
+kunt de locaties ook terugvinden in onze storymap onder 
+Ecologische Toestand (wijzigingen in locaties voorrbehouden) 
+https://experience.arcgis.com/experience/73fa25434525432da394
+75ee2cbe3202/page/Overig-water
+3 Rivierkreeftenmonitoring kerncompetentie U vraag voor perceel 2 een kerncompententie aquatische 
+veldonderzoek, geld een e-dna onderzoek naar grote modderkruiper 
+hier ook voor?
+Ja
+4 Rivierkreeftenmonitoring kerncompetentie 
+ecologisch veldwerk
+U vraagt een kerncompetentie voor ecologisch veldwerk waarbij er in 
+één maand 320 uur aan ecologisch veldwerk is besteed dit zijn 
+minimaal 2 medewerkers die fulltime op een project bezig zijn. Bent 
+u in staat om deze eis aan te passen naar 3 maanden ipv. 1 maand, 
+dit komt meer in de buurt van de werkelijkheid. Hoe wilt u achteraf 
+controleren hoeveel uur er daadwerkelijk besteed is?
+In principe moeten de werkaamheden in het zomerhalfjaar worden 
+uitgevoerd. Bij collega waterschappen zien we vaak dat dergelijke 
+werkzaamheden in een korter tijdsbestek worden uitgevoerd i.v.m. 
+verspreiding van de rivierkreeft door de watergangen en de 
+vergelijkbaarheid van de vangstverschillen tussen locaties. Wij 
+willen ons hier graag verder over laten adviseren. Omdat wij een 
+aanzienlijk aantal locaties hebben en het werk mogelijk niet 
+evenredig over het zomerhalfjaar verdeeld wordt, willen wij 
+waarborgen dat inschrijvende partijen voldoende capaciteit 
+hebben voor deze werkzaamheden. Wij willen deze eis daarom 
+niet aanpassen. het aantonen van voldoende capaciteit mag 
+middels een beknopte notitie waarin wordt beschreven hoe in het 
+verleden invulling is gegeven aan vergelijkbare werkzaamheden. 
+5 Visstandmonitoring Algemene vraag Kunt u de Aquokit invoerbestanden van de eerder uitgevoerde 
+KRW/ASM visstandonderzoeken uit de periode 2021-2024 (en 
+eventueel 2025 indien gereed) ter beschikking stellen, zodat we hier 
+goed bij kunnen aansluiten?
+Deze kunnen ter beschikking worden gesteld. Als voorbeeld kunt u 
+gebruik maken van de bij de aanbestedingsdocumenten 
+opgenomen bijlage 15 5a_meetpunten_invoer_Aquo_Kit_vis en 
+5b_data_invoer_Aquo_Kit_vis
+6 Visstandmonitoring Algemene vraag Kunt u de rapportages van de eerder uitgevoerde KRW en ASM 
+visstandonderzoeken uit de periode 2021-2024 (en eventueel 2025 
+indien gereed) ter beschikking stellen, zodat we hier goed bij kunnen 
+aansluiten?
+Deze kunnen ter beschiking worden gesteld.
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+1
+Nota van Inlichtingen
+Datum: 19-1-2026
+Nr. Perceel Betreft Vraag Antwoord
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+7 Visstandmonitoring Bijlage 1A Programma van 
+Eisen, punt 9
+U voert de visbemonsteringen uit in de maanden september en/of 
+oktober. U heeft de voorkeur de KRW locaties in september te 
+bevissen. In het aanbestedingsdocument wordt echter een periode 
+van september tot half oktober genoemd. Welke is correct? Gelet op 
+het grote aantal meetlocaties is de periode september t/m half 
+oktober vrij beperkt. Bent u bereid om de bemonsteringsperiode voor 
+de ASM locaties te verruimen naar 15 augustus t/m 30 november?
+U dient de visbemonsteringen uit te voeren in september en/of 
+oktober. Augustus is niet mogelijk ivm afspraken met de 
+hengelsportverenigingen en de veelal hoge watertemperaturen. 
+Kleine, geïsoleerde wateren mogen in overleg met HDSR in 
+november worden bevist.
+8 Visstandmonitoring Bijlage 13b en 13c In bijlage 13b en 13c is een overzicht gegeven van de KRW/ASM 
+meetlocaties. Kunt u per meetlocatie aangeven wat de gevraagde 
+inspanning per meetlocatie en vistuig is? Bijvoorbeeld rondgooi 200 
+m zegen, 1000 m trek kuilvisserij, etc.
+De bemonsteringsmethodiek is afhankelijk van het watertype zoals 
+vermeld in  bijlage 13b en 13c en zoals beschreven in het 
+handboek hydrobiologie werkvoorschrift 13A. In bijlage 13b zijn de 
+vangtuigen veelal vermeld in de loc_oms. EL staat voor Elektro 
+(schepnet), ZE voor zegen, bij a/b/c is er rondgevist met de zegen. 
+Het traject per meetlocatie is standaard 250 meter lang. Tot 8 m 
+breed mag dit met Elektro (schepnet) worden bevist. Bredere 
+lijnvormige wateren worden bevist met een combinatie van Elektro 
+en zegen (slepen). Keernetten worden toegepast conform het 
+handboek. Het Merwedekanaal (NL14_07_) wordt als enige met 
+combinatie van Elektro en Kuil bevist. In meervormige wateren of 
+als vissen met een zegen niet mogelijk blijkt, dan mag met een 
+zegen worden rondgevist. Als richtlijn worden per elektro traject 
+van 250 m, 2x rondvissen met de zegen aangehouden om tot 
+voldoende bevist oppervlak te komen. 
+9 Visstandmonitoring Aanbestedingsdocument, 
+pag 6, paragraaf 5.4.2
+In het document is opgenomen dat de visstandbemonsteringen 
+mogen worden uitgevoerd in de periode van september tot half 
+oktober. In de afgelopen jaren zijn de bemonsteringen van de ASM 
+punten ook nog in de tweede helft van oktober uitgevoerd (als 
+uitloopmogelijkheid). Is dat binnen de huidige uitvraag ook 
+toegestaan?
+U dient de visbemonsteringen uit te voeren in september en/of 
+oktober. Kleine, geïsoleerde wateren mogen in overleg met HDSR 
+in november worden bevist.
+10 Visstandmonitoring Aanbestedingsdocument, 
+pag 25, paragraaf 5.4.2
+In de casus wordt gesproken over 20 visstandbemonsteringen. 
+Bedoelt HDSR daarmee de bemonstering van 20 
+trajecten/meetpunten?
+Dit gaat om 20 meetlocaties binnen één jaar.
+2
+Nota van Inlichtingen
+Datum: 19-1-2026
+Nr. Perceel Betreft Vraag Antwoord
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+11 Visstandmonitoring Aanbestedingsdocument, 
+pag 25, paragraaf 5.4.2
+In welke maanden wordt er gemaaid en betreft dit het maaien van de 
+oevers, watergang of beide?
+Daar waar najaar genoemd staat, wordt tussen 15 september en 1 
+november gemaaid. Baggerspuiten en schonen door 
+perceeleigenaren gebeurt tussen 15 juni en 1 november. Bij 50% 
+en 75% maaien wordt alleen in de watergang gemaaid en blijft er 
+aan de randen, in de watergang, vegetatie achter. De oevers van 
+de parallel lopende wetering zijn relatief flauw met een talud van 
+1:5 en worden 1x in de 2 jaar gemaaid. Alle andere oevers zijn in 
+het beheer van perceeleigenaren en worden veelal tot aan de 
+insteek gemaaid en/of begraasd. De oevers zelf worden tussen 15 
+september en 1 november gemaaid.
+12 Visstandmonitoring Aanbestedingsdocument, 
+pag 25, paragraaf 5.4.2
+Graag zouden we een (fictieve) kaart krijgen van het casusgebied 
+om een beter beeld van de situatie te krijgen.
+We begrijpen uw wens, maar we verwachten dat een kaart de 
+casus onnodig complexer maakt. U bent vrij om eventuele 
+omissies in de casus naar eigen wens te interpreteren.
+13 Visstandmonitoring Aanbestedingsdocument, 
+pag 25, paragraaf 5.4.2
+Zover wij kunnen terugvinden dient in de casus geen begroting te 
+worden opgenomen, maar wordt er wel een uitwerking gevraagd van 
+de 5 GOTIK (waaronder geld). Hoe dienen wij dit in de casus te 
+verwerken?
+U dient binnen de beantwoording van de casus een uitwerking te 
+geven aan het onderdeel 'geld'. Te denken valt aan een beknopte 
+begroting. U mag deze zelf vormgeven. Voor de daadwerkelijke 
+projecten geldt dat deze individueel veel van elkaar kunnen 
+verschillen. U maakt dan vooraf een nadere offerte. HDSR 
+gebruikt daarvoor de eenheidsprijzen uit het inschrijfbiljet als 
+referentie.
+14 Rivierkreeftenmonitoring Bijlage 4 B_ Inschrijfbiljet 
+perceel 2
+In het prijzenblad van de rivierkreeftmonitoring dient de prijs voor 4 
+jaar opgenomen te worden, hetgeen niet juist lijkt te zijn. De initiële 
+looptijd bedraagt immers twee jaar en de looptijd inclusief verlening 6 
+jaar.
+In het inschrijfbiljet is uitgegaan van 4 jaar, omdat we voor de 
+eerste 4 jaar goed kunnen voorspellen welke werkzaamheden 
+uitgevraagd gaan worden. Voor de laatste twee jaar is dat nog 
+onduidelijk; indien er in die jaren werkzaamheden worden 
+opgedragen, hanteren we daarbij dezelfde eenheidsprijzen.
+15 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Aanbestedingsdocument, 
+pag. 21, paragraaf 4.2
+Binnen deze opdracht wordt een behoorlijks SROI verplichting van 
+5% neergelegd bij de opdrachtnemer. Graag zouden we gezien de 
+aard van de werkzaamheden (specialistisch werk) dat deze eis wordt 
+bijgesteld naar 2% van de opdrachtwaarde.
+Dit is niet akkoord. HDSR zet vaker opdrachten uit waarbij het 
+door de specialistische aard van de werkzaamheden moeilijk is 
+om invulling te geven aan social return direct binnen de uitvoering 
+van de opdracht. Om hier rekening mee te houden zijn in bijlage 9 
+ook andere mogelijkheden uitgewerkt. Het werkgeverservicepunt 
+waar HDSR mee samenwerkt helpt u bij de invulling hiervan. De 
+ervaring leert dat dit goed werkbaar is.
+16 Rivierkreeftenmonitoring Aanbestedingsdocument, 
+pag. 7, paragraaf 1.3.2
+De optie bij kreeften om 20 punten per jaar mee te nemen is niet in 
+het prijzenblad terug te vinden. Hoe dienen we hiermee om te gaan?
+Indien HDSR besluit om dit op te dragen, dan wordt voor deze 
+locaties dezelfde eenheidsprijzen gehanteerd. Deze locaties zijn 
+niet meegenomen op het inschrijfbiljet omdat het nog onzeker is of 
+deze worden opgedragen.
+3
+Nota van Inlichtingen
+Datum: 19-1-2026
+Nr. Perceel Betreft Vraag Antwoord
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+17 Visstandmonitoring Aanbestedingsdocument, 
+pag. 5, paragraaf 1.
+U geeft aan dat de meetcyclus afhankelijk van de uitkomsten 
+mogelijk kan veranderen. We gaan er vanuit dat dit ook als meer- of 
+minderwerk wordt verrekend in de opdracht. Kunt u dit bevestigen?
+Nee, dat is niet het geval. Het aantal locaties dat is genoemd in 
+het inschrijfbiljet is een inschatting. De uiteindelijke prijs per jaar 
+wordt berekend aan de hand van het daadwerkelijke aantal 
+locaties en de bijbehorende inschrijfprijzen. Als er uiteindelijk meer 
+of minder locaties worden bemonsterd, wordt dit dus verrekend 
+aan de hand van de eenheidsprijzen.
+18 Rivierkreeftenmonitoring Aanbestedingsdocument, 
+pag 8, paragraaf 1.3
+In de uitvraag is de monitoringsperiode voor de rivierkreeften niet 
+concreet benoemd (zomerhalfjaar). Kunnen we ervan uitgaan dat de 
+periode door de opdrachtnemer kan worden voorgesteld en dat er 
+geen restricties zijn vanuit de VBC, zoals bij het visstandonderzoek?
+De periode van bemonstering dient onderbouwd voorgesteld te 
+worden door de opdrachtnemer. De afstemming met de VBC 
+loopt. Op dit moment zijn geen bezwaren of restricties bekend 
+vanuit de VBC. De verwachting is dat hier februari/ maart meer 
+over bekend is. Zodra er restricties bekend worden, zullen wij dit 
+communiceren. 
+19 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 2 - concept 
+Raamovereenkomst
+In artikel 4.8 geeft HDSR aan dat de betaling altijd achteraf 
+plaatsvindt. Gezien de doorlooptijd hebben we sterk de voorkeur om 
+meerdere facturatiemomenten per monitoringsjaar op te nemen 
+zoals de uitgaven meer in lijn komen te liggen met de 
+facturatiemomenten. Gaat u hiermee akkoord?
+Dat is akkoord. Het facturatieschema wordt als volgt aangepast: 
+30% na voorbereiding veldwerk, 40% na uitvoering veldwerk en 
+30% na acceptatie van de definitieve eindproducten door HDSR.
+20 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 1A-nr 22 & 1B-nr19 U geeft aan dat tijdens de opdracht minimaal voldaan moet worden 
+aan de SEB. Kun u in het kader van deze uitvraag concreet maken 
+wat dit binnen de looptijd van de opdracht voor consequenties heeft 
+ten aanzien van de huidige uitgangspunten
+De concrete eisen staan opgenomen in bijlage 11. Daar staat 
+bijvoorbeeld dat u verplicht bent HVO100 in te zetten. Dit geldt 
+voor alle in te zetten materieel. Ook staat er voor verschillende 
+materieelstukken uitgewerkt welk type verbrandingsmotor deze 
+minimaal dienen te hebben. Indien u vragen hebt over concrete 
+materieelstukken die u in wenst te zetten bij deze opdracht, dan 
+kunt u dit doen in de tweede vragenronde.
+21 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 1A&1B- nr 8 In navolging op onze eerdere vraag; Het komt regelmatig voor dat 
+een bewoner of diegene die de toestemming mag verlenen niet thuis 
+is. Het kost veel tijd om deze locaties wederom te bezoeken met de 
+hoop dat er wel iemand aanwezig is die je verder kan helpen. 
+Kunnen we ervan uitgaan dat bij afwezigheid van de aanwonende er 
+direct een alternatieve locatie wordt gezocht?
+We stellen voor om hier tijdens een startoverleg nadere afspraken 
+over te maken. Ons voorstel op dit moment is: 
+- werken met een 'niet thuis briefje' met terugbelverzoek om een 
+afspraak te maken voor de bemonstering. Een aanpak zoals deze 
+heeft de eerste voorkeur. 
+- als het een locatie is die al eerder verplaatst is vanwege geen 
+toestemming, nat weiland, etc, heeft het opnieuw bemonsteren 
+van de alternatieve locatie de voorkeur (mits deze representatief 
+is) 
+- als er niet wordt teruggebeld, of een afspraak maken niet lukt, 
+een alternatieve locatie kiezen binnen de voorwaarden die we 
+daarvoor meegeven.
+4
+Nota van Inlichtingen
+Datum: 19-1-2026
+Nr. Perceel Betreft Vraag Antwoord
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+22 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 1A&1B- nr 8 Het vooraf melden bij de aanwonende / de toestemmingsaanvraag 
+heeft in de afgelopen jaren veel tijd gekost. Deels omdat niet helder 
+is bij wie we ons moesten melden. Kunt u ons van de juiste 
+contactgegevens per meetpunt voorzien zodat we op voorhand de 
+meldingen kunnen uitvoeren?
+Wij kunnen u voorzien van een adres per meetlocatie. Dit is dan 
+het adres waar u zich naar verwachting, op basis van onze 
+kaartgegevens, kan melden. 
+23 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 2 - concept 
+Raamovereenkomst
+In artikel 4 geeft u aan dat opdrachtnemer de mogelijkheid heeft om 
+eenmaal per jaar (per 1 mei) de prijzen te indexeren. We zouden 
+graag zien dat dit moment wordt vervroegd zodat het beter 
+synchroon loopt met de werkzaamheden per jaarcyclus. Wilt u 
+overwegen om dit aan te passen?
+De reden om de indexatie in te laten gaan per 1 mei is omdat dan 
+het definitieve indexatiecijfer bekend is. Wij zien geen redenen om 
+dit aan te passen, omdat het grootste deel van de werkzaamheden 
+plaats zal vinden na 1 mei. Eventueel kunt u wachten met het 
+indienen van facturen tot na 1 mei. 
+24 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 2 - concept 
+Raamovereenkomst
+In artikel 3.4 staat een maximale omvang benoemd van €435.000. 
+Kunnen we ervan uitgaan dat u dit in de definitieve overeenkomst 
+aanpast naar de bedragen zoals vermeld in 1.6 van het 
+aanbestedingsdocument?
+In dit artikel is per abuis een onjuist bedrag opgenomen. In de 
+definitieve raamovereenkomst zal dit worden aangepast naar 
+€1.035.000 voor perceel 1 en €457.500 voor perceel 2.
+25 Visstandmonitoring, 
+Rivierkreeftenmonitoring
+Bijlage 1B, nr. 6 U geeft aan dat opdrachtnemer zelf dient te voorzien in o.a. de 
+benodigde toestemmingen. Onze ervaring is dat het vaak ook gaat 
+om toestemming van particuliere eigenaren. Dit geeft u zelf ook aan 
+in het aanbestedingsdocument (pag 6.)  Voor de opdrachtnemende 
+partij zijn gegevens van eigenaren niet vrij toegankelijk. U geeft 
+daarbij ook aan een communicatieproces te starten. Kunt u 
+bevestigen dat het verkrijgen van toestemmingen van eigenaren een 
+gedeelde effort vraagt van opdrachtgever en opdrachtnemer en dat 
+HDSR de benodigde informatie aanlevert aan opdrachtnemer?
+Het is in die zin een gedeelde effort dat we kunnen delen welke 
+locaties er een informerende brief hebben ontvangen en dat we 
+het verwachte aanmeldadres per locatie kunnen aangeven. U zult 
+zich alsnog ter plekke moeten melden voor de daadwerkelijke 
+toestemming voor het betreden van het perceel. HDSR heeft 
+helaas geen beschikking tot telefoonnummers of andere 
+methoden om vooraf expliciet betredingstoestemming 
+(uitgezonderd van natuurbeheerders) te verkrijgen. Daarnaast 
+speelt mee dat een meetlocatie soms op het terrein van eigenaar 
+A ligt, maar tussenliggende percelen, paden, erven etc. van 
+andere personen zijn. Ook kan er sprake zijn van bijvoorbeeld 
+pacht, waardoor HDSR niet altijd in beeld heeft in wie er benaderd 
+moet worden. 
+Voor de kreeftenmonitoring wordt een aanvullend 
+communicatieproces gestart door HDSR om de eigenaren te 
+informeren en toegang tot de locaties te bevorderen. Hoe dit 
+communicatieproces eruit gaat zien is op moment van schrijven 
+nog niet duidelijk. De verwachting is wel dat ook de andere ASM-
+monitoring, waaronder vis, hier (dus vanaf 2027) hier baat van zal 
+hebben.
+5
+
+=== Document: nota van inlichtingen 2 ===
+Nota van Inlichtingen
+Datum: 5-2-2026
+Nr. Perceel Betreft Vraag Antwoord
+26 Visstandmonitoring NVI1, vraag 6 Staat u open voor alternatieve wijzen van rapportage? Ja, mits in overleg samen overeengekomen. De huidige rapportage worden als zeer nuttig 
+ervaren.
+27 Visstandmonitoring NVI1, vraag 6 In de ter beschikking gestelde rapportages bestaan de resultaten primair 
+uit bestandsschattingen, toestandbeoordeling en een korte interpretatie. 
+Klopt het dat dit voor de komende visstandmonitoring ook de gewenste 
+resultaten zijn en dat er in de rapportage geen aanvullende 
+'onderzoeksvragen' beantwoord dienen te worden zoals eerder opgemaakt 
+kon worden uit de Aanbestedingsleidraad   (5.4.1. onder de kop 'Data en 
+rapportage')?
+In de rapportage dienen onderzoeksvragen beantwoord te worden. De onderzoeksvragen 
+zoals bedoeld bij het gunningscriterium staan in het Aanbestedingsdocument in 1.3.1 
+Visstand. In de beschikking gestelde rapportages worden deze vragen ook beantwoord voor 
+zowel KRW als ASM. Voor projectmonitoring kunnen, afhankelijk van het soort project, wel 
+afwijkende onderzoeksvragen gesteld worden. Let ook op  de eisen die aan de rapportage 
+gesteld worden, waaronder eis 17 in bijlage 1A.
+28 Visstandmonitoring NVI1, vraag 7 Kunt u een kaart aanleveren van de geisoleerde wateren die we in 
+november mogen bemonsteren?
+Dit gaat slechts om enkele locaties die (nagenoeg) geïsoleerd liggen: NL14_21521, 
+NL14_21171, NL14_21262, NL14_21207. U kunt ze desgewenst met de coördinaten uit 
+locatie overzicht 13c ASM_meetlocaties_incl_planning zelf plotten op kaart.
+29 Visstandmonitoring NVI1, vraag 7 Met betrekking tot planning in de voorziene periode, is bekend of er 
+locaties zijn met risico op droogval?
+Binnen de gekozen meetlocaties is de droogval beperkt. Dit is met name risico in de meest 
+oostelijk gelegen afvoergebieden. Ter informatie, in 2026 waren er in het afvoergebied 
+onderaan de Utrechtse heuvelrug 2 locaties die (bijna) droog waren gevallen. Aan u wordt 
+gevraagd ter plekke een alternatieve locatie te selecteren als dit het geval blijkt.
+30 Visstandmonitoring NVI1, vraag 9 Bij vraag 9 in de 1e NVI wordt een antwoord gegeven op een vraag over 
+de voorgeschreven bemonsteringsperiode. In de kolom onder betreft staat 
+hier pag. 6 en paragraaf 5.4.2. Klopt het dat dit antwoord betrekkking heeft 
+op uitsluitend pagina 6 en dus niet op paragraaf 5.4.2 (casus)? Bij de 
+casus wordt namelijk aangegeven dat de bemonsteringsperiode vrij te 
+kiezen is.
+Dit klopt; in uw uitwerking van de casus bent u vrij om zelf de bemonsteringsperiode te 
+kiezen. 
+31 Visstandmonitoring NVI1, vraag 23 Kunt u expliciet aangeven op welk tarief de jaarlijkse indexatie van 
+toepassing is in de volgende jaren? Kunt u bevestigen dat bij meerdere 
+jaren het geïndexeerde tarief (bijvoorbeeld voor 2027) gehanteerd wordt 
+voor de opvolgende indexatie (voor 2028) en niet voor de komende 
+indexaties steeds weer uitgegaan wordt van de opgegeven tarieven voor 
+2026? 
+U vindt de formule die gebruikt wordt voor indexering in artikel 4.6 van de raamovereenkomst. 
+Daarbij wordt inderdaad steeds de indexatie toegepast bovenop het dan geldende tarief. 
+32 Visstandmonitoring NVI1, vraag 25 Bij vraag 25 in de 1e NVI wordt aangegeven dat u het verwachte 
+aanmeldadres per locatie kunt aangeven voor de toestemmingsaanvraag, 
+maar dat dit overzicht mogelijk incompleet is. Is voor de 
+visrechthebbenden wel een compleet overzicht met contactgegevens 
+beschikbaar waarin staat wie voor welke locaties benaderd dient te worden 
+(voor zowel KRW als ASM)?
+Hengelsportverenigingen en beroepsvissers die visrecht huren van HDSR zijn bekend. HDSR 
+kan deze kaart tzt met u delen. Visrechten die verhuurd zijn door gemeentes zijn te 
+raadplegen via de Visplanner. Met behulp van deze kaarten en de meetlocaties van het 
+betreffende jaar kunt u een overzicht maken van de betrokken hengelsportverenigingen en 
+beroepsvissers. Het aanschrijven verloopt via onze contactpersoon van de VBC. 
+Contactgegegevens van de verenigingen en beroepsvissers zelf zijn ook bekend. Soms is 
+aanvullend mailverkeer of telefonisch contact wel noodzakelijk. In tertiar water (ASM) is de 
+visrechthebbende niet altijd bekend, omdat visrechten door de eigenaar verhuurd kunnen zijn. 
+Op basis van ervaringen met eerder visstandonderzoek levert dit doorgaans geen problemen 
+op.
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+1
+Nota van Inlichtingen
+Datum: 5-2-2026
+Nr. Perceel Betreft Vraag Antwoord
+Europese openbare aanbesteding
+Visstand- en rivierkreeftenmonitoring
+33 Rivierkreeftenmonitoring Antwoord NVI1, vraag 18 U geeft in het antwoord op vraag 18 aan dat de inschrijver een voorstel 
+mag doen voor de periode van uitvoering. Het is in dit stadium voor ons 
+een risico om een inschrijving op te stellen, omdat we niet met zekerheid 
+kunnen stellen dat het voorstel van de periode wordt gehonoreerd. Het is 
+mogelijk dat het werk, als gevolg van de restricties vanuit de 
+visrechthebbende in een andere periode moet worden uitgevoerd, waarin 
+mogelijk geen capaciteit meer bij de inschrijver voorhanden is. Een bericht 
+daarover, zoals u dat aangeeft in in februari / maart is te laat. Graag 
+zouden we daarom uiterlijk twee weken voor inschrijving uitsluitsel willen 
+ontvangen van mogelijk restricties m.b.t. de uitvoeringsperiode. I
+Wij kunnen nu geen volledige aanvraag doen voor een periode, omdat wij niet weten in welke 
+periode u wenst te monitoren. Wij verwachten weinig restricties aan de periode voor 
+kreeftenmonitoring, maar beseffen dat dit geen zekerheid geeft. Daarom bespreken wij de 
+kreeftenmonitoring van 2026 in de aankomende VBC vergadering van 10 februari en hebben 
+wij vooruitlopend hierop reeds per mail een uitvraag gedaan, met daarin een voorlopige 
+periode van april t/m juli. Uiterlijk 19 februari verwachten wij reactie. Dit zal (te) kortdag zijn 
+voor uw inschrijving. Zodra er signalen zijn dat er beperkingen aan de monitoring opgelegd 
+worden dan delen wij dit met u. Op dit moment weten we van ongeveer 40 locaties in 2026 
+dat er geen beperkingen zijn voor kreeftenonderzoek. We verwachten uiteindelijk voor een 
+groot deel van de locaties geen beperkingen.
+34 Rivierkreeftenmonitoring Antwoord op vraag 18, 2 Indien het niet mogelijk is om twee weken voorafgaand aan de inschrijving 
+uitsluitsel te geven over eventuele restricties m.b.t. de uitvoeringsperiode 
+is het een groot risico voor de inschrijvers om in te schrijven. Hoe gaat u er 
+na opdrachtverlening mee om als blijkt dat er restricties worden opgelegd 
+m.b.t. de uitvoeringsperiode en deze niet overeenkomen met die van de 
+inschrijver en inschrijver geen capaciteit heeft om in de voorgeschreven 
+periode het werk uit te voeren?
+Wij gaan er vanuit dat u zelf een onderzoeksperiode voorstelt en dat u de capaciteit heeft om 
+het werk in die periode uit te voeren. Als er beperkingen op de monitoringsperiode worden 
+opgelegd, zodanig dat (een deel van) het werk niet uitvoerbaar is, dan zoeken we in onderling 
+overleg naar wat er wel mogelijk is. De conclusie van dit overleg kan zijn dat een deel van de 
+geplande meetlocaties niet onderzocht kan worden in het gewenste meetjaar. 
+35 Visstandmonitoring antwoord vraag 11 U heeft een overzicht gegeven van de verschillende maai- en 
+onderhoudsregimes, maar ons is het overzicht niet duidelijk te maken. Zo 
+is het ons niet duidelijk hoe het schonen er bij de perceeleigenaren eruit 
+ziet. Zou u ter verduidelijking een tabel op kunnen nemen waarin dit is 
+uiteengezet?
+36 Visstandmonitoring Antwoord NVI 1, vraag 7 U geeft aan dat kleine, geïsoleerde wateren in overleg in november bevist 
+mogen worden. Wij gaan ervanuit dat in beginsel de wateren bemonsterd 
+worden vóór 1 november en dat latere bemonsteringen enkel bij 
+uitzondering zijn vanwege de minder homogene verspreiding. Klopt dit?
+Dat klopt. Het streven moet zijn om de bemonsteringen voor 1 november uit te voeren. 
+2
+
+=== Document: uea_560628_20251209113624 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 29TN-560628 - 9 dec 2025
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 560628
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: Hoogheemraadschap De Stichtse Rijnlanden
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Visstand- en rivierkreeftenmonitoring
+Korte beschrijving van de 
+aanbesteding:
+Monitoren van visstand en aanwezigheid van rivierkreeften in wateren in het HDSR 
+beheergebied.
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+-
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 29TN-560628 - 9 dec 2025
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 29TN-560628 - 9 dec 2025
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 29TN-560628 - 9 dec 2025
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 29TN-560628 - 9 dec 2025
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 29TN-560628 - 9 dec 2025
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 29TN-560628 - 9 dec 2025
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 29TN-560628 - 9 dec 2025
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 29TN-560628 - 9 dec 2025
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 29TN-560628 - 9 dec 2025
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 29TN-560628 - 9 dec 2025
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 29TN-560628 - 9 dec 2025
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 29TN-560628 - 9 dec 2025
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 29TN-560628 - 9 dec 2025
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 29TN-560628 - 9 dec 2025
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 29TN-560628 - 9 dec 2025
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 29TN-560628 - 9 dec 2025
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 29TN-560628 - 9 dec 2025
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 29TN-560628 - 9 dec 2025
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 29TN-560628 - 9 dec 2025
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het 
+milieu-, sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 29TN-560628 - 9 dec 2025
+Beschrijf de genomen maatregelen:
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers 
+getroﬀen, of hij verkeert in een andere, vergelijkbare toestand ingevolge een 
+soortgelijke procedure uit hoofde van nationale wet- of regelgeving, of zijn activa 
+worden beheerd door een curator of door de rechtbank, of zijn bedrijfsactiviteiten 
+zijn gestaakt?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 29TN-560628 - 9 dec 2025
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht 
+zijn op vervalsing van de mededinging?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 29TN-560628 - 9 dec 2025
+Beschrijf de genomen maatregelen:
+Belangenconﬂict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconﬂict als gevolg van zijn 
+deelneming aan de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 29TN-560628 - 9 dec 2025
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of 
+een met hem verbonden onderneming anderszins betrokken geweest bij de 
+voorbereiding van de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Prestaties uit het verleden
+Wetsverwijzing(en): Artikel 2.87, lid 1g Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer blijk gegeven van aanzienlijke of voortdurende tekortkomingen 
+bij de uitvoering van een wezenlijk voorschrift van een eerdere overheidsopdracht, 
+een eerdere opdracht van een speciale-sectorbedrijf of een eerdere 
+concessieopdracht en heeft dit geleid tot vroegtijdige beëindiging van die eerdere 
+opdracht, tot schadevergoeding of tot andere vergelijkbare sancties?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 29TN-560628 - 9 dec 2025
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft 
+gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is om 
+te controleren of er geen gronden voor uitsluiting zijn dan wel of aan de 
+selectiecriteria wordt voldaan, hij dergelijke informatie niet heeft achtergehouden, hij 
+de door de aanbestedende dienst of aanbestedende entiteit gevraagde 
+ondersteunende documenten onverwijld heeft kunnen overleggen.
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 29TN-560628 - 9 dec 2025
+a.  
+b.  
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces 
+van de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,
+om vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, 
+selectie of gunning?
+Bevestigen:  Ja
+ Nee
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 29TN-560628 - 9 dec 2025
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+(Ondertekenen kan alleen schriftelijk na printen.)
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 29TN-560628 - 9 dec 2025
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 29 van 29TN-560628 - 9 dec 2025
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.

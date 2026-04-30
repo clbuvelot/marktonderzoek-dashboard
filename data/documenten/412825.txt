@@ -1,0 +1,2856 @@
+=== Document: bijlage b - programma van eisen ===
+Programma van Eisen  
+Rijksinkoopsamenwerking 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN Den Haag 
+Postbus 20011 
+2500 EA Den Haag 
+Bijlage B 
+Naleving van uitkeringsverplichtingen 
+E
+uropese aanbesteding 
+Openbare procedure 
+v
+oor het   
+Ministerie van Sociale Zaken en Werkgelegenheid 
+D
+e directie Stelsel en Volksverzekeringen 
+Datum 22 september 2025 
+Kenmerk 201865005.011.086 
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 2 van 7 
+ 
+1. Programma van Eisen 
+ 
+Ondergetekende(n) via het UEA,  
+ 
+verklaart volledig en onvoorwaardelijk te voldoen aan de onderstaande Eisen die gesteld worden 
+aan de uit te voeren Opdracht als ook de overige in de opdrachtbeschrijving gestelde eisen en 
+voorwaarden, zoals opgenomen in het Beschrijvend document en de daarbij behorende Bijlagen. 
+ 
+Eisen met betrekking tot de algemene dienstverlening 
+Eis 1. Opdrachtnemer declareert uitsluitend daadwerkelijk gemaakte kosten. Om de twee 
+jaar wordt een kwantitatief onderzoek uitgevoerd, waarvan de gemaakte kosten 
+worden gedeclareerd. Binnen deze periodes van twee jaar kan, indien Opdrachtgever 
+dit wenst, telkens een verdiepend onderzoek plaatsvinden, ook hiervoor worden de 
+daadwerkelijk gemaakte kosten gedeclareerd. Er geldt geen afnameverplichting voor 
+Opdrachtgever met betrekking tot dit verdiepende onderzoek. 
+ 
+Eis 2. Het kwantitatieve en het bijbehorende optionele verdiepende onderzoek wordt om de 
+twee jaar uitgevoerd. Het eruit voortkomende onderzoeksrapport met de resultaten 
+dient uiterlijk half november te worden opgeleverd. Het conceptrapport dient half 
+oktober van het lopende kalenderjaar te worden aangeleverd. 
+ 
+Eis 3. Opdrachtnemer dient te beschikken over effectieve wervingsmogelijkheden 
+(bijvoorbeeld een eigen panel of andere methoden) waarmee gegarandeerd kan 
+worden dat per onderzoek voldoende en relevante respondenten beschikbaar zijn. 
+ 
+Eis 4. De rapportage van het kwantitatieve onderzoek bevat in ieder geval de navolgende 
+onderdelen. Het staat het onderzoeksbureau uiteraard vrij om een geschikte indeling 
+voor de rapportage voor te stellen, maar wij zien in de rapportage graag het volgende 
+terug: 
+- Managementsamenvatting 
+- Inleiding: 
+o Achtergrond van het onderzoek 
+o Schets van de actuele context 
+ Inzicht ontwikkeling per regeling en overzicht van eventuele 
+grote veranderingen per regeling (in wetgeving of uitvoering) 
+– hiervoor zullen UWV, SVB, gemeenten en SZW input leveren  
+ Maatschappelijke ontwikkelingen 
+- Onderzoeksopzet: 
+o Toelichting op kwantitatief onderzoek 
+ Ingaan op methoden, steekproef, representativiteit, 
+vergelijkbaarheid, sociale wenselijkheid et cetera. 
+- Resultaten: 
+o Overzichtelijke tabellen en figuren 
+o Trendanalyses en duiding 
+- Conclusies 
+ 
+Let op: Indien wordt besloten het optionele verdiepende onderzoek uit te voeren, 
+wordt hiervan eveneens een schriftelijke rapportage opgesteld in het jaar dat het 
+onderzoek wordt uitgevoerd. In deze rapportage worden het doel en de aanleiding 
+van het onderzoek toegelicht, de gehanteerde methoden beschreven en de 
+bevindingen overzichtelijk weergegeven. Tevens bevat de rapportage een duiding van 
+de resultaten in relatie tot de onderzoeksvraag en een conclusie. 
+ 
+ 
+ 
+ 
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 3 van 7 
+ 
+Eisen met betrekking tot Informatiebeveiliging en Privacy 
+ Normen, standaarden, richtlijnen 
+Eis 5. Indien Opdrachtnemer gebruik maakt van een clouddienst voor de verwerking van 
+gegevens van Opdrachtgever, dienen gepaste maatregelen te zijn getroffen, conform 
+het vigerende Rijksbreed Cloudbeleid1. 
+ 
+ Beleid 
+Eis 6. Opdrachtnemer dient ten behoeve van informatiebeveiliging een 
+informatiebeveiligingsbeleid te hebben vastgesteld, dat met geplande tussenpozen en 
+als zich significante wijzigingen voordoen, dient te worden beoordeeld.  
+ 
+Eis 7. Er dient aantoonbaar aandacht te zijn voor het bevorderen van bewustzijn ten aanzien 
+van informatiebeveiliging en privacy onder medewerkers.  
+ 
+ Toegangsbeveiliging 
+Eis 8. Een beleid voor toegangsbeveiliging dient te zijn vastgesteld, gedocumenteerd en 
+beoordeeld op basis van bedrijfs- en informatiebeveiligingseisen. 
+ 
+Eis 9. Ten behoeve van telewerken dienen passende beveiligingsmaatregelen te zijn 
+genomen. 
+ 
+Eis 10. Als vanuit een onvertrouwde zone toegang wordt verleend tot een vertrouwde zone, 
+gebeurt dit alleen op basis van minimaal twee-factor authenticatie. 
+ 
+Eis 11. Opdrachtnemer heeft een wachtwoordbeleid vastgesteld en gedocumenteerd dat is 
+gebaseerd op ISO27002:2022 beheersmaatregelen.  
+ 
+Eis 12. Voor de toegang tot het informatiesysteem waarin de gegevens van Opdrachtgever 
+worden verwerkt, wordt gebruik gemaakt van persoonsgebonden loginnamen. Het 
+gebruik van niet- persoonsgebonden loginnamen zoals groupaccounts of functionele 
+accounts is niet toegestaan, tenzij dit wordt gemotiveerd en vastgelegd door de 
+proceseigenaar. 
+ 
+Eis 13. Autorisaties worden bepaald, toegewezen en beheerd op basis van rollen. 
+ 
+Eis 14. Toegang tot gegevens, informatiesystemen en systeemfuncties wordt beperkt, op basis 
+van ‘need to know’ en ‘Least Privilege’. Deze toegang (wie heeft toegang met welke 
+autorisatie) dient één keer per kwartaal te worden gecontroleerd en waar nodig 
+gecorrigeerd. 
+ 
+Eis 15. De onderzoeksgegevens van Opdrachtgever dienen waterdicht te zijn afgeschermd van 
+de gegevens van andere klanten van Opdrachtnemer. 
+ 
+ Cryptografie 
+Eis 16. Cryptografische toepassingen voldoen aan passende standaarden van het Forum 
+Standaardisatie. 
+ 
+Eis 17. De sterkte van de cryptografie wordt gebaseerd op de actuele adviezen van het NCSC. 
+ 
+Eis 18. Ter bescherming van gegevens dient Opdrachtnemer een beleid voor het gebruik van 
+cryptografische beheersmaatregelen te hebben geïmplementeerd.  
+ 
+Eis 19. Onderzoeksgegevens dienen zowel in rust als tijdens transport te zijn versleuteld. 
+ 
+ Mobiele apparatuur 
+ 
+1 https://open.overheid.nl/documenten/ronl-a79331dc7c088f2cb6259f591c3b4f2fbcc9b5f1/pdf  
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 4 van 7 
+ 
+Eis 20. Opdrachtnemer heeft beleid en ondersteunende beveiligingsmaatregelen vastgesteld 
+om de risico’s die het gebruik van mobiele apparatuur met zich meebrengt te beheren. 
+ 
+Eis 21. De mobiele apparatuur die Opdrachtnemer inzet bij deze opdracht maakt deel uit van 
+patchmanagement en hardening. 
+ 
+Eis 22. De mobiele apparatuur die Opdrachtnemer inzet bij deze opdracht is zo ingericht dat 
+onderzoeksgegevens niet onbewust worden opgeslagen (‘zero footprint’). Als zero 
+footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, 
+tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van 
+een toegangsbeveiligingsmechanisme en, indien vertrouwelijke gegevens worden 
+opgeslagen, versleuteling van die gegevens. In het geval van opslag van 
+vertrouwelijke gegevens moet op deze mobiele apparatuur ‘wissen op afstand’ 
+mogelijk zijn. 
+ 
+Eis 23. Ter bescherming tegen malware dienen aantoonbaar beheersmaatregelen voor 
+detectie, preventie en herstel te zijn geïmplementeerd in combinatie met een passend 
+bewustzijn van gebruikers. De beheersmaatregelen zijn van toepassing op Endpoint 
+devices, servers, netwerkinfrastructuur en dataopslagapparatuur zowel fysiek als 
+gevirtualiseerd, zowel in eigen beheer als bij clouddiensten. Met andere woorden: dit is 
+van toepassing op de gehele leveranciersketen van de ingezette ICT-apparatuur.  
+ 
+Eis 24.  Er dient een beleid te zijn opgesteld voor patchmanagement waarmee zo spoedig 
+mogelijk en proactief patches worden geïnstalleerd. 
+ 
+ Leveranciersrelatie 
+Eis 25. Opdrachtnemer moet haar keten van toeleveranciers bekendmaken en transparant zijn 
+over de maatregelen die zij genomen heeft om de aan haar opgelegde eisen ook door 
+te vertalen naar haar toeleveranciers. 
+ 
+Eis 26. Bij beëindiging van de opdracht behandelt Opdrachtnemer de onderzoeksgegevens 
+conform de vastgelegde afspraken in de overeenkomst (overdragen of vernietigen). 
+ 
+Eis 27. Opdrachtnemer levert een verklaring van vernietiging van de persoonsgegevens aan 
+Opdrachtgever bij het beëindigen van de opdracht. 
+ 
+ Bedrijfscontinuïteit 
+Eis 28. De ICT-gereedheid dient te worden gepland, geïmplementeerd, onderhouden en getest 
+op basis van bedrijfscontinuïteitsdoelstellingen en ICT-continuïteitseisen. 
+ 
+Toelichting: Opdrachtnemer heeft aantoonbaar adequate maatregelen genomen, zodat 
+de bedrijfsactiviteiten die nodig zijn om de continuïteit van het onderzoek en de daarbij 
+verwerkte gegevens te waarborgen, zelfs bij een ernstige verstoring. Hierbij wordt in 
+eerste instantie gedacht aan back-up en recovery (incl. offline/offsite back-up), maar 
+ook indirecte maatregelen als malware/ransomware protection en file encryption, zijn 
+hierbij een preventieve maatregel. 
+ 
+Eis 29. Er dient een back-up en recovery beleid te zijn geïmplementeerd dat in ieder geval 
+ondersteunend is aan de uitvoering van de overeenkomst.  
+ 
+Het back-upbeleid van Opdrachtnemer ondersteunt minimaal de volgende eisen van 
+Opdrachtgever:  
+• Dataverlies bedraagt maximaal 24 uur;  
+• Hersteltijd in geval van incidenten is maximaal 16 werkuren (2 dagen van 8 uur). 
+ 
+ Logging 
+Eis 30. Logging is geïmplementeerd om gebruikersactiviteiten te registreren en adequate 
+afhandeling van informatiebeveiligingsincidenten zoals onbevoegde toegang en mutatie 
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 5 van 7 
+ 
+van gegevens mogelijk te maken. 
+ 
+ 
+Eis 31. Logfaciliteiten en informatie in logbestanden behoren te worden beschermd tegen 
+vervalsing en onbevoegde toegang. 
+ 
+Eis 32. Ten behoeve van de loganalyse is de bewaarperiode van de logging bepaald. Binnen 
+deze periode is de beschikbaarheid van de loginformatie gewaarborgd door 
+Opdrachtnemer. 
+ 
+ Scheiding in netwerken 
+Eis 33. Groepen van informatiediensten, -gebruikers en -systemen  
+dienen in netwerken te worden gescheiden. 
+ 
+ Informatiebeveiligingsincidenten 
+Eis 34. Informatiebeveiligingsincidenten dienen zo spoedig mogelijk, in ieder geval binnen 24 
+uur na constatering, aan Opdrachtgever te worden gemeld. 
+ 
+ Privacy 
+Eis 35. Opdrachtnemer neemt bij de verwerking van persoonsgegevens de beginselen van de 
+AVG in acht. 
+ 
+Eis 36. Opdrachtnemer dient medewerking te verlenen aan de tijdige uitvoering van een DPIA 
+indien van toepassing, voordat de verwerking van persoonsgegevens aanvangt. 
+ 
+Eis 37. Opdrachtnemer ondertekent een verwerkersovereenkomst voordat de verwerking van 
+de persoonsgegevens aanvangt. 
+ 
+Eis 38. Pseudonimisering en/of anonimisering van (zeer) bedrijfs- en privacygevoelige 
+informatie dient op een passend niveau te worden toegepast. 
+ 
+ 
+Eisen met betrekking tot de prijsstelling en facturatie 
+Eis 39. Opdrachtnemer biedt prijzen/ tarieven in Euro’s aan in zowel exclusief als inclusief 
+btw.  
+ 
+Eis 40. 
+ 
+Opdrachtnemer geeft, indien u aangeeft geen btw in rekening te hoeven brengen, de 
+reden hiervoor aan en de hieraan ten grondslag liggende bewijsstukken voegt u bij 
+(aan) de Inschrijving. 
+ 
+Eis 41. Opdrachtnemer vrijwaart Opdrachtgever voor eventuele aanspraken van de 
+Belastingdienst. 
+ 
+Eis 42. Opdrachtnemer is aansprakelijk voor de (extra) kosten inzake btw indien deze ten 
+onrechte niet, of voor een onjuist bedrag bij Deelnemer in rekening worden gebracht.  
+ 
+Toelichting 
+De verantwoordelijkheid voor een juiste btw-afdracht ligt te allen tijde bij 
+Opdrachtnemer.  
+ 
+Eis 43. Opdrachtnemer zorgt ervoor dat de facturen minimaal voldoen aan de wettelijke 
+eisen.  
+ 
+Toelichting 
+Facturen die hier niet aan voldoen, worden niet in behandeling genomen. De 
+wettelijke eisen aan facturen staan gepubliceerd op de site van de Belastingdienst. 
+ 
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 6 van 7 
+ 
+Eis 44. Opdrachtnemer accepteert dat een aanspraak op vergoeding vervalt, voor zover 
+Opdrachtnemer de vergoeding niet aan Opdrachtgever in rekening heeft gebracht 
+binnen een jaar na het eerste tijdstip waarop hij dat had mogen doen. 
+ 
+ 
+Eisen met betrekking tot Communicatie en contractmanagement 
+Eis 45. Opdrachtnemer is op werkdagen tijdens kantooruren (tussen 09.00 en 17.00 uur) 
+voor Opdrachtgever zowel telefonisch als via e-mail bereikbaar. 
+ 
+Eis 46. Opdrachtnemer wijst één centraal contactpersoon aan. 
+ 
+Toelichting 
+De contactgegevens van uw contactpersoon en die van Opdrachtgever worden bij 
+gunning aangedragen en worden vermeld in de Overeenkomst. Bij wijzigingen van de 
+contactpersonen, stellen partijen elkaar schriftelijk zo spoedig mogelijk op de hoogte. 
+ 
+Eis 47. Opdrachtnemer neemt deel aan de door Opdrachtgever georganiseerde 
+overlegvormen (operationeel, tactisch en strategisch), dat nodig geacht wordt in het 
+kader van de uitvoering van de Opdracht. 
+ 
+ 
+Eisen met betrekking tot Social return 
+Eis 48. Opdrachtnemer besteedt minimaal 5% van de gerealiseerde opdrachtwaarde tijdens 
+de looptijd van de Overeenkomst aan een nieuw social return initiatief of een 
+uitbreiding van een bestaand initiatief. 
+ 
+Toelichting 
+Het is de taak van de overheid om mensen met een afstand tot de arbeidsmarkt te 
+ondersteunen. Zodat iedereen zoveel mogelijk meedoet in de samenleving en uitzicht 
+houdt op werk en inkomen. Meer achtergrondinformatie vindt u op 
+http://www.maatwerkvoormensen.nl
+. 
+ 
+Wij vinden social return belangrijk en willen graag impact creëren en tegelijkertijd dat 
+het proportioneel blijft. Daarom geven wij u de mogelijkheid een vrije invulling aan 
+social return te geven. Dit mag zowel direct als indirect verband houden met de 
+opdracht. 
+ 
+Het initiatief moet betrekking hebben op mensen uit één of meerdere van de 
+volgende doelgroepen: 
+• Participatiewet gerechtigden (voorheen: WWB, WSW en Wajong). 
+• Werkloosheidswet (WW) gerechtigden, die langer werkloos zijn dan 12 
+maanden, en/of 50 jaar of ouder zijn. 
+• Wet Werk en Inkomen naar Arbeidsvermogen (WIA) gerechtigden. 
+• Regeling Werkhervatting Gedeeltelijk Arbeidsgeschikten (WGA) gerechtigden. 
+• Wet Arbeidsongeschiktheid zelfstandigen (WAZ) gerechtigden. 
+• Wet Inkomensvoorziening Oudere en gedeeltelijk Arbeidsongeschikte.  
+• Werkloze werknemers (IOAW) gerechtigden. 
+• De Wet Inkomensvoorziening Oudere en gedeeltelijk Arbeidsongeschikte 
+gewezen Zelfstandigen (IOAZ) gerechtigden. 
+• Leer/werkplekken voor niet uitkeringsgerechtigde werkzoekenden (nuggers). 
+• Leer/werkplekken voor vroegtijdig schoolverlaters en jongeren met 
+onvoldoende kwalificaties. 
+• Leer/werkplekken in het kader van BOL/BBL-opleidingen, VSO en/of 
+praktijkscholen. 
+ 
+U maakt 4 weken na definitieve gunning een plan van aanpak social return en levert 
+die binnen één (1) maand na ingangsdatum van de Nadere Overeenkomst in. In dit 
+ 
+Bijlage B –Programma van Eisen behorend bij ‘Naleving van uitkeringsverplichtingen voor het ministerie 
+van Sociale Zaken en Werkgelegenheid - 201865005.011.086 – 22 september 2025. 7 van 7 
+ 
+plan van aanpak beschrijft u hoe u social return gaat toepassen bij de uitvoering van 
+de Nadere Overeenkomst. Het plan van aanpak bevat in ieder geval: 
+• de wijze waarop u impact creëert en invulling geeft aan de social return 
+verplichting. Te denken valt aan begeleidingsuren, interventies, stage- en 
+ervaringsplekken, dienstverleningsvorm en producten, maar bijvoorbeeld ook 
+aan aantoonbaar investeren in reeds bestaande initiatieven; 
+• de investering die door u wordt gedaan. Deze investering dient in verhouding 
+te staan tot de verwachte omzet binnen de Overeenkomst; 
+• voorstel met procesafspraken ten behoeve van de uitvoering van de 
+Opdracht. Met daarin het aanspreekpunt vanuit u en de praktische invulling 
+van het proces; 
+• de manier waarop u het afgesproken percentage realiseert; 
+• de wijze waarop u de begeleiding vormgeeft, indien van toepassing op uw 
+initiatief; 
+• de randvoorwaarden; 
+• de planning.  
+ 
+Opdrachtgever keurt het plan goed of vraagt om een verbetering. Na akkoord op uw 
+plan van aanpak, bent u verplicht om binnen twee (2) maanden te starten met de 
+uitvoering van het goedgekeurde plan van aanpak.  
+ 
+Dit goedgekeurde plan van aanpak wordt een onderdeel van de Overeenkomst. 
+ 
+De invulling moet controleerbaar zijn en wordt minimaal jaarlijks besproken met 
+Opdrachtgever. U vult daartoe periodiek Bijlage D Verantwoordingsformulier Social 
+return 2.0 in. 
+ 
+ 
+Wanneer er hierboven sprake is van een “Inschrijver” gaat het om aanbestedingseisen 
+(aanbestedingsfase), terwijl het bij “Opdrachtnemer” gaat om uitvoeringseisen (contractfase). 
+ 
+Als u als Inschrijver niet voldoet aan een of meerdere eisen of de Eisen en voorwaarden in de 
+opdrachtbeschrijving, dan is uw Inschrijving ongeldig en sluiten wij u uit van verdere deelname 
+aan de Aanbesteding.  
+ 
+Het gestelde in de Inschrijving mag niet conflicteren met de gestelde Eisen of de 
+opdrachtbeschrijving zoals opgenomen in het Beschrijvend document. Bij constatering van een 
+dergelijke tegenspraak, is uw Inschrijving ongeldig en sluiten wij u uit van verdere deelname 
+aan de Aanbesteding. 
+ 
+ 
+2. Ondertekening Inschrijver 
+Inschrijver moet het Uniform Europees Aanbestedingsdocument (UEA) invullen, rechtsgeldig 
+ondertekenen en bij de Inschrijving voegen als Bijlage 1. De rechtsgeldige ondertekening van het 
+UEA staat voor de rechtsgeldige ondertekening van de gehele Inschrijving, dus ook de 
+akkoordverklaring van het Programma van Eisen.
+
+=== Document: beschrijvend document (herzien) ===
+Beschrijvend document  
+(herzien) 
+Rijksinkoopsamenwerking 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN Den Haag 
+Postbus 20011 
+2500 EA Den Haag 
+Naleving van Uitkeringsverplichtingen 
+Europese aanbesteding 
+Openbare procedure 
+voor he
+t   
+ministerie van Sociale Zaken en Werkgelegenheid 
+de d
+irectie Stelsel en Volksverzekeringen  
+Contactpersoon Giel van Megen 
+Datum 24 oktober 2025 
+Kenmerk aanbesteding 201865005.011.086 
+Status Herzien 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  2 van 40 
+ 
+Inhoudsopgave 
+ 
+1. Inleiding ................................................................................................................. 5 
+1.1. De Aanbestedende dienst en de Rijksinkoopsamenwerking ..................................... 5 
+1.2. Het doel van de Aanbesteding ............................................................................ 5 
+1.3. De opbouw van het Beschrijvend document ......................................................... 5 
+WAT WILLEN WIJ? ............................................................................................................... 7 
+2. Opdrachtbeschrijving ................................................................................................ 7 
+2.1. Achtergrond van de Opdracht ............................................................................. 7 
+2.2. Aanleiding van de Opdracht ............................................................................... 7 
+2.3. Doel van het onderzoek ..................................................................................... 8 
+2.4. Onderzoeksvragen ............................................................................................ 8 
+2.4.1. Kwantitatief ..................................................................................................... 8 
+2.4.1. Optioneel gedeelte onderzoek: verdiepend ........................................................... 9 
+2.5. Onderzoeksopzet .............................................................................................. 9 
+2.5.1. Kwantitatief ..................................................................................................... 9 
+2.5.2. Optioneel gedeelte onderzoek: verdiepend ........................................................... 9 
+2.5.3. Aandachtspunten .............................................................................................. 9 
+2.6. Rapportage ..................................................................................................... 10 
+2.7. Planning ......................................................................................................... 10 
+2.8. Begeleiding ..................................................................................................... 11 
+2.9. De Overeenkomst geldt in elk geval voor zes (6) jaar ........................................... 11 
+2.10. Omvang van de Opdracht ................................................................................. 11 
+2.11. Inkopen met impact ......................................................................................... 12 
+2.12. Programma van Eisen ....................................................................................... 13 
+WAAR MOET U AAN VOLDOEN? ............................................................................................ 14 
+3. Uitsluitingsgronden en Geschiktheidseisen .................................................................. 14 
+3.1. Uitsluitingsgronden .......................................................................................... 14 
+3.2. Geschiktheidseisen ........................................................................................... 14 
+3.3. Sanctiepakketten Rusland ................................................................................. 17 
+WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? ................................................................... 19 
+4. Gunningscriterium ................................................................................................... 19 
+4.1. Subgunningscriteria en puntenverdeling ............................................................. 19 
+4.2. Subgunningscriterium kwaliteit 1: aanpak kwantitatief onderzoek, planning en risico’s
+ 19 
+4.3. Subgunningscriterium kwaliteit 2: onderzoeksteam ................. Fout! Bladwijzer niet 
+gedefinieerd. 
+4.4. Subgunningscriterium kwaliteit 3: aanpak verdiepend onderzoek ........................... 21 
+4.5. Subgunningscriterium prijs ............................................................................... 21 
+5. Beoordeling van uw Inschrijving ................................................................................ 23 
+5.1. Beoordeling en beoordelingscommissie ............................................................... 23 
+5.2. Beoordeling op kwaliteit .................................................................................... 23 
+5.3. Beoordeling op prijs ......................................................................................... 24 
+5.4. Beoordeling op de beste prijs-kwaliteitverhouding ................................................ 25 
+5.5. Manipulatieve of abnormaal lage Inschrijving ...................................................... 25 
+HOE VERLOOPT DE PROCEDURE EN HOE SCHRIJFT U IN? ....................................................... 26 
+6. Hoe verloopt de procedure? ...................................................................................... 26 
+6.1. CPV-codes ...................................................................................................... 26 
+6.2. De Europese openbare procedure ...................................................................... 26 
+6.3. TenderNed ...................................................................................................... 26 
+6.4. Contactpersoon ............................................................................................... 26 
+6.5. De planning van de Aanbesteding ...................................................................... 26 
+6.6. Vragen en tegenstrijdigheden ............................................................................ 27 
+6.7. Indienen Inschrijving ........................................................................................ 28 
+6.8. Openen Inschrijvingen ...................................................................................... 28 
+6.9. Mededeling Gunningsbeslissing .......................................................................... 28 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  3 van 40 
+ 
+6.10. Verificatie gegevens Uniform Europees Aanbestedingsdocument (UEA) ................... 29 
+6.11. Opschortende termijn en bezwaren .................................................................... 29 
+6.12. Voorbehouden Aanbestedende dienst ................................................................. 30 
+7. Hoe schrijft u in? ..................................................................................................... 31 
+7.1. Indienen Inschrijving in TenderNed .................................................................... 31 
+7.2. Formele Eisen aan de Inschrijving ...................................................................... 31 
+7.3. Verplichte Bijlagen in TenderNed ....................................................................... 32 
+7.4. Inschrijven met het UEA ................................................................................... 33 
+7.5. Inschrijven als Combinatie of met gebruikmaking van een Derde ........................... 33 
+7.6. Inschrijven als dochteronderneming of werkmaatschappij ..................................... 35 
+8. Voorwaarden .......................................................................................................... 36 
+8.1. Overeenkomst en Rijksvoorwaarden ................................................................... 36 
+8.2. Tenderkostenvergoeding ................................................................................... 36 
+8.3. Facturatie ....................................................................................................... 36 
+9. Klachtenregeling ..................................................................................................... 37 
+Begrippenlijst .................................................................................................................. 38 
+ 
+  
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  4 van 40 
+ 
+Bijlagen in TenderNed 
+ 
+Elektronisch invullen, accorderen en/of toe te voegen door de Inschrijver  
+Bijlage 1 Uniform Europees Aanbestedingsdocument 
+(UEA) 
+In TenderNed 
+Bijlage 2 Antwoord op het Subgunningscriterium 
+‘Kwaliteit’ (bestand in één PDF)   
+Conform bijgevoegd format (in PDF) 
+Bijlage 3 Prijsopgavenformulier Conform bijgevoegd format (in PDF) 
+Bijlage 4 Referentieverklaring Conform bijgevoegd format (in PDF) 
+ 
+In te dienen bij verificatie van documenten door de winnende Inschrijver 
+Uittreksel uit het handelsregister van de Kamer van Koophandel 
+Gedragsverklaring aanbesteden 
+Verklaring van de Belastingdienst 
+ 
+Informatie voor de Inschrijver 
+Bijlage A Concept Overeenkomst 
+Bijlage B Programma van Eisen 
+Bijlage C Concept Verwerkersovereenkomst 
+Bijlage D Verantwoordingsformulier Social Return 2.0 
+Bijlage E Financiële bijsluiter SZW 
+ 
+Te downloaden in TenderNed onder de knop ‘Download documenten’ 
+ARVODI-2025 
+  
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  5 van 40 
+ 
+1. Inleiding 
+Wij, ministerie van Sociale Zaken en Werkgelegenheid, nodigen u uit als Potentiële Inschrijver om in 
+te schrijven voor de Aanbesteding “ Naleving van Uitkeringsverplichtingen”. In d it Beschrijvend 
+document leest u alle informatie die u nodig heeft om een Inschrijving in te dienen. 
+1.1. De Aanbestedende dienst en de Rijksinkoopsamenwerking 
+De Aanbestedende dienst en Opdrachtgever is het ministerie van Sociale Zaken en Werkgelegenheid. 
+ 
+Het ministerie van Sociale Zaken en Werkgelegenheid 
+Werk en bestaanszekerheid voor iedereen: samen werken voor samen leven. SZW werkt aan eerlijk, 
+gezond en veilig werk in Nederland. Iedereen moet de kans krijgen om mee te doen en zich te 
+ontwikkelen zodat je zelf kan bijdragen aan je eigen toekomst. Als het tegenzit zorgen we voor een 
+vangnet, en als je met pensioen gaat voor een inkomen. Dat kan alleen in een land waar mensen er 
+voor elkaar zijn. De bewindslieden zijn onder meer verantwoordelijk voor het arbeidsmarktbeleid, 
+inclusief migratie en vrij verkeer van werknemers, uitkeringen en re-integratie, inkomensbeleid, het 
+combineren van arbeid en zorg, arbeidsomstandighedenbeleid en inspectie daarop. 
+ 
+DG Sociale Zekerheid en Integratie (DG SZI) werkt binnen SZW aan een sociaal stabiele samenleving 
+met inkomensbescherming voor mensen die niet zelf in hun levensonderhoud kunnen voorzien. Het 
+directoraat-generaal doet dit in partnerschap met gemeenten, uitvoeringsorganisaties en andere 
+maatschappelijke organisaties en zó dat uitkeringsgerechtigden zoveel mogelijk meedoen en dat 
+zonder belemmeringen kunnen. Het uitgangspunt is dat  mensen verzekerd zijn van 
+bestaanszekerheid, dat zij in al hun verscheidenheid  met elkaar samenleven en dat iedereen zich 
+thuis voelt, ongeacht herkomst, religie of levensovertuiging. 
+ 
+Directie Stelsel en Volksverzekeringen (SV) werkt aan de DG SZI -brede visieontwikkeling op 
+kennisverspreiding van en het onderzoek naar het stelsel van werk en inkomen, handhavingsbeleid, 
+gegevensuitwisseling en regeldruk, het eigenaarschap van de zbo's en het opdrachtgeverschap van 
+de Sociale Verzekeringsbank (SVB). De directie heeft een integrale systeemverantw oordelijkheid 
+voor de onderlinge samenhang van de verschillende domeinen in het socialezekerheidsstelsel. De 
+directie is eerstverantwoordelijke voor de beleidsontwikkeling en wetgeving op het terrein van de 
+volksverzekeringen, Wet kwaliteitsborging (WKB) en andere door de SVB uitgevoerde regelingen, 
+alsmede preventie, handhaving en gegevensuitwisseling. Daarnaast ondersteunt de directie de 
+Secretaris-Generaal (SG) in zijn rol als eigenaar van Uitvoeringsinstituut Werknemersverzekeringen 
+(UWV) en SVB. 
+ 
+Schrijft u in en gunnen wij de Opdracht aan u? Dan sluit u een Overeenkomst met het ministerie van 
+Sociale Zaken en Werkgelegenheid, de directie Stelsel en Volksverzekeringen (hierna: SZW). 
+ 
+De Rijksinkoopsamenwerking begeleidt deze Aanbesteding 
+Wij hebben de Rijksinkoopsamenwerking (hierna: de RIS ) de opdracht gegeven om deze 
+Aanbesteding te begeleiden. De RIS is een Rijksdienst die zich speciaal richt op de inkoop van 
+diensten en producten. Wilt u meer weten over hoe de RIS werkt? Kijk dan op de website van de RIS 
+www.rijksinkoopsamenwerking.nl
+.  
+1.2. Het doel van de Aanbesteding  
+Het doel van de Aanbesteding is om een transparant, eerlijk en efficiënt  proces te waarborgen voor 
+het selecteren van de beste dienstverlener en daarmee een dienstverleningsovereenkomst (hierna: 
+Overeenkomst) te sluiten. De intentie is dat de Overeenkomst op 9 februari 2026 in gaat.  
+1.3. De opbouw van het Beschrijvend document  
+U leest, na deze inleiding: 
+• in hoofdstuk 2  t/m 5 wat wij willen, hoe wij bepalen of een Inschrijver geschikt is om de 
+Opdracht uit te voeren, wat wij belangrijk vinden en hoe wij beoordelen welke Inschrijver 
+het beste aanbod doet; 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  6 van 40 
+ 
+• in hoofdstuk 6 en 7 alles over de aanbestedingsprocedure en het correct indienen van een 
+Inschrijving; 
+• in hoofdstuk 8 meer alles over de Overeenkomst die wij willen sluiten; 
+• in hoofdstuk 9 alles over het indienen van een klacht. 
+ 
+Als laatste vindt u de begrippenlijst. Daar leest u precies wat wij bedoelen met bepaalde begrippen. 
+In de lopende tekst krijgen begrippen steeds een hoofdletter. Zo weet u welke begrippen u terugvindt 
+in de begrippenlijst. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  7 van 40 
+ 
+WAT WILLEN WIJ? 
+2. Opdrachtbeschrijving 
+Hieronder leest u een omschrijving van de Opdracht.  
+2.1. Achtergrond van de Opdracht 
+Het ministerie van Sociale Zaken en Werkgelegenheid (SZW) is verantwoordelijk voor de sociale 
+zekerheid in Nederland. Binnen deze verantwoordelijkheid vallen onder andere het preventie- en 
+handhavingsbeleid. Een belangrijk onderdeel daarvan is het ontwikkelen van instrumenten die 
+gericht zijn op het voorkomen van misbruik en oneigenlijk gebruik van voorzieningen, en op het 
+bevorderen van naleving van de verplichtingen die verbonden zijn aan het ontvangen van een 
+uitkering. 
+ 
+Een kernuitgangspunt hierbij is dat overtredingen van regels niet altijd het resultaat zijn van 
+bewuste keuzes. Regels kunnen zowel opzettelijk als onbedoeld, en zowel actief als passief, worden 
+overtreden. Onderzoek, zoals Weten is nog geen doen, benadrukt dit punt: het laat zien dat kennis 
+van verplichtingen weliswaar noodzakelijk is, maar niet automatisch leidt tot naleving. Niet-
+naleving ontstaat vaak door factoren zoals vergeetachtigheid, een beperkt ‘doenvermogen’, een 
+verkeerde interpretatie van regels of het trekken van onjuiste conclusies uit de regelgeving.
+1 
+Vanuit deze invalshoek ligt er een duidelijke rol voor de overheid. Niet alleen door informatie te 
+verstrekken, maar ook door praktische obstakels weg te nemen en burgers te ondersteunen in hun 
+handelen. Dit kan bijvoorbeeld door regels eenvoudiger te maken, digitale ondersteuning te 
+bieden, herinneringen te sturen of maatwerk te leveren voor mensen om regels na te leven. 
+2.2. Aanleiding van de Opdracht 
+Naar aanleiding van een verzoek van de Kamer laat SZW sinds 2013 onderzoek uitvoeren om 
+inzicht te verkrijgen in de kerncijfers rondom de kennis van verplichtingen bij uitkeringen en de 
+gepercipieerde detectie- en sanctiekans bij overtredingen door uitkeringsgerechtigden.2 De 
+resultaten van dit onderzoek dienen bij te dragen aan het handhavings- en preventiebeleid van 
+SZW. Zo bieden ze inzichten voor het identificeren van mogelijke verbeterpunten in beleid, wet- en 
+regelgeving en voorlichting. Tevens leggen de bewindslieden in de begroting en het jaarverslag 
+verantwoording af over de resultaten van het preventie- en handhavingsbeleid.3 
+ 
+In 2019 werd de eerste onderzoekscyclus van de doorlopende jaarlijkse monitoring afgerond. In 
+2020 is een eenmalig onderzoek uitgevoerd naar de kennis der verplichtingen in coronatijd, waarbij 
+ook de steunmaatregel TOZO is meegenomen. Na dit eenmalige onderzoek werd voortzetting van 
+het jaarlijkse onderzoek wenselijk geacht om inzicht te blijven houden in de kennis van 
+verplichtingen. Jaarlijks onderzoek waarborgt immers een continu inzicht in de kennis van 
+verplichtingen onder uitkeringsgerechtigden, evenals het signaleren van trends over de tijd.  
+ 
+De sinds 2021 lopende onderzoeksopdracht ‘Kennis der Verplichtingen’
+4 bevindt zich in de 
+afrondende fase. Een vervolgonderzoek blijft relevant, omdat het waardevolle inzichten kan bieden 
+in wat mensen weten over hun verplichtingen, hoe zij het beleid en de handhaving ervaren, en hoe 
+de uitvoering en communicatie door mensen worden beoordeeld. Ook zijn beleid en uitvoering aan 
+verandering onderhevig, waardoor het belangrijk blijft trends te monitoren, zeker wanneer er 
+significante afwijkingen in de resultaten optreden. 
+ 
+Daarnaast is het van belang het vervolgonderzoek zo vorm te geven dat de uitkomsten relevant 
+zijn, de cijfers goed kunnen worden geïnterpreteerd, en de resultaten bruikbaar zijn voor verdere 
+ 
+1 Wetenschappelijke Raad voor het Regeringsbeleid (WRR) 2017. 
+2 In de eerste jaren werd het onderzoek uitgevoerd door Ipsos, en later door I&O Research (dat gedurende de looptijd Ipsos I&O werd). 
+Het meest recente onderzoek dat zij hebben uitgevoerd is: ‘Kennis der verplichtingen en gepercipieerde detectiekans’ Rapportage 2024 
+Ipsos I&O. 
+3 De afgelopen jaren zijn in het jaarverslag de volgende kengetallen opgenomen: kennis van verplichtingen die horen bij de uitk ering en  
+gepercipieerde detectiekans. Jaarverslag en Slotwet Ministerie van Sociale Zaken en Werkgelegenheid 2024 Tweede Kamer, vergaderjaar 
+2024–2025, 36 740 XV, nr. 1, p. 63.  
+4 ‘Kennis der verplichtingen en gepercipieerde detectiekans’ Ipsos I&O 2021-2026. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  8 van 40 
+ 
+toepassing. Daarbij dienen nieuwe inzichten en veranderende omstandigheden te worden 
+meegenomen. 
+2.3. Doel van het onderzoek 
+Diverse factoren hangen samen met het nalevingsgedrag en helpen bij het verklaren van 
+regelovertredingen. Denk hierbij aan het vertrouwen in overheidsorganisaties, de waargenomen 
+kans dat een overtreding wordt ontdekt en de houding van uitkeringsgerechtigden ten opzichte van 
+uitkeringsinstanties en gemeenten. Deze houding wordt mede gevormd door eerdere ervaringen 
+met de dienstverlening, de kwaliteit van de communicatie en de algemene tevredenheid over de 
+geboden ondersteuning. 
+ 
+Het onderzoek richt zich daarom primair op het verkrijgen van inzicht in de factoren die van 
+invloed zijn op de naleving van de verplichtingen die samenhangen met het ontvangen van een 
+uitkering. Daarbij wordt onderzocht welke factoren relevant zijn bij naleving van de 
+uitkeringsverplichtingen en op welke wijze deze factoren het gedrag en de keuzes van 
+uitkeringsgerechtigden beïnvloeden.  
+ 
+Zoals reeds gesteld, dienen de resultaten van het onderzoek bij te dragen aan het handhavings- en 
+preventiebeleid van SZW. Zo dienen de uitkomsten inzichten te bieden voor het identificeren van 
+mogelijke verbeterpunten in beleid, wet- en regelgeving en voorlichting. Het doel hierbij is om de 
+naleving van verplichtingen te bevorderen en het risico op vergissingen, die kunnen leiden tot 
+regelovertredingen, te verkleinen. 
+ 
+In dit kader is het van belang te benadrukken dat, gezien de stabiele uitkomsten in de afgelopen 
+jaren, het onderzoek om de twee jaar zal worden uitgevoerd. Deze frequentie biedt voldoende 
+inzicht in eventuele schommelingen en maakt het tevens mogelijk om trends op langere termijn te 
+volgen. Het is hierbij gewenst dat zowel de trends als de significantie van verschillen binnen het 
+onderzoek worden toegelicht. 
+ 
+Het onderzoek moet per uitkering representatief zijn voor de doelgroep, waardoor betrouwbare 
+uitspraken gedaan kunnen worden per individuele regeling. De volgende regelingen behoren 
+meegenomen te worden: 
+- Werkloosheidsuitkering (WW); 
+- Wet op de arbeidsongeschiktheidsverzekering (WAO); 
+- Arbeidsongeschiktheid na ziekte (WIA); 
+- Wajong; 
+- Ziektewetuitkering (Zw); 
+- Algemene Ouderdomswet (AOW); 
+- Algemene nabestaandenwet (Anw); 
+- Aanvullende inkomensvoorziening ouderen (AIO);  
+- Participatiewet (Pw). 
+2.4. Onderzoeksvragen 
+2.4.1. Kwantitatief 
+Primair dient het kwantitatieve onderzoek per uitkeringsregeling antwoord te geven op de volgende 
+vraag: 
+ 
+1. Welke factoren spelen een rol bij de naleving van uitkeringsverplichtingen? En hoe scoren 
+uitkeringsgerechtigden op deze factoren? 
+ 
+Bij het onderzoek dienen in ieder geval de volgende factoren te worden meegenomen: het 
+kennisniveau van uitkeringsgerechtigden (denk hierbij aan begrip van de regels, ontvangen 
+voorlichting en toepassing van kennis), de houding van uitkeringsgerechtigden ten opzichte van 
+uitkeringsinstanties en gemeenten, de ervaring met de dienstverlening, het beeld van de plichten 
+(denk hierbij aan de vraag of uitkeringsgerechtigden deze plichten als logisch, rechtvaardig en 
+passend ervaren), de waargenomen kans dat een vergissing wordt opgemerkt, de communicatie, 
+en de algemene tevredenheid (over de dienstverlening). Hierbij wordt het onderzoeksbureau 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  9 van 40 
+ 
+verzocht om, op basis van recente wetenschappelijke inzichten, aanvullende factoren aan te 
+dragen die nog ontbreken. 
+ 
+Daarnaast ontvangen wij graag van het onderzoeksbureau suggesties voor manieren waarop 
+informatie kan worden verzameld die ook kunnen bijdragen aan preventieve maatregelen, mits dit 
+geen extra uitvoeringslasten veroorzaakt en aanvullend is op recent onderzoek. 
+2.4.2. Optioneel gedeelte onderzoek: verdiepend 
+Een aanvullend verdiepend onderzoek is optioneel en wordt uitsluitend uitgevoerd indien hier 
+vanuit Opdrachtgever een expliciete behoefte of wens voor bestaat. Na de uitvoering en oplevering 
+van het kwantitatieve onderzoek wordt bepaald of een verdieping of aanvulling gewenst is.5 Het 
+verdiepend onderzoek kan bijvoorbeeld worden ingezet om opvallende kwantitatieve resultaten 
+nader te duiden of te verdiepen, of het kan worden ingezet wanneer er aanknopingspunten zijn 
+voor verbetering van beleid. Dit kan zowel kwantitatief als kwalitatief worden uitgevoerd. Indien - 
+om de twee jaar - wordt besloten een verdiepend onderzoek uit te voeren, wordt in overleg eerst 
+een onderzoeksvraag vastgesteld. Vervolgens vraagt Opdrachtgever bij Opdrachtnemer een offerte 
+op, waarbij de vaste kosten en uurtarieven voor het kwantitatieve onderzoek als basis dienen. Het 
+resultaat van de offerte wordt vastgelegd in een wijzigingsovereenkomst. 
+2.5. Onderzoeksopzet 
+2.5.1. Kwantitatief 
+Het kwantitatieve onderzoek vindt plaats door middel van een schriftelijke vragenlijst die ook 
+online kan worden ingevuld. Vragenlijsten worden afgenomen onder een representatieve 
+steekproef per uitkeringssoort. Dit betekent dat er tweejaarlijks een basisvragenlijst verstuurd zal 
+worden naar de hele steekproef. De vragenlijst wordt in samenspraak met Opdrachtgever en 
+begeleidingscommissie door het onderzoeksbureau ontwikkeld.  
+ 
+Tevens zullen de eisen en digitale mogelijkheden voor de vragenlijst worden verkend en afgestemd 
+op het doel van het onderzoek in overleg met het onderzoeksbureau. 
+2.5.2. Optioneel gedeelte onderzoek: verdiepend 
+Het verdiepend gedeelte is, zoals eerder vermeld, optioneel. Indien besloten wordt wel een kwalitatief 
+onderzoek uit te voeren, zal de invulling hiervan in overleg met SVB, UWV, gemeenten en SZW 
+worden vastgesteld. Hierbij nodigen we het onderzoeksbureau te zijner tijd graag uit om mogelijke 
+vormen voor het verdiepende onderzoek voor te stellen. Bij een verdiepend onderzoek kan 
+bijvoorbeeld worden gedacht aan methoden zoals interviews en focusgroepen 
+2.5.3. Aandachtspunten 
+Samenwerking met andere organisaties 
+Voor het onderzoek zal het onderzoeksbureau afhankelijk zijn van de aanlevering van bestanden 
+van UWV, SVB en gemeenten. Het onderzoeksbureau is hierbij verantwoordelijk voor werving 
+respondenten en uitvoering dataverzameling, het opstellen van een goede planning voor alle 
+organisaties en het aanleveren van een steekproefkader. Ook is het onderzoeksbureau 
+verantwoordelijk voor het selecteren van de gemeenten. Indien gewenst kan het verzoek tot 
+deelname namens SZW worden verstuurd. Het onderzoeksbureau dient zich tevens bewust te zijn 
+van de privacy-vereisten die door uitvoeringsorganisaties worden gehanteerd. Zo kan het 
+onderzoeksbureau de gegevens van het UWV alleen ontvangen als zij E-Herkenning niveau 4 
+hebben. Het is van belang hiermee rekening te houden. Tot slot vragen we het onderzoeksbureau 
+om na te denken over een goede invulling van de startbijeenkomst waarbij alle organisaties 
+betrokken zijn.  
+ 
+ 
+5 Opdrachtgever neemt over het verdiepend onderzoek een tweejaarlijks een beargumenteerd besluit en zal dit tijdig aan Opdrachtnemer 
+mededelen. Indien Opdrachtgever geen behoefte heeft aan een verdiepend onderzoek, zal het verdiepende onderzoek niet worden 
+uitgevoerd en zullen hieraan gerelateerde kosten niet in rekening worden gebracht. Het verdiepende onderzoek zou vervolgens in het 
+tussenliggende jaar worden uitgevoerd.  
+ 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  10 van 40 
+ 
+Sociale wenselijkheid antwoorden respondenten 
+Een mogelijk nadeel van het kwantitatieve onderzoek is sociale wenselijkheid in de antwoorden van 
+respondenten. Enige mate van sociale wenselijkheid is niet te voorkomen, het wordt pas 
+problematisch als de vertekening erg afwijkt van de werkelijkheid of als die in bepaalde groepen 
+erg afwijkt. We vragen het onderzoeksbureau daarom om te analyseren of er bij bepaalde groepen 
+respondenten meer sprake is van sociale wenselijkheid. We zien deze duiding ook graag terug in de 
+rapportage.  
+ 
+Representativiteit 
+Om een juiste afspiegeling van de doelgroep te krijgen en daarmee betrouwbare uitspraken te 
+kunnen doen, is het belangrijk voldoende steekproefgrootte te hebben en een representatieve 
+deelname van gemeenten (in geografische spreiding en grootte). 
+ 
+Moeilijk te bereiken doelgroep 
+Een deel van de doelgroep kan bestaan uit uitkeringsgerechtigden die om verschillende redenen 
+moeite kunnen hebben met het invullen van vragenlijsten of deelname aan het onderzoek. Hier zal 
+bij de communicatie en het opstellen van de vragenlijsten rekening mee moeten worden gehouden. 
+Tevens dient er rekening mee gehouden te worden dat betrokkenen de vragenlijst door iemand 
+anders kunnen laten invullen, zoals een begeleider. Kennis over en ervaring met het schrijven in 
+taalniveau B1 en het communiceren met een (mogelijk kwetsbare) doelgroep is een pré.  
+2.6. Rapportage 
+Het eindproduct van het tweejaarlijkse kwantitatieve onderzoek bestaat uit een rapportage. Deze 
+rapportage dient jaarlijks in november te worden opgeleverd. 
+ 
+Het staat het onderzoeksbureau uiteraard vrij om een geschikte indeling voor de rapportage voor 
+te stellen, maar wij zien in de rapportage graag het volgende terug: 
+- Managementsamenvatting 
+- Inleiding: 
+o Achtergrond van het onderzoek 
+o Schets van de actuele context 
+ Inzicht ontwikkeling per regeling en overzicht van eventuele grote 
+veranderingen per regeling (in wetgeving of uitvoering) – hiervoor zullen 
+UWV, SVB, gemeenten en SZW input leveren  
+ Maatschappelijke ontwikkelingen 
+- Onderzoeksopzet: 
+o Toelichting op kwantitatief onderzoek 
+ Ingaan op methoden, steekproef, representativiteit, vergelijkbaarheid, 
+sociale wenselijkheid et cetera. 
+- Resultaten: 
+o Overzichtelijke tabellen en figuren 
+o Trendanalyses en duiding 
+- Conclusies 
+ 
+Let op: Indien wordt besloten het optionele verdiepende onderzoek uit te voeren, wordt hiervan 
+eveneens een schriftelijke rapportage opgesteld in het jaar dat het onderzoek wordt uitgevoerd. In 
+deze rapportage worden het doel en de aanleiding van het onderzoek toegelicht, de gehanteerde 
+methoden beschreven en de bevindingen overzichtelijk weergegeven. Tevens bevat de rapportage 
+een duiding van de resultaten in relatie tot de onderzoeksvraag en een conclusie. 
+2.7. Planning 
+De planning voor het tweejaarlijkse onderzoek Naleving van Uitkeringsverplichtingen verloopt 
+telkens volgens het onderstaande schema, te beginnen in 2026: 
+1. Startgesprek opdrachtgever en opdrachtnemer: februari-maart 
+2. Startbijeenkomst begeleidingscommissie: februari-maart 
+3. Ontwikkelen onderzoeksopzet en onderzoeksmateriaal: maart-april-mei 
+4. Dataverzameling/veldwerk: juni-juli-augustus 
+5. Tussentijds gesprek onderzoeksbureau conceptrapportage: september-oktober 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  11 van 40 
+ 
+6. Oplevering conceptrapportage: oktober-november 
+7. Oplevering eindrapportage: november 
+8. Evaluatiegesprek: november-december 
+2.8. Begeleiding 
+Het onderzoek wordt begeleid door een begeleidingscommissie waarin SZW, SVB, UWV en 
+vertegenwoordiging van gemeenten zullen plaatsnemen. Deze begeleidingscommissie is in ieder 
+geval aanwezig zijn bij het start- en het eindgesprek van het tweejaarlijkse onderzoek. Indien daar 
+aanleiding toe is, kan de commissie ook bijeengeroepen worden tijdens de uitvoering van het 
+onderzoek. Tevens denkt de begeleidingscommissie mee over het optioneel verdiepend onderzoek 
+en de invulling daarvan.  
+ 
+Voor de reguliere communicatie over het onderzoek en de tussentijdse contactmomenten is SZW 
+als Opdrachtgever het aanspreekpunt. Indien het nodig is om ook een van de andere organisaties 
+te betrekken bij deze tussentijdse overlegmomenten, zal SZW dit coördineren.  
+2.9. De Overeenkomst geldt in elk geval voor zes (6) jaar 
+De Overeenkomst heeft een looptijd van 9 februari 2026 tot en met 9 februari 2032. Daarna is er de 
+(eenzijdig door Opdrachtgever uit te oefenen) mogelijkheid tot verlenging,  zonder wijziging van de 
+geoffreerde totaalprijs voor het kwantitatieve onderzoek. Opdrachtgever verlengt de Overeenkomst 
+maximaal twee (2) keer voor maximaal vierentwintig (24) maanden per keer. Als Opdrachtgever 
+wenst te verlengen wordt dit schriftelijk aan Opdrachtnemer bevestigd voor de einddatum van de 
+Overeenkomst. De looptijd inclusief verlengingen is tot en met 8 februari 2036. 
+2.10. Omvang van de Opdracht  
+De geraamde waarde van de Opdracht bedraagt maximaal € 750.000,-- exclusief btw over een 
+looptijd van tien (10) jaar, inclusief eventuele verlengingen. 
+ 
+Dit komt neer op een maximumbedrag van € 150.000,-- exclusief btw per twee jaar. Dit is als 
+volgt uitgesplitst: 
+• Kwantitatief deel: maximaal € 90.000,-- exclusief btw. 
+• Verdiepend deel: maximaal € 60.000,-- exclusief btw. 
+ 
+Het verdiepende gedeelte is optioneel; er geldt hiervoor geen afnameverplichting voor 
+Opdrachtgever. 
+ 
+Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische ontwikkelingen binnen 
+de Aanbestedende dienst is het mogelijk dat de (omvang van de) Opdracht wijzigt.  
+ 
+Let op: de gegevens die de omvang van de Opdracht aangeven zijn een indicatie. Aan deze gegevens 
+kunt u geen rechten ontlenen.  
+ 
+We delen de Opdracht niet op in percelen 
+Dit is niet passend, omdat de uitvoering en ondersteuning zodanig aan elkaar verbonden zijn dat 
+opsplitsten in percelen niet is gewenst. Daarbij wordt het opsplitsen ten aanzien van de aard van de 
+dienstverlening niet wenselijk geacht omdat dit een te versnipperd geheel wordt en de coördinatie 
+van de verschillende werkzaamheden aan de kant van zowel de opdrachtgever als de 
+opdrachtnemers te veel tijd zou vergen, de uitvoering inefficiënt zou maken en dus meer geld zal 
+kosten. De opdracht is in deze vorm ook geschikt voor kleinere partijen uit het midden- en kleinbedrijf 
+(MKB). 
+ 
+Deze Opdracht voegen we niet onnodig samen 
+De Opdracht wordt als één samenhangend twee jaarlijks onderzoeksprogramma uitgevoerd om 
+continuïteit en vergelijkbaarheid van de kengetallen te waarborgen. Dit vermindert coördinatie - en 
+logistieke lasten, houdt de methodologie consistent en houdt de opdrachtomvang geschikt voor MKB-
+bureaus. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  12 van 40 
+ 
+2.11. Inkopen met impact 
+Wij hechten veel waarde aan maatschappelijk verantwoord opdrachtgeven en inkopen (MVOI). Wij 
+willen met onze inkoop bijdragen aan de duurzame en sociale aspecten. Voor deze aanbesteding 
+passen we de volgende onderdelen toe: 
+1. Social return 2.0 (basis) 
+2. Diversiteit & Inclusie (basis) 
+ 
+1. Social return  
+Zaken doen met de Rijksoverheid betekent ook op het sociaal en maatschappelijk vlak het verschil 
+willen maken. Het is de taak van de overheid om mensen met een afstand tot de arbeidsmarkt te 
+ondersteunen, zodat iedereen zoveel mogelijk meedoet in de samenleving en uitzicht houdt op werk 
+en inkomen.  
+ 
+Wat is Social return? 
+Social return gaat om het creëren van baankansen voor mensen die minder makkelijk op de 
+arbeidsmarkt komen. Via een inkoopopdracht kunnen er extra arbeidsplekken, werkervaringsplekken 
+of stageplekken voor mensen met een afstand tot de arbeidsmarkt worden gecreëerd. Het kan ook 
+door het aanbieden van een training of een ander initiatief dat bijdraagt dat deze mensen een betere 
+toegang krijgen tot de arbeidsmarkt. Het doel is om mensen met een afstand op de arbeidsmarkt 
+duurzaam in te laten stromen op de arbeidsmarkt. Meer informatie vindt u op 
+Social return | Inkoop 
+thema’s | Rijksinkoopsamenwerking. 
+ 
+Onder mensen met een afstand tot de arbeidsmarkt wordt verstaan: 
+1. Langdurigwerkzoekenden (langer dan 12 maanden); 
+2. Mensen die langer dan 12 maanden niet aan het werk zijn en aanspraak maken op een 
+uitkering vanuit de overheid; 
+3. Mensen die anderszins zonder (re- integratie) ondersteuning of begeleiding niet of lastig 
+zelfstandig aan werk kunnen komen (denk daarbij bijvoorbeeld aan jongeren met 
+onvoldoende kwalificaties, ouderen 50+ met onvoldoende kwalificaties, statushouders, ex -
+gedetineerden). 
+ 
+Let op!  Mensen die nu reeds betaald werk verrichten, waaronder huidige werknemers van 
+Opdrachtnemer behoren uitdrukkelijk niet tot de doelstelling/doelgroep van deze Aanbesteding. 
+ 
+Wij passen Social return toe op deze Opdracht 
+Omdat wij Social return belangrijk vinden en impact willen creëren, passen wij op deze Opdracht 
+Social return toe. Tegelijkertijd willen we dat de toepassing ervan proportioneel blijft. Wij geven u 
+de mogelijkheid hier een vrije invulling aan te geven. De inzet van Social return mag zowel direct als 
+indirect verband houden met de Opdracht.  
+ 
+Social return wordt in deze Aanbesteding toegepast als Eis. Dit houdt in dat wij als voorwaarde stellen 
+dat er minimaal 5 % van de gerealiseerde waarde tijdens de looptijd van de Overeenkomst wordt 
+gebruikt aan Social return. 
+ 
+Opdrachtnemer maakt na definitieve gunning een voorstel voor Social return 
+Wordt u geselecteerd als winnaar van deze Aanbesteding? Dan stelt u na de definitieve gunning 
+binnen één maand een voorstel op over hoe u Social return gaat toepassen bij de uitvoering van de 
+Opdracht. Het voorstel bevat in ieder geval: 
+• de wijze waarop u impact creëert; 
+• de manier waarop u het afgesproken percentage realiseert; 
+• de rolverdeling; 
+• de randvoorwaarden; 
+• de planning.  
+ 
+Uw voorstel voor Social return wordt een onderdeel van de Overeenkomst. Opdrachtgever keurt het 
+plan goed of vraagt om een verbetering. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  13 van 40 
+ 
+ 
+Na akkoord op uw plan van aanpak, bent u verplicht om binnen twee (2) maanden te starten met de 
+uitvoering van het goedgekeurde plan van aanpak.  
+ 
+De invulling moet controleerbaar zijn en wordt jaarlijks besproken met Opdrachtgever. Het 
+rapporteren mag in vrije vorm, zolang het inzichtelijk is. 
+ 
+2. Diversiteit en inclusie  
+D&I 
+Diversiteit en inclusie binnen inkoop betekent dat je door inkoop een diverse en inclusieve 
+samenleving en bedrijfsleven stimuleert waarin individuen worden behandeld en beoordeeld op wat 
+ze kunnen en niet op wie ze zijn, van wie ze houden, waar ze vandaan komen of wat ze geloven 
+(Sustainable Delevopment Goal 10
+). SDG 10 streeft er ook naar om tegen 2030 de sociale, 
+economische en politieke integratie van iedereen te bevorderen, ongeacht leeftijd, geslacht, 
+beperkingen, etniciteit, huidskleur, afkomst, geloofsovertuiging of economische status, en hun 
+gelijke kansen te verzekeren. 
+ 
+Wij passen D&I toe op deze Opdracht 
+U beschrijft hoe u rekening houdt met diversiteit en inclusie. Dit kan onder meer bij het opstellen 
+van vragenlijsten, waarbij u aandacht besteedt aan verschillen in taalvaardigheid, neutrale en 
+onbevooroordeelde vraagformuleringen, inclusieve antwoordopties en andere relevante dimensies. 
+2.12. Programma van Eisen 
+In het Programma van Eisen staan de Eisen die wij stellen aan de uitvoering van de Opdracht. Voldoet 
+u niet aan alle Eisen in het Programma van Eisen? Dan is uw Inschrijving ongeldig en sluiten we u 
+uit van verdere deelname aan de Aanbesteding. De Eisen die wij stellen aan de gevraagde 
+Diensten/Producten zijn opgenomen in Bijlage B - Programma van Eisen. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  14 van 40 
+ 
+WAAR MOET U AAN VOLDOEN? 
+3. Uitsluitingsgronden en Geschiktheidseisen 
+U leest in dit hoofdstuk welke Uitsluitingsgronden en Geschiktheidseisen wij hanteren bij de 
+Aanbesteding.   
+ 
+Via het Uniform Europees Aanbestedingsdocument (UEA) geeft u aan of de Uitsluitingsgronden wel 
+of niet op u van toepassing zijn en of u voldoet aan de Geschiktheidseisen. Hoe u inschrijft met het 
+UEA leest u in paragraaf 7.4. 
+3.1. Uitsluitingsgronden 
+In Deel III van het UEA leest u welke Uitsluitingsgronden gelden voor deze Aanbesteding. 
+ 
+We delen de Uitsluitingsgronden op in drie verschillende gronden: 
+• Deel III.A: gronden die verband houden met strafrechtelijke veroordelingen; 
+• Deel III.B: gronden die verband houden met de betaling van belastingen of sociale premies; 
+• Deel III.C: gronden met betrekking tot insolventie, belangenconflict of beroepsfouten. 
+ 
+Als een Uitsluitingsgrond van toepassing is, kunnen wij afzien van ongeldigverklaring 
+van uw Inschrijving 
+Uw Inschrijving is in principe ongeldig als een van de Uitsluitingsgronden van toepassing is. Wij 
+sluiten u dan uit van verdere deelname aan de Aanbesteding. Wij kunnen in de volgende gevallen 
+afzien van ongeldigverklaring van uw Inschrijving:  
+• als de uitsluiting kennelijk onredelijk zou zijn (art. 2:86a van de Aanbestedingswet 2012); 
+• als u voldoende maatregelen heeft genomen om uw betrouwbaarheid aan te tonen (art. 
+2:87a van de Aanbestedingswet 2012); 
+• om dwingende redenen van algemeen belang (art. 2:88 van de Aanbestedingswet 2012); 
+• indien naar ons oordeel uitsluiting niet proportioneel is met het oog op de tijd die is 
+verstreken sinds de veroordeling en gelet op het voorwerp van de Opdracht (art. 2:88 van 
+de Aanbestedingswet 2012). 
+ 
+Is een Uitsluitingsgrond op u van toepassing als vermeld in afdeling 2.3.5 van de Aanbestedingswet 
+2012? Wat u dan moet doen, leest u in paragraaf 7.4. 
+ 
+Schrijft u in als Combinatie of met Derden om te voldoen aan de Geschiktheidseisen? 
+Dan toetsen wij bij elke Combinant en bij elke Derde of de Uitsluitingsgronden van toepassing zijn. 
+Over de wijze waarop u dient in te schrijven leest u meer in paragraaf 7.5. 
+3.2. Geschiktheidseisen 
+Wij stellen Geschiktheidseisen aan een Inschrijver om te bepalen of de Inschrijver geschikt is om de 
+Opdracht uit te voeren.  
+ 
+Geschiktheidseisen zijn Eisen aan uw technische bekwaamheid en beroepsbekwaamheid,  en 
+beroepsbevoegdheid.  
+ 
+U leest hieronder welke Geschiktheidseisen gelden voor de Aanbesteding. Uw Inschrijving is ongeldig 
+als u niet aan de Geschiktheidseisen voldoet. Wij sluiten u dan uit van verdere deelname aan de 
+Aanbesteding.  
+ 
+Wilt u inschrijven, maar kunt u niet voldoen aan de Geschiktheidseisen? Dan kunt u overwegen om 
+als Combinatie in te schrijven of gebruik te maken van een Derde om daarmee gezamenlijk aan de 
+Geschiktheidseisen te voldoen.  
+ 
+Wij hebben het recht om te laten toetsen of de Combinant(en) en/of Derde(n) daadwerkelijk 
+voldoet/voldoen aan de Geschiktheidseisen. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  15 van 40 
+ 
+  
+Technische bekwaamheid en beroepsbekwaamheid 
+Als Geschiktheidseis geldt dat u beschikt over de ervaring (kerncompetenties) die wij noodzakelijk 
+achten om de Opdracht te kunnen uitvoeren.  
+ 
+Kerncompetenties kwantitatief onderzoek 
+Uit de referenties blijkt dat u ervaring heeft met: 
+1. het uitvoeren van minimaal twee onderzoeken op het gebied van sociale zekerheid bij 
+overheidsinstanties; 
+2. het opstellen van vragenlijsten, het samenstellen van representatieve steekproeven, het 
+uitvoeren van statistische analyses en het gebruik van (telefonische) interviews; 
+3. het verwerken van onderzoeksresultaten in een rapportage, inclusief het opstellen van een 
+managementsamenvatting. 
+ 
+Kerncompetenties verdiepend onderzoek 
+Uit de referenties blijkt dat u ervaring heeft met: 
+4. het uitvoeren van verdiepend onderzoek op het gebied van sociale zekerheid, waaronder 
+het afnemen van diepte-interviews en focusgroepen; 
+5. het uitvoeren van kwalitatieve analyses en het verwerken van de resultaten op het gebied 
+van sociale zekerheid in een rapportage, inclusief het opstellen van een 
+managementsamenvatting. 
+ 
+Wij zijn van mening dat de genoemde Kerncompetenties proportioneel zijn en dat hierdoor de kring 
+van potentiële inschrijvers niet onnodig wordt beperkt, gezien de aard en omvang van de Opdracht, 
+evenals de doelstellingen van het Programma van Eisen. Inschrijven met Derden en/of in Combinatie 
+is toegestaan, waardoor de toegang voor midden- en kleinbedrijven behouden blijft. 
+ 
+Lever maximaal 5 referenties in  
+Dat u aan deze Geschiktheidseis(en) voldoet, kunt u aantonen door middel van referenties (zie 
+Bijlage 4 – Referentieverklaring). U mag 1 of maximaal 5 referenties inleveren. Dit betekent dat als 
+in 1 referentie meerdere kerncompetenties voorkomen, u voor die kerncompetenties dezelfde 
+referenties mag gebruiken.  
+ 
+De einddatum van een referentieopdracht is maximaal drie (3) jaar geleden 
+Referentieopdrachten die langer dan drie (3) jaar geleden (gerekend van de uiterste sluitingsdatum 
+van indiening Inschrijving) zijn beëindigd, tellen niet mee. Een referentieopdracht mag wel langer 
+dan drie (3) jaar geleden gestart zijn.  
+ 
+Alleen behaalde resultaten tellen mee 
+Stuurt u een referentieopdracht in die nog loopt? Dan gelden alleen de resultaten die u al behaald 
+heeft.  
+ 
+Geheime referenties 
+Een door een Inschrijver ingediende referentie waaruit niet blijkt wie de referent is, wordt bij de 
+beoordeling van de Inschrijving terzijde gelegd en komt niet in aanmerking voor gunning van de 
+Opdracht.   
+ 
+Wij mogen navraag doen bij de referenten 
+Wij kunnen de aangeleverde gegevens verifiëren (onder andere bij de referenten). Dit kunnen wij 
+zowel bij de toetsing van de Geschiktheidseisen doen als bij de verificatie van de gegevens in uw 
+UEA. U verleent dan alle medewerking. In geval van geconstateerde onjuistheden in de 
+referentieverklaring kunnen wij  besluiten uw Inschrijving ongeldig te verklaren en u uit te sluiten 
+van verdere deelname aan de Aanbesteding. 
+ 
+Beroepsbevoegdheid  
+U bent ingeschreven in het nationale beroeps- of handelsregister 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  16 van 40 
+ 
+Als Geschiktheidseis geldt dat u – volgens de Eisen die gelden in het land waarin uw 
+onderneming is gevestigd – bent ingeschreven in het nationale beroeps- of handelsregister.   
+ 
+Binnen Nederland volstaat hiertoe een actueel uittreksel van inschrijving in het handelsregister van 
+de Kamer van Koophandel (“uittreksel KvK”). Met actueel bedoelen wij een geldig bewijs van 
+inschrijving dat op het moment van indienen van de Inschrijving niet ouder is dan zes maanden 
+(gerekend vanaf de uiterste sluitingsdatum van indiening Inschrijving). 
+ 
+U laat de Inschrijving rechtsgeldig ondertekenen door een daartoe bevoegd persoon. De bevoegdheid 
+van de ondertekenaar blijkt uit de genoemde inschrijving in het nationale beroeps - of 
+handelsregister.  
+ 
+Kiest u ervoor om de Inschrijving bij volmacht te ondertekenen? Dan dient u bij de verificatie van 
+het UEA zowel de actuele inschrijving in het nationale beroeps- of handelsregister als een rechtsgeldig 
+ondertekende volmacht in.  
+ 
+Bij inschrijving door een samenwerkingsverband (Combinatie), dient ieder lid bij de verificatie van 
+het UEA een recent bewijs van inschrijving van de onderneming in het handelsregister van de Kamer 
+van Koophandel in. 
+ 
+Informatiebeveiliging, privacy en veilige omgang met data 
+U dient aan één van de onderstaande voorwaarden te voldoen om aan te tonen dat u op het gebied 
+van informatiebeveiliging, privacy en de veilige omgang met data in control bent: 
+ 
+a) ISO 27001 
+Een geldig ISO 27001-certificaat, afgegeven door een certificerende instantie die voldoet aan de 
+Europese normenreeks voor certificering, en overlegt vóór gunning een kopie van het certificaat en 
+de bijbehorende Statement of Applicability (SoA). 
+ 
+Of een aantoonbaar gelijkwaardig managementsysteem 
+Een managementsysteem dat minimaal aantoonbaar gelijkwaardig is aan een ISO 27001-
+gecertificeerd systeem. Dit dient u aan te tonen met een verklaring van een onafhankelijke derde. 
+Onder een gelijkwaardig managementsysteem verstaan wij een systeem dat aantoonbaar de 
+volgende kernmaatregelen omvat: 
+• Een werkend Information Security Management System (ISMS); 
+• Beleidsdoelstellingen op directieniveau op het gebied van informatiebeveiliging; 
+• Vertaling van beleidsdoelstellingen naar operationele processen en controls; 
+• Vastgestelde beveiligingsniveaus op operationele processen en het behalen van die 
+niveaus; 
+• Aanwezigheid van de PDCA-cyclus ter borging van beleidsdoelstellingen en 
+beveiligingsprocessen; 
+• Formeel belegd verantwoordelijkheden voor informatiebeveiliging; 
+• Een jaarlijkse onafhankelijke audit op het bestaan en de werking van de genoemde 
+beleidsdoelstellingen. 
+ 
+Operationele maatregelen tijdens de uitvoering van de opdracht 
+Het managementsysteem moet tijdens de uitvoering van de opdracht ook praktisch worden 
+toegepast, met ten minste de volgende maatregelen: 
+• Informatiebeveiligingsbeleid opgesteld en regelmatig herzien; verantwoordelijkheden 
+bekend en conflicterende taken gescheiden; 
+• Bewustzijn over informatiebeveiliging onder medewerkers; 
+• Toegangsbeheer op basis van ‘need-to-know’ en ‘least privilege’, met waar nodig 
+multifactor-authenticatie; 
+• Bescherming van gevoelige informatie door encryptie van opslagmedia; 
+• Patch- en vulnerability management en tijdige installatie van updates; 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  17 van 40 
+ 
+• Bescherming tegen malware met detectie, preventie en herstel; 
+• Logging en monitoring van systemen en applicaties; 
+• Back-up en recovery beleid; 
+• Netwerksegmentatie waar mogelijk; 
+• Pseudonimisering en/of anonimisering van gegevens indien noodzakelijk; 
+• Continuïteit van gegevensverwerking tijdens de opdracht; 
+• Overdracht en vernietiging van onderzoeksgegevens bij beëindiging van de overeenkomst. 
+ 
+b) Derdenverklaring (TPM) 
+Een derdenverklaring (Third Party Memorandum / TPM) van een onafhankelijke en erkende auditor 
+die het niveau van informatiebeveiliging bevestigt. 
+ 
+c) Gap-analyse BIO 
+Een recente Gap-analyse ten opzichte van de Baseline Informatiebeveiliging Overheid (BIO)
+6 
+inclusief een concreet herstelplan. 
+ 
+d) Toelichtingsdocument / In-Control Statement 
+Een toelichtingsdocument (bijvoorbeeld informatiebeveiligingsbeleid, privacybeleid en/of In-Control 
+Statement) waarin minimaal wordt beschreven: 
+• Op welke wijze aan de beheersmaatregelen uit de Baseline Informatiebeveiliging Overheid 
+(BIO)7 en Algemene Verordening Gegevensbescherming (AVG) wordt voldaan; 
+• Op welke wijze de processen op het gebied van informatiebeveiliging en privacy (IB&P) zijn 
+ingericht, om de betrouwbaarheid van de informatievoorziening in het kader van de 
+uitvoering van de Overeenkomst te waarborgen; 
+• Op welke wijze personeel wordt gescreend voordat ze in dienst treden bij Opdrachtnemer; 
+• Op welke wijze Identity and Access Management met inbegrip van Multi Factor 
+Authentication (MFA) is ingericht; 
+• Op welke wijze ICT-componenten zijn beveiligd; 
+• Op welke wijze Logging en Monitoring is geïmplementeerd; 
+• Op welke wijze incidentmanagement ten behoeve van informatiebeveiliging, privacy en 
+datalekken is ingericht; 
+• Op welke wijze de continuïteit van het onderzoek met de daarin verwerkte gegevens wordt 
+gewaarborgd (o.a. back-up en recovery beleid); 
+• Op welke wijze de onderzoeksgegevens bij de beëindiging van de overeenkomst worden 
+overgedragen aan Opdrachtgever en worden vernietigd in de systemen van 
+Opdrachtnemer. 
+ 
+Bewijsmiddelen 
+Kopie van het ISO 27001-certificaat en SoA, TPM, Gap-analyse met herstelplan, of een gedateerd 
+en ondertekend In-Control Statement. Wij vragen dit op tijdens de verificatiefase. Dit vindt plaats 
+ná de voorlopige gunning. 
+3.3. Sanctiepakketten Rusland 
+Opdrachtgever handelt volgens de door de Europese Raad vastgestelde sanctiepakket Rusland inzake 
+aanbestedingen. Uw Inschrijving mag niet in strijd zijn met hetgeen beschreven in het sanctiepakket. 
+Russische partijen worden uitgesloten van deelname aan de onderhavige Aanbesteding. Dit geldt 
+ook voor partijen die meer dan 10% van de opdrachtwaarde in onderaanneming uitbesteden aan 
+een Russische partij. De actuele informatie over de inhoud en reikwijdte van het sanctiepakket 
+Rusland inzake aanbestedingen vindt u hier
+.   
+ 
+Door in te schrijven op onderhavige Aanbesteding verklaart u dat uw Inschrijving niet strijdig is met 
+het vigerende sanctiepakket Rusland inzake aanbestedingen. 
+ 
+6 https://www.informatiebeveiligingsdienst.nl/product/gap-analyse-1-2-alle-sheets/  
+7 https://bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf  
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  18 van 40 
+ 
+ 
+Bewijsmiddel: de door u ondertekende en ingediende Bijlage 1  (Uniform Europees 
+Aanbestedingsdocument).  
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  19 van 40 
+ 
+WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? 
+4. Gunningscriterium 
+Deze Aanbesteding gunnen wij op basis van de beste prijs-kwaliteitverhouding 
+Dit houdt in dat wij zowel de kwaliteit als de prijs beoordelen. In de volgende paragrafen wordt de 
+beste prijs-kwaliteitverhouding verder toegelicht. 
+4.1. Subgunningscriteria en puntenverdeling 
+In het overzicht hieronder ziet u de Subgunningscriteria en het aantal punten dat u maximaal kunt 
+scoren. De Subgunningscriteria lichten wij in de volgende paragrafen verder toe. 
+ 
+Gunningscriterium “Beste prijs-kwaliteitverhouding” 
+  Subgunningscriteria Maximum 
+aantal punten 
+Paragraaf 
+  Kwaliteit    
+SG1 Plan van aanpak kwantitatief onderzoek, planning en risico’s 500 4.2 
+SG2 onderzoeksteam 200 4.3 
+SG3 ervaring aanpak verdiepend onderzoek 200 4.4 
+ Prijs   
+SG4 Totaalprijs kwantitatief onderzoek 100 4.5 
+ Totaal kwaliteit en prijs 1.000   
+ 
+U moet ten minste 60% van het maximaal aantal punten scoren 
+Heeft u minder dan 60% van het maximaal te scoren aantal punten op de kwalitatieve 
+Subgunningscriteria? Dan wordt uw Inschrijving als onvoldoende beschouwd en leggen wij uw 
+Inschrijving terzijde. U neemt dan geen deel meer aan deze Aanbesteding. Wij beoordelen uw 
+Inschrijving pas op prijs als u ten minste 60% van het maximaal aantal punten scoort. Met andere 
+woorden: u dient minimaal 60% x 900 punten = 540 punten te scoren om in aanmerking te komen 
+voor gunning. 
+4.2. Subgunningscriterium kwaliteit 1: plan van aanpak kwantitatief onderzoek, 
+planning en risico’s 
+Wij vragen u een plan van aanpak in te dienen met daarin een onderzoeksmethodiek, inclusief 
+stappenplan, waarin een beschrijving staat van alle activiteiten die u gaat uitvoeren. Daarnaast 
+dient u een planning in die bij het onderzoek hoort en beschrijft u de risico’s en de 
+beheersmaatregelen. Voor dit onderdeel vragen wij u in te gaan op de volgende onderwerpen:  
+ 
+Werkwijze 
+• de beschreven werkwijze geeft blijk van inhoudelijke kennis van het onderwerp; 
+ 
+Methoden en technieken 
+• u maakt duidelijk hoe de vragenlijsten worden ontwikkeld; 
+• u maakt duidelijk hoe u het steekproefkader ontwikkeld; 
+• u geeft aan hoe u rekening houdt met representativiteit en sociale wenselijkheid; 
+• u beschrijft hoe u rekening houdt met diversiteit en inclusie. Dit kan onder meer bij het 
+opstellen van vragenlijsten, waarbij u aandacht besteedt aan verschillen in taalvaardigheid, 
+neutrale en onbevooroordeelde vraagformuleringen, inclusieve antwoordopties en andere 
+relevante dimensies; 
+ 
+Beleidscontext 
+• u maakt in eigen bewoording duidelijk wat het onderzoek inhoudelijk gezien oplevert; 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  20 van 40 
+ 
+• u deelt uw ideeën over de samenwerking met de andere stakeholders (UWV, SVB en 
+gemeenten) – Welke afspraken moeten worden gemaakt? Hoe gaat u de input van deze 
+stakeholders verwerken? Wat wilt u bespreken in de startbijeenkomst? Etc; 
+ 
+Planning 
+• de planning van de onderzoeksactiviteiten met doorlooptijden, overleg- en oplevermomenten; 
+• haalbaarheid planning (voorgestelde overlegmomenten en afstemmingsmomenten met 
+Opdrachtgever en begeleidingscommissie, oplevering tussen- en eindproduct);  
+• u maakt helder hoe en wanneer Opdrachtgever wordt betrokken; 
+ 
+Risico’s 
+• welke risico’s en afhankelijkheden ziet u op het gebied van planning? Hoe wilt u deze risico’s 
+beperken?;  
+• welke risico’s ziet u in de uitvoering van het onderzoek (bv. op het gebied van samenwerking, 
+afhankelijkheid van andere partijen, werving voldoende respondenten, etc.)?; 
+• welke risico’s ziet u in de selectie van gemeenten en daarbij behorende waarborg van 
+representativiteit?; 
+• welke beheersmaatregelen stelt u voor om deze risico’s te beperken? 
+ 
+Bij de beoordeling van deze criteria wordt gelet op: 
+• de beschreven en onderbouwde werkwijze concreet, helder, volledig, realistisch en waar 
+relevant origineel is, en geeft een goed inzicht in de aanpak; 
+• de mate waarin overtuigend is onderbouwd dat het stappenplan en de beschreven 
+uitvoering (ontwikkeling vragenlijsten, steekproefkader, borging representativiteit en 
+inclusie) leiden tot een degelijk eindrapport; 
+• de mate waarin aannemelijk wordt gemaakt dat de opdracht in de juiste beleidscontext is 
+geplaatst en de inhoudelijke oplevering aansluit bij de behoefte van Opdrachtgever; 
+• de mate waarin de planning inzichtelijk, volledig, realistisch en haalbaar is, met voldoende 
+tijd voor het verzamelen van relevante data en het maken van de analyses; 
+• de mate waarin de risico’s relevant zijn voor de uitvoering van het onderzoek en de 
+beschreven beheersmaatregelen passend zijn bij het risico en het risico daadwerkelijk 
+beheersen. 
+4.3. Subgunningscriterium kwaliteit 2: onderzoeksteam 
+In het door u aangeboden onderzoeksteam zien wij graag de volgende onderdelen terug:  
+• een toelichting op het team en waarom dit team het meest geschikt is voor deze opdracht; 
+• een beschrijving van de rollen/taken en wie welke deskundigheid inbrengt; 
+• hoe het team de onderlinge samenhang behoudt en wie het eerste aanspreekpunt is voor 
+Opdrachtgever; 
+• een urenverdeling van de teamleden; 
+• opdracht waaruit blijkt dat u ervaring heeft met soortgelijke onderzoeken en/of doelgroepen;  
+• de CV’s van de teamleden met minimaal de volgende informatie: 
+o aantoonbare relevante kennis van en werkervaring met het onderwerp van onderzoek 
+door middel van CV en projectbeschrijvingen; 
+o aantoonbare relevante kennis van en werkervaring met de benodigde 
+onderzoekstechnieken door middel van CV en projectbeschrijvingen; 
+o onderbouwing van de kwantitatieve (aantallen) en kwalitatieve (senioriteit, 
+specialisme, en dergelijke) inzet. 
+Bij de beoordeling van bovenstaand criterium wordt gelet op: 
+• de mate waarin het aangeboden onderzoeksteam over voldoende en specifieke 
+deskundigheid beschikt en de toelichting over de geschiktheid van het team overtuigend en 
+volledig is; 
+• de mate waarin de rollen, taken, onderlinge samenwerking en het eerste aanspreekpunt voor 
+Opdrachtgever helder zijn beschreven en een goed inzicht geven in de wijze van 
+samenwerken; 
+• de mate waarin de teamleden aantoonbare relevante kennis en ervaring hebben met het 
+onderwerp van onderzoek (sociale zekerheid en gedragsinzichten) en met de voorgestelde 
+onderzoeksmethoden en -technieken; 
+• de mate waarin de urenverdeling en inzet van teamleden (kwantitatief en kwalitatief) 
+realistisch en passend zijn bij de aard en omvang van de opdracht. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  21 van 40 
+ 
+4.4. Subgunningscriterium kwaliteit 3: aanpak verdiepend onderzoek 
+Het verdiepende onderdeel van het onderzoek is optioneel. Dit kan zowel kwalitatief dan wel 
+kwantitatief van aard zijn. Wij verzoeken u om inzicht te geven in uw ervaring met een verdiepend 
+onderzoek, en vragen daarbij in ieder geval in te gaan op de volgende aspecten: 
+• u maakt duidelijk welke methodes u in zou kunnen zetten in een mogelijk verdiepend 
+onderzoek. 
+• de beschreven werkwijze geeft blijk van inhoudelijke kennis van het onderwerp. 
+• uw ervaring met soortgelijke onderzoeken en/of doelgroepen en hoe u deze onderzoeken heeft 
+aangepakt.   
+• u deelt uw ideeën over het betrekken van en samenwerken met de stakeholders (UWV, SVB en 
+gemeenten) voor de bepaling van de verdiepende vraag en het uitvoeren van het onderzoek.  
+ 
+Bij de beoordeling van deze criteria wordt gelet op: 
+• de mate waarin uw voorgestelde methoden en werkwijze passend zijn voor een verdiepend 
+onderzoek, blijk geven van inhoudelijke kennis van het onderwerp en aantoonbaar 
+aansluiten bij de juiste beleidscontext; 
+• ervaring en stakeholderbetrokkenheid – de mate waarin blijkt dat u ervaring heeft met 
+soortgelijke onderzoeken en/of doelgroepen, en hoe u stakeholders (UWV, SVB en 
+gemeenten) betrekt bij het bepalen van de verdiepende vraag en de uitvoering van het 
+onderzoek. 
+ 
+Bijlage 2 – Antwoord op de Subgunningscriteria 
+Voor het subgunningscriterium ‘Kwaliteit’ geldt een maximum van 25 pagina’s voor uw bijdrage in 
+Bijlage 2. 
+• Nieuwe pagina voor elke beantwoording 
+Elke beantwoording van een subgunningscriterium begint op een nieuwe pagina. 
+• Uitsluiting vaste teksten 
+Kopjes, instructies en andere vaste teksten in Bijlage 2 tellen niet mee. 
+• Inclusief eigen inhoud 
+Het maximum omvat alle door u toegevoegde pagina’s, inclusief eventuele inleidende of 
+afsluitende pagina’s en bijlagen die u zelf toevoegt. 
+ 
+Opmaakeisen: 
+• lettertype Verdana 9 pt; 
+• regelafstand minimaal 1; 
+• marges aan alle kanten minimaal 2,5 cm. 
+ 
+Pagina’s die het maximum overschrijden blijven buiten beschouwing, en verwijzingen naar andere 
+delen van de inschrijving of externe bronnen worden niet beoordeeld. 
+ 
+Uitleg Beoordelingsaspecten 
+De beoordelingscommissie beoordeelt per Subgunningscriterium het ‘totaalbeeld’ van de geleverde 
+onderbouwing op de beoordelingsaspecten. De uitwerking van de Gunningscriteria bevatten een 
+duidelijke en concrete beschrijving van het aangeboden en zijn op ee n deugdelijke manier 
+onderbouwd. 
+ 
+Let op: Zorg ervoor dat u voor de beantwoording van de Subgunningscriteria ook rekening houdt 
+met het gevraagde in de aanbestedingsdocumenten zoals bijvoorbeeld de opdrachtbeschrijving in 
+hoofdstuk 2 en het Programma van eisen (Bijlage 1). 
+4.5. Subgunningscriterium prijs 
+De prijs voldoet aan alle Eisen uit dit Beschrijvend document en Bijlagen. Ook is de prijs inclusief alle 
+garanties, kosten en kortingen. Geeft u wel kortingen, voorwaarden of andere informatie waar niet 
+om is gevraagd? Dan nemen we die informatie niet mee in de beoordeling. U geeft al uw prijzen op 
+in euro’s en exclusief btw. 
+ 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  22 van 40 
+ 
+De inschrijver dient een vaste all-in totaalprijs op te geven voor het kwantitatieve 
+onderzoek. 
+De prijs moet zodanig zijn opgebouwd dat uitvoering kan worden gegeven aan de betreffende 
+onderdelen van de Opdracht, rekening houdend met alle gestelde Eisen. De prijs is inclusief alle 
+garanties, kosten en kortingen, uitgedrukt in euro’s en exclusief btw. 
+ 
+Maximumtarieven zijn all-in tarieven 
+Dat wil zeggen dat hierin dus ook de volgende kosten zijn inbegrepen:  
+• salariskosten; 
+• overheadkosten; 
+• kosten voor ondersteunend werk; 
+• kosten voor het gebruik van apparatuur; 
+• normale binnenlandse reis- en verblijfkosten; 
+• reiskosten woon- en werkverkeer; 
+• parkeerkosten; 
+• opleidingskosten; 
+• wervings- en selectiekosten; 
+• vervanging; 
+• verzekeringspremie; 
+• winst;  
+• alle eventuele verdere bijkomende kosten, zoals de kosten voor voorbereiding op de 
+uitvoering; 
+• Porto- en drukkosten inbegrepen (de enveloppen en brieven levert SZW aan).
+8 
+ 
+In Bijlage 3 geeft u uw prijs op  
+Opdrachtgever wenst in ieder geval de volgende onderdelen terug te zien in de prijsopgave: 
+ 
+Totaalprijs kwantitatief onderzoek 
+• Tweejaarlijkse kosten kwantitatief onderzoek. 
+• Uurtarieven per ingezette medewerker, uitgesplitst naar werkzaamheden. 
+ 
+Voor de eventuele verdiepende onderzoeken  vormen de vaste kosten en uurtarieven van het 
+kwantitatieve onderzoek het uitgangspunt voor nadere offertes, opgevraagd door Opdrachtgever; 
+eventuele aanvullende kosten worden in overleg besproken. 
+ 
+Vult u geen waarde, een negatieve waarde of een 0 als totaalprijs in op het prijsopgavenformulier?  
+Dan is uw Inschrijving ongeldig en neemt u verder geen deel aan deze Aanbesteding.  
+  
+ 
+8 Wees u ervan bewust dat deze kosten aardig kunnen oplopen. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  23 van 40 
+ 
+5. Beoordeling van uw Inschrijving 
+In dit hoofdstuk leest u op welke manier wij uw Inschrijving beoordelen. 
+5.1. Beoordeling en beoordelingscommissie 
+We toetsen op Formele eisen, Uitsluitingsgronden en Geschiktheidseisen 
+Voordat wij uw Inschrijving inhoudelijk beoordelen, beoordelen wij eerst of uw Inschrijving aan de 
+Formele eisen voldoet, geen Uitsluitingsgronden van toepassing zijn en of u aan de 
+Geschiktheidseisen voldoet.  
+ 
+We toetsen ook of u akkoord gaat met het Programma van Eisen  
+Gaat u niet akkoord met het Programma van Eisen of voldoet u niet aan de gestelde Eisen? Dan is 
+uw Inschrijving ongeldig en sluiten we u uit van verdere deelname aan de Aanbesteding. Alle Eisen 
+in het Programma van Eisen zijn dus knock-out criteria. 
+ 
+In geval van twijfel toetsen we aan de aanbestedingsbeginselen 
+Wij kunnen besluiten uw Inschrijving ongeldig te verklaren en u uit te sluiten van verdere deelname 
+aan de Aanbesteding als u niet voldoet aan de eisen en voorschriften in de Aanbestedingsstukken, 
+zoals:  
+• de Uitsluitingsgronden (paragraaf 3.1); 
+• Geschiktheidseisen (paragraaf 3.2); 
+• Formele Eisen (paragraaf 7.2).  
+ 
+Ongeldigverklaring en uitsluiting vindt niet plaats als dat in strijd is met de aanbestedingsbeginselen 
+(waaronder het proportionaliteitsbeginsel). 
+ 
+Voldoet uw Inschrijving aan alle Eisen en voorschriften? Dan beoordelen wij uw 
+Inschrijving inhoudelijk  
+Indien uw Inschrijving voldoet aan alle Eisen en voorschriften, dan beoordelen we de Inschrijving 
+inhoudelijk op de Subgunningscriteria en kennen daar een score aan toe. Een beoordelingscommissie 
+beoordeelt uw Inschrijving inhoudelijk. In de beoordelingscommissie zitten minimaal drie personen. 
+Deze personen hebben de deskundigheid die nodig is om uw Inschrijving inhoudelijk te beoordelen. 
+Desondanks mag de beoordelingscommissie altijd advies vragen aan (externe deskundigen) voor het 
+beoordelen van onderdelen van de ingediende informatie. 
+5.2. Beoordeling op kwaliteit 
+Wij beoordelen de kwaliteit van uw Inschrijving met een cijfer 
+Bij meerdere Subgunningscriteria (1, 2, 3 enzovoorts) krijgt elk Subgunningscriterium een cijfer.  
+ 
+Wij beoordelen de kwaliteit van uw Inschrijving met een score 
+De beoordelingscommissie bepaalt welke score elke uitwerking van een Subgunningscriterium van 
+uw Inschrijving krijgt.  
+ 
+Het cijfer drukt de inhoudelijke beoordeling uit 
+De beoordelingscommissie bepaalt welk cijfer u per Subgunningscriterium krijgt. U krijgt hierbij een 
+cijfer tussen 0 en de 10 toegekend. In de tabel hieronder leest u wat elk cijfer zegt over de kwaliteit 
+van uw Inschrijving. 
+ 
+Tabel puntenschaal 
+Score Toelichting 
+10 Uitstekend: de Inschrijver heeft uitstekend antwoord gegeven op de vragen bij dit 
+Subgunningscriterium. 
+8 Goed: de Inschrijver heeft goed antwoord gegeven op de vragen bij dit 
+Subgunningscriterium. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  24 van 40 
+ 
+6 Voldoende: de Inschrijver heeft voldoende antwoord gegeven op de vragen bij dit 
+Subgunningscriterium. 
+4 Onvoldoende: de Inschrijver heeft onvoldoende antwoord gegeven op de vragen bij dit 
+Subgunningscriterium. 
+2 Slecht: de Inschrijver heeft slecht antwoord gegeven op de vragen bij dit 
+Subgunningscriterium. 
+0 Geen score: de Inschrijver gaat niet in op (onderdelen van) het Subgunningscriterium of 
+heeft het overgeslagen. 
+ 
+De beoordelaars weten bij het beoordelen nog niet welke prijs bij een Inschrijving hoort 
+Zo zorgen we ervoor dat de beoordelaars uitsluitend de kwaliteit van uw Inschrijving beoordelen. 
+ 
+De cijfers worden op de volgende manier bepaald: 
+• eerst bepaalt ieder lid van de beoordelingscommissie individueel welke beoordeling en score 
+de beoordelaar geeft per Inschrijving voor ieder Subgunningscriterium;  
+• daarna komt de beoordelingscommissie bij elkaar voor een plenaire sessie om de scores en 
+bevindingen te bespreken. Tijdens deze plenaire sessie komen de beoordelaars tot een 
+consensus voor een score op elk Subgunningscriterium. 
+ 
+De uiteindelijke score is de optelsom van de gewogen score 
+De uiteindelijke score op een wens wordt bepaald aan de hand van de volgende formule:  
+Score = (toegekend cijfer/ 10) * maximaal te behalen aantal punten.  
+Deze score heet de gewogen score. 
+5.3. Beoordeling op prijs 
+Bepaling van de score voor de prijs 
+Om uw prijs te beoordelen wordt in deze aanbestedingsprocedure gebruik gemaakt van de absolute 
+beoordelingsmethodiek ‘gewogen factor’. Bij deze methode wordt uw prijs omgezet naar een score. 
+Wij maken hierbij gebruik van een bandbreedte van € 65.000,-- (minimumprijs) tot en met 90.000,-
+- (maximumprijs) exclusief btw. Als uw prijs lager is dan de opgegeven minimumprijs ontvangt u de 
+maximale score op het Subgunningscriterium prijs. Als uw prijs hoger is dan de opgegeven 
+maximumprijs wordt uw Inschrijving ter zijde gelegd en neemt u verder geen deel meer aan deze 
+aanbestedingsprocedure.  
+ 
+Let op: voor deze prijsevaluatie wordt uitgegaan van de tweejaarlijkse prijs als basis voor de 
+berekening, niet de totale prijs voor een eventuele contractduur van tien (10) jaar. 
+ 
+Berekening van uw score 
+Het scoreverloop wordt in onderstaand figuur grafisch weergegeven. Tussen de prijspunten in de 
+tabel wordt uw score lineair (naar rato) toegekend.  
+ 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+€ 65.000 € 70.000 € 75.000 € 80.000 € 85.000 € 90.000
+Punten
+Prijs
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  25 van 40 
+ 
+ 
+De formule die wij gebruiken om uw score te bepalen is als volgt:  
+Score = (0 - 100) / (90.000 – 65.000) * ([inschrijfprijs] – 90.000) 
+ 
+Dit houdt in dat:  
+• Bij een prijs van € 65.000,-- u 100 punten ontvangt.   
+• Bij een prijs van € 90.000,-- u 0 punten ontvangt. 
+5.4. Beoordeling op de beste prijs-kwaliteitverhouding 
+U krijgt een totaalscore voor uw Inschrijving 
+Deze score is de optelsom van alle scores op de Subgunningscriteria voor prijs en kwaliteit. De scores 
+per Subgunningscriterium ronden we af (indien dit aan de orde is) op twee cijfers achter de komma. 
+Dit doen we voor de leesbaarheid. Bij het berekenen van de totaalscore ronden we de scores per 
+Subgunningscriterium niet af. 
+ 
+Bij gelijke scores gunnen wij aan de Inschrijver met de beste score voor kwaliteit 
+Hierbij kijken we naar het totaal van de scores voor kwaliteit afgerond op 2 cijfers achter de komma. 
+Is de totale score voor kwaliteit ook gelijk tussen meerdere Inschrijvers? Dan gunnen wij aan de 
+Inschrijver met de hoogste score op het onderdeel van het  Subgunningscriterium waarvoor de 
+meeste punten geldt. Zijn de scores op dit onderdeel ook gelijk? Dan vindt loting plaats onder toezicht 
+van een notaris. 
+ 
+U komt in aanmerking voor gunning van de Opdracht als: 
+• u een geldige Inschrijving heeft gedaan; 
+• u minimaal 60% van het maximaal haalbaar aantal punten voor kwaliteit scoort; 
+• u de hoogste totaalscore heeft van alle Inschrijvers. 
+5.5. Manipulatieve of abnormaal lage Inschrijving  
+Een Inschrijving die het beoordelingsmechanisme geweld aandoet (manipulatieve Inschrijving), is 
+ongeldig. In dat geval sluiten we u uit van verdere deelname aan de Aanbesteding. 
+ 
+Hiervan is bijvoorbeeld sprake als de Inschrijver de bedoeling van de beoordelingssystematiek 
+verstoort door bijvoorbeeld voorbij te gaan aan het doel dat de Aanbestedende dienst voor ogen 
+heeft met de beoordeling van het Subgunningscriterium prijs.  
+ 
+Als u een Inschrijving indient die in verhouding tot de te verrichten Opdracht abnormaal laag lijkt, 
+dan verzoeken wij u om een toelichting op de voorgestelde prijs of kosten. Dat kan ertoe leiden dat 
+wij uw Inschrijving ongeldig verklaren en wij u uitsluiten van verdere deelname aan de Aanbesteding. 
+Bijvoorbeeld als u het lage niveau van de voorgestelde prijzen of kosten niet kunt onderbouwen. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  26 van 40 
+ 
+HOE VERLOOPT DE PROCEDURE EN HOE SCHRIJFT U IN? 
+6. Hoe verloopt de procedure? 
+In dit hoofdstuk leest u alles over de Aanbesteding. Wij geven de planning met daarbij een uitleg 
+van iedere stap. U leest in dit hoofdstuk ook wie uw Contactpersoon is en hoe u vragen kunt stellen. 
+6.1. CPV-codes 
+Bij de Aanbesteding gaat het om diensten met de volgende CPV-codes:  
+• 79300000-7: Markt- en economieonderzoek; enquêtes en statistieken; 
+• 79310000-0: Uitvoeren van marktonderzoek; 
+• 79311400-1: Economische onderzoek; 
+• 79311410-4: Economisch-effectbeoordeling; 
+• 79315000-5: Sociaal onderzoek; 
+• 79720000-7: Onderzoeksdiensten. 
+6.2. De Europese openbare procedure 
+Iedere belangstellende Ondernemer mag inschrijven op deze Aanbesteding 
+We hebben gekozen voor een openbare procedure. Dit geeft alle potentiële Inschrijvers voldoende 
+tijd en mogelijkheid om een kwalitatief goede Inschrijving in te dienen en zorgt ervoor dat de hele 
+markt de kans krijgt in te schrijven. Deze keuze is hoofdzakelijk gebaseerd op: 
+• omvang van de opdracht; 
+• transactiekosten voor de Aanbestedende dienst en de Inschrijvers; 
+• aantal potentiële Inschrijvers; 
+• gewenst eindresultaat; 
+• complexiteit van de opdracht; 
+• type van de opdracht en het karakter van de markt. 
+6.3. TenderNed 
+De Aanbesteding verloopt via het online aanbestedingsplatform TenderNed (www.tenderned.nl).  
+ 
+Registratie en bevoegdheid 
+Wilt u deelnemen aan deze Aanbesteding? Controleer dan tijdig of uw onderneming op de juiste 
+wijze is geregistreerd op www.TenderNed.nl
+. Controleer daarbij ook wie bevoegd is om namens uw 
+onderneming een inschrijving digitaal in te dienen. 
+6.4. Contactpersoon 
+Uw Contactpersoon is Giel van Megen, Inkoopadviseur RIS 
+U communiceert alleen met de Contactpersoon over deze Aanbesteding. De communicatie verloopt 
+via de berichtenmodule van TenderNed. Communiceert u over deze Aanbesteding met andere 
+medewerkers van de Aanbestedende dienst of via andere kanalen? Dan kan dit voor ons aanleiding 
+zijn om uw Inschrijving ongeldig te verklaren en u uit te sluiten van verdere deelname aan de 
+Aanbesteding. 
+6.5. De planning van de Aanbesteding 
+Hieronder ziet u de planning van de Aanbesteding. In de volgende paragrafen leest u een korte 
+toelichting op de activiteiten. 
+ 
+Wij streven er naar onderstaande planning te realiseren. Zonder expliciet tegenbericht dient u van 
+deze planning uit te gaan. Wij melden wijzigingen in de planning in de Nota van Inlichtingen of via 
+TenderNed. Aan deze planning kunnen de Potentiële Inschrijvers geen rechten ontlenen. 
+ 
+Activiteit Uiterste datum 
+Indienen van vragen en melden 
+tegenstrijdigheden 
+vrijdag 10 oktober 2025, 10.00 uur 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  27 van 40 
+ 
+Publiceren 1e Nota van Inlichtingen vrijdag 24 oktober 2025 
+Indienen van vervolgvragen  vrijdag 31 oktober 2025, 10.00 uur 
+Publiceren 2e Nota van Inlichtingen dinsdag 11 november 2025 
+Indienen Inschrijving vrijdag 21 november 2025, 10.00 uur 
+Bekendmaking resultaat beoordeling maandag 12 januari 2026 
+Gunning Overeenkomst dinsdag 3 februari 2026 
+Verwachte ingangsdatum Overeenkomst maandag 9 februari 2026 
+ 
+Wij behouden ons het recht voor de beoogde tijdsplanning te wijzigen. In geval wij overgaan tot 
+wijziging van de beoogde planning wordt dit naar alle betrokkenen gecommuniceerd. U kunt geen 
+rechten ontlenen aan de beoogde planning. De in dit (of het gewijzigde) tijdschema genoemde data 
+aangaande het indienen van vragen en het indienen van Inschrijvingen gelden als fatale termijnen. 
+6.6. Vragen en tegenstrijdigheden 
+Het is mogelijk dat een onderdeel uit het Beschrijvend document o nduidelijk is. In deze paragraaf 
+leest u wat u dan kunt doen.  
+ 
+Stel al uw vragen via TenderNed 
+Heeft u vragen over de inhoud of de procedure van deze Aanbesteding? Of constateert u 
+tegenstrijdigheden, onduidelijkheden of bezwaren? Gebruik hiervoor Vragen en Antwoorden in het 
+dashboard van TenderNed. Vragen die u op een andere manier stelt, beantwoorden wij niet. U kunt 
+via deze weg ook vragen stellen of suggesties doen met betrekking tot de contractvoorwaarden. 
+ 
+Vermeld hierbij op welk document en paragraaf uw vraag van toepassing is.  
+ 
+Dien al uw vragen en tegenstrijdigheden uiterlijk in op het tijdstip zoals aangegeven in 
+de planning 
+Zo zorgt u ervoor dat u antwoord krijgt op uw vraag. Dient u uw vraag te laat in? Dan beantwoorden 
+we uw vraag alleen als wij vinden dat het belangrijke informatie is voor alle Inschrijvers . De 
+inschrijftermijn verandert dan in principe niet, ook niet als wij de antwoorden minder dan tien (10) 
+dagen voor de sluitingsdatum publiceren.  Geeft u de tegenstrijdigheden, onduidelijkheden of 
+bezwaren niet op tijd door? Dan passen we het Beschrijvend document in beginsel niet meer aan. U 
+kunt geen rechten ontlenen a an tegenstrijdigheden die u niet heeft gesignaleerd of wel heeft 
+gesignaleerd maar ons niet tijdig heeft gemeld. Natuurlijk proberen w ij tegenstrijdigheden in de 
+Aanbestedingsstukken te voorkomen. 
+ 
+Zorg dat uw vragen en suggesties anoniem zijn 
+Gebruik daarom in uw vraag geen: 
+• bedrijfsnamen; 
+• productnamen; 
+• andere namen die aan uw organisatie gerelateerd zijn. 
+ 
+Wij publiceren alle vragen en antwoorden in TenderNed 
+U leest alle vragen en antwoorden in de Nota van Inlichtingen. Alle Inschrijvers krijgen op die manier 
+evenveel informatie. U ontvangt altijd een notificatie op uw e -mailadres op het moment dat wij de 
+vragen en antwoorden publiceren. We publiceren de Nota van Inlichtingen uiterlijk op de in de 
+planning opgenomen datum. 
+ 
+Hierna is de tweede vragenronde 
+De tweede vragenronde biedt u de mogelijkheid om vervolgvragen te stellen naar aanleiding van de 
+antwoorden uit de nota van inlichtingen. Stel uw vervolgvragen uiterlijk vóór de datum en het tijdstip 
+zoals opgenomen in de planning. Antwoorden op deze vragen publiceren wij uiterlijk op de in de 
+planning genoemde datum en tijd. Wij gaan ervan uit dat de Aanbesteding hierna voor alle 
+Inschrijvers volledig duidelijk is. 
+ 
+Beschrijvend document Naleving van Uitkeringsverplichtingen voor het Sociale Zaken en Werkgelegenheid - 
+201865005.011.086 – 22 september 2025  28 van 40 
+ 
+U kunt ook vertrouwelijk vragen stellen 
+Het antwoord is dan alleen voor u bestemd. Niet voor de andere Inschrijvers. Wilt u een vertrouwelijk 
+antwoord op uw vraag? Motiveer dan duidelijk waarom u van mening bent dat openbaarmaking van 
+deze informatieschade kan toebrengen aan de gerechtvaardigde economische belangen van uw 
+onderneming. 
+Zijn we het niet eens met uw motivatie? Dan leggen wij u de keuze voor; wij nemen uw vraag op in 
+de algemeen ter beschikking te stellen Nota van Inlichtingen, of wij beantwoorden uw vraag niet.  
+ 
+Wij geven u alleen informatie via TenderNed 
+Krijgt u informatie op een andere manier? Dan kunt u daaraan geen rechten ontlenen. Ook niet als 
+u de informatie krijgt van een van onze medewerkers of vertegenwoordigers. 
+ 
+De Nota van inlichtingen gaat altijd voor 
+Spreken de Nota van Inlichtingen en het Beschrijvend document elkaar tegen? Dan gaan we uit van 
+wat in de Nota van Inlichtingen staat. Zijn er meerdere Nota’s van Inlichtingen en spreken die elkaar 
+tegen? Dan geldt wat in de laatst gepubliceerde Nota van Inlichtingen staat. 
+6.7. Indienen Inschrijving  
+Dien uw Inschrijving uiterlijk in op het tijdstip zoals aangegeven in de planning 
+U
+
+=== Document: nota van inlichtingen ===
+Format Nota van 
+Inlichtingen  
+ 
+ 
+Rijksinkoopsamenwerking 
+ 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN  Den Haag 
+ 
+Postbus 20011 
+2500 EA  Den Haag 
+ 
+ 
+Bijlage  
+ 
+Behorend bij 
+Europese aanbesteding 
+ 
+Naleving van Uitkeringsverplichtingen 
+ 
+voor het 
+ 
+ministerie van Sociale Zaken en Werkgelegenheid 
+de directie Stelsel en Volksverzekeringen  
+Datum 24 oktober 2025 
+Kenmerk 201865005.011.086 
+ 
+  
+Format Nota van Inlichtingen behorend bij ‘Naleving van Uitkeringsverplichtingen’ voor het Sociale Zaken en 
+Werkgelegenheid - 201865005.011.086 – 24 oktober 2025 2 van 3 
+ 
+BESCHRIJVEND DOCUMENT 
+ 
+ 
+VRAAG 1. U geeft aan: "Daarnaast ontvangen wij graag van het onderzoeksbureau 
+suggesties voor manieren waarop informatie kan worden verzameld die ook 
+kunnen bijdragen aan preventieve maatregelen, mits dit geen extra 
+uitvoeringslasten veroorzaakt en aanvullend is op recent onderzoek." 
+ 
+Vraag: Kunt u toelichten wat u hier mee bedoeld? Is dit bij de inrichting van het 
+onderzoek of een uitkomst van het onderzoek? 
+Pargraaf Beschrijvend document - pagina 9 
+Antwoord Met deze passage bedoelen wij dat wij het onderzoeksbureau vragen om, binnen 
+de uitvoering van het onderzoek, ook mee te denken over mogelijke manieren om 
+informatie te verzamelen die in de toekomst kunnen bijdragen aan preventieve 
+maatregelen. 
+ 
+Dit kan bijvoorbeeld bij het opstellen van de vragenlijsten of interviewleidraden, 
+waarbij het onderzoeksbureau reflecteert op of er vragen of invalshoeken kunnen 
+worden opgenomen die niet alleen inzicht geven in de huidige situatie, maar ook 
+aanknopingspunten bieden voor preventie. 
+ 
+Het gaat dus niet om een extra onderzoeksdoel of een afzonderlijk onderdeel van 
+de huidige onderzoeksopzet. Belangrijk is dat dit geen extra uitvoeringslasten 
+mag veroorzaken en aanvullend is op wat al in recent onderzoek beschikbaar is. 
+Het betreft dus een uitkomst of bijvangst van het onderzoek, geen verplicht 
+onderdeel van de onderzoeksrichting. 
+ 
+ 
+VRAAG 2. In 2.4.2 geeft u aan dat de vaste kosten voor het verdiepend onderzoek op basis 
+van de vaste kosten van het kwantitatief onderzoek worden bepaald. 
+ 
+Vraag: Nu zijn de vaste kosten voor een kwalitatief onderzoek anders (incentives, 
+vergoeding van een locatie) dan bij een kwantitatief onderzoek (drukkosten, 
+verzending etc.). Hoe moeten wij dit interpreteren? 
+Paragraaf Beschrijvend document - pagina 9 
+Antwoord Onder 4.5 is verduidelijkt dat: “Voor de eventuele verdiepende onderzoeken 
+vormen de vaste kosten en uurtarieven van het kwantitatieve onderzoek het 
+uitgangspunt voor nadere offertes, opgevraagd door Opdrachtgever; eventuele 
+aanvullende kosten worden in overleg besproken.” 
+ 
+Hoewel hierbij niet expliciet wordt gesproken over kwalitatief onderzoek, betekent 
+dit dat afwijkende kosten (zoals incentives of locatievergoedingen bij kwalitatief 
+onderzoek) in overleg met Opdrachtgever kunnen worden meegenomen. 
+ 
+ 
+ 
+VRAAG 3. Hoe verhoudt zich het subgunningscriterium 2: onderzoeksteam met bijbehorende 
+cv’s tot anonimiteit van de inschrijving? Oftewel hoe kan de kwaliteit van het 
+team anoniem beschreven worden? 
+Paragraaf Beschrijvend document - pagina 20 SG 2 
+Antwoord Gezien de complexiteit van het waarborgen van uw anonimiteit bij uw inschrijving 
+voor deze aanbesteding, is besloten dat het anonimiteitscriterium komt te 
+vervallen. U kunt uw organisatie, teamleden en hun relevante ervaring volledig en 
+concreet beschrijven. 
+ 
+De wijziging is verwerkt in het document: ‘beschrijvend document (herzien)’. 
+ 
+ 
+ 
+VRAAG 4. We hebben een eerste berekening gemaakt van het benodigd budget en onzes 
+inziens is dit – in ogenschouw nemende de gevraagde dienstverlening en 
+Format Nota van Inlichtingen behorend bij ‘Naleving van Uitkeringsverplichtingen’ voor het Sociale Zaken en 
+Werkgelegenheid - 201865005.011.086 – 24 oktober 2025 3 van 3 
+gevraagde kwaliteit – (te) krap. Ziet aanbestedende dienst mogelijkheden de 
+range aan te passen naar 85.000-110.000 euro? 
+Pargraaf Beschrijvend document - pagina 24 beoordeling op prijs 
+Antwoord Nee, het is voor Opdrachtgever niet mogelijk om het budget op te hogen. 
+ 
+ 
+CONCEPT OVEREENKOMST 
+ 
+VRAAG 5. In de concept onderzoeksovereenkomst (Bijlage A) vallen ons twee dingen op. De 
+titel bevat: “op wetenschappelijke wijze uitgevoerd onderzoek” en de 
+opdrachtnemer dient te handelen conform de ALLEA gedragscode. Beide 
+aspecten/eisen komen in het beschrijvend document en het programma van eisen 
+niet voor. Is dit wellicht abusievelijk in de concept onderzoeksovereenkomst 
+opgenomen terwijl dit niet de bedoeling is? Als het wel de bedoeling is, kunt u dan 
+een operationalisatie geven van “op wetenschappelijke wijze uitgevoerd 
+onderzoek” in het BD/PvE? En m.b.t. de ALLEA gedragscode: als het wel de 
+bedoeling is dat we ons hieraan confirmeren: in aanbestedingen voor 
+vergelijkbare onderzoeken wordt vaak onderschrijving van de gedragscode van de 
+VBO (Vereniging voor Beleidsonderzoek) of het D&IN (Data& Insights Network) 
+gevraagd. Waarom wordt er in onderhavige aanbesteding van afgeweken of is het 
+onderschrijven van de VBO/DIN gedragscode ook voldoende? 
+Artikel Bijlage A - Onderzoek 
+Antwoord De aspecten “op wetenschappelijke wijze uitgevoerd onderzoek” en de naleving 
+van de ALLEA-gedragscode zijn opgenomen in de 
+conceptonderzoeksovereenkomst als een overkoepelend kader voor de uitvoering 
+van het onderzoek. Zij zijn niet opgenomen in het Beschrijvend Document of 
+Programma van Eisen, omdat deze documenten uitsluitend concrete, toetsbare 
+eisen bevatten die inschrijvers in hun aanbieding moeten specificeren, zoals 
+steekproefgrootte, representativiteit, dataverzamelingsmethoden, 
+rapportagestructuur en planning. 
+ 
+Naleving ALLEA-gedragscode versus VBO/D&IN: 
+De ALLEA-gedragscode biedt een breder en internationaal erkend kader voor 
+onderzoeksintegriteit, inclusief normen voor eerlijkheid, transparantie, correcte 
+dataregistratie en ethische omgang met respondenten. VBO/D&IN-gedragsregels 
+bevatten relevante richtlijnen voor beleids- en dataonderzoek, maar dekken niet 
+alle aspecten van integriteit en ethiek zoals ALLEA voorschrijft, bijvoorbeeld het 
+omgaan met conflicterende belangen en internationaal erkende standaarden voor 
+dataverwerking en rapportage. Onderschrijving van VBO/D&IN alleen is daarom 
+niet voldoende. 
+ 
+Praktische toepassing voor u: 
+Het voldoen aan de ALLEA-gedragscode betekent niet dat u extra opleveringen 
+hoeft te leveren bovenop de concrete eisen zoals beschreven in het BD/PvE. Het 
+betreft een verplichting om tijdens de uitvoering van het onderzoek de principes 
+van integriteit, transparantie en methodologische zorgvuldigheid toe te passen. 
+Voorbeelden hiervan zijn: 
+• Het zorgvuldig documenteren van onderzoeksdata zodat resultaten 
+reproduceerbaar zijn binnen privacyregels. 
+• Transparant omgaan met eventuele conflicterende belangen. 
+• Ethisch verantwoorde omgang met respondenten, inclusief respect, 
+vertrouwelijkheid en minimale belasting. 
+• Transparante rapportage over methoden, beperkingen en onzekerheden, 
+zodat de kwaliteit van het onderzoek controleerbaar is. 
+ 
+Deze gedragscode sluit aan bij de gangbare professionele standaarden binnen 
+sociaal-wetenschappelijk onderzoek en vraagt geen aanvullende administratieve 
+handelingen van u.
+
+=== Document: 2e nota van inlichtingen ===
+2e Nota van Inlichtingen  
+ 
+ 
+Rijksinkoopsamenwerking 
+ 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN  Den Haag 
+ 
+Postbus 20011 
+2500 EA  Den Haag 
+ 
+ 
+Bijlage  
+ 
+Behorend bij 
+Europese aanbesteding 
+ 
+Naleving van Uitkeringsverplichtingen 
+ 
+voor het 
+ 
+ministerie van Sociale Zaken en Werkgelegenheid 
+de directie Stelsel en Volksverzekeringen  
+Datum 11 november 2025 
+Kenmerk 201865005.011.086 
+ 
+  
+2e Nota van Inlichtingen behorend bij ‘Naleving van Uitkeringsverplichtingen’ voor het Sociale Zaken en 
+Werkgelegenheid - 201865005.011.086 – 24 oktober 2025 2 van 3 
+ 
+BESCHRIJVEND DOCUMENT 
+ 
+ 
+VRAAG 1. We krijgen databestanden aangeleverd van UWV, SVB en gemeenten. Kunnen 
+jullie aangeven wat de verwachting is ten aanzien van de kwaliteit en volledigheid 
+van de data (met name als het gaat om e-mailadressen, telefoonnummers en 
+postadressen)? 
+Pargraaf Beschrijvend document - pagina 9 
+Antwoord UWV, SVB en gemeenten leveren kwalitatieve en volledige data aan.  
+ 
+ 
+VRAAG 2. In het beschrijvend document staat: “Dit betekent dat er tweejaarlijks een 
+basisvragenlijst verstuurd zal worden naar de hele steekproef.” is het de 
+bedoeling dat de vragenlijst elke twee jaar naar dezelfde steekproef wordt 
+verzonden? Of wordt er elke twee jaar een andere steekproef getrokken? Dit 
+laatste lijkt aannemelijk, vanwege verloop in personen die een bepaalde uitkering 
+ontvangen, en wijzigingen in de persoonlijke situatie van mensen (vinden van 
+werk, verhuizing, overlijden, etc) 
+Paragraaf Beschrijvend document - pagina 9 
+Antwoord Er wordt elke twee jaar een andere steekproef getrokken. 
+ 
+ 
+VRAAG 3. Kan het ook voorkomen dat bepaalde groepen respondenten alleen via email 
+worden aangeschreven, bijvoorbeeld omdat er geen huisadres beschikbaar is of 
+omdat communicatie via email de voorkeur heeft? 
+Paragraaf Beschrijvend document - pagina 9 
+Antwoord Dat komt in principe niet voor. UWV, SVB en gemeenten beschikken altijd over 
+een adres. Het kan echter voorkomen dat dit adres verouderd of onjuist is. 
+ 
+ 
+VRAAG 4. Is het de bedoeling dat alle beoogde respondenten in het kwantitatieve deel van 
+het onderzoek een uitnodigingsbrief met een papieren vragenlijst via de post 
+krijgen toegestuurd? Of is het mogelijk dat een papieren vragenlijst alleen op 
+aanvraag wordt toegestuurd? Dit in het kader van duurzaamheid en 
+kostenbesparing. 
+Pargraaf Beschrijvend document - pagina 9 
+Antwoord Met het oog op duurzaamheid en kostenbesparing begrijpen we deze vraag. 
+Tegelijkertijd kan dit een drempel vormen voor deelname van mensen die minder 
+digitaal vaardig zijn. Daarom is deze werkwijze in principe niet opgenomen in de 
+opzet. 
+ 
+Mocht u echter ervaring hebben met het op deze manier succesvol werven van 
+respondenten, ook binnen moeilijk bereikbare doelgroepen, dan kunt u dit 
+opnemen in uw offerte. We gaan hierover graag met u in gesprek. 
+ 
+VRAAG 5. Van alle leden van het beoogde onderzoeksteam moeten er CVs worden 
+toegevoegd. Tegelijkertijd is het maximaal aantal pagina's voor subgunningcriteria 
+kwaliteit 1, 2 en 3 slechts 25 pagina's. Mag er ook worden volstaan met een korte 
+omschrijving van de achtergrond en kwaliteiten van elk lid van het 
+onderzoeksteam, en een aparte bijlage met daarin alle verzamelde CV's? 
+Pargraaf Beschrijvend document - pagina 20 
+Antwoord Ja, dat is toegestaan. De beantwoording van de subgunningscriteria kwaliteit 1, 2 
+en 3 dient te worden opgenomen in Bijlage 2 en mag gezamenlijk maximaal 25 
+pagina’s omvatten. U kunt in deze beantwoording volstaan met een beknopte 
+omschrijving van het onderzoeksteam en de relevante deskundigheden van de 
+teamleden. 
+ 
+De volledige CV’s van de teamleden mogen als afzonderlijke bijlage worden 
+toegevoegd. Deze bijlage valt buiten het maximum van 25 pagina’s en wordt 
+uitsluitend gebruikt ter verificatie van de in Bijlage 2 beschreven informatie. 
+ 
+2e Nota van Inlichtingen behorend bij ‘Naleving van Uitkeringsverplichtingen’ voor het Sociale Zaken en 
+Werkgelegenheid - 201865005.011.086 – 24 oktober 2025 3 van 3 
+ 
+VRAAG 6. De inschrijver dient maximaal 5 referenties in te dienen om aan te tonen dat men 
+aan de geschiktheidseisen voldoet. Mogen een deel van de referenties ook 
+onderzoeken zijn die zijn uitgevoerd als onderdeel van een instellingsubsidie van 
+een ministerie, dus zonder expliciete externe opdrachtgever als referent? 
+Pargraaf Beschrijvend document - pagina 15 
+Antwoord Ja, dat is toegestaan, mits uit de referentie duidelijk blijkt dat de werkzaamheden 
+door de inschrijver zelf zijn uitgevoerd, dat de inhoud en omvang van het 
+onderzoek vergelijkbaar zijn met de in de aanbesteding gevraagde 
+kerncompetenties, en dat de referentie controleerbaar is. 
+ 
+Het is daarbij niet vereist dat sprake is van een afzonderlijke commerciële 
+opdracht met een expliciete opdrachtgever, zolang de referentie voldoende 
+aantoont dat de ervaring is opgedaan binnen een overheidscontext (zoals een 
+ministerie of uitvoeringsorganisatie) en vergelijkbaar is met de aard en 
+doelstellingen van de onderhavige Opdracht.
+
+=== Document: uea_547651_20250922121009 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 31TN-547651 - 22 sep 2025
+Relevante aankondiging
+Nummer aankondiging in PB 
+EU S (alleen indien u beschikt 
+over dit nummer):
+-
+Vermeld, wanneer 
+bekendmaking van een 
+aankondiging in het 
+Publicatieblad van de 
+Europese Unie niet is vereist, 
+andere gegevens op basis 
+waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het 
+gaat (bijvoorbeeld verwijzing 
+naar een bekendmaking op 
+nationaal niveau):
+TenderNed-kenmerk: 547651
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: Rijksinkoopsamenwerking (RIS)
+Om welke aanbesteding gaat 
+het? Wat is de titel van de 
+aanbesteding?
+Naleving van Uitkeringsverplichtingen
+Korte beschrijving van de 
+aanbesteding:
+Het ministerie van Sociale Zaken en Werkgelegenheid (SZW) is verantwoordelijk voor de 
+sociale zekerheid in Nederland. Binnen deze verantwoordelijkheid vallen onder andere het 
+preventie- en handhavingsbeleid. Een belangrijk onderdeel daarvan is het ontwikkelen van 
+instrumenten die gericht zijn op het voorkomen van misbruik en oneigenlijk gebruik van 
+voorzieningen, en op het bevorderen van naleving van de verplichtingen die verbonden zijn 
+aan het ontvangen van een uitkering. Het onderzoek richt zich daarom primair op het 
+verkrijgen van inzicht in de factoren die van invloed zijn op de naleving van de 
+verplichtingen die samenhangen met het ontvangen van een uitkering. Daarbij wordt 
+onderzocht welke factoren relevant zijn bij naleving van de uitkeringsverplichtingen en op 
+welke wijze deze factoren het gedrag en de keuzes van uitkeringsgerechtigden beïnvloeden.
+Referentienummer van het 
+dossier bij de aanbestedende 
+dienst of aanbestedende 
+entiteit (indien van toepassing):
+201865005.011.086
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 31TN-547651 - 22 sep 2025
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-
+nummer of KVK-nummer van 
+toepassing is, een ander 
+nationaal identiﬁcatienummer, 
+indien vereist en toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, 
+kleine of middelgrote 
+onderneming:
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 31TN-547651 - 22 sep 2025
+ In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor 
+statistische doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een 
+jaaromzet en/of jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming 
+met minder dan 50 werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen 
+euro; middelgrote ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen 
+werknemers en een jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer 
+dan 43 miljoen euro.
+Wijze van deelneming
+Neemt de ondernemer samen 
+met anderen deel aan de 
+aanbestedingsprocedure?
+ Ja
+ Nee
+ Met name als deel van een combinatie, consortium, joint venture, enz.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de 
+ondernemer binnen de 
+combinatie (leider, 
+verantwoordelijk voor 
+speciﬁeke taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die 
+gezamenlijk aan de 
+aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de 
+naam van de deelnemende 
+combinatie:
+Percelen
+Vermeld het perceel/de 
+percelen waarop de 
+ondernemer wil inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 31TN-547651 - 22 sep 2025
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen.
+ Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie over 
+de vertegenwoordiging (vorm, 
+reikwijdte, doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 31TN-547651 - 22 sep 2025
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie over 
+de vertegenwoordiging (vorm, 
+reikwijdte, doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 31TN-547651 - 22 sep 2025
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig 
+gedetailleerde informatie over 
+de vertegenwoordiging (vorm, 
+reikwijdte, doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep 
+op de draagkracht van andere 
+entiteiten om te voldoen aan 
+de selectiecriteria en de 
+(eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 31TN-547651 - 22 sep 2025
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt elk
+gevraagd in de . Dit formulier moet door de betrokken entiteiten naar afdelingen A en B van dit deel en deel III
+behoren worden ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen 
+staan om de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke 
+draagkracht waarop de 
+ondernemer steunt voor elk 
+van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  expliciet
+om deze gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden 
+te geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de 
+(categorieën van) betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  expliciet
+om deze informatie vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 31TN-547651 - 22 sep 2025
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 31TN-547651 - 22 sep 2025
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+ Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, 
+lid 1, van de richtlijn vermelde gronden worden omgezet.
+ Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de 
+Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 
+25.6.1997, blz. 1) en artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding 
+van corruptie in de privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook 
+corruptie in de zin van de nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de 
+ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 
+2005 tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de 
+ﬁnanciering van terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 
+inzake de voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en 
+ter vervanging van Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit indien 
+het een procedure onder de 
+Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische activeiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 31TN-547651 - 22 sep 2025
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om deelneming aan een criminele organisatie veroordeeld bij 
+onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet 
+een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 31TN-547651 - 22 sep 2025
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij 
+ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie 
+betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van Kaderbesluit 2003/568/JBZ 
+van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 31TN-547651 - 22 sep 2025
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 31TN-547651 - 22 sep 2025
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk vonnis, welk vonnis 
+niet later dan vijf jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die 
+nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 31TN-547651 - 22 sep 2025
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van terrorisme 
+veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is 
+gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 31TN-547651 - 22 sep 2025
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 31TN-547651 - 22 sep 2025
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om terroristische misdrijven of strafbare feiten in verband met 
+terroristische activiteiten veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan 
+vijf jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 31TN-547651 - 22 sep 2025
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, beslissings- of 
+controlebevoegdheid heeft, om kinderarbeid en andere vormen van mensenhandel 
+veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar geleden is 
+gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+a) Vermeld datum vonnis, om 
+welke van de punten 1 tot en 
+met 6 het gaat en wat de grond
+(en) voor de veroordeling is
+/zijn:
+Grond(en):
+b) Geef de identiteit van 
+degene die is veroordeeld:
+c) Voor zover expliciet in het 
+vonnis vastgesteld, duur van 
+de uitsluitingsperiode:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 31TN-547651 - 22 sep 2025
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen 
+genomen om aan te tonen dat 
+hij ondanks de toepasselijke 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+ Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 31TN-547651 - 22 sep 2025
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit indien 
+het een procedure onder de 
+Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de betaling van 
+belastingen of sociale premies, zowel in het land waar hij is gevestigd als in de lidstaat van 
+de aanbestedende dienst of aanbestedende entiteit indien dit een ander land is dan het 
+land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn 
+nagekomen:
+1. Door middel van een 
+rechterlijke of administratieve 
+beslissing
+ Ja
+ Nee
+- Is deze beslissing 
+onherroepelijk en bindend?
+ Ja
+ Nee
+- Vermeld de datum van het 
+vonnis of de beslissing:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 31TN-547651 - 22 sep 2025
+- In geval van een vonnis: 
+vermeld de duur van de 
+uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? 2.
+Vermeld:
+d) Is de ondernemer zijn 
+verplichtingen nagekomen 
+door de verschuldigde 
+belastingen, met inbegrip van 
+lopende rente of boetes indien 
+toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of 
+bindende regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 31TN-547651 - 22 sep 2025
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de betaling van 
+belastingen of sociale premies, zowel in het land waar hij is gevestigd als in de lidstaat van 
+de aanbestedende dienst of aanbestedende entiteit indien dit een ander land is dan het 
+land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn 
+nagekomen:
+1. Door middel van een 
+rechterlijke of administratieve 
+beslissing
+ Ja
+ Nee
+- Is deze beslissing 
+onherroepelijk en bindend?
+ Ja
+ Nee
+- Vermeld de datum van het 
+vonnis of de beslissing:
+- In geval van een vonnis: 
+vermeld de duur van de 
+uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? 2.
+Vermeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 31TN-547651 - 22 sep 2025
+d) Is de ondernemer zijn 
+verplichtingen nagekomen 
+door de verschuldigde 
+belastingen, met inbegrip van 
+lopende rente of boetes indien 
+toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of 
+bindende regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door 
+aanbestedende dienst, 
+aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel 
+boven als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beinvloeding
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 31TN-547651 - 22 sep 2025
+ Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het milieu-, 
+sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer 
+maatregelen genomen om aan 
+te tonen dat hij ondanks de 
+toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 31TN-547651 - 22 sep 2025
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers getroﬀen, of 
+hij verkeert in een andere, vergelijkbare toestand ingevolge een soortgelijke procedure uit 
+hoofde van nationale wet- of regelgeving, of zijn activa worden beheerd door een curator of 
+door de rechtbank, of zijn bedrijfsactiviteiten zijn gestaakt?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid 
+tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers 
+van de stukken:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 31TN-547651 - 22 sep 2025
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht zijn 
+op vervalsing van de mededinging?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid 
+tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer 
+maatregelen genomen om aan 
+te tonen dat hij ondanks de 
+toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 31TN-547651 - 22 sep 2025
+Beschrijf de genomen 
+maatregelen:
+Belangenconﬂict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconﬂict als gevolg van zijn deelneming aan 
+de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid 
+tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 31TN-547651 - 22 sep 2025
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of een 
+met hem verbonden onderneming anderszins betrokken geweest bij de voorbereiding van 
+de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid 
+tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Prestaties uit het verleden
+Wetsverwijzing(en): Artikel 2.87, lid 1g Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer blijk gegeven van aanzienlijke of voortdurende tekortkomingen bij de 
+uitvoering van een wezenlijk voorschrift van een eerdere overheidsopdracht, een eerdere 
+opdracht van een speciale-sectorbedrijf of een eerdere concessieopdracht en heeft dit 
+geleid tot vroegtijdige beëindiging van die eerdere opdracht, tot schadevergoeding of tot 
+andere vergelijkbare sancties?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 31TN-547651 - 22 sep 2025
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid 
+tot afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer 
+maatregelen genomen om aan 
+te tonen dat hij ondanks de 
+toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar 
+is (“Self-Cleaning”)?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen 
+maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 29 van 31TN-547651 - 22 sep 2025
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft gemaakt 
+aan valse verklaringen bij het verstrekken van de informatie die nodig is om te controleren 
+of er geen gronden voor uitsluiting zijn dan wel of aan de selectiecriteria wordt voldaan, hij 
+dergelijke informatie niet heeft achtergehouden, hij de door de aanbestedende dienst of 
+aanbestedende entiteit gevraagde ondersteunende documenten onverwijld heeft kunnen 
+overleggen.
+Bevestigen:  Ja
+ Nee
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces van 
+de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,om 
+vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, selectie 
+of gunning?
+Bevestigen:  Ja
+ Nee
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de 
+aanbestedende dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging 
+bedoelde aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de 
+selectiecriteria dat, hij voldoet 
+aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 30 van 31TN-547651 - 22 sep 2025
+a.  
+b.  
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of
+ Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie 
+daartoe in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming 
+met een dergelijke raadpleging.
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt.
+ Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+(Ondertekenen kan alleen schriftelijk na printen.)
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:

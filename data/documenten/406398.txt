@@ -1,0 +1,3108 @@
+=== Document: nota van inlichtingen 1 - laks- en job-monitor _vdef ===
+Pagina 1 van 20 
+ 
+ 
+Nota van inlichtingen 1 - Onderzoeksdienstverlening met betrekking tot de JOB - en LAKS -monitor       
+22 januari 2026 
+ 
+ 
+Bijgaand treft u de Nota van i nlichtingen 1 inzake de aanbesteding ‘Onderzoeksdienstverlening met betrekking tot de JOB - en LAKS -monitor ’ van Stichting COMBO . Indien een vraag en in het 
+verlengde daarvan  het antwoord enkel betrekking heeft op één van de twee monitors, is dit expliciet aangegeven bij het antwoord.  
+ 
+Daarnaast willen wij u erop attenderen dat de i nterviews zijn verplaatst naar 6 maart 2026 . 
+ 
+Met vriendelijke groet,  
+Pro 10 B.V.  
+ 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+1.  aanbestedingsleidraad  In de aanbestedingsstukken wordt gesproken over een belweek die is 
+georganiseerd om scholen te werven. Tijdens de 
+voorlichtingsbijeenkomst werd hier ook over gesproken. Dienen de 
+belwerkzaamheden uitgevoerd te worden door de opdrachtnemer, door 
+LAKS of doo r een combinatie van beide partijen?  
+LAKS: De belweek wordt georganiseerd door de opdrachtnemer en de bijkomende 
+belwerkzaamheden worden ook uitgevoerd door de opdrachtnemer. Wel pakken 
+we bepaalde voorbereidingen van de belweek (zoals het opstellen van het belscript 
+en de informatie die met scholen wordt gedeeld) samen op.  
+2.  aanbestedingsleidraad  Bij aard van de opdracht 4b. Er staat dat een rapportage moet worden 
+opgesteld met de aangeleverde labels. Het begrip aangeleverde labels 
+is voor ons onbekend. Kunt u toelichten wat u bedoelt met 
+aangeleverde labels?  
+JOB: Dit gaat om de respons - en analyselabels zoals hieronder beschreven in de 
+handleiding. Doordat studenten inloggen bij DUO hebben we al bepaalde 
+informatie per student (instelling, opleiding, BOL/BBL, niveau). Maar scholen willen 
+de respons kunnen bijh ouden en later de data kunnen analyseren op andere 
+kenmerken (labels). Bijvoorbeeld klas, domein, team, locatie, opleiding. In een 
+labelbestand(excel) leveren scholen deze gegevens aan per student. Uiteindelijk 
+gaat het om een excelbestand met alle student en en in de kolommen staan de 
+kenmerken/labels van de student verwerkt (student A, opleiding B, klas C, locatie 
+D). Zie hier de handleiding voor scholen voor het aanleveren van labels: 
+Labels_aanleveren_JOB -monitor_2026.pdf  
+3.  aanbestedingsleidraad  In de presentatie staat bij voor afname van de JOB monitor: Scholen 
+leveren ook respons - en analyselabels aan bij DUO. Deze worden door 
+de opdrachtnemer gecontroleerd en gekoppeld aan de respons en 
+resultaten, zij nemen contact op met de scholen als er iet s niet klopt. 
+Wat bedoelt u met respons - en analyselabels? Kunt u hiervan 
+voorbeelden geven?  
+JOB: Een voorbeeld van een respons - en analyselabel is bijvoorbeeld een klas. 
+Scholen leveren labelbestanden aan met een overzicht van hun studenten en in 
+welke klas zij zitten (in deze bestanden zullen ze ook per student de andere labels 
+zetten). Als het gaat om een responslabel dan kan de school tijdens de afname de 
+totale instellingsrespons bijhouden, maar de school kan ook de respons inzien per 
+klas. Als dit ook een analyselabel is, dan kunnen scholen later ook de data per klas 
+inzien. Zie de handleidin g voor scholen voor het aanleveren van labels: 
+Labels_aanleveren_JOB -monitor_2026.pdf  
+
+Pagina 2 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+4.  aanbestedingsleidraad  De tijdlijn in de presentatie en de tijdlijn in de aanbestedingsstukken 
+komt niet overeen. Klopt het dat de tijdlijn in de 
+aanbestedingsdocumenten (bijlage 19) de juiste is?  
+Ja, de tijdlijn uit bijlage 19 klopt.  
+5.  3.4.2.1. Kerncompetenties  In algemene zin is kerncompetentie nog wat vaag. Wij vragen ons af wat 
+Opdrachtgever hier allemaal onder verstaat cq graag wil terugzien. De 
+vraag is dus of dit verder verduidelijkt kan worden.  
+ 
+Specifiek vragen wij ons af of bijvoorbeeld een onderzoek voor een 
+netbeheerder over het onderwerp netcongestie (overbelasting van het 
+electriciteitsnet) onder klanten die op de wachtlijst staan om 
+aangesloten te worden hieronder valt. Dit is een breed maa tschappelijk 
+probleem en de resultaten maken de prestaties i nzichtelijk en dragen 
+daarmee bij aan een stuk verantwoording door de bestuurders. Ook 
+richting de politiek.  
+In de beantwoording gaan wij ervanuit dat u doelt op kerncompetentie 3. Indien  dit 
+niet het geval is, dan graag in de tweede ronde aangeven op welke 
+kerncompetentie uw vraag betrekking heeft.  
+ 
+Wat opdrachtgever  willen zien in de referentie:  
+- Een (sociaalwetenschappelijk) onderzoek met maatschappelijke relevantie, politiek-
+bestuurlijke gevoeligheid en een component bestuurlijke verantwoording 
+(transparantie richting bestuur/toezicht/politiek). 
+- Toepassing van sociaalwetenschappelijke methoden (kwantitatief en/of kwalitatief). 
+ 
+Indien uw referentie voldoet aan bovenstaande criteria dan voldoet deze aan 
+kerncompetentie 3.  
+6.  Aanbestedingsleidraad, 
+2.4. onderdeel 1 c – pag. 12  
+We nemen aan dat bij 2.4 onderdeel 1c in de zinsnede ’Voor de scholen 
+waarbij dient met DUO gewerkt wordt, dient Opdrachtnemer zelf een 
+inlogfaciliteit te bouwen’, het woord dient na waarbij vervangen moet 
+worden met het woord niet. Klopt deze aanname?  
+JOB: Ja klopt, er zijn nu twee scholen die niet via DUO kunnen inloggen omdat hun 
+studenten daar niet staan ingeschreven, zij moeten dus op een andere manier 
+kunnen inloggen. De zin is dus als volgt:  “Voor de scholen waarbij níet met DUO 
+gewerkt wordt, dient Opdrachtnemer zelf een inlogfaciliteit te bouwen.”  
+7.  Aanbestedingsleidraad, 
+2.4 onderdeel 1 e – pag. 12  
+Hoeveel modules zijn er op dit moment in de monitoren en hoeveel 
+nieuwe modules worden er verwacht?  
+LAKS: Bij LAKS zijn er op dit moment geen modules. De LAKS -monitor bestaat uit 
+zeven thema’s en een algemeen oordeel. Onder elk thema vallen verschillende 
+vragen die bij dat thema horen. De volledige vragenlijst wordt door alle leerlingen 
+die deelnemen ing evuld.   
+ 
+JOB: Bij JOB zijn er thema’s die jaarlijks worden afgenomen, thema’s die 
+tweejaarlijks worden afgenomen en modules. De jaarlijkse en tweejaarlijkse 
+thema’s worden door alle studenten ingevuld en bevatten een x aantal vragen per 
+thema. Deze thema’s zijn bedoeld  om bepaalde onderwerpen terugkerend te 
+monitoren. De modules zijn er om actuele onderwerpen te meten. Op dit moment 
+bevat de JOB -monitor 10 modules, waar scholen er maximaal drie van kunnen 
+kiezen. Die drie modules worden dan aan alle studenten van di e school voorgelegd. 
+Daarnaast is er een LLO -module (Leven Lang Ontwikkelen). Studenten die een 
+LLO-traject volgen krijgen alleen die module en geen andere modules, dit is zodat 
+we beter bij deze doelgroep kunnen aansluiten. De module onderwerpen kunnen 
+jaarlijks wissel en om aan te sluiten bij de actualiteit, er zullen ook modules zijn die 
+wel terugkeren. Ter indicatie: afgelopen jaar hebben we drie modules behouden, 
+twee modules deels aangepast en vijf nieuwe modules ontwikkel d. Het doel is om 
+jaarlijks 10  modules aan te bieden in de JOB -monitor.    
+ 
+Pagina 3 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+Ten slotte kunnen scholen zowel bij LAKS en JOB eigen vragen toevoegen. Die 
+kunnen ze zelf bedenken of ze kunnen bestaande vragen kiezen. Bij deze de 
+vragenlijst van de LAKS - monitor: Vragenlijst LAKS -monitor 2026 1.1.pdf  en van de 
+JOB-monitor: Vragenlijst_JOB -monitor_2026_def_NL.pdf.   
+8.  Aanbestedingsleidraad, 
+2.4 onderdeel 1 h – pag. 12  
+Wat wordt bedoeld met ‘Het fysiek controleren van lijsten of de 
+gegevensverwerking (inlog gebruikers: koppeling met DUO -gegevens) 
+goed is gegaan.’?  
+JOB: Voorheen gebeurde de controle van de labelbestanden met BSN en andere 
+studentgegevens fysiek bij DUO in Groningen. Dat is volgend jaar niet meer nodig 
+en kan op afstand plaatsvinden.  
+9.  Aanbestedingsleidraad, 
+2.4 onderdeel 1 i – pag. 12  
+U geeft aan dat het ‘Het werven van scholen om deel te nemen aan de 
+LAKS -monitor. In 2025 is dit gedaan door middel van een belweek’. 
+Kunt u aangeven wie het bellen verrichtte? Wat dit opdrachtnemer of 
+opdrachtgever? En indien opdrachtnemer kunt u dan een indicatie 
+geven van de tijd die hiermee was gemoeid?  
+LAKS: Het bellen wordt uitgevoerd door de opdrachtnemer, zie het antwoord op 
+vraag 1 voor meer uitleg. In deze belweek worden zo veel mogelijk vo -scholen die 
+zich nog niet hebben aangemeld voor de LAKS -monitor gebeld, om ze te 
+herinneren aan en informeren over deze optie. Er werd in de belweek van 2025 door 
+verschillende projectassistenten van het onderzoeksbureau samen in totaal 40 uur 
+gebeld.  
+10.  Aanbestedingsleidraad, 
+2.4 onderdeel 1 i – pag. 12  
+U geeft aan dat het werven van de scholen bij LAKS -monitor ‘in de 
+toekomst kan dit ook op een andere manier worden vormgegeven’. 
+Waar denkt u dan concreet aan? Kunt aangeven hoe u een en ander dan 
+zou willen vormgeven?  
+LAKS: Zoals beschreven is tot nu toe één van de door opdrachtnemer 
+georganiseerde wervingsacties voor de LAKS -monitor altijd de belweek geweest. 
+De zin dat dit in de toekomst ook op een andere manier kan worden vormgegeven, 
+is bewust vrij open geformuleerd . Mochten er in de toekomst andere/betere ideeën 
+zijn om deze werving op te pakken, kunnen we dit eventueel wijzigen, maar hier 
+zijn nu geen concrete ideeën voor.  
+11.  Aanbestedingsleidraad, 
+2.4 onderdeel 2 c – pag. 12  
+U geeft hierbij aan ‘Het plegen van overleg met de kwaliteitsmanagers 
+van de scholen en het aanjagen dat de vragenlijsten worden ingevuld’. 
+Hoe vindt dit overleg plaats? Kunt u toelichten hoe dit afgelopen jaren 
+is verlopen?  
+JOB: Dit ligt vooral bij de opdrachtgever, maar via de opdrachtnemer kunnen we de 
+respons inzien en bijhouden en kan opdrachtgever contact opnemen wanneer we 
+zien dat het moeilijk wordt voor scholen om een hoge respons te halen. Daarnaast 
+hebben we drie to t vier keer per jaar een overleg met een groepje 
+kwaliteitsmedewerkers van scholen, bij dat overleg zijn zowel opdrachtgever als 
+opdrachtnemer aanwezig. Ook hebben we één keer per jaar een 
+informatiebijeenkomst voor alle kwaliteits -medewerkers van scholen,  daar zijn ook 
+zowel opdrachtnemer als opdrachtgever aanwezig.   
+12.  Aanbestedingsleidraad, 
+2.4 onderdeel 2 g – pag. 12  
+U geeft aan ‘Het organiseren van een deskundigenpanel, waarin het 
+onderzoek dat ze hebben uitgevoerd nauwkeurig wordt gecontroleerd’. 
+Kunt aangeven hoe dit deskundigenpanel afgelopen jaren was 
+opgebouwd en wie dit panel samenstelt (opdrachtnemer of 
+opdrach tgever)?  
+Het deskundigenpanel bestond eerder uit drie of vier hoogleraren sociale 
+wetenschappen die de onderzoeksverantwoording ( -methode) controleren en 
+gevraagd en ongevraagd advies gaven aan de opdrachtnemer. Op basis hiervan 
+past de opdrachtnemer nog een aantal  dingen aan. Opdrachtnemer stelt dit panel 
+samen in overleg met opdrachtgever. Zie ook vraag 43.  
+13.  Aanbestedingsleidraad, 
+2.4 onderdeel 4 b en d – 
+pag. 13  
+Wat is het verschil tussen hetgeen u noemt bij d (Fysieke rapporten, 
+waarbij het alleen gaat om het aanleveren van de inhoud (dus tekst en 
+grafieken), de opmaak verzorgt de Aanbestedende dienst zelf) en b 
+(Pdf -overzichten per school. Per monitor moet er ee n landelijke 
+rapportage worden opgesteld). Kunt u dit toelichten?  
+LAKS: Punt b gaat over de schoolspecifieke rapportages en punt d gaat over de 
+landelijke rapportage.  
+Punt b: Voor elke deelnemende school wordt er een schoolspecifieke  rapportage 
+gemaakt. De opdrachtnemer levert hiervoor de data aan per school, onze 
+vormgever zet dit om naar een persoonlijke factsheet (pdf).  
+Pagina 4 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+Punt d: Van de landelijk rapportage maken we altijd een fysiek rapport dat we 
+uitdelen aan leerlingenraden en scholen. Deze wordt opgemaakt door onze 
+vormgever, de opdrachtnemer levert de data hiervoor aan in de vorm van grafieken 
+en beschrijvende teksten (waarbij we gezamenlijk kijken naar inhoud en vorm 
+hiervan).  
+ 
+JOB: Punt b: Scholen ontvangen de resultaten van hun eigen instelling in de vorm 
+van grafieken (pdf -overzichten) en een eigen dataset.   
+ 
+Punt d: Ook wij schrijven een rapport over de landelijke resultaten waarbij de 
+opdrachtnemer de resultaten aanlevert in de vorm van grafieken en een 
+bijbehorende beschrijving. Samen met een vormgever ontwerpt de opdrachtgever 
+de rest van het rapport.   
+14.  Aanbestedingsleidraad, 
+2.4 onderdeel 4 e – pag. 13  
+Kunt u toelichten wat u bedoelt met ‘Rapportages op verschillende 
+subfilters’? Gaat het hier om een online rapportage waarin gebruikers 
+zelf aan de slag kunnen?  
+Zie ook antwoord vraag 25.  
+ 
+Dit gaat om excelbestanden voor de opdrachtgever met extra informatie, 
+bijvoorbeeld hoe hebben studenten met een ondersteuningsbehoefte gereageerd 
+op een vraag over studieloopbaanbegeleiding. Dat is dus niet een uitgewerkte 
+rapportage, maar een deel van de  data zodat de opdrachtgever deze nader kan 
+bekijken.  
+15.  Bijlage 13 - 
+Conformiteitenlijst, nr 10  
+Hier staat ‘Vragenlijst ook in het Engels en Papiaments aanleveren + 
+NT2’. Wie is verantwoordelijk voor vertaling van vragenlijsten in 
+genoemde/andere talen?  
+Opdrachtnemer is verantwoordelijk voor de vertalingen. De Engelse en 
+Papiamentse vertaling voor de huidige vragen is er al. De Papiamentse vertaling is 
+verzorgd door een contactpersoon van MBO Bonaire en de Scholengemeenschap 
+van het vo op Bonaire, de Enge lse vertaling en de NT2 -versie door een 
+vertaalbureau (beide ingeschakeld door de opdrachtnemer). Het staat 
+opdrachtnemer vrij om de vertaling door een andere partij te laten verzorgen.  
+16.  Bijlage 13 - 
+Conformiteitenlijst, nr 18  
+Kunt u aangeven wat u bedoelt met ‘Meeschrijven met en beoordelen 
+van operationeel plan geschreven door Opdrachtgever.’? Om welk 
+operationeel plan gaat het en wat wordt in dit kader van opdrachtnemer 
+verwacht?  
+Scholen/instellingen die meedoen aan de JOB - en LAKS -monitor kunnen in het 
+operationeel plan lezen wat de planning is van de betreffende monitor, wat er van 
+de scholen wordt verwacht, aan welke deadlines ze moeten voldoen voor 
+bijvoorbeeld het aanleveren v an eigen vragen, maar ook hoe ze dat moeten doen 
+en in welke handleiding ze wat kunnen terugvinden. Maar ook de gang van zaken 
+met de weging van de data, het opschonen, deskundigenpanel staat in dit plan 
+beschreven. De gehele gang van zaken rondom de monit or is in het operationeel 
+plan terug te vinden. Deze wordt in gezamenlijkheid geschreven, dus ook verwacht 
+van de opdrachtnemer.  Operationeel_plan_LAKS_monitor_2026_1.pdf  
+Operationeelplan_JOB -monitor_2026.pdf  
+Pagina 5 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+17.  Bijlage 13 - 
+Conformiteitenlijst, nr 39  
+Kunt u toelichten wat u bedoelt met ‘Voorafgaand aan afname met 
+DUO afstemmen over aangeleverde labelbestanden door scholen 
+waarbij zowel DUO als Opdrachtnemer een controle doet’?  
+JOB: Het uploaden van de labelbestanden van scholen gaat via een omgeving van 
+DUO, vanwege de privacygevoelige informatie van de studenten die erin staat. Van 
+tevoren wordt er door opdrachtnemer, opdrachtgever en DUO afgestemd hoe die 
+labelbestanden eruit moeten zien en hoe scholen dit moeten uploaden. Ook 
+stemmen opdrachtgever en opdrachtnemer af hoe de controle plaatsvindt en hoe 
+de opdrachtnemer de bestanden van DUO ontvangt. Opdrachtgever en 
+opdrachtnemer informeren de scholen over de werkwijze via een handleiding.  
+18.  Bijlage 13 - 
+Conformiteitenlijst, nr 45  
+We nemen aan dat opdrachtnemer uitsluitend verantwoordelijk is voor 
+het updaten van deelname en gebruikersovereenkomsten en niet het 
+initieel opstellen van deze overeenkomsten. Klopt dat?  
+JOB: Opdrachtgever is inderdaad verantwoordelijk voor het opstellen en aanpassen 
+van de deelname en gebruikersovereenkomsten en opdrachtnemer is 
+verantwoordelijk voor het verzamelen van deze overeenkomsten in het systeem 
+met scholen.  
+19.  Bijlage 13 - 
+Conformiteitenlijst, nr 79 
+en 83  
+Kunt u aangeven wat u bedoelt met ‘Contact onderhouden met derde 
+partij over hoe de data moet worden ontsloten’? En wat is de rol van 
+deze derde partij precies?  
+JOB: De data gaat bijvoorbeeld naar het ministerie van OCW en naar de Inspectie 
+van Onderwijs, het is voor ons maar ook voor scholen belangrijk dat de data niet op 
+een lager niveau openbaar wordt ontsloten dan dat wij zelf doen. Daarvoor sluit de 
+opdrachtg ever een overeenkomst af met derde partijen. Daarnaast moet de manier 
+van het ontsluiten van de data overeenkomen met de manier waarop wij dit doen 
+zodat het geen vragen oproept (onze gemiddeldes moeten hetzelfde zijn, of de 
+methode van OCW moet te herleid en zijn). Indien data ontsloten dient te worden 
+aan een derde partij, onderhoudt opdrachtgever het contact met deze partij. 
+Opdrachtnemer moet aansluiten bij de wensen van de derde partij voor het 
+aanleveren van de data, die door opdrachtgever worden afges proken en 
+goedgekeurd.  
+ 
+Per partij die de data opvraagt moet worden gekeken tot welk niveau zij de data 
+mogen ontvangen en dat databestand moet door de opdrachtnemer worden 
+voorbereid en gedeeld. De opdrachtgever sluit een overeenkomst af met de derde 
+partij voor het gebruik van de data en houdt het contact met deze derde partij.  
+20.  Bijlage 13 - 
+Conformiteitenlijst, nr 87  
+Hoe vindt de eindevaluatie genoemd bij 87 (Uitvoeren van de 
+eindevaluatie onder alle contactpersonen, studentenraden en 
+studentenraadsbegeleiders van de voorbije editie van de JOB -monitor) 
+normaliter plaats?  
+JOB: Hier hebben we nog geen vorm voor, tot nu toe hebben we (opdrachtgever) 
+een aantal aspecten geëvalueerd onder een select groepje 
+kwaliteitszorgmedewerkers. Eerder was dit geen eis, maar we willen dit in de 
+toekomst gestructureerd laten plaatsvinden. D e vorm zal in overleg tussen 
+opdrachtgever en opdrachtnemer worden bepaald.  
+21.  Aanbestedingsleidraad, 
+paragraaf 2.4, punt 2c  
+In de leidraad staat vermeld dat respondenten voor de JOB -monitor 
+inloggen via een koppeling met DUO op basis van 'achternaam en 
+geboortedatum'. Deze combinatie van gegevens is echter niet in alle 
+gevallen uniek (bijvoorbeeld bij tweelingen of veelvoorkome nde 
+achternamen). Kan de Aanbestedende dienst bevestigen dat de 
+technische afhandeling van deze 'collisions' (het uitvragen van 
+JOB: Dit kunnen wij bevestigen. Het klopt dat er dubbelingen zijn op basis van 
+achternaam en geboortedatum. Als student na het invullen van achternaam en 
+geboortedatum niet uniek is, wordt hen gevraagd om ook voornaam en school in te 
+vullen. Deze functie i s ingebouwd in de inlogfaciliteit van DUO en ligt dus volledig 
+bij DUO. De bestanden die de opdrachtnemer later krijgt bevatten geen namen.  
+Pagina 6 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+aanvullende gegevens zoals voornaam of schoollocatie om de unieke 
+student te identificeren) volledig plaatsvindt binnen de omgeving van 
+DUO (ODIN)? Of dient de software van Opdrachtnemer logica te 
+bevatten om bij meerdere zoekresultaten zelf deze disambigu atie-flow 
+met de respondent te doorlopen?"  
+22.  Aanbestedingsleidraad, 
+paragraaf 2.4, punt 2c  
+In de tekst staat: 'DUO faciliteert de inlogfaciliteit', maar ook: 'Voor de 
+scholen waarbij dient met DUO gewerkt wordt, dient Opdrachtnemer 
+zelf een inlogfaciliteit  te bouwen'. Deze zinnen lijken elkaar tegen te 
+spreken. Bedoelt de Aanbestedende dienst dat de Opdrachtnemer de 
+daadwerkelijke inlogschermen (GUI) moet bouwen en via een API met 
+DUO moet communiceren? Of betreft het hier een redirect -constructie 
+(zoals SA ML/OIDC) waarbij de respondent inlogt op een pagina gehost 
+door DUO (apps.duo.nl), waarna d e Opdrachtnemer enkel een succes -
+token/uniek ID ontvangt?  
+JOB: Hier staat een fout, er moet staan bij scholen waarbij niet met DUO gewerkt 
+wordt. Zie vraag 6.  
+ 
+Er zijn nu twee scholen die niet via DUO kunnen inloggen omdat hun studenten 
+daar niet staan ingeschreven, zij moeten dus op een andere manier kunnen 
+inloggen.  
+ 
+Na het inloggen bij DUO wordt de student sowieso doorgeleid naar het systeem 
+van opdrachtnemer.  
+23.  Bijlage 14  In de leidraad wordt verwezen naar 'Bijlage 14: Technische en 
+organisatorische beveiligingsmaatregelen DUO'. Deze bijlage is op dit 
+moment nog niet beschikbaar. De technische eisen voor de DUO -
+koppeling (welk protocol, welke certificaten, welke interface -eisen) zijn 
+cruciaal voor een correcte inschatting van de uren en risico's voor de 
+onderdelen ICT en Prijs. Kunt u deze bijlage op zeer korte termijn, doch 
+uiterlijk voor de sluiting van de tweede vragenronde, beschikbaar 
+stellen?  
+Er zijn geen andere technische en organisatorische beveiligingsmaatregelen dan 
+reeds opgenomen in de aanbestedingsstukken. Deze bijlage zal dan bij nader inzien 
+ook niet worden verstrekt.  
+24.  Conformiteitenlijst 103  Wat verstaat opdrachtgever onder het ondersteunen van 
+onderwijsinstellingen bij het analyseren van de data, hoe ver kan dat 
+gaan?  
+JOB: De opdrachtnemer maakt een codeboek voor instellingen, communiceert over 
+de databestanden hoe het is opgeschoond en welke weging is toegepast. Scholen 
+zullen vragen hebben over de data en eventueel hoe ze uitsplitsingen moeten 
+maken, maar instellingen  hebben ook zelf dataspecialisten in dienst, dus veel 
+verder dan verhelderende vragen of problemen zal het niet gaan. Ze zullen wel ook 
+vragen hebben over de gewenste oplevering van de data. Hier maken wij 
+(opdrachtgever en opdrachtnemer) samen beslissinge n over in gesprek met het 
+gebruikersplatform (groepje kwaliteitszorgmedewerkers).  
+25.  Conformiteitenlijst 100  Wat bedoelt opdrachtgever met deelrapportages, zijn dat op zichzelf 
+staande rapporten en zo ja hoe zien deze eruit?  
+JOB: Nee. Het zal vooral gaan om uitsplitsingen die we als opdrachtgever vragen. 
+Dus extra tabellen en evt. grafieken. Geen rapportage in de formele zin van het 
+woord en ook niet persé geschikt voor externen. Dat kan opdrachtgever zelf maken 
+op basis van d e data. Bijvoorbeeld als opdrachtgever willen weten hoe studenten 
+met een ondersteuningsbehoefte hebben gereageerd op de rest van de vragen.  
+Pagina 7 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+26.  Conformiteitenlijst 92  Wat zijn het LAKS - en JOB -panel en wat verwacht opdrachtgever van de 
+opdrachtnemer in het beheer van deze panels?  
+Zowel in de LAKS - als in de JOB -monitor vragen we leerlingen en studenten of ze 
+vaker hun mening willen delen, als ze deze vraag met ‘ja’ beantwoorden vragen we 
+ook naar hun emailadres. Ongeveer 5% van alle respondenten geeft dit aan. Deze 
+emailadressen ve rzamelt de opdrachtnemer en dat worden de panels. Wanneer 
+opdrachtgever later in het jaar een kleiner onderzoekje willen afnemen sturen we 
+een vragenlijst naar de leerlingen/ studenten in het panel. Deze onderzoeken 
+worden uitgevoerd door de opdrachtnemer.  Dit is geen onderdeel van het all -in 
+budget en mag apart worden gefactureerd. Dit vindt misschien één keer, hoogstens 
+twee keer per jaar plaats.  
+27.  Conformiteitenlijst 78  ‘Prepareren databestand voor ontsluiting via online tool van derde 
+partij’ wat bedoelen jullie met dat laatste? Wie is de derde partij en wat 
+is het voor online tool?  
+Dit zijn de resultatenpagina's van de LAKS - en JOB -monitor: LAKS 
+resultatenwebsite  en JOB resultatenwebsite . De partijen die deze sites beheren 
+verschillen, aan deze partijen moet de betreffende data geleverd worden. Een 
+excelbestand met alle verschillende scholen en de positieve data per thema en 
+vraag.  
+28.  Conformiteitenlijst 70  Wat bedoelt opdrachtgever met populatiebestanden?  Door middel van het populatiebestand wordt gekeken naar wat de verhoudingen in 
+gegevens zijn voor de volledige populatie, bijvoorbeeld als het gaat over 
+onderwijsrichtingen, leeftijd, geslacht, leerweg en domein. Opdrachtnemer dient 
+het populatiebestand te maken aan de hand van het bestand dat van DUO wordt 
+ontvangen met daarin het aantal studenten dat kan deelname aan de JOB - 
+monitor. Voor LAKS gebeurt dit aan de hand van het bestand dat wordt ontvangen 
+van schole n met welke klassen worden aangemeld voor d e LAKS -monitor inclusief 
+aantal leerlingen per klas.  
+ 
+De gegevens van de ingevulde vragenlijsten worden vergeleken met dit 
+populatiebestand en vervolgens wordt door opdrachtnemer een weegfactor 
+bepaald. De weegfactor passen we toe op de resultaten zodat we  in de rapportages  
+uitspraken kunnen doen over de volledige populatie.  
+29.  Conformiteitenlijst 49  Er wordt aangegeven dat er maximaal 750 vragen gesteld worden door 
+scholen. In het geval dit er toch meer zijn (bijvoorbeeld door succesvolle 
+werving) kan dit dan gefactureerd worden als meerwerk?  
+Dit is een ruime schatting van het aantal vragen dat door scholen wordt gesteld 
+gebaseerd op onze ervaringen van afgelopen jaren. Dit kan het ene jaar naar boven 
+uitvallen en het andere jaar naar beneden en daarom kan dit niet worden 
+gefactureerd als meerw erk, dat hoort bij de opdracht. Een groter aantal vragen 
+heeft een logische oorzaak, bijvoorbeeld dat er iets fout gaat waarover veel 
+gecommuniceerd moet worden. Bij succesvolle werving verwachten we niet een 
+hele grote stijging van de gestelde vragen.  
+Pagina 8 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+30.  Conformiteitenlijst 45  Wat wordt bedoeld met het updaten van ''Deelname en 
+gebruikersovereenkomsten'', zijn dat verwerkingsovereenkomsten en 
+moeten die per school afgesloten worden?  
+Zie antwoord op vraag 18.  
+In deze overeenkomst wordt met scholen vastgesteld dat ze de data niet op een 
+lager niveau ontsluiten dan opdrachtgever dat doen en daarnaast dat scholen alles 
+eraan doen om de anonimiteit van de respondenten te waarborgen. Deze sluit de 
+opdrachtgever af m et de scholen (per school), maar wordt door opdrachtnemer in 
+het systeem van opdrachtnemer geüpload, waarna de school groen krijgt om de 
+volgende stappen voor de JOB -monitor te doorlopen.  
+Ter info: dit zijn geen verwerkersovereenkomsten maar 
+gebruikersovereenkomsten, de verwerkersovereenkomsten worden afgesloten 
+tussen opdrachtgever en DUO en tussen opdrachtgever en opdrachtnemer. De 
+overeenkomsten met de scholen zijn deelname - en gebruiker sovereenkomsten.  
+31.  Conformiteitenlijst 39, 40  In de conformiteitenlijst wordt gesproken over een labelbestand dat 
+afgestemd gecontroleerd en verwerkt moet worden, wat moeten we 
+ons hierbij voorstellen?  
+Zie antwoord op vraag 2  en 3.  
+Het kan zo zijn dat scholen fouten maken in het labelbestand, bijvoorbeeld dat ze 
+niet het juiste format hebben gebruikt, of dat ze studentnummers hebben ingevuld 
+in plaats van BSN -gegevens, dan moeten opdrachtnemer de scholen op de hoogte 
+stellen van een fout in het document en vragen om alsnog de juiste bestanden aan 
+te leveren en die opnieuw controleren. Pas als de bestanden goed zijn, kan er een 
+succesvolle koppeling tussen gegevens plaatsvinden. Zie ook:  
+Labels_aanleveren_JOB -monitor_2026.pdf   
+32.  Conformiteitenlijst 23, 34  Bij 23 staat dat opdrachtnemer de vragenbank moet updaten en bij 34 
+staat dat opdrachtnemer een vragenbank moet opzetten. Wat is er al 
+beschikbaar als het gaat over de vragenbank en wat wordt er hierin 
+verwacht van de Opdrachtnemer?  
+Eis 34 komt te vervallen. De vragenbank bestaat uit een document met vragen, en 
+scholen kunnen aangeven welke vragen ze willen toevoegen. Dit zijn de huidige 
+vragenbanken. Deze zullen opdrachtgever en opdrachtnemer gezamenlijk updaten 
+als vragen niet meer geschikt zijn of als er nieuwe veelgebruikte thema's/vragen 
+zijn. Ook de modulevragen uit voorgaande JOB -monitors worden hieraan 
+toegevoegd.   
+Vragenbank LAKS: Vragenbank_LAKS -monitor.pdf  
+Vragenbank JOB: Vragenbank_JOB -monitor_2026.pdf  
+33.  Conformiteitenlijst 19, 20, 
+21, 99  
+Er wordt gesproken over meerdere portals zoals een instellingsportal en 
+een portal voor informatievoorziening? Hoeveel portals zijn er en wat is 
+het verschil tussen deze portals?  
+Er zijn twee portals (één voor LAKS, één voor JOB), deze leiden op dit moment naar 
+een website waar scholen hun eigen data kunnen inzien (via inlogomgeving, de 
+instellingsportal). Zie p ortal LAKS: LAKS -monitor  en p ortal JOB: JOB-monitor . 
+ 
+Opdrachtnemer dient voor de scholen als onderdeel van deze opdracht voor zowel 
+LAKS als voor JOB een portal te ontwikkelen en te beheren. Binnen de portal moet 
+een mogelijkheid zijn om per school de eigen data in te kunnen zien. Dit door 
+middel van een doo rlink naar een aparte website/portal of door middel van een 
+aparte omgeving binnen de portal.   
+34.  Conformiteitenlijst 18  Opdrachtgever verwacht dat opdrachtnemer meeschrijft het 
+operationeel plan. Wat moet opdrachtnemer zich voorstellen bij dit 
+Zie antwoord vraag 16.  
+Pagina 9 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+operationeel plan en hoe actief is de rol die de opdrachtgever hierin 
+verwacht?  
+35.  Conformiteitenlijst 10,11  In de conformiteitenlijst punt 10 en 11 wordt gesproken over aanleveren 
+vragenlijsten in Engels, Papiaments, Frans en Spaans. Zijn 
+vertaalkosten onderdeel van het all -in budget?  
+Zie antwoord vraag 15, vooralsnog hebben we geen Franse of Spaanse vertaling. 
+De verantwoordelijkheid om deze vertalingen te regelen als daar vraag daar is ligt 
+bij de opdrachtnemer. De kosten voor de vertaling anders dan de vertaling in het 
+Engels en Papi aments en het programmeren van de extra/nieuwe taal mogen later 
+aan de opdrachtgever gefactureerd worden, dus die hoeven nu nog niet te worden 
+opgenomen in de all -in prijs. Vertaling van nieuwe vragen naar het Engels en 
+Papiaments en programmeren daarvan h oort wel bij het all -in budget.   
+36.  Conformiteitenlijst 10  Er wordt gesproken over NT2 (Nederlands als 2e taal), wat wordt 
+hiermee bedoeld?  
+Dit betekent dat we letten op ons taalgebruik en de lengte van zinnen/de 
+vragenlijst. Beide vragenlijsten hebben sowieso het taalniveau B1, als dat niet 
+eenvoudig genoeg is voor NT2 studenten zullen daar nog dingen in aangepast 
+moeten worden door opdrachtn emer. De NT2 studenten krijgen bij JOB alleen de 
+basisvragenlijst wanneer ze dit hebben aangevinkt (bij keuze taal: NT2).  
+37.  Conformiteitenlijst 2  Hoeveel wordt er doorgaans jaarlijks aangepast (herzien) in de 
+vragenlijst?  
+De JOB -monitor is aan meer veranderingen onderhevig dan de LAKS -monitor. Ook 
+vanwege de vaste vensters voor verantwoording (sociale veiligheids -) vragen zal de 
+LAKS -monitor meerdere jaren grotendeels hetzelfde blijven, totdat er verzoeken 
+uit het veld kome n of vanuit de opdrachtnemer zelf.  
+De JOB -monitor heeft sinds dit jaar grote veranderingen meegemaakt, we hebben 
+de basisvragenlijst opgesplitst in twee delen en werken sinds dit jaar met modules 
+die scholen kunnen kiezen. Die modules worden sowieso elk jaar geëvalueerd en 
+naar behoefte zul len we nieuwe modules moeten ontwikkelen per jaar. In 2027 
+zullen we de tweede helft van de basisvragenlijst opstellen. Daarna willen we kijken 
+naar wat er aangepast moet worden in de basisvragenlijst. Waar nodig kunnen we 
+toewerken naar een nieuwe versie van de JOB -monitor in 2028. Dit betekent niet 
+dat we alle thema's en vragen moeten aanpassen, maar herzien waar nodig.  
+38.  Leidraad 4.2 p. 24  De voorkant van de software is eigendom van stichting COMBO, wat 
+bedoelen jullie met de voorkant van de vragenlijstsoftware, is dat enkel 
+de look and feel?  
+Het is inderdaad alleen de look and feel, de voorkant van de software is geen 
+eigendom van Stichting COMBO – dit is verkeerd geformuleerd. De link/knop naar 
+beide vragenlijsten staan op de websites van LAKS en JOB deze zijn ook in ons 
+beheer, maar zodra ze  op deze 'knop' klikken komen ze bij de vragenlijst die in het 
+beheer is van de opdrachtnemer. JOB en LAKS zullen de huisstijl (kleuren en 
+lettertype) aanleveren opdrachtnemer is verantwoordelijk voor het toepassen en 
+programmeren hiervan in de vragenlijst . 
+39.  Leidraad 2.4 p. 13  Wat bedoelt opdrachtgever met de rapportages op verschillende 
+subfilters , zijn dat op zichzelf staande rapporten en zo ja hoe zien deze 
+eruit?  
+Zie antwoord vraag 25.  
+ 
+Pagina 10 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+Dit gaat om excelbestanden voor de opdrachtgever met extra informatie, 
+bijvoorbeeld hoe hebben studenten met een ondersteuningsbehoefte gereageerd 
+op een vraag over studieloopbaanbegeleiding.  
+40.  Leidraad 2.4 p. 13  Wat verwacht opdrachtgever van een portal voor 
+informatievoorziening? Is dit iets wat opdrachtnemer volledig zelf moet 
+bouwen en hoeverre is het een harde eis dat alle informatie (status 
+onderzoek, FAQ en resultaten onderzoek) op één locatie staat (portal) ? 
+Zie vraag 33. Dit zijn de huidige portals:  
+Portal LAKS: LAKS -monitor  
+Portal JOB: JOB-monitor  
+Voor de deelnemende maar ook de mogelijk deelnemende scholen is het handig 
+dat alle informatie op ongeveer dezelfde plek te vinden is. Mochten alle 
+documenten op een andere manier goed kenbaar gemaakt kunnen worden, staan 
+we ervoor open om hierover in gesp rek te gaan. Qua look and feel hoeft de portal 
+niet hetzelfde te zijn.  
+41.  Leidraad 2.4 p. 12  Aangezien trendgegevens inzichtelijk gebracht moeten worden, 
+ontvangt opdrachtnemer de oude databestanden en tabellen?  
+Ja. 
+42.  Leidraad 2.4 p. 12  Hoe vindt de werving plaats voor beide monitoren en welke rol 
+verwacht Opdrachtgever hierin van de Opdrachtnemer? Vooral voor de 
+JOB-monitor is dit niet helemaal duidelijk.  
+JOB: Opdrachtnemer heeft in principe geen rol bij de werving van de scholen voor 
+de JOB -monitor. De meeste mbo -scholen nemen deel aan de JOB -monitor en 
+kiezen daar jaarlijks voor, bij de scholen die afhaken voert de Opdrachtgever de 
+gesprekken.  
+ 
+LAKS: Bij de LAKS -monitor is er sprake van de belweek, georganiseerd door 
+opdrachtnemer. Daarnaast dient opdrachtnemer periodiek (ongeveer 2x per jaar) 
+een wervingsmail te sturen naar alle vo -scholen. Verdere wervingstaken liggen bij 
+de opdrachtgever zelf.  
+43.  Leidraad 2.4 p.12  Wat moet Opdrachtnemer verwachten bij de organisatie van een 
+deskundigenpanel, wat houdt dat precies in?  
+Opdrachtnemer schrijft na het uitvoeren van de JOB - en LAKS -monitor een 
+onderzoeksverantwoording en vraagt het deskundigenpanel vervolgens om 
+gevraagd en ongevraagd advies. De deskundigen checken de methode van het 
+onderzoek en op basis daarvan kunnen er n og aanpassingen gedaan worden. Het 
+deskundigenpanel bestaat uit drie of vier hoogleraren sociale wetenschappen. 
+Hiervoor moeten hoogleraren worden benaderd met het verzoek om deel te nemen 
+aan het deskundigenpanel, zij ontvangen een vrijwilligersvergoeding  vanuit de 
+opdrachtgever bij deelname. Zie ook vraag 12.  
+44.  Leidraad 2.4 p. 12  Vallen de uren die gemaakt worden voor het gebruikersplatform in het 
+all-in tarief van de LAKS en JOB -monitor?  
+Ja, het gebruikersplatform is alleen een onderdeel bij JOB.  
+45.  Leidraad 2.4 p. 12  Opdrachtnemer moet 4 keer per jaar aanwezig zijn en vragen 
+beantwoorden tijdens een gebruikersplatform, wat moeten we ons 
+voorstellen bij een gebruikersplatform? Hoe lang duurt dit bijvoorbeeld?  
+JOB: Het zijn vier bijeenkomsten, waarvan de helft fysiek. De bijeenkomsten duren 
+ongeveer 3 tot 4 uur. Bij de fysieke bijeenkomsten combineren we dit met een 
+lunch. Hiermee peilen we bij de kwaliteitszorgmedewerkers van de mbo -scholen 
+wat er wel en niet g oed gaat bij de JOB -monitor en waar ze behoefte aan hebben.  
+Pagina 11 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+46.  Leidraad 2.4 p. 12  1.e "Dit kan meer zijn als scholen besluiten zelf vragen toe te voegen": 
+Betreft dit vragen uit een vaste bibliotheek of kunnen scholen zelf 
+vragen formuleren?  
+Beide, scholen kunnen kiezen of ze vragen uit de vragenbank toevoegen aan hun 
+vragenlijst of dat ze zelf vragen formuleren. Deze vragen worden gecontroleerd 
+door de opdrachtnemer en scholen krijgen advies om deze aan te passen waar 
+nodig (aansluiting vraag stelling bij de rest van de monitor).  
+47.  Leidraad 2.4 p.12  1.c "Voor de scholen waarbij dient met DUO gewerkt wordt". Vraag: 
+moet het in plaats van dient het woord niet zijn?  
+Ja zie vraag 6.  
+48.  Leidraad 2.4 p. 12  Volgens de leidraad moet opdrachtnemer lijsten fysiek controleren of 
+de gegevensverwerking goed is gegaan. Wat wordt bedoeld met fysiek 
+controleren?  
+Zie vraag 8.  
+49.  Leidraad 2.4 p. 12  'Zie hiervoor de Bijlage Technische en organisatorische 
+beveiligingsmaatregelen DUO (volgt zo spoedig mogelijk)' Wanneer 
+kunnen we de bijlage Technische en organisatorische 
+beveiligingsmaatregelen DUO verwachten?  
+Zie vraag 23.  
+50.  Leidraad 2.4 p. 12  Welke rol verwacht de opdrachtgever van opdrachtnemer in de 
+koppeling met DUO? In de leidraad staat aangegeven dat DUO de 
+inlogfaciliteit faciliteert.  
+JOB: DUO ontvangt de labelbestanden van scholen, de controle hiervan gebeurt 
+door DUO en door de opdrachtnemer. Hier zal de opdrachtnemer samen met DUO 
+contact over hebben. Daarnaast zullen ze samenwerken om de ''doorgang'' van de 
+inlogfaciliteit naar de v ragenlijst soepel te laten verlopen. Ook bij enige 
+(inlog)problemen zullen ze contact hebben.  
+51.  Leidraad 2.4 p. 12  Hoe werkt de koppeling/het inloggen met DUO precies bij de JOB -
+monitor?  
+Zie Handleiding_docenten_JOB -monitor_2026.pdf.  Studenten loggen in met hun 
+geboortedatum en achternaam, zo wordt bij DUO de koppeling gemaakt met het 
+juiste BSN en dus ook de juiste gegevens die daarbij horen (opleiding, BOL/BBL 
+enz.). Vervolgens vullen studenten de vragenlijst in en worden hun gegeve ns bij 
+DUO vervangen door een anoniem onderzoeksnummer. Opdrachtnemer krijgt de 
+resultaten van de vragenlijst, per student met anoniem onderzoeksnummer.  
+52.  Leidraad 2.3 p. 11  ‘Per monitor is een Bijlage bijgesloten waarin meer informatie wordt 
+verstrekt over de onderzoeken.’ Welke bijlagen zijn dat? Wij zien enkel 
+bijlage 15 (nieuwe opzet JOB monitor)?  
+Deze zin komt te vervallen. Informatie over de onderzoeken is verstrekt in de 
+aanbestedingsleidraad en reeds verstrekte bijlagen.   
+53.  Leidraad 2.3 p. 11  'Scholen kunnen in de toekomst behoefte hebben om regelmatig een 
+kleine meting uit te voeren.' Wat verwachten jullie van deze metingen 
+qua omvang en frequentie? Hebben jullie daar een idee bij?  
+JOB: Op dit moment is de verwachting dat dit minimaal zal zijn, dit kan wel groter 
+worden als dit positief werkt voor scholen en dat onderling wordt besproken. In het 
+verleden wilden sommige scholen de JOB -monitor afnemen in de tussenliggende 
+jaren en daar voor benaderden ze de opdrachtnemer, opdrachtnemer kan zelf 
+bepalen wat ze met een soortgelijke toekomstige aanvraag willen doen. Omdat 
+beide onderzoeken nu jaarlijks zijn zal deze vraag niet meer terugkomen. Mogelijk 
+is er behoefte aan andere kleine metingen gedurende het jaar, scholen zullen 
+hiervoor dan zelf bij de opdrachtnemer aankloppen en daarover worden dan aparte 
+afspraken gemaakt. Scholen betalen dan zelf voor deze extra uitvraag.  
+Pagina 12 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+54.  Leidraad 2.3 pag 11  "De LAKS monitor is …  en ook af te nemen via andere aanbieders zoals 
+ProZO! en Kwaliteitsscholen". Hoe zit dat precies? Moet er iets 
+gebeuren met de resultaten die deze partijen hebben verzameld?  
+LAKS: Om het voor scholen gemakkelijker te maken om de LAKS -monitor af te 
+nemen, biedt opdrachtgever de monitor ook aan via de externe aanbieders 
+Kwaliteitscholen en ProZO. Door bijvoorbeeld met ProZO samen te werken 
+rondom de LAKS -monitor, k an opdrachtgever de vragenlijst ook beschikbaar 
+stellen voor de leerlingen in het praktijkonderwijs. ProZO heeft er aan het begin 
+van onze samenwerking voor gekozen om een selectie van de vragenlijst van LAKS 
+te gebruiken. Zij zijn destijds daarbij uitgegaan van vragen die passen bij de 
+context van het praktijkonderwijs. Daarbij zijn bijvoorbeeld vragen over examens 
+niet meegenomen in de vragenlijst die zij aanbieden aan de scholen. In de 
+landelijke rapportage van LAKS wordt bij de resultaten aangegeven of de 
+specifieke vraag wel/niet is afgenomen onder de scholen voor praktijkonderwijs. De 
+data die Kwaliteitscholen en ProZO hebben opgehaald, wordt altijd na de 
+invuldeadline (meestal in de 1e week van mei) met de opdrachtnemer gedeeld 
+zodat het mee kan worden genomen in h et landelijke beeld.  
+55.  Leidraad 2.3 pag 10,11  De afname van de monitoren is individueel maar wordt vaak klassikaal 
+georganiseerd of leerlingen hebben een klassikale inlog, betekent dat 
+een unieke link per student of per school/klas?  
+LAKS: Voor de LAKS -monitor kunnen scholen klassen aanmelden, en scholen 
+krijgen per klas een unieke inlogcode. Dat betekent dus dat leerlingen uit dezelfde 
+klas dezelfde inlogcode hebben.  
+ 
+JOB: Bij JOB gaat het dus via inloggen bij DUO, maar het wordt wel in de klas 
+gelijktijdig afgenomen. Scholen plannen dit voor klassen in, zodat we een hoge 
+respons hebben en zodat docenten kunnen helpen bij eventuele vragen.  
+56.  Aanbestedingsleidraad  Kan de aanbestedende dienst specifieker maken welke verbeteringen zij 
+geïmplementeerd wenst te zien ten opzichte van het huidige 
+instrumentarium en de huidige werkwijze?  
+We hebben op het moment geen specifieke wensen t.o.v. het huidige instrument. 
+Wel willen we blijven verbeteren en vernieuwen en staan we open om gezamenlijk 
+te kijken naar aanpassingen die het proces van de JOB - en LAKS -monitor zouden 
+vergemakkelijken Voor  ons en voor scholen zijn we op zoek naar de efficiëntst 
+mogelijke manier die tegelijkertijd ook erg ''schoolgericht'' is. We zijn altijd opzoek 
+naar positieve ontwikkelingen, dus staan open voor nieuwe en inspirerende ideeën. 
+We streven naar een goede en intensieve samenwerking tussen opdrachtnemer en 
+opdrachtgever.     
+57.  Aanbestedingsleidraad  Krijgt een nieuwe uitvoerder werkende scripts (met uitleg/comments ) 
+van de huidige uitvoerder overgedragen die zijn gebruikt voor 
+databewerkingen en dataschoning?  
+In principe niet.  
+58.  Aanbestedingsleidraad  In welke programmeertaal / tool zijn de scripts voor databewerkingen 
+opgesteld?  
+SPSS.  
+59.  Aanbestedingsleidraad  Pag 13, 4c: CSV en excelbestanden dienen door de resultatenwebsite 
+van JOB en LAKS in te lezen te zijn. Dient de uitvoerder tevens de 
+resultatenwebsite over te nemen, te hosten en te beheren? Of gaat het 
+De resultatenwebsites zijn in het beheer van een derde partij (bij LAKS en JOB zijn 
+dat twee verschillende partijen). Deze hoeven niet gehost te worden door de 
+opdrachtnemer, opdrachtnemer levert alleen de data hiervoor aan.   
+ 
+Pagina 13 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+binnen deze aanbesteding puur om het aanleveren van de 
+databestanden.  
+60.  Aanbestedingsleidraad  Pag 12, 2g: kan een nieuwe uitvoerder verderwerken met een bestaand 
+deskundigenpanel, of moet uitvoerder zelf een (nieuw) panel 
+samenstellen?  
+Opdrachtgever kan de huidige deskundigen benaderen voor het panel, maar hier 
+zijn de afgelopen jaren een aantal wisselingen in geweest. Nieuwe panelleden 
+moeten door opdrachtnemer aangeleverd worden vanwege connecties met het 
+onderzoeksveld.  
+61.  Aanbestedingsleidraad  Pag 13, 4e: Voor welke ‘subfilters’ zijn momenteel rapportages 
+beschikbaar en in welke verschijningsvorm (pdf/word/excel/anders)  
+Dit zijn excelbestanden  en in eerste instantie voor intern gebruik van de 
+opdrachtgever. Zoals de data uitgesplitst voor studenten of leerlingen met en 
+zonder ondersteuningsbehoefte. Of bijvoorbeeld alle data op de vraag '' hoe 
+tevreden ben je over de stagebegeleiding'' in een o verzicht van alle scholen. Dit is 
+zodat JOB en LAKS ook zelf met de data aan de slag kunnen.  
+62.  Aanbestedingsleidraad  Pag 24, 4.2.4: In deze paragraaf wordt meermalen gesproken over een 
+voorkant en achterkant van de vragenlijstsoftware. Wordt met de 
+voorkant de opmaak van de vragenlijst bedoeld, of bijvoorbeeld een 
+platform waarop gebruikers de vragenlijst kunnen benadere n? Of geldt 
+een andere definitie?  
+Met de voorkant wordt inderdaad de opmaak (vormgeving, huisstijl – de look and 
+feel) van de vragenlijst bedoel d. Het platform via waar studenten/leerlingen de 
+vragenlijst bereiken zijn de websites van LAKS en JOB zelf en die worden door 
+opdrachtgever zelf beheert.  
+Zie ook vraag 38.  
+63.  Aanbestedingsleidraad  De Bijlage “Technische en organisatorische beveiligingsmaatregelen 
+DUO” die voor aanbieders relevant is zou ‘zo spoedig mogelijk’ 
+beschikbaar gesteld moeten worden. Wanneer gaat dit gebeuren?  
+Zie vraag 23.  
+64.  Conformiteitenlijst  nr 15: Voor de studenten die niet via DUO kunnen inloggen moet een 
+aparte inlogfaciliteit gebouwd worden door Opdrachtnemer. Aan welke 
+(functionele) eisen moet deze inlogfaciliteit voldoen?  
+JOB: Voor twee scholen hebben we nu een inlogfaciliteit, hierin vragen we naar 
+studentnummer, geboortejaar en geboortemaand. Het is belangrijk dat de 
+opdrachtnemer met deze gegevens een koppeling kan maken met de gegevens van 
+studenten die bij jullie al be kend zijn (scholen hebben deze aangeleverd) zodat 
+deze gegevens niet gevraagd hoeven te worden in de vragenlijst en zodat de 
+routing goed kan verlopen. Bijvoorbeeld op basis van BOL/BBL student.  
+65.  Conformiteitenlijst  nr 43: Ontwikkelen alternatieve inlogmogelijkheid voor deelnemende 
+mbo-scholen die niet in ROD worden geregistreerd. Aan welke 
+(functionele) eisen moet deze inlogfaciliteit voldoen?  
+Dit lijkt een dubbeling te zijn met nr 15. We bedoelen hiermee hetzelfde, zie 
+antwoord vraag 64.  
+Pagina 14 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+66.  Conformiteitenlijst  In de conformiteitenlijst staan verschillende werkzaamheden die 
+onderdeel zijn van de aanbesteding maar waarvan de hoeveelheid werk 
+op voorhand onduidelijk is. De vraag bij elk van deze activiteiten is 
+hoeveel tijd de huidige opdrachtgever de afgelopen jar en gemiddeld 
+aan deze activiteit heeft besteed. Het gaat in elk geval om de volgende 
+onderdelen van de conformiteitenlijst:  
+o nr 28, Beantwoorden vragen van deelnemende scholen (max 750).  
+o nr 86: Leveren van extra uitsplitsingen wanneer Opdrachtgever 
+hierom vraagt  
+o nr 93: Beantwoorden van vragen uit het veld die niet direct door 
+JOB/LAKS -medewerkers zijn af te handelen  
+o nr 100: Maken van deelrapportages/deelbestanden met data als daar 
+door JOB/LAKS om verzocht wordt (ook buiten de onderzoeksperiode).  
+Eis 28 komt te vervallen.  
+Eis 93 – Dit neemt veel tijd in beslag en hangt heel erg af van de 
+informatievoorziening richting scholen. Dit proberen we gezamenlijk vooraf zo 
+goed mogelijk te doen, maar scholen zullen nog steeds vragen hebben als ze iets in 
+de handleidingen niet begrijpen of simpelweg niet hebben gelezen. Rondom de 
+JOB-monitor zullen de meeste vragen gesteld worden wanneer de overeenkomsten 
+aangeleverd moeten worden, daarna over de eigen vragen, daarna zullen we tijdens 
+de looptijd vragen krijgen over eventuele inlogprob lemen en over de respons en 
+missende respons en na de looptijd zijn de instellingen vooral streng op de 
+deadlines, maar ze zullen ook de aangeleverde data en het opschonen/wegen 
+controleren. Ten slotte als er iets fout gaat zullen ze ook snel met vragen ko men. 
+Het is voor ons belangrijk dat we snel kunnen reageren.  
+Bij LAKS komen de aanmeldingen voor de LAKS -monitor binnen in deze mailbox. 
+Scholen stellen dan de meeste vragen tijdens de afname, en na de afname.  
+ 
+Eis 86 komt te vervallen.  
+Eis 100  – Dit vindt vooral plaats nadat de JOB -monitor afgerond is en de data 
+bekend is. JOB overlegt met collega's of ze ergens benieuwd naar zijn en verdere 
+uitsplitsingen willen hebben. Dit is voor opdrachtnemer waarschijnlijk een simpele 
+uitdraai om te maken.  Bijvoorbeeld de gemiddelde data op een aantal vragen, maar 
+dan met een onderscheid in niveau en BOL/BBL. Zodat we precies kunnen zien of 
+niveau 3 – BBL studenten zich veiliger voelen dan bijvoorbeeld niveau 3 BOL 
+studenten. En wellicht de score op een vraag in een overzicht per school (zodat we 
+in gesprek kunnen gaan met scholen waarvan de studenten erg tevreden zijn over 
+bijvoorbeeld stagebegeleiding).  
+67.  Conformiteitenlijst  nr 45 Updaten Deelname - en Gebruikersovereenkomst: Kan een 
+voorbeeld van deze overeenkomst beschikbaar worden gesteld?  
+Deze zijn alleen van toepassing bij JOB. Vooral de getekende versies moeten 
+kunnen worden geüpload en bewaard, de inhoud zal de opdrachtgever zelf 
+updaten. Overeenkomst_JOB -monitor2026.pdf  
+68.  Conformiteitenlijst  nr 83 Vergelijken van cijfers in online tool derde partij met 
+eigen/aangeleverde data: wat wordt hiermee bedoeld?  
+De online tools (resultatenpagina's) van LAKS en JOB zijn in het beheer van een 
+andere partij. Hiervoor levert de opdrachtnemer de data aan. Op deze 
+resultatenpagina's is het van belang dat er een vergelijking gemaakt kan worden 
+met andere jaargangen van d e monitors, met andere scholen en met de landelijke 
+gemiddeldes bijvoorbeeld.  
+69.  Conformiteitenlijst  nr 99: Er is een portal of andere faciliteit waar de scholen in kunnen 
+loggen om te zien wat de status van het onderzoek is, hoeveel personen 
+op dat moment de vragenlijst invullen (livetracker), wat de tussentijdse 
+resultaten zijn, waar vragen in kunnen wo rden gediend, inzichtelijk is 
+wat wanneer moet gebeuren, etc. Het betreft een portal of andere 
+Dit zijn de huidige portals:  
+Portal LAKS: LAKS -monitor  
+Portal JOB: JOB-monitor  
+ 
+Pagina 15 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+faciliteit voor JOB en LAKS apart. Kan een voorbeeld of screenshot van 
+deze toepassing worden gegeven?  
+70.  Aanbestedingsleidraad  blz 11; moet de opdrachtnemer ‘concurreren’ met ProZO en 
+kwaliteitscholen, omdat zij ook een variant van de LAKS -monitor 
+afnemen? In hoeverre is de opdrachtnemer verantwoordelijk voor de 
+scholen die wel/niet meedoen? Wat is de rol van de opdrachtgever 
+hier in? 
+LAKS: Nee, Kwaliteitscholen en ProZO zijn externe aanbieders van de LAKS -
+monitor. We hebben een samenwerking met hen om het voor scholen 
+gemakkelijker te maken om de LAKS -monitor op hun school af te nemen of de 
+LAKS -monitor ook beschikbaar te kunnen stelle n voor leerlingen uit het 
+praktijkonderwijs. De opdrachtnemer is voor scholen die meedoen 
+verantwoordelijk dat het invullen van de monitor soepel verloopt, en 
+opdrachtnemer en opdrachtgever zijn hierbij beide aanspreekpunt voor scholen bij 
+vragen. Opdracht gever is telefonisch en via mail bereikbaar, opdrachtnemer via 
+mail. Opdrachtnemer is niet verantwoordelijk voor scholen die niet meedoen aan 
+de monitor. Als zij wel vragen hebben, loopt dat via opdrachtgever.  
+71.  Aanbestedingsleidraad  blz 12, 1e: weegfactoren moeten toegevoegd kunnen worden in de 
+vragenlijst. Moet dit al in de vragenlijst of achteraf. Waarvoor zouden 
+weegfactoren in de enquêtesoftware gebruikt worden?  
+Zowel bij JOB als bij LAKS vindt er achteraf een weging plaats.  Zie verder 
+operationeel plan JOB -monitor Operationeelplan_JOB -monitor_2026.pdf  
+Zie verder operationeel plan LAKS -monitor 
+Operationeel_plan_LAKS_monitor_2026_1.pdf  
+72.  Aanbestedingsleidraad  18-1: "er sprake was van het maken van rapportages waarbij 
+verschillende filters en deelanalyses flexibel ingesteld konden worden." 
+Vraag: Wat wordt er met deelanalyses bedoeld?  
+JOB: Scholen krijgen hun databestanden, maar de opdrachtnemer ontsluit hun data 
+ook in hun eigen online schoolomgeving via grafieken. Hier kunnen ze de data 
+inzien op instellingsniveau (tabellen/grafieken per vraag), maar ook op de niveaus 
+van de labels di e ze hebben aangeleverd. Bijvoorbeeld de data per klas, locatie, 
+domein, team, opleiding. Dit zijn de deelanalyses op basis van filters.  
+73.  Aanbestedingsleidraad  Pag 11: Is het "eenvoudigere onderzoek onder de personen die hebben 
+aangegeven mee te willen doen" onderdeel van deze aanbesteding. Zo 
+ja, hoeveel tijd is de huidige uitvoerder de afgelopen jaren gemiddeld 
+met dit onderdeel bezig geweest?  
+Dit eenvoudigere onderzoek is optioneel en niet exclusief onderdeel van de 
+aanbesteding. Het zijn losse onderzoekjes die apart worden gefactureerd zowel bij 
+LAKS als bij JOB op het moment dat deze worden uitgezet. Dit zal per organisatie 
+maximaal twee keer  per jaar zijn en is weinig werk. Het komt neer op het 
+controleren van een korte vragenlijst, programmeren, het versturen van de link 
+naar het panel en delen van de resultaten met de opdrachtgever. Opdrachtgever 
+komt zelf met een voorstel voor de vragen en  analyseert de resultaten ook zelf.   
+74.  Aanbestedingsleidraad  Pag 12, 1d: wat wordt bedoeld met het punt dat 
+antwoordmogelijkheden flexibel dienen te zijn en de mogelijkheden bij 
+vragen kloppen en een juiste spreiding kennen. Graag met name 
+verduidelijking op de flexibiliteit van de antwoordmogelijkheden en de 
+juiste  spreiding.  
+De antwoordopties dienen zo goed mogelijk te zijn, in de zin van: ze moeten alle 
+mogelijkheden dekken en er moet geen verwarring ontstaan door de 
+antwoordopties. Daarnaast is het belangrijk dat via de software van de vragenlijst 
+alle soorten antwoordopties  mogelijk zijn. Denk aan schaalvragen, open 
+antwoorden, meerkeuze antwoorden, één keuze antwoorden etc. De meeste 
+vragen in de JOB - en LAKS - monitor hebben een normaalverdeling en correleren 
+met elkaar per thema.  
+ 
+Pagina 16 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+75.  1. Aanbestedingsleidraad, 
+Aard van de opdracht, p.12  
+Bij de beschrijving van de koppeling met DUO staat op p. 12: “Voor de 
+scholen waarbij dient met DUO gewerkt wordt, dient Opdrachtnemer 
+zelf een inlogfaciliteit te bouwen”. Moet hier in plaats van Dient Niet 
+staan?  
+Ja, klopt. Zie vraag 6.  
+76.  Aanbestedingsleidraad  Pag 12, 1e: Een school kan zelf vragen toevoegen. Vraag: Op welke 
+wijze gebeurt dat in het huidige project en op welke wijze worden de 
+resultaten verwerkt en aangeboden aan de betreffende school?  
+Een school kan zowel bij LAKS als bij JOB via de portal eigen vragen doorgeven die 
+zij willen toevoegen. Een school kan die vragen zelf bedenken, of kiezen uit de 
+voorbeeldvragen die we hebben opgesteld. De resultaten van deze vragen kunnen 
+scholen terugvi nden in hun eigen datasets.  
+77.  2. Aanbestedingsleidraad, 
+Aard van de opdracht, p.12  
+Bij de beschrijving van de koppeling met DUO wordt onder andere 
+verwezen naar de “Bijlage Technische en organisatorische 
+beveiligingsmaatregelen DUO” die zo spoedig mogelijk zou  volgen. 
+Kunt u deze inderdaad zeer spoedig aan de aanbestedingsdocumenten 
+toevoegen?  
+Zie vraag 23.  
+78.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+In kerncompetentie 2 wordt gevraagd om een referentie -opdracht 
+waarin sprake is van zowel het opstellen van survey/ kwantitatieve 
+vragenlijst, de afname van deze vragenlijst binnen de 
+onderzoekssoftware van Inschrijver, het verwerken/analyseren van 
+minimaa l 50.000 ingevulde vragenlijsten binnen één onderzoek, en het 
+vastleggen van de resultaten van het onderzoek in een rapportage. Kunt 
+u bevestigen dat u hiermee wilt laten aantonen dat het 
+onderzoeksbureau technisch en ook analytisch in staat is om met grot e 
+hoeveelheden data om te kunnen gaan?  
+Dit kunnen wij bevestigen.   
+ 
+79.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+In kerncompetentie 2 wordt gevraagd om een referentie -opdracht 
+waarin sprake is van zowel het opstellen van survey/ kwantitatieve 
+vragenlijst, de afname van deze vragenlijst binnen de 
+onderzoekssoftware van Inschrijver, het verwerken/analyseren van 
+minimaa l 50.000 ingevulde vragenlijsten binnen één onderzoek, en het 
+vastleggen van de resultaten van het onderzoek in een rapportage. U 
+lijkt hiermee voorbij te gaan aan het feit dat de software waarmee 
+vragenlijsten worden afgenomen anders kan zijn dan de softw are die 
+gebruikt wordt om verzamelde gegevens te verwerken/analyseren. Bent 
+u het met ons eens dat wanneer aparte software voor het verzamelen 
+en voor het analyseren wordt gebruikt, het aantonen van zowel de 
+capaciteit van verzamelen als het analyseren van  grote hoeveelheden 
+data niet in 1 referentieproject te vatten hoeft te zijn? En dat de 
+capaciteit van het verzamelen al in kerncompetentie 1 wordt gevraagd?  
+ 
+Nee. Het is overigens toegestaan dat het verwerken/analyseren van minimaal 
+50.000 ingevulde vragenlijsten in andere software wordt uitgevoerd dan de 
+software waarin de vragenlijsten worden afgenomen.  
+Pagina 17 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+80.  Aanbestedingsleidraad  Pag 13 -5: Informatievoorziening is een breed begrip. Kan de 
+aanbestedende dienst dit onderdeel nader specificeren?  
+Met informatievoorziening voor scholen op de portal, wordt onder andere 
+informatie over de planning, het operationeel plan, de uitgeschreven vragenlijst, 
+handleidingen voor scholen (bijvoorbeeld hoe meld je klassen aan in het systeem) 
+en vorige monitorrapp ortages bedoeld. Zie hier de pagina over de 
+informatievoorziening van het LAKS: LAKS -monitor  en hier de pagina over de 
+informatievoorziening van JOB: JOB-monitor.  
+81.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+In kerncompetentie 2 wordt gevraagd om een referentie -opdracht 
+waarin sprake is van zowel het opstellen van survey/ kwantitatieve 
+vragenlijst, de afname van deze vragenlijst binnen de 
+onderzoekssoftware van Inschrijver, het verwerken/analyseren van 
+minimaa l 50.000 ingevulde vragenlijsten binnen één onderzoek, en het 
+vastleggen van de resultaten van het onderzoek in een rapportage. Bij 
+het kunnen analyseren van grote hoeveelheden data is de manier van 
+verzamelen niet van belang. Wel is het van belang om aan te kunnen 
+tonen dat een opdrachtnemer technische capaciteit en ervaring heeft 
+om grote hoeveelheden data te kunnen verwerken/analyseren. Bent u 
+het met ons eens dat niet alleen het analyseren van data verzameld via 
+vragenlijsten, maar ook van data die op e en andere manier bij elkaar is 
+gebracht (bijvoorbeeld in populatiebestanden van DUO, die de 50.000 
+records ruim overtreffen), aantoont dat men voldoende competent is 
+voor de opdracht voor wat betreft de analytische kant? Wij verzoeken u 
+dan ook deze kernco mpetentie aan te passen en het verzamelen van 
+grote hoeveelheden vragenlijsten (al gevraagd aan te tonen in 
+kerncompetentie 1) los te zien van het analyseren van grote 
+hoeveelheden data (en daarbij de verzamelmethode niet nader te 
+specificeren) (kerncompet entie 2).  
+De kerncompetentie wordt niet aangepast. De gevraagde referentie moet 
+betrekking hebben op vragenlijsten die binnen de eigen onderzoekssoftware is 
+afgenomen en vervolgens is verwerkt en geanalyseerd. Zie ook vraag en antwoord 
+nummer 79.  
+ 
+Bij kerncompetentie 1 gaat het overigens over ‘het geautomatiseerd verwerken’ en 
+bij kerncompetentie 2 over ‘het verwerken/analyseren’.  
+ 
+82.  Aanbestedingsleidraad  Krijgt uitvoerder de beschikking over een lijst met alle scholen en een 
+lijst met huidige kwaliteitsmanagers en hun contactgegevens? Zo nee, 
+hoe is de huidige uitvoerder op dit onderdeel te werk gegaan?  
+Ja, van de scholen die deelnemen aan de monitor. Deze lijst is het beheer van 
+opdrachtgever. Maar deze worden ook aangegeven door scholen bij inschrijving. Bij 
+de huidige monitoren schrijven scholen zich in via de portals, en daarbij noteren ze 
+ook meteen hun contactgegevens. Zie hier de pagina over de 
+informatievoorziening van het LAKS: LAKS -monitor  en hier de pagina over de 
+informatievoorziening van JOB: JOB-monitor.  
+ 
+ 
+ 
+ 
+ 
+Pagina 18 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+83.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+U heeft al eerder een aanbesteding uitgezet voor het uitvoeren van de 
+JOB-monitor en LAKS -monitor (in juli 2020). Gegeven de informatie die 
+u voor beide aanbestedingen openbaar heeft gezet, zijn er slechts 
+relatief kleine afwijkingen in de uitvoering van d e monitoren volgens de 
+aanbesteding van 2020 en die van nu. We zien vooral een afwijking in 
+frequentie van afname, vermindering van het aantal vragen dat 
+voorgelegd wordt aan de studenten en leerlingen en een vermindering 
+van het aantal deelnemende scholen . Kunt u aangeven waarom (in 
+tegenstelling tot de aanbesteding van 2020) gekozen is om het al dan 
+niet voldoen aan de kerncompetenties als knock -out-criteria te 
+hanteren en niet (zoals in 2020) het zoveel mogelijk voldoen aan de 
+kerncompetenties?  
+Deze aanbesteding staat los van de aanbesteding uit 2020. Op deze procedure zijn 
+de huidige aanbestedingsstukken en de regels die gelden voor een openbare 
+aanbesteding van toepassing.  
+84.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+In kerncompetentie 2 lezen wij dat u vereist dat eerder minimaal 50.000 
+ingevulde vragenlijsten binnen één onderzoek is 
+verwerkt/geanalyseerd. Bij grootschalige onderzoeksprojecten wordt de 
+vereiste deskundigheid en uitvoeringscapaciteit niet primair bepaa ld 
+door het exacte aantal respondenten, maar door de opzet, uitvoering en 
+analyse van het onderzoek. De vereiste deskundigheid en 
+uitvoeringscapaciteit bij grootschalig onderzoek worden niet wezenlijk 
+beïnvloed door het verschil tussen 25.000 en 50.000 res pondenten, 
+maar door de inhoudelijke en methodologische complexiteit van het 
+onderzoek. Een referentieonderzoek met 25.000 respondenten vergt in 
+de praktijk dezelfde methodologische expertise, 
+dataverwerkingsprocessen en kwaliteitsborging als een onderzoek  met 
+50.000 respondenten. Wij verzoeken de aanbestedende dienst daarom 
+te overwegen of een referentie van circa 25.000 respondenten eveneens 
+kan worden geaccepteerd als passend bewijs van geschiktheid.  
+De aanbestedende dienst handhaaft de eis van minimaal 50.000 ingevulde 
+vragenlijsten binnen één onderzoek (kerncompetentie 2). Deze eis is gesteld om 
+aantoonbaar te borgen dat de inschrijver zowel technisch (eigen 
+onderzoekssoftware/afname) als analytisch (verwerking en analyse) ervaring heeft 
+met omvangrijke datavolumes die passen bij de aard en schaal van de opdracht. In 
+de opdrachtomschrijving is opgenomen dat de onderzoeken worden uitgevoerd 
+met aantallen in de orde van grootte van 50.000 tot 350.000 vr agenlijsten en dat er 
+per monitor grote aantallen respondenten worden uitgenodigd. Tegen die 
+achtergrond acht de aanbestedende dienst de drempel van 50.000 proportioneel en 
+noodzakelijk om de uitvoering met voldoende zekerheid en kwaliteit te kunnen 
+waarbo rgen.  
+ 
+85.  Aanbestedingsleidraad  Kan meer toelichting worden gegeven over de rol en positie van ProZo?  LAKS: De LAKS -monitor is af te nemen via verschillende externe aanbieders, 
+waaronder ProZO. Door met ProZO samen te werken rondom de LAKS -monitor, 
+kunnen we de vragenlijst ook beschikbaar stellen voor de leerlingen in het 
+praktijkonderwijs. ProZO heeft er aan het begin van onze samenwerking voor 
+gekozen om een selectie van de vragenlijst van LAKS te gebruiken. Zij zijn destijds 
+daarbij uitgegaan van vragen die passen bij de context van het praktijkonderwijs. 
+Daarbij zijn bijvoorbeeld vragen o ver examens nie t meegenomen in de vragenlijst 
+die zij aanbieden aan de scholen. In de landelijke rapportage van LAKS wordt bij de 
+resultaten aangegeven of de specifieke vraag wel/niet is afgenomen onder de 
+scholen voor praktijkonderwijs.  
+Pagina 19 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+86.  Aanbestedingsleidraad, 
+kerncompetenties 3.4.2.1, 
+p.18  
+In kerncompetentie 2 lezen wij dat u vereist dat eerder minimaal 50.000 
+ingevulde vragenlijsten binnen één onderzoek zijn 
+verwerkt/geanalyseerd. Bent u bekend met het feit dat er weinig 
+onderzoeken zijn die een dergelijk grote omvang hebben en dat u 
+hierme e het speelveld verkleind en een aantal inhoudelijk zeer 
+deskundige onderzoeksbureaus de kans ontneemt om voor uw opdracht 
+een voorstel te schrijven? Wij verzoeken de aanbestedende dienst deze 
+eis te heroverwegen in het licht van het proportionaliteitsbegi nsel en 
+het aantal aan te passen naar een meer gangbaar maar ook omvangrijk 
+aantal van 25.000, zodat u meerdere geschikte partijen de mogelijkheid 
+biedt om deel te nemen aan de aanbesteding.  
+Zie vraag 84.  
+87.  Algemeen: volledigheid 
+aanbestedingsdocumenten  
+Op de portal van de JOB -monitor zien we dat er ook een 
+onderzoeksverantwoording is geschreven. Deze is echter niet 
+bijgevoegd bij de documenten en op de portal geeft de link slechts 
+toegang tot een foutmelding. Kan deze nog worden toegestuurd? Die 
+van de L AKS-monitor is wel beschikbaar op de portal.  
+Hier ging inderdaad iets fout, bij deze JOB-monitor 2024 
+Onderzoeksverantwoording . 
+88.  Aanbestedingsleidraad, 
+2.3 – De onderzoeken  
+Op p. 11 lezen we (bijna aan het eind van paragraaf 2.3) onder het kopje: 
+“En verder” het volgende: “Scholen kunnen in de toekomst behoefte 
+hebben om regelmatig een kleine meting uit te voeren. De scholen 
+dienen in dat geval gebruik te kunnen maken van de diensten van 
+Opdrachtnemer en Opdrachtnemer dient dit de faciliteren. Facturatie 
+zal buiten JOB en LAKS om rechtstreeks richting de scholen 
+plaatsvinden.” We kunnen ons voorstellen dat dergelijk ad -hoc-
+onderzoek in het geval van LAKS op dezelfde manier kan  worden 
+ingericht voor middelbare scholen. Maar hoe gaat dit in zijn werk in het 
+mbo waar de inlogfaciliteit met behulp van DUO is gebouwd? Werkt ook 
+DUO aan deze afname mee (of levert de betreffende school hiervoor 
+contactgegevens van de studenten/scholie ren aan)?  
+JOB: Nee, in het verleden ging dit over mbo -instellingen die in het tussenliggende 
+jaar de JOB -monitor wilden afnemen. Dit waren maar enkele scholen en we 
+verwachten dat die met het jaarlijks maken van de JOB -monitor nog weinig voor zal 
+komen. Als scholen deze behoefte wel hebben zullen zij zelf contact opnemen met 
+de opdrachtnemer voor een korte meting. Scholen betalen daar dan ook zelf voor. 
+DUO werkt aan deze losse afnames niet mee.  
+89.  Aanbestedingsleidraad, 
+4.1 
+Beoordelingsmethodiek - 
+en procedure’, p.20  
+Op p. 20 onder de tabel staat: “Voor de kwalitatieve beoordeling van de 
+Inschrijvingen wordt een beoordelingscommissie samengesteld.” We 
+begrijpen dat de precieze personen nog gekozen moeten worden, maar 
+vroegen ons af of het wel mogelijk is om iets te ver tellen over de 
+achtergrond van de commissieleden? Uit welke organisaties zijn zij 
+afkomstig?  
+In de beoordelingscommissie nemen de volgende functionarissen zitting:  
+- Directeur stichting COMBO 
+- Tweemaal beleidsmedewerker JOB-monitor  
+- Beleidsmedewerker LAKS-monitor 
+- Beleidsmedewerker OCW 
+ 
+De intentie van de aanbestedende dienst is om gedurende de procedure de 
+samenstelling van de beoordelingscommissie niet te wijzigen. De samenstelling 
+kan echter wijzigen door omstandigheden die zich voordoen gedurende de 
+aanbestedingsprocedure.  
+Pagina 20 van 20 
+Nr. Verwijzing  Vraag  Antwoord  
+90.  Aanbestedingsleidraad, 
+4.3 Subgunningscriterium 
+prijs, p.27  
+De minimale en maximale prijs voor de uitvoering van de monitoren is 
+voor alle metingen gelijk (met uitzondering van de JOB -monitor in 
+2027). In hoeverre is het mogelijk om jaarlijks de geoffreerde bedragen 
+te corrigeren met de op dat moment geldende infla tiefactor?  
+Zie artikel 5.5 van de concept -overeenkomst:  
+ 
+De all -in totaalprijs is vast behoudens  indexering. De door Opdrachtnemer 
+aangeboden tarieven mogen eenmaal per jaar voor aanvang van de werkzaamheden 
+omtrent de monitor voor het betreffende jaar, voor het eerst naar afronding voor de 
+onderzoeken voor 2027, worden geïndexeerd conform de jaarmut atie van kwartaal 3 
+van de Dienstenprijsindex (DPI) - 73 Reclame en marktonderzoek.  
+91.  Aanbestedingsleidraad, 
+4.3 Subgunningscriterium 
+prijs, p.27  
+Voor de uitvoering van de JOB -monitor in 2027 wordt een bedrag 
+gerekend dat (in zowel de maximale als de minimale variant) 30.000 
+euro lager ligt dan de meting in 2028 (p.27). In de toelichting daarop 
+geeft de aanbestedende dienst aan dat de ontwikkeling v an de modules 
+buiten de scope van het onderzoek in dat jaar ligt. Tegelijk lezen we op 
+p. 23 het volgende “Voor de ontwikkeling van de modules voor de JOB -
+monitor 2027 geldt dat dit buiten de scope valt. Dit wordt nog 
+uitgevoerd door de huidige leverancier . Opdrachtnemer dient 
+vervolgens wel de werkzaamheden vanaf het programmeren uit te 
+voeren.” Omdat het echt een heel groot deel van het budget bevat, 
+willen we graag precies weten wat er van ons verwacht wordt in zowel 
+2027 als 2028 met betrekking tot de m odules. Kan de aanbestedende 
+dienst toelichten welke werkzaamheden precies bij het huidige 
+onderzoeksbureau liggen en welke bij het nieuwe onderzoekbureau 
+zouden komen te liggen in 2027 en in de jaren daarna?  
+JOB: We hebben nu 11 modules, dit jaar gaan we onderzoeken welke modules 
+wenselijk zijn om weer aan te bieden en of er behoefte is aan andere thema's. 
+Samen met de MBO Raad en OCW zullen we de thema's van de modules voor 2027 
+bepalen (dat kunnen dus ook ee n aantal modules van dit jaar zijn). Na het 
+vaststellen van de thema's bepalen we met beleidsmedewerkers uit het veld welke 
+vragen er gesteld moeten worden. Deze zullen we daarna met huidige 
+opdrachtnemer kwalitatief testen in de klassen en vervolgens kwan titatief testen. 
+De ontwikkeling van deze vragen gebeurt dus volledig met de huidige 
+opdrachtnemer.  
+Het programmeren van deze (al ontworpen vragen) binnen de modules voor de 
+vragenlijst ligt bij de nieuwe opdrachtnemer en bovenstaand proces zullen we in de 
+toekomst wellicht ook weer in 2027 moeten doen voor de vragenlijst van 2028. Zo 
+kunnen we elk jaar actuele thema's meten, zonder al te veel studenten hiermee te 
+belasten.  
+92.  Aanbestedingsleidraad, 
+4.3 Subgunningscriterium 
+prijs, p.27  
+Voor de JOB -monitor wordt een plafond van € 125.00 exclusief btw 
+genoemd. Klopt het dat dit € 125.000 moet zijn?  
+Ja, dat klopt. Het genoemde plafondbedrag betreft € 125.000 exclusief btw voor de 
+JOB-monitor 2027.  
+93.  Beschrijvend document  Is er vanuit de opdrachtgever behoefte aan innovaties, en zo ja, op welk 
+terrein?  
+De monitoren lopen goed, maar we zijn altijd benieuwd naar manieren om de 
+monitoren te verbeteren, te vernieuwen en eventueel processen efficiënter te laten 
+verlopen. Hierin zijn we ook erg benieuwd naar de ideeën van de opdrachtnemer. 
+We willen graag same nwerken om tot de best mogelijke monitoren te komen en we 
+staan open voor ideeën van de opdrachtnemer.
+
+=== Document: nota van inlichtingen 2 - laks- en job-monitor vdef ===
+1 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+1.  Aanbestedingsl
+eidraad 2.3  
+Heeft Opdrachtgever (via de scholen) geregeld dat er ouderlijke toestemming 
+wordt gevraagd om de scholieren t/m 15 jaar te laten deelnemen aan het LAKS 
+onderzoek?  
+Scholen zijn wettelijk verplicht om jaarlijks de sociale veiligheid van leerlingen te 
+monitoren, zij kunnen dat doen via de LAKS -monitor. Scholen gaan akkoord 
+namens de leerlingen om dit af te nemen. Leerlingen loggen in met een klascode 
+en niet met persoo nlijke gegevens, dus die worden ook niet van de leerlingen 
+verzameld.  
+2.  Conformiteitenl
+ijst nr 20  
+Op de huidige portals staan veel documenten (operationeel plan, voorbeeld excel 
+aanleveren labels, uitleg en toelichtingen etc). Uiteraard gaan we hier met een 
+frisse, nieuwe blik doorheen, maar de vraag is of al deze materialen door de 
+huidige partij word en overgedragen?  
+Ja, deze materialen worden overgedragen.  
+3.  Conformiteitenl
+ijst nr 67  
+Opdrachtnemer moet een grafisch rapport maken voor het totaal (land) en per 
+instelling. Wij lezen terug dat dit een PDF moet zijn met grafieken en 
+uitsplitsingen naar bijvoorbeeld niveau/leerjaar/geslacht/klas. Zoals wij dit lezen 
+wordt dit een enorm uitge breide rapportage met voor elke vraag een grafiek en 
+die grafiek dan telkens een aantal keer uitgesplitst naar de labelkenmerken. 
+Hebben jullie een voorbeeld van een dergelijke instellingsrapportage zodat we ons 
+een beter beeld kunnen vormen wat hieronder wordt verstaan? En staat 
+Opdrachtgever ervoor open om bijvoorbeeld de instellingsrapportage in een 
+dashboard op te leveren waarbij elke instelling toegang heeft tot de eigen 
+resultaten en eigen filters?  
+Ter illustratie heeft opdrachtgever voorbeelden toegevoegd van de pdf's met 
+landelijke resultaten van zowel de clusterscores als de vraagscores. Deze 
+voorbeelden geven inzicht in de wijze waarop de landelijke resultaten aan de 
+scholen worden gepresenteerd.  Scholen ontvangen daarbij een vergelijkbaar type 
+rapportage voor hun eigen instelling, bestaande uit de clusterscores, de 
+vraagscores en de uitsplitsingen per vraag voor de maximaal drie door de school 
+aangeleverde labels (bijvoorbeeld team, sector of loc atie).  
+ 
+Daarnaast beschikken zowel LAKS als JOB over een jaarlijkse landelijke 
+rapportage waarin de landelijke resultaten worden gepresenteerd. Deze 
+documenten zijn opgenomen als bijlagen deze nota van inlichtingen.  
+ 
+Opdrachtgever staat open voor de ontwikkeling van een digitaal dashboard waarin 
+instellingen hun resultaten op een gebruiksvriendelijke wijze kunnen raadplegen 
+en analyseren. Een dergelijke vorm van ontsluiting kan, mits passend binnen de 
+opdracht, bijdrag en aan een efficiëntere en overzichtelijke terugkoppeling van de 
+onderzoeksresultaten.  
+ 
+ 
+Nota van inlichtingen 2 - Onderzoeksdienstverlening met betrekking tot de JOB - en LAKS -monitor       
+5 februari  2026 
+ 
+ 
+Bijgaand treft u de Nota van inlichtingen 2 inzake  de aanbesteding ‘Onderzoeksdienstverlening met betrekking tot de JOB - en LAKS -monitor’ van Stichting COMBO. Indien een vraag en in het 
+verlengde daarvan het antwoord enkel betrekking heeft op één van de twee monitors, is dit expliciet aangegeven bij het a ntwoord.  
+ 
+Met vriendelijke groet,  
+Pro 10 B.V.  
+ 
+
+2 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+4.  Conformiteitenl
+ijst 83  
+In vragenronde 1 hebben jullie aangegeven dat opdrachtnemer verantwoordelijk is 
+voor het controleren van de cijfers. Hoe gebeurt dit nu, steekproefsgewijs of 
+worden alle cijfers per instelling langsgelopen?  
+Dit gaat over de controle van de resultaten in de online tool (resultatenpagina 
+LAKS  en JOB). De data wordt door opdrachtnemer aangeleverd voor deze online 
+tools. Zodra de data op de websites is gepubliceerd controleert opdrachtnemer 
+inderdaad steekproefsgewijs of de data juist is overgenomen en wordt getoond.  
+5.  Conformiteitenl
+ijst nr 16  
+We lezen dat er verder geen technische documentatie beschikbaar wordt gesteld. 
+Het is wel belangrijk om te begrijpen of er een technische koppeling moet worden 
+gemaakt of dat dit niet nodig is. Klopt het dat de DUO website de authenticatie 
+checkt en dat zi j in hun portaal een link plaatsen naar onze vragenlijst? Die link is 
+dan uniek door de parameters, waardoor we bepaalde gegevens kunnen koppelen. 
+Maar dat er verder geen technische koppeling nodig is om dit in te regelen?  
+JOB: Ja, dit klopt inderdaad. Er zijn verder geen technische koppelingen nodig.  
+6.  Aanbestedingsl
+eidraad, 4.3 
+Subgunningscrit
+erium prijs, p. 
+27 
+"Inschrijver dient ter onderbouwing van de totaalprijzen een open kostencalculatie 
+per monitor bij te voegen waarin de aangeboden prijzen op een voldoende 
+detailniveau inzichtelijk worden gemaakt. Hierin is minimaal opgenomen tegen 
+welk uurtarief, welke fu nctie, welke werkzaamheden uitvoert. Eventueel 
+meerwerk zal tegenover deze uurtarieven worden afgenomen." Bedoelt u met 
+deze open kostencalculatie een volledige gedetailleerde offerte voor 1 jaar per 
+monitor waaruit de totaalprijzen die in het Prijzenblad worden opgenomen 
+voortvloeien? Of volstaat een overzicht waarin per functie(groep) is opgenomen: 
+het uurtarief en welk soort werkzaamheden door de betreffende functie(groep) 
+worden uitgevoerd, bijvoorbeeld: senior onderzoeker - E 150 - advisering 
+vragenlij stconstructie, weging, analyse, rapportage etc.?  
+Een volledig gedetailleerde jaarofferte per monitor is niet vereist. Ter 
+onderbouwing van de totaalprijzen volstaat een open kostencalculatie waarin per 
+functie(groep) het uurtarief wordt weergegeven, aangevuld met een beschrijving 
+van de werkzaamheden die  door de betreffende functie(groep) worden 
+uitgevoerd. Deze wijze van specificeren biedt voldoende inzicht in de opbouw van 
+de aangeboden prijzen en sluit aan bij het doel van de open kostencalculatie: 
+transparantie in de gehanteerde tarieven en werkzaamhe den.  
+7.  Aanbestedingsl
+eidraad, 2.4 
+Aard van de 
+opdracht, 1.e., 
+p. 12 en 2.6 
+Kengetallen, 
+p.14  
+Op p. 12 staat: "het aantal vragen per vragenlijst is ca. 20 -50 vragen voor de JOB -
+monitor en ca. 50 -80 vragen voor de LAKS -monitor. Dit kan meer zijn als een 
+school besluit om zelf vragen toe te voegen. Het aantal verschillende vragen is 
+overigens meer da n de bovengenoemde aantallen". Op p. 14 staat "De invulduur 
+van de LAKS -monitor door scholieren is gemiddeld 5 -10 minuten en voor de JOB -
+monitor is dat gemiddeld 10 minuten." Hoe kan de gemiddelde invulduur voor de 
+LAKS -monitor 50% -0% korter zijn terwijl d e vragenlijst 0% -60% langer is?  
+De JOB -monitor vragen hebben vaker meer antwoordcategorieën waardoor er 
+meer leestijd is. Ook wordt voor entree, mbo -2 en NT2 -studenten een afname 
+georganiseerd in de klas waarbij studenten vragen mogen stellen om de 
+vragenlijst goed te begrijpen, er wordt  dan een stuk langer over de afname 
+gedaan. Daarnaast was het aantal vragen de afgelopen edities altijd 40 -50 vragen, 
+maar door extra keuzemogelijkheden voor scholen en jaarlijkse afname is de 
+basisvragenlijst vanaf de JOB -monitor 2026 minimaal 20 vragen.   
+8.  Aanbestedingsl
+eidraad, 3.4.2.1 
+Kerncompetenti
+es, 2, p.18  
+Bij Kerncompetentie 2 is sprake van 'opstellen van survey/kwantitatieve 
+vragenlijst'. Moet 'opstellen' worden opgevat als het volledig zelfstandig door 
+opdrachtnemer ontwikkelen van een nieuwe vragenlijst, in overleg met 
+opdrachtgever, of kan het ook betre ffen het in overleg met opdrachtgever 
+adviseren over, doorontwikkelen en aanpassen van een vragenlijst die reeds in 
+eerdere onderzoeken is gebruikt (zoals bij de JOB - en LAKS -monitor)?  
+Dit volstaat allebei.  
+3 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+9.  Aanbestedingsl
+eidraad, Aard 
+van de 
+opdracht, 1.e en 
+2.b, p.12.  
+In de aanbestedingsleidraad wordt gesproken van de mogelijkheid voor scholen 
+om eigen vragen toe te voegen. Kunt u beschrijven hoe dit werkt? Wordt hier een 
+maximum aan gesteld per school? Is hier een proces voor afgesproken?  
+LAKS: Scholen hebben de mogelijkheid om jaarlijks maximaal tien eigen vragen 
+toe te voegen. Deze vragen worden toegevoegd aan het eind van de algemene 
+LAKS -monitor vragenlijst. De eigen vragen worden toegevoegd aan de 
+instellingsrapportage van een school, maar komen niet in het landelijke rapport 
+terecht. Eigen vragen kunnen jaarlijks t/m 15 oktober worden ingediend. Scholen 
+betalen voor het toevoegen van de eerste eigen vraag € 350, - en voor iedere 
+vervolgvraag € 50, -. 
+ 
+JOB: Scholen hebben de mogelijkheid om een onbeperkt aantal eigen vragen toe 
+te voegen, maar we adviseren wel om dit rond de 10 vragen te houden in verband 
+met de lengte van de vragenlijst. Ook hiervoor geldt dat de eigen vragen in de 
+instellingsrapportage  zitten, maar niet in de landelijke. Scholen betalen bij de 
+JOB-monitor € 700, - voor de eerste vraag en € 100, - voor elke volgende vraag.  
+10.  NvI1, Nr. 66 en 
+Conformiteitenl
+ijst, Nr. 28  
+Bij Antwoord 66. staat "Eis 28 komt te vervallen." In de Conformiteitenlijst is deze 
+echter nog opgenomen. Vervalt Eis 28 wel of niet?  
+Zoals opgenomen in antwoord 66 van Nota van inlichtingen 1 is eis 28 uit de 
+Conformiteitenlijst komen te vervallen.  
+ 
+Hetgeen gesteld in de Nota’s van inlichtingen (waarbij de meest recente 
+prevaleert) prevaleert boven de Aanbestedingsstukken, dus ook boven de 
+conformiteitenlijst. Zie paragraaf 2.4.1 van de Aanbestedingsleidraad voor de 
+rangorde.  
+11.  NvI 1 en Bijlage 
+13 
+Conformiteitenl
+ijst  
+Komt er een bijgewerkte conformiteitenlijst aangezien in de NvI 1 aangegeven 
+wordt dat Eis 28, 34 en 86 komen te vervallen? Zijn er nog andere conformiteiten 
+die niet (meer) van toepassing zijn?  
+Er volgt geen aangepaste conformiteitenlijst. Zie ook antwoord 10. Enkel eis 28, 
+34 en 86  zijn komen te vervallen.  
+12.  Aanbestedingsl
+eidraad, 4.2.8  
+Een interview op locatie maakt deel uit van de beoordeling. We overwegen om in 
+te schrijven in de vorm van een samenwerkingsverband. We willen zodoende 
+graag van beide partijen uit het samenwerkingsverband één of twee 
+sleutelfunctionarissen laten deelnemen  aan het interview. We nemen aan dat dit 
+mogelijk is. Klopt dat?  
+Indien deze personen dagelijks contact zullen hebben met de aanbestedende 
+dienst omtrent de uitvoering van de onderzoeken, is dat toegestaan. Zie verder 
+antwoord 13.  
+13.  Bijlage 7 Format 
+sleutelfunctiona
+rissen  
+Mag er sprake zijn van meerdere sleutelfunctionarissen? En is het toegestaan om 
+deze dan toe te voegen in het document 7. Format sleutelfunctionarissen.docx?  
+Dit is toegestaan. Er mogen maximaal drie personen worden afgevaardigd. Indien 
+meerdere personen worden afgevaardigd dient dit te worden opgenomen in het 
+Format sleutelfunctionaris.   
+ 
+ 
+4 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+14.  Aanbestedingsl
+eidraad, 2.4, 
+onderdeel 1i  
+U geeft aan dat de opdrachtnemer dient te voorzien in het werven van scholen om 
+deel te nemen aan de LAKS -monitor. Hoe zit dit bij de JOB -monitor? Kunt u 
+toelichten hoe werving bij deze monitor plaatsvindt?  
+JOB: Van de 55 bekostigde instellingen in het mbo doen er 50 instellingen mee (in 
+2024 en 2026). Daarnaast doen er nog een aantal niet -bekostigde instellingen 
+mee. Werving is hierdoor bij de JOB -monitor een veel minder groot onderdeel. De 
+gesprekken met sc holen die op dit moment niet meedoen worden door 
+opdrachtgever gevoerd. Mocht dit in de toekomst veranderen dan zal 
+opdrachtgever daar indien nodig plannen voor maken met opdrachtnemer, maar 
+dat is nu niet de verwachting. We nodigen jaarlijks wel alle mbo -instellingen uit 
+om deel te nemen, dit doet opdrachtgever.   
+15.  NvI 1, nr 1 en 
+Aanbestedingsl
+eidraad, 2.4, 
+onderdeel 1i  
+U geeft aan dat de opdrachtnemer dient te voorzien in het werven van scholen om 
+deel te nemen aan de LAKS -monitor en de belweek wordt georganiseerd door 
+opdrachtnemer en de bijkomende belwerkzaamheden ook worden uitgevoerd 
+door opdrachtnemer. We nemen aan dat LAKS en JOB zelf verantwoordelijk zijn 
+voor het ontwikkelen en laten vervaardigen van alle promotiemateriaal dat 
+gebruikt kan worden bij alle werving. Klopt deze aanname?  
+LAKS: Dat klopt. Posters, flyers en dergelijke regelen wij zelf. Voor de belweek 
+wordt een belscript en informatiemail opgesteld, dit stellen we samen op.  
+JOB: Ook wij zijn als opdrachtgever zelf verantwoordelijk voor de 
+promotiematerialen rondom werving en afname.   
+16.  Aanbestedingsl
+eidraad, 2.4, 
+onderdeel 1i  
+U geeft aan dat de opdrachtnemer dient te voorzien in het werven van scholen om 
+deel te nemen aan de LAKS -monitor. We nemen aan dat opdrachtnemer van LAKS 
+en JOB alle contactgegevens ontvangt van de deelnemende MBO en VO -
+instellingen (incl. contactpersonen ) die tot dusver hebben deelgenomen aan de 
+monitoren. Is deze aanname juist?  
+LAKS: Klopt, wij hebben een overzicht van de scholen die tot nu toe hebben 
+deelgenomen aan de LAKS -monitor.  
+JOB: Hetzelfde geldt voor ons, wij hebben de contactgegevens van scholen die 
+deelnemen.  
+17.  NvI 1, nr 11  Bij de beantwoording van vraag 11 geeft u aan welke overleggen er bij de JOB -
+monitor zijn waarbij ook de opdrachtnemer aanwezig moet zijn. Kunt u ook 
+aangeven bij welke overleggen de opdrachtnemer moet aansluiten bij de LAKS -
+monitor en hoe vaak deze overle ggen plaatsvinden?  
+LAKS: Bij de LAKS -monitor vinden er periodiek overleggen plaats tussen 
+opdrachtnemer en opdrachtgever over de voortgang van de LAKS -monitor en de 
+bepaling van het verdere proces. Dit is ongeveer 4x per jaar. Daarnaast vindt er in 
+mei jaarlijks een deskundi genpanel plaats waarbij opdrachtnemer en 
+opdrachtgever beide aanwezig zijn.  
+18.  NvI 1, nr  27 en 
+nr. 33  
+Uit uw antwoord bij vraag 27 maken wij op dat resultatenpagina’s door een derde 
+partij zijn ontwikkeld en worden beheerd. Uit uw antwoord bij vraag 33 maken wij 
+iets anders op. Kunt u aangeven welke portals en/of websites door opdrachtnemer 
+in het kader va n deze aanbesteding moeten worden ontwikkeld en beheerd?  
+De resultatenpagina en de portal zijn twee verschillende websites. De 
+resultatenpagina is zoals benoemd in vraag 27 in beheer van een derde partij. Aan 
+deze partij hoeft opdrachtnemer alleen data te leveren. Deze pagina wordt vooral 
+gebruikt door leerlinge n(raden) en studenten(raden) om de resultaten globaal in 
+te zien. De portal, zoals beschreven in vraag 33, is de website waar scholen kunnen 
+inloggen om hun eigen data in te zien. Opdrachtnemer ontwikkelt en beheert deze 
+portal.  
+ 
+ 
+ 
+5 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+19.  NvI 1, nr 26  U geeft aan dat ‘Zowel in de LAKS - als in de JOB -monitor vragen we leerlingen en 
+studenten of ze vaker hun mening willen delen, als ze deze vraag met ‘ja’ 
+beantwoorden vragen we ook naar hun emailadres’. We nemen aan dat bij 
+wisseling/ overgang naar een an dere opdrachtnemer, eerder vergaarde 
+mailadressen van leerlingen en studenten voor het doen van vervolgonderzoek 
+worden overgedragen aan nieuwe opdrachtnemer. Klopt dat?  
+Ja, dat klopt. Het panel wordt bij elke afname weer aangevuld met nieuwe 
+mailadressen van leerlingen en studenten die deze vraag met ‘ja’ beantwoorden. 
+Vanaf de nieuwe afname ontvangt opdrachtnemer deze mailadressen dus zelf.  
+20.  NvI 1, nr 27  U geeft aan ‘Dit zijn de resultatenpagina's van de LAKS - en JOB -monitor: LAKS 
+resultatenwebsite en JOB resultatenwebsite. De partijen die deze sites beheren 
+verschillen, aan deze partijen moet de betreffende data geleverd worden’. 
+Begrijpen wij goed dat op drachtnemer uitsluitend verantwoordelijk is voor 
+opleveren van data aan betreffende partijen?  En dat het ontwikkelen en beheren 
+van portals/websites waar resultaten zijn terug te vinden buiten de scope van deze 
+aanbesteding valt? Kunt u dit verder toelich ten?  
+Zie antwoord op vraag 18.  
+21.  NvI 1, nr. 13  U geeft aan dat er een fysieke landelijke rapportage per monitor wordt opgesteld 
+en deze wordt uitgedeeld aan leerlingenraden en scholen? Kunt u aangeven hoe 
+de feitelijke verspreiding van landelijke rapportages per monitor plaatsvindt? En is 
+er uitsluiten d sprake van fysieke rapportage? Kunt u dit toelichten hoe dit per 
+monitor zit en aangeven wie voor welke werkzaamheden dan verantwoordelijk is?  
+Opdrachtgever is verantwoordelijk voor het verspreiden van de rapportage. De 
+rapportage wordt fysiek gedrukt, maar is ook digitaal beschikbaar. De feitelijke 
+verspreiding van de rapportage vindt plaats op verschillende manieren. Eind mei 
+vindt de jaarlijks e uitreiking van de JOB -monitor plaats en eind juni die van de 
+LAKS -monitor. Tijdens deze uitreikingen worden de onderzoeksresultaten bekend 
+gemaakt en wordt de monitor uitgereikt aan alle aanwezigen, waaronder partijen 
+zoals OCW, de VO -raad, etc. De uitre iking wordt volledig georganiseerd door 
+opdrachtgever, opdrachtnemer is aanwezig als bezoeker. Ook wordt de 
+rapportage (door opdrachtgever) fysiek en digitaal opgestuurd naar deelnemende 
+scholen/leerlingenraden. De rapportage wordt wel in gezamenlijkheid g eschreven 
+door opdrachtgever en opdrachtnemer.  
+22.  NvI 1, nr. 13  U geeft bij zowel JOB als LAKS aan dat ‘scholen ontvangen de resultaten van hun 
+eigen instelling in de vorm van grafieken (pdf -overzichten) en een eigen dataset’. 
+Kunt u aangeven hoe deze aan scholen ter beschikking worden gesteld? Is dit 
+middels een nieuw , reeds bestaand portaal of anderszins? Kunt u dit toelichten en 
+aangeven wie voor welke werkzaamheden dan verantwoordelijk is en wat rol van 
+opdrachtnemer hierbij is?  
+Opdrachtnemer stelt de grafieken op en de dataset beschikbaar voor scholen via 
+de portal die de opdrachtnemer ontwikkelt en beheert. Op dit moment gebeurt dit 
+via de bestaande portal. Op deze portal is ene login -omgeving voor scholen, elke 
+school heeft een  eigen inlogcode. Na inloggen zijn zowel de pdf -
+bestanden/grafieken en dataset te downloaden door de school. Opdrachtnemer is 
+verantwoordelijk voor al deze werkzaamheden en het maken en beheren van deze 
+portaal.  
+ 
+ 
+ 
+ 
+6 
+ 
+Nr. Verwijzing  Vraag  Antwoord  
+23.  Conformiteitenl
+ijst nr 5  
+In de conformiteitenlijst is opgenomen dat de beoogde enquête kwalitatief en 
+kwantitatief getest moet worden met behulp van de doelgroep, voorafgaand aan 
+het uitzetten van de definitieve enquête. Kunt u aangeven welke testen hier nu 
+voor worden gedaan en w elke u hier wenst? Verwacht u hier bijvoorbeeld ook 
+‘grootschalige’ statistische toetsing van de validiteit en betrouwbaarheid (bv. 
+vaststellen van Cronbach’s alpha)?  
+Op dit moment gaat dit als volgt: nieuwe vragen worden opgesteld door 
+opdrachtnemer en opdrachtgever, bij JOB ook in samenwerking met 
+beleidsmedewerkers van de MBO Raad en OCW. Deze vragen worden eerst 
+kwalitatief aan een groep leerlingen/mbo -studenten (on geveer 15 
+leerlingen/studenten op een school) voorgelegd. Tijdens de kwalitatieve test zijn 
+zowel opdrachtnemer als opdrachtgever aanwezig. We bespreken de vragen met 
+leerlingen/studenten, gaan na of de antwoordcategorieën compleet zijn, of de 
+vragen goed worden begrepen en of het aansluit bij de belevingswereld. Op basis 
+van deze input passen we de vragen aan. Daarna voeren we een kwantitatieve test 
+uit door de vragenlijst met nieuwe vragen naar leerlingen (LAKS) of JOB -
+panelleden te sturen. Zij beantwoord en de vragen en geven per thema feedback. 
+Vanuit deze kwantitatieve test wordt gekeken naar de betrouwbaarheid, validatie, 
+correlatie etc. Ook de gegeven feedback per thema verwerken we waar nodig. Na 
+dit proces zijn de vragen klaar om opgenomen te worden in de LAKS -
+monitor/JOB -monitor.  
+Dit is de huidige manier van werken, maar staan open voor nieuwe ideeën rondom 
+dit proces. We vinden het wel belangrijk om de vragen met de doelgroep te 
+testen/te bespreken.
+
+=== Document: uea_564073_20251222102612 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 28TN-564073 - 22 dec 2025
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 564073
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: Stichting COMBO
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Onderzoeksdienstverlening met betrekking tot de JOB- en LAKS-monitor
+Korte beschrijving van de 
+aanbesteding:
+Stichting COMBO wil middels deze Europese openbare aanbesteding een 
+dienstverleningsovereenkomst sluiten met één Opdrachtnemer die voor de Jongeren 
+Organisatie Beroepsonderwijs (JOB) en het Landelijk Aktie Komitee Scholieren (LAKS) 
+de onderzoeken met betrekking tot de JOB- en LAKS-monitor uitvoert. Stichting 
+COMBO treedt op als uitvoeringsorganisatie namens de Aanbestedende diensten JOB 
+en LAKS. JOB en LAKS sluiten ieder een eigen Overeenkomst met dezelfde winnende 
+Inschrijver, dan Opdrachtnemer. Alle ondernemers die aan de eisen voldoen, worden 
+uitgenodigd een Inschrijving in te dienen. Dat kan zelfstandig, als 
+Samenwerkingsverband en/of door een beroep te doen op Derden en/of 
+Onderaannemers. Zie voor meer informatie de aanbestedingsstukken, in het 
+bijzonder de aanbestedingsleidraad.
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+-
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 28TN-564073 - 22 dec 2025
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 28TN-564073 - 22 dec 2025
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 28TN-564073 - 22 dec 2025
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 28TN-564073 - 22 dec 2025
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 28TN-564073 - 22 dec 2025
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 28TN-564073 - 22 dec 2025
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 28TN-564073 - 22 dec 2025
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 28TN-564073 - 22 dec 2025
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 28TN-564073 - 22 dec 2025
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 28TN-564073 - 22 dec 2025
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 28TN-564073 - 22 dec 2025
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 28TN-564073 - 22 dec 2025
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 28TN-564073 - 22 dec 2025
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 28TN-564073 - 22 dec 2025
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 28TN-564073 - 22 dec 2025
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 28TN-564073 - 22 dec 2025
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 28TN-564073 - 22 dec 2025
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 28TN-564073 - 22 dec 2025
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 28TN-564073 - 22 dec 2025
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het 
+milieu-, sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 28TN-564073 - 22 dec 2025
+Beschrijf de genomen maatregelen:
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers 
+getroﬀen, of hij verkeert in een andere, vergelijkbare toestand ingevolge een 
+soortgelijke procedure uit hoofde van nationale wet- of regelgeving, of zijn activa 
+worden beheerd door een curator of door de rechtbank, of zijn bedrijfsactiviteiten 
+zijn gestaakt?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 28TN-564073 - 22 dec 2025
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht 
+zijn op vervalsing van de mededinging?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 28TN-564073 - 22 dec 2025
+Beschrijf de genomen maatregelen:
+Belangenconﬂict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconﬂict als gevolg van zijn 
+deelneming aan de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 28TN-564073 - 22 dec 2025
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of 
+een met hem verbonden onderneming anderszins betrokken geweest bij de 
+voorbereiding van de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft 
+gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is om 
+te controleren of er geen gronden voor uitsluiting zijn dan wel of aan de 
+selectiecriteria wordt voldaan, hij dergelijke informatie niet heeft achtergehouden, hij 
+de door de aanbestedende dienst of aanbestedende entiteit gevraagde 
+ondersteunende documenten onverwijld heeft kunnen overleggen.
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 28TN-564073 - 22 dec 2025
+a.  
+b.  
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces 
+van de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,
+om vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, 
+selectie of gunning?
+Bevestigen:  Ja
+ Nee
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 28TN-564073 - 22 dec 2025
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+(Ondertekenen kan alleen schriftelijk na printen.)
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 28TN-564073 - 22 dec 2025
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 28TN-564073 - 22 dec 2025
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: 15. nieuwe opzet job-monitor - oktober 2025 ===
+Nieuwe opzet JOB-monitor 
+Inhoud 
+Inleiding ................................ ................................ ................................ ................. 1 
+Proces doorontwikkeling................................ ................................ ..........................  2 
+Aanleiding ................................ ................................ ................................ ........... 2 
+Doel van studentenmonitoring ................................ ................................ .............. 2 
+Nieuwe opzet ................................ ................................ ................................ .......... 3 
+ 
+Informatie over de afname van de JOB-monitor 2026 is beschikbaar via de portal:  
+https://portal.jobmbo.nl/ 
+ 
+Inleiding  
+Sinds 2000 wordt de studenttevredenheid van mbo-studenten tweejaarlijks gemeten via de 
+JOB-monitor. De JOB-monitor is een kwantitatief vragenlijstonderzoek naar de mening van 
+mbo-studenten over zaken die direct en indirect het onderwijs raken. De JOB-monitor wordt 
+door een meerderheid van de mbo-studenten ingevuld en is daarmee het grootste 
+studentenonderzoek van Nederland. In 2024 werd de JOB-monitor door 52 procent van de 
+mbo-studenten van deelnemende instellingen ingevuld. De resultaten van de JOB-monitor 
+worden door studentenraden, onderwijsinstellingen, de MBO Raad, het Ministerie van 
+OCW, de Inspectie van het Onderwijs en JOBmbo gebruikt om de huidige stand van zaken te 
+meten én om plannen te maken voor de verbetering van het mbo. De resultaten van de 
+JOB-monitor worden ook gekoppeld aan afspraken die zijn gemaakt in de Werkagenda mbo 
+2023-2027 en het Stagepact mbo 2023-2027. Zo wordt gemeten of de verbeteringen die 
+plaatsvinden in het mbo, ook daadwerkelijk door de studenten wordt ervaren.  
+ 
+In de afgelopen jaren is regelmatig aandacht besteed aan de doorontwikkeling van de JOB-
+monitor. In 2018 heeft er een evaluatie plaatsgevonden door bureau Koos en Ideate. Deze 
+evaluaties hebben geleid tot een nieuwe, verkorte vragenlijst die in 2020 voor het eerst is 
+afgenomen. Voor de editie van 2024 ontstond de behoefte om ook actuele onderwerpen via 
+de JOB-monitor te meten, toen zijn er modules aan de standaardvragenlijst toegevoegd. De 
+resultaten van deze modules waren bruikbaar voor landelijke partijen, maar minder voor de 
+onderwijsinstellingen zelf vanwege het gebrek aan de mogelijkheid om uitsplitsingen te 
+maken tot andere niveaus dan het instellingsniveau. Vanuit de behoefte om zowel 
+standaard thema’s te monitoren als actuele thema’s te temperaturen via de JOB-monitor is 
+deze ontwikkeling verder onderzocht. De doorontwikkeling en de nieuwe opzet van de JOB-
+monitor wordt in dit document nader toegelicht.  
+ 
+ 
+ 
+2 
+ 
+Proces doorontwikkeling  
+Studiejaar  Proces 
+2023-2024 Bestuurlijk Overleg 1: Aanleiding doorontwikkeling en wensen toekomst   
+Bestuurlijk Overleg 2: Doelen en voorwaarden studentenmonitoring 
+Bestuurlijk Overleg 3: Verschillende scenario's  
+2024-2025 Input kwaliteitszorgmedewerkers via Forms  
+Bestuurlijk Overleg 4: Uitwerking gekozen scenario   
+Presentatie JOB-monitor 2026 bij regiobijeenkomst MBO Raad 
+Bestuurlijk Overleg 5: Vaststelling JOB-monitor 2026 
+2025-2026 Afname JOB-monitor 2026 & voorbereiding JOB-monitor 2027 
+Bestuur Overleg - jaarlijks: vaststelling aankomende JOB-monitor en 
+bespreken resultaten huidige afname  
+ 
+Aanleiding  
+De onderstaande probleemstelling vormde de aanleiding voor de doorontwikkeling en is 
+vastgesteld in een Bestuurlijk Overleg tussen OCW, MBO Raad en JOBmbo:  
+• Veelheid onderzoeken onder mbo-studenten zorgt voor hoge bevragingslast en lage 
+kwaliteit van de onderzoeken door lage respons.   
+• Uitkomsten JOB-monitor worden nog onvoldoende betrokken bij beleidsvorming, 
+uitvoering van beleid en bijstelling ervan. Studentenraden, instellingen, de MBO 
+Raad en OCW kunnen meer doen met de uitkomsten van de monitor.  
+• Er zijn verschillende wensen ten aanzien van studentenmonitoring, de betrokken 
+partijen hebben uiteenlopende behoeften. Ook tussen instellingen lopen de 
+behoeften uiteen, waardoor het een uitdaging is om alle wensen te verenigen in één 
+instrument. 
+ 
+Doel van studentenmonitoring   
+In het proces van doorontwikkeling is het doel van studentenmonitoring geherformuleerd. 
+Het onderstaande doel is vastgesteld in een Bestuurlijk Overleg tussen OCW, MBO Raad en 
+JOBmbo.  
+ 
+Het doel van de JOB-monitor is:  
+• Periodiek ophalen van het studentenperspectief op zaken die direct en indirect het 
+onderwijs raken.  
+• Instellingen en studentenraden gebruiken resultaten voor kwaliteitsverbetering, 
+benchmarken en bereiken van de ambities uit landelijke afspraken zoals de 
+Werkagenda en Stagepact.  
+• Landelijke partijen gebruiken de resultaten voor monitoring en beleidsvorming. 
+• Mbo-studenten ervaren hiervan positieve effecten in hun studieloopbaan. 
+ 
+Vervolgens hebben we met input van de kwaliteitszorgmedewerkers, OCW en de MBO Raad 
+verschillende scenario’s voor studentenmonitoring opgezet. Deze scenario’s zijn besproken 
+in het Bestuurlijk Overleg waarin vervolgens een keuze is gemaakt voor een nieuwe opzet 
+van de JOB-monitor. Voor de invulling van deze nieuwe opzet is opnieuw input van de 
+kwaliteitszorgmedewerkers gebruikt.  
+ 
+3 
+ 
+Nieuwe opzet  
+In de nieuwe opzet zijn de belangen van alle betrokken partijen zoveel mogelijk 
+samengevoegd, waarbij het geherformuleerde doel het uitgangspunt vormt. Om te laten 
+zien hoe de nieuwe opzet in elkaar steekt wordt hieronder weergegeven hoe de opzet van 
+de JOB-monitor de afgelopen jaren per twee studiejaren was en hoe de nieuwe opzet 
+eruitziet over de komende twee studiejaren.  
+ 
+Vanwege het belang van het monitoren voor de Werkagenda en het Stagepact kunnen de 
+vragen uit de standaardvragenlijst de komende twee edities nog niet worden gewijzigd. Na 
+de editie van 2027 is ruimte om hier opnieuw naar te kijken, waarbij het belang van 
+monitoren over meerdere jaren moet worden meegewogen. Als je daar in de tussentijd al 
+input voor wilt geven kan dat door dit door te geven via job-monitor@jobmbo.nl. De input 
+die hierover al eerder met ons is gedeeld hebben wij bewaard en zal tegen die tijd worden 
+meegenomen.  
+ 
+Studiejaar 2021-2022 & 2022-2023   
+Na de herontwikkeling van de vragenlijst voor de JOB-monitor 2020 is dezelfde vragenlijst in 
+2022 afgenomen. Naast de standaardvragenlijst hadden instellingen de mogelijkheid om 
+instellingsvragen toe te voegen. Het studiejaar 2023 was het tussenliggende jaar, hierin is 
+geen monitor afgenomen.   
+ 
+JOB-monitor 2022 2023: Tussenliggend jaar  
+Standaardvragenlijst  
+• Lessen 
+• Onderwijs en begeleiding 
+• Informatie 
+• Omgeving, sfeer en veiligheid  
+• Lesmateriaal en toetsen  
+• Stage (bol) / Leerwerkplek (bbl) 
+• Studeren met een 
+ondersteuningsbehoefte  
+• Medezeggenschap  
+• Algemene tevredenheid  
+• Afsluiting  
+ 
+ 
+Instellingsvragen  
+Nader te bepalen door instelling 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+Studiejaar 2023-2024 & 2024-2025  
+Voor de JOB-monitor 2024 is opnieuw dezelfde standaardvragenlijst als in 2020 en 2022 
+afgenomen. Daarnaast ontstond dit jaar de behoefte om actuele onderwerpen te kunnen 
+temperaturen, wat is gedaan door het toevoegen van modules. De modules waren tien 
+actuele onderwerpen met maximaal vijf vragen per module. Elke student kreeg random één 
+van deze modules toegewezen. Het voordeel was dat we op landelijk niveau de mening van 
+studenten hebben opgehaald op al deze thema’s, terwijl studenten maar met vijf vragen 
+extra werden belast. Het nadeel was dat scholen de resultaten op deze actuele thema’s 
+alleen op instellingsniveau teruggekoppeld konden krijgen, waardoor zij zelf weinig met de 
+resultaten konden doen.   
+ 
+In het tussenliggende jaar is via de structuur van de JOB-monitor de monitor werkagenda-
+stagepact aangeboden. Dit is gedaan vanwege het belang van monitoring voor de 
+Werkagenda en het Stagepact. In beide jaren was er voor de instellingen ruimte om eigen 
+vragen toe te voegen.   
+ 
+JOB-monitor 2024 2025: Tussenliggend jaar  
+Standaardvragenlijst 
+• Lessen 
+• Onderwijs en begeleiding 
+• Informatie 
+• Omgeving, sfeer en veiligheid  
+• Lesmateriaal en toetsen  
+• Stage (bol) / Leerwerkplek (bbl) 
+• Ondersteuningsbehoefte  
+• Medezeggenschap  
+• Algemene tevredenheid  
+• Afsluiting 
+ 
+Monitor werkagenda-stagepact 
+• Lessen  
+• Onderwijs en begeleiding  
+• Omgeving, sfeer en veiligheid  
+• Stage (bol) / Leerwerkplek (bbl)  
+• Positie mbo-studenten 
+• Algemene tevredenheid  
+• Afsluiting  
+Modules (1 per student) 
+• Burgerschap  
+• LOB 
+• Buitenlandervaring  
+• Positie mbo-studenten 
+• Passend onderwijs  
+• Stage (bol) / Leerwerkplek (bbl)  
+• Studentenhuisvesting  
+• Geldzaken 
+• Studentparticipatie  
+• Sociale veiligheid  
+ 
+ 
+Instellingsvragen  
+Nader te bepalen door instelling 
+ 
+Instellingsvragen  
+Nader te bepalen door instelling 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+Studiejaar 2025-2026 & 2026-2027 
+Vanaf studiejaar 2025-2026 zal de JOB-monitor jaarlijks worden afgenomen. In de opzet is 
+enerzijds ruimte voor monitoring van standaardonderwerpen via de (twee)jaarlijkse 
+thema’s, anderzijds is er ruimte voor het temperaturen van actuele thema’s via de modules. 
+Voor de modules geldt dat er drie door de instelling worden gekozen (twee door het 
+bestuur, één door de studentenraad) en één random wordt toegewezen. Hierdoor kunnen 
+instellingen de resultaten van drie modules uitsplitsen tot lagere niveaus, de andere zeven 
+modules krijgen zij teruggekoppeld op instellingsniveau. Voor LLO-studenten geldt een 
+uitzondering: zij krijgen één module gericht op hun situatie als LLO-student. Daarnaast 
+worden de module thema’s jaarlijks opnieuw bepaald, juist om in te kunnen spelen op 
+actualiteiten. Vragen voor nieuwe module onderwerpen of nieuwe vragen binnen een 
+bestaande module worden geformuleerd door de werkgroep (bestaande uit 
+beleidsmedewerkers vanuit OCW, MBO Raad, JOBmbo) en vervolgens zowel kwalitatief als 
+kwantitatief getest onder studenten.   
+ 
+Voor de instellingsvragen geldt dat het maximale aantal van tien vragen komt te vervallen. 
+Instellingen mogen dus zoveel eigen vragen toevoegen als zij willen, met daarbij natuurlijk 
+wel de kanttekening dat het handig is om rekening te houden met de lengte van de 
+vragenlijst voor de studenten. Als instelling kan je er dus voor kiezen om thema’s die het 
+ene jaar niet worden bevraagd, alsnog dat jaar te meten door deze toe te voegen als eigen 
+vragen. De vragen van alle thema’s en van modules die eerder zijn afgenomen worden 
+beschikbaar gesteld via de vragenbank, zodat deze makkelijk kunnen worden toegevoegd.  
+ 
+Belangrijke punten in het kort:  
+• Jaarlijkse afname: studenten krijgen jaarlijks de kans om hun mening te geven, we 
+sluiten aan op kortere kwaliteitscyclus en het monitoren van de landelijke afspraken.  
+• Monitoren van vaste thema's via jaarlijkse en tweejaarlijkse vragen, temperaturen 
+van actuele thema's via wisselende modules. 
+• Vereniging van verschillende belangen in één instrument: resultaten zijn zowel van 
+waarde op strategisch en operationeel niveau met betrokkenheid van de sector.  
+• Zeggenschap bij de instellingen: keuze voor modules en blijvende ruimte voor eigen 
+vragen. 
+• Versterking van studentenraden: via de keuze voor een module, stimuleren van 
+contact met CvB over resultaten en training over resultaten vanuit JOBmbo. 
+• JOBmbo blijft regievoerder: positief voor versterking van de medezeggenschap, 
+studenten komen in contact met JOBmbo en vertegenwoordiging van de studenten 
+draagt het belang van het ophalen van het studentenperspectief uit.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+JOB-monitor 2026 JOB-monitor 2027 
+Jaarlijkse thema's 
+• 2026/2027: Werkagenda/Stagepact 
+• Ondersteuningsbehoefte 
+• Algemene tevredenheid  
+• Afsluiting   
+  
+Jaarlijkse thema's 
+• 2026/2027: Werkagenda/Stagepact 
+• Ondersteuningsbehoefte 
+• Algemene tevredenheid  
+• Afsluiting   
+ 
+Tweejaarlijkse thema's  
+• Lessen 
+• Onderwijs en begeleiding 
+• BPV: stage/leerwerkplek 
+• Medezeggenschap   
+Tweejaarlijkse thema's  
+• Lesmateriaal en toetsen 
+• Informatie 
+• Omgeving, sfeer en veiligheid  
+• Welzijn  
+  
+Modules (4 per student)  
+• Sociale veiligheid  
+• Positie mbo-studenten  
+• Studentparticipatie  
+• Geldzaken  
+• Studentenhuisvesting  
+• Digitalisering  
+• Doorstroom  
+• Reisafstand opleiding  
+• Examens  
+• Onderwijstijd en –kwaliteit  
+ 
+LLO-studenten krijgen één eigen module  
+ 
+Modules (4 per student) 
+Nader te bepalen  
+ 
+Instellingsvragen  Instellingsvragen  
+Nader te bepalen door instelling Nader te bepalen door instelling
+
+=== Document: 16. vragenlijst laks-monitor 2026 ===
+1  - vragenlijst laks-monitor 2026 1.1.docx 
+Vragenlijst  LAKS-monitor 2026  
+De leerlingenraad, het LAKS en jouw school willen graag weten hoe jij denkt over jouw 
+onderwijs. 
+ 
+Door deze vragenlijst in te vullen geef je toestemming aan het LAKS om jouw antwoorden 
+anoniem te verwerken en naar je school & leerlingenraad te sturen. Niemand kan zien welke 
+antwoorden van jou zijn. 
+1 START VRAGENLIJST 
+V1. Ik ben: 
+01 Een man 
+02 Een vrouw 
+03 Genderdivers, zoals non-binair, genderqueer of gender non-conform 
+04 Dat wil ik niet zeggen 
+V2. In welk leerjaar zit je? 
+01 1 
+02 2 
+03 3 
+04 4 
+05 5 
+06 6 
+V3. Welke onderwijssoort volg je? 
+01 Praktijkonderwijs 
+02 Brugjaar (combinatieklassen vmbo/havo en havo/vwo) 
+03 Vmbo brugjaar (leerjaar 1 of 2 van vmbo, maar leerweg nog niet gekozen) 
+04 Vmbo basis 
+05 Vmbo kader 
+06 Vmbo gemengd 
+07 Vmbo theoretisch 
+08 Havo 
+09 Vwo (atheneum) 
+10 Vwo (gymnasium) 
+11 Anders, namelijk (i: je hoeft hier geen antwoord in te vullen) (naar V9) 
+V4. [V3.07 EN V2.03 of V2.04] Welk profiel heb je gekozen? 
+01 Techniek 
+02 Zorg en welzijn 
+03 Economie 
+04 Groen / Landbouw 
+05 Ik heb (nog) geen profiel gekozen 
+06 Anders 
+  
+ 
+2 
+V5. [V3.04 t/m V3.06 EN V2.03 of V2.04] Welk profiel heb je gekozen? 
+01 Dienstverlening en producten 
+02 Zorg en welzijn  
+03 Groen 
+04 Economie en ondernemen 
+05 Produceren, installeren en energie 
+06 Bouwen, wonen en interieur 
+07 Horeca, bakkerij en recreatie 
+08 Mobiliteit en transport 
+09 Media, vormgeving en ICT 
+10 Maritiem en Techniek 
+11 Ik doe twee profielen tegelijk 
+12 Ik heb nog geen profiel gekozen 
+13 Anders 
+V6. [V5.11] Welk eerste profiel heb je gekozen? 
+01 Dienstverlening en producten 
+02 Zorg en welzijn  
+03 Groen 
+04 Economie en ondernemen 
+05 Produceren, installeren en energie 
+06 Bouwen, wonen en interieur 
+07 Horeca, bakkerij en recreatie 
+08 Mobiliteit en transport 
+09 Media, vormgeving en ICT 
+10 Maritiem en Techniek 
+V7. [V5.11] Welk tweede profiel heb je gekozen? 
+01 Dienstverlening en producten 
+02 Zorg en welzijn  
+03 Groen 
+04 Economie en ondernemen 
+05 Produceren, installeren en energie 
+06 Bouwen, wonen en interieur 
+07 Horeca, bakkerij en recreatie 
+08 Mobiliteit en transport 
+09 Media, vormgeving en ICT 
+10 Maritiem en Techniek 
+  
+ 
+3 
+V8. [V3.08 t/m V3.10 EN V2.04 t/m V2.06] Welk profiel heb je gekozen? 
+01 Cultuur en Maatschappij 
+02 Economie en Maatschappij  
+03 Natuur en Gezondheid 
+04 Natuur en Techniek 
+05 Economie en Maatschappij / Cultuur en Maatschappij 
+06 Natuur en Techniek / Natuur en Gezondheid 
+07 Natuur en Techniek / Economie en Maatschappij 
+08 Natuur en Gezondheid / Economie en Maatschappij 
+09 Natuur en Techniek / Cultuur en Maatschappij 
+10 Natuur en Gezondheid / Cultuur en Maatschappij 
+11 Ik heb nog geen profiel gekozen 
+--- Start Venstersvragen --- 
+V9. Helpen leraren je om je best te doen op school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V10. Letten je leraren op wat je goed en niet zo goed kunt?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V11. Ben je tevreden over wat je leert op school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V12. Doe je verschillende dingen in een les?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V13. Werken computers, laptops of tablets goed op je school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+  
+ 
+4 
+V14. Ben je tevreden met het gebruik van computers of digibord in de les?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V15. Bespreken leraren wel eens het nieuws in de lessen?  
+(Bijvoorbeeld dingen uit het (jeugd)journaal, een nieuwswebsite of uit de krant)  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V16. Is dat wat je leert op school nuttig voor als je van school af gaat?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V17. Ben je tevreden over de extra activiteiten buiten de les?  
+(Bijvoorbeeld schoolreisje, sportdag of bezoek aan museum)  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V18. Helpt de school je met het kiezen van een volgende studie of werk?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V19. Kunnen je leraren goed uitleggen?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V20. Ben je tevreden over je mentor?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+ 
+5 
+V21. Krijg je hulp als je problemen hebt met leren?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V22. Vertellen je leraren je duidelijk hoe je een opdracht of toets hebt gemaakt?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V23. Vertelt de school leerlingen de belangrijke dingen die op school gebeuren?  
+(Bijvoorbeeld nieuws over activiteiten, regels of lesuitval)  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V24. Doet de school iets met de mening of ideeën van leerlingen?  
+(Bijvoorbeeld via een leerlingenraad kunnen leerlingen inspraak hebben)  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V25. Ben je tevreden over de sfeer op je school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V26. Vind je het leuk om met andere leerlingen van je school om te gaan?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V27. Heb je het naar je zin op school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+ 
+6 
+V28. Voel je je veilig op school?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V29. Zijn de regels op je school duidelijk?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V30. Helpt de school je goed als je persoonlijke problemen hebt?  
+(Bijvoorbeeld gezondheidsproblemen, problemen thuis, ruzies)  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V31. Ben je tevreden met wat je school doet tegen pesten? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V32. Ben je de afgelopen 3 maanden gepest op school? 
+(Bijvoorbeeld klas, schoolplein, kantine, wc’s, gang) 
+01 Zeker wel 
+02 Meestal wel 
+03 Soms wel, soms niet 
+04 Meestal niet 
+05 Zeker niet 
+V33. Ben je de afgelopen 3 maanden online gepest door leerlingen van school? 
+(Bijvoorbeeld via WhatsApp, Instagram, Snapchat, Facebook) 
+01 Zeker wel 
+02 Meestal wel 
+03 Soms wel, soms niet 
+04 Meestal niet 
+05 Zeker niet 
+  
+ 
+7 
+V34. Hebben leerlingen van je school je de afgelopen 3 maanden expres 
+lichamelijk pijn gedaan?  
+01 Zeker wel 
+02 Meestal wel 
+03 Soms wel, soms niet 
+04 Meestal niet 
+05 Zeker niet 
+V35. Hebben leerlingen van je school je de afgelopen 3 maanden gediscrimineerd?  
+(Bijvoorbeeld gemeen doen om wie je bent, waar je vandaan komt, hoe je eruit ziet of 
+door je geloof) 
+01 Zeker wel 
+02 Meestal wel 
+03 Soms wel, soms niet 
+04 Meestal niet 
+05 Zeker niet 
+V36. [V3.01] Helpt je school je bij het zoeken naar een stage?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V37. [V3.01] Leer je op jouw stage dingen die handig zijn voor werken?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+--- Einde Venstersvragen --- 
+V38. Sluiten de toetsen aan op wat je hebt geleerd in de lessen? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V39. Helpt de school jou, naast het begrijpen van de lesstof, ook met andere 
+vaardigheden?  
+(Bijvoorbeeld vinden van goede informatie, leren plannen, presenteren of hoe je goed 
+met elkaar om kunt gaan) 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel  
+ 
+8 
+V40. Gaan leraren goed met je om? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V41. [Indien bovenbouw ((V2>03 en V3>07) ÓF (V2>02 en V3=04/05/06/07)) en 
+≠ V3.01] Ben je tevreden over de begeleiding die je hebt gehad bij het kiezen 
+van jouw profiel/vakkenpakket?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V42. [Indien bovenbouw ((V2>03 en V3>07) ÓF (V2>02 en V3=04/05/06/07)) en 
+≠ V3.01] Ben je tevreden over de voorbereiding op de eindexamens?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V43. Hebben leraren genoeg tijd voor je? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V44. Wordt er op school aan je gevraagd wat je van de lessen vindt? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V45. Heb je op school toegang tot boeken, computers of andere lesmaterialen om 
+je schoolwerk goed te kunnen doen? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+  
+ 
+9 
+V46. Worden verschillende vakken op elkaar afgestemd?  
+(Bijvoorbeeld niet te veel grote opdrachten tegelijk) 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V47. [≠V3.01] Heb je op school extra hulp nodig bij één of meer van de volgende 
+beperkingen, ziektes of aandoeningen (dit noemen we een 
+ondersteuningsbehoefte)? 
+▪ ADHD, ADD of concentratieproblemen 
+▪ Autisme (Autisme Spectrum Stoornis (ASS), klassiek autisme, Asperger en PDD-
+NOS (waaronder subgroep McDD)) 
+▪ Dyslexie, dyscalculie of een taalontwikkelingsstoornis (TOS) 
+▪ Chronische aandoening/ziekte [migraine, longziekte, huidaandoening, diabetes, 
+chronisch vermoeidheidssyndroom, reuma, artrose, MS, astma, spierziekte, kanker, 
+epilepsie, hart- en vaatziekte, darmstoornis] 
+▪ Psychische aandoening (depressie, psychose, manisch-depressieve stoornis, 
+schizofrenie, bipolaire stoornis, angststoornis, borderline, eetstoornis) 
+▪ Visuele of auditieve functionele beperking 
+▪ Motorische functionele beperking in bewegen of spreken 
+▪ Een andere ondersteuningsbehoefte of ziekte 
+ 
+01 Nee 
+02 Ja 
+03 Dit wil ik niet zeggen 
+V48. [V47.02] Ben je tevreden over de hulpmiddelen en aanpassingen op school 
+voor jouw ondersteuningsbehoefte? 
+(Bijvoorbeeld bij het maken van toetsen) 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+ 
+06 Ik krijg geen extra hulp op school 
+V49. [≠V3.01] Ervaar je wel eens stress door school? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V50. Is er een leerlingenraad op jouw school? 
+01 Nee 
+02 Ja 
+03 Weet ik niet 
+ 
+10 
+V51. Kun je extra vakken of activiteiten volgen als je dat wilt? 
+(Bijvoorbeeld debatclub, schoolband of een extra taal) 
+01 Nee 
+02 Ja 
+03 Weet ik niet 
+V52. Ben je tevreden over de plek(ken) op school waar je rustig kunt leren? 
+(Bijvoorbeeld Open Leercentrum, bibliotheek, aula of stilteruimte) 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V53. Is voor jou duidelijk waar of naar wie je toe moet als je een klacht hebt? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V54. [Indien V3.03 t/m V3.07] Ben je tevreden over de beroepsgerichte 
+praktijklessen?  
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+V55. Ben je tevreden over de plek(ken) waar je pauze kunt houden? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V56. Wat voor rapportcijfer geef je jouw school? [rapportcijfer: 1 – 10] 
+V57. Maak je je wel eens zorgen over je schoolresultaten? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+V58. Ben je tevreden over de manier waarop school toetst wat je geleerd hebt? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+ 
+11 
+V59. Ben je tevreden over de mogelijkheden om mee te praten over je lessen en 
+toetsen? 
+01 Zeker niet 
+02 Meestal niet 
+03 Soms wel, soms niet 
+04 Meestal wel 
+05 Zeker wel 
+06 Niet van toepassing 
+ 
+De extra vragen van individuele scholen (optioneel) worden hier geplaatst. 
+ 
+V60. Wil je nog iets tegen jouw school zeggen? [open invulveld] 
+V61. Heb je de vragenlijst in de klas ingevuld? 
+01 Nee 
+02 Ja 
+V62. [Indien V6102] Kon je de vragenlijst anoniem invullen?  
+(Er was bijvoorbeeld niemand die meekeek naar je antwoorden) 
+01 Nee 
+02 Ja 
+03 Weet ik niet 
+V63. LAKS komt op voor jou als scholier. Dat doen we in de politiek, de media en 
+op scholen. Om beter voor jullie op te kunnen komen, willen we graag jouw 
+stem horen! Mogen wij jou een paar keer per jaar om je mening vragen? [Ja, 
+LAKS mag mij op dit e-mailadres om mijn mening vragen: [open] /Nee] 
+ 
+EINDE VRAGENLIJST.

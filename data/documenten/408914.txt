@@ -1,0 +1,1861 @@
+=== Document: bijlage 2 - programma van eisen def ===
+1  
+Bijlage 2: Programma van Eisen  
+1.1 Inleiding 
+De hierna volgende bepalingen gelden als minimumeisen voor de reguliere uitvoering van de 
+Personeelsmonitor Gemeenten. Inschrijver dient deze eisen integraal op te nemen in de 
+uitvoering en borging van de opdracht. 
+Inschrijver is verantwoordelijk voor het zorgvuldig, betrouwbaar en tijdig uitvoeren van de 
+volgende kerntaken: 
+ Het samenstellen en uitzetten van de vragenlijst van de Personeelsmonitor; 
+ Het zorgen voor responsverhogende maatregelen; 
+ Het verzamelen, controleren en verwerken van salarisgegevens; 
+ Het valideren van aangeleverde gegevens en bewaken van datakwaliteit; 
+ Het onderhouden van contact met deelnemende gemeenten en/of aan A&O fonds 
+Gemeenten gelieerde organisaties; 
+ Het opleveren van resultaten en overzichten te weten ten behoeve van: 
+o Publicatie 
+o Dashboard 
+Overal waar in dit Programma van Eisen “gemeente” wordt genoemd, wordt ook bedoeld 
+gemeentelijke organisatie. 
+De planning voor elke Personeelsmonitor wordt aan het eind van de zomer vastgesteld. 
+Hieronder staat een globale planning met de belangrijkste stappen voor de totstandkoming 
+van de monitor. De planning van toekomstige edities zal naar verwachting vergelijkbaar zijn, 
+al streven we ernaar om deze in de toekomst eerder tot stand te brengen. 
+STAPPEN  PERIODE 
+Vaststellen + programmeren vragenlijst incl. aanpassen 
+gegevenswoordenboek 
+September t/m begin december 
+Veldwerkperiode vragenlijst + verzamelen salarisgegevens Eind december t/m begin februari 
+Controleren, verwerken + analyseren verzamelde gegevens Midden februari t/m eind maart 
+Opleveren concept resultaten  Begin april 
+Oplevering definitieve resultaten Eind april 
+Oplevering ‘opgemaakt’ boekje + up-to-date dashboard Uiterlijk eind mei 
+   
+  
+2  
+1.2  Algemene eisen en samenwerking 
+1 Inschrijver dient voor alle aspecten van de gevraagde dienstverlening altijd in 
+vloeiend Nederlands met A&O fonds Gemeenten en de deelnemende 
+gemeenten te communiceren. Dit geldt zowel voor schriftelijke als mondelinge 
+communicatie. Hieronder wordt verstaan ten minste niveau B2 volgens het 
+Europees referentiekader. 
+2 Van Inschrijver wordt verwacht dat deze de vergaderingen van de Werkgroep 
+Personeelsmonitor bijwoont. Deze werkgroep komt minimaal 4 keer per jaar samen 
+in Den Haag.  
+3 Ter indicatie planning 2026: 
+ (4) Werkgroep bespreking evaluatie PM2025                   juni 2026  
+ (1) Werkgroep bespreking concept vragenlijst PM2026  sept 2026  
+ (2) Werkgroep vragenlijst vaststellen PM2026    okt 2026  
+ (3) Werkgroep bespreking concept resultaten   april 2027 
+4 Daarnaast overlegt Inschrijver minimaal tweewekelijks met leden van het team 
+Onderzoek Personeelsmonitor van het A&O fonds Gemeenten tijdens de 
+uitvoering van het onderzoek. Dit overleg vindt afhankelijk van de aard van het 
+onderwerp plaats via telefoon, MS Teams of persoonlijk. Bij eventuele 
+vraagstukken of knelpunten neemt Inschrijver rechtstreeks contact op met de 
+projectleider Personeelsmonitor Gemeenten om tijdig afstemming en voortgang 
+te waarborgen. 
+1.3 Eisen aan realisatie vragenlijst 
+1 Inschrijver stelt de vragenlijst op in het laatste kwartaal van het onderzoeksjaar, 
+gebaseerd op de vragenlijst van het voorgaande jaar. Een voorbeeld van de 
+vragenlijst is opgenomen in bijlage 12. 
+2 De vragenlijst bevat vaste onderwerpen (stabiel over de jaren) en tijdelijke of 
+eenmalige onderwerpen, met de mogelijkheid om vragen aan te passen, samen 
+te voegen, te verplaatsen, toe te voegen of te verwijderen. 
+3 De vragenlijst omvat circa 60-70 vragen waarvan 80 procent gesloten vragen zijn. 
+4 Inschrijver past de vragenlijst aan op basis van de wensen die tijdens de eerste (1) 
+vergadering van de Werkgroep Personeelsmonitor zijn besproken. 
+5 Tussen de eerste en tweede vergadering van de Werkgroep verwerkt Inschrijver 
+de aanpassingen. 
+6 Na de tweede (2) vergadering maakt Inschrijver een conceptvragenlijst die ter 
+beoordeling aan A&O fonds Gemeenten (en eventueel de Werkgroep) wordt 
+voorgelegd. 
+7 Na feedback past Inschrijver de vragenlijst aan en maakt deze gereed voor testen 
+door het projectteam van A&O fonds Gemeenten. 
+8 Inschrijver zorgt dat in het gegevenswoordenboek alle in de vragenlijst gebruikte 
+definities en berekeningen worden vermeld 
+9 Zodra vragenlijst inhoudelijk definitief is, past Inschrijver waar nodig het 
+gegevenswoordenboek  zichtbaar aan. 
+10 Gemeenten kunnen de vragenlijst alleen digitaal invullen en indienen. 
+  
+3  
+11 Pas na goedkeuring door A&O fonds Gemeenten programmeert Inschrijver de 
+vragenlijst in een gebruiksvriendelijke in te vullen enquête software. 
+12 De geprogrammeerde vragenlijst wordt vormgegeven in de huisstijl van A&O 
+fonds Gemeenten.  Na gunning wordt het huisstijlhandboek gedeeld. 
+13 Gemeenten moeten toegang hebben tot een beveiligd deel van het internet 
+voor het invullen van de vragenlijst (inloggen of andere veilige methode). 
+14 Er moet in de vragenlijst mogelijkheid zijn om (delen van) te printen en tussentijds 
+opslaan van reeds ingevoerde antwoorden voor vragen die enig opzoekwerk 
+vereisen. 
+15 De vragenlijst moet eenvoudig deelbaar zijn binnen de gemeente, maar 
+herkenbaar blijven als Personeelsmonitor van A&O fonds Gemeenten/Inschrijver. 
+16 Om fouten bij invullen van de vragenlijst te beperken (bijvoorbeeld een type- of 
+rekenfout) dient automatisch een waarschuwing te worden getoond bij een 
+substantiële afwijking van het gemiddelde of van eerder gegeven antwoorden. 
+17 De vragenlijst wordt uiterlijk begin januari naar gemeenten verstuurd inclusief  
+invulinstructie, PDF-versie vragenlijst en Gegevenswoordenboek. 
+18 Gemeenten hebben tot halverwege februari de tijd om de digitale vragenlijst in te 
+vullen, met uitloop naar begin maart. 
+19 Inschrijver dient elke gemeente na het indienen van de vragenlijst een bevestiging 
+en een overzicht van de eigen antwoorden te verstrekken, bijvoorbeeld als Excel-
+bestand. 
+20 Inschrijver evalueert de vragenlijst jaarlijks en verwerkt eventuele aanpassingen en 
+verbeteringen in de nieuwe vragenlijst voor het volgende onderzoeksjaar. 
+1.4. Eisen aan verwerking salarisgegevens  
+1 A&O fonds Gemeenten hanteert een verwerkersovereenkomst voor het 
+verwerken van salarisgegevens van gemeenten ten behoeve van de 
+Personeelsmonitor. Zie voor meer informatie de DPIA. 
+2 A&O fonds Gemeenten verplicht gemeenten aan het begin van deze nieuwe 
+periode een verwerkersovereenkomst te ondertekenen, die via een 
+(sub)verwerkersovereenkomst aan Inschrijver wordt overgedragen. Deze 
+overeenkomst is overdraagbaar naar toekomstige Inschrijvers. 
+3 Bij fusies of andere organisatorische wijzigingen binnen een Organisatie sluit A&O 
+fonds Gemeenten een nieuwe verwerkersovereenkomst af. 
+4 
+ 
+A&O fonds Gemeenten levert ieder jaar een lijst met gemeenten die toestemming 
+hebben gegeven voor het verwerken van gegevens. 
+5 A&O fonds Gemeenten geeft Salarisverwerkers opdracht (inclusief bekostiging) 
+om salarisgegevens van gemeenten (die toestemming hebben gegeven) te 
+leveren aan Inschrijver. Dit zijn ADP,  Visma Raet, BCS (voorheen Centric) en IJK. 
+6 Met AFAS is een aparte afspraak gemaakt. AFAS-gemeenten draaien zelf een 
+query in hun AFAS-omgeving.  Het Excel-bestand  dat zo ontstaat sturen zij 
+afzonderlijk op naar Inschrijver.  In totaal gaat het op dit moment om ongeveer 30 
+losse Excel-bestanden. 
+  
+4  
+7 Inhoudelijk verloopt het contact tussen salarisverwerkers met Inschrijver. A&O 
+fonds Gemeenten levert contactpersonen van hiervoor genoemde 
+salarisverwerkers. 
+8 Inschrijver schrijft begin december de vier grootste salarisverwerkers (ADP, Visma 
+Raet, BCS en IJK) aan voor de benodigde salarisinformatie (aanvraagspecificatie) 
+inclusief het gewenste format en de lijst van gemeenten met toestemming voor 
+het doorgeven van gegevens. Inschrijver benadert daarnaast AFAS om waar 
+nodig aanpassingen in de query door te voeren. 
+9 Inschrijver dient tevens de gemeenten die hun salarisverwerking zelf uitvoeren te 
+informeren over de benodigde gegevens en het juiste format. 
+10 Inschrijver ontvangt voor de eerste meting de eerder gehanteerde 
+aanvraagspecificatie van A&O fonds Gemeenten. Bij de volgende metingen is 
+Inschrijver verantwoordelijk voor de juiste inhoud van aanvraagspecificatie. 
+11 Inschrijver ontvangt uiterlijk halverwege februari de salarisgegevens van 
+gemeenten van de salarisverwerkers, AFAS-gemeenten en van gemeenten die 
+hun salarisverwerking zelf uitvoeren. 
+12 Inschrijver dient de aangeleverde gegevens te controleren, te schonen, uniform 
+te maken en gereed te maken voor verwerking en analyse. Dit geldt zowel voor 
+de data van salarisverwerkers als voor de data van gemeenten die hun 
+salarisverwerking zelf uitvoeren. 
+13 Inschrijver dient jaarlijks overleg te voeren met elk van de vijf salarisverwerkers 
+(ADP, Visma RAET, BCS, IJK en AFAS) over welke data kan worden aangeleverd en 
+de termijn van aanlevering.  In het overleg met AFAS dient daarnaast gesproken 
+te worden over de randvoorwaarden die AFAS-gemeenten nodig hebben om 
+hun export te kunnen realiseren (bijvoorbeeld wijzigingen query). 
+1.5 Eisen aan responsverhogende maatregelen 
+1 Een hoge respons is essentieel voor de betrouwbaarheid en representativiteit van 
+de Personeelsmonitor. Inschrijver streeft naar een minimale respons van 75%1 en 
+zich maximaal in te spannen om dit te bereiken. 
+2 Voor het verzenden van de vragenlijst begin januari stuurt Inschrijver eind 
+november een vooraankondiging uit naar contactpersonen bij gemeenten.  
+3 Inschrijver dient ten minste twee (2) herinneringen te sturen naar gemeenten die 
+deelnemen maar de vragenlijst nog niet volledig hebben ingevuld. 
+4 Gedurende de veldwerkperiode (januari–februari) levert Inschrijver wekelijks een 
+responsoverzicht aan Opdrachtgever, waarin per gemeentegrootteklasse het 
+percentage gestarte vragenlijsten, volledig ingevulde lijsten en aangeleverde 
+salarisbestanden wordt weergegeven. 
+5 Inschrijver zorgt ervoor dat de vier grootste gemeenten van Nederland (G4) te 
+allen tijde deelnemen aan de Personeelsmonitor. 
+6 Inschrijver belt 100.000+ gemeenten na als zij de vragenlijst nog niet hebben 
+ingevuld. 
+ 
+1 NB.   In de afgelopen jaren is de respons op de Personeelsmonitor nooit lager dan 80% 
+geweest. 
+  
+5  
+7 Bij achterblijvende respons gaat Inschrijver in overleg met A&O fonds Gemeenten 
+om oplossingen te bespreken. 
+8 Gemeenten die expliciet aangeven dat zij in een bepaald jaar niet deelnemen, 
+mogen geen verdere herinneringen ontvangen. 
+9 Nadat een gemeente de vragenlijst volledig heeft ingevuld en ingeleverd, dient 
+Inschrijver een bedankmail te sturen met een overzicht van de ingevulde eigen 
+antwoorden als stimulans voor toekomstige deelname. 
+1.6 Eisen aan validatie gegevens 
+1 De resultaten van de Personeelsmonitor worden, zowel tijdens het invullen als 
+achteraf, gevalideerd. Inschrijver richt het dataverzamelingsproces zodanig in dat 
+zowel automatische als handmatige validatie mogelijk is. 
+2 Inschrijver voert de validatie van de onderzoeksdata uit conform de richtlijnen 
+zoals opgenomen in hoofdstuk 3 van het Gegevenswoordenboek – 
+Methodologische verantwoording bronbestanden. Dit document geldt als 
+leidraad en vereiste voor de validatie. 
+3 Het Gegevenswoordenboek – Methodologische verantwoording bronbestanden 
+wordt jaarlijks in het vierde kwartaal geactualiseerd in overleg met A&O fonds 
+Gemeenten en de Werkgroep. Inschrijver past de werkwijze hierop aan. 
+4 Inschrijver valideert de verzamelde onderzoeksdata afkomstig uit de vragenlijsten. 
+5 Inschrijver valideert de verzamelde onderzoeksdata afkomstig uit de 
+salarisbestanden. 
+6 De door Inschrijver verwerkte salarisgegevens van gemeenten worden ter controle 
+voorgelegd aan de betreffende gemeenten, zodat zij kunnen verifiëren of de 
+gegevens overeenkomen met de eigen administratie en kunnen aanpassen.  
+7 Inschrijver is in staat om, waar nodig, aanvullende databronnen te gebruiken – 
+zoals CBS-data – om gemeentelijke gegevens te controleren en te valideren 
+indien deze aanzienlijk afwijken van eerdere jaren. 
+1.7 Eisen aan contactpersonenbeheer en communicatie 
+1 Bij elke gemeente die deelneemt aan de Personeelsmonitor is door A&O fonds 
+Gemeenten een vaste contactpersoon aangewezen (eerste aanspreekpunt. De 
+contactgegevens van deze personen worden vastgelegd in een gezamenlijk 
+Excel-document.  
+2 A&O fonds Gemeenten beheert dit document (eis 1) gedurende een deel van 
+het jaar. Vanaf het moment dat het Excel-document aan Inschrijver wordt 
+verstrekt om de vragenlijst van de Personeelsmonitor uit te zetten, is  Inschrijver 
+verantwoordelijk voor het bijhouden van wijzigingen in de contactgegevens. 
+3 Wanneer de Personeelsmonitor is gepubliceerd, stuurt Inschrijver het Excel-
+document — waarin de doorgevoerde wijzigingen herkenbaar zijn — terug naar 
+A&O fonds Gemeenten. Vanaf dat moment ligt de verantwoordelijkheid voor het 
+beheer van de contactgegevens weer bij A&O fonds Gemeenten. 
+  
+6  
+4 Bij het versturen van de vragenlijst, herinneringen en de definitieve 
+Personeelsmonitor kan Inschrijver onbestelbare e-mails ontvangen. Inschrijver 
+neemt (telefonisch) contact op met de betreffende gemeenten om correcte 
+contactgegevens te achterhalen. Inschrijver actualiseert het Excel-document 
+zodat de gezamenlijke contactpersonenlijst up-to-date blijft en stelt A&O fonds 
+Gemeenten op de hoogte van de wijziging. 
+5 Tijdens de veldwerkperiode (december t/m maart) kunnen Gemeenten vragen 
+stellen over: 
+ technische problemen met de digitale vragenlijst; 
+ het invullen van de vragenlijst zelf; 
+ of over resultaten uit eerdere edities van de Personeelsmonitor. 
+Deze vragen kunnen rechtstreeks aan Inschrijver of via A&O fonds Gemeenten 
+worden gesteld. Inschrijver zorgt voor een tijdige (binnen 2 werkdagen) en 
+correcte beantwoording. 
+6 Gedurende het hele jaar kunnen Gemeenten, A&O fonds Gemeenten of aan 
+A&O gelieerde partijen vragen stellen over de (inhoud van) de Personeelsmonitor 
+of over data. 
+ Inschrijver is verantwoordelijk voor een adequate beantwoording en registratie 
+van deze vragen. 
+ Inhoudelijke vragen worden altijd eerst afgestemd met A&O fonds 
+Gemeenten, voordat Inschrijver een antwoord verstrekt aan de vragende 
+partij. 
+ Inschrijver legt gemaakte afspraken en gegeven antwoorden zorgvuldig vast, 
+zodat consistentie in de communicatie en dataverstrekking wordt 
+gewaarborgd. 
+ 
+7 Inschrijver stelt een centraal e-mailadres in waar alle vragen over de 
+Personeelsmonitor naartoe gestuurd kunnen worden. Dit e-mailadres wordt 
+vermeld in alle communicatie (uitnodigingen, herinneringen, rapportages). 
+8 Inschrijver zorgt ervoor dat binnen twee werkdagen wordt gereageerd op 
+binnengekomen berichten of dat een ontvangstbevestiging met verwachte 
+reactietermijn wordt verstuurd. 
+Inschrijver bewaakt de volledigheid en continuïteit van dit contactkanaal 
+gedurende de gehele looptijd van de opdracht. 
+1.8 Eisen aan oplevering resultaten 
+Publicatie 
+ 
+1 Inschrijver levert tabellen aan in Word en Excel (Tabellenboek) ten behoeve van 
+de publicatie (Bijlage 10).   
+  
+7  
+2 Hiervoor verwerkt Inschrijver de aangeleverde salarisgegevens en de ingevulde 
+vragenlijsten van gemeenten.  
+3 Op basis hiervan (eis 1) stelt Inschrijver begin april een eerste concept versie van 
+het Tabellenboek - met tabellen en grafieken, zonder samenvatting of highlights - 
+op voor bespreking met de Werkgroep Personeelsmonitor.  
+4 Inschrijver is aanwezig of beschikbaar voor toelichting tijdens de bespreking van 
+het tabellenboek in de werkgroep van april. 
+5 Na de Werkgroep past Inschrijver de Personeelsmonitor en het tabellenboek aan 
+volgens de gemaakte afspraken en levert daarnaast een samenvatting met de 
+belangrijkste highlights van de resultaten. 
+6 Inschrijver verstuurt de aangepaste versie van het tabellenboek en samenvatting 
+per e-mail naar A&O fonds Gemeenten en de werkgroep ter controle. 
+7 Eventuele terugkoppeling van opmerkingen verwerkt Inschrijver en levert uiterlijk 
+eind april het definitieve tabellenboek op 
+8 Inschrijver zorgt dat de tabellen volledig en correct zijn voor gebruik door 
+Vormgever en  Opdrachtgever. 
+9 Inschrijver levert alle enquêtevragen in een Excel-tabellenset aan met vooraf 
+afgestemde kopvariabelen en alle antwoordcategorieën van alle vragen. 
+10 Op verzoek van het A&O fonds Gemeenten en/of LOGA (Landelijk Overleg 
+Gemeentelijke Arbeidsvoorwaarden)voert Inschrijver extra analyses uit van de 
+verzamelde gegevens. Deze analyses moeten vaak worden gebruikt bij Cao-
+onderhandelingen en hebben dus groot belang en urgentie. 
+11 Inschrijver levert ICTU ten behoeve van Venster voor Bedrijfsvoering (VvB) een 
+bestand  
+aan met gegevens van de deelnemende gemeenten - na toestemming van de 
+betreffende organisatie. 
+12 Voor organisaties die lid zijn van WSGO levert Inschrijver - na toestemming van de 
+betreffende organisatie - de benodigde gegevens aan het bureau dat de 
+rapportage voor de WSGO Personeelsmonitor verzorgt. 
+ 
+Dashboard  
+ 
+1 Inschrijver is verantwoordelijk voor (door)ontwikkeling van de, ten tijde van de 
+aanbesteding, bestaande functionaliteiten van het dashboard Personeelsmonitor 
+en doet regulier (technisch) onderhoud inclusief benodigde updates van software. 
+2 Inschrijver vult jaarlijks (uiterlijk op moment van publicatie) het dashboard met de 
+meest recente gegevens uit de Personeelsmonitor en zorgt ervoor dat historische 
+data zijn ingeladen. 
+3 Inschrijver levert een dashboard waarmee gemeenten inzicht krijgen in de 
+ontwikkeling van personeelskenmerken en deze kunnen vergelijken met relevante 
+referentiegroepen. 
+4 Inschrijver realiseert zowel een openbaar dashboard als een individueel 
+dashboard voor afzonderlijke Gemeenten: 
+ 
+  
+8  
+a) Openbaar dashboard: 
+Inschrijver realiseert een openbaar toegankelijk dashboard waarin iedereen 
+de gegevens op geaggregeerd niveau kan inzien en vergelijken. 
+ 
+b) Individueel gemeentelijk dashboard: 
+Inschrijver levert daarnaast een afgeschermd dashboard per gemeente, 
+waarin de betreffende Organisatie alleen haar eigen cijfers kan inzien en kan 
+vergelijken.  
+ 
+5 Inschrijver levert een dashboard op met ten minste de volgende onderdelen en 
+functionaliteiten conform het huidige dashboard. 
+ 
+a) Inhoud 
+ 
+Inschrijver voorziet dat het (individuele) dashboard trends vertoont vanaf 2016 
+door de tijd voor de betreffende gemeente, waarbij de resultaten worden 
+vergeleken met: 
+ De eigen gemeentegrootteklasse; 
+ De provincie; 
+ De arbeidsmarktregio; 
+ Type gemeente (mate in eigen beheer). 
+ 
+De volgende kernindicatoren worden in het (individuele) dashboard opgenomen: 
+ Bezetting; 
+ Samenstelling van het personeel; 
+ Instroom, doorstroom en uitstroom; 
+ Ziekteverzuim; 
+ Opleidingsniveau; 
+ Salaris; 
+ Externe inhuur. 
+ 
+b) Vergelijkingsmodule 
+ 
+Inschrijver realiseert in het individuele dashboard een vergelijkingsmodule waarmee 
+gemeenten flexibel selecties kunnen maken van vergelijkingsgroepen op basis van: 
+ Gemeentegrootteklasse; 
+ Provincie; 
+ Arbeidsmarktregio; 
+ Type gemeente (mate in eigen beheer). 
+ 
+De vergelijkingsmodule bevat in grote mate dezelfde onderwerpen als het 
+hoofddashboard. Wanneer de geselecteerde vergelijkingsgroep kleiner of gelijk is 
+aan vijf (5) gemeenten, worden de resultaten uit privacy- en 
+vertrouwelijkheidsoverwegingen niet getoond. De totaalwaarden in de 
+vergelijkingsmodule dienen te allen tijde hetzelfde te zijn als opgenomen in het 
+openbare dashboard. 
+  
+9  
+ 
+c) Downloadfunctionaliteit 
+Inschrijver voorziet het individuele dashboard van een bulkdownloadmogelijkheid 
+waarmee Gemeenten hun volledige eigen dataset en benchmarkdataset in 
+gangbare formaten (CSV en/of Excel) kunnen exporteren en hergebruiken in 
+eigen applicatie(s). 
+ 
+d) Factsheet 
+Inschrijver voorziet dat het individuele dashboard een functie bevat voor het 
+genereren van een samenvattend overzicht (“factsheet”) van de eigen gegevens. 
+Deze factsheet is bedoeld voor intern gebruik en eenvoudig te delen binnen de 
+organisatie. 
+Een voorbeeld van de factsheet is opgenomen in Bijlage 13. 
+ 
+e) Functionaliteiten voor visualisatie en export 
+Inschrijver voorziet dat het (individuele) dashboard mogelijkheid biedt om zelf 
+selecties te maken en gegevens weer te geven in verschillende visualisaties, 
+waaronder lijngrafieken, staafgrafieken en tabellen; 
+Het (individuele) dashboard bevat daarnaast een functie voor het exporteren of 
+downloaden in diverse formaten, waaronder PDF, Excel en afbeelding (PNG/JPG); 
+ 
+ 
+f) Ondersteuning en interactie 
+ 
+Inschrijver voorziet het (individuele) dashboard van een ondersteuningspagina met: 
+ Contactgegevens voor ondersteuning; 
+ Toegang tot handleidingen of FAQ’s; 
+ Een mogelijkheid voor het invullen van vragenlijsten en/of aanleveren van 
+aanvullende gegevens. 
+ 
+6 Inschrijver zorgt dat het dashboard wordt vormgegeven in de huisstijl van A&O 
+fonds Gemeenten.  Na gunning wordt het huisstijlhandboek gedeeld. 
+7 Inschrijver zorgt ervoor dat bij overgang naar andere leverancier alle data 
+dusdanig wordt overgedragen zodat een andere partij een nieuw dashboard kan 
+realiseren.  
+8 Inschrijver hanteert voor het dashboard de standaarden voor HTML/DOM, WAI-
+ARIA (web accessibility initiative) en CSS (opmaak). Daarbij is het dasboard W3C 
+compliant in de codering en is de toegankelijkheid op orde volgens WCAG 2.1 
+niveau AA.  
+9 Iedere gemeente beschikt over één beheerder. Deze beheerder is 
+contactpersoon voor opdrachtnemer voor de vragenlijst en is verantwoordelijk 
+voor het toekennen van dashboardtoegang aan medewerkers binnen de 
+gemeente. Inschrijver hanteert deze persoon dus ook als eerste contactpersoon. 
+10 Inschrijver kent gemeenten toegang toe op verschillende niveaus voor invullen 
+vragenlijst en toegang tot bepaalde data.  Het inloggen dient vanuit “Mijn A&O” 
+  
+10  
+en accounts bij A&O plaats te vinden. De leverancier van onze website realiseert 
+de omgeving voor het beheren van gebruikerstoegang voor de 
+Personeelsmonitor. Inschrijver zorgt voor beveiligde en real-time koppeling met de 
+gebruikerstoegang middels de onderstaande stappen en eisen. 
+11 De vereisten voor SSO Personeelsmonitor met Auth0 (front-end) zijn: 
+ Voor de nieuw te bouwen front-end van de Personeelsmonitor dient Inschrijver 
+gebruik te maken van de Auth0 Universal Login voor het volledige 
+authenticatieproces. Documentatie van de Auth0 API: 
+https://auth0.com/docs/quickstarts  
+ Gebruikers worden bij het starten van het loginproces (via een redirect) naar 
+de Universal loginpagina geleid. Auth0 verzorgt daar de authenticatie, gelijk 
+aan de wijze op aeno.nl. 
+ Na succesvolle authenticatie stuurt Auth0 de gebruiker terug naar de 
+Pesoneelsmonitor front-end met een authorization code. 
+ Via de Auth0 API (of Auth0 node of composer packages) kan vervolgens 
+worden gecontroleerd of de code valide is en kan de identiteit (e-mailadres) 
+van de ingelogde gebruiker worden opgehaald. 
+ Het registratieproces (account aanmaken) en het wachtwoordherstel vinden 
+beide plaats via aeno.nl. Deze functionaliteit is beschikbaar via de Univseral 
+loginpagina en dient derhalve niet opnieuw te worden gebouwd in de nieuwe 
+Personeelsmonitor front-end (buiten scope). 
+ Het uitloggen van gebruikers kan plaatsvinden na een eenvoudige call naar de 
+Auth0 API. Deze functionaliteit dient wel door Inschrijver te worden opgenomen 
+in de scope van de aanbesteding. 
+12 De vereisten sign-up flow voor gebruikers Personeelsmonitor zijn: 
+ Alle Personeelsmonitor gebruikers (nieuw of bestaand) hebben zich 
+geregistreerd via aeno.nl en hebben een actief account. 
+ Alle Personeelsmonitor gebruikers dienen ingelogd te zijn via Auth0 voordat zij 
+het systeem kunnen gebruiken óf toegang kunnen aanvragen. De 
+Personeelsmonitor front-end checkt dit door middel van een API-koppeling. 
+ 
+Bestaande gebruikers: 
+ De front-end checkt middels een API-call met de Personeelsmonitor user back-
+end of de ingelogde gebruiker gemachtigd is (goedgekeurd door 
+gemeentebeheerder). De documentatie kan worden verschaft via de 
+leverancier. 
+ Indien een ingelogde gebruiker (middels een goedkeuring van een 
+gemeentebeheerder) gemachtigd is het systeem te kunnen gebruiken, wordt 
+deze doorverwezen naar de Personeelsmonitor dashboard van zijn of haar 
+gemeente. 
+ 
+Nieuwe gebruikers: 
+ Nieuwe gebruikers van de Personeelsmonitor kunnen toestemming aanvragen 
+via de front-end. Daarbij maken zij via een formulier (aanvraagpagina) 
+kenbaar van welke gemeente zij de Personeelsmonitor willen inzien door middel 
+van een beknopt formulier. 
+  
+11  
+ Een verzonden aanvraag komt terecht in de user back-end (extern systeem). 
+Het systeem keurt (optioneel) automatisch goed óf een gemeentebeheerder 
+ontvangt notificatie en keurt goed of af (zie ook omschrijving Personeelsmonitor 
+user back-end). 
+ Nieuwe gebruiker ontvangt notificatie van goed- of afkeuring en logt in. 
+13 De door de Inschrijver voor dashboard te verwerken en op te slagen data is 
+gedetailleerd en omvat uiteenlopende persoonskenmerken, waardoor een hoog 
+niveau van beveiliging vereist is. De minimale beveiligingsnorm is ISO 27001. 
+Aanvullende beveiligingsmaatregelen en (internationale) certificeringen worden 
+als pré beoordeeld.
+
+=== Document: nota van inlichtingen i - vdef ===
+# Onderwerp Vraag Antwoord
+1 Kerncompetenties Een van de eisen van de kerncompetenties is: “De referentie-opdracht dient volledig en naar 
+volle tevredenheid te worden, dan wel te zijn, nagekomen. Onder tevredenheid wordt verstaan: 
+(i) conform de gestelde minimumeisen, (ii) binnen het gestelde budget, (iii) conform 
+overeengekomen planning, al dan niet gewijzigd na toestemming.” Echter, u schrijft daarvoor 
+ook: “het referentieproject hoeft thans nog niet afgerond te zijn” Hoe wilt u controleren of een 
+lopend project binnen het gestelde budget en conform de overeengekomen planning wordt 
+uitgevoerd?
+Ten tijde van het inleveren van de referentie mag, in geval van een lopend project, geen sprake zijn 
+van aan uw onderneming (opdrachtnemer) te verwijten plannings- of budgetoverschrijding. 
+Overschrijdingen na akkoord van opdrachtgever vallen hierbuiten. 
+Wij hebben ons in de stukken het recht voorbehouden om iedere referentie te verifiëren bij de 
+opgegeven referent. Dat geldt derhalve ook voor alle componenten van "tevredenheid". 
+2 Kerncompetenties Een van de eisen van de kerncompetenties is: “De referentie-opdracht dient volledig en naar 
+volle tevredenheid te worden, dan wel te zijn, nagekomen. Onder tevredenheid wordt verstaan: 
+(i) conform de gestelde minimumeisen, (ii) binnen het gestelde budget, (iii) conform 
+overeengekomen planning, al dan niet gewijzigd na toestemming.” Bent u akkoord om aan de 
+zinsnede binnen het gestelde budget toe voegen, “al dan niet opgehoogd na toestemming”?
+zie antwoord op vraag 1.
+3 Kerncompetenties Bij kerncompetentie 1 schrijft u: “De Gegadigde heeft binnen een (onderzoeks)opdracht 
+ervaring met het opstellen, uitzetten, verwerken en valideren (automatisch en/of handmatig) 
+van digitale vragenlijsten van ten minste 30 vragen, met een respondentengroep van minimaal 
+100 individuele organisaties, gedurende een tijdsbestek van minimaal 1 jaar.” Wat bedoelt u 
+precies met de zinsnede “gedurende een tijdsbestek van minimaal 1 jaar”?
+De (onderzoeks)opdracht dient minimaal 1 jaar te hebben geduurd, en de geschetste onderdelen uit 
+de kerncompetentie te hebben omvat.
+4 Eisen Als allerlaatste eis in bijlage 2 schrijft u: “De door de Inschrijver voor dashboard te verwerken en 
+op te slagen data is gedetailleerd en omvat uiteenlopende persoonskenmerken, waardoor een 
+hoog niveau van beveiliging vereist is. De minimale beveiligingsnorm is ISO 27001. Aanvullende 
+beveiligingsmaatregelen en (internationale) certificeringen worden als pré beoordeeld.” 
+Volstaat hierbij ook een gedegen beschermingsbeleid conform minimaal ISO27001, aangevuld 
+met aanvullende beveiligingsmaatregelen?
+De eis is gestoeld op de ISO27001 norm en niet het certificaat. Dit betekent dat de beveiliging 
+ingericht moet zijn conform alle normcriteria van de betreffende ISO. Een certificaat ter bevestiging is 
+een pré, maar geen vereiste. Als het door u genoemde beleid volledig voldoet aan de ISO-normering, 
+dan zou dit dus volstaan.
+5 Eisen Als allerlaatste eis in bijlage 2 schrijft u: “De door de Inschrijver voor dashboard te verwerken en 
+op te slagen data is gedetailleerd en omvat uiteenlopende persoonskenmerken, waardoor een 
+hoog niveau van beveiliging vereist is. De minimale beveiligingsnorm is ISO 27001. Aanvullende 
+beveiligingsmaatregelen en (internationale) certificeringen worden als pré beoordeeld.” 
+Waarom staat er bij deze eis, “worden als pré beoordeeld”?
+Beoordeeld dient te worden gelezen als "beschouwd". Er vindt geen kwalitatieve beoordeling plaats 
+op deze eis. 
+Wanneer een ISO27001 of gelijkwaardig certificaat kan worden overlegd, is wel direct aangetoond 
+dat aan de betreffende eis is voldaan. In overige gevallen kan dit nog leiden tot een verificatievraag 
+voor de start van de uitvoering.
+6 Indexatie U schrijft: “De prijzen liggen vast gedurende de looptijd van de Personeelsmonitor. De tarieven 
+voor het personeel van de Inschrijver kunnen maximaal één keer per jaar worden verhoogd met 
+het inflatiecorrectiepercentage volgens het CBS-indexcijfer voor Cao-lonen per uur inclusief 
+bijzondere beloning voor de bedrijfstak Zakelijke Dienstverlening, basis 2026 = 100. De eerste 
+mogelijkheid tot indexering van deze tarieven is per juli 2027.” Wat bedoelt u precies vast met 
+de prijzen liggen vast gedurende de looptijd? Stel wij bieden aan voor €110.000, mogen wij dan 
+bij eventuele verlenging slechts ook dit bedrag in rekening brengen in latere jaren (en dat bedrag 
+dus niet indexeren)?
+Het prijzenblad is opgebouwd uit verschillende onderdelen:
+- mijlpalen voor de personeelsmonitor
+- een mijlpaal inzake de optimalisatie van het dashboard
+- licentiekosten.
+De mijlpaal inzake het dashboard is een fixed price, waarop geen indexatie zal plaatsvinden. 
+Voor de licentiekosten geldt deze opgegeven dienen te worden voor het eerste jaar. Indien de kosten 
+het opvolgende jaar, als gevolg van indexatie stijgen, dient opdrachtnemer dit aan te tonen / te 
+onderbouwen richting opdrachtgever. Bij akkoord zal de indexatie worden doorgevoerd.
+De overige mijlpalen dienen in aanvulling op het prijzenblad via een separate toelichting nader te 
+worden onderbouwd. Daar waar het binnen die onderbouwing om uurtarieven gaat, liggen deze 
+gedurende het eerste jaar vast. Daarna kan indexatie plaatsvinden conform de opgegeven 
+indexatieregeling. U zult dan dus, vanaf jaar 2, per mijlpaal de indexatie - gestoeld op de 
+onderliggende uurtarieven - moeten onderbouwen. 
+7 Uitwerking KC U heeft het bij de uitwerking van KC2 en KC3 over Plan van Aanpak. Wij gaan ervan uit dat dit 
+niet klopt. Is onze aanname correct?
+Bedoeld wordt een plan (van aanpak) behorende bij het geschetste criterium. U kunt dit ook lezen als 
+"schriftelijke uitwerking". 
+8 Certificering Dient er voor het voldoen aan de gestelde richtlijnen, omtrent ISO 27001 én WCAG, een 
+certificering plaats te vinden of voldoet een zelfverklaring hierbij ook?
+Er wordt gesproken over de ISO-norm en WCAG-standaard. Hieraan is niet het vereiste van 
+certificering gekoppeld. U dient te kunnen aantonen dat de systemen zijn ingericht conform alle 
+onderliggende criteria / eisen van de betreffende norm of standaard. Dit mag ook via zelfverklaring, 
+met nadere bewijsmiddelen.
+9 Standaarden Kunnen de genoemde vereiste standaarden verder worden geconcretiseerd?  Zoals de versie 
+van standaarden voor “HTML/DOM, WAIARIA (web accessibility initiative) en CSS (opmaak)”. En 
+hoe dit in relatie staat tot gewenste browsers en/of apparaten waarop het dashboard en/of de 
+vragenlijst zou moeten werken.
+1. HTML / DOM
+Gebruik van HTML5 conform de actuele W3C-specificatie. Code dient:
+-valide te zijn (bijv. verifieerbaar via W3C Validator),
+-correcte semantische HTML-elementen te gebruiken (zoals header, main, nav, section, article, 
+button, label),
+-logisch en toegankelijk DOM-gedrag te hebben (focusvolgorde, toetsenbordnavigatie).
+ 
+2. Toegankelijkheid / WAI-ARIA
+Toepassing van WAI-ARIA 1.2, uitsluitend waar semantische HTML tekortschiet. De applicatie dient 
+te voldoen aan WCAG 2.1 niveau AA (of hoger)
+ 
+3. CSS (opmaak)
+Gebruik van CSS3 volgens actuele W3C-specificaties
+ 
+4. Browsers en apparaten
+De applicatie dient correct en volledig functioneel te zijn op de laatste twee hoofdversies van Google 
+Chrome, Mozilla Firefox, Microsoft Edge en Apple Safari.
+ 
+En op devices:
+Desktop en laptop (Windows en macOS),
+Tablets (iPadOS / Android),
+Smartphones (iOS / Android).
+10 Eisen Indien wij over een dashboard beschikken dat nog niet aan de toegankelijkheid volgens WCAG 
+2.1 voldoet, mogen wij daar dan ook de ontwikkelkosten voor het dashboard voor gebruiken?
+Nee, dit betreft een minimumeis aangaande het dashboard, niet zijnde een verdere optimalisatie ten 
+opzichte van het dashboard waarover nu reeds wordt beschikt.
+11 Eisen realisatie 
+vragenlijst
+Moet bij indiening ook worden voldaan aan alle eisen onder realisatie van de vragenlijst? Er 
+staan namelijk heel specifieke eisen in waarvan wij ook niet altijd weten of onze software 
+daaraan voldoet (bijvoorbeeld: "De vragenlijst moet eenvoudig deelbaar zijn binnen de 
+gemeente")
+Wij gaan ervanuit dat u met "indiening" bedoelt "moment van inschrijven op de aanbesteding". Dat is 
+niet het geval. Het Programma van Eisen zijn zogenaamde minimum uitvoeringseisen. Dit betekent 
+dat u hieraan moet voldoen, op het moment dat de uitvoering start (ingangsdatum overeenkomt). 
+Door het doen van een inschrijving committeert u zich daaraan. U heeft dan dus tot dat moment de 
+tijd om deze functionaliteit te realiseren. NB: het ontwikkelbudget kan hier niet voor worden 
+aangewend.
+12 Bijlage 2 - Programma 
+van Eisen def.pdf: 1.5 
+Eisen aan 
+responsverhogende 
+maatregelen - Eis 2 
+Is deze vooraankondiging per brief? Bij 1.7 - Eis 4 (p.6) is namelijk geen sprake van onbestelbare 
+e-mails op de vooraankondiging.
+De vooraankondiging van de Personeelsmonitor geschiedt per e-mail. Daarnaast informeert A&O 
+fonds Gemeenten haar achterban over de start van de Personeelsmonitor via nieuwsbrief, website 
+en social media.
+13 Bijlage 2 - Programma 
+van Eisen def.pdf: 1.8 
+Eisen aan oplevering 
+Kunt u aangeven in welke format de historische data aan Inschrijver zullen worden 
+aangeleverd?
+In een gangbaar formaat dat geschikt is voor de verwerking van het groot aantal cellen.
+14 Bijlage 2 - Programma 
+van Eisen def.pdf: 1.8 
+Eisen aan oplevering 
+resultaten - Dashboard - 
+Eis 5 a en b (p.8)
+Wat wordt hier onder a) Inhoud en b) Vergelijkingsmodule bij het vierde punt 'Type gemeente 
+(mate in eigen beheer)' bedoeld met '(mate in eigen beheer)'?
+In de gemeentelijke sector is het gebruikelijk om een onderscheid te maken tussen regiegemeenten, 
+uitvoerende gemeenten en alle tussenvormen daartussen. Binnen de Personeelsmonitor wordt dit 
+onderscheid gemaakt door middel van vraag 64 in de Vragenlijst Personeelsmonitor 2025
+Definitie ‘Eigen Beheer’:
+Onder ‘eigen beheer’ wordt verstaan dat het merendeel van de betreffende taak wordt uitgevoerd 
+door medewerkers die deel uitmaken van de eigen gemeentelijke organisatie.
+Vraag V64:
+Kunt u voor uw gemeente aangeven of de onderstaande primaire taken in 2025 (grotendeels) in eigen 
+beheer zijn uitgevoerd, of dat deze niet van toepassing waren voor uw gemeente?"
+15 Bijlage 2 - Programma 
+van Eisen def.pdf: 1.8 
+Eisen aan oplevering 
+resultaten - Dashboard - 
+Eis 5 c (p.9)
+Kunt u een geanonimiseerd voorbeeld geven van enkele records uit de eigen dataset en uit 
+benchmarkdataset die via de bulkdownloadmogelijkheid in het Dashboard kan worden 
+geexporteerd?
+Zie bijlage 15 Bulkdownload Demogemeente - geplaatst in de map "Nota van Inlichtingen" in de 
+TenderNed omgeving.
+16 Aanbestedingsleidraad Beoordeling onderdeel Prijs (p.33)
+De opdrachtgever geeft aan punten aan prijs toe te kennen voor een bedrag van tussen de 
+90.000 euro en 150.000 euro. Is dit bedrag het totaal bedrag voor de hele onderzoeksperiode 
+van 5 jaar? Of is dit bedrag van tussen de 90.000 euro en 150.000 euro alleen voor de 
+proefperiode van het eerste contractjaar? 
+Indien het bedrag voor de hele periode van 5 jaar is: hoe wordt omgegaan met budgettering als 
+de opdrachtgever na de proefperiode besluit dat het onderzoek geen doorgang vindt? Welk deel 
+van het totaalbedrag ontvangt de inschrijver in deze situatie?
+Huidige uitvoerder
+Het is onduidelijk welke documentatie de inschrijver ontvangt van de huidige opdrachtnemer 
+om het onderzoek te kunnen verrichten. Hierbij gaat het specifiek om  i) de gehele vragenlijst, ii) 
+de syntaxen voor de analyses en iii) de syntax van het dashboard. Stelt opdrachtgever de 
+documentatie i)- iii) beschikbaar? Graag per onderdeel aangeven. Is er nog aanvullende 
+documentatie, naast i)-iii), die de opdrachtgever beschikbaar stelt?
+Kwaliteitscriterium 3 – dashboard
+De opdrachtgever beoordeelt inschrijver op de mogelijkheden die de inschrijver ziet om het 
+dashboard verder te optimaliseren en/of de functionaliteiten uit te breiden in lijn met de 
+doelstellingen. Het is lastig voor de inschrijver om daar een visie op te hebben zonder het 
+dashboard zelf gebruikt of gezien te hebben. Kan de opdrachtgever inzicht bieden in hoe het 
+dashboard er nu uitziet? In het bijzonder: kan de inschrijver verder inzicht bieden in de 
+salarisadministratie en of deze uit te splitsen zijn naar werknemers- of gemeentekenmerken (en 
+zo ja: naar welke)? Met deze informatie is het voor de inschrijver beter in te schatten welke 
+verbeteringen er mogelijk zijn.
+U heeft meerdere vragen gebundeld in één ingediende vraag via TenderNed. Dit bemoeilijkt de 
+beantwoording. Alvorens de vragen te beantwoorden, willen wij u verzoeken om bij de 2e Nota van 
+Inlichtingen iedere vraag individueel in te voeren in de vragenmodule.
+Beoordeling prijs
+Het inschrijfbedrag geldt per jaar. 
+                                                                                                                                                                                                                                         
+Vragenlijsten en historische datasets
+Alle vragenlijsten en relevante historische datasets zijn beschikbaar en worden overgedragen aan de 
+nieuwe uitvoerder.
+Analyse
+De toegepaste analyses zijn terug te vinden in het Gegevenswoordenboek 
+https://www.aeno.nl/uploads/Gegevenswoordenboek-Personeelsmonitor-2025.pdf
+Syntaxen en scripts
+De bestaande syntaxen en scripts zijn afhankelijk van de statische software van de huidige uitvoerder 
+en zijn derhalve niet beschikbaar voor de nieuwe uitvoerder.
+Dashboard
+De structuur en opbouw van het dashboard zijn inzichtelijk via het openbare dashboard 
+https://personeelsmonitorgemeenten.incijfers.nl/en het individuele dashboard, zoals weergegeven 
+in de bijgevoegde screenshots.                                                                     
+16 Vervolg op voorgaande 
+vraag.
+Kwaliteitscriterium 3 – dashboard
+De opdrachtgever biedt additioneel budget voor het opnieuw ontwikkelen van het dashboard. 
+De opdrachtgever biedt echter geen budget i) voor het opnieuw programmeren van de 
+vragenlijst (in huisstijl A&O fonds Gemeenten) en  ii) het opnieuw opbouwen van een 
+syntaxbestand voor het koppelen en analyseren van salarisgegevens. Hiermee biedt de 
+opdrachtgever de huidige opdrachtnemer een substantieel kostenvoordeel in de huidige 
+inschrijving, aangenomen dat de huidige opdrachtnemer deze werkzaamheden al heeft verricht. 
+Is het mogelijk om additioneel budget (buiten de prijsbeoordeling om) beschikbaar te stellen 
+voor deze additionele werkzaamheden voor nieuwe inschrijvers? Indien ja, om welk bedrag gaat 
+dit dan?
+A&O fonds Gemeenten stelt ten behoeve van deze aanbesteding alle relevante documentatie, 
+specificaties en beschikbare bestanden beschikbaar die noodzakelijk zijn voor het uitvoeren van de 
+opdracht. Op basis hiervan kan iedere inschrijver de monitor zelfstandig (opnieuw) inrichten. We 
+onderkennen dat de huidige opdrachtnemer mogelijk reeds werkzaamheden heeft verricht in het 
+kader van de bestaande inrichting. Tegelijkertijd geldt dat de technische architectuur, gekozen 
+systemen en werkwijze per inschrijver kunnen verschillen. Niet alle onderdelen zijn één-op-één 
+overdraagbaar, mede doordat de inrichting mede afhankelijk is van het eigen systeem en de eigen 
+technische omgeving van de opdrachtnemer.
+Daarom kan niet objectief worden vastgesteld dat sprake is van een concreet en kwantificeerbaar 
+kostenvoordeel voor de zittende partij. A&O fonds Gemeenten stelt om deze reden geen additioneel 
+beschikbaar voor het opnieuw programmeren van de vragenlijst of het opbouwen van een 
+syntaxbestand.
+17 Bijlage 2 - eisen 1.7 Eisen aan contactperonenbeheer en communicatie
+Eis 4 luidt; ‘Bij het versturen van de vragenlijst, herinneringen en de definitieve 
+Personeelsmonitor kan Inschrijver onbestelbare e-mails ontvangen. Inschrijver neemt 
+(telefonisch) contact op met de betreffende gemeenten om correcte contactgegevens te 
+achterhalen. Inschrijver actualiseert het Excel-document zodat de gezamenlijke 
+contactpersonenlijst up-to-date blijft en stelt A&O fonds Gemeenten op de hoogte van de 
+wijziging.’ We vinden het niet de verantwoordelijkheid van het onderzoeksbureau om het 
+ledenbestand van A&O Fonds Gemeenten up-to-date te houden. Is het daarom mogelijk om 
+deze eis te schrappen?
+1.3 Eisen aan realisatie vragenlijst
+Eis 19 luidt: “Inschrijver dient elke gemeente na het indienen van de vragenlijst een bevestiging 
+en een overzicht van de eigen antwoorden te verstrekken, bijvoorbeeld als Excelbestand”. Veel 
+softwarepakketten ondersteunen niet een automatische terugkoppeling van antwoorden op 
+enquêtes. Dat betekent dat er substantiële kosten ontstaan aan het individueel terugkoppelen 
+van antwoorden van de respondent. Hoeveel waarde hecht opdrachtgever aan deze eis? Is het 
+mogelijk om deze eis los te laten?
+1.7 Eisen aan contactpersonenbeheer en communicatie. 
+Nee, deze eis wordt niet geschrapt. Tijdens de veldwerkperiode – van het moment van uitzetten van 
+de vragenlijst tot de oplevering van de rapportage – vinden regelmatig wisselingen plaats in 
+contactpersonen. Voor een adequaat verloop van het veldwerk is het essentieel dat nieuwe 
+contactpersonen direct door Opdrachtnemer kunnen worden benaderd, zodat een tijdige en 
+volledige respons wordt gerealiseerd. Het betreft specifiek het contactpersonenbestand van het 
+Personeelsmonitor en niet het volledige CRM bestand van A&O fonds Gemeenten. Het actualiseren 
+van bredere CRM-gegevens valt buiten de reikwijdte van deze eis. 
+ 1.3 Eisen aan de realisatie van vragenlijst. 
+ Nee, deze eis wordt niet geschrapt. Gemeenten hechten hier vanuit gebruiksvriendelijkheid veel 
+waarde aan. Om die reden wordt deze eis niet losgelaten.      
+17 Vervolg op voorgaande 
+vraag.
+1.4 Eisen aan verwerking salarisgegevens
+Eis 6 luidt: “Met AFAS is een aparte afspraak gemaakt. AFAS-gemeenten draaien zelf een query 
+in hun AFAS-omgeving. Het Excel-bestand dat zo ontstaat sturen zij afzonderlijk op naar 
+Inschrijver. In totaal gaat het op dit moment om ongeveer 30 losse Excel-bestanden.”  Zijn deze 
+30 Excel-bestanden uniform uitgedraaid (dus dezelfde variabelen en namen van variabelen), 
+zodat we ze eenvoudig kunnen koppelen? Of zijn er eerst nog bewerkingen nodig voordat de 
+koppeling kan plaatsvinden?
+1.4 Eisen aan verwerking salarisgegevens
+Eis 8 luidt: “Inschrijver schrijft begin december de vier grootste salarisverwerkers (ADP, Visma 
+Raet, BCS en IJK) aan voor de benodigde salarisinformatie (aanvraagspecificatie) inclusief het 
+gewenste format en de lijst van gemeenten met toestemming voor het doorgeven van gegevens. 
+Inschrijver benadert daarnaast AFAS om waar nodig aanpassingen in de query door te voeren.” 
+Worden deze salarisbestanden in een uniform format aangeleverd door ADP, Visma, Raet, BCS 
+en IJk? Zo niet: welke bewerkingen zijn er nodig om er één geïntegreerd uniform bestand van te 
+maken?
+1.4  Eisen aan verwerking van salarisgegevens.                  
+Voor het verzamelen van de salarisgegevens wordt gewerkt met een aanvraagspecificatie (zie 
+bijlage), waarin het gewenste format en de vereiste variabelen zijn vastgelegd. Deze 
+aanvraagspecificatie wordt door de Opdrachtnemer verstrekt aan de genoemde salarisverwerkers en 
+aan gemeenten die de salarisgegevens  zelfstandig willen aanleveren. De betreffende 
+salarisverwerkers en gemeenten leveren de salarisgegevens vervolgens aan bij  Opdrachtnemer. 
+Ten aanzien van AFAS is de aanvraagspecificatie geïntegreerd in de vorm van een query binnen het 
+AFAS-systeem. AFAS-gemeenten zijn verantwoordelijk voor het genereren van de uitdraai conform 
+deze specificatie en leveren deze aan bij de Opdrachtnemer.
+In het jaar 2024 betrof dit 24 AFAS-gemeenten, 4 afzonderlijke salarisbestanden van de G4 en de 
+overige gemeenten via salarisverwerkers.   Zie verder ook Bijlage 1 Responsverantwoording Boekje 
+Personeelsmonitor.                                                                                                    
+18 Onderwerp 5 – 
+Aanvullende 
+opdrachten en 
+dashboard (Leidraad 
+§2.5)  5.1 SGO 
+Personeelsmonitor – 
+werkwijze en impact
+In §2.5 wordt de SGO Personeelsmonitor beschreven als een mogelijke aanvullende opdracht 
+die grotendeels aansluit bij de Personeelsmonitor Gemeenten, maar waarbij ook verschillen in 
+aanpak en databronnen mogelijk zijn.
+Kunt u aangeven in hoeverre hierbij wordt uitgegaan van dezelfde werkwijze, systemen en 
+planning als bij de Personeelsmonitor Gemeenten, en in welke mate hiervan kan worden 
+afgeweken? Dit om de mogelijke impact op prijs (ook al weten wij dat er geen rekening 
+gehouden hoeft te worden met deze optionele scope) en planning voor inschrijvers inzichtelijk 
+te maken.
+De overeenkomst tussen de SGO Personeelsmonitor en de Personeelsmonitor Gemeenten betreft 
+met name de vragenlijst, waarbij nagenoeg dezelfde vragen/thema's worden gesteld voor zover deze 
+toepasbaar zijn op de betreffende organisaties. Vooralsnog maakt de SGO Personeelsmonitor 
+gebruik van een vragenlijst en niet van salarisgegevens; dit kan in de toekomst mogelijk wijzigen. Zie 
+ook rapportage WSGO Personeelsmonitor 2024: https://www.aeno.nl/uploads/WSGO-
+Personeelsmonitor-DEF.pdf
+19 Onderwerp 8 – 
+Wachtkamerovereenko
+mst 8.2 Overname bij 
+activering wachtkamer
+In geval van activering van de wachtkamerovereenkomst:
+geldt dan onverkort de ingediende inschrijving (prijs en kwaliteit), of is er ruimte voor nadere 
+concretisering in overleg?
+U doet uw aanbieding gestand tot aan het moment van ingaan van de wachtkamerovereenkomst. De 
+inschrijving blijft dus onverkort van kracht. Wel is er ruimte voor toepassing van de indexatieregeling, 
+indien de wachtkamer na 1 jaar wordt ingeroepen (dus niet in geval van voortijdig inroepen).
+20 Onderwerp 8 – 
+Wachtkamerovereenko
+mst  8.1 Inzetbaarheid 
+opdrachtnemer II
+Kunt u bevestigen dat van opdrachtnemer II geen inzet of beschikbaarheid wordt verlangd 
+zolang de wachtkamerovereenkomst niet wordt geactiveerd?
+Correct.
+21 Onderwerp 7 – Prijs-
+kwaliteit en beoordeling 
+7.2 Presentatie / 
+verificatie
+Maakt een verificatiegesprek en/of presentatie onderdeel uit van de beoordeling? Zo ja, weegt 
+deze mee in de gunningsbeslissing en op welke wijze?
+Er is geen sprake van een presentatie. Wij behouden ons wel het recht van een verificatiegesprek, na 
+voorlopige gunning en dus ook buiten de beoordeling, voor. De verificatie is bedoeld om na te gaan of 
+de voorlopig gegunde inschrijver inderdaad aan alle minimumeisen voldoet, indien daar op enigerlei 
+wijze twijfel over bestaat.
+22 Onderwerp 7 – Prijs-
+kwaliteit en beoordeling  
+7.1 Relatie prijs en 
+kwaliteit
+Wordt bij een zeer hoge kwaliteitsscore een relatief hogere prijs volledig geaccepteerd binnen 
+de EMVI-systematiek, of geldt impliciet een begrenzing aan prijsverschillen?
+De wijze van scoring staat volledig uitgewerkt in de stukken. Voor de prijsscore wordt gewerkt met de 
+geschetste bandbreedte met tussenliggende lineaire formule. 
+23 Onderwerp 6 – 
+Implementatie en 
+planning (Leidraad) 6.3 
+Fatale termijnen
+De leidraad vermeldt dat de uitvoering van de opdracht een strakke planning kent met enkele 
+fatale deadlines.
+Kunt u aangeven welke mijlpalen of termijnen als fataal worden beschouwd en op welk moment 
+deze van toepassing zijn binnen de uitvoering van de opdracht?
+Binnen de uitvoering van de opdracht worden als fatale deadlines beschouwd het niet tijdig gereed 
+opleveren van de digitale vragenlijst voorafgaand aan het veldwerk en het niet tijdig kunnen leveren 
+van de eindrapportage op de afgesproken opleverdatum, aangezien beide mijlpalen cruciaal zijn voor 
+de voortgang en tijdige afronding van de opdracht.
+24 Onderwerp 6 – 
+Implementatie en 
+planning (Leidraad) 6.2 
+Evaluatiemomenten en 
+criteria
+Er worden twee evaluatiemomenten genoemd gedurende de looptijd van de overeenkomst.
+Op basis van welke criteria vinden deze evaluaties plaats, en wat wordt verstaan onder “niet 
+naar behoren uitgevoerd”?
+Evaluatie vindt plaats aan de hand van het Programma van Eisen (minimumeisen), al dan niet 
+gewijzigd na Nota van Inlichtingen, de contractsbepalingen, het door inschrijver gedane kwaliteits- 
+en prijzenaanbod en bepalingen omtrent de uitvoering uit de offerteleidraad. Indien de uitvoering niet 
+strookt met hetgeen daarin is opgenomen, is er sprake van gebrekkige e/o niet-nakoming. inschrijver 
+wordt tijdens de evaluatiemomenten hierop gewezen en krijgt de kans om verbetering te laten zien. 
+Indien de situatie voortduurt, kan uiteindelijk worden geconcludeerd dat er niet naar behoren is 
+uitgevoerd en dat de overeenkomst wordt beëindigd danwel niet verder wordt verlengd.
+25 Onderwerp 6 – 
+Implementatie en 
+planning (Leidraad)  6.1 
+Ingericht bij aanvang 
+uitvoering
+In de leidraad wordt gesproken over “bij aanvang van de uitvoering volledig ingericht”.
+Kunt u verduidelijken of hiermee wordt bedoeld de ingangsdatum van de overeenkomst (1 juli 
+2026), of dat een implementatieperiode na contractstart is voorzien?
+U dient ten tijde van de uitvoering, dat wil zeggen: ingangsdatum van de overeenkomst, op een 
+dusdanige wijze aan het Programma van Eisen te voldoen dat u conform geschetste volgorde en 
+planning van werkzaamheden direct met de uitvoering kunt starten. Daarna geldt dat u telkens 
+conform Programma van Eisen gereed moet zijn op moment van afroep van opvolgende 
+werkzaamheden. Voor het operationeel zijn van het dashboard zijn specifieke mijlpalen genoemd in 
+de contractstukken en leidraad.
+26 Onderwerp 5 – 
+Aanvullende 
+opdrachten en 
+dashboard (Leidraad 
+§2.5) 5.2 Afbakening 
+vaste scope versus 
+aanvullende scope 
+dashboard
+In §2.5 wordt aangegeven dat het optimaliseren en doorontwikkelen van bestaande 
+dashboardfunctionaliteiten onderdeel is van de vaste inschrijfsom, terwijl aanvullende 
+functionaliteiten via een separate offerte kunnen worden afgenomen.
+Kunt u verduidelijken hoe de grens wordt bepaald tussen werkzaamheden die binnen de vaste 
+opdrachtscope vallen en werkzaamheden die als aanvullende scope en/of meerwerk worden 
+beschouwd?
+Middels het Programma van Eisen en achtergrondinformatie hebben wij geschetst hoe het 
+dashboard er nu uit ziet en bij een nieuwe inschrijver uit zal moeten zien. Hiervoor is het ook 
+ontwikkelbudget bedoeld. Alle functionaliteiten die daarbinnen vallen, zijn onderdeel van de vaste 
+opdrachtscope. Het is aan inschrijver om ervoor te zorgen dat deze functionaliteit blijven werken, up 
+to date blijven (updates), onderhouden en/of waar nodig geoptimaliseerd worden om te blijven 
+voldoen aan de randvoorwaarden van het PvE. Onder het gunningscriterium K3 doet inschrijver een 
+aanbod voor verdere optimalisaties die hij ziet. Hiervoor wordt ook een prijs gegeven in het 
+prijzenblad. Wanneer wij dit inroepen in de praktijk, gelden dus de randvoorwaarden uit dit door 
+inschrijver gedane prijs- en kwaliteitsaanbod. Verdere verbeteringen, als genoemd in de 
+herzieningsclausules, moeten binnen de scope van de herzieningsclausule vallen en kunnen dan los, 
+middels gespecificeerde offerte, worden opgevraagd.
+27 Onderwerp 4 – Gebruik 
+Gegevenswoordenboek  
+4.1 Gebruik 
+Gegevenswoordenboek 
+Personeelsmonitor 
+2025
+Is het Gegevenswoordenboek Personeelsmonitor 2025 volledig leidend voor definities, 
+berekeningen en rapportagestructuur?
+En is er ruimte voor (beperkte) methodische verbeteringen of optimalisaties door Inschrijver, 
+mits de vergelijkbaarheid over de jaren behouden blijft?
+Het Gegevenswoordenboek (https://www.aeno.nl/uploads/Gegevenswoordenboek-
+Personeelsmonitor-2025.pdf) is leidend voor definities en berekeningen, maar niet voor de 
+rapportagestructuur. Methodische verbeteringen of optimalisaties zijn toegestaan mits goedgekeurd 
+door de Werkgroep van de Personeelsmonitor. De vergelijkbaarheid met voorgaande jaren moet te 
+allen tijde zoveel mogelijk behouden blijven.
+28 Onderwerp 3 – 
+Algemene beschrijving 
+van de opdracht 
+(Leidraad §2.2)  3.1 
+Beleidsmatige context 
+A&O fonds Gemeenten
+In §2.2 wordt verwezen naar de bredere context waarin de Personeelsmonitor wordt ingezet.
+Is het beleidsprogramma 2025–2029 van het A&O fonds Gemeenten voor inschrijvers 
+opvraagbaar, zodat zij de opdracht beter kunnen positioneren binnen de beleidsdoelstellingen?
+Het beleidsplan van A&O fonds Gemeenten is openbaar en staat op de website 
+https://www.aeno.nl/uploads/20250128_Beleidsplan-DEF.pdf
+29 Onderwerp 2 – Huidige 
+situatie en positionering 
+opdracht (Leidraad 
+§2.1) 2.2 Gelijke 
+uitgangspositie 
+inschrijvers
+In §2.1 (pagina 11) geeft u aan dat de markt voor het uitvoeren van marktonderzoek ten behoeve 
+van deze specifieke opdracht krap is.
+Kunt u toelichten op welke wijze wordt geborgd dat alle inschrijvers, inclusief partijen die de 
+Personeelsmonitor niet eerder hebben uitgevoerd, beschikken over een gelijkwaardige 
+uitgangspositie bij deze aanbesteding?
+De geschiktheidseisen zijn proportioneel (ver onder de 60% norm) en laagdrempelig vastgesteld. Zo 
+is de referent niet per se een (semi)publieke entiteit, behoeven de gegevens niet specifiek 
+salarisgegevens te zijn, en zijn de gevraagde volumes vele malen lager dan binnen onze eigen 
+opdracht. Daarnaast hebben wij alle relevante informatie over de opdracht, alsmede het dashboard, 
+gedeeld / opvraagbaar gemaakt. Om tot hetzelfde niveau aan basisdashboard te komen wordt 
+bovendien een eenmalig ontwikkelbudget betaalbaar gesteld. Tot slot wordt binnen het Programma 
+van Eisen niet gestuurd naar een specifieke oplossing (van een zittende partij), en is er binnen de 
+gunningscriteria niet aangesloten op de huidige situatie, implementatie e.d., maar wordt echt 
+gevraagd naar een nieuwe visie op de diverse vraagstukken. 
+30 Onderwerp 2 – Huidige 
+situatie en positionering 
+opdracht (Leidraad 
+§2.1)  2.1 Wijzigingen 
+t.o.v. opdracht 2021
+In §2.1 wordt de huidige situatie beschreven.
+Kunt u aangeven welke onderdelen van de opdracht inhoudelijk, methodisch of organisatorisch 
+zijn gewijzigd ten opzichte van de aanbesteding en uitvoering van 2021?
+In de kern is de Personeelsmonitor hetzelfde gebleven: het biedt inzichten in de gemeentelijke 
+arbeidsmarkt en fungeert als benchmark voor gemeenten. Ten opzichte van 2021 is de vragenlijst 
+ieder jaar gefinetuned naar de wensen/behoeften van gemeenten en de actualiteit. Methodisch 
+werken we nog steeds met twee informatiebronnen: salarisgegevens en een online vragenlijst. 
+Wijzigingen ten opzichte van 2021 betreffen alleen de aanlevering van salarisgegevens van AFAS 
+gemeenten middels een eigen query, het door A&O zelf opstellen van de managementsamenvatting 
+en het dashboard geïntegreerd in één opdracht.
+31 Onderwerp 1 – 
+Algemene eisen en 
+samenwerking (PvE 
+§1.2) 1.2 Termijn 
+uitvoering onderzoek
+In §1.2 onder punt 4 wordt aangegeven dat Inschrijver minimaal tweewekelijks overlegt met het 
+team Onderzoek Personeelsmonitor tijdens de uitvoering van het onderzoek.
+Kunt u verduidelijken wat u beschouwt als de termijn van “de uitvoering van het onderzoek” 
+(bijvoorbeeld: vanaf vaststellen vragenlijst tot en met publicatie, of een andere afbakening)?
+De termijn van “de uitvoering van het onderzoek” loopt vanaf het moment dat het veldwerk start, dat 
+wil zeggen vanaf het versturen van de vragenlijst tot en met de oplevering van de data voor publicatie.
+32 Onderwerp 1 – 
+Algemene eisen en 
+samenwerking (PvE 
+§1.2)  1.1 Aanwezigheid 
+bij evaluatie PM2025
+In §1.2 onder punt 3 (“Ter indicatie planning 2026”) wordt onder meer de evaluatie van PM2025 
+in juni 2026 genoemd.
+Wordt van de (nieuw te contracteren) Inschrijver verwacht dat deze reeds participeert in deze 
+evaluatie van PM2025, of betreft dit nog een evaluatie van de huidige opdrachtnemer?
+Nee, de nieuwe Opdrachtnemer hoeft hier niet in te partciperen.  Dit is nog de laatste, gebuikelijke 
+evaluatie met de huidige Opdrachtnemer.
+33 Niet-gepubliceerde 
+bijlagen
+Betrof een verzoek dat via de berichtenmodule ingediend had moeten worden. Bijlagen inmiddels via de berichtenmodule in TenderNed toegestuurd.
+34 Programma van Eisen “Nieuwe gebruikers van de Personeelsmonitor kunnen toestemming aanvragen via de front-
+end. Daarbij maken zij via een formulier (aanvraagpagina) kenbaar van welke gemeente zij de 
+Personeelsmonitor willen inzien door middel
+van een beknopt formulier.”
+Vraag:
+Hoe verwacht de opdrachtgever dat de informatie van de aanvraagpagina terecht komt in het 
+user back end systeem? Zijn er specificaties beschikbaar van een API die we hiervoor moeten 
+gebruiken?
+De informatie van de aanvraagpagina kan als JSON via een api POST naar het backend systeem 
+worden gestuurd. De API zal Oauth beveiligd zijn. 
+Verdere details zoals de structuur van de body en het endpoint zullen later worden gedeeld. 
+35 Aanbestedingsleidraad Mogen gemeenten zowel zelfstandig deelnemen als als onderdeel van een 
+samenwerkingsorganisatie, zodat er niet altijd meer sprake is van unieke deelname?
+Gemeenten kunnen alleen deelnemen als zelfstandige gemeente of als onderdeel van een 
+samenwerkingsorganisatie. De keuze ligt bij de desbetreffende gemeente. Er is altijd dus sprake van 
+een unieke deelname.
+36 Aanbestedingsleidraad Pag 8: Wat zijn kopvariabelen? Dit zijn achtergrondvariabelen bijvoorbeeld naar gemeentegrootteklasse, provincie of 
+arbeidsmarktregio, etc.
+37 Aanbestedingsleidraad Het excelbestand bevat aanvullend aan de publicatie van de Personeelsmonitor alle 
+antwoordcategorieën van alle vragen. "
+Vraag: bevat het excelbestand nog meer extra informatie ten opzichte van de publicatie?
+Hiermee wordt bedoeld dat in het Excel-bestand input op alle gestelde vragen en 
+antwoordcategorieën dient te worden opgenomen. In het Boekje van Personeelsmonitor worden niet 
+alle vragen 1 op 1  of alle antwoordcategorieën weergegeven (bijvoorbeeld alleen de top 3, top 5 of 
+top 10). Wij hebben willen graag inzicht in alle opgehaalde informatie.
+38 PvE, 1.8.13 op pag 11 Geldt de minimale beveiligingsnorm ISO 27001 voor elk van de afzonderlijke onderdelen van de 
+aanbesteding (vragenlijst, salarisverwerking, contactenbeheer en dashboard), zodat in geval 
+van een combinatie of onderaanneming op deze onderdelen deze eis voor elke partij geldt?
+Dit is correct. Ten tijde van de gehele uitvoering dient de ISO-norm te zijn geborgd, ongeacht de 
+uitvoerende partij binnen de combinatie of hoofd-onderaannemerstructuur.
+39 Aanbestedingsleidraad Pag 35-pag 37: Uit de beschrijving van K3 blijkt dat verbetersuggesties aan het dashboard 
+onderdeel dienen te zijn van de aangeboden prijs. Niet geheel duidelijk is hoe dit ligt voor 
+"inzichten van de inschrijver" bij K1 en K2. Kunt u dit bevestigen voor K3 en duidelijkheid 
+verschaffen omtrent K1 en K2?
+Hetgeen u aanbiedt onder de kwaliteitscriteria, dient onderdeel te zijn van uw inschrijfsom. Voor K3 
+is een specifiek onderdeel opgevoerd in het prijzenblad. Voor K1 en K2 dient u eventuele kosten te 
+verrekenen in het all-in tarief van de mijlpalen uit het prijzenblad.
+40 Aanbestedingsleidraad P7: Kan inschrijver ervan uitgaan dat de wijzigingen in de vragenlijst op jaarbasis beperkt blijven 
+tot enkele vragen?
+Er is een basisvragenlijst. Wijzigingen zijn beperkt en vinden plaats naar aanleiding van wensen van 
+de gemeenten of specifieke vragen vanuit de gemeentelijke sector of actualiteit. Hierbij hanteren we 
+de regel: 1 vraag erin, is 1 vraag eruit.  Daarnaast staat de vergelijkbaarheid met eerdere jaren altijd 
+voorop.
+41 PvE 1.7.2:  Hoe rijmt deze eis over het bijhouden van contactinformatie in excel met de gevraagde 
+SSO-functionaliteit en inloggen via Mijn A&O die wordt beschreven op pagina 10 en 11? Immers, 
+de SSO-functionaliteit suggereert dat "Mijn A&O" de primaire bron is voor account- en 
+contactinformatie?
+Ja, dat is correct. Het kan echter zijn dat de contactpersoon wisselt tijdens de onderzoeksperiode. 
+Dan is een handmatige check nodig. Wel dient de nieuwe contactpersoon ook een inlog te gaan 
+maken op mijn A&O. 
+42 Bijlage 5 Concept 
+Overeenkomst
+De aansprakelijkheid van Opdrachtnemer wordt niet beperkt. Ons inziens staat deze 
+onbeperkte aansprakelijkheid niet in verhouding tot de opdrachtwaarde en achten wij dit 
+onevenredig. Kunt u aangeven of het mogelijk is deze bepaling te wijzigen, zodat de 
+aansprakelijkheid van Opdrachtnemer wordt begrensd tot maximaal de overeengekomen 
+opdrachtwaarde?
+De aansprakelijkheid wordt, in lijn met de verzekeringsverplichting, gemaximeerd op EUR 1.000.000 
+per aanspraak voor zaak-, personen- en zuivere vermogensschade. In geval van grove schuld en/of 
+opzet komt de voorgenoemde limitering te vervallen en wordt de maximale aansprakelijkheid 
+vastgesteld aan de hand van het Burgerlijk Wetboek. 
+43 Bijlage 5 Concept 
+Overeenkomst
+Artikel 7 lid 4: Opdrachtnemer zal desgevraagd de data, de output, of delen daarvan, ter 
+beschikking stellen aan Opdrachtgever, in een nader overeen te komen format en wijze. Dit 
+omvat ook, maar is niet beperkt tot, een overdracht van de data en output bij beëindiging van de 
+Opdracht teneinde continuïteit van (de dashboarding van) de Personeelsmonitor te garanderen.
+Kunt u concretiseren wat in deze bepaling wordt verstaan onder “output” en aangeven welke 
+gegevens of resultaten daar precies onder vallen?
+Dit betreft alle achterliggende, historische data die nodig waren voor de totstandkoming van de 
+publicatie  en het dashboard.
+44 Bijlage 5 Concept 
+Overeenkomst
+Artikel 7 lid 3: De producten die Opdrachtnemer ontwikkelt voor/met en oplevert aan 
+Opdrachtgever, zijn en blijven het eigendom van Opdrachtgever. Enkel voor het dashboard geldt 
+een afwijkende regeling. 
+Kunt u deze bepaling aanpassen door toe te voegen dat het hierbij gaat om producten die 
+opdrachtnemer, als resultaat van de uitvoering van deze overeenkomst, ontwikkelt voor/met en 
+oplevert aan opdrachtgever?
+Dit is reeds inherent aan het feit dat de overeenkomst ziet op de scope van de aanbestede opdracht. 
+Maar indien specifiek gewenst kunnen wij dit aan het artikel toevoegen, in de definitieve versie van de 
+overeenkomst die aan de gegunde partij ter ondertekening wordt aangeboden.
+45 Bijlage 5 Concept 
+Overeenkomst
+Art. 6 lid 3 overeenkomst jo. Aanbestedingsleidraad (blz. 13): 
+A&O behoudt zich te allen tijde het recht voor om alsnog over te gaan tot het sluiten van een 
+verwerkersovereenkomst. Indien dit het geval is dient deze naar de Legaldesk te worden 
+gestuurd.
+Kunt u aangeven of bij de uitvoering van Diensten gebruik wordt gemaakt van een door de 
+opdrachtnemer van de opdrachtgever ontvangen geanonimiseerde dataset, of van een 
+gepseudonimiseerde dataset waarbij sprake is van indirect herleidbare persoonsgegevens?
+Bij de uitvoering van de Personeelsmonitor gaat het om een gepseudominiseerde datastet aangezien 
+een combinatie van variabelen (geboortejaar, indienstdatum, etc)mogelijk  kan leiden tot een 
+persoon.  Hier verwijzen we graag naar  uitgevoerde DPIA door de Informatiebeveiligingsdienst van 
+VNG. 
+https://www.aeno.nl/uploads/IBD_DPIA_AOfondsGemeenten_Personeelsmonitor_202404_definitief
+.pdf
+NB: ten aanzien van uw opmerking over de legaldesk geldt dat de betreffende overeenkomst, 
+overeenkomstig hetgeen hierover is opgenomen in de leidraad, in onderling overleg wordt 
+vastgesteld.
+46 Bijlage 5 Concept 
+Overeenkomst
+Art. 5a lid 5: 
+Na oplevering van het dashboard staat het Opdrachtnemer wel vrij om de jaarlijks aangeboden 
+licentiekosten, conform Inschrijving, in rekening te brengen (zie art. 4 lid 2).
+Artikel 4 lid 2 van de overeenkomst beschrijft de mogelijkheid tot ontbinding in geval van een 
+overmachtssituatie. Kunt u bevestigen dat dit een onjuiste verwijzing betreft en aangeven naar 
+welk artikel wél bedoeld is te verwijzen?
+Dit betreft inderdaad een foutieve verwijzing. Bedoeld wordt artikel 5 lid 2 onder d. In de definitieve 
+versie van de overeenkomst zullen wij dit corrigeren.
+47 Bijlage 5 Concept 
+Overeenkomst
+Artikel 3 lid 5:
+In geval van een voortijdige beëindiging, als bedoeld in lid 3 van dit artikel, is Opdrachtnemer 
+gehouden 50% van de ontvangen ontwikkelkosten ten behoeve van de realisatie van het 
+dashboard terug te betalen aan Opdrachtgever, uiterlijk binnen 3 maanden na beëindiging van 
+de overeenkomst.
+Wij begrijpen dat op grond van artikel 5a lid 1 mogelijk een vergoeding voor ontwikkelingskosten 
+van het dashboard kan worden verstrekt, waarbij het dashboard conform artikel 5a lid 3 uiterlijk 
+op 1 november 2026 volledig operationeel dient te zijn. Artikel 3.3 bepaalt dat de overeenkomst 
+tussentijds kan worden opgezegd met peildatum 1 mei 2027, terwijl artikel 3 lid 5 voorschrijft 
+dat in dat geval 50% van de ontvangen ontwikkelingskosten aan de Opdrachtgever moet worden 
+terugbetaald. De formulering van artikel 3 lid 5 lijkt ook te gelden voor tussentijdse beëindiging 
+om andere redenen dan non-conformiteit van het dashboard, waardoor zelfs bij tijdige en 
+volledige oplevering van het dashboard alsnog gedeeltelijke teruggave van de 
+ontwikkelingskosten zou moeten plaatsvinden. Wij achten dit onredelijk en mogelijk niet 
+conform de bedoeling van de overeenkomst. Kunt u bevestigen of deze interpretatie juist is? 
+Indien dit wel de bedoeling is, verzoeken wij u art 3 lid 5 buiten toepassing te verklaren.
+Uw interpretatie is niet juist. De overeenkomst kent een escape in het  eerste jaar, voor de situatie 
+waarin - ondanks geboden mogelijk tot verbetering c.q. herstel, al dan niet als resultaat van de 
+periodieke evaluaties - er niet conform PVE en gedaan aanbod wordt gepresteerd. Dit kan betrekking 
+hebben op het dashboard, dan wel op andere componenten van de opdrachtuitvoering. In dat geval 
+kan de overeenkomst voortijdig worden ontbonden. Wij hebben dan ook geen profijt meer van een 
+eventueel ontwikkeld dashboard, waarvoor wij wel een volledige ontwikkelkostenvergoeding hebben 
+betaald. Als compensatie wordt op dat moment dan ook 50% van het ontwikkelbudget terug 
+gevorderd. Voor andere vormen van tussentijdse beëindiging is een maatwerkregeling van toepassing 
+in artikel 4.
+48 Algemene voorwaarden 
+7.4
+7.4 Partijen hebben het recht om in geval van overtreding van de voorgaande leden door de 
+andere Partij en/of de voor die Partij werkzame personen en/of door die Partij ingeschakelde 
+derden de Overeenkomst per direct op te schorten dan wel zonder rechterlijke tussenkomst en 
+zonder ingebrekestelling te ontbinden. Elke opschorting dan wel ontbinding geschiedt door 
+middel van een aangetekend schrijven.
+Kunt u akkoord gaan met het toevoegen van de volgende zinssnede? “Partijen hebben het recht 
+om in geval van overtreding van de voorgaande leden, door de andere Partij en/of de voor die 
+Partij werkzame personen en/of door die Partij ingeschakelde derden, nadat deze overtreding 
+door partijen tijdens een overleg is vastgesteld, de Overeenkomst op te schorten (…).
+Nee, wij wijken niet af van een standaardbepaling uit de algemene voorwaarden. De redenen voor 
+opschorting c.q. ontbinding kunnen variëren. Al naar gelang de ernst van de situatie zal dit initieel 
+mondeling dan wel enkel schriftelijk worden afgedaan.
+49 Algemene voorwaarden 
+4.5
+4.5 De Contractant vrijwaart het A&O fonds Gemeenten voor strafrechtelijke boetes en 
+bestuurlijke sancties die verband houden met de Overeenkomst en die de Contractant of het 
+A&O fonds Gemeenten krijgt opgelegd.
+Vraag: kunt u bevestigen dat de in artikel 4.5 genoemde vrijwaring uitsluitend ziet op 
+strafrechtelijke boetes en bestuurlijke sancties (als bedoeld in artikel 5:2, eerste lid aanhef en 
+onder a van de Algemene wet bestuurdersrecht, het eventuele kostenverhaal daaronder 
+begrepen) die aan de gemeente of contractant worden opgelegd en die verband houden met de 
+Overeenkomst en zijn toe te rekenen aan de Contractant?
+Dit is correct.
+50 Dashboard  •Hoe weet de frontend van de Personeelsmonitor Gemeenten dat er een SSO-gebruiker 
+binnenkomt op de website / het dashboard?
+ •Als een gebruiker zich uitlogt, waar komt de gebruiker dan terecht? In de website op de pagina 
+Inloggen? Of moet er een pagina Uitgelogd komen? Is het bij een SSO-login anders als een 
+gebruiker zich uitlogt? Of kan daar niet uitgelogd worden?
+Via de Auth0 login flow kan gecheckt worden of een websitebezoeker via de SSO is ingelogd. Als dit 
+niet het geval is, kan er worden geredirect naar de algemene SSO login pagina, om de gebruiker 
+alsnog te laten inloggen.
+Een gebruiker kan worden uitgelogd, echter wordt deze gebruiker dan uit alle A&O web applicaties 
+uitgelogd die op de SSO zijn aangesloten.
+51 Dashboard  •Hoe ziet het toestemmingsformulier eruit en waar wordt dat naartoe gestuurd?
+ •Slaat het dashboard enige persoonsgegevens op van een toegestane gebruiker of luistert deze 
+altijd naar de data die terugkomt van de ingelogde gebruiker via aeno.nl / Auth0 en overschrijft 
+het dashboard eigen bestaande gegevens met gegevens die terugkomen uit aeno.nl / Auth0? 
+Oftewel, welke data is leidend?
+ •Hoe kan de frontend van de Personeelsmonitor Gemeenten weten wie klikt op de knop 
+Inloggen?
+Het enige gegeven dat uit Auth0 komt, is of een gebruiker is ingelogd en het emailadres, waarmee 
+bepaald kan worden wie de ingelogde gebruiker is. 
+Het enige gegeven dat uit de backend applicatie komt is tot welke gemeente de gebruiker toegang 
+mag hebben. 
+Het opslaan van de overige gebruikersgegevens zal in de applicatie zelf worden geregeld.
+Het toestemmingsformulier zal het emailadres bevatten en de naam of id van de gemeente waar de 
+gebruiker toegang tot wil aanvragen. Dit mailadres van de gebruiker is al bekend na het inloggen met 
+de SSO van Auth0, en zal dus niet door de gebruiker zelf in het formulier ingevuld te hoeven worden, 
+maar moet wel meegestuurd worden naar de backend. 
+52 Dashboard  •In het nieuwe dashboard moet bestaande gegevens van een gebruiker vanuit aeno.nl / Auth0 
+aangevuld worden met eigen filters en soortgelijke data. Waar moet dat opgeslagen worden? In 
+het profiel van de gebruiker op aeno.nl / Auth0 of elders?
+Het enige gegeven dat uit Auth0 komt, is of een gebruiker is ingelogd en het emailadres, waarmee 
+bepaald kan worden wie de ingelogde gebruiker is.
+Het enige gegeven dat uit de backend applicatie komt is tot welke gemeente de gebruiker toegang 
+mag hebben. 
+Het opslaan van de overige gebruikersgegevens zal in de applicatie zelf worden geregeld.
+53 Koppeling  •Het huidige dashboard van Personeelsmonitor Gemeenten bevat geen koppeling met de Auth0 
+model en API van aeno.nl. In de nieuwe versie moet dit wel gerealiseerd worden. Welke 
+gegevens van de gebruiker uit aeno.nl / Auth0 moet de opdrachtnemer overnemen aan zijn/haar 
+kant om de minimaal gewenste persoonsgegevens voor het besloten gedeelte van het nieuwe 
+dashboard te kunnen tonen?
+ Het enige gegeven dat uit Auth0 komt, is of een gebruiker is ingelogd en het emailadres, waarmee 
+bepaald kan worden wie de ingelogde gebruiker is. 
+Het enige gegeven dat uit de backend applicatie komt is tot welke gemeente de gebruiker toegang 
+mag hebben. 
+Het opslaan van de overige gebruikersgegevens zal in de applicatie zelf worden geregeld.
+54 Vragenlijst  •Verandert de vragenlijst per rapportageperiode en zo ja, welke eisen zijn er vanuit 
+opdrachtgever om trendbreuken tegen te gaan?
+ oAls er iets verandert aan de vragenlijst, heeft dat dan ook invloed op actuele data in het 
+dashboard en eventueel historische data?
+ oHoe wordt omgegaan met data die niet voor alle rapportageperiodes beschikbaar zijn? 
+Worden deze uitgesloten van het dashboard?
+ oHoe werken graﬁeken in het dashboard als er tussen rapportageperiodes onvoldoende of niet-
+aanwezige data is voor een thema? Wordt de (trend)grafiek en bijbehorende data dan enkel 
+getoond vanaf het moment dat er bijvoorbeeld minimaal 3 jaar aansluitende data is?
+Er is een basisvragenlijst. Wijzigingen zijn beperkt en vinden plaats naar aanleiding van wensen van 
+de gemeenten of specifieke vragen vanuit de gemeentelijke sector of actualiteit. Hierbij hanteren we 
+de regel: 1 vraag erin, is 1 vraag eruit. Daarnaast staat de vergelijkbaarheid met eerdere jaren altijd 
+voorop.
+Deze wijzigingen hebben in principe geen invloed op de basisstructuur van het dashboard. 
+Aanpassingen aan het dashboard zelf worden zoveel mogelijk beperkt, zodat continuïteit en 
+vergelijkbaarheid van data behouden blijven.
+Wanneer data voor bepaalde rapportageperiodes niet beschikbaar is, wordt deze data niet getoond 
+in het dashboard. Er vindt geen imputatie of uitsluiting van andere beschikbare data plaats; alleen de 
+ontbrekende waarden blijven leeg.  Zie verder het openbare dashboard op 
+https://personeelsmonitorgemeenten.incijfers.nl/
+Grafieken in het dashboard tonen alle beschikbare data. Het is niet vereist dat er minimaal drie jaar 
+aaneengesloten data beschikbaar is om een grafiek of trend weer te geven. Ook bij kortere 
+tijdreeksen of onvolledige data wordt de beschikbare informatie getoond, zodat gebruikers zo 
+volledig mogelijk inzicht krijgen in alle beschikbare actuele en historische situatie.
+55 Rapportage  •Is het de bedoeling dat de opdrachtnemer alle meegestuurde rapportages maakt, of doet het A 
+en O Fonds Gemeenten dit zelf o.b.v. de beschikbare data per rapportageperiode?
+Ja, de opdrachtnemer draagt de volledige verantwoordelijkheid voor het opstellen van de Word-
+rapportage en het dashboard. A&O is uitsluitend belast met het opstellen van de management 
+samenvatting en de grafische en tekstuele opmaak van het boekje
+56 Tools  oIs de tool Swing Mosaic over te nemen voor een nieuwe opdrachtnemer, of is dit een custom 
+tool gemaakt en in eigendom van de bestaande opdrachtnemer?
+ oIs het de wens dat beheerders zelf dashboards maken voor de Personeelsmonitor 
+Gemeenten of is het de taak van de nieuwe opdrachtnemer om dit te realiseren tijdens de 
+contractperiode?
+ Als er wijzigingen gewenst zijn voor de visuele presentaties, is dat een meerwerkopdracht 
+tijdens een rapportageperiode?
+ oZijn er eisen voor hoe de databestanden eruit moeten zien die te downloaden zijn binnen het 
+bestaande systeem? Wie bepaalt deze en zijn deze vastgesteld per rapportageperiode? Indien 
+deze (moeten) wijzigen tijdens een rapportageperiode, zijn hier meerwerk kosten voor mogelijk?
+ oIs het factsheet per gemeente een PDF? Ligt de structuur en de opmaak hiervan vast per 
+rapportageperiode? Indien deze wijzigt voor een rapportageperiode, is hier meerwerk voor 
+beschikbaar?
+ oLigt dezelfde dataset ten grondslag aan de openbare gedeelte van de website / dashboard / 
+systeem en het besloten gedeelte?
+De tool Swing Mosaic is een op maat gemaakte applicatie die eigendom is van de huidige 
+opdrachtnemer. Het is onbekend of een overdracht door een nieuwe opdrachtnemer mogelijk is; de 
+nieuwe opdrachtnemer zal zelfstandig zorgdragen voor het realiseren van de gewenste dashboards 
+en functionaliteiten binnen de Personeelsmonitor Gemeenten.
+Het is de taak van de nieuwe opdrachtnemer om tijdens de contractperiode dashboards voor de 
+Personeelsmonitor Gemeenten te realiseren en te onderhouden. Substantiële wijzigingen in visuele 
+presentaties van dashboards kunnen na overleg en opdracht (herziening) als meerwerk worden 
+opgepakt, indien dit wenselijk is tijdens de lopende contractperiode.
+Er bestaan standaardeisen voor de structuur van de databestanden die binnen het systeem kunnen 
+worden gedownload en moet minimaal voldoen aan de huidige download (zie extra bijlage 15). Deze 
+eisen worden vastgesteld door A&O en kunnen per rapportageperiode worden geactualiseerd. Indien 
+databestanden tijdens contractperiode grof worden gewijzigd op verzoek van de opdrachtgever, kan 
+dit als meerwerk worden gefactureerd.
+De factsheet per gemeente wordt opgeleverd als PDF en moet minimaal voldoen aan de huidige 
+factsheet (zie bijlage 13). De structuur en opmaak van de factsheets liggen vast per contactperiode. 
+Indien deze opmaak of structuur grof wijzigt op verzoek van de opdrachtgever, kan dit als meerwerk 
+worden uitgevoerd.
+De datasets die ten grondslag liggen aan het openbare gedeelte van het dashboard en het besloten 
+gedeelte zijn identiek, zodat consistentie en vergelijking tussen beide gedeelten wordt gewaarborgd.
+57 Systeembouw  •Is er een volledige beschrijving van de functionele en technische werking van het bestaande 
+dashboard (hierna het systeem te noemen)?
+ oWelke thema’s worden belicht?
+ oZijn de thema’s voor elke periode van rapporteren gelijk?
+ oIndien er wijzigingen moeten plaatsvinden tussen periodes in, is er dan ruimte in een 
+toekomstig budget om gevraagde aanpassingen te doen?
+ oWelke soort data wordt gepresenteerd op welke wijze?
+ oIs er een interactiemogelijkheid met de data door de eindgebruiker?
+ oIs het een besloten systeem?
+ oWie heeft welke toegang tot het systeem?
+ oHoe wordt toegang op dit moment geregeld tot het systeem? Wie beheert dit en wie bepaalt 
+wie wat mag in het systeem? Is er een zelfregistratiesysteem van gebruikers a la 
+Personeelsmonitor Provincies?
+ oWat wordt er momenteel opgeslagen in proﬁelen van gebruikers? En staan gebruikers vrij om 
+zichzelf te verwijderen uit het systeem? Of kan alleen een beheerder deze actie uitvoeren?
+ oHoe krijgt Opdrachtnemer 1 toegang tot de database van het systeem met de huidige 
+gebruikers? Mogen deze gebruikers / data van deze gebruikers zomaar overgenomen worden in 
+de database van de nieuwe opdrachtnemer? Of moeten alle gebruikers zich opnieuw 
+aanmelden voor een nieuw systeem / dashboard?
+ oOp welke wijze wordt bestaande, historische data beschikbaar gesteld van het huidige 
+dashboard? Of kan een opdrachtnemer die opnieuw een systeem bouwt uitgaan van het eerste 
+rapportagejaar dat binnen de nieuwe contractperiode valt? Betekenend dat historische data 
+alleen bijvoorbeeld als een PDF beschikbaar is?
+ oAls alle historische data beschikbaar gesteld wordt, in welk formaat wordt dat beschikbaar 
+gesteld door het A en O Fonds Gemeenten? Of dient de huidige opdrachtnemer dat over te 
+dragen / beschikbaar te stellen?
+ oMoet het nieuw te bouwen dashboard / systeem precies hetzelfde tonen en werken als het 
+bestaande systeem, of is er ruimte voor interpretatie en toevoegen / wegvallen van 
+Dit zijn veel vragen in één vraag. Dit bemoeilijkt de beantwoording voor ons. Wij verzoeken u, bij 
+eventuele vervolgvragen ten behoeve van de Nota van Inlichtingen 2, vragen individueel in te voeren 
+in TenderNed.
+De technische werking is op basis van de huidige leverancier. Functioneel hebben we dit in PvE 
+beschreven. De toegang willen we anders dan op dit moment inregelen en is in PvE benoemd. 
+58 Overdracht  •Wat is onderdeel van de overdracht tussen de vorige opdrachtnemer en een nieuwe 
+opdrachtnemer? (vragenlijst, databestanden, scripts, communicatieberichtgeving)
+Vragenlijsten en historische datasets
+Alle vragenlijsten en relevante historische datasets zijn beschikbaar en worden overgedragen aan de 
+nieuwe uitvoerder.
+Analyse
+De toegepaste analyses zijn terug te vinden in het Gegevenswoordenboek 
+https://www.aeno.nl/uploads/Gegevenswoordenboek-Personeelsmonitor-2025.pdf
+Syntaxen en scripts
+De bestaande syntaxen en scripts zijn afhankelijk van de statische software van de huidige uitvoerder 
+en zijn derhalve niet beschikbaar voor de nieuwe uitvoerder.
+Dashboard
+De structuur en opbouw van het dashboard zijn inzichtelijk via het openbare dashboard 
+https://personeelsmonitorgemeenten.incijfers.nl/en het individuele dashboard, zoals weergegeven 
+in de bijgevoegde screenshots.       
+59 Contractperiode  •In de aanbestedingsleidraad wordt aangegeven dat het dashboard bij aanvang van de 
+uitvoering operationeel dient te zijn. Dit wekt de indruk dat de ontwikkeling van het dashboard 
+vóór de startdatum van 1 juli afgerond moet zijn. De vraag is daarom of het niet logischer is dat 
+de opdracht eerder ingaat, bijvoorbeeld per 1 mei, zodat deze werkzaamheden binnen de 
+contractperiode kunnen worden uitgevoerd Mocht de vervroeging van de ingangsdatum geen 
+optie zijn dan dient rekening te worden gehouden dat het contract de huidige opdrachtnemer 
+per 1 juli afloopt en dat de nieuwe opdrachtnemer op dat moment pas start met de 
+werkzaamheden. Het ligt voor de hand dat het dashboard dan pas wordt gebouwd, conform de 
+huisstijl van A&O en inclusief historische data. In dat licht rijst de vraag of het mogelijk is dat het 
+bestaande dashboard gedurende deze overgangsperiode beschikbaar blijft, zodat de 
+gemeenten te allen tijde toegang houden tot de benodigde gegevens.
+De startdatum van het contract blijft ongewijzigd op 1 juli 2026.  Gedurende de tussentijd zal A&O er 
+zorg voor dragen dat de huidige opdrachtnemer het bestaande dashboard zoveel mogelijk 
+beschikbaar houdt, zodat gemeenten te allen tijde toegang hebben tot de benodigde gegevens. Het 
+nieuwe dashboard moet uiterlijk 1 november 2026 volledig operationeel zijn, inclusief de huisstijl van 
+A&O en de historische data (zie concept overeenkomst).
+60 Prijs  •Als een leverancier in de oƯerte bepaalde eventuele versnellingskansen, eventuele 
+verbeterkansen of mogelijke uitbreidingen in de offerte opneemt, is leverancier dan ook 
+verplicht deze binnen het op het prijzenformulier opgenomen budget door te voeren?
+Ja, dat is verplicht. U wordt binnen de gunningscriteria bovendien ook gevraagd naar optimalisaties. 
+Ook daarvoor geldt (zie prijzenblad): al hetgeen onder de kwaliteitscriteria wordt aangeboden, dient 
+te zijn vervat in de prijs. Let op: een zogenaamde variant is niet toegestaan.
+61  •PvE 1.8/10 Op verzoek van het A&O fonds Gemeenten en/of LOGA (Landelijk Overleg Gemeentelijke 
+Arbeidsvoorwaarden) voert Inschrijver extra analyses uit van de verzamelde gegevens. Deze 
+analyses moeten vaak worden gebruikt bij Cao-onderhandelingen en hebben dus groot belang 
+en urgentie.” Vallen dergelijke analyses binnen het gestelde budget of is daar eventueel 
+meerbudget voor beschikbaar?
+Wanneer het gaat om enkele aanvullende, beschrijvende analyses op de reeds verzamelde data, valt 
+dit binnen de scope van de opdracht. Indien echter een volledig nieuwe onderzoeksopdracht wordt 
+uitgevoerd, wordt dit als meerwerk beschouwd en kunnen hier separate kosten voor in rekening 
+worden gebracht.
+62 Algemeen  •“Tijdens de veldwerkperiode (december t/m maart) kunnen Gemeenten vragen stellen over:
+ otechnische problemen met de digitale vragenlijst;
+ ohet invullen van de vragenlijst zelf;
+ oof over resultaten uit eerdere edities van de Personeelsmonitor.
+Deze vragen kunnen rechtstreeks aan Inschrijver of via A&O fonds Gemeenten
+worden gesteld. Inschrijver zorgt voor een tijdige (binnen 2 werkdagen) en
+correcte beantwoording.”(PvE 1.7/5). Stuurt A&O Gemeenten de vragen meteen door of geldt 
+de limiet van 2 werkdagen vanaf het moment dat A&O de vragen doorzendt aan leverancier?
+Alle vragen die via A&O fonds Gemeenten binnenkomen en die wij zelf niet kunnen beantwoorden, 
+worden direct doorgezonden naar de Opdrachtnemer. De termijn van twee werkdagen gaat in vanaf 
+het moment dat de vraag bij de opdrachtnemer binnenkomt.
+63 Vragenlijst  •“De geprogrammeerde vragenlijst wordt vormgegeven in de huisstijl van A&O fonds 
+Gemeenten. Na gunning wordt het huisstijlhandboek gedeeld.” (PvE 1.3/12) alsook  “Inschrijver 
+zorgt dat het dashboard wordt vormgegeven in de huisstijl van A&O fonds Gemeenten. Na 
+gunning wordt het huisstijlhandboek gedeeld. (PvE Dashboard/6) en “Hierbij geldt dat bij 
+aanvang van de uitvoering de dienstverlening volledig dient te zijn ingericht conform het 
+Programma van Eisen (knock-out uitvoeringsvoorwaarden) alsmede het prijskwaliteitsaanbod 
+onder de gunningscriteria.” en “Het dashboard dient pas bij start uitvoering operationeel te zijn” 
+(Aanbestedingsleidraad. P 26)  lijken enigszins met elkaar in tegenspraak. Hoe kan een 
+leverancier de dienstverlening inrichten op iets dat pas na de gunning wordt gedeeld? Zou u dit 
+willen verduidelijken?
+Het huisstijlhandboek van A&O fonds Gemeenten is openbaar beschikbaar op de website 
+(https://www.aeno.nl/huisstij)l, zodat Inschrijvers zich vooraf kunnen oriënteren. Daarnaast is het 
+huidige, openbare dashboard in te zien (https://personeelsmonitorgemeenten.incijfers.nl/). Hiermee 
+kunnen Inschrijvers de dienstverlening en het dashboard voorafgaand aan de gunning oriënteren, ook 
+voordat het handboek na gunning formeel wordt gedeeld.
+64  •Aanbestedingsleidraad 
+p36
+Wij wensen concrete voorbeelden van nieuwe inzichten en handelingsperspectieven die 
+geboden kunnen worden aan beide groepen, op basis van de voorhanden zijnde data. Wat kan 
+op basis van de data nog meer worden geboden, in relatie tot de doelstellingen van de 
+Personeelsmonitor?” Is het de bedoeling dat leverancier ook gaat bijdragen aan de realisatie 
+van deze nieuwe inzichten en handelingsperspectieven (wel/niet binnen het budget van de 
+monitor)?
+Alle beschikbare informatie en inzichten zijn terug te vinden op de website en het openbare 
+dashboard van de Personeelsmonitor (https://personeelsmonitorgemeenten.incijfers.nl/) 
+Inschrijvers kunnen naar eigen inzicht invullen welke nieuwe inzichten en handelingsperspectieven 
+zij op basis van de beschikbare data zouden kunnen bieden. Dit valt binnen het vaste budget van de 
+monitor.
+65  •PvE 1.6 Als er uiteindelijk twijfel over de validiteit van bepaalde data bestaat, waartoe is de leverancier 
+dan verplicht? Deze data imputeren in het databestand en/of dit melden in de rapportage?
+Bij twijfel over de validiteit van data moet Opdrachtnemer dit signaleren en terugkoppelen richting 
+desbetreffende gemeente. Indien twijfels over bepaalde data blijven bestaan worden deze niet in de 
+geaggregeerde analyse meegenomen.
+66  •PvE 1.6 Is de leverancier verplicht om fouten in data (onwaarschijnlijke antwoorden op de enquête, 
+fouten van de salarisverwerker, discrepanties tussen de enquête en de salarisadministratie, 
+etc.) te herstellen? Waartoe is de leverancier verplicht als gemeenten en/of de salarisverwerker 
+hieraan niet willen of kunnen meewerken?
+De leverancier is niet verplicht om fouten in de data te herstellen, maar moet deze wel signaleren en 
+terugkoppelen aan desbetreffende gemeenten en salarisverwerkers en A&O fonds Gemeenten.
+67  •PvE 1.6 Moeten de data van gemeenten die niet deelnemen aan de enquête of die geen toestemming 
+geven voor het verwerken van gegevens worden geïmputeerd? Wat zijn daarvoor toegestane 
+methoden
+Nee, data van gemeenten die niet deelnemen of geen toestemming geven voor verwerking worden 
+niet geïmputeerd.  Zie voor verdere details: Gegevenswoordenboek 
+https://www.aeno.nl/uploads/Gegevenswoordenboek-Personeelsmonitor-2025.pdf
+68  •PvE 1.5 Inschrijver belt 100.000+ gemeenten na als zij de vragenlijst nog niet hebben ingevuld.”. Is het 
+de bedoeling dat tijdens dit telefoongesprek alsnog de gevraagde gegeven worden verzameld of 
+betreft het telefoongesprek alleen het alerteren van de betreffende gemeenten? En volstaat het 
+om deze gemeenten eenmalig na te bellen als herinnering?
+Het telefoongesprek heeft primair het doel om gemeenten te alerteren dat de vragenlijst nog niet is 
+ingevuld. Indien meerdere telefoontjes nodig zijn om het invullen daadwerkelijk te realiseren, valt dit 
+onder de verantwoordelijkheid van de opdrachtnemer.
+69 PvE is het volgende 
+opgenomen (PvE 1.7/6):
+ •In het PvE is het volgende opgenomen (PvE 1.7/6): “Inhoudelijke vragen worden altijd eerst 
+afgestemd met A&O fonds Gemeenten, voordat Inschrijver een antwoord verstrekt aan de 
+vragende partij.” Betekent dit dat er met geen enkele gemeente telefonisch contact over 
+inhoudelijke vragen mogelijk is?
+Telefonisch contact met gemeenten over inhoudelijke vragen is toegestaan wanneer het antwoord 
+logisch volgt uit de verzamelde data of het onderzoeksproces. Voor duidingsvragen over inhoud, 
+zoals persvragen, geldt dat deze altijd eerst met A&O fonds Gemeenten worden afgestemd.
+70  •PvE 1.5: Kan de leverancier tijdens de uitvoering van de monitor alleen per mail contact onderhouden 
+met de gemeenten met minder dan 100.000 inwoners (anders dan contact over onbestelbare 
+emails)? Of kan dat ook telefonisch of persoonlijk (Zie ook P35 van het 
+Aanbestedingsdocument, waarin wordt gesteld dat het gebruiksgemak moet worden 
+geoptimaliseerd?
+Het communicatiemiddel wordt afgestemd op het moment en de wens van de gemeente. 
+Gemeenten kunnen tijdens de uitvoering van de monitor ook telefonisch of persoonlijk contact 
+opnemen. Er is geen beperking tot alleen e-mailcommunicatie.
+71 Wachtkamer  •Houdt de wachtkamerovereenkomst mogelijk in dat een inschrijvende partij halverwege een 
+onderzoeksperiode het onderzoek moet over pakken om af te ronden?
+In het eerste jaar is het mogelijk dat de overeenkomst, conform de daarvoor geldende regeling, wordt 
+ontbonden. In dat geval wordt de wachtkamerovereenkomst ingeroepen. Wij zullen op dat moment 
+met de contractant van de wachtkamer bezien waar wij staan, ten opzichte van de mijlpalen uit het 
+PvE, en bezien hoe verder te gaan.
+72 Wachtkamer  •Vervalt de wachtkamerovereenkomst bij een verlening van het onderzoekstraject c.q. een jaar 
+na ingang van het onderzoek/de meting?
+De einddatum van de wachtkamerovereenkomst staat genoemd in de betreffende overeenkomst, en 
+is gesteld op 1 juli 2027.
+73 Wachtkamer  •Is het voor een inschrijver mogelijk om de wachtkamerovereenkomst te weigeren of betekent 
+inschrijving automatisch dat A&O fonds Gemeenten dit eenzijdig in gang kan zetten?
+Nee, door het doen van een inschrijving committeert u zich aan de wachtkamer.
+74 Algemeen  •Dienen er ook CV’s of een teambeschrijving aangeleverd te worden? Nee.
+75 Prijs  •Klopt het dat de inschrijfsom voor de looptijd van 1 jaar wordt ingediend? En wordt deze 
+inschrijfsom (inclusief indexering) opnieuw gehanteerd als er sprake is van een verlening met 
+bijvoorbeeld 1 jaar? Of dienen de kosten dan opnieuw te worden berekend en ingediend bij A&O 
+fonds Gemeenten?
+Wij verwijzen naar de antwoorden op vraag 6 en vraag 16 (1e subvraag).
+76  •Aanbestedingsleidraad
+: Herzieningsclausule 1
+doorontwikkeling dashboard. In hoeverre dienen we in de offerte doorontwikkelingsvoorstellen 
+te formuleren? Is het voldoende om hier een bedrag voor te reserveren, of moeten er voorstellen 
+worden gedaan. En is het voldoende om dergelijke voorstellen te benoemen en slechts als 
+prijsindicatie mee te nemen of moeten deze verder worden uitgewerkt?
+Het betreft een herzieningsclausule die gedurende de looptijd van de overeenkomst, al naar gelang 
+onze behoefte, kan worden ingeroepen. De doorontwikkeling moet dan binnen de randvoorwaarden 
+van de clausule passen. U wordt op dat moment verzocht om een voorstel uit te brengen. Ten tijde 
+van de inschrijving is dit dus niet aan de orde. U dient hier geen rekening mee te houden in het 
+prijzenblad.
+77  •Aanbestedingsleidraad
+:  Herzieningsclausule 1
+doorontwikkeling dashboard. In hoeverre worden de functionaliteiten en doorontwikkelingen 
+door A&O fonds Gemeenten aangedragen en is dit vooraf of gedurende het onderzoekstraject?
+De doorontwikkeling kan door één van beide partijen worden aangedragen, maar het is aan ons om 
+deze eventueel als verbetervoorstel af te roepen onder de herzieningsclausule. Dit kan op ieder 
+moment gedurende de looptijd van de overeenkomst, inclusief verlengingen.
+78  •Aanbestedingsleidraad
+: Herzieningsclausule 1
+doorontwikkeling dashboard beschrijft dat dit onderdeel is van de vaste inschrijfvorm en dat 
+hiermee dient rekening te worden gehouden in de prijsvorming. Ook wordt er beschreven dat het 
+bedrag niet meer dan €80.000,- exclusief btw mag bedragen en dat er geen afname garantie is 
+ten aanzien van dit onderdeel. Het door jullie begrootte maximale totale aanbiedingsbedrag is 
+hierbij bijna gelijk aan de ondergrens van de totale inschrijfsom. Hierdoor blijft er binnen de 
+inschrijfsom nauwelijks ruimte over om het reguliere deel van het onderzoek uit te voeren 
+(salarisbestanden en enquête verwerken) zonder voor de bovengrens te gaan van de totale 
+inschrijfsom (in de situatie dat er slechts voor een jaar een overeenkomst is zonder 
+verleningen). Hoe kijken jullie hier tegenaan?
+Als aangegeven: dit valt buiten de inschrijfsommen uit het prijzenblad. Er is rekening gehouden met 
+de bedragen in relatie tot raming van de opdracht, budgetbepaling en dergelijke. Er is als het ware 
+een maximale pot, ter waarde van het genoemde bedrag in de clausule, beschikbaar gedurende de 
+looptijd van het contract voor doorontwikkelingen die in de scope van de clausule passen. Dit staat 
+los van de inschrijfsom, en wordt dus als het ware daarbovenop - indien gewenst en passend 
+geoffreerd - betaald.
+79  •Aanbestedingsleidraad
+: Kwaliteitscriterium K2
+Handelingsperspectief vergroten: Wat verstaan jullie onder een handelingsperspectief? Zijn er 
+bepaalde inzichten waar jullie naar op zoek zijn?
+Onder een handelingsperspectief verstaan wij het bieden van inzicht waarmee gemeenten 
+strategische keuzes kunnen maken op basis van de beschikbare data ten behoeve van 
+personeelsbeleid en organisatieontwikkeling.
+80 Algemeen  •In hoeverre krijgen wij toegang tot historische data? Relevante historische datasets zijn beschikbaar en worden overgedragen aan de nieuwe uitvoerder.
+81 Algemeen  •Wat is onderdeel van de overdracht tussen de vorige opdrachtnemer en een nieuwe 
+opdrachtnemer? (vragenlijst, databestanden, scripts, communicatieberichtgeving)
+Alle vragenlijsten en relevante historische datasets zijn beschikbaar en worden overgedragen aan de 
+nieuwe uitvoerder. De bestaande syntaxen en scripts zijn afhankelijk van de statische software van 
+de huidige uitvoerder en zijn derhalve niet beschikbaar voor de nieuwe uitvoerder. De toegepaste 
+analyses zijn terug te vinden in het Gegevenswoordenboek 
+https://www.aeno.nl/uploads/Gegevenswoordenboek-Personeelsmonitor-2025.pdf  Alle 
+communicatieberichtgeving is beschikbaar en overdraagbaar.
+82  •PvE 1.6 De door Inschrijver verwerkte salarisgegevens van gemeenten worden ter controle voorgelegd 
+aan de betreffende gemeenten, zodat zij kunnen verifiëren of de gegevens overeenkomen met 
+de eigen administratie en kunnen aanpassen.” In welk format wordt dit voorgelegd aan de 
+gemeenten? Is dit Word, Excel of via het dashboard? Dienen alle deelnemende gemeenten 
+separaat een dergelijk overzicht van alle cijfers ter controle te ontvangen?
+De salarisgegevens worden op dit moment via een online formulier in het dashboard aan de 
+gemeenten voorgelegd. Gemeenten kunnen daar hun eigen gegevens inzien, controleren en waar 
+nodig aanpassen.  Het inbouwen van dit controlemoment is essentieel voor de datakwaliteit.
+83  •PvE 1.6 In hoeverre krijgen wij bij aanvang van het project toegang tot eerdere ontworpen 
+scripts/automatiseringsregels voor het valideren, controleren en opschonen van de 
+salarisbestanden en vragenlijstdata?
+De bestaande syntaxen en scripts zijn afhankelijk van de statische software van de huidige uitvoerder 
+en zijn derhalve niet beschikbaar voor de nieuwe uitvoerder. Voor regels over valideren, controleren 
+en opschonen van salarisbestanden en vragenlijstdata verwijzen naar het Gegevenswoordenboek 
+https://www.aeno.nl/uploads/Gegevenswoordenboek-Personeelsmonitor-2025.pdf
+84  •PvE 1.4 Inschrijver ontvangt voor de eerste meting de eerder gehanteerde aanvraagspecificatie van A&O 
+fonds Gemeenten. Bij de volgende metingen is Inschrijver verantwoordelijk voor de juiste 
+inhoud van aanvraagspecificatie.” Betekent de ‘aanvraagspecificatie’ dat er een vast template 
+beschikbaar is waarin de salarisbestanden worden aangeleverd of dienen wij zelf eigen format 
+te ontwikkelen en aan te bieden aan de verstrekkers van de salarisbestanden?
+Ja, er is een vast template beschikbaar waarin de salarisbestanden worden aangeleverd. Zie bijlage 
+14 Aanvraagspecificatie salarisbestanden, beschikbaar gesteld via TenderNed in de map "Nota van 
+Inlichtingen". 
+85  •PvE 1.4 Circa hoeveel gemeenten voeren zelf hun salarisverwerking uit en leveren zelf hun 
+salarisgegevens aan voor de Personeelsmonitor?
+In het jaar 2024 betrof dit  4 afzonderlijke bestanden van de G4, 24 gemeenten via AFAS query en de 
+overige gemeenten (mits zij toestemming hebben gegeven) via  salarisverwerkers. Zie verder Bijlage 1 
+Responsverantwoording Boekje Personeelsmonitor.     
+86  •Aanbestedingsleidraad- 
+geschiktheidseis 2: 
+Kerncompetentie 2
+Geldt ‘het inlezen, opschonen, uniform maken, verwerken en valideren van grootschalige 
+secundaire databronnen’ ook als bevestigend voor deze kerncompetentie?
+Ja, dit telt als kerncompetentie wanneer het minstends twee verschillende secundaire databronnen 
+betreft.
+87 Herzieningsclausule 3 Is het maximum bedrag van 150.000 euro exclusief btw? waar is het jaarlijkse bedrag van 
+30.000 euro op gebaseerd?
+Genoemde bedragen zijn exclusief BTW. Het jaarlijks bedrag is gebaseerd op beschikbaar budget, en 
+verwachting inzake mogelijke uitgaven onder deze clausule.
+88 Herzieningsclausule 1 Als voorbeeld van een nieuwe AI functionaliteit wordt een API per deelnemer genoemd. Zijn er 
+andere mogelijkheden waar opdrachtgever zelf aan denkt? En op basis waarvan is het maximum 
+bedrag van 80.000 euro vastgesteld?
+Het betreft een herzieningsclausule voor mogelijke toekomstige behoeften. Deze zijn dus nu nog 
+geenszins uitgekristaliseerd. Het is ook mogelijk dat deze er in zijn geheel niet komen en de 
+herzieningsclausule dus onbenut blijft. Wij zullen hier met de winnaar uiteindelijk gedurende de 
+uitvoering van de overeenkomst, tijdens periodieke overleggen, over in gesprek blijven. Het bedrag is 
+vastgesteld op basis van beschikbaar budget, en een verwachting inzake mogelijke uitgaven onder 
+de clausule.
+89 Ontwikkelkostenvergoe
+ding
+Op basis van welke berekening is het maximum bedrag van 50.000 euro voor het bouwen of 
+aanpassen van een dashboardmodule vastgesteld?
+Aan de hand van de investeringkosten voor het huidige dashboard, waarbij rekening is gehouden met 
+prijsstijgingen c.q. indexatie.
+90 Vindplaats PvE - 1.6 
+Eisen aan validatie 
+gegevens, eis 7
+Inschrijver is in staat om, waar nodig, aanvullende databronnen te gebruiken – zoals CBS-data – 
+om gemeentelijke gegevens te controleren en te valideren indien deze aanzienlijk afwijken van 
+eerdere jaren.
+ 1.Er wordt CBS-data genoemd. Verwijst opdrachtgever naar de openbare CBS-data, of de 
+micro-data?
+ 2.Welke externe databronnen zijn de afgelopen periode ingezet voor de validatie?
+ 3.Wat verstaat opdrachtgever hierbij onder ‘aanzienlijk afwijken’?
+ 4.Verwacht Opdrachtgever vervolgactie, en zo ja welke, als blijkt dat externe data geen 
+ondersteuning bieden voor de afwijkingen ten opzichte van eerdere jaren?
+Het gebruik van CBS-data kan zowel openbare CBS-data als microdata betreffen, afhankelijk van wat 
+relevant en beschikbaar is voor validatie.
+In de afgelopen periode zijn de volgende externe databronnen ingezet ter validatie: CBS, NEA, UWV-
+onderzoeken en ICTU-gegevens.
+Onder ‘aanzienlijk afwijken’ verstaat de opdrachtgever waarden die niet binnen de gebruikelijke 
+verwachtingen liggen ten opzichte van eerdere jaren.
+Indien externe data de afwijkingen niet ondersteunen, wordt een vervolgactie verwacht. De aard van 
+deze actie wordt bepaald naar eigen inzicht door de opdrachtnemer.
+91 Vindplaats PvE - 1.8 
+Eisen aan oplevering 
+resultaten. eis 10
+Op verzoek van het A&O fonds Gemeenten en/of LOGA (Landelijk Overleg Gemeentelijke 
+Arbeidsvoorwaarden)voert Inschrijver extra analyses uit van de verzamelde gegevens. Deze 
+analyses moeten vaak worden gebruikt bij Cao-onderhandelingen en hebben dus groot belang 
+en urgentie.
+ 5.Wat is het type analyses waarop gedoeld wordt: zijn dat verklarende/multivariate analyses, 
+of betreft dat uitsluitend/vooral statistieken en uitsplitsingen die qua aard en inhoud 
+vergelijkbaar zijn met de ‘reguliere’ analyses in de monitor/op het dashboard?
+Het gaat vooral om beschrijvende, aanvullende statistieken/analyses op de reeds verzamelde data 
+en zijn vergelijkbaar met de reguliere analyses in de monitor/op het dashboard. Dit valt binnen de 
+scope van de opdracht. Indien echter een volledig nieuwe onderzoeksopdracht wordt uitgevoerd, 
+wordt dit als meerwerk beschouwd en kunnen hier separate kosten voor in rekening worden 
+gebracht.
+92 Vindplaats 
+Aanbestedingsleidraad 
+– 2.2, 
+Achtergrondinformatie 
+Personeelsmonitor
+Als gezegd: ieder jaar brengt A&O fonds Gemeenten de Personeelsmonitor Gemeenten uit. Dé 
+benchmark voor HR kengetallen bij gemeenten! De Personeelsmonitor geeft inzicht in trends en 
+ontwikkelingen op de Nederlandse arbeidsmarkt in het algemeen en die van gemeenten in het 
+bijzonder.
+ 6.Wordt onder personeel bij gemeentes ook ingehuurd en gedetacheerd personeel verstaan of 
+gaat het alleen om personeel in vaste dienst bij een gemeente?
+Nee, zie het Gegevenswoordenboek https://www.aeno.nl/uploads/Gegevenswoordenboek-
+Personeelsmonitor-2025.pdf Onder personeel bij gemeenten wordt verstaan iedereen met een 
+arbeidsovereenkomst bij een gemeente. Extern ingehuurd of gedetacheerd personeel hoort hier niet 
+bij.  Dit wordt wel uitgevraagd maar op een andere wijze.
+93 Vindplaats 
+Aanbestedingsleidraad 
+– 5.1 Gunningcriteria, 
+criterium prijs
+Inschrijver dient voor het onderdeel P (Prijs) het Prijzenblad uit Bijlage 3 volledig in te vullen. 
+Uw prijs moet alle kosten voor de uitvoering van de opdracht bevatten (all-in tarieven). Het is de 
+Opdrachtnemer niet toegestaan om achteraf eventuele aanvullende kosten (bijv. niet-limitatief: 
+reis-, parkeer- en verblijfkosten) in rekening te brengen.
+ 7.Worden hieronder de jaarlijkse kosten verstaan die dienen te vallen in de prijsrange € 90.000-
+150.000, aangezien de overeenkomst per ingangsdatum loopt voor een vaste periode van 12 
+maanden?
+Dit betreft inderdaad een jaarbedrag (zie ook vraag 16, 1e subvraag)
+94 Controle ingevulde 
+waarden
+Realisatie vragenlijst 16: er wordt hier aangegeven dat ingevulde waarden gecontroleerd 
+moeten worden tegen een gemiddelde OF eerder ingevulde waarde. Betekent dit dat het 
+systeem slechts een van beide acties hoeft uit te kunnen voeren? Of moet het systeem beiden 
+bij elke mogelijke vraag kunnen uitvoeren? Of zijn er bepaald vragen waarbij de ene vergelijking 
+moet worden gedaan en andere vragen waar de andere vergelijking moet worden gedaan? Als 
+dit laatste, hoe wordt besloten welk van beiden moet worden gebruikt?
+Het systeem moet beide controles uitvoeren. De opdrachtnemer dient te waarborgen dat gemeenten 
+geen afwijkende of onrealistische waarden kunnen invoeren, zowel in vergelijking met eerder 
+ingevulde waarden als ten opzichte van het gemiddelde. Gemeenten ontvangen daarom een 
+waarschuwing indien een ingevoerde waarde aanzienlijk afwijkt van het gemiddelde of eerdere 
+invoer, zoals in voorgaande jaren gebruikelijk is.
+95 Programma van Eisen Wat betreft eis 12 onder Dashboard: Aanvraag voor nieuwe gebruiker komt via de 
+aanvraagpagina aan in "user back-end” (extern systeem). Wordt met extern systeem bedoeld 
+dat dit buiten scope van de opdracht is of dat dit op dit moment een extra systeem is en dat 
+opdrachtnemer de functionaliteit zal moeten leveren dat een aanvraag van een nieuwe 
+gebruiker (automatisch) door een gemeentebeheerder wordt goed- of afgekeurd?
+Met extern systeem wordt een aparte applicatie bedoeld die buiten de scope van de aanbesteding 
+valt. Binnen de scope valt dus alleen de api communicatie met deze externe applicatie om de nodige 
+informatie uit te wisselen. 
+96 Programma van eisen 5Wat betreft eis 5 onder Dashboard: kunnen wij ervan uitgaan dat de beschreven data vanaf 2016 
+zullen worden aangeleverd in een gangbaar, machineleesbaar formaat zonder meerkosten voor 
+opdrachtnemer? Kunt u aangeven in welke format (of mogelijke formats) deze wordt 
+aangeleverd?
+Ja, de beschreven data vanaf 2016 zullen door A&O beschikbaar worden gesteld in een gangbaar, 
+machineleesbaar format. Het exacte format kan variëren, maar veelgebruikte mogelijkheden zijn 
+CSV, Excel of een vergelijkbaar gestructureerd bestandstype  geschikt voor grote databestanden.
+97 Programma van eisen 
+11
+Wat betreft eis 11 onder Publicatie: in welk formaat verwacht Vensters voor bedrijfsvoering deze 
+aanlevering? Voor wie zijn de kosten als de wensen voor mogelijke aanpassingen als Vensters 
+voor bedrijfsvoering di
+
+=== Document: nota van inlichtingen 2026-02-17-4 ===
+Nota van inlichtingen
+Pagina 1 van 1TN-565646 - 17 feb 2026
+Algemene informatie
+Aanbesteding: Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Aanbestedende Dienst: Stichting Arbeidsmarkt en Opleidingsfonds Gemeenten
+Referentie: -
+Toelichting:
+Mededelingen
+Ref.nr. Onderwerp:
+M1 Nota van Inlichtingen 1
+Inhoud mededeling:
+Zojuist is de Nota van Inlichtingen I gepubliceerd. Gelet op de hoeveelheid en omvang van de 
+vragen zijn deze niet individueel via de vragenmodule beantwoord, maar via een geanonimiseerd 
+PDF bestand met bijlagen. De stukken vindt u in de map Nota van Inlichtingen.
+De tweede vragenronde staat vanaf heden tot en met 24 februari 12.00 uur open. Wij verzoeken 
+partijen nogmaals om vragen één voor één in te voeren in de vragenmodule.
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Aangemaakt op: 17 feb 2026
+
+=== Document: nota van inlichtingen 2026-02-18-1 ===
+Nota van inlichtingen
+Pagina 1 van 3TN-565646 - 18 feb 2026
+Algemene informatie
+Aanbesteding: Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Aanbestedende Dienst: Stichting Arbeidsmarkt en Opleidingsfonds Gemeenten
+Referentie: -
+Toelichting:
+Daar de beantwoording van de gestelde vragen relevant kan zijn voor verdere vraagstelling en/of de keuze al dan niet in te 
+schrijven op de opdracht, hebben wij ervoor gekozen deze tussentijds - voor de vragendeadline - te beantwoorden.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+121 Kerncompetentie 1 - Eis van minimaal 1 jaar
+Vraag:
+U geeft bij vraag 3 aan dat dat voor kerncompetentie 1 de eis is dat het onderzoek minimaal 1 jaar 
+heeft geduurd. Wij snappen niet waarom u deze voorwaarde stelt om aan te tonen dat inschrijver 
+ervaring heeft “met het opstellen, uitzetten, verwerken en valideren (automatisch en/of 
+handmatig) van digitale vragenlijsten van ten minste 30 vragen, met een respondentengroep van 
+minimaal 100 individuele organisaties”. Wij hebben diverse referenties waarmee we deze ervaring 
+kunnen aantonen, maar het heeft allemaal betrekking op onderzoeken die minder dan een jaar 
+hebben geduurd. Wij zien in onze ervaring ook nooit dat vragenlijsten zolang lopen. Kunt u daarom 
+de voorwaarde van minimaal 1 jaar laten vallen? Zo niet, kunt u dan uitleggen waarom deze 
+voorwaarde proportioneel is?
+Antwoord:
+De termijn was met name bedoeld om te duiden dat het moet gaan om een breder project, niet 
+zijnde het eenvoudig uitzetten van een (bestaande) vragenlijst binnen een eigen panel. Nu dit ook 
+op een andere wijze kan worden geborgd, hebben wij besloten de minimale duur van een jaar te 
+laten vervallen. De nieuwe kerncompetentie wordt dan:
+Kerncompetentie 1 
+De Gegadigde heeft binnen een (onderzoeks)opdracht ervaring met het – in samenwerking en 
+afstemming met opdrachtgever - opstellen, uitzetten, verwerken en valideren (automatisch en/of 
+handmatig) van digitale maatwerkvragenlijsten van ten minste 30 vragen, met een 
+respondentengroep van minimaal 100 individuele organisaties die speciﬁek voor het betreﬀende 
+onderzoek worden benaderd en niet uit een panel van het bureau zijn geworven. Gegadigde heeft 
+daarbij ook een aantoonbare rol gespeeld bij de inhoudelijke vormgeving en/of optimalisatie van 
+de vragenlijst.
+Onderdeel van deze ervaringseis is eveneens het relatiebeheer op deze groep, hetgeen in ieder 
+geval omvat: 
+# Bewaken van en acteren op de respons van de vragenlijst; 
+# Contact onderhouden met en vragen beantwoorden van de respondenten die meedoen met het 
+onderzoek; 
+# Contact onderhouden met en vragen beantwoorden van de Opdrachtgever. 
+Uit het referentieformulier dient expliciet naar voren te komen dat aan alle vereiste onderdelen uit 
+de hiervoor genoemde kerncompetentie invulling is gegeven binnen de aangedragen referentie-
+opdracht.
+Fase:
+ Inschrijﬀase
+Inschrijfronde:
+Nota van inlichtingen
+Pagina 2 van 3TN-565646 - 18 feb 2026
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Beantwoord op: 18 feb 2026
+Ref.nr. Onderwerp:
+122 Inzet extra ontwikkelkosten
+Vraag:
+Wij kunnen het antwoord op vraag 10 niet rijmen met de aanbestedingsleidraad. Bij die vraag 
+wordt door een inschrijver het volgende gevraagd:
+Vraag: “Indien wij over een dashboard beschikken dat nog niet aan de toegankelijkheid volgens 
+WCAG 2.1 voldoet, mogen wij daar dan ook de ontwikkelkosten voor het dashboard voor 
+gebruiken?”
+Antwoord: “Nee, dit betreft een minimumeis aangaande het dashboard, niet zijnde een verdere 
+optimalisatie ten opzichte van het dashboard waarover nu reeds wordt beschikt.”
+Dit impliceert dus dat het dashboard aan de minimumeisen moet voldoen bij inschrijving. Echter, 
+op pagina 33 van de aanbestedingsleidraad schrijft u het volgende:
+“A&O fonds Gemeenten stelt de gegunde Inschrijver een eenmalige ontwikkelkosten-vergoeding 
+ter beschikking van maximaal EUR 50.000 (exclusief btw). Dit bedrag is bedoeld om, hetzij een 
+nieuwe dashboardmodule te ontwikkelen conform de eisen uit het Programma van Eisen, hetzij 
+een eerder ontwikkelde (basis-)dashboardmodule aan te passen naar deze minimumeisen.”
+De tekst uit de aanbestedingsleidraad wekt de indruk dat een inschrijver de ontwikkelkosten kan 
+aanwenden om een dashboardmodule ontwikkelen conform de eisen uit het Programma van 
+Eisen. Dit conﬂicteert echter met uw antwoord op vraag 10 waarin staat dat de ontwikkelkosten 
+niet gebruikt mogen worden om te voldoen aan de minimumeisen. Kunt u aangeven (1) op welk 
+momenten een inschrijver de minimumeisen moet aantonen en (2) of de ontwikkelkosten nu 
+gebruikt kunnen worden om een dashboardmodule te ontwikkelen conform de eisen en (3) zo 
+niet, waarvoor de ontwikkelkosten dan wel gebruikt voor kunnen worden?
+Bij voorgaande speelt ook mee dat het antwoord op vraag 11 de zaken er ook niet duidelijker op 
+maakt. Hier impliceert u namelijk dat een inschrijver nog tijd heeft tussen de gunning en de 
+daadwerkelijke start van de overeenkomst om de functionaliteiten te realiseren. Maar gezien het 
+feit dat de overeenkomst dan nog niet is ingegaan, lijkt het ons ook niet mogelijk om daarvoor de 
+ontwikkelkosten in rekening te brengen.
+Antwoord:
+1) minimumeisen zijn zogenaamde uitvoeringseisen. Dit betekent dat u zich eraan committeert dat 
+u vanaf de start van de overeenkomst (ingangsdatum overeenkomst) de prestaties kunt leveren, 
+zoals deze in het PvE zijn voorgeschreven. Nu werkzaamheden elkaar opvolgen en conform 
+planning plaatsvinden, committeert u zich er in ieder geval aan dat u op tijd – conform planning 
+van werkzaamheden (met buﬀer) – de werkzaamheden kunt leveren. Voor het dashboard is 
+hiervoor een speciﬁeke opleverdatum genoemd. Voor de vragenlijst – waarop vraag 11 ziet – geldt 
+dat deze dus gereed en eisenconform moet zijn op moment van uitsturen, inclusief de concept- en 
+afstemmingsmomenten daarvoor conform PvE.
+Nota van inlichtingen
+Pagina 3 van 3TN-565646 - 18 feb 2026
+2) In de leidraad is aangegeven dat de ontwikkelkosten aangewend kunnen worden voor het 
+ontwikkelen van een nieuw dashboard, dan wel het upgraden van een bestaand dashboard, naar 
+het niveau van de minimumeisen uit het Programma van Eisen. Het doel hierbij is om de 
+voorsprong van een zittende leverancier, met betrekking tot de voor A&O fonds Gemeenten 
+ontwikkelde functionaliteiten binnen het dashboard, zoveel als mogelijk weg te nemen en het level 
+playing ﬁeld daarmee in voldoende mate te borgen. Het beoogde is dus dat speciﬁek, voor A&O 
+fonds Gemeenten ontwikkeld maatwerk wordt vergoed uit het ontwikkelkostenbudget. Dit kan 
+immers ook niet zonder meer ingezet worden bij andere relaties. De investering is direct 
+gerelateerd aan de uitvoering van deze speciﬁeke opdracht. Dit is ook de reden dat wij in Nota van 
+Inlichtingen “nee” hebben geantwoord op vraag 10. Wij zien de WCAG 2.1 koppeling als een breder 
+inzetbare functionaliteit, niet zijnde maatwerk voor ons als opdrachtgever. 
+Gelet op uw vervolgvraag hebben wij de passage omtrent de ontwikkelkostenvergoeding er 
+nogmaals op nagelezen, en zijn tot de conclusie gekomen dat deze afbakening onvoldoende uit de 
+tekst blijkt. Deze willen wij dus middels dit antwoord alsnog geven: de ontwikkelkostenvergoeding 
+kan niet worden ingezet voor de ontwikkeling van breed inzetbare, meer generieke 
+functionaliteiten die worden geëist. Dit is een investering die de inschrijver zelf moet doen, daar 
+deze ook op andere wijzen kan worden terugverdiend dan enkel middels onderhavige opdracht. 
+De vergoeding is bedoeld voor speciﬁek maatwerk voor A&O fonds Gemeenten. Tijdens de 
+uitvoering zullen partijen dit nader met elkaar afstemmen.
+Daarnaast blijft het volgende gelden: optimalisaties die worden aangeboden onder de 
+kwaliteitscriteria mogen niet worden bekostigd uit het ontwikkelbudget. Hiervoor dient een prijs te 
+worden opgegeven in het prijzenblad. Optimalisaties als genoemd in de herzieningsclausules 
+blijven in zijn geheel buiten de inschrijving.
+Fase:
+ Inschrijﬀase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Beantwoord op: 18 feb 2026
+
+=== Document: nota van inlichtingen 2026-02-19-1 ===
+Nota van inlichtingen
+Pagina 1 van 3TN-565646 - 19 feb 2026
+Algemene informatie
+Aanbesteding: Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Aanbestedende Dienst: Stichting Arbeidsmarkt en Opleidingsfonds Gemeenten
+Referentie: -
+Toelichting:
+Vraag en antwoord
+Ref.nr. Onderwerp:
+123 Inzet extra ontwikkelkosten | Vraag 2
+Vraag:
+Wij hebben uw antwoord op de vraag m.b.t extra ontwikkelkosten gelezen. Veel dank voor de 
+snelle reactie en de toelichting. Het levert bij ons de volgende op:
+Kunt u aangeven voor elk van de eisen uit het programma van eisen of dit een speciﬁeke 
+functionaliteit is waarvoor een vergoeding vanuit de ontwikkelkosten kan worden gebruikt (indien 
+de functionaliteit nog niet aanwezig is) of dat het een een breed inzetbare, meer generieke 
+functionaliteit betreft? Het is voor ons namelijk nu onduidelijk waarvoor wij bij een eventuele 
+uitvoering een vergoeding kunnen krijgen en waarvoor niet.
+Antwoord:
+We verwachten van inschrijvers dat zij een basis dashboard functionaliteit aanpassen aan onze 
+wensen. Deze wensen zien op de geschetste speciﬁeke uitsplitsingen, selectiemogelijkheden op 
+basis van onze data, huisstijl kleuren, en verschillende soorten views. Dit huidige maatwerk 
+hebben wij inzichtelijk gemaakt door het delen van de screenshots. In onze optiek valt daaruit in 
+voldoende mate af te leiden, waar de knip tussen "basisfunctionaliteit" en "voor ons als klant 
+gerealiseerd maatwerk" zich bevindt. De bijdrage is nadrukkelijk niet bedoeld om de basis 
+functionaliteiten te helpen doorontwikkelen. 
+Tijdens de uitvoering is het aan de winnende inschrijver om aan te tonen waar diens huidige 
+dashboard (basis) op dat moment staat en wat er nodig is - urenspeciﬁcatie en kosten - om te 
+komen tot het gewenste maatwerk. Dit dient door de winnende inschrijver te worden 
+onderbouwd, en wordt door ons als opdrachtgever beoordeeld en uiteindelijk vergoed tot het 
+maximum van de ontwikkelkostenvergoeding. Daar de exacte invulling hiervan, zoals ook al eerder 
+in de beantwoording aangegeven, per inschrijver kan verschillen, willen wij daar op voorhand niet 
+per eis nu op ingaan.
+Fase:
+ Inschrijﬀase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Beantwoord op: 19 feb 2026
+Nota van inlichtingen
+Pagina 2 van 3TN-565646 - 19 feb 2026
+Ref.nr. Onderwerp:
+124 Inzet extra ontwikkelkosten | Vraag 3
+Vraag:
+Wij hebben uw antwoord op de vraag m.b.t extra ontwikkelkosten gelezen. Veel dank voor de 
+snelle reactie en de toelichting. Het levert bij ons de volgende vraag op:
+In hoeverre bent u van mening dat er een level playing ﬁeld (waar u zelf over schrijft op pagina 33 
+van de aanbestedingsleidraad) wordt gewaarborgd nu er geen ontwikkelkosten mogen worden 
+ingezet voor generieke functionaliteiten? De kans is zeer groot dat de huidige uitvoerder wel 
+voldoet aan de eisen. Een nieuwe toetreder zal voor bepaalde functionaliteiten eigen geld moeten 
+investeren en die moeten verdisconteren in de aangeboden prijs (waarmee er dus een 
+concurrentienadeel ontstaat).
+Antwoord:
+"Naar de stand van het aanbestedingsrecht en jurisprudentie hebben aanbestedende diensten 
+geen verplichting om ieder concurrentievoordeel weg te nemen. Een zittende leverancier heeft 
+immers altijd voordeel: hetzij ﬁnancieel, hetzij op basis van opgedane kennis van en ervaring met 
+de opdrachtgever. Het is aan de aanbestedende dienst om het level playing ﬁeld (gelijk speelveld), 
+toegang tot de opdracht en marktwerking zoveel als mogelijk positief te beïnvloeden. Dit hebben 
+wij gedaan door:
+- relevante informatie (eisen, screenshots, bronbestanden) van de opdracht te delen binnen de 
+aanbesteding
+- geen sturende eisen op te nemen in het PvE
+- geen kwaliteitscriteria te introduceren die zien op implementatie, bestaande functionaliteiten, 
+speciﬁeke ervaring met soortgelijke opdrachten
+- proportionele geschiktheidseisen
+- een gunningsverhouding waarin prijs ondergeschikt is
+- een lineaire prijsformule met een duidelijke bodem. Het loont niet om onder de bodem aan te 
+bieden, nu daarvoor geen additionele punten worden verkregen. Bij het vaststellen van deze 
+bandbreedte is bovendien ook weer rekening gehouden met level playing ﬁeld.
+In onze optiek hebben wij hiermee voldaan aan hetgeen de wet van ons vraagt. Bovendien is dit 
+voorafgaand aan publicatie ook juridisch getoetst."
+Fase:
+ Inschrijﬀase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Beantwoord op: 19 feb 2026
+Ref.nr. Onderwerp:
+125 Minimumeisen
+Vraag:
+Naar aanleiding van het antwoord op de vraag met referentienummer 122 hebben wij een 
+vervolgvraag. U schrijft het volgende:
+Nota van inlichtingen
+Pagina 3 van 3TN-565646 - 19 feb 2026
+"minimumeisen zijn zogenaamde uitvoeringseisen. Dit betekent dat u zich eraan committeert dat u 
+vanaf de start van de overeenkomst (ingangsdatum overeenkomst) de prestaties kunt leveren, 
+zoals deze in het PvE zijn voorgeschreven. "
+Dit impliceert dat een inschrijver vanaf de start van de overeenkomst 1 juli aan de gestelde eisen 
+moet voldoen. Echter, bij de beantwoording van de vraag schrijft u ook het volgende: 
+"Nu werkzaamheden elkaar opvolgen en conform planning plaatsvinden, committeert u zich er in 
+ieder geval aan dat u op tijd – conform planning van werkzaamheden (met buﬀer) – de 
+werkzaamheden kunt leveren. Voor het dashboard is hiervoor een speciﬁeke opleverdatum 
+genoemd. Voor de vragenlijst – waarop vraag 11 ziet – geldt dat deze dus gereed en eisenconform 
+moet zijn op moment van uitsturen, inclusief de concept- en
+afstemmingsmomenten daarvoor conform PvE."
+Dit impliceert juist dat er bij de start van de overeenkomst nog niet aan de gestelde eisen hoeft te 
+worden voldaan. Het uitsturen van de vragenlijst hoeft pas in het najaar (november/december) te 
+gebeuren en de enquêtesoftware zou dan ook pas aan de voorwaarden hoeven te voldoen en het 
+dashboard hoeft zelfs pas volgend volgend jaar te worden opgeleverd. 
+Kunt u daarom speciﬁeker aangeven op welke moment aan welke eisen moet worden voldaan?
+Antwoord:
+Door het doen van een inschrijving committeert u zich aan de uitvoeringseisen. U moet vanaf de 
+ingangsdatum van het contract passend kunnen presteren / nakomen. Dit betekent dat u, conform 
+de gestelde planning en volgorde van werkzaamheden, de gevraagde prestaties tijdig, volledig, 
+naar het vereiste minimumniveau en het aangeboden kwaliteitsniveau dient te verrichten. Iets dat 
+later in de tijd wordt gevraagd, dient dus ookpas later in de tijd gereed te zijn.
+Fase:
+ Inschrijﬀase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Personeelsmonitor t.b.v. A&O fonds Gemeenten
+Beantwoord op: 19 feb 2026

@@ -1,0 +1,1130 @@
+=== Document: sbir oproep inspecties nvwa_publicatie ===
+SBIR Oproep “ Satel lietdata gebruik  bij inspecties” Openingsdatum:  29 mei 2015 Sluitingsdatum:  2 6  juni 2015, 17:00 uur Budget:  140.000  Euro De Nederlandse Voedsel- en Warenautoriteit (NVWA)  samen met het Netherlands Space Office (NSO)  daagt ondernemers uit om nieuwe producten te ontwikkelen met satellietdata die bijdragen aan de  efficiëntie  en effectiviteit van inspecties bij de NVWA. De beste ideeën krijgen een opdracht voor een haalbaarheidsonderzoek (SBIR fase 1). De beste haalbaarheidsonderzoeken krijgen een vervolgopdracht om een prototype te ontwikkelen en te demonstreren (SBIR fase 2).   Om een versnelling tot stand te brengen in het gebruik van satellietdata bij overheden en in de samenleving  heeft het NSO innovatiegericht inkopen ruimtevaart (SBIR) geïntroduceerd. De financiële middelen hiervoor komen uit het nationaal flankerend ruimtevaartbeleid van het ministerie van EZ.  Deze  eerste  SBIR is er mede op gericht gebruik van data uit het  sate l liet dataportaal  te bevorderen.  Het  satellietdataportaal  is een faciliteit waarvan Nederlandse overheden, onderzoeksinstellingen en bedrijven gebruik kunnen maken voor operationalisering van satellietdata toepassingen. 1. Het thema “ Satellietdatagebruik  bij inspecties ”. De Nederlandse Voedsel- en Waren Autoriteit (NVWA) is de autoriteit van het Ministerie van EZ op het gebied van het bewaken en controleren van diergezondheid, dierwelzijn, plantgezondheid, product- en voedselveiligheid. Om dit werk op een goede manier uit te voeren bestaat de NVWA uit zeven onderdelen: vijf divisies, een stafdirectie en bureau Risicobeoordeling. De divisie Landbouw en Natuur ziet onder andere toe op de naleving van regelgeving op primaire landbouwbedrijven en grondgebonden subsidie. Voor het uitvoeren van bedrijfsinspecties wordt binnen deze divisie zoveel mogelijk gebruik gemaakt van risicoanalyse. Om de efficiëntie en effectiviteit van inspecties verder te verhogen is de inzet van Remote- Sensing  (RS) mogelijk relevant.  Het Gemeenschappelijk Landbouwbeleid (GLB), voor een deel aangevuld met nationale regelingen, biedt landbouwers enerzijds ondersteuning in hun inkomen, en anderzijds compensatie (subsidies) voor kosten of inkomensderving als gevolg van (bovenwettelijke) prestaties ten gunste van natuurherstel en ontwikkeling. Bijna 800 miljoen Euro kan via deze regelingen worden toegekend aan Nederlandse ondernemers. Vanuit de EU volgen hieruit controleverplichtingen (5%) ten aanzien van de fysieke beoordeling van de landbouwpercelen. Dat gebeurt in toenemende mate met  teledetectie . Daar waar dit niet volstaat meet en beoordeelt de NVWA ter plekke.  Ook voor de natuursubsidies kent de EU controleverplichtingen (5%).  De voorwaarden uit de gekozen natuurpakketten beoordeelt de NVWA ter plekke. Tenslotte zijn de aanvragers van zowel de inkomenssteun als de natuursubsidies gehouden aan het beginsel van cross compliance. Als ondernemers niet aan alle randvoorwaarden voldoen krijgen ze minder subsidie. Controlebevindingen van de NVWA worden bij die beslissing gebruikt. Daarnaast controleert de NVWA een selectie (1%) van aanvragers in de volle breedte van hun bedrijfsvoering op het naleven van de randvoorwaarden. De NVWA  hoopt dat het Nederlandse bedrijfsleven een bijdrage kan leveren om  de efficiëntie en effectiviteit van inspecties verder te verbeteren door de inzet van satellietdata.  In deze setting is  NVWA  op zoek naar   innovatieve en technologische oplossingen  waarbij gebruik wordt gemaakt van satellietdata  en nodigt  NVWA  het bedrijfsleven uit voorstellen voor   haalbaarheidsonderzoek in te dienen naar  drie  sub - thema’s: Vanggewas Plas-Dras Uitgestelde maaidatum 2. De  drie   subthema’s . 2.1. Van g gewas  Vanggewas komt op twee verschillende manieren terug in de wetgeving. Vanuit de Meststoffenwetgeving de verplichting om vanggewas in te zaaien na de teelt van maïs. Daarnaast heeft vanggewas ook een rol in het nieuwe Gemeenschappelijk Landbouwbeleid (GLB). Onderstaand worden beiden opties verder toegelicht. De NVWA heeft in dit kader dus 2 probleemstellingen benoemt waarbij  satellietdata  een potentiële aanvulling kan zijn en wil het bedrijfsleven uitdagen producten te ontwikkelen die de inzet van  satellietdata  duidelijk maken. Probleemstelling 1 De randvoorwaarden die gelden bij Van g gewas na de teelt van maïs komen voort uit de Meststoffenwetgeving. Deze wet schrijft het volgende voor: Direct na de oogst van maïs moet een vanggewas worden geteeld om uitspoeling van mineralen te voorkomen Dit is alleen van toepassing op zand- en lössgrond Er is sprake van uitsluitend toegestane vanggewassen, dit zijn: gras, winterrogge,  bladkool , bladrammenas, wintertarwe, wintergerst,  triticale Het gewas mag niet vernietigd worden voor 1 februari van het daarop volgende jaar De inspecties op dit vanggewas (dus na de teelt van maïs) bestaan uit zichtcontroles waarbij vastgesteld wordt of op percelen waar maïs geoogst is het gewenste vanggewas geteeld wordt. Maïs wordt, afhankelijk van het ras, bestemming (korrel of snijmaïs) en weersomstandigheden, gezaaid tussen april en juni en geoogst tussen half september en eind november.  Vraagstelling 1 De efficiëntie van deze inspecties kan in hoge mate verhoogd worden als een manier gevonden wordt om door middel van beelden uit het satelliet dataportaal een voorselectie te kunnen maken die behulpzaam is om de inspecteurs naar de juiste percelen te kunnen sturen. Deze voorselectie moet, bijvoorbeeld, in staat zijn na te gaan of een vanggewas geteeld wordt of dat er grondbewerkingen hebben plaats gevonden  waardoor het aannemelijk is dat een gewas ingezaaid is. Dat heeft pas zin als ook vastgesteld is dat er eerst maïs gestaan heeft. Ook de periode waarin het vanggewas op het land staat moet in de beoordeling meegenomen kunnen worden. Ontwikkel een product waarbij het mogelijk is middels het gebruik van satellietdata dit inzicht te verkrijgen. Probleemstelling 2 Een belangrijke pijler van het GLB is vergroening. Eén van de vergroeningsmaatregelen is het inrichten van Ecologische Aandachtsgebieden (EA), die voor een akkerbouwer met minstens  15 ha  verplicht zijn. De betreffende akkerbouwer moet 5% van zijn bouwland als EA inrichten. Hiervoor bestaan verschillende mogelijkheden, de teelt van vanggewas is daar één van. De volgende voorwaarden zijn hierop van toepassing: vanaf 1 oktober moet het vanggewas gedurende 10 weken op het land staan een mengsel van tenminste 2 soorten vanggewas inzaaien of gras als ondervrucht in het hoofdgewas de toegelaten vanggewassen  en het soort gras als ondervrucht  staan in  bijlage 1 het gebruik van gewasbeschermingsmiddelen is niet toegestaan tijdens de 10 weken dat het gewas er staat en tot en met 31 december ten minste 75% van de in de Aanbevelende Rassenlijst voor landbouwgewassen (CSAR) aanbevolen hoeveelheid zaaizaad gebruiken deze verplichting geldt voor heel Nederland ongeacht de grondsoort Vraagstelling 2 Een landbouwer geeft op zijn GDI aan of vergroening op zijn bedrijf nodig is. Daarbij wordt ook aangegeven van welke mogelijkheden gebruik wordt gemaakt en, indien van toepassing, op welke percelen vanggewas geteeld wordt en wat de verwachte inzaaidatum is. De uitdaging is om door middel van beelden uit het  satellietdataportaal  vast te stellen of er gedurende 10 weken een vanggewas geteeld wordt. Ook is het interessant na te gaan of er, voordat de 10 weken verstreken zijn geploegd is of een andere grondbewerking heeft plaatsgevonden. Ontwikkel een product waarbij het mogelijk is middels het gebruik van satellietdata dit inzicht te verkrijgen. 2.2. Plas-Dras (seizoen 2016) Probleemstelling Voor het laten foerageren en rusten van de weidevogels en hun jongen worden percelen of gedeeltes hiervan onder water gezet. Een collectief van boeren ontvangt een financiële tegemoetkoming voor dit onder water zetten, omdat hen dit in de respectievelijke bedrijfsvoeringen een schadepost oplevert. In het kader van ANB2016 zal er een onderscheid gemaakt worden tussen voorwaarden welke leiden tot het tarief (waarvoor wordt er betaald), en voorwaarden welke leiden tot verbetering van het resultaat. Eerst genoemde voorwaarden zullen worden gecontroleerd door de NVWA, de andere voorwaarden door de collectieven zelf. De NVWA controleert op de volgende onderdelen voor Plas-dras: de beheereenheid moet bestaan uit grasland de beheereenheid is geïnundeerd (100% drassig). De inundatieperiode loopt van datum x tot datum y  ( zie bijlage 2 ) Vraagstelling Is het mogelijk om vast te stellen of een perceel drassig is, ook als het drassig-zijn schuil gaat onder grasvegetatie.  Ontwikkel een product waarbij het mogelijk is middels het gebruik van satellietdata dit inzicht te verkrijgen.   2.3. Uitgestelde maaidatum Probleemstelling  Om broedende weidevogels niet te storen tijdens het broeden is het niet toegestaan tijdens een vastgestelde gesloten periode te maaien. De duur van deze gesloten periode is afhankelijk van het door de boer aangevraagde beheerpakket. De boer ontvangt een financiële tegemoetkoming voor het later maaien, omdat hem dit in zijn bedrijfsvoering een schadepost oplevert, maar moet dan wel aan een aantal voorwaarden voldoen. Hierop ziet de NVWA toe. De voorwaarden voor uitgestelde maaidatum zijn: de beheereenheid bestaat uit grasland een rustperiode van x tot datum y wordt in acht genomen ( zie bijlage 3 ) in de rustperiode vinden in de beheerseenheid geen bewerkingen plaats (bijvoorbeeld kunstmest strooien) beweiding is in de rustperiode niet toegestaan Een landbouwer krijgt dus subsidie als tegemoetkoming voor beperking in de bedrijfsvoering. De landbouwer doet aanvraag bij RVO.nl (Rijksdienst voor Ondernemend Nederland) en geeft daarbij de grootte en locatie van de percelen op. RVO.nl stelt de inspecties  a-select  vast.  Vraagstelling Door gebruik te maken van geografische gegevens kan de inspectie effectiever ingezet en gepland worden. Ontwikkel een product waarbij gebruik wordt gemaakt van satellietdata om inzicht te krijgen of het gras al dan niet gemaaid is gedurende de periode dat de aanvraag geldt. 3. Beschikbaar budget. Het maximum budget per project voor een haalbaarheidsstudie in fase 1 bedraagt €  1 0.000,- (incl. btw).   Er worden in fase 1 maximaal  4  haalbaarheidsstudies aanbesteed. Het maximum bedrag per project voor fase 2 bedraagt €   4 0.000,- (incl. btw). Het aantal te honoreren   projecten voor fase 2 is afhankelijk van de prijs voor de best beoordeelde offertes in fase 1 en fase 2.   In totaal  wordt  een budget van €  1 4 0.000,-  beschikbaar  gesteld  door het ministerie van EZ  voor fase 1 en fase 2   van deze SBIR. 4. Beoordeling De beoordeling  vindt plaats door deskundigen van de NVWA  en het Netherlands Space Office ( NSO ) . I n de SBIR ha ndleiding  vindt  u  de voorwaarden en beoordelingscriteria die voor SBIR-voorstellen in het algemeen   gelden. Bij de beoordeling is per criterium maximaal het volgende aantal punten toe te kennen: 1. Impact op  inspecties : 3 0 2.  Innovatie: 20 3.  Ondernemerschap: 15 4. Economisch perspectief: 15 5. Kwaliteit van de offerte en het project: 15 6. Prijs: 5 Het criterium “ Ecologische en sociale aspecten ” is niet van toepassing bij deze SBIR. Voor deze SBIR zijn voor het eerste criterium “Impact op inspecties” de volgende aspecten van   belang: Effectiviteit:  de mate waarin het product bijdraagt aan “de inspecties bij de NVWA”. h oe groot is de bijdrage aan het oplossen van het vraagstuk waar de uitdaging zich op richt? de manier waarop invulling wordt gegeven aan één of meerdere van de genoemde thema’s? Welke mate van verbeterde  inspectie  biedt het product? Praktijk:  de mate waarin het product in de praktijk inpasbaar is binnen de operationele context van de  NVWA . Denk hierbij ook aan: Zijn er (onbedoelde en/of ongewenste) neveneffecten te verwachten? In welke mate zijn de innovatie en technologie geschikt of geschikt te maken is voor  de bedrijfssystemen bij de NVWA ? Hoe  personeel  en kennis  intensief   is het product/systeem ? 5. Informatiebijeenkomst Op  maandag   8   juni  201 5  vindt  bij de NVWA  te  Utrecht  een informatie middag  plaats. U kunt zich hiervoor aanmelden via de mail  info@spaceoffice.nl   met vermelding van uw persoons- en   firmagegevens. Het adres is : Catharijnesingel 59 3511 GG Utrecht Het programma van de informatie middag  ziet er als volgt uit: 1 3 :30-1 4 :00 uur: Inloop met koffie en thee 1 4 :00- 16 :00 uur: Presentaties en gelegenheid tot het stellen van vragen. 16 :00- 16 :45 uur: Napraten met een drankje. 6. Uitvoering Het   Netherlands Space Office (NSO)  v oert  samen met RVO.nl  namens  de NVWA  deze SBIR aanbesteding uit.  NSO  als dé Nederlandse ruimtevaartorganisatie ontwikkelt in opdracht van en overleg met de Nederlandse overheid het Nederlandse ruimtevaartprogramma en voert dat uit.  Een belangrijke randvoorwaarde voor het slagen van het Nederlandse ruimtevaartprogramma is een goede vraagsturing vanuit de overheid, de wetenschap en/of de markt, bijvoorbeeld via de topsectoren. Dit is essentieel voor het behoud van draagvlak voor investeringen in de ruimtevaart. 7. Informatie en contact Alle informatie over deze tender vindt u op de volgende website: http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir  Heeft u vragen met betrekking tot de SBIR “ Satellietdatagebruik  bij inspecties ” dan kunt u deze stellen aan het emailadres:   info@spaceoffice.nl . Het NSO secretariaat is telefonisch bereikbaar op nummer 088-6024500 8. Indienen van de offerte In de SBIR handleiding (paragraaf 2.1) staat beschreven waar een volledige offerte uit bestaat. Het elektronisch exemplaar moet voor 17:00 uur zijn ontvangen door NSO op  info@spaceoffice.nl  op de sluitingsdatum 26 juni 2015. Het papieren exemplaar mag de dagen daarna nog met de post binnenkomen.  De papieren offerte dient u aan te bieden bij:  Netherlands Space Office   SBIR  Inspecties  201 5 Prinses Beatrixlaan 2 Postbus 93144 2509 AC Den Haag 9 . Publiciteit en intellectueel eigendom In de SBIR handleiding staan de afspraken ten aanzien van publiciteit en intellectuele eigendom beschreven in paragraaf 4.2 en 7.2. 10 . Tijdpad Openstelling tender 29 mei 2015 Sluiting tender 26 juni 2015 Informatiebijeenkomst 8 juni 2015 Sluiting indienen fase 1 offertes 26 juni 2015 Bekendmaking uitslag 3 juli 2015 Opdrachtverstrekking fase 1 6 juli 2015 Inleveren haalbaarheidsrapport omstreeks 31 augustus 2015 Sluiting indienen fase 2 offertes omstreeks 18 september 2015 Bekendmaking uitslag fase 2 omstreeks 28 september 2015 Opdrachtverstrekking fase 2 omstreeks 2 oktober 2015 Deadline eindrapport fase 2 omstreeks januari 2016 De Nederlandse Voedsel- en Warenautoriteit  en het Netherlands Space  Office  behouden zich het recht om bijgevoegd tijdspad indien   nodig aan te passen. Dit zal tijdig aan (potentiële) opdrac htnemers worden gecommuniceerd. Bijlage 1: Toegestane vanggewas en gras als ondervrucht vergroening Soorten voor mengsels:  Alexan drijnse klaver Beemdlangbloem Bladkool Bladraap Bladrammenas Deder Engels raaigras Erwten Ethiopische  mosterd Facelia Festulolium Franse boekweit Gele mosterd Incarnaat  klaver Italiaans/ Westerwolds  raaigras Japanse haver Lupine, Niger Perz ische klaver Rietzwenkgras Rode klaver Sarepta   mosterd /Caliente Seradelle Soedangras /Sorghum Spurrie Stoppelknollen Timothee Veldbeemdgras Vlas Voederwikke Witte klaver Zwaardherik Soorten voor gras: Engels raaigras, Italiaans/ Westerwolds  raaigras, Rietzwenkgras, Soedangras/Sorghum,  Festulolium , Beemdlangbloem, Veldbeemdgras,  Timothee Bijlage 2 : Periodes plas-dras Inundatieperiode plas-dras : a 15 februari – 15 april b  15 februari – 15 mei  c  15 februari – 15 juni  d  15 februari – 1 augustus  e  15 februari – 15 april, greppels  f  15 februari – 15 mei, greppels  g  15 februari – 15 juni, greppels  h  15 februari – 1 augustus, greppels  i  1 mei – 15 augustus, 3 weken, greppels  j  1 mei – 15 augustus, 1 maand, greppels  k  1 mei – 15 augustus, 6 weken, greppels  l  1 mei – 15 augustus, 2 maand, greppels  m  15 februari – 1 oktober  n  1 november – 31 januari, 2 weken  Opmerking: Als er staat  x  weken of maand(en) dan houdt dit naast de inundatieperiode  ook nog een rustperiode in van x. B ehalve bij letter n , d aar houdt 2 weken de periode van inundatie in. Bijlage 3: Periodes uitgestelde maaidatum   Uitgestelde maaidatum tussen: a rust van 1 april tot 1 juni b rust van 1 april tot 8 juni c rust van 1 april tot 15 juni d rust van 1 april tot 22 juni e rust van 1 april tot 1 juli f rust van 1 april tot 8 juli g rust van 1 april tot 15 juli h rust van 1 april tot 22 juli i rust van 1 april tot 1 augustus j rust van 1 april tot 8 augustus k rust van 1 april tot 15 augustus l rust van 1 mei tot 15 juni, voorweiden m rust van 8 mei tot 22 juni, voorweiden n rust van 1 april tot 1 september o rust van 1 april tot 15 september p rust van 1 april tot 1 oktober   Opmerking: Het grasland wordt vanaf 1 maart en voor de rustperiode niet gemaaid. Bij pakket l en m is beweiding voor aanvang van de rustperiode toegestaan
+
+=== Document: sbir handleiding 2014 ===
+SBIR handleiding voor ondernemers 
+ 
+Deze handleiding is opgesteld door het SBIR programmabureau van de Rijksdienst voor Ondernemend 
+Nederland (RVO.nl), te bereiken op sbir@rvo.nl . Publicatiedatum: 6 juni 2014. 
+ 
+Inleiding  
+Het SBIR 
+1 programma daagt ondernemers uit om nieuwe producten te ontwikkelen en op de markt te 
+brengen. SBIR gebruikt de creativiteit van ondernemers om maatschappelijke problemen op te lossen. 
+SBIR is een competitie. De ondernemingen met de beste offertes krijgen een opdracht voor een 
+haalbaarheidsonderzoek. De ondernemingen met de meest kansrijke haalbaarheidsonderzoeken krijgen 
+opdracht hun product verder te ontwikkelen. 
+ 
+SBIR is een open competitie voor iedereen die innovatieve (technologische) oplossingen voor 
+maatschappelijke vraagstukken kan ontwikkelen. Ondernemingen zijn bijzonder kosteneffectief als het 
+gaat om onderzoek en ontwikkeling en zijn goed in staat resultaten om te zetten in nieuwe producten, 
+processen of diensten. SBIR richt zich daarbij op ideeën die vaak al langer bestaan bij ondernemingen. 
+ 
+Het SBIR programma is een verzameling uitdagingen. Iedere uitdaging is een aanbesteding van 
+opdrachten voor onderzoek en ontwikkeling 
+2. Op steeds nieuwe onderwerpen dagen wij ondernemers uit. 
+Alleen in de beperkte periode dat een uitdaging open staat, kunt u daarvoor een offerte aanbieden. RVO.nl 
+voert SBIR uit in opdracht van verschillende ministeries. 
+ 
+SBIR bestaat uit drie fasen. Dit verkleint de risico’s voor de overheid: alleen voor de beste projecten wordt 
+een onderzoeks- en ontwikkelingstraject betaald. De drie fasen zijn: 
+1.  Haalbaarheidsonderzoek 
+2.  Toegepast onderzoek en ontwikkeling 
+3.  Marktrijp maken 
+Voor fase 1 en 2 geldt: geselecteerde offertes krijgen een opdracht om het voorgestelde onderzoek uit te 
+voeren. De hoogte van de vergoeding is het offertebedrag. Dit moet lager zijn dan het maximumbedrag en 
+marktconform. Fase 3 wordt niet door de overheid gefinancierd. 
+ 
+Voor fase 1 en voor fase 2 beoordeelt een commissie van experts de offertes op: 
+• impact op het maatschappelijk probleem 
+• ondernemerschap 
+• innovatie 
+• economisch perspectief 
+• kwaliteit van de offerte en het project 
+• ecologische en sociale aspecten 
+• prijs van de offerte  
+                                                
+ 
+1 De afkorting SBIR komt van het Amerikaanse Small Business Innovation Research program . Het Amerikaanse SBIR 
+programma is alleen toegankelijk voor kleine bedrijven. Het Nederlandse SBIR programma is toegesneden op kleinere 
+ondernemingen, maar staat open voor iedereen, ook grote ondernemingen. 
+2 De SBIR behoort tot de zogeheten ‘precommerciële’ aanbestedingen, de aanbestedingswet is niet van toepassing. Wel 
+geldt ook voor SBIR dat de aanbesteding open, eerlijk en transparant is. 
+ 
+ 
+ 
+ 2  van  17 
+Inhoudsopgave 
+Inhoudsopgave 2 
+1.  De oproep 3 
+1.1  Aanbestedingsdocumenten 3 
+1.2  Vragen 3 
+2.  Offerte SBIR fase 1 4 
+2.1  Onderdelen van de offerte 4 
+2.2  Eisen aan offerte fase 1 4 
+2.3  Partijen 5 
+2.4  Prijs en duur van de opdracht 5 
+3.  Beoordelingsproces SBIR fase 1 6 
+3.1  Beoordelingscommissie 6 
+3.2  De voorselectie 6 
+3.3  De beoordelingscriteria 6 
+3.4  Drempelwaarde 7 
+3.5  Gunning 7 
+3.6  Vertrouwelijkheid 8 
+4.  SBIR fase 1: Het haalbaarheidsonderzoek 9 
+4.1  De opdrachtverlening 9 
+4.2  Het intellectueel eigendom 9 
+4.3  Het haalbaarheidsonderzoek 9 
+4.4  Resultaat fase 1: eindrapport 9 
+4.5  Wijzigingen tijdens fase 1 9 
+5.  Offerte fase 2 11  
+5.1  Partijen 11  
+5.2  Onderdelen offerte fase 2 11  
+5.3  Prijs en duur van de opdracht 11  
+5.4  Eisen offerte fase 2 11  
+6.  Beoordelingsproces sbir fase 2 12  
+7.  SBIR Fase 2: Het onderzoek- en ontwikkelingstraject 13  
+7.1  De opdrachtverlening 13  
+7.2  Het intellectueel eigendom 13  
+7.3  Resultaten fase 2 13  
+7.4  Wijzigingen tijdens fase 2 13  
+8.  SBIR Fase 3: marktrijp maken 14  
+9.  Formulieren, modellen, formats & overeenkomsten 15  
+10.  Nadere Juridische bepalingen 16  
+10.1  Eisen aan partijen 16  
+10.2  Onderzoek en ontwikkeling 16  
+ 
+ 
+ 
+ 
+ 3  van  17 
+1.  De oproep 
+1.1  Aanbestedingsdocumenten 
+Alle informatie over een specifieke SBIR staat in de aanbestedingsdocumenten van die uitdaging. De 
+aanbestedingsdocumenten bestaan uit: 
+• De nota van inlichtingen . Hierin staan de geanonimiseerde vragen die zijn gesteld over de SBIR-
+uitdaging en de antwoorden hierop.  
+• De oproep . Deze beschrijft de inhoudelijke kant van een specifieke SBIR-uitdaging en eventueel 
+aanpassingen van de procedure zoals beschreven in de handleiding. 
+• De handleiding . Het voorliggende document dat de procedurele kant van SBIR beschrijft. De in de 
+oproep genoemde versie van de handleiding is van toepassing. 
+• De formats, modellen, formulieren  en de SBIR-overeenkomst  waarnaar in deze handleiding 
+wordt verwezen.  
+ 
+Mochten er tegenstrijdigheden zitten tussen bovenstaande documenten dan gaat steeds het eerder 
+genoemde document voor het later genoemde document.  
+ 
+De aanbestedingsdocumenten zijn te downloaden op 
+www.sbir.nl 3.  
+ 
+De aanbestedingsdocumenten bevatten informatie over zowel fase 1 als over fase 2. Voor fase 2 verstuurt 
+RVO.nl een offerteverzoek waarin aanvullende voorwaarden kunnen staan.  
+ 
+1.2  
+Vragen 
+Algemene vragen over SBIR kunt u altijd stellen aan het SBIR programma bureau, bereikbaar op nummer: 
+088 602 5597. Als u vragen heeft over een specifieke SBIR uitdaging dan kunt u: 
+• Deze per e-mail stellen via het e-mail adres dat in de SBIR oproep staat vermeld. Dit kan tot 10 dagen 
+voor het sluiten van de uitdaging. 
+• Deze stellen tijdens de informatiebijeenkomst. Informatie over de informatiebijeenkomst vindt u in de 
+oproep of op www.sbir.nl . 
+ 
+Vragen en antwoorden worden (geanonimiseerd) opgenomen in de nota van inlichtingen. Het is niet 
+mogelijk om uw idee met RVO.nl te bespreken. Wel kunt u terugkoppeling krijgen of uw idee, naar oordeel 
+van RVO.nl, past binnen de SBIR uitdaging. Hiertoe kunt u een beknopte beschrijving (maximaal 1 pagina) 
+per e-mail voorleggen. Deze vragen en antwoorden worden niet opgenomen in de nota van inlichtingen. 
+ 
+Het is niet toegestaan om, in het kader van een SBIR-aanbesteding, contact te zoeken met de leden van 
+de beoordelingscommissie.  
+ 
+ 
+                                                
+ 
+3 Dit webadres verwijst door naar: http://www.rvo.nl/subsidies-regelingen/aanbesteden-van-innovaties-sbir .  
+ 
+ 
+ 
+ 4  van  17 
+2.  Offerte SBIR fase 1 
+2.1  Onderdelen van de offerte 
+Een offerte moet een afgebakend project aanbieden. Het is niet mogelijk een deel van een project aan te 
+bieden. Een offerte bestaat uit: 
+1.  een volledig ingevuld en ondertekend SBIR-formulier; 
+2.  het projectplan in het Nederlands volgens Model Projectplan fase 1; 
+3.  de begroting volgens Model begroting fase 1. 
+ 
+Wij verzoeken u dit als volgt aan te bieden: 
+• Een papieren exemplaar van de complete offerte losbladig in een mapje. 
+• Een elektronisch exemplaar van de complete offerte op USB stick 
+4 of per e-mail aan sbir@rvo.nl . Het 
+projectplan, de samenvatting en de begroting moeten daarbij als aparte PDF, Word of Excel bestanden 
+worden aangeleverd.  
+• In de oproep kan aangegeven zijn dat u extra exemplaren van de managementsamenvatting of het 
+projectplan moet aanleveren. 
+ 
+2.2  
+Eisen aan offerte fase 1 
+Er wordt met nadruk op gewezen dat aanbieder zelf verantwoordelijk is voor de volledigheid van zijn 
+offerte. Een onvolledige offerte kan leiden tot uitsluiting van de aanbestedingsprocedure.  
+ 
+RVO.nl toetst of de offerte voldoet aan onderstaande eisen. In de volgende gevallen komen offertes niet in 
+aanmerking voor een opdracht: 
+• Offerte overschrijdt (op welke manier dan ook) het maximum bedrag zoals aangegeven in de oproep. 
+Daarbij wordt gekeken naar het bedrag inclusief btw.   
+• Offerte overschrijdt de maximale looptijd.  
+•
+ De offerte is niet in het Nederlands opgesteld.  
+• Eén (of meerdere) van de volgende bijlagen ontbreekt: 
+o De begroting 
+o Het projectplan 
+• De begroting of het projectplan zijn niet in overeenstemming met de modellen die daarvoor op 
+www.sbir.nl  zijn gepubliceerd. 
+• De offerte biedt, op welke manier dan ook, een onderdeel van een project aan in plaats van een 
+volledig project.  
+ 
+RVO.nl kan, maar is daartoe niet verplicht, kleine omissies (die niet inhoudelijk zijn en hierboven niet zijn 
+genoemd) laten herstellen na het sluitingstijdstip. In die gevallen geldt dat RVO.nl per e-mail verzoekt om 
+binnen 2 werkdagen de omissies recht te zetten. Wanneer omissies niet tijdig, of niet juist worden 
+rechtgezet, komt het voorstel alsnog niet in aanmerking voor een opdracht en wordt het niet beoordeeld 
+door de beoordelingscommissie. 
+                                                
+ 
+4 Een CD-rom mag ook, maar heeft niet de voorkeur. 
+ 
+ 
+ 
+ 5  van  17 
+ 
+De volledige offerte moet voor het aangegeven tijdstip ontvangen zijn op de in de oproep aangegeven 
+locatie. Het risico van vertraging tijdens de (post)verzending of door onjuiste/onvolledige adressering is 
+geheel voor rekening van de aanbieder. Offertes die niet op tijd zijn ontvangen, zullen terzijde worden 
+gelegd. 
+ 
+2.3  
+Partijen 
+Het SBIR programma is gericht op ondernemingen met onderzoeks- en ontwikkelingscapaciteit. Ook 
+stichtingen, verenigingen, corporaties en startende ondernemers (privé personen) kunnen meedoen. Voor 
+startende ondernemers geldt dat de onderneming nog niet opgericht hoeft te zijn op het moment dat een 
+offerte wordt uitgebracht. Stichtingen, verenigingen en corporaties zullen extra moeten motiveren waarom 
+zij de aangewezen partij zijn om het voorgestelde product te ontwikkelen én succesvol op de markt te 
+brengen. Alle organisaties, ook die zonder winstoogmerk, moeten duidelijk aangeven hoe de route to 
+market er uit ziet (worden licenties uitgegeven, wordt te zijner tijd een onderneming opgericht?). 
+ 
+Een SBIR opdracht wordt gesloten met één partij. Deze ‘hoofdaannemer’ is verantwoordelijk voor het 
+resultaat en heeft uiteraard de leiding over het project. Deze partij kan samenwerken met 
+onderaannemers. RVO.nl adviseert u afspraken tussen hoofd en onderaannemers goed schriftelijk vast te 
+leggen.  
+ 
+In hoofdstuk 10.1 zijn nadere eisen aan deelnemende partijen opgenomen. 
+ 
+2.4  
+Prijs en duur van de opdracht 
+Fase 1 duurt maximaal 6 maanden. Binnen die tijd moet het haalbaarheidsonderzoek zijn afgerond. 
+ 
+U doet een offerte voor een bepaald resultaat tegen een in de offerte aangegeven vaste prijs. Uw offerte 
+moet marktconform zijn. Dus een reële prijs voor wat u aanbiedt. Houdt er bij het bepalen van de prijs 
+rekening mee dat het intellectueel eigendom bij u blijft. Er is geen overdracht aan de opdrachtgever. Wel 
+verwerft de opdrachtgever bepaalde rechten (zie paragraaf 4.2). Een marktconforme prijs houdt hier 
+rekening mee en ligt daarom lager dan de prijs voor R&D diensten aanbesteed onder de voorwaarde dat de 
+aanbestedende overheid alle resultaten voortkomend uit het contract - inclusief alle IPR - exclusief voor 
+zichzelf zou reserveren. In de begroting dient u het verschil toe te lichten. 
+ 
+U doet een offerte altijd inclusief btw (let op: het maximumbedrag van een offerte is ook inclusief btw). 
+ 
+U krijgt een vaste prijs voor de SBIR-opdracht en bent verantwoordelijk voor het resultaat. Bij de 
+uitvoering van de opdracht kunt u samenwerken met een kennisinstelling of met andere ondernemingen, 
+of delen van het werk uitbesteden.  
+ 
+De omvang van de opdracht bedraagt nooit meer dan in de SBIR oproep is aangegeven én nooit meer dan 
+het offertebedrag. 
+ 
+Een onderneming kan financiering of subsidie vragen voor onderzoek aanvullend op of naast een SBIR-
+project, daarbij geldt dat RVO.nl alleen de reële kosten vergoedt waar geen subsidie tegenover staat of 
+heeft gestaan. Wél kan een SBIR-opdracht worden gecombineerd met fiscale tegemoetkomingen en 
+vermindering(en) op de belastingafdracht zoals WBSO. 
+ 
+ 
+ 
+ 
+ 
+ 6  van  17 
+3.  Beoordelingsproces SBIR fase 1 
+3.1  Beoordelingscommissie 
+Een commissie van deskundigen adviseert de Minister over de rangschikking van de aangeboden 
+projecten. RVO.nl maakt de leden van de commissie bekend. De Minister besluit welke aanbieders een 
+opdracht wordt gegund. De commissie bepaalt haar eigen werkwijze binnen de kaders die door de 
+aanbestedingsdocumenten worden gegeven. 
+ 
+3.2  
+De voorselectie 
+Wanneer er voor fase 1 veel offertes zijn ontvangen dan maakt de commissie eerst een voorselectie van 
+de, naar hun mening, kansrijke offertes. Voor het maken van de voorselectie kijkt de commissie uitsluitend 
+naar de managementsamenvatting van iedere offerte. 
+De voorselectie bevat minimaal tweemaal het aantal naar verwachting te honoreren projecten. Wanneer er 
+bijvoorbeeld ruimte is voor 10 haalbaarheidsonderzoeken, dan bevat de voorselectie minimaal 20 offertes. 
+Wanneer een offerte niet kansrijk wordt geacht dan komt deze niet in aanmerking voor een opdracht. 
+ 
+3.3  
+De beoordelingscriteria 
+De oproep van een specifieke SBIR beschrijft de beoordelingscriteria waarop de beoordelingscommissie de 
+(kansrijke) offertes beoordeelt. De volgende zeven criteria dienen hierbij als uitgangspunt: 
+ 
+1.  Impact op de vraagstelling 
+De commissie beoordeelt hoe groot de bijdrage is aan het oplossen van het maatschappelijk vraagstuk 
+waar de uitdaging zich op richt.  
+ 
+2.  Ondernemerschap 
+De commissie beoordeelt in welke mate de aanbieder de juiste partij is om zowel de ontwikkeling als de 
+marktintroductie van de innovatie succesvol te laten verlopen. Aspecten die daarbij een rol kunnen spelen 
+zijn ambitie, kennis, kunde en ervaring. De commissie kijkt hierbij ook naar de projectpartners. 
+ 
+3.  Innovatie 
+De commissie beoordeelt de mate van innovativiteit van het te ontwikkelen product. Aspecten die daarbij 
+een rol spelen zijn originaliteit en inventiviteit. Een doorbraak scoort hoger dan een marginale verbetering. 
+Ook wezenlijk nieuwe toepassingen van een bestaand product worden aangemerkt als innovatie. 
+ 
+4.  Economisch perspectief 
+De commissie beoordeelt de kans dat het product succesvol op de markt kan worden gebracht. Aspecten 
+die daarbij een rol kunnen spelen zijn: de waarde van het intellectueel eigendom, het probleem waar de 
+innovatie op inspeelt, de waarde die het product oplevert voor klanten, de bereidwilligheid om hiervoor te 
+betalen en de toegang tot de markt. 
+ 
+5.  Kwaliteit van de offerte en het project 
+De commissie beoordeelt hoeveel vertrouwen zij, op basis van de offerte, heeft in de succesvolle realisatie 
+van de beoogde resultaten. De commissie beoordeelt daarbij: 
+ 
+ 
+ 
+ 7  van  17 
+• De kwaliteit van de offerte. Is de offerte voldoende concreet? Is duidelijk wat de resultaten zullen zijn? 
+Is het voorstel helder geschreven? Is het voorstel to the point en voldoet het aan de richtlijnen uit de 
+voorgeschreven formats? Is het duidelijk wat de aanbieder van plan is? Geeft de offerte voldoende 
+houvast voor een opdracht? 
+• De kwaliteit van het project. Leidt het project zoals voorgesteld tot de beoogde resultaten? 
+ 
+6.  Ecologische en sociale aspecten 
+De commissie beoordeelt de mate waarin het project bijdraagt aan andere maatschappelijke aspecten die 
+niet door het criterium Impact worden gedekt. Het gaat daarbij met name om ecologische en sociale 
+effecten. Denkt u bij ecologische effecten aan bijvoorbeeld beschikbaarheid van grondstoffen en energie en 
+aan effecten op de omgeving. Denkt u bij sociale effecten bijvoorbeeld aan veiligheid, volksgezondheid, 
+mobiliteit en ruimtelijke ordening. Zowel positieve als negatieve effecten zijn van belang. 
+ 
+7.  Prijs 
+De commissie beoordeelt de prijs van de offerte.  
+ 
+ 
+Het gewicht (aantal punten) dat aan de verschillende criteria wordt toegekend, staat in de oproep. 
+ 
+De beoordeling leidt tot een rangorde van de offertes. De beoordelingscommissie adviseert de Minister de 
+hoogst gerangschikte offertes te honoreren met een opdracht binnen het beschikbare maximum in geld 
+en/of in aantal, zoals verwoord in de oproep. 
+ 
+3.4  
+Drempelwaarde 
+Alleen offertes met de volgende minimale score komen in aanmerking voor een opdracht: 
+• 60% van het maximum aantal te behalen punten en 
+• 60% van het maximum aantal te behalen punten voor het eerste criterium (impact).  
+ 
+Wanneer de offertes, naar oordeel van de commissie, volgens deze maatstaven van onvoldoende kwaliteit 
+zijn, adviseert de commissie de Minister het in de oproep gepubliceerde budget niet in zijn geheel te 
+besteden, danwel niet het totale aantal voorgenomen opdrachten te gunnen. 
+ 
+3.5  
+Gunning 
+De beoordelingscommissie adviseert de verantwoordelijke Minister. Deze beslist over de opdrachtverlening. 
+De uitslag staat na de beslissing van de Minister vast. Over de uitslag wordt niet gecorrespondeerd. De 
+aanbieders krijgen een motivatie van het oordeel van de commissie. Bezwaar maken tegen de uitslag is 
+niet mogelijk. Wel kan binnen 21 dagen na het ontvangen van de motivatie een civiel kort geding bij de 
+rechtbank in Den Haag worden aangespannen tegen de uitslag, wanneer deze uw inziens onrechtmatig zou 
+zijn. Na deze periode is dat niet meer mogelijk en bent u niet meer ontvankelijk. RVO.nl maakt, in het 
+algemeen, binnen acht weken na het verstrijken van de deadline voor het aanbieden van offertes de 
+uitslag bekend aan de aanbieders.  
+ 
+ 
+ 
+ 
+ 8  van  17 
+3.6  Vertrouwelijkheid 
+Projectplan, managementsamenvatting en begroting worden vertrouwelijk behandeld. RVO.nl publiceert de 
+volgende gegevens van de organisaties die een opdracht gegund krijgen: 
+• de naam van de organisatie, 
+• hun vestigingsplaats en  
+• de titel van het project.  
+ 
+Op termijn publiceert RVO.nl een openbare samenvatting van de gehonoreerde projecten. De inhoud 
+hiervan wordt met u afgestemd en alleen gepubliceerd na uw goedkeuring. 
+ 
+Alle commissieleden en alle medewerkers van RVO.nl die de offertes inzien, hebben een 
+geheimhoudingsplicht. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9  van  17 
+4.  SBIR fase 1: Het haalbaarheidsonderzoek 
+4.1  De opdrachtverlening 
+De opdrachten worden gegund volgens de SBIR-overeenkomst voor fase 1 (zie hoofdstuk 9). Gangbaar is 
+om bij aanvang een voorschot te geven van 80% van het offertebedrag. De resterende 20% betaalt RVO.nl 
+wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+4.2  
+Het intellectueel eigendom 
+De opdrachtnemer behoudt het intellectueel eigendom. Opdrachtgever verwerft de volgende rechten: 
+• Het recht de resultaten te gebruiken voor publicitaire doeleinden. 
+• Het recht op het gebruik van de kennis, zonder betaling van licentiekosten.  
+• Het recht de kennis openbaar te maken als hij dat nodig acht in het kader van het algemeen 
+belang.  
+• De mogelijkheid om de onderneming te verplichten om onder redelijke voorwaarden licenties te 
+verstrekken aan derden. 
+ 
+4.3  
+Het haalbaarheidsonderzoek 
+In het haalbaarheidsonderzoek onderzoekt u die aspecten die voor de haalbaarheid van uw product van 
+belang zijn. Na het haalbaarheidsonderzoek is duidelijk: 
+• of realisatie van innovatie technisch haalbaar is,  
+• of ontwikkeling en productie haalbaar zijn,  
+• of er een marktvraag is en, zo ja, welke partijen nodig zijn om de innovatie te realiseren, 
+• wat de impact van uw project is op het maatschappelijk vraagstuk en 
+• wat de sociale en ecologische aspecten van uw project zijn. 
+ 
+Zaken die van te voren al duidelijk zijn, hoeft u uiteraard in het haalbaarheidsonderzoek niet te 
+onderzoeken. 
+ 
+4.4  
+Resultaat fase 1: eindrapport 
+Het resultaat van een haalbaarheidsonderzoek is een rapport waarin u de resultaten van het 
+haalbaarheidsonderzoek beschrijft en de conclusies die hieruit komen voor een vervolgtraject. Het rapport 
+is opgesteld volgens het format eindrapport haalbaarheidsonderzoek. Dat fase 1 resulteert in een rapport 
+betekent niet dat fase 1 uitsluitend een deskstudy  is. Een eerste demonstratie kan bijvoorbeeld een goede 
+manier zijn om de haalbaarheid te onderzoeken.  
+ 
+4.5  
+Wijzigingen tijdens fase 1 
+In goed overleg kunnen, tijdens de uitvoer van fase 1, wijzigingen in het project plaatsvinden. Schriftelijke 
+instemming van RVO.nl is vereist voor iedere wijziging die consequenties heeft voor de resultaten van het 
+project.  
+ 
+ 
+ 
+ 1
+0 
+van  17 
+ 
+Onderaannemers kunnen tijdens de uitvoer van de opdracht worden gewijzigd, mits het projectresultaat 
+hier niet onder lijdt. Wanneer een onderaannemer wordt vervangen moet, naar oordeel van RVO.nl, de 
+nieuwe onderaannemer dus minstens net zo goed zijn als de oude onderaannemer.  
+ 
+ 
+ 
+ 
+ 1
+1 
+van  17 
+5.  Offerte fase 2 
+5.1  Partijen 
+RVO.nl stuurt een offerteverzoek wanneer: 
+• fase 1 naar tevredenheid is afgerond en 
+• uit het haalbaarheidsonderzoek blijkt dat de innovatie haalbaar is. 
+ 
+Fase 2 staat alleen open voor partijen die daarvoor een offerteverzoek hebben ontvangen en voldoen aan 
+de voorwaarden die voor fase 1 aan partijen zijn gesteld. Eventuele aanvullende voorwaarden staan in het 
+offerteverzoek.  
+ 
+Een andere onderneming dan de hoofdaannemer van fase 1 kan hoofdaannemer voor fase 2 zijn als dit 
+logischerwijs voortkomt uit het haalbaarheidsonderzoek. Dit moet door de hoofdaannemer van fase 1 
+kenbaar worden gemaakt, uiterlijk op het moment dat de rapportage van fase 1 wordt opgeleverd. 
+ 
+5.2  
+Onderdelen offerte fase 2 
+Een offerte bestaat uit: 
+• Een volledig ingevuld en ondertekend SBIR-formulier. 
+• Projectplan in het Nederlands volgens model fase 2 
+• Businessplan volgens model businessplan (het businessplan mag in het Engels zijn gesteld). 
+• Begroting volgens model fase 2 
+• Zo mogelijk: Intentieverklaring(en) van een financier of eerste klant die bereid is te investeren in de 
+innovatie na fase 2.  
+ 
+Voor de offerte voor fase 2 gelden alle procedures en voorwaarden die gelden voor de offertes voor fase 1. 
+Alleen de bijlagen bij het SBIR formulier verschillen zoals hierboven aangegeven. Daarnaast geldt de 
+volgende aanvullende voorwaarde: De offerte moet zich uitsluitend richten op hoogwaardig onderzoek en 
+ontwikkeling. Activiteiten die hier niet binnen passen kunnen niet in de offerte worden opgevoerd. Welke 
+werkzaamheden onder het begrip onderzoek en ontwikkeling vallen is beschreven in hoofdstuk 10.2. 
+ 
+5.3  
+Prijs en duur van de opdracht  
+De bepalingen voor fase 1 (zie paragraaf 2.4) gelden ook voor fase 2. Het enige verschil is dat fase 2 
+maximaal 2 jaar duurt. 
+ 
+5.4  
+Eisen offerte fase 2 
+In aanvulling op de eisen genoemd onder ‘Offerte fase 1’ geldt dat RVO.nl een offerte voor fase 2 ook niet 
+aan de commissie voorlegt wanneer het businessplan ontbreekt. 
+ 
+ 
+ 
+ 
+ 1
+2 
+van  17 
+6.  Beoordelingsproces sbir fase 2 
+ 
+Het beoordelingsproces voor fase 2 verschilt alleen op de volgende punten van het beoordelingsproces 
+voor fase 1 (zie hoofdstuk 3): 
+• Voor fase 2 vindt geen voorselectie plaats. 
+• Doorgaans krijgen de aanbieders voor fase 2 de gelegenheid om hun offerte voor de commissie toe te 
+lichten. Voor fase 1 zal dit doorgaans niet het geval zijn. 
+• De minimale score die offertes moeten halen om in aanmerking te komen voor een opdracht is 70% 
+van het totale aantal punten. (De eis van minimaal 60% van de maximale score op het eerste 
+criterium is ongewijzigd). 
+• Voor de beoordeling van het economisch perspectief weegt expliciet mee wat de vooruitzichten voor 
+fase 3 zijn.  
+ 
+ 
+ 
+ 
+ 
+ 1
+3 
+van  17 
+7.  SBIR Fase 2: Het onderzoek- en 
+ontwikkelingstraject 
+7.1  De opdrachtverlening 
+De opdrachten worden gegund volgens de SBIR-overeenkomst voor fase 2 (zie hoofdstuk 9). Gangbaar is 
+om bij aanvang een voorschot te geven van 20% van het offertebedrag. 60% betaald RVO.nl tijdens de 
+uitvoer van fase 2. Deze betalingen zijn gekoppeld aan de voortgang van het project. De resterende 20% 
+betaalt RVO.nl wanneer het project naar tevredenheid van RVO.nl is afgerond. 
+ 
+7.2  
+Het intellectueel eigendom 
+Ook voor fase 2 behoudt de opdrachtnemer het intellectueel eigendom. De rechten die de opdrachtgever 
+verwerft zijn gelijk aan de rechten voor fase 1 (zie paragraaf 4.2). 
+ 
+7.3  
+Resultaten fase 2 
+Aan het eind van SBIR fase 2 wordt opgeleverd: 
+• Een eindrapportage conform het format voor fase 2. 
+• Een demonstratie van een getest product, dienst of proces. 
+ 
+Op aanvraag wordt de volgende (achterliggende) documentatie beschikbaar gesteld om in te zien: 
+• een (technische) specificatie van het product of een beschrijving van de dienst; 
+• een testprotocol; 
+• een productieplan (plan voor de uitvoering van de dienst); 
+• technische documentatie, en 
+• het geactualiseerde businessplan. 
+ 
+7.4  
+Wijzigingen tijdens fase 2 
+De voorwaarden voor wijziging tijdens fase 2 zijn gelijk aan de voorwaarden voor wijziging voor fase 1. 
+ 
+ 
+ 
+ 1
+4 
+van  17 
+8.  SBIR Fase 3: marktrijp maken 
+Fase 3 wordt niet vanuit het SBIR programma gefinancierd. De onderneming informeert de opdrachtgever 
+over de vorderingen van de commercialisatie. Zo nodig kan RVO.nl niet technische en niet financiële hulp 
+verlenen. 
+ 
+ 
+ 
+ 
+ 
+ 1
+5 
+van  17 
+9.  Formulieren, modellen, formats & overeenkomsten 
+Op www.sbir.nl  kunt u de volgende documenten downloaden:  
+ 
+• SBIR formulier fase 1 en fase 2 
+• Model Projectplan fase 1 
+• Model begroting fase 1 
+• SBIR-overeenkomst fase 1  
+• Format eindrapport fase 1 
+• Model Projectplan fase 2 
+• Model Businessplan fase 2 
+• Model begroting fase 2 
+• SBIR-overeenkomst fase 2  
+• Format eindrapportage fase 2 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 1
+6 
+van  17 
+10.  Nadere Juridische bepalingen 
+10.1  Eisen aan partijen 
+Iedereen die aan de volgende voorwaarden voldoet kan een offerte indienen voor fase 1 van een SBIR-
+uitdaging.  
+ 
+• Bij opdrachtverlening moet de opdrachtnemer ingeschreven zijn in het beroepsregister of in het 
+handelsregister volgens de voorschriften van de lidstaat (EU) waar hij is gevestigd.  
+• Aanbieder mag niet bij een onherroepelijk vonnis of arrest veroordeeld zijn op grond van artikel 140, 
+177, 177a, 178, 225, 226, 227, 227a, 227b of 232a, 328ter, tweede lid, 416, 417, 417bis, 420bis, 
+420ter of 420quater van het Wetboek van Strafrecht. 
+• Aanbieder verkeert niet in staat van faillissement of van liquidatie, de werkzaamheden zijn niet 
+gestaakt, verkeert niet in surseance van betaling of akkoord, of verkeert niet in een andere 
+vergelijkbare toestand ingevolge een soortgelijke procedure die voorkomt in de op hem van toepassing 
+zijnde wet- of regelgeving. 
+• Voor aanbieder is niet faillissement of liquidatie aangevraagd, of is geen procedure van surseance van 
+betaling of akkoord, dan wel een andere soortgelijke procedure die voorkomt in de op hem van 
+toepassing zijnde wet- of regelgeving, aanhangig gemaakt. 
+• Aanbieder is in staat de opdracht met zijn bestaande financiële middelen uit te voeren. Aanbieder zijn 
+geen claims of noodzakelijke investeringen bekend gedurende de periode van de uitvoering van de 
+overeenkomst die de organisatie in een zodanige positie kunnen brengen dat de financieel-
+economische draagkracht of de continuïteit van de organisatie in gevaar wordt gebracht. 
+• Aanbieder is niet bij een rechterlijke uitspraak die kracht van gewijsde heeft volgens de op hem van 
+toepassing zijnde wet- of regelgeving, veroordeeld geweest voor een delict dat de beroepsmoraliteit 
+(van de onderneming) in het gedrang brengt. 
+• Aanbieder heeft voldaan aan zijn verplichtingen ten aanzien van de betaling van de sociale 
+verzekeringsbijdragen overeenkomstig de wettelijke bepalingen van het land waar hij gevestigd is of in 
+het land van de aanbestedende dienst. 
+• Aanbieder heeft aan zijn verplichtingen voldaan ten aanzien van de betaling van zijn belastingen 
+overeenkomstig de wettelijke bepalingen van het land waar hij is gevestigd of van het land van de 
+aanbestedende dienst. 
+ 
+10.2  
+Onderzoek en ontwikkeling 
+De volgende werkzaamheden vallen onder het begrip “onderzoek en ontwikkeling”:  
+• Experimentele of theoretische activiteiten die worden verricht om nieuwe kennis te verwerven. 
+• Planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met 
+het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, 
+procedés of diensten aanmerkelijk te verbeteren.  
+ 
+ 
+ 
+ 1
+7 
+van  17 
+• Het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technische, 
+zakelijke en andere relevante kennis en vaardigheden voor plannen, schema's of ontwerpen van 
+nieuwe, gewijzigde of verbeterde producten, procedés of diensten.  
+• Het maken van ontwerpen, tekeningen, plannen en andere documentatie, mits zij niet voor 
+commercieel gebruik zijn bestemd. 
+• De ontwikkeling van commercieel bruikbare prototypes en proefprojecten, indien het prototype het 
+commerciële eindproduct is en de productie ervan te duur is om alleen voor demonstratie- en 
+validatiedoeleinden te worden gebruikt.  
+• De experimentele ontwikkeling en het testen van producten, procedés en diensten, voor zover deze 
+niet voor industriële toepassing of commerciële exploitatie kunnen worden gebruikt of geschikt 
+gemaakt.  
+• De productie van een beperkte 0-serie: beperkte productie of levering om de resultaten van 
+veldproeven te incorporeren en te demonstreren dat het product of de dienst geschikt is voor productie 
+of levering in grotere hoeveelheden volgens aanvaardbare kwaliteitsnormen. 
+ 
+De volgende activiteiten vallen niet onder onderzoek en ontwikkeling: 
+• De routinematige of periodieke wijziging van bestaande producten, productielijnen, 
+fabricageprocessen, diensten en andere courante activiteiten, zelfs indien deze wijzigingen 
+verbeteringen kunnen inhouden.  
+• Prototypes waarvan de marktrijpheid al is getoetst en routinematig of periodieke wijzigingen van 
+bestaande producten, productielijnen, fabricageprocessen of diensten en andere courante 
+werkzaamheden, zelfs indien deze wijzigingen verbeteringen zijn.  
+• Commerciële ontwikkelingsactiviteiten zoals serieproductie, levering om commerciële 
+levensvatbaarheid te bereiken of O&O-kosten te recupereren, integratie, maatwerk, incrementele 
+aanpassingen en verbeteringen van bestaande producten of procedés.
+
+=== Document: arvodi-2014meezendversie1 ===
+ARVODI-2014 (meezendversie)  1 
+ 
+Algemene Rijksvoorwaarden voor het verstrekken van opdrachten tot het verrichten van diensten 2014 (ARVODI -
+2014), zoals vastgesteld bij besluit van de Minister-president, Minister van Algemene Zaken, van 26 maart 2014, nr. 
+3132081 
+ 
+I ALGEMEEN 
+ 
+1  Begrippen 
+In deze algemene voorwaarden worden de navolgende begrippen met een beginhoofdletter gebruikt. Onder 
+deze begrippen wordt verstaan: 
+1.1 Beroepsfouten: tekortkomingen, zoals vergissingen, onachtzaamheden, nalatigheden, verzuimen, onjuiste 
+adviezen, die een vakbekwame en zorgvuldige opdrachtnemer onder de gegeven omstandigheden met 
+inachtneming van normale oplettendheid en bij een normale vakkennis en normale wijze van vakuitoefening 
+behoort te vermijden; 
+1.2 Bijlage: een aanhangsel bij de Overeenkomst dat na parafering door beide Partijen deel uitmaakt van de 
+Overeenkomst; 
+1.3 Diensten: de door Opdrachtnemer op basis van de Overeenkomst ten behoeve van Opdrachtgever te 
+verrichten werkzaamheden; 
+1.4 Opdrachtgever: de Staat der Nederlanden of elke andere opdrachtgever die van deze algemene 
+voorwaarden gebruik maakt;  
+1.5 Opdrachtnemer: de wederpartij van Opdrachtgever;  
+1.6 Overeenkomst: de schriftelijke overeenkomst tussen Opdrachtgever en Opdrachtnemer waarop de 
+Voorwaarden van toepassing zijn verklaard; 
+1.7 Partij: Opdrachtgever of Opdrachtnemer, afhankelijk van de context;  
+1.8 Personeel van Opdrachtgever: het door Opdrachtgever op grond van de Overeenkomst ter beschikking te 
+stellen personeel; 
+1.9 Personeel van Opdrachtnemer: de door Opdrachtnemer voor de uitvoering van de Overeenkomst in te 
+schakelen personeelsleden of hulppersonen die krachtens de Overeenkomst onder zijn 
+verantwoordelijkheid zullen werken; 
+1.10 Voorwaarden: deze algemene voorwaarden die van toepassing zijn op en deel uitmaken van de 
+Overeenkomst;  
+1.11 Werkdag: kalenderdag, behoudens weekenden en algemeen erkende feestdagen in de zin van artikel 3, 
+eerste lid, van de Algemene Termijnenwet. 
+ 
+2  Toepassing 
+2.1 Wijzigingen van of aanvulling op de Overeenkomst of afwijkingen van (onderdelen van) de Voorwaarden 
+zijn slechts bindend, voor zover zij uitdrukkelijk tussen Partijen schriftelijk zijn overeengekomen.  
+2.2 In geval van strijdigheid tussen de Nederlandse tekst van deze Voorwaarden en vertalingen daarvan, 
+prevaleert steeds de Nederlandse tekst. 
+ 
+II UITVOERING VAN DE OVEREENKOMST 
+3  Garanties van de Opdrachtnemer 
+3.1 Opdrachtnemer garandeert dat de door of namens hem te verrichten Diensten voldoen aan de in de 
+Overeenkomst vastgelegde eisen. 
+3.2 Opdrachtnemer garandeert dat de door of namens hem te verrichten Diensten op vakbekwame wijze 
+worden uitgevoerd. 
+ 
+4  Beoordeling en acceptatie  
+4.1 Opdrachtgever beoordeelt de resultaten van de Diensten binnen een termijn van 30 dagen na de dag van 
+levering. Indien Opdrachtgever de resultaten als voldoende beoordeelt, accepteert hij deze door middel van 
+een kennisgeving aan Opdrachtnemer.   
+ 
+ARVODI-2014 (meezendversie)  2 
+ 
+4.2  Indien Opdrachtgever de resultaten van de Diensten als onvoldoende beoordeelt, stuurt hij Opdrachtnemer 
+een kennisgeving van niet-acceptatie.  
+4.3 Opdrachtgever kan de resultaten van de Diensten door derden laten beoordelen.  
+4.4 Indien Opdrachtgever zich niet binnen een termijn van 30 dagen na de dag van levering over de beoordeling 
+heeft uitgelaten, worden de resultaten van de Diensten geacht te zijn geaccepteerd.  
+4.5 Opdrachtgever is niet gehouden tot enige betaling aan Opdrachtnemer voor dat acceptatie heeft 
+palaatsgevonden. 
+ 
+5  Plaats en tijden werkzaamheden 
+De werkzaamheden worden verricht op de in de Overeenkomst bepaalde tijd en plaats.  
+ 
+6  Vervanging personen die belast zijn met de uitvoering van de Diensten  
+6.1  Vervanging van personen die zijn belast met de uitvoering van de Diensten, kan door Opdrachtnemer 
+slechts bij uitzondering plaatsvinden. 
+6.2 Opdrachtnemer kan personen die zijn belast met de uitvoering van de Diensten niet zonder voorafgaande 
+toestemming van Opdrachtgever tijdelijk of definitief vervangen. Opdrachtgever weigert zijn toestemming 
+niet op onredelijke gronden en kan aan deze toestemming voorwaarden verbinden. De voor de 
+oorspronkelijke personen geldende tarieven kunnen bij vervanging niet worden verhoogd.  
+6.3 Indien Opdrachtgever vervanging verlangt van personen die zijn belast met de uitvoering van de Diensten, 
+omdat hij meent dat dit in het belang van een goede uitvoering van de Overeenkomst nodig of wenselijk is, 
+geeft Opdrachtnemer hieraan gevolg. Daarbij wordt een tarief in rekening gebracht dat niet hoger is dan het 
+tarief dat voor de persoon die wordt vervangen in de Overeenkomst is vastgelegd.  
+6.4 Bij een vervanging van personen die belast zijn met de uitvoering van de Overeenkomst, stelt 
+Opdrachtnemer personen beschikbaar die qua deskundigheid, opleiding en ervaring ten minste 
+gelijkwaardig zijn aan de te vervangen personen, dan wel voldoen aan hetgeen Partijen ten aanzien van 
+deze personen zijn overeengekomen.  
+ 
+7  Gebruik van zaken van Opdrachtgever  
+Bij het verrichten van de Diensten kan Opdrachtnemer gebruik maken van zaken die eigendom zijn van 
+Opdrachtgever, en die voor dat doel aan Opdrachtnemer in bruikleen worden gegeven. Aan deze bruikleen 
+kunnen voorwaarden worden verbonden. 
+ 
+8  Onderaanneming 
+8.1 Bij het uitvoeren van de Overeenkomst maakt Opdrachtnemer slechts na toestemming van Opdrachtgever 
+gebruik van de diensten van derden. Opdrachtgever onthoudt deze toestemming niet op onredelijke 
+gronden. Aan de toestemming kan hij voorwaarden verbinden.  
+8.2 De door Opdrachtgever verleende toestemming laat onverlet de eigen verantwoordelijkheid en 
+aansprakelijkheid van Opdrachtnemer voor de nakoming van de krachtens de Overeenkomst op hem 
+rustende verplichtingen en de krachtens de belasting- en socialeverzekeringswetgeving op hem als 
+werkgever rustende verplichtingen. 
+ 
+III   VERHOUDING TUSSEN PARTIJEN EN BEGELEIDING 
+ 
+9 Voortgangsrapportage 
+Opdrachtnemer rapporteert over de voortgang van de werkzaamheden aan Opdrachtgever zo vaak en op 
+de wijze als in de Overeenkomst is bepaald dan wel Opdrachtgever nodig acht. 
+ 
+10  Contactpersonen 
+10.1 Beide Partijen wijzen een contactpersoon aan, die de contacten over de uitvoering van   de Overeenkomst 
+onderhoudt. Partijen informeren elkaar over degene die zij als contactpersoon hebben aan gewezen. 
+ 
+ARVODI-2014 (meezendversie)  3 
+ 
+10.2 Contactpersonen kunnen Partijen alleen vertegenwoordigen en binden voor zover het betreft de uitvoering 
+van de Overeenkomst. Tot wijziging van de Overeenkomst zijn zij niet bevoegd. 
+ 
+11 Begeleidingscommissie/stuurgroep 
+De Overeenkomst kan voorzien in de instelling van een begeleidingscommissie of stuurgroep. De taken en 
+bevoegdheden, alsmede de samenstelling van de begeleidingscommissie of stuurgroep , kunnen in de 
+Overeenkomst nader worden bepaald.    
+ 
+12  Wijze van kennis geven 
+12.1 Mededelingen, waaronder begrepen toezeggingen of (nadere) afspraken, van de ene aan de andere Partij 
+van belang voor de uitvoering van de Overeenkomst, binden Partijen alleen indien ze schriftelijk door een 
+daartoe bevoegde persoon zijn gedaan of bevestigd.  
+12.2 Onder “schriftelijk” wordt tevens “langs elektronische weg” verstaan, waarbij:  
+a. de kennisgeving raadpleegbaar is door de geadresseerde, 
+b. de authenticiteit van de kennisgeving in voldoende mate is gewaarborgd , en  
+c. de identiteit van de kennisgever met voldoende zekerheid kan worden vastgesteld.  
+ 
+13  Geheimhouding 
+13.1 Opdrachtnemer maakt hetgeen hem bij de uitvoering van de Overeenkomst ter kennis komt en waarvan hij 
+het vertrouwelijke karakter kent of redelijkerwijs kan vermoeden op geen enkele wijze verder bekend, 
+behalve voor zover enig wettelijk voorschrift of een uitspraak van de rechter hem tot bekendmaking daarvan 
+verplicht. 
+13.2 Opdrachtnemer verplicht zijn Personeel deze geheimhoudingsverplichting na te leven en staat ervoor in dat 
+deze personen die verplichting nakomen 
+13.3 Opdrachtnemer mag de resultaten van de verrichte Diensten in generlei vorm aan derden beschikbaar 
+stellen, noch hierover aan derden enige inlichting verschaffen, tenzij Opdrachtgever hiervoor uitdrukkelijk 
+toestemming heeft verleend. Opdrachtgever kan aan deze toestemming voorwaarden verbinden 
+13.4 Opdrachtnemer stelt alle gegevens (schriftelijke stukken, computerbestanden, etc.) die hij in het kader van 
+de uitvoering van de Overeenkomst onder zich heeft, binnen 10 Werkdagen na beëindiging van de 
+desbetreffende werkzaamheden aan Opdrachtgever ter beschikking. 
+13.5 Opdrachtgever kan bij de Overeenkomst een boete stellen op het schenden van de 
+geheimhoudingsverplichting. Betaling van die onmiddellijk opeisbare boete laat de gehoudenheid van 
+Opdrachtnemer om de schade die het gevolg is van de schending te vergoeden onverlet. 
+ 
+14  Verwerking persoonsgegevens 
+14.1 Voor zover Opdrachtnemer in het kader van de uitvoering van de Overeenkomst persoonsgegevens voor 
+Opdrachtgever verwerkt, wordt Opdrachtnemer als bewerker in de zin van de Wet bescherming 
+persoonsgegevens (Wbp) aangemerkt en geldt de Overeenkomst tevens als overeenkomst in de zin van 
+artikel 14 lid 2 Wbp. Opdrachtnemer is niet gerechtigd om op enig moment de persoonsgegevens die hij ter 
+beschikking krijgt op enigerlei wijze geheel of gedeeltelijk anders te (doen) gebruiken dan voor de uitvoering 
+van de Overeenkomst een en ander behoudens afwijkende wettelijke verplichtingen.  
+14.2 Opdrachtnemer zal in het in artikel 14.1 bedoelde geval passende technische en organisatorische 
+beveiligingsmaatregelen treffen om de persoonsgegevens te beveiligen tegen verlies of tegen enige vorm 
+van onrechtmatige verwerking. Deze maatregelen garanderen, rekening houdend met de stand van de 
+techniek en de kosten van de tenuitvoerlegging daarvan, een passend beveiligingsniveau gelet op de 
+risico’s die de verwerking en de aard van de te beschermen gegevens meebrengen. De maatregelen zijn er 
+mede op gericht onnodige verzameling en verdere verwerking van persoonsge gevens te voorkomen. 
+Opdrachtnemer legt de maatregelen schriftelijk vast 
+ 
+ 
+ARVODI-2014 (meezendversie)  4 
+ 
+14.3 Opdrachtnemer verwerkt persoonsgegevens, als gedefinieerd in artikel 1 Wbp, op behoorlijke en 
+zorgvuldige wijze en in overeenstemming met de toepasselijke wet- en regelgeving alsmede een eventueel 
+toepasselijke gedragscode van Opdrachtgever. Het voorgaande geldt onverkort ook voor 
+grensoverschrijdende verzending en/of distributie en/of verstrekking van persoonsgegevens naar niet EU -
+landen. 
+14.4 Opdrachtnemer verleent Opdrachtgever zijn volledige medewerking om betrokkenen in de zin van artikel 1 
+onder f Wbp (i) inzage in hun persoonsgegevens te laten krijgen, (ii) persoonsgegevens te laten verwijderen 
+of te corrigeren, en/of (iii) aan te laten tonen dat persoonsgegevens verwijderd of gecorrigeerd zijn indien zij  
+incorrect zijn of, indien Opdrachtgever het standpunt van betrokkene bestrijdt, vast te leggen dat betrokkene 
+zijn persoonsgegevens als incorrect beschouwt. 
+ 
+15 Beveiliging 
+15.1 Opdrachtnemer draagt zijn Personeel dat betrokken is bij de uitvoering van de  werkzaamheden voor zover 
+die bij Opdrachtgever worden verricht, op de door Opdrachtgever aangegeven beveiligingsprocedures en 
+huisregels in acht te nemen. Opdrachtgever informeert Opdrachtnemer tijdig over deze procedures en 
+regels. 
+15.2 Opdrachtgever kan vorderen dat van Personeel van Opdrachtnemer uiterlijk drie Werkdagen voor aanvang 
+van de werkzaamheden bij Opdrachtgever verklaringen omtrent het gedrag wor den overgelegd. 
+15.3 Opdrachtgever kan Personeel van Opdrachtnemer onderwerpen aan een veiligheidsonderzoek, 
+overeenkomstig de bij Opdrachtgever gebruikelijke regels. Opdrachtnemer verleent aan dit onderzoek zijn 
+volledige medewerking. Opdrachtgever kan op grond van de uitkomsten van een dergelijk veiligheids-
+onderzoek de inzet van het betrokken personeelslid bij de uitvoering van de Overeenkomst zonder opgave 
+van redenen weigeren. 
+ 
+IV FINANCIËLE BEPALINGEN 
+ 
+16  Vergoeding, Meerwerk en Minderwerk 
+16.1 Opdrachtgever vergoedt aan Opdrachtnemer de werkelijk door hem gemaakte kosten en uren, tenzij in de 
+Overeenkomst een vaste prijs is overeengekomen. 
+16.2 Indien door aanvullende wensen of gewijzigde inzichten van Opdrachtgever of door wijziging van de voor de 
+te verrichten prestaties van belang zijnde wettelijke voorschriften, de prestaties die Opdrach tnemer op 
+grond van de Overeenkomst moet verrichten, aantoonbaar worden verzwaard dan wel uitgebreid, is sprake 
+van meerwerk, dat voor vergoeding in aanmerking komt. Tot meerwerk worden niet gerekend aanvullende 
+werkzaamheden of gewijzigde inzichten die Opdrachtnemer bij het sluiten van de Overeenkomst had 
+behoren te voorzien. Indien een Partij meent dat van meerwerk sprake is, doet zij daarvan zo spoedig 
+mogelijk mededeling aan de andere Partij. 
+16.3 Opdrachtnemer vangt niet aan met meerwerk alvorens hij daartoe schriftelijke opdracht van Opdrachtgever 
+heeft gekregen. Opdrachtnemer brengt ter verkrijging van een opdracht een schriftelijke offerte uit met 
+betrekking tot de omvang van het verwachte meerwerk en de daaraan verbonden tijdsduur en kosten. Ter 
+zake van het door Opdrachtnemer te verrichten meerwerk gelden de bepalingen van de Overeenkomst, 
+waaronder de tarieven en eventuele kortingen, voor zover deze door de nadere schriftelijke opdracht niet 
+worden gewijzigd. Opdrachtnemer kan bij het uitbrengen van een offerte geen nadere dan wel zwaardere 
+voorwaarden stellen dan die waarmee Opdrachtgever instemt. 
+16.4 Opdrachtnemer aanvaardt en voert een opdracht tot meerwerk uit tot een maximum van 15% van de 
+oorspronkelijke opdracht. Een dergelijke opdracht tot meerwerk wordt uitgevoerd onder de bepalingen van 
+de Overeenkomst. 
+16.5 Indien door gewijzigde inzichten van Opdrachtgever of door wijziging van de voor de te verrichten prestaties 
+van belang zijnde wettelijke voorschriften de prestaties die Opdrachtnemer op grond van de Overeenkomst 
+moet verrichten, aantoonbaar worden verlicht dan wel verminderd, is sprake van minderwerk, dat voor 
+verrekening in aanmerking komt. Indien een Partij meent dat van minderwerk sprake is, doet zij daarvan zo 
+ 
+ARVODI-2014 (meezendversie)  5 
+ 
+spoedig mogelijk schriftelijk mededeling aan de andere Partij. Indien een vaste prijs is overeengekomen, 
+bepalen Partijen in onderling overleg het bedrag van het minderwerk, dat met de te betalen prijs wordt 
+verrekend. 
+ 
+17 Facturering 
+17.1 Opdrachtnemer verzendt de factuur elektronisch zodat deze met inachtneming van de door Opdrachtgever 
+gegeven specificaties elektronisch kan worden ontvangen en verwerkt.  
+17.2 Opdrachtnemer zendt de factuur toe aan Opdrachtgever onder vermelding van datum en nummer van de 
+Overeenkomst, van het BTW-bedrag en, indien van toepassing op grond van artikel 4, onder overlegging 
+van een afschrift van de kennisgeving van acceptatie, alsmede andere door Opdrachtgever verlangde 
+gegevens.  
+17.3 Indien is overeengekomen dat betaling volgens nacalculatie plaatsvindt, specificeert en factureert 
+Opdrachtnemer de factuur in door Opdrachtgever eventueel nader aangegeven vorm. In de factuur doet 
+Opdrachtnemer opgave van het aantal en de data van de werkelijk en noodzakelijk bestede dagen of uren, 
+waarbij Opdrachtnemer een korte omschrijving van de verrichte werkzaamheden geeft, alsmede een 
+omschrijving van de eventuele reis-  en verblijfkosten, indien deze niet zijn inbegrepen in de dag- of 
+uurtarieven. 
+17.4 Meerwerk wordt door Opdrachtnemer na voltooiing van de meerwerkzaamheden, en acceptatie daarvan 
+door Opdrachtgever, apart gefactureerd. De aard en de omvang van de verrichte meerwerkzaamheden 
+worden in de facturen uitdrukkelijk vermeld en, aan de hand van authentieke documenten, gespecificeerd. 
+ 
+18  Betaling en controle 
+18.1 Opdrachtgever betaalt het door hem op basis van de Overeenkomst aan Opdrachtnemer verschuldigde 
+bedrag uiterlijk binnen 30 dagen na de dag van ontvangst van de desbetreffende factuur indien deze 
+voldoet aan het bepaalde in de Overeenkomst.   
+18.2 Indien Opdrachtgever een factuur zonder geldige reden niet binnen het verstrijken van de in het vorige lid 
+genoemde termijn heeft voldaan, is hij van rechtswege verschuldigd: a. een kostenvergoeding als bedoeld 
+in art. 6:96 lid 4 van het Burgerlijk Wetboek en  
+b. de wettelijke rente als bedoeld in art. 6:119b lid 1 van het Burgerlijk Wetboek.  
+De kosten- en rentevergoeding wordt voldaan op vordering van Opdrachtnemer.  
+18.3 Opdrachtgever kan de door Opdrachtnemer verzonden factuur door een door Opdrachtgever aan te wijzen 
+accountant als bedoeld in artikel 2:393 lid 1 van het Burgerlijk Wetboek op inhoudelijke juistheid laten 
+controleren. Opdrachtnemer verleent de betrokken accountant inzage in boeken en bescheiden en verstrekt 
+hem alle gegevens en informatie die deze verlangt. De controle is vertrouwelijk en strekt zich niet verder uit 
+dan voor het verifiëren van de facturen is vereist. De accountant brengt zijn rapportage zo spoedig mogelijk 
+aan Partijen uit. De kosten van het accountantsonderzoek komen voor rekening van Opdrachtgever, tenzij 
+uit het onderzoek van de accountant blijkt dat de factuur niet juist dan wel onvolledig is, in welk geval 
+bedoelde kosten voor rekening van Opdrachtnemer komen. 
+18.4 Opdrachtgever kan de betaling van een factuur of een deel daarvan, waarover tussen Partijen geen 
+overeenstemming bestaat, opschorten gedurende de periode van het accountantsonderzoek. Van deze 
+bevoegdheid maakt Opdrachtgever uitsluitend gebruik, indien bij hem redelijke twijfel bestaat omtrent de 
+juistheid van de desbetreffende factuur. 
+18.5 Overschrijding van een betalingstermijn door Opdrachtgever of niet-betaling van een factuur op grond van 
+vermoedelijke inhoudelijke onjuistheid daarvan of ingeval van ondeugdelijkheid van de gefactureerde 
+Diensten geeft Opdrachtnemer niet het recht zijn werkzaamheden op te schorten dan wel te beëindigen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ARVODI-2014 (meezendversie)  6 
+ 
+19 Voorschot 
+19.1 Indien Opdrachtgever ter uitvoering van de Overeenkomst (een) betaling(en) verricht voor Diensten die nog 
+niet zijn geleverd, kan hij verlangen dat door Opdrachtnemer voorafgaande aan die betaling(en) een 
+kredietinstellingsgarantie "op afroep" aan Opdrachtgever wordt afgegeven ter waarde van het (de) betaalde 
+bedrag(en). Aan de garantie zijn voor Opdrachtgever geen kosten verbonden.  
+19.2 Worden vanwege enige tekortkoming aan de zijde van Opdrachtnemer Diensten niet binnen de 
+overeengekomen termijn geaccepteerd, dan is Opdrachtnemer de wettelijke rente over het voorschot 
+verschuldigd voor de tijd dat de tekortkoming voortduurt. 
+19.3 De kredietinstellingsgarantie "op afroep" wordt afgegeven door een door Opdrachtgever aanvaarde 
+kredietinstelling, overeenkomstig het bij deze Voorwaarden gevoegde model (bijlage 1).  
+ 
+V TEKORTSCHIETEN 
+ 
+20  Dreigende vertraging 
+20.1 Indien de voortgang van de werkzaamheden vertraging dreigt te ondervinden, bericht Opdrachtnemer dat 
+onmiddellijk aan Opdrachtgever met vermelding van oorzaak en consequenties daarvan. Tevens stelt 
+Opdrachtnemer maatregelen voor om verdere vertraging te voorkomen.  
+20.2 Binnen 14 dagen na ontvangst van de in het vorige lid bedoelde melding, bericht Opdrachtgever of hij al 
+dan niet instemt met de voorgestelde maatregelen en de genoemde consequenties. Instemming houdt niet 
+in dat Opdrachtgever de oorzaak van de dreigende vertraging erkent en laat alle andere rechten of 
+vorderingen die Opdrachtgever op grond van de Overeenkomst toekomen onverlet.  
+ 
+21  Aansprakelijkheid  
+21.1 Indien één der Partijen tekortschiet in de nakoming van haar verplichtingen uit de Overeenkomst, kan de 
+andere Partij haar in gebreke stellen. De nalatige Partij is echter onmiddellijk in verzuim als nakoming van 
+de desbetreffende verplichtingen anders dan door overmacht binnen de overeengekomen termijn reeds 
+blijvend onmogelijk is. De ingebrekestelling geschiedt schriftelijk, waarbij aan de nalatige Partij een redelijke 
+termijn wordt gegund om alsnog haar verplichtingen na te komen. Deze termijn is een fatale termijn. Indien 
+nakoming binnen deze termijn uitblijft, is de nalatige Partij in verzuim. 
+21.2 De in het vorige lid genoemde ingebrekestelling is niet vereist indien de termijn waarbinnen de 
+overeengekomen Diensten verricht hadden moeten zijn, voor de afloop daarvan is verlengd. Indien de in het 
+vorige lid bedoelde nakoming ook niet heeft plaatsgevonden voor het eind van de verlengde termijn, is de 
+nalatige Partij vanaf dat moment direct in verzuim.  
+21.3 De Partij die toerekenbaar tekortschiet in de nakoming van haar verplichtingen, is tegenover de andere Partij 
+aansprakelijk voor de door de andere Partij geleden dan wel te lijden schade, met dien verstande dat de 
+aansprakelijkheid, per gebeurtenis, beperkt is tot een bedrag van: 
+ - € 150.000,- voor opdrachten waarvan de totale waarde kleiner is dan of gelijk aan  
+ € 50.000,-; 
+ - € 300.000,- voor opdrachten waarvan de totale waarde meer is dan € 50.000,- maar kleiner dan of gelijk 
+aan € 100.000,-; 
+ - € 500.000,- voor opdrachten waarvan de totale waarde meer is dan € 100.000,- maar kleiner dan of gelijk 
+aan € 150.000,-; 
+ - € 1.500.000,- voor opdrachten waarvan de totale waarde meer is dan € 150.000,- maar kleiner dan of gelijk 
+aan € 500.000,-; 
+ - € 3.000.000,- voor opdrachten waarvan de totale waarde meer is dan € 500.000,-.  
+ Samenhangende gebeurtenissen worden daarbij aangemerkt als één gebeurtenis.  
+  
+ De beperking van de aansprakelijkheid als hiervoor bedoeld komt te vervallen:  
+a. ingeval van aanspraken van derden op schadevergoeding ten gevolge van dood of letsel;   
+b. indien sprake is van opzet of grove schuld aan de zijde van Opdrachtnemer of diens Personeel;   
+ 
+ARVODI-2014 (meezendversie)  7 
+ 
+c. in geval van schending van intellectuele eigendomsrechten als bedoeld in artikel 24 van de ARVODI-
+2014. 
+ 
+21.4 Indien Opdrachtnemer voor het verrichten van de Diensten gebruik maakt van zaken als bedoeld in artikel 7 
+die eigendom zijn van Opdrachtgever, is Opdrachtnemer aansprakelijk voor de schade die aan deze zaken 
+wordt toegebracht. De staffel inzake aansprakelijkheid opgenomen in het derde lid is dan van 
+overeenkomstige toepassing. 
+21.5 Indien als gevolg van het gebruik van zaken van Opdrachtgever bij Opdrachtnemer ter uitvoering van de 
+Overeenkomst schade aan Opdrachtnemer of aan derden wordt toege bracht, op welke wijze dan ook, is 
+deze schade geheel voor rekening en risico van Opdrachtnemer. De staffel inzake aansprakelijkheid 
+opgenomen in het derde lid is dan van overeenkomstige toepassing. 
+21.6 Alle verplichtingen met betrekking tot het Personeel van Opdrachtnemer, ook die krachtens de belasting- en 
+sociale verzekeringswetgeving, komen ten laste van Opdrachtnemer. Opdrachtnemer vrijwaart 
+Opdrachtgever tegen elke aansprakelijkheid in dit verband. 
+ 
+22  Ontbinding en opzegging  
+22.1 Onverminderd hetgeen overigens in de Overeenkomst is vastgelegd, kan elk van de Partijen de 
+Overeenkomst door middel van een aangetekend schrijven buiten rechte geheel of gedeeltelijk ontbinden, 
+indien de andere Partij in verzuim is dan wel nakoming blijvend of tijdelijk onmogelijk is.  
+22.2 Indien één der Partijen ten gevolge van overmacht haar verplichtingen op grond van de Overeenkomst niet 
+kan nakomen, heeft de andere Partij het recht de Overeenkomst door middel van een aangetekend 
+schrijven met inachtneming van een redelijke termijn buiten rechte geheel of gedeeltelijk te ontbinden, 
+zonder dat daardoor enig recht op schadevergoeding ontstaat, maar niet eerder dan na het verstrijken van 
+een termijn van 15 Werkdagen gerekend vanaf de datum waarop de omstandigheid die de overmacht 
+oplevert ontstond. 
+22.3  Onder overmacht wordt in ieder geval niet verstaan: gebrek aan personeel, stakingen, ziekte van personeel, 
+grondstoffentekort, transportproblemen, verlate aanlevering of ongeschikt heid van voor de uitvoering van de 
+werkzaamheden benodigde goederen, liquiditeits- of solvabiliteitsproblemen aan de zijde van Opdracht-
+nemer of tekortschieten van door hem ingeschakelde derden. 
+22.4 Opdrachtgever kan, zonder enige aanmaning of ingebrekestelling, met onmiddellijke ingang buiten rechte 
+de Overeenkomst door middel van een aangetekend schrijven ontbinden, indien Opdrachtnemer (voorlo-
+pige) surseance van betaling aanvraagt of hem (voorlopige) surseance van betaling wordt verleend, 
+Opdrachtnemer zijn faillissement aanvraagt of in staat van faillissement wordt verklaard, de onderneming 
+van Opdrachtnemer wordt geliquideerd, Opdrachtnemer zijn onderneming staakt, op een aanmerkelijk deel 
+van het vermogen van Opdrachtnemer beslag wordt gelegd, Opdrachtnemer een fusie of splitsing aangaat 
+of wordt ontbonden, dan wel Opdrachtnemer anderszins niet langer in staat moet worden geacht de 
+verplichtingen uit de Overeenkomst na te kunnen komen. 
+22.5 Indien de Overeenkomst is ontbonden, betaalt Opdrachtnemer de reeds door Opdrachtgever aan hem 
+verrichte onverschuldigde betalingen aan Opdrachtgever terug, vermeerderd met de wettelijke rente over 
+het betaalde bedrag vanaf de dag waarop dit is betaald. Indien de Overeenkomst gedeeltelijk is ontbonden, 
+bestaat de terugbetalingsverplichting alleen voor zover de betalingen op het ontbonden gedeelte betrekking 
+hebben. 
+22.6 Opdrachtgever kan voorts de Overeenkomst door middel van een aangetekend schrijven te a llen tijde 
+opzeggen. Tussen Opdrachtgever en Opdrachtnemer vindt alsdan afrekening plaats op basis van de door 
+de Opdrachtnemer ter zake van de uitvoering van de onderhavige opdracht verrichte Diensten en in 
+redelijkheid gemaakte kosten en van de voor de uitvoering van de opdracht in redelijkheid voor de toekomst 
+reeds aangegane verplichtingen. Opdrachtgever hoeft Opdrachtnemer op generlei wijze anderszins 
+schadeloos te stellen voor de gevolgen van de opzegging van de Overeenkomst.  
+ 
+ 
+ 
+ARVODI-2014 (meezendversie)  8 
+ 
+23  Behoud recht nakoming te vorderen 
+Het nalaten door één van de Partijen om binnen een in de Overeenkomst genoemde termijn nakoming van 
+enige bepaling te verlangen, tast het recht om alsnog nakoming te verlangen niet aan , tenzij de 
+desbetreffende Partij uitdrukkelijk en schriftelijk met de niet-nakoming heeft ingestemd. 
+ 
+VI DIVERSEN 
+ 
+24 Intellectuele eigendomsrechten 
+24.1 Alle auteursrechten die kunnen worden uitgeoefend – waar en wanneer dan ook – ten aanzien van de 
+resultaten van de verrichte Diensten berusten bij Opdrachtgever. Deze intellectuele eigendomsrechten 
+worden op grond van de Overeenkomst door Opdrachtnemer op het moment van het ontstaan daarvan aan 
+Opdrachtgever overgedragen, welke overdracht door Opdrachtgever reeds nu voor alsdan wordt aanvaard  
+24.2 Alle databankenrechten die kunnen worden uitgeoefend – waar en wanneer dan ook – ten aanzien van de 
+resultaten van de verrichte Diensten berusten bij Opdrachtgever. Deze intellectuele eigendomsrechten 
+worden op grond van de Overeenkomst door Opdrachtnemer op het moment van het ontstaan daarvan aan 
+Opdrachtgever overgedragen, welke overdracht door Opdrachtgever reeds nu voor alsdan wordt aanvaard. 
+24.3 Voor zover de resultaten van de verrichte Diensten (mede) tot stand komen met gebruikmaking van reeds 
+bestaande, niet aan Opdrachtgever toekomende intellectuele eigendomsrechten, verleent Opdrachtn emer 
+aan Opdrachtgever een niet-exclusief en niet opzegbaar gebruiksrecht van onbepaalde duur. 
+Opdrachtnemer garandeert in dat geval gerechtigd te zijn tot het verlenen van vorenbedoeld gebruiksrecht.  
+24.4 Voor zover voor de overdracht van de rechten, bedoeld in artikel 24.1 en 24.2, op enig moment een nadere 
+akte zou zijn vereist, machtigt Opdrachtnemer Opdrachtgever reeds nu voor alsdan onherroepelijk om 
+zodanige akte op te maken en mede namens Opdrachtnemer te ondertekenen, onverminderd de 
+verplichting van Opdrachtnemer om op eerste verzoek van Opdrachtgever aan de overdracht van deze 
+rechten medewerking te verlenen, zonder daarbij voorwaarden te kunnen stellen.  
+24.5 Indien tussen Partijen verschil van mening bestaat over de in artikel 24.1 en 24.2 bedoelde intellectuele 
+eigendomsrechten ten aanzien van de resultaten van de verrichte Diensten wordt, behoudens tegenbewijs, 
+ervan uitgegaan dat die rechten bij Opdrachtgever berusten. In alle gevallen mag Opdrachtgever het bij de 
+Overeenkomst beoogde gebruik van de uitkomst van de resultaten blijven maken 
+24.6 Opdrachtnemer doet hierbij afstand jegens Opdrachtgever van alle eventueel aan hem, Opdrachtnemer, 
+toekomende zogenoemde persoonlijkheidsrechten als bedoeld in de  Auteurswet, in de mate als de 
+toepasselijke regelgeving zodanige afstand toelaat. Opdrachtnemer doet, hiertoe gevolmachtigd, ook 
+namens het aan zijn zijde betrokken Personeel, afstand jegens Opdrachtgever van alle eventueel aan deze 
+personeelsleden toekomende persoonlijkheidsrechten, in de mate waarin de toepasselijke regelgeving 
+zodanige afstand toelaat. 
+24.7 Opdrachtnemer vrijwaart Opdrachtgever tegen aanspraken van derden ter zake van (gestelde) inbreuk op 
+intellectuele eigendomsrechten van die derden, vergelijkbare aanspraken met betrekking t ot kennis, 
+ongeoorloofde mededinging en dergelijke daaronder begrepen. Opdrachtnemer verplicht zich tot het op zijn 
+kosten treffen van alle maatregelen die kunnen bijdragen tot voorkoming van stagnatie en tot beperking van 
+de te maken extra kosten en/of te lijden schade als gevolg van bedoelde inbreuken. 
+24.8 Onverminderd het hiervoor bepaalde kan Opdrachtgever, indien derden Opdrachtgever ter zake van 
+schending van intellectuele eigendomsrechten aansprakelijk stellen, de Overeenkomst schriftelijk, buiten 
+rechte, geheel of gedeeltelijk ontbinden onverminderd zijn verdere rechten jegens Opdrachtnemer, 
+waaronder maar niet beperkt, tot enig recht op schadevergoeding. Van zijn recht tot ontbinding van de 
+Overeenkomst maakt Opdrachtgever geen gebruik dan na voorafgaand overleg met Opdrachtnemer. 
+24.9 Mochten er ten aanzien van de resultaten van de verrichte Diensten andere intellectuele eigendomsrechten 
+dan die genoemd in artikel 24.1 en 24.2 ontstaan, dan kunnen deze nimmer aan Opdrachtgever worden 
+tegengeworpen en verstrekt de Opdrachtnemer ter zake aan Opdrachtgever, om niet, een niet -exclusief en 
+niet opzegbaar gebruiksrecht voor onbepaalde tijd ten behoeve van de met de Overeenkomst beoogde 
+doelstellingen. 
+ 
+ARVODI-2014 (meezendversie)  9 
+ 
+25  Overdracht rechten en verplichtingen uit de Overeenkomst 
+25.1 Partijen mogen de uit de Overeenkomst voortvloeiende rechten en verplichtingen niet zonder toe stemming 
+van de andere Partij aan een derde overdragen. Toestemming wordt niet zonder redelijke grond geweigerd. 
+Partijen kunnen daaraan voorwaarden verbinden. 
+25.2 Het eerste lid geldt niet ten aanzien van het vestigen van beperkte rechten, zoals een pandrecht.  
+ 
+26  Verzekering 
+26.1 Opdrachtnemer heeft zich op een naar verkeersnormen passende en gebruikelijke wijze verzekerd en houdt 
+zich zodanig verzekerd voor de navolgende risico's: 
+a. beroepsaansprakelijkheid (risico's die voortvloeien uit Beroepsfouten);  
+b. bedrijfsaansprakelijkheid (waaronder aansprakelijkheid voor schade toegebracht aan personen of zaken 
+die eigendom zijn van Opdrachtgever); 
+c. verlies van en schade aan bedrijfsinventaris (waaronder door brand en diefstal), inclusief de zaken die 
+eigendom zijn van Opdrachtgever. 
+26.2 Opdrachtnemer legt op verzoek van Opdrachtgever onverwijld (een gewaarmerkt afschrift van) de polissen 
+en de bewijzen van premiebetaling ter zake van de in het eerste lid bedoelde verzekeringen dan wel een 
+verklaring van de verzekeraar betreffende het bestaan van deze verzekeringen en het betaald zijn van de 
+premie over. Opdrachtnemer beëindigt niet zonder voorafgaande schriftelijke toestemming van 
+Opdrachtgever de verzekeringsovereenkomsten dan wel de condities waaronder deze zijn aangegaan. 
+Evenmin wijzigt Opdrachtnemer het verzekerde bedrag ten nadele van Opdrachtgever zonder bedoelde 
+toestemming. De door Opdrachtnemer verschuldigde verzekeringspremies worden geacht in de 
+overeengekomen prijzen en tarieven te zijn begrepen. 
+ 
+27  Overname van Personeel, omkoping, belangenverstrengeling 
+27.1 Partijen zullen zonder toestemming van de andere Partij, tijdens de uitvoering van de Overeenkomst en 
+binnen één jaar na beëindiging daarvan, geen Personeel van de andere Partij in dienst nemen of met dat 
+Personeel over indiensttreding onderhandelen. Deze toestemming wordt niet zonder redelijke grond 
+onthouden. 
+27.2 Partijen zullen aan elkaar noch aan derden aanbieden, noch van elkaar of derden vragen, accepteren of 
+toegezegd krijgen, voor henzelf of enige andere partij, enige schenking, beloning, compensatie of profijt van 
+welke aard dan ook die uitgelegd kan worden als een onwettige praktijk. Een dergelijke praktijk kan reden 
+zijn voor gehele of gedeeltelijke ontbinding van de Overeenkomst.  
+27.3 Indien blijkt dat een lid van het Personeel van Opdrachtgever een al dan niet betaalde nevenfunctie vervult 
+bij Opdrachtnemer of ten tijde van de onderhandelingen over de totstandkoming van de Overeenkomst 
+heeft vervuld, zonder dat Opdrachtgever daarover vóór het sluiten van de Overeenkomst is ingelicht, kan 
+Opdrachtgever de Overeenkomst zonder ingebrekestelling met onmiddellijke ingang ontbinden zonder tot 
+enige schadevergoeding te zijn gehouden. 
+27.4 Opdrachtnemer betrekt geen personen, anders dan met toestemming van Opdrachtgever, bij de uitvoering 
+van de Overeenkomst die in een periode van twee jaar voorafgaand aan de werkzaamheden bij 
+Opdrachtgever in dienst zijn geweest. 
+ 
+28 Nietige en vernietigde bepalingen 
+Indien één of meer bepalingen van de Voorwaarden of de Overeenkomst nietig blijken te zijn of door de 
+rechter vernietigd worden, behouden de overige bepalingen van de Voorwaarden of de Overeenkomst hun 
+rechtskracht. Partijen zullen over de nietige of vernietigde bepalingen overleg voeren teneinde een 
+vervangende regeling te treffen. De vervangende regeling tast het doel en de strekking van de Voorwaarden 
+of de Overeenkomst niet aan. 
+ 
+ 
+ 
+ 
+ARVODI-2014 (meezendversie)  10 
+ 
+29 Vervolgopdracht 
+Opdrachtnemer kan aan de Overeenkomst geen enkel recht ontlenen voor de verkrijging van een 
+vervolgopdracht. 
+ 
+30  Melding in publicaties of reclame-uitingen 
+Opdrachtnemer maakt in publicaties (persberichten daaronder begrepen) of reclame-uitingen impliciet noch 
+expliciet melding van de opdracht(verlening) en gebruikt de naam van Opdrachtgever niet als referentie dan 
+na toestemming van Opdrachtgever. 
+ 
+31  Voortdurende bepalingen 
+Bepalingen die naar hun aard bestemd zijn om ook na afloop van de Overeenkomst voort te duren, 
+behouden nadien hun werking. Tot deze bepalingen behoren in ieder geval: garantie (artikel 3), 
+aansprakelijkheid (artikel 21), intellectuele eigendomsrechten (artikel 24), geheimhouding (artikel 13), 
+overname van Personeel (artikel 27.1), geschillen en toepasselijk recht (artikel 32). 
+ 
+32  Geschillen en toepasselijk recht  
+32.1 Ieder geschil tussen Partijen ter zake van de Overeenkomst wordt bij uitsluiting voorgelegd aan de daartoe 
+bevoegde rechter in het arrondissement Den Haag, tenzij Partijen alsnog een andere vorm van 
+geschillenbeslechting zullen overeenkomen. 
+32.2 Op de Overeenkomst is Nederlands recht van toepassing.

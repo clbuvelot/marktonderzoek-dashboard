@@ -1,0 +1,3475 @@
+=== Document: nota van inlichtingen 2025-01-31-1 ===
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 1 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Algemene informatie
+Aanbesteding: 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Aanbestedende Dienst: Rijkswaterstaat
+Referentie: 31204934
+Toelichting:
+1. Deze Nota van inlichtingen maakt onderdeel uit van de te sluiten 
+Samenwerkingsovereenkomst (concept is hierbij opnieuw verstrekt).
+2. De termijn voor indiening van de inschrijving is gewijzigd.
+3. Contacten tijdens deze aanbestedingsprocedure met de Opdrachtgever zijn niet toegestaan, tot 
+ten minste nadat de opschortingstermijn van 20 dagen is verstreken.
+4. Voor wat betreft de elektronische ondertekening bij de inschrijving wordt verwezen naar 
+hoofdstuk 4 van de Aanbestedingsleidraad.
+5. Ten overvloede wordt nog bepaald dat er geen Staat van Tarieven en prijzen hoeft te worden 
+ingevuld en ingediend.
+6. Het inschrijven met algemene-, eigen en /of branchevoorwaarden is niet toegestaan. De 
+inschrijving is dan ongeldig en zal niet meer in behandeling worden genomen. In de verstrekte 
+aanbestedingsstukken (en nota van inlichtingen) zijn alle voorwaarden vermeld die gelden voor 
+de opdracht.
+7. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere (dan in deze en eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, 
+bijlagen of andere stukken getoond.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+87 Bijlage I: Vraagspecificatie SMP - 4.2 - S3 - Software code
+Vraag:
+Worden specifieke test- en ontwikkeltools (zoals CI/CD-pijplijnen of 
+versiebeheertools) door RWS voorgeschreven, of is er ruimte voor eigen 
+keuzes?
+Antwoord:
+Zie het antwoord bij vraag 43.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 2 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+88 Algemeen
+Vraag:
+Hoe ziet RWS de verdeling van verantwoordelijkheden tussen de partijen 
+binnen Perceel 1 en partijen in andere percelen wanneer projecten 
+overlappen?
+Antwoord:
+Dit hangt duidelijk samen met welke partijen hebben besloten om samen te 
+werken als Partners over de percelen heen en hun individuele afspraken die 
+in iedere situatie verschillend kunnen zijn en de facto de 
+verantwoordelijkheid van de inschrijver vormen.
+De overeenkomst is er verder op gericht om een samenwerking aan te gaan 
+met verschillende marktpartijen met verschillende expertises. De 
+onderlingende samenwerking tussen marktpartijen vinden we daarin erg 
+belangrijk. Per voorgenomen project wordt daarom ook de dialoog gezocht 
+met de marktpartijen in de samenwerking. Op basis van die dialoog besluit 
+opdrachtgever hoe de verantwoordelijkheden per project precies komen te 
+liggen. Daarbij streven we ernaar de projecten zoveel mogelijk te beleggen 
+naar zwaartepunt binnen percelen. Maar er kunnen ook projecten zijn met 
+een gedeeld zwaartepunt over de percelen. De dialoog tussen RWS en 
+deelnemende partijen moet zorgen voor een optimale keuze hierin. 
+We zijn ook erg benieuwd naar uw visie op deze samenwerking. Dit wordt 
+beooordeeld onder EMVI-criterium 1.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 3 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+89 Software
+Vraag:
+Wat zijn de minimale verwachtingen rond "geautomatiseerd testen" 
+(bijvoorbeeld testdekking of specificatie van testsoorten)?
+Antwoord:
+Verwacht wordt dat de opdrachtnemer RWS adviseert op het gebied van 
+testen en wat passend is. In overleg kunnen hierover afspraken worden 
+gemaakt en bij deelprojecten kunnen testafspraken terugkomen in 
+kwaliteitscriteria.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+90 Innovatie
+Vraag:
+Kunt u toelichten hoe innovatieprojecten worden beoordeeld, vooral 
+wanneer een projectresultaat (bijvoorbeeld een prototype) mogelijk niet 
+direct functioneel is?
+Antwoord:
+Dit is afhankelijk van de afspraken die vooraf worden gemaakt op basis van 
+de klankbordsessie. Vooraf worden concrete productieafspraken gemaakt, 
+inclusief eventuele ruimte in de tijd die nodig is voor innovatie. Als vooraf 
+wordt afgesproken dat een niet-werkend prototype wordt geaccepteerd als 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 4 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+eindproduct, dan is dit een mogelijkheid. Kern is dat er vooraf 
+overeenstemming is over de wederzijdse verwachtingen van het 
+eindresultaat van een project.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+91 ISO-certificering
+Vraag:
+Wordt van inschrijvers verwacht dat zij specifieke certificeringen, zoals ISO 
+27001, kunnen aantonen?
+Antwoord:
+Neen, dit wordt niet verwacht. Wel wordt actuele kennis van (ISO-)normen 
+verwacht (overeenkomstig paragraaf 3.4.1 van de Vraagspecificatie).
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 5 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Ref.nr. Onderwerp:
+92 Software
+Vraag:
+Gelet op de nadruk in de aanbestedingsdocumenten op kwaliteitsborging en 
+samenwerking, waardeert RWS het als inschrijvers naast technische 
+expertise ook ervaring met complexe DevOps-processen en CI/CD-
+automatisering kunnen aantonen?
+Antwoord:
+In de Vraagspecificatie wordt in 3.4.1 'Perceel Software' aangegeven dat in 
+de beoordeling wordt gekeken naar kennis en kunde met o.a. 
+softwareontwikkelstraten en methodieken en/of principes binnen het domein 
+van softwareontwikkeling.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+93 Software
+Vraag:
+RWS benoemt dat de software binnen Perceel 1 robuust en goed 
+gedocumenteerd moet zijn. Hoe belangrijk acht RWS hierbij het gebruik van 
+moderne softwarearchitecturen, zoals microservices en containerization, om 
+toekomstige schaalbaarheid te waarborgen?
+Antwoord:
+Wij wensen een (software)architectuur die past bij de doelen en inzet van het 
+strategisch modelinstrumentarium op korte en lange termijn. Wij vinden het 
+belangrijk dat de opdrachtnemer kennis heeft van (moderne) 
+softwarearchitecturen en in staat is om ons op dit gebied te begeleiden bij het 
+maken van onderbouwde keuzes.
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 6 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+94 Open standaarden
+Vraag:
+Binnen Perceel 1 worden open standaarden genoemd om overdraagbaarheid 
+te garanderen. Ziet RWS mogelijkheden om ook gebruik te maken van 
+bewezen frameworks of tools die al breed worden ingezet, mits deze voldoen 
+aan de eisen rond interoperabiliteit en kennisdeling?
+Antwoord:
+We verwachten dat de opdrachtnemer gedurende de opdracht kan adviseren 
+bij het maken van keuzes op het gebied van frameworks of tools die passen 
+bij de eisen, doelstellingen en werkwijze van de opdrachtgever. Op voorhand 
+kunnen er geen toezeggingen worden gedaan welke criteria er wel of geen 
+rol spelen of welke criteria meer of minder relevant zijn.
+Vast staat wel dat de rijksoverheid heeft gekozen voor open standaarden en 
+open source.
+Om deze reden wordt artikel 2.6 toegevoegd aan de concept 
+Samenwerkingsovereenkomst, luidende als volgt.
+"2.6 Informatiebeveiliging en open standaarden
+Op deze opdracht is het Rijksbrede beleid van informatiebeveiliging en open 
+standaarden van toepassing, met als achterliggende doelen de bevordering 
+van de informatiebeveiliging, interoperabiliteit en de vergroting van de 
+leveranciersonafhankelijkheid.
+Daarvoor wordt verwezen naar de website van het Forum standaardisatie
+(www.forumstandaardisatie.nl). Aan de hand van de beslisboom op deze 
+website
+https://www.forumstandaardisatie.nl/beslisboom/beslisboom-open-
+standaarden zijn de volgende open standaarden verplicht:
+1. Odf v1.2
+2. Pdf/A-1, Pdf/A-2, Pdf 1.7, Pdf/UA
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 7 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+3. NEN-EN-ISO/IEC27002
+4. Digikoppeling
+5. OWMS
+6. Digitoegankelijk (EN301549 met WCAG 2.1)
+7. Geo-standaarden
+Mocht een van deze open standaarden niet op de op te leveren Diensten of 
+producten van toepassing zijn, dan dient deze open standaard te vervallen. Is 
+een open standaard hier niet vermeld en toch (mede gezien de Beslisboom en 
+het Rijksbrede beleid van open standaarden) vereist voor de op te leveren 
+Diensten of producten, dan is deze open standaard vanzelfsprekend wel van 
+toepassing.
+Mocht de inschrijver een ‘gelijkwaardige’ standaard aanbieden, dan dient 
+deze aan te tonen dat dit alternatief voldoet aan de door het Forum 
+Standaardisatie gehanteerde en gepubliceerde criteria voor opname op de 
+‘Pas toe of leg uit’-lijst, zodat interoperabiliteit en 
+leveranciersonafhankelijkheid in voldoende mate voor de Opdrachtgever zijn 
+gewaarborgd.
+Voor een volledige lijst van de verplichte open standaarden wordt verwezen 
+naar
+https://www.forumstandaardisatie.nl/open-standaarden/verplicht".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+95 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikel 21 lid 1 bestaat uit een 
+aansprakelijkheidsbepaling. Kan RWS ermee akkoord gaan te verduidelijken 
+dat eerst sprake moet zijn van een “materiële tekortkoming in de nakoming 
+van een verplichting onder de Overeenkomst”, waarbij voor het vaststellen 
+of de tekortkoming voldoende materieel van aard is mede gelet zal worden 
+op het geheel van de afspraken onder de Overeenkomst. Deze 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 8 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+verduidelijking voorkomt dat iedere geringe tekortkoming (bijvoorbeeld een 
+tekortkoming van een voor Opdrachtgever minder bedrijfskritische 
+verplichting) ertoe kan leiden dat Opdrachtnemer bloot wordt gesteld aan 
+rechtsacties (nakoming, schadevergoeding, opzegging wegens 
+tekortkoming)?
+Antwoord:
+Nee daar kan opdrachtgever niet akkoord mee gaan. Het uitgangspunt van 
+artikel 21.1 lid 1 van de ARVODI 2018 is dat iedere tekortkoming die aan 
+een van de partijen schade veroorzaakt, ongeacht of deze van materiele of 
+immateriele aard is, kan leiden tot aansprakelijkheid voor de veroorzaakte 
+schade. Onder schade wordt hier verstaan vermogensschade en ander nadeel 
+(immateriële schade), dit laatste voor zover de wet op vergoeding daarvan 
+recht geeft. Vermogensschade omvat zowel geleden verlies als gederfde 
+winst. Vaststelling van de te vergoeden schade gebeurt aan de hand van het 
+zogenoemde 'positief contractsbelang'. Hiervoor wordt de situatie waarin de 
+schadelijdende partij verkeert vergeleken met die waarin hij zou hebben 
+verkeerd als de verbintenis correct was nagekomen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+96 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikel 21 lid 2 biedt de mogelijkheid om een verlengde 
+termijn af te spreken waardoor een ingebrekestelling niet is vereist. Kunt u 
+bevestigen dat een eventuele “verlengde termijn” ook een redelijke termijn 
+moet zijn en dat Opdrachtgever anders alsnog een redelijke termijn zal 
+gunnen om na te komen?
+Antwoord:
+Naar aanleiding van de vraag of de verlengde termijn uit artikel 21.2 ook als 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 9 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+een redelijke termijn moet worden beschouwd, bevestigen wij dat dit 
+inderdaad het geval is. De verlengde termijn moet net als de oorspronkelijke 
+termijn voldoen aan redelijkheid en billijkheid waarbij rekening moet 
+worden gehouden met de aard en ernst van de tekortkoming, de complexiteit 
+van het herstel en de vereisten of beperkingen die specifiek gelden voor de 
+opdrachtnemer. Wat redelijk is zal per situatie verschillen en kan indien 
+nodig in overleg worden vastgesteld.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+97 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikel 21 lid 5 sluit de aansprakelijkheid van de 
+opdrachtgever volledig uit. Inschrijver is van mening dat het niet redelijk is 
+dat aansprakelijkheid van Opdrachtgever volledig is uitgesloten voor schade 
+van Opdrachtnemer of Personeel als gevolg van gebruik van zaken van 
+Opdrachtgever. We begrijpen dat u de aansprakelijkheid wilt beperken, 
+vandaar de vraag, of u bereid bent om dit bedrag te beperken tot een nader te 
+bespreken bedrag?
+Antwoord:
+De opdrachtgever handhaaft de bepalingen zoals opgenomen in artikel 21.5 
+van de ARVODI 2018 en ziet geen aanleiding om de aansprakelijkheid te 
+beperken. Het uitgangspunt is dat de opdrachtgever geen risico's draagt die 
+buiten zijn invloedsfeer liggen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 10 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+98 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikel 22 lid 1 en aanvullend artikel 11 lid 1 sub b uit de 
+Samenwerkingsovereenkomst SMP biedt de mogelijkheid voor een partij om 
+de overeenkomst te ontbinden bij een tijdelijke onmogelijkheid. Inschrijver 
+is van mening dat het niet redelijk is dat een partij bij een tijdelijke 
+onmogelijkheid om na te komen de overeenkomst mag ontbinden, terwijl de 
+andere partij niet de kans wordt geboden om alsnog na te komen. Bent u 
+bereid overeen te komen dat bij een tijdelijke onmogelijkheid eerst sprake 
+moet zijn van verzuim om te mogen ontbinden, zodat de in gebreke 
+blijvende partij nog eerst een redelijke termijn krijgt om alsnog na te komen?
+Antwoord:
+De tekst van artikel 22.1 ARVODI volgt de tekst van artikel 6:265 van het 
+Burgerlijk Wetboek. Voor zover nakomen niet al direct blijvend of tijdelijk 
+onmogelijk is, ontstaat de bevoegdheid tot ontbinding pas wanneer de 
+schuldenaar in verzuim is.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 11 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Ref.nr. Onderwerp:
+99 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikel 24 is een bepaling over de intellectuele 
+eigendomsrechten. Als aanvulling op deze bepaling is artikel 10 in de 
+Samenwerkingsovereenkomst SMP opgenomen. Kan RWS akkoord gaan 
+met het opnemen van onderstaande bepaling in de overeenkomst?“In 
+afwijking op artikel 24 ARVODI 2018 geldt het volgende: (Intellectuele) 
+eigendomsrechten die reeds voor de datum van deze overeenkomst aan de 
+Opdrachtgever of de Opdrachtnemer in eigendom toebehoorden (of aan één 
+van hen in licentie zijn gegeven) blijven aan de oorspronkelijke bezitter (c.q. 
+aan de licentiegever) toebehoren. De Opdrachtnemer behoudt zich alle 
+rechten van (intellectuele) eigendom voor met betrekking tot de producten 
+van de geest welke hij gebruikt of heeft gebruikt en/of ontwikkelt en/of heeft 
+ontwikkeld in het kader van de uitvoering van de opdracht, en ten aanzien 
+waarvan hij de auteursrechten of andere rechten van (intellectuele) eigendom 
+heeft of geldend kan maken.
+Antwoord:
+Wanneer de resultaten tot stand komen met gebruikmaking van bestaande 
+auteursrechten, die niet specifiek voor de op te leveren resultaten zijn 
+gecreëerd, is overdracht van deze intellectuele eigendomsrechten niet van 
+toepassing. In dergelijke gevallen volstaat het om aan de Opdrachtgever een 
+niet-exclusief gebruiksrecht voor onbepaalde tijd te verlenen. Alle 
+intellectuele eigendomsrechten met betrekking tot de resultaten van de 
+verrichte Diensten komen echter toe aan de Opdrachtgever en worden door 
+de Opdrachtnemer bij het ontstaan daarvan op grond van de Overeenkomst 
+aan de Opdrachtgever overgedragen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 12 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+100 ARVODI 2018
+Vraag:
+De ARVODI 2018, artikelen 27 lid 4 & 5 en in aanvulling hierop, artikel 9.2 
+sub 3 & 4 uit de Samenwerkingsovereenkomst SMP bieden een 
+onvoorwaardelijke toegang voor de opdrachtgever tot de vastgelegde 
+arbeidsvoorwaarden. Uiteraard leeft Inschrijver geldende wet- en 
+regelgeving op het gebied van arbeidsvoorwaarden na. Inschrijver kan echter 
+niet op voorhand instemmen met het verzoek om inzicht te geven in 
+(individuele) arbeidsvoorwaardelijke afspraken gelet op het vertrouwelijk 
+karakter hiervan. Uiteraard is Inschrijver bereid om met RWS in overleg te 
+treden indien RWS aanleiding ziet om meer informatie van ons te ontvangen 
+ten aanzien van arbeidsvoorwaarden. Eventuele verschaffing van 
+aanvullende informatie zal geschieden voor zover het Inschrijver is 
+toegestaan op grond van geldende wet- en regelgeving. Inschrijver verzoekt 
+dan ook om de tekst van Artikel 27 lid 3, 4 en 5 in zijn geheel te vervangen 
+door de volgende tekst: “Partijen treden in onderling overleg indien 
+Opdrachtgever aanleiding ziet om meer informatie te ontvangen ten aanzien 
+van arbeidsvoorwaardelijke afspraken, zoals benoemd in lid 1 en 2 van dit 
+artikel. Eventuele verschaffing van informatie door Opdrachtnemer zal 
+geschieden voor zover het Opdrachtnemer is toegestaan op grond van 
+geldende wet- en regelgeving.” Voor artikel 9.2 lid sub 3 en 4 uit de 
+Samenwerkingsovereenkomst SMP, verzoekt inschrijver u om deze in zijn 
+geheel te laten vervallen en zich aan te sluiten bij het eerder gedane voorstel 
+om de tekst uit artikel 27 ARVODI aan te passen.
+Antwoord:
+Artikel 27 ARVODI 2018 is opgenomen in verband met de in de Wet 
+aanpak schijnconstructies (WAS) opgenomen bepalingen, zoals een in het 
+Burgerlijk Wetboek geïntroduceerd 
+ketenaansprakelijkheidssysteem. Uiteindelijk beogen voornoemde 
+artikelleden te voorkomen dat opdrachtgever op grond van de WAS 
+aansprakelijk wordt gesteld voor het betalen van het verschuldigde loon van 
+werknemers van een onderaannemer, die het door hem ingeschakelde 
+personeel niet heeft behandeld conform de hiervoor genoemde toepasselijke 
+regelgeving, waaronder het betalen van het juiste verschuldigde loon. Het is 
+vanzelfsprekend dat ook Rijkswaterstaat als Opdrachtgever zich houdt en zal 
+houden aan de bepalingen van de AVG. Indien van toepassing, zal eveneens 
+een Verwerkersovereenkomst hiertoe worden afgesloten op grond van art. 
+28, derde lid, van de Algemene Verordening Gegevensbescherming. In een 
+Verwerkersovereenkomst maken Opdrachtgever en Opdrachtnemer 
+afspraken over de Verwerking van Persoonsgegevens in het kader van de 
+Overeenkomst.
+Fase:
+ Inschrijffase
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 13 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+101 Varianten
+Vraag:
+Het indienen van varianten van de inschrijver is niet toegestaan. Er zijn 
+kennelijk meerdere varianten mogelijk, maar een toelichting ontbreekt. Wat 
+wordt bedoeld met varianten van de inschrijver?
+Antwoord:
+Daarmee worden alternatieve aanpakken of oplossingen bedoeld, echter de 
+uitvoering van deze raamovereenkomst laat geen ruimte voor andere 
+uitvoeringswijzen. Varianten zijn niet toegestaan.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+102 Vraagspecificatie - Paragraaf 2.3.6 (Delen van Plan van Aanpak)
+Vraag:
+Wat is de procedure voor het delen en beoordelen van het plan van aanpak 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 14 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+met andere deelnemers aan de samenwerking?
+Antwoord:
+Opdrachtgever beoordeelt de inschrijvingen voor Deelopdrachten. Een plan 
+van aanpak is onderdeel van deze inschrijving. Het plan van aanpak van de 
+partij dat de opdracht wordt gegund, wordt gedeeld met de andere 
+deelnemers aan de samenwerking, zodat deze partijen in een klankbordsessie 
+hierop hun feedback kunnen geven.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+103 Vraagspecificatie - Paragraaf 2.5 (toetreden en uittreden)
+Vraag:
+Wat zijn de eventuele voorwaarden en procedures voor toetreding van 
+nieuwe partijen tot de samenwerking SMP na de initiële selectie?
+Antwoord:
+Als het aantal partijen kleiner is dan 7 heeft opdrachtgever het recht om op 
+een later moment extra partijen toe te laten tot de samenwerking. De eerste 
+partij in de rangschikking van de beoordeling die niet is toegelaten tot de 
+samenwerking komt als eerste in aanmerking voor toetreding. Alleen als 
+blijkt dat de capaciteit bij de deelnemende partijen onvoldoende is, kan 
+opdrachtgever besluiten meer dan 7 partijen toe te laten tot de samenwerking.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 15 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+104 Vraagspecificatie - Hoofdstuk 3: Beoordeling inschrijvingen, Paragraaf 3.4.3 
+(Perceel Onderzoek en Ontwikkeling II)
+Vraag:
+Welke specifieke aandachtspunten worden gehanteerd bij het beoordelen van 
+kennis en ervaring in vraagmodellering en veranderend gedrag in ruimte en 
+tijd?
+Antwoord:
+De beoordeling van de in paragraaf 3.4.2 en 3.4.3 genoemde kennis en 
+ervaring vindt plaats naar gelang de daar vermelde aandachtspunten.
+Bij aanvragen voor Deelprojecten staat het de Opdrachtgever vrij om, 
+overeenkomstig artikel 8.6 van de concept Samenwerkingsovereenkomst 
+(Bijlage G), aanvullende kennis- en ervaringseisen te stellen m.b.t. 
+vraagmodellering met focus op het modelleren van de in paragraaf 2.2.5 van 
+de Vraagspecificatie geschetste opgaven voor ons modelinstrumentarium.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+105 Vraagspecificatie - Hoofdstuk 4: Programma van Eisen, Artikel D2
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 16 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vraag:
+Welke eisen worden gesteld aan de capaciteit en bemensing van de 
+opdrachtnemer bij de uitvoering van meerdere opdrachten gelijktijdig?
+Antwoord:
+Indien u weloverwogen inschrijft op aanvragen voor Deelprojecten, mag de 
+Opdrachtgever bij opdrachtverlening verwachten dat u deze conform de 
+afgesproken eisen m.b.t. kwaliteit en planning oplevert.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+106 Bijlage E
+Vraag:
+In de Aanbestedingsleidraad wordt verwezen naar een gedetailleerde EMVI
+/BPKV-tabel in Bijlage E. Beide documenten noemen beoordelingscriteria, 
+maar de beschrijving van "maximale kwaliteitswaarde" in Bijlage E lijkt 
+geen volledige verduidelijking te geven van hoe scores worden omgezet naar 
+eindcijfers. Kan meer duidelijkheid worden gegeven over de omzetting van 
+kwaliteitswaarden naar een definitieve score?
+Antwoord:
+Per criterium (1, 2 en 3) wordt een beoordelingscijfer gegeven volgens 
+Bijlage E en dat beoordelingscijfer wordt vermenigvuldigd met de 
+kwaliteitswaarde voor het desbetreffende criterium. De formule "=(BC-6)/4 
+* MK" is opgenomen in bijlage E.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 17 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+107 Bijlage G: Samenwerkingsovereenkomst SMP (concept)
+Vraag:
+Kan deze overeenkomst nog worden aangepast tijdens de looptijd van het 
+project? De samenwerking moet proefondervindelijk worden vastgesteld, 
+wat mogelijk kan leiden tot aanpassingen.
+Antwoord:
+Ja, de opdrachtgever kan in de conceptovereenkomst een herzieningsclausule 
+opnemen die voorziet in de mogelijkheid om de overeenkomst aan te passen 
+bij onvoorzienbare omstandigheden. Deze clausule is bedoeld om in 
+uitzonderlijke gevallen de continuïteit van de opdracht te waarborgen mits: 
+de omstandigheden objectief onvoorzienbaar waren op het moment van de 
+aanbesteding, de wijziging noodzakelijk is voor de uitvoering van de 
+opdracht en de aanpassing geen wezenlijke wijziging van de opdracht vormt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+108 Bijlage G: Samenwerkingsovereenkomst SMP (concept)
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 18 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vraag:
+Zijn er specifieke verwachtingen over hoe kennisdeling binnen de SMP-
+alliantie wordt gefaciliteerd? Is dat bijvoorbeeld via het softwareplatform dat 
+nog moet worden opgetuigd?
+Antwoord:
+Kennisdeling vindt plaats via kennisdeelsessies, klankbordsessies en 
+programmabrede bijeenkomsten. Het informatieplatform kan hierbij een 
+hulpmiddel zijn. Dit informatieplatform kan, analoog aan de Alliantie 
+GoederenVervoerModellen, GITLAB zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+109 Inschrijvingstermijn
+Vraag:
+Gezien de langere tijd die noodzakelijk bleek om de tijdens de 
+inlichtingenperiode gestelde vragen te beantwoorden, is het mogelijk om de 
+inschrijvingstermijn te verlengen?
+Antwoord:
+Ja, de inschrijvingstermijn schuift ongeveer twee weken op naar vrijdag 28 
+februari 2025. De definitieve gunning en de ingangsdatum van de 
+raamcontracten zullen ook opschuiven en zijn voorlopig gepland op 7 april 
+2025.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 19 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+110 Perceel Ondersteuning
+Vraag:
+Er wordt een apart perceel vermeld voor Ondersteuning. Kan daarop nu al 
+worden ingeschreven?
+Antwoord:
+Neen, zie hierna en zie paragraaf 2.2 van de Vraagspecificatie. Daar worden 
+losse opdrachten voor verstrekt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+111 Artikel 5.1 Samenwerkingsovereenkomst
+Vraag:
+Het is niet geheel duidelijk wat met artikel 5.1 van Bijlage G concept 
+Samenwerkingsovereenkomst wordt bedoeld.
+Antwoord:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 20 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Artikel 5.1 van Bijlage G concept Samenwerkingsovereenkomst SMP wordt 
+(om reden dat er sprake is van vier verschillende situaties) vervangen door 
+het volgende (hetgeen bij de te sluiten Samenwerkingsovereenkomst zal zijn 
+gewijzigd). 
+"5.1 De kosten verband houdende met de werkzaamheden zoals aangeduid in 
+paragraaf 2.2.1 van de Vraagspecificatie 'Deelname aan samenwerking' 
+worden vergoed met een vaste jaarlijkse vergoeding van € 6.000,- exclusief 
+BTW (pos. 10). Deze kosten worden aangemerkt als voor 
+samenwerkingsactiviteiten (waaronder tevens twee programmabrede 
+bijeenkomsten, klankbordsessies en kennisdeelsessies binnen het perceel en 
+de deelname aan kennisuitwisseling via het informatieplatform). Verwezen 
+wordt hierbij tevens naar eis PB005 van paragraaf 7.1 van de 
+Vraagspecificatie.
+De in PB005 van paragraaf 7.1 van de Vraagspecificatie vermelde 
+werkzaamheden die minder dan 4 uur vergen en die betrekking hebben op 
+kennisuitwisseling en het beantwoorden van vragen, welke eveneens geacht 
+worden bij de samenwerkingsactiviteiten te behoren (en uitgezonderd zijn 
+van de werkzaamheden van de drie percelen A t/m C vermeld op blz. 7 van 
+de Vraagspecificatie), behoren tot gelimiteerde ondersteuning, welke is 
+uitgezonderd van het onderdeel 'Ondersteuning en kwaliteitsborging', en 
+welke worden verrekend op basis van nacalculatie (pos. 20). 
+Werkzaamheden voor deze ondersteuning moeten vooraf (met 
+ureninschatting) door de Opdrachtnemer worden aangemeld. Vervolgens 
+vindt er mondelinge goedkeuring plaats (er wordt geen schriftelijke opdracht 
+verstrekt). Na de uitvoering van de werkzaamheden kan direct facturatie 
+plaatsvinden. Bij ontvangst van de factuur moeten nogmaals de uren worden 
+gespecificeerd, zodat ze rechtstreeks kunnen worden betaald. Met deze 
+facturen behoeft niet te worden gewacht tot het moment van de halfjaarlijkse 
+facturatie die bij het onderdeel voor uitgebreide ondersteuning toegepast kan 
+worden.
+Voor werkzaamheden in het kader van uitgebreide Ondersteuning, zoals 
+hierna bepaald, alsmede kwaliteitsborging (pos. 30), welke tevens zijn 
+uitgezonderd van de drie percelen (A t/m C vermeld op blz. 7 van de 
+Vraagspecificatie), worden separate opdrachtbonnen (NOK's) verstrekt, 
+overeenkomstig het bepaalde in artikel 8.1 van de 
+Samenwerkingsovereenkomst SMP (Bijlage G).
+Voor een Deelproject binnen een perceel wordt door Opdrachtgever 
+schriftelijk, voorafgaand aan de werkzaamheden van het Deelproject, 
+eveneens opdracht verleend middels een opdrachtbon (NOK) aan een 
+gecontracteerde partij (binnen het perceel)".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 21 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+112 Artikel 5.2 Samenwerkingsovereenkomst
+Vraag:
+Het is niet geheel duidelijk wat in artikel 5.2 van Bijlage G concept 
+Samenwerkingsovereenkomst wordt bedoeld met "dienen de Partners hun 
+eigen uurtarieven te hanteren, met uitzondering van de Deelprojecten die met 
+een vaste prijs worden aangeboden".
+Antwoord:
+Artikel 5.2 van Bijlage G concept Samenwerkingsovereenkomst SMP wordt 
+(voor de duidelijkheid) vervangen door het volgende (hetgeen bij de te 
+sluiten Samenwerkingsovereenkomst zal zijn gewijzigd). 
+"5.2 Voor de separaat te verstrekken opdrachten voor alle vormen van 
+ondersteuning en kwaliteitsborging en voor de totstandkoming van de vaste 
+prijzen van alle Deelprojecten, dienen de gecontracteerde partijen van een 
+perceel, eigen uurtarieven te hanteren tot de maximum uurtarieven zoals 
+vermeld in paragraaf 4.1 eis Pr2 op bladzijde 20 van de Vraagspecificatie. 
+Bij het bepalen van de juiste expertise binnen Deelprojecten worden de 
+doelstellingen, zoals verwoord in de overwegingen nagestreefd. Wanneer de 
+ingezette expertise en werkniveau niet lijken aan te sluiten bij de 
+doelstellingen, kunnen Opdrachtgever en betreffende Opdrachtnemer 
+hierover in overleg treden".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 22 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Ref.nr. Onderwerp:
+113 Artikel 10.4 Samenwerkingsovereenkomst
+Vraag:
+Wat wordt er precies bedoeld met het gebruiksrecht in artikel 10.4 van de 
+concept Samenwerkingsovereenkomst SMP?
+Antwoord:
+Zoals aangegeven in het antwoord op vraag 101 en overeenkomstig het 
+bepaalde in artikel 24.3 van de ARVODI 2018 moet daaronder een niet-
+exclusief en niet opzegbaar gebruiksrecht van onbepaalde duur worden 
+verstaan. Het artikel zal bij het sluiten van de raamovereenkomst gewijzigd 
+zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+114 Programma-activiteiten
+Vraag:
+Het is niet helemaal duidelijk hoe de betaling van de activiteiten in het kader 
+van de Samenwerking SMP en verband houdende programma-activiteiten 
+plaatsvindt, alsmede die van de gelimiteerde opdrachten voor Ondersteuning.
+Antwoord:
+Gelet op het bepaalde van het hiervoor aangepaste artikel 5.1 van de 
+Samenwerkingsovereenkomst (Bijlage G), worden de volgende wijzigingen 
+in hoofdstuk 7 van de Vraagspecificatie toegepast.
+PB005 in paragraaf 7.1 van de Vraagspecificatie wordt vervangen door het 
+volgende. 
+"PB005 De met de activiteiten in het kader van de samenwerking verband 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 23 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+houdende kosten, zoals aangeduid in paragraaf 2.2.1 'Deelname aan 
+samenwerking', worden vergoed met een vaste jaarlijkse vergoeding van € 
+6.000,- exclusief BTW, zonder voorafgaande opdracht. Deze kosten worden 
+aangemerkt als voor samenwerkingsactiviteiten, waaronder tevens twee 
+programmabrede bijeenkomsten, klankbordsessies en kennisdeelsessies 
+binnen het perceel en de deelname aan kennisuitwisseling via het 
+informatieplatform (positienummer 10)". 
+Eis PB006 van paragraaf 7.1 wordt vervangen als volgt.
+"PB006 De werkzaamheden die minder dan 4 uur vergen en die betrekking 
+hebben op kennisuitwisseling en het beantwoorden van vragen, behoren tot 
+gelimiteerde ondersteuning en welke in overeenstemming met het vierde 
+aandachtstreepje in paragraaf 2.2.2 onder 'Ondersteuning' van het onderdeel 
+'Ondersteuning en kwaliteitsborging' zijn uitgezonderd, en welke worden 
+verrekend op basis van nacalculatie, moeten vooraf worden aangemeld en 
+zullen zonder voorafgaande opdracht worden betaald (positienummer 20). 
+De vergoeding vindt achteraf plaats in telkens een (1) betalingstermijn, tenzij 
+anders afgesproken, onder overlegging van een specificatie van uren en/of 
+bijbehorende bewijsstukken. Voor de gelimiteerde ondersteuning is 
+indicatief € 4.000,- per contractpartij beschikbaar.
+Verdere kosten gericht op samenwerking zoals voor deelname aan een 
+evaluatiegesprek (paragraaf 2.6 Vraagspecificatie) worden geacht te zijn 
+begrepen in de kosten van de Deelprojecten in elk van de percelen 1 (A), 2 
+(B) en 3 (C)."
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+115 Uitgebreide 'Ondersteuning en kwaliteitsborging
+Vraag:
+Het is niet helemaal duidelijk hoe de betaling van de werkzaamheden in het 
+kader van uitgebreide 'Ondersteuning en kwaliteitsborging' plaatsvindt.
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 24 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Antwoord:
+Mocht het beantwoorden van vragen inzet vergen die redelijkerwijs niet valt 
+onder de gelimiteerde vorm van kennisuitwisseling zoals hiervoor bij de 
+samenwerkings- en programmabrede activiteiten aangeduid, en/of de 
+werkzaamheden meer tijd vergen dan 4 uur, dan valt de inzet onder 
+'uitgebreide' ondersteuning en vallen dan binnen het onderdeel 
+‘Ondersteuning en kwaliteitsborging’ paragraaf 2.2.2. Ook de 
+kwaliteitstoetsen die separaat zijn opgedragen, worden hier verrekend.
+Voor deze werkzaamheden worden, in overeenstemming met artikel 8.1 van 
+de Samenwerkingsovereenkomst (Bijlage G), vooraf separate (schriftelijke) 
+opdrachten (opdrachtbonnen, NOK's) verstrekt na ontvangst van een met 
+uren gespecificeerd verzoek of offerte van de Opdrachtnemer, mede n.a.v. 
+een opdrachtomschrijving. Deze opdrachten worden verstrekt via de 
+projectleider door het afdelingshoofd. 
+Na onderbouwing (bijvoorbeeld urenregistratie) kunnen deze 
+werkzaamheden worden gefactureerd.
+Aan paragraaf 7.4 'Contract en betaling Ondersteuning' van de 
+Vraagspecificatie wordt toegevoegd: "De betaling van de twee keer per jaar 
+gefactureerde opdrachten voor uitgebreide Ondersteuning vindt achteraf 
+plaats, elk in een (1) betalingstermijn. Indien de cumulatieve waarde van 
+deze ondersteuningsopdrachten redelijkerwijs te hoog wordt, of de 
+hoeveelheid opdrachten hoger is dan verwacht, dan wordt de halfjaarlijkse 
+facturering omgezet naar de reeds bestaande regeling voor de Deelprojecten: 
+een (1) betalingstermijn achteraf, tenzij de uitvoeringstermijn langer is dan 
+een periode van een maand. In dat geval worden de betalingstermijnen 
+zoveel als kan, opgesplitst naar mijlpalen waarbij een of meerdere afgeronde 
+producten kunnen zijn geleverd, of in maandelijkse termijnen. Betaling van 
+deze opdracht(en) vindt plaats ten laste van positienummer 30 zoals door de 
+Opdrachtgever aangegeven behorende bij deze losse opdrachtbon". Voor de 
+uitgebreide ondersteuning is indicatief € 10.000,- per contractpartij 
+beschikbaar.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 25 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Ref.nr. Onderwerp:
+116 Deelprojecten
+Vraag:
+Het is niet helemaal duidelijk hoe de betaling van de werkzaamheden 
+verband houdend met de Deelprojecten plaatsvindt.
+Antwoord:
+De betaling van de kosten van elk Deelproject geschiedt op basis van een 
+vaste totaalprijs, waarbij vooraf, in overeenstemming met artikel 8.1 van de 
+Samenwerkingsovereenkomst, een opdrachtbon (NOK) wordt verstrekt na 
+ontvangst van de offerte.
+Verwezen wordt naar paragraaf 2.2.3 t/m 2.2.5 en naar 2.3 van de 
+Vraagspecificatie.
+Voor de nadere opdrachten zal op basis van een door de Opdrachtgever goed 
+voorbereide aanvraag met opdrachtomschrijving een vaste prijs worden 
+bepaald, zonder stelpost(en).
+Aan paragraaf 7.3 van de Vraagspecificatie 'Contract en betaling 
+Deelprojecten' wordt toegevoegd: "De betaling vindt achteraf plaats in een 
+(1) betalingstermijn, tenzij de uitvoeringstermijn langer is dan een periode 
+van een maand. In dat geval worden de betalingstermijnen zoveel als kan, 
+opgesplitst naar mijlpalen waarbij een of meerdere afgeronde producten 
+kunnen zijn geleverd, of in maandelijkse termijnen. De betaling vindt plaats 
+op het bestelnummer en positienummer zoals door de Opdrachtgever 
+aangegeven en behorende bij deze opdrachtbon (NOK)".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+117 Wijzigingen Samenwerkingsovereenkomst
+Vraag:
+Er zijn een aantal wijzigingen die invloed hebben op de concept 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 26 van 26 Datum genereren nota van inlichtingen: 31 jan. 2025
+Samenwerkingsovereenkomst (met als specifiek onderdeel de 
+Vraagspecificatie). Wordt het concept nog vervangen?
+Antwoord:
+Het nieuwe concept van de Samenwerkingsovereenkomst SMP (Bijlage G) 
+is geüpload in Tenderned en staat nu bekend met versie 1.1. Het vorige 
+concept wordt bij deze vervangen. De wijzigingen betreffen in hoofdzaak de 
+Vraagspecificatie artikelen 2.6, 5.1 en 5.2, alsmede 8.7.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+
+=== Document: nota van inlichtingen 2025-01-31-2 ===
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 1 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Algemene informatie
+Aanbesteding: 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Aanbestedende Dienst: Rijkswaterstaat
+Referentie: 31204934
+Toelichting:
+1. Deze Nota van inlichtingen maakt onderdeel uit van de te sluiten 
+Samenwerkingsovereenkomst SMP.
+2. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere (dan in deze en eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, 
+bijlagen of andere stukken getoond.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Onderaannemers
+Vraag:
+In Aanbestedingsleiddraad 2.4 stelt u dat de ondernemer volledig zelfstandig 
+moet inschrijven. Is het wel toegestaan om van onderaannemers gebruik te 
+maken bij de inschrijving?
+Antwoord:
+Nee, dit is niet toegestaan bij onderhavige aanbesteding, tenzij zoals in 2.5 
+aangegeven de specifieke kennis die deze onderaannemer meebrengt niet bij 
+een van de partijen binnen de perceeloverstijgende samenwerking aanwezig 
+is en de onderaannemer zoals in paragraaf 3.5 lid 2 bedoeld, de kennis en 
+ervaring (zoals vermeld in 3.4.1 t/m 3.4.3 van de Vraagspecificatie) 
+daadwerkelijk aantoonbaar meebrengt.
+Overigens wordt hier voor de duidelijkheid aan paragraaf 2.4 toegevoegd: 
+"Een ondernemer mag slechts een (1) keer op een of meer percelen 
+inschrijven".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 2 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+2 Verlenging op initiatief van de partners
+Vraag:
+In Aanbestedingsleiddraad 2.8 wordt gesteld dat verlenging ook mogelijk is 
+als Partners evident uiting in hun handelingen geven aan de wens de 
+Raamovereenkomst te continueren. 
+Blijft Opdrachtgever in dat geval toch contractpartij, hoewel ze daar 
+blijkbaar geen reden voor zag? 
+We nemen aan dat de samenwerkende Partners het contract niet los van 
+Opdrachtgever kunnen overnemen aangezien het software van 
+Opdrachtgever betreft.
+Antwoord:
+De laatste alinea in 2.8 in de Aanbestedingsleidraad, vervalt. De 
+Raamovereenkomst kan slechts worden verlengd door de Opdrachtgever.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+3 Maximale ouderdom referentieprojecten
+Vraag:
+In Aanbestedingsleiddraad 3.3, lid 4 wordt een termijn van maximaal 5 jaar 
+genoemd, in 4.4.1, rij 2 staat een termijn van maximaal 3 jaar. In bijlage D 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 3 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+staat 5 jaar. Welke maximale termijn geldt?
+Antwoord:
+De termijn bedraagt ten hoogste 5 jaar. De in 4.4.1 vermelde 3 jaar is een 
+typo.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+4 Moeten referentieprojecten volledig in de genoemde periode vallen?
+Vraag:
+In Aanbestedingsleiddraad 3.3, lid 4 wordt een termijn van maximaal 5 jaar 
+genoemd. Moet de volledige referentieopdracht binnen deze termijn vallen 
+of is het ook voldoende als een groot deel van de opdracht binnen die termijn 
+valt (bijvoorbeeld een langlopende opdracht die zes jaar geleden begonnen is 
+en tot in de toekomst doorloopt)? Moet de opdracht afgerond zijn op het 
+moment van indienen?
+Antwoord:
+Een referentieproject hoeft niet helemaal binnen de genoemde periode van 5 
+jaar te vallen en kan ook nog zijn opgeleverd na 5 jaar. Het referentieproject 
+moet echter gestart zijn niet langer dan 5 jaar geleden en grotendeels zijn 
+uitgevoerd binnen die 5 jaar.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 4 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+5 Verklaring PvE
+Vraag:
+In Aanbestedingsleiddraad 4.4 vermeldt u niet Bijlage I Vraagspecificatie 
+SMP Verklaring PvE. Moet deze verklaring ook bij inschrijving ingediend 
+worden, of juist niet?
+Antwoord:
+Ja, deze verklaring moet worden ingediend bij de inschrijving. Aan lid 5 
+wordt geacht te zijn toegevoegd: "Voorts moet bij de inschrijving worden 
+verstrekt een ingevulde en ondertekende Bijlage I Verklaring Programma 
+van Eisen (PvE). Overigens moet in lid 6 "paragraaf 4.4.1" gewijzigd 
+worden in "paragraaf 4.4".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+6 Eisen aan PvA en referentiedocument
+Vraag:
+In Aanbestedingsleiddraad 4.4.1 vraagt u een Plan van Aanpak en een 
+beschrijving van de kennis en ervaring. Wilt u dit samen in 1 document 
+krijgen of juist niet? En klopt ons beeld dat zowel het PvA als de 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 5 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+beschrijving van kennis en ervaring samen maximaal 10 pagina's A4 mogen 
+omvatten. Stelt u nog eisen aan lettergrootte en regelafstand?
+Antwoord:
+De beschrijving van de kennis en ervaring staat buiten het aantal van 10 A4. 
+We stellen geen eisen aan lettergrootte en regelafstand.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+7 Kwaliteitsverhouding
+Vraag:
+In Aanbestedingsleiddraad 5.3 is sprake van de beste prijs-
+kwaliteitsverhouding. Klopt het dat prijs geen criterium is dus dat het 
+feitelijk gaat om de beste kwaliteitsscore?
+Antwoord:
+Dit klopt. In paragraaf 5.3 moet de "BPKV" worden gelezen als "BKV".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 6 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+8 Gestandsdoeningstermijn
+Vraag:
+In Aanbestedingsleiddraad 5.5 vraagt u om een gestanddoeningstermijn. 
+Klopt onze aanname dat we met indienen van een aanbieding impliciet 
+akkoord gaan met deze termijn en dat we dat niet expliciet hoeven te 
+vermelden. Zo nee, hoe moeten we deze gestandsdoeningstermijn 
+accepteren?
+Antwoord:
+Dit hoeft niet expliciet vermeld te worden. Het is wel van belang dat hiermee 
+wordt afgeweken van de gangbare gestanddoeningstermijn en dat u dat voor 
+onderhavige aanbesteding bekend is.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+9 Loting
+Vraag:
+In Aanbestedingsleiddraad 6.2, lid 2 wordt in geval van loting verwezen naar 
+6.1. In 6.1 komt het woord "loting" niet voor. Kan er sprake zijn van loting?
+Antwoord:
+Wegens het ontbreken van de juiste bepalingen is op deze 
+aanbestedingsprocedure geen loting onder inschrijvingen van toepassing. Lid 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 7 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+2 van artikel 6.2 in de Aanbestedingsleidraad vervalt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+10 Afkoopsom
+Vraag:
+In Aanbestedingsleiddraad 6.4, lid 3 is er sprake van een afkoopsom. Is er 
+sprake van een afkoopsom? Zo ja, wel bedrag betreft het? Verder wordt er in 
+dit lid verwezen naar lid 4, wat een ander onderwerp betreft.
+Antwoord:
+Ja. Aan het begin van lid 3 wordt toegevoegd: "Bij intrekking van zijn 
+inschrijving betaalt de inschrijver aan de aanbesteder een afkoopsom, zijnde 
+de helft van het verschil tussen zijn fictieve inschrijvingssom en de fictieve 
+inschrijvingssom van de inschrijver die opvolgend na hem voor de opdracht 
+in aanmerking komt; een en ander met inachtneming van het volgende." Het 
+in dit lid vermelde lid 4 wordt gewijzigd in [dit] lid 3.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 8 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+11 Vervanging aangeboden mensen
+Vraag:
+Uit het Programma van Eisen, paragraaf 4.1, PO2: we moeten de 
+aangeboden mensen inzetten. Gezien de looptijd van de overeenkomst 
+(maximaal 5 jaar) is het denkbaar dat er op enig moment mensen vervangen 
+moeten worden. Is dat mogelijk en welke nadere eisen stelt u daarbij.
+Antwoord:
+Op deze aanbesteding zijn de ARVODI-2018 voorwaarden van toepassing 
+en met name "Artikel 6 Vervanging personen die belast zijn met de 
+uitvoering van de Diensten".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+12 Opdrachtnemer of Opdrachtgever
+Vraag:
+In Programma van Eisen, paragraaf 4.2, S3: Klopt het dat bij de tweede 
+[Opdrachtnemer] eigenlijk [Opdrachtgever] wordt bedoeld?
+Antwoord:
+Ervan uitgaande dat u doelt op de zesde bullet in deze opsomming, wordt 
+hier inderdaad Opdrachtgever bedoeld. Zie correctie: 
+"Opdrachtnemer betrekt Opdrachtgever als eigenaar bij besluiten en 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 9 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+implementatiekeuzes".
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+13 Aanvullende eisen
+Vraag:
+In de Vraagspecificatie, H6 t/m H9: Hier lijken aanvullende eisen te staan 
+die niet voorkomen in het Programma van Eisen (H4). Accepteren we deze 
+eisen ook als onderdeel van de Algemene Eisen bij ondertekening van 
+Bijlage I?
+Antwoord:
+Bij ondertekening van Bijlage I accepteert u de algemene (inhoudelijke) 
+eisen uit het PvE. Verder dient uw inschrijving te voldoen aan de eisen die in 
+de andere hoofdstukken, waaronder 6 t/m 9, van de Vraagspecificatie 
+vermeld staan.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 10 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+14 Exclusiviteit
+Vraag:
+Kunt u een voorbeeld geven van wanneer Artikel 8.5 van de 
+Samenwerkingsovereenkomst van toepassing zou kunnen zijn?
+Antwoord:
+Naast de omstandigheden vermeld in de derde alinea van paragraaf 2.2 van 
+de Aanbestedingsleidraad en de situaties vermeld in eis D1 en J3 van 
+paragraaf 4.1 van de Vraagspecificatie kan bij de voorwaarden van een 
+Nadere overeenkomst tevens het beginsel worden gehanteerd dat de slager 
+niet zijn eigen vlees keurt. Voorbeeld: 
+Als u een NOK aangaat voor kwaliteitsborging/toets op een te ontwikkelen 
+module kunt u niet ook de ontwikkelaar van de module zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+15 aanleveren genoemde documenten
+Vraag:
+Kunnen we het document ‘Template offerte - percelen’ (Bijlage 5a bij de 
+Vraagspecificatie) ontvangen waarnaar gerefereerd wordt in de 
+aanbestedingsleiddraad.
+Antwoord:
+Deze verwijzing naar Bijlage 5a vervalt.
+Fase:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 11 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+16 In te vullen onderdeel in tenderned
+Vraag:
+In het portaal wordt gevraagd om een prijs in te vullen bij gunningscriteria. 
+Kunt u aangegeven waar in de stukken beschreven wordt welke totaal prijs 
+hier verwacht wordt?
+Antwoord:
+Als er geen getal of bedrag ingevuld hoeft te worden in TenderNed, dan 
+hoeft u uiteraard niets in te vullen. Mocht er wel een bedrag ingevuld moeten 
+worden, dan moet u het getal '0' en anders '1' invullen en indien dit allemaal 
+niet mocht baten, dan de geraamde waarde van 2 maal het jaarbedrag (dus 
+het bedrag over 2 jaar) voor het desbetreffende perceel zoals vermeld in 
+paragraaf 2.6 van de Aanbestedingsleidraad. In deze gevallen zal blijven 
+gelden dat de inschrijvingsprijs niet in de EMVI-beoordeling wordt 
+meegenomen, slechts de totale kwaliteitsscore.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 12 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+17 Duurzaamheidsbeleid
+Vraag:
+Mogen we er van uitgaan dat de beschrijving van het duurzaamheidsbeleid 
+niet meetelt voor het maximum van 10 pagina’s van het plan van aanpak?
+Antwoord:
+Ja, hier kunt u vanuit gaan.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+18 aanleveren genoemde documenten
+Vraag:
+Kunt u het bestand uit de link (ad.rws.nl/p-dfs01/afdeling/wvl/BV_IC
+/BIO_Algemeen/- Duurzaamheid/MVI%20Handreiking%20KI%20WVL.
+docx) aanleveren?
+Antwoord:
+Eis MVI03 uit hoofdstuk 8 Maatschappelijk Verantwoord Inkopen vervalt. 
+Er zijn geen nadere eisen gesteld op het gebied van de keuzes m.b.t. 
+duurzaamheid.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 13 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+19 "31204934 Aanbestedingsleidraad.pdf"
+Vraag:
+"31204934 Aanbestedingsleidraad.pdf":
+1. Par 2.2 (pag. 10, onderaan): Daarnaast behoudt Opdrachtgever zich het 
+recht voor om in incidentele gevallen, gebruik te maken van andere reeds 
+bestaande Raamovereenkomsten en bij mogelijke belangenverstrengeling, en
+/of bij strikt vertrouwelijke of geheime opdrachten van de procedure van de 
+Raamovereenkomst af te wijken.Vraag: heeft opdrachtgever hier al 
+incidentele gevallen bij in gedachten: welke raamovereenkomsten (met 
+welke partijen) zijn dit bijvoorbeeld die hiervoor in aanmerking komen ?
+2. Par 4.4.2 (pag. 20) Zie hiervoor ook het document ‘Template offerte - 
+percelen’ (Bijlage 5a bij de Vraagspecificatie): vraag: Klopt het dat dit 
+template ontbreekt en zo ja kunt u dit toevoegen?
+3. Par 6.2 2e bullet (pag. 24): hier wordt over een eventuele loting gesproken 
+die in par. 6.1 genoemd zou zijn, maar dat is niet het geval. Kunt u dit nader 
+toelichten?
+Antwoord:
+1. Nee er zijn nog geen incidentele gevallen bekend.
+2. Deze verwijzing naar Bijlage 5a komt te vervallen. 
+3. Op de aanbestedingsprocedure is geen loting onder inschrijvingen van 
+toepassing. Lid 2 van artikel 6.2 in de Aanbestedingsleidraad vervalt. Zie ev. 
+ook het antwoord op vraag 9.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 14 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+20 "Bijlage E: 31204934 BI_VI BPKV.pdf"
+Vraag:
+"Bijlage E: 31204934 BI_VI BPKV.pdf":
+1. Bij het criterium 1: aanpak geeft u aan dat u beoordeeld in de mate dat 
+opdrachtnemer ‘proactief is als deelnemer als het gaat om afstemming en 
+kennisdeling’. Lastig is in te schatten wat bedoeld wordt met pro-actief. Kan 
+OG voorbeelden geven wat met Pro-actief wordt bedoeld?
+Antwoord:
+Met proactief wordt bedoeld de mate waarin de opdrachtnemer op eigen 
+initiatief kennis deelt met de andere deelnemers, risico's zelf signaleert bij 
+aanpak van de projecten (zowel bij eigen projecten, als projecten van 
+anderen in de samenwerking) en deze open op tafel legt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+21 "31204934 Bijlage I Vraagspecificatie SMP.pdf"
+Vraag:
+"31204934 Bijlage I Vraagspecificatie SMP.pdf":
+1. Par 2.3 (pag 11/12): stap 4.2 in de tabel: Alle partijen binnen het perceel 
+dienen een Plan van Aanpak en offerte in. Klopt het dat hier inderdaad alle 
+partijen wordt bedoeld (dus dat iedere partij in het perceel altijd een voorstel 
+moet doen) of toch alleen de daadwerkelijk geïnteresseerde partijen binnen 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 15 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+het perceel?
+2. Par 2.3 (pag 11/12): Stap 6: alle partijen dienen feedback te geven op het 
+geselecteerde PvA. Voor het creëren van extra inzicht en/of meerwaarde is 
+dit binnen de samenwerking begrijpelijk maar dan is het ook logisch om ook 
+de niet-geselecteerde plan van aanpakken met elkaar te delen. Hoe kijkt u 
+tegen deze aanscherping aan?
+Antwoord:
+ad 1. Bij opdrachten vanaf €50.000 excl. BTW moeten alle partijen van het 
+perceel die, overeenkomstig artikel 8.2 van de concept 
+Samenwerkingsovereenkomst en paragraaf 2.5 van de 
+Aanbestedingsleidraad, hun interesse kenbaar hebben gemaakt, een 
+aanbieding doen.
+ad 2. Deze aanscherping vindt niet plaats, omdat er voldoende uit de EMVI-
+BKV beoordeling is gebleken op welke gebieden er extra inzicht en/of 
+meerwaarde is gehaald.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+22 "31204934 Aanbestedingsleidraad.pdf"
+Vraag:
+Par 6.2 2e bullet (pag. 24): hier wordt over een eventuele loting gesproken 
+die in par. 6.1 genoemd zou zijn, maar dat is niet het geval. Kunt u dit nader 
+toelichten?
+Antwoord:
+Op de aanbestedingsprocedure is geen loting onder inschrijvingen van 
+toepassing. Zie ook het antwoord op vraag 19. Lid 2 van artikel 6.2 in de 
+Aanbestedingsleidraad vervalt.
+Fase:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 16 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+23 "31204934 Aanbestedingsleidraad.pdf"
+Vraag:
+Par 4.4.2 (pag. 20) Zie hiervoor ook het document ‘Template offerte - 
+percelen’ (Bijlage 5a bij de Vraagspecificatie): vraag: Klopt het dat dit 
+template ontbreekt en zo ja kunt u dit toevoegen?
+Antwoord:
+In paragraaf 4.4.1 komt de genoemde Template (Bijlage 5a) te vervallen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+24 "31204934 Aanbestedingsleidraad.pdf"
+Vraag:
+1. Par 2.2 (pag. 10, onderaan): Daarnaast behoudt Opdrachtgever zich het 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 17 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+recht voor om in incidentele gevallen, gebruik te maken van andere reeds 
+bestaande Raamovereenkomsten en bij mogelijke belangenverstrengeling, en
+/of bij strikt vertrouwelijke of geheime opdrachten van de procedure van de 
+Raamovereenkomst af te wijken.Vraag: heeft opdrachtgever hier al 
+incidentele gevallen bij in gedachten: welke raamovereenkomsten (met 
+welke partijen) zijn dit bijvoorbeeld die hiervoor in aanmerking komen ?
+Antwoord:
+Neen, er zijn nog geen incidentele gevallen bekend.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+25 "31204934 Bijlage I Vraagspecificatie SMP.pdf"
+Vraag:
+Par 2.3 (pag 11/12): Stap 6: alle partijen dienen feedback te geven op het 
+geselecteerde PvA. Voor het creëren van extra inzicht en/of meerwaarde is 
+dit binnen de samenwerking begrijpelijk maar dan is het ook logisch om ook 
+de niet-geselecteerde plan van aanpakken met elkaar te delen. Hoe kijkt u 
+tegen deze aanscherping aan?
+Antwoord:
+Deze aanscherping vindt niet plaats, omdat er uit de EMVI-BKV 
+beoordeling is gebleken op welke gebieden er extra inzicht en/of 
+meerwaarde is gehaald (zie ook het antwoord op vraag 21).
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 18 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+26 "31204934 Bijlage I Vraagspecificatie SMP.pdf"
+Vraag:
+1. Par 2.3 (pag 11/12): stap 4.2 in de tabel: Alle partijen binnen het perceel 
+dienen een Plan van Aanpak en offerte in. Klopt het dat hier inderdaad alle 
+partijen wordt bedoeld (dus dat iedere partij in het perceel altijd een voorstel 
+moet doen) of toch alleen de daadwerkelijk geïnteresseerde partijen binnen 
+het perceel?
+Antwoord:
+Bij opdrachten vanaf €50.000 excl. BTW moeten alle partijen van het 
+perceel die hun interesse kenbaar hebben gemaakt, een aanbieding doen. Zie 
+eventueel ook het antwoord op vraag 21 ad 1.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+27 Template offerte - percelen’ (Bijlage 5a)
+Vraag:
+P. 20 van de Aanbestedingsleidraad vermeldt: 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 19 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+“Zie hiervoor ook het document ‘Template offerte - percelen’ (Bijlage 5a bij 
+de Vraagspecificatie), dat eventueel kan dienen als leidraad voor het 
+schrijven van de offerte.”
+De genoemde template lijkt echter te ontbreken? Het document 
+Vraagspecificatie omvat geen bijlage 5a.
+Antwoord:
+Zoals eerder vermeld vervalt deze Bijlage 5a.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+28 Kwaliteitswaarde
+Vraag:
+De toelichting bij bijlage E (p. 33 in de Aanbestedingsleidraad) vermeldt dat:
+“IP -/- (A+B) – “Cijfers lager dan 6 leiden tot een negatieve 
+kwaliteitswaarde en derhalve niet tot een vermindering van de fictieve 
+inschrijvingssom maar tot een bijtelling.”
+Is de A in bovenstaande formule de maximumscore van 1.200.000 en B de 
+behaalde score?
+Hoe leiden scores lager dan 6 dan precies tot een bijtelling?
+Antwoord:
+Onderaan in Bijlage E is A inderdaad de maximumscore die behaald kan 
+worden (de som van de gescoorde kwaliteitswaarde). B heeft betrekking op 
+de prestatiecriteria, die niet van toepassing zijn. 
+Bij een score van bijvoorbeeld 5 is er een bijtelling op de fictieve 
+inschrijvingssom (de kwaliteitswaarde).
+Fase:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 20 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+29 MVI02
+Vraag:
+P.29 in de vraagspecificatie vermeldt:
+“MVI02 De Opdrachtnemer dient het volgende op te nemen in het Plan van 
+Aanpak:
+- Een aantoonbaar eigen duurzaamheidsbeleid en/of visie. Beschreven in ½ - 
+1 A4.
+- Een uitleg hoe dit duurzaamheidsbeleid/visie kan doorwerken in de 
+Samenwerking SMP en de uitvoering van een Deelproject.”
+Dit betekent dat deze paragrafen onderdeel uitmaken van de maximum 10 
+pagina’s van de ‘kwalitatieve documenten’ cfr. bijlage E ?
+Antwoord:
+Deze paragrafen tellen niet mee bij de 10 A4 die als maximum zijn gesteld.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 21 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+30 Handreiking MVI Ambitieweb
+Vraag:
+We konden de bijlage ‘Handreiking MVI Ambitieweb’ bij MVI03 niet 
+openen. Is het mogelijk deze over te maken?
+Antwoord:
+Eis MVI03 uit hoofdstuk 8 Maatschappelijk Verantwoord Inkopen vervalt. 
+Er zijn geen nadere eisen gesteld op het gebied van de keuzes m.b.t. 
+duurzaamheid.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+31 Referentieopdrachten en geschiktheidseisen
+Vraag:
+o Met de referentieopdrachten moet voldaan worden aan de 
+geschiktheidseisen. Een referentieopdracht mag ingezet worden voor 
+meerdere geschiktheidseisen. Wat wordt precies bedoeld met de 
+geschiktheidseisen? Dit lijkt te verwijzen naar het programma van eisen (hfst 
+4 in bijlage I), maar voor de meeste van de daar vermelde eisen lijkt het 
+opgeven van referentieopdrachten niet relevant.
+Antwoord:
+De geschiktheidseisen hebben geen betrekking op het PvE (Bijlage I 
+hoofdstuk 4), maar worden getoetst aan de hand van de ingevulde Bijlage(n) 
+D en worden aan een nadere beoordeling onderworpen samen met de 
+beschrijving van de relevante ervaring en kennis zoals vermeld in criterium 2 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 22 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+van de EMVI-BKV tabel. De gevraagde Bijlage(n) D (referentieopdrachten) 
+zijn voorbeeldprojecten die zijn uitgevoerd en die de kennis en ervaring 
+mede kunnen aantonen. De onder het tweede aandachtspunt van criterium 2 
+van de EMVI-BKV Tabel vermelde paragraaf 3.3 wordt gewijzigd in 3.4. De 
+cv's vermeld in paragraaf 3.3 lid 3 van de Aanbestedingsleidraad behoeven 
+geen daadwerkelijke complete cv's te zijn, maar cv's die een korte 
+beschrijving geven van de relevante kennis en ervaring en de relevante 
+onderdelen daarvan die ten behoeve van deze Raamovereenkomst worden 
+ingezet.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+32 Referentieopdrachten
+Vraag:
+- Om de technische bekwaamheid aan te tonen, worden referenties gevraagd 
+uitgevoerd in de afgelopen 5 jaar.
+- Betekent dit dat de aanvangsdatum maximum 5 jaar geleden mag zijn? Of 
+de datum van oplevering?
+- Mogen hiervoor lopende opdrachten worden opgelijst, en indien ja, moeten 
+deze gestaafd kunnen worden met een tussentijds attest van goede uitvoering 
+(opdrachtgeversverklaring)?
+- De referentieopdrachten dienen volledig zelfstandig te zijn uitgevoerd. 
+Betekent dit zeer strikt dat er geen andere partijen als opdrachtnemer 
+betrokken mochten zijn, noch als partner, noch als onderaannemer?
+Of kan, in geval van samenwerking met andere partners of onderaannemers, 
+een referentie worden opgegeven indien de opgegeven competenties en 
+bedragen exclusief aan de inschrijver toe te kennen zijn?
+Antwoord:
+Achtereenvolgens:
+- Zie antwoord bij vraag 4.
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 23 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+- Ja (verplicht via de referentieopdrachten).
+- De referentieopdrachten moeten zijn uitgevoerd, maar nog niet opgeleverd. 
+De opdrachten hoeven bij de inschrijving niet gestaafd te worden met 
+attesten, hoewel daar wel binnen twee dagen om kan worden gevraagd 
+(Aanbestedingsleidraad paragraaf 3.4).
+- 'Zelfstandig' zoals aangeduid in paragraaf 3.3 lid 4 betekent in dit geval niet 
+'alleen'. Van de geschiktheidseisen moet worden aangetoond dat de 
+inschrijver het desbetreffende onderdeel heeft uitgevoerd. Dat kan ook in een 
+combinatie of samenwerkingsverband, of als onderaannemer, zijn geweest, 
+mits duidelijk aangetoond. En dat kan ook indien een inschrijver zich, om 
+aan de geschiktheidseisen te voldoen, bij de inschrijving beroept op een 
+onderaannemer (paragraaf 3.5 van de Aanbestedingsleidraad) die deze 
+kennis en ervaring wel meebrengt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+33 Referenties in kwalitatief document
+Vraag:
+Mogen in het kwalitatief document nog bijkomende opdrachten (bovenop de 
+3 referentieopdrachten die de technische bekwaamheid aantonen) worde 
+opgenomen, en mogen dit zowel lopende projecten als projecten in 
+samenwerkingsverband zijn?
+Antwoord:
+U kunt per perceel maximaal 3 projecten opvoeren met bijlage D, en deze 
+referentieopdrachten moeten voldoen aan de geschiktheidseisen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 24 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+34 Periode referentieopdrachten
+Vraag:
+In de tabel op p. 20 wordt vermeld: “Een beschrijving van de kennis en 
+ervaring van de Opdrachtnemer met verwijzing naar relevante en 
+vergelijkbare opdrachten, uitgevoerd in de afgelopen 3 jaar”.
+Elders in de aanbestedingsleidraad, en in de EMVI-BPKV-tabel is sprake 
+van de afgelopen 5 jaar. Moet dit hier ook 5 jaar zijn ipv 3 jaar?
+Antwoord:
+Dit moet zoals eerder vermeld, 5 jaar zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+35 Aanbestedingsleidraad - 3.3 - Geschiktheidscriteria
+Vraag:
+Uit de omschrijving maken we op dat Opdrachtgever 3 referentieprojecten 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 25 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+verwacht per perceel. Klopt dit? En hoeveel CVs dienen te worden 
+meegestuurd?
+Antwoord:
+Ja, zie ook het antwoord op vraag 31 en 33. 
+Het aantal korte beschrijvingen van de 'cv's' is niet aan een maximum 
+gebonden, doch dienen niet verder te gaan dan om de gestelde geschiktheid 
+aan te tonen. De cv's vermeld in paragraaf 3.3 lid 3 van de 
+Aanbestedingsleidraad behoeven geen daadwerkelijke complete cv's te zijn, 
+maar cv's die een korte beschrijving geven van de relevante kennis en 
+ervaring en de relevante onderdelen daarvan die ten behoeve van deze 
+Raamovereenkomst en het desbetreffende perceel waarvoor wordt 
+ingeschreven, worden ingezet (zie ook bij vraag 31).
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+36 Aanbestedingsleidraad - 4.4 - 1 - Template offerte - percelen
+Vraag:
+Er wordt verwezen naar Bijlage 5a bij de vraagspecificatie. Kan 
+Opdrachtgever deze verstrekken?
+Antwoord:
+Deze bijlage komt zoals eerder vermeld te vervallen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 26 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+37 ARDOVI 2018 - 4.2 - Acceptatiecriteria
+Vraag:
+Dit artikel is zo geformuleerd dat wij voor betaling afhankelijk zijn van de 
+acceptatie, zonder dat duidelijk is aan welke criteria voldaan moet zijn voor 
+acceptatie. Dit creëert veel onzekerheid en onduidelijkheid. Wij stellen 
+daarom de volgende toevoeging voor: "Opdrachtgever is enkel gerechtigd 
+Acceptatie te onthouden indien het opgeleverde niet voldoet aan de vooraf 
+overeengekomen specificaties of acceptatiecriteria." Kunt u hiermee 
+instemmen?
+Antwoord:
+Er zal worden getoetst of de overeengekomen Diensten zijn uitgevoerd in 
+overeenstemming met de omschrijving van het voorwerp van de 
+Overeenkomst en de in de Overeenkomst vastgelegde eisen. Als de Diensten 
+aan deze criteria voldoen zal Opdrachtgever de Diensten accepteren.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+38 ARDOVI 2018 - 4.2 - Herstelmogelijkheid bij niet-acceptatie
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 27 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Vraag:
+Indien opdrachtgever de levering niet accepteert lijkt het ons redelijk dat 
+Opdrachtnemer een herstelmogelijkheid geboden wordt. Is Opdrachtgever 
+akkoord met de toevoeging: bij niet-acceptatie krijgt Opdrachtnemer de 
+mogelijkheid om de levering te herstellen binnen een redelijke termijn. Als 
+het herstel akkoord bevonden wordt zal Opdrachtgever alsnog overgaan op 
+acceptatie.
+Antwoord:
+Wanneer sprake is van het niet het nakomen door Opdrachtnemer van een 
+contractuele verplichting, dient Opdrachtgever hem zo spoedig mogelijk 
+schriftelijk in gebreke te stellen. Daarbij moet hij Opdrachtnemer een 
+redelijke termijn gunnen om alsnog aan zijn verplichtingen te voldoen. In 
+gebreke stellen is niet nodig als nakoming op dat moment al niet meer 
+mogelijk is of wanneer sprake is van overschrijding van een zogenoemde 
+"fatale termijn". Dit is een tussen Partijen duidelijk afgesproken en niet 
+eerder uitgestelde termijn waarbinnen de prestatie geleverd moet zijn.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+39 ARDOVI 2018 - 21.3 - Beperking aansprakelijkheid
+Vraag:
+Het is in onze branche zeer gebruikelijk dat partijen een marktconforme 
+beperking van aansprakelijkheid overeenkomen, waarbij de 
+aansprakelijkheid wordt beperkt tot een bedrag van maximaal eenmaal de 
+door Opdrachtgever voor de diensten verschuldigde en betaalde 
+vergoedingen in het afgelopen jaar. Dit behoudens opzet of bewuste 
+roekeloosheid van opdrachtnemer. Kunt u hiermee instemmen?
+Antwoord:
+Neen, artikel 21.3 blijft gehandhaafd. 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 28 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+De Gids Proportionaliteit bepaalt immers in voorschrift 3.9 het verplichte 
+gebruik van de ARVODI-2018. De voorschriften uit de Gids 
+Proportionaliteit zijn een verplicht richtsnoer voor aanbestedende diensten 
+op grond van artikel 1.10 lid 3 Aanbestedingswet 2012. Een aanbestedende 
+dienst kan op grond van artikel 1.10 lid 4 Aanbestedingswet 2012 hiervan 
+afwijken, mits deze afwijking voldoende wordt gemotiveerd. In deze zaak is 
+de ARVODI-2018 van toepassing verklaard en zijn er geen redenen om van 
+toepassing van de ARVODI-2018 af te wijken.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+40 ARDOVI 2018 - 21.3 - Onbeperkte aansprakelijkheid
+Vraag:
+De beperking van de aansprakelijkheid komt op grond van artikel te 
+vervallen bij een schending van intellectuele eigendomsrechten of 
+schadevergoeding in verband met tekortschieten in de nakoming van die 
+overeenkomst. Dit leidt tot een onbeperkte aansprakelijkheid hetgeen 
+disproportioneel is. Een onbeperkte aansprakelijkheid is immers niet 
+verzekerbaar. Bent u daarom bereid artikel 21.3 sub c en sub d buiten 
+toepassing te verklaren?
+Antwoord:
+Opdrachtgever wijkt niet af van artikel 21.3 sub c van de ARVODI 2018. De 
+bepaling is opgenomen om opdrachtgever te beschermen tegen juridische en 
+financiele risico's die voortvloeien uit mogelijke schendingen van IE-
+rechten. Opdrachtnemer blijft verantwoordelijk voor eventuele inbreuken, 
+wat noodzakelijk is om de belangen van de overheid en betrokken derden te 
+waarborgen. Afwijken zou leiden tot een disproportionele risicoverdeling ten 
+nadele van de opdrachtgever. Opdrachtgever wijkt ook niet af van artikel 
+21.3 sub d van de ARVODI 2018. De bescherming van natuurlijke personen 
+bij de verwerking van persoonsgegevens is een grondrecht. Schending van 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 29 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+dit grondrecht kan schadelijk zijn voor de betrokken natuurlijke personen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+41 ARDOVI 2018 - 32. - Voortdurende bepalingen
+Vraag:
+Het laten voortduren van bepalingen voor onbeperkte duur is ongebruikelijk. 
+Is Opdrachtgever akkoord met toevoeging van "voor een periode van 
+maximaal 1 jaar na beëindiging van de overeenkomst"?
+Antwoord:
+De opdrachtgever wijkt niet af van de voortdurende bepalingen in artikel 32 
+van de ARVODI 2018. Deze bepalingen zijn essentieel om de belangen van 
+de opdrachtgever ook na beeindiging van de overeekomst te beschermen. 
+Hiernaast vermeld ik u dat de ARVODI tot stand is gekomen in samenspraak 
+met branche / markt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 30 van 60 Datum genereren nota van inlichtingen: 31 jan. 2025
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+42 Bijlage E: EMVI-BPKV - 1. - Beoordelingssystematiek
+Vraag:
+Begrijpen we goed dat de partij met de laagste fictieve inschrijvingsprijs 
+(hoogste score kwaliteitscriteria) het beste beoordeeld wordt waarbij 
+prestatiecriteria (B) en inschrijvingsprijs (IP) buiten beschouwing gelaten 
+worden?
+Antwoord:
+Ja, dit klopt.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 31 jan. 2025
+Ref.nr. Onderwerp:
+43 Bijlage I: Vraagspecificatie SMP - 4.2 - S3 - Versiebeheersysteem
+Vraag:
+Voor de ontwikkeling en hierop gebaseerde tooling is het handiger als 
+Opdrachtnemer haar eigen versiebeheersysteem kan hanteren. Indien 
+gewenst kunnen bij releases wel een kopie van de broncode worden 
+opgeleverd of toegang gegeven worden aan het versiebeheersysteem. Is 
+Opdrachtgever hiermee akkoord? Of kan Opdrachtgever anders aangeven 
+welk versiebeheersysteem gehanteerd wordt en hoe Opdrachtnemer hier 
+toegang toe kan krijgen?
+Antwoord:
+We hebben het voornemen om GitLab als versiebeheersysteem te gebruiken. 
+Opdrachtnemer krijgt hier toegang toe. Binnen deze omgeving worden 
+issues, broncode en documentatie bijgehouden. Middels GitLab pipelines
+
+=== Document: nota van inlichtingen 2025-02-07-1 ===
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 1 van 4 Datum genereren nota van inlichtingen: 7 feb. 2025
+Algemene informatie
+Aanbesteding: 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Aanbestedende Dienst: Rijkswaterstaat
+Referentie: 31204934
+Toelichting:
+1. Deze (laatste) Nota van inlichtingen maakt onderdeel uit van de te sluiten 
+Samenwerkingsovereenkomst SMP.
+2. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere (dan in deze en eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, 
+bijlagen of andere stukken getoond.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+118 Aanvullende vragen
+Vraag:
+Klopt het dat er een foutieve verwijzing staat in het antwoord op vraag 113?
+Antwoord:
+De in het antwoord op vraag 113 vermelde verwijzing naar vraag 101 moet 
+gewijzigd worden in verwijzing naar vraag 99.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 3 feb. 2025
+Ref.nr. Onderwerp:
+119 Aanvullend NVI
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 2 van 4 Datum genereren nota van inlichtingen: 7 feb. 2025
+Vraag:
+Welk tijdstip geldt voor de nieuwe inschrijvingstermijn van 28 februari a.s.?
+Antwoord:
+De in het antwoord op vraag 109 datum van 28 februari 2025 wordt 
+aangevuld met het tijdstip van 15.00 uur.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 3 feb. 2025
+Ref.nr. Onderwerp:
+120 Algemeen
+Vraag:
+Is het een optie om de deadline te verleggen naar maandag 3 maart dit i.v.m. 
+de voorjaarsvakantie die net in de week van 28 februari valt?
+Antwoord:
+Ja, dat is akkoord. De inschrijvingstermijn zoals vermeld in het antwoord op 
+vraag 109 en 119 wordt dus gewijzigd naar 3 maart 2025, 15.00 uur.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 3 van 4 Datum genereren nota van inlichtingen: 7 feb. 2025
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 7 feb. 2025
+Ref.nr. Onderwerp:
+121 Inschrijving
+Vraag:
+Bij het gereed maken van de documenten voor het indienen van de 
+aanbesteding kwam onderstaande zin tegen. 
+‘Een ondernemer dient zelfstandig in te schrijven. Voor de inschrijving geldt 
+dat er geen samenwerkingsverbanden of combinaties zijn toegestaan’.
+Wij hebben voor deze aanbesteding verschillende expertises binnen onze 
+eigen entiteiten zitten, die aan verschillende referentieprojecten hebben 
+meegewerkt. Echter kan het zo zijn dat deze door een andere aan ons 
+gelieerde (buitenlandse) entiteit dan onze inschrijvende (binnenlandse) 
+entiteit uitgevoerd zijn. Uiteraard zijn de collega’s met deze expertise 
+beschikbaar voor uitvoering van het contract. Hier ontstaat voor ons wat 
+verwarring, deze andere entiteit dient opgegeven te worden als ondernemer, 
+en daarom vormen wij dan indirect een samenwerkingsverband binnen onze 
+eigen entiteiten.
+Klopt onze aanname dat dit vereiste niet bedoeld is voor ons voorbeeld maar 
+voor samenwerkingen buiten de entiteiten? En als deze aanname klopt 
+verwacht u van alle entiteiten een eigen UEA verklaring?
+Antwoord:
+Binnen een concern samenwerkende ondernemers zijn bij deze aanbesteding 
+mogelijk, mits een van hen inschrijft. De andere ondernemer zal zich moeten 
+aanmelden als andere natuurlijke of rechtspersoon, oftewel onderaannemer, 
+om gezamenlijk aan de gestelde geschiktheidseisen te kunnen voldoen. 
+Verwezen wordt ook naar het antwoord op vraag 1, 62 en 80.
+Als inschrijver, maar ook als slechts met een onderaannemer aan de beoogde 
+geschiktheidseisen kan worden voldaan, zijn overeenkomstig paragraaf 4.4 
+van de Aanbestedingsleidraad, de gewenste verklaringen zoals het UEA 
+(voor beiden) verplicht. Dit lijdt dus uitzondering voor het geval de 
+onderaannemer niet noodzakelijk is om aan te tonen dat aan de 
+geschiktheidseisen wordt voldaan.
+De ondernemer verstrekt de aanbesteder, binnen twee werkdagen na een 
+daartoe ontvangen verzoek door middel van TenderNed, “Berichten”, dan 
+wel per e-mail (bij wijze van uitzondering) ingeval van buitenlandse 
+ondernemingen, bewijsmiddelen waaruit blijkt dat de ondernemer 
+daadwerkelijk en onherroepelijk kan beschikken over de voor de uitvoering 
+van de opdracht noodzakelijke middelen van de andere natuurlijke of 
+rechtspersonen, alsmede bewijsmiddelen waaruit blijkt dat de andere 
+natuurlijke of rechtspersonen daadwerkelijk en onherroepelijk worden 
+ingezet bij de uitvoering van de opdracht. Als bewijsmiddel kan onder meer 
+dienen een ter zake gesloten (onderaannemings-)overeenkomst of een ter 
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 4 van 4 Datum genereren nota van inlichtingen: 7 feb. 2025
+zake door de ondernemer en de andere natuurlijke of rechtspersoon 
+opgestelde, gedateerde en rechtsgeldig ondertekende verklaring, zulks ter 
+beoordeling van de aanbesteder.
+Mochten de ondernemers overigens besluiten om elk zelfstandig in te 
+schrijven, dan kan dat onder de bijkomende voorwaarde van paragraaf 4.3.4 
+van de Aanbestedingsleidraad.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 7 feb. 2025
+
+=== Document: nota van inlichtingen 2025-02-07-2 ===
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 1 van 2 Datum genereren nota van inlichtingen: 7 feb. 2025
+Algemene informatie
+Aanbesteding: 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Aanbestedende Dienst: Rijkswaterstaat
+Referentie: 31204934
+Toelichting:
+1. Deze (laatste) Nota van inlichtingen maakt onderdeel uit van de te sluiten 
+Samenwerkingsovereenkomst SMP.
+2. De termijn voor indiening van de inschrijving is gewijzigd naar 3 maart 2025 om 15.00 uur.
+3. Er zijn geen andere bindende inlichtingen verstrekt dan die, welke in deze nota van 
+inlichtingen (en eventueel voorgaande nota's van inlichtingen) zijn vermeld en er zijn geen 
+andere (dan in deze en eventueel voorgaande nota's van inlichtingen genoemde) tekeningen, 
+bijlagen of andere stukken getoond.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+122 Inschrijving
+Vraag:
+Indien er met een onderaannemer wordt samengewerkt om gezamenlijk aan 
+de gestelde geschiktheidseisen te voldoen, welke verklaringen uit paragraaf 
+4.4 van de Aanbestedingsleidraad zijn dan verplicht om bij de inschrijving in 
+te dienen?
+Antwoord:
+Slechts indien met de inschakeling van de onderaannemer wordt aangetoond 
+dat de hoofd- en onderaannemer gezamenlijk aan de gestelde 
+geschiktheidseisen voldoen, zijn de volgende verklaringen van de 
+desbetreffende onderaannemer verplicht:
+1. Uniform Europees Aanbestedingsdocument
+2. Aanvullende Eigen verklaring
+3. Bijlage D
+4. de onder het antwoord van een van de laatste vragen aangegeven 
+verklaring over de inzet van de middelen van de onderaannemer en dat de 
+desbetreffende onderaannemer het betreffende onderdeel van de opdracht 
+verklaart te zullen uitvoeren.
+De hoofdaannemer verstrekt voorts alle verklaringen vermeld in paragraaf 
+4.4 van de Aanbestedingsleidraad. Slechts de verklaringen die moeten 
+worden ondertekend, moeten voorzien zijn van een gekwalificeerde 
+elektronische handtekening zoals vermeld in paragraaf 4.3.1 lid 6 van de 
+Aanbestedingsleidraad, dan wel van de hoofdaannemer, dan wel van de 
+onderaannemer voor de verklaringen zoals hierboven puntsgewijs 
+aangegeven.
+Nota van inlichtingen 31204934 Strategische Modelvernieuwing Personenvervoer (SMP)
+Pagina 2 van 2 Datum genereren nota van inlichtingen: 7 feb. 2025
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Software
+P  2 Onderzoek & Ontwikkeling I
+P  3 Onderzoek & Ontwikkeling II
+Beantwoord op: 7 feb. 2025
+
+=== Document: 31204934 aanbestedingsleidraad ===
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 1 van 37 
+Aanbestedingsleidraad  
+Europese openbare aanbesteding 
+ 
+ 
+voor de aanbesteding van de opdracht met zaaknummer 
+31204934 voor de uitvoering van de “Samenwerking 
+Strategische Modelvernieuwing Personenvervoer” (SMP) 
+ 
+ 
+Datum 20 November 2024 
+ 
+ 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 2 van 37 
+Colofon Model 905 v1.1 
+ 
+Uitgegeven door  Ministerie van Infrastructuur en Waterstaat 
+Rijkswaterstaat Water, Verkeer en Leefomgeving  
+ 
+ 
+ 
+   
+Datum  20-11-2024 
+Status  Definitief 
+Versienummer  1.2 
+ 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 3 van 37 
+Inhoud 
+Begrippenlijst 5 
+1 Algemene uitgangspunten 7 
+ Algemeen 7 
+ Aanbestedingsprocedure via TenderNed 7 
+ Klachten met betrekking tot de aanbestedingsprocedure 8 
+ Motivering in het kader van de Aanbestedingswet 8 
+2 Opdrachtomschrijving, contractvorm en planning 9 
+ Opdrachtomschrijving 9 
+ Contractvorm 10 
+ Perceelvorming 11 
+ Aantal te contracteren partijen 11 
+ Werking Raamovereenkomst 11 
+ Opdrachtwaarde en duur van de Samenwerkingsovereenkomst 12 
+ Planning 12 
+ Duur Samenwerkingsovereenkomst 13 
+ Beleidsuitgangspunten 13 
+3 Uitsluitingsgronden en geschiktheidseisen 14 
+ Uniform Europees Aanbestedingsdocument en Eigen verklaring 14 
+ Uitsluitingsgronden 14 
+ Geschiktheidscriteria 15 
+ Bewijsmiddelen met betrekking tot de geschiktheidseisen 16 
+ Voorkennis en belangenverstrengeling 16 
+4 Inschrijvingsfase 17 
+ Procedurebeschrijving inschrijvingsfase 17 
+ Nadere inlichtingen 17 
+ Nadere inlichtingen als bedoeld in artikel 2.22 van het ARW 2016 17 
+ Nadere inlichtingen als bedoeld in artikel 2.23 van het ARW 2016 17 
+ Inschrijving 18 
+ Indienen van een inschrijving 18 
+ Varianten van de inschrijver 18 
+ Bevoegdheid tot het doen van een inschrijving 19 
+ Concernverhoudingen 19 
+ Bij inschrijving te verstrekken documenten 19 
+ Bij de inschrijving te verstrekken kwalitatieve documenten 20 
+5 Beoordelingsfase en gunningsbeslissing 22 
+ Algemeen 22 
+ Programma van Eisen 22 
+ Beoordelingsproces 22 
+ Gunningsbeslissing 23 
+ Gestanddoening 23 
+6 Overige bepalingen 24 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 4 van 37 
+ Tussentijdse stopzetting of beëindiging van de aanbestedingsprocedure 24 
+ Forumkeuze; rechtsbescherming 24 
+ Blijvend voldoen 25 
+ Intrekking inschrijving 25 
+Bijlage A Uniform Europees Aanbestedingsdocument 26 
+Bijlage B Aanvullende eigen verklaring 27 
+Bijlage C Aanmeldingsformulier 31 
+Bijlage D Gegevens omtrent technische bekwaamheid 32 
+Bijlage E Algemene toelichting op het rekenblad EMVI/BPKV; zie separate bijlage (E) 
+voor de uitwerking van de tabel EMVI/BPKV criteria 33 
+Bijlage F Verklaring inzake de verplichtingen op het gebied van milieu-, sociaal en 
+arbeidsrecht 34 
+Bijlage G (Concept) Raamovereenkomst 35 
+Bijlage H Model K verklaring bestuurder omtrent rechtmatigheid   inschrijving 36 
+Bijlage I Vraagspecificatie incl. Programma van Eisen (PvE) 37 
+ 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 5 van 37 
+Begrippenlijst  
+ 
+ 
+Algemene aanduidingen en begripsbepalingen zijn beschreven in de ARW 2016. 
+In aanvulling hierop op de definities zoals beschreven in de Aanbestedingswet 2012 
+gelden zijn de volgende definities van toepassing:  
+ 
+Aanbestedende dienst  
+De Staat der Nederlanden, meer in het bijzonder Rijkswaterstaat, onderdeel van het 
+Ministerie van Infrastructuur en Waterstaat.  
+ 
+Aanbestedingsdocumenten  
+Alle door de Aanbestedende dienst voor deze aanbesteding gepubliceerde of aan 
+Inschrijvers ter beschikking gestelde documenten.  
+ 
+Aanbestedingswet 2012 (AW 2012)  
+De wet van 1 november 2012.De Aanbestedingswet 2012 kan worden gedownload 
+op https://wetten.overheid.nl.  
+ 
+Aanbestedingsleidraad 
+Het onderhavige document van de Aanbestedende dienst, inclusief bijlagen, waarin 
+de te volgen aanbestedingsprocedure en de geschiktheids- en gunningscriteria zijn 
+beschreven en toegelicht.  
+ 
+Bijlagen  
+Aanhangsel bij één van de Aanbestedingsdocumenten. Bijlagen maken integraal 
+deel uit van de Aanbestedingsdocumenten.  
+ 
+ 
+Diensten  
+De door Opdrachtnemer te verrichten werkzaamheden op het gebied van de 
+gevraagde dienstverlening, op basis van een onder de af te sluiten 
+Samenwerkingsovereenkomst(en) gesloten Nadere Overeenkomst ten behoeve van 
+Opdrachtgever.  
+ 
+Eisen  
+Voorschriften en Eisen ten aanzien van de gevraagde dienst(en). 
+ 
+Geschiktheidseisen  
+De eisen op basis waarvan de geschiktheid van de Inschrijver om de opdracht uit te 
+voeren wordt getoetst. Een Inschrijving die niet voldoet aan een Geschiktheidseis is 
+ongeldig.  
+ 
+Gunningscriterium  
+De Aanbestedende dienst hanteert als gunningscriterium de beste 
+kwaliteitverhouding, waarbij de tabel Beste Prijs-Kwaliteitverhouding (BPKV), wordt 
+gehanteerd. BPKV werd voorheen Economisch Meest Voordelige Inschrijving (EMVI) 
+genoemd. De afkorting EMVI wordt echter nog steeds gehanteerd.  
+ 
+Inschrijver  
+Ondernemer die een Inschrijving voor deze aanbesteding indient.  
+ 
+Inschrijving  
+De door Inschrijver voor deze Europese aanbesteding ingediende offerte.  
+ 
+Nadere Offerte  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 6 van 37 
+Een aanbieding tot het verrichten van diensten, die Partner naar aanleiding van een 
+Nadere Offerteaanvraag uitbrengt aan Opdrachtgever ten behoeve van een uit 
+hoofde van de Samenwerkingsovereenkomst te gunnen opdracht t.b.v. de 
+uitvoering van een (Deel-)project.  
+ 
+Nadere Offerteaanvraag  
+Een uitnodiging door Opdrachtgever onder de Samenwerkingsovereenkomst aan de 
+Partners tot het uitbrengen van een Nadere Offerte voor een opdracht tot het 
+verrichten van Diensten t.b.v. een Deelproject.  
+ 
+Nadere Overeenkomst  
+Afzonderlijke schriftelijke overeenkomst (opdrachtbon) tussen Opdrachtgever en 
+Opdrachtnemer op basis waarvan Opdrachtgever gedurende de looptijd van de 
+Samenwerkingsovereenkomst aan Opdrachtnemer opdrachten tot het verrichten 
+van Diensten m.b.t. uit te voeren Deelprojecten kan verstrekken.  
+ 
+Raamovereenkomst 
+Een schriftelijke overeenkomst die met de winnende Inschrijver(s) van deze 
+Europese aanbesteding wordt gesloten, waarin de voorwaarden en condities zijn 
+geregeld met betrekking tot de onderhavige Europese aanbesteding en waaronder 
+door middel van de Nadere Overeenkomst(en) de afzonderlijke opdracht(en) 
+wordt/worden uitgevoerd. 
+ 
+Opdrachtgever 
+De Aanbestedende dienst, meer in het bijzonder de afdeling Modellen en Applicaties 
+van de dienst Water, Verkeer en Leefomgeving. 
+ 
+Opdrachtnemer 
+Een Partij waarmee de Opdrachtgever een Nadere Overeenkomst sluit. 
+ 
+Subgunningscriteria  
+Nadere uitwerking van het Gunningscriterium. De criteria die bepalen welke 
+Inschrijving(en) als EMVI/BPKV wordt beoordeeld.  
+ 
+Uniforme Europese Aanbestedingsdocument (UEA)  
+In het Uniform Europese Aanbestedingsdocument, zoals vastgesteld door het 
+ministerie van Economische zaken, geeft de Inschrijver aan dat hij voldoet aan het 
+gestelde omtrent Uitsluitingsgronden, technische specificaties en 
+uitvoeringsvoorwaarden. Om de administratieve lasten te beperken worden de 
+bewijsstukken alleen bij de winnende Inschrijver(s) in de verificatiefase 
+opgevraagd.  
+ 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 7 van 37 
+1 Algemene uitgangspunten 
+ Algemeen 
+ 
+1. Namens de Staat der Nederlanden gevestigd te ‘s-Gravenhage, Ministerie van 
+Infrastructuur en Waterstaat wordt door Rijkswaterstaat, de Dienst Water, 
+Verkeer en Leefomgeving (WVL) te Rijswijk (hierna: aanbesteder), een 
+Europese aanbesteding voor het verlenen van een opdracht volgens de 
+openbare procedure overeenkomstig het Aanbestedingsreglement Werken 2016 
+(ARW 2016) gehouden. 
+ 
+2. De aanbestedingsprocedure betreft een opdracht voor diensten met 
+zaaknummer 311204934 voor de uitvoering en realisatie van de overeenkomst 
+“Samenwerking Strategische Modelvernieuwing Personenvervoer” (SMP) 
+ 
+3. De aanbestedingsprocedure is gebaseerd op deze aanbestedingsleidraad, de 
+nota’s van inlichtingen, de processen-verbaal en de contractdocumenten: de 
+dienstverleningsovereenkomst, de vraagspecificatie en de bijlagen bij de 
+vraagspecificatie. In geval van tegenstrijdigheid tussen de 
+aanbestedingsleidraad en de contractdocumenten prevaleren de 
+contractdocumenten. 
+ 
+4. Door het doen van een verzoek tot deelneming (aanmelding) en/of een 
+inschrijving verklaart een ondernemer zich onvoorwaardelijk akkoord met de in 
+deze aanbestedingsleidraad beschreven aanbestedingsprocedure. 
+ 
+5. Rijkswaterstaat hanteert de Gedragscode ‘Publiek Opdrachtgeverschap’. Deze 
+gedragscode is te downloaden op de internetsite van Rijkswaterstaat via het 
+adres: www.rws.nl/opdrachtgeverscode. 
+ Aanbestedingsprocedure via TenderNed 
+ 
+De aanbestedingsprocedure wordt uitsluitend digitaal uitgevoerd via het 
+elektronisch systeem voor aanbestedingen: TenderNed (www.tenderned.nl). 
+ 
+Dit betekent dat verzoeken tot deelneming en de inschrijvingen alleen via 
+TenderNed mogelijk zijn. Het is een ondernemer niet toegestaan, tenzij 
+uitdrukkelijk anders aangegeven, in het kader van deze aanbestedingsprocedure 
+contacten te onderhouden of vragen te stellen anders dan via TenderNed. Voor 
+deelneming aan de aanbestedingsprocedure dient een ondernemer als gebruiker te 
+zijn geregistreerd bij TenderNed. De “Gebruiksvoorwaarden TenderNed” zijn van 
+toepassing. 
+ 
+Van een ondernemer wordt verwacht dat deze alle benodigde kennis heeft om op 
+een correcte wijze een aanbestedingsprocedure te kunnen doorlopen in TenderNed. 
+Zie voor handleidingen TenderNed gebruiken als ondernemer. 
+ 
+Gebruik van TenderNed is voor rekening en risico van de ondernemer, behoudens 
+de volgende uitzonderingssituaties.  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 8 van 37 
+In geval TenderNed op het uiterste tijdstip voor ontvangst van de verzoeken tot 
+deelneming en/of de inschrijving niet toegankelijk is als gevolg van een storing bij 
+eHerkenning, in TenderNed of aan het hoogspanningsnet, dan is er sprake van een 
+overmacht situatie. In voorkomend geval kan het uiterste tijdstip voor ontvangst 
+van de verzoeken tot deelneming en/of de inschrijvingen afhankelijk van de situatie 
+en de gevolgen door de aanbesteder worden uitgesteld. Het gewijzigde uiterste 
+tijdstip wordt bekend gemaakt via TenderNed, “Rectificatie”. 
+ Klachten met betrekking tot de aanbestedingsprocedure 
+ 
+Ingevolge het advies ‘Klachtafhandeling bij aanbesteden’ heeft Rijkswaterstaat een 
+klachtenmeldpunt ingericht. Klachten met betrekking tot de 
+aanbestedingsprocedure kunnen worden ingediend bij het Centrale 
+Klachtenmeldpunt Aanbesteden Rijkswaterstaat, op het e-mailadres: 
+klachtenmeldpunt@rws.nl. 
+ 
+Klachten kunnen betrekking hebben op het niet naleven van wettelijke bepalingen 
+of inbreuk op algemene aanbestedingsbeginselen. Een klacht moet schriftelijk 
+worden ingediend en moet duidelijk en gemotiveerd aangeven op welk aspect van 
+de aanbestedingsprocedure de klacht betrekking heeft. Een klacht wordt behandeld 
+door ter zake kundige functionarissen die niet betrokken zijn of zullen worden bij de 
+onderhavige aanbestedingsprocedure. Een klacht wordt zo spoedig mogelijk 
+afgehandeld; de klager wordt daarover geïnformeerd. 
+ 
+Het indienen van een klacht heeft geen opschortende werking en laat onverlet dat 
+een gegadigde of inschrijver tijdig formeel bezwaar dient te maken of een 
+procedure dient te starten indien en voor zover dat aan de orde is (zie paragraaf 
+6.3). Zie voor meer informatie: www.rws.nl/klachtenmeldpuntaanbesteden. 
+ Motivering in het kader van de Aanbestedingswet 
+ 
+De omvang van de opdracht ligt boven het Europese drempelbedrag voor 
+opdrachten van de Rijksoverheid voor Diensten. Gezien het type van de 
+opdracht/dienstverlening, het karakter van de markt en het aantal potentiële 
+marktpartijen is gekozen voor de Europese Openbare procedure. Dit houdt in dat 
+geïnteresseerden naar aanleiding van het Beschrijvend document (inclusief 
+Bijlagen) een Inschrijving kunnen indienen en mogen meedingen naar toelating tot 
+de Samenwerkingsovereenkomst.  
+De Inschrijver dient zich te realiseren dat zijn aanbod eenmalig en definitief is met 
+de Inschrijving die wordt ingediend.  
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 9 van 37 
+2 Opdrachtomschrijving, contractvorm en planning  
+ Opdrachtomschrijving 
+ 
+Rijkswaterstaat Water, Verkeer en Leefomgeving (RWS WVL) is verantwoordelijk 
+voor beheer, onderhoud en vernieuwing van het instrumentarium van verkeers- en 
+vervoermodellen voor het Ministerie van Infrastructuur en Waterstaat.  
+Voor personenmobiliteit zijn dit bijvoorbeeld de modellen LMS/NRM, TIGRIS XL, 
+SPARK en Albatross. Voor een deel van deze instrumenten wordt deze 
+verantwoordelijk gedeeld met ProRail en het Planbureau voor de Leefomgeving 
+(PBL).  
+ 
+Het Programma SMP is erop gericht het genoemde modelinstrumentarium voor 
+personenmobiliteit van het ministerie van Infrastructuur en Waterstaat (IenW) 
+grondig te vernieuwen. Het nieuwe instrumentarium moet op termijn rekening 
+kunnen houden met een aantal grote transities in de maatschappij (bijvoorbeeld 
+woningbouw, klimaatverandering en de energietransitie). Tegelijkertijd wordt met 
+het vernieuwingsprogramma gezorgd dat het instrumentarium inhoudelijk state-of-
+the-art blijft. 
+ 
+Dit project betreft alle deelprojecten die bijdragen aan de doelen van het 
+Programma Strategische Modelvernieuwing Personenvervoermodellen (SMP). Het 
+programma kent vier hoofdopgaven: 
+ 
+ 
+In deze opdracht willen we een nieuwe langjarige samenwerkingsovereenkomst 
+Strategische Modelvernieuwing Personenvervoer (SMP) vormgeven met maximaal 
+zeven marktpartijen. De duur van de Samenwerking SMP behelst 2 jaar. Hierna 
+heeft de Opdrachtgever de mogelijkheid om de opdracht 1 keer voor 2 jaar, daarna 
+1 keer voor 1 jaar te verlengen.  
+ 
+ 
+  
+
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 10 van 37 
+Deze opdracht heeft als doel een samenwerking vorm te geven (‘Samenwerking 
+SMP’), om uitvoering te geven aan het Programma Strategische Modelvernieuwing 
+Personenvervoer (SMP) in de periode 2025-2028. Deze samenwerking is onderdeel 
+van een bredere samenwerking (alliantie) tussen overheid, markt, kennisinstituten 
+zoals TNO en universiteiten. Met kennisinstellingen en universiteiten maakt 
+Rijkswaterstaat aparte afspraken buiten deze uitvraag.  
+ 
+ 
+De opdracht gaat om het uitvoeren van de samenwerking SMP die binnen de 
+navolgende drie percelen worden voorzien: 
+ 
+ 
+ 
+ 
+Zie voor een nadere beschrijving van de percelen wordt verwezen naar de 
+bijgevoegde Vraagspecificatie (Bijlage I). 
+ 
+ Contractvorm 
+ 
+De aanbesteder is voornemens de opdracht te verlenen in de vorm van een 
+Raamovereenkomst met meerdere partijen, met als voorwaarden de ARVODI 2018. 
+De omvang en reikwijdte van de overeenkomst en de voorwaarden waaronder 
+Nadere overeenkomsten worden gerealiseerd, worden opgenomen in de 
+overeenkomst en bijgevoegde vraagspecificatie. 
+ 
+Inschrijvers die voldoen aan de Geschiktheidseisen, de Uitsluitingsgronden, het 
+programma van Eisen, en de Inschrijvers die een Inschrijving hebben ingediend met 
+de economisch meest voordelige Inschrijving (Inschrijvers met de hoogste 
+kwaliteitswaarden op de (sub)gunningscriteria), kunnen toetreden tot de 
+Samenwerkingsovereenkomst. 
+ 
+De Raamovereenkomst heeft als doel het creëren van een contractueel kader met 
+meerdere Raamcontractanten om op efficiënte wijze tot Nadere Overeenkomsten te 
+komen voor de uitvoering van programma’s en projecten. 
+In beginsel zal Opdrachtgever zich eerst wenden tot de Raamcontractanten. In het 
+voorkomende geval dat de aanbiedingen van de Raamcontractant(en) niet voldoen 
+aan de gestelde Eisen of wanneer de aanbiedingen anderszins tekortschieten 
+(bijvoorbeeld vanwege gebrek aan capaciteit of expertise), is Opdrachtgever 
+gerechtigd andere partijen te benaderen voor het uitbrengen van een offerte. 
+Daarnaast behoudt Opdrachtgever zich het recht voor om in incidentele gevallen, 
+gebruik te maken van andere reeds bestaande Raamovereenkomsten en bij 
+mogelijke belangenverstrengeling, en/of bij strikt vertrouwelijke of geheime 
+opdrachten van de procedure van de Raamovereenkomst af te wijken. 
+
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 11 van 37 
+ Perceelvorming 
+ 
+Er worden geen opdrachten samengevoegd. Overeenkomstig inkoop- en 
+aanbestedingsregelgeving is er een gebod op indeling in percelen.  
+Een Inschrijving dient voor elk perceel afzonderlijk te geschieden.  
+Een Inschrijver kan voor meerdere percelen een Inschrijving doen. 
+ 
+Perceel 1 – Software 
+Perceel 2 – Onderzoek en Ontwikkeling I 
+Perceel 3 – Onderzoek en Ontwikkeling II 
+ 
+ Aantal te contracteren partijen  
+ 
+Er worden maximaal 7 marktpartijen tot de Samenwerking SMP toegelaten. Als er 
+meer dan 7 marktpartijen inschrijven, worden de marktpartijen waarop geen 
+uitsluitingscriteria van toepassing zijn en de hoogste kwaliteitsscore hebben behaald 
+op de (sub)gunningscriteria gekozen om deel te nemen aan de Samenwerking SMP. 
+Voor perceel A en B worden 2 partijen per perceel geselecteerd. Voor perceel C 
+worden 3 partijen geselecteerd.  
+Een partij kan geselecteerd worden voor meerdere percelen. In dat geval wordt als 
+volgt gehandeld: 
+-   Perceel A: hier worden twee partijen geselecteerd.  
+- Perceel B: als hier één of meerdere partijen zijn gekwalificeerd die ook in perceel 
+A zitten, dan wordt (max.) één partij extra toegevoegd, naar volgorde van de 
+beste kwaliteitsscore. Het aantal partijen in perceel B is dan drie.  
+- Perceel C: als hier één of meerdere partijen zijn gekwalificeerd die ook in perceel 
+A of B zitten, dan wordt (max.) één partij extra toegevoegd, naar volgorde van 
+de beste kwaliteitsscore. Het aantal partijen in perceel C is dan vier. 
+ 
+Een ondernemer dient zelfstandig in te schrijven. Voor de inschrijving geldt dat er 
+geen samenwerkingsverbanden of combinaties zijn toegestaan.  
+ 
+ Werking Raamovereenkomst 
+ 
+Indien de opdracht past binnen de scope van de Raamovereenkomst, vindt gunning 
+plaats onder de Voorwaarden van deze Raamovereenkomst. 
+Ten aanzien van Nadere Overeenkomsten wordt een interessepeiling onder de 
+Raamcontractanten (partijen) gehouden. 
+Bij opdrachten met een totale waarde van minder dan €50.000,- excl. BTW vraagt  
+Opdrachtgever één offerte aan één partij binnen het perceel; zulks ter oordeel en 
+afweging van Opdrachtgever. 
+Bij opdrachten met een totale waarde vanaf €50.000,- excl. BTW wordt aan alle 
+partijen binnen het perceel een Plan van Aanpak en offerte gevraagd. 
+ 
+Partijen kunnen in onderlinge samenwerking met andere partijen – zowel binnen als 
+buiten het perceel - inschrijven.  
+Partijen die onderdeel zijn van de samenwerking kunnen via onderaanneming 
+samenwerken met marktpartijen buiten de samenwerking. Dit kan alleen als 
+aangetoond wordt dat de specifieke kennis die deze onderaannemer meebrengt niet 
+bij één van de partijen binnen de samenwerking aanwezig is.  
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 12 van 37 
+Overigens merkt Opdrachtgever op dat hij nimmer verplicht is om opdrachten te 
+gunnen: hij kan er altijd voor kiezen om de opdrachten niet te laten uitvoeren of 
+eventueel elders te laten uitvoeren, zie ook 2.2. 
+ 
+ Opdrachtwaarde en duur van de Samenwerkingsovereenkomst  
+ 
+De geschatte totale opdrachtwaarde bedraagt jaarlijks maximaal € 700.000,- excl. 
+BTW.  Voor detaillering zie onderstaande tabel. 
+Dit bedrag is slechts ter indicatie. Aan dit bedrag kunnen door de partijen geen 
+rechten en/of plichten worden ontleend. 
+De Aanbestedende dienst bevindt zich in een sterk veranderend en complex politiek 
+werkveld. Door de economische situatie en de taakstellingen vanuit de politiek is 
+een verandering in de behoeftestelling gedurende de looptijd van de overeenkomst 
+niet uit te sluiten. 
+Ook kan gedurende de contractperiode de behoefte sterk fluctueren als gevolg van 
+externe ontwikkelingen. 
+Indien er nieuwe (en of uitbreiding van bestaande) taken en/of werkvelden 
+bijkomen voor de Opdrachtgever, dan is dit wellicht ook onderdeel van de 
+overeenkomst. Opdrachtgever zal dan aangeven of de nieuwe taken/werkvelden 
+ondergebracht kunnen worden. De voorwaarden zoals opgenomen in de 
+overeenkomst zijn dan van overeenkomstige toepassing op deze wijziging in 
+omvang. 
+ 
+Perceel Maximaal 
+budget 
+1e jaar * 
+Onderzoek en ontwikkeling I 
+(vraagmodellering) 
+€ 350.000 
+Onderzoek en ontwikkeling II (toedelingen) € 140.000 
+Software € 140.000 
+Ondersteuning, vergoeding, 
+kwaliteitsborging 
+€ 70.000 
+Totaal € 700.000 
+ 
+* Naarmate de jaren vorderen zal het budget voor Onderzoek en Ontwikkeling 
+afnemen en voor Software toenemen, waarbij de geschatte totale opdrachtwaarde 
+van maximaal € 700.000,- excl. BTW per jaar gelijk blijft. 
+ 
+Het maximum totaalbudget bestaat uit verschillende variabele budgetten. 
+Door een maximum budget te noemen in de aanbesteding, houdt Opdrachtgever er 
+rekening mee, dat het op dit moment niet duidelijk is of vanuit het Ministerie van 
+Infrastructuur en Waterstaat (IenW) ieder jaar het budget beschikbaar zal zijn. 
+Afhankelijk van de plannen van een kabinet is namelijk meer of minder budget 
+beschikbaar voor infrastructuur.  
+ 
+ Planning 
+ 
+De aanbesteding zal overeenkomstig de planning in TenderNed plaatsvinden. 
+De planning In TenderNed is altijd ‘leading’.  
+Eventuele aanpassingen of wijzigingen in de planning worden altijd door middel van 
+TenderNed gecommuniceerd. 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 13 van 37 
+ Duur Samenwerkingsovereenkomst 
+ 
+Mede gezien het voorstaande, zal een Raamovereenkomst tot 1 april 2027 worden 
+afgesloten met daarna de mogelijkheid om deze 1 keer voor nogmaals twee (2) jaar 
+en daarna nog 1 keer voor één (1) jaar te verlengen.  
+Deze verlengingsopties zijn eenzijdig uit te oefenen door Opdrachtgever en kunnen 
+de Raamovereenkomst uitsluitend onder gelijkblijvende voorwaarden verlengen.  
+Opdrachtgever stelt partijen uiterlijk 2 maanden voor het verstrijken van de initiële 
+/ dan geldende looptijd van de Raamovereenkomst schriftelijk in kennis indien 
+gebruik wordt gemaakt door Opdrachtgever van de verlengingsoptie.  
+Indien de verlengingsoptie door Opdrachtgever niet wordt uitgeoefend eindigt de 
+Raamovereenkomst van rechtswege na het verstrijken van de op dat moment 
+geldende termijn, tenzij Partners evident uiting in hun handelingen geven aan de 
+wens de Raamovereenkomst te continueren. 
+ Beleidsuitgangspunten 
+ 
+De Aanbestedende dienst conformeert zich aan het beleid ten aanzien van 
+duurzaamheid en maatschappelijk verantwoord ondernemen van de Rijksoverheid. 
+Zij vindt het belangrijk dat dienstverleners bij hun bedrijfsvoering rekening houden 
+met het milieu en met sociale aspecten. 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 14 van 37 
+3 Uitsluitingsgronden en geschiktheidseisen 
+ Uniform Europees Aanbestedingsdocument en Eigen verklaring 
+ 
+In de inschrijffase wordt bij een openbare procedure voor de Uitsluitingsgronden en 
+de Geschiktheidseisen het Uniform Europese Aanbestedingsdocument (UEA) 
+afgegeven, zonder dat er nadere informatie (verificatiedocumenten) door de 
+Inschrijvers dienen te worden verstrekt. Uitzonderingen hierop zijn o.a. referenties. 
+Deze documenten dienen direct bij de Inschrijving gevoegd te worden.  
+Het is de bedoeling dat alleen van de winnende Inschrijvers, na de bekendmaking 
+van het voornemen tot gunnen en het afwijzen van de overige Inschrijvers, 
+benodigde gegevens uit het UEA worden geverifieerd.  
+De winnende Inschrijvers leveren binnen twee kalenderdagen op eerste verzoek van 
+de Aanbestedende dienst de in dit hoofdstuk genoemde verificatiedocumenten aan 
+(behoudens de genoemde uitzonderingen). Het niet tijdig en volledig over kunnen 
+leggen van de verificatiedocumenten na een daartoe strekkend verzoek kan leiden 
+tot uitsluiting.  
+In geval van uitsluiting komt vervolgens de Inschrijving van de eerst afgewezen 
+Inschrijver van betreffende perceel in aanmerking om op verzoek van de 
+Aanbestedende dienst de benodigde verificatiedocumenten te leveren. En zo verder.  
+Let op:  
+o Het UEA dient door een bevoegde functionaris van Inschrijver te worden 
+ingevuld en ondertekend;  
+o Het UEA heeft de Aanbestedende dienst als Bijlage A bij de aankondiging van 
+de opdracht gevoegd en aangegeven welke facultatieve uitsluitingsgronden 
+van toepassing zijn. Deze Bijlage dient Inschrijver verder in te vullen en bij 
+de Inschrijving aan te bieden. 
+ 
+In aansluiting op het UEA document dient tevens bij inschrijving een Aanvullende 
+Eigen Verklaring te worden ingediend.  
+De Aanvullende Eigen Verklaring heeft betrekking op Voorkennis en 
+belangenverstrengeling (zie ook 3.6), Combinatievorming en Conflicterende 
+belangen.  
+Let op:  
+o De Aanvullende Eigen Verklaring dient door een bevoegde functionaris van 
+Inschrijver te worden ingevuld en ondertekend;  
+o De Aanvullende Eigen Verklaring heeft de Aanbestedende dienst als Bijlage B 
+bij de aankondiging van de opdracht gevoegd. Deze Bijlage dient Inschrijver 
+verder in te vullen en bij de Inschrijving aan te bieden. 
+ Uitsluitingsgronden  
+ 
+1. Een ondernemer die zich bevindt in één of meer van de omstandigheden 
+genoemd in de artikelen 2.13.1 tot en met 2.13.5 of 2.13.7 van het ARW 2016 
+wordt uitgesloten van deelneming aan de aanbestedingsprocedure, overigens 
+onverminderd het bepaalde in artikel 2.13.12 van het ARW 2016. 
+ 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 15 van 37 
+2. Als bewijsmiddelen verlangt de aanbesteder de documenten als genoemd in de 
+artikelen 2.13.6 respectievelijk 2.13.9 van het ARW 2016. 
+Bewijsmiddelen dienen te worden verstrekt binnen twee werkdagen na een 
+daartoe ontvangen verzoek van de aanbesteder door middel van TenderNed, 
+“Berichten”. 
+3. Indien de aanbesteder aanwijzingen heeft dat een ondernemer zich bevindt in 
+één of meer van de omstandigheden genoemd in de artikelen 2.13.1 tot en met 
+2.13.5 of 2.13.7 van het ARW 2016, maar er bij de aanbesteder onvoldoende 
+informatie beschikbaar is om het uitsluiten van deelneming of verdere 
+betrokkenheid van die ondernemer te motiveren, dan kan door de aanbesteder 
+advies worden gevraagd aan het Bureau BIBOB (zie artikel 8 van de Wet 
+Bevordering Integriteitsbeoordelingen door het Openbaar Bestuur (Wet 
+BIBOB)). De ondernemer over wie advies is gevraagd, wordt door de 
+aanbesteder over de inhoud van dat advies geïnformeerd door middel van 
+TenderNed, “Berichten”. 
+  
+ Geschiktheidscriteria 
+ 
+1.  Voor de opdrachtverlening komt in aanmerking de inschrijver die, 
+naar het oordeel van de aanbesteder, voldoet aan de gestelde 
+geschiktheidseisen. 
+2.  Met betrekking tot financiële en economische draagkracht worden geen 
+geschiktheidseisen gesteld. 
+3.  Voor wat betreft de technische bekwaamheid dient een inschrijver  
+aantoonbare kennis van en ervaring te hebben met de kerncompetenties binnen het 
+desbetreffende perceel waarop men inschrijft. 
+De kennis en ervaring van de teamleden dient aangeduid te 
+worden door middel van op te geven referentieprojecten en CV('s) waarbij tevens 
+van belang is welke bijdrage in de betreffende projecten geleverd is. 
+Een nadere beschrijving hiervan is vermeld in de EMVI/BPKV tabel, die als 
+bijlage bij dit document is gevoegd. 
+4. De competenties van de inschrijver kunnen worden aangetoond door middel 
+van een beschrijving van de kennis en ervaring van de Opdrachtnemer met 
+verwijzing naar drie relevante en vergelijkbare opdrachten, uitgevoerd in de 
+afgelopen 5 jaar. 
+Voor de drie referentieprojecten geldt dat voor de genoemde competenties de 
+inschrijver de referentieopdrachten, voorafgaande aan de uiterste datum voor 
+ontvangst van de inschrijving, in de afgelopen 5 jaar volledig zelfstandig heeft 
+uitgevoerd. 
+De referentieopdracht is op een vakkundige en regelmatige wijze uitgevoerd en 
+opgeleverd binnen de overeengekomen termijn (verleend uitstel van oplevering 
+daarin begrepen). De inschrijver verstrekt de aanbesteder bij inschrijving een 
+opgave, conform bijlage D bij deze Aanbestedingsleidraad, van de 
+referentieopdrachten waarmee de inschrijver beoogt te voldoen aan de 
+geschiktheidseisen en mits gevraagd bewijsmiddelen, waaruit blijkt dat de gegevens 
+met betrekking tot de referentieopdrachten juist zijn weergegeven. 
+ 
+Knock-out 
+Voor wat betreft het criterium Kennis en ervaring van de Opdrachtnemer geldt 
+dat bij een beoordelingscijfer 5 of lager u wordt uitgesloten van verdere 
+deelname ; “Knock-out”. 
+Zie ook bijlage F – EMVI-BPKV. 
+ 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 16 van 37 
+ 
+ Bewijsmiddelen met betrekking tot de geschiktheidseisen 
+ 
+De ondernemer verstrekt de aanbesteder, binnen een termijn van twee werkdagen 
+na een daartoe ontvangen verzoek door middel van TenderNed, “Berichten”, 
+bewijsmiddelen, waaruit blijkt dat de gegevens met betrekking tot de 
+referentieopdracht(en), waarmee de ondernemer beoogt te voldoen aan de 
+geschiktheidseisen, juist zijn weergegeven. De ondernemer kan hiertoe gebruik 
+maken van opdrachtgeversverklaringen en/of accountantsverklaringen. De 
+aanbesteder is gerechtigd navraag te doen bij de betreffende opdrachtgever, dan 
+wel inzage te verlangen in contractdocumenten van de betreffende 
+referentieopdracht(en). 
+ 
+ Voorkennis en belangenverstrengeling 
+ 
+1. De richtlijnen van Rijkswaterstaat ter voorkoming van voorkennis en 
+belangenverstrengeling, zoals opgenomen in de nota ‘Scheiding van belang, 
+Beleid tegen belangenverstrengeling bij de aanbesteding’ d.d. 14 september 
+2007 (zie www.rws.nl/scheidingvanbelang), zijn onverkort van toepassing op 
+deze aanbestedingsprocedure. 
+2. Iedere ondernemer of iedere andere natuurlijke of rechtspersoon, op wie de 
+ondernemer zich beroept om te voldoen aan de geschiktheidseisen, dient in 
+bijlage B “Aanvullende eigen verklaring” aan te geven of er sprake is (geweest) 
+van betrokkenheid bij de voorbereiding van de opdracht en of er conflicterende 
+belangen zijn die een negatieve invloed op de uitvoering van de opdracht 
+kunnen hebben. Indien er sprake is van betrokkenheid bij de voorbereiding van 
+de opdracht, wordt er vermoed sprake te zijn van voorkennis en/of 
+belangenverstrengeling. 
+3. De aanbesteder stelt de ondernemer in de gelegenheid om, ten genoegen van 
+de aanbesteder, het in lid 2 bedoelde vermoeden te weerleggen en aan te tonen 
+dat de eerlijke mededinging niet wordt geschaad door de (eerdere) 
+betrokkenheid. Een ondernemer kan worden uitgesloten van deelneming aan de 
+aanbestedingsprocedure indien het vermoeden, bedoeld in lid 2, niet wordt 
+weerlegd of indien er conflicterende belangen zijn die een negatieve invloed 
+kunnen hebben op de uitvoering van de opdracht. 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 17 van 37 
+4 Inschrijvingsfase 
+ Procedurebeschrijving inschrijvingsfase 
+ 
+De inschrijvingsfase verloopt als volgt. 
+Ondernemers hebben de mogelijkheid tot het verzoeken om nadere inlichtingen. 
+Vervolgens dienen de ondernemers een inschrijving in. 
+ Nadere inlichtingen 
+ Nadere inlichtingen als bedoeld in artikel 2.22 van het ARW 2016 
+ 
+De Aanbestedende dienst organiseert een inlichtingenbijeenkomst. Zie hiervoor de 
+in TenderNed vermelde datum – Inlichtingenbijeenkomst d.d. 17 december 2024 . 
+Ondernemers dienen zich uiterlijk drie (3) werkdagen hiervoor op te geven, met 
+naam en e-mailadres van de aanwezige personen, via TenderNed “Berichten”.  
+Van deze bijeenkomst zal een verslag worden gemaakt en worden gepubliceerd 
+door middel van een Nota van Inlichtingen (1)   
+ 
+Nadere inlichtingen over deze aanbestedingsleidraad, de contractdocumenten en de 
+overige aanbestedingsstukken kunnen tevens worden aangevraagd door middel van 
+TenderNed, “Vragen en antwoorden” gedurende de in TenderNed vermelde datum  -
+Vragenronde 1. 
+Vragen dienen helder en duidelijk te zijn geformuleerd met een referentie naar het 
+onderdeel van de aanbestedingsstukken waarop de vraag betrekking heeft. Vragen 
+worden zo spoedig mogelijk door de aanbesteder beantwoord door middel van 
+TenderNed, “Vragen en antwoorden”. 
+De via TenderNed gestelde vragen en de daarop gegeven antwoorden worden door 
+de aanbesteder, na sluiting van de termijn voor inlichtingen, vastgelegd en 
+gepubliceerd in een Nota van Inlichtingen (2).  
+ 
+ Nadere inlichtingen als bedoeld in artikel 2.23 van het ARW 2016 
+ 
+Een ondernemer kan verzoeken om nadere inlichtingen als bedoeld in artikel 2.23 
+van het ARW 2016.  
+ 
+Een dergelijk verzoek om inlichtingen kan worden ingediend door middel van 
+TenderNed, “Vragen en antwoorden”. In TenderNed dient dan verzocht te worden 
+om de vraag individueel te behandelen en dient in de vraag het gerechtvaardigd 
+economisch belang te worden gemotiveerd. 
+ 
+Indien de Aanbestedende dienst oordeelt dat er geen sprake is van gerechtvaardigd 
+economisch belang, dan wordt ondernemer in de gelegenheid gesteld zijn verzoek 
+om nadere inlichtingen in te trekken zonder dat de gevraagde inlichtingen worden 
+verstrekt, dan wel zijn verzoek om nadere inlichtingen opnieuw in te dienen doch 
+dan als een verzoek om nadere inlichtingen als bedoeld in artikel 2.22 van het 
+ARW 2016. 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 18 van 37 
+ 
+ Inschrijving 
+ Indienen van een inschrijving 
+ 
+1. De bij de inschrijving te verstrekken documenten dienen te zijn gesteld in de 
+Nederlandse taal. 
+2. Een inschrijving kan uitsluitend digitaal worden ingediend door middel van 
+TenderNed. Bij een andere wijze van indienen wordt de inschrijving niet in 
+behandeling genomen. 
+3. De inschrijving dient uitsluitend digitaal te worden ingediend door middel van 
+TenderNed op de vermelde datum en uiterlijke tijdstip. Op dat tijdstip eindigt de 
+inschrijvingstermijn en sluit de digitale kluis in TenderNed. De genoemde datum 
+en het genoemde tijdstip en gelden als uiterste datum en uiterste tijdstip voor 
+ontvangst van de inschrijvingen. 
+4. Alle bij inschrijving te verstrekken documenten kunnen uitsluitend digitaal 
+worden ingediend door middel van TenderNed. 
+5. De documenten die bij inschrijving dienen te worden ondertekend, dienen te 
+zijn ondertekend door een bevoegd vertegenwoordiger van de inschrijver. 
+6. De documenten, die dienen te worden ondertekend, dienen in pdf-format te zijn 
+voorzien van een gekwalificeerde elektronische handtekening conform 
+Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 
+juli 2014.1 Indien een bepaald digitaal pdf-formulier (bijvoorbeeld het Uniform 
+Europees Aanbestedingsdocument) niet rechtstreeks op deze wijze kan worden 
+ondertekend, dient een digitale pdf-afdruk van het pdf-formulier gemaakt te 
+worden en dient die digitale pdf-afdruk op bovenvermelde wijze te worden 
+ondertekend. 
+7. Aan het opstellen en uitbrengen van een Inschrijving, met inbegrip van 
+eventueel te verstrekken nadere inlichtingen, zijn voor de Aanbestedende dienst 
+geen kosten verbonden. Eventuele kosten en/of schade welke (kunnen) 
+ontstaan door het niet gunnen van deze Europese aanbesteding (aan 
+Inschrijver) zijn voor rekening en risico van Inschrijver. 
+8. Er wordt met nadruk op gewezen dat de Inschrijver zelf verantwoordelijk is voor 
+de volledigheid en juistheid van zijn Inschrijving. Indien in een latere fase blijkt 
+dat onjuiste en/of onvolledige informatie is verstrekt, dan wordt de Inschrijver 
+van verdere deelname uitgesloten. 
+ Varianten van de inschrijver 
+ 
+Het indienen van varianten van de inschrijver is niet toegestaan. 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Elektronische handtekeningen die aan deze norm voldoen zijn bijvoorbeeld: PKIoverheid, EU Qualified, of andere 
+STORK IV handtekeningen, maar ook geavanceerde elektronische handtekeningen die zijn aangemaakt met een 
+gekwalificeerd middel voor het aanmaken van elektronische handtekeningen, gebaseerd op een gekwalificeerd 
+certificaat voor elektronische handtekeningen zoals omschreven in de Verordening (EU) nr. 910/2014 van het 
+Europees Parlement en de Raad van 23 juli 2014. 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 19 van 37 
+ Bevoegdheid tot het doen van een inschrijving 
+ 
+1. De inschrijving dient te zijn gedaan door een daartoe bevoegde 
+vertegenwoordiger van de inschrijver. 
+2. Binnen twee werkdagen na een daartoe ontvangen verzoek van de aanbesteder, 
+door middel van TenderNed, “Berichten”, dient de inschrijver een (kopie van 
+een) uittreksel uit het register van de Kamer van Koophandel te verstrekken, 
+waarin is aangegeven wie namens de ondernemer bevoegd is de inschrijving te 
+ondertekenen. 
+Indien ondertekening geschiedt door een ander dan degene die is vermeld in 
+het register, dient tevens (een gewaarmerkte kopie van) de daartoe vereiste 
+volmacht te worden verstrekt. 
+3. Indien de inschrijver niet is gevestigd in Nederland dienen uittreksels en/of 
+documenten te worden verstrekt, waaruit de bevoegdheid blijkt, 
+overeenkomstig de wettelijke bepalingen geldend in het land van vestiging. 
+4. Indien blijkt dat de inschrijving is gedaan door een persoon die daartoe, op het 
+moment dat de inschrijving werd gedaan, niet bevoegd was, is de inschrijving 
+ongeldig. 
+5. Indien blijkt dat de inschrijving is gedaan door een samenwerkingsverband van 
+ondernemers (combinatie), is de inschrijving ongeldig. 
+ Concernverhoudingen 
+Van een concern kunnen slechts meerdere Ondernemingen zich inschrijven als 
+Inschrijver (zelfstandig), indien zij – op verzoek van de Aanbestedende dienst - 
+kunnen aantonen dat zij ieder de Inschrijving onafhankelijk van de andere 
+Inschrijvers (waaronder de Inschrijvers die deel uitmaken van hetzelfde concern) 
+hebben opgesteld, en de vertrouwelijkheid hierbij in acht hebben genomen. 
+ 
+ Bij inschrijving te verstrekken documenten 
+ 
+1. De inschrijving dient te geschieden middels bijlage C “Aanmeldingsformulier”. 
+Indien het Aaanmeldingsformulier niet is ondertekend conform paragraaf 4.3.1, 
+dan is de inschrijving ongeldig. 
+2. De inschrijver dient bij zijn inschrijving twee eigen verklaringen te voegen: 
+a. het Uniform Europees Aanbestedingsdocument, en 
+b. een Aanvullende eigen verklaring, 
+overeenkomstig de modellen die respectievelijk als bijlage A en bijlage B bij zijn 
+gevoegd. De inschrijver dient op het Uniform Europees Aanbestedingsdocument 
+onder Deel II A, Identificatie, zijn KvK-nummer en vestigingsnummer te 
+vermelden. 
+De eigen verklaringen gelden als een eigen verklaring van de inschrijver 
+bedoeld in artikel 2.21 van het ARW 2016. 
+3. De inschrijver dient bij zijn inschrijving een volledig ingevulde opgave conform 
+bijlage D “Gegevens omtrent technische bekwaamheid” bij te voegen met een 
+overzicht waaruit blijkt met welke referentieopdrachten de inschrijver beoogt te 
+voldoen aan de geschiktheidseisen en de gegevens over die 
+referentieopdracht(en). Een referentieopdracht mag voor meerdere 
+geschiktheidseisen worden gebruikt. 
+4. De inschrijver dient bij zijn inschrijving een verklaring te voegen als genoemd in 
+artikel 2.32.2 van het ARW 2016, die als bijlage H “Model K verklaring van de 
+bestuurder omtrent rechtmatigheid inschrijving” is bijgevoegd.  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 20 van 37 
+Met nadruk wordt gewezen op de ondertekening door een bestuurder die ter 
+zake de inschrijver rechtsgeldig vertegenwoordigt als beschreven in paragraaf 
+4.3.3. Voor gebreken bij het indienen van de Model K verklaring kan de 
+aanbesteder gelegenheid geven tot herstel. In dat geval bepaalt de aanbesteder 
+een termijn waarbinnen het gebrek hersteld moet zijn. 
+5. De inschrijver dient bij zijn inschrijving een verklaring conform bijlage F 
+“Verklaring inzake de verplichtingen op het gebied van milieu-, sociaal en 
+arbeidsrecht” bij te voegen, waarin hij aangeeft dat hij bij het opstellen van zijn 
+inschrijving rekening heeft gehouden met de verplichtingen op het gebied van 
+het milieu-, sociaal en arbeidsrecht uit hoofde van het recht van de Europese 
+Unie, het nationale recht, collectieve arbeidsovereenkomsten en uit hoofde van 
+de in richtlijn 2014/24/EU vermelde bepalingen van internationaal milieu-, 
+sociaal en arbeidsrecht.  
+6. Met uitzondering van het Aanmeldingsformulier, kan de aanbesteder voor 
+gebreken bij het indienen van de documenten als bedoeld in deze paragraaf 
+4.4.1 gelegenheid geven tot herstel. In dat geval bepaalt de aanbesteder een 
+termijn waarbinnen het gebrek moet zijn hersteld.  
+ Bij de inschrijving te verstrekken kwalitatieve documenten 
+ 
+De inschrijver dient bij zijn inschrijving op een perceel de hierna volgende 
+kwalitatieve documenten per perceel te verstrekken. 
+ 
+Zie hiervoor ook het document ‘Template offerte - percelen’ (Bijlage 5a bij de 
+Vraagspecificatie), dat eventueel kan dienen als leidraad voor het schrijven van de 
+offerte. 
+ 
+Criterium Kwalitatief document 
+1.Aanpak 
+Begrip van de opdracht en 
+Visie op samenwerken 
+binnen deze opdracht 
+ 
+Plan van Aanpak 
+2. Kennis en ervaring  
+Relevante ervaring en 
+kennis van inschrijvende 
+partij met werkzaamheden 
+binnen eigen perceel 
+ 
+ 
+Een beschrijving van de kennis en 
+ervaring van de Opdrachtnemer met 
+verwijzing naar relevante en vergelijkbare 
+opdrachten, uitgevoerd in de afgelopen 3 
+jaar  
+3. Projectmanagement en - 
+beheersing 
+Wijze waarop opdrachten 
+worden aangestuurd en 
+einddata worden gehaald, 
+communicatie en het 
+(h)erkennen van en omgang 
+met risico's 
+Plan van Aanpak  
+ 
+Voor nadere informatie wordt verwezen naar de Beoordelingstabel 
+EMVI/BPKV – bijlage E 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 21 van 37 
+Het kwalitatieve deel van de inschrijving voor een perceel bevat hetgeen nodig is 
+om te kunnen komen tot een kwalitatieve beoordeling van de gunningscriteria voor 
+het bepalen van de inschrijving met de beste kwaliteit, met een maximum van  
+10 pagina’s A4 formaat (exclusief CV’s, referentieopdrachten, voorblad en 
+inhoudsopgave)  
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 22 van 37 
+5 Beoordelingsfase en gunningsbeslissing 
+ Algemeen 
+ 
+De Aanbestedende dienst heeft voor deze Europese Openbare aanbesteding een 
+beoordelingscommissie samengesteld, die verantwoordelijk is voor het proces van 
+de gunning. De beoordelingscommissie bestaat uit meerdere personen, ondersteund 
+vanuit inkoop. De beoordelingscommissie stelt het gunningadvies/proces-verbaal 
+van opdrachtverlening op en legt het voor (ter goedkeuring) aan de Opdrachtgever. 
+Aanvullende informatie over de beoordelingscommissie wordt niet verstrekt. 
+ 
+ Programma van Eisen 
+ 
+Het Programma van Eisen is beschreven in hoofdstuk 4 van de bijgevoegde 
+document Vraagspecificatie (Bijlage I). 
+ 
+ Beoordelingsproces 
+ 
+De beoordeling van de Inschrijvingen vindt volgens een vooraf vastgestelde 
+beoordelingsprocedure plaats:  
+• Opening van de (kluis met) Inschrijvingen (niet openbaar).  
+• Controle op geldigheid, volledigheid, vormvereisten en de overig gestelde 
+voorwaarden; Inschrijvingen die hier volledig aan voldoen, worden 
+meegenomen in het verdere beoordelingsproces.  
+• Beoordeling op Uitsluitingsgronden; Inschrijvingen die hier volledig aan 
+voldoen, worden meegenomen in het verdere beoordelingsproces.  
+• Beoordeling op Eisen; Inschrijvingen die hier volledig aan voldoen, worden 
+meegenomen in het verdere beoordelingsproces. Als aan een of meerdere 
+van deze criteria niet wordt voldaan leidt dit tot directe uitsluiting van de 
+Inschrijving. 
+• Beoordeling op Gunningscriteria:   
+De opdracht wordt verleend aan de inschrijver die de inschrijving met de 
+beste kwaliteitverhouding heeft gedaan, mits de inschrijver niet behoeft te 
+worden uitgesloten van opdrachtverlening. 
+Bij de beoordeling welke inschrijver de inschrijving met de BPKV heeft 
+gedaan worden de criteria gehanteerd als vermeld in bijlage F “Uitwerking 
+BPKV-criteria voor de beste prijs-kwaliteitverhouding”. De uitwerking van 
+   deze criteria is weergegeven in de “Tabel BPKV-criteria” in bijlage E. 
+Het in de bijlage E “Uitwerking BPKV-criteria voor de beste 
+kwaliteitverhouding” opgenomen “Rekenblad BPKV” staat per subcriterium 
+de maximaal toe te kennen kwaliteitswaarde vermeld. Het 
+berekeningsresultaat van het rekenblad is de ‘Fictieve inschrijvingssom’. 
+ 
+NB. De vermelde bedragen zijn Fictieve bedragen (kwaliteitswaarden) en 
+geen indicatie voor een eventueel beschikbaar budget, raming of dergelijke. 
+ 
+ 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 23 van 37 
+De beoordeling van de bij inschrijving ingediende informatie met betrekking 
+tot in paragraaf 4.4.1 vermelde kwaliteitscriteria geschiedt door middel van 
+‘direct beoordelen’. De beoordeling vindt plaats door een beoordelingsteam, 
+samengesteld uit ter zake kundige beoordelaars. 
+ 
+Indien bij een hierna genoemd subcriterium het toegekende 
+beoordelingscijfer lager is dan de hierna vermelde minimum waarde, dan 
+wordt dit gezien als een onaanvaardbaar risico ten aanzien van het bereiken 
+van de ter zake geformuleerde doelstelling van de aanbesteder. Dit leidt dan 
+tot afwijzing van de inschrijving en de inschrijver komt niet in aanmerking 
+voor opdrachtverlening. 
+ 
+Subcriterium                         minimum waarde 
+Voor dit project in te zetten aantoonbare inhoudelijke 
+kennis en ervaring van de Opdrachtnemer              5 
+ 
+ Gunningsbeslissing 
+ 
+Nadat de beoordeling van de inschrijvingen is afgerond, verstuurt de aanbesteder 
+aan de inschrijvers de gunningsbeslissing. 
+ 
+ Gestanddoening 
+ 
+Mede in verband met de mogelijkheid dat tegen de mededeling van de voorlopige 
+gunningsbeslissing een kort geding aanhangig kan worden gemaakt, dient de 
+Inschrijver zijn Inschrijving in ieder geval 120 kalenderdagen gestand te doen vanaf 
+de sluitingsdatum van de Inschrijving. Voorts dient hij voor het geval er een kort 
+geding aanhangig wordt gemaakt tegen de voorlopige gunningsbeslissing, de 
+Inschrijving in ieder geval gestand te doen tot 30 kalenderdagen na het vonnis of 
+de intrekking van de vordering. 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 24 van 37 
+6 Overige bepalingen 
+ 
+ Tussentijdse stopzetting of beëindiging van de aanbestedingsprocedure 
+ 
+De aanbesteder is gerechtigd de aanbestedingsprocedure stop te zetten en/of te 
+beëindigen. Dit kan onder meer het geval zijn: 
+a. indien er geen sprake is van daadwerkelijke mededinging; 
+b. om politieke en/of beleidsmatige redenen; 
+c. bij veranderingen in relevante wet- of regelgeving. 
+ Gegadigden en/of inschrijvers kunnen hieraan geen enkel recht op 
+schadevergoeding ontlenen. 
+ 
+ Forumkeuze; rechtsbescherming 
+ 
+1. In aanvulling op het gestelde in artikel 2.40 van het ARW 2016 wordt bepaald 
+dat alle geschillen in het kader van de onderhavige aanbestedingsprocedure 
+aanhangig dienen te worden gemaakt bij de (voorzieningenrechter van de) 
+rechtbank te ‘s-Gravenhage. Een geschil wordt geacht aanhangig te zijn 
+gemaakt door het uitbrengen van een dagvaarding. 
+2. Indien overeenkomstig paragraaf 6.1 een loting plaats vindt en een deelnemer 
+aan de loting bezwaren heeft tegen een beslissing die op basis van de loting 
+wordt genomen, dient hij binnen een termijn van 3 kalenderdagen na de datum 
+van verzending van de mededeling van de beslissing de bezwaren via 
+TenderNed “Berichten” aan de aanbesteder kenbaar te maken. De genoemde 
+termijn is een vervaltermijn. Dat wil zeggen dat indien niet binnen 
+3 kalenderdagen na de datum van verzending van de mededeling van de 
+beslissing bezwaar is gemaakt, de aanbesteder vrij is om (verder) gevolg te 
+geven aan de beslissing. 
+3. Overeenkomstig artikel 2.36 van het ARW 2016 deelt de aanbesteder de 
+gunningsbeslissing schriftelijk aan de inschrijvers mede via TenderNed, 
+“Berichten”.  
+Indien een inschrijver bezwaren heeft tegen die beslissing dan dient hij binnen 
+de in het ARW 2016 genoemde termijn van 20 kalenderdagen na de datum van 
+verzending van de mededeling van de gunningsbeslissing een kort geding 
+aanhangig te hebben gemaakt tegen die beslissing. Het geding is aanhangig 
+vanaf de dag van dagvaarding (artikel 125 Wetboek van Burgerlijke 
+Rechtsvordering). 
+De genoemde termijn is een vervaltermijn. Dat wil zeggen dat indien een 
+inschrijver niet binnen 20 kalenderdagen na de datum van verzending van de 
+mededeling van de gunningsbeslissing daadwerkelijk een kort geding aanhangig 
+heeft gemaakt, de betreffende inschrijver in kort geding geen bezwaar meer 
+kan maken met betrekking tot die beslissing; zijn recht is dan verwerkt. De 
+aanbesteder is in dat geval vrij om (verder) gevolg te geven aan de 
+gunningsbeslissing. 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 25 van 37 
+ Blijvend voldoen 
+ 
+Indien op enig moment gedurende het verloop van de aanbestedingsprocedure 
+blijkt dat een gegadigde niet langer voldoet aan de eisen t.a.v. selectie, 
+uitsluitingsgronden, voorkennis en/of belangenverstrengeling, kan de aanbesteder 
+die geselecteerde inschrijver uitsluiten van verdere deelneming aan de 
+aanbestedingsprocedure. 
+ Intrekking inschrijving 
+ 
+1. Een verzoek tot intrekking moet schriftelijk worden gedaan. 
+In het verzoek dient de inschrijver te verklaren dat hij zijn inschrijving wenst in 
+te trekken. Hij vermeldt daarbij uitvoerig de redenen voor intrekking. 
+Het verzoek moet zijn ondertekend door een daartoe bevoegde 
+vertegenwoordiger van de inschrijver. Bij het verzoek voegt de inschrijver 
+bewijsmiddelen (uittreksel Handelsregister, volmacht) waaruit de bevoegdheid 
+blijkt. 
+2. Het verzoek dient uiterlijk op de vijfde (5e) werkdag na de datum van 
+verzending van de gunningsbeslissing in het bezit te zijn van de aanbesteder via 
+TenderNed, “Berichten”. 
+3. Het bedrag van de afkoopsom kan door de aanbesteder worden gematigd. De 
+inschrijver kan evenwel geen rechten ontlenen aan deze matigingsbevoegdheid. 
+Indien sprake is van een kennelijke vergissing in de inschrijving wordt, indien 
+de jurisprudentie dit indiceert, geen afkoopsom in rekening gebracht. 
+Het bedrag van de afkoopsom kan door de aanbesteder worden verhoogd, tot 
+maximaal het volle verschil bedoeld in lid 4, in uitzonderlijke gevallen, onder 
+meer afhankelijk van de redenen voor intrekking en/of motiveringsgebreken 
+en/of de mate van verwijtbaarheid van tekortkomingen of gebreken in de 
+inschrijving. 
+4. Op verzoek van de inschrijver en/of de aanbesteder vindt mondeling overleg 
+plaats over de redenen van de inschrijver om zijn inschrijving in te trekken. 
+5. Indien de aanbesteder het verzoek tot intrekking afwijst stelt hij de inschrijver 
+daarvan schriftelijk in kennis. De inschrijving is dan niet ingetrokken. 
+6. De aanbesteder is niet verplicht een ingetrokken inschrijving te retourneren. 
+ 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 26 van 37 
+Bijlage A Uniform Europees Aanbestedingsdocument 
+Het Uniform Europees Aanbestedingsdocument wordt als apart document in pdf-
+format beschikbaar gesteld.  
+ 
+Het Uniform Europees Aanbestedingsdocument dient digitaal te worden 
+ondertekend conform paragraaf 4.3.1. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 27 van 37 
+Bijlage B Aanvullende eigen verklaring 
+Naam en adres van de onderneming:  
+ 
+………………………………………………………………………………………………………………………………………… 
+ 
+Inschrijvingsnummer Kamer van Koophandel (inschrijvingsnummer van het 
+handelsregister of een overeenkomstig register van het land van vestiging van de 
+onderneming): 
+ 
+KvK-nummer: ……… 
+ 
+Vestigingsnummer: …………  
+ 
+Contactpersoon van de onderneming (naam, email, telefoon): 
+ 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+1. VRAGEN TEN AANZIEN VAN VOORKENNIS EN BELANGENVERSTRENGELING 
+ 
+1.1. Heeft de onderneming, voorafgaand aan deze aanbestedingsprocedure, 
+werkzaamheden of diensten verricht ter voorbereiding van de opdracht, dan wel is 
+de onderneming op andere wijze direct of indirect betrokken (geweest) bij de 
+voorbereiding van de opdracht?  
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld de aard van de betreffende werkzaamheden of diensten, dan wel die 
+betrokkenheid.  
+ 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+1.2. Zijn er binnen de onderneming personen werkzaam die, voorafgaand aan deze 
+aanbestedingsprocedure, werkzaamheden of diensten hebben verricht ter 
+voorbereiding van de opdracht, dan wel zijn er personen werkzaam binnen de 
+onderneming die op andere wijze direct of indirect betrokken zijn (geweest) bij de 
+voorbereiding van de opdracht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld voor elke persoon: 
+a. de naam en de functie binnen de onderneming; 
+b. de aard van de betreffende werkzaamheden of diensten, dan wel de betrokkenheid. 
+ 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 28 van 37 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+1.3. Zijn of worden door de onderneming, in het kader van deze 
+aanbestedingsprocedure, onderaannemers ingeschakeld, die, voorafgaande aan de 
+aanbestedingsprocedure, werkzaamheden of diensten hebben verricht ter 
+voorbereiding van de opdracht, dan wel zijn die onderaannemers op andere wijze 
+direct of indirect betrokken (geweest) bij de voorbereiding van de opdracht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld van elke onderaannemer: 
+a. de naam en het adres, de rechtsvorm en het nummer van inschrijving in het 
+handelsregister (of een overeenkomstig register in het land van vestiging); 
+b. de aard van de betreffende werkzaamheden of diensten, dan wel de betrokkenheid. 
+ 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+1.4. Zijn of worden door de onderneming, in het kader van deze 
+aanbestedingsprocedure, adviseurs (zowel natuurlijke als rechtspersonen) 
+ingeschakeld die, voorafgaand aan de aanbestedingsprocedure, werkzaamheden of 
+diensten hebben verricht ter voorbereiding van de opdracht, dan wel zijn die 
+adviseurs op andere wijze direct of indirect betrokken (geweest) bij de 
+voorbereiding van de opdracht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld van elke adviseur: 
+a. de naam en het adres, de rechtsvorm en het nummer van inschrijving in het 
+handelsregister (of een overeenkomstig register in het land van vestiging); 
+b. de aard van de betreffende werkzaamheden of diensten, dan wel de betrokkenheid. 
+ 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+  
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 29 van 37 
+1.5. Is de onderneming gelieerd aan één of meerdere andere ondernemingen en/of 
+maakt de onderneming onderdeel uit van een groep, e.e.a. in de zin van de 
+artikelen 2:24a, 2:24b en 2:24c van het Burgerlijk Wetboek, of vergelijkbare 
+rechtsvormen naar buitenlands recht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, hebben één of meerdere van die gelieerde ondernemingen of ondernemingen 
+binnen de groep, voorafgaand aan de aanbestedingsprocedure, werkzaamheden of 
+diensten verricht ter voorbereiding van de opdracht, dan wel zijn één of meer van 
+die ondernemingen op andere wijze direct of indirect betrokken (geweest) bij de 
+voorbereiding van de opdracht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld voor elke onderneming: 
+a. de naam en het adres, de rechtsvorm en het nummer van inschrijving in het 
+handelsregister (of een overeenkomstig register in het land van vestiging); 
+b. de aard van de betreffende werkzaamheden of diensten, dan wel de betrokkenheid. 
+ 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+ 
+2. VRAAG TEN AANZIEN VAN CONFLICTERENDE BELANGEN 
+ 
+2.1. Heeft de onderneming conflicterende belangen[1] die een negatieve invloed kunnen 
+hebben op de uitvoering van de opdracht? 
+ 
+Ja / nee (doorhalen wat niet van toepassing is) 
+ 
+Zo ja, vermeld de aard van de betreffende conflicterende belangen. 
+ 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+ 
+ 
+  
+ 
+[1] Artikel 2.92a lid 3 Aanbestedingswet 
+Aanbestedingsleidraad | Zaaknummer: 31204934 
+ 
+ 
+Vertrouwelijkheid: RWS BEDRIJFSVERTROUWELIK Pagina 30 van 37 
+VERKLARING 
+ 
+Ondergetekende verklaart dat: 
+• de in deze vragenlijst opgenomen vragen volledig en naar waarheid zijn 
+beantwoord; 
+• hij deze ingevulde vragenlijst onvoorwaardelijk en zonder enig voorbehoud 
+heeft ondertekend; hij zich ervan bewust is dat het verstrekken van onjuiste of 
+onvolledige informatie door de aanbestedende dienst kan worden aangemerkt 
+als een valse verklaring en dat dit kan leiden tot een onvoorwaardelijke 
+uitsluiting voor de resterende duur van deze aanbestedingsprocedure; 
+• er in de tekst van deze vragenlijst geen wijzigingen zijn aangebracht; 
+• deze vragenlijst is ondertekend door een daartoe, blijkens het handelsregister, 
+dan wel een overeenkomstig register van het land van vestiging van de 
+onderneming, vertegenwoordigingsbevoegde, 
+ 
+Ondertekening 
+ 
+De aanvullende eigen verklaring dient door de inschrijver digitaal te worden 
+ondertekend conform paragraaf 4.3.1.

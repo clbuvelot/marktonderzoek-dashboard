@@ -1,0 +1,2943 @@
+=== Document: bijlage c - programma van eisen v1.0 ===
+Programma van Eisen 
+ 
+ 
+Rijksinkoopsamenwerking 
+ 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN  Den Haag 
+ 
+Postbus 20011 
+2500 EA  Den Haag 
+ 
+ 
+ 
+ 
+Bijlage C 
+ 
+Behorend bij 
+Europese aanbesteding 
+ 
+Wsw-statistiek 
+voor het 
+Ministerie van Sociale Zaken en Werkgelegenheid 
+ 
+ Datum  17 februari 2026 
+ Kenmerk  201865005.011.094 
+ Versie  1.0 
+ 
+  
+   
+ 
+Bijlage C – Programma van Eisen behorend bij Europese aanbesteding WSW-statistiek’  
+met referentie: 201865005.011.094                                                                                                  2 van 6 
+I. Programma van Eisen 
+ 
+Ondergetekende(n) via het UEA,  
+verklaart volledig en onvoorwaardelijk te voldoen aan de onderstaande Eisen die gesteld worden 
+aan de uit te voeren Opdracht als ook de overige in de opdrachtbeschrijving gestelde eisen en 
+voorwaarden, zoals opgenomen in het Beschrijvend document en de daarbij behorende Bijlagen. 
+ 
+Eisen met betrekking tot de aanbestedingsprocedure 
+ 
+A.1 Inschrijver gaat door Inschrijving akkoord met de inhoud van alle aanbestedingstukken, de 
+beoordelings-en waarderingssystematiek, de gekozen aanbestedingsprocedure en alle 
+bepalingen en voorbehouden die hiermee samenhangen. Eventuele vragen en opmerkingen 
+dienen in de vragenronde ten behoeve van de Nota van Inlichtingen gesteld te worden. 
+ 
+A.2  Inschrijver verklaart te voldoen aan de Formele Eisen zoals genoemd in paragraaf 7.3 van het 
+Beschrijvend document.     
+ 
+A.3 Inschrijver accepteert de ARVODI-2025, de Concept Overeenkomst (Bijlage A) en de concept 
+Verwerkersovereenkomst (Bijlage B), inclusief de bij de Nota van Inlichtingen geaccepteerde 
+tekstwijzigingen, onvoorwaardelijk door ondertekening van deze Bijlage. Instemming met de 
+tekst uit de ARVODI-2025 en de Concept Overeenkomst geldt als Eis. Een Inschrijving die enige 
+vorm van voorbehoud betreffende de contractvoorwaarden bevat, kan worden beschouwd als 
+een Inschrijving onder voorwaarden. In dat geval wordt de Inschrijving door de Aanbestedende 
+dienst terzijde gelegd. 
+ 
+A.4 Bij de beantwoording van de vragen met betrekking tot de gunningscriteria geldt het 
+aangegeven maximum aantal pagina’s. Indien de beantwoording van een gunningscriterium/de 
+gunningscriteria uit meer dan het voorgeschreven aantal pagina’s bestaat, worden de extra 
+pagina’s niet in de beoordeling meegenomen. 
+ 
+A.5 Indien Inschrijver aangeeft geen btw in rekening te hoeven brengen, dan dient Inschrijver de 
+reden hiervoor aan te geven en de hieraan ten grondslag liggende bewijsstukken bij de 
+inschrijving te voegen. Inschrijver is aansprakelijk voor de (extra) kosten inzake btw indien deze 
+ten onrechte niet, of voor een onjuist bedrag bij Opdrachtgever in rekening worden gebracht. De 
+verantwoordelijkheid voor een juiste btw -afdracht ligt, te allen tijde bij de Inschrijver.   
+ 
+ 
+ 
+Inhoudelijke eisen  
+ 
+  Gegevensverzameling, verwerking en beheer 
+ 
+B.1 Opdrachtnemer faciliteert een juiste, volledige en tijdige verstrekking van de gegevens door de 
+gemeenten of de namens hen optredende instanties. Hierbij draagt Opdrachtnemer zorg voor 
+een voor de gemeenten zo min mogelijke belastende wijze van verstrekking van de gegevens. 
+ 
+B.2 Opdrachtnemer draagt zorg voor adequate ondersteuning van de gemeenten bij de onttrekking 
+van de benodigde gegevens in zowel technische als inhoudelijke zin, in de vorm van een 
+helpdesk, mailings en het onderhouden van een eenvoudige en overzichtelijke webpagina met 
+relevante informatie waaronder een volledige beschrijving van de werkwijze voor de aanlevering 
+van de benodigde gegevens door gemeenten of Sw-bedrijf. Het is aan Opdrachtnemer om de 
+helpdesk zodanig in te richten dat deadlines behaald worden. 
+ 
+B.3 Opdrachtnemer rapporteert zes weken na afloop van het kalenderjaar aan SZW (directie FEZ en 
+PDV) over de voortgang van de gegevensverzameling in zijn algemeenheid, over gemeenten die 
+in het geheel niet of niet tijdig de benodigde gegevens verstrekken en de maatregelen die 
+worden getroffen om de levering als zodanig en de kwaliteit van de verstrekte gegevens te 
+verbeteren. Deze rapportage wordt voortgezet tot alle benodigde gegevens binnen zijn. 
+ 
+B.4 Opdrachtnemer draagt zorg voor de controle op volledigheid, consistentie en plausibiliteit van de 
+ontvangen gegevens. Opdrachtnemer bericht de betrokken gemeenten over de resultaten van 
+   
+ 
+Bijlage C – Programma van Eisen behorend bij Europese aanbesteding WSW-statistiek’  
+met referentie: 201865005.011.094                                                                                                  3 van 6 
+deze controle en draagt in overleg met deze gemeenten zorg voor een volledige en betrouwbare 
+gegevensverstrekking door alle gemeenten. 
+ 
+B.5 Opdrachtnemer stelt SZW (directies FEZ en PDV) op de hoogte van de volledigheid en 
+betrouwbaarheid van de verzamelde gegevens.  
+ 
+B.6 Opdrachtnemer draagt zorg voor het beheer van de verzamelde, gecorrigeerde en voor 
+statistisch gebruik bewerkte gegevens, waaronder actualisering van het gebruikte 
+opslagformaat. 
+  
+B.7 Opdrachtnemer erkent dat SZW de eigenaar is van de gegevens. Dit geldt ook voor de 
+bewerkingen, de op grond daarvan gecreëerde bestanden, documentatiemateriaal, specifiek 
+ontwikkelde programmatuur en voor de uitvoering van de werkzaamheden aangeschafte en 
+eventueel bij SZW in rekening gebrachte apparatuur.  
+ 
+ Analyse, rapportage en overdracht van de gegevens 
+ 
+B.8 Opdrachtnemer verstrekt jaarlijks de volgende informatie en producten aan SZW (levering aan 
+contactpersoon FEZ en PDV): 
+ 
+Wsw-statistiek: meting over het kalenderjaar t + Jaarrapportage jaar t: 
+• 15 maart jaar t+1: voorlopige cijfers volumeontwikkeling Wsw in jaar t 
+• 1 juli jaar t+1 aanleveren definitieve jaarrapportage Wsw statistiek jaar t (zie eis B9) 
+Onderdeel realisaties en blijfkansen:  
+• 5 mei jaar t+1: definitieve gemiddelde realisatiecijfers per gemeente over jaar t 
+• 5 mei jaar t+1: blijfkansen per gemeente en landelijk voor jaar t+1 tot en met jaar t+6 
+• 1 december jaar t+1: definitieve realisatiecijfers per gemeente over jaar t 
+Levering analysebestand aan CBS en SZW  
+• 15 mei jaar t+1: levering analysebestand aan CBS jaar t 
+• Op verzoek van SZW: levering analysebestand aan SZW jaar t 
+• Op verzoek van SZW verstrekt Opdrachtnemer de benodigde gegevens voor de analyses 
+voor onderzoek van derden  
+Gegevenslevering UWV 
+• Zie eis B 14 
+ 
+De vorm en inhoud van de rapportages en de overige producten worden in overleg met SZW 
+bepaald. 
+ 
+B.9  Opdrachtnemer zorgt jaarlijks uiterlijk 1 juli voor een voor openbaar gebruik bestemde 
+definitieve jaarrapportage die tevens voldoet aan de geldende toegankelijkheidseisen. Deze 
+rapportage heeft een beschrijvend karakter en bestaat uit overzichten en tabellen gebaseerd op 
+de Wsw gegevens die gemeenten op basis van de statistiekverplichting aanleveren. Onderdeel 
+van deze rapportage is tevens een methodologische verantwoording waarin onder meer verslag 
+wordt gedaan van de verwerking, controle en aanpassingen op de door gemeenten aangeleverde 
+gegevens. Voor de continuïteit is het van belang dat dit format aansluit op het tot nu toe 
+toegepaste format.1 Vooraf aan oplevering biedt Opdrachtnemer een conceptrapportage aan 
+SZW aan voor commentaar. 
+ 
+B.10 Opdrachtnemer mag de in het kader van de monitor verkregen en bewerkte gegevens slechts in 
+opdracht van en na toestemming door SZW aan derden verstrekken. 
+ 
+B.11  Opdrachtnemer draagt op verzoek van Opdrachtgever zorg voor het binnen nader aan te geven 
+termijnen samenstellen van ad-hoc overzichten en uitvoeren van beperkte ad-hoc analyses.   
+Daarnaast draagt opdrachtnemer zorg voor het beheren van de tijdens het project verkregen 
+gegevens, het op aanvraag van SZW aan haar dan wel aan een door haar aangewezen derde 
+beschikbaar stellen van deze gegevens, inclusief bijbehorende toelichting en eventuele voor de 
+analyses gebruikte hulpmiddelen zoals programmatuur, voor nadere analyse en/of bewerking.  
+ 
+1 Wsw-statistiek 2024 Jaarrapport | Publicatie | Rijksoverheid.nl 
+   
+ 
+Bijlage C – Programma van Eisen behorend bij Europese aanbesteding WSW-statistiek’  
+met referentie: 201865005.011.094                                                                                                  4 van 6 
+Hieronder valt ook het op verzoek van SZW aan een derde zoals het CBS overdragen van de 
+volledige tijdens het onderzoek verzamelde of door bewerking verkregen gegevens, een en 
+ander met inachtneming van de vigerende wetgeving ten aanzien van privacybescherming. 
+ 
+ Onderdeel Blijfkansen 
+ 
+B.12 Opdrachtgever stelt jaarlijks het volledige blijfkansenmodel zoals dit in voor het meest recente 
+rapportagejaar in de opdracht is gehanteerd ter beschikking aan Opdrachtnemer. 
+Opdrachtnemer onderhoudt het blijfkansenmodel Wsw zoals is toegepast op rapportagejaar 
+2025, met dien verstande dat het model waar nodig wordt aangepast aan de huidige 
+verzamelfrequentie (in verband met het wegvallen van de halfjaarlijkse meting). Dit onderhoud 
+betreft de jaarlijkse actualisatie van de modelschattingen en de blijfkansen op basis van de 
+meest recente data. 
+Als daar aanleiding toe is past Opdrachtnemer in overleg met Opdrachtgever modelaanpassingen 
+toe, bijvoorbeeld vanwege wijzigingen in Rijksbeleid die van invloed zijn op de blijfkansen. 
+Daarnaast wordt van Opdrachtnemer verwacht dat gemonitord wordt hoe de gerealiseerde 
+blijfkansen zich verhouden tot de geschatte blijfkansen en bij significante afwijkingen te 
+analyseren waar dat door is veroorzaakt. Hierover vindt jaarlijks overleg plaats. 
+  
+B.13 Opdrachtnemer zorgt jaarlijks uiterlijk 5 mei voor een lijst met blijfkansen voor de 6 jaren 
+volgend op het laatst afgesloten jaar op gemeenteniveau ten behoeve van de berekening van de 
+verdeling van de macrobudgetten over de gemeenten. 
+ 
+ Onderdeel gegevenslevering aan het UWV 
+ 
+B.14 Opdrachtnemer verstrekt jaarlijks de volgende informatie en producten aan het UWV via het 
+beveiligde dataportaal van UWV ten behoeve van het doelgroepregister (contactgegevens van 
+UWV worden door opdrachtgever aan opdrachtnemer verstrekt): 
+• Uiterlijk 1 mei jaar t+1: levering bestand (CSV-format) detacheringen in december jaar t 
+aan de partij die het onderzoek voor de verdeelsleutel inleenverbanden banenafspraak 
+verricht via het UWV, 
+• Uiterlijk 3 mei jaar t+1: levering reparatie- en mutatiebestand (CSV-format) aan het 
+UWV jaar t.  
+ 
+ Secretariaat, accountmanagement en overdracht 
+ 
+B.15 Opdrachtnemer draagt zorg voor een team met kennis over: 
+• Sociale zekerheidswetgeving en de Wsw in het bijzonder; 
+• Methoden en technieken van dataverzameling en –beheer; 
+• Informatie uitvraag in de context van de decentrale uitvoering; 
+• Methoden en technieken van kwantitatieve gegevensanalyse. 
+ 
+B.16 Opdrachtnemer draagt zorg voor het secretariaat van onderhavige opdracht, waaronder in ieder 
+geval begrepen het maken van afspraken, het opstellen van verslagen, het bijhouden van een 
+actiepuntenlijst, het zo nodig produceren respectievelijk vermenigvuldigen en verspreiden van te 
+bespreken stukken alsmede het bijhouden van een zogenaamd projectarchief, dat na afronding 
+van het project aan SZW wordt overgedragen.  
+ 
+B.17 Opdrachtnemer stelt het in de Inschrijving aangeboden team in beginsel gedurende de hele 
+looptijd van de overeenkomst beschikbaar. Indien een functionaris buiten de invloedsfeer van 
+Opdrachtnemer uitvalt, zal Opdrachtnemer één of meerdere functionarissen voorstellen die 
+minimaal dezelfde kwaliteit kunnen bieden (qua competenties, kennis en ervaring) voor 
+maximaal hetzelfde tarief waarmee Opdrachtgever eerst kennismakingsgesprekken zal voeren 
+voordat Opdrachtgever goedkeuring geeft. 
+ 
+B.18 Opdrachtnemer is beschikbaar voor minimaal één (1) maal per jaar een evaluatiegesprek tussen 
+Opdrachtnemer en opdrachtgever. Dit gesprek wordt gevoerd vóór de jaarlijkse verlenging op 
+basis van een door Opdrachtnemer opgesteld verslag van het voorgaande jaar. 
+B.19 Opdrachtnemer dient beschikbaar te zijn voor periodieke overleggen met SZW, Cedris en de 
+VNG. Deze overleggen kunnen circa 3 tot 4 keer per jaar plaatsvinden. 
+ 
+B.20 Opdrachtnemer zorgt voor één contactpersoon voor SZW, die het aanspreekpunt is voor SZW. 
+ 
+   
+ 
+Bijlage C – Programma van Eisen behorend bij Europese aanbesteding WSW-statistiek’  
+met referentie: 201865005.011.094                                                                                                  5 van 6 
+B.21 Bij beëindiging van de opdracht / expiratie van de Overeenkomst draagt Opdrachtnemer de 
+gegevens en werkzaamheden zorgvuldig en kosteloos over. Hiertoe behoren ten minste: 
+• Een volledige lijst (in elektronische vorm) van organisaties waarvan de gegevens zijn 
+verkregen incl. contactpersonen, adressen en telefoonnummers; 
+• Alle gegevens die van de gegevensleveranciers in het kader van het project zijn 
+verkregen in onbewerkte, gecorrigeerde en eventueel nader bewerkte vorm op een 
+algemeen gebruikelijke elektronische wijze; 
+• Een volledige beschrijving van de wijze waarop de gegevens zijn verkregen, de wijze 
+waarop de verkregen gegevens zijn gecontroleerd, de wijze waarop de gegevens na deze 
+controle zijn gecorrigeerd evenals van alle andere bewerkingen op de verkregen 
+gegevens; 
+• De specifiek ten behoeve van deze opdracht ontwikkelde vragenlijsten, programmatuur 
+etc., ten behoeve van het verkrijgen, controleren en corrigeren van de gegevens of 
+andere bewerkingen; 
+• Het blijfkansenmodel inclusief een beschrijving van de wijze waarop dit tot stand is 
+gekomen en de berekening van de gemiddelde blijkens per gemeente op basis van dit 
+model;  
+• De overdracht van alle verkregen gegevens, ontwikkelde instrumenten en documenten 
+die betrekking hebben op de opdracht en die voor de betreffende partij benodigd 
+(kunnen) zijn om de werkzaamheden op een zodanige wijze te kunnen voortzetten dat er 
+geen wijziging optreedt in de wijze van verzameling, bewerking en rapportage. 
+ 
+ 
+ 
+MVOI-eisen 
+ 
+C.1 U besteedt minimaal 5% van de gerealiseerde opdrachtwaarde tijdens de looptijd van de 
+Overeenkomst aan een nieuw social return initiatief of een uitbreiding van een bestaand 
+initiatief. 
+ 
+Toelichting 
+Het is de taak van de overheid om mensen met een afstand tot de arbeidsmarkt te 
+ondersteunen. Zodat iedereen zoveel mogelijk meedoet in de samenleving en uitzicht houdt op 
+werk en inkomen. Meer achtergrondinformatie vindt u op http://www.maatwerkvoormensen.nl. 
+Wij vinden social return belangrijk en willen graag impact creëren en tegelijkertijd dat het 
+proportioneel blijft. Daarom geven wij u de mogelijkheid een vrije invulling aan social return te 
+geven. Dit mag zowel direct als indirect verband houden met de opdracht. 
+ 
+Het initiatief moet betrekking hebben op mensen uit één of meerdere van de volgende 
+doelgroepen: 
+• Participatiewet gerechtigden (voorheen: WWB, WSW en Wajong). 
+• Werkloosheidswet (WW) gerechtigden, die langer werkloos zijn dan 12 maanden, en/of 
+50 jaar of ouder zijn. 
+• Wet Werk en Inkomen naar Arbeidsvermogen (WIA) gerechtigden. 
+• Regeling Werkhervatting Gedeeltelijk Arbeidsgeschikten (WGA) gerechtigden. 
+• Wet Arbeidsongeschiktheid zelfstandigen (WAZ) gerechtigden. 
+• Wet Inkomensvoorziening Oudere en gedeeltelijk Arbeidsongeschikte.  
+• Werkloze werknemers (IOAW) gerechtigden. 
+• De Wet Inkomensvoorziening Oudere en gedeeltelijk Arbeidsongeschikte gewezen 
+Zelfstandigen (IOAZ) gerechtigden. 
+• Leer/werkplekken voor niet uitkeringsgerechtigde werkzoekenden (nuggers). 
+• Leer/werkplekken voor vroegtijdig schoolverlaters en jongeren met onvoldoende 
+kwalificaties. 
+• Leer/werkplekken in het kader van BOL/BBL-opleidingen, VSO en/of praktijkscholen. 
+ 
+U maakt 4 weken na definitieve gunning een plan van aanpak social return en levert die binnen 
+één (1) maand na ingangsdatum van de Nadere Overeenkomst in. In dit plan van aanpak 
+beschrijft u hoe u social return gaat toepassen bij de uitvoering van de Nadere Overeenkomst.  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Bijlage C – Programma van Eisen behorend bij Europese aanbesteding WSW-statistiek’  
+met referentie: 201865005.011.094                                                                                                  6 van 6 
+ 
+Het plan van aanpak bevat in ieder geval: 
+• de wijze waarop u impact creëert en invulling geeft aan de social return verplichting. Te 
+denken valt aan begeleidingsuren, interventies, stage- en ervaringsplekken, 
+dienstverleningsvorm en producten, maar bijvoorbeeld ook aan aantoonbaar investeren 
+in reeds bestaande initiatieven; 
+• de investering die door u wordt gedaan. Deze investering dient in verhouding te staan 
+tot de verwachte omzet binnen de Overeenkomst;
+ 
+• voorstel met procesafspraken ten behoeve van de uitvoering van de Opdracht. Met 
+daarin het aanspreekpunt vanuit u en de praktische invulling van het proces; 
+• de manier waarop u het afgesproken percentage realiseert; 
+• de wijze waarop u de begeleiding vormgeeft, indien van toepassing op uw initiatief; 
+• de randvoorwaarden; 
+• de planning.  
+ 
+Opdrachtgever keurt het plan goed of vraagt om een verbetering. Na akkoord op uw plan van 
+aanpak, bent u verplicht om binnen twee (2) maanden te starten met de uitvoering van het 
+goedgekeurde plan van aanpak. Dit goedgekeurde plan van aanpak wordt een onderdeel van de 
+Overeenkomst. De invulling moet controleerbaar zijn en wordt minimaal jaarlijks besproken met 
+Opdrachtgever. U vult daartoe periodiek Bijlage E Verantwoordingsformulier Social return 2.0 in. 
+ 
+C.2 Inschrijver heeft beleid op het gebied van diversiteit & inclusie of is voornemens om beleid op 
+het gebied van diversiteit & inclusie toe te passen bij (de uitvoering van) deze opdracht. 
+ 
+C.3 Inschrijver houdt rekening met diversiteit & inclusie toe te passen bij samenstelling van het 
+team welke deze opdracht gaat uitvoeren. 
+ 
+ 
+ 
+ 
+Wanneer er in dit document sprake is van een “Inschrijver” gaat het om aanbestedingseisen 
+(aanbestedingsfase), terwijl het bij “Opdrachtnemer” gaat om uitvoeringseisen (contractfase). 
+Als u als Inschrijver niet voldoet aan een of meerdere eisen of de Eisen en voorwaarden in de 
+opdrachtbeschrijving, dan is uw Inschrijving ongeldig en sluiten wij u uit van verdere deelname aan de 
+Aanbesteding.  
+ 
+Het gestelde in de Inschrijving mag niet conflicteren met de gestelde Eisen of de opdrachtbeschrijving 
+zoals opgenomen in het Beschrijvend document. Bij constatering van een dergelijke tegenspraak, is uw 
+Inschrijving ongeldig en sluiten wij u uit van verdere deelname aan de Aanbesteding. 
+ 
+ 
+ 
+II. Ondertekening Inschrijver 
+ 
+Inschrijver moet het Uniform Europees Aanbestedingsdocument (UEA) invullen, rechtsgeldig 
+ondertekenen en bij de Inschrijving voegen als Bijlage. De rechtsgeldige ondertekening van het 
+UEA staat voor de rechtsgeldige ondertekening van de gehele Inschrijving, dus ook de 
+akkoordverklaring van het Programma van Eisen.
+
+=== Document: beschrijvend document v1.0 ===
+Beschrijvend document  
+ 
+ 
+Rijksinkoopsamenwerking 
+ 
+Bezoekadres 
+Rijkskantoor Beatrixpark  
+Wilhelmina van Pruisenweg 52 
+2595 AN  Den Haag 
+ 
+Postbus 20011 
+2500 EA  Den Haag 
+ 
+ 
+ 
+ 
+Europese aanbesteding 
+ 
+Wsw-statistiek 
+voor het 
+Ministerie van Sociale Zaken en Werkgelegenheid 
+directie Financieel-Economische Zaken 
+ 
+Contactpersoon  Dennis Huntink 
+Datum  17 februari 2026  
+Kenmerk  201865005.011.094 
+Versie  1.0 
+Status  Definitief 
+ 
+ 
+ 
+ 
+ 
+  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 2 van 33 
+  
+Inhoudsopgave 
+1. Inleiding ................................................................................................................ 4 
+1.1. De Aanbestedende dienst en de RIS ..................................................................... 4 
+1.2. Het doel van de Aanbesteding .............................................................................. 4 
+1.3. De opbouw van het Beschrijvend document ........................................................... 5 
+2. Opdrachtbeschrijving ............................................................................................. 6 
+2.1. Omschrijving van de Opdracht ............................................................................. 6 
+2.2. Inkopen met impact .......................................................................................... 10 
+2.3. Level-playing-field ............................................................................................. 10 
+2.4. Programma van Eisen ........................................................................................ 11 
+2.5. Mogelijke  inzet van Kunstmatige Intelligentie (AI) ................................................ 11 
+WAAR MOET U AAN VOLDOEN? ..............................................................................12 
+3. Uitsluitingsgronden en Geschiktheidseisen ........................................................... 12 
+3.1. Inleiding ........................................................................................................... 12 
+3.2. Uitsluitingsgronden ............................................................................................ 12 
+3.3. Geschiktheidseisen ............................................................................................ 12 
+3.4. Sanctiepakketten Rusland .................................................................................. 14 
+WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? .....................................................15 
+4. Gunningscriterium ................................................................................................ 15 
+4.1. Beste prijs-kwaliteitverhouding: Subgunningscriteria ............................................. 15 
+5. Beoordeling van uw Inschrijving ........................................................................... 17 
+5.1. Beoordeling en beoordelingscommissie ................................................................ 17 
+5.2. Beoordeling op kwaliteit ..................................................................................... 17 
+5.3. Beoordeling op de beste prijs-kwaliteitverhouding ................................................. 18 
+HOE VERLOOPT DE AANBESTEDINGSPROCEDURE EN HOE SCHRIJFT U IN? .................19 
+6. Hoe verloopt de aanbestedingsprocedure? ........................................................... 19 
+6.1. CPV-codes ........................................................................................................ 19 
+6.2. De Europese openbare procedure ........................................................................ 19 
+6.3. TenderNed........................................................................................................ 19 
+6.4. Contactpersoon ................................................................................................. 19 
+6.5. De planning van de Aanbesteding ........................................................................ 19 
+6.6. Vragen en tekstsuggesties .................................................................................. 20 
+6.7. Indienen Inschrijving ......................................................................................... 21 
+6.8. Openen Inschrijvingen ....................................................................................... 21 
+6.9. Mededeling Gunningsbeslissing ........................................................................... 21 
+6.10. Verificatie gegevens Uniform Europees Aanbestedingsdocument (UEA) .................... 22 
+6.11. Opschortende termijn en bezwaren ..................................................................... 22 
+6.12. Voorbehouden Aanbestedende dienst ................................................................... 23 
+7. Hoe schrijft u in? ................................................................................................... 24 
+7.1. Aanbiedingsbrief ............................................................................................... 24 
+7.2. Indienen Inschrijving in TenderNed ..................................................................... 24 
+7.3. Formele eisen aan de Inschrijving ....................................................................... 24 
+7.4. Verplichte Bijlagen in TenderNed ......................................................................... 25 
+7.5. Inschrijven met het Uniform Europees Aanbestedingsdocument (UEA) ..................... 26 
+7.6. Inschrijven als Combinatie of met gebruikmaking van een Derde ............................ 26 
+7.7. Inschrijven als dochteronderneming of werkmaatschappij ...................................... 28 
+8. Voorwaarden ......................................................................................................... 29 
+8.1. Overeenkomsten en Rijksvoorwaarden ................................................................. 29 
+8.2. Tenderkostenvergoeding .................................................................................... 29 
+8.3. Facturatie ......................................................................................................... 29 
+9. Klachtenregeling ................................................................................................... 30 
+Begrippenlijst .......................................................................................................31 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 3 van 33 
+  
+Bijlagen in TenderNed 
+ 
+Elektronisch invullen, accorderen en/of toe te voegen door de Inschrijver 
+ 
+Bijlage 0 Aanbiedingsbrief 
+Bijlage 1 Uniform Europees Aanbestedingsdocument (UEA)   
+Bijlage 2 Antwoord op het Subgunningscriterium ‘Kwaliteit’   
+Bijlage 3 Prijsopgaveformulier 
+Bijlage 4 Referentieverklaring 
+ 
+In te dienen bij verificatie van documenten door de winnende Inschrijver 
+ 
+Uittreksel uit het handelsregister van de Kamer van Koophandel 
+Gedragsverklaring aanbesteden 
+Verklaring van de Belastingdienst 
+ 
+Informatie voor de Inschrijver 
+ 
+Bijlage A Concept Dienstverleningsovereenkomst 
+Bijlage B Concept Verwerkersovereenkomst 
+Bijlage C Programma van Eisen 
+Bijlage D Financiële bijsluiter SZW 
+Bijlage E Verantwoordingsformulier Social Return 2.0 
+ 
+Te downloaden in TenderNed onder de knop ‘Download documenten’ 
+ 
+ARVODI-2025 
+ 
+  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 4 van 33 
+  
+1. Inleiding 
+Wij, het ministerie van Sociale Zaken en Werkgelegenheid (hierna: SZW), nodigen u als potentiële 
+Inschrijver uit om in te schrijven voor de Aanbesteding ‘Wsw-statistiek’. In dit Beschrijvend 
+document leest u alle informatie die u hiervoor nodig heeft. 
+1.1. De Aanbestedende dienst en de RIS 
+Schrijft u in en gunnen wij de Opdracht aan u? Dan sluit u een Overeenkomst met het ministerie 
+van SZW, directie Samenleving en Integratie.   
+ 
+Ministerie van Sociale Zaken en Werkgelegenheid (SZW) 
+De Aanbestedende dienst is het ministerie van SZW (hierna: SZW). SZW werkt aan eerlijk, gezond 
+en veilig werk in Nederland. Werk en bestaanszekerheid voor iedereen: samen werken voor samen 
+leven. Iedereen moet de kans krijgen om mee te doen en zich te ontwikkelen zodat je zelf kan 
+bijdragen aan je eigen toekomst. Voor algemene informatie zie de website van de Rijksoverheid 
+(http://www.rijksoverheid.nl
+).  
+ 
+Directie Participatie en Decentrale Voorzieningen (PDV) 
+De directie PDV richt zich op de bijstand en de gemeentelijke voorzieningen om mensen aan het 
+werk te helpen, waaronder de Wet sociale werkvoorziening (hierna: Wsw). Daarnaast houdt de 
+directie zich bezig met armoedebeleid, schuldhulpverlening en de samenwerking met het UWV, 
+gemeenten en andere partijen in de arbeidsmarktregio’s waar het gaat om 
+arbeidsmarktdienstverlening aan werkzoekenden en werkgevers. De verantwoordelijkheid voor de 
+uitvoering is in vergaande mate gedecentraliseerd naar gemeenten en dit betekent dat PDV 
+systeemverantwoordelijk is voor de kaders: regelgeving, financiering, monitoring, evaluatie en 
+handhaving.  
+ 
+De directie Werknemersregelingen (WR) 
+Kern van de directie Werknemersregelingen vormen de werknemersverzekeringen en het beleid 
+gericht op werknemers en werkgevers. De directie WR werkt aan een activerend stelsel van sociale 
+regelingen, waarbij het UWV de belangrijkste uitvoerder is en dat werknemers en werkgevers 
+ondersteunt bij werk(hervatting) en waar nodig inkomensbescherming biedt.  
+ 
+Directie Financieel Economische Zaken (FEZ) 
+De directie Financieel Economische Zaken (FEZ) is de concerncontroller van het ministerie. De 
+directie FEZ voert taken uit voor de departementale begroting, het financiële beheer en het 
+toezicht hierop, de financiële administraties en informatiesystemen en de jaarverantwoording. 
+Verder beoordeelt en adviseert FEZ de ambtelijke leiding en de bewindspersonen over 
+beleidsvoornemens vanuit de optiek van doelmatigheid, doeltreffendheid, budgettaire 
+inpasbaarheid, bekostiging- en financieringssystematiek en ordelijk financieel beheer. 
+ 
+De Rijksinkoopsamenwerking begeleidt de Aanbesteding 
+Wij hebben de Rijksinkoopsamenwerking (hierna: RIS) de opdracht gegeven om de Aanbesteding 
+te begeleiden. De RIS is een Rijksdienst die zich speciaal richt op de inkoop van diensten en 
+producten. Wilt u meer weten hoe de RIS werkt? U kunt dan de 
+Business Etiquette: Zo doen we 
+zaken | Brochure | Rijksinkoopsamenwerking l ezen op de website van de RIS.  
+ 
+1.2. Het doel van de Aanbesteding 
+Het doel van de Aanbesteding is het sluiten van een Overeenkomst met één (1) dienstverlener op 
+het gebied van de Wsw-statistiek. De intentie is dat de Overeenkomst op 1 juni 2026 in gaat. 
+ 
+ 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 5 van 33 
+  
+1.3. De opbouw van het Beschrijvend document 
+U leest, na deze inleiding: 
+• in hoofdstuk 2 t/m 5 wat wij willen, hoe wij bepalen of een Inschrijver geschikt is om de 
+Opdracht uit te voeren, wat wij belangrijk vinden en hoe wij beoordelen welke Inschrijver 
+het beste aanbod doet; 
+• in hoofdstuk 6 en 7 over de aanbestedingsprocedure en het correct indienen van een 
+Inschrijving; 
+• in hoofdstuk 8 alles over de Overeenkomst die wij willen sluiten; 
+• in hoofdstuk 9 alles over het indienen van een klacht. 
+ 
+In het Beschrijvend document en de Bijlagen schrijven wij bepaalde woorden met een hoofdletter. 
+U vindt de betekenis terug in de begrippenlijst en de voorwaarden (zie hiervoor hoofdstuk 8). Als 
+begrippen met elkaar in tegenspraak zijn, gaat de in de begrippenlijst gegeven betekenis voor.   
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 6 van 33 
+  
+WAT WILLEN WIJ? 
+2. Opdrachtbeschrijving 
+2.1. Omschrijving van de Opdracht 
+Aanleiding en omschrijving  
+De opdracht is een heraanbesteding, de huidige overeenkomst expireert op 31 mei 2026. 
+ 
+De Opdracht omvat het verzamelen van bij gemeenten, of door gemeenten aangewezen organen, 
+aanwezige gegevens in verband met de uitvoering van de Wet sociale werkvoorziening (Wsw). 
+Daarnaast omvat de Opdracht tevens het beheer van deze gegevens, de bewerking van deze 
+gegevens voor statistische doeleinden, de analyse van deze gegevens en de periodieke rapportage 
+daarover.  
+ 
+De Opdracht gaat in eerste instantie over de verzameling en verwerking van de gegevens over het 
+jaar 2026 (1 januari 2026 t/m 31 december 2026). De Opdracht biedt de mogelijkheid tot 
+verlenging voor de jaren 2027, 2028, 2029, 2030 en 2031. Maar Opdrachtgever verwacht dat de 
+opdracht een tot twee jaar zal lopen. Binnen deze termijn verwacht Opdrachtgever vanwege 
+nieuwe monitoringbehoefte de opdracht te willen herzien. De verwachting is dat de 
+gegevensverzameling wordt uitgebreid naar een dermate bredere populatie dat aanbesteding van 
+een nieuwe opdracht noodzakelijk is. 
+ 
+De Opdracht is een voortzetting van de huidige dienstverlening. Met de Opdracht geven we 
+invulling aan een ministeriële regeling.
+1 In bijlage C ‘Programma van Eisen’ zijn de specifieke eisen 
+omschreven die worden gesteld aan de gevraagde dienstverlening. 
+  
+Achtergrond van de Opdracht  
+Wettelijk kader: De Wet sociale werkvoorziening  
+De Wet sociale werkvoorziening (Wsw) is een voorziening voor een aparte groep  
+arbeidsgehandicapten die vanwege de ernst van hun lichamelijke, verstandelijke en/of psychische  
+handicap duurzaam niet in staat zijn reguliere arbeid te verrichten. Het doel van de Wsw is om aan 
+zoveel mogelijk arbeidsgehandicapten die zijn geïndiceerd voor de Wsw, aangepaste arbeid te  
+bieden die aansluit bij de capaciteiten en mogelijkheden van de arbeidsgehandicapte. Het liefst  
+in een zo regulier mogelijke omgeving. De wet voorziet hierin door subsidiëring van gemeenten. 
+Hierdoor is de zorg voor het bieden van aangepaste arbeid een gemeentelijke 
+verantwoordelijkheid.  
+ 
+Met de inwerkingtreding van de Invoeringswet Participatiewet is de Wsw afgesloten voor nieuwe 
+instroom. De Wsw wordt dan ook vanaf 2015 geleidelijk afgebouwd. Er vindt geen instroom meer 
+plaats in de Wsw. Personen met een arbeidshandicap zullen via de nieuwe Participatiewet een 
+ander traject volgen. Mensen met een Wsw-indicatie (SW-ers) die op 1 januari 2015 nog in de Wsw 
+zaten, zullen daarin blijven tot zij op de reguliere wijze uitstromen of hun Wsw indicatie verliezen.  
+ 
+Wettelijk kader: Regeling uitvoering Wet sociale werkvoorziening en begeleid werken 2015  
+Gemeenten hebben de wettelijke plicht om gegevens over de wijze waarop zij de Wsw uitvoeren te 
+verstrekken aan SZW. Inhoud, codering en de wijze van verstrekking van deze gegevens zijn bij 
+ministeriële regeling vastgelegd. De uitvoering is in de regel belegd bij sociale werkbedrijven (SW-
+bedrijven). De gegevens die opgevraagd dienen te worden bij gemeenten bevatten kenmerken van 
+een persoon, dienstbetrekking, plaatsing en een aantal identificerende administratieve kenmerken. 
+Welke gegevens precies moeten worden opgevraagd en geregistreerd staat uitgebreid beschreven 
+in de bijlage
+ behorende bij de Regeling uitvoering Wet sociale werkvoorziening en begeleid werken 
+2015.  
+ 
+1 wetten.nl - Regeling - Regeling uitvoering sociale werkvoorziening en begeleid werken 2015 - BWBR0023158 (overheid.nl)  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 7 van 33 
+  
+De Wsw-statistiek  
+SZW heeft behoefte aan uitgebreide beleidsinformatie over de Wsw en heeft daarom een statistiek 
+op persoonsniveau laten inrichten. SZW gebruikt deze zogenaamde Wsw-statistiek onder meer in 
+de begroting, in het jaarverslag en om de jaarlijkse verdeling van gemeentelijke budgetten vast te 
+stellen ten aanzien van de Wsw-middelen.  
+ 
+De monitor van de Wsw-gegevens en de rapportage hierover vindt plaats via een halfjaarlijkse 
+meting en rapportage ten behoeve van SZW. Opdrachtgever sluit niet uit dat gedurende de 
+contractperiode deze frequentie wijzigt. Opdrachtnemer zorgt jaarlijks uiterlijk op 1 juli voor een 
+voor openbaar gebruik bestemde definitieve jaarrapportage. Deze rapportage heeft een 
+beschrijvend karakter en bestaat uit overzichten en tabellen gebaseerd op de Wsw gegevens die 
+gemeenten in het kader van de Wsw-statistiek hebben aangeleverd. 
+ 
+De Wsw-statistiek richt zich, sinds de invoering van de Participatiewet, met ingang van 1 januari 
+2015 enkel op het volgen van het zittend bestand Wsw. Het zittend bestand Wsw bestaat uit die 
+mensen die op 31 december 2014 een dienstbetrekking hadden op grond van de Wsw. De Wsw-
+statistiek geeft inzicht in de samenstelling van het zittend bestand en de mate waarin het zittend 
+bestand werkzaam is en blijft. Een deel van het zittend bestand Wsw stroomt jaarlijks uit, onder 
+meer als gevolg van natuurlijk verloop (o.a. overlijden, pensionering). In het jaarrapport Wsw-
+statistiek 2024 is nadere informatie beschreven over het zittend Wsw-bestand.
+2  
+ 
+Realisaties en blijfkansenmodel
+3  
+Het blijfkansenmodel is onderdeel van de Opdracht. Het doel van het blijfkansenmodel is om 
+gemiddelde blijfkansen van Wsw’ers op gemeenteniveau te produceren voor de berekening van de 
+verdeling van de macrobudgetten over de gemeenten. Opdrachtnemer onderhoudt het 
+blijfkansenmodel Wsw zoals wordt toegepast in 2025 en 2026 (over rapportagejaren 2024 en 
+2025). Dit onderhoud betreft de jaarlijkse actualisatie van de blijfkansen op basis van de meest 
+recente data (waaronder de realisaties). Meer informatie over het blijfkansenmodel is opgenomen 
+in de voetnoten. De resultaten van over 2026 moeten meegenomen worden in de meicirculaire van 
+2027, de oplevering is dan uiterlijk op 5 mei 2027. 
+ 
+Ten behoeve van de budgetverdelingen in het gemeentefonds levert Opdrachtnemer aanvullende 
+producten op. Dit betreft een bestand met de definitieve gemiddelde realisatiecijfers per gemeente 
+over jaar t. Dit bestand dient uiterlijk op 5 mei jaar t+1 aan SZW te worden geleverd. Daarnaast 
+betreft dit een bestand definitieve realisatiecijfers per gemeente over jaar t (ultimostand). Dit 
+bestand dient uiterlijk op 1 december jaar t+1 aan SZW te worden geleverd. De exacte vorm en 
+inhoud van deze producten worden in overleg met SZW bepaald. 
+ 
+Gegevenslevering aan het UWV t.b.v. het doelgroepregister banenafspraak 
+Onderdeel van de opdracht is eveneens de levering van een deel van de gegevens uit de Wsw-
+statistiek aan het UWV. Het UWV gebruikt deze gegevens voor het doelgroepregister, waarmee 
+onder andere de jaarlijkse monitor van de banenafspraak kan worden gemaakt. Voor de informatie 
+in het doelgroepregister is het UWV deels afhankelijk van externe partijen. Voor deze Opdracht is 
+van belang dat Opdrachtnemer aan het UWV gegevens levert over mensen die in de Wsw werken.  
+ 
+ 
+ 
+ 
+ 
+2 https://open.overheid.nl/documenten/24700979-252d-4e10-a1c3-232231f97e3f/file 
+3 Meer informatie over het blijfkansenmodel is te vinden in de volgende publicaties 
+• Het oorspronkelijke model:  http://www.seo.nl/uploads/media/2014-40_Afbouw_van_het_Wsw-bestand_01.pdf  
+• Verschil tussen het model van SEO en Panteia: 
+http://wsw.onderzoek.nl/pdf/Vragen%20en%20antwoorden%20verdeelmodel.pdf 
+• Onderzoek dat de basis vormt voor de meest recente verbeteringen: 
+https://www.panteia.nl/uploads/sites/2/2017/12/Onderzoek-blijfkansen-Wsw-ers.pdf 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 8 van 33 
+  
+Concreet wordt ten eerste gevraagd jaarlijks twee bestanden aan te leveren aan het UWV:  
+• Een reparatiebestand: dit bestand bevat de reparaties die over het afgelopen jaar zijn 
+uitgevoerd over de historische gegevens in de Wsw-statistiek. Het onderzoeksbureau moet 
+deze reparaties doorvoeren en vervolgens via het reparatiebestand klaarzetten zodat het UWV 
+ze automatisch kan doorvoeren in het doelgroepregister. 
+• Een mutatiebestand: dit bestand bevat alle wijzigingen ten opzichte van de vorige meting. Het 
+gaat bijvoorbeeld om mensen die voorheen intern werkte binnen de sociale werkvoorziening en 
+die nu gedetacheerd zijn of andersom. Ook dit bestand moet het UWV automatisch kunnen 
+doorvoeren in het doelgroepregister. 
+ 
+Omdat bestanden door het UWV automatisch in het doelgroepregister moeten kunnen worden 
+verwerkt, is g
+oede kennis van het doelgroepregister en de werkwijze van het UWV een pré.  
+Onderstaande tabel geeft de gevraagde inhoud weer. 
+ 
+Veld  Naam / header  
+ 
+Omschrijving  
+1 BSN Burgerservicenummer 
+2 CdGrondslagAB Code grondslag arbeidsbeperktheid 
+3 DatBGrondslagAB Datum aanvang grondslag arbeidsbeperktheid 
+4 DatEGrondslagAB Datum einde grondslag arbeidsbeperktheid 
+5 DatESrtAB Datum einde soort arbeidsbeperktheid volgens bron 
+6 CdRdEGrondslagAB Code reden einde grondslag arbeidsbeperktheid 
+7 NaamBronSrtAB Naam bron soort arbeidsbeperktheid 
+8 CdMut Code mutatie 
+ 
+Ten tweede wordt gevraagd om uiterlijk 1 mei een bestand met BSN-nummers van alle lopende 
+detacheringen van december van het voorgaande jaar via het UWV op te leveren aan het bureau 
+dat het onderzoek voor de verdeelsleutel inleenverbanden banenafspraak verricht ten behoeve van 
+de jaarlijkse meting van de banenafspraak. 
+ 
+Bij deze gegevensleveringen spelen een aantal aandachtspunten. Met name het op tijd kunnen 
+leveren van het reparatiebestand en mutatiebestand in mei vergt een krappe tijdsplanning, waarin 
+goede afstemming met het UWV en gemeenten van groot belang is. Daarnaast dient een 
+gedetailleerde controle plaats te vinden van de door de SW-bedrijven en gemeenten aangeleverde 
+bestanden, met name gericht op de consistentie tussen de nieuwe gegevens en de oude gegevens. 
+Eventuele verschillen dienen gerepareerd te worden. Ook dient Opdrachtnemer er rekening mee te 
+houden dat de gegevensopbouw van de Wsw-bestanden en het doelgroepregister niet volledig op 
+elkaar aansluiten, waardoor relatief veel arbeidsintensief maatwerk noodzakelijk is. 
+ 
+Continuïteit dienstverlening  
+SZW streeft naar een voortzetting van de dienstverlening voor wat betreft de uitvraag en 
+verwerking van de gegevens en de planning daarvoor. De Overeenkomst met de huidige aanbieder 
+loopt per 1 juni 2026 af. Om de continuïteit van de gegevensverstrekking door gemeenten zo min 
+mogelijk te verstoren, dient zoveel mogelijk aansluiting te worden gezocht bij de huidige 
+werkwijze4.  
+ 
+De huidige werkwijze wordt beschikbaar gesteld door Opdrachtnemer uit de vorige contractperiode 
+(contractjaren juni 2022- juni 2026). De huidige Opdrachtnemer stelt bij de (elektronische) 
+overdracht de ruwe bestanden, de opgeschoonde analysebestanden, de programmatuur en de 
+werkprotocollen beschikbaar.  
+ 
+ 
+ 
+ 
+ 
+4 https://open.overheid.nl/documenten/24700979-252d-4e10-a1c3-232231f97e3f/file 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 9 van 33 
+  
+De programmatuur bevat een aantal functionaliteiten die grofweg zijn in te delen in relatiebeheer 
+en verwerking van gegevens:  
+Relatiebeheer:  
+- Gegevens over gemeenten, bijbehorende organisaties en contactpersonen;  
+- Gegevens over de inhoud van de bestanden;  
+- Voortgangsinformatie en responsoverzichten.  
+Verwerking van gegevens:  
+- Controle- en keuringsprogramma;  
+- Archivering en importeren van gegevens in moederbestand;  
+- Vervaardigen van periodieke overzichten.  
+ 
+De voornoemde documentatie wordt beschikbaar gesteld aan Opdrachtnemer. Verder verwijzen wij 
+u voor nadere informatie over de huidige werkwijze naar de internetsite: 
+http://wsw.onderzoek.nl/index.html
+.  
+ 
+De website wsw.onderzoek.nl en het domein dat hierbij hoort worden niet overgedragen aan de 
+eventuele nieuwe Opdrachtnemer.  
+ 
+De looptijd van de Overeenkomst  
+De Overeenkomst heeft een looptijd van 1 juni 2026 tot en met 31 juli 2027, met een optie tot 
+verlenging van de Overeenkomst voor de periode van vijf maal maximaal twaalf (12) maanden. 
+Opdrachtgever zal Opdrachtnemer uiterlijk één maand voor het verstrijken van het jaar schriftelijk 
+in kennis stellen indien gebruik zal worden gemaakt van een verlengingsoptie.   
+ 
+Maar Opdrachtgever verwacht dat de opdracht één tot twee jaar zal lopen. Binnen deze termijn 
+verwacht Opdrachtgever vanwege nieuwe monitoringbehoefte de opdracht te willen herzien. De 
+verwachting is dat de gegevensverzameling wordt uitgebreid naar een dermate bredere populatie 
+dat aanbesteding van een nieuwe opdracht noodzakelijk is.  
+ 
+Maximale opdrachtwaarde (budget) 
+Voor deze Opdracht is een bedrag beschikbaar van maximaal € 220.000 exclusief BTW per 
+contractjaar. De totale geschatte omvang van de opdracht gedurende de initiële looptijd van de 
+Overeenkomst inclusief de verlengingsopties komt op € 1.320.000,- (exclusief BTW en mogelijke 
+jaarlijkse prijsindex).  
+ 
+Let op:  
+De gegevens over de omvang van de Opdracht zijn een indicatie. Aan deze gegevens kunt u geen 
+rechten ontlenen. Vanwege bijvoorbeeld politieke, budgettaire, bestuurlijke of organisatorische 
+ontwikkelingen binnen de Aanbestedende dienst is het mogelijk dat de (omvang van de) Opdracht 
+wijzigt. Indien er wijzigingen in de regelgeving worden doorgevoerd die van invloed zijn op de 
+informatiebehoefte over de Wsw-populatie dan vallen deze binnen de scope van de opdracht. De 
+uit te voeren werkzaamheden in verband met deze wijzigingen vallen onder ‘meerwerk’. Op het 
+moment van het opstellen van onderhavige aanbesteding zijn eventuele wijzigingen niet bekend. 
+Daarnaast zal de gegevenslevering aan het UWV vanaf 2028 (over het jaar 2027) waarschijnlijk 
+niet meer nodig zijn. Dit onderdeel van de opdracht zal vanaf dat moment dan niet meer verlengd 
+worden.   
+ 
+Deze Opdracht voegen we niet onnodig samen en delen we niet op in percelen 
+We delen de opdracht niet op in percelen en er is geen sprake van onnodig samenvoegen. SZW 
+heeft behoefte aan één contractpartner die verantwoordelijk voor het geheel aan gevraagde 
+diensten. Dit is de meest praktische en efficiënte oplossing, de uit te voeren werkzaamheden zijn 
+namelijk nauw aan elkaar verbonden. De opdracht in deze vorm is ook geschikt voor bedrijven uit 
+het MKB. Een opdeling in percelen is niet wenselijk en niet van toepassing voor deze onderhavige 
+aanbesteding omdat de dienstverlening congruent is. Een opdeling in percelen zou in dit geval 
+onnodige administratieve lasten opleveren en daarom niet proportioneel zijn.     
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 10 van 33 
+  
+2.2. Inkopen met impact 
+Wij hechten veel waarde aan maatschappelijk verantwoord opdrachtgeven en inkopen (MVOI). Wij 
+willen met onze inkoop bijdragen aan de duurzame en sociale aspecten.  
+ 
+Voor deze aanbesteding passen we de volgende onderdelen toe: 
+• Social return 2.0; 
+• Diversiteit & Inclusie. 
+ 
+Social return  
+Social return is een aanpak om meer werkgelegenheid te creëren voor mensen met een afstand tot 
+de arbeidsmarkt. Het is de taak van de overheid om mensen met een afstand tot de arbeidsmarkt 
+te ondersteunen. Zodat iedereen zoveel mogelijk meedoet in de samenleving en uitzicht houdt op 
+werk en inkomen. Meer achtergrondinformatie vindt u op www.maatwerkvoormensen.nl
+. 
+ 
+Wij vinden social return belangrijk en willen graag impact creëren en tegelijkertijd dat het 
+proportioneel blijft. Daarom geven wij u de mogelijkheid een vrije invulling aan social return te 
+geven. Dit mag zowel direct als indirect verband houden met de opdracht. 
+ 
+De voorwaarde is dat minimaal 5% van de opdrachtwaarde tijdens de looptijd van de 
+Overeenkomst wordt besteed aan een nieuw social return initiatief of een uitbreiding van een 
+bestaand initiatief. Het plan van aanpak stelt u in samenwerking met contractmanager van de RIS 
+op. 
+ 
+U maakt na gunning een plan van aanpak social return  
+In dit plan van aanpak beschrijft u hoe u social return gaat toepassen bij de uitvoering van de 
+Overeenkomst. Opdrachtgever keurt het plan goed of vraagt om een verbetering. Het 
+goedgekeurde plan van aanpak wordt een onderdeel van de Overeenkomst. De invulling moet 
+controleerbaar zijn en wordt jaarlijks besproken met Opdrachtgever. Zie ook bijlage E 
+‘Verantwoordingsformulier social return’. 
+ 
+Diversiteit en inclusie  
+De Rijksoverheid staat voor de principes van gelijke kansen, streeft naar een inclusieve 
+samenleving en wil daar als werkgever én opdrachtgever aan bijdragen. Als werkgever streeft de 
+Rijksoverheid naar een diverse samenstelling van haar personeelsbestand en naar het zijn van een 
+inclusieve organisatie. Verschillende perspectieven, achtergronden en inzichten kunnen namelijk de 
+denkkracht van de Rijksoverheid vergroten. 
+ 
+We maken graag zo goed mogelijk gebruik van de diverse talenten en vermogens op de 
+arbeidsmarkt. In een inclusieve werkomgeving komen alle (toekomstige) werknemers tot hun 
+recht, ongeacht hun verschillen. We respecteren alle medewerkers. We waarderen verschillen om 
+in het werk te benutten. De Rijksoverheid ziet graag dat dienstverleners en leveranciers de aan ons  
+geleverde diensten en producten op een zo’n inclusief mogelijke wijze uitvoert of produceert. 
+Opdrachtnemer draagt zo bij aan een inclusieve samenleving. 
+2.3. Level-playing-field 
+Opdrachtgever streeft er naar om alle potentiële inschrijvers dusdanig te informeren opdat zij zich 
+een zo compleet mogelijk beeld kunnen vormen over wat Opdrachtgever met deze Opdracht 
+beoogd te bereiken. Het is Opdrachtgever er alles aan gelegen te zorgen voor een level-playing-
+field met gelijke kansen voor alle potentiële inschrijvers om deze Opdracht gegund te krijgen.   
+Om Inschrijvers een zo compleet mogelijk beeld te geven zijn er diverse links met informatie in dit 
+Beschrijvend document opgenomen. 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 11 van 33 
+  
+2.4. Programma van Eisen 
+In het Programma van Eisen staan de Eisen die wij stellen aan de uitvoering van de Opdracht. 
+Voldoet u niet aan alle Eisen in het Programma van Eisen? Dan is uw Inschrijving ongeldig en 
+sluiten we u uit van verdere deelname aan de Aanbesteding. De Eisen die wij stellen aan de 
+gevraagde Diensten zijn opgenomen in Bijlage C - Programma van Eisen. 
+ 
+2.5. Mogelijke  inzet van Kunstmatige Intelligentie (AI) 
+Wij zien dat Kunstmatige Intelligentie (AI) in toenemende mate een rol vervult bij 
+onderzoeksopdrachten. Opdrachtgever gaat in het geval van deze Opdracht, gezien de aard van de 
+dataverzameling, uit van een ‘Nee, tenzij’ principe. De eventuele inzet ervan vindt uitsluitend in 
+afstemming met Opdrachtgever plaats. Het gebruik van AI moet een duidelijke meerwaarde 
+hebben en op zo een wijze gebeuren dat persoonsgegevens conform de AVG worden behandeld en 
+de vertrouwelijkheid van gevoelige persoonsgegevens adequaat geborgd wordt. Mocht u AI willen 
+toepassen, dient u de inzet te motiveren en de wijze hoe u dit borgt omschreven. 
+ 
+ 
+  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 12 van 33 
+  
+WAAR MOET U AAN VOLDOEN? 
+3. Uitsluitingsgronden en Geschiktheidseisen 
+3.1. Inleiding 
+U leest in dit hoofdstuk welke Uitsluitingsgronden en Geschiktheidseisen wij hanteren bij de 
+Aanbesteding. 
+ 
+Via het Uniform Europees Aanbestedingsdocument (UEA) geeft u aan of de Uitsluitingsgronden wel 
+of niet op u van toepassing zijn en of u voldoet aan de Geschiktheidseisen. Hoe u inschrijft met het 
+UEA leest u in paragraaf 7.5. 
+3.2. Uitsluitingsgronden 
+In Deel III van het UEA leest u welke Uitsluitingsgronden gelden voor deze Aanbesteding.  
+ 
+We delen de Uitsluitingsgronden op in drie verschillende gronden: 
+• Deel III.A: gronden die verband houden met strafrechtelijke veroordelingen; 
+• Deel III.B: gronden die verband houden met de betaling van belastingen of sociale 
+premies; 
+• Deel III.C: gronden met betrekking tot insolventie, belangenconflict of beroepsfouten. 
+ 
+Als een Uitsluitingsgrond van toepassing is, kunnen wij afzien van ongeldigverklaring 
+van uw Inschrijving 
+Uw Inschrijving is in principe ongeldig als een van de Uitsluitingsgronden van toepassing is. Wij 
+sluiten u dan uit van verdere deelname aan de Aanbesteding. Wij kunnen in de volgende gevallen 
+afzien van ongeldigverklaring van uw Inschrijving:  
+• als de uitsluiting kennelijk onredelijk zou zijn (art. 2:86a van de Aanbestedingswet 2012); 
+• als u voldoende maatregelen heeft genomen om uw betrouwbaarheid aan te tonen (art. 
+2:87a van de Aanbestedingswet 2012); 
+• om dwingende redenen van algemeen belang (art. 2:88 van de Aanbestedingswet 2012); 
+• indien naar ons oordeel uitsluiting niet proportioneel is met het oog op de tijd die is 
+verstreken sinds de veroordeling en gelet op het voorwerp van de Opdracht (art. 2:88 van 
+de Aanbestedingswet 2012). 
+ 
+Is een Uitsluitingsgrond op u van toepassing als vermeld in afdeling 2.3.5 van de 
+Aanbestedingswet 2012? Wat u dan moet doen, leest u in paragraaf 7.5. 
+ 
+Schrijft u in als Combinatie of met Derden om te voldoen aan de Geschiktheidseisen? 
+Dan toetsen wij bij elke Combinant en bij elke Derde of de Uitsluitingsgronden van toepassing zijn. 
+Over de wijze waarop u dient in te schrijven, leest u meer in paragraaf 7.5. 
+3.3. Geschiktheidseisen 
+Wij stellen Geschiktheidseisen aan een Inschrijver om te bepalen of de Inschrijver geschikt is om 
+de Opdracht uit te voeren.  
+ 
+Geschiktheidseisen zijn mogelijke Eisen aan uw technische bekwaamheid en beroepsbekwaamheid, 
+beroepsbevoegdheid, financiële en economische draagkracht.  
+ 
+U leest hieronder welke Geschiktheidseisen gelden voor de Aanbesteding. Uw Inschrijving is 
+ongeldig als u niet aan de Geschiktheidseisen voldoet. Wij sluiten u dan uit van verdere deelname 
+aan de Aanbesteding.  
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 13 van 33 
+  
+Wilt u inschrijven, maar kunt u niet voldoen aan de Geschiktheidseisen? Dan kunt u overwegen om 
+als Combinatie in te schrijven of gebruik te maken van een Derde om daarmee gezamenlijk aan de 
+Geschiktheidseisen te voldoen.  
+Wij hebben het recht om te laten toetsen of de Combinant(en) en/of Derde(n) daadwerkelijk 
+voldoet/voldoen aan de Geschiktheidseisen. 
+  
+Technische bekwaamheid  
+Als Geschiktheidseis geldt dat u beschikt over de ervaring (kerncompetenties) die wij noodzakelijk 
+achten om de Opdracht te kunnen uitvoeren.
+  
+ 
+Kerncompetenties 
+U heeft kennis van en aantoonbare ervaring met:  
+1. Het organiseren en faciliteren van uitgebreide dataverzameling; 
+2. Bewerking van gegevensbestanden voor statistische doeleinden, inclusief het uitvoeren van 
+een kwaliteitscheck; 
+3. Statistische analyses van gegevensbestanden; 
+4. Rapportage over statistische analyses van gegevensbestanden ten behoeve van de 
+beleidsvoering door landelijke overheden. 
+ 
+We zijn van oordeel dat bovengenoemde Kerncompetenties proportioneel zijn en dat daarmee de 
+kring van potentiële inschrijvers niet onnodig wordt verkleind gezien de aard en omvang van de 
+Opdracht alsmede de doelstellingen van de Opdracht en het Programma van Eisen.   
+ 
+Lever voor geschiktheidseisen maximaal vier referenties in  
+Dat u aan deze Geschiktheidseis voldoet, kunt u aantonen door middel van referenties (zie Bijlage 
+4 – Referentieverklaring). U mag 1 tot maximaal 4 referenties inleveren. Dit betekent dat als in 1 
+referentie meerdere kerncompetenties voorkomen, u voor die kerncompetenties dezelfde 
+referenties mag gebruiken.  
+ 
+De einddatum van een referentieopdracht is maximaal drie (3) jaar geleden 
+Referentieopdrachten die langer dan drie (3) jaar geleden (gerekend van de uiterste sluitingsdatum 
+van indiening Inschrijving) zijn beëindigd, tellen niet mee. Een referentieopdracht mag wel langer 
+dan drie (3) jaar geleden gestart zijn.  
+ 
+Alleen behaalde resultaten tellen mee 
+Stuurt u een referentieopdracht in die nog loopt? Dan gelden alleen de resultaten die u al behaald 
+heeft.  
+ 
+Geheime referenties 
+Een door een Inschrijver ingediende referentie waaruit niet blijkt wie de referent is, wordt bij de 
+beoordeling van de Inschrijving terzijde gelegd en komt niet in aanmerking voor gunning van de 
+Opdracht.   
+ 
+Wij mogen navraag doen bij de referenten 
+Wij kunnen de aangeleverde gegevens verifiëren (onder andere bij de referenten). Dit kunnen wij 
+zowel bij de toetsing van de Geschiktheidseisen doen als bij de verificatie van de gegevens in uw 
+UEA. U verleent dan alle medewerking. In geval van geconstateerde onjuistheden in de 
+referentieverklaring kunnen wij besluiten uw Inschrijving ongeldig te verklaren en u uit te sluiten 
+van verdere deelname aan de Aanbesteding. 
+ 
+Beroepsbevoegdheid  
+U bent ingeschreven in het nationale beroeps- of handelsregister 
+Als Geschiktheidseis geldt dat u – volgens de Eisen die gelden in het land waarin uw 
+onderneming is gevestigd – bent ingeschreven in het nationale beroeps- of handelsregister.   
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 14 van 33 
+  
+Binnen Nederland volstaat hiertoe een actueel uittreksel van inschrijving in het handelsregister van 
+de Kamer van Koophandel (“uittreksel KvK”). Met actueel bedoelen wij een geldig bewijs van 
+inschrijving dat op het moment van indienen van de Inschrijving niet ouder is dan zes maanden 
+(gerekend vanaf de uiterste sluitingsdatum van indiening Inschrijving). 
+ 
+U laat de Inschrijving rechtsgeldig ondertekenen door een daartoe bevoegd persoon. De 
+bevoegdheid van de ondertekenaar blijkt uit de genoemde inschrijving in het nationale beroeps- of 
+handelsregister.  
+ 
+Kiest u ervoor om de Inschrijving bij volmacht te ondertekenen? Dan dient u bij de verificatie van 
+het UEA zowel de actuele inschrijving in het nationale beroeps- of handelsregister als een 
+rechtsgeldig ondertekende volmacht in.  
+ 
+Bij inschrijving door een samenwerkingsverband (Combinatie), dient ieder lid bij de verificatie van 
+het UEA een recent bewijs van inschrijving van de onderneming in het handelsregister van de 
+Kamer van Koophandel in. 
+ 
+Wij kunnen de aangeleverde financiële gegevens laten controleren 
+Uit deze controle blijkt of hetgeen verklaard is in het UEA op waarheid berust. Hier kunnen we een 
+bureau voor inschakelen.  
+3.4. Sanctiepakketten Rusland 
+Opdrachtgever handelt volgens de door de Europese Raad vastgestelde sanctiepakket Rusland 
+inzake aanbestedingen. Uw Inschrijving mag niet in strijd zijn met hetgeen beschreven in het 
+sanctiepakket. Russische partijen worden uitgesloten van deelname aan de onderhavige 
+Aanbesteding. Dit geldt ook voor partijen die meer dan 10% van de opdrachtwaarde in 
+onderaanneming uitbesteden aan een Russische partij. De actuele informatie over de inhoud en 
+reikwijdte van het sanctiepakket Rusland inzake aanbestedingen vindt u hier
+.   
+ 
+Door in te schrijven op onderhavige Aanbesteding verklaart u dat uw Inschrijving niet strijdig is 
+met het vigerende sanctiepakket Rusland inzake aanbestedingen. 
+ 
+Bewijsmiddel: de door u ondertekende en ingediende Bijlage 1 (Uniform Europees 
+Aanbestedingsdocument). 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 15 van 33 
+  
+WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? 
+4. Gunningscriterium 
+Deze Aanbesteding gunnen wij op basis van het Gunningscriterium beste prijs-
+kwaliteitverhouding 
+ 
+4.1. Beste prijs-kwaliteitverhouding: Subgunningscriteria 
+De uitwerking van het Gunningscriterium is in deze paragraaf verder te lezen. In het onderstaand 
+overzicht leest u de Subgunningscriteria die bij de Aanbesteding gelden. Per Subgunningscriterium 
+leest u ook het aantal punten dat u maximaal kunt scoren. 
+ 
+Tabel 1. Gunningsmodel (zie bijlage 2 voor meer informatie) 
+ 
+Gunningscriterium ‘Beste prijs-kwaliteitverhouding’ 
+Subgunningscriteria  Weging Maximale score 
+Subgunningscriterium kwaliteit:   
+1: Implementatieplan 20% 200 punten 
+2: Gegevensverzameling, verwerking en beheer 25% 250 punten 
+3: Analyse en rapportage statistiek en blijfkansen 25% 250 punten 
+4: Deskundigheid van het team. 10% 100 punten 
+5: Communicatie- en relatiebeheer 10% 100 punten 
+Totaalscore kwaliteit 90% 900 punten 
+Subgunningscriterium prijs:   
+1: Prijs  10% 100 punten 
+Totaalscore kwaliteit en prijs 100% 1000 punten 
+ 
+Subgunningscriteria kwaliteit 
+U moet tenminste 60% van het in totaal maximaal te behalen aantal punten scoren op de 
+kwalitatieve Subgunningscriteria 
+Heeft u minder dan 60% van het in totaal maximaal te behalen aantal punten op de kwalitatieve 
+Subgunningscriteria? Dan is uw Inschrijving ongeldig en sluiten we u uit van verdere deelname aan 
+de Aanbesteding. Met andere woorden: u dient minimaal 60% x 900 punten = 540 punten te 
+scoren op het subgunningscriterium kwaliteit om in aanmerking te komen voor gunning. 
+ 
+Maak voor de beantwoording van de Subgunningscriterium ‘Kwaliteit’ gebruik van 
+Bijlage 2 
+Gebruik Bijlage 2 – Antwoord op het Subgunningscriteria ‘Kwaliteit’ voor uw reactie op de 
+kwalitatieve Subgunningscriteria (en een nadere uitwerking van de subgunningscriteria) en voeg 
+die toe aan uw Inschrijving. 
+ 
+Subgunningscriteria prijs 
+Alle opgegeven prijzen zijn in euro’s en exclusief BTW. De prijs mag niet meer bedragen dan 
+maximaal €220.000,- excl. BTW per jaar. Indien u een prijs indient boven de €220.000,- excl. BTW 
+per jaar wordt uw inschrijving ter zijde gelegd en komt u niet in aanmerking voor de Opdracht. 
+ 
+De prijs is een all-in tarief  
+Dit betekent dat u met de opgegeven prijs uitvoering kan geven aan de Opdracht en daarbij 
+rekening houdt met alle gestelde Eisen. En dat de prijs inclusief alle garanties, kosten en kortingen 
+is. Alle opgegeven prijzen zijn in euro’s en exclusief btw. 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 16 van 33 
+  
+ 
+Prijsindexatie 
+De overeengekomen (maximum) tarieven staan vast gedurende de eerste 14 maanden van 
+de Overeenkomst (tot en met 31 juli 2027). Daarna kunnen de overeengekomen tarieven en 
+prijzen éénmaal per 12 maanden geïndexeerd worden. Zie de overeenkomst voor nadere 
+informatie over de indexering. 
+Wij beoordelen de prijs volgens de “gewogen factor methode”  
+Bij deze methode zetten wij uw inschrijfprijs om naar een score. Wij gebruiken een bandbreedte 
+van € 190.000,- (minimumprijs) tot en met €220.000,- (maximumprijs) exclusief btw. Is uw prijs 
+lager dan de minimumprijs, dan ontvangt u 100 punten. Schrijft u in met de maximumprijs, dan 
+ontvangt u 0 punten. Schrijft u in met een prijs boven de (max tarief), dan leggen wij uw 
+inschrijving ter zijde en neemt u geen deel meer aan deze aanbesteding. 
+ 
+Wij bepalen uw score aan de hand van de volgende formule:  
+Score = 0+ (0-100) / (€ 220.000,- - € 190.000,-) * ( inschrijfprijs - € 190.000,-) 
+In onderstaande figuur vindt u een grafische weergave van het scoreverloop.  
+   
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+€ 190.000 € 195.000 € 200.000 € 205.000 € 210.000 € 215.000 € 220.000
+Punten
+Prijs
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 17 van 33 
+  
+5. Beoordeling van uw Inschrijving 
+In dit hoofdstuk leest u op welke manier we uw Inschrijving beoordelen. 
+5.1. Beoordeling en beoordelingscommissie 
+We toetsen op Formele eisen, Uitsluitingsgronden en Geschiktheidseisen 
+Voordat wij uw Inschrijving inhoudelijk beoordelen, beoordelen wij eerst of uw Inschrijving aan de 
+Formele eisen voldoet, geen Uitsluitingsgronden van toepassing zijn en of u aan de 
+Geschiktheidseisen voldoet.  
+ 
+We toetsen ook of u akkoord gaat met het Programma van Eisen  
+Gaat u niet akkoord met het Programma van Eisen of voldoet u niet aan de Eisen in het 
+Programma van Eisen? Dan is uw Inschrijving ongeldig en sluiten we u uit van verdere deelname 
+aan de Aanbesteding. Alle Eisen uit het Programma van Eisen zijn dus zogenaamd knock-out 
+criteria. 
+ 
+In geval van twijfel toetsen we aan de aanbestedingsbeginselen 
+Wij kunnen besluiten uw Inschrijving ongeldig te verklaren en u uit te sluiten van verdere 
+deelname aan de Aanbesteding als u niet voldoet aan de eisen en voorschriften in de 
+Aanbestedingsstukken, zoals:  
+• de Uitsluitingsgronden (paragraaf 3.2); 
+• Geschiktheidseisen (paragraaf 3.3); 
+• Formele Eisen (paragraaf 7.3).  
+ 
+Ongeldigverklaring en uitsluiting vindt niet plaats als dat in strijd is met de 
+aanbestedingsbeginselen (waaronder het proportionaliteitsbeginsel). 
+ 
+Voldoet uw Inschrijving aan alle Eisen en voorschriften? Dan beoordelen wij uw 
+Inschrijving inhoudelijk  
+Indien uw Inschrijving voldoet aan alle Eisen en voorschriften, dan beoordelen we de Inschrijving 
+inhoudelijk op de Subgunningscriteria en kennen daar een score aan toe. Een 
+beoordelingscommissie beoordeelt uw Inschrijving inhoudelijk. In de beoordelingscommissie zitten 
+minimaal drie personen. Deze personen hebben de deskundigheid die nodig is om uw Inschrijving 
+inhoudelijk te beoordelen. 
+5.2. Beoordeling op kwaliteit 
+Wij beoordelen de kwaliteit van uw Inschrijving met een cijfer 
+Bij meerdere Subgunningscriteria (1, 2, 3 enzovoorts) krijgt elk Subgunningscriterium een cijfer.  
+Bij meerdere onderdelen (1.1, 1.2, 1.3 enzovoorts) bij een Subgunningscriterium krijgt elk 
+onderdeel een cijfer. 
+ 
+Het cijfer drukt de inhoudelijke beoordeling uit 
+De beoordelingscommissie bepaalt welk cijfer uw Inschrijving krijgt voor een bepaald 
+Subgunningscriterium of onderdeel hiervan. U krijgt hierbij een cijfer tussen de 0 en de 10 
+toegekend.  
+ 
+In de volgende tabel leest u wat elk cijfer zegt over de kwaliteit van uw Inschrijving. 
+ 
+Tabel puntenschaal 
+10 
+(100%) 
+Uitstekend: naar het oordeel van de beoordelaar heeft de Inschrijver een uitstekend 
+antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+9 
+(90%) 
+Zeer goed: naar het oordeel van de beoordelaar heeft de Inschrijver een zeer goed 
+antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 18 van 33 
+  
+8 
+(80%) 
+Goed: naar het oordeel van de beoordelaar heeft de Inschrijver een goed antwoord 
+gegeven op de gestelde vraag bij dit (onderdeel van het) Subgunningscriterium.  
+7 
+(70%) 
+Ruim voldoende: naar het oordeel van de beoordelaar heeft de Inschrijver een ruim 
+voldoende antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+6 
+(60%) 
+Voldoende: naar het oordeel van de beoordelaar heeft de Inschrijver een voldoende 
+antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+5  
+(50%) 
+Matig: naar het oordeel van de beoordelaar heeft een matig antwoord gegeven op de 
+gestelde vraag bij dit (onderdeel van het) Subgunningscriterium.  
+4 
+(40%) 
+Onvoldoende antwoord: naar het oordeel van de beoordelaar heeft de Inschrijver 
+onvoldoende antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+3 
+(30%) 
+Zeer onvoldoende: naar het oordeel van de beoordelaar heeft de Inschrijver een zeer 
+onvoldoende antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+2 
+(20%) 
+Slecht: naar het oordeel van de beoordelaar heeft de Inschrijver een slecht antwoord 
+gegeven op de gestelde vraag bij dit (onderdeel van het) Subgunningscriterium.  
+1 
+(10%) 
+Zeer slecht: naar het oordeel van de beoordelaar heeft de Inschrijver een zeer slecht 
+antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium.  
+0 
+(0%) 
+Geen antwoord: naar het oordeel van de beoordelaar heeft de Inschrijver geen 
+antwoord gegeven op de gestelde vraag bij dit (onderdeel van het) 
+Subgunningscriterium. 
+ 
+De cijfers worden op de volgende manier bepaald: 
+• eerst bepaalt ieder lid van de beoordelingscommissie individueel welke beoordeling en 
+score ieder lid geeft per Inschrijving voor ieder Subgunningscriterium;  
+• daarna komt de beoordelingscommissie bij elkaar voor een plenaire sessie om de scores en 
+bevindingen te bespreken. Tijdens deze plenaire sessie komen de beoordelaars tot een 
+consensus voor een score op elk (onderdeel van een) Subgunningscriterium.  
+ 
+De uiteindelijke score is de optelsom van de gewogen score 
+We vermenigvuldigen elk cijfer met de weegfactor. De weegfactor brengt tot uitdrukking hoe zwaar 
+een criterium weegt in verhouding tot andere criteria. De score vermenigvuldigd met de weegfactor 
+heet de gewogen score. De weegfactoren ziet u ook terug in het overzicht van Subgunningscriteria 
+in paragraaf 4.1.  
+5.3. Beoordeling op de beste prijs-kwaliteitverhouding  
+U krijgt een totaalscore voor uw Inschrijving 
+Deze score is de optelsom van alle scores op de Subgunningscriteria voor kwaliteit. De scores per 
+Subgunningscriterium ronden we af op hele cijfers.  
+ 
+Bij gelijke totaalscores (voor kwaliteit) gunnen wij aan de Inschrijver met de beste totaalscore voor 
+het subgunningscriterium ‘Plan van Aanpak’. Indien de score gelijk is dan zal loting tussen de 
+inschrijvers met de hoogste scores uitsluitsel geven aan welke inschrijver de opdracht gegund 
+wordt. 
+ 
+U komt in aanmerking voor gunning van de Opdracht als: 
+• u een geldige Inschrijving heeft gedaan; 
+• u minimaal 60% van het maximaal haalbaar aantal punten voor kwaliteit scoort; 
+• u de hoogste totaalscore heeft van alle Inschrijvers. 
+  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 19 van 33 
+  
+HOE VERLOOPT DE AANBESTEDINGSPROCEDURE EN HOE 
+SCHRIJFT U IN? 
+6. Hoe verloopt de aanbestedingsprocedure? 
+In dit hoofdstuk leest u de procedure van de aanbesteding. U krijgt een overzicht van de planning. 
+Elke stap lichten we vervolgens kort toe. U leest in dit hoofdstuk ook wie uw Contactpersoon is en 
+hoe u vragen kunt stellen. 
+6.1. CPV-codes 
+Bij de Aanbesteding gaat het om diensten met de volgende CPV-codes:  
+- 73000000-2 Onderzoek en ontwikkeling en andere aanverwante adviezen;  
+- 73300000-5 Planning en uitvoering van onderzoeken en ontwikkeling;  
+- 79330000-6 statistische dienstverlening;  
+- 73110000-6 Uitvoeren van onderzoek.  
+6.2. De Europese openbare procedure 
+Iedere belangstellende Ondernemer mag inschrijven op deze Aanbesteding 
+We hebben gekozen voor een openbare procedure. Dit geeft alle potentiële Inschrijvers voldoende 
+tijd en mogelijkheid om een kwalitatief goede Inschrijving in te dienen en zorgt ervoor dat de hele 
+markt de kans krijgt in te schrijven. Deze keuze is hoofdzakelijk gebaseerd op: 
+•          omvang van de opdracht; 
+•          transactiekosten voor de Aanbestedende dienst en de Inschrijvers; 
+•          aantal potentiële Inschrijvers; 
+•          gewenst eindresultaat; 
+•          complexiteit van de opdracht; 
+•          type van de opdracht en het karakter van de markt. 
+ 
+Kijk voor meer informatie over Europees aanbesteden op 
+http://www.rijksoverheid.nl/onderwerpen/aanbesteden
+.  
+6.3. TenderNed 
+De Aanbesteding verloopt via het online aanbestedingsplatform TenderNed (www.tenderned.nl).  
+ 
+Registratie en bevoegdheid 
+Wilt u deelnemen aan deze Aanbesteding? Controleer dan tijdig of uw onderneming op de juiste 
+wijze is geregistreerd op www.TenderNed.nl
+. Controleer daarbij ook wie bevoegd is om namens uw 
+onderneming een inschrijving digitaal in te dienen. 
+6.4. Contactpersoon 
+Uw Contactpersoon is Dennis Huntink, senior inkoopadviseur van de RIS 
+U communiceert alleen met de Contactpersoon over deze Aanbesteding. De communicatie verloopt 
+via TenderNed. Communiceert u over deze Aanbesteding met andere medewerkers van de 
+Aanbestedende dienst of via andere kanalen? Dan kan dit voor ons aanleiding zijn om uw 
+Inschrijving ongeldig te verklaren en u uit te sluiten van verdere deelname aan de Aanbesteding. 
+6.5. De planning van de Aanbesteding 
+In deze paragraaf staat de planning van de Aanbesteding. In de volgende paragrafen leest u een 
+korte toelichting op de activiteiten.  
+  
+Wij streven er naar onderstaande planning te realiseren. Zonder expliciet tegenbericht dient u van 
+deze planning uit te gaan. Wij melden wijzigingen in de planning in de Nota van Inlichtingen of via 
+TenderNed. Aan deze planning kunnen de Potentiële Inschrijvers geen rechten ontlenen. 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 20 van 33 
+  
+Een korte toelichting van enkele onderdelen van de planning leest u in de navolgende paragrafen. 
+ 
+Tabel tijdplanning aanbestedingsprocedure  
+ 
+Activiteit  Datum gereed Tijdstip 
+Ontvangen van vragen n.a.v. het Beschrijvend 
+document  
+Maandag 9 maart 2026 12.00 uur 
+Nota van Inlichtingen publiceren  
+ 
+Maandag 23 maart 2026  
+Indiening inschrijving  
+ 
+Donderdag 2 april 2026 10.00 uur 
+Bekendmaken Gunningsbeslissing  
+ 
+Woensdag 6 mei 2026  
+Einde opschortende termijn (Alcateltermijn)  
+ 
+Woensdag 27 mei 2026 23.59 uur 
+Ingangsdatum Overeenkomst  
+ 
+Maandag 1 juni 2026  
+6.6. Vragen en tekstsuggesties 
+Het kan zijn dat iets in het Beschrijvend document voor u onduidelijk is. In deze paragraaf leest u 
+wat u dan kunt doen.  
+ 
+Stel al uw vragen via TenderNed 
+Heeft u vragen over de inhoud of de procedure van deze Aanbesteding? Of constateert u 
+tegenstrijdigheden, onduidelijkheden of bezwaren? Gebruik hiervoor Vragen en Antwoorden in het 
+dashboard van TenderNed. Vragen die u op een andere manier stelt, beantwoorden wij niet. U kunt 
+via deze weg ook vragen stellen of suggesties doen met betrekking tot de contractvoorwaarden. 
+ 
+Vermeld hierbij op welk document en paragraaf uw vraag van toepassing is.  
+ 
+Dien al uw vragen en tegenstrijdigheden uiterlijk in op het tijdstip zoals aangegeven in 
+de planning 
+Zo zorgt u ervoor dat u antwoord krijgt op uw vraag. Dient u uw vraag te laat in? Dan 
+beantwoorden we uw vraag alleen als wij vinden dat het belangrijke informatie is voor alle 
+Inschrijvers. De inschrijftermijn verandert dan in principe niet, ook niet als wij de antwoorden 
+minder dan tien (10) dagen voor de sluitingsdatum publiceren. Geeft u de tegenstrijdigheden, 
+onduidelijkheden of bezwaren niet op tijd door? Dan passen we het Beschrijvend document in 
+beginsel niet meer aan. U kunt geen rechten ontlenen aan tegenstrijdigheden die u niet heeft 
+gesignaleerd of wel heeft gesignaleerd maar ons niet tijdig heeft gemeld. Natuurlijk proberen wij 
+tegenstrijdigheden in de Aanbestedingsstukken te voorkomen. 
+ 
+Zorg dat uw vragen en suggesties anoniem zijn 
+Gebruik daarom in uw vraag geen: 
+• bedrijfsnamen; 
+• productnamen; 
+• andere namen die aan uw organisatie gerelateerd zijn. 
+ 
+Wij publiceren alle vragen en antwoorden in TenderNed 
+U leest alle vragen en antwoorden in de Nota van Inlichtingen. Alle Inschrijvers krijgen op die 
+manier evenveel informatie. U ontvangt altijd een notificatie op uw e-mailadres op het moment dat 
+wij de vragen en antwoorden publiceren. We publiceren de Nota van Inlichtingen uiterlijk op de in 
+de planning opgenomen datum. 
+ 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 21 van 33 
+  
+ 
+U kunt ook vertrouwelijk vragen stellen 
+Het antwoord is dan alleen voor u bestemd. Niet voor de andere Inschrijvers. Wilt u een 
+vertrouwelijk antwoord op uw vraag? Motiveer dan duidelijk waarom u van mening bent dat 
+openbaarmaking van deze informatieschade kan toebrengen aan de gerechtvaardigde economische 
+belangen van uw onderneming. 
+Zijn we het niet eens met uw motivatie? Dan leggen wij u de keuze voor; wij nemen uw vraag op 
+in de algemeen ter beschikking te stellen Nota van Inlichtingen, of wij beantwoorden uw vraag 
+niet.  
+ 
+Wij geven u alleen informatie via TenderNed 
+Krijgt u informatie op een andere manier? Dan kunt u daaraan geen rechten ontlenen. Ook niet als 
+u de informatie krijgt van een van onze medewerkers of vertegenwoordigers. 
+ 
+De Nota van inlichtingen gaat altijd voor 
+Spreken de Nota van Inlichtingen en het Beschrijvend document elkaar tegen? Dan gaan we uit 
+van wat in de Nota van Inlichtingen staat. Zijn er meerdere Nota’s van Inlichtingen en spreken die 
+elkaar tegen? Dan geldt wat in de laatst gepubliceerde Nota van Inlichtingen staat. 
+6.7. Indienen Inschrijving  
+Dien uw Inschrijving uiterlijk in op het tijdstip zoals aangegeven in de planning 
+U kunt zich alleen inschrijven via TenderNed. Bent u te laat of schrijft u niet in via TenderNed? Dan 
+is uw Inschrijving ongeldig. Meer over hoe u een Inschrijving indient, leest u in hoofdstuk 7. 
+6.8. Openen Inschrijvingen 
+De opening van de digitale kluis is niet openbaar en vindt plaats na het verstrijken van het uiterste 
+tijdstip van indiening op de in paragraaf 6.5 opgenomen datum bij de RIS namens de 
+Aanbestedende dienst.  
+ 
+Publicatie van een proces-verbaal van opening vindt plaats via TenderNed. In het proces-verbaal 
+van opening staat vermeld welke Inschrijvers een Inschrijving hebben ingediend.  
+6.9. Mededeling Gunningsbeslissing 
+Op de in de planning opgenomen datum maken wij bekend aan welke Inschrijver we de 
+Opdracht gunnen 
+U ontvangt een bericht via TenderNed en u vindt dan op TenderNed de Gunningsbeslissing. In die 
+Gunningsbeslissing leest u: 
+• aan wie we de Opdracht gunnen; 
+• de relevante redenen waarom wij de Opdracht aan deze Inschrijver gunnen; 
+• de onderbouwing van de aan uw Inschrijving toegekende scores; 
+• een omschrijving van de opschortende termijn. Dat is de termijn waarin u nog bezwaar 
+kunt maken tegen de Gunningsbeslissing; 
+• in geval van het Gunningscriterium beste prijs-kwaliteitverhouding ziet u de scores van de 
+(onderdelen van de) Subgunningscriteria op het gebied van de kwaliteit.  
+ 
+Let op: u kunt geen rechten ontlenen aan de Gunningsbeslissing 
+Is de Gunningsbeslissing positief voor u? Dan betekent dat u in principe de Opdracht krijgt.  
+U kunt echter aan de Gunningsbeslissing geen rechten ontlenen en u heeft op grond van een 
+Gunningsbeslissing ook geen recht op een schadevergoeding in geval wij niet tot gunning 
+overgaan. 
+ 
+De mededeling van de Gunningsbeslissing is dan ook geen aanvaarding van het aanbod.  
+Pas als de Overeenkomst met u is ondertekend heeft u het recht de Opdracht uit te voeren. 
+ 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 22 van 33 
+  
+ 
+Soms maken wij bepaalde gegevens niet bekend bij de Gunningsbeslissing  
+We maken gegevens niet bekend indien openbaarmaking van die gegevens: 
+• in strijd zou zijn met enig wettelijk voorschrift; 
+• in strijd zou zijn met het openbaar belang; 
+• de rechtmatige commerciële belangen van Ondernemers zou kunnen schaden; 
+• afbreuk zou kunnen doen aan de eerlijke mededinging tussen Ondernemers. 
+6.10.  Verificatie gegevens Uniform Europees Aanbestedingsdocument (UEA) 
+Nadat wij de Gunningsbeslissing bekend hebben gemaakt, kunnen wij de gegevens in het Uniform 
+Europees Aanbestedingsdocument (hierna: UEA) van de Inschrijver aan wie wij de Opdracht hebben 
+gegund controleren. Hieronder leest u hoe dat in zijn werk gaat. 
+ 
+De Inschrijver levert op verzoek binnen vijf (5) werkdagen de volgende bewijsstukken 
+aan: 
+• uittreksel uit het register van de Kamer van Koophandel (inclusief volmacht indien van 
+toepassing). Het uittreksel mag op het moment van de Inschrijving niet ouder zijn dan zes 
+maanden; 
+• Gedragsverklaring aanbesteden. Let op: vraag de gedragsverklaring op tijd aan, in verband 
+met de verwerkingstermijn. Zie voor meer informatie: 
+Gedragsverklaring aanbesteden 
+(GVA) | Justis. De Gedragsverklaring aanbesteden mag niet ouder zijn dan twee jaar, 
+teruggerekend vanaf de sluitingstermijn van de Inschrijving. 
+• verklaring van de Belastingdienst dat de Inschrijver de verplichte belastingen en sociale 
+zekerheidspremies heeft betaald. De verklaring mag op het moment van inschrijven niet 
+ouder zijn dan zes maanden. 
+ 
+Daarnaast wordt u gevraagd de volgende gegevens aan te leveren: 
+• de IBAN- en BIC-code van uw bankrekening waarop eventuele betaling gaat plaatsvinden; 
+• de gegevens van de ondertekenaar van de Overeenkomst en de contactpersoon die 
+namens uw organisatie mag worden opgevoerd in de Overeenkomst voor de uitvoering van 
+de Opdracht. 
+ 
+Gaat het om een Combinatie die de Opdracht gegund krijgt? Dan moet elk lid van de Combinatie 
+deze bewijsstukken aanleveren. Gaat het om een Derde waarop een beroep wordt gedaan om te 
+voldoen aan de gestelde Geschiktheidseisen? Dan moet elke Derde deze bewijsstukken aanleveren.  
+ 
+Kloppen gegevens niet of levert u die te laat in?  
+Wij kunnen u dan eenmalig de mogelijkheid geven dit te herstellen binnen een periode van 3 
+werkdagen. Lukt dit niet (tijdig), dan kunnen wij besluiten uw Inschrijving alsnog ongeldig te 
+verklaren en u uit te sluiten van verdere deelname aan de Aanbesteding. De Gunningsbeslissing 
+trekken wij dan in. Wij mogen dan beslissen om de Opdracht alsnog aan een andere Inschrijver te 
+gunnen. 
+6.11.  Opschortende termijn en bezwaren 
+We gunnen de Overeenkomst niet eerder dan nadat een termijn van twintig kalenderdagen na 
+dagtekening van de Gunningsbeslissing is verstreken.  
+ 
+Indien een Inschrijver bezwaren heeft tegen (de motivering van) de Gunningsbeslissing dan dient 
+de Inschrijver binnen twintig kalenderdagen na dagtekening van de gunningbeslissing door 
+betekening van een dagvaarding een kort geding aanhangig maken tegen de Staat.  
+ 
+De genoemde termijn is een contractueel overeengekomen vervaltermijn, waarmee Inschrijver 
+door het doen van een inschrijving instemt. Indien een inschrijver niet binnen deze termijn 
+daadwerkelijk een kort geding aanhangig heeft gemaakt kan de betreffende Inschrijver (in rechte) 
+geen bezwaar meer maken met betrekking tot die beslissing.  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 23 van 33 
+  
+De Aanbestedende dienst is in dat geval vrij om (verder) gevolg te geven aan de beslissing. Alsdan 
+vervalt het recht tegen de Gunningsbeslissing op te komen en/of enige vordering tot 
+schadevergoeding of welke andere aanspraak dan ook in te stellen in verband met deze beslissing 
+en deze Aanbesteding. Ook het recht om in een bodemprocedure een vordering tot 
+schadevergoeding of wat voor andere vordering dan ook in te stellen zal dan zijn vervallen, althans 
+zijn verwerkt. 
+ 
+Indien u overweegt een kort geding aanhangig te maken, dan moet u eerst via de TenderNed 
+berichtenmodule contact opnemen met de Contactpersoon met vermelding van uw bezwaar. 
+ 
+Wij sluiten in beginsel geen Overeenkomst voordat de rechter uitspraak heeft gedaan in het kort 
+geding. Is er binnen de Opdracht een zwaarwegende reden om niet te wachten met de gunning? 
+Dan kunnen we besluiten ondanks het kort geding toch een Overeenkomst te sluiten 
+Als een kort geding aanhangig wordt gemaakt, informeren wij alle Inschrijvers. 
+6.12. Voorbehouden Aanbestedende dienst 
+Wij kunnen aanvullende vragen stellen 
+Wij kunnen besluiten om u aanvullende vragen te stellen om uw Inschrijving te verduidelijken of 
+bewijsstukken/verklaringen te vragen om de juistheid van uw Inschrijving te toetsen. 
+ 
+Wij mogen deze Aanbesteding op elk moment stoppen 
+Wij behouden ons het recht voor om, tot het moment van ondertekening van de beoogde 
+Overeenkomst, de Aanbesteding geheel of gedeeltelijk, tijdelijk of definitief te stoppen. De 
+Inschrijver kan in dat geval geen aanspraak maken op enige vorm van schadevergoeding. Wij zullen 
+in een dergelijke situatie in beginsel ook niet over gaan tot een vergoeding van inschrijfkosten. 
+ 
+Dit kan anders zijn als wij van oordeel zijn dat er omstandigheden van dien aard zijn dat een 
+tegemoetkoming op zijn plaats is. Het zal in geen geval gaan om een volledige vergoeding van de 
+gemaakte kosten, maar om een tegemoetkoming daarin.  
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 24 van 33 
+  
+7. Hoe schrijft u in? 
+7.1. Aanbiedingsbrief 
+Aanbiedingsbrief 
+Bij het indienen van uw Inschrijving mag u een aanbiedingsbrief toevoegen. Deze brief is vormvrij, 
+dus er is geen specifieke Bijlage hiervoor toegevoegd aan de Aanbestedingsstukken. 
+ 
+De aanbiedingsbrief bevat: 
+o naam en contactgegevens van uw contactpersoon voor de Aanbesteding; 
+o het kenmerk van uw Inschrijving; 
+o de wijze van Inschrijving (zelfstandig, Combinatie, en/of met Onderaannemer(s)): de 
+namen van de ondernemingen benoemen. 
+7.2. Indienen Inschrijving in TenderNed 
+Schrijf in via TenderNed  
+U kunt alleen inschrijven via TenderNed. Schrijft u niet in via TenderNed? Dan is de Inschrijving 
+ongeldig en sluiten we u uit van verdere deelname aan de Aanbesteding. U kunt dus niet op andere 
+manieren (bijvoorbeeld per e-mail) inschrijven.   
+ 
+U vindt de instructie hoe u TenderNed gebruikt als ondernemer op TenderNed | TenderNed 
+gebruiken als ondernemer. Het juiste gebruik van TenderNed is voor risico van de ondernemer c.q. 
+Inschrijver.  
+ 
+Zorg dat u ruim op tijd bent met inschrijven 
+Na de sluitingstermijn voor het indienen van de Inschrijving is het niet meer mogelijk uw 
+Inschrijving in te dienen. Houd er daarom in elk geval rekening mee: 
+• dat het juist en volledig uploaden van alle bestanden tijd in beslag neemt; 
+• dat uw internetverbinding traag kan zijn; 
+• dat u misschien technische problemen heeft met TenderNed; 
+• dat de helpdesk van TenderNed niet altijd uw technische probleem direct kan oplossen. 
+ 
+Houd bij het uploaden van de Bijlagen rekening met het volgende: 
+• begin op tijd met uploaden! Het kan soms enige tijd duren voordat alles geüpload is. 
+• upload elke Bijlage zoals in paragraaf 7.4 aangegeven; 
+• zorg dat uit de bestandsnaam duidelijk wordt om welke Bijlage het gaat. 
+• zorg dat elke Bijlage volledig en juist is.  
+ 
+Alleen bij een storing in TenderNed kunnen we de inschrijvingsdeadline uitstellen 
+Wij zijn niet aansprakelijk voor storingen bij TenderNed. Maar het kan wel een reden zijn om de 
+deadline uit te stellen. 
+ 
+Neem contact op met TenderNed bij technische problemen 
+Op de pagina TenderNed | Contact vindt u de mogelijkheden inclusief openingstijden. 
+7.3. Formele eisen aan de Inschrijving 
+Zorg dat uw Inschrijving voldoet aan de Formele eisen 
+U leest de Formele eisen hieronder. Voldoet u niet aan deze eisen? Dan is uw Inschrijving in 
+beginsel ongeldig en kunnen we u uitsluiten van verdere deelname aan de Aanbesteding. Door in te 
+schrijven op deze Aanbesteding gaat u akkoord met alles wat in dit Beschrijvend document en in 
+alle Bijlagen staat. 
+ 
+ 
+ 
+ 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 25 van 33 
+  
+Elke Inschrijving moet voldoen aan de volgende Formele eisen:  
+• u schrijft op tijd in; 
+• u levert alle gevraagde informatie aan. In paragraaf 7.4 vindt u alle verplichte aan te 
+leveren Bijlagen die de Inschrijving minimaal moet bevatten; 
+• u gebruikt de formulieren die u vindt in dit Beschrijvend document en de Bijlagen. U past 
+de vaste tekst van die formulieren niet aan; 
+• u verbindt geen voorwaarden aan uw Inschrijving; 
+• u schrijft in zonder voorbehouden; 
+• u garandeert dat uw Inschrijving minimaal 120 dagen na sluitingsdatum voor het indienen 
+van de Inschrijving geldig blijft. Dit is de gestanddoeningstermijn. Bij (een) kort geding(en) 
+verlengen we de gestanddoeningstermijn met 45 dagen, nadat de rechter uitspraak heeft 
+gedaan;  
+• u zorgt dat alle communicatie rondom en over de Verzoek tot Deelname in het Nederlands 
+is. Ook tijdens de looptijd van de Overeenkomst communiceert u steeds in het Nederlands. 
+• de Inschrijving wordt rechtsgeldig ondertekend, dat wil zeggen door iemand die daar 
+voldoende bevoegdheid voor heeft. Is er sprake van een gebrek in de ondertekening? Dan 
+is uw Inschrijving in beginsel ongeldig en kunnen we u uitsluiten van verdere deelname aan 
+de Aanbesteding. Echter kan de Aanbestedende dienst oordelen dat er ruimte wordt 
+geboden tot herstel van dit gebrek. Hierbij is het van belang dat de (nieuwe) ondertekening 
+geen inhoudelijke wijziging van de Inschrijving meebrengt. 
+ 
+Wij gaan vertrouwelijk om met uw gegevens 
+Wij geven uw gegevens niet aan anderen. Ook niet als we de Opdracht niet aan u gunnen. 
+ 
+7.4. Verplichte Bijlagen in TenderNed 
+In onderstaande tabel is aangegeven welke Bijlagen u moet invullen en moet uploaden. Ook ziet u 
+in de tabel waar u dit in uw dashboard in TenderNed moet uploaden. 
+ 
+Alle documenten die u verplicht moet invullen bij het indienen van de Inschrijving, zijn aangegeven 
+met ‘aanwezigheid verplicht’ (‘ja’). Alle documenten voegt u als bijlagen toe aan uw Inschrijving met 
+inachtneming van de juiste bestandsnaam (bijvoorbeeld ‘Bijlage 4 - Referentieverklaring’).  
+ 
+Let op! Dien de Bijlagen in het gevraagde bestandstype in, zoals omschreven in onderstaande tabel. 
+Gebruikt u een ander bestandstype? Dat kan ervoor zorgen dat de RIS het bestand niet op de juiste 
+manier of volledig te zien krijgt. Daarmee loopt u het risico dat de Inschrijving ongeldig kan worden 
+verklaard en dat wij u uitsluiten van verdere deelname aan de Aanbesteding. 
+ 
+Omschrijving Zie par. Te gebruiken 
+formulier 
+Aanwezigheid 
+verplicht? 
+Door wie? 
+In uw dashboard onder ‘Beantwoord de gunningscriteria’ 
+Antwoord op het 
+Subgunningscriterium 
+‘kwaliteit’  
+4.1  
+5.3  
+5.4 
+Bijlage 2 Ja Inschrijver of (i.g.v. 
+Combinatie) de penvoerder 
+Prijsopgaveformulier  5.1      
+7.3 
+Bijlage 3 
+(uploaden in 
+PDF en Excel) 
+Ja Inschrijver of (i.g.v. 
+Combinatie) de penvoerder 
+In uw dashboard  onder ‘Vul het Uniform Europees Aanbestedingsdocument in’ 
+Uniform Europees 
+Aanbestedingsdocument 
+(UEA)  
+3.1 
+3.2 
+3.3 
+6.14 
+7.5 
+7.6 
+Bijlage 1 
+(uploaden in 
+pdf) 
+Ja Inschrijver of (i.g.v. 
+Combinatie) de penvoerder 
+alle Combinanten of (i.g.v. 
+beroep op een Derde om te 
+voldoen aan de 
+geschiktheidseisen) alle 
+Derden 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 26 van 33 
+  
+In uw dashboard onder ‘Voeg overige documenten toe’ 
+Aanbiedingsbrief 7.1 Vormvrij 
+(uploaden in 
+pdf) 
+Nee Inschrijver of (i.g.v. 
+Combinatie) de penvoerder 
+Referentieverklaring 3.3 Bijlage 4 
+(uploaden in 
+pdf) 
+Ja Inschrijver of (i.g.v. 
+Combinatie) de penvoerder 
+ 
+ 
+7.5. Inschrijven met het Uniform Europees Aanbestedingsdocument (UEA) 
+Het UEA bestaat uit vijf delen 
+In Deel II vult u de gegevens van uw eigen onderneming in. In deel III leest u alle 
+Uitsluitingsgronden. Wij hebben aangevinkt welke Uitsluitingsgronden gelden bij deze 
+Aanbesteding.  
+ 
+Iedere betrokken rechtspersoon stuurt een eigen UEA in 
+Schrijft u in als Combinatie of doet u een beroep op Derden om aan een Geschiktheidseis te 
+voldoen? Dan stuurt u meerdere UEA’s in, één voor elke betrokken organisatie. Hierover leest u 
+meer in paragraaf 7.6. 
+ 
+U kunt een tweede UEA creëren door nogmaals op de knop ‘vul het formulier in’ te klikken. Zo zet 
+u nog een UEA klaar voor een combinatiepartner of een derde. Het UEA over de combinatiepartner 
+of een Derde kan hier online worden ingevuld. 
+ 
+Met een ingediend UEA verklaart u geschikt te zijn voor deze Opdracht 
+Door het aanvinken van ‘Ja’ in onderdeel α in Deel IV van het UEA (“Algemene aanwijzing voor 
+alle selectiecriteria”) verklaart u dat uw onderneming voldoet aan alle Geschiktheidseisen die in 
+paragraaf 3.3 van dit Beschrijvend document staan. In het UEA wordt de term selectiecriteria 
+gehanteerd. Hiermee worden de Geschiktheidseisen bedoeld. 
+ 
+Met een ondertekend UEA verklaart u ook dat de Uitsluitingsgronden niet op uw 
+onderneming van toepassing zijn 
+Is een Uitsluitingsgrond wel van toepassing, maar schrijft u toch in? Vermeld dan in het UEA de 
+informatie en/of maatregelen die in Deel III van het UEA (Uitsluitingsgronden) worden gevraagd. 
+7.6. Inschrijven als Combinatie of met gebruikmaking van een Derde 
+Ondernemers kunnen besluiten om samen in te schrijven op een Aanbesteding 
+Redenen hiervoor kunnen zijn: 
+- de ondernemers beschikken individueel niet over voldoende capaciteit, ervaring en/of 
+expertise; 
+- vanwege risicospreiding: financieel en/of afhankelijkheid van één grote Opdrachtgever. 
+ 
+De Aanbestedende dienst mag Inschrijvingen door een Combinatie of met gebruikmaking van (een) 
+Derde(n) niet verbieden. Wel is het mogelijk om hieraan proportionele voorwaarden te stellen, 
+zoals hoofdelijke aansprakelijkheid, één aanspreekpunt of het oprichten van een rechtspersoon na 
+gunning. Zie ook de artikelen 2.52 en 2.92 van de Aanbestedingswet 2012. 
+ 
+Bij deze Aanbesteding moet u als Inschrijver het UEA invullen, rechtsgeldig ondertekenen en bij 
+de Inschrijving voegen. De rechtsgeldige ondertekening van het UEA staat voor de 
+rechtsgeldige ondertekening van de gehele Inschrijving.  
+ 
+Een natte, gescande of een digitale/elektronische handtekening zijn allemaal geldig. 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 27 van 33 
+  
+U dient a het Uniform Europees Aanbestedingsdocument (UEA), via de separate UEA-module in te 
+vullen en aan de hieronder genoemde voorwaarden te voldoen:  
+ 
+Inschrijven als Combinatie  
+In het geval van een samenwerkingsverband (Combinatie) dienen alle deelnemers aan het 
+samenwerkingsverband een eigen exemplaar van het UEA in te vullen. Dit wordt bijgevoegd in de 
+Inschrijving. Onder Deel IIA onder Wijze van deelneming in het UEA geven  alle deelnemers aan 
+het samenwerkingsverband de namen van alle Combinanten en hun eigen rol op, waarbij alle 
+deelnemers aan het samenwerkingsverband ook opgeven welke ondernemer de leiding van het 
+samenwerkingsverband (Combinatie) heeft en als verantwoordelijk gemachtigde (‘penvoerder’) 
+namens het samenwerkingsverband (Combinatie) tegenover Opdrachtgever optreedt. De 
+penvoerder is dus de ondernemer die door elke Combinant adequaat is gemachtigd om namens het 
+samenwerkingsverband verplichtingen aan te gaan in het kader van deze Aanbesteding waarvoor 
+alle individuele deelnemers aan het samenwerkingsverband jegens Opdrachtgever volledig en 
+hoofdelijk aansprakelijk zijn. 
+ 
+De penvoerder verzorgt namens de Combinatie alle correspondentie in het kader van de uitvoering 
+van de Aanbesteding en Overeenkomst met de Aanbestedende dienst respectievelijk 
+Opdrachtgever. Dit betekent onder meer dat de facturatie uitsluitend dient te geschieden vanuit de 
+penvoerder. 
+ 
+Door een Inschrijving in te dienen verklaart elk lid van de Combinatie: 
+1. dat de in de Inschrijving en UEA’s verstrekte informatie correct en rechtsgeldig is; 
+2. dat elk lid van de Combinatie ieder hoofdelijk aansprakelijk is voor de uitvoering van de 
+Opdracht en instaat voor de juiste en tijdige nakoming van alle plichten die voortkomen uit de 
+Overeenkomst. 
+ 
+Na sluiting van de termijn voor het indienen van de Inschrijving mag zonder toestemming van 
+Opdrachtgever de samenstelling van de Combinatie niet wijzigen. 
+ 
+Gebruik maken van een Derde om te voldoen aan de Geschiktheidseisen 
+Als u een beroep doet op een Derde om aan de Geschiktheidseisen te voldoen dient u in Deel IIC 
+van het UEA ‘ja’ aan te vinken. Derden op wie een Inschrijver een beroep doet om aan de 
+Geschiktheidseisen te voldoen, dienen eveneens een eigen exemplaar van het UEA in met de 
+informatie die wij vragen in Deel IIA, IIB en III.  
+ 
+Een voorwaarde bij het beroep doen op een Derde om te voldoen aan de gestelde 
+Geschiktheidseisen is dat de Inschrijver kan aantonen dat de Inschrijver daadwerkelijk kan 
+beschikken over de voor die Opdracht noodzakelijke middelen van de Derde. Bijvoorbeeld door 
+middel van een verklaring van de Derde waaruit blijkt dat de Derde bereid is de betreffende 
+werkzaamheden uit te voeren.  
+ 
+Als u een beroep doet op de technische bekwaamheid en beroepsbekwaamheid van een Derde, 
+geldt de voorwaarde dat u de voor de Opdracht noodzakelijke middelen gedurende de gehele 
+looptijd van de Overeenkomst moet kunnen inzetten bij de uitvoering van de Opdracht.  
+ 
+U mag maar op één manier inschrijven 
+U mag slechts éénmaal inschrijven op deze Aanbesteding, als zelfstandig Inschrijver óf als lid van 
+een Combinatie. Als u hier niet aan voldoet, zijn alle betrokken Inschrijvingen ongeldig en sluiten 
+wij alle betrokkenen uit van verdere deelname aan de Aanbesteding. 
+ 
+Ook de volgende drie situaties zijn in principe verboden, tenzij u aantoont dat de betrokken 
+Inschrijvingen zelfstandig en dus volledig onafhankelijk van elkaar en zonder wetenschap van het 
+relevante marktgedrag van de andere Inschrijver/Combinatie zijn opgesteld en er geen sprake is 
+van bedreiging van de transparantie en/of vervalsing van de mededinging: 
+Beschrijvend document Europese aanbesteding ‘Wsw-statistiek’ met referentie: 201865005.011.094         
+Versie 1.0                                               Pagina 28 van 33 
+  
+- u mag niet inschrijven als zelfstandig Inschrijver of als lid van een Combinatie en – 
+daarnaast – als Onderaannemer bij een andere Inschrijver of Combinatie optreden; 
+- u mag niet als Onderaannemer bij meerdere Inschrijvingen optreden; 
+- als u onderdeel vormt van een concern is het niet toegestaan dat meerdere 
+dochtermaatschappijen of meerdere groepsmaatschappijen van dit concern een 
+Inschrijving indienen. 
+ 
+Als wij van mening zijn dat één van de drie bovenstaande situaties aan de orde is, verzoeken wij u 
+een zogenaamde anti-collusieverklaring af te geven. In de anti-collusieverklaring verklaart u dat 
+uw Inschrijving zelfstandig en dus volledig onafhankelijk en zonder wetenschap van het relevante 
+marktgedrag van een andere Inschrijver of Combinatie is opgesteld en dat er geen sprake is van 
+bedreiging van de transparantie en/of vervalsing van de mededinging tussen de 
+Inschrijvers/Combinaties. Daarbij benoemt u welke maatregelen hiervoor zijn genomen.  
+ 
+Indien u dit niet kan aantonen, zijn alle betrokken Inschrijvingen ongeldig en sluiten wij alle 
+betrokkenen uit van verdere deelname aan de Aanbesteding.  
+ 
+U mag met onze toestemming later alsnog anderen betrekken bij de uitvoering van de 
+Opdracht 
+Krijgt u de Opdracht gegund? En wilt u na het sluiten van de Overeenkomst alsnog een ander 
+betrekken bij het uitvoeren van de Opdracht? Vra
+
+=== Document: nota van inlichtingen v1.0 ===
+Nota van Inlichtingen aanbesteding Wsw-statistiek woensdag 18 maart 2026
+Nr. Onderwerp Vraag Antwoord
+1 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+De website en het domein worden niet overgedragen aan de (nieuwe) opdrachtnemer. Als de website wel moet worden 
+voortgezet, wat zijn dan de eisen aan die website?
+De website vervult primair een functie in de ondersteuning van gemeenten/Sw-bedrijven (zie inhoudelijke eis B2).  Inhoudelijk geldt als eis dat 
+Opdrachtnemer een eenvoudige en overzichtelijke webpagina met relevante informatie, waaronder een volledige beschrijving van de 
+werkwijze voor de aanlevering van de benodigde gegevens door gemeenten of Sw-bedrijf moet inrichten en onderhouden. 
+2 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+De website en het domein worden niet overgedragen aan de (nieuwe) opdrachtnemer. Klopt het dat de website niet wordt 
+voortgezet en de eventuele nieuwe opdrachtnemer hoeft dit niet te ontwikkelen?
+Er dient een website ter ondersteuning van gemeenten en Sw-bedrijven beschikbaar te zijn. Een (eventuele nieuwe) opdrachtnemer dient hier 
+zorg voor te dragen. 
+3 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+In welke taal /welke analysepakket is de programmatuur geschreven? SPSS en Python.
+4 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+Bevat de programmatuur die beschikbaar wordt gesteld alle benodigde syntaxen om vanuit het ruwe bestand te komen tot de 
+blijfkansen?
+Ja
+5 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+Bevat de programmatuur die beschikbaar wordt gesteld alle benodigde syntaxen om van ruw bestand naar de informatie te 
+komen die nodig is voor UWV en het bureau dat de verdeelsleutel inleenverbanden banenafspraak verricht
+Nee, de huidige opdrachtnemer verricht voor de levering aan het UWV meerdere handmatige bewerkingen. Voor de  levering van 
+inleenverbanden zijn wel syntaxen opgesteld.
+6 Beschrijvend document, 2.1. Omschrijving van de 
+Opdracht, Continuïteit dienstverlening, pagina 8/9
+Bevat de programmatuur die beschikbaar wordt gesteld alle benodigde syntaxen om van ruw bestand te komen naar de 
+informatie voor de periodiek overzichten?
+Ja
+7 offerte aanvraag Het valt ons op dat de beleidscontext van de Wsw en de bredere uitvoering en databehoefte binnen de Participatiewet enkel bij 
+“Deskundigheid van het team” wordt beoordeeld en niet in de andere subgunningscriteria. Wij zijn van mening dat juist de 
+combinatie tussen (bredere) beleidscontext en kwantitatieve analyse meerwaarde kan hebben bij deze opdracht. De kwaliteit en 
+het nut van gegevensverzameling staat of valt immers bij het beoogde gebruik ervan. Wij vragen u daarom om het begrip van de 
+beleidscontext mee te nemen als subgunningscriterium, met minimaal 10% van de weging van de totaalscore. Om dit mogelijk te 
+maken kunt u overwegen een lagere weging te geven aan subgunningscriteria 1 tot en met 3 (nu in totaal 70%).
+Uw voorstel nemen wij niet over. 
+8 offerte aanvraag Het maximale aantal pagina’s van 10 staat niet in verhouding tot de omvang van de opdracht. We verzoeken u dit uit te breiden 
+naar minimaal 15.
+Akkoord, het aantal pagina's wordt uitgebreid naar 15. U kunt per subgunninscriterium zelf indelen hoeveel pagina's u bij de beantwoording 
+van de verschillende subgunningscriteria gebruikt, zolang deze het maximumaantal van 15 pagina's niet overschrijdt. De voorgeschreven 
+aantallen die vermeld zijn in Bijlage 2 Antwoord op de subgunningscriteria  komen hiermee te vervallen.
+9 offerte aanvraag Op dit moment worden de Subgunningscriteria afzonderlijk beoordeeld, in een tamelijk dwingend format. Wij kunnen op deze 
+manier de samenhang tussen de gunningscriteria niet zo goed kwijt, en bovendien kunnen we tabellen en figuren moeilijk in de 
+layout plaatsen. Staat u open voor meer flexibiliteit in de invulling hiervan, bijvoorbeeld door een maximum aantal pagina’s te 
+hanteren voor het totaal aan subgunningscriteria en enkel lettertype/grootte en regelafstand voor te schrijven? Voorts is het aan 
+de inschrijvers om duidelijk te maken in welk onderdeel van de offerte welk subgunningscriterium wordt beantwoordt.
+Het is toegestaan om in een eigen format de beantwoording aan te leveren. Daarbij gelden wel de volgende vereisten:
+•	 lettertype Verdana 9 pt;
+•	 regelafstand minimaal 1;
+•	 marges aan alle kanten minimaal 2,5 cm;
+•	 inclusief eventuele Bijlagen.                                                                                                                                                                                                                                                                  
+De onderverdeling naar Subgunningscriteria dient gevolgd te worden. Een antwoord op (bijvoorbeeld) een in Subgunningscriterium 1 gestelde 
+vraag dient terug te vinden te zijn in de ingediende beschrijving op Subgunningscriterium 1 en niet in de ingediende beantwoording op een 
+ander Subgunningscriterium. Met andere woorden verwijzingen naar teksten in andere subgunningscriteria zijn niet toegestaan en worden in 
+de beoordeling niet als  beantwoording meegenomen. 
+10 offerte aanvraag Tussen de Nota van Inlichtingen en indienen offerte zit te weinig tijd voor een aanbesteding van deze omvang. Dit zou de zittende 
+partij bevoordelen. Wij verzoeken u om twee extra weken tijd tussen Nota van inlichtingen en indienen offerte.
+Opdrachtgever houdt zich aan de, in het beschrijvend document, vermelde planning. Gezien de ingangsdatum van de 
+dienstverleningsovereenkomst is een aanpassing niet mogelijk. We hebben deze Nota van Inlichtingen wel eerder dan gepland gepubliceerd 
+op TenderNed.
+11 offerte aanvraag Hoe wordt de invulling van “diversiteit en inclusie” meegenomen in de beoordeling van offertes? Diversiteit en inclusie wordt niet in de subgunningscriteria beoordeeld.  Het is gesteld als eis. Zie de eisen C.2 en C.3. onder het Programma 
+van eisen. 
+12 offerte aanvraag Hoe gaan we in de offerte om met het feit dat de werkzaamheden van de opdracht over 2027 anders kunnen uitvallen dan over 
+2026? Er wordt bijvoorbeeld gesteld dat gegevenslevering aan UWV vanaf 2028 al niet meer nodig is. Hoe nemen we dit mee? Of 
+is de bedoeling dat de offerte enkel ziet op de ronde van 2026? Zo ja, hoe neemt u de doorkijk naar de toekomstige uitbreiding 
+mee in de beoordeling?
+De offerte beslaat enkel de ronde van 2026. U wordt gevraagd om apart te begroten voor de diverse procesdelen en producten, waaronder de 
+gegevenslevering aan het UWV. Dit deel van het bedrag valt weg bij verlenging, op het moment dat de gegevenslevering niet langer van 
+toepassing is. Een doorkijk naar een toekomstige uitbreiding wordt niet meegenomen in de huidige beoordeling.
+13 offerte aanvraag Kunt u inzicht geven in rechten en plichten in geval van verlenging van de opdracht? Vindt verlenging eenzijdig of tweezijdig 
+plaats?
+De verlenging vindt eenzijdig plaats. Opdrachtgever zal in de dienstverleningsovereenkomst het volgende opnemen in artikel 2.2.:                                                                     
+De Overeenkomst heeft een looptijd van 1 juni 2026 tot en met 31 juli 2027, met een optie tot verlenging (eenzijdig door Opdrachtgever) van de 
+Overeenkomst voor de periode van vijf maal maximaal twaalf (12) maanden . Opdrachtgever zal Opdrachtnemer uiterlijk één maand voor het 
+verstrijken van het jaar schriftelijk in kennis stellen indien gebruik zal worden gemaakt van een verlengingsoptie.
+14 offerteaanvraag De links in voetnoot 3 werken niet “Page not found”. Kunt u de stukken naar ons versturen? De vermelde rapporten zijn achtereenvolgens te raadplegen via: 1: https://www.seo.nl/publicaties/afbouw-van-het-wsw-bestand/                                         
+2: https://wsw.onderzoek.nl/sites/wsw/assets/bestanden/Vragen_en_antwoorden_verdeelmodel. Het derde rapport is als bijlage bij deze Nota 
+van Inlichtingen toegevoegd samen met de meest recente controle op het blijfkansenmodel.
+15 offerteaanvraag Is het de bedoeling dat de opdracht alvast voorsorteert op de naderende uitbreiding van de populatie, of zoekt u naar zo veel 
+mogelijk voortzetting van de aflopende opdracht? Opdrachtnemer zou bijvoorbeeld gedurende de opdracht alvast 
+dataverkenningen kunnen uitvoeren met het oog op mogelijke uitbreidingen. Staat u hiervoor open?
+De opdracht heeft primair betrekking op voortzetting van de huidige opdracht. En heeft geen betrekking op een dataverkenning met betrekking 
+tot een mogelijke uitbreiding.
+16 offerte aanvraag Kunt u meer details verschaffen over de beoogde “uitbreiding naar dermate bredere populatie” van de Wsw-statistiek? De exacte afbakening van de populatie en informatiebehoefte voor toekomstige monitoring is nog niet bepaald. Het gaat om de doelgroepen 
+van de Participatiewet die via de sociale infrastructuur beschut werk worden geboden of worden begeleid naar de reguliere arbeidsmarkt.
+17 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer vrij van bugs/foutmeldingen? Ja
+18 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer voorzien van goede documentatie? De syntaxen zijn gedocumenteerd.
+19 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer modulair opgebouwd? Ja
+20 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer opgebouwd volgens een algemeen geldende codeerstandard, zoals de clean 
+code richtlijn?
+Nee 
+21 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer logisch opgebouwd met beperkte afhankelijkheden en daardoor makkelijk 
+aanpasbaar?
+Opdrachtgever heeft hier geen zicht op. Voor een aanpassing is vanzelfsprekend inhoudelijke en technische kennis nodig.
+22 offerte aanvraag In welke programmeertaal staat de programmatuur van de huidige opdrachtnemer? SPSS en Python.
+23 offerte aanvraag Om een gelijk speelveld te waarborgen is het belangrijk dat de code en de bijbehorende documentatie van de huidige 
+opdrachtnemer beschikbaar worden gesteld bij deze aanbesteding. Dit zorgt ervoor dat alle inschrijvers in gelijke mate op de 
+hoogte zijn van de codering en documentatie op basis waarvan in de uitvoering verder gewerkt wordt.  Kunt u deze publiceren?
+Nee, dat is niet mogelijk. Codering en documenten zijn (in dit stadium) niet beschikbaar, voor een toelichting op het onderzoek verwijzen we 
+naar   https://wsw.onderzoek.nl/ 
+24 offerte aanvraag Wij zien nog geen bedragen ingevuld in de concept DVO bij de betaling. Wij stellen voor: 40% bij aanvang opdracht, 30% bij 
+rapportage en analysebestand 1e helft 2026, 10% bij start werkzaamheden 2e helft 2026, 20 bij acceptatie jaarrapport. Het is van 
+belang dat aan het begin een relatief groot bedrag kan worden gefactureerd, omdat aan de voorkant het nodige moet worden 
+ingeregeld. Kunt u hiermee instemmen?
+De bedragen worden pas na gunning ingevuld. Opdrachtgever stemt niet in met uw voorstel, maar heeft naar aanleiding van uw vraag e.e.a. 
+aangepast.                                                                                                                                                                                                                                                                         Artikel 
+3.4 Betaling vindt als volgt plaats:
+Omschrijving deellevering/mijlpaal                             -         Percentage      -    Bedrag excl. Btw     -   Uiterste datum deellevering/mijlpaal                                                   
+Uitvoering implementatieplan                                          -        30%                      -  volgt                               -  1 oktober 2026                                                                                                                         
+Gegevenslevering: UWV; realisatie en blijfkansen   -         50%                      -  volgt                               - 14 mei 2027                                                                    
+Jaarrapport                                                                               -        20%                       - volgt                               - 1 juli 2027
+> een bedrag van € xxx,- (excl. BTW) na (schriftelijke) terugkoppeling over de voortgang van de implementatiefase inclusief reflectie op 
+(ontwikkelde / aangepaste) infrastructuur voor dataverzameling (1 oktober 2026). 
+> een bedrag van € xxx,- (excl. BTW) na gegevenslevering aan UWV en oplevering van realisaties en  blijfkansenmodel (14-05-2027).
+> een bedrag van € xxx,- (excl. BTW) na acceptatie van het jaarrapport 2026 (01-07-2027). 
+25 offerte aanvraag Kunt u concreter aanduiden wat het “reparatiebestand” feitelijk inhoudt, zo mogelijk middels een voorbeeld? Met het reparatiebestand worden (bijv. administratieve) fouten en/of ommissies in eerder geleverde data met terugwerkende kracht 
+gecorrigeerd. Hiervoor dient een consitentiecontrole uitgevoerd te worden tussen oude en nieuwe gegevens. Het betreft bestanden op 
+persoonsniveau, waar geen voorbeeld van gedeeld kan worden. 
+26 offerte aanvraag Kunt u meer context geven bij SGC 5 communicatie en relatiebeheer? De omschrijving in SGC5 is ons inzien voldoende duidelijk. Als context kunnen wij u het volgende vermelden: Het gaat om een groot aantal 
+gemeenten met verschillende praktijken waardoor het borgen van de kwaliteit van de te verzamelen data goed contactbeheer vereist.
+27 offerte aanvraag Is de programmatuur van de huidige opdrachtnemer efficiënt? Opdrachtgever heeft hier geen zicht op.
+Let op:
+In paragraaf 5.3 van het Beschrijvend document is bij Beoordeling op de beste prijs-kwaliteitverhouding  het volgende opgenomen:
+Bij gelijke totaalscores (voor kwaliteit) gunnen wij aan de Inschrijver met de beste totaalscore voor het subgunningscriterium ‘Plan van Aanpak’. 
+Indien de score gelijk is dan zal loting tussen de inschrijvers met de hoogste scores uitsluitsel geven aan welke inschrijver de opdracht gegund wordt.
+De term Plan van aanpak is niet juist dit moet Gegevensverzameling, verwerking en beheer  en Analyse en rapportage statistiek en blijfkansen  zijn.
+De tekst wordt als volgt:
+Bij gelijke totaalscores (voor kwaliteit) gunnen wij aan de Inschrijver met de beste totaalscores voor de subgunningscriteria ‘Gegevensverzameling, verwerking
+en beheer  en Analyse en rapportage statistiek en blijfkansen’.  
+Indien de score, ook dan nog, gelijk is dan zal loting tussen de inschrijvers met de hoogste scores uitsluitsel geven aan welke inschrijver de opdracht gegund wordt.
+Naar aanleiding van de vragen in deze Nota van Inlichtingen zijn er twee documenten toegevoegd: Onderzoek blijfkansen Wsw-ers  en Evaluatie blijfkansenmodel
+
+=== Document: toelichting dvo arvodi-2025 ===
+Pagina 1 van 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Toelichting bij het Model Dienstverleningsovereenkomst ARVODI-2025 
+ 
+I Inleiding 
+ 
+Algemeen  
+ 
+Dit is de Toelichting bij het Model Dienstverleningsovereenkomst (‘Model’). Het Model bevat een 
+aantal vaste bepalingen die bij elke Overeenkomst van toepassing zijn. Het Model geeft ook de 
+mogelijkheid sommige elementen wel of niet te gebruiken, als de specifieke situatie dat vereist. 
+Deze elementen zijn te herkennen aan de aanduidingen <OPTIONEEL> en OF. Als hierin een 
+keuze is gemaakt, de overige bepalingen zoveel mogelijk zijn ingevuld en de artikelen 
+doorgenummerd zijn, praten we over de concept-overeenkomst. Na ondertekening door 
+Opdrachtgever en Opdrachtnemer is het de Overeenkomst.  
+ 
+In het kader van een aanbestedings- of offerteprocedure moet de concept-overeenkomst worden 
+meegezonden omdat hierin ook eisen en voorwaarden zullen staan die voor Opdrachtnemer van 
+belang zijn om de offerte te kunnen opstellen. 
+ 
+Deze Toelichting is openbaar, maar maakt geen onderdeel uit van de Overeenkomst. Bij twijfel 
+over de betekenis en/of uitleg van het Model kan hetgeen in deze Toelichting staat mede bepalend 
+zijn. De Toelichting doet geen afbreuk aan hetgeen Partijen in een concreet geval zijn 
+overeengekomen. 
+ 
+Gebruik 
+Het is aan te raden bij alle opdrachten de ARVODI van toepassing te verklaren in combinatie met  
+het Model (ook bij opdrachten met een lage geraamde waarde). Het Model is afgestemd op de 
+ARVODI en eventuele afwijkingen van de ARVODI moeten in de Overeenkomst worden 
+opgenomen. Het Model kan voor de concrete opdracht worden ingevuld aan de hand van de 
+geboden tekstblokken en opties.  
+ 
+Het Model is ook geschikt voor onderzoeksdiensten die op niet-wetenschappelijke wijze worden 
+uitgevoerd. Voor wetenschappelijk onderzoek (waarmee onderzoek wordt bedoeld dat op 
+wetenschappelijke wijze, in lijn met de Europese Gedragscode voor Wetenschappelijke Integriteit 
+(ALLEA-gedragscode) wordt uitgevoerd) is een apart Model Onderzoeksovereenkomst beschikbaar. 
+Bij twijfel welk model gebruikt moet worden, wordt aangeraden contact op te nemen met de 
+juridische afdeling.  
+ 
+Ondertekening 
+Het is van belang dat de Overeenkomst rechtsgeldig wordt ondertekend. De betrokken minister of 
+staatssecretaris is altijd zelfstandig bevoegd om de Overeenkomst te ondertekenen (op grond van 
+de Comptabiliteitswet 2016). Als de Overeenkomst niet door maar namens de betrokken minister 
+of staatssecretaris wordt ondertekend, is het van belang om na te gaan of de ondertekenaar 
+ 
+ 
+ 
+Rijksoverheid 
+Pagina 2 van 9 
+ 
+daartoe gemachtigd is. Raadpleeg hiervoor de regeling over volmacht en/of mandaat van het 
+ministerie.  
+ 
+Of de ondertekenaar van Opdrachtnemer bevoegd is om de Overeenkomst rechtsgeldig te 
+ondertekenen, kan worden gecontroleerd aan de hand van een uittreksel uit het Handelsregister 
+(eventueel in combinatie met een volmacht). 
+ 
+ 
+II Artikelsgewijze toelichting 
+ 
+Hierna wordt niet op ieder artikel ingegaan. Alleen die bepalingen die vragen kunnen oproepen, 
+worden behandeld.  
+ 
+ 
+Artikel 1 Voorwerp van de Overeenkomst 
+ 
+1.1 Hier wordt het voorwerp van de Overeenkomst ingevuld. Dat kan kort door te verwijzen naar 
+de offerte of uitvoeriger door ook de uit te voeren Diensten te omschrijven. 
+  
+1.2 Het tweede lid stelt nadrukkelijk dat uitsluitend de ARVODI op de Overeenkomst van 
+toepassing zijn. Als Opdrachtnemer in diens offerte eigen algemene voorwaarden op de 
+offerte van toepassing heeft verklaard, worden deze door het sluiten van de Overeenkomst 
+buiten toepassing verklaard.  
+ 
+1.3  In dit lid wordt de rangorde aangegeven van de documenten die deel uitmaken van de 
+Overeenkomst. Daarbij gaat de offerteaanvraag boven de offerte van Opdrachtnemer. In de 
+offerteaanvraag zijn namelijk de eisen van Opdrachtgever opgenomen en die zijn leidend.  
+  
+Als Opdrachtnemer persoonsgegevens verwerkt voor Opdrachtgever moeten Partijen een 
+verwerkersovereenkomst sluiten. In bepaalde gevallen is één verwerkersovereenkomst die 
+geldt voor alle Nadere Overeenkomsten voldoende. Deze verwerkersovereenkomst wordt dan 
+op het niveau van de Raamovereenkomst gesloten. In andere gevallen moet per Nadere 
+Overeenkomst een verwerkersovereenkomst worden gesloten. Het is aan te raden bij de 
+keuze tussen deze opties een privacydeskundige te betrekken. 
+ 
+1.5, 1.6 en 1.7  
+Artikel 1.5, 1.6 en 1.7 zijn optioneel en alleen van belang als rapportages moeten worden 
+opgeleverd als eindresultaat. Als dat niet het geval is volstaat artikel 1.1 van de 
+Overeenkomst om de door Opdrachtnemer te verrichten Diensten te duiden.  
+ 
+ 
+Artikel 2 Totstandkoming, tijdsplanning of duur van de Overeenkomst 
+ 
+In artikel 2 wordt aangegeven wanneer de Overeenkomst tot stand komt en wat de duur van 
+de Overeenkomst is. Het is niet de bedoeling dat werkzaamheden worden verricht voordat 
+Partijen de Overeenkomst ondertekend hebben. Als er problemen ontstaan bij het uitvoeren 
+van de Diensten moeten er heldere afspraken zijn waaraan Partijen hun rechten en 
+verplichtingen kunnen ontlenen. 
+ 
+Pagina 3 van 9 
+ 
+2.3  In de ARVODI is geen standaard boeteclausule opgenomen. Als het van groot belang is dat 
+de Diensten voor een bepaalde datum moeten zijn afgerond, kan ervoor gekozen worden in 
+de Overeenkomst een boete te stellen op het niet-tijdig nakomen van de verplichtingen. Het 
+boetebedrag is gekoppeld aan de opdrachtwaarde en er is een maximum opgenomen. 
+ 
+Uitgangspunt van de wet is dat een overeengekomen boete in de plaats komt van de 
+verplichting tot het betalen van schadevergoeding. Van dat uitgangspunt mag contractueel 
+worden afgeweken. Omdat een boetedreiging voor Opdrachtnemer vooral een prikkel is om 
+de verplichtingen uit de Overeenkomst na te komen en niet tekort te schieten, is er in het 
+Model voor gekozen dat naast de boete nakoming en schadevergoeding kunnen worden 
+gevorderd.   
+ 
+Opdrachtnemer kan diens rechten op betaling met goedkeuring van Opdrachtgever 
+overdragen (ook wel cederen genoemd) aan derden. In dat geval kan het lastig zijn een 
+verschuldigde boete te verrekenen met betalingen van Opdrachtgever. Daarom moet zeker 
+gesteld zijn dat Opdrachtgever het recht heeft boetes in mindering te brengen op betalingen 
+van door Opdrachtnemer ingediende facturen, zelfs als het recht op de uitbetaling daarvan 
+aan een derde is overgedragen.  
+ 
+ 
+Artikel 3 Prijs en overige financiële bepalingen  
+ 
+In dit artikel worden afspraken over de prijs en overige financiële bepalingen opgenomen.  
+ 
+3.1 Er moet gekozen worden tussen een prijs op basis van nacalculatie of op basis van een vaste 
+totaalprijs. 
+ 
+3.4  Deze bepaling over tarieven kent drie alternatieven.  
+ 
+Het eerste alternatief is werken met vaste tarieven die niet veranderen tijdens de 
+contractperiode. Bij kortdurende contracten is dit een goede optie.  
+ 
+Het tweede alternatief biedt de mogelijkheid van een tariefswijziging op basis van een 
+voorstel van Opdrachtnemer. Opdrachtgever calculeert dan bij aanvang van de 
+Overeenkomst al in dat na een bepaalde termijn sprake kan zijn van tariefswijziging. Het hier 
+genoemde CBS-prijsindexcijfer is hierbij leidend. 
+ 
+Het derde alternatief is hetzelfde als het tweede alternatief, maar met het verschil dat een 
+andere (passender) prijsindex gekozen kan worden. Aangeraden wordt deskundig advies 
+hiervoor in te winnen. Het prijsindexcijfer is beschikbaar via de internetsite van het Centraal 
+Bureau voor de Statistiek (www.cbs.nl, 
+https://opendata.cbs.nl/#/CBS/nl/dataset/82838NED/table?dl=6B06E ) 
+ 
+3.5  Er zijn verschillende opties om af te spreken hoe wordt gefactureerd.  
+ 
+Optie 1 is dat facturering plaatsvindt nadat de Diensten volledig zijn uitgevoerd. In de 
+meeste gevallen is het aan te raden voor deze optie te kiezen.  
+ 
+Optie 2 biedt de mogelijkheid om af te spreken periodiek te factureren.  
+Pagina 4 van 9 
+ 
+Optie 3 gaat uit van deelbetalingen en kan worden gebruikt bij omvangrijke opdrachten.  
+Onder omstandigheden kan ook met een voorschot worden gewerkt, zie voor de 
+voorwaarden hiervan artikel 17 van de ARVODI en bijbehorende toelichting.  
+  
+Optie 4 biedt de mogelijkheid af te spreken dat Opdrachtnemer pas factureert nadat 
+Opdrachtgever de Diensten heeft beoordeeld en geaccepteerd. Er moet dan een 
+beoordelingstermijn worden opgenomen, die gaat lopen vanaf het moment dat de Diensten 
+volledig zijn uitgevoerd. De wettelijke rente gaat in dit geval pas lopen 30 dagen na 
+beoordeling en acceptatie, dan wel na afloop van de beoordelingstermijn (conform artikel 
+6:119b lid 2 sub c BW). 
+  
+Optie 5 kan gebruikt worden als er andere afspraken over facturering worden gemaakt.  
+ 
+3.6  Artikel 15.1 van de ARVODI verplicht Opdrachtnemer tot het versturen van een e-factuur op 
+de in de Overeenkomst voorgeschreven wijze. Opdrachtnemer vermeldt op de e-factuur in 
+ieder geval de orderreferentie en het digitale adres van Opdrachtgever (organisatie-
+identificatienummer (OIN)). Meer informatie over e-factureren aan de Rijksoverheid is te 
+vinden op www.helpdesk-efactureren.nl of een eventuele Opdrachtgeverspecifieke financiële 
+bijsluiter. 
+ 
+Als Opdrachtnemer niet in staat is om een e-factuur te versturen moet de tweede optie van 
+artikel 3.6 worden opgenomen en ingevuld.  
+ 
+3.7 Opdrachtnemer mag maar één keer BTW in rekening brengen.  
+ 
+3.8 Als geen sprake is van een voorschot of als een overeenkomst gesloten wordt met een ander 
+publiekrechtelijk lichaam is een kredietinstellingsgarantie niet nodig en kan dit lid worden 
+opgenomen. 
+ 
+ 
+Artikel 4 Contactpersonen/ <OPTIONEEL> Overleg/ <OPTIONEEL> Rapportage/ 
+<OPTIONEEL> Projectleiders/ <OPTIONEEL> Begeleidingscommissie/stuurgroep 
+ 
+Contactpersonen 
+4.1 Het is aan te raden contactpersonen te benoemen die voldoende bevoegdheid hebben om 
+met Opdrachtnemer afspraken te mogen maken.  
+Uitgangspunt is dat contactpersonen de Partijen binden voor zover het de uitvoering van de 
+Diensten betreft (zie artikel 8 van de ARVODI). Als dat niet de bedoeling is moet artikel 4.4 
+worden opgenomen. 
+ 
+Informatieplicht 
+4.2 In artikel 7 van de ARVODI is een algemene informatieplicht voor Opdrachtnemer 
+vastgelegd. In artikel 4.2 kan deze plicht nader worden uitgewerkt. 
+ 
+Begeleidingscommissie of stuurgroep  
+4.5 Als er behoefte is aan het instellen van een begeleidingscommissie of een stuurgroep, kan 
+artikel 4.5 worden opgenomen. Het is aan te raden de taken en verantwoordelijkheden 
+helder vast te leggen (let ook op wat hiervoor is vermeld over contactpersonen). Dit gebeurt 
+bij voorkeur in een Bijlage bij de Overeenkomst. Eventuele personele wisselingen zijn zo 
+makkelijker door te voeren door de Bijlage aan te passen. 
+Pagina 5 van 9 
+ 
+Artikel 5 Intellectuele eigendomsrechten 
+ 
+In artikel 23 van de ARVODI is bepaald dat de auteursrechten en databankrechten worden 
+overgedragen aan Opdrachtgever. Dit uitgangspunt is gekozen in het kader van het 
+Rijksbeleid om te werken aan meer openbaarheid en transparantie (‘Open Overheid’). De 
+resultaten van de Diensten die zich daarvoor lenen kunnen daardoor in de vorm van open 
+data aan de samenleving ter beschikking worden gesteld. Ook kan Opdrachtgever de 
+resultaten verder (laten) doorontwikkelen.  
+ 
+In de Wet versterking auteurscontractenrecht is bepaald dat afspraken over auteursrechten 
+in bepaalde gevallen in de overeenkomst zelf moeten staan. Daarom is het uitgangspunt van 
+artikel 23 van de ARVODI in artikel 5 nog eens herhaald.   
+ 
+In bepaalde gevallen is het voor Opdrachtgever niet nodig om de auteursrechten en 
+databankrechten te krijgen, terwijl de Opdrachtnemer wel veel belang kan hebben bij het 
+krijgen van deze rechten. In zulke gevallen kunnen Partijen afspreken dat de auteursrechten 
+en databankrechten bij Opdrachtnemer blijven en dat Opdrachtgever een gebruiksrecht (ook 
+wel licentie genoemd) krijgt. Daarvoor kan de optionele bepaling worden gebruikt.  
+ 
+Als wordt gekozen voor een gebruiksrecht is het belangrijk dat dit in ieder geval het recht op 
+openbaarmaking en verveelvoudiging omvat. Daarom wordt aangeraden deze optionele 
+bepaling helemaal over te nemen in de Overeenkomst.  
+ 
+Als gebruik wordt gemaakt van de optionele bepaling gelden de artikelen 23.1, 23.4 en 23.5 
+van de ARVODI niet. Artikel 23.5 ziet op het doen van afstand van persoonlijkheidsrechten. 
+Het is niet gebruikelijk om afstand van persoonlijkheidsrechten te vragen in geval van een 
+gebruiksrecht. Dit optionele artikel gaat er dan ook vanuit dat dat niet gebeurt. Als het van 
+belang is hier wel iets over te regelen wordt aanbevolen contact op te nemen met de 
+juridische afdeling.  
+ 
+ADVIES: Het is aan te raden bij elke opdracht in kaart te brengen bij welke Partij de 
+auteursrechten en databankrechten het beste kunnen komen te liggen. Daarbij is goed om te 
+beseffen dat het laten overdragen van de auteursrechten en databankrechten effect kan 
+hebben op de prijs die Opdrachtnemer in rekening brengt.  
+Bij twijfel wordt aanbevolen contact op te nemen met de juridische afdeling. 
+ 
+ 
+Artikel 7 <OPTIONEEL> Informatieverplichting en audit 
+ 
+Opdrachtgever kan om verschillende redenen behoefte hebben aan (aanvullende) zekerheid 
+over het naleven van de Overeenkomst en daarmee verband houdende wet- en regelgeving.  
+ 
+Opdrachtnemer kan die zekerheid op eigen initiatief verschaffen in het kader van 
+kwaliteitsborging. Kwaliteitsborging is onderdeel van kwaliteitsmanagementsystemen (vgl. 
+ISO 9000) en is er op gericht de klant het vertrouwen te geven dat aan kwaliteitseisen wordt 
+voldaan.   
+ 
+Opdrachtgever kan ook zelf het initiatief nemen. Opdrachtgever kan een informatieverzoek 
+doen of het zwaardere middel van een controle of audit inzetten. Een audit kost meestal tijd 
+Pagina 6 van 9 
+ 
+en geld. Daarom mag van Opdrachtgever worden verwacht dat alleen een audit wordt 
+uitgevoerd als daarvoor een concrete aanleiding is. 
+ 
+Die aanleiding kan een wettelijke verplichting, een bepaalde vorm van toezicht of een 
+bijzondere verantwoordingsplicht zijn. Zo kan een audit bijvoorbeeld nodig zijn om te 
+voldoen aan:  
+ 
+• een corrigerende maatregel op last van de Autoriteit Persoonsgegevens; 
+• de informatieverplichting aan de Kamers op grond van artikel 68 Grondwet. 
+ 
+7.1 Dit artikellid onderstreept het belang van kwaliteitsmanagement en verplicht Opdrachtnemer 
+in dat verband tot het treffen van maatregelen van kwaliteitsborging.  
+ 
+7.2 Opdrachtgever kan er belang bij hebben dat Opdrachtnemer aantoont dat die aan zijn 
+verplichtingen uit de Overeenkomst voldoet en zal blijven voldoen. Opdrachtgever kan 
+daartoe een audit (laten) uitvoeren maar dat kost beide Partijen tijd en geld, terwijl soms 
+een minder ingrijpend middel volstaat. Het in lid 2 bedoelde informatieverzoek is zo’n minder 
+ingrijpend middel. 
+ 
+7.3 Opdrachtgever kan op grond van lid 3 zelf of door een derde een audit (laten) uitvoeren naar 
+de naleving van de Overeenkomst en daarmee verband houdende wet- en regelgeving. 
+Opdrachtnemer moet hieraan meewerken. Zo’n audit kan betrekking hebben op contractuele 
+en wettelijke verplichtingen, zoals naleving van de AVG, de 
+arbeidsomstandighedenwetgeving of eisen aan informatieveiligheid. Een audit kost tijd en 
+geld en kan toegang tot bedrijfsvertrouwelijke informatie vereisen. Het wordt aanbevolen om 
+niet lichtzinnig te besluiten tot een audit en de inhoud en opzet daarvan vooraf af te 
+stemmen met Opdrachtnemer. 
+ 
+ 
+Artikel 8 <OPTIONEEL> Onderzoeksmateriaal (niet-wetenschappelijk onderzoek) 
+ 
+Als het Model gebruikt wordt voor niet-wetenschappelijk onderzoek (waarmee onderzoek 
+wordt bedoeld dat op niet-wetenschappelijke wijze is uitgevoerd) is het goed om afspraken 
+te maken over het materiaal dat Opdrachtnemer tijdens het onderzoek verzamelt. 
+ 
+N.B. Voor wetenschappelijk onderzoek (waarmee onderzoek wordt bedoeld dat op 
+wetenschappelijke wijze is uitgevoerd) moet het Model Onderzoeksovereenkomst gebruikt 
+worden. 
+ 
+8.1 Het onderzoeksmateriaal kan nuttig zijn voor Opdrachtgever. In dat geval kan 
+Opdrachtgever ervoor kiezen de eigendom daarvan te laten overdragen door de eerste optie 
+op te nemen in de Overeenkomst. Als Opdrachtgever geen belang heeft bij het materiaal kan 
+de eigendom daarvan bij Opdrachtnemer blijven en neemt Opdrachtgever de tweede optie 
+op. 
+ 
+Met onderzoeksmateriaal wordt het materiaal bedoeld dat de onderzoekers gebruiken ten 
+tijde van het doen van onderzoek. Voorbeelden zijn enquêteformulieren en 
+gespreksverslagen. Door onderzoeksbureaus op eigen kosten ontwikkelde formats of 
+software worden niet als onderzoeksmateriaal aangemerkt.    
+ 
+Pagina 7 van 9 
+ 
+Artikel 9 <OPTIONEEL> Einde van de Overeenkomst (exit) 
+ 
+9.1 Het kan zijn dat Opdrachtgever Opdrachtnemer nog nodig heeft in het kader van de 
+beëindiging van de Overeenkomst. Opdrachtgever zal bijvoorbeeld zelf diensten moeten 
+verrichten die Opdrachtgever dacht te hebben uitbesteed of een nieuwe opdrachtnemer in 
+staat moeten stellen die diensten te verrichten. Zowel Opdrachtgever als de nieuwe 
+opdrachtnemer hebben er belang bij dat de uitvoering van de diensten niet wordt belemmerd 
+als gevolg van gebrekkige medewerking van de oude Opdrachtnemer. Desgewenst kan de 
+exitregeling nader uitgewerkt worden in de Overeenkomst.  
+ 
+9.2 Bij een 'normale' beëindiging van de Overeenkomst vormt de medewerking van de 
+Opdrachtnemer onderdeel van de door Opdrachtgever te betalen prijs. Als de Overeenkomst 
+wegens een toerekenbare tekortkoming wordt ontbonden dan is die medewerking onderdeel 
+van de schadebeperkingsplicht en betaalt Opdrachtgever daarvoor niet.  
+ 
+9.3 en 9.4 
+Als er bij de uitvoering van de Overeenkomst gegevens van of voor Opdrachtgever worden 
+verwerkt kunnen de optionele bepalingen van artikelen 9.3 en 9.4 worden gebruikt. Deze 
+artikelleden zien niet op persoonsgegevens als daarvoor specifieke regels gelden op grond 
+van een separate verwerkersovereenkomst. 
+ 
+De artikelen 9.3 en 9.4 zien op verschillende categorieën gegevens: 
+- van Opdrachtgever ontvangen gegevens 
+- in opdracht van Opdrachtgever gegenereerde gegevens 
+- overige gegevens (denk aan bijvoorbeeld interviewverslagen die Opdrachtnemer heeft 
+opgesteld met het oog op het opleveren van een onderzoeksrapport). 
+ 
+In artikel 9.3 kan worden geregeld binnen hoeveel tijd na afloop van de Overeenkomst de 
+gegevens moeten worden terugbezorgd of gewist. Zo nodig kan aan het naleven van die 
+verplichting een boete worden verbonden. 
+ 
+In artikel 9.4 kan worden geregeld in welke vorm (bijvoorbeeld schriftelijk of elektronisch 
+met opgave van bestandsformaat) en op welke wijze (bijvoorbeeld per mail, persoonlijk 
+afleveren, per post) de gegevens moeten worden terugbezorgd. De tweede optie kan worden 
+gebruikt als Opdrachtgever bij het sluiten van de Overeenkomst al weet in welke vorm en op 
+welke wijze Opdrachtgever de gegevens terug wil krijgen. 
+ 
+ 
+Artikel 10 <OPTIONEEL> Overige Voorwaarden 
+ 
+Geheimhouding 
+10.1  Op het schenden van een geheimhoudingsverplichting kan een boete worden gezet. Hiervoor 
+kan bijvoorbeeld worden gekozen als er bij het uitvoeren van de Overeenkomst gevoelige 
+informatie wordt gedeeld met Opdrachtnemer (en diens Personeel). 
+Een boete moet een voldoende afschrikwekkend effect hebben. De hoogte van de boete 
+moet wel redelijk zijn. Voor het bepalen van de hoogte van de boete wordt aangeraden te 
+overleggen met de juridische afdeling. 
+ 
+ 
+ 
+Pagina 8 van 9 
+ 
+Aansprakelijkheid 
+10.2  In de ARVODI is de aansprakelijkheid standaard beperkt tot vier maal de hoogte van de 
+opdrachtwaarde per gebeurtenis, tot een maximum van € 3.000.000,- per gebeurtenis. 
+Daarnaast geldt ook de beperking van zes maal de hoogte van de opdrachtwaarde per 
+contractjaar of gedeelte van een jaar dat de Overeenkomst van kracht is, tot een maximum 
+van € 5.000.000,- per contractjaar of gedeelte van een jaar dat de Overeenkomst van kracht 
+is (zie artikel 19 lid 2 van de ARVODI). In bepaalde gevallen kan het gewenst zijn om een 
+andere aansprakelijkheidsbeperking op te nemen. Daarvoor kan deze optionele bepaling 
+gebruikt worden. 
+ 
+Let op: Het is af te raden om de aansprakelijkheid te beperken tot soorten schade, 
+bijvoorbeeld directe schade (en indirecte schade uit te sluiten). In de wet is namelijk niet 
+geregeld wat onder directe of indirecte schade moet worden verstaan en bovendien is de 
+aansprakelijkheid in de ARVODI zelf al beperkt. Ook beperking tot de opdrachtsom is sterk af 
+te raden. De waarde van de opdracht is namelijk meestal veel lager dan de hoogte van een 
+eventuele schade, waardoor dan een groot deel van de schade niet vergoed wordt. Als er een 
+wens bestaat af te wijken van de ARVODI wordt aangeraden advies in te winnen van de 
+juridische afdeling.  
+ 
+Verzekering 
+10.3  In deze bepaling kan een afwijking op de vrij algemene verzekeringsbepaling van de ARVODI 
+worden opgenomen en kan specifiek worden aangegeven waarvoor Opdrachtnemer zich 
+moet verzekeren.  
+ 
+Vrijwaring  
+10.4  Er kunnen redenen zijn om een vrijwaring op te nemen in de Overeenkomst. Een vrijwaring 
+houdt in dat de Opdrachtnemer de Opdrachtgever beschermt tegen claims van derden; 
+Opdrachtnemer neemt die als het ware over. Opdrachtnemer zorgt er dan voor dat verweer 
+wordt gevoerd tegen de claim en draagt daarbij alle kosten. Omdat dit veel impact heeft op 
+het ondernemersrisico van Opdrachtnemer en invloed kan hebben op de verzekerbaarheid, 
+moet deze optionele bepaling alleen in uitzonderingsgevallen en na overleg met de juridische 
+afdeling worden opgenomen. 
+ 
+Discriminatie 
+10.5 De Rijksoverheid wil discriminatie op de arbeidsmarkt tegengaan. Daarom is in het Model 
+een optionele bepaling opgenomen op grond waarvan Opdrachtgever de mogelijkheid heeft 
+de Overeenkomst te beëindigen als Opdrachtnemer, of diens Personeel met een 
+leidinggevende en beslissingsbevoegde positie, onherroepelijk strafrechtelijk is veroordeeld 
+voor discriminatie. Op grond van de Aanbestedingswet 2012 en de Gids Proportionaliteit kan 
+deze bepaling alleen worden opgenomen als dit in het licht van de aard van de overeenkomst 
+proportioneel is. Daarvoor moet worden beoordeeld of de bepaling in redelijke verhouding 
+staat tot het voorwerp van de opdracht. Bij dienstverleningsovereenkomsten waarbij 
+arbeidsrelaties aan de orde zijn (zoals bijvoorbeeld uitzendovereenkomsten, andere 
+overeenkomsten voor het beschikbaar stellen van personeel, of overeenkomsten op het 
+terrein van facilitaire dienstverlening) is dat meestal het geval en is het redelijk deze 
+optionele bepaling in de Overeenkomst op te nemen. Bij andere overeenkomsten zal dat 
+meestal niet het geval zijn en wordt de optionele bepaling niet opgenomen. 
+ 
+ 
+ 
+Pagina 9 van 9 
+ 
+Dienstverlening door zzp’ers 
+10.6 en 10.7  
+Als het Model wordt gebruikt voor dienstverlening door een zzp’er rust op Opdrachtgever de 
+verplichting om vast te stellen of de contractuele relatie die partijen aangaan kwalificeert als 
+een dienstbetrekking. Is dat het geval, dan moet Opdrachtgever loonheffingen inhouden op 
+het loon van de zzp’er en deze afdragen aan de Belastingdienst, zoals dat ook gebeurt met 
+personeel dat werkt op basis van een vaste of tijdelijke aanstelling.  
+In verband met de dienstverlening door zzp’ers worden nog nieuwe modelbepalingen 
+opgesteld. Tot die tijd kunnen de optionele artikelen 10.6 en 10.7 worden opgenomen in de 
+Overeenkomst, als er sprake is van vrije vervangbaarheid.  
+ 
+Algemene afwijkingsbepaling 
+10.8 Dit lid geeft een algemene afwijkingsbepaling en moet alleen bij uitzondering gebruikt 
+worden. Het Rijk wil zoveel mogelijk op dezelfde manier contracteren. Uitgangspunt is 
+daarom dat er geen andere wijzigingen toegepast worden dan in het Model als alternatief of 
+optioneel zijn aangeboden. Als er in uitzonderlijke gevallen toch behoefte bestaat om af te 
+wijken van het Model, wordt aangeraden hierover eerst te overleggen met de juridische 
+afdeling.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Colofon 
+Deze instructie is opgesteld onder verantwoordelijkheid van de Commissie Bedrijfsjuridisch Advies (CBA) van de 
+Rijksoverheid.  
+Nadere inlichtingen kunnen ingewonnen worden bij het secretariaat van de CBA (contactgegevens op 
+Rijksportaal). 
+ 
+Uitgegeven maart 2025
+
+=== Document: arvodi-2025 ===
+Pagina 1 van 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALGEMENE RIJKSVOORWAARDEN  
+VOOR HET VERSTREKKEN VAN OPDRACHTEN  
+TOT HET UITVOEREN VAN DIENSTEN 2025 
+(ARVODI-2025) 
+ 
+ 
+ 
+ 
+ 
+ 
+Vastgesteld bij besluit van 
+de Minister-president, 
+Minister van Algemene Zaken, 
+van 17 maart 2025, nr. 4446866 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Rijksoverheid 
+Pagina 2 van 12 
+ 
+Artikel 1 Begrippen 
+ 
+In deze algemene voorwaarden worden de volgende begrippen met een beginhoofdletter 
+gebruikt. Onder deze begrippen wordt verstaan: 
+1.1 Bijlage: een aanhangsel bij de Overeenkomst dat daar onderdeel van uitmaakt. 
+1.2 Diensten: de door Opdrachtnemer op basis van de Overeenkomst ten behoeve van 
+Opdrachtgever te verrichten werkzaamheden. 
+1.3 Meerwerk: niet in de Overeenkomst begrepen werkzaamheden die leiden tot extra 
+kosten. 
+1.4 Opdrachtgever: de Staat der Nederlanden of elke andere opdrachtgever die van deze 
+algemene voorwaarden gebruik maakt.  
+1.5 Opdrachtnemer: de wederpartij van Opdrachtgever.  
+1.6 Overeenkomst: de overeenkomst tussen Opdrachtgever en Opdrachtnemer waarvan 
+de Voorwaarden onderdeel uitmaken. 
+1.7 Partij: Opdrachtgever of Opdrachtnemer, afhankelijk van de context.  
+1.8 Partijen: Opdrachtgever en Opdrachtnemer. 
+1.9 Personeel: de door Partijen bij het uitvoeren van de Diensten in te schakelen 
+hulppersonen, waaronder mede begrepen ondergeschikten en onderaannemers. 
+1.10 Voorwaarden: deze algemene voorwaarden.  
+1.11 Werkdag: kalenderdag, met uitzondering van zaterdagen en zondagen en algemeen 
+erkende feestdagen in de zin van artikel 3 lid 1 van de Algemene termijnenwet. 
+ 
+Artikel 2 Toepassing 
+ 
+2.1 Wijzigingen van of aanvulling op de Overeenkomst of afwijkingen van de Voorwaarden 
+zijn alleen bindend als deze uitdrukkelijk schriftelijk of per e-mail tussen Partijen zijn 
+overeengekomen.  
+2.2 Als sprake is van strijdigheid tussen de Nederlandse tekst van deze Voorwaarden en 
+vertalingen daarvan, gaat de Nederlandse tekst steeds voor. 
+ 
+Artikel 3 Eisen aan de Diensten 
+ 
+De uit te voeren Diensten moeten voldoen aan de in de Overeenkomst vastgelegde eisen, 
+zijn geschikt voor het beoogd gebruik zoals dat uit de Overeenkomst voortvloeit en moeten 
+op vakbekwame wijze worden uitgevoerd.  
+ 
+Artikel 4 Vervanging personen die belast zijn met het uitvoeren van de Diensten 
+ 
+4.1 Opdrachtnemer kan een persoon die is belast met het uitvoeren van de Diensten 
+alleen bij uitzondering en na voorafgaande toestemming van Opdrachtgever tijdelijk of 
+definitief vervangen. Opdrachtgever weigert deze toestemming niet op onredelijke 
+gronden en kan hieraan voorwaarden verbinden. Opdrachtnemer rekent voor de 
+vervanger geen hoger tarief.  
+4.2 Als Opdrachtgever verzoekt een persoon die is belast met het uitvoeren van de 
+Diensten te vervangen omdat Opdrachtgever vindt dat dit in het belang van een goede 
+uitvoering van de Diensten nodig of wenselijk is, vervangt Opdrachtnemer deze 
+persoon zo spoedig mogelijk, tenzij dat van Opdrachtnemer redelijkerwijs niet kan 
+worden verlangd. Opdrachtnemer rekent voor de vervanger geen hoger tarief. 
+4.3 Bij het vervangen van een persoon die is belast met het uitvoeren van de Diensten 
+Pagina 3 van 12 
+ 
+stelt Opdrachtnemer een persoon beschikbaar die qua deskundigheid, opleiding en 
+ervaring ten minste gelijkwaardig is aan de te vervangen persoon of die voldoet aan 
+wat Partijen zijn overeengekomen. 
+ 
+Artikel 5 Gebruik van zaken van Opdrachtgever  
+ 
+Partijen kunnen overeenkomen dat Opdrachtnemer bij het uitvoeren van de Diensten zaken 
+die eigendom zijn van Opdrachtgever in bruikleen krijgt. Aan deze bruikleen kan 
+Opdrachtgever voorwaarden verbinden. 
+ 
+Artikel 6 Onderaanneming 
+ 
+6.1 Opdrachtnemer kan voor het uitvoeren van de Diensten alleen na toestemming van 
+Opdrachtgever onderaannemers inschakelen of vervangen. Opdrachtgever weigert 
+deze toestemming niet op onredelijke gronden. Opdrachtgever kan hieraan 
+voorwaarden verbinden.  
+6.2 Als Opdrachtgever toestemming geeft voor het inschakelen of vervangen van 
+onderaannemers is en blijft Opdrachtnemer verantwoordelijk en aansprakelijk voor het 
+nakomen van verplichtingen uit de Overeenkomst en verplichtingen uit belasting- en 
+socialeverzekeringswetgeving. 
+ 
+Artikel 7 Voortgangsrapportage 
+ 
+Opdrachtnemer rapporteert over de voortgang van het uitvoeren van de Diensten aan 
+Opdrachtgever zo vaak en op de wijze als in de Overeenkomst is bepaald, en daarnaast als 
+Opdrachtgever daar om vraagt. 
+ 
+Artikel 8 Contactpersonen 
+ 
+8.1 Partijen wijzen elk een contactpersoon aan die het dagelijkse contact onderhoudt over 
+het uitvoeren van de Diensten. Partijen laten elkaar weten wie zij als contactpersoon 
+hebben aangewezen. 
+8.2 Contactpersonen kunnen Partijen alleen vertegenwoordigen en binden voor zover het 
+betreft het uitvoeren van de Diensten. Ze zijn niet bevoegd de Overeenkomst te 
+wijzigen. 
+  
+Artikel 9 Begeleidingscommissie of stuurgroep 
+ 
+Partijen kunnen in de Overeenkomst afspraken maken over de instelling van een 
+begeleidingscommissie of stuurgroep. Daarbij kunnen ook de taken en bevoegdheden, en de 
+samenstelling van de begeleidingscommissie of stuurgroep worden vastgelegd.    
+ 
+Artikel 10 Status van mededelingen, toezeggingen of afspraken 
+ 
+Mededelingen, toezeggingen of afspraken die van belang zijn voor de uitvoering van de 
+Overeenkomst binden Partijen alleen als deze schriftelijk of per e-mail door een daartoe 
+bevoegde persoon zijn gedaan of bevestigd. Onder ‘e-mail’ wordt verstaan elektronische 
+communicatie: 
+a. die raadpleegbaar is door de geadresseerde, 
+Pagina 4 van 12 
+ 
+b. waarvan de authenticiteit in voldoende mate is gewaarborgd, en 
+c. waarbij de identiteit van degene die de mededeling doet met voldoende zekerheid kan 
+worden vastgesteld.  
+In geval van afspraken moet bovendien het moment van het tot stand komen van de 
+afspraak met voldoende zekerheid kunnen worden vastgesteld. 
+ 
+Artikel 11 Geheimhouding 
+ 
+11.1 Partijen maken dat wat hen bij de uitvoering van de Overeenkomst ter kennis komt, 
+en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs kunnen 
+vermoeden, niet verder bekend, tenzij de wet, een toezichthouder met een wettelijke 
+taak of een uitspraak van de rechter verplicht tot het bekendmaken daarvan. Met een 
+uitspraak van de rechter wordt in dit verband gelijk gesteld een uitspraak van een 
+instantie die op grond van artikel 32.1 bevoegd is om het geschil te beslechten als 
+Partijen een andere vorm van geschillenbeslechting zijn overeengekomen.  
+11.2  Partijen verplichten hun Personeel om de in lid 1 opgenomen 
+geheimhoudingsverplichting na te komen. 
+11.3 Opdrachtnemer verleent op verzoek van Opdrachtgever medewerking aan het 
+uitoefenen van toezicht door of namens Opdrachtgever op de bewaring en het gebruik 
+van vertrouwelijke informatie door Opdrachtnemer. 
+11.4 Opdrachtnemer mag de resultaten van de Diensten in geen enkele vorm aan derden 
+beschikbaar stellen, en hierover aan derden ook geen mededelingen doen, tenzij 
+Opdrachtgever hiervoor voorafgaand uitdrukkelijk schriftelijk of per e-mail 
+toestemming heeft verleend. Opdrachtgever kan aan deze toestemming voorwaarden 
+verbinden. 
+11.5 Nadat de Overeenkomst is geëindigd stelt Opdrachtnemer gegevens die 
+Opdrachtnemer in het kader van de uitvoering van de Overeenkomst onder zich heeft 
+op eerste verzoek van Opdrachtgever zo spoedig mogelijk aan Opdrachtgever ter 
+beschikking. Dat geldt niet voor gegevens die Opdrachtnemer op grond van wet- of 
+regelgeving of de op Opdrachtnemer toepasselijke en algemeen aanvaarde 
+beroepsregels onder zich moet houden. 
+11.6 Opdrachtgever kan in de Overeenkomst een boete stellen op het schenden van de 
+geheimhoudingsverplichting. De boete is onmiddellijk opeisbaar. Opdrachtgever heeft 
+naast de boete recht op vergoeding van de schade die het gevolg is van de schending. 
+ 
+Artikel 12 Verwerking gegevens 
+ 
+12.1 Onverminderd het bepaalde in dit artikel, gebruikt Opdrachtnemer de door 
+Opdrachtgever verstrekte, en de op basis daarvan in opdracht van Opdrachtgever 
+gegenereerde gegevens alleen voor het uitvoeren van de Diensten en voor zover dit 
+gebruik noodzakelijk en proportioneel is voor deze Diensten, tenzij er sprake is van 
+andersluidende wettelijke voorschriften. 
+12.2 Als Opdrachtnemer in het kader van de uitvoering van de Overeenkomst 
+persoonsgegevens verwerkt ten behoeve van Opdrachtgever houdt Opdrachtnemer 
+zich aan de geldende wet- en regelgeving op het terrein van het beschermen van 
+persoonsgegevens. Opdrachtnemer verwerkt persoonsgegevens alleen in opdracht en 
+op basis van schriftelijke instructies van Opdrachtgever, tenzij er sprake is van 
+andersluidende wettelijke voorschriften. 
+Pagina 5 van 12 
+ 
+12.3 Partijen regelen de verwerking van persoonsgegevens door Opdrachtnemer ten 
+behoeve van Opdrachtgever bij overeenkomst. 
+12.4 Partijen betrekken elkaar tijdig bij het voeren van verweer tegen aanspraken van 
+derden in verband met de verwerking van persoonsgegevens in het kader van de 
+uitvoering van de Overeenkomst. 
+ 
+Artikel 13 Beveiliging 
+ 
+13.1 Als de Diensten op de locatie van Opdrachtgever worden uitgevoerd, draagt 
+Opdrachtnemer diens Personeel op de door Opdrachtgever aangegeven 
+beveiligingsprocedures en huisregels in acht te nemen. Opdrachtgever informeert 
+Opdrachtnemer tijdig over deze procedures en regels. 
+13.2 Als Opdrachtgever daarom verzoekt, zal Opdrachtnemer uiterlijk drie Werkdagen voor 
+aanvang van de Diensten bij Opdrachtgever verklaringen omtrent het gedrag van het 
+Personeel van Opdrachtnemer verstrekken. 
+13.3 Opdrachtgever kan Personeel van Opdrachtnemer onderwerpen aan een 
+veiligheidsonderzoek volgens de bij Opdrachtgever gebruikelijke regels. 
+Opdrachtnemer verleent volledige medewerking aan dit onderzoek. Opdrachtgever kan 
+op grond van de uitkomsten van een dergelijk veiligheidsonderzoek of bij weigering 
+van Personeel van Opdrachtnemer om aan een dergelijk veiligheidsonderzoek mee te 
+werken, de inzet van de betrokken persoon bij de uitvoering van de Overeenkomst 
+weigeren. 
+ 
+Artikel 14 Vergoeding, Meerwerk en minderwerk 
+ 
+14.1 Opdrachtgever vergoedt aan Opdrachtnemer de werkelijk door Opdrachtnemer 
+gemaakte kosten en uren, tenzij Partijen in de Overeenkomst een vaste prijs zijn 
+overeengekomen. In dat laatste geval betaalt Opdrachtgever deze vaste prijs. 
+14.2 Meerwerk wordt zo spoedig mogelijk aan Opdrachtgever gemeld en komt pas voor 
+vergoeding in aanmerking nadat Opdrachtgever hiermee schriftelijk of per e-mail heeft 
+ingestemd. Onder Meerwerk vallen niet werkzaamheden die niet in de Overeenkomst 
+zijn opgenomen die Opdrachtnemer bij het sluiten van de Overeenkomst had moeten 
+voorzien.  
+14.3 Opdrachtnemer kan door Opdrachtgever gewenst Meerwerk tot 10% van de 
+oorspronkelijke opdracht niet weigeren. Opdrachtnemer brengt voor het Meerwerk 
+schriftelijk of per e-mail een offerte uit waarin de omvang van het verwachte 
+Meerwerk en de daaraan verbonden tijdsduur en kosten zijn vermeld. Op het door 
+Opdrachtnemer te verrichten Meerwerk zijn de bepalingen van de Overeenkomst, 
+waaronder de tarieven en eventuele kortingen, van toepassing, tenzij Partijen daar 
+andere afspraken over maken.  
+14.4 Als een Partij van mening is dat er sprake is van minderwerk, meldt deze Partij dat zo 
+spoedig mogelijk aan de andere Partij. Partijen stellen vervolgens gezamenlijk 
+schriftelijk of per e-mail vast welke werkzaamheden niet worden uitgevoerd door 
+Opdrachtnemer en welke gevolgen dat heeft voor de overeengekomen vergoeding.  
+ 
+Artikel 15 Facturering 
+ 
+15.1 Opdrachtnemer factureert alleen elektronisch met een e-factuur op de in de 
+Overeenkomst voorgeschreven wijze en met inachtneming van de door Opdrachtgever 
+Pagina 6 van 12 
+ 
+gegeven specificaties, zodat deze door Opdrachtgever elektronisch kan worden 
+ontvangen en verwerkt. 
+15.2 Een factuur die niet aan alle eisen voldoet of niet alle relevante informatie bevat, hoeft 
+door Opdrachtgever niet te worden betaald. De betalingstermijn bedoeld in artikel 16 
+begint in dat geval dan ook niet te lopen. Opdrachtgever vraagt aan Opdrachtnemer 
+een nieuwe factuur die wel voldoet aan de eisen en wel alle relevante informatie bevat. 
+15.3 Als is overeengekomen dat betaling op basis van nacalculatie plaatsvindt, vermeldt 
+Opdrachtnemer in de factuur het aantal en de datums van de werkelijk bestede 
+kalenderdagen of uren. Opdrachtnemer geeft daarbij een korte omschrijving van de 
+verrichte werkzaamheden en van eventuele reis- en verblijfkosten voor zover die op 
+basis van de Overeenkomst in rekening mogen worden gebracht.  
+15.4 Opdrachtnemer factureert Meerwerk apart. De factuur moet voldoen aan het bepaalde 
+in de Overeenkomst. 
+ 
+Artikel 16 Betaling en controle 
+ 
+16.1 Opdrachtgever betaalt de factuur binnen 30 kalenderdagen na de dag van ontvangst 
+ervan, mits de Diensten en de factuur voldoen aan de Overeenkomst.  
+16.2 Als Opdrachtgever een factuur zonder geldige reden niet binnen 30 kalenderdagen na 
+ontvangst heeft voldaan, is Opdrachtgever van rechtswege verschuldigd:  
+a.  een kostenvergoeding als bedoeld in artikel 6:96 lid 4 van het Burgerlijk 
+Wetboek en 
+b.  de wettelijke rente als bedoeld in artikel 6:119b lid 1 van het Burgerlijk 
+Wetboek.  
+Opdrachtnemer factureert de kosten- en rentevergoeding apart. 
+16.3 Opdrachtgever kan de juistheid en volledigheid van een factuur laten controleren door 
+een door Opdrachtgever aan te wijzen accountant als bedoeld in artikel 2:393 lid 1 van 
+het Burgerlijk Wetboek. Opdrachtnemer geeft de betrokken accountant inzage in 
+boeken en bescheiden en verstrekt de accountant alle gegevens en informatie die de 
+accountant verlangt. De controle is vertrouwelijk en gaat niet verder dan voor het 
+controleren van de factuur is vereist. Opdrachtgever draagt de kosten van het 
+accountantsonderzoek, tenzij uit het onderzoek van de accountant blijkt dat de factuur 
+niet juist of onvolledig is. In dat geval vergoedt Opdrachtnemer de kosten van de 
+accountant. 
+16.4 Opdrachtgever kan de betaling van een factuur of een deel daarvan waarover tussen 
+Partijen geen overeenstemming bestaat opschorten zolang het accountantsonderzoek 
+loopt. Opdrachtgever doet dit alleen als bij Opdrachtgever redelijke twijfel bestaat over 
+de juistheid of volledigheid van de desbetreffende factuur. 
+16.5 In geval van: 
+a. overschrijding van een betalingstermijn door Opdrachtgever, of   
+b. (gedeeltelijke) niet-betaling door Opdrachtgever van een factuur omdat deze 
+van mening is dat de factuur onjuist of onvolledig is of de Diensten niet voldoen 
+aan de Overeenkomst,  
+schort Opdrachtnemer de werkzaamheden niet op en beëindigt deze de Overeenkomst 
+niet.  
+ 
+Artikel 17 Voorschot 
+ 
+17.1 Als Opdrachtgever voor het uitvoeren van de Diensten een voorschot betaalt voor 
+Pagina 7 van 12 
+ 
+Diensten die nog niet zijn geleverd, kan Opdrachtgever verlangen dat Opdrachtnemer 
+voorafgaand aan die betaling(en) een kredietinstellingsgarantie op afroep aan 
+Opdrachtgever laat afgeven ter waarde van het voorschot. De kosten van de garantie 
+komen voor rekening van Opdrachtnemer.  
+17.2 De kredietinstellingsgarantie op afroep wordt in overeenstemming met de Regeling 
+financieel beheer van het Rijk afgegeven met gebruikmaking van het bij de 
+Overeenkomst gevoegde model. Na het uitvoeren van de Diensten ontvangt 
+Opdrachtnemer het document waarin de garantie is vastgelegd terug. 
+ 
+Artikel 18 Dreigende vertraging 
+ 
+18.1 Als er vertraging dreigt in het uitvoeren van de Diensten meldt Opdrachtnemer dat 
+onmiddellijk aan Opdrachtgever en vermeldt daarbij de oorzaak en de consequenties 
+daarvan. Opdrachtnemer neemt daarnaast maatregelen om (verdere) vertraging te 
+voorkomen.  
+18.2 Opdrachtgever laat Opdrachtnemer zo snel mogelijk na ontvangst van de in lid 1 
+bedoelde melding weten of Opdrachtgever instemt met de voorgestelde maatregelen 
+en de genoemde gevolgen. Als Opdrachtgever instemt houdt dat niet in dat 
+Opdrachtgever de oorzaak van de dreigende vertraging erkent en doet dat niet af aan 
+rechten of vorderingen die Opdrachtgever op grond van de Overeenkomst en wet- en 
+regelgeving toekomen. 
+ 
+Artikel 19 Aansprakelijkheid  
+ 
+19.1 Als een Partij tekortschiet in de nakoming van diens verplichting(en) uit de 
+Overeenkomst, kan de andere Partij deze nalatige Partij schriftelijk of per e-mail in 
+gebreke stellen. Een ingebrekestelling is niet nodig als de nalatige Partij al op een 
+andere wettelijke grond in verzuim verkeert. In de ingebrekestelling wordt een 
+redelijke termijn vermeld waarbinnen de nalatige Partij alsnog de verplichtingen moet 
+nakomen. Dit is een fatale termijn. Dat betekent dat als de nalatige Partij niet alsnog 
+binnen deze termijn nakomt, deze Partij direct in verzuim is.  
+19.2 Tenzij Partijen anders zijn overeengekomen, is de Partij die toerekenbaar tekortschiet 
+in de nakoming van diens verplichtingen tegenover de andere Partij aansprakelijk voor 
+de door de andere Partij geleden en te lijden schade, waarbij de aansprakelijkheid is 
+beperkt tot maximaal vier maal de hoogte van de opdrachtwaarde per gebeurtenis en 
+zes maal de hoogte van de opdrachtwaarde per contractjaar of gedeelte van een jaar 
+dat de Overeenkomst van kracht is, tot een maximum van € 3.000.000,- per 
+gebeurtenis en € 5.000.000,- per contractjaar of gedeelte van een jaar dat de 
+Overeenkomst van kracht is.  
+ Samenhangende gebeurtenissen worden daarbij aangemerkt als één gebeurtenis. 
+19.3 De in lid 2 opgenomen beperking van de aansprakelijkheid komt te vervallen: 
+a. in geval van aanspraken op schadevergoeding als gevolg van dood of letsel;   
+b. als sprake is van opzet of grove schuld aan de zijde van de Partij die tekortschiet 
+of aan de zijde van diens Personeel;   
+c. in geval van schending van intellectuele eigendomsrechten als bedoeld in artikel 
+23; 
+d. in geval van aanspraken op schadevergoeding als gevolg van schending van 
+wet- en regelgeving op het terrein van de bescherming van persoonsgegevens of 
+handelen in strijd met de rechtmatige instructies van de 
+Pagina 8 van 12 
+ 
+verwerkingsverantwoordelijke. Onder schade wordt mede begrepen een door de 
+toezichthoudende autoriteit opgelegde boete. 
+19.4 Als Opdrachtnemer voor het uitvoeren van de Diensten gebruik maakt van zaken als 
+bedoeld in artikel 5 die eigendom zijn van Opdrachtgever, is Opdrachtnemer 
+aansprakelijk voor schade die aan deze zaken ontstaat tijdens de gebruiksduur. Het 
+bepaalde in lid 2 en 3 is van overeenkomstige toepassing.  
+19.5 Als Opdrachtnemer of derden schade lijden als gevolg van het gebruik van zaken van 
+Opdrachtgever als bedoeld in artikel 5, is deze schade geheel voor rekening en risico 
+van Opdrachtnemer.  
+19.6 Alle verplichtingen met betrekking tot het Personeel van Opdrachtnemer, ook die 
+krachtens de belasting- en sociale verzekeringswetgeving, komen ten laste van 
+Opdrachtnemer. Opdrachtnemer vrijwaart Opdrachtgever tegen elke aansprakelijkheid 
+in dit verband. De aansprakelijkheidsbeperking zoals genoemd in lid 2 is niet van 
+toepassing. 
+ 
+Artikel 20 Overmacht 
+ 
+20.1 Een tekortkoming in de nakoming van de Overeenkomst die niet te wijten is aan 
+schuld van een Partij en ook niet krachtens de wet, een rechtshandeling of in het 
+maatschappelijk rechtsverkeer geldende opvatting voor rekening van die Partij komt 
+levert overmacht op. 
+20.2 Onder overmacht aan de zijde van Opdrachtnemer wordt in ieder geval niet verstaan: 
+gebrek aan personeel, stakingen, ziekte van Personeel, verlate aanlevering of 
+ongeschiktheid van voor het uitvoeren van de Diensten benodigde goederen, 
+liquiditeits- of solvabiliteitsproblemen aan de zijde van Opdrachtnemer of 
+tekortschieten van het Personeel van Opdrachtnemer. 
+20.3 Als Opdrachtnemer in verband met de overmachtsituatie aanspraak kan maken op 
+enig voordeel dat Opdrachtnemer bij behoorlijke nakoming niet zou hebben gehad, 
+vergoedt Opdrachtnemer de schade die Opdrachtgever als gevolg van die 
+tekortkoming lijdt tot maximaal de waarde van dat voordeel. Het bepaalde in artikel 
+19 lid 2 is daarbij van toepassing. 
+ 
+Artikel 21 Ontbinding en opzegging  
+ 
+21.1 Elke Partij kan in geval van een tekortkoming aan de zijde van de andere Partij de 
+Overeenkomst buiten rechte geheel of gedeeltelijk schriftelijk of per e-mail ontbinden, 
+tenzij de tekortkoming, gezien haar bijzondere aard of geringe betekenis, deze 
+ontbinding met haar gevolgen niet rechtvaardigt. Voor zover nakoming niet blijvend of 
+tijdelijk onmogelijk is, kan pas worden ontbonden wanneer de schuldenaar in verzuim 
+is.  
+21.2 In geval van overmacht aan de zijde van een van de Partijen als bedoeld in artikel 20, 
+gaat de andere Partij niet eerder tot ontbinding over dan na het verstrijken van een 
+termijn van 15 Werkdagen gerekend vanaf de datum waarop de omstandigheid die de 
+overmacht oplevert ontstond. 
+21.3 Opdrachtgever kan zonder voorafgaande aanmaning of ingebrekestelling met 
+onmiddellijke ingang buiten rechte de Overeenkomst schriftelijk of per e-mail ont-
+binden, als: 
+a. Opdrachtnemer (voorlopige) surseance van betaling aanvraagt of 
+Opdrachtnemer (voorlopige) surseance van betaling wordt verleend, 
+Pagina 9 van 12 
+ 
+b. Opdrachtnemer faillissement aanvraagt of in staat van faillissement wordt 
+verklaard, 
+c. de onderneming van Opdrachtnemer wordt ontbonden, Opdrachtnemer diens 
+onderneming staakt, of sprake is van een ingrijpende wijziging in de 
+zeggenschap over de activiteiten van de onderneming van Opdrachtnemer, 
+waaronder een fusie of splitsing, 
+d. op een aanmerkelijk deel van het vermogen van Opdrachtnemer beslag wordt 
+gelegd, of 
+e. Opdrachtnemer door andere omstandigheden niet langer in staat wordt geacht 
+de verplichtingen uit de Overeenkomst na te kunnen komen.  
+  Opdrachtgever hoeft in al die gevallen geen schadevergoeding te betalen. Deze 
+bevoegdheid geldt ook als zich gedurende de looptijd van de Overeenkomst verplichte 
+uitsluitingsgronden voordoen als bedoeld in de aanbestedingswet- en regelgeving. Dit 
+geldt ook als er facultatieve uitsluitingsgronden in de aanbestedingsstukken van 
+toepassing zijn verklaard. 
+21.4 Opdrachtgever kan op elk moment tijdens de looptijd de Overeenkomst schriftelijk of 
+per e-mail opzeggen, eventueel met onmiddellijke ingang. Opdrachtnemer heeft in dat 
+geval recht op vergoeding van de al verrichte werkzaamheden en de in redelijkheid 
+gemaakte kosten. Daarnaast heeft Opdrachtnemer recht op vergoeding van de 
+toekomstige verplichtingen die Opdrachtnemer voor het uitvoeren van de Diensten in 
+redelijkheid is aangegaan. Opdrachtnemer heeft geen recht op schadevergoeding 
+(waaronder gederfde winst) in verband met de opzegging van de Overeenkomst. 
+ 
+Artikel 22 Behoud recht nakoming te vorderen 
+ 
+Als een Partij nalaat om binnen een in de Overeenkomst genoemde termijn nakoming van 
+een bepaling te verlangen, houdt deze Partij het recht om alsnog nakoming te verlangen, 
+tenzij deze Partij uitdrukkelijk schriftelijk of per e-mail met de niet-nakoming heeft 
+ingestemd. 
+ 
+Artikel 23 Intellectuele eigendomsrechten 
+ 
+23.1 Tenzij Partijen daarover andere afspraken maken komen alle auteursrechten en 
+databankrechten op de resultaten van de Diensten toe aan Opdrachtgever. 
+Opdrachtnemer draagt deze rechten op het moment van het ontstaan daarvan over 
+aan Opdrachtgever, welke overdracht Opdrachtgever bij voorbaat aanvaardt.  
+23.2 Als de resultaten van de Diensten (mede) tot stand komen door gebruik te maken van 
+al bestaande intellectuele eigendomsrechten, verleent Opdrachtnemer aan 
+Opdrachtgever een niet-exclusief, niet-opzegbaar gebruiksrecht voor onbepaalde tijd 
+om onder meer de resultaten van de Diensten openbaar te (laten) maken en te (laten) 
+verveelvoudigen. Opdrachtnemer garandeert in dat geval dat Opdrachtnemer dit 
+gebruiksrecht kan verlenen. 
+23.3 Als voor de overdracht van de in lid 1 bedoelde intellectuele eigendomsrechten op enig 
+moment een nadere akte nodig is, machtigt Opdrachtnemer Opdrachtgever bij 
+voorbaat om zo’n akte op te maken en mede namens Opdrachtnemer te 
+ondertekenen. Opdrachtnemer zal daarbij op eerste verzoek van Opdrachtgever aan 
+de overdracht van deze rechten en inschrijving in de daartoe bestemde registers 
+medewerking verlenen, en kan daarbij geen voorwaarden stellen. 
+23.4 Als Partijen van mening verschillen over de in lid 1 bedoelde intellectuele 
+Pagina 10 van 12 
+ 
+eigendomsrechten wordt, behoudens tegenbewijs, ervan uitgegaan dat die rechten aan 
+Opdrachtgever toekomen. In alle gevallen mag Opdrachtgever het bij de 
+Overeenkomst beoogde gebruik van de resultaten van de Diensten blijven maken. 
+23.5 Opdrachtnemer doet hierbij, mede namens diens Personeel, afstand van alle eventueel 
+aan Opdrachtnemer toekomende persoonlijkheidsrechten als bedoeld in artikel 25 lid 
+1, sub a t/m c Auteurswet, voor zover de Auteurswet afstand toelaat. Opdrachtnemer 
+garandeert Opdrachtgever bevoegd te zijn om deze afstand mede namens diens 
+Personeel te doen. 
+23.6 Opdrachtnemer vrijwaart Opdrachtgever tegen aanspraken van derden in verband met 
+een (gestelde) inbreuk op intellectuele eigendomsrechten van die derden, met inbegrip 
+van persoonlijkheidsrechten als bedoeld in artikel 25 lid 1 van de Auteurswet, 
+vergelijkbare aanspraken met betrekking tot kennis, ongeoorloofde mededinging en 
+dergelijke daaronder begrepen. Opdrachtnemer neemt op eerste verzoek van 
+Opdrachtgever de verdediging op zich in iedere procedure die in verband met de 
+Diensten tegen Opdrachtgever wordt ingesteld wegens inbreuk op de intellectuele 
+eigendomsrechten van een derde. Opdrachtgever zal Opdrachtnemer zo spoedig 
+mogelijk van een dergelijke actie in kennis stellen en aan Opdrachtnemer de 
+noodzakelijke volmachten en hulp verstrekken. Opdrachtnemer vrijwaart 
+Opdrachtgever ook tegen alle schade en kosten waartoe Opdrachtgever in een 
+dergelijke procedure wordt veroordeeld, en tegen de kosten van die procedure zelf, 
+waaronder de kosten die verband houden met het inwinnen van juridisch advies. 
+23.7 Als derden Opdrachtgever in verband met een schending van intellectuele 
+eigendomsrechten aansprakelijk stellen, kan Opdrachtgever de Overeenkomst 
+schriftelijk of per e-mail buiten rechte geheel of gedeeltelijk ontbinden. Dit doet niet af 
+aan de andere rechten die Opdrachtgever heeft, waaronder het recht op 
+schadevergoeding. Opdrachtgever ontbindt de Overeenkomst pas nadat 
+Opdrachtgever hierover overleg heeft gevoerd met Opdrachtnemer. 
+23.8 Als Opdrachtnemer andere intellectuele eigendomsrechten op de resultaten van de 
+Diensten verkrijgt dan die genoemd in lid 1, dan kunnen deze rechten nooit aan 
+Opdrachtgever worden tegengeworpen en verstrekt Opdrachtnemer aan 
+Opdrachtgever kosteloos een niet-exclusief, niet opzegbaar gebruiksrecht voor 
+onbepaalde tijd om onder meer de resultaten van de Diensten openbaar te (laten) 
+maken en te (laten) verveelvoudigen. 
+ 
+Artikel 24 Overdracht rechten en verplichtingen uit de Overeenkomst 
+ 
+24.1 Partijen mogen de uit de Overeenkomst voortvloeiende rechten en verplichtingen niet 
+aan een derde overdragen zonder voorafgaande schriftelijke of per e-mail gegeven 
+toestemming van de andere Partij. Toestemming wordt niet zonder redelijke grond 
+geweigerd. Partijen kunnen aan de toestemming voorwaarden verbinden. 
+24.2 Het eerste lid geldt niet ten aanzien van het vestigen van beperkte rechten, zoals een 
+pandrecht.  
+ 
+Artikel 25 Verzekering 
+ 
+25.1 Opdrachtnemer heeft en houdt zich op een naar verkeersnormen passende en 
+gebruikelijke wijze verzekerd.  
+25.2 Opdrachtnemer verstrekt op verzoek van Opdrachtgever zo spoedig mogelijk een 
+verklaring van de verzekeraar waarin deze verklaart welke verzekeringen zijn 
+Pagina 11 van 12 
+ 
+afgesloten en dat de premies zijn betaald.  
+25.3 De door Opdrachtnemer verschuldigde verzekeringspremies zijn inbegrepen in de 
+overeengekomen prijzen en tarieven. 
+ 
+Artikel 26 Arbeidsvoorwaarden 
+ 
+26.1 Opdrachtnemer houdt zich bij het uitvoeren van de Diensten aan de geldende wet- en 
+regelgeving op het gebied van arbeidsvoorwaarden en aan de collectieve 
+arbeidsovereenkomst (cao) die op Opdrachtnemer en diens werknemers van 
+toepassing is. 
+26.2 Opdrachtnemer legt alle arbeidsvoorwaardelijke afspraken ten behoeve van het 
+uitvoeren van de Diensten op een inzichtelijke en toegankelijke wijze vast. 
+26.3 Als bevoegde instanties daarom verzoeken, geeft Opdrachtnemer zo spoedig mogelijk 
+toegang tot de in lid 2 genoemde arbeidsvoorwaardelijke afspraken en daarnaast 
+werkt Opdrachtnemer mee aan controles, audits of loonvalidatie. 
+26.4 Als Opdrachtgever dit noodzakelijk vindt in verband met het voorkomen van of de 
+behandeling van een loonvordering met betrekking tot verrichte arbeid ten behoeve 
+van het uitvoeren van de Diensten, geeft Opdrachtnemer zo spoedig mogelijk toegang 
+tot de in lid 2 genoemde arbeidsvoorwaardelijke afspraken. 
+26.5 Opdrachtnemer legt de verplichtingen die voortvloeien uit de vorige artikelleden 
+onverkort op aan alle partijen waarmee Opdrachtnemer contracten aangaat ten 
+behoeve van het uitvoeren van de Diensten. Opdrachtnemer bedingt daarnaast dat 
+deze partijen die verplichtingen onverkort opleggen aan alle partijen met wie zij op 
+hun beurt contracten aangaan ten behoeve van het uitvoeren van de Diensten. 
+ 
+Artikel 27 Omkoping en belangenverstrengeling 
+ 
+27.1 Partijen zullen geen schenking, beloning, compensatie of voordeel van welke aard dan 
+ook aan elkaar of derden doen die uitgelegd kan worden als een onwettige praktijk. Als 
+blijkt dat hiervan sprake is, kan de andere Partij de Overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang buiten rechte geheel of gedeeltelijk 
+schriftelijk of per e-mail ontbinden zonder tot enige schadevergoeding te zijn 
+gehouden. 
+27.2 Als blijkt dat een lid van het Personeel van Opdrachtgever een al dan niet betaalde 
+nevenfunctie vervult bij Opdrachtnemer of ten tijde van de aanbesteding of de 
+onderhandelingen over de totstandkoming van de Overeenkomst heeft vervuld, zonder 
+dat Opdrachtgever daarover vóór het sluiten van de Overeenkomst door 
+Opdrachtnemer is ingelicht, kan Opdrachtgever de Overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang buiten rechte geheel of gedeeltelijk 
+schriftelijk of per e-mail ontbinden zonder tot enige schadevergoeding te zijn 
+gehouden. 
+ 
+Artikel 28 Nietige en vernietigde bepalingen 
+ 
+Als één of meer bepalingen van de Voorwaarden of de Overeenkomst nietig blijken te zijn of 
+door de rechter vernietigd worden, behouden de overige bepalingen van de Voorwaarden of 
+de Overeenkomst hun rechtskracht. Partijen zullen over de nietige of vernietigde bepalingen 
+overleg voeren om een vervangende regeling te treffen. De vervangende regeling tast het 
+doel en de strekking van de Voorwaarden of de Overeenkomst niet aan. 
+Pagina 12 van 12 
+ 
+Artikel 29 Vervolgopdracht 
+ 
+Opdrachtnemer kan aan de Overeenkomst geen enkel recht ontlenen voor het verkrijgen van 
+een vervolgopdracht. 
+ 
+Artikel 30 Melding in publicaties of reclame-uitingen 
+ 
+Opdrachtnemer maakt in publicaties (persberichten daaronder begrepen) of reclame-uitingen 
+geen impliciete of expliciete melding van de opdracht(verlening) en gebruikt de naam van 
+Opdrachtgever alleen als referentie met voorafgaande schriftelijke of per e-mail gegeven 
+toestemming van Opdrachtgever. 
+ 
+Artikel 31 Voortdurende bepalingen 
+ 
+Bepalingen die naar hun aard bestemd zijn om voort te duren blijven na afloop van de 
+Overeenkomst van kracht. Dit geldt in ieder geval voor de bepalingen met betrekking tot 
+eisen aan de Diensten (artikel 3), geheimhouding (artikel 11), aansprakelijkheid (artikel 19), 
+intellectuele eigendomsrechten (artikel 23), geschillen en toepasselijk recht (artikel 32). 
+ 
+Artikel 32 Geschillen en toepasselijk recht  
+ 
+32.1 Elk geschil tussen Partijen in verband met de Overeenkomst wordt bij uitsluiting 
+voorgelegd aan de daartoe bevoegde rechter in het arrondissement Den Haag, tenzij 
+Partijen alsnog een andere vorm van geschillenbeslechting overeenkomen. 
+32.2 Op de Overeenkomst is uitsluitend Nederlands recht van toepassing.

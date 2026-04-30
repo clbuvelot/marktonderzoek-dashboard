@@ -1,0 +1,1886 @@
+=== Document: nota van inlichtingen i 29102025 ===
+1
+2
+3
+4
+A B C D
+Ref. 
+Nr.
+Onderwerp Vraag Antwoord
+1 Bijlage F 
+Concernverklari
+ng/6.22 
+Aanbestedingsd
+ocument
+Ten aanzien van de concernverklaring van de holding/moederorganisatie 
+zijn wij een andere mening toegedaan. Een aansprakelijkheidsverklaring 
+van een concern/holding dient normaliter te worden meegegeven als de 
+inschrijver een beroep doet op de financiële draagkracht van een andere 
+partij en/of moedermaatschappij. Wij kunnen voor dit project geheel 
+zelfstandig voldoen aan de eisen opgenomen in het en doen op geen enkel 
+vlak een beroep op de holding. Zo hebben wij onze eigen jaarrekening en 
+eigen, op eigen naam zelfstandige verzekeringen. Zodoende zien wij uw eis 
+als niet proportioneel en gelijkwaardig – mede gelet op de beginselen van 
+en uit Aanbestedingswet – in vergelijking met de eisen die worden gesteld 
+aan inschrijvers die geen ‘moedermaatschappij’ of ‘holding’ hebben, dan 
+wel dat wij ons wereldwijd bloot stellen aan de risico’s die hieraan 
+verbonden zijn. Wij stellen voor deze eis te laten vallen, dat van een 
+inschrijver die onderdeel uitmaakt van een concern noch een 
+aansprakelijkheidsverklaring concern, noch een kopie van een zgn. 403-
+verklaring, zal worden verlangd. Kunt u hiermee instemmen? Indien zo 
+nee, kunt u gemotiveerd verklaren waarom niet?
+De verplichting tot het aanleveren van een concerngarantieverklaring is opgenomen in paragraaf 6.6.2 van de 
+Aanbestedingsleidraad.
+De bepaling houdt in dat iedere inschrijver die deel uitmaakt van een concernstructuur een concerngarantie 
+dient te verstrekken, ongeacht of daarbij een beroep wordt gedaan op de financiële draagkracht van een 
+moeder- of zustermaatschappij.
+De achtergrond hiervan is dat de aanbestedende dienst zekerheid wil verkrijgen dat de moeder- of 
+holdingmaatschappij instaat voor de nakoming van de verplichtingen van de inschrijver gedurende de looptijd 
+van de overeenkomst. Dit voorkomt risico’s bij eventuele herstructureringen of beëindiging van de 
+werkmaatschappij.
+De eis is daarom niet disproportioneel:
+*De verplichting geldt uitsluitend voor inschrijvers die deel uitmaken van een concern;
+*De verklaring (zie bijlage F) beperkt de aansprakelijkheid van de moeder tot de aansprakelijkheid van de 
+opdrachtnemer uit de overeenkomst;
+*Inschrijvers die geen onderdeel zijn van een concern hoeven deze verklaring niet te overleggen.
+De gemeente ziet daarom geen aanleiding om de eis te laten vervallen of te wijzigen.
+2 Aanbestedingsd
+ocument p33
+U geeft aan dat alle leden van het team aanwezig moeten zijn. Is dit het 
+kernteam of moeten ook alle ondersteunende diensten aanwezig zijn?
+Met “alle leden van het team” wordt het beoogde kernteam bedoeld dat de opdracht daadwerkelijk zal 
+uitvoeren. Het betreft de medewerkers die tijdens de uitvoering verantwoordelijk zijn voor de dagelijkse 
+aansturing, inhoudelijke werkzaamheden en contact met de opdrachtgever.
+Ondersteunende diensten, stafafdelingen of overige niet-direct betrokken medewerkers hoeven niet aanwezig 
+te zijn.
+3 Bijlage G 
+Programma van 
+eisen, eis 8.2
+De gemeenten in Nederland eisen dat voor toegang tot externe systemen 
+bepaalde beveiligingsniveaus gelden. Hierin staat dat two-factor 
+authentication een eis is. Dit betekent per definitie dat geen gebruik 
+gemaakt mag worden van "shared" logins en dat de bevestiging altijd via 
+een telefoon (sms of app) of e-mail zal verlopen. Kunt u de eis voor 
+"shared logins" laten vervallen?
+ACHTERGROND: Bij het vervallen van deze eis is het uiteraard wel mogelijk 
+om met meerdere accounts toegang tot hetzelfde model/data te krijgen.
+Binnen deze aanbesteding kunt u de eis voor "shared" logins laten vallen. We willen als regio één licentie waar 
+we met elkaar gebruik van kunnen maken.
+5
+6
+7
+8
+A B C D
+4 Bijlage G 
+Programma van 
+eisen
+Welke leden zitten er in het projectteam en welke in het kernteam tijdens 
+de bouw van het verkeersmodel?
+Het projectteam bestaat in principe uit:
+*Projectleider
+*Verkeerskundigen van alle deelnemende gemeenten
+*Projectleden namens de gehele regio Amersfoort
+Het kernteam bestaat in principe uit:
+*Projectleider
+* Senior verkeerskundigen vanuit Amersfoort, Leusden en Nijkerk
+5 Aanbestedingsl
+eidraad p27
+Welke leden zitten er in de beoordelingscommissie? De beoordelingscommissie bestaat uit medewerkers met inhoudelijke deskundigheid op het gebied van 
+verkeersmodellen, regionale samenwerking en projectmanagement.
+De samenstelling waarborgt een evenwichtige vertegenwoordiging van zowel vakinhoudelijke als procesmatige 
+expertise. Om de onafhankelijkheid van de beoordeling te borgen, worden de namen en functies van de 
+commissieleden niet openbaar gemaakt.
+6 Aanbestedingsl
+eidraad p17
+T.a.v. referentie 1 (ontwikkelen en opleveren van een tourbased model): 
+dient de software van de betreffende referentie overeen te komen met de 
+software waarmee het verkeersmodel voor de regio Amersfoort zal  
+worden gebouwd?
+Nee, dat is niet vereist.
+De referentie dient aan te tonen dat de inschrijver over de gevraagde kennis, ervaring en competenties beschikt 
+voor het ontwikkelen en opleveren van een tourbased multimodaal verkeersmodel voor een groot gebied. De 
+gebruikte software bij de referentie hoeft niet overeen te komen met de software die in dit project wordt 
+toegepast, mits de referentie duidelijk aantoont dat vergelijkbare methodieken, schaal en complexiteit zijn 
+gehanteerd.
+7 Aanbestedingsl
+eidraad p18
+T.a.v. referentie 2: kunt u toelichten wat u verstaat onder het  'tegelijkertijd 
+vraagstukken en projecten liepen' ?
+Met “tegelijkertijd vraagstukken en projecten liepen” wordt bedoeld dat binnen de betreffende regio meerdere 
+ruimtelijke of mobiliteitsprojecten gelijktijdig speelden, waarbij het verkeersmodel voor meerdere projecten 
+gelijktijdig is toegepast. Hierbij kan worden gedacht aan projecten zoals gebiedsontwikkelingen, 
+infrastructurele aanpassingen, mobiliteitsstudies of beleidsverkenningen die elk invloed hebben op het verkeer 
+in het stedelijk gebied en daardoor ook op andere projectgebieden. De referentie dient aan te tonen dat de 
+inschrijver ervaring heeft met het coördineren en afstemmen van modeltoepassing in zo’n dynamische 
+omgeving, waarin verschillende stakeholders parallel aan elkaar werken en belangen hebben.
+9
+10
+11
+A B C D
+8 Aanbestedingsl
+eidraad p6
+U vraagt om een "beperkte licentie" en ook over opleveren via een "digitale 
+methode". Er zijn dan ons inziens maar twee mogelijkheden: 1. De 
+modelsoftware wordt aangeboden via remote hosting of 2. De 
+opdrachtnemer biedt een webapplicatie aan die voldoet aan de gestelde 
+eisen. Klopt dit of zijn er nog meer mogelijkheden? En heeft u een 
+voorkeur?
+Uw interpretatie is grotendeels juist.
+De gemeente vraagt om een digitale oplevering waarbij de regio zelfstandig toegang heeft tot het 
+verkeersmodel, de toedelingsresultaten kan bekijken en beperkte analyses kan uitvoeren. Dat kan worden 
+gerealiseerd via:
+1. Remote hosting (bijv. via een beveiligde serveromgeving van de opdrachtnemer),
+2. Een webapplicatie die voldoet aan de gestelde eisen, of
+3. Een gelijkwaardige digitale oplossing waarmee dezelfde functionaliteiten, beveiliging en toegankelijkheid 
+worden geborgd.
+De gemeente heeft een lichte voorkeur voor een webapplicatie, omdat de installatie van remote hosting 
+eventueel voor lastige uitdagingen zorgt binnen de omgeving van de verschillende gemeenten. De gekozen 
+oplossing moet voldoen aan de eisen van het Programma van Eisen (o.a. beveiliging, beschikbaarheid en 
+gebruiksvriendelijkheid) en aan de privacy- en beveiligingsrichtlijnen van de gemeenten.
+9 Aanbestedingsl
+eidraad p 6 en 
+Bijlage 
+programa van 
+Eisen
+Er staat dat in gezamenlijk overleg bepaald wordt welk (groei)scenario 
+gehanteerd wordt. Ook wordt gesteld dat er een apart Beleidsscenario 
+gemaakt moet worden. In het programma van eisen wordt gesteld dat 
+2040 hoog en laag opgesteld moet worden. Klopt het dat u 2040 scenario 
+Hoog en Laag vraagt en dat  van 1 scenario (Hoog of Laag) een 
+Beleidsscenario gemaakt wordt? Of is de mate van beleid onderdeel van 
+scenario Laag en Hoog?
+Ja, dat klopt --> beleid is onderdeel van scenario Hoog. 
+De regio vraagt om voor het planjaar 2040 twee basisscenario’s uit te werken. 
+Het eerste scenario zal worden gebaseerd op een hoog- of beschikbare trend(scenario), wat in gezamelijke 
+afstemming zal worden gekozen. 
+Het tweede scenario is een beleidsscenario waarbij wordt uitgegaan van de succesvolle uitwerking van beleid 
+op de mobiliteitstransitie. Hierdoor zal de groei en behoefte naar gemotoriseerde verkeer lager zijn en wordt 
+meer gebruik gemaakt van active en/of deel mobiliteit en worden ook de hubslocaties succesvol waarbij de 
+(gemotoriseerde)verkeersvraag lager is.  
+10 Aanbestedingsl
+eidraad p 6
+Het model moet volledig toepasbaar zijn voor derden. Kunt u dit aanvullen 
+met de opmerking dat deze partij dan wel over licenties van de gebruikte 
+model software moet beschikken.
+Ja, dat klopt deels.
+Derden (zoals adviesbureaus of onderzoeksinstellingen) moeten zelfstandig over de vereiste softwarelicenties 
+beschikken om het verkeersmodel te kunnen gebruiken.
+De bepaling in de leidraad is bedoeld om te waarborgen dat het model technisch overdraagbaar en 
+toegankelijk is voor derden.
+De gemeente zal daarom in de opdrachtfase opnemen dat derden het model kunnen toepassen mits zij 
+beschikken over geldige licenties van de gebruikte modelsoftware.
+Derden (zoals aanliggende overheden) krijgen toegang via de "shared login" van de regio voor een bepaald 
+project of een bepaalde periode.
+De aanbestedingsleidraad is hierop aangepast. 
+12
+13
+14
+15
+A B C D
+11 Aanbestedingsl
+eidraad p 7
+In de overeenkomst en de planningstabel geeft u aan dat de startdatum 
+van de opdracht 5 januari is. Op pagina 7 in de aanbestedingsleidraad 
+vermeld u 15 januari. Is 5 januari correct?
+De juiste datum is 5 januari 2026.
+Dit is de beoogde ingangsdatum van de overeenkomst, aansluitend op de definitieve gunning (2 januari 2026).
+De uitvoeringswerkzaamheden kunnen in overleg met de opdrachtnemer in de eerste helft van januari 2026 
+aanvangen.
+De vermelding van 15 januari in paragraaf 3.1 is een tekstuele onvolkomenheid.
+De aanbestedingsleidraad is hierop aangepast. 
+12 Aanbestedingsl
+eidraad p 25
+U schrijft "De beoordeling van het gunningscriterium ‘prijs’ gebeurt op 
+basis van de fictieve prijs zoals blijkt uit het prijzenblad (Bijlage C)." in de 
+forumule die gehanteerd wordt voor de berekening van de punten wordt 
+uitgegaan van de inschrijfprijs ipv de fictieve prijs. Kunnen we ervan 
+uitgaan dat u de inschrijfprijs hanteert?
+Nee, dit klopt niet. 
+De berekening van de prijs-score wordt uitgevoerd op basis van de inschrijfprijs die de inschrijver invult in het 
+prijzenblad (Bijlage C).
+De term “fictieve prijs” verwijst naar het resultaat dat in het prijzenblad automatisch wordt berekend op basis 
+van de inschrijfprijs en de toegepaste weging.
+De in de leidraad opgenomen formule gebruikt de fictieve inschrijfprijs als uitgangspunt voor de 
+puntentoekenning. 
+De aanbestedingsleidraad is hierop aangepast. 
+13 Aanbestedingsl
+eidraad p 6
+U geeft in de aanbestedingsleidraad aan dat de 3 actualisaties zoals 
+beschreven optioneel zijn. In het prijzenformulier staan de actualisaties 
+echter niet onder de opties. Is dit correct?
+Ja, dat klopt.
+Er zal gedurende de looptijd van de overeenkomst in ieder geval één actualisatie plaatsvinden, maar op dit 
+moment is nog niet bekend welke variant (kleine update, planjaaractualisatie of grote actualisatie) of hoe vaak.
+Om die reden zijn de actualisaties opgenomen in het prijzenblad als vaste onderdelen met bijbehorende 
+tarieven, zodat de gemeente deze op het moment van uitvoering kan selecteren en de prijzen worden 
+meegenomen in de beoordelingsystemathiek prijs.
+De term “optie” in de leidraad verwijst dus naar de keuze welk type actualisatie wordt afgenomen, niet naar 
+een facultatieve afnameverplichting.
+14 Aanbestedingsl
+eidraad p 33
+Gerelateerd aan voorgaande vraag. Het gaat hier om een presentatie, wij 
+gaan ervan uit dat deze niet ingeleverd wordt samen met de inschrijving. Is 
+dit correct? Zo niet, dan verwachten wij dat de inschrijvingsdatum naar 
+achteren wordt geschoven?
+TOELICHTING: Het is gangbaar dat presentaties niet aangeleverd worden 
+maar gehouden op de desbetreffende datum.
+Dat is correct. De presentatie vormt een vervolg op de schriftelijke inschrijving en hoeft dus niet bij de 
+inschrijving te worden aangeleverd.
+Na sluiting van de inschrijving (19 november 2025) worden inschrijvers uitgenodigd om op 2 december 2025 
+hun presentatie te houden.
+Er is daarom geen aanleiding om de inschrijftermijn te wijzigen.
+16
+17
+18
+A B C D
+15 Aanbestedingsl
+eidraad p 33
+U geeft aan bij wens 3 dat dit gaat om een presentatie. Tegelijkertijd staat 
+bij de beoordeling dat beoordeeld wordt op concrete "beschrijvingen". Is 
+het correct dat hier geen uitgeschreven plan van wordt verwacht om in te 
+leveren maar een presentatie op 2 december? Zo nee, wat verwacht u wel?
+Dat is correct.
+Voor Wens C wordt géén afzonderlijk schriftelijk plan verwacht.
+De beoordeling vindt plaats op basis van de mondelinge presentatie van het beoogde projectteam op 2 
+december 2025, inclusief de demonstratie van de beperkte licentie.
+De term “beschrijvingen” in het beoordelingskader verwijst naar de wijze waarop de inschrijver tijdens de 
+presentatie concreet en inhoudelijk ingaat op de gevraagde onderwerpen (planning, samenwerking, risico’s, 
+beschikbaarstelling model, demo).
+Er hoeft dus niets extra te worden ingeleverd bij de inschrijving.
+16 Inkoopvoorwaa
+rden VNG 
+Amersfoort 
+Hoofdstuk IV
+Kan de Opdrachtgever bevestigen dat dit hoofdstuk niet van toepassing is 
+op de door ons te leveren diensten?
+Ja, dat klopt.
+Hoofdstuk IV (“Bepalingen betreffende de Leveringen van Goederen”) van de VNG-Model Inkoopvoorwaarden 
+is niet van toepassing op deze opdracht.
+De opdracht betreft de ontwikkeling en oplevering van een verkeersmodel, hetgeen kwalificeert als een dienst 
+in de zin van de Aanbestedingswet.
+Voor deze opdracht zijn Hoofdstukken I, II, III, V en VI van de inkoopvoorwaarden van toepassing.
+17 Inkoopvoorwaa
+rden VNG 
+Amersfoort 16 
+lid 1
+De voorgestelde aansprakelijkheid dient in redelijke verhouding te staan 
+tot zowel de opdrachtsom als de aard van de werkzaamheden, zoals door 
+de Opdrachtgever omschreven en uitgevraagd. Volgens de gehanteerde 
+staffel zou de maximale aansprakelijkheid voor de volledige looptijd van 
+de overeenkomst (inclusief verlenging 7 jaar) bij een opdrachtsom van € 
+450.000,- uitkomen op € 21.000.000,-. Wij achten dit bedrag 
+disproportioneel ten opzichte van de aard en omvang van de opdracht. 
+Een dergelijke limiet brengt voor inschrijvende partijen – ook voor grote 
+advies- en ingenieursbureaus – onaanvaardbare risico’s met zich mee en 
+belemmert de verzekerbaarheid van het project. Om deze reden verzoeken 
+wij u de aansprakelijkheid, conform gangbare praktijk binnen de branche 
+(zoals vastgelegd in DNR 2011, de Gids Proportionaliteit en Advies 331 van 
+de Commissie van Aanbestedingsexperts), te beperken tot driemaal de 
+opdrachtsom met een maximum van € 1.750.000,-. Indien u dit verzoek 
+niet kunt honoreren, verzoeken wij u gemotiveerd toe te lichten waarom 
+een aansprakelijkheidslimiet van € 21.000.000,- passend wordt geacht 
+voor deze specifieke opdracht.
+De aansprakelijkheidsstaffel in artikel 16 lid 1 van de VNG-Model Inkoopvoorwaarden is een 
+standaardbepaling die geldt per gebeurtenis en per contractjaar, niet cumulatief over de gehele looptijd. De 
+berekening van € 21 miljoen over zeven jaar is dus niet van toepassing.
+De gemeente onderschrijft dat de aansprakelijkheid in redelijke verhouding moet staan tot de aard van de 
+opdracht. Voor deze dienstverleningsopdracht acht de gemeente de in de VNG-bepaling opgenomen limiet niet 
+disproportioneel. 
+Daarbij geldt dat de aansprakelijkheid conform de VNG-voorwaarden altijd is gemaximeerd tot 
+€ 3 mln per gebeurtenis en € 5 mln per contractjaar, met de standaard uitzonderingen bij opzet, grove schuld of 
+IE-schending.
+De gemeente ziet daarom geen aanleiding om de standaardbepaling te wijzigen, maar bevestigt dat de limiet 
+niet geldt als totaal over de looptijd, doch per contractjaar.
+19
+20
+21
+A B C D
+18 Inkoopvoorwaa
+rden VNG 
+Amersfoort 7
+Kan de Opdrachtgever bevestigen dat het voor de Contractant is 
+toegestaan om één kopie te behouden van al hetgeen bij de uitvoering van 
+de Overeenkomst ter kennis komt met een vertrouwelijk karakter? Wij 
+willen immers één kopie behouden om de juiste uitvoering van de 
+overeenkomst te kunnen aantonen en ons eventueel te kunnen 
+verdedigingen tegen claims. Indien dit niet mogelijk is, waarom niet?
+Ja, dat is toegestaan, mits aan de volgende voorwaarden wordt voldaan:
+*De kopie wordt uitsluitend bewaard voor interne doeleinden, zoals bewijs van uitvoering of ter verdediging bij 
+eventuele geschillen of claims;
+*De informatie blijft onder de werking van de geheimhoudingsplicht uit artikel 7 van de VNG-Model 
+Inkoopvoorwaarden;
+*De kopie wordt niet gedeeld of openbaar gemaakt aan derden, tenzij wettelijke verplichtingen of een 
+rechterlijke uitspraak daartoe nopen;
+*Na afloop van de bewaartermijn of het vervallen van het doel (bijvoorbeeld na afloop van de verjaringstermijn) 
+wordt de kopie vernietigd.
+De gemeente bevestigt dat artikel 7 niet beoogt dergelijke noodzakelijke interne archivering of dossiervorming 
+te verhinderen.
+19 Inkoopvoorwaa
+rden VNG 
+Amersfoort 7.1
+Verder gelieve de duur van de geheimhoudingsovereenkomst beperken. 
+Het is onwenselijk om eeuwigdurende contractuele verplichtingen op te 
+leggen aan partijen. Graag het volgende toevoegen aan dit artikel: 
+‘Geheimhoudingsverplichtingen zullen gedurende drie (3) jaar na de 
+afronding of beëindiging van de Overeenkomst van kracht blijven’. Kunt u 
+hiermee instemmen? Indien zo nee, waarom niet?
+Nee, de gemeente kan hiermee niet instemmen.
+De geheimhoudingsplicht uit artikel 7.1 van de VNG-Model Inkoopvoorwaarden is onbeperkt in de tijd en geldt 
+zolang de informatie haar vertrouwelijke karakter behoudt.
+Deze bepaling waarborgt dat ook na beëindiging van de overeenkomst geen vertrouwelijke of privacygevoelige 
+gegevens kunnen worden verspreid of gebruikt.
+Een vaste termijn zou onvoldoende bescherming bieden voor informatie die blijvend vertrouwelijk is, zoals 
+modeldata, onderzoeksgegevens of persoonsgegevens.
+De gemeente acht de bestaande bepaling daarom proportioneel en noodzakelijk.
+20 Inkoopvoorwaa
+rden VNG 
+Amersfoort 7.1
+Graag de volgende zinsnede opnemen in de eerste zin achter ‘ter kennis 
+komt’: ‘,in verband met het doel van de Overeenkomst,’. Kunt u hiermee 
+instemmen? Indien zo nee, waarom niet?
+Nee, de gemeente kan hiermee niet instemmen.
+Het voorgestelde toevoeging zou de reikwijdte van de geheimhoudingsplicht beperken tot uitsluitend 
+informatie die direct samenhangt met het doel van de overeenkomst.
+De huidige tekst van artikel 7.1 van de VNG-Model Inkoopvoorwaarden is bewust breder geformuleerd, zodat 
+alle informatie met een vertrouwelijk karakter onder de geheimhoudingsplicht valt, ongeacht de directe relatie 
+met het doel van de overeenkomst.
+Dit is noodzakelijk om te voldoen aan de gemeentelijke verplichtingen inzake informatiebeveiliging, integriteit 
+en bescherming van persoonsgegevens.
+22
+23
+24
+A B C D
+21 Inkoopvoorwaa
+rden VNG 
+Amersfoort 6.1
+"U vraagt in artikel 6.1 om een garantie. Garanties zijn niet verzekerbaar en 
+daarmee niet proportioneel (Voorschrift 3.9A Gids Proportionaliteit). Kan 
+de Opdrachtgever bevestigen dat het woord ‘garandeert’ wordt gewijzigd 
+naar ‘draagt er zorg voor’? Onze voorgestelde wijziging houdt geen risico in 
+voor de Opdrachtgever, maar leidt er wel toe dat wij onze 
+verzekeringsdekking houden, hetgeen ook in het belang is van de 
+Opdrachtgever.
+Zo nee, kunt u bevestigen dat dit artikel slechts van toepassing is, indien er 
+sprake is van een toerekenbare tekortkoming aan de zijde van 
+Contractant? "
+De gemeente past de bepaling niet aan.
+De term “garandeert” in artikel 6.1 van de VNG-Model Inkoopvoorwaarden is bedoeld als zorgplichtige garantie 
+en ziet op de verplichting van de contractant om te zorgen dat de prestaties voldoen aan de overeenkomst, de 
+geldende normen en wettelijke voorschriften.
+Het betreft géén onverzekerbare garantieverplichting, maar valt onder de normale aansprakelijkheid bij 
+toerekenbare tekortkoming.
+De bepaling is daarmee in overeenstemming met Voorschrift 3.9A van de Gids Proportionaliteit en laat de 
+verzekerbaarheid van de werkzaamheden onverlet.
+Artikel 6.1 is dus slechts van toepassing voor zover sprake is van een toerekenbare tekortkoming aan de zijde 
+van de contractant.
+22 Inkoopvoorwaa
+rden VNG 
+Amersfoort 4.5
+Dit artikel bevat een zeer ruime vrijwaring voor strafrechtelijke boetes en 
+bestuurlijke sancties. Is de Opdrachtgever bereid de woorden ‘die verband 
+houden met de overeenkomst’ gewijzigd worden naar: ‘die verband 
+houden met de toerekenbare tekortkoming van de Contractant’?
+De tekst van artikel 4.5 van de VNG-Model Inkoopvoorwaarden wordt niet aangepast.
+De gemeente bevestigt echter dat deze bepaling uitsluitend ziet op boetes of sancties die voortvloeien uit een 
+toerekenbare tekortkoming of onrechtmatig handelen van de contractant in het kader van de uitvoering van de 
+overeenkomst.
+Boetes of sancties die geen verband houden met het handelen van de contractant vallen hier niet onder.
+De bepaling wordt daarmee proportioneel toegepast en is bedoeld om te voorkomen dat de gemeente wordt 
+geconfronteerd met sancties die het gevolg zijn van nalatig of onrechtmatig handelen van de opdrachtnemer.
+23 Inkoopvoorwaa
+rden VNG 
+Amersfoort 4.3
+Het verpanden van huidige en toekomstige vorderingen is in de huidige 
+economische tijd van groot belang voor ingenieursbureaus om, gezien de 
+terughoudendheid bij banken tot kredietverlening, voldoende 
+kredietfaciliteiten te verkrijgen tegen een redelijke rente. Om zeker te 
+stellen dat de algemene voorwaarden niet in de weg staan aan de 
+mogelijkheid voor opdrachtnemers hun huidige en toekomstige 
+vorderingen aan een kredietinstelling te verpanden, in ruil voor 
+kredietfaciliteiten, moet aan de aanbesteder worden verzocht in artikel 4.3 
+van de algemene inkoopvoorwaarden een uitdrukkelijke uitzondering op te 
+nemen op de toestemmingsvereiste bij het vestigen van beperkte rechten. 
+Kunt u instemmen met de navolgende verduidelijking van artikel 4.3 AIV 
+door toevoeging van: “Overdracht aan derden van uit de Overeenkomst 
+voortvloeiende rechten en/of plichten geldt niet ten aanzien van het 
+vestigen van beperkte rechten, zoals een pandrecht”? Zo nee, waarom 
+niet?
+Ja, dat klopt al.
+De door u voorgestelde verduidelijking is reeds opgenomen in artikel 4.3 van de VNG-Model 
+Inkoopvoorwaarden:
+“Dit geldt niet voor het vestigen van beperkte rechten, zoals een pandrecht.”
+Het is dus toegestaan dat de contractant huidige en toekomstige vorderingen verpandt aan een 
+kredietinstelling ten behoeve van kredietfaciliteiten.
+Hiervoor is geen aanvullende toestemming van de gemeente vereist.
+25
+26
+A B C D
+24 Conceptoveree
+nkomst 6
+Hoe verhoudt zich deze bepaling tot de Aanbestedingsleidraad, p.6 waarin 
+wordt gevraagd om een beperkte licentie op de software? Wat wordt 
+precies bedoelt met “alle intellectuele eigendomsrechten behoren ook aal 
+(al) aan Opdrachtgever toe”? Op welke rechten doelt de Opdrachtgever 
+hier?
+De bepaling uit de conceptovereenkomst ziet uitsluitend op de intellectuele eigendomsrechten op het 
+geleverde verkeersmodel, de bijbehorende data, scripts, documentatie en maatwerkcomponenten die 
+specifiek voor de regio Amersfoort worden ontwikkeld. Deze rechten komen bij oplevering toe aan de 
+opdrachtgever.
+De bepaling heeft geen betrekking op de onderliggende modelsoftware (bijv. OmniTRANS, PTV Visum, Aimsun 
+e.d.). Voor het gebruik daarvan verstrekt de opdrachtnemer, conform paragraaf 3.1 en p.6 van de 
+Aanbestedingsleidraad, een beperkte licentie.
+Kortom:
+*IE-rechten op het model en maatwerk → opdrachtgever
+*IE-rechten op de gebruikte modelsoftware → leverancier, met beperkte gebruikslicentie voor opdrachtgever
+Hiermee zijn de bepalingen in de aanbestedingsleidraad en de overeenkomst in lijn met elkaar.
+25 Conceptoveree
+nkomst 5.10
+Kan de Opdrachtgever concreet aangeven op welke expliciete eisen zij hier 
+doelt? Indien dit niet mogelijk is, kan Opdrachtgever aan Opdrachtnemer 
+voorbeelden geven van mogelijke expliciete eisen?
+In deze aanbesteding zijn geen aanvullende expliciete eisen of wensen op het gebied van maatschappelijk 
+verantwoord ondernemen (MVO) opgenomen.
+De verwijzing in artikel 5.10 (nieuw artikel 4A) is een standaardbepaling uit de gemeentelijke contractmodellen. 
+Deze biedt de mogelijkheid om in andere opdrachten specifieke duurzaamheids- of MVO-eisen op te nemen.
+Ter illustratie: voorbeelden van dergelijke “expliciete eisen” kunnen in andere opdrachten betrekking hebben 
+op:
+* CO₂-reductie of toepassing van de CO₂-prestatieladder;
+* inzet van mensen met een afstand tot de arbeidsmarkt;
+* gebruik van circulaire of milieuvriendelijke materialen;
+* naleving van de Internationale Sociale Voorwaarden (ISV).
+Voor de opdracht Verkeersmodel regio Amersfoort volstaat naleving van de in Nederland gangbare 
+maatschappelijke normen en relevante wet- en regelgeving.
+27
+28
+A B C D
+26 Conceptoveree
+nkomst 5.9
+Kan de Opdrachtgever verklaren wat de toegevoegde waarde van deze 
+bepaling is voor de aard van de werkzaamheden?
+De bepaling heeft een algemeen integriteitsdoel en is standaard opgenomen in gemeentelijke 
+overeenkomsten.
+De toegevoegde waarde ligt in het waarborgen dat de gemeente geen overeenkomst voortzet met een 
+opdrachtnemer of leidinggevend persoon die onherroepelijk strafrechtelijk is veroordeeld voor discriminatie.
+Dit sluit aan bij de gemeentelijke integriteits- en MVO-normen en bij het algemene belang dat publieke 
+middelen niet worden besteed aan partijen die zich schuldig hebben gemaakt aan discriminatie.
+De bepaling heeft dus geen directe relatie met de inhoud van de werkzaamheden (ontwikkeling van een 
+verkeersmodel), maar ziet op het behouden van integriteit en maatschappelijke verantwoordelijkheid bij 
+opdrachtnemers die voor de gemeente werken.
+27 Conceptoveree
+nkomst 5.7
+Kan de Opdrachtgever tevens verklaren waarom de beperking van de 
+aansprakelijkheid niet geldt voor een onrechtmatige daad? Welke 
+overwegingen legt zij hiertoe ten grondslag?  Dit is immers niet gebruikelijk 
+binnen de branche en leidt ertoe dat wij dit risico, gelet op onze 
+verzekering, dienen af te prijzen.
+De bepaling in artikel 5.7 sluit aan bij de standaardregeling van artikel 16 van de VNG-Model 
+Inkoopvoorwaarden en beoogt de gemeente te beschermen tegen schade die voortvloeit uit ernstig verwijtbaar 
+of buitencontractueel handelen door de opdrachtnemer.
+De uitsluiting van de aansprakelijkheidsbeperking bij onrechtmatige daad ziet op situaties waarbij schade 
+ontstaat buiten de directe contractuele prestatie, bijvoorbeeld door opzettelijk, roekeloos of anderszins 
+verwijtbaar handelen waardoor derden of gemeentelijke eigendommen worden benadeeld.
+De bepaling is bedoeld als vangnet voor uitzonderlijke situaties en niet voor normale uitvoeringsfouten binnen 
+de opdracht.
+De gemeente acht deze bepaling noodzakelijk vanuit haar publieke verantwoordelijkheid, maar bevestigt dat 
+deze niet wordt toegepast op lichte nalatigheid of normale contractuele tekortkomingen.
+29
+30
+31
+A B C D
+28 Conceptoveree
+nkomst 5.7
+Gelieve deze bepaling te laten vallen: aansprakelijkheid is reeds geregeld 
+in de Algemene Voorwaarden die de Opdrachtgever hanteert. Daarnaast is 
+de beperking van de aansprakelijkheid conform deze bepaling hoger dan 
+de staffel van de Algemene Voorwaarden. Uit geen van de overlegde 
+stukken blijkt waarom deze verhoging noodzakelijk is. Kan de 
+Opdrachtgever bevestigen dat deze bepaling komt te vervallen en dat de 
+aansprakelijkheid conform de AIV geldt? Indien zo nee, kan zij gemotiveerd 
+verduidelijken waarom de beperking hoger is dan de staffel van de AIV en 
+wat daarvoor de noodzakelijke redenen zijn gelet op de opdracht?
+De bepaling blijft gehandhaafd.
+De aanvullende regeling in artikel 5.7 van de conceptovereenkomst is opgenomen vanwege het meerjarige 
+karakter van de opdracht (maximaal zeven jaar), de complexe aard van de digitale dienstverlening en het 
+belang van datakwaliteit, continuïteit en informatieveiligheid.
+De gemeente acht de standaardlimiet uit de VNG-voorwaarden (artikel 16) voor deze specifieke opdracht niet 
+toereikend, omdat mogelijke schade zich over meerdere jaren kan uitstrekken en ook indirecte gevolgen kan 
+hebben voor gemeentelijke beleidsprocessen.
+De gekozen beperking – maximaal viermaal de opdrachtwaarde per gebeurtenis – wordt proportioneel geacht, 
+omdat:
+*deze een duidelijk maximum bevat;
+*samenhangende gebeurtenissen als één gebeurtenis worden beschouwd;
+*uitzonderingen enkel gelden bij ernstige verwijtbaarheid (zoals opzet of grove nalatigheid).
+De bepaling biedt daarmee een evenwichtige balans tussen risico-beheersing voor de gemeente en 
+verzekerbaarheid voor de opdrachtnemer.
+29 Conceptoveree
+nkomst 5.5 B
+Kan de Opdrachtgever bevestigen dat tot het moment van overmacht 
+verrichte werkzaamheden gewoon worden vergoed? Immers, een situatie 
+van overmacht is niet aan de Opdrachtnemer te wijten. Indien de 
+Opdrachtgever hier niet toe bereid is, kan zij gemotiveerd verklaren 
+waarom niet?
+Ja, de Opdrachtgever bevestigt dat reeds verrichte en door de Opdrachtgever geaccepteerde werkzaamheden 
+tot het moment van het intreden van overmacht gewoon worden vergoed.
+Artikel 5.5(b) ziet uitsluitend op het deel van de overeenkomst dat als gevolg van de overmacht niet (meer) kan 
+worden uitgevoerd.
+De ontbinding bij overmacht laat reeds verrichte prestaties en daaruit voortvloeiende betalingsverplichtingen 
+onverlet.
+De bepaling sluit daarmee aan bij de hoofdregel van het Burgerlijk Wetboek (artikel 6:271 BW) en de VNG-
+Model Inkoopvoorwaarden artikel 15.
+30 Conceptoveree
+nkomst 5.5 A
+De termijn van 1 werkdag is zeer kort en onredelijk voor de 
+Opdrachtnemer. Daarnaast is een termijn van 1 werkdag zeer kort om te 
+bepalen of er sprake is van een overmachtssituatie. Wij stellen voor dit 
+naar een redelijke termijn van 5 werkdagen te wijzigen. Kan de 
+Opdrachtgever hiermee akkoord gaan? Indien zo nee, kan zij gemotiveerd 
+verklaren waarom niet?
+De Opdrachtgever handhaaft de termijn van 1 werkdag, maar benadrukt dat deze bepaling bedoeld is om te 
+waarborgen dat de Opdrachtgever zo spoedig mogelijk wordt geïnformeerd over een (mogelijke) 
+overmachtssituatie.
+De termijn is niet als fatale termijn bedoeld; als de Opdrachtnemer binnen redelijke tijd na constatering van de 
+overmacht melding doet en aannemelijk maakt dat een eerdere melding niet mogelijk was, wordt dit als 
+voldoende beschouwd.
+De gemeente acht deze bepaling proportioneel, omdat tijdige communicatie essentieel is voor continuïteit en 
+beheersing van de gevolgen van overmacht.
+32
+33
+34
+A B C D
+31 Conceptoveree
+nkomst 5.3 B
+Hoe verhoudt deze bepaling zich tot de wettelijke regels omtrent nakoming 
+en verzuim, kan de Opdrachtgever dat toelichten?
+Artikel 5.3(b) vormt een contractuele aanvulling op de wettelijke bepalingen inzake nakoming en verzuim 
+(artikelen 6:74 e.v. BW).
+De bepaling beoogt te waarborgen dat gebreken die zich binnen de garantieperiode voordoen, tijdig en zonder 
+kosten voor de Opdrachtgever worden hersteld.
+De verplichting tot herstel geldt nadat de Opdrachtnemer door de Opdrachtgever schriftelijk op de hoogte is 
+gesteld van het gebrek. Indien herstel uitblijft of niet tijdig wordt uitgevoerd, kan de Opdrachtgever het gebrek 
+zelf of door derden laten herstellen op kosten van de Opdrachtnemer.
+De bepaling vervangt de formele ingebrekestelling door een voorafgaande kennisgeving en is daarmee niet in 
+strijd met het wettelijke systeem, maar vormt een praktische uitwerking van de garantie- en herstelplicht.
+32 Conceptoveree
+nkomst 5.3 A
+Opdrachtgever heeft hier het recht om zelf te doen besluiten of 
+Opdrachtnemer wel of niet in staat is enige Gebreken te doen herstellen. 
+Kan de Opdrachtgever bevestigen dat – indien dit aan de orde is – dit 
+volgens de relevante wettelijke bepalingen omtrent nakoming, verzuim 
+e.d. gaat? Kan de Opdrachtgever tevens bevestigen dat er pas sprake van 
+een Gebrek kan zijn als dit een toerekenbare tekortkoming aan de zijde van 
+de Opdrachtnemer is? Indien zo nee, kan zij gemotiveerd verklaren 
+waarom niet?
+Ja, de Opdrachtgever bevestigt dat de toepassing van artikel 5.3(a) plaatsvindt conform de relevante wettelijke 
+bepalingen inzake nakoming, verzuim en aansprakelijkheid (artikelen 6:74 e.v. BW).
+De bepaling beoogt niet hiervan af te wijken, maar vormt een praktische regeling binnen de garantieperiode.
+Een gebrek wordt slechts aangenomen indien de geleverde dienst niet voldoet aan de overeenkomst, hetgeen 
+betekent dat sprake moet zijn van een toerekenbare tekortkoming aan de zijde van de Opdrachtnemer.
+De Opdrachtgever zal de Opdrachtnemer steeds in de gelegenheid stellen om geconstateerde gebreken binnen 
+redelijke termijn te herstellen alvorens nadere maatregelen te nemen.
+33 Conceptoveree
+nkomst 5.3
+Deze bepaling lijkt geschreven te zijn voor een (standaard)overeenkomst 
+met betrekking tot Zaken/Goederen en leent zich niet voor toepassing van 
+de werkzaamheden (Consultancy) die de Opdrachtgever uitvraagt onder 
+deze aanbesteding. Kan de Opdrachtgever bevestigen dat deze artikelen 
+niet van toepassing zijn of is zij bereid deze te schrappen? Indien zo nee, 
+kan zij aangeven hoe zij een garantieperiode voor deze Diensten voor zich 
+ziet?
+De bepaling blijft van toepassing, maar wordt toegepast in de context van dienstverlening.
+De garantieperiode van twaalf maanden is bedoeld om te waarborgen dat het opgeleverde verkeersmodel, 
+inclusief de bijbehorende data, documentatie en beperkte licentie, gedurende die periode functioneert 
+conform de overeenkomst.
+De bepaling ziet dus niet op fysieke goederen, maar op de geleverde resultaten van de dienst. Eventuele 
+gebreken of fouten die binnen de garantieperiode worden vastgesteld, worden kosteloos hersteld door de 
+Opdrachtnemer.
+De gemeente acht deze kwaliteitsborging passend en proportioneel voor deze opdracht en daarom niet te 
+schrappen.
+35
+36
+A B C D
+34 Conceptoveree
+nkomst 3.6
+Gelieve ‘na acceptatie’ schrappen. Opdrachtnemer heeft de verplichting 
+de Diensten te verrichten binnen de daarvoor gesteld termijn. Indien zij aan 
+die verplichting heeft voldaan, ontstaat voor Opdrachtgever de verplichting 
+tot vergoeding van de verrichte werkzaamheden. Daarnaast blijkt niet uit 
+de ter beschikking gestelde stukken wat onder ‘acceptie’ dient te worden 
+verstaan. Kan de Opdrachtgever dit bevestigen? Indien zo nee, kan zij 
+verklaren waarom niet?
+De Opdrachtgever handhaaft de bepaling.
+De toevoeging “na acceptatie” is bedoeld om te waarborgen dat betaling plaatsvindt nadat de opgeleverde 
+resultaten zijn gecontroleerd en akkoord bevonden door de Opdrachtgever.
+Met “acceptatie” wordt bedoeld: de schriftelijke of feitelijke goedkeuring van de door de Opdrachtnemer 
+opgeleverde resultaten, nadat is vastgesteld dat deze voldoen aan de eisen van de overeenkomst.
+Het betreft geen afzonderlijke formele procedure, maar een gebruikelijk controlemoment voorafgaand aan 
+betaling conform artikel 20.3 van de VNG-Model Inkoopvoorwaarden.
+De bepaling sluit aan bij de gemeentelijke administratieve praktijk en doet geen afbreuk aan de contractuele 
+verplichting van de Opdrachtgever om tijdig te betalen voor naar behoren verrichte werkzaamheden.
+35 Concept 
+overeenkomst 
+2.5
+Kan de Opdrachtgever daarnaast verduidelijken wat dient te worden 
+verstaand onder ‘volledig’ of ‘opeisbaar deel’ van de Diensten? Waaruit 
+volgt dit (uit de aard van de werkzaamheden) voor de Opdrachtnemer?
+Met “volledig” wordt bedoeld de gehele uitvoering van de opdracht, bestaande uit alle overeengekomen 
+onderdelen (basisjaar, planjaar, beperkte licentie, eventuele actualisaties).
+Met “opeisbaar deel” wordt bedoeld een afzonderlijk onderdeel van de Diensten dat volgens de planning 
+zelfstandig opleverbaar en controleerbaar is, bijvoorbeeld de oplevering van het basisjaar of de beperkte 
+licentie.
+De bepaling sluit aan bij de aard van de werkzaamheden: de opdracht kent meerdere fasen met eigen 
+oplevermomenten. De boete kan worden toegepast wanneer een dergelijk deel niet binnen de 
+overeengekomen termijn en conform de eisen wordt opgeleverd, zonder dat de gehele opdracht hoeft te 
+worden afgerond.
+De gemeente beschouwt deze invulling als gebruikelijk en proportioneel voor meerjarige projecten met 
+gefaseerde opleveringen.
+37
+38
+39
+A B C D
+36 Concept 
+overeenkomst 
+2.5
+De verplichting tot het betalen van een boete is niet verzekerbaar en 
+daarmee niet proportioneel (Voorschrift 3.9A Gids proportionaliteit). 
+Daarnaast bestaat de boete naast een schadevergoeding en is de boete 
+derhalve dubbelop. Is de Opdrachtgever bereid dit artikel te verwijderen, 
+om in overeenstemming te handelen met de Gids Proportionaliteit? Indien 
+zo nee, kan de Opdrachtgever gemotiveerd verklaren wat de 
+achterliggende gedachte van deze boete is in relatie tot de 
+werkzaamheden en aangeven waarom zij (reeds) op voorhand vreest voor 
+een mogelijke overschrijding van de termijn(en) en waar dit op gebaseerd 
+is?
+De Opdrachtgever handhaaft deze bepaling.
+De boeteregeling in artikel 2.5 heeft als doel om tijdige oplevering van de gefaseerde resultaten (basisjaar, 
+planjaar, beperkte licentie) te waarborgen en de continuïteit van het project te beschermen.
+De bepaling heeft een stimulerend en preventief karakter en is niet bedoeld als dubbele sanctie. Indien de 
+Opdrachtgever schadevergoeding vordert, wordt een eventuele vertragingsboete hiermee verrekend; er is dus 
+geen sprake van cumulatie.
+De hoogte van 0,1% per kalenderdag met een maximum van 10% van de opdrachtwaarde is conform de 
+gemeentelijke standaard en wordt proportioneel geacht binnen de betekenis van Voorschrift 3.9A van de Gids 
+Proportionaliteit.
+De bepaling is opgenomen vanwege het belang van tijdige oplevering voor regionale besluitvorming, 
+beleidsanalyses en koppelingen met andere gemeentelijke projecten.
+De gemeente ziet daarom geen aanleiding om het artikel te schrappen, maar bevestigt dat toepassing 
+uitsluitend aan de orde is bij toerekenbare overschrijding van overeengekomen termijnen.
+37 Concept 
+overeenkomst
+Kan de Opdrachtgever bevestigen dat onder ‘Gebrek’ zoals door haar 
+omschreven als “Het niet voldoen van een door Opdrachtnemer aan 
+Opdrachtgever geleverde Dienst aan gestelde eisen in deze 
+Overeenkomst.” dient te worden verstaan dat er een toerekenbare 
+tekortkoming aan de zijde van de Opdrachtnemer moet zijn cf. de 
+wettelijke bepalingen? Indien zo nee, kan de Opdrachtgever aangeven 
+waarom dit anders gelezen dient te worden?
+Ja, de Opdrachtgever bevestigt dat een “Gebrek” in de zin van de overeenkomst slechts ziet op een 
+toerekenbare tekortkoming aan de zijde van de Opdrachtnemer.
+De definitie sluit aan bij de wettelijke bepalingen van artikel 6:74 BW e.v. en is niet bedoeld om 
+aansprakelijkheid te vestigen voor omstandigheden die de Opdrachtnemer niet kunnen worden toegerekend 
+(zoals overmacht of handelen van derden buiten zijn verantwoordelijkheid).
+De bepaling verduidelijkt enkel dat de opgeleverde dienst moet voldoen aan de in de overeenkomst gestelde 
+eisen; de juridische toerekenbaarheid blijft onverkort gelden.
+38 SROI 
+Aanbestedingsl
+eidraad pag. 19
+We hebben de trede 1 op de PSO-ladder behaald en zullenl in oktober 
+2025 het certificaat daarvoor ontvangen. Kan de gemeente Amersfoort 
+door het voldoen aan de trede 1 status PSO, een korting op de SROI-
+verplichting toekennen?
+Ja, de gemeente Amersfoort erkent de Prestatieladder Socialer Ondernemen (PSO) als instrument voor het 
+aantonen van sociale prestaties.
+Bij het behalen van PSO-trede 1 wordt dit gezien als gedeeltelijke invulling van de SROI-verplichting.
+De omvang van de korting (of vrijstelling) wordt na gunning beoordeeld conform het geldende SROI-beleid van 
+de gemeente Amersfoort en is afhankelijk van de contractwaarde en aard van de werkzaamheden.
+Bij hogere treden (2 of 3) of het PSO-30+ keurmerk kan de SROI-verplichting volledig worden geacht te zijn 
+ingevuld.
+40
+41
+42
+A B C D
+39 SROI 
+Aanbestedingsl
+eidraad pag. 19
+Is de opdrachtnemer verplicht personen uit de doelgroep in te zetten die 
+door de gemeente Amersfoort worden voorgedragen?
+Nee, de opdrachtnemer is niet verplicht uitsluitend personen in te zetten die door de gemeente Amersfoort 
+worden voorgedragen.
+De gemeente kan kandidaten uit de doelgroep aanbieden, maar de opdrachtnemer heeft vrijheid in de wijze van 
+invulling van de SROI-verplichting, zolang de afgesproken maatschappelijke waarde wordt gerealiseerd.
+De opdrachtnemer kan de verplichting bijvoorbeeld invullen door:
+* inzet van eigen medewerkers die tot de doelgroep behoren;
+* samenwerking met PSO-gecertificeerde partners; of
+* het bieden van werk-, leer- of stageplekken aan andere personen uit de doelgroep.
+De invulling wordt in overleg met de gemeente afgestemd en vastgelegd in het SROI-plan na gunning.
+40 SROI 
+Aanbestedingsl
+eidraad pag. 19
+Kan de gemeente Amersfoort akkoord gaan met het inzetten van 
+doelgroepkandidaten/stagiairs die van buiten de gemeente Amersfoort 
+wonen?
+Ja, dat is toegestaan.
+De gemeente Amersfoort hanteert bij de uitvoering van de SROI-verplichting het uitgangspunt dat de 
+maatschappelijke meerwaarde in Nederland wordt gerealiseerd.
+Het inzetten van doelgroepkandidaten of stagiairs die buiten de gemeente Amersfoort wonen is toegestaan, 
+mits zij behoren tot de doelgroep van de Participatiewet, Wajong, WIA of vergelijkbare regelingen.
+Waar mogelijk heeft inzet van kandidaten uit de regio Amersfoort de voorkeur, maar dit is geen verplichting.
+De invulling wordt na gunning in overleg tussen opdrachtnemer en de gemeentelijke SROI-adviseur afgestemd.
+41 SROI 
+Aanbestedingsl
+eidraad pag. 19
+Kan de gemeente Amersfoort akkoord gaan met onze voorkeur van de 
+SROI invulling: MVO-activiteiten, gastcolleges op ROC’s, HBO’s en 
+Universiteiten, rondleidingen van scholieren op onze kantoren en 
+projecten, deelname van ons aan scholingsbeurzen/carrieredagen?
+Ja, de gemeente Amersfoort staat positief tegenover een maatschappelijke of educatieve invulling van de SROI-
+verplichting, mits de activiteiten bijdragen aan kennisontwikkeling, arbeidsparticipatie of bewustwording 
+binnen de regio.
+Activiteiten zoals gastcolleges, deelname aan beurzen, rondleidingen of andere MVO-initiatieven kunnen 
+worden meegenomen als onderdeel van het SROI-plan, mits deze meetbaar en aantoonbaar maatschappelijke 
+meerwaarde creëren.
+De daadwerkelijke waardering en goedkeuring van deze invulling wordt na gunning afgestemd met de 
+gemeentelijke SROI-adviseur, conform het SROI-beleid van de gemeente Amersfoort en de landelijke 
+rekenmethodiek.
+43
+44
+A B C D
+42 SROI 
+Aanbestedingsl
+eidraad pag. 19
+Gezien de aard van onze advieswerkzaamheden worden onze 
+werkzaamheden nagenoeg volledig ingevuld door mensen met een HBO 
+en WO opleiding. Ook de werkzaamheden die de gemeente Amersfoort 
+vraagt, vallen in deze categorie. Om zoveel mogelijk aan te sluiten bij de 
+werkzaamheden voor dit project stellen wij voor ook deze opleidingen (het 
+bieden van leer/werkplekken voor HBO en WO) en de daarmee gemoeide 
+kosten en inspanningen mee te nemen bij de invulling van de SROI-
+inspanning. Kunt u daarmee instemmen?
+Ja, de gemeente Amersfoort kan hiermee instemmen.
+Bij kennisintensieve opdrachten, zoals de ontwikkeling van het verkeersmodel, kunnen HBO- en WO-leer- of 
+werkplekken worden meegenomen in de SROI-inspanning, mits deze bijdragen aan arbeidsparticipatie of 
+talentontwikkeling in de sector mobiliteit, data-analyse of ruimtelijke ordening.
+De betreffende inspanningen dienen te worden uitgewerkt in het SROI-plan na gunning en worden gewaardeerd 
+volgens de landelijke SROI-systematiek.
+De gemeente moedigt deze vorm van sociale waardecreatie binnen kennisprojecten aan.
+43 SROI 
+Aanbestedingsl
+eidraad pag. 19
+In het kader van Social Return is een verplichting opgenomen van 
+minimaal vijf (5)% van de gefactureerde omzet.  Wij vragen u om o het 
+percentage te heroverwegen en te komen tot een percentage dat 
+maximaal 2% is. Kan de gemeente Amersfoort akkoord gaan met een 
+invulling SROI van 2%?
+ACHTERGROND: Wij wijzen u in dit geval op de adviezen van 93-95 van de 
+Commissie van Aanbestedingsexperts. De opdrachten die u via uw 
+uitvraag aan de opdrachtnemer vraagt vallen onder de specialistische 
+diensverlening van intellectuele aard. Het is bekend dat de inzet van 
+mensen met een afstand tot de arbeidsmarkt daarbij moeilijker is. Een 
+social return eis van 5% wordt door de Commissie van 
+Aanbestedingsexpoerts in dergelijke gevallen niet proportioneel geacht.
+De gemeente Amersfoort handhaaft het uitgangspunt van 5% SROI-verplichting conform het gemeentelijk SROI-
+beleid, maar erkent dat bij opdrachten van specialistische of intellectuele aard maatwerk mogelijk is.
+Na gunning kan in overleg met de gemeentelijke SROI-adviseur worden beoordeeld of een lagere of alternatieve 
+invulling proportioneel is, conform de lijn van de Commissie van Aanbestedingsexperts (adviezen 93 en 95).
+Bij dergelijke opdrachten kan de inspanning (gedeeltelijk) worden ingevuld via bijvoorbeeld kennisdeling, 
+stages voor HBO/WO-studenten, MVO-projecten of samenwerking met PSO-gecertificeerde partners.
+De gemeente acht het uitgangspunt van 5% proportioneel op programmaniveau, maar biedt ruimte voor 
+maatwerk per opdracht.
+45
+46
+A B C D
+44 Bijlage F 
+Conceptoveree
+nkomst - artikel 
+2.5
+In artikel 2.5 van de overeenkomst wordt aangegeven dat er een boete van 
+0,1% van de opdrachtwaarde per dag geldt voor elke dag dat de levering 
+van de Diensten niet binnen de overeengekomen termijn heeft 
+plaatsgevonden, met een maximum van 10% van de totale 
+opdrachtwaarde. Binnen de opdracht is opdrachtnemer ook in grote mate 
+afhankelijk van de informatieverstrekking van u als opdrachtgever. Om 
+vervolgens een te late levering per definitie bij Opdrachtnemer te leggen 
+achten wij disproportioneel. Kunt u daarom bevestigen dat:
+1.	 de boete kan worden ingetrokken of verminderd indien vertraging 
+optreedt als gevolg van omstandigheden buiten de controle van de 
+opdrachtnemer (zoals overmacht of onvoorziene omstandigheden)?
+2.	 het mogelijk is om de oplevertermijnen in de overeenkomst te herzien 
+gedurende de opdracht, gezien de aard van de opdracht, waarbij 
+vertragingen niet per definitie te wijten zullen zijn aan Opdrachtnemer en 
+de kans dat onvoorziene vertragingen tijdens de uitvoering van de opdracht 
+zullen opkomen?
+3.	 Gezien de aard van de werkzaamheden en de omvang van de opdracht, 
+er ruimte is voor flexibiliteit in de boetebepaling, waarbij wordt 
+meegenomen de reden en de mate van vertraging?
+Indien u dit kunt bevestigen verzoeken wij u om de boetebepaling 
+overeenkomstig aan te passen. Indien u dit niet kunt bevestigen verzoeken 
+wij u vriendelijk om te motiveren waarom u dit niet kunt bevestigen en 
+waarom u het gehele risico van vertraging bij Opdrachtnemer legt.
+Ja, de gemeente Amersfoort bevestigt het volgende:
+1. De boetebepaling uit artikel 2.5 is uitsluitend van toepassing bij toerekenbare vertraging aan de zijde van de 
+Opdrachtnemer. Indien vertraging het gevolg is van overmacht of omstandigheden buiten de invloed van de 
+Opdrachtnemer (zoals bedoeld in artikel 15 van de VNG-voorwaarden en artikel 5.5 van de overeenkomst), 
+wordt geen boete opgelegd.
+2. Gezien de aard van de opdracht kan de planning of oplevertermijn in principe niet worden herzien.
+3. De gemeente past de boetebepaling redelijk en proportioneel toe. Daarbij wordt rekening gehouden met de 
+oorzaak, duur en ernst van de vertraging.
+De bepaling is bedoeld als prikkel tot tijdige oplevering, niet als strafmaatregel, en wordt niet toegepast bij 
+omstandigheden die de Opdrachtnemer niet kunnen worden toegerekend.
+De gemeente ziet daarom geen aanleiding om de bepaling te schrappen, maar bevestigt dat deze proportioneel 
+zal worden toegepast.
+45 Bijlage G 
+Programma van 
+eisen - punt 9 
+en 10
+Betekenen deze eisen dat de ON verantwoordelijk is voor het beheer van 
+het verkeersmodel de komende 6 jaar?
+Nee, dat is niet het geval.
+Eisen 9 en 10 zien uitsluitend op de volledige oplevering, overdraagbaarheid en beschikbaarstelling van het 
+verkeersmodel en de bijbehorende data aan de regio.
+De Opdrachtnemer is verantwoordelijk voor:
+* het volledig opleveren van het model en de data aan de regio;
+* het waarborgen dat de data en het model kosteloos en binnen vijf werkdagen gedeeld kunnen worden bij een 
+verzoek van de Opdrachtgever;
+* het uitvoeren van eventuele actualisaties indien de regio daar expliciet opdracht toe geeft.
+Het beheer en eigendom van het model ligt bij de regio.
+De Opdrachtnemer is dus niet verantwoordelijk voor het dagelijks of meerjarig beheer van het model, maar 
+levert een overdraagbaar product dat door of namens de regio kan worden beheerd.
+47
+48
+49
+A B C D
+46 Bijlage G 
+Programma van 
+eisen - punt 8
+Kunt u nader specificeren wat u verstaat onder een beperkte licentie en 
+wat is de reden dat u een beperkte licentie uitvraagt?
+Met een beperkte licentie wordt bedoeld: een gebruikerslicentie of viewer waarmee de regio zelfstandig 
+eenvoudige analyses kan uitvoeren op het verkeersmodel, zonder dat hiervoor uitgebreide modelleerkennis 
+vereist is.
+De beperkte licentie biedt onder meer de mogelijkheid om:
+* selected link analyses uit te voeren;
+* verschilplots te genereren (snelheid en intensiteit);
+* sociaal-economische gegevens en kruispuntconfiguraties te raadplegen;
+* intensiteiten te bekijken;
+* en eenvoudige hertoedelingsanalyses te doen (bijv. wegafsluitingen).
+De reden voor deze eis is dat de zes gemeenten binnen de regio Amersfoort:
+* laagdrempelige toegang willen hebben tot de modelresultaten;
+* beperkte interne modelcapaciteit hebben;
+* en geen eigen modelsoftwarelicentie willen beheren.
+De beperkte licentie heeft uitsluitend betrekking op gebruik en analyse; de intellectuele eigendom van de 
+onderliggende modelsoftware blijft bij de leverancier.
+47 Bijlage G 
+Programma van 
+eisen - punt 7
+Om de juiste omrekenfactoren te bepalen om van een gemiddelde 
+werkdag naar verrijkte verkeersgegevens voor milieu te komen, is het 
+gewenst om de telgegevens ook voor een weekdaggemiddelde te 
+ontvangen. Bevatten de telgegevens ook informatie voor een 
+weekdaggemiddelde met uitsplitsing naar de dag-, avond- en 
+nachtperiode?
+Ja.
+Er worden door de gemeenten tellingen aangeleverd in standaard Excel formatten zoals gegenereerd door 
+telbureaus. Hierin zijn zowel werk- als weekdag gegevens aanwezig voor de verschillende voertuigtypes en 
+periodes. 
+Aanvullend worden tellingen uit verkeerslichten geleverd voor de kalibratie maar deze hoeven (kunnen) niet te 
+worden gebruikt voor de verrijking van verkeersgegevens.
+48 Bijlage G 
+Programma van 
+eisen - punt 7
+Wat bedoelt u met dat het wegennet gefit moet worden op de GPS-locatie? 
+Voor milieu doeleinden dienen de wegvakken op de wegas gefit te worden. 
+Verstaan we hier hetzelfde onder?
+Ja, dat klopt.
+Met “gefitt op de juiste GPS-locatie” wordt bedoeld dat de wegvakken uit het verkeersmodel ruimtelijk 
+overeenkomen met de feitelijke wegas.
+De ligging van de modelwegen moet dus zodanig worden bepaald dat deze direct bruikbaar zijn voor 
+toepassingen zoals milieuberekeningen.
+50
+51
+A B C D
+49 Bijlage G 
+Programma van 
+eisen - punt 6
+Kunt u nader specificeren wat u bedoelt met de knelpunten dienen 
+overeen te komen met hoge I/C-waardes op kruispunten of wegvakken in 
+het verkeersmodel?
+Met deze eis wordt bedoeld dat de feitelijk bekende verkeersknelpunten in de regio (zoals locaties met 
+structurele vertragingen of overbelasting) ook in het verkeersmodel herkenbaar moeten zijn als locaties met 
+hoge intensiteit/capaciteit-waarden (I/C-waarden).
+Dit vormt een kwalitatieve controle binnen de kalibratie om te beoordelen of het model realistisch gedrag 
+vertoont:
+* locaties met filevorming of hoge belasting in de werkelijkheid dienen in het model eveneens hoge I/C-
+waarden te laten zien;
+   -Dit ook met de juiste kiem op wegvak op kruispunt/afslag niveau 
+* locaties met goede doorstroming dienen in het model lagere I/C-waarden te hebben.
+De eis beoogt dus de realiteitswaarde van het verkeersmodel te toetsen, niet om aanvullende berekeningen of 
+nieuwe parameters op te leggen.
+50 Bijlage G 
+Programma van 
+eisen - punt 6
+De randvoorwaarden aan de T-waarden die u stelt, zijn zeer streng, zeker 
+voor een etmaalperiode. Gangbaar is dat er onderscheid gemaakt wordt 
+tussen de spitsperioden en de etmaal, rekening houdend met de 
+achterliggende formule van de T-waarde. Normaal gesproken wordt 
+aangehouden dat 90% < 3,5 en 95% < 4,5 voor de spitsen en 90% < 4,5 en 
+95% < 5,5 voor een etmaalperiode. Bent u bereid om de criteria te 
+verruimen?
+We zijn deels bereid de criteria voor de T-waarden te verruimen. 
+Wat wij van het allergrootste belang vinden is een gebalanceerde kalibratie en dat u de kwaliteit van het model 
+en de bijbehoren HB-matrices goed borgt. We lezen daarom graag terug in Wens A.1 hoe u dit aanpakt en wat 
+voor kwaliteitssysteem u hanteert om:
+- zowel het model goed op de tellingen te fitten 
+       *T-toets en verschil (absoluut en relatief) tussen telling en modelwaarde vóór en na de kalibratie.
+- inclusief toets op verkeersbeeld en routes
+- even als de kwaliteit van HB matrices te waarborgen.
+Dit overwegende is altijd discussie mogelijk of verder kalibreren goed is voor de kwaliteit van het geheel.
+Voor de beoordeling kan nu worden uitgegaan van de volgende richtwaarden:
+* Spitsperioden: 85% < 2,5 en 95% < 4,5
+* Etmaalwaarden: 85% < 3,5 en 90% < 4,5
+Echter geldt wel dat de punten die grotere afwijkingen laten zijn niet op belangrijke wegen mogen liggen. 
+Het programma van eisen is hierop aangepast. 
+52
+53
+54
+A B C D
+51 Bijlage G 
+Programma van 
+eisen - punt 6
+Dienen alle modaliteiten gekalibreerd te worden of alleen Auto en  Vracht? De kalibratie-eisen zoals opgenomen in punt 6 hebben betrekking op de modaliteiten Auto en Vracht. Voor 
+deze modaliteiten zijn verkeersintensiteiten uit tellingen beschikbaar, waardoor toetsing met t-waarden en 
+intensiteitsplots mogelijk is.
+Voor overige modaliteiten (zoals fiets of openbaar vervoer) willen we een toets maar hiervoor willen we u 
+vragen voor een goede normering. Wij denken naast toets op intensiteiten bijvoorbeeld aan: Vergelijking aantal 
+verplaatsingen naar afstandsklassen, vervoerwijzekeuze, motiefverdeling en tijdstip voor ‘basisjaar – OviN’ en 
+‘basisjaar – prognose’. 
+Belangrijkste is dat wordt verwacht dat de modeluitkomsten voor deze modaliteiten plausibel zijn en 
+aansluiten bij beschikbare referentiedata of beleidscijfers en dat ze transparant en verdedigbaar zijn.
+52 Bijlage G 
+Programma van 
+eisen - punt 4
+U geeft aan dat regio zelf telgegevens levert. Betreffen dit telgegevens voor 
+alle modaliteiten of alleen voor Auto en Vracht?
+De door de regio te leveren telgegevens (punt 4.1) hebben betrekking op de modaliteiten Fiets, Auto en Vracht.
+Voor overige modaliteiten (zoals openbaar vervoer) zijn minder uniforme telgegevens beschikbaar.
+De opdrachtnemer vult (waar relevant) voor het modelgebied de telgegevens (alle modaliteiten) aan met open 
+databronnen (zoals NDOV, NDW, Monica etc.) of eigen bewerkingen, conform punt 4.3 van het Programma van 
+Eisen.
+Het programma van eisen is hierop aangepast. 
+53 Bijlage G 
+Programma van 
+eisen - punt 4
+Kunt u nader toelichten in welk format u de telegegevens aanlevert? De telgegevens worden door de regio aangeleverd in CSV- of Excel-formaat, conform de structuur die gangbaar 
+is voor NDW-telreeksen en gemeentelijke tellingen.
+Per telpunt worden minimaal de volgende velden opgenomen:
+* Telpunt-ID en naam
+* Wegvak of straatnaam en locatie
+* Rijrichting (indien van toepassing)
+* Datum en meetperiode (bijv. etmaal, ochtend- en avondspits)
+* Intensiteit (voertuigen per uur of etmaalwaarde)
+55
+56
+57
+A B C D
+54 Bijlage C 
+Prijzenblad
+Wat verstaat u onder de jaarlijkse licentiekosten? Is dit inclusief de 
+aanschaf van de software of alleen de jaarlijkse kosten voor beheer en 
+onderhoud?
+Onder “jaarlijkse licentiekosten” wordt verstaan: de jaarlijkse kosten voor het gebruik, van de beperkte licentie 
+of viewer waarmee de regio zelfstandig analyses kan uitvoeren.
+Dit omvat onder andere:
+* hosting / beschikbaarheid van de omgeving;
+* updates;
+* gebruikerssupport en accountbeheer.
+De aanschaf en initiële inrichting van de softwareomgeving maken deel uit van de ontwikkelfase van het 
+verkeersmodel en vallen niet onder de jaarlijkse licentiekosten.
+55 Bijlage C 
+Prijzenblad
+Klopt de 10% weging bij de licentie kosten? Door het toevoegen van deze 
+wegingsfactor is het namelijk mogelijk om een hoge 'Inschrijfprijs' en een 
+lage 'Fictieve inschrijfprijs te berekenen' door onrealistische bedragen in te 
+vullen.
+Ja, de weging van 10% voor de licentiekosten is correct en bewust vastgesteld om de jaarlijkse kosten van de 
+beperkte licentie niet te zwaar mee te wegen in de totale levensduurkosten.
+De gemeente toetst de opgegeven bedragen echter op realiteit en marktconformiteit.
+Onrealistische of evident niet-marktconforme bedragen (bijvoorbeeld symbolische prijzen of disproportioneel 
+hoge licentiekosten) kunnen leiden tot een onregelmatige of niet-geldige inschrijving, conform artikel 2.34 van 
+de Aanbestedingswet 2012.
+De beoordeling vindt dus plaats op basis van een evenwichtige en proportionele prijsvorming die consistent is 
+met de aard en omvang van de opdracht.
+56 Aanbestedingsl
+eidraad 7.3.1 
+Gunningscriteri
+um ‘prijs’
+U gunt deze opdracht aan de inschrijver met de beste prijs kwaliteit 
+verhouding (BPKV). U houdt bij het beoordelen van de prijs nadrukkelijk 
+wel rekening met de kosten voor de licentie voor de software, maar niet 
+met de kosten voor het uitvoeren van eventuele vervolgopdrachten met het 
+verkeersmodel. Aangezien de looptijd van de opdracht minimaal 6 jaar is, 
+en u met de beperkte licentie niet alle werkzaamheden zelf kunt uitvoeren, 
+kan de prijs van vervolgopdrachten een substantieel bedrag vormen. 
+Daarnaast zijn de meeste softwarepakketten niet beschikbaar bij andere 
+consultants, waardoor u aangewezen bent op de ontwikkelende partij. 
+Bent u bereid om de prijs van verschillende vervolgwerkzaamheden mee te 
+laten wegen in de uiteindelijke beoordeling van de BPKV?
+Nee, de vervolgwerkzaamheden maken geen onderdeel uit van de prijsscore binnen het gunningscriterium 
+‘Prijs’.
+De beoordeling van de prijs heeft uitsluitend betrekking op de initiële opdracht: de ontwikkeling, oplevering en 
+ingebruikname van het verkeersmodel, inclusief de beperkte licentie en jaarlijkse gebruikskosten.
+De kosten van eventuele vervolgopdrachten worden niet meegenomen in de BPKV-beoordeling, omdat deze:
+* op dit moment niet eenduidig te specificeren zijn;
+* en het opnemen daarvan de transparantie en vergelijkbaarheid van inschrijvingen zou aantasten.
+Eventuele vervolgopdrachten worden separaat beoordeeld en aanbesteed conform de Aanbestedingswet 
+2012.
+De gemeente zal bij dergelijke opdrachten zorg dragen voor marktconforme tarieven en een transparante 
+prijsstructuur.
+58
+59
+60
+61
+A B C D
+57 Aanbestedingsl
+eidraad 7.3.1 
+Gunningscriteri
+um ‘prijs’
+In deze paragraaf hanteert u verschillende benamingen voor de 
+Inschrijfprijs in de formule om het aantal punten te berekenen. Kunt u 
+bevestigen dat in de formule de "Totale fictieve inschrijf prijs" (Prijzenblad 
+B26) wordt gebruikt voor de verwijzing inschrijfprijs in de formule?
+Ja. Zie ook het antwoord op vraag 12.
+58 Aanbestedingsl
+eidraad 6.4.1 
+Referentie
+Er zijn maar 18 gemeenten in Nederland met een inwoneraantal van meer 
+dan 150.000 
+(https://nl.wikipedia.org/wiki/Lijst_van_grootste_gemeenten_in_Nederlan
+d). Alleen Amsterdam, Utrecht, Groningen en Almere hebben hierbinnen 
+een tour-based verkeersmodel, maar Utrecht is de enige gemeente binnen 
+STRAVEM die meer dan 3 stakeholders heeft en is ontwikkeld door een 
+consultant. De Referentie gaat ons inziens om het ontwikkelen van een 
+multimodaal verkeersmodel van een dergelijke omvang met meerdere 
+stakeholders. Bent u bereid de term tour-based los te koppelen in een 
+aparte voorwaarde of de grens van het inwoneraantal te verlagen naar 
+100.000 inwoners om een level playing field te creeren?
+Om de markttoegang te vergroten zonder de beoogde schaal en complexiteit van de referenties aan te tasten, 
+wordt de eis aangepast naar:
+“Voor een regio met minimaal 3 stakeholders, waarvan het grootste stedelijke gebied minimaal 100.000 
+inwoners telt.”
+De overige elementen van de eis blijven ongewijzigd.
+De aanbestedingsleidraad is hierop aangepast.
+59 Aanbestedingsl
+eidraad 3.1 
+Korte 
+beschrijving van 
+de opdracht
+Wat verstaat u onder een kleine update? Uit de omschrijving wordt niet 
+duidelijk wat het verschil is  met een actualisatie van het planjaar.
+Met een kleine update wordt bedoeld: een beperkte, tussentijdse aanpassing van het verkeersmodel die geen 
+volledige herbouw of herkalibratie vereist.
+Het gaat om wijzigingen die het model operationeel actueel houden, zoals:
+* toevoeging of aanpassing van een beperkt aantal infrastructurele of ruimtleijke projecten;
+Een kleine update is dus onderhoud van beperkte omvang, terwijl een actualisatie een volledige vernieuwing 
+van het modeljaar is.
+60 Aanbestedingsl
+eidraad 3.1 
+Korte 
+beschrijving van 
+de opdracht
+U vraagt ons om prijzen en condities van de opties mee te nemen in onze 
+inschrijving. Wat verstaat u precies onder condities? De opties komen niet 
+direct terug in de gunnningscriteria Kwaliteit
+De term “condities” is in deze context onjuist geformuleerd.
+De aanbestedende dienst bepaalt zelf de contractuele voorwaarden en condities van de opdracht.
+Inschrijvers dienen bij hun inschrijving uitsluitend de prijzen voor de optionele onderdelen op te nemen, onder 
+de voorwaarden zoals vastgelegd in de aanbestedingsstukken (VNG-voorwaarden en conceptovereenkomst).
+Er wordt dus niet van inschrijvers gevraagd om eigen condities of leveringsvoorwaarden aan te leveren. 
+De aanbestedingsleidraad is hierop aangepast.
+62
+63
+64
+65
+66
+A B C D
+61 Bijlage G: eis 
+6.1 en 6.2
+Geldt dit zowel voor de spitsen als het etmaal? Zie het antwoord op vraag 50.
+62 Bijlage G: eis 
+6.1
+Minimaal 85% van de telpunten een t-toets waarde kleiner heeft dan 2,5. 
+Vraag: in de praktijk wordt 3.5 gehanteerd, is dit een bewuste keuze?
+Zie het antwoord op vraag 50.
+En ja de T 2,5 is een bewuste keuze; Onderbouwd met, dat dit voor wegen met orde grootte 1000 mvt resulteert 
+in max 10% afwijking, bij een lagere intensiteit wordt een relatief ruimere afwijking acceptable.
+63 Bijlage G: eis 
+5.3.1 t/m 5.3.7
+Even een check: deze eisen hebben betrekking op de gevraagde optie? Ja, dat klopt.
+De eisen onder 5.3.1 t/m 5.3.7 hebben uitsluitend betrekking op de optionele opdracht voor het dynamisch 
+verkeersmodel.
+Deze eisen zijn van toepassing indien en zodra de regio of een van de gemeenten besluit deze optie af te 
+nemen.
+Het betreft dus geen verplicht onderdeel van het basismodel, maar een aanvullende specificatie die geldt bij 
+activering van de optie.
+64 Bijlage G: eis 
+5.3
+Een dynamisch verkeersmodel wordt uitgevraagd voor alle gemeentes, als 
+optie. Een gedetailleerde uitwerking van dit verkeersmodel ontbreekt. Kan 
+opdrachtgever beschrijven wat het doel van het dynamisch verkeersmodel 
+is?
+In deze aanbesteding wordt nu alleen een dynamisch verkeersmodel uitgevraagd voor de stad Amersfoort. Dit 
+model beslaat de gemeente Amersfoort inclusief eventuele nabije belangrijke routekeuze punten. Het model 
+beschrijft de 2 uurs ochtend- en avondspits en is gekalibreerd op intensiteiten en verkeersbeeld. Daarbij tevens 
+een uur opwarm- en afkoelperiode, alle OV-lijnen en basis en planjaar. Fietsverkeer mag pragmatisch worden 
+opgenomen op oversteken of regelruimte in verkeerslichtenregelingen.
+Er moet een relatie zijn met het regionale model waarbij nieuwe matrices (auto en vracht evt. fiets) in het 
+dynamisch model ingeladen kunnen worden.
+De gemeente Amersfoort wil dit model inzetten voor doorstromings, circulatie en verkeersmanagement 
+vraagstukken. Het moet dus instaat zijn uitspraken te doen over de verkeersafwikkeling, rijtijden en wachtrijen. 
+Voorbeeld casus is: de Stadsring van Amersfoort die teruggebracht moet worden naar GOW-30 met 2x1 
+rijstroken voor gemotoriseerd verkeer waarbij dit model moet ondersteunen bij de uitwerking en inzicht 
+vertragingen, routekeuze veranderingen en knelpunten.
+65 Bijlage G: eis 
+5.2
+U vraagt om een simpelere/snelle modelrun. Wordt hier volstaan met een 
+hertoedeling van verkeer met aangepaste HB-matrices/infrastructuur of 
+moeten met deze modelrun ook verandering in SEGs worden 
+meegenomen?
+Klopt,
+Met een “snelle/simpelere modelrun” wordt bedoeld dat het mogelijk is om een hertoedeling van verkeer uit te 
+voeren op basis van bestaande of licht aangepaste HB-matrices en/of infrastructuurwijzigingen.
+Er hoeft bij deze snelle modelrun geen nieuwe berekening of aanpassing van sociaal-economische gegevens 
+plaats te vinden.
+OV- en fietsverkeer kunnen worden meegenomen met reeds beschikbare matrices of vaste waarden.
+67
+68
+69
+70
+A B C D
+66 Bijlage G: eis 
+4.2
+De opdrachtnemer verzamelt zelf de SEGS voor 2024 t.b.v. basisjaar 2025. 
+Vraag: hebben de tellingen betrekking op 2025? Zo ja, dan zouden de SEGS 
+betrekking moeten hebben op 2025. Of hebben de tellingen betrekking op 
+2024?
+Het basisjaar van het verkeersmodel is 2025.
+De Sociaal-Economische Gegevens (SEGS) worden samengesteld op basis van de meest recente beschikbare 
+gegevens uit 2024, die worden gebruikt als invoer en geëxtrapoleerd naar modeljaar 2025.
+De verkeerstelgegevens hebben betrekking op 2025 (of de meest recente beschikbare tellingen die 
+representatief zijn voor 2025).
+Kort samengevat:
+* SEGS → op basis van data 2024, representatief gemaakt voor 2025;
+* Telgegevens → representatief voor 2025
+67 Bijlage G: eis 
+4.1
+Vallen hier ook OV en de fiets onder en tellingen buiten de regio? Zie het antwoord op vraag 52.
+68 Bijlage E 2.5 Wat voor termijn wordt hier bedoeld, gaat het om de volledige 6 jaar als 
+termijn of ook verschillende mijlpalen die gedefinieerd zijn.
+De term “termijn” in artikel 2.5 heeft betrekking op zowel de totale looptijd van de overeenkomst als op de 
+deeltermijnen of mijlpalen die in de planning of overeenkomst expliciet zijn vastgelegd.
+De boetebepaling kan dus worden toegepast bij toerekenbare overschrijding van afgesproken 
+oplevermomenten (zoals het basisjaar, planjaar of licentie), niet alleen bij overschrijding van de volledige 
+contractduur.
+De bepaling is bedoeld als waarborg voor tijdige oplevering en wordt redelijk toegepast, uitsluitend bij 
+toerekenbare vertraging en niet bij overmacht of omstandigheden buiten de invloed van de opdrachtnemer.
+69 Aanbestedingsd
+ocument 7.3.1
+Hier wordt een maximumprijs van 520.000 genoemd, in het prijzenblad 
+525.000. Welk bedrag is juist?
+De vermelding van € 520.000 in paragraaf 7.3.1 van de Aanbestedingsleidraad betreft een typefout.
+Het juiste en geldende maximum is het bedrag dat in Bijlage C – Prijzenblad is opgenomen, namelijk € 525.000 
+exclusief btw.
+Het prijzenblad is op dit punt leidend. De aanbestedingsleidraad is hierop aangepast.
+71
+72
+73
+74
+75
+A B C D
+70 Aanbestedingsl
+eidraad 6.4.2
+De inschrijver dient gecertificeerd te zijn volgens NEN-EN-ISO 9001: 2015, 
+dan wel kan het werk uitvoeren op grond van een kwaliteitsplan op het 
+niveau van de NEN-EN-ISO 9001:2015 of daarmee gelijkwaardig. De 
+gemeente vraagt na voorlopige gunning om het bewijsmiddel. Vraag: 
+waaruit moet het bewijsmiddel bestaan? Is dit een certificaat of een zelf 
+opgesteld kwaliteitshandboek?
+Het bewijsmiddel bestaat uit:
+* een geldig ISO 9001:2015-certificaat afgegeven door een geaccrediteerde certificerende instelling, of
+* indien de inschrijver niet gecertificeerd is: een kwaliteitsplan of kwaliteitshandboek waaruit blijkt dat het 
+kwaliteitsmanagementsysteem gelijkwaardig is aan het niveau van ISO 9001:2015.
+Het kwaliteitsplan dient inzicht te geven in:
+* procesbeheersing en kwaliteitsborging;
+* interne controle- en verbeterprocedures;
+* verantwoordelijkheden en kwaliteitsbewaking tijdens uitvoering.
+De gemeente vraagt dit bewijs uitsluitend op bij de voorlopig gegunde inschrijver.
+71 Hosting U vraagt om een beperkte licentie van de software waarin het model is 
+ontwikkeld. De genoemde use-cases zijn erg beperkt en er is geen 
+kostbare licentie van de modelsoftware nodig om u deze functionaliteit te 
+bieden. Gaat de gemeente ook akkoord met een functioneel gelijkwaardige 
+oplossing?
+Ja. de gemeente Amersfoort staat open voor een functioneel gelijkwaardige oplossing voor de beperkte 
+licentie, mits deze de in het Programma van Eisen (punt 8.1.1 t/m 8.1.6) genoemde functionaliteiten 
+ondersteunt.
+Het doel van de eis is om de regio in staat te stellen zelf eenvoudige analyses uit te voeren zonder aanvullende 
+software of specialistische kennis.
+Zie ook het antwoord op vraag 46.
+72 Dynamisch 
+model
+Moet er ook (optioneel) een licentie van het dynamisch model worden 
+aangeboden?
+Nee, voor het dynamisch model wordt nu geen afzonderlijke licentie gevraagd.
+De eis tot het leveren van een beperkte licentie (zie Bijlage G, punt 8) heeft uitsluitend betrekking op het 
+regionale model.
+73 Dynamisch 
+model
+Zijn de snelwegen A28 en A1 ook onderdeel van het netwerk van het 
+dynamisch model?
+Ja, de A28 en A1 maken als hoofdontsluitingen van Amersfoort onderdeel uit van het netwerk van het 
+dynamisch model, voor zover deze relevant zijn voor de verkeersafwikkeling in en om de stad. Dit geldt ook 
+voor evt. andere belangrijke routekeuze punten (zie ook het antwoord op vraag 64).
+74 Dynamisch 
+model
+U geeft aan dat het (meso) dynamische model voertuigafhankelijke 
+regelingen moet bevatten. Hoeveel VRI’s heeft de gemeente en hoeveel 
+daarvan moeten in het model worden opgenomen? En heeft u hiervoor 
+CCOL regelingen (en specificaties met blokstructuur en 
+parameterinstellingen) beschikbaar?
+Er zijn circa 90 verkeersregelinstallaties in het studiegebied in en om Amersfoort. Deze moeten 
+voertuigafhankelijk in het mdoel worden opgenomen.
+Voor de Amersfoortse VRI’s zijn zo'n 45 CCOL-regelingen (inclusief blokstructuren, etc) beschikbaar. Deze 
+worden, indien de optie voor het dynamisch model wordt geactiveerd, aan de opdrachtnemer verstrekt.
+De overige regeling zijn beschikbaar maar zijn ander type software en/of in beheer bij een andere 
+wegbeheerder, hier zal samen gekeken moeten worden wat de meest effectieve manier is om blokstructuren 
+etc. aan te leveren..
+76
+77
+78
+79
+A B C D
+75 Dynamisch 
+model
+In de aanbestedingsleidraad wordt gesproken over de stad Amersfoort en 
+in het programma van eisen over de gemeente Amersfoort voor de 
+afkadering van het dynamische model. Kunnen jullie verduidelijken of jullie 
+de stad of de gemeente bedoelen?
+Zie het antwoord op vraag 64.
+76 Dynamisch 
+model
+"In het programma van eisen staat de volgende eis voor het dynamische 
+model: “Inclusief een goed uitwisselbare koppeling met het regionale 
+verkeersmodel.”
+Kunnen jullie specificeren wat de mogelijkheden moeten zijn van die 
+koppeling?"
+De koppeling tussen het dynamisch model en het regionale (statische) model dient te zorgen voor onderlinge 
+consistentie en data-uitwisseling, maar hoeft geen volledig geïntegreerde omgeving te vormen.
+De koppeling moet minimaal het volgende mogelijk maken:
+* Import/export van vraagdata/HB-matrices van het regionale model naar het dynamische model;
+* Afstemming van scenario’s: gebruik van vraag- en beleidsvarianten uit het regionale model in het 
+dynamische model;
+* Resultaatuitwisseling: aanscherpen I/C-waarden, data van het dynamische model die in het regionale model 
+kunnen verbeteren;
+De eis beoogt dat beide modellen technisch en inhoudelijk op elkaar aansluiten, zodat data en resultaten 
+eenvoudig kunnen worden vergeleken.
+77 Hosting Moest de hosting (en simpele berekeningen, etc.) met dezelfde software 
+plaatsvinden als de software waarin de modellen zijn ontwikkeld?
+Nee, dat is niet verplicht.
+Zolang de hosting- of vieweromgeving de in het Programma van Eisen (punt 8.1.1 t/m 8.1.6) beschreven 
+functionaliteiten biedt en de resultaten betrouwbaar en reproduceerbaar zijn, voldoet dit aan de eis.
+78 Hosting Is hosting verplicht of optioneel/alleen gewenst? Hosting is niet verplicht, maar wel gewenst.
+De eis van een digitale oplevering met beperkte licentie kan zowel worden ingevuld via hosting (webgebaseerde 
+oplossing) als via een lokaal installeerbare viewer.
+Belangrijk is dat de regio de resultaten kan raadplegen en de in het Programma van Eisen (punt 8.1.1 t/m 8.1.6) 
+genoemde analyses kan uitvoeren.
+Een gehoste oplossing is dus één van de mogelijke invullingen, maar geen verplichting.
+80
+81
+A B C D
+79 p. 7 De prijs bandbreedte loop tot 700k, maar prijs voor het 
+basismodel+actualisaties mag niet boven de 450k uitkomen. Hoe zit dat? 
+Welke actualisaties vallen onder de 450k en wat valt er dan nog onder het 
+maximale bedrag van 700k?
+De maximale inschrijfprijs voor de opdracht bedraagt € 700.000 exclusief btw.
+Het in de aanbestedingsleidraad genoemde bedrag van € 450.000 betreft een maximale inschrijfprijs voor de 
+hoofdopdracht (het basismodel inclusief het planjaar).
+Onder deze € 450.000 vallen:
+*de ontwikkeling en oplevering van het regionaal basismodel;
+* de oplevering van het planjaar (2040 hoog/laag);
+* de beperkte licentie/viewer inclusief hosting;
+* en de 3 typen kalibraties, zoals aangegeven in hte prijzenblad en beschreven in de leidraad.
+Het resterende budget tot € 700.000 is bedoeld voor optionele onderdelen, zoals:
+* het dynamisch verkeersmodel (optie gemeente Amersfoort);
+* planjaar 2050
+* of andere optionele uitbreidingen binnen de contractperiode.
+De verdeling is bedoeld om het beschikbare budget vanuit de regio te handhaven.
+Het totaal van alle onderdelen samen mag het maximum van € 700.000 niet overschrijden.
+80 p. 7 Er wordt gevraagd actualisaties optioneel uit te voeren, maar hebben het 
+wel over een overeenkomst met een vaste looptijd van 6 of 7 jaar. Hoe zit 
+dat?
+De overeenkomst kent een vaste looptijd van 6 jaar, met de mogelijkheid tot verlenging tot maximaal 7 jaar.
+De looptijd heeft betrekking op het beheer, onderhoud en de ondersteuning van het verkeersmodel gedurende 
+deze periode.
+Binnen deze looptijd kunnen één of meerdere actualisaties plaatsvinden.
+Het aantal en moment van uitvoering worden gedurende de looptijd, in overleg met de regio, bepaald op basis 
+van beleidsontwikkelingen en beschikbare data.
+De actualisaties zijn dus optiegebonden in uitvoering (frequentie), maar niet in looptijd: de overeenkomst blijft 
+gedurende de volledige looptijd in stand.
+82
+83
+84
+A B C D
+81 SROI In de aanbestedingsdocumenten is een Social return verplichting 
+opgenomen. Wij zijn een bedrijf dat MVO hoog in het vaandel heeft staan. 
+Echter, komt het ook voor dat wij, ondanks grote inspanning, toch niet 
+konden voldoen aan de contracteis van social return. Wij zien social return 
+daarom als een inspanningsverplichting waarbij ook de sociale 
+beleidsdoeleinden van de opdrachtgever een belangrijke rol spelen. Bent u 
+dat met ons eens? Graag gaan wij na opdrachtverlening met u in gesprek 
+hoe invulling zal worden gegeven aan deze (inspannings)verplichting. Kunt 
+u hiermee instemmen zo nee, kunt u aangeven waarom niet?
+De gemeente Amersfoort beschouwt de Social Return-verplichting als een inspanningsverplichting met 
+resultaatsafspraken, passend bij de aard en omvang van de opdracht.
+De opdrachtnemer dient zich aantoonbaar in te spannen om de SROI-verplichting (minimaal 5% van de 
+gefactureerde omzet) te realiseren.
+De wijze van invulling wordt na gunning vastgelegd in een Social Return Plan van Aanpak, dat in overleg met de 
+gemeente wordt afgestemd.
+Indien uitvoering binnen de eigen organisatie niet volledig haalbaar blijkt, kan de invulling plaatsvinden via 
+alternatieve maatschappelijke bijdragen die aansluiten bij de sociale beleidsdoelen van de gemeente (zoals 
+stages, scholing of samenwerking met sociaal ondernemers).
+De gemeente is dus bereid hierover na gunning het gesprek aan te gaan, maar benadrukt dat Social Return een 
+contractuele verplichting blijft die aantoonbaar moet worden ingevuld.
+82 SROI In de aanbestedingsdocumenten is een Social return verplichting 
+opgenomen. De opdrachten die een opdrachtnemer op basis van deze 
+overeenkomst verricht betreffen de uitvoering van specialistische 
+dienstverlening van intellectuele aard. Het is bekend dat de inzet van 
+mensen met een afstand tot de arbeidsmarkt daarbij moeilijker is. Wij 
+willen u daarom verzoeken ook stagiairs van HBO en WO instellingen op te 
+mogen voeren binnen de Social Return verplichting. Kunt u daarmee 
+instemmen?
+Zie het antwoord op vraag 42.
+83 SROI In de aanbestedingsdocumenten is een Social return verplichting 
+opgenomen. De opdrachten die een opdrachtnemer op basis van deze 
+overeenkomst verricht betreffen de uitvoering van specialistische 
+dienstverlening van intellectuele aard. Het is bekend dat de inzet van 
+mensen met een afstand tot de arbeidsmarkt daarbij moeilijker is. Een 
+Social Return eis van 5% wordt door de Commissie van 
+Aanbestedingsexperts in dergelijke gevallen niet proportioneel geacht. Wij 
+wijzen u in dit kader op de adviezen 93-95 van de Commissie van 
+Aanbestedingsexperts. Wij verzoeken u dan ook om het percentage te 
+verlagen, bijvoorbeeld naar 2%. Kunt u daarmee instemmen? Zo niet, kunt 
+u toelichten waarom niet?
+Zie het antwoord op vraag 43.
+85
+86
+87
+88
+89
+A B C D
+84 Bijlage G 
+Programma van 
+Eisen
+"U geeft aan: ""Het verkeersmodel dient een volledig in shape file format 
+uitgeleverd te worden waarbij ieder wegvak is gekoppeld aan het meest 
+relevante telpunt en iedere weg in het model op de juist gps locatie ligt.""
+Vraag: wilt u voor de verrijking voor elk wegvak een specifieke set van 
+factoren (op basis van een relevant telpunt) of is koppeling aan een vaste 
+set van factoren naar bijvoorbeeld wegtype ook een optie?"
+De koppeling van wegvakken aan relevante telpunten is bedoeld om de verrijking van verkeerscijfers zo 
+representatief mogelijk te maken.
+Het is niet vereist dat elk wegvak een uniek telpunt heeft.
+De opdrachtnemer mag wegvakken groeperen naar wegtype of functionele klasse en op basis daarvan vaste 
+verrijkingsfactoren toepassen, mits:
+* de gekozen factoren zijn afgeleid van representatieve telpunten;
+* de gehanteerde systematiek en onderbouwing transparant worden vastgelegd;
+* en de resulterende verrijking voldoende representatief is voor milieutoepassingen.
+85 Bijlage G 
+Programma van 
+Eisen
+"Bij de Kalibratie geeft u aan dat: ""Inzicht in de omvang tussen de a priori-
+matrix en de gekalibreerde matrices, zowel absoluut als relatief en 
+inclusief een analysebeschrijving van de verschillen.""
+Vraag: Hier wordt alleen inzicht gevraagd, maar is verder geen 
+beoordelingscriterium gekoppeld? Voor de tellingen is er wel een 
+criterium. Voor de kwaliteit van het model zouden we zelf eerder geneigd 
+zijn om voor beide aspecten criteria te hanteren. Nu is het sterk gericht op 
+de tellingen. Waarbij die ook erg stringent zijn. Daarmee bestaat het gevaar 
+dat er eenzijdig op tellingen wordt gekalibreerd, wat ten koste kan gaan 
+van de kwaliteit van de matrices. Is het mogelijk om dit meer in balans te 
+brengen? "
+De gemeente onderkent het belang van een evenwichtige kalibratie waarbij niet uitsluitend op tellingen wordt 
+gestuurd. Zie ook het antwoord op vraag 50.
+Om die reden geldt de vereiste analyse van de verschillen tussen de a priori- en gekalibreerde matrices als een 
+kwalitatieve verificatie-eis bij de modeloplevering (eis 6.5).
+We zien nu geen noodzaak een numeriek
+
+=== Document: nota van inlichtingen ii ===
+Ref. Nr. Vragenron
+de
+Perceel Onderwerp Vraag Antwoord
+104 2 Verkeersm
+odel regio 
+Amersfoor
+t
+NvI - vraag 46 28 oktober is bekend geworden dat de gemeente Amersfoort een 
+meerjarig contract heeft afgesloten met Scenexus voor het gebruik van 
+het Urban Strategy platform. Hierbij wordt vooral focus gelegd op de 
+digital twin functie en het verkennen van scenario's. Er lijkt hiermee al 
+voorgesorteerd te worden op de invulling van deze opdracht. Hoe 
+verhoudt dit nieuws zich tot deze opdracht, met name de beperkte 
+licentie? Is er nog sprake van een level playing field nu dit contract al 
+afgesloten is?
+Urban Strategy is geen verkeersmodel. Het heeft juist een goed verkeersmodel 
+nodig als input. Urban Strategy zal gebruikt worden als add-on op het 
+verkeersmodel voor o.a. workshops. Hiermee worden varianten getrechterd. 
+Uiteindelijke varianten zullen altijd nog met het verkeersmodel getoetst worden. 
+Daarbij is het de wens om regelmatig data uit te wisselen tussen het 
+verkeersmodel en Urban Strategy.
+105 2 Verkeersm
+odel regio 
+Amersfoor
+t
+NvI - vraag 27 De maximale aansprakelijkheid voor geleden of te lijden schade is gelet 
+op de omvang van de opdracht € 3.000.000,- per aanspraak. Een 
+dergelijke aansprakelijkheid is redelijkerwijs niet verzekerbaar. Als 
+professionele partij hebben wij een aansprakelijkheids- en 
+beroepsverzekering die in de markt gebruikelijk is. De maximale dekking 
+per gebeurtenis is € 2.500.000,- per aanspraak met een maximum van € 
+5.000.000,- per jaar. Derhalve verzoeken wij de maximale 
+aansprakelijkheid van de opdracht te beperken tot maximaal € 
+2.500.000,- per aanspraak, waardoor ook aangesloten wordt bij hetgeen 
+in de markt gebruikelijk is. Indien u dit niet wilt beperken dan graag uw 
+motivering waarom u hogere eisen stelt dan in de markt gebruikelijk is.
+De gemeente heeft kennisgenomen van het verzoek om de maximale 
+aansprakelijkheid te beperken tot € 2.500.000,- per aanspraak. Na heroverweging 
+acht de gemeente dit voorstel proportioneel en in lijn met hetgeen in de markt 
+gebruikelijk is voor opdrachten van vergelijkbare aard en omvang.
+De aansprakelijkheidslimiet van € 2.500.000,- per aanspraak en 
+€ 5.000.000,- per verzekeringsjaar biedt naar het oordeel van de gemeente 
+voldoende zekerheid voor het afdekken van mogelijke schade tijdens de 
+uitvoering van de opdracht, waarbij tevens wordt aangesloten op gangbare 
+verzekeringsniveaus binnen de branche.
+Bijlage E - Concept Overeenkomst is hierop aangepast en als versie 2.0 
+bijgevoegd bij deze Nota van Inlichtingen II.
+106 2 Verkeersm
+odel regio 
+Amersfoor
+t
+Dynamisch 
+model
+Zouden jullie kunnen overwegen om het dynamisch model als apart 
+beoordelingscriterium toe te voegen? Wat het nu namelijk een beetje 
+lastig maakt is dat het dynamisch model nu onderdeel is van de 
+beoordeling van wens A.1 en A.2, maar de beoordelingsaspecten daarvan 
+zijn vooral toegespitst op het statische model. Een aantal daarvan zijn 
+helemaal niet van toepassing voor het dynamische model. Het zou 
+natuurlijk kunnen dat het statische model en dynamisch model op 
+bepaalde aspecten verschillend scoren. Mocht dit niet als apart 
+beoordelingscriterium opgezet worden, kunnen jullie dan uitleggen hoe 
+jullie de eventueel verschillende beoordelingen van het statisch en 
+dynamisch model tegen elkaar gaan afwegen?
+De beoordeling van het dynamisch model hebben wij aangepast. Het is nu een 
+apart onderdeel van de beoordeling. 
+De aanbestedingsleidraad is hierop aangepast en als versie 3.0 bijgevoegd bij 
+deze Nota van Inlichtingen II. 
+108 2 Verkeersm
+odel regio 
+Amersfoor
+t
+Vervolgvraag 
+op NVI 1 vraag 
+8,46,65,71,77,
+78 en 97
+"De antwoorden op deze vragen roepen wat extra vragen op. Een deel van 
+deze antwoorden zijn hier kort samengevat:
+1. Er wordt een viewer gevraagd waarmee de resultaten van het model te 
+analyseren zijn. 
+2. In deze ""viewer"" moet het ook mogelijk zijn om interventies in te 
+voeren en door te rekenen. Dit is technisch gezien geen viewer meer maar 
+een editor en rekentool.
+3. Met de ""viewer"" moet het mogelijk zijn om selected link analyses te 
+doen.
+4. Voor de berekeningen is het toegestaan ""andere software"" of 
+oplossingen te gebruiken dan de software waarmee het model gemaakt 
+is.
+Dit roept de volgende vragen op:
+1. Een interventie, zoals een wegafsluiting, heeft aanzienlijk effect op de 
+selected link analyses. Deze moeten dus herberekend worden?
+2. Hoe dicht moeten de resultaten van de ""andere software"" in de 
+viewer  bij de ""echte software"" van de modelbouw regiomodel 
+Amersfoort liggen? En hoe wordt dit beoordeeld?
+"
+Er wordt niet, perse,  een viewer gevraagd maar een beperkte licentie met een 
+aantal wensen. Het is de inschrijver vrij 'hoe' dit in te vullen, als wij maar zoveel 
+mogelijk van de gewenste functionaliteiten op een praktische manier 
+beschikbaaar hebben. Daarbij moeten wij ervan uit kunnen gaan dat een 
+toedeling (op een andere wijze dan de modelsoftware) vegelijkbare resultaten 
+geeft als een berekening met het verkeersmodel zelf (Max 10% afwijking). 
+Essentie is dat wij zo veel mogelijk van onze eisen ingewilligd willen zien op een zo 
+toegankelijk mogelijke manier.
+Om de markt iets tegemoet te komen hebben we besloten dat de functionaliteiten 
+van de beperkte licentie geen eis zijn, maar een wens. Bij de demo van de 
+beperkte licentie op 2 december verwachten we een overzicht van u en we zullen 
+de beoordeling mede baseren op welke functionaliteiten wel of niet aangeboden 
+worden en op welke manier. 
+De aanbestedingsleidraad en Bijlage G - Programma van eisen zijn hierop 
+aangepast en als versie 3.0 bijgevoegd bij deze Nota van Inlichtingen II. 
+109 2 Verkeersm
+odel regio 
+Amersfoor
+t
+Vervolgvraag 
+op vraag 33 
+NVI 1
+De Gemeente vraag hier om een garantie bij diensten. Garanties zijn 
+echter geschikt voor zaken en niet voor diensten zoals deze worden 
+verricht onder deze opdracht. Wij begrijpen de gedachte van de 
+Gemeente, tegelijkertijd is een contractuele garantieverplichting hierbij 
+niet passend. Dat geldt meer specifiek voor software, waar het geven van 
+garanties zeer ongewoon en niet passend is. De bewoording duidt op een 
+resultaatsverplichting, hetgeen een verplichting is om een bepaald 
+(foutloos) resultaat te behalen en daarmee een garantie die door 
+Opdrachtnemer verstrekt moet worden, waarbij een beroep op 
+overmacht niet mogelijk is. Dit is niet geschikt voor de werkzaamheden 
+die wij leveren, te weten (consultancy)diensten. Kan de Gemeente 
+bevestigen dat artikel 6.1 van de VNG voorwaarden en het antwoord dat 
+zij op de vraag daaromtrent gegeven heeft van overeenkomstige 
+toepassing is? Indien zo nee, kan de Gemeente verklaren waarom zij een 
+garantie passend vindt voor (consultancy)diensten daar waar garanties in 
+de juridische context met name zien op zaken?
+De gemeente onderkent dat de term garantie in civielrechtelijke zin doorgaans 
+betrekking heeft op zaken als bedoeld in artikel 7:17 BW e.v. In het kader van deze 
+aanbesteding wordt de bepaling evenwel toegepast in de context van 
+dienstverlening en software-oplevering.
+De bepaling beoogt niet een absolute resultaatsverplichting in te voeren, maar 
+vormt een aanvullende waarborg dat de door de opdrachtnemer opgeleverde 
+resultaten, waaronder het verkeersmodel, de data en bijbehorende 
+documentatie, gedurende een periode van twaalf maanden na oplevering 
+functioneren conform de overeengekomen specificaties. Eventuele gebreken die 
+binnen die periode aan het licht komen en het gevolg zijn van een aan de 
+opdrachtnemer toerekenbare tekortkoming, dienen door de opdrachtnemer 
+kosteloos te worden hersteld.
+De gemeente bevestigt dat artikel 6.1 van de VNG-Model Inkoopvoorwaarden van 
+overeenkomstige toepassing is en dat de betreffende bepaling daarmee in lijn 
+moet worden gelezen. De garantie-regeling sluit derhalve aan bij het wettelijke 
+kader van behoorlijke nakoming (artikel 6:74 BW) en laat onverlet dat de 
+opdrachtnemer zich kan beroepen op overmacht in de zin van artikel 6:75 BW.
+De gemeente acht deze bepaling passend en proportioneel als kwaliteitsborging 
+bij deze opdracht en ziet geen aanleiding om deze te wijzigen of te schrappen.
+110 2 Verkeersm
+odel regio 
+Amersfoor
+t
+Vervolgvraag 
+op  vraag 33 
+NVI 1
+Kan de gemeente bevestigen dat conform haar gegeven antwoord hier 
+een toerekenbare tekortkoming aan de zijde van de Opdrachtnemer 
+vereist is?
+Ja, de gemeente bevestigt dat herstel van gebreken of fouten binnen de 
+garantieperiode uitsluitend aan de orde is indien sprake is van een aan de 
+opdrachtnemer toerekenbare tekortkoming in de nakoming van zijn verplichtingen 
+in de zin van artikel 6:74 BW.
+De garantieperiode beoogt niet verder te gaan dan het wettelijk regime voor 
+tekortkomingen, maar biedt een aanvullende waarborg dat dergelijke 
+tekortkomingen binnen twaalf maanden kosteloos door de opdrachtnemer 
+worden hersteld.
+De bepaling creëert daarmee geen risicoaansprakelijkheid of resultaatsgarantie 
+buiten de reikwijdte van de overeenkomst, maar vormt een nadere concretisering 
+van de contractuele kwaliteitsborging zoals opgenomen in de 
+aanbestedingsdocumenten.
+112 2 Verkeersm
+odel regio 
+Amersfoor
+t
+Vervolgvraag 
+op NVI 1 vraag 
+8,46,65,71,77,
+78 en 97
+De antwoorden op deze vragen roepen wat extra vragen op. Een deel van 
+deze antwoorden zijn hier kort samengevat:
+1. Er wordt een viewer gevraagd waarmee de resultaten van het model te 
+analyseren zijn. 
+2. In deze "viewer" moet het ook mogelijk zijn om interventies in te voeren 
+en door te rekenen. Dit is technisch gezien geen viewer meer maar een 
+editor en rekentool.
+3. Met de "viewer" moet het mogelijk zijn om selected link analyses te 
+doen.
+4. Voor de berekeningen is het toegestaan "andere software" of 
+oplossingen te gebruiken dan de software waarmee het model gemaakt 
+is.
+Dit roept de volgende vragen op:
+3. Amersfoort heeft de beschikking over Urban Strategy. In hoeverre 
+voldoet een koppeling met Urban Strategy aan deze eisen?
+Urban Strategy is een ander type tool. Urban Strategy biedt online verschillende 
+mogelijkheden maar de essentie is dat Urban Strategy 'geen' verkeersmodel isw. 
+En juist een verkeermodel nodig heeft om te kunnen functioneren. Zie ook het 
+antwoord op vraag 104.
+Mededeling
+We zouden nog terugkomen op de telgegevens van de gemeente Barneveld. Wij leveren, bij start van het project, telgegeven aan met betrekking tot 
+Barneveld. Het zijn voornamelijk tellingen op de hoofdstructuur en wegen in het buiten gebied. De telgegevens zijn zowel van het jaar 2025 als van eerdere 
+jaren die bijgesteld kunnen worden voor 2025.
+
+=== Document: nota van inlichtingen 2025-11-07-5 ===
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 1 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+Algemene informatie
+Aanbesteding: Verkeersmodel regio Amersfoort
+Aanbestedende Dienst: Gemeente Amersfoort
+Referentie: -
+Toelichting:
+Bijlage Concerngarantieverklaring is komen te vervallen waardoor Bijlage G - Programma van 
+Eisen, Bijlage F is geworden. 
+Mededeling
+We zouden nog terugkomen op de telgegevens van de gemeente Barneveld. Wij leveren, bij start 
+van het project, telgegeven aan met betrekking tot Barneveld. Het zijn voornamelijk tellingen op 
+de hoofdstructuur en wegen in het buiten gebied. De telgegevens zijn zowel van het jaar 2025 als 
+van eerdere jaren die bijgesteld kunnen worden voor 2025.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+104 NvI - vraag 46
+Vraag:
+28 oktober is bekend geworden dat de gemeente Amersfoort een meerjarig 
+contract heeft afgesloten met Scenexus voor het gebruik van het Urban 
+Strategy platform. Hierbij wordt vooral focus gelegd op de digital twin 
+functie en het verkennen van scenario's. Er lijkt hiermee al voorgesorteerd te 
+worden op de invulling van deze opdracht. Hoe verhoudt dit nieuws zich tot 
+deze opdracht, met name de beperkte licentie? Is er nog sprake van een level 
+playing field nu dit contract al afgesloten is?
+Antwoord:
+Urban Strategy is geen verkeersmodel. Het heeft juist een goed 
+verkeersmodel nodig als input. Urban Strategy zal gebruikt worden als add-
+on op het verkeersmodel voor o.a. workshops. Hiermee worden varianten 
+getrechterd. Uiteindelijke varianten zullen altijd nog met het verkeersmodel 
+getoetst worden. Daarbij is het de wens om regelmatig data uit te wisselen 
+tussen het verkeersmodel en Urban Strategy.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 2 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+105 NvI - vraag 26
+Vraag:
+De maximale aansprakelijkheid voor geleden of te lijden schade is gelet op 
+de omvang van de opdracht € 3.000.000,- per aanspraak. Een dergelijke 
+aansprakelijkheid is redelijkerwijs niet verzekerbaar. Als professionele partij 
+hebben wij een aansprakelijkheids- en beroepsverzekering die in de markt 
+gebruikelijk is. De maximale dekking per gebeurtenis is € 2.500.000,- per 
+aanspraak met een maximum van € 5.000.000,- per jaar. Derhalve verzoeken 
+wij de maximale aansprakelijkheid van de opdracht te beperken tot 
+maximaal € 2.500.000,- per aanspraak, waardoor ook aangesloten wordt bij 
+hetgeen in de markt gebruikelijk is. Indien u dit niet wilt beperken dan graag 
+uw motivering waarom u hogere eisen stelt dan in de markt gebruikelijk is.
+Antwoord:
+De gemeente heeft kennisgenomen van het verzoek om de maximale 
+aansprakelijkheid te beperken tot € 2.500.000,- per aanspraak. Na 
+heroverweging acht de gemeente dit voorstel proportioneel en in lijn met 
+hetgeen in de markt gebruikelijk is voor opdrachten van vergelijkbare aard 
+en omvang.
+De aansprakelijkheidslimiet van € 2.500.000,- per aanspraak en 
+€ 5.000.000,- per verzekeringsjaar biedt naar het oordeel van de gemeente 
+voldoende zekerheid voor het afdekken van mogelijke schade tijdens de 
+uitvoering van de opdracht, waarbij tevens wordt aangesloten op gangbare 
+verzekeringsniveaus binnen de branche.
+Bijlage E - Concept Overeenkomst is hierop aangepast en als versie 2.0 
+bijgevoegd bij deze Nota van Inlichtingen II.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 3 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+106 Dynamisch model
+Vraag:
+Zouden jullie kunnen overwegen om het dynamisch model als apart 
+beoordelingscriterium toe te voegen? Wat het nu namelijk een beetje lastig 
+maakt is dat het dynamisch model nu onderdeel is van de beoordeling van 
+wens A.1 en A.2, maar de beoordelingsaspecten daarvan zijn vooral 
+toegespitst op het statische model. Een aantal daarvan zijn helemaal niet van 
+toepassing voor het dynamische model. Het zou natuurlijk kunnen dat het 
+statische model en dynamisch model op bepaalde aspecten verschillend 
+scoren. Mocht dit niet als apart beoordelingscriterium opgezet worden, 
+kunnen jullie dan uitleggen hoe jullie de eventueel verschillende 
+beoordelingen van het statisch en dynamisch model tegen elkaar gaan 
+afwegen?
+Antwoord:
+De beoordeling van het dynamisch model hebben wij aangepast. Het is nu 
+een apart onderdeel van de beoordeling. 
+De aanbestedingsleidraad is hierop aangepast en als versie 3.0 bijgevoegd bij 
+deze Nota van Inlichtingen II.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+108 Vervolgvraag op NVI 1 vraag 8,46,65,71,77,78 en 97
+Vraag:
+"De antwoorden op deze vragen roepen wat extra vragen op. Een deel van 
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 4 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+deze antwoorden zijn hier kort samengevat:
+1. Er wordt een viewer gevraagd waarmee de resultaten van het model te 
+analyseren zijn. 
+2. In deze ""viewer"" moet het ook mogelijk zijn om interventies in te 
+voeren en door te rekenen. Dit is technisch gezien geen viewer meer maar 
+een editor en rekentool.
+3. Met de ""viewer"" moet het mogelijk zijn om selected link analyses te 
+doen.
+4. Voor de berekeningen is het toegestaan ""andere software"" of 
+oplossingen te gebruiken dan de software waarmee het model gemaakt is.
+Dit roept de volgende vragen op:
+1. Een interventie, zoals een wegafsluiting, heeft aanzienlijk effect op de 
+selected link analyses. Deze moeten dus herberekend worden?
+2. Hoe dicht moeten de resultaten van de ""andere software"" in de viewer 
+bij de ""echte software"" van de modelbouw regiomodel Amersfoort liggen? 
+En hoe wordt dit beoordeeld?
+"
+Antwoord:
+Er wordt niet, perse, een viewer gevraagd maar een beperkte licentie met een 
+aantal wensen. Het is de inschrijver vrij 'hoe' dit in te vullen, als wij maar 
+zoveel mogelijk van de gewenste functionaliteiten op een praktische manier 
+beschikbaaar hebben. Daarbij moeten wij ervan uit kunnen gaan dat een 
+toedeling (op een andere wijze dan de modelsoftware) vegelijkbare 
+resultaten geeft als een berekening met het verkeersmodel zelf (Max 10% 
+afwijking). Essentie is dat wij zo veel mogelijk van onze eisen ingewilligd 
+willen zien op een zo toegankelijk mogelijke manier.
+Om de markt iets tegemoet te komen hebben we besloten dat de 
+functionaliteiten van de beperkte licentie geen eis zijn, maar een wens. Bij 
+de demo van de beperkte licentie op 2 december verwachten we een 
+overzicht van u en we zullen de beoordeling mede baseren op welke 
+functionaliteiten wel of niet aangeboden worden en op welke manier. 
+De aanbestedingsleidraad en Bijlage G - Programma van eisen zijn hierop 
+aangepast en als versie 3.0 bijgevoegd bij deze Nota van Inlichtingen II.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 5 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+109 Vervolgvraag op vraag 31 NVI 1
+Vraag:
+De Gemeente vraag hier om een garantie bij diensten. Garanties zijn echter 
+geschikt voor zaken en niet voor diensten zoals deze worden verricht onder 
+deze opdracht. Wij begrijpen de gedachte van de Gemeente, tegelijkertijd is 
+een contractuele garantieverplichting hierbij niet passend. Dat geldt meer 
+specifiek voor software, waar het geven van garanties zeer ongewoon en niet 
+passend is. De bewoording duidt op een resultaatsverplichting, hetgeen een 
+verplichting is om een bepaald (foutloos) resultaat te behalen en daarmee een 
+garantie die door Opdrachtnemer verstrekt moet worden, waarbij een beroep 
+op overmacht niet mogelijk is. Dit is niet geschikt voor de werkzaamheden 
+die wij leveren, te weten (consultancy)diensten. Kan de Gemeente 
+bevestigen dat artikel 6.1 van de VNG voorwaarden en het antwoord dat zij 
+op de vraag daaromtrent gegeven heeft van overeenkomstige toepassing is? 
+Indien zo nee, kan de Gemeente verklaren waarom zij een garantie passend 
+vindt voor (consultancy)diensten daar waar garanties in de juridische context 
+met name zien op zaken?
+Antwoord:
+De gemeente onderkent dat de term garantie in civielrechtelijke zin 
+doorgaans betrekking heeft op zaken als bedoeld in artikel 7:17 BW e.v. In 
+het kader van deze aanbesteding wordt de bepaling evenwel toegepast in de 
+context van dienstverlening en software-oplevering.
+De bepaling beoogt niet een absolute resultaatsverplichting in te voeren, 
+maar vormt een aanvullende waarborg dat de door de opdrachtnemer 
+opgeleverde resultaten, waaronder het verkeersmodel, de data en 
+bijbehorende documentatie, gedurende een periode van twaalf maanden na 
+oplevering functioneren conform de overeengekomen specificaties. 
+Eventuele gebreken die binnen die periode aan het licht komen en het gevolg 
+zijn van een aan de opdrachtnemer toerekenbare tekortkoming, dienen door 
+de opdrachtnemer kosteloos te worden hersteld.
+De gemeente bevestigt dat artikel 6.1 van de VNG-Model 
+Inkoopvoorwaarden van overeenkomstige toepassing is en dat de betreffende 
+bepaling daarmee in lijn moet worden gelezen. De garantie-regeling sluit 
+derhalve aan bij het wettelijke kader van behoorlijke nakoming (artikel 6:74 
+BW) en laat onverlet dat de opdrachtnemer zich kan beroepen op overmacht 
+in de zin van artikel 6:75 BW.
+De gemeente acht deze bepaling passend en proportioneel als 
+kwaliteitsborging bij deze opdracht en ziet geen aanleiding om deze te 
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 6 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+wijzigen of te schrappen.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+110 Vervolgvraag op vraag 33 NVI 1
+Vraag:
+Kan de gemeente bevestigen dat conform haar gegeven antwoord hier een 
+toerekenbare tekortkoming aan de zijde van de Opdrachtnemer vereist is?
+Antwoord:
+Ja, de gemeente bevestigt dat herstel van gebreken of fouten binnen de 
+garantieperiode uitsluitend aan de orde is indien sprake is van een aan de 
+opdrachtnemer toerekenbare tekortkoming in de nakoming van zijn 
+verplichtingen in de zin van artikel 6:74 BW.
+De garantieperiode beoogt niet verder te gaan dan het wettelijk regime voor 
+tekortkomingen, maar biedt een aanvullende waarborg dat dergelijke 
+tekortkomingen binnen twaalf maanden kosteloos door de opdrachtnemer 
+worden hersteld.
+De bepaling creëert daarmee geen risicoaansprakelijkheid of 
+resultaatsgarantie buiten de reikwijdte van de overeenkomst, maar vormt een 
+nadere concretisering van de contractuele kwaliteitsborging zoals 
+opgenomen in de aanbestedingsdocumenten.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Nota van inlichtingen Verkeersmodel regio Amersfoort
+Pagina 7 van 7 Datum genereren nota van inlichtingen: 7 nov 2025
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+Ref.nr. Onderwerp:
+112 Vervolgvraag op NVI 1 vraag 8,46,65,71,77,78 en 97
+Vraag:
+De antwoorden op deze vragen roepen wat extra vragen op. Een deel van 
+deze antwoorden zijn hier kort samengevat:
+1. Er wordt een viewer gevraagd waarmee de resultaten van het model te 
+analyseren zijn. 
+2. In deze "viewer" moet het ook mogelijk zijn om interventies in te voeren 
+en door te rekenen. Dit is technisch gezien geen viewer meer maar een editor 
+en rekentool.
+3. Met de "viewer" moet het mogelijk zijn om selected link analyses te doen.
+4. Voor de berekeningen is het toegestaan "andere software" of oplossingen 
+te gebruiken dan de software waarmee het model gemaakt is.
+Dit roept de volgende vragen op:
+3. Amersfoort heeft de beschikking over Urban Strategy. In hoeverre voldoet 
+een koppeling met Urban Strategy aan deze eisen?
+Antwoord:
+Urban Strategy is een ander type tool. Urban Strategy biedt online 
+verschillende mogelijkheden maar de essentie is dat Urban Strategy 'geen' 
+verkeersmodel isw. En juist een verkeermodel nodig heeft om te kunnen 
+functioneren. Zie ook het antwoord op vraag 104.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 2
+Percelen: P  1 Verkeersmodel regio Amersfoort
+Beantwoord op: 7 nov 2025
+
+=== Document: bijlage f - concerngarantieverklaring ===
+BIJLAGE  I : CONCERNVERKLARING De inschrijver dient een organogram van de holding- of concernmaatschappij en bijbehorende (dochter)maatschappijen, en een heldere omschrijving van de organisatiestructuur bij te voegen. Indien sprake is van meerdere moedermaatschappijen dient de hoogste maatschappij de garantie te ondertekenen. Bij Joint Ventures en meerdere niet aan elkaar gelieerde moedermaatschappijen dienen beide moedermaatschappijen zelfstandig deze verklaring in te vullen en te ondertekenen. Beiden zijn hoofdelijk aansprakelijk voor de nakoming van de verplichtingen. Hierbij verklaart ondergetekende, als vertegenwoordiger van de hieronder vermelde moedermaatschappij van inschrijver: Naam moedermaatschappij:           Gevestigd te:           Ingeschreven in het handelsregister onder nummer:           Dat de moedermaatschappij zich namens de inschrijver tegenover de aanbestedende dienst, volledig en onvoorwaardelijk garant stelt voor de nakoming van  alle  verplichtingen die uit de af te sluiten overeenkomst voortvloeien. Dat de inschrijver voor        % eigendom van de moedermaatschappij. Dat de moedermaatschappij zich op het eerste schriftelijke verzoek van de aanbestedende dienst, en onder gelijktijdige overlegging van documenten waaruit genoegzaam blijkt dat inschrijver ondanks sommatie toerekenbaar tekort is geschoten in de nakoming van haar verplichtingen uit hoofde van de overeenkomst, gevolg zal geven aan onderhavige garantie, met dien verstande dat de aansprakelijkheid van de moedermaatschappij uit hoofde van deze garantie nimmer meer zal bedragen dan de aansprakelijkheid van inschrijver uit hoofde van de overeenkomst. Het staat de moedermaatschappij vrij de uitvoering van haar verplichtingen na te komen door een andere dochtermaatschappij of een derde/onderaannemer in te zetten om aan haar verplichtingen te voldoen. Dat opdrachtgever wanneer een beroep door of namens haar wordt gedaan op deze garantie een direct en rechtstreeks benaderbaar contactpersoon bij de moedermaatschappij aan dient te kunnen spreken. De contactgegevens van deze persoon dienen na gunning te worden verstrekt en mogen niet gelijk zijn aan de contactgegevens van de contactpersoon van opdrachtnemer. De garantie eindigt gelijktijdig met de beëindiging van de verplichtingen van opdrachtnemer uit de overeenkomst. Op deze verklaring is Nederlands recht van toepassing en geschillen ter zake worden beslecht overeenkomstig de geschillenregeling van de overeenkomst. Deze verklaring is naar waarheid ingevuld en aldus ondertekend. Moedermaatschappij           Naam           Functie           Plaats           Datum           Handtekening
+
+=== Document: bijlage e - conceptovereenkomst ===
+O vereenkomst  Gemeente Amersfoort  Diensten Naam overeenkomst :  Verkeersmodel Regio Amersfoort De ondergetekenden: [ de heer/mevrouw naam ], te dezen handelend als gevolmachtigde van de te Amersfoort gevestigde publiekrechtelijke rechtspersoon:  Gemeente Amersfoort , met zetel te 3811 LM   Amersfoort, Stadhuisplein 1, ingeschreven in het handelsregister onder nummer 32160938;   hierna ook te noemen: ‘Opdrachtgever', en [ de heer/mevrouw naam en functie ondertekenaar ], te dezen handelend als gevolmachtigde van  [ bedrijfs naam en rechtsvorm ] ,   [ statutair ]  gevestigd te  [ plaats ],   ingeschreven in het handelsregister onder nummer  [ nummer ] ,  hierna  ook  te noemen:  ‘ Opdrachtnemer ’ , Opdrachtgever en Opdrachtnemer hierna gezamenlijk, respectievelijk afzonderlijk ook wel te noemen ‘ P artijen ’, respectievelijk ‘ P artij ’, OVERWEGENDE DAT : Opdrachtgever een  Europese openbare  aanbesteding heeft aangekondigd  voor de regio Amersfoort  voor de opdracht  Verkeersmodel regio Amersfoort  middels publicatie op TenderN ed  van 7 oktober 2025  met kenmerk  539022   (‘de  Diensten ) ; Op drachtgever behoefte heeft aan  het ontwikkelen en opleveren van één  tourbased multimodaal  regionaal verkeersmodel voor de regio Amersfoort  voor verschillende ruimtelijke- en mobiliteitsstudies ; Opdrachtnemer in dat kader op  [ datum ]  een inschrijving heeft gedaan en met die  I nschrijving (i) zich in staat en bereid heeft verklaard de  Diensten  uit te voeren en (ii) heeft verklaard voldoende op de hoogte te zijn van de werkzaamheden en de [resultaat]doelstellingen van de  O pdracht om deze succesvol te kunnen uitvoeren; Opdrachtnemer de economisch meest voordelige inschrijving met de  beste prijs-kwaliteit verhouding  heeft ingediend en Opdrachtgever dientengevolge de  O pdracht aan Opdrachtnemer heeft gegund; P artijen de daaruit voortvloeiende rechtsverhouding schriftelijk wensen vast te leggen in  de onderhavige   O vereenkomst; KOMEN OVEREEN :  In deze Overeenkomst wordt een aantal begrippen met een beginhoofdletter gebruikt.  De definities zoals beschreven in de aanbestedingsdocumenten en inkoopvoorwaarden gelden ook voor deze Overeenkomst.   Bij tegenstrijdigheid tussen de begrippen in de aanbestedingsleidraad en de begrippen in de inkoopvoorwaarden prevaleren de begrippen zoals beschreven in de aanbestedingsleidraad.  Waar in de aanbestedingsstukken en deze Overeenkomst ‘Opdrachtnemer’ staat, wordt daaronder de ‘Contractant’ in de zin van de  VNG-voorwaarden  verstaan. In aanvulling hierop gelden tevens de navolgende begrippen: Gebrek Het niet voldoen van een door Opdrachtnemer aan Opdrachtgever geleverde Dienst aan gestelde eisen in deze Overeenkomst.  Hulppersonen D erden ,  onderaannemers  of hun personeel -  al dan niet ondergeschikt  -  die worden ingezet ter uitvoering van de Overeenkomst.  Voorwerp van de Overeenkomst Opdrachtgever verleent aan Opdrachtnemer opdracht tot het verrichten van  Diensten  overeenkomstig de op basis van de  A anbestedingsleidraad  van Opdrachtgever  7 oktober 2025 , kenmerk  539022  (B ijlage  2 ) door Opdrachtnemer uitgebrachte  Inschrijving   van   […datum… ] , kenmerk  [ ........ ]   (B ijlage  3 ),   welke opdracht Opdrachtnemer bij dezen aanvaardt, een en ander voor zover daarvan niet in deze Overeenkomst wordt afgeweken. De navolgende documenten vormen gezamenlijk de Overeenkomst. Voor zover deze documenten met elkaar in tegenspraak zijn, prevaleert het  eerdergenoemde  document boven het later genoemde: d it document; d e  VNG Algemene Inkoopvoorwaarden voor leveringen en diensten   (hierna: “ VNG-voorwaarden ")   ( Bijlage 1) ; d e  aanbestedingsdocumenten zoals laatstelijk bijgesteld aan de hand van de nota’s van inlichtingen  (Bijlage 2) ; d e door Opdrachtnemer aan Opdrachtgever  uitgebrachte  Inschrijving  van   […datum… ] ,  met  kenmerk [ kenmerk ] . De documenten benoemd onder Bijlagen 1 t/m  2  zijn reeds in bezit van Partijen en niet nogmaals bij deze Overeenkomst gevoegd.  Deze documenten worden geacht met ondertekening en parafering van deze Overeenkomst eveneens te zijn geparafeerd. Gedurende de looptijd van de overeenkomst kan Opdrachtgever  een aantal opties afnemen waarvan het op het moment van aangaan van de overeenkomst nog niet duidelijk is of en wanneer Opdrachtgever gebruik gaat maken van de opties.  Dat betref t het volgende: Actualisaties bestaande uit: kleine update, acutalisatie van het planjaar en een grote actualisatie . Een Dynamisch model  (meso/micro)  voor de  stad  Amrsfoort . Een planjaar 2050 (hoog en laag scenario). Een en ander zoals omschreven in de aanbestedingsstukken paragraaf 3.1. Totstandkoming, duur  en beëindiging  van de Overeenkomst Deze Overeenkomst komt tot stand door ondertekening van  deze overeenkomst   door  P artijen.  De Overeenkomst heeft een looptijd van  5 januari 2026  tot  5  januari  2032 . De  O vereenkomst kan na afloop van deze periode  eenzijdig door opdrachtgever  worden verleng voor  maximaal één jaar.  De totale looptijd bedraagt hiermee 7 jaar.  Na positieve besluitvorming van de Opdrachtgever en positieve contractevaluatie kan Opdrachtgever de Overeenkomst, onder dezelfde voorwaarden, eenzijdig  eenmaal met één jaar  verlengen tot een totale maximale duur van de gehele  O vereenkomst van  zeven  jaar. De  O vereenkomst eindigt van rechtswege na afloop van de eerste verlengingsperiode. Opdrachtgever informeert Opdrachtnemer uiterlijk  zes  maanden voor het einde van de looptijd van de Overeenkomst of van de hiervoor genoemde verlengingsoptie gebruik wordt gemaakt. Voor de  overeengekomen Diensten  gelden de volgende oplevermomenten en data: Het  model voor het basisjaar moet uiterlijk  m oet uiterlijk op  1 september 2026  opgeleverd zijn ; H et  model voor het  planjaar 2040  moet uiterlijk op 31 december 2026  opgeleverd zijn ; De beperkte licentie moet uiterlijk op 1 juni 2026 opgeleverd zijn en beschikbaar zijn voor de regio. Indien de volledige  of een opeisbaar deel van de  Diensten niet binnen de overeengekomen dan wel verlengde termijn zijn verricht op een wijze die aan de Overeenkomst beantwoordt, is Opdrachtnemer aan Opdrachtgever een onmiddellijk opeisbare boete verschuldigd van 0,1 % van  de opdrachtwaarde van de gehele looptijd van de Overeenkomst  voor elke dag dat de tekortkoming voortduurt tot een maximum van 10 % daarvan. Indien nakoming anders dan door overmacht blijvend onmogelijk is geworden, is de boete onmiddellijk in haar geheel verschuldigd.   De boete wordt verrekend met de door Opdrachtgever verschuldigde betalingen, ongeacht of de vordering tot betaling daarvan op een derde is overgegaan. Opdrachtgever is gerechtigd de Overeenkomst met onmiddellijke ingang te beëindigen in geval gedurende de looptijd van de Overeenkomst blijkt dat op Opdrachtnemer één van de in de aanbestedingsprocedure gestelde uitsluitingsgronden van toepassing is dan wel Opdrachtnemer niet (meer) voldoet aan de in de aanbestedingsdocumenten gestelde geschiktheidscriteria en/of uitvoeringsvoorwaarden. Prijs en overige financiële bepalingen De kosten van de door Opdrachtnemer te verrichten Diensten betreffen  het  basis verkeersmodel bestaande uit het basisjaar, het planjaar, het hosten van de omgeving en beschikbaar stellen van het volledige model en lice n tie voor gebruik, daarnaast de actualisaties en de opties , zoals deze zijn opgenomen in het door Opdrachtnemer bij inschrijving ingevulde en ingediende prijsblad.  Voor de volledigheid zijn de tarieven opgenomen in Bijlage 4a Prijzenblad bij deze  O vereenkomst. Uitdrukkelijk wordt bepaald dat indien  O pdrachtnemer geen BTW in rekening brengt ,  maar  voor (een deel van) de Diensten geen vrijstelling van BTW blijkt te bestaan,  deze  niet ten laste komt van Opdrachtgever. De prijs heeft betrekking op alle door Opdrachtnemer in het kader van deze Overeenkomst te verrichten Diensten en eventueel daartoe benodigde materialen  en alle daarmee samenhangende prestaties .  Opdrachtnemer kan , behoudens situaties van opgedragen meerwerk,  onder geen beding andere of extra kosten in rekening brengen.   De overeengekomen tarieven  (mu.v. hosting en licentiekosten)  zijn vast en onveranderlijk gedurende de duur van deze Overeenkomst. De tarieven  (hosting en licentiekosten)  kunnen éénmaal per kalender jaar , voor het eerst op 1 januari 2027,   worden bijgesteld  aan de hand van  het 'CBS-prijsindexcijfer CAO lonen per uur inclusief bijzondere beloningen, categorie zakelijke dienstverlening'. Hierbij wordt telkens het maandcijfer van de vo orafgaande maand  december  gehanteerd, waarbij het ind excijfer van  december, 2025  wordt gesteld op 100%.  Tarieven  kunnen voor de eerste keer per 1 januari van het eerste volledige kalenderjaar volgend op het jaar van ingebruikname worden geïndexeerd.  Opdrachtnemer stuurt elk jaar voor 1  januari  de  prijsindexatie en een prijsoverzicht voor het volgende jaar naar de in de Overeenkomst genoemde contactpersoon van Opdrachtgever. Betaling vindt plaats na acceptatie van de resultaten van de Diensten.  Opdrachtnemer factureert binnen 30 dagen na acceptatie. Contactpersonen Contactpersoon voor Opdrachtgever is  [naam] . Contactpersoon voor Opdrachtnemer is  [naam] . Genoemde contactpersonen binden Partijen niet .   Overige  Voorwaarden Op deze Overeenkomst zijn uitsluitend van toepassing de " VNG Algemene Inkoopvoorwaarden voor leveringen en diensten ”  ( Bijlage 1, zoals  reeds in het bezit van P artijen), voor zover daarvan in deze Overeenkomst niet wordt afgeweken. De toepasselijkheid van (eventuele) algemene en bijzondere voorwaarden van Opdrachtnemer is uitgesloten . In aanvulling op het bepaalde in artikel  4.3 van de  VNG-voorwaarden  geldt met betrekking tot derden het volgende: Opdrachtnemer mag uitsluitend gebruik maken van de volgende bij de inschrijving ingeschreven onderaannemer(s), te weten : [ Naam Onderaannemer] [Naam Onderaannemer ] OF Opdrachtnemer heeft bij de inschrijving ingeschreven met onderaannemer(s) waarop zij een beroep als derde heeft gedaan. Uitsluitend deze onderaannemer(s) worden ingezet ter uitvoering van de betreffende werkzaamheden, te weten: [ Naam Onderaannemer]: [werkzaamheden] [Naam Onderaannemer]: [werkzaamheden ] In aanvulling op het bepaalde in artikel  6 van de  VNG-voorwaarden  geldt met betrekking tot garanties het volgende: Opdrachtnemer garandeert voor een periode van twaalf maanden na acceptatie van de geleverde Dienst door Opdrachtgever, dat de in de garantieperiode geconstateerde Gebrek(en) alsnog worden hersteld door Opdrachtnemer. Het gaat hier om fouten die Opdrachtgever redelijkerwijs niet had kunnen ontdekken bij de acceptatie van het geleverde product. Aan deze herstelwerkzaamheden zijn voor de Opdrachtgever geen kosten verbonden. Indien Opdrachtnemer niet of naar mening van Opdrachtgever niet tijdig en/of niet volledig in staat is het geconstateerde Gebrek(en) te herstellen is Opdrachtgever, onverminderd zijn verdere rechten, gerechtigd deze Gebreken na voorafgaande kennisgeving op kosten van Opdrachtnemer hetzij zelf, hetzij door derden te doen herstellen. Opdrachtnemer is verplicht hieraan zijn medewerking te verlenen, onder meer door de daarvoor benodigde informatie en hem de ter beschikking staande middelen op eerste verzoek van Opdrachtgever kosteloos te verstrekken zonder daaraan voorwaarden te verbinden. In aanvulling op het bepaalde in artikel  1 4 .3  van de  VNG-voorwaarden  het volgende: Er is geen sprake van enige toerekenbare tekortkoming zijdens Opdrachtgever indien en voor zover diens publiekrechtelijke verantwoordelijkheid noopt tot:  het verstrekken van inlichtingen over de (uitvoering van de) Overeenkomst die in eerste instantie als vertrouwelijk zou kunnen worden aangemerkt . In aanvulling op het bepaalde in artikel  1 5 .1  van de   VNG-voorwaarden  het volgende : Indien zich een situatie van overmacht voordoet dient Opdrachtnemer dit onverwijld doch in ieder geval binnen 1 werkdag aan Opdrachtgever schriftelijk mede te delen . Indien Opdrachtnemer zijn verplichtingen op grond van de Overeenkomst niet kan nakomen ten gevolge van overmacht, heeft Opdrachtgever het recht de Overeenkomst door middel van een aangetekend schrijven met inachtneming van een redelijke termijn buiten rechte geheel of gedeeltelijk te ontbinden, zonder dat daardoor enig recht op schadevergoeding ontstaat, maar niet eerder dan na het verstrijken van eent ermijn van 15 werkdagen gerekend vanaf de datum waarop de omstandigheid die de overmacht oplevert ontstond . In aanvulling op het bepaalde in artikel  1 5.2  van de  VNG-voorwaarden  het volgende : Onder  overmacht  wordt niet  verstaan: verlate aanlevering of ongeschiktheid van voor de uitvoering van de werkzaamheden benodigde goederen, het tekort schieten of niet nakomen van de verplichtingen door derden jegens Opdrachtnemer, liquiditeits- of  solvabiliteitsproblemen aan de zijde van door Opdrachtnemer ingeschakelde Hulppersonen. Onder overmacht wordt in ieder geval wel verstaan: oorlog, oorlogsgevaar, mobilisatie, oproer, staat van beleg en beperkingen van overheidswege. Opdrachtnemer is, na overleg met Opdrachtgever gerechtigd om, in geval van overmachtsituaties, de levertijd te verlengen . In aanvulling op hetgeen bepaald is in artikel 1 6  geldt het volgende.  De in het kader van de Overeenkomst door Opdrachtnemer te vergoeden schade is per gebeurtenis beperkt   tot  viermaal  de opdrachtwaarde. Samenhangende gebeurtenissen worden beschouwd als één (1) gebeurtenis . De beperking van de aansprakelijkheid als hiervoor bedoeld komt te vervallen : in geval van schade als gevolg van onrechtmatige daad . In aanvulling op het bepaalde in artikel  20  van de  VNG-voorwaarden  geldt met betrekking tot facturering het volgende : Facturen die niet voldoen aan de in de  O vereenkomst dan wel de in dit artikel genoemde factuurvoorwaarden, zullen door Opdrachtgever niet in behandeling worden genomen. Opdrachtnemer ontvangt de factuur in dat geval retour met het verzoek de ontbrekende en/of onjuiste gegevens te corrigeren. De in artikel  20 . 3  bedoelde betaaltermijn gaat in op de dag dat de correcte factuur wordt ontvangen . Indien een factuur ten onrechte is verstuurd of inhoudelijk onjuist is en door Opdrachtgever reeds is voldaan, dient  Opdrachtnemer  voor het gefactureerde bedrag een creditnota te versturen . U dient uw factuur digitaal te versturen naar:  Factuur@amersfoort.nl . De facturen moeten zijn voorzien van (een) verplichtingnummer .  Facturen zonder dit verplichtingnummer kunnen niet direct in behandeling worden genomen. Op de factuur dient de gemeente Amersfoort als volgt te zijn aangeschreven: Gemeente  Amersfoort Stadhuisplein 1 3811 LM Amersfoort Het versturen van e-facturen is toegestaan. Na gunning dient Opdrachtnemer dit nader af te stemmen met de afdeling Financiële Administratie van de Opdrachtgever via  Factuur@amersfoort.nl . Overschrijding van een betalingstermijn door Opdrachtgever of niet-betaling van een factuur op grond van vermoedelijke onjuistheid daarvan of ingeval van ondeugdelijkheid van de gefactureerde Diensten geeft Opdrachtnemer niet het recht zijn werkzaamheden op te schorten dan wel te beëindigen . In aanvulling op het bepaalde in artikel  2 8  VNG voorwaarden  kan Opdrachtgever deze Overeenkomst zonder enige aanmaning of ingebrekestelling, met onmiddellijke ingang  buiten rechte door middel van een aangetekend schrijven , ontbinden in de volgende gevallen :  indien Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor discriminatie in de zin van de artikelen 137c tot en met 137g en art. 429 quater van het Wetboek van Strafrecht, of ;  indien Personeel van Opdrachtnemer onherroepelijk strafrechtelijk is veroordeeld voor discriminatie in de zin van de artikelen 137c tot en met g en artikel 429 quater van het Wetboek van Strafrecht en de desbetreffende persoon lid is van een bestuurs-, leidinggevend of toezichthoudend orgaan van Opdrachtnemer of daarin vertegenwoordigings-, beslissings-, of controlebevoegdheid heef t. I n de onder a. en b. genoemde gevallen vervalt het recht op ontbinding drie jaar nadat de desbetreffende veroordeling onherroepelijk is geworden . Na artikel  4 van de  VNG-voorwaarden  wordt het volgende artikel  4 A  ingevoegd met betrekking tot maatschappelijk verantwoord ondernemen : 4 A.1 Opdrachtnemer dient zich te houden aan de in Nederland gangbare normen en waarden op sociaal maatschappelijk gebied, waaronder mede, doch niet uitsluitend, wordt begrepen discriminatie van werknemers of (toe-)leveranciers, gebruikmaking van kinderarbeid, ontoereikende arbeidsomstandigheden of andere onethische praktijken en de eventueel in de offerte aanvraag gespecificeerde verdere expliciete eisen en wensen van de Opdrachtgever. Verdere expliciete eisen en wensen hieromtrent, worden in de offerte aanvraag gespecificeerd . 4 A.2 Opdrachtnemer dient actief een verminderde belasting van het milieu bij de uitvoering van de Diensten, waaronder het gebruik van verpakkingen, grond- en hulpstoffen, na te streven . 4A.3 Opdrachtnemer dient een bijdrage te leveren aan de verhoging van arbeidsparticipatie van de onderkant van de arbeidsmarkt (WWB, WSW, Wajong, WIA, BBL en BOL trajecten). De exacte invulling hiervan is in het aanbestedingsdocument gespecificeerd. Eigendom Opdrachtgever wordt vanaf het moment van oplevering door Opdrachtnemer eigenaar van de opgeleverde diensten, te weten de modellen.  Alle intellectuele eigendomsrechten behoren ook aal Opdrachtgever toe.  Integriteits bepaling Opdrachtnemer verklaart dat hij ter verkrijging van de ze Overeenkomst   Personeel van Opdrachtgever generlei voordeel heeft geboden, gegeven, doen aanbieden of doen geven. Hij zal dat ook niet alsnog doen teneinde personen in dienst van Opdrachtgever te bewegen enige handeling te verrichten of na te laten. Gegevens en resultaten Opdrachtnemer draagt er zorg voor dat alle informatie, gegevens en resultaten (data)  kosteloos  uiterlijk binnen één maand na afloop van de Overeenkomst door haar aan Opdrachtgever worden verstrekt. Alle data  dienen  minimaal in bewerkbare format te worden verstrekt, tenzij Opdrachtgever zelf de oorspronkelijke data in niet-bewerkbare format heeft aangeleverd. Partijen kunnen overeenkomen dat informatie en gegevens welke door Opdrachtgever bij aanvang van de Overeenkomst dan wel gedurende de Overeenkomst aan Opdrachtnemer ter beschikking heeft gesteld c.q. heeft verstrekt, worden vernietigd in plaats van teruggeleverd. In geval Opdrachtnemer gegevens en/of resultaten op grond van wet- en/of regelgeving en/of de op haar toepasselijke en algemeen aanvaarde beroepsregels onder zich dient te houden, wordt de reikwijdte van leden 1, eerste volzin, en 2 van dit artikel inzake teruglevering en vernietiging beperkt tot die gegevens en/of die resultaten die blijkens de betreffende  wet- /regelgeving/beroepsregels door Opdrachtnemer bewaard moeten worden. Na afloop van de betreffende termijn is Opdrachtnemer gehouden de gegevens en/of resultaten te vernietigen. Op eerste verzoek van Opdrachtgever dient Opdrachtnemer dit aan te tonen. M et betrekking tot publicatie  geldt  dat uitsluitend Opdrachtgever bevoegd is om (delen van) de rapportage openbaar te maken. Indien Opdrachtgever daartoe besluit, vermeldt hij daarbij Opdrachtnemer als uitvoerend bureau. Indien Opdrachtgever gelijktijdig met de publicatie van het eindrapport een toelichting of commentaar daarop openbaar wil maken, pleegt hij daarover voorafgaand overleg met Opdrachtnemer. Slotbepaling Afwijkingen van deze Overeenkomst zijn slechts bindend voor  zover zij uitdrukkelijk tussen P artijen schriftelijk zijn overeengekomen. Door ondertekening van deze Overeenkomst verval len alle eventueel eerder door P artijen gemaakte mondelinge en schriftelijke afspraken omtrent de hierbij overeengekomen Diensten. Aldus op de laatste van de twee hierna genoemde data overeengekomen en in tweevoud ondertekend, Amersfoort , [ datum ] [Plaats], [datum] Gemeente Amersfoort [ naam Opdrachtnemer ] Namens het college van burgermeester en wethouders , namens deze, [ naam ]   [ naam  functionaris ] [ functie ] [ functie ]

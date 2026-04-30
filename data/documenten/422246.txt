@@ -1,0 +1,1760 @@
+=== Document: beschrijvend document ea gezondheidsmonitor 1.0 ===
+Beschrijvend document 
+ 
+  
+  
+ 
+Europese aanbesteding volgens de openbare procedure 
+Raamovereenkomst Gezondheidsmonitors  
+ 
+GGD GHOR Nederland 
+ 
+Opgesteld door : GGD GHOR Nederland 
+Versie : 1.0 
+Datum : 23-12-2025 
+ 
+ 2 
+Begrippen 5 
+1. Inleiding 8 
+1.1 Aanleiding en context van de Aanbesteding 8 
+1.2 De Aanbestedende dienst 8 
+1.3 Algemene informatie GGD’en 9 
+1.4 Doelstellingen 10 
+1.5 Gebruik Aanbestedingsplatform 11 
+1.6 Aantal raamcontractanten en directe gunning eerste Nadere overeenkomst 11 
+1.7 Opzet van de hoofdstukken 4, 5 en 6 12 
+2. Inhoud van de Opdracht 13 
+2.1 Binnen de scope van de Opdracht 13 
+2.1.1 Het programmeren van online vragenlijsten (en vormgeven van papieren vragenlijsten voor GM V&O 2028) 15 
+2.1.2 Het drukwerk en verzending van de uitnodigingsbrieven en papieren vragenlijst de verzorgen 18 
+2.1.3 De ingevulde papieren vragenlijsten inscannen en samenvoegen met de antwoorden uit de digitale vragenlijst 20 
+2.1.4. Bijhouden en verwerken van de respons 20 
+2.1.5 Data van de (schriftelijke en) digitale vragenlijsten in het gewenste format zetten en aanleveren 21 
+2.1.6 Tijdens het veldwerk (invullen van de vragenlijsten) een helpdesk verzorgen 22 
+2.1.7 Globale planning met de belangrijkste mijlpalen 22 
+2.2 Buiten de scope van de Opdracht 23 
+2.3 Perceelindeling 23 
+2.4 Omvang van de Opdracht 23 
+2.5 Varianten 23 
+2.6 Contractvorm 24 
+2.7 Uitvraag en gunning van Nadere overeenkomsten onder de Raamovereenkomst 24 
+3. Verloop van de Aanbesteding 26 
+3.1 Procedure 26 
+3.2 Planning 26 
+3.3 Communicatie gedurende de Aanbesteding 26 
+3.4 Informatieverstrekking 26 
+3.4.1 Indienen van vragen en opmerkingen 26 
+3.4.2 Beantwoorden vragen in Nota van inlichtingen 27 
+3.5 Indienen van de Inschrijvingen 27 
+3.6 Opening van de Inschrijvingen 28 
+3.7 Beoordeling van de Inschrijvingen 28 
+3.8 Gunningsbeslissing 28 
+3.9 Verificatie 28 
+4. Eisen aan de Inschrijver 30 
+4.1 Inleiding 30 
+4.2 Aanbiedingsbrief (A1) 31 
+4.3 Uitsluitingsgronden 31 
+4.3.1 Verplichte en facultatieve Uitsluitingsgronden 31 
+4.3.2 Invullen van het Uniform Europees Aanbestedingsdocument (A2) 31 
+4.3.3 Bewijsmiddelen ten behoeve van Uitsluitingsgronden 31 
+4.4 Geschiktheidseisen 33 
+4.4.1 Aantonen van financiële en economische draagkracht – Afdekking aansprakelijkheidsrisico’s (E1) 33 
+4.4.2 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Ervaring van de Inschrijver (E2) 33 
+4.4.3 Verklaring van de Accountant zonder continuïteitsparagraaf (E3) 34 
+ 
+ 3 
+4.4.4 Aantonen van technische bekwaamheid en beroepsbekwaamheid – Vereiste standaarden (E5) 35 
+5. Toetsing van de Inschrijving 36 
+5.1 Inleiding 36 
+5.2 Akkoordverklaring toetsingscriteria T1, T2, T3, T4 en T5 36 
+6. Beoordeling van de Inschrijving 37 
+6.1 Gunningsmethode: gewogenfactormethode 37 
+6.2 Beoordelingsteam 37 
+6.3 Wijze van beoordeling 37 
+6.4 Documenten/gegevens en beoordelingsaspecten 37 
+6.4.1 Algemeen 37 
+6.4.2 Wijze van antwoorden op open vragen door Inschrijvers 38 
+6.5 Beoordelingsscores voor de kwalitatieve Gunningscriteria 39 
+6.6 Beoordelingsscores voor de kwantitatieve Gunningscriteria 40 
+7. Voorschriften en voorwaarden 44 
+7.1 Voorbehouden van de Aanbestedende dienst 44 
+7.2 Toepasselijk recht 44 
+7.3 Nederlandse taal 44 
+7.4 Inschrijven in een Samenwerkingsverband 44 
+7.5 Inschrijven met Onderaannemers 44 
+7.6 Inschrijving conform de Aanbestedingsstukken 45 
+7.7 Voorwaardelijke Inschrijving 45 
+7.8 Gedeeltelijke Inschrijving 45 
+7.9 Opgave van prijzen, tarieven en kosten 45 
+7.10 Manipulatief inschrijven 46 
+7.11 Geldigheidsduur van de Inschrijving 46 
+7.12 Ondertekening van het UEA en van de Inschrijving 46 
+7.13 Aantal malen inschrijven 46 
+7.14 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Inschrijving 47 
+7.15 Medewerking onderzoek 47 
+7.16 Kostenvergoeding 47 
+7.17 Status informatie in de Aanbestedingsstukken 48 
+7.18 Merknamen 48 
+7.19 Tegenstrijdigheden, onduidelijkheden of onvolkomenheden in de Aanbestedingsstukken 48 
+7.20 Intellectueel eigendom 48 
+7.21 Uitsluiting en geschiktheid van Inschrijvers 48 
+7.22 Uitsluiting als gevolg van staking van bedrijfsactiviteiten of overname 49 
+7.23 Communicatie gedurende de Aanbesteding 49 
+7.24 Beïnvloeding van de beoordeling 49 
+7.25 Mededeling van de gunningsbeslissing 49 
+7.26 Rechtsmiddel 50 
+7.27 Klachtafhandeling 50 
+8. Bijlagen 51 
+Bijlage A: Programma van eisen 51 
+Bijlage B: Concept Raamovereenkomst 51 
+Bijlage C: Model Verwerkersovereenkomst GGD GHOR Nederland 51 
+Bijlage D: Algemene inkoopvoorwaarden GGD GHOR Nederland 51 
+Bijlage E: Addendum op de Algemene inkoopvoorwaarden voor GGD GHOR Nederland 51 
+ 
+ 4 
+Bijlage F: Verklaring omtrent Russische betrokkenheid 51 
+Bijlage G: Model Geheimhoudingsverklaring 51 
+Bijlage H: Gedragscode Telewerken van de Opdrachtgever 51 
+Bijlage I: Uniform Europees Aanbestedingsdocument 51 
+Bijlage J: Prijzenblad 51 
+Bijlage K: Indienen vragen en opmerkingen 51 
+Bijlage L: Beroep financiële en economische draagkracht 51 
+Bijlage M: Beroep technische en beroepsbekwaamheid 52 
+Bijlage N: Ervaring Inschrijver 52 
+Bijlage O: Menukaart V&O 2024 met aanpassingen op basis van geleerde lessen 52 
+ 
+  
+ 
+ 5 
+Begrippen 
+ 
+In dit document en de overige Aanbestedingsstukken hebben de navolgende begrippen, indien aangeduid 
+met een beginhoofdletter, de volgende betekenis. Als het begrip in enkelvoud is gegeven wordt daaronder 
+ook het meervoud begrepen. Als het begrip in meervoud is gegeven wordt daaronder ook het enkelvoud 
+begrepen.  
+ 
+Aanbestedende dienst Stichting Projectenbureau Publieke Gezondheid en 
+Veiligheid Nederland handelend onder de naam GGD 
+GHOR Nederland. 
+Aanbesteding De onderhavige openbare aanbestedingsprocedure 
+overeenkomstig de Aanbestedingswet 2012, die strekt tot 
+verlening van de Opdracht. 
+Aanbestedingsplatform Het platform waarop de Aanbestedingsstukken worden 
+geplaatst en waarop de communicatie tussen de 
+Aanbestedende dienst en de Inschrijver plaatsvindt en dat 
+als medium dient voor het indienen van een Inschrijving. In 
+deze aanbesteding is dat TenderNed. 
+Aanbestedingsstukken Alle aanbestedingsdocumenten die door de 
+Aanbestedende dienst gedurende de Aanbesteding 
+worden ingebracht. 
+Aanbestedingswet Wet van 1 november 2012, houdende nieuwe regels 
+omtrent Aanbestedingen, Stb. 2012, 542, zoals onder meer 
+gewijzigd bij Wet van 22 juni 2016 tot wijziging van de 
+Aanbestedingswet 2012 in verband met de implementatie 
+van aanbestedingsrichtlijnen 2014/23/EU, 2014/24/EU en 
+2014/25/EU, Stb. 2016, 241. 
+Beschrijvend document Dit document, inclusief Bijlagen, waarin door de 
+Aanbestedende dienst een (nadere) omschrijving van het 
+voorwerp van de Aanbesteding wordt gegeven. 
+Bijlage Een bijlage bij een Aanbestedingsstuk. Een Bijlage maakt 
+integraal deel uit van de Aanbestedingsstukken. 
+Derde Een andere entiteit op wie de Inschrijver een beroep doet 
+met betrekking tot het voldoen aan de Geschiktheidseisen. 
+Deze derde partij is niet per se hetzelfde als een 
+Onderaannemer. 
+Dienst(en)/Dienstverlening 
+ 
+De door de Opdrachtnemer op basis van de 
+Raamovereenkomst ten behoeve van de Opdrachtgever te 
+verlenen diensten, te verrichten werkzaamheden en in het 
+kader daarvan te leveren prestaties, een en ander zoals 
+beschreven in de Aanbestedingsstukken. Het gebruik van 
+de termen ‘Diensten’ en ‘Dienstverlening’ heeft mede 
+betrekking op eventuele leveringen die in het kader van die 
+diensten (dienen te) worden gedaan. 
+ 
+ 6 
+Geïnteresseerde  Vóór het moment van inschrijven – de persoon, 
+onderneming of organisatie die geïnteresseerd is om mee te 
+dingen naar de Opdracht. 
+Geschiktheidseisen Eisen ten aanzien van draagkracht en bekwaamheden 
+waaraan de Inschrijver moet voldoen. 
+Gezondheidsmonitor De Gezondheidsmonitor geeft inzicht in de gezondheid en 
+leefstijl van de Nederlanders bevolking. 
+Gunningscriteria Criteria op basis waarvan de economisch meest voordelige 
+inschrijving wordt bepaald. 
+Herziene documentatie Herziene documentatie betreft aanvullingen en/of 
+wijzigingen ten aanzien van de Aanbestedingsstukken.  
+Inschrijver Een Geïnteresseerde die een Inschrijving heeft ingediend. 
+Inschrijving Het aanbod dat de Inschrijver volgens de 
+Aanbestedingsstukken doet aan de Aanbestedende dienst 
+en dat strekt tot het uitvoeren van de Opdracht. 
+Leveringen 
+ 
+ 
+ 
+De door de Opdrachtnemer op basis van de Overeenkomst 
+ten behoeve van de Opdrachtgever te leveren producten, 
+een en ander zoals beschreven in de 
+Aanbestedingsstukken.  
+Nadere overeenkomst De overeenkomst onder de Raamovereenkomst op basis 
+van een nadere offerteaanvraag tussen de Opdrachtgever 
+en de Opdrachtnemer voor het leveren van (een) 
+product(en), de te verrichten werkzaamheden en/of het 
+verlenen van een Dienst, zoals beschreven in de nadere 
+offerteaanvraag.   
+Nota van inlichtingen Document dat de antwoorden op vragen van 
+Geïnteresseerden en/of reacties op opmerkingen van 
+Geïnteresseerden bevat, evenals eventuele mededelingen 
+van de Aanbestedende dienst en wijzigingen van het 
+Beschrijvend document en/of andere 
+Aanbestedingsstukken. De Nota van inlichtingen maakt 
+onderdeel uit van het Beschrijvend document en prevaleert 
+boven het Beschrijvend document en de daarbij behorende 
+Bijlagen. Bij een Nota van inlichtingen beschikbaar gestelde 
+Herziene documentatie prevaleert boven eerdere versies 
+van die betreffende documenten.  
+Onderaannemer Een leverancier/dienstverlener die de Opdrachtnemer zelf 
+inzet om een gedeelte van de gecontracteerde opdracht 
+uit te voeren, onder verantwoordelijkheid van de 
+Opdrachtnemer als hoofdaannemer. De Opdrachtnemer 
+blijft altijd volledig verantwoordelijk en aansprakelijk voor de 
+(uitvoering van de) Opdracht en de resultaten ervan. Deze 
+onderaannemer is niet per se de Derde als bedoeld in het 
+Beschrijvend document. 
+ 
+ 7 
+Opdracht De opdracht van de Opdrachtgever aan de 
+Opdrachtnemer tot hetgeen is overeengekomen in de 
+Raamovereenkomst en in het kader daarvan te verrichten 
+werkzaamheden en te leveren prestaties, een en ander 
+zoals beschreven in de Aanbestedingsstukken.  
+Opdrachtgever De opdrachtgever, in dit geval de 25 GGD’en en 
+organisatieonderdeel Volksgezondheid van de gemeente 
+Utrecht, die de Raamovereenkomst aangaat met de 
+Opdrachtnemer. 
+Opdrachtnemer De Inschrijver met wie de Opdrachtgever de 
+Raamovereenkomst afsluit. 
+Perceel Een afgebakend onderdeel van de Opdracht waarop 
+apart kan worden ingeschreven.  
+Programma van eisen Het document waarin de specificaties ten aanzien van het 
+uitvoeren van de Opdracht zijn opgenomen. 
+Raamovereenkomst De te sluiten overeenkomst tussen Opdrachtgever en 
+Opdrachtnemer waarin de voorwaarden worden 
+vastgelegd voor toekomstige Opdrachten die worden 
+vastgesteld in Nadere overeenkomsten. 
+Samenwerkingsverband Een combinatie van (rechts)personen die gezamenlijk als 
+één Inschrijver aan de Aanbesteding deelneemt. 
+Subgunningscriteria Prijs en Kwaliteit 
+Uniform Europees 
+Aanbestedingsdocument (UEA) 
+Het document bestemd voor de opgave van de eigen 
+verklaring zoals bedoeld in artikel 2.84 van de 
+Aanbestedingswet 2012. 
+Uitsluitingsgronden Omstandigheden die, indien de Inschrijver daarin verkeert, 
+kunnen leiden tot uitsluiting van deelname aan de 
+Aanbesteding. 
+Werkdag Een kalenderdag, niet zijnde (i) een zaterdag of een 
+zondag, (ii) een algemeen erkende feestdag (conform lid 1 
+van artikel 3 van de Algemene Termijnenwet). 
+ 
+  
+ 
+ 8 
+1. Inleiding 
+ 
+1.1 Aanleiding en context van de Aanbesteding 
+In dit Beschrijvend document staat informatie over de Europese aanbesteding van de Raamovereenkomst 
+voor minimaal drie verschillende Gezondheidsmonitors in de periode 2026-2029.  
+• In 2026 wordt een Gezondheidsmonitor Jeugd (hierna: GM Jeugd) uitgevoerd onder leerlingen in klas 
+2 en klas 4 van het reguliere voortgezet onderwijs,  
+• In 2028 wordt een Opgroeien in een Kansrijke Omgeving Gezondheidsmonitor (hierna: OKO GM) 
+uitgevoerd, ook onder leerlingen in klas 2 en klas 4 van het reguliere voortgezet onderwijs.  
+• Ook in 2028 wordt een Gezondheidsmonitor Volwassenen en Ouderen (hierna: GM V&O) uitgevoerd.  
+ 
+Voor zowel de GM Jeugd 2026 als voor de GM V&O 2028 geldt dat de 25 GGD’en en organisatieonderdeel 
+Volksgezondheid van gemeente Utrecht gezamenlijk Opdrachtgever zijn (hierna genoemd als; 26 GGD’en). 
+Voor de OKO GM geldt dat alleen de GGD’en met een OKO-gemeente in hun verzorgingsgebied deelnemen 
+en dus Opdrachtgever zijn. Anno 2025 zijn dit 18 GGD’en. In tegenstelling tot de GM Jeugd doen een beperkt 
+aantal gemeenten en scholen mee met de OKO GM 2028. Ook zal de OKO GM alleen worden uitgevoerd 
+onder voorbehoud van financiering.  
+ 
+GGD GHOR Nederland nodigt geïnteresseerden uit om een Inschrijving in te dienen op basis van de informatie 
+in de Aanbestedingsstukken. Inschrijvers moeten voldoen aan de voorwaarden in dit Beschrijvend document 
+inclusief de bijlagen. 
+ 
+GGD’en voeren in samenwerking met GGD GHOR Nederland (GGD GHOR Nederland heeft een 
+coördineerde taak in deze) en het RIVM de GM Jeugd uit. De GM Jeugd vindt regulier elke vier jaar plaats. De 
+laatste GM Jeugd vond plaats in 2023, de volgende GM Jeugd vindt vanwege organisatorische redenen in 
+2026 plaats. Het is een grootschalig onderzoek onder tweede- en vierdejaars leerlingen van het regulier 
+voortgezet onderwijs. In totaal zullen de 26 GGD’en rond de (maximaal) 1.200 middelbare scholen benaderen 
+om deel te nemen aan het onderzoek. In 2023 deden ruim 800 met ruim 200.000 leerlingen mee aan de 
+monitor. Voor 2026 verwachten we minstens dezelfde aantallen, waarschijnlijk iets meer. De GM Jeugd 2026 
+zal in de maanden september 2026 tot en met november 2026 plaatsvinden.  
+De OKO GM vindt elke twee jaar plaats, de ene keer geïntegreerd in de GM Jeugd, de andere keer als een 
+aparte monitor. De volgende OKO GM moet in september 2028 operationeel zijn en zal doorlopen tot en met 
+(ongeveer) december 2028. De OKO GM wordt uitgevoerd door een gedeelte van de GGD’en in 
+samenwerking met GGD GHOR Nederland. GGD GHOR Nederland heeft een coördineerde taak in deze. 
+Voor de GM V&O geldt dat GGD’en deze uitvoeren in samenwerking met GGD GHOR Nederland (GGD 
+GHOR Nederland heeft een coördineerde taak in deze), het RIVM en het CBS. De GM V&O vindt elke vier jaar 
+plaats, de volgende moet in september 2028 operationeel zijn en zal doorlopen tot en met de eerste helft van 
+december 2028.  
+ 
+1.2 De Aanbestedende dienst  
+GGD GHOR Nederland is dé belangenbehartiger voor de publieke gezondheid en veiligheid in Nederland. 
+GGD GHOR Nederland is de overkoepelende brancheorganisatie van de 25 Gemeentelijke 
+Gezondheidsdiensten (GGD’en) en Geneeskundige Hulpverleningsorganisaties in de Regio (GHOR). De 
+belangrijkste taak als landelijke vereniging bestaat uit het collectief behartigen van de belangen van haar 
+leden - de directeuren publieke gezondheid en de GGD'en en GHOR bureaus - richting politiek, (lokale) 
+overheden, samenwerkingspartners, media en publiek.  
+ 
+ 9 
+Daarnaast draagt GGD GHOR Nederland namens de GGD’en bij aan oplossingen voor maatschappelijke 
+vraagstukken als het gaat om jeugd, sociaal domein en veiligheid. Deze drie taakvelden staan dan ook 
+centraal bij GGD GHOR Nederland. Verder geeft de landelijke vereniging betekenis aan de vier kernwaarden: 
+proactief, verantwoordelijk, betrouwbaar en omgevingsgericht.  
+ 
+Ook voert GGD GHOR Nederland projecten uit die centraal moeten worden uitgevoerd en die 
+randvoorwaarden en producten opleveren, waarmee de GGD’en en GHOR-bureaus hun werkzaamheden 
+kunnen verrichten.  
+ 
+Nadere overeenkomsten 
+GGD GHOR Nederland besteedt aan namens de 25 Gemeentelijke Gezondheidsdiensten (GGD’en) en 
+organisatieonderdeel Volksgezondheid van de gemeente Utrecht en sluit zelf geen overeenkomst met de 
+Opdrachtnemer af.  
+ 
+Voor de GM Jeugd 2026 geldt dat één Nadere overeenkomst wordt opgesteld, die ondertekend wordt door 
+alle 26 GGD’en. GGD GHOR Nederland levert een template van de Verwerkersovereenkomst aan bij de 
+GGD’en. GGD’en kunnen deze zelf aanpassen naar de regionale situatie, maar hierdoor wijzigt de scope van 
+de opdracht en de Nadere overeenkomst niet. Facturatie van het programmeren van het basisgedeelte van 
+de vragenlijst en de tijdelijke dataopslag vindt plaats aan GGD GHOR Nederland als coördinator van deze 
+opdracht. Facturatie voor het programmeren van het lokale gedeelte van de vragenlijst vindt plaats aan de 
+26 GGD’en. Aangezien de GM Jeugd 2026 de eerste Opdracht onder de Raamovereenkomst wordt zijn de 
+gunningscriteria als casus voor deze Raamovereenkomst daarop afgestemd.  
+ 
+Voor de OKO GM 2028 geldt dat na de nadere offerteaanvraag één Nadere overeenkomst wordt opgesteld, 
+die ondertekend wordt door de deelnemende GGD’en. Opgegeven prijzen en tarieven worden later in de 
+Nadere overeenkomst. Daarnaast sluit elke GGD zijn eigen Verwerkersovereenkomst met Opdrachtnemer. 
+GGD GHOR Nederland levert een template van de Verwerkersovereenkomst aan bij de GGD’en. GGD’en 
+kunnen deze zelf aanpassen naar de regionale situatie, maar hierdoor wijzigt de scope van de opdracht en 
+de Nadere overeenkomst niet.  
+ 
+Voor de GM V&O 2028 geldt dat alle 26 GGD’en na de nadere offerteaanvraag een eigen Nadere 
+overeenkomst en Verwerkersovereenkomst met Opdrachtnemer sluiten, waarbij de opgegeven prijzen en 
+tarieven later in de Nadere overeenkomst worden vastgelegd. Voor de Verwerkersovereenkomst geldt dat 
+GGD GHOR Nederland een template oplevert aan de GGD’en. GGD’en kunnen deze zelf aanpassen naar 
+de regionale situatie, maar hierdoor wijzigt de scope van de opdracht en de Nadere overeenkomst niet. 
+Iedere GGD kan naast het basisdeel optionele diensten afnemen, zie de menukaart in bijlage O. Deze 
+menukaart is gebaseerd op de uitvoer van 2024 met aanpassingen op basis van geleerde lessen. De 
+uiteindelijke menukaart met maatwerkkeuzes voor de GM V&O 2028 wordt bij de nadere offerteaanvraag 
+voor de Nadere overeenkomst toegevoegd. Facturatie vindt plaats per GGD. 
+ 
+Daar waar in dit Beschrijvend document wordt gesproken van (handelingen verricht door) GGD GHOR 
+Nederland, wordt te allen tijde bedoeld dat als coördinator wordt gehandeld namens de 26 GGD’en. 
+  
+1.3 Algemene informatie GGD’en  
+Gemeentelijke (of Gemeenschappelijke) Gezondheidsdiensten oftewel GGD’en bevorderen de gezondheid 
+van de inwoners van Nederland. Dit heet ook wel publieke gezondheidszorg. Publieke gezondheidszorg is een 
+zeer divers taakgebied dat ooit begon met de waterzuivering en schoolartsen en nu is uitgegroeid tot een 
+taak waar ook seksuele gezondheid en toezicht op de kinderopvang onder valt. Onderdeel van publieke 
+ 
+ 10 
+gezondheidszorg is ook het monitoren van de volksgezondheid. De Wet publieke gezondheid (Wpg, artikel 2, 
+lid 2a en 2b) draagt gemeenten op om, op landelijk gelijkvormige wijze, inzicht in de gezondheidssituatie van 
+de bevolking te verwerven. Hiernaast draagt de Wet publieke gezondheid (Wpg, artikel 5a) gemeenten ook 
+op om stelselmatig de gezondheid van ouderen te monitoren. Deze wettelijk taak wordt uitgevoerd door de 
+GGD’en, in samenwerking met het RIVM, het CBS (alleen bij de GM V&O) en GGD GHOR Nederland.  
+ 
+1.4 Doelstellingen 
+De GGD’en hebben de wettelijke taak om de gezondheidssituatie in kaart te brengen. Dit doen de GGD’en 
+regulier één keer in de vier jaar. Er zijn drie verschillende doelgroepen, namelijk Jeugd, Volwassenen in de 
+leeftijd van 18-64 jaar en Ouderen met een leeftijd van 65 jaar en ouder. De monitor van de doelgroepen 
+Volwassenen en Ouderen vindt gelijktijdig plaats. De 4-jaarlijkse monitor Jeugd wordt afgewisseld met een 
+kortere OKO GM Jeugd voor een groot deel van de GGD’en, hier doen minder gemeenten en minder 
+scholen aan mee. Met deze aanbesteding wenst Opdrachtgever een Raamovereenkomst te sluiten voor in 
+ieder geval drie Gezondheidsmonitors die plaatsvinden in de periode 2026 tot en met 2029. Met deze 
+Gezondheidsmonitors wenst Opdrachtgever inzicht te geven over de gezondheidssituatie van de burgers op 
+gemeenteniveau. Met de aanbesteding van de Raamovereenkomst wenst GGD GHOR Nederland de 
+volgende doelstellingen te realiseren.  
+ 
+Doelstelling Toelichting 
+GM Jeugd 2026 
+1. Werk uit handen nemen Opdrachtnemer neemt Opdrachtgever zoveel mogelijk werk uit 
+handen bij de dataverzameling door het programmeren van de 
+digitale vragenlijst, verzorgen van een helpdesk, en het opleveren van 
+dataset(s). Daarbij is Opdrachtnemer een centraal aanspreekpunt voor 
+de afstemming over de GM Jeugd. Zowel het RIVM, GGD GHOR 
+Nederland, en de afzonderlijke GGD’en dienen te kunnen afstemmen 
+met Opdrachtnemer.  
+2. Adviseren en proactief 
+handelen 
+De te selecteren partij moet kunnen meedenken, ongevraagd advies 
+geven en proactief inspringen op de behoeften van de 
+Opdrachtgever, zodat een kwalitatief goed onderzoek wordt 
+neergezet en voldoende respondenten worden behaald. Het 
+inhoudelijk adviseren op de vragenlijst valt buiten de scope.    
+3. Voldoende respons Het dekken van de representativiteit en het genereren van een 
+voldoende respons op de vragenlijst per gebiedseenheid. 
+4. Faciliteren  Het de respondenten zo makkelijk mogelijk maken om de vragenlijst in 
+te vullen. 
+OKO GM 2028 
+1. Werk uit handen nemen Opdrachtnemer neemt Opdrachtgever zoveel mogelijk werk uit 
+handen bij de dataverzameling door het programmeren van de 
+digitale vragenlijst, verzorgen van een helpdesk, en opleveren van 
+dataset(s). Daarbij is Opdrachtnemer een centraal aanspreekpunt voor 
+de afstemming over de OKO GM. Zowel GGD GHOR Nederland, als de 
+afzonderlijke GGD’en dienen te kunnen afstemmen met de 
+Opdrachtnemer.  
+2. Adviseren en proactief 
+handelen 
+De te selecteren partij moet kunnen meedenken, ongevraagd advies 
+geven en proactief inspringen op de behoeften van de 
+ 
+ 11 
+Opdrachtgever, zodat een kwalitatief goed onderzoek wordt 
+neergezet en voldoende respondenten worden behaald. Het 
+inhoudelijk adviseren op de vragenlijst valt buiten de scope.    
+3. Voldoende respons Het dekken van de representativiteit en het genereren van een 
+voldoende respons op de vragenlijst per gebiedseenheid. 
+4. Faciliteren  Het de respondenten zo makkelijk mogelijk maken om de vragenlijst in 
+te vullen. 
+GM V&O 2028 
+1. Werk uit handen nemen Opdrachtnemer neemt Opdrachtgever zoveel mogelijk werk uit 
+handen bij de dataverzameling door het programmeren van de 
+digitale vragenlijst, verzorgen van een helpdesk, verzenden van de 
+uitnodigingen, en opleveren van dataset(s). Daarbij is Opdrachtnemer 
+een centraal aanspreekpunt voor de afstemming over de GM V&O. 
+Zowel GGD GHOR Nederland, als de afzonderlijke GGD’en en het CBS 
+dienen te kunnen afstemmen met de Opdrachtnemer.  
+2. Adviseren en proactief 
+handelen 
+De te selecteren partij moet kunnen meedenken, ongevraagd advies 
+geven en proactief inspringen op de behoeften van de 
+Opdrachtgever, zodat een kwalitatief goed onderzoek wordt 
+neergezet en voldoende respondenten worden behaald. Het 
+inhoudelijk adviseren op de vragenlijst valt buiten de scope.    
+3. Voldoende respons Het dekken van de representativiteit en het genereren van een 
+voldoende respons op de vragenlijst per gebiedseenheid. 
+4. Faciliteren  Het de respondenten zo makkelijk mogelijk maken om de vragenlijst in 
+te vullen, rekening houdend met verschillende doelgroepen. 
+ 
+1.5 Gebruik Aanbestedingsplatform 
+De Aanbestedende dienst stelt alle Aanbestedingsstukken beschikbaar via het Aanbestedingsplatform 
+TenderNed. De Inschrijver kan zijn Inschrijving uitsluitend via het Aanbestedingsplatform indienen. De 
+Aanbestedende dienst is op geen enkele wijze verantwoordelijk voor het gebruik van het 
+Aanbestedingsplatform door de Inschrijver en wijst iedere vorm van aansprakelijkheid nadrukkelijk van de 
+hand. 
+ 
+Voor zover omschrijvingen op het Aanbestedingsplatform en het Beschrijvend document met elkaar in 
+tegenspraak zijn, prevaleert het Beschrijvend document boven de omschrijvingen op het 
+Aanbestedingsplatform. 
+ 
+Let op – Om toegang te krijgen tot TenderNed, dient een onderneming te beschikken over e-Herkenning. Het 
+aanvragen van e-Herkenning kan enkele weken duren. Meer informatie over het aanvragen van e-
+Herkenning is te vinden op de website van TenderNed. 
+ 
+1.6 Aantal raamcontractanten en directe gunning eerste Nadere 
+overeenkomst 
+De Aanbestedende dienst is voornemens om op basis van deze aanbestedingsprocedure drie 
+Raamovereenkomsten te sluiten met de Inschrijvers die na beoordeling van de Inschrijvingen op basis van de 
+gunningscriteria de hoogste totaalscores behalen en als nummer 1, nummer 2 en nummer 3 in rangorde 
+ 
+ 12 
+eindigen, mits ten minste drie geldige Inschrijvingen zijn ontvangen. Indien slechts twee geldige Inschrijvingen 
+zijn ontvangen, worden met deze twee Inschrijvers Raamovereenkomsten gesloten. In dat geval eindigt de 
+rangorde bij nummer 2. 
+  
+De Inschrijver die als nummer 1 in rangorde eindigt, wordt aangemerkt als de eerst geplaatste 
+raamcontractant. Aan deze Inschrijver wordt direct bij de gunning van de Raamovereenkomst tevens de 
+eerste Nadere overeenkomst gegund, zijnde de opdracht voor het eerste onderzoek onder de 
+Raamovereenkomst (te weten: de GM Jeugd 2026). 
+Voor deze eerste Nadere overeenkomst vindt geen nadere uitvraag of mini-competitie plaats. De gunning 
+van deze Nadere overeenkomst is volledig gebaseerd op de beoordeling van de Inschrijving in het kader van 
+de Raamovereenkomst, waarbij prijs en kwaliteit zijn beoordeeld overeenkomstig de in dit Beschrijvend 
+document opgenomen gunningscriteria en de daaruit voortvloeiende rangorde. Deze werkwijze is ingegeven 
+door de noodzaak om deze eerste Nadere overeenkomst op korte termijn te kunnen uitvoeren. 
+  
+Alle raamcontractanten behouden gedurende de looptijd van de Raamovereenkomst het recht om deel te 
+nemen aan nadere uitvragen (mini-competities) voor volgende onderzoeken, overeenkomstig de bepalingen 
+van de Raamovereenkomst. 
+ 
+1.7 Opzet van de hoofdstukken 4, 5 en 6 
+De Hoofdstukken 4 (Eisen aan de Inschrijver) 5 (Toetsing van de Inschrijving) en 6 (Beoordeling van de 
+Inschrijving) hebben een samenhang, welke schematisch hieronder is weergegeven. De consistentiebewaking 
+van de aangeleverde informatie is een taak van de Inschrijver.  
+ 
+Waar een Inschrijver een beroep doet op kennis en/of ervaringen (o.a. in referenties) voor de uitvoering van 
+de opdracht, dienen dient deze kennis en ervaring ter beschikking te staan gedurende de looptijd van de 
+Raamovereenkomst.  
+  
+
+ 
+ 13 
+2. Inhoud van de Opdracht 
+ 
+2.1 Binnen de scope van de Opdracht 
+De scope van de Opdracht bevat de volgende onderdelen: 
+ 
+Uitvoeringsdata Periode  
+GM Jeugd 2026  
+Voorbereidingsfase April tot en met september 2026 
+Uitvoering September tot en met november 2026 
+Afronding December 2026, met uitloop naar januari 2027  
+OKO GM 2028  
+Voorbereidingsfase Mei tot en met september 2028 
+Uitvoering September tot en met november 2028 
+Afronding December 2028, met uitloop naar januari 2029  
+GM V&O 2028  
+Voorbereidingsfase Maart tot en met september 2028 
+Uitvoering September tot en met december 2028 
+Afronding December 2028, met uitloop naar januari 2029  
+ 
+GM Jeugd 2026 
+De opdracht voor deze monitor dient te voldoen aan de eisen zoals beschreven in dit beschrijvend document 
+en meer specifiek in het programma van eisen, zie bijlage A, tabblad 1 en 2. Op hoofdlijnen bevat de 
+opdracht:  
+• Het faciliteren en uitvoeren van de dataverzameling voor de GM Jeugd 2026 en daarbij inbegrepen: 
+• Het programmeren van online (maatwerk) vragenlijsten; 
+• Het verzorgen van de beveiligde opslag van de ingevulde vragenlijsten. Hier wordt minimaal 
+onder verstaan het veilig opslaan, beheren, beveiligen, back-uppen, herstellen, exporteren 
+en – na afloop van bewaartermijn of contract – vernietigen/overdragen van alle 
+vragenlijstdata (responsdata en relevante metadata), inclusief de daarbij behorende 
+maatregelen voor toegangsbeheer, logging, encryptie, continuïteit, dataseparatie en AVG-
+compliance; 
+• Veilige hosting ziet op de veilige en beschikbare werking van de online vragenlijstmodule 
+tijdens afname (applicatie- en infrastructuurbeveiliging). Veilige dataopslag ziet op de 
+bescherming en het beheer van de opgeslagen vragenlijstdata gedurende de gehele 
+datalifecycle (encryptie, toegangsbeheer, back-up/herstel, bewaartermijnen, export en 
+vernietiging); 
+• Het bijhouden en verwerken van de respons per school in een (online) responsoverzicht;  
+• Data van de digitale vragenlijsten in SPSS zetten en aanleveren aan het RIVM, en per GGD 
+aan de GGD;  
+• Tijdens het veldwerk (de periode van invullen van de vragenlijsten) een helpdesk voor scholen 
+verzorgen. Op basis van eerdere monitors maakt naar verwachting minder dan 10% van de scholen 
+hier gebruik van.  
+ 
+ 14 
+• Tijdens de voorbereidings- en uitvoeringsfase vinden er regelmatig voortgangsgesprekken plaats met 
+Opdrachtgever en GGD GHOR Nederland. Deze overlegmomenten zullen in samenspraak met de 
+opdrachtnemer worden ingepland. Het doel is om de voortgang te borgen en om bij te sturen waar 
+nodig.  
+• Na afloop van de Opdracht een eindevaluatie.  
+ 
+OKO GM 2028 
+De opdracht voor deze monitor dient te voldoen aan de eisen zoals beschreven in dit beschrijvend document 
+en meer specifiek in het programma van eisen, zie bijlage A, tabblad 1 en 2. Op hoofdlijnen bevat de 
+opdracht:  
+• Het faciliteren en uitvoeren van de dataverzameling voor de OKO GM 2028 en daarbij inbegrepen: 
+• Het programmeren van de online vragenlijst; 
+• Het verzorgen van de beveiligde opslag van de ingevulde vragenlijsten. Hier wordt minimaal 
+onder verstaan het veilig opslaan, beheren, beveiligen, back-uppen, herstellen, exporteren 
+en – na afloop van bewaartermijn of contract – vernietigen/overdragen van alle 
+vragenlijstdata (responsdata en relevante metadata), inclusief de daarbij behorende 
+maatregelen voor toegangsbeheer, logging, encryptie, continuïteit, dataseparatie en AVG-
+compliance; 
+• Veilige hosting ziet op de veilige en beschikbare werking van de online vragenlijstmodule 
+tijdens afname (applicatie- en infrastructuurbeveiliging). Veilige dataopslag ziet op de 
+bescherming en het beheer van de opgeslagen vragenlijstdata gedurende de gehele 
+datalifecycle (encryptie, toegangsbeheer, back-up/herstel, bewaartermijnen, export en 
+vernietiging); 
+• Het bijhouden en verwerken van de respons per school in een online responsoverzicht;  
+• Data van de digitale vragenlijsten in het opgegeven format zetten en aanleveren per GGD 
+aan de GGD;  
+• Tijdens het veldwerk (de periode van invullen van de vragenlijsten) een helpdesk voor scholen 
+verzorgen. Op basis van eerdere monitors maakt naar verwachting minder dan 10% van de scholen 
+hier gebruik van.  
+• Tijdens de voorbereidings- en uitvoeringsfase vinden er regelmatig voortgangsgesprekken plaats met 
+Opdrachtgever en GGD GHOR Nederland. Deze overlegmomenten zullen in samenspraak met de 
+opdrachtnemer worden ingepland. Het doel is om de voortgang te borgen en om bij te sturen waar 
+nodig.  
+ 
+GM V&O 2028 
+De opdracht voor deze monitor dient te voldoen aan de eisen zoals beschreven in dit beschrijvend document 
+en meer specifiek in het programma van eisen, zie bijlage A, tabblad 1 en 3. Op hoofdlijnen bevat de 
+opdracht:  
+• Het faciliteren en uitvoeren van de dataverzameling voor de GM V&O 2028 en daarbij inbegrepen: 
+• Het programmeren van de online (maatwerk) vragenlijsten; 
+• Het vormgeven van de papieren vragenlijsten; 
+• Het verzorgen van de beveiligde opslag van de ingevulde vragenlijsten. Hier wordt minimaal 
+onder verstaan het veilig opslaan, beheren, beveiligen, back-uppen, herstellen, exporteren 
+en – na afloop van bewaartermijn of contract – vernietigen/overdragen van alle 
+vragenlijstdata (responsdata en relevante metadata), inclusief de daarbij behorende 
+maatregelen voor toegangsbeheer, logging, encryptie, continuïteit, dataseparatie en AVG-
+compliance; 
+• Veilige hosting ziet op de veilige en beschikbare werking van de online vragenlijstmodule 
+tijdens afname (applicatie- en infrastructuurbeveiliging). Veilige dataopslag ziet op de 
+ 
+ 15 
+bescherming en het beheer van de opgeslagen vragenlijstdata gedurende de gehele 
+datalifecycle (encryptie, toegangsbeheer, back-up/herstel, bewaartermijnen, export en 
+vernietiging); 
+• Het drukwerk en verzending van de papieren vragenlijst en uitnodigingsbrieven verzorgen, 
+inclusief het doorvoeren van actualisaties van de steekproef; 
+• De ingevulde papieren vragenlijsten inscannen en samenvoegen met de antwoorden uit de 
+digitale vragenlijsten; 
+• Het bijhouden en verwerken van de respons in een (online) responsoverzicht en na veldwerk 
+in een responsbestand;  
+• Data van de papieren en digitale vragenlijsten in het opgegeven format zetten en 
+aanleveren aan GGD GHOR Nederland samen met de responsbestanden;  
+• Het uitvoeren van maatwerkkeuzes uit de menukaart, zie bijlage O. Deze menukaart is 
+gebaseerd op de uitvoer van 2024 met aanpassingen op basis van geleerde lessen. De 
+uiteindelijke menukaart met maatwerkkeuzes voor de GM V&O 2028 wordt bij de Nadere 
+offerteaanvraag voor de Nadere overeenkomst toegevoegd  
+• Tijdens het veldwerk (de periode van invullen van de vragenlijsten) een helpdesk verzorgen. Op basis 
+van eerdere monitors maakt naar verwachting circa 2% van de respondenten hier gebruik van.  
+• Tijdens de voorbereidings- en uitvoeringsfase vinden er regelmatig voortgangsgesprekken plaats met 
+Opdrachtgever en GGD GHOR Nederland. Deze overlegmomenten zullen in samenspraak met de 
+opdrachtnemer worden ingepland. Het doel is om de voortgang te borgen en om bij te sturen waar 
+nodig.  
+• Na afloop van de Opdracht een eindevaluatie.  
+ 
+Aanvullende diensten GM V&O 2026 
+Organisatieonderdeel Volksgezondheid van de gemeente Utrecht is voornemens een GM V&O 2026 uit te 
+voeren. Zij zullen hiervoor een nadere offerteaanvraag indienen voor een Nadere Overeenkomst. Hiervoor zal 
+het Programma van Eisen voor de GM V&O 2028 als uitgangspunt gebruikt worden, evenals de tekst in dit 
+document onder de koppen GM V&O 2028. 
+ 
+2.1.1 Het programmeren van online vragenlijsten (en vormgeven van papieren 
+vragenlijsten voor GM V&O 2028)  
+ 
+GM Jeugd 2026 
+Opdrachtnemer verzorgt de online vragenmodule (de (technische) voorkant en (technische) achterkant). 
+Hierbij moet de online vragenmodule binnen de EER worden gehost (datacenterlocatie en gegevensopslag), 
+door Opdrachtnemer en/of diens subverwerkers. Persoonsgegevens worden niet buiten de EER verwerkt of 
+toegankelijk gemaakt. De hostingomgeving en dienstverlening vallen onder een aantoonbaar 
+geïmplementeerd informatiebeveiligingsmanagementsysteem, bij voorkeur ISO/IEC 27001 of aantoonbaar 
+gelijkwaardig.  
+ 
+Er dient rekening te worden gehouden met verschillen tussen de GGD’en wat betreft de inhoud en 
+vormgeving van de vragenlijsten. GGD GHOR Nederland levert de basisvragenlijst (vragen die voor alle 
+GGD’en gelden) in de eerste helft van april 2026 aan. Na uitvoerig testen, geeft GGD GHOR Nederland 
+akkoord op de basisvragenlijst, indien deze geen fouten bevat. Deze digitale basisvragenlijst kan vervolgens 
+worden gedupliceerd. Vervolgens levert GGD GHOR Nederland de OKO-module (een vastgestelde set van 
+(ongeveer) 12 vragen) aan en een lijst van GGD’en die deze vragenset ingebouwd moeten krijgen. 
+Vervolgens wordt deze vragenlijst ook getest door GGD GHOR Nederland, en akkoord gegeven indien geen 
+fouten meer aanwezig. Daarna kan ook deze versie gedupliceerd worden. Tot slot leveren GGD’en de 
+basisvragenlijst inclusief hun lokale vragen en eventueel de OKO-module gefaseerd aan in de periode mei tot 
+ 
+ 16 
+en met juni 2026. Dit betekent dat er 26 verschillende vragenlijsten zijn. GGD-logo’s dienen te worden 
+opgenomen in de online vragenmodule. De online vragenmodule moet qua kleurstelling aangepast kunnen 
+worden aan de huisstijl van de afzonderlijke GGD. Elke GGD heeft zijn eigen landingspagina, waar de FAQ en 
+de privacyverklaring in een voetnoot van de vragenlijst worden geplaatst.  
+Opdrachtnemer moet de mogelijkheid bieden om een simpelere vragenlijst voor het voortgezet speciaal 
+onderwijs te programmeren (middels aanvullende financiering vanuit GGD’en). Per school moet er een 
+aparte link (URL) beschikbaar worden gesteld, zodat duidelijk is op welke school de betreffende respondent zit 
+(essentiële informatie voor het opleveren van gewogen resultaten). 
+De software waarin de digitale vragenlijsten worden ingevuld en waar de FAQ en privacyverklaring te lezen 
+zijn, heeft een responsive design (de weergave past zich zo optimaal mogelijk aan het scherm aan waarmee 
+de website bezocht wordt). Hiervoor wordt getest op verschillende devices (PC, laptop, tablet, mobiele 
+telefoon). Tevens voldoet de software aan alle eisen die aan de overheid worden gesteld met betrekking tot 
+digitoegankelijkheid.  
+De Opdrachtnemer garandeert een beschikbaarheid van de online vragenmodule van 99,9% per 
+kalendermaand. Gepland onderhoud, mits tijdig aangekondigd, is uitgesloten van deze berekening. Gepland 
+onderhoud wordt minimaal vijf werkdagen vooraf aangekondigd en vindt plaats binnen de volgende 
+tijdstippen (in het weekend of tussen 18:00 uur - 06:00 uur). Er vindt directe afstemming plaats bij grote 
+storingen. Kritieke incidenten worden binnen 24 uur opgelost; functionele incidenten binnen drie werkdagen. 
+De oplossing voldoet aan de volgende prestaties: 
+• 95% van de pagina-aanvragen laadt binnen twee seconden; 
+• Ondersteunt minimaal 5.000 gelijktijdige respondenten; 
+• Prestatievermindering mag de invulbaarheid van de vragenlijst niet belemmeren. 
+ 
+De Opdrachtnemer levert een maandelijkse rapportage met: 
+• Gerealiseerde uptime (extern gevalideerd); 
+• Incidenten + herstel; 
+• MTBF/MTTR; 
+• Performancegegevens. 
+ 
+OKO GM 2028 
+Opdrachtnemer verzorgt de online vragenmodule (de (technische) voorkant en (technische) achterkant). 
+Hierbij moet de online vragenmodule binnen de EER worden gehost (datacenterlocatie en gegevensopslag), 
+door Opdrachtnemer en/of diens subverwerkers. Persoonsgegevens worden niet buiten de EER verwerkt of 
+toegankelijk gemaakt. De hostingomgeving en dienstverlening vallen onder een aantoonbaar 
+geïmplementeerd informatiebeveiligingsmanagementsysteem, bij voorkeur ISO/IEC 27001 of aantoonbaar 
+gelijkwaardig. 
+ 
+Er dient rekening te worden gehouden met verschillen tussen de GGD’en wat betreft de vormgeving van de 
+vragenlijsten. Alle GGD’en gebruiken dezelfde basisvragenlijst, die door GGD GHOR Nederland medio april 
+2028 wordt aangeleverd. GGD-logo’s dienen te worden opgenomen in de online vragenmodule. De online 
+vragenmodule moet qua kleurstelling aangepast kunnen worden aan de huisstijl van de afzonderlijke 
+GGD’en. Elke GGD heeft zijn eigen landingspagina, waar de FAQ en de privacyverklaring in een voetnoot 
+van de vragenlijst worden geplaatst.  
+Opdrachtnemer moet de mogelijkheid bieden om een simpelere vragenlijst voor het voortgezet speciaal 
+onderwijs te digitaliseren (middels aanvullende financiering vanuit GGD’en). Per school moet er een aparte 
+link (URL) beschikbaar worden gesteld, zodat duidelijk is op welke school de betreffende respondent zit 
+(essentiële informatie voor het opleveren van gewogen resultaten). 
+De software waarin de digitale vragenlijsten worden ingevuld en waar de FAQ en privacyverklaring te lezen 
+zijn, heeft een responsive design (de weergave past zich zo optimaal mogelijk aan het scherm aan waarmee 
+ 
+ 17 
+de website bezocht wordt). Hiervoor wordt getest op verschillende devices (PC, laptop, tablet, mobiele 
+telefoon). Tevens voldoet de software aan alle eisen die aan de overheid worden gesteld met betrekking tot 
+digitoegankelijkheid.  
+De Opdrachtnemer garandeert een beschikbaarheid van de online vragenmodule van 99,9% per 
+kalendermaand. Gepland onderhoud, mits tijdig aangekondigd, is uitgesloten van deze berekening. Gepland 
+onderhoud wordt minimaal vijf werkdagen vooraf aangekondigd en vindt plaats binnen de volgende 
+tijdstippen (in het weekend of tussen 18:00 uur - 06:00 uur). Er vindt directe afstemming plaats bij grote 
+storingen. Kritieke incidenten worden binnen 24 uur opgelost; functionele incidenten binnen drie werkdagen. 
+De oplossing voldoet aan de volgende prestaties: 
+• 95% van de pagina-aanvragen laadt binnen twee seconden; 
+• Ondersteunt minimaal 5.000 gelijktijdige respondenten; 
+• Prestatievermindering mag de invulbaarheid van de vragenlijst niet belemmeren. 
+ 
+De Opdrachtnemer levert een maandelijkse rapportage met: 
+• Gerealiseerde uptime (extern gevalideerd); 
+• Incidenten + herstel; 
+• MTBF/MTTR; 
+• Performancegegevens. 
+ 
+GM V&O 2028 
+Opdrachtnemer verzorgt de online vragenmodule (de (technische) voorkant en (technische) achterkant). 
+Hierbij moet de online vragenmodule binnen de EER worden gehost (datacenterlocatie en gegevensopslag), 
+door Opdrachtnemer en/of diens subverwerkers. Persoonsgegevens worden niet buiten de EER verwerkt of 
+toegankelijk gemaakt. De hostingomgeving en dienstverlening vallen onder een aantoonbaar 
+geïmplementeerd informatiebeveiligingsmanagementsysteem, bij voorkeur ISO/IEC 27001 of aantoonbaar 
+gelijkwaardig. 
+ 
+Er dient rekening te worden gehouden met verschillen tussen de GGD’en wat betreft de inhoud en 
+vormgeving van de vragenlijsten. GGD GHOR Nederland levert de basisvragenlijst (vragen die voor alle 
+GGD’en gelden) aan. GGD’en leveren vervolgens de basisvragenlijst inclusief hun lokale vragen aan. GGD-
+logo’s dienen te worden opgenomen in de online vragenmodule. De online vragenmodule moet qua 
+kleurstelling aangepast kunnen worden aan de huisstijl van de afzonderlijke GGD’en. Er wordt een 
+gezamenlijke landingspagina en instructiepagina gehanteerd, waar de FAQ en privacyverklaring moeten 
+worden geplaatst. Via de landingspagina moeten respondenten kunnen inloggen voor deelname aan 
+onderzoek. Na het inloggen wordt de huisstijl van de GGD getoond, en worden de FAQ en de 
+privacyverklaring in een voetnoot van de vragenlijst geplaatst.  
+ 
+Er worden twee basisvragenlijsten ontwikkeld. Eén voor de 18 t/m 64-jarigen en één voor de inwoners van 65 
+jaar en ouder. Digitaal en schriftelijk zijn de vragenlijsten gelijk aan elkaar. De GGD’en kunnen deze 
+vragenlijsten aanvullen met regiospecifieke vragen die na ieder onderdeel van de basisvragenlijst kunnen 
+worden ingevoegd. Dat houdt in dat er maximaal 52 verschillende vragenlijsten kunnen zijn. Een groot deel 
+(70-80%) van de vragenlijsten is overlappend qua samenstelling. De overige 20-30% wordt gevuld met GGD-
+specifieke vragen. Kijkend naar eerder uitgevoerde monitors zullen een aantal GGD’en dezelfde vragenlijst als 
+buurregio’s te hanteren. Deze identieke vragenlijsten dienen als één versie behandeld te worden tot op het 
+moment van aanpassen logo en kleurstelling. Anno 2025 valt nog niet te zeggen hoeveel GGD’en dit betreft.  
+ 
+Alle GGD’en leveren aan Opdrachtnemer: 
+• Nederlandstalige vragenlijst A Volwassenen (18 t/m 64 jaar);  
+• Nederlandstalige vragenlijst B Ouderen (65 en ouder). 
+ 
+ 18 
+Naast de Nederlandstalige vragenlijst wordt online de mogelijkheid geboden een Engelstalige vragenlijst in te 
+vullen. Deze moet digitaal ingevuld kunnen worden door taalinstellingen te veranderen. Centraal zal de 
+vertaalde basisvragenset worden aangeleverd. GGD’en leveren hun eigen lokale vragen in het Engels 
+vertaald aan. Dit resulteert in nog twee versies van de vragenlijst per GGD: 
+• Engelstalige vragenlijst A Volwassenen (18 t/m 64 jaar);  
+• Engelstalige vragenlijst B Ouderen (65 en ouder). 
+ 
+De papieren vragenlijsten omvatten in de basisopdracht 20 pagina’s (10 dubbelzijdig A4 of 5 dubbelzijdig A3). 
+De GGD’en hanteren voor de opmaak van de papieren vragenlijst een eigen format in lijn met huisstijl van de 
+betreffende GGD (lettertype + steunkleur). De basisvragenlijsten worden eind maart 2028 aangeleverd. Lokale 
+vragen worden daarna gefaseerd per GGD geleverd van april tot juni 2028. Voor de papieren vragenlijst 
+wordt een landelijk uniforme invulinstructie gebruikt (pagina 2). Het binnenwerk heeft een steunkleur, de 
+omslag is in full colour. Omslag (met uitzondering van het logo) en instructie van de vragenlijst worden 
+geharmoniseerd (dus één beeldmerk en een uniforme tekst).  
+ 
+De software waarin de digitale vragenlijsten worden ingevuld en waar de FAQ en privacyverklaring te lezen 
+zijn, heeft een responsive design (de weergave past zich zo optimaal mogelijk aan het scherm aan waarmee 
+de website bezocht wordt). Hiervoor wordt getest op verschillende devices (PC, laptop, tablet, mobiele 
+telefoon). Tevens voldoet de software aan alle eisen die aan de overheid worden gesteld met betrekking tot 
+digitoegankelijkheid.   
+ 
+De Opdrachtnemer garandeert een beschikbaarheid van de online vragenmodule van 99,9% per 
+kalendermaand. Gepland onderhoud, mits tijdig aangekondigd, is uitgesloten van deze berekening. Gepland 
+onderhoud wordt minimaal vijf werkdagen vooraf aangekondigd en vindt plaats binnen de volgende 
+tijdstippen (tussen 23:00 uur - 06:00 uur). Er vindt directe afstemming plaats bij grote storingen. Kritieke 
+incidenten worden binnen 24 uur opgelost; functionele incidenten binnen drie werkdagen. In de weken 
+waarin de uitnodigingen op de mat vallen, dient extra aandacht te zijn voor de beschikbaarheid en het snel 
+oplossen van incidenten.  
+De oplossing voldoet aan de volgende prestaties: 
+• 95% van de pagina-aanvragen laadt binnen twee seconden; 
+• Ondersteunt minimaal 10.000 gelijktijdige respondenten; 
+• Prestatievermindering mag de invulbaarheid van de vragenlijst niet belemmeren. 
+ 
+De Opdrachtnemer levert een maandelijkse rapportage met: 
+• Gerealiseerde uptime (extern gevalideerd), 
+• Incidenten + herstel, 
+• MTBF/MTTR, 
+• Performancegegevens. 
+ 
+2.1.2 Het drukwerk en verzending van de uitnodigingsbrieven en papieren 
+vragenlijst de verzorgen 
+ 
+GM V&O 2028 
+Onderdeel van de Opdracht is het verzorgen van het drukwerk, het verzorgen van de uitnodigingsbrieven om 
+deel te nemen aan de GM V&O en verzending van de papieren vragenlijsten. Er zullen naar verwachting 
+meer dan 1 miljoen Nederlanders uitgenodigd worden voor het onderzoek, waarvan ongeveer twee derde 
+volwassenen (18-64 jaar) en een derde ouderen (65+ jaar). Ouderen van 75+ ontvangen bij de uitnodiging, 
+naast een verwijzing naar de digitale vragenlijst, een papieren vragenlijst. Het deel van de steekproef van 50-
+74 jaar, ontvangt bij de eerste herinnering een papieren vragenlijst. De groep tot 49 jaar ontvangt géén 
+ 
+ 19 
+papieren vragenlijst in de basisopdracht. Dat betekent dat ongeveer de helft van de steekproef (dus 
+minimaal 500.000) een papieren vragenlijst ontvangt. Let wel: dit gaat om een schatting van de 
+aanschrijfaantallen anno 2025. Aantallen zullen wijzigen in de aanloop naar de uitvoer van de GM V&O 2028. 
+In 2024 werden 1,5 miljoen mensen uitgenodigd, 30% deed mee. Bijna alle genodigden van 18 jaar en ouder 
+ontvingen bij de eerste herinnering een papieren vragenlijst. Het ging om circa 90% van de steekproef.   
+ 
+Opdrachtnemer ontvangt de steekproef met NAW-gegevens rechtstreeks van het CBS. Opdrachtnemer 
+controleert de steekproef per gemeente (en indien van toepassing per wijk) op de juiste aantallen per 
+doelgroep, dubbele adressen en de volledigheid van de NAW-gegevens. Opdrachtnemer controleert de 
+NAW-gegevens op een correcte weergave van letters met accenten; daarbij dient extra te worden 
+gecontroleerd op de schrijfwijze van gemeentenamen in de provincie Fryslân. Afhandeling van dubbele 
+adressen dient te worden afgestemd met Opdrachtgever (zonder delen van NAW-gegevens). Ten behoeve 
+van het ontvangen van de steekproef sluit Opdrachtnemer een Verwerkersovereenkomst met het CBS. 
+ 
+De personen uit de steekproef ontvangen van de Opdrachtnemer een gepersonaliseerde papieren brief uit 
+naam van de eigen GGD. Personen worden aangeschreven op naam conform ‘Aanduiding Naamgebruik’ 
+zoals geregistreerd in het BRP. De Opdrachtgever draagt zorg voor de inhoud van de brief en levert deze 
+uiterlijk zes weken vóór de start van het veldwerk digitaal aan Opdrachtnemer. Deze brief bevat een digitale 
+invulinstructie inclusief inlogcode en QR-code in het geval van een digitale vragenlijst. De brief wordt per GGD 
+vastgesteld. Deze is gebaseerd op een landelijk format met verplichte passages. De brief per GGD wijkt alleen 
+af op logo, ondertekening en eventuele passages over panel en incentive.  
+Opdrachtnemer verzorgt inlogcodes en QR-codes. De Opdrachtgever draagt zorg voor de inhoud van de 
+brief en levert deze uiterlijk zes weken vóór de start van het veldwerk digitaal aan Opdrachtnemer. De 
+Opdrachtnemer levert voorafgaand aan verzending proefdrukken van het druk- en printwerk aan de 
+GGD'en, inclusief een proefdruk van de envelop. Opdrachtgever dient akkoord te zijn met de volledige 
+proefdrukken vóór verzending. Wanneer het een papieren vragenlijst betreft, wordt de vragenlijst 
+meegestuurd met de (begeleidende) brief. Er dienen volgens de standaard benaderingswijze twee 
+herinneringen te worden toegestuurd aan de non-respondenten. Bij het versturen van deze herinneringen is 
+het van belang dat de rappellijsten kort voor verzending van de herinnering worden opgesteld. We streven 
+ernaar zo weinig mogelijk personen die hebben deelgenomen ten onrechte een reminder te sturen. Bij het 
+opstellen van de rappellijsten dient ook gebruik te worden gemaakt van wekelijkse steekproefactualisaties die 
+door het CBS worden aangeleverd. In deze actualisaties wordt informatie aangeleverd over overlijdens.  
+Opdrachtnemer zorgt voor het druk-klaar maken van al het drukwerk (brieven, vragenlijsten en enveloppen) 
+waarbij GGD-logo’s worden gebruikt. Kleurstelling (en omslag in het geval van de papieren vragenlijst) kan 
+variëren tussen GGD’en conform huisstijlhandboeken. Deze worden verstrekt aan de Opdrachtnemer.  
+ 
+De benaderingswijze bestaat uit zowel een digitale als een papieren vragenlijst. Er worden standaard drie 
+benaderingspogingen gedaan. De benaderingswijze per benaderingspoging kan variëren per GGD (zie 
+menukaart in bijlage O). Deze menukaart is gebaseerd op de uitvoer van 2024 met aanpassingen op basis 
+van geleerde lessen. De uiteindelijke menukaart met maatwerkkeuzes voor de GM V&O 2028 wordt bij de 
+nadere offerteaanvraag voor de Nadere overeenkomst toegevoegd.  
+Uitgangspunt voor de basisopdracht is als volgt: 
+ 
+Voor 18 t/m 49-jarigen (vragenlijst A Volwassenen): 
+• Mailing 1: brief met verwijzing naar digitale vragenlijst 
+• Mailing 2: (1e herinnering): brief met verwijzing naar digitale vragenlijst 
+• Mailing 3: (2e herinnering): brief met verwijzing naar digitale vragenlijst 
+ 
+ 
+ 
+ 20 
+Voor 18 t/m 64-jarigen (vragenlijst A Volwassenen): 
+• Mailing 1: brief met verwijzing naar digitale vragenlijst 
+• Mailing 2: (1e herinnering): brief met papieren vragenlijst + verwijzing naar digitale vragenlijst 
+• Mailing 3: (2e herinnering): brief met verwijzing naar digitale vragenlijst 
+Voor 65 jaar en ouder (vragenlijst B Ouderen): 
+• Mailing 1: brief met verwijzing naar digitale vragenlijst 
+• Mailing 2: (1e herinnering): brief met papieren vragenlijst + verwijzing naar digitale vragenlijst 
+• Mailing 3: (2e herinnering): brief met verwijzing naar digitale vragenlijst 
+ 
+2.1.3 De ingevulde papieren vragenlijsten inscannen en samenvoegen met de 
+antwoorden uit de digitale vragenlijst  
+ 
+GM V&O 2028 
+De vragenlijsten die door respondenten schriftelijk worden ingevuld, zullen verwerkt en opgeslagen moeten 
+worden. De papieren vragenlijsten omvatten gemiddeld 20 pagina’s met vragen en maximaal vijf open 
+velden.  
+ 
+In veel gevallen zal er in de vragenlijst een vraag staan of deelnemers lid willen worden van een GGD-panel 
+(zie menukaart in bijlage O). Deze menukaart is gebaseerd op de uitvoer van 2024 met aanpassingen op basis 
+van geleerde lessen. De uiteindelijke menukaart met maatwerkkeuzes voor de GM V&O 2028 wordt bij de 
+nadere offerteaanvraag voor de Nadere overeenkomst toegevoegd.  
+In sommige gevallen moet men hiervoor hun e-mailadres achterlaten. Dit dient in een ander bestand te 
+worden geregistreerd dan de overige antwoorden op de vragenlijst. Het mailadres en de gegeven 
+antwoorden op de vragenlijst dienen in géén geval gekoppeld te kunnen worden. 
+ 
+2.1.4. Bijhouden en verwerken van de respons 
+ 
+GM Jeugd 2026 
+Opdrachtnemer houdt tijdens de veldwerkperiode de respons per school bij in een (online) tool. Elke GGD 
+moet minimaal 2 keer per week met maximaal 12 uur oude responscijfers inzage hebben in respons per 
+school, leerjaar en onderwijssoort. Op schoolniveau moet deze informatie ook beschikbaar zijn naar leerjaar 
+(klas 2, klas 4). 
+ 
+OKO GM 2028 
+Opdrachtnemer houdt tijdens de veldwerkperiode de respons per school bij in een (online) tool. Elke GGD 
+moet minimaal 2 keer per week met maximaal 12 uur oude responscijfers inzage hebben in respons per 
+school, leerjaar en onderwijssoort. Op schoolniveau moet deze informatie ook beschikbaar zijn naar leerjaar 
+(klas 2, klas 4).   
+ 
+GM V&O 2028 
+Opdrachtnemer houdt tijdens de veldwerkperiode de respons bij in een (online) tool. Elke GGD moet 
+minimaal 2 keer per week met maximaal 12 uur oude responscijfers inzage hebben in respons (in aantallen en 
+percentages) op het niveau van primaire eenheid, uitgesplitst naar volwassenen en ouderen, 
+leeftijdscategorieën (18-24, 25-39, 40-54, 55-64, 65-74, 75-84 en 85+ jaar), geslacht en de combinatie 
+leeftijdscategorie en geslacht. Schriftelijke respons wordt (twee)wekelijks geüpdatet.  
+   
+  
+ 
+ 21 
+2.1.5 Data van de (schriftelijke en) digitale vragenlijsten in het gewenste format 
+zetten en aanleveren 
+ 
+GM Jeugd 2026 
+Alle antwoorden van de respondenten, zowel die vanuit de volledig ingevulde digitale als vanuit de niet-
+volledig ingevulde vragenlijsten, dienen door de Opdrachtnemer te worden verwerkt in een SPSS-bestand 
+volgens een codeboek voor de basisvragenlijst dat wordt aangeleverd door GGD GHOR Nederland. De 
+GGD’en leveren een codeboek aan voor de lokale vragen in de vragenlijst. 
+Tijdens en aan het einde van de veldwerkperiode wil het RIVM (hiervoor zal het RIVM een 
+Verwerkersovereenkomst sluiten met Opdrachtnemer) ontvangen:  
+• Eind oktober vijf tussenbestanden van vijf aan elkaar grenzende GGD’en met voorlopige data uit de 
+basisvragenlijst.   
+• SPSS-bestanden met de vragenlijstdata van de respondenten per GGD volgens aangeleverd 
+codeboek van Opdrachtgever. 
+• Daarnaast ontvangen alle GGD’en hun eigen GGD-SPSS-bestand met alle vragenlijstdata van de 
+respondenten 
+ 
+Alle databestanden dienen te zijn samengesteld volgens het codeboek dat in april 2026 wordt aangeleverd 
+door GGD GHOR Nederland. Uiterlijk begin juli 2026 leveren de GGD’en een volledig codeboek aan 
+aangevuld met de lokale vragen.  
+ 
+OKO GM 2028 
+Alle antwoorden van de respondenten, zowel die vanuit de volledig ingevulde digitale als vanuit de niet-
+volledig ingevulde vragenlijsten, dienen door de Opdrachtnemer te worden verwerkt in een SPSS-bestand 
+volgens een codeboek dat wordt aangeleverd in juni 2028 door GGD GHOR Nederland. 
+ 
+Tijdens de veldwerkperiode (eind oktober) wil GGD GHOR Nederland een tussenbestand in SPSS met 
+voorlopige data ontvangen. Aan het einde van de veldwerkperiode moeten SPSS-bestanden met de 
+vragenlijstdata van de respondenten per GGD volgens aangeleverd codeboek van Opdrachtgever worden 
+opgeleverd aan de GGD’en.   
+ 
+GM V&O 2028 
+Alle antwoorden van de respondenten, zowel die vanuit de volledig ingevulde digitale en papieren 
+vragenlijsten, als vanuit de niet-volledig ingevulde vragenlijsten, dienen door de Opdrachtnemer te worden 
+verwerkt in een SPSS-bestand volgens een codeboek dat wordt aangeleverd door GGD GHOR Nederland. Dit 
+is inclusief het digitaliseren van de open vragen. Daarnaast dient, omwille van een steekproefsgewijze 
+controle, een willekeurige selectie van circa 30 gescande vragenlijsten (dus de vragenlijsten zoals ze zijn 
+ingevuld door de deelnemer) aangeleverd te worden in een bestandstype dat gemakkelijk leesbaar en 
+doorzoekbaar is (bijvoorbeeld in pdf). 
+ 
+Aan het einde van de veldwerkperiode wil GGD GHOR Nederland ontvangen:  
+• Eind oktober 2028 een tussenbestand met voorlopige data, inclusief een deel van de eerste 
+ingescande vragenlijsten. 
+• SPSS-bestanden met de vragenlijstdata van de respondenten per GGD volgens aangeleverd 
+codeboek van Opdrachtgever;  
+• SPSS-bestanden met de responsdata van alle personen uit de steekproef die zijn aangeschreven voor 
+deelname per GGD volgens aangeleverd codeboek van Opdrachtgever; 
+• Indien van toepassing: bestand met de emailadressen ten behoeve van panelinschrijvingen per 
+individuele GGD aan de betreffende GGD.  
+ 
+ 22 
+Alle databestanden dienen te zijn samengesteld volgens het codeboek dat begin april 2028 wordt 
+aangeleverd door GGD GHOR Nederland. Uiterlijk begin juli 2028 leveren de GGD’en een volledig codeboek 
+aan aangevuld met de lokale vragen.  
+ 
+2.1.6 Tijdens het veldwerk (invullen van de vragenlijsten) een helpdesk verzorgen 
+ 
+GM Jeugd 2026 
+Opdrachtgever wenst gedurende de uitvoering van de monitor ondersteuning/helpdesk aan de GGD’en en 
+tijdens de afnameperiode een helpdesk aan alle scholen indien nodig.  
+ 
+OKO GM 2028 
+Opdrachtgever wenst gedurende de uitvoering van de monitor ondersteuning/helpdesk aan de GGD’en en 
+tijdens de afnameperiode een helpdesk aan alle scholen indien nodig.  
+ 
+GM V&O 2028 
+Opdrachtgever wenst gedurende de uitvoering van de monitor ondersteuning/helpdesk aan de GGD’en en 
+tijdens de afnameperiode een helpdesk aan alle respondenten die vragen hebben.  
+ 
+2.1.7 Globale planning met de belangrijkste mijlpalen 
+ 
+Globale planning GM Jeugd 2026 Weeknummers 
+(in 2026)  
+Voorbereidingsfase   
+Vaststellen en aanleveren van de definitieve basisvragenlijst aan 
+Opdrachtnemer 
+Week 15 
+Programmeren definitieve basisvragenlijst Week 16  
+Testen geprogrammeerde basisvragenlijst Week 17 
+Vaststellen en dupliceren van geprogrammeerde basisvragenlijst Week 18  
+Programmeren OKO-deel aan de basisvragenlijst  Week 19 
+Testen geprogrammeerde OKO-deel aan de basisvragenlijst Week 19 
+Vaststellen en dupliceren van OKO-deel aan de basisvragenlijst Week 20 
+Aanleveren lokale vragen Noord-Nederland  Week 20  
+Testen lokale vragen Noord-Nederland  Week 21 
+Aanleveren lokale vragen Zuid-Nederland  Week 22  
+Vaststellen van digitale vragenlijsten Noord-Nederland + Testen lokale vragen 
+Zuid-Nederland  
+Week 23  
+Aanleveren lokale vragen Midden-Nederland  Week 24 
+Vaststellen van digitale vragenlijsten Zuid-Nederland + Testen lokale vragen 
+Midden-Nederland  
+Week 25  
+Vaststellen van digitale vragenlijsten Noord-Nederland   Week 26 
+Oplevering van 26 gebruiksklare vragenlijsten 14 juli 2026 
+Uitvoeringsfase   
+Start dataverzameling Noord-Nederland  Week 38  
+Start dataverzameling Zuid-Nederland  Week 39  
+ 
+ 23 
+Start dataverzameling Midden-Nederland  Week 40  
+Einde dataverzameling Midden, Zuid en Noord-Nederland  28 nov 2026 
+Oplevering van alle basisvragenlijst data aan het RIVM (26 databestanden 
+exclusief lokale vragen)  
+Week 49  
+Oplevering van alle data aan desbetreffende GGD’en (26 databestanden 
+inclusief lokale vragen)  
+Week 50  
+ 
+OKO GM 2028 
+De globale planning, inclusief de belangrijkste mijlpalen worden toegevoegd bij de nadere offerteaanvraag 
+voor de Nadere Overeenkomst voor de OKO GM 2028. 
+  
+GM V&O 2028 
+De globale planning, inclusief de belangrijkste mijlpalen worden toegevoegd bij de nadere offerteaanvraag 
+voor de Nadere Overeenkomst voor de GM V&O 2028. 
+ 
+ 
+2.2 Buiten de scope van de Opdracht 
+De volgende onderdelen/werkzaamheden hangen samen met de Opdrachten voor de GM Jeugd 2026, 
+OKO GM 2028 en de GM V&O 2028, maar behoren niet tot de scope van de Opdracht:  
+• De opzet van het onderzoek; 
+• Het opstellen en vaststellen van de inhoud van de vragenlijsten; 
+• Evenals het inhoudelijk adviseren van de inhoud van de vragenlijst; 
+• De werving van de scholen voor de GM Jeugd 2026 en de OKO GM 2028;  
+• Steekproeftrekking van respondenten; 
+• Het opschonen van de data, data-analyse en rapportage van de resultaten. 
+ 
+2.3 Perceelindeling 
+De Opdracht is niet verdeeld in Percelen omdat GGD GHOR Nederland één aanspreekpunt wenst te hebben, 
+vanuit het oogpunt van de grootte van de opdracht en de daarbij benodigde overzichtelijkheid en efficiënte 
+samenwerking. Daarnaast wenst GGD GHOR Nederland één hoofdverantwoordelijke Opdrachtnemer. 
+ 
+2.4 Omvang van de Opdracht 
+De geraamde waarde van de Opdracht bedraagt € 4.500.000, - exclusief btw over de gehele looptijd van de 
+Raamovereenkomst. Aan deze raming kunnen geen rechten worden ontleend. Een gedeelte van deze 
+raming bestaat uit portokosten en kosten voor papier (uitnodigen en vragenlijsten), in deze raming is voorzien 
+dat porto- en papierprijzen in 2028 hoger zullen zijn dan anno 2025, maar hoeveel hoger heeft Opdrachtgever 
+geen invloed op.  
+ 
+2.5 Varianten 
+Een variant is een niet-bestek conforme inschrijving, dat wil zeggen: een andere oplossing voor de behoefte 
+dan gevraagd in de Aanbestedingsstukken. Het toestaan van aanbieden van varianten leidt ertoe dat in het 
+Beschrijvend document duidelijk moet worden beschreven op welke wijze de aangeboden varianten zullen 
+worden beoordeeld en hoe de varianten ten opzichte van de opties die voldoen aan het Programma van 
+eisen en de Gunningscriteria worden beoordeeld. Varianten zijn niet toegestaan.  
+ 
+  
+ 
+ 24 
+2.6 Contractvorm  
+De Aanbestedende dienst is voornemens om op basis van deze aanbestedingsprocedure drie 
+Raamovereenkomsten te sluiten met de Inschrijvers die na beoordeling van de Inschrijvingen op basis van de 
+gunningscriteria de hoogste totaalscores behalen en als nummer 1, nummer 2 en nummer 3 in rangorde 
+eindigen, mits ten minste drie geldige Inschrijvingen zijn ontvangen. Indien slechts twee geldige Inschrijvingen 
+zijn ontvangen, worden met deze twee Inschrijvers Raamovereenkomsten gesloten. In dat geval eindigt de 
+rangorde bij nummer 2. 
+  
+De Inschrijver die als nummer 1 in rangorde eindigt, wordt aangemerkt als de eerst geplaatste 
+raamcontractant. Aan deze Inschrijver wordt direct bij de gunning van de Raamovereenkomst tevens de 
+eerste Nadere overeenkomst gegund, zijnde de opdracht voor het eerste onderzoek onder de 
+Raamovereenkomst (te weten: de GM Jeugd 2026). 
+  
+Voor deze eerste Nadere overeenkomst vindt geen nadere uitvraag of mini-competitie plaats. De gunning 
+van deze Nadere overeenkomst is volledig gebaseerd op de beoordeling van de Inschrijving in het kader van 
+de Raamovereenkomst, waarbij prijs en kwaliteit zijn beoordeeld overeenkomstig de in dit Beschrijvend 
+document opgenomen gunningscriteria en de daaruit voortvloeiende rangorde. Deze werkwijze is ingegeven 
+door de noodzaak om deze eerste Nadere overeenkomst op korte termijn te kunnen uitvoeren. 
+  
+De overige raamcontractanten behouden gedurende de looptijd van de Raamovereenkomst het recht om 
+deel te nemen aan nadere uitvragen (mini-competities) voor volgende onderzoeken, overeenkomstig de 
+bepalingen van de Raamovereenkomst.  
+ 
+De Raamovereenkomst heeft een initiële looptijd van vier jaar. De verwachte ingangsdatum van de 
+Overeenkomst is 16 maart 2026 dan wel zo snel mogelijk daarna en eindigt van rechtswege op 17 maart 2030, 
+dan wel tot de Opdracht voltooid is, zonder verlenging. 
+ 
+2.7 Uitvraag en gunning van Nadere overeenkomsten onder de 
+Raamovereenkomst 
+ 
+Onder deze Raamovereenkomst zullen gedurende de looptijd één of meerdere Nadere overeenkomsten 
+worden gesloten. De Nadere overeenkomsten worden uitsluitend gegund aan één van de 
+Raamcontractanten. Voor elke Nadere overeenkomst (met uitzondering van de GM Jeugd 2026) zal de 
+Opdrachtgever een nadere uitvraag doen onder alle Raamcontractanten. In de nadere uitvraag worden ten 
+minste de volgende onderdelen opgenomen: 
+- Een nadere beschrijving van de opdracht en de scope; 
+- Specifieke eisen en voorwaarden die van toepassing zijn;  
+- De planning en looptijd van de Nadere overeenkomst;   
+- De gunningscriteria en de wijze van beoordeling.  
+De gunning van de Nadere overeenkomst vindt plaats op basis van de beste prijs-kwaliteitverhouding (BPKV). 
+Daarbij worden de inschrijvingen beoordeeld aan de hand van de volgende gunningscriteria en 
+wegingsfactoren:  
+ 
+Kwaliteit: 70% 
+De kwaliteitsbeoordeling kan onder meer betrekking hebben op (maar is niet beperkt tot): 
+- De voorgestelde aanpak en methodiek; 
+- De mate waarin de inschrijving aansluit bij de doelstellingen van de nadere opdracht; 
+ 
+ 25 
+- De inzet en kwaliteit van het voorgestelde team; 
+- Risicobeheersing en toegevoegde waarde. 
+  
+Prijs: 30% 
+De prijs wordt beoordeeld op basis van de in de nadere uitvraag beschreven prijsstructuur en 
+beoordelingsmethodiek. 
+  
+De exacte invulling van de kwaliteitscriteria, de beoordelingssystematiek en de wijze van puntentoekenning 
+worden per nadere offerteaanvraag gespecificeerd, met inachtneming van de uitgangspunten en 
+voorwaarden van de Raamovereenkomst. De Nadere overeenkomst wordt gegund aan de 
+Raamcontractant die, op basis van de vastgestelde beoordelingsmethodiek, de hoogste totaalscore behaalt. 
+ 
+ 
+  
+ 
+ 26 
+3. Verloop van de Aanbesteding 
+ 
+3.1 Procedure 
+De Aanbestedende dienst volgt een openbare aanbestedingsprocedure conform de Aanbestedingswet 
+2012. Als criterium voor gunning wordt gehanteerd: de economisch meest voordelige inschrijving op basis van 
+de beste prijs-kwaliteitverhouding.  
+ 
+3.2 Planning 
+De planning van de Aanbesteding is als volgt. De planning is indicatief; er kunnen geen rechten aan worden 
+ontleend. De Aanbestedende dienst behoudt zich het recht voor de planning te wijzigen en de Aanbesteding 
+te staken of op te schorten. Wijzigingen in de planning worden bekend gemaakt op TenderNed 
+ 
+Mijlpaal Datum 
+Verzenden van de aankondiging van de Opdracht   23 december 2025 
+Sluitingsdatum vragenronde: Indienen vragen en opmerkingen 
+(deadline)  
+16 januari 2026 13:00 uur 
+Publicatie Nota van inlichtingen (streefdatum) 23 januari 2026 
+Sluitingsdatum indienen Inschrijvingen (deadline) 9 februari 2026 12:00 uur 
+Openen van Inschrijvingen 9 februari 12:15 uur 
+Bekendmaking gunningsbeslissing (streefdatum)   20 februari 2026 
+Deadline aanleveren bewijsstukken 27 februari 2026 
+Einddatum opschortende termijn 12 maart 2026  
+Ingangsdatum Raamovereenkomst 16 maart 2026 
+Ingangsdatum Nadere Overeenkomst  1 april 2026 
+ 
+3.3 Communicatie gedurende de Aanbesteding 
+De communicatie met betrekking tot deze Aanbesteding verloopt uitsluitend via het Aanbestedingsplatform. 
+De Aanbestedende dienst neemt berichten die op een andere wijze worden verzonden niet in behandeling.  
+Het is niet toegestaan contact te zoeken met medewerkers en vertegenwoordigers van het RIVM, 
+GGD’en/gemeente Utrecht en GGD GHOR Nederland voor informatie over dit inkooptraject. De voertaal is 
+Nederlands.  
+ 
+3.4 Informatieverstrekking  
+ 
+3.4.1 Indienen van vragen en opmerkingen 
+De Geïnteresseerde heeft de mogelijkheid tot het stellen van vragen of het maken van opmerkingen over de 
+Aanbestedingsstukken. Voor het stellen van vragen dient gebruik te worden gemaakt van Bijlage K “Indienen 
+vragen en opmerkingen”. De Aanbestedende dienst kan niet garanderen dat vragen die op een andere 
+manier worden ingediend worden beantwoord. De Aanbestedende dienst kan niet garanderen dat vragen 
+die binnenkomen na de uiterste indieningsdatum voor het stellen van vragen, worden beantwoord. De 
+Aanbestedende dienst behoudt zich het recht voor vragen en/of opmerkingen ter zijde te leggen of slechts 
+gedeeltelijk te verwerken zolang daarmee de aanbestedingsrichtlijnen niet worden geschonden. 
+ 
+ 
+ 27 
+De Geïnteresseerde wordt verzocht om in de vraagstelling geen gebruik te maken van bedrijfsnamen, 
+productnamen en andere aan uw organisatie gerelateerde namen. De Aanbestedende dienst publiceert de 
+gestelde vragen zonder daarbij de naam van de vraagsteller te vermelden en behoudt zich het recht voor 
+om vragen met dat doel aan te passen. De Aanbestedende dienst geeft geen garantie op anonimiteit, 
+bijvoorbeeld omdat uit noodzakelijke technische vragen de identiteit van de vragensteller kan worden 
+afgeleid. 
+ 
+Indien de Geïnteresseerde vragen of opmerkingen heeft die (commercieel) vertrouwelijk van aard zijn dan 
+kunnen deze vragen buiten de Nota van inlichtingen om worden beantwoord. De Geïnteresseerde kan de 
+Aanbestedende dienst gemotiveerd verzoeken een vraag vertrouwelijk te beantwoorden, door 
+‘Commercieel vertrouwelijk - Niet beantwoorden in de Nota van inlichtingen’ te vermelden. Indien de 
+Aanbestedende dienst van oordeel is dat een vraag niet (commercieel) vertrouwelijk van aard is, wordt dit 
+medegedeeld aan de Geïnteresseerde. De Geïnteresseerde kan de desbetreffende vraag vervolgens 1) 
+terugtrekken of 2) door de Aanbestedende dienst laten beantwoorden in de Nota van inlichtingen.  
+ 
+3.4.2 Beantwoorden vragen in Nota van inlichtingen 
+De Aanbestedende dienst sluit een vragenronde af met het publiceren van een Nota van inlichtingen met 
+daarin alle gestelde vragen van Geïnteresseerden en de antwoorden daarop van de Aanbestedende dienst. 
+Ook van eventuele wijzigingen in Aanbestedingsstukken maakt de Aanbestedende dienst melding in een 
+Nota van inlichtingen. Dit kan gepaard gaan met herziene documentatie van de betreffende 
+Aanbestedingsstukken.  
+ 
+De informatie in de Nota van inlichtingen is bindend en leidend en prevaleert boven de oorspronkelijke 
+informatie in de Aanbestedingsstukken en eventuele eerdere Nota van Inlichtingen.  
+ 
+De Aanbestedende dienst publiceert de Nota van inlichtingen op het Aanbestedingsplatform. Hiervan wordt 
+geen notificatie verstuurd; een Geïnteresseerde dient er zelf voor zorg te dragen dat de informatie tot hem 
+komt. TenderNed biedt hiertoe de mogelijkheid aan de hand van een button. (Houd mij op de hoogte van 
+deze aanbesteding). 
+ 
+3.5 Indienen van de Inschrijvingen  
+De Inschrijving moet worden ingediend via het Aanbestedingsplatform vóór de sluitingsdatum zoals vermeld in 
+de planning op het Aanbestedingsplatform.  
+ 
+De Aanbestedende dienst adviseert de Inschrijver om de Inschrijving ruim op tijd in te dienen. Na de sluiting 
+van de inschrijvingstermijn is het (technisch) niet langer mogelijk om een Inschrijving in te dienen. De 
+Aanbestedende dienst beschouwt een niet tijdig ingediende Inschrijving als niet ingediend en neemt deze 
+daarom niet in behandeling. Het risico van niet tijdige ontvangst van de Inschrijving is geheel voor rekening 
+van de Inschrijver. Raadpleeg daarom bij twijfel de helpdesk van het Aanbestedingsplatform.  
+ 
+De Inschrijver is zelf verantwoordelijk voor het tijdig en volledig indienen van de Inschrijving. De 
+Aanbestedende dienst en de aanbieder van het Aanbestedingsplatform zijn hiervoor niet verantwoordelijk.  
+Het risico van systeem- en internetstoringen ligt bij de Inschrijver, tenzij Inschrijver een storing binnen TenderNed 
+kan aantonen, conform het gestelde in artikel 2.109a Aanbestedingswet 2012. Indien Inschrijver zich houdt 
+aan de voorwaarden die in dit artikel 2.109a Aanbestedingswet 2012 zijn aangegeven, zal Inschrijvers 
+Inschrijving als tijdig worden aangemerkt. 
+ 
+  
+ 
+ 28 
+3.6 Opening van de Inschrijvingen 
+De Inschrijvingen zijn voor de Aanbestedende dienst niet eerder zichtbaar dan op het moment dat de 
+sluitingsdatum voor inschrijving is verstreken. Zo snel mogelijk na het verstrijken van de sluitingsdatum en -tijd 
+opent de Aanbestedende dienst de Inschrijvingen. Inschrijvers kunnen niet bij de opening van Inschrijvingen 
+aanwezig zijn.  
+ 
+3.7 Beoordeling van de Inschrijvingen 
+Na opening worden de Inschrijvingen gecontroleerd en beoordeeld.  
+ 
+Controle volledigheid en vormvereisten 
+De Aanbestedende dienst controleert of een Inschrijving volledig is en voldoet aan de vormvereisten. Een 
+Inschrijving die niet volledig is of niet voldoet aan de vormvereisten kan ongeldig woorden verklaard en 
+terzijde worden gelegd. 
+ 
+Toetsing 
+De Aanbestedende dienst toetst of Uitsluitingsgronden van toepassing zijn en of de Inschrijver en de 
+Inschrijving voldoen aan de Geschiktheidseisen en de Eisen uit het PvE. Een Inschrijver waarop één of meer 
+Uitsluitingsgronden van toepassing zijn wordt uitgesloten van verdere deelname aan de procedure. Een 
+Inschrijving die niet voldoet aan (Geschiktheids)eisen wordt ongeldig verklaard en terzijde gelegd.  
+ 
+Inhoudelijke beoordeling  
+De Aanbestedende dienst beoordeelt de Inschrijving op basis van het gunningscriterium de beste prijs-
+kwaliteitverhouding. De wijze waarop de Aanbestedende dienst dat doet is beschreven in hoofdstuk 6. 
+ 
+3.8 Gunningsbeslissing  
+Na de beoordeling van de Inschrijvingen maakt de Aanbestedende dienst de voorlopige gunningsbeslissing 
+tegelijkertijd bekend aan alle Inschrijvers. Deze voorlopige gunningsbeslissing houdt geen aanvaarding van 
+een aanbod in. Gedurende een opschortende termijn van twintig kalenderdagen (ex artikel 2.137 Aw2012) na 
+verzending van de mededeling van de voorlopige gunningsbeslissing is het de Aanbestedende dienst niet 
+toegestaan de Overeenkomst aan te gaan met de winnende Inschrijver.  
+ 
+3.9 Verificatie 
+In de verificatiefase, ten tijde van de opschortende termijn, kan de Aanbestedende dienst bewijs opvragen 
+om de informatie die de Inschrijver in het kader van deze aanbestedingsprocedure heeft gegeven te 
+verifiëren.  
+ 
+Om de administratieve last te beperken is bepaald dat de Aanbestedende dienst aan Inschrijvers bij 
+inschrijving in eerste instantie alleen het Uniform Europees Aanbestedingsdocument (UEA) mag vragen, in 
+plaats van alle bewijsstukken. De bewijsstukken die vallen onder het UEA, met uitzondering van de referenties, 
+vraagt de Aanbestedende dienst in de regel alleen op bij de Inschrijver(s) die op basis van de beoordeling in 
+aanmerking komt/komen voor de gunning van de Opdracht. De Inschrijver moet de gevraagde bewijsstukken 
+binnen korte tijd aanleveren, in de regel binnen een termijn van zeven werkdagen.  
+ 
+Uitsluiting na verificatie 
+Als uit verificatie van de bewijsmiddelen blijkt dat de potentieel winnende Inschrijver: 
+• Niet voldoet aan één van de gestelde Uitsluitingsgronden, of 
+ 
+ 29 
+• Niet voldoet aan de gestelde Geschiktheidseisen, of   
+• Geen afdoende bewijs kan overleggen, of  
+• Onjuiste informatie heeft verstrekt,  
+komt deze Inschrijver niet meer voor gunning in aanmerking. De Aanbestedende dienst zal de 
+gunningsbeslissing dan intrekken en de Inschrijving als ongeldig terzijde leggen.  
+ 
+  
+ 
+ 30 
+4. Eisen aan de Inschrijver 
+ 
+4.1 Inleiding  
+Dit hoofdstuk beschrijft welke Uitsluitingsgronden en Geschiktheidseisen de Aanbestedende dienst hanteert en 
+welke informatie de Inschrijver dient aan te leveren. Met het Uniform Europees Aanbestedingsdocument (UEA) 
+geeft de Inschrijver aan of de Uitsluitingsgronden wel of niet op hem van toepassing zijn en of hij voldoet aan 
+de Geschiktheidseisen. Eveneens is beschreven welke eisen gelden indien:  
+• De Inschrijver inschrijft met Onderaannemer(s); 
+• De Inschrijver inschrijft als een Samenwerkingsverband; 
+• De Inschrijver zich beroept op de financiële en economische draagkracht van (een) Derde(n); 
+• De Inschrijver zich beroept op de technische en beroepsbekwaamheid van (een) Derde(n). 
+ 
+Zie paragraaf 7.4 en 7.5 voor aanvullende voorschriften voor het inschrijven met Onderaannemers of als een 
+Samenwerkingsverband.  
+ 
+In de tabel hieronder is aangegeven welke bewijsstukken/documenten de Inschrijver moet bijvoegen bij de 
+Inschrijving. Alleen de winnende Inschrijver dient de bewijsstukken in de kolom ‘Op verzoek’ aan te leveren, 
+binnen zeven (7) Werkdagen na verzoek van de Aanbestedende dienst. Het risico dat bewijsstukken niet tijdig 
+kunnen worden verkregen ligt bij de Inschrijver.  
+ 
+Het niet kunnen overleggen van onderstaande documenten betekent in de regel uitsluiting van deelname 
+aan de Aanbesteding. Het verdient aanbeveling de genoemde bewijsstukken tijdig te verzamelen en gereed 
+te hebben.  
+ 
+De Aanbestedende dienst behoudt zich het recht voor om nader onderzoek uit te (laten) voeren naar (de 
+verklaringen van) de Inschrijver.  
+ 
+ # Omschrijving Bij inschrijving Op verzoek 
+Algemene verklaringen 
+A1 Aanbiedingsbrief X  
+A2 
+Uniform Europees 
+Aanbestedingsdocument 
+X  
+Bewijsmiddelen t.b.v. 
+Uitsluitingsgronden 
+U1 
+Inschrijving in het nationale beroeps- en 
+handelsregister 
+X  
+U2 Gedragsverklaring aanbesteden  X 
+U3 Verklaring van de Belastingdienst  X 
+Geschiktheidseisen 
+E1 Afdekking aansprakelijkheidsrisico’s  X 
+E2 Ervaring van de Inschrijver X  
+E3 
+Verklaring van de Accountant zonder 
+continuïteitsparagraaf1 
+ X 
+E4 Vereiste standaarden  X 
+Gunningscriteria  
+Beantwoording kwalitatieve 
+gunningscriteria en het prijzenblad 
+X  
+ 
+1 Bij een Samenwerkingsverband één verklaring per samenwerkende partij.
+
+=== Document: nota van inlichtingen raamovereenkomst gezondheidsmonitor ===
+Vraagnr. Vraag heeft betrekking op document 
+(Invullen: Beschrijvend document/ 
+Standaardformulier/ Bijlage/ Programma 
+van Eisen, etc.)
+Paragr
+aaf
+Blz. Vraag van Gegadigde Antwoord van Aanbestedende dienst
+1Beschrijvend document 4.4.2 33/34 In de zin “Voor kerncompetentie A vraagt u ervaring met grootschalige 
+vragenlijstonderzoeken met minimaal 250.000 aangeschreven personen binnen één 
+opdracht of een daaraan gelijkwaardig onderzoek” verzoeken wij u te verduidelijken 
+wat onder “aangeschreven personen” wordt verstaan.
+Kunt u bevestigen of hierbij mag worden uitgegaan van het totaal aantal verstuurde 
+mailingen per brief (dus niet per mail), bestaande uit de hoofdmailing inclusief 
+herinneringen, of dat uitsluitend het aantal uniek aangeschreven personen meetelt bij 
+de beoordeling van kerncompetentie A? Aangezien grootschalige 
+vragenlijstonderzoeken met minimaal 250.000 unieke aangeschreven personen in de 
+praktijk zeer beperkt voorkomen vragen wij ook of u dit kunt verlagen naar 200.000 
+als herinneringen wel meetellen of 100.000 als herinneringen niet meetellen 
+Toelichting op onze vraag:
+De complexiteit van de Gezondheidsmonitor Volwassenen en Senioren met name 
+wordt bepaald door het gelijktijdig schakelen met meerdere GGD’en, de afstemming 
+van processen, datastromen en verantwoordelijkheden. Ervaring met deze vorm van 
+multicliënt-uitvoering is in dat licht inhoudelijk relevanter voor een succesvolle 
+uitvoering dan uitsluitend de absolute omvang van het aantal aangeschreven 
+personen. Daarbij achten wij het logisch dat sprake is van een substantiële 
+schaalgrootte; een omvang van ten minste 100.000 aangeschreven personen (per 
+brief) borgt deze schaal, terwijl de nadruk blijft liggen op de vereiste 
+uitvoeringscomplexiteit.
+Met deze aanpassing blijft de gevraagde expertise geborgd, terwijl meer marktpartijen 
+de mogelijkheid krijgen om in te schrijven, hetgeen bijdraagt aan een effectieve 
+mededinging.
+We bedoelen het aantal uniek aangeschreven personen. We zullen dit aantal niet 
+aanpassen. De referentieperiode wordt verruimd naar 6 jaar om aan deze aantallen te 
+komen. Zie het antwoord op vraag 3.
+ behorend bij Europese Aanbesteding "Raamovereenkomst voor gezondheidsmonitor" - GGD GHOR Nederland
+Nota van Inlichtingen
+2Beschrijvend document 4.4.2 33/34 In de formulering “ervaring met grootschalige vragenlijstonderzoeken waarbij gebruik 
+is gemaakt van een papieren vragenlijst, waaraan minimaal 25.000 respondenten 
+hebben deelgenomen” is niet eenduidig of wordt gedoeld op 25.000 verwerkte 
+papieren vragenlijsten, dan wel op 25.000 respondenten in totaal, waarbij (een deel 
+van) de respondenten mogelijk digitaal heeft deelgenomen. Een nadere 
+verduidelijking hiervan is wenselijk om interpretatieverschillen bij de beoordeling te 
+voorkomen.
+Mocht het wel gaan om de verwerking van 25.000 papieren vragenlijsten dan vragen 
+wij u of u bereid bent om het minimale aantal papieren respondenten te verlagen 
+(bijvoorbeeld in lijn met de vorige aanbesteding voor het jaar 2024, 16.000 papieren 
+vragenlijst) en meerdere onderzoeken waarbij papieren vragenlijsten worden verwerkt 
+binnen bijvoorbeeld zes maanden gezamenlijk te betrekken bij de beoordeling; 
+Toelichting op onze vraag:
+Wij merken op dat onderzoeken met een dergelijke omvang van papieren respons in 
+de praktijk steeds minder voorkomen. In de praktijk wordt deze expertise veelal 
+opgedaan via het verwerken van meerdere versies van papieren vragenlijsten, 
+verspreid over verschillende grootschalige onderzoeken binnen een bepaalde 
+periode, waarbij de complexiteit met name zit in logistiek, scanning, dataverwerking 
+en kwaliteitscontrole en datakoppeling van verschillende vragenlijsten. Deze 
+verwerkingscomplexiteit sluit inhoudelijk goed aan bij de Gezondheidsmonitor 
+Volwassenen en Senioren, omdat hier ook gewerkt wordt met verschillende versies 
+van de vragenlijst. Wij vragen u bij de beoordeling primair te kijken naar de 
+aantoonbare ervaring met grootschalige verwerking van papieren vragenlijsten, in 
+plaats van uitsluitend naar het aantal respondenten binnen één opdracht.
+Met deze aanpassing blijft de gevraagde expertise geborgd, terwijl meer marktpartijen 
+de mogelijkheid krijgen om in te schrijven, hetgeen bijdraagt aan een effectieve 
+mededinging.
+Er wordt gedoeld op 25.000 verwerkte papieren vragenlijsten. In eis A staat duidelijk 
+vermeld dat het om één opdracht of een daaraan gelijkwaardig onderzoek gaat. De 
+verwerkingscomplexiteit die wordt toegelicht bereik je niet zomaar, daar is juist ook 
+schaalgrootte voor nodig. In 2024 is inderdaad benoemd dat minimaal 20% van 80.000 
+respondenten schriftelijke respons moest zijn. Die verhouding komt echter niet overeen met 
+de werkelijkheid. De geschetste situatie dat er steeds minder wordt meegedaan op papier, is 
+niet wat wij zien. Een derde van de respondenten deed mee op papier in 2024, oftewel 
+150.000 mensen.
+3Beschrijvend document 4.4.2 33/34 Als het niet mogelijk is om de kerncompetentie A en C aan te passen, bent u dan 
+bereid om de maximale ouderdom van referentieopdrachten te verruimen van drie 
+naar vijf jaar? Dit aangezien deze grootschalige onderzoek zelden voorkomen. Met 
+deze aanpassing blijft de gevraagde expertise geborgd, terwijl meer marktpartijen de 
+mogelijkheid krijgen om in te schrijven, hetgeen bijdraagt aan een effectieve 
+mededinging.
+Akkoord, gezien de frequentie van dit soort onderzoeken is het redelijk om de termijn te 
+verruimen naar 6 jaar.
+4Beschrijvend document 1.1 8Onder 1.1 (blz. 8) wordt gesteld dat de eerstvolgende OKO GM in 2028 plaatsvindt. 
+Onder 2.1.1 (blz. 15) wordt echter gesproken van een OKO module in de GM Jeugd 
+2026. Klopt het dat de OKO GM in 2026 geïntegreerd is in de GM Jeugd en dus 
+onderdeel is van de opdracht GM Jeugd 2026? 
+In de GM Jeugd 2026 worden de OKO-vragen geintegreerd in de vragenlijst van de 
+desbetreffende GGD'en (in de lokale ruimte). Daarom wordt gesproken van een OKO-
+module en niet van een gezondheidsmonitor OKO. In 2028 volgt dan een aparte OKO GM 
+2028. 
+5Beschrijvend document 6.6 41Dient bij de uitwerking van G2, het communicatieplan, de GM Jeugd '26 als 
+uitgangspunt te worden genomen, net als bij G1? Of dient er een algemeen 
+communicatieplan uitgewerkt te worden dat betrekking heeft op de drie 
+gezondheidsmonitors? Dit wordt in de stukken niet gespecificeerd. 
+Ook voor G2, het communicatieplan, dient de GM Jeugd 2026, als uitgangspunt gebruikt te 
+worden, net als bij G1.
+6Beschrijvend document Voor de gunningscriteria wordt gevraagd een casus uit te werken. Een casus is een 
+fictieve/nieuwe opdracht. U vraagt om een casus uit te werken voor de GM Jeugd 
+2026, vergelijkbaar met de GM Jeugd 2023. Om een level playing field en 
+transparantie te waarborgen vragen we u een gedetailleerde onderzoeks-
+/veldwerkaanpak te delen van de GM Jeugd 2023.
+Alle informatie over de karakteristieken van de GM Jeugd 2026 staan reeds in het 
+bechrijvend document beschreven.
+7Beschrijvend document 4.4.2 33De Gezondheidsmonitor V&O 2028 is onderdeel van dit raamcontract. In de GM V&O 
+gaat het om het aanschrijven van een CBS steekproef van 1-1,5m personen. Daarom 
+gaan wij er vanuit dat u met 250.000 aangeschreven personen door middel van een 
+steekproef bedoelt het fysiek aanschrijven van minimaal 250.000 personen met een 
+brief (of brief incl. vragenlijst). Kunt u dat bevestigen?
+Met 250.000 aangeschreven personen door middel van een steekproef wordt bedoeld het 
+fysiek aanschrijven van minimaal 250.000 personen met een brief incl. vragenlijst.
+8Beschrijvend document 4.4.4 35U vraagt om een ISO 9001 certificaat of een andere wijze waarmee inschrijver in 
+staat is aan te tonen dat door hem op systematische wijze binnen de organisatie aan 
+de kwaliteit van bedrijfsprocessen wordt gewerkt. Kunt u bevestigen dat als 
+inschrijver niet over het gevraagde ISO certificaat beschikt hij over gelijkwaardige 
+bewijsmiddelen dient te beschikken zijnde o.a. een werkend kwaliteitshandboek dat 
+periodiek en met succes is geaudit door een externe, onafhankelijke derde? 
+Opdrachtgever gaat akkoord  dat Opdrachtnemers over gelijkwaardige bewijsmiddelen  
+beschikken in lijn met ISO 9001.
+9Beschrijvend document 4.4.4 35U vraagt om beveiligingscertificaten zoals bijvoorbeeld ISO 27001 en NEN 7510 dan 
+wel een andere wijze waarmee inschrijver in staat is aan te tonen dat door hem op 
+systematische wijze binnen de organisatie aan de kwaliteit van bedrijfsprocessen 
+wordt gewerkt. Kunt u bevestigen dat als inschrijver niet over het gevraagde ISO 
+certificaat beschikt hij over gelijkwaardige bewijsmiddelen dient te beschikken zijnde 
+o.a. een werkend handboek mbt informatiebeveiliging, privacy en specifiek 
+gezondheidsinformatie dat periodiek en met succes is geaudit door een externe, 
+onafhankelijke derde?
+Niet akkoord om over gelijkwaardige bewijmiddelen te beschikken anders dan ISO 27001 en 
+NEN 7510. De beveiliging moet op orde zijn bij Opdrachnemers, aangezien de 
+Gezondheidsmonitors werken met persoonsgegevens.
+10Programma van Eisen Kolom E geeft ruimte voor een korte toelichting van de inschrijver. Klopt het dat u 
+alleen om een korte toelichting vraagt bij eisen waar [Hier graag korte toelichting] in 
+de cel staat (bijv. cel E27 op tabblad 1)? Volstaat bij de overige eisen een 'Akkoord' 
+of verwacht u bij iedere eis een korte toelichting waarin de waarborging van die eis 
+gespecificeerd wordt?
+Er wordt alleen om een toelichting gevraagd waar dat is gespecificeerd, de toelichting kan in 
+kolom E worden geplaatst. Verder geldt dat aan alle eisen dient te worden voldaan.
+11Programma van eisen Gehele 
+docume
+nt
+In het programma van eisen wordt bij verschillende onderdelen gevraagd een 
+beknopte toelichting te verstrekken. Er staat echter nergens vermeld hoe dit aan te 
+leveren. Wij nemen aan dat dit document geupload kan worden onder "Overige 
+documenten." Klopt dit?
+U kunt een toelichting geven in de Excel file 'Programma van Eisen' in kolom E en 
+vervolgens dit document uploaden onder 'overige documenten'.
+12Beschrijvend document 2.1.1. In de omschrijving van GM Jeugd 2026 wordt gesproken over de OKO-module. Is dit 
+één blok vragen dat op een bepaalde plek in de basisvragenlijst moet worden 
+opgenomen of gaat het om vragen die op verschillende plekken in de basisvragenlijst 
+opgenomen moeten worden bij de GGD'en waarbij sprake is van de OKO-module?
+Dezelfde set vragen voor alle deelnemende GGD'en (met een OKO-gemeente in hun 
+verzorgingsgebied). De vragen moeten op verschillende plekken in de vragenlijst 
+geprogrammeerd worden. Verdiepende vragen over alcohol bij 'middelengebruik', vragen 
+over hobby's bij 'Vrije tijd' etc. Vergelijkbaar proces als het toevoegen van de lokale vragen, 
+alleen is deze set voor alle betreffende GGD'en gelijk.
+13Beschrijvend document 2.1.1. In de omschrijving van GM Jeugd 2026 wordt gesproken over de OKO-module. Is 
+deze module voor alle deelnemende GGD-en, los van de vorm (lay-out), gelijk of kan 
+er sprake zijn van "eigen vragen / formuleringen" van een GGD binnen de OKO-
+module?
+Nee, dit is voor alle GGD'en gelijk.
+14Beschrijvend document 2.1.1. In de omschrijving van de GM Jeugd 2026 wordt gesproken over lokale vragen. 
+Vormen deze vragen een vast blok dat op één bepaalde plek in de basisvragenlijst 
+moet worden opgenomen of gaat het om vragen die op verschillende plekken in de 
+basisvragenlijst opgenomen moeten worden bij de desbetreffende GGD?
+Nee, GGD'en mogen zelf weten over welke onderwerpen ze extra vragen willen stellen. Dit 
+kunnen verdiepende vragen zijn op onderwerpen uit de basisvragenlijst zijn of hele nieuwe 
+onderwerpen.
+15Beschrijvend document 6.6 42G2: Communicatieplan
+U vraagt een beschrijving over dienstverlening tijdens de vakantieperiodes. Met 
+daarbij de subvragen ’wat Opdrachtnemer van Opdrachtgever verwacht, en wat 
+Opdrachtgever van Opdrachtnemer hierin mag verwachten’. 
+Wij nemen aan dat die subvragen specifiek relateren aan dienstverlening tijdens de 
+vakantieperiodes. Klopt deze aanname? Zo nee, wilt u toelichten wat u hier van 
+inschrijvers verwacht?
+Ja, het gaat om de dienstverlening tijdens de vakantieperiodes (zomer- en herfstvakantie), 
+als het veldwerk voorbereid moet worden en lopend is.
+16PvE EISEN ALLE MONITORS Eis 9 Afstemming en evaluatie
+‘De Opdrachtgever wenst van Opdrachtnemer dat er regelmatig wordt afgestemd en 
+gerapporteerd over de voortgang van de opdracht en dat er tussentijds en na afloop 
+wordt geëvalueerd.’ 
+Wat verstaat u onder ‘regelmatig’? 
+Onder regelmatig verstaan we tenminsten iedere twee weken.
+17PvE EISEN ALLE MONITORS Eis 9 Afstemming en evaluatie
+‘De Opdrachtgever wenst van Opdrachtnemer dat er regelmatig wordt afgestemd en 
+gerapporteerd over de voortgang van de opdracht en dat er tussentijds en na afloop 
+wordt geëvalueerd.’ 
+Hoeveel tussentijdse evaluaties wenst u? 
+Tenminste één tussentijdse evaluatie per opdracht. Indien daar aanleiding voor is, dan 
+vaker.
+18PvE EISEN ALLE MONITORS Eis 11 Landelijke basisvragenlijst testen
+ ‘De geprogrammeerde landelijke basisvragenlijst wordt in een aantal rondes getest 
+door een werkgroep van enkele GGD'en, het RIVM en GGD GHOR Nederland …’ 
+Wat bepaalt de hoeveelheid testrondes?
+De juistheid waarmee de gewenste aanpassingen worden doorgevoerd ofwel 
+beargumenteerd wordt waarom dat niet mogelijk is.
+19PvE JEUGD specifiek Eis 10 Extra vragenlijst
+‘Opdrachtnemer biedt de mogelijkheid om tegen extra financiering een extra 
+versimpelde vragenlijst in te bouwen voor het voortgezet speciaal onderwijs of 
+praktijkonderwijs.’
+Welk tarief uit het Prijzenblad is in dit geval van toepassing?
+Dit is een prijs per stuk. Zie cel D24 in Prijzenblad 
+20PvE JEUGD specifiek Eis 11 Proefbestand
+‘RIVM ontvangt ten minste één keer proefbestanden met de basisvragen van vijf 
+aangrenzende GGD'en en indien nodig twee keer’.  
+Wat is de inhoud van dit proefbestand?
+De inhoud van het proefbestand bestaat uit verzamelde data uit vijf aangrenzende GGD-
+regio's die conform het codeboek zijn verwerkt. Het betreft 5 losse proefbestanden, één per 
+regio. Hierin zitten alle respondenten tot op dat moment, exclusief lokale vragen. We 
+spreken een moment af met het veldwerkbureau waarop we het proefbestand willen 
+ontvangen, bijvoorbeeld 4 á 5 weken na de start van de dataverzameling.
+21PvE JEUGD specifiek Eis 11 Proefbestand
+‘RIVM ontvangt ten minste één keer proefbestanden met de basisvragen van vijf 
+aangrenzende GGD'en en indien nodig twee keer’.  
+In welk geval is een 2e keer nodig?
+Als er fouten zitten in de eerste set proefbestanden en het RIVM een 2e set proefbestanden 
+wil ter controle of de aandachtspunten goed zijn verwerkt.
+22PvE JEUGD specifiek Eis 12 Proefbestanden per GGD
+‘Iedere GGD ontvangt ten minste één proefbestand en op verzoek twee 
+proefbestanden tijdens de dataverzameling met de antwoorden op de basisvragen en 
+hun eigen lokale vragen’
+Wat is de inhoud van dit proefbestand?
+De inhoud van het proefbestand bestaat uit verzamelde data uit de betreffende GGD-regio 
+die conform het codeboek zijn verwerkt. Dit is inclusief de lokale vragen. Dit kan worden 
+aangeleverd nadat het RIVM de proefbestanden voor hen heeft ontvangen en goedgekeurd. 
+Dus na 6 á 7 weken na start van de dataverzameling
+23PvE JEUGD specifiek Eis 12 Proefbestanden per GGD
+‘Iedere GGD ontvangt ten minste één proefbestand en op verzoek twee 
+proefbestanden tijdens de dataverzameling met de antwoorden op de basisvragen en 
+hun eigen lokale vragen’
+In welk geval verzoekt een GGD om een 2e proefbestand?
+Als er fouten zitten in het eerste proefbestand en de GGD een 2e proefbestand wil ter 
+controle of de aandachtspunten goed zijn verwerkt.
+24PvE JEUGD specifiek Eis 16 Databestand aanleveren
+‘Datalevering wordt voorbesproken met een dataspecialist.’
+Is dit voorbespreken een eenmalige actie of een actie per GGD?
+Het betreft hier een eenmalige actie. 
+25PvE VOLW&OUD specifiek Eis 7 Flexibel
+‘Het is belangrijk dat Opdrachtnemer voldoende flexibel is, zodat afgeweken kan 
+worden van de basisafspraken als dat voor het onderzoek (bijvoorbeeld voor de 
+respons) gewenst is. 
+Het gaat hierbij vooral om wijzigingen in steekproefaantallen en (kleine) verschillen 
+tussen vragenlijsten/meerdere versies. De tarieven voor eventuele extra 
+steekproeven mogen niet hoger zijn dan de in het Prijzenblad gehanteerde tarieven.’
+Met welk tarief uit het Prijzenblad wordt in dit geval het vergelijk gemaakt?
+Prijzen en tarieven voor de GM V&O 2028 volgen later in de nadere overeenkomst. 
+26PvE VOLW&OUD specifiek Eis 16 Proefbestand 
+GGD GHOR Nederland ontvangt ten minste één proefbestand en op verzoek twee 
+proefbestanden tijdens de dataverzameling. Er moeten minimaal 10.000 cases in het 
+bestand zitten. Zowel schriftelijke als digitale respons, van minimaal 5 GGD'en. Dit 
+bestand bevat zowel de basisvragen als de lokale vragen van de GGD'en.
+Wat is de inhoud van dit proefbestand?
+Het proefbestand is in feite een tussentijds bestand. De inhoud van het proefbestand 
+bestaat uit verzamelde data uit vijf GGD-regio's die conform het codeboek zijn verwerkt. Het 
+gaat om antwoorden op de gehele vragenlijst, dus zowel antwoorden op basisvragen als op 
+lokaal toegevoegde vragen. Ook moet er een deel schriftelijke respons in zitten. Dat 
+betekent dat het proefbestand pas opgeleverd kan worden nadat de eerste schriftelijke 
+respons in de betreffende vijf regio's is verwerkt.
+27PvE VOLW&OUD specifiek Eis 23 Brieven 
+‘GGD'en kunnen de landelijke basisbrief ten dele aanpassen (zie Beschrijvend 
+document).’ 
+Wanneer in het proces kunnen de GGD’en aanpassingen doen?
+Zoals vermeld wordt de brief uiterlijk zes weken vóór de start van het veldwerk aangeleverd. 
+Dat betekent dat GGD'en tot die tijd aanpassingen kunnen doen.
+28Prijzenblad ‘** GGD'en mogen na het testen van hun vragenlijst nog éénmalig wijzigingen 
+aangeven, met een maximum van 1 uur werk voor Opdrachtnemer.’
+Hoe wordt bepaald/ wie bepaalt of het 1 uur werk is?
+Opdrachtnemer meldt aan de GGD wanneer dit uur 'op' is.
+29Beschrijvend document 6.6 41Plan van aanpak
+U vraagt te beschrijven: 'Risico’s ten aanzien van de voorbereiding en schaalgrootte 
+en de planning en maatregelen ten aanzien van deze risico’s'
+Wenst u hier een beschrijving van risico's die buiten de invloedsfeer van 
+opdrachtnemer liggen?
+Nee, het betreft hier een beschrijving van de risico's binnen de invloedsfeer van de 
+Inschrijver.
+30Beschrijvend document 3.2 26De deadline voor het stellen van vragen is 16 januari. Het is aannemelijk dat 
+gegadigden verduidelijkingsvragen hebben n.a.v. uw antwoorden. En ook dat 
+gegadigden nieuwe vragen hebben, die ontstaan uit voortschrijdend inzicht. In uw 
+planning ontbreekt de mogelijkheid voor nieuwe vragen. Bent u bereid deze 
+mogelijkheid toe te voegen? 
+Vooralsnog is er geen tweede vragenronde noodzakelijk.
+31Beschrijvend document 6.6 40Plan van aanpak
+'Opdrachtnemer dient een duidelijke en efficiënte wijze van omgaan met 
+maatwerkwensen te beschrijven'
+Doelt u hier op het maatwerk zoals benoemd in bijlage O Menukaart? Zo nee, welk 
+maatwerk betreft dit?
+Nee, dit betreft het maatwerk voor de vragen van de GM Jeugd 2026. Ongeveer 20-30% 
+van de vragenlijst bestaat uit lokale vragen (maatwerk).
+32Beschrijvend document 6.6 40Plan van aanpak
+'Hoe de samenwerking tussen de verschillende partijen aan zijde van Opdrachtgever 
+is geborgd en bewezen.'
+U bedoelt hier de samenwerking tussen opdrachtnemer en de verschillende partijen? 
+Zo nee, welke samenwerking bedoelt u?
+We bedoelen de samenwerking tussen Opdrachtnemer en GGD'en, RIVM en GGD GHOR 
+Nederland
+33Beschrijvend document 6.6 42Communicatieplan
+'Beschrijving van hoe Inschrijver afstemt met GGD GHOR Nederland/GGD’en over 
+het plan van aanpak, voortgang en maatwerkwensen'
+Doelt u hier op het maatwerk zoals benoemd in bijlage O Menukaart? Zo nee, welk 
+maatwerk betreft dit?
+Nee, dit betreft het maatwerk voor de vragen van de GM Jeugd 2026. Ongeveer 20-30% 
+van de vragenlijst bestaat uit lokale vragen (maatwerk).
+34Beschrijvend document 6.6 42Communicatieplan
+'Eén centraal aanspreekpunt (en verdeling vaste aanspreekpunten voor GGD GHOR 
+Nederland/GGD-regio’s).'
+Wat bedoelt u met 'verdeling vaste aanspreekpunten voor GGD GHOR 
+Nederland/GGD-regio’s'
+Dat GGD GHOR Nederland en (samenwerkende) GGD'en een vaste contactpersoon 
+(aanspreekpunt) krijgen.
+35Beschrijvend document 4.4.2 34In de aanbestedingsdocumenten wordt verzocht dat de referenties niet ouder mogen 
+zijn dan 3 jaar gerekend vanaf publicatie van de aanbesteding. Gezien de aard, 
+complexiteit en doorlooptijd van vergelijkbare opdrachten op het gebied van 
+gezondheidsmonitors, beschikken veel marktpartijen over relevante en 
+representatieve referentieprojecten die ouder zijn dan 3 jaar, maar inhoudelijk nog 
+steeds actueel en passend zijn.
+In het licht van de Gids Proportionaliteit, waarin is opgenomen dat geschiktheidseisen 
+in redelijke verhouding moeten staan tot het voorwerp van de opdracht en de 
+daadwerkelijke marktpraktijk, verzoeken wij u te overwegen om referenties toe te 
+staan met een looptijd tot 5 jaar terug. Wat ook toegestaan is volgens de 
+aanbestedingswet, zoals benoemd in de Gids Proportionaliteit.
+Kunt u aangeven of Opdrachtgever bereid is referenties van maximaal 5 jaar oud toe 
+te staan, mits deze aantoonbaar voldoen aan de gevraagde kerncompetenties en 
+vergelijkbaar zijn in omvang en complexiteit? Zo nee, waarom niet?
+Akkoord, gezien de frequentie van dit soort onderzoeken is het redelijk om de termijn te 
+verruimen naar 6 jaar. Zie tevens het antwoord op vraag 3.
+36Beschrijvend document 2.1.1 15Zijn de 12 OKO vragen standaard voor de desbetreffende OKO GGD-en? Of mogen 
+zij daarna andere OKO vragen aanleveren of verwijderen?
+Er zijn ((ongeveer) 12) verplichte OKO-vragen, die elke GGD (met een OKO-gemeente) zal 
+opnemen. Daarnaast zijn er ((ongeveer) 14) facultatieve OKO-vragen, GGD'en kunnen zelf 
+kiezen of ze deze allemaal, gedeeltelijk of niet opnemen. 
+37Beschrijvend document 1.4 10De GM jeugd 2026 wordt klassikaal afgenomen. U geeft aan bij de doelstelling GM 
+jeugd 2026 voldoende respons te generen? Wat verwacht u van de inschrijvers 
+hierin? 
+Inschrijvers leveren een goede responstool om per school bij te kunnen sturen. Daarnaast 
+leveren Inschrijvers linkjes per school aan, zodat er geen respons verloren gaat. Het leveren 
+van de linkjes komt erg precies.
+38Programma van eisen Punt 11 
+en 12
+Worden de syntaxen in SPPS per GGD beschikbaar gesteld? Zodat op die manier de 
+databestanden genereerd kunnen worden? Of krijgen wij alleen het codeboek?
+De syntaxen worden in SPSS per GGD beschikbaar gesteld naast het codeboek in Word. 
+39Programma van eisen Punt 11 
+en 12
+Is er alleen contact met  het RIVM voor het opleveren van het landelijke databestand 
+of ook met GGD GHOR Nederland?
+Bij punt 11 alleen het RIVM. Bij punt 12 alle GGD'en
+40Beschrijvend document 6.6 40Voor de duidelijkheid, G1 en G2 die nu ingediend moeten worden, gaan alleen over 
+de uitvoering van Gezondheidsmonitor Jeugd?
+Correct.
+41Beschrijvend document 6.6. 40Is het mogelijk om linkjes toe te voegen naar bv de planning, voorbeeld vragenlijst en 
+responsoverzicht? En tellen deze dan wel of niet mee voor de maximale 6 pagina's?
+Opdrachtnemer kan afbeeldingen in plan van aanpak en communicatieplan plaatsen indien 
+gewenst. Er mogen geen linkjes in de tekst worden geplaatst.
+42Beschrijvend document Is het straks nog wel mogelijk om vragen te stellen bij de offerteaanvragen voor de 
+monitoren OKO en V&O? 
+Ja, er volgt dan een nadere offerte uitvraag met een vragenronde. 
+43Prijzenblad regel 15 Hoeveel maanden moeten de vragenlijsten open staan? En moeten wij bij de prijs 
+voor de ICT ondersteuning alleen uitgaan van 1 maand?
+De vragenlijst van de GM Jeugd 2026 staat gedurende 3 maanden open (eerste week 
+september tot en met eerste week december). Voor de ondersteuning ICT wordt dus één 
+vast bedrag voor voor 3 maanden gevraagd. gevraagd. 
+44Beschrijvend document
+6.4.2 38
+U beschrijft hier een voorkeur voor de beantwoordingswijze van de 'open vragen'. U 
+geeft aan 'De open vragen zijn hierbij het Doel voor de Opdrachtgever' Welk(e) 
+doel(en) bedoelt u hier? 
+Voor het beantwoorden van de subgunningscriteria kunt u uit gaan van de doelstelling zoals 
+die beschreven is bij het subgunningscriterium G1 en ook bij G2. 
+45Beschrijvend document
+6.4.2 38
+U beschrijft hier een voorkeur voor de beantwoordingswijze van de 'open vragen'. U 
+geeft aan 'De open vragen zijn hierbij het Doel voor de Opdrachtgever'. Hoe is de 
+relatie tussen deze beantwoording van de open vragen en de beantwoording van de 
+2 gunningscriteria? Op welke wijze zijn in elkaar vervlochten?
+Met de beantwoording van de open vragen bedoelen we hier de beantwoording van de open 
+vraagstelling van de subgunningscriteria G1 en G2. 
+46PvE
+  
+Bij een aantal eisen schrijft u '[Hier graag korte toelichting]'. Inschrijvers hoeven het 
+PvE niet in te dienen. Dient inschrijver daadwerkelijk een korte toelichting te geven 
+en zo ja, op welke wijze?
+Inschrijvers dienen het PvE wel in te dienen bij hun Inschrijving met een toelichting op de 
+eisen daar waar dat gevraagd wordt in kolom E.
+
+=== Document: nota van inlichtingen 2026-01-26-1 ===
+Nota van inlichtingen Raamovereenkomst Gezondheidsmonitor
+Pagina 1 van 2 Datum genereren nota van inlichtingen: 26 jan 2026
+Algemene informatie
+Aanbesteding: Raamovereenkomst Gezondheidsmonitor
+Aanbestedende Dienst: Stichting Projectenbureau Publieke Gezondheid en Veiligheid 
+Nederland
+Referentie: GGDGHOR231225
+Toelichting:
+Laatste vragen via de Tenderned module.
+Vraag en antwoord
+Ref.nr. Onderwerp:
+1 Beschrijvend document, paragraaf 2, vanaf blz 13
+Vraag:
+Kan de aanbestedende dienst aangeven of het mogelijk is om 
+(geanonimiseerde) voorbeeldvragenlijsten van eerdere uitvoeringen van de 
+Gezondheidsmonitor (bijvoorbeeld GM Jeugd of GM Volwassenen en 
+Ouderen) beschikbaar te stellen, zodat inschrijvers een beter beeld krijgen 
+van de structuur, vraagtypen en opbouw van de vragenlijsten die binnen deze 
+aanbesteding worden gehanteerd?
+Antwoord:
+De vragenlijsten staan gepubliceerd bij het RIVM:
+Basisvragenlijst Gezondheidsmonitor Jeugd 2023 | RIVM
+Basisvragenlijst Gezondheidsmonitor Volwassenen en Ouderen 2024 | RIVM
+Met vriendelijke groet,
+GGD GHOR
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Raamovereenkomst Gezondheidsmonitor
+Beantwoord op: 26 jan 2026
+Nota van inlichtingen Raamovereenkomst Gezondheidsmonitor
+Pagina 2 van 2 Datum genereren nota van inlichtingen: 26 jan 2026
+Ref.nr. Onderwerp:
+2 Beschrijvend document, paragraaf 6.6, blz 40
+Vraag:
+In het Beschrijvend document wordt aangegeven dat de eerste nadere 
+overeenkomst direct wordt gegund voor de uitvoering van de 
+Gezondheidsmonitor Jeugd 2026. Kan de aanbestedende dienst bevestigen 
+dat het plan van aanpak dat onderdeel uitmaakt van de inschrijving 
+uitsluitend wordt beoordeeld op geschiktheid en kwaliteit voor de uitvoering 
+van de Gezondheidsmonitor Jeugd 2026, en dat de aanpak voor eventuele 
+latere monitors (zoals OKO GM 2028 en GM Volwassenen en Ouderen 
+2028) geen onderdeel vormt van de beoordeling van het plan van aanpak 
+binnen deze aanbesteding?
+Antwoord:
+Dat is correct.
+Fase:
+ Inschrijffase
+Inschrijfronde:
+ Inschrijfronde 1
+Vragenronde:
+Vragenronde 1
+Percelen: P  1 Raamovereenkomst Gezondheidsmonitor
+Beantwoord op: 26 jan 2026
+
+=== Document: bijlage b concept raamovereenkomst 1.0 ===
+Raamo vereenkomst Gezondheidsmonitor  onderzoeken tussen GGD  GHOR Nederland  en xxx Contractnummer: Versienummer: Status: Datum: De ondergetekenden: [Officiële tenaamstelling GGD]  h.o.d.n .  [Korte naam GGD]  gevestigd te [adres] en ingeschreven in het register van de Kamer van Koophandel onder nummer [KVK-nummer], in deze rechtsgeldig vertegenwoordigd door  de heer/mevrouw  voorletters + achternaam ,  functie ,  hierna te noemen: “ Opdrachtgever ”, en ( Opdrachtnemer ) ,  gevestigd aan  ( straat  en huisnummer) ,  (postcode en woonplaats) ,  en ingeschreven in het register van de Kamer van Koophandel onder  nummer  xxxxxx ,   in deze rechtsgeldig   vertegenwoordigd door  (naam) ,  (functie) ,  hierna te noemen  ‘Opdrachtnemer’ . Hierna gezamenlijk ook aan te duiden als: “ Partijen ” en afzonderlijk als “ Partij ” OVERWEGENDE DAT: Doelstelling van de Opdrachtgever Opdrachtgever een  Raam o vereenkomst wenst af te sluiten voor de Opdracht.  Opdrachtgever behoefte heeft aan   het  inzicht geven  in  de gezondheidssituatie van  jonge ren,  volwassenen en ouderen  middels  Gezondheidsmonitor  onderzoeken ; Opdrachtgever  op basis van deze Raamovereenkomst Opdrachtnemer kan  oproepen met het oog op het afsluiten van een Nadere overeenkomst voor een specifiek e Gezondheidsmonitor. Verloop van de Aanbesteding  Opdrachtgever in verband met hetgeen hiervoor onder a is overwogen, tot aanbesteding is overgegaan van  een Raamovereenkomst voor  Gezondheidsmonitor  onderzoeken   door middel van een  Openbare aanbestedingsprocedure ;  De wijze van gunnen onder meer inhoudt dat met  (max.  d rie )  Inschrijver s , die de economisch meest voordelige  inschrijving he bben  ingediend, een  Raamo vereenkomst wordt gesloten;  Opdrachtnemer op  xx  januari 202 6   een Inschrijving met kenmerk  xxxxx  heeft ingediend en zich daarbij onverkort heeft geconformeerd aan alle eisen die in het kader van de Aanbesteding zijn gesteld; De Inschrijving van Opdrachtnemer is beoordeeld als  een van de drie  economisch meest voordelige inschrijving; Opdrachtgever op basis van deze  Raamo vereenkomst   Diensten af  kan  nemen   onder een Nadere overeenkomst  bij Opdrachtnemer tegen de  in de Nadere overeenkomst  gecontracteerde  Prijzen .   Opdrachtnemer al het mogelijke doet en zal blijven doen om  p roducten en Diensten te leveren die blijvend voldoen aan overeengekomen eisen. Opdrachtnemer doet dit onder andere door op een constructieve en flexibele wijze invulling te geven aan de uitvoering van de bepalingen van deze  Raamo vereenkomst en waar nodig proactief te handelen in overleg met Opdrachtgever, bijvoorbeeld ingeval de levering van  p roducten en Diensten en/of tijdige levering in het gedrang dreigt te komen;  De  p roducten en Diensten zich in de komende jaren verder zullen ontwikkelen en Opdrachtgever van die ontwikkelingen wenst te profiteren door met gebruikmaking van de onderhavige  Raamo vereenkomst ook de verbeterde en nieuwe  p roducten en Diensten te kunnen verwerven;  Daar waar de  Raamo vereenkomst op meerdere manieren is te interpreteren, is de meest gunstige uitleg voor Opdrachtgever de geldige interpretatie.  Opdrachtgever en Opdrachtnemer, gegeven alle overwegingen, deze  Raamo vereenkomst wensen aan te gaan, waarin de bepalingen zijn opgenomen die van toepassing zijn op de levering van  p roducten en Diensten. PARTIJEN KOMEN HET VOLGENDE OVEREEN: In deze  Raamo vereenkomst wordt een aantal begrippen met een beginhoofdletter gebruikt. Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in  het Beschrijvend document  en  artikel 1 van de Algemene  Inkoopv oorwaarden  voor leveringen en diensten  VNG . Voorwerp van de Overeenkomst Opdrachtgever  verleent de Opdracht aan Opdrachtnemer tot het verrichten van  Gezondheidsmonitor  onderzoeken  beschreven in de  Aanbestedingsstukken  waarop Opdrachtnemer een  Inschrijving  heeft uitgebracht. De Opdrachtnemer aanvaardt bij dezen de Opdracht, overeenkomstig de door Opdrachtnemer uitgebrachte  Offerte  een en ander voor zover daarvan niet in deze  Raamo vereenkomst wordt afgeweken. De navolgende documenten vormen gezamenlijk de  Raamo vereenkomst. Voor zover deze documenten met elkaar in tegenspraak zijn, prevaleert het eerdergenoemde document boven het later genoemde: Dit document; Verwerkersovereenkomst  Bijlage I De Algemene  Inkoopv oorwaarden  (Bijlage II); Aanbestedingsstukken   ( Bijlage I I I ).  Ten aanzien van de  Aanbestedingsstukken  geldt de volgende rangorde:  Nota  van Inlichtingen #1 d.d.  xx -0 2 -202 6 , Nota van Inlichtingen #2 d.d.  xx -0 2 -202 6 Beschrijvend Document Bijlagen bij Beschrijvend Document (Nieuwe documenten prevaleren boven oudere documenten van dezelfde soort.) De door Opdrachtnemer aan Opdrachtgever uitgebrachte  Inschrijving  van  xx  maart  202 6   met kenmerk  xxxxx  (Bijlage I V ). De door Opdrachtnemer aan Opdrachtgever uitgebrachte  o fferte d.d.  datum (DD-MM-JJJJ)   (bijlage  V ) Geheimhoudingverklaring (Bijlage V I ) Totstandkoming, tijdsplanning of duur van de  Raamo vereenkomst De  Raamo vereenkomst treedt in werking op   datum van ondertekening  en eindigt van rechtswege op  xx   xxxx  20 30  dan wel tot de Opdracht voltooid is, zonder verlenging. Na  een afzonderlijke offerte  en  via een  Nadere overeenkomst  zullen Partijen de invulling van de Opdracht als hierboven genoemd concretiseren en vastleggen. De offerte en  de  Nadere overeenkomst  zal integraal onderdeel uitmaken van deze  Raam o vereenkomst. Bij strijdigheid tussen de bepalingen van een offerte en deze  Raamo vereenkomst, prevaleert deze  Raamo vereenkomst. Opdrachtgever is gerechtigd om de  Raamo vereenkomst geheel of gedeeltelijk op te zeggen, eventueel met onmiddellijke ingang, indien een gerechtelijke uitspraak hiertoe aanleiding geeft, indien blijkt dat Opdrachtnemer met betrekking tot de onderhavige aanbesteding zijn Inschrijving of de in de  Raamo vereenkomst vervatte  O pdracht in strijd heeft gehandeld met de van toepassing zijnde wet- en regelgeving of in het geval dat  blijkt dat Opdrachtnemer ten tijde van de Aanbesteding een valse verklaring heeft afgegeven. In dat geval vindt tussen Opdrachtgever en Opdrachtnemer een afrekening plaats op  basis van de door Opdrachtnemer ter uitvoering van  een Nadere o vereenkomst die worden opgezegd tot het moment van opzegging reeds geleverde  p restatie(s). Opdrachtgever is gerechtigd om de  Nadere o vereenkomst geheel of gedeeltelijk kosteloos op te zeggen, eventueel met onmiddellijke ingang, indien Opdrachtnemer niet meer kan beschikken over de voor de uitvoering van de  Raamo vereenkomst noodzakelijke middelen van de rechtspersonen waarop hij een beroep heeft gedaan bij zijn Inschrijving op de betreffende Europese aanbesteding om te voldoen aan de financiële en economische draagkracht of technische bekwaamheid. Opdrachtgever heeft het recht deze  Raamo vereenkomst eenzijdig, zonder gehouden te zijn tot vergoeding van kosten of gederfde winst, op te zeggen indien in het bij deze  Raamo vereenkomst ten grondslag liggende Beschrijvend document genoemde maximale waarde wordt of dreigt te worden overschreden. Prijs en overige bepalingen Partijen komen de tarieven overeen zoals opgenomen in het prijzenblad behorend bij de  N adere offerte. In afwijking hiervan geldt voor de Gezondheidsmonitor Jeugd (GMJ) dat de bij Inschrijving op de  R aamovereenkomst gehanteerde inschrijfprijs, zoals opgenomen in Bijlage III (Prijzenblad) bij de  R aamovereenkomst, van toepassing is en onverkort wordt overgenomen in de nadere overeenkomst. Uitdrukkelijk wordt bepaald dat indien Opdrachtnemer geen btw in rekening brengt, maar voor (een deel van) de Opdracht geen vrijstelling van btw blijkt te bestaan, deze niet ten laste komt van Opdrachtgever. De prijs heeft betrekking op alle door Opdrachtnemer in het kader van de  Nadere  o vereenkomst te verrichten Opdracht en  en eventueel daartoe benodigde middelen en materialen. De overeengekomen tarieven en uren zijn vast en onveranderlijk gedurende de duur van de   Nadere o pdracht  die wordt vastgesteld in de  Nadere  o vereenkomst.  Alle in het prijzenblad genoemde bedragen zijn in € (euro) en exclusief btw en inclusief reis-, verblijf- en eventuele overige kosten. Indien een overschrijding van kosten wordt voorzien, wordt dit direct gemeld bij de projectleider/contactpersoon van Opdrachtgever, benoemd in artikel 4,  Opdrachtnemer en Opdrachtgever komen de in rekening te brengen kosten van de overschrijding schriftelijk overeen. Pas na schriftelijk akkoord van Opdrachtgever kan een overschrijding van de kosten in rekening gebracht worden door Opdrachtnemer. Opdrachtnemer stuurt  de facturen  in pdf naar  [e - mailadres facturen]   onder vermelding van bovengenoemd kenmerk:  projectnummer   met aandacht voor het volgende :  factuur bevat de juiste projectcode en eventueel fasenummer (hierbij dient u één factuur per projectcode in); factuur bevat welk deel van  het totale factuurbedrag  het betreft (bijvoorbeeld eerste 50%); factuur bevat de naam van de projectleider en de medewerker; factuur bevat het aantal uren en het tarief en eventuele externe kosten (alleen indien overeengekomen); bij een verzamelfactuur (meerdere medewerkers van een bedrijf) maakt u een overzicht per medewerker; factuur bevat een gespecificeerde maandelijkse urenstaat (als bijlage toegevoegd aan de factuur) ingeval van inhuur personeel . Contactpersonen/ Projectleiders Contactpersoon/projectleider aan de kant van Opdrachtgever:  [contactpersoon GGD] Contactpersoon/projectleider aan de kant van Opdrachtnemer:   Tijden en plaats Opdracht De Opdracht wordt in dien noodzakelijk  op daartoe door Opdrachtgever aangewezen locaties van Opdrachtgever verricht. Partijen verlenen het Personeel van de andere wederpartij toegang tot de plaats waar de werkzaamheden van de  Raamo vereenkomst worden verricht, en stelt dit Personeel in staat werkzaamheden onder de bij die partij gebruikelijke arbeidsomstandigheden te verrichten . Aansprakelijkheid  6.1  T enzij anders overeengekomen, is de Partij die toerekenbaar tekortschiet in de nakoming van haar verplichtingen, tegenover de andere Partij aansprakelijk voor de door de andere Partij geleden dan wel te lijden schade, met dien verstande dat de aansprakelijkheid als volgt beperkt is: • voor opdrachten waarvan de totale waarde kleiner is dan of gelijk aan  €  50.000,-:  €  150.000,- per gebeurtenis en  €  300.000,- per contractjaar of gedeelte van een jaar dat de  Raamo vereenkomst van kracht is; • voor opdrachten waarvan de totale waarde meer is dan  €  50.000,- maar kleiner dan of gelijk aan  €      100.000,-:  €  300.000,- per gebeurtenis en  €  500.000,- per contractjaar of gedeelte van een jaar dat de  Raamo vereenkomst van kracht is; • voor opdrachten waarvan de totale waarde meer is dan  €  100.000,- maar kleiner dan of gelijk aan  €  150.000,-:  €  500.000,- per gebeurtenis en  €  1.000.000,- per contractjaar of gedeelte van een jaar dat de  Raamo vereenkomst van kracht is; • voor opdrachten waarvan de totale waarde meer is dan  €  150.000,- maar kleiner dan of gelijk aan  €  500.000,-:  €  1.500.000,- per gebeurtenis en  €  3.000.000,- per contractjaar of gedeelte van een jaar dat de  Raamo vereenkomst van kracht is;  • voor opdrachten waarvan de totale waarde meer is dan  €  500.000,-:  €  3.000.000,- per gebeurtenis en  €  5.000.000,- per contractjaar of gedeelte van een jaar dat de  Raamo vereenkomst van kracht is. Samenhangende gebeurtenissen worden daarbij aangemerkt als  e ́ e ́ n  gebeurtenis.’  De in het kader van de  Raamo vereenkomst door de Opdrachtnemer te vergoeden schade is per gebeurtenis beperkt tot een bedrag van driemaal de opdrachtwaarde met een maximum van  €  2.500.000. Samenhangende gebeurtenissen worden beschouwd als  éé n (1) gebeurtenis. 6.2  De beperking van de aansprakelijkheid als bedoeld in het eerste lid komt te vervallen: a. in geval van aanspraken van derden op schadevergoeding voor dood- en letselschade; b. indien sprake is van opzet of grove schuld aan de zijde van de tekortschietende partij; c. in geval van schending van intellectuele eigendomsrechten als bedoeld in artikel 8 van de ‘Algemene Inkoopvoorwaarden’. In  deze gevallen zijn de bepalingen uit afdeling 6.1.10 BW onverkort van toepassing, wat betekent dat de aansprakelijkheid van partijen niet door artikel  6  en de ‘Algemene inkoopvoorwaarden’ wordt beperkt maar door de regeling daarvan in de wet. 6.3 De vrijwaring zoals bedoeld in artikel 14 lid 1 van de ‘Algemene inkoopvoorwaarden’, vindt plaats met inachtneming van leden 1 en 2 van dit artikel.   Overige Voorwaarden Op deze  Raamo vereenkomst zijn uitsluitend van toepassing de ‘Algemene inkoopvoorwaarden’  (Bijlage II) , voor zover daarvan in deze  Raamo vereenkomst dan wel op basis van de bijlagen bij deze  Raamo vereenkomst niet wordt afgeweken. De toepasselijkheid van (eventuele) algemene en bijzondere voorwaarden van Opdrachtnemer is uitgesloten. De bepalingen zoals vastgelegd in deze  Raamo vereenkomst zijn van overeenkomstige toepassing op aan Partijen gelieerde derde partijen, waaronder begrepen doch niet uitsluitend onderaannemers en/of  combinantleden . Derde partijen welke in het kader van deze  Raamo vereenkomst rechts- of uitvoeringshandelingen verrichten zijn gebonden aan de verplichtingen zoals deze voortvloeien uit deze  Raamo vereenkomst. Opdrachtgever heeft het recht een (externe) audit te laten uitvoeren bij Opdrachtnemer in het kader van de uitvoering van deze  Raamo vereenkomst, waarvan de kosten voor rekening komen van Opdrachtgever. Overige voorwaarden Opdrachtnemer verklaart dat ter verkrijging van de Opdracht de personeelsleden van Opdrachtgever generlei voordeel zijn geboden, gegeven, doen aanbieden of doen geven. Opdrachtnemer zal dat ook niet alsnog doen teneinde personen in dienst van Opdrachtgever te bewegen enige handeling te verrichten of na te laten. Op verzoek van Opdrachtgever draagt Opdrachtnemer zorg voor een door  p ersoneel van Opdrachtnemer te ondertekenen en te overleggen geheimhoudingsverklaring,  conform Bijlage  G . Gegevens  zoals partijen deze aan elkaar verstrekken in het kader van de uitvoering van deze  Raamo vereenkomst mogen uitsluitend worden gebruikt voor het doel waarvoor deze zijn verstrekt.  Op verzoek van Opdrachtgever draagt Opdrachtnemer zorg voor een door  p ersoneel van Opdrachtnemer te overleggen rechtsgeldig VOG. De hiermee samenhangende kosten kan Opdrachtnemer gespecificeerd middels de overeengekomen facturatie in rekening brengen bij Opdrachtgever. Partijen leggen nadere afspraken vast in het kader van de bescherming van de verwerking van persoonsgegevens conform de Algemene verordening gegevensbescherming (AVG) in de Verwerkersovereenkomst  Bijlage  I  die integraal onderdeel wordt van deze Overeenkomst. Slotbepaling Afwijkingen van deze  Raamo vereenkomst zijn slechts bindend voor zover zij uitdrukkelijk tussen Partijen schriftelijk zijn overeengekomen. Door ondertekening van deze  Raamo vereenkomst vervallen alle eventueel eerder door Partijen gemaakte mondelinge en schriftelijke afspraken omtrent de hierbij overeengekomen  producten en  Diensten. Indien er een geschil ontstaat met betrekking tot onderhavige  Raamo vereenkomst, is elk der  P artijen gerechtigd om het geschil voor te leggen aan de rechtbank  Midden-Nederland te Utrecht.  Aldus op de laatste van de twee hierna genoemde data overeengekomen en in tweevoud ondertekend, Plaats:   plaatsnaam Datum :  DD-MM-JJJJ Plaats:   plaatsnaam Datum :  DD-MM-JJJJ Getekend  d oor  Opdrachtgever: Getekend  door  Opdrachtnemer : Handtekening Handtekening de heer/mevrouw  voorletters + achternaam functie de heer/mevrouw  voorletters + achternaam functie Bijlagen:  Verwerkersovereenkomst GGD  Algemene Inkoopvoorwaarden  Aanbestedingsstukken Inschrijving Opdrachtnemer Beschrijvend document  GGD Model-geheimhoudingsverklaring
+
+=== Document: bijlage c model verwerkersovereenkomst ggd ghor nederland ===
+V erwerkersovereenkomst GGD  [Naam GGD]   &  [Opdrachtnemer] De ondergetekenden: [Officiële tenaamstelling GGD]   h.o.d.n .  [Korte naam GGD]  gevestigd te  [adres]  en ingeschreven in het register van de Kamer van Koophandel onder nummer  [KVK-nummer] , in deze rechtsgeldig vertegenwoordigd door  de heer/mevrouw  voorletters + achternaam ,  functie , en Opdrachtnemer ,   gevestigd aan  [adres en postcode] , en ingeschreven in het register van de Kamer van Koophandel onder nummer  [ kvk  nummer] ,   in deze rechtsgeldig vertegenwoordigd door  [de heer/mevrouw voorletters + achternaam]  ,  [functie]. Hierna gezamenlijk ook aan te duiden als: “ Partijen ” en afzonderlijk als “ Partij ” Overwegende   dat :  P artijen  in  XXX   een  Nadere o vereenkomst  hebben gesloten met betrekking tot het verrichten van   XXX   met kenmerk   XXX . Ter uitvoering van de  Overeenkomst  verwerkt  [opdrachtnemer]  persoonsgegevens in opdracht  van  GGD  [Naam GGD] ; GGD  [ N aam  GGD ]  aan te merken is al s  Verwerkingsverantwoordelijke en dat  [opdrachtnemer]  aan te merken is als Verwerker en  dat aan  P artijen  op deze manier wordt gerefereerd in deze overeenkomst ; In opdracht van de Verwerkingsverantwoordelijke verwerkt de Verwerker Persoonsgegevens   (zoals benoemd in  Bijlage  I) ; Op de  V erwerking van Persoonsgegevens zijn de Algemene  v erordening  g egevensbescherming (AVG) en de Uitvoeringswet AVG (UAVG) van toepassing; Verwerkingsverantwoordelijk en Verwerker  willen in aanvulling op de AVG en de UAVG de volgende afspraken over de verwerking van Persoonsgegevens vastleggen in deze  V erwerkersovereenkomst.  Verklaren te zijn overeengekomen als volgt: Artikel 1 :  Definities Begrippen uit de AVG en de UAVG die in deze Verwerkersovereenkomst worden gebruikt, hebben dezelfde betekenis.  Artikel 2 :  Ingangsdatum en duur 2.1 Deze Verwerkersovereenkomst gaat in op het moment dat de  Overeenkomst  tot stand is gekomen, tenzij  Verwerkingsverantwoordelijke en Verwerker  anders overeenkomen.  2.2 Deze Verwerkersovereenkomst eindigt op het moment dat de  V erwerking van Persoonsgegevens op grond van de  Overeenkomst  is beëindigd en de afspraken over het teruggeven en/of wissen van Persoonsgegevens zijn nagekomen.  Artikel 3: Het doel van de   V erwerking van de vragenlijsten 3.1  He t doel van de verwerking is om  a an de hand van een vragenlijstonderzoek over de gezondheid, het welzijn en de leefstijl inzicht  te  verkrijgen  op  lokaal, regionaal en landelijk niveau  in de gezondheidssituatie van  XXX . Het is daarom niet uit te sluiten dat bijzondere persoonsgegevens worden verwerkt.  3.2 Verwerker  verwerkt   de te verzamelen  Persoonsgegevens uitsluitend in opdracht van  of via de  Verwerkingsverantwoordelijke voor de uitvoering van de  O vereenkomst en uitsluitend overeenkomstig schriftelijke instructies van Verwerkingsverantwoordelijke. Afwijking hiervan kan alleen als wettelijke verplichtingen of bindende uitspraken van de toezichthoudende autoriteit of een bevoegde rechter anders bepalen, of een op Verwerker van toepassing zijnde Unierechtelijke of lidstaatrechtelijke wettelijke bepaling hem tot verwerking verplicht. In dat geval zal Verwerker Verwerkingsverantwoordelijke, voorafgaand aan de verwerking, daarvan in kennis stellen, tenzij deze kennisgeving om gewichtige redenen van algemeen belang is verboden.   Artikel 4: Onderwerp van deze Verwerkersovereenkomst  4.1 Deze Verwerkersovereenkomst heeft betrekking op de verwerking van Persoonsgegevens door Verwerker in opdracht en instructie van de Verwerkingsverantwoordelijke die uitsluitend plaatsvindt in het kader van de uitvoering  van de  Overeenkomst . 4.2  Verwerkingsverantwoordelijke n Verwerker  leggen in  Bijlage 1  vast welke Verwerkingen de Verwerker in opdracht van de Verwerkingsverantwoordelijke uitvoert. Verwerker is uitsluitend tot de in  Bijlage 1  gespecificeerde Verwerkingen gerechtigd.    4.3 Deze Verwerkersovereenkomst en Bijlagen maken onlosmakelijk deel uit van de  Overeenkomst . Voor zover het bepaalde in de Verwerkersovereenkomst en/of Bijlagen strijdig is met het bepaalde in de  Overeenkomst , prevaleert het bepaalde in de Verwerkersovereenkomst/Bijlagen. 4.4 Verwerkingsverantwoordelijke  en  Verwerker  zullen handelen conform de toepasselijke wet- en regelgeving waaronder begrepen de wet- en regelgeving op het gebied van bescherming van Persoonsgegevens zoals de AVG. Verwerker verplicht zich voorts zich te gedragen overeenkomstig de gedragscodes die ingevolge de NEN 7510 en ISO 27001 norm van toepassing zijn. 4.5 Verwerker zal alle schriftelijke instructies omschreven in de Verwerkersovereenkomst en de  Overeenkomst  van Verwerkingsverantwoordelijke in verband met de Verwerking van de Persoonsgegevens opvolgen. 4.6 Verwerker verwerkt alleen in opdracht van de Verwerkingsverantwoordelijke. Verwerker zal de Persoonsgegevens niet voor eigen doeleinde n  verwerken.  Verwerker zal de vragenlijsten niet inzien tenzij dit absoluut noodzakelijk is voor de uitvoering van de opdracht, waarvan de ver wer kingsverantwoordelijke op de hoogte zal worden gebracht en Verwerker doet geen pogingen om de vragenlijsten te herleiden.  Artikel 5: Beveiliging Persoonsgegevens 5.1 De technische beveiliging van het ophalen, bewaren en verzenden van de vragenlijst van de betrokkenen is de verantwoordelijkheid van  Verwerker .   Verwerker   en eventuele Subverwerkers   werken  in overeenstemming met ISO   27001 en is hiervoor gecertificeerd. Dit betekent dat  [opdrachtnemer]  een passend en geïmplementeerd beveiligingsbeleid heeft voor de verwerking van persoonsgegevens in de zin van de AVG.  5.2  Verwerker zal aantoonbaar, passende en doeltreffende technische en organisatorische beveiligingsmaatregelen nemen, om een op het risico afgestemd beveiligingsniveau te waarborgen opdat de Verwerking aan de vereisten van de AVG en andere toepasselijke wet- en regelgeving betreffende de Verwerking van Persoonsgegevens voldoet en de bescherming van de rechten van Betrokkenen is gewaarborgd. In deze beveiligingsmaatregelen zijn de mogelijk in de  Overeenkomst  reeds bepaalde maatregelen begrepen. De maatregelen omvatten in ieder geval: Maatregelen om te waarborgen dat enkel bevoegde Medewerkers toegang hebben tot de Persoonsgegevens voor de doeleinden die zijn uiteengezet; Maatregelen waarbij de Verwerker zijn Medewerkers en Subverwerkers uitsluitend toegang geeft tot Persoonsgegevens via op naam gestelde accounts, waarbij het gebruik van die accounts adequaat gelogd wordt en waarbij de betreffende accounts alleen toegang geven tot die Persoonsgegevens waartoe de toegang voor de betreffende (rechts)persoon noodzakelijk is; Maatregelen om de Persoonsgegevens te beschermen tegen onopzettelijke of onrechtmatige vernietiging, onopzettelijk verlies of wijziging, onbevoegde of onrechtmatige opslag, verwerking, toegang of openbaarmaking; Maatregelen om de tijdige beschikbaarheid van de Persoonsgegevens te garanderen; De  overige maatregelen die  Verwerkingsverantwoordelijke en Verwerker  zijn overeengekomen zoals vastgelegd in  Bijlage 2 . 5.3 Bij de beoordeling van het passende beveiligingsniveau houdt Verwerker rekening met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen, vooral als gevolg van de vernietiging, het verlies, de wijziging of de ongeoorloofde verstrekking van of ongeoorloofde toegang tot doorgezonden, opgeslagen of anderszins verwerkte gegevens, hetzij per ongeluk hetzij onrechtmatig. Artikel 6 :  Inbreuk in verband met Persoonsgegevens 6 . 1   Verwerkingsverantwoordelijke en Verwerker   erkennen dat beveiligingseisen voortdurend veranderen en dat een effectieve beveiliging frequente evaluatie en regelmatige verbetering van verouderde beveiligingsmaatregelen vereist.  Indien zich een Beveiligingsincident of een vermoeden van een Beveiligingsincident voordoet bij Verwerker, waarbij Persoonsgegevens zijn blootgesteld aan verlies of onrechtmatige verwerking, dan zal Verwerker hier onmiddellijk, zonder onredelijke vertraging, – doch uiterlijk binnen 24 uur – melding van maken bij de contactpersoon van Verwerkingsverantwoordelijke, zoals vermeld in  Bijlage 1 . Verwerker zal Verwerkingsverantwoordelijke gedetailleerd op de hoogte stellen van een dergelijke inbreuk op de beveiliging van Persoonsgegevens, die ten minste omvat de aard van de inbreuk, de gevolgen hiervan, de instanties waar meer informatie over de inbreuk kan worden verkregen en de aanbevolen maatregelen om de negatieve gevolgen van de inbreuk te beperken. De informatieverstrekking aan de Verwerkingsverantwoordelijke komt overeen met het meest recente formulier datalekken van de Autoriteit Persoonsgegevens, welke te vinden is op de website van de Autoriteit Persoonsgegevens. De Verwerker garandeert dat de verstrekte informatie, voor zover bekend bij Verwerker op dat moment, volledig, correct en accuraat is. 6 . 2  Indien en voor zover het voor Verwerker niet mogelijk is om alle informatie uit het formulier datalekken van de Autoriteit Persoonsgegevens gelijktijdig te verstekken, kan de informatie zonder onredelijke vertraging op een later tijdstip worden verstrekt aan Verwerkingsverantwoordelijke. 6 . 3  Verwerker onthoudt zich van het doen van meldingen omtrent Inbreuken in verband met Persoonsgegevens aan de Toezichthoudende autoriteit en/of de getroffen Betrokkenen, tenzij op uitdrukkelijk Schriftelijk verzoek van Verwerkingsverantwoordelijke. Artikel  7:  Geheimhoudingsplicht  7 .1 Alle Persoonsgegevens worden als vertrouwelijke gegevens gekwalificeerd en dienen als zodanig te worden behandeld. Desbetreffende Persoonsgegevens worden op geen enkele wijze intern of extern bekend gemaakt, behalve voor zover: i. Bekendmaking en/of verstrekking van de Persoonsgegevens in het kader van de uitvoering van de  Overeenkomst  of Verwerkersovereenkomst noodzakelijk is; ii. Enig voorschrift van dwingend Unie- of lidstatelijk recht of een daarop gebaseerde in kracht van gewijsde gegane rechterlijke uitspraak van een bevoegde rechtbank,  Verwerkingsverantwoordelijke en Verwerker   tot bekendmaking, verstrekking en/of doorgifte van die Persoonsgegevens verplicht; iii. Bekendmaking en/of verstrekking van die Persoonsgegevens geschiedt met voorafgaande Schriftelijke toestemming van de andere Partij. 7 .2 Verwerker zal de personen, die in haar dienst zijn dan wel werkzaamheden ten behoeve van haar verrichten in het kader van de uitvoering van de  Overeenkomst  en/of Verwerkersovereenkomst, verplichten tot geheimhouding met betrekking tot de Persoonsgegevens waarvan zij kennis kunnen nemen. Daartoe zal een geheimhoudingverklaring worden getekend. 7 .3 Op verzoek van de Verwerkingsverantwoordelijke verstrekt Verwerker aan Verwerkingsverantwoordelijke bewijs van de overeengekomen geheimhoudingsverplichting. 7.4 Personen die werken voor (sub)Verwerker en (sub)Verwerker zelf, moeten de Persoonsgegevens in het kader van de uitvoering van de  Overeenkomst  of Verwerkersovereenkomst geheimhouden. De personen die werken voor Verwerker  of   S ubverwerkers hebben daarom een geheimhoudingsverklaring getekend, of zich op een andere manier schriftelijk gebonden aan de geheimhouding.  Artikel  8:  Bewaartermijnen 8.1  De Verwerker bewaart de  P ersoonsgegevens van de Verwerkingsverantwoordelijke niet langer dan strikt noodzakelijk.  De Verwerker vernietigt de  P ersoonsgegevens na schriftelijke goedkeuring door  V erwerkingsverantwoordelijke.  Uiterlijk worden de  P ersoonsgegevens drie maanden na succesvolle overdracht naar Verwerkingsverantwoordelijke verwijder d, of zo veel langer als noodzakelijk is voor de uitvoering van de  Overeenkomst . Verwerker vraagt  bij afwijken van  deze termijn  dan ook goedkeuring aan Verwerkingsverantwoordelijke voor verwijdering van Persoonsgegevens.  Artikel  9:  Medewerkingsverplichting  bij verzoeken betrokkenen 9.1 De AVG en andere toepasselijke wet- en regelgeving kent aan de Betrokkene bepaalde rechten toe. Verwerker zal zijn volledige en tijdige medewerking verlenen aan Verwerkingsverantwoordelijke bij de nakoming van de op Verwerkingsverantwoordelijke rustende verplichtingen voortvloeiend uit deze rechten, voor zover dit de handelingen van de Verwerker betreft.  Verwerkingsverantwoordelijke en Verwerker  verklaren  medewerking  te  verlenen,  in dien een betrokkene een verzoek doet op een  van de rechten uit de AVG.    9.2 Onder het verlenen van bijstand en medewerking met betrekking tot het voldoen aan verzoeken van Betrokkenen worden in ieder geval de volgende verplichtingen voor Verwerker verstaan: 9 .3 Verwerker neemt alle redelijke maatregelen om ervoor te zorgen dat een Betrokkene zijn rechten kan uitoefenen; 9 .4 Indien een Betrokkene met betrekking tot de uitvoering van zijn rechten direct contact opneemt met Verwerker, dan gaat Verwerker hier – behoudens uitdrukkelijke andersluidende instructie van Verwerkingsverantwoordelijke – niet (inhoudelijk) op in, maar bericht Verwerker dit onverwijld aan Verwerkingsverantwoordelijke met een verzoek om nadere instructies. 9.5 Indien Verwerker de Dienst rechtstreeks aanbiedt aan Betrokkene, is Verwerker verplicht om Betrokkene namens de Verwerkingsverantwoordelijke te informeren over de Verwerking van de Persoonsgegevens van Betrokkene op een wijze die in overeenstemming is met de rechten van Betrokkene. 9.6 Een door Verwerker ontvangen klacht of een verzoek van een Betrokkene met betrekking tot verwerking van Persoonsgegevens wordt door Verwerker zonder uitstel doorgestuurd naar Verwerkingsverantwoordelijke, meer specifiek de contactpersoon zoals omschreven in  Bijlage 1 . 9 .7 Op het eerste daartoe strekkende verzoek van Verwerkingsverantwoordelijke zal Verwerker aan Verwerkingsverantwoordelijke alle relevante informatie verstrekken  betreffende de aspecten van de door hem verrichte verwerking van Persoonsgegevens zodat Verwerkingsverantwoordelijke, mede aan de hand van die informatie, aan kan tonen dat zij de toepasselijke (privacy)wet- en regelgeving naleeft.  9 .8 Verwerker zal voorts op eerste verzoek van Verwerkingsverantwoordelijke alle noodzakelijke bijstand verlenen bij de nakoming van de op grond van de toepasselijke privacywetgeving op Verwerkingsverantwoordelijke, maar ook op Verwerker, rustende wettelijke verplichtingen. Dergelijk bijstand kan betrekking hebben op:  (I) Het uitvoeren van DPIA’s ; (II) Het voldoen van verzoeken van Betrokkenen; (III) Het melden van beveiligingsincidenten (aan de Verwerkingsverantwoordelijk e ). Artikel 10. Inschakeling derden 10.1  Verwerker verwerkt Persoonsgegevens geheel in eigen beheer. Verwerker zal haar werkzaamheden niet uitbesteden aan Subverwerkers zonder voorafgaande schriftelijke toestemming van Verwerkingsverantwoordelijke. De Verwerkingsverantwoordelijke geeft toestemming voor inschakeling van de Subverwerker(s) zoals opgenomen in  Bijlage 1 . 10.2  De Subverwerker(s) worden door Verwerker ingeschakeld ter uitvoering van de  Overeenkomst . 10.3  Voor zover Verwerkingsverantwoordelijke instemt met de inschakeling van een Subverwerker, zal Verwerker aan deze Subverwerker dezelfde verplichtingen opleggen als voor hemzelf uit deze Verwerkersovereenkomst en de wet voortvloeien. Verwerker zal deze afspraken schriftelijk vastleggen en zal toezien op de naleving daarvan door de Subverwerker. Verwerker zal Verwerkingsverantwoordelijke op verzoek afschrift verstrekken van de met de Subverwerker gesloten  Overeenkomst . 10.4  Ondanks de toestemming van Verwerkingsverantwoordelijke voor het inschakelen van een Subverwerker die in opdracht van de Verwerker (gedeeltelijk) gegevens verwerkt, blijft Verwerker volledig aansprakelijk jegens Verwerkingsverantwoordelijke voor de gevolgen van het uitbesteden van werkzaamheden aan een Subverwerker. De toestemming van Verwerkingsverantwoordelijke voor het uitbesteden van werkzaamheden aan een Subverwerker laat onverlet dat voor de inzet van Subverwerkers in een land buiten de Europese Economische Ruimte  aparte  toestemming vereist is. Artikel 11. Aansprakelijkheid 1 1 .1 Indien  V erwerker tekortschiet in de nakoming van de verplichting uit deze overeenkomst kan verantwoordelijke hem in gebreke stellen. Verwerker is echter onmiddellijk in gebreke   als de nakoming van desbetreffende verplichting anders dan door overmacht binnen de overeengekomen termijn, reeds blijvend onmogelijk is. Ingebrekestelling geschiedt schriftelijk, waarbij aan verwerker een redelijke termijn wordt gegund om alsnog zijn verplichtingen na te komen. Deze termijn is een fatale termijn. Indien nakoming binnen deze termijn uitblijft, is verwerker in verzuim. Art. 82 AVG is van toepassing. 1 1 .2 Eventuele in de  Overeenkomst  overeengekomen beperkingen van aansprakelijkheid hebben ook betrekking op de Verwerkersovereenkomst. Artikel 1 2.  Beëindigen en wijziging Verwerkersovereenkomst 12.1  Verwerkingsverantwoordelijke en  Verwerker  moeten  in de  Overeenkomst  afspraken maken over de beëindiging van de  Overeenkomst  en de daaruit voortvloeiende teruggave en wissen van Persoonsgegevens.   1 2 .2 De geheimhouding geldt ook nog na beëindiging van deze Verwerkersovereenkomst.  1 2 .3 Wijzigingen van deze overeenkomst zijn uitsluitend geldig indien deze tussen  Verwerkingsverantwoordelijke en Verwerker   schriftelijk zijn overeengekomen. 1 2 .4 Wijzigingen die betrekking hebben op de Verwerking van Persoonsgegevens mogen nooit tot gevolg hebben dat Verwerkingsverantwoordelijke niet kan voldoen aan de AVG en/of andere toepasselijke wet- en regelgeving betreffende de Verwerking van Persoonsgegevens. Aldus overeenkomen opgemaakt te  [Plaats]  op [ Datum tekenen ] Verwerkingsverantwoordelijke  [ GGD ] Verwerker   –  [Opdrachtnemer] …………………………………………….. …………………………………………….. Bijlage 1: Beschrijving verwerkingsactiviteiten Deze bijlage is onderdeel van de Verwerkersovereenkomst tussen Verwerkingsverantwoordelijke en Verwerker en moet door beide partijen worden geparafeerd.  Persoonsgegevens (in te vullen door Verwerkingsverantwoordelijke): Omschrijving van de Verwerking Verwerker  zorgt dat de vragenlijst door  XXX , kunnen worden ingevuld, de antwoorden worden opgeslagen en beschikbaar worden gesteld aan  XXX .  Verwerker  voert geen verdere werkzaamheden uit voor de GGD’en. Dit betekent bijvoorbeeld dat de medewerkers van  Verwerker  geen analyse op de data zal uitvoeren en geen pogingen ondernemen om de vragenlijsten te herleiden. Doeleinden van de Verwerking ( in te vullen door Verwerkingsverantwoordelijke ) Het uitvoeren van de Gezondheidsmonitor  XXX   om te voldoen aan een algemeen belang  opgenomen  in de Wet publieke gezondheid.   De  Nederlandse  gemeenten  hebben  conform de Wet publieke gezondheid  de taak  om   de gezondheidssituatie van hun burgers in kaart te brengen. Dit dient  onder meer  als input voor de lokale gezondheidsnota.  Daarnaast levert de Gezondheidsmonitor  XXX  informatie op over de gezondheid op regionaal en landelijk niveau.  De GGD’en voeren daartoe  een vragenlijstonderzoek uit .  Categorieën Betrokkenen ( in te vullen door Verwerkingsverantwoordelijke ) XXX  uit [ GGD regio ].   ( Categorieën ) Persoonsgegevens  ( in te vullen door Verwerkingsverantwoordelijke ) Frequentie verrichten van audit ( in te vullen door Verwerkingsverantwoordelijke ) Advies: 1 keer per jaar (GGD kan dit aanpassen)   [NB:  Deze audit geeft de GGD het recht en de mogelijkheid om een audit bij de verwerker uit te laten voeren. In de praktijk wordt dit niet jaarlijks uitgevoerd, zeker niet wanneer een verwerker zich jaarlijks laat certificeren voor bijvoorbeeld 27001.] Bewaartermijn van de Persoonsgegevens of de criteria om die vast te stellen ( enkel invullen indien van toepassing)  ( in te vullen door Verwerkingsverantwoordelijke ) Tot en met  XXX   Categorieën Medewerkers Categorieën Medewerkers (functierollen/functiegroepen) van Verwerker die Persoonsgegevens Verwerken ( Categorie ) Persoonsgegevens die door Medewerkers worden verwerkt Soort Verwerking Land van Verwerking Sub-verwerkers Verwerkingsverantwoordelijke heeft Verwerker [ aankruisen wat van toepassing is door Verwerkingsverantwoordelijke ]: □     Algemene toestemming gegeven voor het inschakelen van Sub-verwerkers.  Specifieke  toestemming gegeven voor het inschakelen van de hierna opgenomen Sub-verwerkers ( in te vullen door Verwerkingsverantwoordelijke ). De door Verwerker ingeschakelde Sub-verwerkers zijn:  Sub-verwerker die door Verwerker wordt ingeschakeld voor het Verwerken van Persoonsgegevens ( Categorie ) Persoonsgegevens die Sub-verwerker verwerkt Soort Verwerking Land van Verwerking Vestigingsland Sub-verwerker Doorgiften buiten de Europese Economische Ruimte Verwerkingsverantwoordelijke heeft Verwerker specifieke toestemming gegeven voor de hierna opgenomen doorgiften aan derde landen of internationale organisaties ( in te vullen door Verwerkingsverantwoordelijke ).   Beschrijving doorgifte Entiteit die de Persoonsgege-vens doorgeeft + land Entiteit die de Persoonsgegevens ontvangt + land Doorgifte-mechanisme Extra getroffen waarborgen voor doorgifte buiten de EER Niet van toepassing. Contactgegevens Algemene contactgegevens Naam Functie E-mail adres Telefoonnummer Verwerkings-verantwoordelijke ( in te vullen door Verwerkings-verantwoordelijke) Verwerker Contactgegevens bij Inbreuk in verband met Persoonsgegevens Naam Functie E-mail adres Telefoonnummer Verwerkings-verantwoordelijke ( in te vullen door Verwerkings-verantwoordelijke)      Verwerker Bijlage 2 Beschrijving beveiligingsmaatregelen Uitwerking van de door Verwerker getroffen beveiligingsmaatregelen:  Aantonen passend niveau van beveiliging 1. Normenstelsel □ De informatiebeveiliging vindt plaats volgens algemeen erkende normen, namelijk:  2. De  toereikendheid  van de informatiebeveiliging blijkt uit: □ Certificering en verklaring van toepasselijkheid (VVT); …………………………………………………………………………………………… N.B. Uit de certificering/periodieke externe controles/audits of uit de eigen controles/beschrijvingen blijkt of kan afgeleid worden dat de beveiliging passend is bij de verwerking(en) genoemd in bijlage 1. Certificaten waarover Verwerker beschikt: Certificaten Organisatieonderdeel/ dienst waarop certificaat betrekking heeft Geldigheids-duur certificaat Verklaring van toepasselijkheid

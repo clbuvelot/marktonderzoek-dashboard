@@ -1,0 +1,1101 @@
+=== Document: annex 1 requirements a-adr ind ===
+Requirements 
+Annex 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Prototype Automatic Arabic Dialect Recognition (A-ADR) 
+For the State of the Netherlands, Immigration and Naturalisation 
+Service (IND) 
+ 
+  
+Reference  :  TN562514 
+Date   :  12-2-2026 
+Version number : 1.0 
+Annex 1 | Requirements | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 2 of 5 
+ 
+Introduction 
+These are the Requirements forming part of the Tender Documents. It contains the minimum 
+requirements that you as the Contractor must meet during the performance of the Agreement. 
+These minimum requirements are referred to as 'requirements' in this document.  
+ 
+You fully and unconditionally accept these Requirements by completing, signing and submitting Form 
+B 'Tender Form and Statement of Agreement' with your Tender. Therefore, you do not need to 
+answer the requirements yourself.  
+ 
+ 
+Table of contents 
+1 GENERAL REQUIREMENTS 3 
+2 FUNCTIONAL REQUIREMENTS 3 
+3 SECURITY REQUIREMENTS 4 
+4 PROJECT GOVERNANCE 5 
+5 FINANCIAL REQUIREMENTS FOUT! BLADWIJZER NIET GEDEFINIEERD. 
+ 
+ 
+  
+Annex 1 | Requirements | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 3 of 5 
+ 
+1 General requirements 
+ 
+1.1 General requirements 
+# Description 
+1.  The Contractor shall comply with applicable environmental and other laws and regulations 
+relating to this Assignment. 
+2.  The AADR prototype must be developed as an entirely open-sourced tool under an 
+appropriate license, to be determined by the Contracting Party. The license conditions 
+should allow for another party to take over the development from Prototype to Final 
+Solution. 
+3. A The Bid should be submitted in English. 
+ 
+2 Functional requirements 
+ 
+2.1 Prototype 
+# Description 
+4.  The A-ADR prototype must be fully automatic, using state-of-the-art ADR technology 
+5.  The A-ADR prototype must be able to deal with .mp3 audio samples (at least 192 kbps) 
+of spontaneous speech in spoken Arabic varieties (not Modern Standard Arabic). 
+6.  The A-ADR prototype must be able to handle as many spoken dialects of Arabic as 
+possible, since the true origin of the speakers to be tested is unknown. 
+7.  The A-ADR prototype must be able to indicate the best matching language model at a 
+broad level (e.g. Maghrebi – Levantine – Mesopotamian – Gulf – Egyptian), and (as a 
+second step), at a more fine-grained level (e.g. towards country level). 
+8.  The A-ADR prototype must be flexible and allow for further training/finetuning with newly 
+available datasets. 
+ 
+2.2 Mock up 
+# Description 
+9.  The mock up must give a visualization of how the analysis results are presented to 
+potential end users (e.g. asylum officers). 
+10.  The mock up must translate the analysis results into an understandable conclusion 
+format fit for lay use. 
+11.  The mock up must show how the level of uncertainty of the result can be communicated 
+to the user. 
+ 
+2.3 Datasets 
+# Description 
+12.  Datasets to be used by the Contractor for training and testing must not infringe copyright 
+law, privacy law or license agreements. Therefore, only datasets for which IND has given 
+permission (following legal advice) may be used by the Contractor. 
+13.  Datasets to be used for training and testing are to be agreed upon during the first four 
+months after the Agreement has been signed.  
+14.  Any cost (e.g. license costs) that comes with use of datasets will be carried by IND and 
+should not to be included in the Pricing sheet. 
+ 
+2.4 Validation reports 
+# Description 
+15.  Validation reports must include various technical performance evaluations, including 
+visual ones. 
+16.  Validation reports must include determination of the correlation between the score and 
+accuracy, including visualization. 
+17.  Validation reports must include testing for bias, fairness, and representativeness across 
+diverse Arabic-speaking populations. 
+ 
+  
+Annex 1 | Requirements | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 4 of 5 
+ 
+2.5 Documentation 
+# Description 
+18.  The documentation must include technical documentation of the development and 
+validation stages as required by the EU AI Act. 
+19.  The documentation must include data governance during the development and validation 
+stages and must also include records about the origin of the data, original purpose of 
+data collection, data preparation operations conducted such as labelling, cleaning 
+operations. 
+20.  The documentation must include a risk management system as required by the EU AI 
+Act. 
+ 
+3 Security requirements 
+ 
+3.1 Information security 
+# Description 
+21.  The A-ADR prototype must be developed according to the principle ‘Security-by-design'. 
+Relevant aspects of this principle are listed below. 
+22.  Development activities must be based on a documented system development methodology, 
+which addresses, among other things, standards and procedures for application 
+development, the application of policies and regulations, and a project-based approach. 
+23.  When developing applications, the privacy and protection of personal data, where 
+applicable, must be guaranteed in accordance with relevant laws and regulations. 
+24.  Read and write access to source code, development tools, and software libraries must be 
+appropriately managed. 
+25.  Changes to systems within the development lifecycle must be controlled through the use of 
+formal change control procedures. 
+26.  Information systems must be designed in such a way that data input, processing and output 
+functions are validated (at the appropriate time) in the process for accuracy, timeliness and 
+completeness in order to optimally support the business process. 
+27.  The development of applications including program code must be carried out using 
+(industry) good practice, such as built-in software testing, and by individuals with the 
+appropriate skills and tools, and should be reviewed. 
+28.  Training and test data must be carefully selected, protected, and controlled. 
+29.  Contractor must establish secure development environments for systems development and 
+integration activities spanning the entire systems development lifecycle. 
+30.  The development methodology must be supported by a tool that provides the necessary 
+facilities for effectively executing the development cycle. 
+31.  The project organization of Contractor must have formulated guidelines for control activities 
+and reporting aimed at evaluating development activities, such as requirements, 
+specifications and program code. 
+32.  The project organization of Contractor must have a process-oriented and efficient version 
+control system in place during the system development process. 
+33.  The project organization of Contractor must have a quality assurance process in place to 
+determine the reliable operation of the application development and maintenance process. 
+34.  A preventive vulnerability scan is performed by the Contractor towards the end of the 
+Contract, taking into account security risk awareness documents such as the ‘SANS/CWE 
+top 25 most dangerous software errors’ and the ‘OWASP Top Ten Web Application Security 
+Risks’. 
+ 
+ 
+3.2 AI act 
+# Description 
+35.  The AADR prototype must be developed according to the principle 'AI Act-compliant-by-
+design'. 
+36.  The Prototype should have the potential to serve as back-end speech analysis system of 
+licensed software for forensic application of an ADR system (Final Solution), which is 
+considered to be a high-risk AI application (cf. Articles 9-15 of the EU AI Act).  
+ 
+Annex 1 | Requirements | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 5 of 5 
+ 
+ 
+3.3 Privacy and data protection 
+# Description 
+37.  Any processing of personal data must be done in accordance with the General Data 
+Protection Regulation (GDPR).   
+38.  Given that speech data could be considered as personal data at least in some cases, the 
+necessary processing of voice recordings must be justifiable based on Article 6 of the GDPR 
+and Art. 89 of the GDPR is applicable (processing for scientific purposes). Relevant criteria 
+are listed below. 
+39.  The research project must be designed in accordance with the relevant methodological and 
+ethical standards of the sector and in accordance with good practice. 
+40.  When developing the AI system, no more personal data may be processed than is necessary 
+for the intended research.  
+41.  Proportionate retention periods, as defined in Article 5, paragraph 1, introductory sentence 
+and point (e), GDPR, must be established. When determining retention periods, criteria such 
+as the duration and purpose of the research must be taken into account. 
+42.  The result of processing for scientific purposes may only consist of aggregated data. This 
+also means that the Prototype’s AI models may only contain aggregated data. 
+43.  Staff should be trained to create privacy awareness among those who handle data used for 
+scientific research and development of the Prototype. 
+44.  Measures must be taken to ensure that personal data are accurate and updated as needed, 
+taking into account the purpose of the scientific research for which the datasets are 
+processed (and also the purpose of the Final Solution). This includes validating the data that 
+were used to train the Prototype against other (own) datasets. 
+45.  Technical and organizational measures must be taken to ensure that the scientific research 
+complies with the foregoing. These include confidentiality agreements and confidentiality 
+statements, (automatic) notifications of retention periods and checks on the deletion of 
+personal data after the specified retention periods, functional separation, a strict division of 
+access rights, limitations on access rights, and access logs. 
+ 
+4 Project Governance 
+ 
+4.1 Meetings and reports 
+# Description 
+46.  Contractor and IND meet at least monthly (online) to discuss at least  
+• the progress of the project. 
+• decisions to be made during development. 
+• assessment of risks. 
+47.  Contractor submits written progress reports at least quarterly. 
+ 
+5 Financial requirements 
+ 
+5.1 Billing 
+# Description 
+48.  The Contractor shall send the invoice electronically (XML) so that it can be received and 
+processed, subject to the specifications given by the Contracting Authority.  
+49.  Invoicing takes place in accordance with Annex 7 ‘Leaflet E-invoicing to the central 
+government (Rijksoverheid)’.  
+50.  The payment period is 30 days after receipt of an invoice. To meet the payment deadline, 
+invoices should comply with set requirements. 
+51.  Invoices comply with all applicable legal requirements as a minimum. Invoices that do not 
+comply with this will not be processed. To do business with the SSC DJI, additional 
+requirements apply. You can find these via zaken doen met DJI (‘doing business with DJI’). 
+You must also meet these requirements. 
+52. E After award, further arrangements can be made regarding billing.
+
+=== Document: annex 2 sub award criteria ===
+Sub-award criteria 
+Annex 2 
+ 
+ 
+ 
+ 
+ 
+ 
+Prototype Automatic Arabic Dialect Recognition (A-ADR) 
+For the State of the Netherlands, Immigration and Naturalisation 
+Service (IND) 
+ 
+  
+Reference  :  T562514 
+Date   :  12-2-2026 
+Version number : 1.0 
+Annex 2 | Sub-award criteria | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 2 of 5 
+ 
+Introduction 
+These are the Sub-award criteria, questions that we would like you to answer. On the one hand, 
+we would like more information on how you would complete the described Assignment. On the 
+other, we offer you the opportunity to stand out and present yourself as a potential partner for 
+the Contracting Authority.  
+ 
+The award criterion 
+The award criterion is Economic Most Valuable Bid based on quality/price ratio 
+Quality   80% 
+Price   20% 
+ 
+The ratio 
+The following weighting will be used in the award process: 
+ 
+# Sub-award criterion Points 
+1 Project governance plan 20 
+2 Technical development of the prototype 15 
+3 Validation plan 15 
+4 EU AI Act compliance plan 15 
+5 Risk mitigation plan 15 
+ Price 20 
+ Total 100 
+ 
+Assessment and calculation score of sub-award criteria (SAC) with regard to quality 
+ 
+Each SAC will be assessed independently on the basis of the below qualitative descriptors. The 
+contracting authority will award scores reflecting the degree to which the tender meets the 
+requirements set out in the procurement documents. Evaluators will substantiate the scores 
+awarded with concise reasoning as objectively as possible.   
+  
+Completeness The extent to which the proposal fully addresses all requirements, 
+questions, and elements set out in the procurement documents, 
+without omissions of relevant information necessary for assessment. 
+Relevance  The extent to which the proposal directly relates to and supports the 
+objectives, scope, and priorities of the procurement, and responds to 
+the specific challenges and needs described in the procurement 
+documents.  
+Adequateness The extent to which the proposal is suitable, feasible, and 
+proportionate in relation to the objectives, scale, complexity, and 
+nature of the contract. 
+Concreteness  The extent to which the proposal provides clear, specific, and 
+operational descriptions of activities, methods, deliverables, and 
+outputs, as opposed to general, abstract, or non-specific statements. 
+  
+  
+Rating  
+  
+Argumentation 
+  
+Percentage 
+of maximal 
+points 
+Excellent  • Completeness: All requirements set out in the 
+procurement documents are fully and clearly addressed. 
+No relevant information is missing. 
+• Relevance: The proposal fully addresses the objectives, 
+scope, and priorities of the tender and directly responds 
+to the challenges described. 
+• Adequateness: The proposed approach is fully suitable, 
+feasible, and proportionate to the objectives, scale, and 
+complexity of the assignment. 
+• Concreteness: The proposal contains clear, specific, and 
+operational descriptions of activities, methods, 
+deliverables, and outputs. 
+100%  
+Good 
+  
+• Completeness: All essential requirements are addressed; 
+minor omissions or lack of detail do not materially affect 
+understanding or feasibility. 
+70%  
+Annex 2 | Sub-award criteria | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 3 of 5 
+ 
+• Relevance: The proposal is well aligned with the 
+objectives ans scope of the procurement, with only 
+limited elements of lesser relevance. 
+• Adequateness: The proposed approach is generally 
+suitable and appropriate, with minor aspects requiring 
+clarification. 
+• Concreteness: Descriptions are largely specific and 
+operational, with limited reliance on general statements. 
+Fair 
+  
+• Completeness: Several requirements are only partially 
+addressed or insufficiently described. 
+• Relevance: The proposal shows limited alignment with 
+the tender objectives; significant elements are only 
+indirectly related. 
+• Adequateness: The proposed approach raises some 
+doubts regarding suitability, feasibility, or proportionality. 
+• Concreteness: The proposal relies mainly on general or 
+abstract descriptions, with limited detail on 
+implementation. 
+30%  
+Poor • Completeness: Key requirements of the procurement 
+documents are not addressed or are inadequately 
+described. 
+• Relevance: The proposal does not adequately address the 
+objectives or scope of the tender. 
+• Adequateness: The proposed approach is inappropriate 
+for the intended R&D activities. 
+• Concreteness: The proposal is vague, generic, or non-
+operational. 
+0% 
+ 
+  
+ Instruction on responding to sub-award criteria 
+▪ The elaborations must be completed on the maximum number of A4 pages indicated for the 
+relevant question (including any images, tables, diagrams, figures and appendices, etc.) in arial or 
+verdana font with point size 9, single line spacing. If a maximum number of pages is specified for 
+answering a question, and the maximum number of pages is exceeded, the part affected by that 
+excess will be set aside, and the assessment and resulting score will be based only on the 
+maximum number of A4's specified;  
+▪ To ensure equality of assessment, added links are not assessed; 
+▪ Under the elaboration, the Tenderer should distinguish any sub-questions from each other by 
+clearly indicating (with headings) to which sub-question the elaboration relates; 
+▪ Make sure your description does not contradict the stated requirements in the Requirements 
+(Annex 1); 
+▪ The answer to the sub-award criteria will be included in the Agreement, which means that the 
+Contractor will be bound in the performance of the Agreement by what it has stated. This does 
+not apply to elements required as 'proposals', as these will be discussed and agreed upon in 
+more detail during the contracting period. 
+ 
+ 
+Schedule of Sub-award criteria with regard to quality. 
+ 
+SAC 1 Project governance plan 20 points 
+The question 
+Please provide a project governance plan. 
+ 
+Elaborate on at least the following: 
+− The composition of your project team and amount of dedicated time 
+− Project management 
+− Preliminary outline (definition and planning) of subdeliverables 
+− Proposal for collaboration with the Contracting party and input needed from IND 
+ 
+ 
+Format 
+For your elaboration, use a maximum of 3 pages A4 single-sided. You are free to additionally 
+show the planning in a schematic overview. This may be a maximum of 1 A4.  
+ 
+Annex 2 | Sub-award criteria | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 4 of 5 
+ 
+ 
+ 
+SAC 2 Technical development of the prototype 15 points 
+The question 
+Please provide a technical development plan. 
+ 
+Elaborate on at least the following: 
+− The kind of ADR technology, language/data models and/or platforms to be used, recent 
+developments in the field of ADR to be tried out 
+ 
+Format 
+For your elaboration, use a maximum of 2 pages A4 single-sided.  
+ 
+ 
+SAC 3 Validation plan 15  points 
+The question 
+Please provide a validation plan  
+ 
+Elaborate on at least the following: 
+− Validation plan including various performance measures and ways of visualizing the 
+results 
+− Your ideas on how to present the output of the Prototype – including the uncertainty of 
+the outcome – to a potential user of a Final Solution (e.g. an asylum officer) 
+− Your ideas on how to train the human experts in charge of human supervision of the AI 
+and explain the inner workings of the system to them 
+ 
+Format 
+For your elaboration, use a maximum of 2 pages A4 single-sided. 
+ 
+ 
+SAC 4 Compliance plan 15 points 
+The question 
+Please provide a Compliance plan. 
+ 
+Elaborate on at least the following: 
+− The relevant EU AI Act Articles at this stage and how compliance can be ensured 
+− Proposal for division of roles and/or specification of responsibilities as specified in the AI 
+Act 
+ 
+Format 
+For your elaboration, use a maximum of 2 pages A4 single-sided. 
+ 
+ 
+SAC 5 Risk Mitigation Plan 15 points 
+The question 
+Please provide a Risk Mitigation Plan. You may include any risks that you see and propose 
+mitigating measures. 
+ 
+Format 
+For your elaboration, use a maximum of 2 pages A4 single-sided.   
+ 
+  
+Annex 2 | Sub-award criteria | European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 5 of 5 
+ 
+Sub-award criterion Price 
+ 
+The points to be scored for the submitted price are calculated with the formula  
+ 
+Points for price = 20*(1.200.000-price)/600.000  
+ 
+where the results will be rounded to 1 decimal place. 
+ 
+Instructions regarding Form D Price Sheet 
+ 
+• The submitted price in cell B3 of Form D is fixed for the duration of the Contract and includes all 
+costs for Tenderer to execute the Contract, except data license costs as these are not part of 
+this Tender and will be covered separately by the Contracting authority. 
+• Tenderer must provide a cost breakdown in at least the required components mentioned in Form 
+D (yellow cells) and is free to provide additional cost breakdown elements (green cells). 
+• The price is calculated based on the submitted cost breakdown elements.  
+ 
+ 
+Please note: 
+The minimum price to be stated in your bid is € 600.000 excl. VAT and the maximum price to 
+be stated in your Bid is € 1.200.000 excl. VAT. If the price stated in your bid is lower than € 
+600.000 excl. VAT or higher than € 1.200.000 excl. VAT your bid will be deemed invalid.
+
+=== Document: annex 3 tender checklist ===
+Tender Checklist 
+Annex 3 
+ 
+ 
+ 
+ 
+ 
+ 
+Prototype Automatic Arabic Dialect Recognition (A-ADR) 
+For the State of the Netherlands, Immigration and Naturalisation 
+Service (IND) 
+  
+Reference  :  TN 562514  
+Date   :  12-2-2026 
+Version number : 1.0 
+Annex 3 | Checklist Entry | EA ‘European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 2 of 3 
+ 
+Documents to be submitted with the Tender 
+ 
+Please send the following documents with your Tender: 
+ 
+Number Document Conditions When applicable 
+A Uniform European Tender 
+Document. 
+Completed. 
+ 
+The following applies if you 
+are a third party engaged for 
+the Tender and/or a member 
+of a partnership : Completed 
+and legally signed.  
+- If applicable: enclose the 
+power of attorney, see no. F in 
+this table. 
+Depending on the form of tender, 
+you complete one or more UEAs. 
+See Annex 4 'Explanation. Tender 
+forms and completion of annexes'. 
+B Tender form and statement 
+of agreement. 
+Completed and legally signed. For all Tenderers, regardless of 
+the form of Tender. 
+C Reference form. Completed and legally signed by 
+the company that carried out the 
+reference order (tenderer, 
+partnership or third party). 
+For all Tenderers, regardless of 
+the form of Tender. 
+D Price sheet. Completed as directed, 
+both in Excel and PDF. 
+For all Tenderers, regardless of 
+the form of Tender. 
+E Questionnaire for the 
+Summaries of additional 
+information and changes 
+Form for submitting questions. For all Tenderers, regardless of 
+the form of Tender. 
+F (if 
+applicable) 
+Evidence of your power of 
+attorney. 
+The power of attorney is signed 
+by the person legally authorised 
+to do so. 
+Only if the commercial register 
+extract does not state your 
+authority to sign. 
+N/A Elaboration on sub-award 
+criteria 
+Elaboration as described in 
+Annex 2 
+For all Tenderers, regardless of 
+the form of Tender. 
+N/A Brief professional 
+biographies of qualified 
+staff, including a 
+specification of their formal 
+education, must be 
+provided when submitting 
+your Bid.   
+Elaboration as described in 
+Tendering Guidelines 
+For all Tenderers, regardless of 
+the form of Tender. 
+ 
+ 
+Documents to be submitted upon verification/award 
+ 
+The proposed winner shall submit the following documents at the time of verification: 
+ 
+Number Document Conditions When applicable 
+C Reference form(s). The annexes already submitted 
+with the Tender, now signed 
+by the referent. 
+For all Tenderers, regardless of the 
+form of Tender. 
+N/A Declaration of joint and 
+several liability. 
+Registration form and letter of 
+agreement, now co-signed by 
+the members of the 
+partnership. 
+Only in case of Registration as a 
+partnership. 
+Annex 3 | Checklist Entry | EA ‘European tender ‘Prototype Automatic Arabic Dialect Recognition’ 
+ 
+TN562514 Page 3 of 3 
+ 
+N/A Statement regarding third 
+party resources. 
+A legally signed written 
+declaration of the third party 
+that it will be engaged for this 
+Contract and has and will 
+provide resources. 
+Only if the Tenderer has relied on a 
+third party for technical or 
+professional competence.  
+Or if the Tenderer has relied on a 
+third party for financial or economic 
+capacity. See 'Holding statement' if 
+the third party is the holding 
+company. 
+N/A Procurement Code of 
+Conduct*. 
+Not older than 2 years from 
+the tender deadline. 
+Each of the companies required to 
+submit a Uniform European Tender 
+Document at the time of Tendering. 
+These are the tenderer, partnership 
+members and third parties. 
+N/A Tax Authority statement*. Not older than 6 months from 
+the tender deadline. 
+Each of the companies required to 
+submit a Uniform European Tender 
+Document at the time of Tendering. 
+Tese are the Tenderer, partnership 
+members and third parties. 
+N/A A copy of the certificate with 
+regard to the information 
+security framework or a 
+description of the 
+information security 
+framework. 
+Valid at the time of execution 
+of the order. 
+For all Tenderers, regardless of the 
+form of Tender. 
+ 
+*In The Netherlands, the application for the certificate of good conduct takes about eight 
+weeks and the Tax Authority declaration about two weeks. You are therefore advised to apply 
+for these statements in good time.
+
+=== Document: annex 4  explanation of form of tender and completion of annexes ===
+Explanation of the form of 
+tender and completion of 
+annexes 
+Annex 4 
+ 
+ 
+ 
+ 
+ 
+ 
+Prototype Automatic Arabic Dialect Recognition (A-ADR) 
+For the State of the Netherlands, Immigration and Naturalisation 
+Service (IND) 
+  
+Reference  :  TN562514 
+Date   :  12-2-2026 
+Version number : 1.0 
+Annex 4 | Explanation of Tender Form and Completion of Annexes | European tender ‘Prototype Automatic Arabic 
+Dialect Recognition’ 
+ 
+TN562514 Page 2 of 4 
+ 
+Introduction 
+This annex describes the options and conditions for submitting a Tender. A tenderer may submit 
+a Tender on the basis of various commercial relationships: 
+▪ independent, without subcontracting; 
+▪ independent, with subcontracting; 
+▪ partnership, without subcontracting; 
+▪ partnership, with subcontracting. 
+ 
+This annex also contains explanatory notes for completing form A 'Uniform European Tender Document' 
+and form B 'Tender Form and Statement of Agreement'.  
+Please note: In the 'Uniform European Tender Document', where the answer to a number of questions 
+relating to the grounds for exclusion is 'no' (if the situation in question does not apply), you should still 
+answer 'yes' if the grounds for exclusion do not apply to you. By answering 'yes' you indicate that you 
+are not covered by the grounds for exclusion. Always check carefully that the information entered is 
+correct. 
+ 
+If there are multiple Lots, the conditions below apply for each Lot you are tendering for.  
+ 
+1.1 Independent Tender 
+A company may submit a Tender independently, with or without subcontracting. The following are 
+required for this purpose: 
+ 
+Tender form and statement of agreement 
+▪ Complete the ‘Tender form and statement of agreement', legally sign it, and attach it to your 
+Tender. 
+ 
+Uniform European Tender Document 
+▪ Complete and attach the 'Uniform European Tender Document' fully, unconditionally and without 
+reservation to your Tender. 
+ 
+1.2 Partnership 
+In a partnership, two or more companies submit a Tender jointly. The partnership must designate one 
+of its members to act as a point of contact on behalf of the partnership. This treasurer should have full 
+decision-making authority, binding on all members, to act on behalf of the partnership. 
+ 
+Tender form and statement of agreement 
+▪ The partnership submits one ‘Tender form and statement of agreement'. It is important that 
+part 2 'agreement to joint and several liability' of the 'Tender form and statement of agreement' 
+is completed in full. 
+▪ Part 2 of the 'Tender Form and statement of agreement' lists all members of the partnership and 
+includes a brief description of the work to be performed by the individual members in the 
+context of the Assignment (division of roles between the members of the partnership). 
+▪ By completing and signing the 'Tender form and statement of agreement', the members of the 
+partnership, in the event of the tender being awarded, agree to accept joint and several liability 
+(of all members of the partnership) for the full and proper performance of all obligations to the 
+Contracting Authority arising from/related to the Assignment. 
+▪ The ‘Tender form and statement of agreement' should only be signed by the legal representative 
+of the treasurer at the time of Tender. Only the winning tenderer, upon the request of the 
+Contracting Authority, shall submit the 'Tender form and statement of agreement' again, but co-
+signed by the legally valid representatives of all partnership members. 
+ 
+Uniform European Tender Document 
+▪ Information about the partnership should be entered in the 'Uniform European Tender 
+Document' under 'Mode of participation'. Note: Where the Uniform European Tender Document 
+asks whether you are participating together with others, this means 'in combination'. This does 
+not refer to the situation where you tender yourself and engage subcontractors. Each member of 
+the partnership must complete the 'Uniform European Tender Document' fully, unconditionally 
+and without any reservations and submit it with the Tender. This must be legally signed.  
+ 
+Annex 4 | Explanation of Tender Form and Completion of Annexes | European tender ‘Prototype Automatic Arabic 
+Dialect Recognition’ 
+ 
+TN562514 Page 3 of 4 
+ 
+1.3 Third party and subcontractor 
+A tenderer can involve other entities, such as subcontractors or third parties, when tendering. An entity 
+is usually a company but can also be a natural person (i.e. an individual). Third parties and 
+subcontractors are not tenderers. Therefore, subcontractors and third parties cannot claim the award of 
+the Assignment. Subcontractors and third parties are also not parties to an Agreement concluded on the 
+basis of this tender procedure and cannot derive any rights or be held jointly and severally liable for the 
+performance of the obligations arising from the Agreement. 
+ 
+The difference between subcontractor and third party is as follows: 
+▪ A subcontractor is engaged for the performance of the Assignment. 
+▪ A third party is an entity whose resources/capacity the tenderer relies on to meet an eligibility 
+requirement. 
+ 
+1.3.1 Reliance on a third party in meeting suitability requirements 
+The tenderer can use one or more third parties to meet the suitability requirements. This may be to 
+meet the suitability requirements set out in the Tendering guidelines regarding financial and economic 
+standing and/or technical and professional competence. The following applies here: 
+ 
+Tender form and statement of agreement 
+▪ Fill in Part 3A of the 'Tender form and statement of agreement‘ and include the details of each 
+engaged third party. Also provide a brief description of what you are relying upon. 
+▪ The third party declares that it has the resources relied upon and is willing to deploy them in the 
+context of the Assignment. 
+▪ The 'Tender Form and statement of agreement' should be signed by tenderer himself or the 
+legal representative of the partnership's treasurer only at the time of Tender.  
+ 
+Uniform European Tender Document 
+▪ The tenderer or the partnership's treasurer completes Part II, section C of the 'Uniform 
+European Tender Document' for itself and for all members of the partnership.  
+The following is filled in here: the name of the third party being relied upon and the suitability 
+requirement for which the third party is being relied upon. 
+▪ Each third party also completes and signs its own 'Uniform European Tender Document' (Part 
+IIA, Part IIB and Part III only), which the tenderer or partnership adds to the Tender. 
+ 
+Reliance on a third party for meeting suitability requirements in respect of: 
+- financial and economic standing 
+A tenderer may rely on the resources of one or more third parties to demonstrate the in chapter 4 of the 
+Tendering guidelines as regards financial and economic capacity, regardless of the legal nature of its 
+links with such third party or parties. 
+ 
+This is subject to the condition that the tenderer can demonstrate that it will have at its disposal, during 
+the term of the Assignment, the resources necessary for the performance of this Assignment by 
+submitting a copy of the contract (e.g. a draft cooperation agreement) with such third party/parties, 
+showing this.  
+ 
+If the resources of the holding company are relied upon, one of the following statements, if legally 
+signed and evidenced by the attached relevant extracts from the Chamber of Commerce, will be 
+accepted: 
+▪ A statement pursuant to section 2:403 of the Dutch Civil Code, or 
+▪ a corporate guarantee showing that the holding company or the parent group, if the Assignment 
+is awarded to the tenderer, fully and unconditionally guarantees compliance with all obligations 
+arising from the Agreement(s) to be concluded for the Assignment. 
+ 
+Reliance on a third party for meeting suitability requirements in respect of: 
+- technical and professional competence 
+A tenderer may rely on the competence and references of a third party (subcontractor and/or group 
+companies) in order to demonstrate the technical and/or professional capacity specified in chapter 4 of 
+the Tendering guidelines, provided that a written statement is provided by this third party (e.g. a draft 
+cooperation agreement) that for the performance of the Assignment this third party can and will be 
+deployed. 
+Annex 4 | Explanation of Tender Form and Completion of Annexes | European tender ‘Prototype Automatic Arabic 
+Dialect Recognition’ 
+ 
+TN562514 Page 4 of 4 
+ 
+ 
+1.3.2 Subcontracting 
+You can subcontract part of the Assignment. In case of main/subcontracting, the tenderer is not 
+permitted to have the Assignment performed out by parties other than specified in the Tender during 
+the contract period without the express written consent of the Contracting Authority. The following 
+tender instructions and conditions apply.  
+ 
+Subcontractor and third party whose suitability is relied upon. 
+ 
+Tender form and statement of agreement 
+▪ Complete parts 3A and 3B of the 'Tender form and statement of agreement' and include the 
+details of each subcontractor used. Also provide a brief description of the work to be carried out 
+by main contractor and individual subcontractor(s) (what work and what part of the work) under 
+the Assignment (division of roles between main contractor and (various) subcontractor(s)). 
+▪ You declare in Section 3B of the 'Tender Form and Statement of agreement' that you are fully 
+responsible and liable for the performance of the subcontracted work and the results. 
+▪ The 'Tender Form and statement of agreement' should be signed by tenderer himself or the 
+legal representative of the partnership's treasurer only at the time of Tender.  
+ 
+Uniform European Tender Document 
+▪ If the tenderer engages subcontractor(s) to meet the suitability requirements and uses this 
+subcontractor (the subcontractor is then 'a third party') state this in the 'Uniform European 
+Tender Document': Part II section C. 
+▪ Besides the tenderer, each subcontractor shall also submit a completed 'Uniform European 
+Tender Document' (Part IIA, Part IIB and Part III only). AND it must be legally signed. 
+ 
+Subcontractor not also a third party whose suitability is relied upon. 
+ 
+Tender form and statement of agreement 
+▪ Complete Part 3B of the 'Tender form and statement of agreement' and include the details of 
+each subcontractor used. Also provide a brief description of the work to be performed by main 
+contractor and individual subcontractor(s) (what work and what part of the work) under the 
+Assignment (division of roles between main contractor and (various) subcontractor(s), what you 
+are relying upon). 
+▪ You declare in Section 3B of the 'Tender Form and Statement of agreement' that you are fully 
+responsible and liable for the performance of the subcontracted work and the results. 
+▪ The 'Tender Form and statement of agreement' should be signed by tenderer himself or the 
+legal representative of the partnership's treasurer only at the time of Tender.  
+ 
+Uniform European Tender Document 
+▪ If part of the Assignment will be subcontracted while no use is made of this subcontractor to 
+meet the suitability requirements (the subcontractor is not a third party), state this in Part II 
+section D of the 'Uniform European Tender Document'. 
+▪ Deployed subcontractor(s) do not need to complete and submit their own 'Uniform European 
+Tender Document'.
+
+=== Document: annex 5 concept overeenkomst ===
+Draft Agreement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Automatic Arabic Dialect Recognition 
+Prototype 
+for the Immigration and Naturalisation Service (IND) 
+ 
+Reference : TN562514  
+Date : 12-2-2026  
+Version number : 1.0 
+  
+ 
+Automatic Arabic Dialect Recognition Prototype | Annex 5 Draft Agreement 
+ 
+TN 562514 Page 2 of 6 
+ 
+Automatic Arabic Dialect Recognition Prototype Agreement 
+Contract number: 
+ 
+The undersigned: 
+ 
+1. The State of the Netherlands, with its seat in The Hague,  
+represented in this matter by the Minister for Asylum and Migration, Immigration and Naturalisation 
+Service (IND), on whose behalf, 
+Ms R. Maas, Director-General for the IND, 
+hereinafter referred to as: the “Contracting Authority”, 
+ 
+and 
+ 
+2. <to be specified>, 
+with its registered office [according to its Articles] in <to be specified>, 
+represented in this matter by 
+<to be specified> 
+hereinafter referred to as: the “Contractor”, 
+ 
+the Contracting Authority and the Contractor hereinafter to be jointly referred to as: the “Parties”. 
+ 
+WHEREAS: 
+ 
+1. The development of a system designed for the automatic recognition of Arabic dialects 
+(hereinafter referred to as: the “A-ADR System”) is part of the European CELIA project;  
+ 
+2. The Contracting Authority has, on the basis of the aforesaid project, accepted the 
+assignment to contract a highly specialised supplier capable of developing a prototype for 
+testing; 
+ 
+3. A European public tender for the award of this Agreement took place on the basis of the 
+Tender Documents in accordance with the Dutch Public Procurement Act 2012; 
+ 
+4. The Contracting Authority has assessed the Contractor’s Tender as offering the best value 
+for money; 
+ 
+5. This Agreement sets out the terms and conditions that apply to the Contract during the term 
+of this Agreement; 
+ 
+ 
+ 
+HAVE AGREED AS FOLLOWS:  
+ 
+Article 1 
+ 
+This Agreement refers to a number of terms with a capital letter. These terms have the meaning given 
+to them in the Descriptive Document and in Article 1 of the General Government Terms and Conditions 
+for IT Contracts 2022 (ARBIT-2022). In derogation therefrom or in addition thereto, the following terms 
+in this service agreement have the following meanings: 
+ 
+ 
+Prototype: an AI-based tool capable of automatically recognising spoken Arabic dialects.   
+ 
+ 
+Automatic Arabic Dialect Recognition Prototype | Annex 5 Draft Agreement 
+ 
+TN 562514 Page 3 of 6 
+ 
+ 
+2. Object of the Agreement 
+ 
+2.1 The Contracting Authority commissions the Contractor to develop a working Prototype of an A-
+ADR System. The contract is deemed completed or accepted when: 
+ The assignment is considered as completed when: 
+• An EU AI Act-compliant Prototype for Arabic spoken dialects (based on spontaneous speech) is 
+available under an open-source license, which should allow another party to continue the 
+development. 
+• The source code of the open-source prototype is clear, transparent, and flexible, to the degree 
+that another party could perform further training, fine-tuning etc. 
+• Only datasets that do not infringe copyright law, privacy law or license agreements have been 
+used for developing the Prototype. The Contractor may therefore only use datasets for which it 
+has granted permission by the Contracting Authority. 
+• The documentation of the development and validation processes – necessary to be EU AI Act-
+compliant - has been delivered. 
+• Technical information concerning data-processing – necessary to evaluate the residual likelihood 
+of identification and to demonstrate anonymity of the Prototype - has been delivered. 
+• Validation reports are available that provide sufficient clarity on the performance of the 
+Prototype (reliability of the output and factors affecting this reliability) to allow further decision 
+making on possible operational deployment, especially in realistic use case conditions (for which 
+the IND's 293 use case recordings are key). 
+• Validation reports include advice on technical requirements concerning test recordings, e.g. on 
+minimal net duration, audio quality, audio format.  
+• The potential output produced by the Prototype can be presented in a meaningful way to EU+ 
+Countries, the European Commission and other possible stakeholders (lay persons). 
+ 
+2.2 The following documents collectively constitute the Agreement. To the extent these documents 
+contradict each other, the document that appears higher on this list prevails over the document 
+listed thereafter: 
+1. this Agreement; 
+2. ARBIT 2022, Articles 1 through 60; 
+3. the Summary of Additional Information and Changes dated <TBD> and <TBD>; 
+4. the Tender Documents, including all accompanying annexes; 
+5. the Tender submitted by the Contractor on <TBD>. 
+6. working agreements to be made by the Parties and laid down in writing, 
+relating to, among other things: 
+a. further details of the governance structure, 
+b. interim payments of the total price offered by the Contractor in addition to the payments 
+referred to in Article 3.4, 
+c. coordination of responses - as submitted by the Contractor as part of its Tender - to the 
+sub-award criteria, and 
+d. all other working agreements appropriate within the scope of the contract. 
+ 
+2.3 If and insofar as the need arises during the performance of this Agreement to conclude a 
+processing agreement, the Contractor will cooperate in this. The Contractor may not charge any 
+additional costs for this. The applicable ARBIT 2022 model will be used for the relevant 
+agreement.  
+  
+ 
+ 
+3. Term of the Agreement 
+ 
+3.1 The Agreement will enter into force after it has been duly signed by all Parties. 
+ 
+Automatic Arabic Dialect Recognition Prototype | Annex 5 Draft Agreement 
+ 
+TN 562514 Page 4 of 6 
+ 
+3.2  This Agreement is entered into for a period ending on 31 December 2027. The Contracting 
+Authority has the option, to be exercised unilaterally by the Contracting Authority, to extend the 
+Agreement once by a maximum of 6 months. If the option to extend the Agreement is 
+exercised, the Contracting Authority will notify the Contractor in writing no later than 3 months 
+before the expiry of the initial term. Exercise of the extension option will not affect the total 
+price offered. If the Contracting Authority does not exercise the option to extend the Agreement, 
+the Agreement will terminate by operation of law. 
+ 
+ 
+4. Price and other financial provisions 
+ 
+4.1 The Contractor will perform the contract in accordance with the rates included in the Rate Sheet 
+as part of its Tender.  
+ 
+4.2 It is expressly stipulated that if the Contractor does not charge VAT, but it transpires that all or 
+part of the Services are not exempt from VAT, this will not be charged to the Contracting 
+Authority. 
+ 
+4.3 The price relates to all Services to be performed by the Contractor under this Agreement and 
+any materials required for this purpose, and includes any travel and accommodation expenses 
+and any additional costs, but excludes VAT. Exceptions are (1) licence or other costs for 
+obtaining data sets and (2) international travel undertaken by the Contractor on behalf of the 
+Contracting Authority in the context of the performance of this Agreement. 
+ 
+4.4 At the start of the performance of this Agreement, the Contractor will receive an advance 
+payment of 25% of the total price offered. After Acceptance, the Contractor will be entitled to 
+payment of 15% of the total price offered. For the remaining 60% of the total price offered, 
+written working agreements will be made as referred to in Article 2.2, under 6, of this 
+Agreement.  
+       
+4.5 Payment will be made after the Contractor has issued an invoice, taking into account the 
+payment term specified in the ARBIT 2022. The Contractor will issue electronic invoices in the 
+manner prescribed in the Tender Documents.  
+ 
+ 
+5. Contact persons 
+ 
+5.1 The contact person for the Contracting Authority is <to be specified>; 
+ The contact person for the Contractor is <to be specified>. 
+ 
+5.2  Contrary to the provisions of Article 2.2 of the ARBIT 2022, the contact persons specified are not 
+binding on the Parties. 
+ 
+ 
+6. Termination or replacement in case of a ground for exclusion being applicable 
+ 
+6.1 In addition to Article 30.6 of the ARBIT-2022, the Contracting Authority may terminate the 
+Agreement with immediate effect and without judicial intervention if a ground for exclusion as 
+included in the Tender Documents applies to the Contractor during the term of the Agreement. 
+The Contracting Authority assesses whether a ground for exclusion exists on the basis of 
+Sections 2.86, 2.87, 2.89 of the Dutch Procurement Act. The Contracting Authority may waive 
+termination of the Agreement in, inter alia, the cases provided for in Sections 2.86a or 2.88 of 
+the Dutch Procurement Act. 
+ 
+Automatic Arabic Dialect Recognition Prototype | Annex 5 Draft Agreement 
+ 
+TN 562514 Page 5 of 6 
+ 
+6.2 If, during the term of the Agreement, a ground for exclusion as laid down in the Tender 
+Documents applies to a third party that the Contractor has relied upon pursuant to Section 
+2.92(1) of the Dutch Procurement Act or to the subcontractor, the Contracting Authority may 
+require the Contractor to replace the third party or the subcontractor within a reasonable period 
+to be set by the Contracting Authority. The Contracting Authority may terminate the Agreement 
+if the Contractor fails to comply with a request to that effect. 
+ 
+6.3 The Contracting Authority will not be obliged to compensate any damage, loss and/or expenses 
+resulting from the premature termination of the Agreement or replacement of the third party or 
+subcontractor under paragraphs 6.1 and 6.2 of this Article. 
+ 
+6.4 The Contractor will inform the Contracting Authority in writing and as soon as possible if a 
+situation provided under paragraph 6.1 or 6.2 of this Article arises. 
+ 
+ 
+7. Other conditions 
+ 
+ Only the ARBIT-2022 will apply to this Agreement, to the extent that it does not deviate 
+therefrom. The applicability of any general and special terms and conditions of the Contractor is 
+excluded. 
+ 
+  
+8.  Integrity statement 
+ 
+The Contractor states that it has not offered, given, caused to be offered, or caused to be given 
+any advantage to the Contracting Authority’s Personnel in order to obtain the contract. Nor will it 
+do so in the future in order to induce persons employed by the Contracting Authority to perform 
+or refrain from performing any act. 
+ 
+ 
+9. Final provision 
+ 
+9.1 Deviations from this Agreement will only be binding insofar as they have been expressly agreed 
+upon in writing between the Parties. 
+ 
+9.2 By signing this Agreement, any and all previous verbal and written agreements made by the 
+Parties regarding the Services agreed upon herein will lapse. 
+ 
+ 
+10. Applicable law and jurisdiction 
+ 
+10.1 This Agreement shall be governed by and construed in accordance with Dutch law. 
+ 
+10.2  The court in The Hague shall have exclusive jurisdiction to settle any dispute or claim that arises 
+out of or in connection with this Agreement or its subject matter or formation. 
+ 
+  
+Automatic Arabic Dialect Recognition Prototype | Annex 5 Draft Agreement 
+ 
+TN 562514 Page 6 of 6 
+ 
+ 
+Agreed and signed in duplicate on the latter of the two dates given below, 
+ 
+ 
+Place: The Hague Place: <TBD> 
+Date: Date: 
+  
+The Minister of Asylum and Migration, 
+on whose behalf,  
+ 
+ 
+ 
+ 
+ 
+Ms R. Maas 
+Director-General for the IND 
+<TBD> 
+ 
+ 
+ 
+ 
+ 
+ 
+<TBD> 
+<TBD> 
+ 
+ 
+   
+[Annexe(s): - <TBD>

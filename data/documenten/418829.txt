@@ -1,0 +1,3314 @@
+=== Document: beschrijvend document bd-ea-svg-iucn25100232 mdt effect- en impactonderzoek ter publicatie ===
+MDT effect- en impactonderzoek  
+ten behoeve van 
+ 
+de Staat der Nederlanden 
+ 
+Uitgevoerd door Inkoopuitvoeringscentrum-Noord 
+ 
+ 
+ 
+Contactpersoon Safiera van Geenen  
+Datum 03-04-2026 
+Kenmerk BD-EA-SVG-IUCN25100232 
+Versie 0.6 
+Status Definitief  
+
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  2 van 35 
+ Bijlagen 
+ 
+Door u in te dienen bij inschrijving 
+ 
+Verplicht bij 
+inschrijving 
+Invulformulieren 
+Digitaal invullen en 
+bijsluiten vanuit 
+TenderNed 
+Uniform Europees Aanbestedingsdocument (UEA) Ja 
+Invulformulier I Inschrijfbiljet Ja  
+Invulformulier II Referentieverklaring Ja 
+Invulformulier III Verklaring Russische betrokkenheid Ja 
+Invulformulier IV Kostenoverzicht in Excel format Ja 
+Invulformulier V Machtigingsformulier rechtsgeldige vertegenwoordiging bij 
+ondertekening Invulformulier I -Inschrijfbiljet 
+Alleen indien van 
+toepassing 
+Invulformulier VI Verklaring inzet andere entiteit om te voldoen aan een 
+Geschiktheidseis 
+Alleen indien van 
+toepassing 
+Invulformulier VII Holdingverklaring Alleen indien van 
+toepassing 
+Overige stukken (in te dienen bij inschrijving) 
+ 
+Bewijsstuk 1 Recent uittreksel(s) uit beroeps- en handelsregister niet ouder dan 
+zes maanden 
+Ja 
+Via pdf-bestand(en) Uw uitwerking van de subgunningscriteria Ja 
+ 
+ 
+Indienen bij verificatie UEA van de winnende inschrijver(s) 
+Bewijsstuk 2 Gedragsverklaring aanbesteden (niet ouder dan twee jaar)  
+Bewijsstuk 3 Verklaring van de Belastingdienst (niet ouder dan zes maanden) 
+Bewijsstuk 4  Een (meest) recente accountantsverklaring zonder een continuïteitsparagraaf  
+ 
+ 
+Overzicht bijbehorende documenten  
+Bijlage A.4 Basisafspraken Informatiebeveiliging voor Onderzoeksopdrachten 
+Bijlage 2 Nadere toelichting op het programma Maatschappelijke Diensttijd 
+Bijlage 3 ARVODI-2025 
+Bijlage 4 Concept dienstverleningsovereenkomst 
+Bijlage 5 Concept verwerkersovereenkomst 
+Bijlage 6 Bijsluiter e-factureren aan de Rijksoverheid Informatie voor leveranciers 
+ 
+  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  3 van 35 
+Inhoudsopgave 
+ 
+1. INLEIDING .............................................................................................................. 4 
+1.1. Opdrachtgever ................................................................................................. 4 
+1.2. Inkoopbegeleiding............................................................................................. 4 
+2. WAT WILLEN WE INKOPEN? ...................................................................................... 5 
+2.1. Achtergrond ..................................................................................................... 5 
+2.2. Omschrijving van de Opdracht ............................................................................ 6 
+2.3 Samenvoeging van Opdrachten en opdeling in Percelen ............................................ 7 
+2.4 Duur van de Opdracht ........................................................................................... 7 
+2.5 Omvang van de Opdracht ...................................................................................... 8 
+2.6 Social return ........................................................................................................ 9 
+2.7 Bijzondere uitvoeringsvoorwaarden ........................................................................ 9 
+3 WAAR MOET U AAN VOLDOEN? ................................................................................. 11 
+3.1  Uitsluitingsgronden en geschiktheidseisen en het digitale UEA op TenderNed .............. 11 
+3.2   Uitsluitingsgronden ............................................................................................. 11 
+3.3 Geschiktheidseisen .............................................................................................. 12 
+3.4 Russische betrokkenheid ...................................................................................... 15 
+4 WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? ........................................................ 16 
+4.1 Gunningscriterium ............................................................................................... 16 
+4.2 Subgunningscriteria ............................................................................................. 16 
+4.3 Wijze van beoordeling kwaliteit ............................................................................. 18 
+4.4 Prijs ................................................................................................................... 20 
+4.5 Beoordeling van uw inschrijving ............................................................................ 21 
+5 HOE VERLOOPT DE PROCEDURE? .............................................................................. 22 
+5.1 De openbare Europese aanbesteding ..................................................................... 22 
+5.2 TenderNed .......................................................................................................... 22 
+5.3 Communicatie tijdens de aanbesteding .................................................................. 23 
+5.4 De planning van de aanbesteding .......................................................................... 23 
+5.5 Vragen en tekstvoorstellen ................................................................................... 23 
+5.6 Tegenstrijdigheden of onduidelijkheden .................................................................. 24 
+5.7 Indienen inschrijving ............................................................................................ 24 
+5.8 Inhoudelijke beoordeling inschrijving ..................................................................... 24 
+5.9 Verificatie gegevens UEA ...................................................................................... 25 
+5.10 Mededeling gunningsbeslissing .......................................................................... 25 
+5.11 Ondertekenen overeenkomst ............................................................................. 26 
+5.12 Voorbehouden Aanbestedende dienst ................................................................. 26 
+6 HOE SCHRIJF U IN? ................................................................................................. 28 
+6.1 Formele eisen aan de inschrijving .......................................................................... 28 
+6.2 Belangenverstrengeling ........................................................................................ 28 
+6.3 Rechtsgeldige ondertekening ................................................................................ 29 
+6.4 Inschrijven met het inschrijfbiljet .......................................................................... 29 
+6.5 Inschrijven als samenwerkingsverband .................................................................. 30 
+6.6 Inschrijven als u beroep doet op anderen ............................................................... 30 
+6.7 Inschrijven als dochteronderneming of werkmaatschappij ........................................ 31 
+7 VOORWAARDEN NA GUNNING .................................................................................. 32 
+7.1 Dienstverleningsovereenkomst en ARVODI 2025 ..................................................... 32 
+7.2 E-factureren ....................................................................................................... 32 
+8 KLACHTENREGELING ............................................................................................... 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  4 van 35 
+1. INLEIDING 
+ 
+De Staat der Nederlanden nodigt u uit om in te schrijven voor MDT effect- en impactonderzoek. . 
+Deze aanbesteding heeft als doel om voor onderstaande operationele eenheden van de Staat der 
+Nederlanden, het ministerie van Onderwijs, Cultuur en Wetenschap, Bestuursdienst directie 
+Maatschappelijke diensttijd, diensten in te kopen. 
+ 
+De aankondiging van deze Opdracht is gepubliceerd op www.tenderned.nl en in het Publicatieblad 
+van de Europese Unie. De procedure wordt ook afgewikkeld via het aanbestedingsplatform 
+Tenderned onder Tendernummer 580773.  
+ 
+In dit beschrijvend document leest u alle informatie die u nodig heeft om in te kunnen schrijven.  
+We gebruiken zoveel als mogelijk de begrippen van de Aanbestedingswet 2012.  
+ 
+Alle ondernemers die aan de minimumeisen voldoen, kunnen op basis van dit beschrijvend 
+document een inschrijving in dienen. Dit kan zelfstandig, in een samenwerkingsverband of door 
+een beroep te doen op andere entiteiten. 
+ 
+1.1. Opdrachtgever 
+Maatschappelijke diensttijd (MDT) is een programma van het ministerie van OCW, in 
+samenwerking met jongeren, maatschappelijke organisaties, scholen, gemeenten en andere 
+ministeries. Tijdens dit programma kiezen jongeren – tussen de 12 en 30 jaar oud - ervoor hun 
+talenten te ontwikkelen, nieuwe mensen te ontmoeten en tegelijkertijd iets te doen voor een ander 
+en/of de samenleving. Op deze manier wordt de betrokkenheid van jongeren bij de samenleving 
+vergroot. De meeste jongeren komen via scholen in aanraking met MDT. Vrijwillige aanmelding 
+vanuit de jongeren is een belangrijk uitgangspunt bij MDT.  
+ 
+Jongeren organiseren bijvoorbeeld sportactiviteiten in de buurt, geven taalles aan nieuwkomers of 
+begeleiden eenzame ouderen als buddy. MDT helpt jongeren hun draai te vinden in de samenleving 
+en vergroot hun maatschappelijke betrokkenheid. Wat begon met enkele proeftuinen, is inmiddels 
+uitgegroeid tot een krachtig netwerk. Met 2.000 officiële samenwerkingspartners, vele duizenden 
+betrokken organisaties, meer dan 250.000 jongeren die deelnemen en nog eens ca. 200.000 
+jongeren die mee gaan doen, maakt MDT echt een verschil in de samenleving. 
+ 
+MDT heeft een speciale aanpak die zich kenmerkt door co-creatie, jongerenparticipatie, 
+wendbaarheid en lerend ontwikkelen. Dit heeft als doel om breed draagvlak en eigenaarschap voor 
+MDT in de samenleving te creëren. Of het nu gaat om de randvoorwaarden van een MDT-traject, of 
+het opzetten van een onderzoek: de MDT-aanpak dient als een gids bij het ontwerpen, het door-
+ontwikkelen en vergroten van de impact van MDT. 
+Wat MDT bijzonder maakt: Jongeren denken én beslissen zelf mee over het beleid en plannen. In 
+het MDT Kernteam werken ongeveer 50 collega’s. Dit zijn zowel Rijksmedewerkers als collega’s van 
+partnerorganisaties samen. 
+ 
+1.2. Inkoopbegeleiding 
+Inkoopuitvoeringscentrum-Noord van het ministerie van Onderwijs, Cultuur en Wetenschap (IUC-
+Noord) voert deze aanbestedingsprocedure uit en treedt daarbij op als procesbegeleider. IUC-
+Noord is één van de twintig landelijke inkoopuitvoeringscentra (IUC’s) die inkoopdiensten leveren 
+aan diverse overheidsinstanties, departementen en ministeries binnen de Rijksoverheid. 
+ 
+ 
+  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  5 van 35 
+2. WAT WILLEN WE INKOPEN? 
+ 
+Hieronder leest u een omschrijving van de Overheidsopdracht (hierna: Opdracht).  
+ 
+2.1. Achtergrond 
+In het voorjaar van 2025 (1 april) is besloten om het programma Maatschappelijke Diensttijd 
+(MDT) voort te zetten. In het regeerakkoord van kabinet Schoof was namelijk eerder opgenomen 
+het programma af te schaffen, daar is nu geen sprake meer van. In de doorstart van MDT wordt 
+het effect- en impactonderzoek gecontinueerd en bijgesteld. Centraal staat dat via het 
+impactonderzoek aannemelijk kan worden gemaakt dat MDT bijdraagt aan de twee hoofdopgaven: 
+veerkrachtige, mentaal gezonde jongeren en een sterke, weerbare samenleving. Dit onderzoek viel 
+eerder onder een raamovereenkomst die eind 2024 is geëindigd. Vanwege de hierboven genoemde 
+afschaffing en vervolgens de doorstart van MDT, is op advisering van een strategisch 
+inkoopadviseur het onderzoek via afzonderlijke overeenkomsten verder gegaan tot medio 2026. 
+Voor het continueren van het onderzoek vanaf medio 2026 is het noodzakelijk een nieuwe 
+overeenkomst aan te besteden. 
+ 
+Het programma is vanaf 2018 opgezet bij het Ministerie VWS, in kabinet Rutte IV geïntensiveerd 
+en vanaf 2022 voortgezet bij het Ministerie OCW. MDT heeft het karakter van een 
+interdepartementaal programma en vanuit OCW wordt samengewerkt met de Ministeries VWS, 
+SZW en Defensie. In het opzetten van het programma is ervoor gekozen om alle mogelijke 
+stakeholders; jongeren, jongerenorganisaties, scholen, gemeenten en maatschappelijke 
+organisaties hier nauw bij te betrekken. Dit heeft ertoe geleid dat vertegenwoordigers van deze 
+stakeholders deelnemen aan het zogenaamde kernteam van MDT. Het kernteam van MDT is het 
+landelijk team waarin de beleidsvoorbereiding, maatregelen, uitvoering en uitkomsten worden 
+besproken. Dit team komt wekelijks bijeen bij OCW. Externe partners nemen ook deel aan dit 
+team.   
+ 
+In het document ‘Nadere toelichting op het programma Maatschappelijke Diensttijd’ wordt 
+een nadere toelichting gegeven op het programma vanaf de start eind 2017 tot en met de stand 
+van zaken in 2025. Zie bijlage 2.   
+ 
+Uitgangspunten: 
+1. MDT werkt vanuit een integrale, lerende aanpak: onderzoeksresultaten leveren inzichten op die 
+worden gebruikt voor beleid, de doorontwikkeling van kwaliteitselementen en normen, de 
+kennisdeling en het lerend vermogen binnen het MDT-netwerk. 
+ 
+2. Het programma MDT bevindt zich in een breed maatschappelijk werkveld met veel (netwerk) 
+partijen in het jongerenwerk, welzijnswerk en vrijwilligerswerk en is actief op een groot aantal 
+domeinen zoals onder andere zorg en welzijn, jeugdzorg, onderwijs, sport, media en cultuur, 
+duurzaamheid, natuur en dier, techniek en ICT, veiligheid. Binnen het MDT netwerk zijn er veel 
+dwarsverbanden met lokale, regionale en bovenregionale organisaties en overheden. 
+Effect- en impactonderzoek in dit werkveld vereist specifieke expertise en competenties, onder 
+andere kennis van de doelgroep en samenwerken binnen het publieke domein met veel 
+verschillende stakeholders. 
+ 
+3. In de meerjarenstrategie voor MDT zijn twee hoofdopgaven opgenomen: een sterke, weerbare 
+samenleving en veerkrachtige, mentaal gezonde jongeren. In deze strategie is het vergroten 
+van de maatschappelijke impact en het versterken van de kwaliteit van de MDT-projecten en -
+trajecten – een belangrijke ambitie. Het effect- en impactonderzoek wordt hiervoor ingezet en 
+dient ook bij te dragen aan het versterken van het bewijs dat MDT echt effect en impact heeft 
+op de jongeren en de samenleving 
+4. Het impactonderzoek fungeert als een iteratief leer- en verbeterinstrument voor het 
+programmateam en levert onderbouwing van bewijs en claims naar de buitenwereld. 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  6 van 35 
+Het impactonderzoek dient ook ter ondersteuning van MDT-projecten om hun impact te 
+vergroten (e.g. vanuit gedegen onderzoek mee kunnen denken over praktisch relevante 
+producten die projecten verder helpen).  
+ 
+5. In de afgelopen jaren zijn voor het impactonderzoek diverse producten c.q. tools ontwikkeld. 
+Deze beschikbare producten/tools dienen zoveel mogelijk gebruikt te worden bij het vervolg 
+van het impactonderzoek. Het handboek ‘MDT impactreis’ dient als uitgangspunt bij het 
+ondersteunen van het MDT netwerk. Het inzetten van eigen producten/tools is mogelijk mits 
+hetzelfde doel zoals omschreven bij 3 wordt bereikt.  
+ 
+6. Bij het effect- en impactonderzoek dient intensief te worden samengewerkt met de beleids- 
+onderzoekers van OCW/MDT, met de onderzoekpartner van het doorlopende monitorings-
+onderzoek en met andere betrokken onderzoekpartners. De onderzoekers zijn onderdeel van 
+het MDT kernteam. Er wordt een flexibele rol verwacht waarin onderzoekers meekijken, 
+meedenken en ook als sparringpartner dienst doen om MDT te versterken. 
+ 
+7.   MDT is een dynamisch programma waarin het nodig is om flexibel in te spelen op nieuwe    
+      inzichten en aanpassingen binnen het programma. 
+ 
+2.2. Omschrijving van de Opdracht 
+De aard van desbetreffende opdracht betreft het verrichten van kwalitatief en kwantitatief effect- 
+en impactonderzoek en aanvullend (effect) onderzoek naar onder andere de kwaliteit van MDT en 
+de rol van MDT in het maatschappelijk werkveld.  
+Een belangrijk onderdeel in de opdracht is de vertaling van onderzoeksuitkomsten naar 
+beleidsaanbevelingen en werkzame elementen voor het MDT-netwerk. 
+Het impactonderzoek zal zich onder andere richten op een aantal impactgebieden die al zijn 
+geïnventariseerd om de voortgang op de hierboven genoemde twee hoofdopgaven van MDT te 
+kunnen meten. In bijlage 2 wordt dit nader toegelicht (vanaf blz. 4). 
+ 
+Het effect- en impactonderzoek vergt aanvullingen op het lopende impactonderzoek en aanvullend 
+(impact)onderzoek op project/organisatieniveau. Aansluitend op de ambitie om de kwaliteit van 
+MDT te versterken is het nodig om meer inzicht te krijgen in de kwaliteit van MDT. Voor het verder 
+verstevigen/bestendigen van MDT kan onderzoek gedaan worden naar de rol van MDT binnen de 
+bestaande maatschappelijke systemen.  
+De programmadirectie MDT wenst te worden ondersteund bij de onderstaande 
+onderzoeksrichtingen. Nadere toelichtingen hierop zijn opgenomen in bijlage 2. 
+ 
+1) Het vergroten van de bewijslast op de reeds uitgewerkte impactgebieden. 
+Hierbij worden de volgende rollen van de onderzoekers verwacht: 
+- Strategische sparringpartner van MDT beleid die veranderingen doorvoert. 
+- Ondersteuning aan de partner die het monitoringsonderzoek uitvoert en aan MDT beleid 
+t.a.v. het ontwikkelen van nieuwe constructen/ vragen in vragenlijsten, subsidieaanvragen, 
+projectleidersvragenlijsten; her-evaluatie van bewijskracht na doorgevoerde verbeteringen; 
+etc.)  
+2) Borgen van werkzame elementen en samen met het netwerk leren hoe meer generieke 
+werkzame elementen vorm krijgen binnen MDT. Hierbij tevens de kennisdeling in het MDT 
+netwerk ondersteunen. 
+3) Het geven van workshops t.b.v. het impactgericht werken van het MDT-netwerk en kijken hoe 
+het lerend netwerk verder versterkt kan worden. 
+4) Aanvullend (impact)onderzoek op het niveau van MDT projecten/organisaties en MDT netwerk.  
+Dit dient bij te dragen aan de verduurzamingsopgave van MDT met meer eigenaarschap in het 
+maatschappelijk werkveld. 
+5) In kaart brengen van de kwaliteit van MDT-projecten en MDT-trajecten en van hieruit de 
+kwaliteit versterken. Ondersteunen van de borging van de kwaliteit van organisaties, projecten 
+en trajecten vanuit landelijke kaders en kennisdeling. 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  7 van 35 
+6) Vanuit een meer systemische blik kan de (mogelijke) rol van MDT als schakel tussen meerdere 
+maatschappelijke regimes/systemen (onderwijs, politiek/democratisch, maatschappelijk/ civil 
+society, veiligheid) onderzocht worden. 
+7) Overig onderzoek; onder meer impact-analyses op de beschikbare data vanuit de jaarlijkse 
+subsidieregelingen van MDT en op verzoek van de diverse stakeholders van MDT (zowel intern 
+als extern) data- en effectanalyses op specifieke onderdelen. Tevens kan er ondersteuning 
+gevraagd worden bij het beantwoorden van ad hoc onderzoeksvragen van bewindspersonen en 
+vanuit de Tweede Kamer. 
+ 
+Voor alle onderzoeken en analyses wordt een rapportage opgesteld. Van de meer generieke 
+onderzoeken worden openbare rapportages gemaakt. Samenvattingen van de rapportages dienen 
+te worden opgenomen in het jaarlijkse onderzoeksrapport van MDT. De rapportages worden 
+gepresenteerd binnen het MT van MDT, aan de gehele programmadirectie MDT en op verzoek voor 
+het MDT-netwerk en de diverse stakeholders van MDT. Ook wordt de Tweede Kamer met de 
+jaarlijkse rapportage geïnformeerd over de uitvoering en resultaten van MDT. 
+ 
+Verwacht wordt dat de onderzoeksresultaten worden vertaald naar beleidsaanbevelingen, 
+bijvoorbeeld welke kwaliteitsverbeteringen nodig zijn op basis van de uitkomsten van 
+kwaliteitsmetingen. 
+ 
+Naast bovengenoemde onderzoeken, wenst MDT dat de gecontracteerde partij (verder aangeduid 
+als Opdrachtnemer) deelneemt aan verschillende soorten overleggen, namelijk: 
+• Regulier onderzoeks-overleg; 
+• Directie-breed teamoverleg; 
+• Ad-hoc overleg.  
+ 
+Regulier onderzoeks-overleg  
+De reguliere onderzoeks-overleggen vinden plaats met het OCW/MDT onderzoekteam en andere 
+onderzoekpartners. Er vinden zowel fysieke als digitale overleggen plaats waarbij het merendeel 
+van de overleggen digitaal is en gemiddeld zo’n 3 tot 4 keer per maand zullen plaatsvinden.  
+De fysieke overleggen zullen grotendeels plaatsvinden bij OCW zelf en zo nu en dan bij de externe 
+partner. De fysieke overleggen zullen zo een 1 tot 2 keer per maand plaatsvinden.  
+ 
+ 
+Directie-breed teamoverleg; 
+Het wekelijkse directie-breed teamoverleg is bedoeld voor het geven van toelichtingen/presentaties 
+op de activiteiten en de verzamelde gegevens die door Opdrachtnemer zijn uitgevoerd. 
+Opdrachtnemer zal op verzoek van MDT ook toelichtingen/presentaties dienen te geven bij interne 
+OCW bijeenkomsten en met het MDT-netwerk.  
+ 
+Ad-hoc overleg 
+Onder ad-hoc overleg wordt overleg verstaan met de andere onderzoekpartners en het CBS-
+overleg. Dit overleg vindt plaats in het kader van alle impactonderzoek-gerelateerde zaken.  
+ 
+2.3 Samenvoeging van Opdrachten en opdeling in Percelen 
+Er is geen sprake van samenvoeging van Opdrachten. Het betreft één opdracht.  
+We delen de aanbesteding ook niet op in percelen. Dit acht Opdrachtgever niet passend, omdat het 
+opdelen van de opdracht in percelen zou leiden tot meerdere kleine soortgelijke opdrachten.   
+ 
+2.4 Duur van de Opdracht 
+Opdrachtgever is voornemens een dienstverleningsovereenkomst af te sluiten met één partij.   
+De initiële contractperiode is twee jaar. De beoogde ingangsdatum van de 
+dienstverleningsovereenkomst is augustus 2026, omdat dan de huidige overeenkomst voor het 
+MDT impactonderzoek afloopt.  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  8 van 35 
+Na deze periode beschikt Opdrachtnemer over een eenzijdig af te roepen verlengingsoptie van 
+twee jaar(indicatief vanaf medio 2028). Opdrachtgever dient uiterlijk drie (3) maanden 
+voorafgaand aan de einddatum van de initiële contractperiode aan te geven of van de verlengoptie 
+gebruik wordt gemaakt. 
+ 
+2.5 Omvang van de Opdracht 
+Er is een totaalbudget van is €739.000,- exclusief btw beschikbaar voor de gehele opdracht. Dit 
+budget is op de volgende wijze onderverdeeld:  
+ 
+Contractperiode  Budget  
+2e helft 2026  €74.000,-     excl. btw 
+2027 €190.000,-   excl. btw 
+1e helft 2028 € 95.000,-    excl. btw  
+Totaal initiële contractperiode €359.000,- excl. btw  
+Verlengoptie 2e helft 2028(indicatief)  €380.000,- excl. btw 
+ 
+De verschillende genoemde onderdelen van de opdracht zijn in het budget meegenomen, inclusief 
+de benodigde uren voor alle overleggen, workshops en ondersteuning van projecten bij het in beeld 
+brengen van hun impact. 
+ 
+Bovenstaande raming is gebaseerd op de eerder verrichte opdrachten omtrent effect- en 
+impactonderzoeken.  
+ 
+Herziening van verdeling van het budget over de tijdsplanning   
+Er zal een verschuiving van budget in periode kunnen ontstaan. Dit is afhankelijk van politieke, 
+bestuurlijke en beleidsinhoudelijke besluiten. De in de aanbestedingsstukken bekendgemaakte 
+maximale opdrachtwaarde van €739.000,- exclusief btw zal hierbij echter nooit worden 
+overschreden. Deze herzieningsmogelijkheid kwalificeert als een vooraf aangekondigde wijziging 
+als bedoeld in artikel 2.163c Aanbestedingswet 2012. Indien Opdrachtgever gebruik maakt van 
+deze mogelijkheid, doet hij hiervan schriftelijk en gemotiveerd melding aan de Opdrachtnemer. 
+ 
+ 
+2.5.1 Indexering van tarieven  
+De vastgestelde tarieven kunnen door de opdrachtgever éénmalig worden geïndexeerd na afloop 
+van de initiële contractperiode medio 2028, mits de overeenkomst wordt verlengd (Zie hiervoor 
+paragraaf 2.5.2 Opdracht acceptatie procedure en vervolgopdracht). Hierbij wordt als basis voor 
+het berekenen van de indexering (Indexoud en Indexnieuw) gehanteerd het gepubliceerde CBS-
+prijsindexcijfer over 2027 bij de categorie Markt- en opinieonderzoek, reeks 2021=100. Indexoud 
+is dus gebaseerd op het gepubliceerde CBS indexcijfer over 2027. Het indexcijfer is te vinden op 
+CBS Statline via de volgende link: 
+https://opendata.cbs.nl/#/CBS/nl/dataset/85817NED/table?ts=1774446310991 
+ 
+Indien Opdrachtnemer beroep wil doen op de indexering dient hij uiterlijk twee maanden 
+voorafgaande aan de datum van indexering, een verzoek in bij Opdrachtgever met daarin een 
+onderbouwing om voor de indexering in aanmerking te komen. Opdrachtgever zal hier dan besluit 
+over nemen. Na schriftelijke goedkeuring door Opdrachtgever, worden de eventuele 
+nieuwe prijzen van kracht.  
+ 
+ 
+2.5.2 Opdracht acceptatie procedure en vervolgopdracht  
+Het uitgangspunt is om de eerste twee jaar één(1) effect- en impactonderzoek te laten 
+plaatsvinden. Dit onderzoek zal uit meerdere onderdelen bestaan zoals genoemd in hoofdstuk 2.2. 
+In totaal zullen er twee(2) effect- en impactonderzoeken over de gehele looptijd van vier jaar 
+kunnen plaatsvinden waarbij tussentijds wordt bekeken of de verlengoptie wordt ingezet.  
+Bij de verlenging zal o.a. worden gekeken naar hoe de uitvoering in de eerste periode van twee 
+jaar is verlopen. De verlenging is ook afhankelijk van beleidsmatige en politieke ontwikkelingen. 
+Indien besloten is tot verlenging dan geldt onderstaande herzieningsclausule.  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  9 van 35 
+ 
+Mogelijkheid tot herziening invulling opdracht na initiële contractperiode  
+Na de eerste twee jaar van de looptijd van het contract en wanneer de verlengoptie wordt ingezet, 
+kan de invulling van de opdracht worden bijgesteld afhankelijk van politieke bestuurlijke en 
+beleidsinhoudelijke besluiten. Bijstelling zal plaatsvinden binnen de kaders van het vastgestelde 
+budget en binnen de kaders van de omschreven opdracht. Deze herzieningsmogelijkheid 
+kwalificeert als een vooraf aangekondigde wijziging als bedoeld in artikel 2.163c Aanbestedingswet 
+2012. Indien Opdrachtgever gebruik maakt van deze mogelijkheid, doet hij hiervan schriftelijk en 
+gemotiveerd melding aan de Opdrachtnemer.  
+ 
+2.6 Social return  
+Het is de taak van de overheid om mensen met een afstand tot de arbeidsmarkt te ondersteunen 
+zodat iedereen zoveel mogelijk meedoet in de samenleving en uitzicht houdt op werk en inkomen. 
+Meer achtergrondinformatie leest u in de Handreiking Social return van het Rijk middels de 
+volgende link: https://www.pianoo.nl/nl/themas/maatschappelijk-verantwoord-inkopen/social-
+return/handreikingen-social-return.   
+ 
+SROI wordt ingezet met als doel het creëren van maatschappelijke meerwaarde, in het bijzonder 
+door het bieden van kansen aan personen met een afstand tot de arbeidsmarkt.  
+ 
+In deze aanbesteding is Opdrachtnemer verplicht om gedurende de looptijd van de 
+overeenkomst invulling te geven aan Social Return on Investment (SROI) ter waarde van 
+2% van de totale opdrachtsom (excl. btw).  
+ 
+Invulling van de SROI-verplichting  
+De opdrachtnemer kan de SROI-verplichting onder andere invullen door:  
+Het inzetten van personen uit de Participatiewet, Wajong, WSW of vergelijkbare doelgroepen;  
+Het aanbieden van leer-werkplekken, stages of werkervaringsplaatsen;  
+Het inkopen van producten of diensten bij sociale ondernemingen;  
+Scholing of begeleiding gericht op duurzame uitstroom naar werk.  
+Andere invullingen zijn toegestaan, mits deze vooraf worden afgestemd met en goedgekeurd door 
+de opdrachtgever. 
+ 
+In deze aanbesteding zal Social return een rol spelen op de volgende wijze: u maakt na gunning 
+een Plan van aanpak voor Social return. Dit plan van aanpak zal een bijzondere 
+uitvoeringsvoorwaarde betreffen die hieronder verder wordt uitgewerkt.   
+ 
+2.7 Bijzondere uitvoeringsvoorwaarden  
+Het kenmerk van een bijzondere uitvoeringsvoorwaarde is dat u hier nog niet aan hoeft te voldoen 
+op het moment van Inschrijving. De uitvoeringsvoorwaarde is van toepassing op de inschrijver die 
+de opdracht gegund krijgt. Er is binnen deze aanbesteding één bijzondere uitvoeringsvoorwaarden 
+van toepassing. Deze worden hieronder weergeven en toegelicht.  
+ 
+UE1 Na gunning stelt Opdrachtnemer een Plan van Aanpak Social Return (SROI) op.  
+ 
+Toelichting UE1- Plan van aanpak SROI 
+Uiterlijk binnen twee (2) maanden na aanvang van de overeenkomst dient opdrachtnemer het Plan 
+van Aanpak ter goedkeuring in bij opdrachtgever.  
+In het Plan van Aanpak beschrijft opdrachtnemer concreet en toetsbaar op welke wijze invulling 
+wordt gegeven aan de overeengekomen Social Return-verplichting. Het Plan bevat in ieder geval:  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  10 van 35 
+• een concrete uitwerking van de wijze waarop het overeengekomen SROI-percentage wordt 
+gerealiseerd, inclusief planning en inzet;  
+• de wijze van begeleiding en ondersteuning van ingezette SROI-medewerkers;  
+• de maatregelen die worden getroffen om de kwaliteit en continuïteit van de 
+werkzaamheden te waarborgen.  
+Indien het Plan van Aanpak niet tijdig wordt ingediend, dan wel naar het oordeel van 
+opdrachtgever onvoldoende concreet, uitvoerbaar of toetsbaar is, zal opdrachtgever 
+opdrachtnemer schriftelijk in gebreke stellen en een redelijke hersteltermijn bieden.  
+Indien opdrachtnemer binnen deze termijn geen deugdelijk Plan van Aanpak indient, verkeert 
+opdrachtnemer in verzuim. Opdrachtgever is in dat geval gerechtigd de overeenkomst geheel of 
+gedeeltelijk te ontbinden, onverminderd overige contractuele en wettelijke rechten. 
+Monitoring en verantwoording  
+De opdrachtnemer rapporteert periodiek (bijvoorbeeld halfjaarlijks) over de voortgang van de 
+SROI-verplichting. De opdrachtgever behoudt zich het recht voor om bewijsstukken op te vragen, 
+zoals loonstroken, urenoverzichten of facturen.  
+ 
+Dit plan van aanpak wordt een onderdeel van de overeenkomst. 
+Het is daarom belangrijk dat u dit plan zo snel mogelijk na gunning opstelt. Op die manier wordt 
+het hele proces niet vertraagd.  
+ 
+ 
+ 
+  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  11 van 35 
+ 
+3 WAAR MOET U AAN VOLDOEN? 
+ 
+In dit hoofdstuk leest u welke uitsluitingsgronden en geschiktheidseisen wij hanteren om te 
+bepalen of een inschrijver geschikt is om de Opdracht uit te voeren.  
+ 
+3.1  Uitsluitingsgronden en geschiktheidseisen en het digitale UEA op TenderNed 
+Via het Uniform Europees Aanbestedingsdocument(UEA) geeft u aan of de uitsluitingsgronden wel 
+of niet op u van toepassing zijn en of u voldoet aan de geschiktheidseisen. Meer informatie over 
+het UEA vindt u op Pianoo1. 
+ 
+U kunt bij het digitaal invullen van het UEA op TenderNed default de juiste antwoorden aanvinken 
+(waarmee u aangeeft dat een bepaalde uitsluitingsgrond niet op uw organisatie van toepassing is).  
+ 
+U vult het UEA alleen digitaal in en voegt deze toe bij uw inschrijving. Let op bij bijzondere 
+situaties: Als uw gebruikt maakt van andere entiteiten om te voldoen aan een geschiktheidseis 
+en/of u inschrijft als Samenwerkingsverband (consortium) dan moet u meer dan één ingevuld UEA 
+bijsluiten.  
+ 
+3.2   Uitsluitingsgronden 
+In Deel III van het UEA leest u welke uitsluitingsgronden gelden voor deze aanbesteding. Uw 
+inschrijving is ongeldig als één van de uitsluitingsgronden van toepassing is. Wij sluiten de 
+inschrijving dan uit van verdere deelname aan de aanbesteding.  
+ 
+Wij kunnen afzien van de toepassing van de uitsluitingsgronden:  
+• als de uitsluiting kennelijk onredelijk zou zijn; 
+• als u voldoende maatregelen heeft genomen om uw betrouwbaarheid aan te tonen; 
+• om dwingende redenen van algemeen belang; 
+• indien naar ons oordeel uitsluiting niet proportioneel is met het oog op de tijd die is 
+verstreken sinds de veroordeling en gelet op het voorwerp van de Opdracht. 
+ 
+Schrijft u in als samenwerkingsverband of doet u een beroep op een andere entiteit? 
+Dan worden de uitsluitingsgronden toegepast op ieder lid van het samenwerkingsverband of iedere 
+entiteit waarop u een beroep doet om te voldoen aan de geschiktheidseisen.  
+ 
+3.2.1 Bewijsmiddel bij inschrijving 
+ 
+Bewijsstuk 1: Uittreksel handelsregister (verplicht indienen bij inschrijving) 
+Om aan te tonen dat de uitsluitingsgrond inzake faillissement niet van toepassing is en dat u 
+beschikt over beroepsbevoegdheid (§3.3.1), levert u bij inschrijving een uittreksel van het 
+handelsregister aan. Binnen Nederland kunt u volstaan met een uittreksel van de Kamer van 
+Koophandel (KvK). Dit uittreksel dient op het tijdstip van het indienen van de inschrijving niet 
+ouder dan zes maanden te zijn.  
+ 
+ 
+ 
+ 
+ 
+1 https://www.pianoo.nl/nl/regelgeving/uniform-europees-aanbestedingsdocument-uea 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  12 van 35 
+3.2.2 Bewijsmiddelen na gunningsbeslissing (alleen voor de winnende inschrijving(en)) 
+ 
+De voorlopige winnaar(s) wordt(/worden) verzocht aan te tonen dat er geen uitsluitingsgronden op 
+hem van toepassing zijn door het overleggen van de volgende bewijsmiddelen: 
+ 
+Bewijsstuk 2: Gedragsverklaring aanbesteden  
+Een gedragsverklaring aanbesteden: GVA) die op het tijdstip van inschrijving niet ouder is dan 
+twee jaar. Een GVA is een verklaring dat uit een onderzoek is gebleken dat er geen bezwaren zijn 
+dat een natuurlijk persoon of rechtspersoon inschrijft op een overheidsopdracht, speciale-
+sectoropdracht, concessieovereenkomst voor openbare werken of prijsvraag. Justis2 raadpleegt 
+daartoe het Justitieel Documentatie Systeem en gaat na of sprake is van relevante beschikkingen 
+van de Autoriteit Consument en Markt of de Europese Commissie.  
+ 
+Bewijsstuk 3: Verklaring van de belastingdienst 
+Een Verklaring betalingsgedrag nakoming fiscale verplichtingen (verklaring van de 
+Belastingdienst)3 die op het tijdstip van inschrijving niet ouder is dan zes maanden. Met deze 
+Verklaring van de Belastingdienst toont u aan dat u uw verplichte belastingen en sociale 
+zekerheidspremies heeft betaald.  
+ 
+Let op: het niet kunnen overleggen van een geldige GVA en Verklaring van de Belastingdienst 
+binnen veertien(14) kalenderdagen na ons verzoek leidt tot uitsluiting, tenzij het ontbreken van 
+bepaalde informatie door ons als een kennelijke omissie wordt aangemerkt en zich leent voor 
+eenvoudige precisering of herstel (met inachtneming van de aanbestedingsrechtelijke beginselen). 
+ 
+Vraag de GVA en Verklaring van de Belastingdienst tijdig aan in verband met de verwerking- en 
+beslistermijn. U kunt niet volstaan met het overleggen van een bewijs dat de GVA en Verklaring 
+van de Belastingdienst is aangevraagd en nog in behandeling is. 
+ 
+Wij weten uit ervaring dat inschrijvers in veel gevallen beschikken over een bibliotheek met actuele 
+bewijsmiddelen zodat het een kleine moeite is bewijsstuk 2+3 via TenderNed bij te sluiten bij uw 
+inschrijving (onder het tabblad  “Overige documenten”) U mag dit vrijwillig doen, maar het is niet 
+verplicht. Na de gunningsbeslissing is dus ook mogelijk.  
+ 
+3.2.3 E-certis voor inschrijvers buiten Nederland 
+De bewijzen verschillen per land, variërend van een officieel uitgegeven certificaat tot een 
+verklaring onder ede bij een notaris of rechter. Met e-Certis krijgt u inzicht in welke bewijsmiddelen 
+er in een land worden gevraagd en of deze overeen komen met de Nederlandse bewijsmiddelen. 
+Meer informatie: https://www.pianoo.nl/nl/e-certis-europese-databank-met-bewijsstukken 
+ 
+3.3 Geschiktheidseisen 
+U leest hieronder welke geschiktheidseisen gelden voor deze aanbesteding. Uw inschrijving is 
+ongeldig als u niet aan de geschiktheidseisen voldoet. Wij kunnen de inschrijving dan uitsluiten van 
+verdere deelname aan de aanbesteding. Tenzij anders vermeld, geldt voor een 
+samenwerkingsverband dat die als geheel moet voldoen aan de geschiktheidseisen. 
+ 
+Samenwerkingsverband of beroep op een andere entiteit 
+Voldoet u niet zelfstandig aan één of meerdere geschiktheidseisen, dan kunt u overwegen om als 
+samenwerkingsverband in te schrijven of een beroep te doen op de financiële en economische 
+draagkracht of technische bekwaamheid en beroepsbekwaamheid van een andere entiteit. Deze 
+ 
+2www.justis.nl/producten/gva/ 
+3https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/verklaring_betalingsg ed
+rag_nakoming_fiscale_verplichtingen 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  13 van 35 
+entiteit kan een andere ondernemer, een moeder- of zusteronderneming, maar ook een lid van het 
+samenwerkingsverband zijn. 
+ 
+Voldoet de entiteit waarop u een beroep doet niet aan de betreffende geschiktheidseis(en), dan 
+voldoet u ook niet aan de geschiktheidseis(en) en is uw inschrijving ongeldig. Wij sluiten de 
+inschrijving dan uit van verdere deelname aan de aanbesteding. 
+3.3.1 Beroepsbevoegdheid  
+Voor de uitvoering van de Opdracht dient u bevoegd te zijn. 
+U bent – volgens de voorschriften van de lidstaat waarin uw onderneming gevestigd is – in het 
+beroeps- of handelsregister ingeschreven voor de voor de Opdracht benodigde bedrijfsactiviteiten.  
+ 
+Nationaal bewijsmiddel bij inschrijving  
+Bewijsstuk 1: U kunt uw beroepsbevoegdheid aantonen door bij de inschrijving een recent 
+uittreksel van inschrijving in het beroeps- of handelsregister te overleggen, waaruit blijkt dat uw 
+onderneming, volgens de voorschriften van de lidstaat waarin uw onderneming gevestigd is, dat op 
+het tijdstip van het indienen van de inschrijving niet ouder is dan zes maanden. Binnen Nederland 
+voldoet een uittreksel van inschrijving in het register van de Kamer van Koophandel. 
+ 
+3.3.2 Financiële en economische draagkracht  
+ 
+Continuïteit  
+U bent een stabiele onderneming, die haar continuïteit kan garanderen. 
+ 
+Bewijsstuk 4: Accountantsverklaring zonder continuïteitsparagraaf  
+U kunt dit aantonen door een (meest) recente accountantsverklaring zonder een 
+continuïteitsparagraaf te overleggen. Voor niet jaarrekeningsplichtige ondernemingen volstaat een 
+beoordelings- of samenstellingsverklaring zonder een continuïteitsparagraaf. Dit bewijsstuk dient 
+enkel door de voorlopig winnende partij te worden aangeleverd binnen veertien(14) dagen na 
+gunning.  
+ 
+Wij kunnen de aangeleverde financiële gegevens laten controleren  
+Uit deze controle blijkt of hetgeen verklaard is in het UEA op waarheid berust. Hiervoor kunnen we 
+een bureau inschakelen. 
+ 
+3.3.3 Technische bekwaamheid en beroepsbekwaamheid 
+ 
+Kerncompetenties 
+U dient bij inschrijving aan te tonen dat u beschikt over de kerncompetenties die essentieel zijn 
+voor het uitvoeren van de Opdracht. Door middel van referenties kunt u aantonen over deze 
+kerncompetenties te beschikken. Dit doet u door invulformulier II -Referentieverklaring in te 
+vullen. 
+ 
+Let op: 
+1. Het voldoen aan de kerncompetentie(s) is een knock-out criterium. Als u niet voldoet, dan 
+wordt u uitgesloten; 
+2. Kerncompetenties worden binair getoetst met als mogelijke uitkomsten: “voldoet wel”, of 
+“voldoet niet”. Geef dus niet meer referenties op dan nodig om aan te tonen dat u voldoet 
+aan de geschiktheidseis.  
+ 
+Ad 1: stel vooral vragen via de Nota van Inlichtingen (§5.6) als voor u onduidelijk is of u voldoet, of als u twijfelt of uw 
+referentie voldoet.  
+ 
+ 
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  14 van 35 
+ 
+ 
+Kerncompetentie 1: Ervaring met effect- en impactonderzoek 
+ 
+Doel  
+Voor Opdrachtgever is het belangrijk dat in dit onderzoek in kaart gebracht wordt waarom en hoe 
+een beoogde verandering(ook wel impact genoemd) tot stand komt. Bekend is dat 
+verandering/impact met de ‘theory of change’ (verandertheorie) inzichtelijk kan worden gemaakt. 
+Met deze geschiktheidseis borgt Opdrachtgever dat inschrijvers bekend zijn met effect- en 
+impactonderzoek en in staat zijn om onderzoek te verrichten op basis van de ‘theory of change’. 
+De gevraagde competentie is beperkt tot hetgeen noodzakelijk is voor de uitvoering van deze 
+opdracht. 
+ 
+Bewijsmiddelen  
+Via een referentie toont inschrijver ervaring te hebben met effect- en impactonderzoek waarbij met 
+de ‘theory of change’ (verandertheorie) wordt gewerkt.  
+ 
+ 
+Kerncompetentie 2: Ervaring met onderzoeksopdrachten in een publieke/politieke 
+omgeving 
+ 
+Doel  
+Met deze geschiktheidseis borgt Opdrachtgever dat inschrijvers in staat zijn onderzoek te 
+verrichten waarbij aard, omvang en complexiteit vergelijkbaar is met de Maatschappelijke 
+Diensttijd(MDT) en waarbij sprake was van een vergelijkbaar maatschappelijk belang binnen de 
+publieke sector met politieke gevoeligheid en een meerjarige uitvoering. De gevraagde 
+competentie is beperkt tot hetgeen noodzakelijk is voor de uitvoering van deze opdracht. 
+ 
+Bewijsmiddelen  
+Via een referentie toont inschrijver ervaring te hebben met onderzoeksopdrachten in de publieke 
+sector.  
+ 
+Voorwaarden referenties: 
+• per kerncompetentie mag maximaal één referentie worden verstrekt. Het is echter 
+toegestaan om met één referentie aan meer kerncompetenties te voldoen, mits hieruit 
+helder en ondubbelzinnig de door ons gevraagde ervaring blijkt. 
+• de einddatum van de referentieopdracht is maximaal 3 jaar geleden, gerekend van de 
+uiterste inschrijfdatum. Een referentieopdracht mag wel langer dan 3 jaar geleden gestart 
+zijn. 
+• alleen behaalde resultaten tellen mee. Stuurt u een referentieopdracht in die nog loopt? 
+Dan kijken we alleen naar resultaten die u al behaald heeft. Dat houdt in dat de resultaten 
+die u al behaald heeft moeten voldoen aan de gestelde kerncompetenties. 
+• wij mogen zonder uw tussenkomst contact opnemen met de referenten om méér informatie 
+te vragen ter verificatie.  
+ 
+ISO certificering  
+ISO/IEC 27001 certificaat of gelijkwaardig  
+ 
+Doel  
+Informatiebeveiliging speelt een grote rol binnen de Rijksoverheid. Het is belangrijk dat dit 
+onderdeel veilig en consequent ingeregeld wordt binnen onderzoeksopdrachten. U heeft daarom 
+een managementsysteem voor informatiebeveiliging op basis van ISO/IEC 27001 of gelijkwaardig 
+en past deze toe op de uitvoering van de Opdracht. 
+ 
+Bewijsmiddelen  
+Dit kunt u aantonen door bij inschrijving het volgende bewijsmiddel aan te leveren:  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  15 van 35 
+▪  Een kopie van een geldig ISO/IEC 27001 certificaat afgegeven door 
+conformiteitsbeoordelingsinstanties die voldoen aan de Europese normenreeks voor certificering; of  
+▪ gelijkwaardige certificaten van in andere lidstaten van de Europese Unie gevestigde 
+instanties; of  
+▪  een beschrijving van gelijkwaardige maatregelen inzake informatiebeveiliging waaruit blijkt 
+dat de kwaliteit van de dienstverlening voldoende is geborgd en wordt gecontroleerd en dat de 
+voorgestelde maatregelen voldoen aan de kwaliteitsnorm ISO/IEC 27001. De beschrijving dient 
+ten minste in te gaan op:  
+o Het vaststellen van informatiebeveiliging; en  
+o Het implementeren van informatiebeveiliging; en  
+o Het uitvoeren van informatiebeveiliging; en  
+o Het bewaken van informatiebeveiliging; en,  
+o Het onderhouden en verbeteren van informatiebeveiliging; en  
+o Een verklaring waaruit blijkt dat het management deze beschrijving en werkwijze onderschrijft 
+en controleert. 
+o U kunt door middel van dit bewijsmiddel voldoen aan de basisafspraken voor 
+informatiebeveiliging(bijlage A.4) 
+ 
+3.4 Russische betrokkenheid  
+De Europese Unie heeft op 8 april 2022 nieuwe sancties ingesteld tegen Rusland. Dit heeft tot 
+gevolg dat wij geen overheidsopdrachten meer mogen gunnen aan Russische partijen. Dit geldt 
+ook voor overheidsopdrachten waar een Russische partij voor meer dan 10% deelneemt in de 
+overeenkomst als onderaannemer of leverancier. 
+ 
+Welke Russische partijen worden bedoeld? 
+Het verbod ziet op gunning aan en lopende overeenkomsten met: 
+• personen met een Russische nationaliteit en personen of rechtspersonen (bedrijven, 
+entiteiten of organen) die gevestigd zijn in Rusland; 
+• rechtspersonen die voor meer dan 50% eigendom zijn van een Russische partij zoals 
+genoemd hierboven; en 
+• personen of rechtspersonen die handelen in belang van of op aanwijzing van een 
+bovengenoemde Russische partij. 
+ 
+Bewijsmiddelen 
+U kunt door het invullen en rechtsgeldig ondertekenen van invulformulier III -Verklaring Russische 
+betrokkenheid bij inschrijving verklaren dat u niet onder het sanctiepakket valt. 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  16 van 35 
+ 
+4 WAT IS BELANGRIJK EN HOE BEOORDELEN WIJ? 
+In dit hoofdstuk leest u welk gunningscriterium wordt gehanteerd en de wijze waarop de 
+inschrijvingen inhoudelijk worden beoordeeld. 
+ 
+4.1 Gunningscriterium 
+Deze aanbesteding wordt gegund op basis van beste prijs-kwaliteitverhouding.  
+In dit geval wordt enkel de kwaliteit beoordeeld en is de inschrijfprijs voor iedere inschrijver gelijk. 
+Deze methode van gunnen wordt ook “budget gedreven inkoop” genoemd. Dit wordt verder 
+uitgewerkt in paragraaf 4.4.  
+ 
+4.2 Subgunningscriteria 
+Het gunningscriterium is uitgewerkt in subgunningscriteria. In het overzicht hieronder ziet u de 
+subgunningscriteria die bij deze aanbesteding gelden. Per subgunningscriterium ziet u ook het 
+aantal punten dat u maximaal kunt scoren. De subgunningscriteria worden in de volgende 
+paragrafen verder toegelicht. 
+ 
+ 
+Gunningscriterium ‘Beste prijs-kwaliteitverhouding’ 
+ 
+ 
+ Subgunningscriteria Te behalen punten Weeg-
+factor 
+Kwaliteit 
+ 
+    
+SG1 Activiteitenplan    45  45% 
+SG2 Kwaliteit onderzoeksteam  55  55% 
+ Subtotaal Kwaliteit   100%  
+ 
+Algemene vormvereisten beantwoording subgunningscriteria  
+Voor alle antwoorden op de subgunningscriteria gelden de volgende vereisten: 
+• u levert per subgunningscriterium een document met uw beantwoording in PDF formaat 
+aan bij uw inschrijving; 
+ 
+• u geeft antwoord op de vraag/vragen onder het betreffende subgunningscriterium. Iedere 
+uitwerking van een criterium moet zelfstandig (standalone) leesbaar zijn. Verwijzingen 
+naar andere antwoorden beoordelen wij niet; 
+ 
+• bij elk subgunningscriterium staat het maximale aantal pagina’s aangegeven. Een pagina is 
+A4 formaat (inclusief afbeeldingen, tabellen etc.). Alle pagina’s na het bereiken van het 
+maximum aantal pagina’s worden niet meegenomen in de beoordeling. 
+ 
+ 
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  17 van 35 
+4.2.1 SG1; Activiteitenplan  
+MDT wil inzicht krijgen in de manier waarop u deze opdracht gaat voorbereiden en uitvoeren en 
+welke initiatieven u neemt. Opdrachtgever wil tevens kunnen beoordelen of u in staat bent goed 
+voorbereid de opdracht uit te kunnen voeren, zodat een goede overgang naar de nieuwe 
+overeenkomst gewaarborgd is. In het activiteitenplan dienen tenminste de volgende aspecten te 
+zijn uitgewerkt:  
+ 
+• Beschrijving van het te doorlopen proces met bijbehorende activiteiten, waarbij de 
+verschillende stappen binnen het onderzoek worden uitgewerkt en wordt aangegeven welke 
+activiteiten c.q. werkzaamheden worden uitgevoerd. Opdrachtgever verwacht in ieder geval het 
+volgende terug te zien:  
+ 
+o Een beoordeling van de uitkomsten en aanbevelingen van het effect- en impactonderzoek 
+dat medio 2026 eindigt (zie bijlage 2) met hierbij aangeven of het opvolgen van de 
+aanbevelingen tot het vergroten van de impact van MDT zal leiden en welke activiteiten 
+hiervoor nodig zijn; 
+o Omschrijvingen van de onderzoeksdoelstellingen op de kortere termijn; 1 januari en 1 juli 
+2027 en op de langere termijn; 1 januari en 1 juli 2028; 
+o Beschrijving van de activiteiten die op de korte termijn (binnen een half jaar nodig zijn en 
+daarbij aangeven welke mogelijke uitkomsten dan beschikbaar komen; 
+o Beschrijving van de activiteiten op de langere termijnen (juli 2027 en januari en juli 2028) en 
+daarbij aangeven welke mogelijke uitkomsten dan beschikbaar komen.  
+ 
+• Planning  
+Een stapsgewijze beschrijving van de planning waarin u aangeeft: hoe u tot de uiteindelijke 
+onderzoeksresultaten komt, met een beschrijving van de risico’s die u ziet ten aanzien van de 
+planning en hoe u deze gaat beheersen.  
+ 
+• Risico’s 
+U geeft de mogelijke risico’s en de bijbehorende beheersmaatregelen aan die aan de orde zouden 
+kunnen komen bij de uitvoering van de opdracht.  
+ 
+• Kwaliteitszorg  
+U geeft in het activiteitenplan inzage in de wijze waarop u de kwaliteitszorg binnen uw bureau 
+heeft ingericht. Het gaat dan bijvoorbeeld om (interne) kwaliteitschecks op (data-) analyses, 
+controle van teksten en gebruikte literatuur (Indicatief: maximaal ½ A4).  
+ 
+ 
+Beoordelingsgrond  
+• De mate waaruit blijkt dat inschrijver inzicht heeft in het doel van de opdracht en waarin de 
+werkwijze en in te zetten middelen op overtuigende wijze bijdragen aan het doel van de opdracht.  
+• De mate waaruit blijkt dat het activiteitenplan concreet, relevant, volledig, realistisch en 
+doelmatig is.  
+• De mate waaruit blijkt dat de planning volledig, realistisch en beheersbaar is.  
+• De mate waaruit blijkt dat de benoemde risico’s en de beheersmaatregelen relevant en 
+realistisch zijn.  
+• De mate waaruit blijkt dat kwaliteitszorg relevant en realistisch binnen het bureau is 
+ingericht.  
+ 
+Vormvereisten beantwoording 
+De uitwerking van dit criterium mag maximaal uit 15 pagina’s bestaan. 
+ 
+4.2.2 SG2; Kwaliteit onderzoeksteam  
+Om te kunnen waarborgen dat het proces met bijbehorende activiteiten(SG1) op een bekwame en 
+competente wijze naar behoefte van Opdrachtgever kan worden uitgevoerd, is het van belang om 
+inzicht te hebben in de kwaliteit van het onderzoeksteam. U wordt daarom verzocht de 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  18 van 35 
+voorgestelde teaminzet voor de uitvoering van de opdracht te beschrijven. Deze beschrijving dient 
+volledig, concreet en controleerbaar te zijn en bevat ten minste de hieronder genoemde 
+onderdelen: 
+• Een overzicht van de onderzoekers die het onderzoek uitvoeren, inclusief ervaring en 
+expertise; 
+• Onderbouwing van waarom deze onderzoekers worden ingezet(per onderzoeker); 
+• Verantwoordelijkheden van de onderzoekers in het onderzoeksteam; 
+ 
+Curriculum vitae  
+Van iedere in te zetten deskundige wordt een beknopt curriculum vitae aangeleverd van 
+maximaal twee (2) A4-pagina’s per medewerker, waarin ten minste wordt opgenomen:  
+• de relevante gevolgde opleiding(en), cursussen en trainingen;  
+• de relevante werkervaring, waarbij per relevante ervaring ten minste wordt vermeld:  
+1. het doel van de werkzaamheden;  
+2. de uitgevoerde activiteiten;  
+3. de behaalde resultaten.  
+ 
+Inzet en beschikbaarheid  
+De Inschrijver beschrijft per medewerker:  
+• de beoogde inzet in uren ten behoeve van deze opdracht;  
+• een onderbouwing waaruit blijkt op welke wijze de betreffende medewerker zijn/haar kennis, 
+ervaring zal inzetten voor de uitvoering van (het betreffende onderdeel van) de opdracht;  
+ 
+Stabiliteit van het team is belangrijk voor opdrachtgever. De inschrijver beschrijft op welke wijze 
+de stabiliteit van het team gedurende de initiële periode en vervolgens ook in de verlengperiode, 
+geborgd zal worden en indien nodig, hoe eventuele vervanging van medewerkers wordt ingeregeld.  
+ 
+ 
+Beoordelingsgrond  
+• De mate waaruit blijkt dat de voorgestelde teamsamenstelling, zal bijdragen aan een 
+effectieve en succesvolle uitvoering van de opdracht, gelet op de verdeling van rollen, 
+verantwoordelijkheden, kennis en ervaring binnen het projectteam;  
+• De mate waaruit blijkt dat de wijze waarop de kennis en ervaring van de in te zetten 
+medewerkers passend is bij de aard en complexiteit van de opdracht;  
+• De mate waarin de Inschrijver aannemelijk heeft gemaakt dat de continuïteit van het 
+projectteam gedurende de looptijd van het programma is geborgd; 
+• De mate waarin binnen het onderzoeksteam onderzoekers zijn vertegenwoordigd met 
+aantoonbare onderzoeks-expertise op het gebied van effect- en impactonderzoek;  
+• De mate waarin binnen het onderzoeksteam onderzoekers zijn vertegenwoordigd die 
+kennis en ervaring hebben op vraagstukken samenhangend met de (departementale) 
+beleidsontwikkeling en (decentrale) -uitvoering van de Maatschappelijke diensttijd of een 
+aantoonbaar vergelijkbaar programma; 
+• De mate waarin binnen het onderzoeksteam onderzoekers zijn vertegenwoordigd die 
+kennis en ervaring hebben met het opereren binnen een (dynamische) netwerkomgeving. 
+ 
+ 
+Vormvereisten beantwoording 
+De uitwerking van dit criterium mag maximaal uit 15 pagina’s bestaan. 
+ 
+4.3 Wijze van beoordeling kwaliteit  
+ 
+Beoordelingscommissie 
+De inhoudelijke beoordeling van uw inschrijving wordt gedaan door een beoordelingscommissie. In 
+de beoordelingscommissie zitten minimaal drie personen. Deze personen hebben de deskundigheid 
+die nodig is om uw inschrijving inhoudelijk te beoordelen.  
+ 
+ 
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  19 van 35 
+Beoordelingswijze 
+Ieder lid van de beoordelingscommissie bepaalt individueel welke beoordeling en score hij geeft 
+voor elke inschrijving. Dit gebeurt per subgunningscriterium aan de hand van de bijbehorende 
+beoordelingstabel. Elk subgunningscriterium krijgt een score. 
+ 
+Daarna komt de beoordelingscommissie bij elkaar om de inschrijvingen te bespreken. Tijdens deze 
+plenaire sessie komen de beoordelaars tot een consensus voor een score op elk (onderdeel van 
+een) subgunningscriterium. 
+ 
+Beoordelingstabel  
+Wij hanteren onderstaande tabel voor de beoordeling van de inschrijving op alle 
+subgunningscriteria voor kwaliteit. De score drukt de inhoudelijke beoordeling uit. 
+Deze opsomming is uitputtend en zal door alle beoordelaars worden toegepast. Door de individuele 
+beoordelaars kunnen uitsluitend deze genoemde hele even rapportcijfers worden toegekend. 
+Oneven rapportcijfers en getallen achter de komma worden niet toegekend door de individuele 
+beoordelaars. 
+ 
+ 
+ 
+ 
+De uiteindelijke score is de optelsom van de gewogen score. 
+We vermenigvuldigen elk cijfer (de ongewogen score) met de weegfactor. De weegfactor brengt tot 
+uitdrukking hoe zwaar een criterium weegt in verhouding tot andere criteria. De score 
+vermenigvuldigt met de weegfactor heet de gewogen score. De weegfactoren ziet u ook terug in 
+het overzicht van subgunningscriteria in paragraaf 4.2.  
+ 
+U krijgt een totaalscore voor uw inschrijving. 
+De uiteindelijke totaalscore van uw inschrijving is de optelsom van alle scores op de 
+subgunningscriteria voor kwaliteit.  
+Oordeel Ongewogen 
+score in 
+punten 
+ 
+Onvoldoende 0 punten • Geheel onvolledige beantwoording. 
+• De beantwoording geeft geen antwoord op hetgeen wat is uitgevraagd. 
+• Informatie ontbreekt 
+Matig 20 punten • Niet volledig beantwoord 
+• Meerdere belangrijke elementen ontbreken/schieten te kort. 
+• De wijze van invulling is niet overtuigend. 
+Voldoende 50 punten • Volledig beantwoord 
+• Voldoet deels aan de verwachtingen. 
+• Biedt geen meerwaarde/neutraal voor de dienstverlening   
+Ruim 
+voldoende 
+70 punten • Volledig beantwoord 
+• Voldoet aan de verwachtingen 
+• Uit de antwoorden blijkt in enige mate op welke wijze bijgedragen wordt aan 
+de gestelde doelen/gewenste resultaten. 
+• Biedt deels meerwaarde voor de dienstverlening  
+Goed 90 punten • Volledig beantwoord. 
+• Uit de antwoorden blijkt duidelijk op welke wijze bijgedragen wordt aan de 
+gestelde doelen/gewenste resultaten. 
+• Voldoet aan de verwachtingen. 
+• Biedt deels meerwaarde voor de dienstverlening  
+Uitstekend 100 punten • Volledig beantwoord. 
+• Uit de antwoorden blijkt zeer duidelijk op welke wijze bijgedragen wordt aan 
+de gestelde doelen. 
+• Biedt meerwaarde voor de dienstverlening    
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  20 van 35 
+ 
+Bij gelijke scores gunnen wij aan de inschrijver met de beste score voor kwaliteit. 
+Hierbij kijken we naar het totaal van de scores voor kwaliteit afgerond op 2 cijfers achter de 
+komma. Is de totale score voor kwaliteit ook gelijk tussen meerdere inschrijvers met gelijke 
+totaalscores? Dan gunnen wij aan de inschrijver met de hoogste score op het subgunningscriterium 
+waarvoor de hoogste weegfactor geldt.   
+ 
+U komt in aanmerking voor gunning van de Opdracht indien: 
+• u een geldige inschrijving heeft gedaan en 
+• u de hoogste totaalscore heeft van alle inschrijvers. 
+ 
+ 
+4.4 Prijs 
+Budgetgedreven inkoop  
+Omdat budgetgedreven inkoop wordt toegepast op deze aanbesteding, zal de prijs niet worden 
+beoordeeld.  
+ 
+Voor deze aanbesteding geldt dat de inschrijfprijs voor iedere inschrijver gelijk is. Deze methode 
+van gunnen wordt ook wel “budgetgedreven inkoop” genoemd. Gezien de aard van de opdracht is 
+geconcludeerd dat de methode “budgetgedreven inkoop” voor deze opdracht een geschikte 
+methode is. Gegeven het vaste budget vanuit programmagelden wordt de kwaliteit 
+gemaximaliseerd en komt het volledige budget ten gunste van de uit te voeren opdracht. Het vaste 
+budget voor deze opdracht is €739.000,- exclusief btw, dit is inclusief de verlengoptie van twee 
+jaar.  
+ 
+Het uitgangspunt van budgetgedreven inkoop is dat leveranciers de maximale kwaliteit leveren 
+voor het beschikbare budget, dus zo veel mogelijk wensen vervullen naast de eisen. Dit wijkt af 
+van een gunning op laagste prijs. Bij aanbestedingen op laagste prijs zitten de inschrijvers veelal 
+dicht rondom de minimale vereiste kwaliteit.  
+ 
+Kenmerk van de budgetgedreven inkoop is dat we vooraf het maximumbudget meegeven. Met 
+andere woorden: de prijs is voor iedere inschrijver een vast gegeven. De inschrijver die de meeste 
+kwaliteit biedt, wint de aanbesteding. Door het ontbreken van concurrentie op prijs, bepaalt de 
+beoordeling van de kwaliteitscriteria wie de winnaar van de aanbesteding is. De aanbieder die naar 
+oordeel van het beoordelingsteam de meeste kwaliteit levert, die wint de aanbesteding”. 
+ 
+U voegt aan uw inschrijving een specificatie toe waarin de opbouw van de totaalkosten voor de 
+uitvoering van deze opdracht zijn gespecificeerd. Deze specificatie dient als inzicht in de activiteiten 
+die inschrijver voor het budget zal uitvoeren. Gebruik hiervoor invulformulier IV Kostenoverzicht en 
+voeg die als Excel toe aan uw inschrijving. 
+De uitgewerkte kosten in de specificatie dienen 'all-in' te zijn, zie onderstaand overzicht voor welke 
+kosten inbegrepen dienen te zijn.  
+ 
+De prijs is de vaste all-in totaalprijs voor het MDT effect- en impactonderzoek.  
+Dit betekent dat de prijs voldoet aan alle eisen uit het beschrijvend document en de bijlagen. En 
+dat de prijs inclusief alle garanties, kosten en kortingen is. Alle opgegeven prijzen zijn in euro’s en 
+exclusief btw. 
+ 
+Tarieven zijn all-in tarieven 
+Dat wil zeggen dat hierin dus ook de volgende kosten zijn inbegrepen:  
+• salariskosten; 
+• overheadkosten; 
+• kosten voor ondersteunend werk; 
+• kosten voor het gebruik van apparatuur; 
+• normale binnenlandse reis- en verblijfkosten; 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  21 van 35 
+• reiskosten woon- en werkverkeer; 
+• parkeerkosten; 
+• opleidingskosten; 
+• wervings- en selectiekosten; 
+• vervanging; 
+• verzekeringspremie; 
+• winst en  
+• alle eventuele verdere bijkomende kosten, zoals de kosten voor voorbereiding op de 
+uitvoering. 
+4.5 Beoordeling van uw inschrijving  
+Hier leest u op welke manier wij uw inschrijving beoordelen.  
+ 
+4.5.1 Beoordelingsproces 
+Formele eisen 
+Na ontvangst van de inschrijving(en) wordt door ons eerst getoetst of uw inschrijving voldoet aan 
+de formele eisen die wij hebben opgenomen in hoofdstuk 6.1. Voldoet u niet aan deze eisen? Dan 
+is uw inschrijving ongeldig en wordt deze terzijde gelegd, tenzij het ontbreken van bepaalde 
+informatie door ons als een kennelijke omissie wordt aangemerkt en zich leent voor eenvoudige 
+precisering of herstel (met inachtneming van de aanbestedingsrechtelijke beginselen). 
+ 
+Uitsluitingsgronden en geschiktheidseisen 
+Vervolgens? Wij controleren of er geen uitsluitingsgronden van toepassing zijn en we de toetsen de 
+geschiktheid. De wijze waarop wij uitsluitingsgronden beoordelen en toepassen staat in hoofdstuk 
+3. Een inschrijver op wie een uitsluitingsgrond van toepassing is wordt in principe uitgesloten.  
+ 
+Voldoet u of een entiteit waarop u een beroep doet niet aan de geschiktheidseisen? Dan is uw 
+inschrijving ongeldig. Wij sluiten de inschrijving dan uit van verdere deelname aan de 
+aanbesteding. 
+ 
+Voldoet uw inschrijving?  
+Dan beoordelen we de inschrijving inhoudelijk op de subgunningscriteria en kennen daar een score 
+aan toe.  
+ 
+ 
+  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  22 van 35 
+5 HOE VERLOOPT DE PROCEDURE? 
+ 
+In dit hoofdstuk leest u alles over de aanbestedingsprocedure. U krijgt een overzicht van de 
+planning. Elke stap lichten we vervolgens kort toe. U leest in dit hoofdstuk ook wie uw 
+contactpersoon is en hoe u vragen kunt stellen. 
+ 
+5.1 De openbare Europese aanbesteding 
+Iedere ondernemer mag inschrijven op deze aanbesteding. 
+We hebben gekozen voor een openbare procedure. Dit geeft alle potentiële inschrijvers voldoende 
+tijd en mogelijkheid om een kwalitatief goede inschrijving in te dienen en zorgt ervoor dat de hele 
+markt de kans krijgt in te schrijven. Hierbij is rekening gehouden met de relevante aspecten op 
+grond van de Gids proportionaliteit:  
+ 
+Relevante aspecten op grond van de 
+Gids Proportionaliteit 
+Inschatting voor MDT effect- en impactonderzoek 
+omvang van de opdracht;  Laag tot middel  
+transactiekosten voor de aanbestedende 
+dienst en de inschrijvers;  
+Gemiddeld  
+aantal potentiële inschrijvers;  Gemiddeld  
+gewenst eindresultaat;  Dienstverleningsovereenkomst    
+complexiteit van de opdracht;  Gemiddeld  
+type van de opdracht en het karakter 
+van de markt.  
+Type van de opdracht is het verrichten van onderzoek, 
+evaluerend en lerend. Karakter van de markt betreft 
+Organisaties, instituten, bureaus voor het verrichten 
+van onderzoek binnen de rijksoverheid.  
+ 
+Kijk voor meer informatie over Europees aanbesteden op 
+www.rijksoverheid.nl/onderwerpen/aanbesteden. 
+ 
+Bij deze aanbesteding gaat het om diensten met deze CPV-codes:  
+• 73110000-6 Uitvoeren van onderzoek  
+ 
+5.2 TenderNed 
+Voordat u een digitale inschrijving via TenderNed kunt indienen, dient uw onderneming 
+geregistreerd te zijn op het platform. Ons advies is om het registratieproces in TenderNed niet 
+uit te stellen tot (vlak voor) het einde van de deadline voor indiening van de inschrijving, maar 
+direct te starten.  
+ 
+Uitsluitend digitale inschrijvingen die voor de deadline voor indiening van inschrijvingen zijn 
+ingediend via TenderNed, worden door verder in behandeling genomen. Op andere wijze 
+ingediende inschrijvingen worden terzijde gelegd en niet beoordeeld.  
+ 
+NB: de module waarmee de inschrijving dient te worden aangeboden is volledig geïntegreerd op 
+TenderNed. Voor verdere uitleg over het gebruik van deze module verwijzen wij naar de instructies 
+op www.tenderned.nl.  
+ 
+Als inschrijver mag u als u vragen heeft over het gebruik van het platform te allen tijde 
+gebruikmaken van de helpdesk van TenderNed. U kunt de helpdesk benaderen via de chatfunctie 
+op het moment dat u bezig bent met uw inschrijving. Op dat moment kan met live met u 
+meekijken. Op de website van TenderNed treft u tevens het telefoonnummer en/of het e-mailadres 
+van de helpdesk aan (https://www.tenderned.nl/cms/nl/contact).  
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  23 van 35 
+ 
+5.3 Communicatie tijdens de aanbesteding 
+Uw contactpersoon is Safiera van Geenen, inkoopadviseur IUC-Noord.  
+U communiceert alleen met de contactpersoon over deze aanbesteding. De communicatie verloopt 
+via TenderNed. Communiceert u over deze aanbesteding met andere medewerkers van de 
+procesbegeleider of deelnemers of via andere kanalen, bijvoorbeeld om hen te beïnvloeden? Dan 
+kan dat voor ons reden zijn om u uit te sluiten van deelname. 
+ 
+5.4 De planning van de aanbesteding 
+Hieronder ziet u de planning van de rest van de procedure. In de volgende paragrafen leest u bij 
+elk onderdeel een korte toelichting. 
+ 
+Bij eventuele afwijkingen tussen onderstaande planning en de planning in TenderNed dan is de 
+planning in TenderNed leidend. 
+ 
+ 
+ 
+5.5 Vragen en tekstvoorstellen 
+Heeft u vragen over de inhoud of de procedure van deze aanbesteding? Stel die dan via 
+TenderNed. Vragen die u via de telefoon stelt, beantwoorden wij niet. U kunt ook vragen stellen of 
+voorstellen doen bij de contractvoorwaarden in hetzelfde format. Voorstellen die wij overnemen 
+ziet u terug in de overeenkomst. 
+ 
+Dien al uw vragen en voorstellen in voor de in de planning opgenomen datum en tijdstip. 
+Zo zorgt u ervoor dat u antwoord krijgt op uw vraag. Dient u uw vraag of voorstel te laat in? Dan 
+beantwoorden we uw vraag alleen als wij vinden dat het belangrijke informatie is voor alle 
+inschrijvers. De inschrijftermijn verandert dan niet, ook als wij de antwoorden minder dan tien 
+dagen voor de sluitingsdatum publiceren. 
+ 
+Zorg dat uw vragen en voorstellen anoniem zijn. 
+Gebruik daarom in uw vraag geen: 
+- bedrijfsnamen; 
+- productnamen; 
+- andere namen die aan uw organisatie gerelateerd zijn. 
+ 
+Activiteit  Uiterste datum 
+ 
+Publicatie aanbesteding  03 april    2026        14:00 uur 
+Deadline indienen vragen 1e Nota van inlichtingen  14 april    2026        13:00 uur 
+Beantwoorden vragen 1e Nota van inlichtingen door 
+MDT  
+21 april    2026        13:00 uur 
+Deadline indienen vragen voor 2e Nota van 
+inlichtingen  
+06 mei     2026        13:00 uur 
+Beantwoorden vragen 2e Nota van inlichtingen door 
+MDT 
+13 mei     2026        13:00 uur 
+Deadline indienen inschrijving  26 mei    2026        13:00 uur  
+Bekendmaking voorlopige gunning- en afwijzing  10  juli     2026   
+Stand-still termijn  Van 11 t/m 30 juli 2026 
+Definitieve gunning  31 juli 2026  
+Sluiting en ingangsdatum overeenkomst 07 augustus 2026     
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  24 van 35 
+Wij publiceren alle vragen en antwoorden via TenderNed. 
+U leest alle vragen en antwoorden in de nota van inlichting(en). Alle inschrijvers krijgen op die 
+manier evenveel informatie. U ontvangt een e-mail op het moment dat wij de vragen en 
+antwoorden publiceren. We publiceren de nota van inlichting(en) uiterlijk op de in de planning 
+opgenomen datum. Wij gaan ervan uit dat hierna de aanbesteding duidelijk is voor alle 
+inschrijvers.  
+ 
+U kunt ook vertrouwelijk vragen stellen. 
+Het antwoord is dan alleen voor u bestemd. Niet voor de andere inschrijvers. Deze publiceren wij 
+dus niet op TenderNed. Wilt u een vertrouwelijk antwoord op uw vraag? Geef dan in een duidelijke 
+motivatie aan waarom u van mening bent dat openbaarmaking van deze informatie schade zou 
+toebrengen aan de gerechtvaardigde economische belangen van uw onderneming. 
+ 
+Indien wij van mening zijn dat de motivatie geen rechtvaardiging oplevert voor het vertrouwelijk 
+behandelen van uw vraag, dan krijgt u de mogelijkheid om de vraag in te trekken. Wij zullen in dat 
+geval geen inlichtingen verstrekken naar aanleiding van de ingetrokken vraag, tenzij de vraag 
+betrekking had op een fout in de aanbestedingsstukken waarover wij de overige inschrijvers 
+moeten informeren. Indien u de betreffende vraag niet intrekt, dan wordt deze door ons in 
+behandeling genomen en (met het bijbehorende antwoord) geanonimiseerd gepubliceerd op 
+TenderNed. 
+ 
+Hierna is de tweede vragenronde.  
+De tweede vragenronde werkt hetzelfde als de eerste. Stel uw vragen voor de tweede ronde voor 
+de in de planning opgenomen datum en tijdstip. Antwoorden op vragen in de tweede ronde 
+publiceren we uiterlijk op de in de planning opgenomen datum. Wij gaan ervan uit dat hierna de 
+aanbesteding duidelijk is voor alle inschrijvers. 
+ 
+Wij geven u alleen informatie via TenderNed. 
+Krijgt u informatie op een andere manier? Dan kunt u daaraan geen rechten ontlenen. Ook niet als 
+u de informatie krijgt van een van onze medewerkers of vertegenwoordigers.  
+ 
+5.6 Tegenstrijdigheden of onduidelijkheden 
+Ontdekt u tegenstrijdigheden of onduidelijkheden in dit document, wees proactief en meld dit dan 
+zo snel mogelijk, maar in elk geval voor de datum waarop de vragen ingediend moeten zijn. U kunt 
+dit melden bij de contactpersoon via TenderNed.  
+ 
+De nota van inlichtingen gaat altijd voor 
+Spreken de nota van inlichtingen en het beschrijvend document elkaar tegen? Dan gaan we uit van 
+wat in de nota van inlichtingen staat. Zijn er meerdere nota’s van inlichtingen en spreken die 
+elkaar tegen? Dan geldt wat in de laatst gepubliceerde nota van inlichtingen staat. 
+ 
+5.7 Indienen inschrijving  
+Schrijf u uiterlijk in op de in de planning aangegeven uiterste datum en tijdstip. 
+U kunt alleen inschrijven via TenderNed. Bent u te laat of schrijft u niet in via TenderNed? Dan is 
+uw inschrijving ongeldig. Meer over hoe u een inschrijving indient, leest u in hoofdstuk 7. 
+5.8 Inhoudelijke beoordeling inschrijving 
+Wij beoordelen uw inschrijving zoals beschreven in hoofdstuk 4.  
+ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  25 van 35 
+5.9 Verificatie gegevens UEA 
+Bij de bekendmaking van de gunningsbeslissing vragen we bewijsstukken op ter controle van de 
+gegevens in het UEA van de inschrijver aan wie we voornemens zijn te gunnen. U dient de 
+bewijsstukken binnen veertien (14) kalenderdagen na ons verzoek aan te leveren via TenderNed. 
+ 
+Let op: levert u de bewijsstukken niet in of kloppen de gegevens niet, dan leidt dat tot uitsluiting, 
+tenzij het ontbreken van bepaalde informatie door ons als een kennelijke omissie wordt 
+aangemerkt en zich leent voor eenvoudige precisering of herstel (met inachtneming van de 
+aanbestedingsrechtelijke beginselen).  
+ 
+Vraag de Gedragsverklaring aanbesteden (GVA) en Verklaring van de Belastingdienst tijdig aan in 
+verband met de verwerking- en beslistermijn. U kunt niet volstaan met het overleggen van een 
+bewijs dat de GVA en Verklaring van de Belastingdienst is aangevraagd en nog in behandeling is. 
+ 
+Gaat het om een samenwerkingsverband die de Opdracht gegund krijgt? Dan moet elk lid 
+van het samenwerkingsverband deze bewijsstukken aanleveren.   
+ 
+Wordt er een beroep gedaan op een andere entiteit om te voldoen aan de gestelde 
+geschiktheidseisen? Dan moet elke andere entiteit een GVA en Verklaring van de Belastingdienst 
+aanleveren, en de toepasselijke bewijsstukken voor de betreffende geschiktheidseis(en). 
+Als u bijvoorbeeld inschrijft als Samenwerkingsverband dat bestaat uit partijen X, Y en Z die 
+gezamenlijk een beroep doen op K om te voldoen aan een geschiktheidseis dan moet u ook van 
+onderneming K de bewijsstukken 1 t/m 3 aanleveren. 
+ 
+ 
+• Bewijsstuk 2: Gedragsverklaring aanbesteden (GVA)  
+Een GVA is een verklaring dat uit een onderzoek is gebleken dat er geen bezwaren zijn dat 
+een natuurlijk persoon of rechtspersoon inschrijft op een overheidsopdracht, speciale-
+sectoropdracht, concessieovereenkomst voor openbare werken of prijsvraag. Justis4 
+raadpleegt daartoe het Justitieel Documentatie Systeem en gaat na of sprake is van 
+relevante beschikkingen van de Autoriteit Consument en Markt of de Europese Commissie. 
+De GVA is twee jaar geldig en moet nog geldig zijn op het moment van inschrijven.  
+• Bewijsstuk 3: Verklaring van de Belastingdienst  
+Verklaring van de Belastingdienst dat u uw verplichte belastingen en sociale 
+zekerheidspremies heeft betaald. Deze verklaring mag op het moment van inschrijven niet 
+ouder zijn dan zes maanden. 
+ 
+5.10  Mededeling gunningsbeslissing 
+Op de in de planning opgenomen datum maken wij bekend aan welke inschrijver(s) we 
+de Opdracht voornemens zijn te gunnen. 
+U ontvangt de gunningsbeslissing via TenderNed met het voornemen tot gunnen. In dit voornemen 
+leest u: 
+• aan wie we de Opdracht voornemens zijn te gunnen; 
+• de relevante redenen, zijnde de kenmerken en relatieve voordelen van de uitgekozen 
+inschrijving(en), waarom wij de Opdracht aan deze inschrijver(s) willen gaan gunnen; 
+• de onderbouwing van de aan uw inschrijving toegekende scores; 
+• in geval van het gunningscriterium beste prijs-kwaliteitverhouding vermelden we de scores 
+van de subgunningscriteria op het gebied van de kwaliteit en de totaalscore op prijs van de 
+winnende inschrijver(s); 
+ 
+4 Zie voor meer informatie: www.justis.nl/producten/gva/ 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  26 van 35 
+• een omschrijving van de opschortende termijn. Dat is de termijn waarin u een 
+onmiddellijke voorziening bij voorraad (kort geding) kunt verzoeken met betrekking tot het 
+voornemen tot gunnen. 
+ 
+Soms maken wij bepaalde gegevens niet bekend in het voornemen tot gunnen.  
+We maken gegevens niet bekend, als het bekend maken van die gegevens: 
+- in strijd zou zijn met enig wettelijk voorschrift; 
+- in strijd zou zijn met het openbaar belang; 
+- de rechtmatige commerciële belangen van ondernemers zou kunnen schaden, of 
+- afbreuk zou kunnen doen aan de eerlijke mededinging tussen ondernemers. 
+ 
+Let op: u kunt geen rechten ontlenen aan het voornemen tot gunning. 
+Is het voornemen tot gunnen positief voor u? Dan betekent dat u in principe de Opdracht krijgt. 
+Maar op dit moment in de aanbesteding kunnen wij nog steeds beslissen de Opdracht aan iemand 
+anders te gunnen of niet tot gunning over te gaan. De mededeling van het voornemen tot gunnen 
+is dan ook geen aanvaarding van uw aanbod. U kunt aan dit voornemen geen rechten ontlenen en 
+u heeft op grond van dit voornemen ook geen recht op een schadevergoeding. 
+ 
+Pas nadat de overeenkomst door opdrachtgever en u is ondertekend, komt de overeenkomst tot 
+stand, en dient u uitvoering te geven aan de Opdracht. 
+ 
+Opschortende termijn 
+De dag na bekendmaking van de gunningsbeslissing op TenderNed, gaat de opschortende termijn 
+in. Deze termijn staat ook bekend als standstill termijn, of alcatel termijn. De opschortende termijn 
+duurt 20 kalenderdagen. In deze termijn heeft u de mogelijkheid om rechtsmaatregelen te treffen 
+tegen de gunningsbeslissing. De opschortende termijn geldt als een fatale termijn. Na de 
+opschortende termijn zijn uw rechten vervallen om tegen de gunningsbeslissing in rechte op te 
+komen. Wij zijn dan vrij een overeenkomst te sluiten. U leest meer over de opschortende termijn in 
+artikel 2.127 van de Aanbestedingswet 2012. 
+ 
+In het belang van een voorspoedige voortgang van de aanbestedingsprocedure verzoeken wij u, 
+indien u een kort geding aanhangig maakt, ons zo spoedig mogelijk te informeren door het 
+toezenden van de kopie dagvaarding naar de contactpersoon. 
+ 
+Klacht 
+Tijdens de aanbestedingsprocedure is het mogelijk een klacht in te dienen in het geval dat u het 
+niet eens bent met de gang van zaken bij deze aanbesteding of een onderdeel daarvan, of wanneer 
+u bijvoorbeeld meent dat een bepaald handelen of nalaten van de aanbestedende dienst in strijd is 
+met wettelijke bepalingen of met andere voorschriften die voor de desbetreffende aanbesteding 
+gelden. 
+ 
+U dient uw klacht in een zo vroeg mogelijk stadium van de aanbestedingsprocedure in bij het 
+klachtenmeldpunt. U leest in hoofdstuk 8 meer over de klachtenprocedure. 
+ 
+5.11  Ondertekenen overeenkomst 
+Wij willen de overeenkomst op of rond de in de planning opgenomen datum 
+ondertekenen. 
+U leest in hoofdstuk 7. meer over de overeenkomst. 
+ 
+5.12  Voorbehouden Aanbestedende dienst 
+Wij mogen deze aanbesteding stoppen. 
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  27 van 35 
+Wij kunnen besluiten de Opdracht niet te gunnen. Of om de aanbesteding helemaal of voor een 
+perceel stop te zetten. Als we dit besluiten, krijgt u hierover bericht via TenderNed.  
+ 
+Wij vergoeden in beginsel geen kosten.  
+Alle kosten die te maken hebben met deze aanbesteding, zijn voor uw eigen rekening. Ook de 
+schade die kan ontstaan doordat u de Opdracht niet gegund krijgt of de aanbesteding wordt 
+stopgezet, is voor uw eigen risico. 
+ 
+In geval we de aanbesteding stop zetten, gaan we in beginsel niet over tot vergoeding van 
+aanbestedingskosten. Dit kan anders zijn indien wij van oordeel zijn dat de omstandigheden van 
+dien aard zijn dat een tegemoetkoming op zijn plaats is.  
+ 
+25.30.10 Versie 1.32, 15-3-2023  
+Beschrijvend document ‘MDT effect- en impactonderzoek’ voor de Staat der Nederlanden – 3 april 2026 - BD-
+EA-SVG-IUCN25100232  28 van 35 
+6 HOE SCHRIJF U IN? 
+6.1 Formele eisen aan de inschrijving 
+Door in te schrijven op deze aanbesteding gaat u volledig en onvoorwaardelijk akkoord met alles 
+wat in dit beschrijvend document, inclusief de bijlagen, staat vermeld. 
+ 
+Elke inschrijving moet voldoen aan de volgende formele eisen:  
+• u schrijft op tijd in; 
+• u levert alle gevraagde informatie in. In het hoofdstuk ‘Bijlagen’ vindt u in de eerste tabel 
+alle onderdelen die de inschrijving moet bevatten; 
+• u gebruikt de formats die u vindt in dit beschrijvend document en de bijlagen. U past de 
+vaste tekst van die formats niet aan; 
+• u verbindt geen voorwaarden aan uw inschrijving; 
+• u schrijft in zonder voorbehouden; 
+• u zorgt dat het inschrijfbiljet en de overige invulformulieren die ondertekend moeten 
+worden, rechtsgeldig ondertekend worden; 
+• u garandeert dat u kunt starten met het uitvoeren van de Opdracht op grond van de 
+informatie in uw inschrijving in de 90 dagen na de uiterste inschrijfdatum. Dit is de 
+gestanddoeningstermijn. Bij een kort geding aangespannen door inschrijver(s) verlengen 
+we de ges
+
+=== Document: uea_580773_20260403133304 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 23TN-580773 - 3 apr 2026
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 580773
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: IUC-Noord
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+MDT eﬀect- en impactonderzoek
+Korte beschrijving van de 
+aanbesteding:
+-
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+BD-EA-SVG-IUCN25100232
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 23TN-580773 - 3 apr 2026
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 23TN-580773 - 3 apr 2026
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 23TN-580773 - 3 apr 2026
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 23TN-580773 - 3 apr 2026
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 23TN-580773 - 3 apr 2026
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 23TN-580773 - 3 apr 2026
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 23TN-580773 - 3 apr 2026
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 23TN-580773 - 3 apr 2026
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 23TN-580773 - 3 apr 2026
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 23TN-580773 - 3 apr 2026
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 23TN-580773 - 3 apr 2026
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 23TN-580773 - 3 apr 2026
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 23TN-580773 - 3 apr 2026
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 23TN-580773 - 3 apr 2026
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 23TN-580773 - 3 apr 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 23TN-580773 - 3 apr 2026
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 23TN-580773 - 3 apr 2026
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 23TN-580773 - 3 apr 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 23TN-580773 - 3 apr 2026
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 23TN-580773 - 3 apr 2026
+a.  
+b.  
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+(Ondertekenen kan alleen schriftelijk na printen.)
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 23TN-580773 - 3 apr 2026
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 23TN-580773 - 3 apr 2026
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: arvodi-2025 ===
+Pagina 1 van 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALGEMENE RIJKSVOORWAARDEN  
+VOOR HET VERSTREKKEN VAN OPDRACHTEN  
+TOT HET UITVOEREN VAN DIENSTEN 2025 
+(ARVODI-2025) 
+ 
+ 
+ 
+ 
+ 
+ 
+Vastgesteld bij besluit van 
+de Minister-president, 
+Minister van Algemene Zaken, 
+van 17 maart 2025, nr. 4446866 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Rijksoverheid 
+Pagina 2 van 12 
+ 
+Artikel 1 Begrippen 
+ 
+In deze algemene voorwaarden worden de volgende begrippen met een beginhoofdletter 
+gebruikt. Onder deze begrippen wordt verstaan: 
+1.1 Bijlage: een aanhangsel bij de Overeenkomst dat daar onderdeel van uitmaakt. 
+1.2 Diensten: de door Opdrachtnemer op basis van de Overeenkomst ten behoeve van 
+Opdrachtgever te verrichten werkzaamheden. 
+1.3 Meerwerk: niet in de Overeenkomst begrepen werkzaamheden die leiden tot extra 
+kosten. 
+1.4 Opdrachtgever: de Staat der Nederlanden of elke andere opdrachtgever die van deze 
+algemene voorwaarden gebruik maakt.  
+1.5 Opdrachtnemer: de wederpartij van Opdrachtgever.  
+1.6 Overeenkomst: de overeenkomst tussen Opdrachtgever en Opdrachtnemer waarvan 
+de Voorwaarden onderdeel uitmaken. 
+1.7 Partij: Opdrachtgever of Opdrachtnemer, afhankelijk van de context.  
+1.8 Partijen: Opdrachtgever en Opdrachtnemer. 
+1.9 Personeel: de door Partijen bij het uitvoeren van de Diensten in te schakelen 
+hulppersonen, waaronder mede begrepen ondergeschikten en onderaannemers. 
+1.10 Voorwaarden: deze algemene voorwaarden.  
+1.11 Werkdag: kalenderdag, met uitzondering van zaterdagen en zondagen en algemeen 
+erkende feestdagen in de zin van artikel 3 lid 1 van de Algemene termijnenwet. 
+ 
+Artikel 2 Toepassing 
+ 
+2.1 Wijzigingen van of aanvulling op de Overeenkomst of afwijkingen van de Voorwaarden 
+zijn alleen bindend als deze uitdrukkelijk schriftelijk of per e-mail tussen Partijen zijn 
+overeengekomen.  
+2.2 Als sprake is van strijdigheid tussen de Nederlandse tekst van deze Voorwaarden en 
+vertalingen daarvan, gaat de Nederlandse tekst steeds voor. 
+ 
+Artikel 3 Eisen aan de Diensten 
+ 
+De uit te voeren Diensten moeten voldoen aan de in de Overeenkomst vastgelegde eisen, 
+zijn geschikt voor het beoogd gebruik zoals dat uit de Overeenkomst voortvloeit en moeten 
+op vakbekwame wijze worden uitgevoerd.  
+ 
+Artikel 4 Vervanging personen die belast zijn met het uitvoeren van de Diensten 
+ 
+4.1 Opdrachtnemer kan een persoon die is belast met het uitvoeren van de Diensten 
+alleen bij uitzondering en na voorafgaande toestemming van Opdrachtgever tijdelijk of 
+definitief vervangen. Opdrachtgever weigert deze toestemming niet op onredelijke 
+gronden en kan hieraan voorwaarden verbinden. Opdrachtnemer rekent voor de 
+vervanger geen hoger tarief.  
+4.2 Als Opdrachtgever verzoekt een persoon die is belast met het uitvoeren van de 
+Diensten te vervangen omdat Opdrachtgever vindt dat dit in het belang van een goede 
+uitvoering van de Diensten nodig of wenselijk is, vervangt Opdrachtnemer deze 
+persoon zo spoedig mogelijk, tenzij dat van Opdrachtnemer redelijkerwijs niet kan 
+worden verlangd. Opdrachtnemer rekent voor de vervanger geen hoger tarief. 
+4.3 Bij het vervangen van een persoon die is belast met het uitvoeren van de Diensten 
+Pagina 3 van 12 
+ 
+stelt Opdrachtnemer een persoon beschikbaar die qua deskundigheid, opleiding en 
+ervaring ten minste gelijkwaardig is aan de te vervangen persoon of die voldoet aan 
+wat Partijen zijn overeengekomen. 
+ 
+Artikel 5 Gebruik van zaken van Opdrachtgever  
+ 
+Partijen kunnen overeenkomen dat Opdrachtnemer bij het uitvoeren van de Diensten zaken 
+die eigendom zijn van Opdrachtgever in bruikleen krijgt. Aan deze bruikleen kan 
+Opdrachtgever voorwaarden verbinden. 
+ 
+Artikel 6 Onderaanneming 
+ 
+6.1 Opdrachtnemer kan voor het uitvoeren van de Diensten alleen na toestemming van 
+Opdrachtgever onderaannemers inschakelen of vervangen. Opdrachtgever weigert 
+deze toestemming niet op onredelijke gronden. Opdrachtgever kan hieraan 
+voorwaarden verbinden.  
+6.2 Als Opdrachtgever toestemming geeft voor het inschakelen of vervangen van 
+onderaannemers is en blijft Opdrachtnemer verantwoordelijk en aansprakelijk voor het 
+nakomen van verplichtingen uit de Overeenkomst en verplichtingen uit belasting- en 
+socialeverzekeringswetgeving. 
+ 
+Artikel 7 Voortgangsrapportage 
+ 
+Opdrachtnemer rapporteert over de voortgang van het uitvoeren van de Diensten aan 
+Opdrachtgever zo vaak en op de wijze als in de Overeenkomst is bepaald, en daarnaast als 
+Opdrachtgever daar om vraagt. 
+ 
+Artikel 8 Contactpersonen 
+ 
+8.1 Partijen wijzen elk een contactpersoon aan die het dagelijkse contact onderhoudt over 
+het uitvoeren van de Diensten. Partijen laten elkaar weten wie zij als contactpersoon 
+hebben aangewezen. 
+8.2 Contactpersonen kunnen Partijen alleen vertegenwoordigen en binden voor zover het 
+betreft het uitvoeren van de Diensten. Ze zijn niet bevoegd de Overeenkomst te 
+wijzigen. 
+  
+Artikel 9 Begeleidingscommissie of stuurgroep 
+ 
+Partijen kunnen in de Overeenkomst afspraken maken over de instelling van een 
+begeleidingscommissie of stuurgroep. Daarbij kunnen ook de taken en bevoegdheden, en de 
+samenstelling van de begeleidingscommissie of stuurgroep worden vastgelegd.    
+ 
+Artikel 10 Status van mededelingen, toezeggingen of afspraken 
+ 
+Mededelingen, toezeggingen of afspraken die van belang zijn voor de uitvoering van de 
+Overeenkomst binden Partijen alleen als deze schriftelijk of per e-mail door een daartoe 
+bevoegde persoon zijn gedaan of bevestigd. Onder ‘e-mail’ wordt verstaan elektronische 
+communicatie: 
+a. die raadpleegbaar is door de geadresseerde, 
+Pagina 4 van 12 
+ 
+b. waarvan de authenticiteit in voldoende mate is gewaarborgd, en 
+c. waarbij de identiteit van degene die de mededeling doet met voldoende zekerheid kan 
+worden vastgesteld.  
+In geval van afspraken moet bovendien het moment van het tot stand komen van de 
+afspraak met voldoende zekerheid kunnen worden vastgesteld. 
+ 
+Artikel 11 Geheimhouding 
+ 
+11.1 Partijen maken dat wat hen bij de uitvoering van de Overeenkomst ter kennis komt, 
+en waarvan zij het vertrouwelijke karakter kennen of redelijkerwijs kunnen 
+vermoeden, niet verder bekend, tenzij de wet, een toezichthouder met een wettelijke 
+taak of een uitspraak van de rechter verplicht tot het bekendmaken daarvan. Met een 
+uitspraak van de rechter wordt in dit verband gelijk gesteld een uitspraak van een 
+instantie die op grond van artikel 32.1 bevoegd is om het geschil te beslechten als 
+Partijen een andere vorm van geschillenbeslechting zijn overeengekomen.  
+11.2  Partijen verplichten hun Personeel om de in lid 1 opgenomen 
+geheimhoudingsverplichting na te komen. 
+11.3 Opdrachtnemer verleent op verzoek van Opdrachtgever medewerking aan het 
+uitoefenen van toezicht door of namens Opdrachtgever op de bewaring en het gebruik 
+van vertrouwelijke informatie door Opdrachtnemer. 
+11.4 Opdrachtnemer mag de resultaten van de Diensten in geen enkele vorm aan derden 
+beschikbaar stellen, en hierover aan derden ook geen mededelingen doen, tenzij 
+Opdrachtgever hiervoor voorafgaand uitdrukkelijk schriftelijk of per e-mail 
+toestemming heeft verleend. Opdrachtgever kan aan deze toestemming voorwaarden 
+verbinden. 
+11.5 Nadat de Overeenkomst is geëindigd stelt Opdrachtnemer gegevens die 
+Opdrachtnemer in het kader van de uitvoering van de Overeenkomst onder zich heeft 
+op eerste verzoek van Opdrachtgever zo spoedig mogelijk aan Opdrachtgever ter 
+beschikking. Dat geldt niet voor gegevens die Opdrachtnemer op grond van wet- of 
+regelgeving of de op Opdrachtnemer toepasselijke en algemeen aanvaarde 
+beroepsregels onder zich moet houden. 
+11.6 Opdrachtgever kan in de Overeenkomst een boete stellen op het schenden van de 
+geheimhoudingsverplichting. De boete is onmiddellijk opeisbaar. Opdrachtgever heeft 
+naast de boete recht op vergoeding van de schade die het gevolg is van de schending. 
+ 
+Artikel 12 Verwerking gegevens 
+ 
+12.1 Onverminderd het bepaalde in dit artikel, gebruikt Opdrachtnemer de door 
+Opdrachtgever verstrekte, en de op basis daarvan in opdracht van Opdrachtgever 
+gegenereerde gegevens alleen voor het uitvoeren van de Diensten en voor zover dit 
+gebruik noodzakelijk en proportioneel is voor deze Diensten, tenzij er sprake is van 
+andersluidende wettelijke voorschriften. 
+12.2 Als Opdrachtnemer in het kader van de uitvoering van de Overeenkomst 
+persoonsgegevens verwerkt ten behoeve van Opdrachtgever houdt Opdrachtnemer 
+zich aan de geldende wet- en regelgeving op het terrein van het beschermen van 
+persoonsgegevens. Opdrachtnemer verwerkt persoonsgegevens alleen in opdracht en 
+op basis van schriftelijke instructies van Opdrachtgever, tenzij er sprake is van 
+andersluidende wettelijke voorschriften. 
+Pagina 5 van 12 
+ 
+12.3 Partijen regelen de verwerking van persoonsgegevens door Opdrachtnemer ten 
+behoeve van Opdrachtgever bij overeenkomst. 
+12.4 Partijen betrekken elkaar tijdig bij het voeren van verweer tegen aanspraken van 
+derden in verband met de verwerking van persoonsgegevens in het kader van de 
+uitvoering van de Overeenkomst. 
+ 
+Artikel 13 Beveiliging 
+ 
+13.1 Als de Diensten op de locatie van Opdrachtgever worden uitgevoerd, draagt 
+Opdrachtnemer diens Personeel op de door Opdrachtgever aangegeven 
+beveiligingsprocedures en huisregels in acht te nemen. Opdrachtgever informeert 
+Opdrachtnemer tijdig over deze procedures en regels. 
+13.2 Als Opdrachtgever daarom verzoekt, zal Opdrachtnemer uiterlijk drie Werkdagen voor 
+aanvang van de Diensten bij Opdrachtgever verklaringen omtrent het gedrag van het 
+Personeel van Opdrachtnemer verstrekken. 
+13.3 Opdrachtgever kan Personeel van Opdrachtnemer onderwerpen aan een 
+veiligheidsonderzoek volgens de bij Opdrachtgever gebruikelijke regels. 
+Opdrachtnemer verleent volledige medewerking aan dit onderzoek. Opdrachtgever kan 
+op grond van de uitkomsten van een dergelijk veiligheidsonderzoek of bij weigering 
+van Personeel van Opdrachtnemer om aan een dergelijk veiligheidsonderzoek mee te 
+werken, de inzet van de betrokken persoon bij de uitvoering van de Overeenkomst 
+weigeren. 
+ 
+Artikel 14 Vergoeding, Meerwerk en minderwerk 
+ 
+14.1 Opdrachtgever vergoedt aan Opdrachtnemer de werkelijk door Opdrachtnemer 
+gemaakte kosten en uren, tenzij Partijen in de Overeenkomst een vaste prijs zijn 
+overeengekomen. In dat laatste geval betaalt Opdrachtgever deze vaste prijs. 
+14.2 Meerwerk wordt zo spoedig mogelijk aan Opdrachtgever gemeld en komt pas voor 
+vergoeding in aanmerking nadat Opdrachtgever hiermee schriftelijk of per e-mail heeft 
+ingestemd. Onder Meerwerk vallen niet werkzaamheden die niet in de Overeenkomst 
+zijn opgenomen die Opdrachtnemer bij het sluiten van de Overeenkomst had moeten 
+voorzien.  
+14.3 Opdrachtnemer kan door Opdrachtgever gewenst Meerwerk tot 10% van de 
+oorspronkelijke opdracht niet weigeren. Opdrachtnemer brengt voor het Meerwerk 
+schriftelijk of per e-mail een offerte uit waarin de omvang van het verwachte 
+Meerwerk en de daaraan verbonden tijdsduur en kosten zijn vermeld. Op het door 
+Opdrachtnemer te verrichten Meerwerk zijn de bepalingen van de Overeenkomst, 
+waaronder de tarieven en eventuele kortingen, van toepassing, tenzij Partijen daar 
+andere afspraken over maken.  
+14.4 Als een Partij van mening is dat er sprake is van minderwerk, meldt deze Partij dat zo 
+spoedig mogelijk aan de andere Partij. Partijen stellen vervolgens gezamenlijk 
+schriftelijk of per e-mail vast welke werkzaamheden niet worden uitgevoerd door 
+Opdrachtnemer en welke gevolgen dat heeft voor de overeengekomen vergoeding.  
+ 
+Artikel 15 Facturering 
+ 
+15.1 Opdrachtnemer factureert alleen elektronisch met een e-factuur op de in de 
+Overeenkomst voorgeschreven wijze en met inachtneming van de door Opdrachtgever 
+Pagina 6 van 12 
+ 
+gegeven specificaties, zodat deze door Opdrachtgever elektronisch kan worden 
+ontvangen en verwerkt. 
+15.2 Een factuur die niet aan alle eisen voldoet of niet alle relevante informatie bevat, hoeft 
+door Opdrachtgever niet te worden betaald. De betalingstermijn bedoeld in artikel 16 
+begint in dat geval dan ook niet te lopen. Opdrachtgever vraagt aan Opdrachtnemer 
+een nieuwe factuur die wel voldoet aan de eisen en wel alle relevante informatie bevat. 
+15.3 Als is overeengekomen dat betaling op basis van nacalculatie plaatsvindt, vermeldt 
+Opdrachtnemer in de factuur het aantal en de datums van de werkelijk bestede 
+kalenderdagen of uren. Opdrachtnemer geeft daarbij een korte omschrijving van de 
+verrichte werkzaamheden en van eventuele reis- en verblijfkosten voor zover die op 
+basis van de Overeenkomst in rekening mogen worden gebracht.  
+15.4 Opdrachtnemer factureert Meerwerk apart. De factuur moet voldoen aan het bepaalde 
+in de Overeenkomst. 
+ 
+Artikel 16 Betaling en controle 
+ 
+16.1 Opdrachtgever betaalt de factuur binnen 30 kalenderdagen na de dag van ontvangst 
+ervan, mits de Diensten en de factuur voldoen aan de Overeenkomst.  
+16.2 Als Opdrachtgever een factuur zonder geldige reden niet binnen 30 kalenderdagen na 
+ontvangst heeft voldaan, is Opdrachtgever van rechtswege verschuldigd:  
+a.  een kostenvergoeding als bedoeld in artikel 6:96 lid 4 van het Burgerlijk 
+Wetboek en 
+b.  de wettelijke rente als bedoeld in artikel 6:119b lid 1 van het Burgerlijk 
+Wetboek.  
+Opdrachtnemer factureert de kosten- en rentevergoeding apart. 
+16.3 Opdrachtgever kan de juistheid en volledigheid van een factuur laten controleren door 
+een door Opdrachtgever aan te wijzen accountant als bedoeld in artikel 2:393 lid 1 van 
+het Burgerlijk Wetboek. Opdrachtnemer geeft de betrokken accountant inzage in 
+boeken en bescheiden en verstrekt de accountant alle gegevens en informatie die de 
+accountant verlangt. De controle is vertrouwelijk en gaat niet verder dan voor het 
+controleren van de factuur is vereist. Opdrachtgever draagt de kosten van het 
+accountantsonderzoek, tenzij uit het onderzoek van de accountant blijkt dat de factuur 
+niet juist of onvolledig is. In dat geval vergoedt Opdrachtnemer de kosten van de 
+accountant. 
+16.4 Opdrachtgever kan de betaling van een factuur of een deel daarvan waarover tussen 
+Partijen geen overeenstemming bestaat opschorten zolang het accountantsonderzoek 
+loopt. Opdrachtgever doet dit alleen als bij Opdrachtgever redelijke twijfel bestaat over 
+de juistheid of volledigheid van de desbetreffende factuur. 
+16.5 In geval van: 
+a. overschrijding van een betalingstermijn door Opdrachtgever, of   
+b. (gedeeltelijke) niet-betaling door Opdrachtgever van een factuur omdat deze 
+van mening is dat de factuur onjuist of onvolledig is of de Diensten niet voldoen 
+aan de Overeenkomst,  
+schort Opdrachtnemer de werkzaamheden niet op en beëindigt deze de Overeenkomst 
+niet.  
+ 
+Artikel 17 Voorschot 
+ 
+17.1 Als Opdrachtgever voor het uitvoeren van de Diensten een voorschot betaalt voor 
+Pagina 7 van 12 
+ 
+Diensten die nog niet zijn geleverd, kan Opdrachtgever verlangen dat Opdrachtnemer 
+voorafgaand aan die betaling(en) een kredietinstellingsgarantie op afroep aan 
+Opdrachtgever laat afgeven ter waarde van het voorschot. De kosten van de garantie 
+komen voor rekening van Opdrachtnemer.  
+17.2 De kredietinstellingsgarantie op afroep wordt in overeenstemming met de Regeling 
+financieel beheer van het Rijk afgegeven met gebruikmaking van het bij de 
+Overeenkomst gevoegde model. Na het uitvoeren van de Diensten ontvangt 
+Opdrachtnemer het document waarin de garantie is vastgelegd terug. 
+ 
+Artikel 18 Dreigende vertraging 
+ 
+18.1 Als er vertraging dreigt in het uitvoeren van de Diensten meldt Opdrachtnemer dat 
+onmiddellijk aan Opdrachtgever en vermeldt daarbij de oorzaak en de consequenties 
+daarvan. Opdrachtnemer neemt daarnaast maatregelen om (verdere) vertraging te 
+voorkomen.  
+18.2 Opdrachtgever laat Opdrachtnemer zo snel mogelijk na ontvangst van de in lid 1 
+bedoelde melding weten of Opdrachtgever instemt met de voorgestelde maatregelen 
+en de genoemde gevolgen. Als Opdrachtgever instemt houdt dat niet in dat 
+Opdrachtgever de oorzaak van de dreigende vertraging erkent en doet dat niet af aan 
+rechten of vorderingen die Opdrachtgever op grond van de Overeenkomst en wet- en 
+regelgeving toekomen. 
+ 
+Artikel 19 Aansprakelijkheid  
+ 
+19.1 Als een Partij tekortschiet in de nakoming van diens verplichting(en) uit de 
+Overeenkomst, kan de andere Partij deze nalatige Partij schriftelijk of per e-mail in 
+gebreke stellen. Een ingebrekestelling is niet nodig als de nalatige Partij al op een 
+andere wettelijke grond in verzuim verkeert. In de ingebrekestelling wordt een 
+redelijke termijn vermeld waarbinnen de nalatige Partij alsnog de verplichtingen moet 
+nakomen. Dit is een fatale termijn. Dat betekent dat als de nalatige Partij niet alsnog 
+binnen deze termijn nakomt, deze Partij direct in verzuim is.  
+19.2 Tenzij Partijen anders zijn overeengekomen, is de Partij die toerekenbaar tekortschiet 
+in de nakoming van diens verplichtingen tegenover de andere Partij aansprakelijk voor 
+de door de andere Partij geleden en te lijden schade, waarbij de aansprakelijkheid is 
+beperkt tot maximaal vier maal de hoogte van de opdrachtwaarde per gebeurtenis en 
+zes maal de hoogte van de opdrachtwaarde per contractjaar of gedeelte van een jaar 
+dat de Overeenkomst van kracht is, tot een maximum van € 3.000.000,- per 
+gebeurtenis en € 5.000.000,- per contractjaar of gedeelte van een jaar dat de 
+Overeenkomst van kracht is.  
+ Samenhangende gebeurtenissen worden daarbij aangemerkt als één gebeurtenis. 
+19.3 De in lid 2 opgenomen beperking van de aansprakelijkheid komt te vervallen: 
+a. in geval van aanspraken op schadevergoeding als gevolg van dood of letsel;   
+b. als sprake is van opzet of grove schuld aan de zijde van de Partij die tekortschiet 
+of aan de zijde van diens Personeel;   
+c. in geval van schending van intellectuele eigendomsrechten als bedoeld in artikel 
+23; 
+d. in geval van aanspraken op schadevergoeding als gevolg van schending van 
+wet- en regelgeving op het terrein van de bescherming van persoonsgegevens of 
+handelen in strijd met de rechtmatige instructies van de 
+Pagina 8 van 12 
+ 
+verwerkingsverantwoordelijke. Onder schade wordt mede begrepen een door de 
+toezichthoudende autoriteit opgelegde boete. 
+19.4 Als Opdrachtnemer voor het uitvoeren van de Diensten gebruik maakt van zaken als 
+bedoeld in artikel 5 die eigendom zijn van Opdrachtgever, is Opdrachtnemer 
+aansprakelijk voor schade die aan deze zaken ontstaat tijdens de gebruiksduur. Het 
+bepaalde in lid 2 en 3 is van overeenkomstige toepassing.  
+19.5 Als Opdrachtnemer of derden schade lijden als gevolg van het gebruik van zaken van 
+Opdrachtgever als bedoeld in artikel 5, is deze schade geheel voor rekening en risico 
+van Opdrachtnemer.  
+19.6 Alle verplichtingen met betrekking tot het Personeel van Opdrachtnemer, ook die 
+krachtens de belasting- en sociale verzekeringswetgeving, komen ten laste van 
+Opdrachtnemer. Opdrachtnemer vrijwaart Opdrachtgever tegen elke aansprakelijkheid 
+in dit verband. De aansprakelijkheidsbeperking zoals genoemd in lid 2 is niet van 
+toepassing. 
+ 
+Artikel 20 Overmacht 
+ 
+20.1 Een tekortkoming in de nakoming van de Overeenkomst die niet te wijten is aan 
+schuld van een Partij en ook niet krachtens de wet, een rechtshandeling of in het 
+maatschappelijk rechtsverkeer geldende opvatting voor rekening van die Partij komt 
+levert overmacht op. 
+20.2 Onder overmacht aan de zijde van Opdrachtnemer wordt in ieder geval niet verstaan: 
+gebrek aan personeel, stakingen, ziekte van Personeel, verlate aanlevering of 
+ongeschiktheid van voor het uitvoeren van de Diensten benodigde goederen, 
+liquiditeits- of solvabiliteitsproblemen aan de zijde van Opdrachtnemer of 
+tekortschieten van het Personeel van Opdrachtnemer. 
+20.3 Als Opdrachtnemer in verband met de overmachtsituatie aanspraak kan maken op 
+enig voordeel dat Opdrachtnemer bij behoorlijke nakoming niet zou hebben gehad, 
+vergoedt Opdrachtnemer de schade die Opdrachtgever als gevolg van die 
+tekortkoming lijdt tot maximaal de waarde van dat voordeel. Het bepaalde in artikel 
+19 lid 2 is daarbij van toepassing. 
+ 
+Artikel 21 Ontbinding en opzegging  
+ 
+21.1 Elke Partij kan in geval van een tekortkoming aan de zijde van de andere Partij de 
+Overeenkomst buiten rechte geheel of gedeeltelijk schriftelijk of per e-mail ontbinden, 
+tenzij de tekortkoming, gezien haar bijzondere aard of geringe betekenis, deze 
+ontbinding met haar gevolgen niet rechtvaardigt. Voor zover nakoming niet blijvend of 
+tijdelijk onmogelijk is, kan pas worden ontbonden wanneer de schuldenaar in verzuim 
+is.  
+21.2 In geval van overmacht aan de zijde van een van de Partijen als bedoeld in artikel 20, 
+gaat de andere Partij niet eerder tot ontbinding over dan na het verstrijken van een 
+termijn van 15 Werkdagen gerekend vanaf de datum waarop de omstandigheid die de 
+overmacht oplevert ontstond. 
+21.3 Opdrachtgever kan zonder voorafgaande aanmaning of ingebrekestelling met 
+onmiddellijke ingang buiten rechte de Overeenkomst schriftelijk of per e-mail ont-
+binden, als: 
+a. Opdrachtnemer (voorlopige) surseance van betaling aanvraagt of 
+Opdrachtnemer (voorlopige) surseance van betaling wordt verleend, 
+Pagina 9 van 12 
+ 
+b. Opdrachtnemer faillissement aanvraagt of in staat van faillissement wordt 
+verklaard, 
+c. de onderneming van Opdrachtnemer wordt ontbonden, Opdrachtnemer diens 
+onderneming staakt, of sprake is van een ingrijpende wijziging in de 
+zeggenschap over de activiteiten van de onderneming van Opdrachtnemer, 
+waaronder een fusie of splitsing, 
+d. op een aanmerkelijk deel van het vermogen van Opdrachtnemer beslag wordt 
+gelegd, of 
+e. Opdrachtnemer door andere omstandigheden niet langer in staat wordt geacht 
+de verplichtingen uit de Overeenkomst na te kunnen komen.  
+  Opdrachtgever hoeft in al die gevallen geen schadevergoeding te betalen. Deze 
+bevoegdheid geldt ook als zich gedurende de looptijd van de Overeenkomst verplichte 
+uitsluitingsgronden voordoen als bedoeld in de aanbestedingswet- en regelgeving. Dit 
+geldt ook als er facultatieve uitsluitingsgronden in de aanbestedingsstukken van 
+toepassing zijn verklaard. 
+21.4 Opdrachtgever kan op elk moment tijdens de looptijd de Overeenkomst schriftelijk of 
+per e-mail opzeggen, eventueel met onmiddellijke ingang. Opdrachtnemer heeft in dat 
+geval recht op vergoeding van de al verrichte werkzaamheden en de in redelijkheid 
+gemaakte kosten. Daarnaast heeft Opdrachtnemer recht op vergoeding van de 
+toekomstige verplichtingen die Opdrachtnemer voor het uitvoeren van de Diensten in 
+redelijkheid is aangegaan. Opdrachtnemer heeft geen recht op schadevergoeding 
+(waaronder gederfde winst) in verband met de opzegging van de Overeenkomst. 
+ 
+Artikel 22 Behoud recht nakoming te vorderen 
+ 
+Als een Partij nalaat om binnen een in de Overeenkomst genoemde termijn nakoming van 
+een bepaling te verlangen, houdt deze Partij het recht om alsnog nakoming te verlangen, 
+tenzij deze Partij uitdrukkelijk schriftelijk of per e-mail met de niet-nakoming heeft 
+ingestemd. 
+ 
+Artikel 23 Intellectuele eigendomsrechten 
+ 
+23.1 Tenzij Partijen daarover andere afspraken maken komen alle auteursrechten en 
+databankrechten op de resultaten van de Diensten toe aan Opdrachtgever. 
+Opdrachtnemer draagt deze rechten op het moment van het ontstaan daarvan over 
+aan Opdrachtgever, welke overdracht Opdrachtgever bij voorbaat aanvaardt.  
+23.2 Als de resultaten van de Diensten (mede) tot stand komen door gebruik te maken van 
+al bestaande intellectuele eigendomsrechten, verleent Opdrachtnemer aan 
+Opdrachtgever een niet-exclusief, niet-opzegbaar gebruiksrecht voor onbepaalde tijd 
+om onder meer de resultaten van de Diensten openbaar te (laten) maken en te (laten) 
+verveelvoudigen. Opdrachtnemer garandeert in dat geval dat Opdrachtnemer dit 
+gebruiksrecht kan verlenen. 
+23.3 Als voor de overdracht van de in lid 1 bedoelde intellectuele eigendomsrechten op enig 
+moment een nadere akte nodig is, machtigt Opdrachtnemer Opdrachtgever bij 
+voorbaat om zo’n akte op te maken en mede namens Opdrachtnemer te 
+ondertekenen. Opdrachtnemer zal daarbij op eerste verzoek van Opdrachtgever aan 
+de overdracht van deze rechten en inschrijving in de daartoe bestemde registers 
+medewerking verlenen, en kan daarbij geen voorwaarden stellen. 
+23.4 Als Partijen van mening verschillen over de in lid 1 bedoelde intellectuele 
+Pagina 10 van 12 
+ 
+eigendomsrechten wordt, behoudens tegenbewijs, ervan uitgegaan dat die rechten aan 
+Opdrachtgever toekomen. In alle gevallen mag Opdrachtgever het bij de 
+Overeenkomst beoogde gebruik van de resultaten van de Diensten blijven maken. 
+23.5 Opdrachtnemer doet hierbij, mede namens diens Personeel, afstand van alle eventueel 
+aan Opdrachtnemer toekomende persoonlijkheidsrechten als bedoeld in artikel 25 lid 
+1, sub a t/m c Auteurswet, voor zover de Auteurswet afstand toelaat. Opdrachtnemer 
+garandeert Opdrachtgever bevoegd te zijn om deze afstand mede namens diens 
+Personeel te doen. 
+23.6 Opdrachtnemer vrijwaart Opdrachtgever tegen aanspraken van derden in verband met 
+een (gestelde) inbreuk op intellectuele eigendomsrechten van die derden, met inbegrip 
+van persoonlijkheidsrechten als bedoeld in artikel 25 lid 1 van de Auteurswet, 
+vergelijkbare aanspraken met betrekking tot kennis, ongeoorloofde mededinging en 
+dergelijke daaronder begrepen. Opdrachtnemer neemt op eerste verzoek van 
+Opdrachtgever de verdediging op zich in iedere procedure die in verband met de 
+Diensten tegen Opdrachtgever wordt ingesteld wegens inbreuk op de intellectuele 
+eigendomsrechten van een derde. Opdrachtgever zal Opdrachtnemer zo spoedig 
+mogelijk van een dergelijke actie in kennis stellen en aan Opdrachtnemer de 
+noodzakelijke volmachten en hulp verstrekken. Opdrachtnemer vrijwaart 
+Opdrachtgever ook tegen alle schade en kosten waartoe Opdrachtgever in een 
+dergelijke procedure wordt veroordeeld, en tegen de kosten van die procedure zelf, 
+waaronder de kosten die verband houden met het inwinnen van juridisch advies. 
+23.7 Als derden Opdrachtgever in verband met een schending van intellectuele 
+eigendomsrechten aansprakelijk stellen, kan Opdrachtgever de Overeenkomst 
+schriftelijk of per e-mail buiten rechte geheel of gedeeltelijk ontbinden. Dit doet niet af 
+aan de andere rechten die Opdrachtgever heeft, waaronder het recht op 
+schadevergoeding. Opdrachtgever ontbindt de Overeenkomst pas nadat 
+Opdrachtgever hierover overleg heeft gevoerd met Opdrachtnemer. 
+23.8 Als Opdrachtnemer andere intellectuele eigendomsrechten op de resultaten van de 
+Diensten verkrijgt dan die genoemd in lid 1, dan kunnen deze rechten nooit aan 
+Opdrachtgever worden tegengeworpen en verstrekt Opdrachtnemer aan 
+Opdrachtgever kosteloos een niet-exclusief, niet opzegbaar gebruiksrecht voor 
+onbepaalde tijd om onder meer de resultaten van de Diensten openbaar te (laten) 
+maken en te (laten) verveelvoudigen. 
+ 
+Artikel 24 Overdracht rechten en verplichtingen uit de Overeenkomst 
+ 
+24.1 Partijen mogen de uit de Overeenkomst voortvloeiende rechten en verplichtingen niet 
+aan een derde overdragen zonder voorafgaande schriftelijke of per e-mail gegeven 
+toestemming van de andere Partij. Toestemming wordt niet zonder redelijke grond 
+geweigerd. Partijen kunnen aan de toestemming voorwaarden verbinden. 
+24.2 Het eerste lid geldt niet ten aanzien van het vestigen van beperkte rechten, zoals een 
+pandrecht.  
+ 
+Artikel 25 Verzekering 
+ 
+25.1 Opdrachtnemer heeft en houdt zich op een naar verkeersnormen passende en 
+gebruikelijke wijze verzekerd.  
+25.2 Opdrachtnemer verstrekt op verzoek van Opdrachtgever zo spoedig mogelijk een 
+verklaring van de verzekeraar waarin deze verklaart welke verzekeringen zijn 
+Pagina 11 van 12 
+ 
+afgesloten en dat de premies zijn betaald.  
+25.3 De door Opdrachtnemer verschuldigde verzekeringspremies zijn inbegrepen in de 
+overeengekomen prijzen en tarieven. 
+ 
+Artikel 26 Arbeidsvoorwaarden 
+ 
+26.1 Opdrachtnemer houdt zich bij het uitvoeren van de Diensten aan de geldende wet- en 
+regelgeving op het gebied van arbeidsvoorwaarden en aan de collectieve 
+arbeidsovereenkomst (cao) die op Opdrachtnemer en diens werknemers van 
+toepassing is. 
+26.2 Opdrachtnemer legt alle arbeidsvoorwaardelijke afspraken ten behoeve van het 
+uitvoeren van de Diensten op een inzichtelijke en toegankelijke wijze vast. 
+26.3 Als bevoegde instanties daarom verzoeken, geeft Opdrachtnemer zo spoedig mogelijk 
+toegang tot de in lid 2 genoemde arbeidsvoorwaardelijke afspraken en daarnaast 
+werkt Opdrachtnemer mee aan controles, audits of loonvalidatie. 
+26.4 Als Opdrachtgever dit noodzakelijk vindt in verband met het voorkomen van of de 
+behandeling van een loonvordering met betrekking tot verrichte arbeid ten behoeve 
+van het uitvoeren van de Diensten, geeft Opdrachtnemer zo spoedig mogelijk toegang 
+tot de in lid 2 genoemde arbeidsvoorwaardelijke afspraken. 
+26.5 Opdrachtnemer legt de verplichtingen die voortvloeien uit de vorige artikelleden 
+onverkort op aan alle partijen waarmee Opdrachtnemer contracten aangaat ten 
+behoeve van het uitvoeren van de Diensten. Opdrachtnemer bedingt daarnaast dat 
+deze partijen die verplichtingen onverkort opleggen aan alle partijen met wie zij op 
+hun beurt contracten aangaan ten behoeve van het uitvoeren van de Diensten. 
+ 
+Artikel 27 Omkoping en belangenverstrengeling 
+ 
+27.1 Partijen zullen geen schenking, beloning, compensatie of voordeel van welke aard dan 
+ook aan elkaar of derden doen die uitgelegd kan worden als een onwettige praktijk. Als 
+blijkt dat hiervan sprake is, kan de andere Partij de Overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang buiten rechte geheel of gedeeltelijk 
+schriftelijk of per e-mail ontbinden zonder tot enige schadevergoeding te zijn 
+gehouden. 
+27.2 Als blijkt dat een lid van het Personeel van Opdrachtgever een al dan niet betaalde 
+nevenfunctie vervult bij Opdrachtnemer of ten tijde van de aanbesteding of de 
+onderhandelingen over de totstandkoming van de Overeenkomst heeft vervuld, zonder 
+dat Opdrachtgever daarover vóór het sluiten van de Overeenkomst door 
+Opdrachtnemer is ingelicht, kan Opdrachtgever de Overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang buiten rechte geheel of gedeeltelijk 
+schriftelijk of per e-mail ontbinden zonder tot enige schadevergoeding te zijn 
+gehouden. 
+ 
+Artikel 28 Nietige en vernietigde bepalingen 
+ 
+Als één of meer bepalingen van de Voorwaarden of de Overeenkomst nietig blijken te zijn of 
+door de rechter vernietigd worden, behouden de overige bepalingen van de Voorwaarden of 
+de Overeenkomst hun rechtskracht. Partijen zullen over de nietige of vernietigde bepalingen 
+overleg voeren om een vervangende regeling te treffen. De vervangende regeling tast het 
+doel en de strekking van de Voorwaarden of de Overeenkomst niet aan. 
+Pagina 12 van 12 
+ 
+Artikel 29 Vervolgopdracht 
+ 
+Opdrachtnemer kan aan de Overeenkomst geen enkel recht ontlenen voor het verkrijgen van 
+een vervolgopdracht. 
+ 
+Artikel 30 Melding in publicaties of reclame-uitingen 
+ 
+Opdrachtnemer maakt in publicaties (persberichten daaronder begrepen) of reclame-uitingen 
+geen impliciete of expliciete melding van de opdracht(verlening) en gebruikt de naam van 
+Opdrachtgever alleen als referentie met voorafgaande schriftelijke of per e-mail gegeven 
+toestemming van Opdrachtgever. 
+ 
+Artikel 31 Voortdurende bepalingen 
+ 
+Bepalingen die naar hun aard bestemd zijn om voort te duren blijven na afloop van de 
+Overeenkomst van kracht. Dit geldt in ieder geval voor de bepalingen met betrekking tot 
+eisen aan de Diensten (artikel 3), geheimhouding (artikel 11), aansprakelijkheid (artikel 19), 
+intellectuele eigendomsrechten (artikel 23), geschillen en toepasselijk recht (artikel 32). 
+ 
+Artikel 32 Geschillen en toepasselijk recht  
+ 
+32.1 Elk geschil tussen Partijen in verband met de Overeenkomst wordt bij uitsluiting 
+voorgelegd aan de daartoe bevoegde rechter in het arrondissement Den Haag, tenzij 
+Partijen alsnog een andere vorm van geschillenbeslechting overeenkomen. 
+32.2 Op de Overeenkomst is uitsluitend Nederlands recht van toepassing.
+
+=== Document: bijlage 2 nadere toelichting op het programma maatschappelijke diensttijd ===
+Bijlage 2 Nadere toelichting op het programma Maatschappelijke 
+Diensttijd 
+ 
+Introductie maatschappelijke diensttijd 
+In het regeerakkoord 2017 'Vertrouwen in de toekomst'1 tussen de fracties van VVD, CDA, D66 en 
+ChristenUnie is opgenomen om een programma voor maatschappelijke diensttijd op te zetten: 
+ 
+“Om jongeren in staat te stellen een bijdrage te leveren aan onze samenleving wordt de 
+mogelijkheid van een maatschappelijke diensttijd ingevoerd (van maximaal 6 maanden). Deze 
+dienst kan tegen bescheiden vergoeding vrijwillig worden ingevuld door jongeren. Samen met 
+maatschappelijke organisaties, gemeenten en provincies wordt deze maatschappelijke diensttijd 
+opgezet. Maatschappelijke organisaties kunnen ieder jaar bij mede-overheden projecten 
+voorstellen die voor deze diensttijd in aanmerking komen. Belangrijk aandachtspunt hierbij is het 
+zoveel mogelijk ontzorgen van deelnemende organisaties. Voor de maatschappelijke diensttijd is 
+budget beschikbaar dat t/m 2021 oploopt tot 100 miljoen euro per jaar. Het vervullen van de 
+maatschappelijke dienst geeft een diplomasupplement als getuigschrift van maatschappelijke 
+betrokkenheid. Bij een sollicitatie naar een functie bij de overheid geldt het diplomasupplement als 
+een pré. Met het bedrijfsleven worden afspraken gemaakt om hetzelfde te doen. Het kabinet zal 
+bezien hoe een meer verplichtende variant van de maatschappelijke diensttijd een rol kan spelen in 
+de verlengde kwalificatieplicht.” 
+ 
+Het programma is in de regeerperiode van het kabinet Rutte III bij het Ministerie VWS opgezet, 
+met samenwerking van de Ministeries SZW en OCW. Bij de opzet is er vanaf het begin voor 
+gekozen om alle mogelijke stakeholders; jongeren, jongerenorganisaties, scholen, gemeenten en 
+maatschappelijke organisaties nauw te betrekken.  
+ 
+Tevens is ervoor gekozen om via experimenten het programma al lerend op te zetten. 
+Met drie verschillende subsidieronden (uitgevoerd door ZonMw) zijn in 2018 en 2019 proeftuinen 
+voor MDT-projecten opgezet en uitgevoerd. In deze drie proeftuinrondes experimenteren 
+uiteindelijk in totaal 87 projecten met ruim 17.500 deelnemende jongeren met verschillende 
+invullingen van het concept.  
+ 
+In de proeftuinen is geleerd wat wel en wat niet werkt. Deze kennis heeft geleid tot een aantal 
+kaders waaraan nieuwe MDT-aanbieders moeten voldoen in het aanbieden van MDT-trajecten aan 
+jongeren: een jongere (12-30 jaar) zet zich via een MDT-traject van een organisatie minimaal 80 
+uur in maximaal 6 maanden in voor een ander of de maatschappij, ontwikkelt daarbij hun talenten 
+en ontmoet mensen buiten hun “bubbel”. 
+ 
+In begin 2020 wordt op basis van de kaders/werkzame elementen een concept MDT vastgesteld. 
+Ook wordt het doel van MDT nader bepaald. 
+ 
+ 
+Doel van MDT 
+ 
+Het doel van MDT is tweeledig: het versterkt de jongeren én de maatschappij. MDT is gebaseerd 
+op de visie dat een brede, maatschappelijke oriëntatie voor jongeren en jongvolwassenen 
+bijdraagt aan de vorming van betrokken burgers.  
+ 
+MDT gaat in de basis over burgerschap en persoonsvorming. Door MDT bouwen jongeren 
+zelfvertrouwen op, weten ze beter wat ze willen en doen ze belangrijke (studie- en 
+arbeid)vaardigheden op. Op termijn leidt dit tot een sterkere en verbonden samenleving. De 
+missie van MDT is dan ook alle jongeren van 12-30 jaar in Nederland de kans te bieden om 
+gedurende een aantal weken tot maanden in de eigen omgeving een MDT te doen die past bij 
+hun levensfase en interesse. Met hun MDT kunnen zie iets doen voor een ander en/of de 
+samenleving, hun talenten ontwikkelen en mensen te ontmoeten buiten hun leefwereld. Zo 
+kunnen de jongeren bijvoorbeeld sportactiviteiten organiseren, taalles geven aan nieuwkomers 
+ 
+1 Te downloaden op: 
+https://www.rijksoverheid.nl/documenten/publicaties/2017/10/10/regeerakkoord-2017-
+vertrouwen-in-de-toekomst  
+of aan de slag bij een bedrijf of zorginstelling. Meer informatie en lopende projecten zijn te 
+vinden op www.doemeemetmdt.nl.  
+ 
+Vanaf maart 2020 worden er voor het programma meerdere subsidierondes georganiseerd. De 
+belangrijkste lijn daarin zijn de zogenaamde ‘reguliere’ MDT-projecten: projecten die precies 
+voldoen aan de kaders zoals in het programma beschreven van minimaal 80 uur in maximaal 6 
+maanden. In deze subsidierondes staan vooral de groei van het netwerk en het opschalen naar een 
+landelijk dekkend netwerk centraal, om te zorgen dat elke jongere in Nederland een MDT in de 
+buurt heeft die aansluit bij de behoefte en interesse van de jongere. In maart 2020 worden 27 
+projecten in ronde 4a gehonoreerd, eind 2020 worden een additionele 50 projecten gehonoreerd in 
+ronde 4b, gevolgd door 70 projecten in ronde 4c in november 2021 (subsidierondes uitgevoerd 
+door ZonMw).  
+ 
+ 
+Opschaling vanuit regeerakkoord 2021 
+In het regeerakkoord 2021 ‘Omzien naar elkaar, vooruitkijken naar de toekomst’2 zien de 
+regeringspartijen VVD, D66, CDA en CU de waarde van MDT en zetten in op een significante 
+uitbreiding. In het akkoord is ook opgenomen dat MDT overgaat van het Ministerie van VWS naar 
+het Ministerie OCW en dat het budget wordt verdubbeld naar € 200 miljoen per jaar. Daarnaast 
+worden activiteiten opgezet om scholen en gemeenten meer te betrekken bij MDT en jongeren op 
+een laagdrempelige manier kennis te laten maken met MDT. In het akkoord wordt ook gesproken 
+over de maatschappelijke opgaven waaraan MDT moet bijdragen. Als thema’s worden genoemd: 
+ 
+- kansengelijkheid,  
+- inburgering & integratie en  
+- eenzaamheid onder ouderen.  
+ 
+Vanuit het MDT netwerk is gevraagd om ook aandacht te geven aan de thema’s mentale 
+gezondheid en sport & bewegen en tevens om het thema eenzaamheid te verbreden naar 
+jongeren. 
+Vanaf 2022 is gewerkt aan een aanpak op deze thema’s en wordt bijbehorend onderzoek 
+uitgevoerd. 
+ 
+Om de gewenste opschaling te realiseren wordt er vanaf 2022 bij de reguliere subsidierondes 
+samengewerkt met de subsidie-uitvoerder DUS-I, waarmee in november 2022 in subsidieronde 5a 
+(2022) 71 projecten worden gehonoreerd, in november 2023 in ronde 2023 121 projecten en eind 
+2024 in ronde 2024 107 projecten 
+ 
+Door deze subsidierondes groeit het netwerk flink. Samen met de 87 projecten in de eerdere 
+proeftuinen is MDT hiermee gegroeid tot 533 MDT-projecten. Elk project heeft een organisatie die 
+optreedt als penvoerder. Daarnaast is het een vereiste om samenwerking te zoeken in de regio. Dit 
+betekent dat elk project gemiddeld 10 formele partners heeft die onderdeel zijn van de 
+subsidieaanvraag. Hierdoor is elk MDT-project een partnerschap van meerdere organisaties.  
+ 
+Daarnaast is bekend dat vele partnerschappen samenwerken met nog andere ‘informele’ partners 
+die niet formeel onderdeel zijn van de subsidieaanvraag. Al deze partners tezamen werven, 
+begeleiden en faciliteren maatschappelijk activiteiten waarbij deelnemende MDT-jongeren iets doen 
+voor een ander, hun talent ontwikkelen en anderen ontmoeten. Over het jaar 2023 zijn er zo’n 200 
+MDT-partnerschappen actief. Hier zijn ruim 2.000 formele samenwerkingspartners en een veelvoud 
+aan informele partners bij betrokken.  
+ 
+Met elke subsidieronde is MDT gegroeid in het aantal jongeren dat kan deelnemen aan MDT. In de 
+proeftuinrondes vanaf 2018 (met veelal een looptijd van 18 maanden) hebben ruim 17.500 
+jongeren deelgenomen. Vanaf 2020 is via de subsidierondes 4abc en 5a de deelname aan MDT in 
+2023 verder kunnen groeien naar circa 126.000 jongeren.  
+ 
+ 
+2 In te zien op: https://www.rijksoverheid.nl/regering/coalitieakkoord-omzien-naar-elkaar-vooruitkijken-naar-
+de-toekomst.nl   
+ 
+ 
+Vanuit ronde 5a worden in de komende jaren nog circa 70.000 deelnemers verwacht. Met de 
+nieuwe ronde 2023, van waaruit de jongeren vanaf 2024 met trajecten beginnen, worden in de 
+komende jaren circa 105.000 deelnemers verwacht. De looptijd van deze MDT-projecten is over 
+het algemeen 3 jaar. 
+ 
+ 
+MDT 2024 en 2025: afschaffing en doorstart 
+Met de afschaffing van MDT in het regeerakkoord 2024 ‘hoop, lof en trots’ zijn de activiteiten van 
+MDT afschaald. De debatten over de onderwijsbezuinigingen in de Tweede (december 2024) en de 
+Eerste Kamer (maart, april 2025) hebben er echter toe geleid dat de afschaffing van MDT is 
+teruggedraaid tot een bezuiniging van € 70 mln per jaar; van € 200 mln naar € 130 mln per jaar. 
+Dit heeft geleid tot een doorstart van MDT, waarin voor 2025 een subsidieregeling is uitgezet met 
+een plafond van € 125 mln en waarin via een meerjarenplan is gekomen tot een herijking van de 
+ambities voor de komende jaren (2026 t/m 2030). In dit plan zijn de centrale thema’s 
+weerbaarheid, veerkracht, mentale gezondheid en meer sturen op kwaliteit en impact. 
+ 
+ 
+MDT kan inspelen op de actualiteiten en benodigdheden in de maatschappij 
+ 
+Naast de reguliere MDT-projecten heeft MDT door de stevige inbedding in het maatschappelijk veld 
+zicht op behoeften van jongeren. Hierdoor kan het programma inspelen op actualiteiten en 
+benodigdheden in de maatschappij. Als instrument zijn in de afgelopen jaren MDT-kort rondes 
+ingezet. MDT-kort projecten boden de kans voor een kortstondige, laagdrempelige inzet van 
+jongeren of kennismaking met MDT. Voor een MDT-kort project kon een subsidie van maximaal € 
+50.000,- worden aangevraagd. Jongeren besteden in deze projecten minimaal 30 uur en maximaal 
+50 uur aan hun MDT-traject over een periode van maximaal 12 weken. Het hele project heeft een 
+duur van maximaal 16 weken. Naast het inspelen op behoeften en actualiteiten boden de MDT-kort 
+rondes de mogelijkheid voor nieuwe organisaties om laagdrempelig kennis te maken met MDT.  
+Voor MDT om in te spelen op maatschappelijk relevante gebeurtenissen, zijn meerdere specifieke 
+MDT-kortrondes georganiseerd. Zo hebben vanaf het voorjaar van 2020 ruim 10.000 jongeren 
+meegedaan aan twee specifieke coronaprojecten van MDT (Perspectief voor de Jeugd en 
+#ookditisMDT). Nog eens 70.000 jongeren hebben deelgenomen aan het door MDT gefinancierde 
+project Jeugd aan Zet, waaraan een groot deel van de Nederlandse gemeenten heeft deelgenomen. 
+Om jongeren de kans te geven zich in te zetten voor de oorlog in Oekraïne is in het voorjaar van 
+2022 een speciale Oekraïne-ronde (van 19 MDT-kort projecten) gelanceerd waarin circa 1.400 
+jongeren zich hebben ingezet voor vluchtelingen en andere getroffenen van de oorlog in Oekraïne. 
+MDT werkt daarnaast hard om het netwerk van deelnemende organisaties te vergroten en MDT in 
+te bedden bij gemeenten en onderwijsinstellingen. Om gemeenten en onderwijsinstellingen 
+laagdrempelig kennis te laten maken met MDT, is gekozen om speciale kort-rondes te introduceren 
+voor deze instellingen. In het najaar van 2022 zijn daarom twee subsidierondes georganiseerd door 
+ZonMw. Aan MDT-kort voor gemeenten hebben 40 gemeenten aan deelgenomen met een beoogd 
+aantal deelnemers van ruim 3.300 jongeren.  Binnen MDT-kort voor het onderwijs zijn 124 
+projecten uitgevoerd met een beoogd aantal deelnemers van zo’n 12.600 jongeren. Beide rondes 
+worden in 2024 geëvalueerd. Op 13 november 2023 heeft ZonMw nog eens drie MDT-kortrondes 
+geopend voor inschrijving. Met deze subsidies konden en maatschappelijke organisaties, 
+gemeenten of onderwijsinstellingen een aanvraag voor een MDT-kort project indienen.  
+Ook is in 2022 een MDT-ronde ‘Impuls domeinoverstijgend werken en duurzame borging’ voor 
+deelnemende gemeenten aan MDT-ronde 3 (de gemeenteronde ofwel intensieve variant) 
+toegekend waarin wordt geleerd hoe MDT domeinoverstijgend werken kan bevorderen. 
+ 
+ 
+MDT en regionale samenwerkingsverbanden 
+ 
+MDT heeft de ambitie om een passend aanbod voor alle jongeren te bieden, het aanbod van 
+projecten en het aantal deelnemende jongeren te verhogen en MDT duurzaam in te bedden in de 
+regionale context. Hierdoor wordt MDT voor alle jongeren dichtbij beschikbaar. Daarom is in 2023 
+in nauw overleg met het MDT-netwerk een structuur van regionale samenwerkingsverbanden 
+(RSV’s) ontstaan. MDT-organisaties werken onder andere in deze RSV’s aan het landelijk dekkend 
+netwerk van MDT. Het landelijk dekkend netwerk van RSV’s bestaat uit 19 regio's, met elk een 
+regiofacilitator. Binnen de RSV’s bepalen de MDT-organisaties hoe zij samenwerken in een 
+regiostrategie. Daarnaast betrekken de MDT-organisaties binnen het RSV ook partijen die nog niet 
+betrokken zijn bij MDT; van bedrijven en scholen tot maatschappelijke organisaties, gemeenten en 
+fondsen.  
+ 
+MDT Onderzoek 
+Een belangrijk onderdeel van de werkwijze van MDT is de manier waarop MDT continu blijft 
+onderzoeken, leren en doorontwikkelen. Deze manier van werken zorgt ervoor dat MDT kan 
+inspelen op veranderende behoeften en omstandigheden van jongeren, het netwerk en de 
+samenleving. Dit wordt op verschillende manieren vormgegeven.  
+ 
+Het onderzoek neemt een bijzondere rol in binnen MDT. Waar bij de meeste rijksprogramma’s 
+onderzoek op afstand en veelal achteraf evalueert, is bij MDT de keuze gemaakt om onderzoek 
+vanaf het begin mee te laten lopen. Deze vorm van lerend, continu en iteratief evalueren (‘ex 
+durante’) en daarop bijsturen maakt dat onderzoek een vitale rol heeft binnen het programma. 
+ 
+De uitkomsten van het doorlopend monitoringsonderzoek onder jongeren en maatschappelijke 
+organisaties worden gebruikt voor de verantwoording van het programma en voor het verder 
+verbeteren en optimaliseren van het programma. Daarnaast krijgen de organisaties via het 
+monitoringsonderzoek inzicht in de ervaringen van jongeren en kunnen zij met deze input hun 
+projecten verfijnen. Daardoor kunnen ze beter aansluiten bij de interesses en behoeften van 
+jongeren. 
+ 
+Via afzonderlijk effect- en impactonderzoek wordt inzicht gegeven in de effecten en impact van 
+MDT en worden projecten met een lerend impactmanagement-programma door MDT ondersteund 
+bij het in beeld brengen van hun impact. Hierdoor krijgen projecten meer inzicht in de impact die 
+ze maken met hun MDT-project en kunnen ze zich verbeteren. Daarnaast worden er op basis van 
+signalen uit het netwerk of geïdentificeerde uitbreidings- en verbeterkansen onderzoekstrajecten 
+gestart om MDT continu te kunnen verbeteren. 
+De recente rapportage “De impact van MDT” geeft een goed beeld van het in de afgelopen jaren 
+uitgevoerde impactonderzoek3 
+ 
+Tevens worden externe beleidsonderzoeken uitgevoerd waarbij ook de verzamelde gegevens vanuit 
+het impactonderzoek en het monitoringsonderzoek (deels) kunnen worden gebruikt. 
+ 
+Toelichting op de stand van zaken van het MDT impactonderzoek en de vervolgrichtingen. 
+ 
+Hieronder wordt een uiteenzetting gegeven van het MDT impactonderzoek. Eerst wordt het 
+overzichtsrapport ‘De impact van MDT’ besproken. Dit rapport van mei 2025 geeft een overzicht 
+van het impactonderzoek tot en met begin 2025. Daarna wordt ingegaan op het impactonderzoek 
+in 2025 en 2026.  
+Na de toelichting op het huidige impactonderzoek wordt ingegaan op het benodigde 
+vervolgonderzoek. 
+ 
+Overzichtsrapport ‘De impact van MDT’ (stand begin 2025) 
+Gezien de grootte en verscheidenheid van de componenten waar MDT impact op beoogd te 
+bereiken en de verscheidenheid van aanpakken binnen MDT, is het onderzoek binnen MDT continu 
+bezig om de grote vraag over de impact van MDT op te splitsen in kleinere onderdelen. Zoals: wat 
+is de (aannemelijkheid van) impact van MDT op talentontwikkeling, en hoe kan deze impact 
+vergroot worden? Impactonderzoek binnen MDT dient altijd twee doelen: onderzoeken welke 
+impact reeds wordt gemaakt op een specifiek onderdeel (to prove) alsmede handvatten bieden die 
+het lerend vermogen op dat onderdeel ondersteunen en vergroten (to improve). Daarbij zijn 
+werkzame elementen een belangrijk onderdeel van het onderzoek naar de impact van MDT. 
+Werkzame elementen zijn onderdelen van een interventie die eraan bijdragen dat een beoogd 
+effect op de jongeren of de samenleving behaald wordt. Wanneer werkzame elementen goed 
+worden geïmplementeerd bij MDT-projecten – maakt het de impact van MDT op een bepaald 
+gebied aannemelijk. Hiervoor is een voor MDT specifieke werkwijze ontwikkeld.  
+ 
+In het rapport (blz. 7) is de voor MDT ontwikkelde aanpak toegelicht. Bij het verrichten van het 
+impactonderzoek wordt de theory of change (verandertheorie) gebruikt: vanuit een impact-
+ 
+3 Impact Centre Erasmus - Rapportage De Impact van MDT™ 
+doelstelling worden via activiteiten en output, effectenketens opgesteld van waaruit de impact kan 
+worden gemeten. Gewenst wordt om deze theorie en de ontwikkelde aanpak in het 
+vervolgonderzoek voort te zetten.  
+De rapportage geeft inzicht in de impact van MDT. Dit inzicht laat zien dat MDT vooral impact heeft 
+over de as van de drie pijlers (iets doen voor een ander/samenleving, talentontwikkeling/ 
+ontmoetingen) en jongerenparticipatie. Voor de bredere impact op maatschappelijke thema’s en de 
+samenleving als geheel is minder bewijs (stand eind 2024). 
+Belangrijke bevindingen vanuit de conclusies van het rapport (blz. 80 en 81) zijn: 
+Impact binnen MDT is aantoonbaar en een aantal waardevolle korte termijneffecten geven direct 
+bewijs van de effectiviteit van MDT. Aandachtpunt hierbij is het ontbreken van een normatief 
+oordeel op de behaalde resultaten (wat is goed genoeg?). Concrete doelstellingen kan het lerend 
+sturen van MDT op de beoogde impact vergroten. 
+Binnen de pijlers zijn de werkzame elementen deels geborgd. Wanneer werkzame elementen goed 
+zijn geborgd maakt dit aannemelijk dat de beoogde impact van MDT (op lange termijn) wordt 
+bereikt. Hier ligt tegelijkertijd een verbeterpunt: door meer keuzes te maken welke impact wordt 
+beoogd, kunnen MDT-projecten specifieker leren over en ondersteund worden om werkzame 
+elementen te borgen in hun aanpak. Zo kan de aannemelijkheid van de impact van MDT op de 
+lange termijn toenemen. Nu is deze lange termijn impact afhankelijk van toevallige borging binnen 
+projecten, in plaats van een gerichte strategie op beoogde impact.  
+Het is zeer aannemelijk dat MDT bijdraagt aan een sterkere samenleving. Deze impact is vooral 
+indirect: doordat MDT bewezen bijdraagt aan meer maatschappelijk betrokken jongeren, die weten 
+hoe ze kunnen bijdragen, waaraan ze kunnen bijdragen en meer in contact staan met mensen 
+buiten hun bubbel, kunnen deze jongeren hun rol in de samenleving pakken.  
+ 
+Impactonderzoek 2025 en 2026 
+Om meer harde uitspraken te kunnen doen over de behaalde impact van MDT op maatschappelijke 
+vraagstukken zijn voor het impactonderzoek in 2025 en 2026 specifieke outcomes geselecteerd. In 
+2025 zijn 3 impactgebieden met per gebied 2 outcomes onderzocht: 
+A. Weerbaarheid 
+1. Jongere heeft de mentale veerkracht om om te gaan met tegenslagen  
+2. Jongere heeft vergroot zelfvertrouwen  
+B. Activatie naar de toekomst/ arbeidsmarkt  
+3. Jongere heeft vergroot vertrouwen in de toekomst  
+4. Jongeren stappen makkelijker op naar werk of opleiding  
+C. Maatschappelijke Betrokkenheid (/Burgerschap)   
+5. Jongere experimenteert met en leert van vrijwillige inzet op maatschappelijke thema’s  
+6. Jongere is actief op maatschappelijke vraagstukken in hun omgeving  
+De uitkomsten van dit onderzoek hebben laten zien dat MDT bijdraagt aan: 
+Weerbaarheid: sterke aannemelijkheid dat MDT bijdraagt aan het vergroten van weerbaarheid 
+(waaronder zelfvertrouwen) bij jongeren, echter is de bewijskracht niet sterk 
+Activatie naar de toekomst: directe bewijs is sterk, aannemelijkheid is beperkt 
+Maatschappelijke betrokkenheid: directe bewijs en aannemelijkheid sterk. Jongeren zetten zich 
+aantoonbaar vaker in als vrijwilliger of dragen bij aan maatschappelijke thema’s dankzij MDT. 
+In aansluiting op het nieuwe meerjarenplan van MDT zijn in 2026 de volgende 3 impactgebieden 
+met per gebied 2 outcomes onderzocht: 
+A. Sociale verbindingen - Mentale gezondheid & Sociale cohesie  
+3. Jongere is sociaal vaardig in contact met verschillende mensen  
+4. Jongere voelt zich onderdeel van een groep of gemeenschap 
+B. Zingeving - Mentale gezondheid & Sense of purpose  
+3. Jongeren vergroten hun toekomstperspectief  
+4. Jongere voelt zich betekenisvol voor een ander  
+C. Zelfrespect - Mentale gezondheid & Weerbaarheid  
+5. Jongere heeft meer zelfvertrouwen  
+6. Jongere durft vaker zijn/haar mening te uiten en daarvoor op te komen  
+Alle drie deze impactgebieden hebben een expliciete focus op het maatschappelijke vraagstuk 
+mentale gezondheid. Dit is gekoppeld aan 1 van de opgaven in het nieuwe meerjarenplan: 
+veerkrachtige mentaal gezonde jongeren. 
+De uitkomsten van het onderzoek laten zien dat de bewijskracht van de 3 impactgebieden varieert 
+van laag tot gemiddeld en dat er een voorzichtige aannemelijkheid is dat MDT impact heeft op de 
+mentale gezondheid van jongeren. 
+Om het bewijs voor de impact van MDT op mentale gezondheid van jongeren te versterken zijn er 
+een aantal aanbevelingen en concrete stappen uitgezet die focussen op het versterken van het 
+lerend vermogen binnen MDT (is essentieel om interventies continu te verbeteren): 
+- Het sturen op werkzame elementen 
+- Het versterken van een lerend netwerk 
+- Het verzamelen van direct bewijs 
+- Het invoeren van een normering 
+ 
+ 
+Het benodigde vervolgonderzoek vanaf medio 2026 
+ 
+In het vervolgonderzoek worden de onderstaande onderzoekrichtingen onderscheiden: 
+ 
+1) Het vergroten van de bewijskracht op de reeds uitgewerkte impactgebieden. 
+2) Borgen van werkzame elementen en samen met het netwerk leren hoe meer generieke 
+werkzame elementen vorm krijgen binnen MDT. Hierbij tevens de kennisdeling in het MDT 
+netwerk ondersteunen. 
+3) Het geven van workshops t.b.v. het impactgericht werken van het MDT-netwerk en kijken hoe 
+het lerend netwerk verder versterkt kan worden. 
+4) Aanvullend (impact)onderzoek op het niveau van MDT projecten/organisaties en MDT netwerk. 
+Dit dient bij te dragen aan de verduurzamingsopgave van MDT met meer eigenaarschap in het 
+maatschappelijk werkveld. 
+5) In kaart brengen van de kwaliteit van MDT-projecten en MDT-trajecten en van hieruit de 
+kwaliteit versterken. Ondersteunen van de borging van de kwaliteit van organisaties, projecten 
+en trajecten vanuit landelijke kaders en kennisdeling. 
+6) Vanuit een meer systemische blik kan de (mogelijke) rol van MDT als schakel tussen meerdere 
+maatschappelijke regimes/systemen (onderwijs, politiek/democratisch, maatschappelijk/ civil 
+society, veiligheid) onderzocht worden. 
+7) Overig onderzoek; onder meer impact-analyses op de beschikbare data vanuit de jaarlijkse 
+subsidieregelingen van MDT en op verzoek van de diverse stakeholders van MDT (zowel intern 
+als extern) data- en effectanalyses op specifieke onderdelen. Tevens kan er ondersteuning 
+gevraagd worden bij het beantwoorden van ad hoc onderzoeksvragen van bewindspersonen en 
+vanuit de Tweede Kamer. 
+ 
+1) Het vergroten van de bewijskracht op de reeds uitgewerkte impactgebieden 
+ 
+Omdat de meeste effecten en werkzame elementen indirect worden onderbouwd, dient gekeken te 
+worden naar welke bewijzen direct kunnen worden uitgevraagd. Het niveau van bewijs kan worden 
+verhoogd door meer directe en robuuste metingen, onder andere door:  
+A. Het aanpassen van vragen in de vragenlijsten zodat deze een directere afspiegeling vormen van 
+de beoogde effecten.  
+B. het overwegen van aanvullende vragen in de jongerenvragenlijst om effecten te meten die 
+momenteel nog niet of onvoldoende worden meegenomen.  
+C. het inzetten van alternatieve onderzoeksmethoden, zoals interviews en focusgroepen, voor 
+effecten waarvoor op dit moment geen bewijs beschikbaar is.  
+Bij de directe uitvraag is het van belang om vooraf normering in te voeren, zodat resultaten 
+beoordeeld kunnen worden in relatie tot die norm. Pas dan kan worden vastgesteld of een 
+percentage als hoog of laag moet worden geïnterpreteerd. Bijvoorbeeld het resultaat “55% van de 
+jongeren weten beter wat ze kunnen door MDT” kan goed genoeg zijn als de norm 50% is, maar 
+niet goed als de norm op 80% zou liggen. Tot slot kan een selectie van werkzame elementen 
+explicieter in de subsidievereisten worden opgenomen, omdat nu meer dan de helft van de 
+onderbouwde werkzame elementen indirect wordt geborgd. 
+In dit voorjaar is binnen MDT onderzoek een traject gestart om keuzes te maken bij de 6 outcomes 
+ten aanzien van mentale gezondheid en vanuit deze keuzes de onderzoeksactiviteiten hierop in te 
+richten. Dit traject zal nog doorlopen tot in 2027. 
+Daarnaast worden nog 4 aanvullende outcomes onderzocht van waaruit uitspraken gedaan kunnen 
+worden over in hoeverre MDT bijdraagt aan het vergroten van de veerkracht van jongeren. zorgt 
+Hierbij wordt gebruikt gemaakt van de eerdere uitkomsten bij weerbaarheid. In het onderzoek 
+wordt de vraag meegenomen hoe mentaal gezonde/veerkrachtige jongeren bijdragen aan een 
+weerbare samenleving.  
+Met de aanbevelingen vanuit deze onderzoekstrajecten wordt verder gegaan na de zomer van 
+2026. 
+ 
+2) Borgen van werkzame elementen en samen met het netwerk leren hoe meer 
+generieke werkzame elementen vorm krijgen binnen MDT. Hierbij tevens de 
+kennisdeling in het MDT netwerk ondersteunen. 
+ 
+Om het bewijs voor de impact van MDT op mentale gezondheid van jongeren te versterken, zijn er 
+een aantal aanbevelingen en concrete stappen uitgezet die focussen op het versterken van het 
+lerend vermogen binnen MDT. Het sturen op en borgen van werkzame elementen zijn hierin een 
+belangrijke punten. Dit zorgt ervoor dat impactdenken aan de voorkant plaatsvindt, en er 
+gedurende de uitvoering bijgestuurd en geleerd kan worden. Een lerend netwerk is cruciaal om 
+versterking van het effect van MDT op mentale gezondheid te bewerkstelligen en om kennis over 
+de toepassing van werkzame elementen in de praktijk te delen en te verbeteren. Dit lerend 
+netwerk is nu nog onvoldoende aanwezig.  
+In het meerjarenplan van MDT wordt expliciet gerefereerd aan het belang van werkzame 
+elementen, de bestandsdelen binnen MDT-projecten die leiden tot gewenste effecten (zoals 
+zelfvertrouwen, sociale vaardigheden, maatschappelijke inzet). Met de eerdere impactgebieden is 
+hieraan bijgedragen met literatuur, maar deze dienen nog wel naar de praktijk van MDT gebracht 
+en geanalyseerd te worden. Denk aan mogelijke onderzoeksvragen zoals “welke 
+projectcomponenten (bijv. jongerenparticipatie, samenwerking, begeleiding) zijn gekoppeld aan 
+versterking van veerkracht en mentale gezondheid?” of “welke patronen kunnen worden 
+geïdentificeerd waarbij specifieke combinaties van elementen systematisch leiden tot impact op 
+veerkracht en/of mentale gezondheid?”. Niet “MDT werkt”, maar “MDT werkt wanneer X, Y en Z 
+samen optreden”. Etc.  
+ 
+3) Workshops t.b.v. het impactgericht werken van het MDT-netwerk en kijken hoe het 
+lerend netwerk verder versterkt kan worden; in aansluiting bij MDT-impactreis. 
+ 
+De MDT-impactreis4 bestaat uit de volgende 6 stappen: 
+- Activiteiten en outputs in beeld. 
+- Impactdoelstellingen vaststellen 
+- Effecten op de doelgroep en/of de maatschappij 
+- Onderzoeken, leren en verbeteren 
+- Samenwerken op impact 
+- Impact blijven managen 
+In de komende jaren wordt doorgegaan met het ondersteunen van MDT projecten bij het verkrijgen 
+van inzicht in hun eigen impact. Dit inzicht zal worden verkregen middels presentaties en 
+workshops die door Opdrachtnemer zullen worden verzorgd. Hiervoor worden door MDT jaarlijks 
+circa 6 regionale bijeenkomsten georganiseerd in het land. MDT-projecten zullen na deelname aan 
+een workshop, op verzoek, verder worden geholpen met het opstellen van impactkaders middels 
+feedbackrondes die bestaan uit online meetings (groepsgewijs en/of individueel op verzoek) als 
+telefonische vragenrondes. In eerste instantie beantwoord MDT de vragen zelf. Als blijkt dat dit niet 
+genoeg duidelijkheid verschaft aan een MDT-project, kan Opdrachtnemer worden ingeschakeld. De 
+effecten die uit prestentaties/workshops en feedbackrondes voortkomen zorgen voor het inzicht in 
+ 
+4 mdt_impactreis-20260210.pdf 
+de eigen impact van MDT-projecten. Van hieruit zijn projecten steeds beter in staat de eigen impact 
+te versterken hetgeen zich ook vertaalt op het niveau van de MDT outcomes. 
+ 
+4) Aanvullend (impact)onderzoek op het niveau van MDT projecten/organisaties en MDT 
+netwerk. Dit dient bij te dragen aan de verduurzamingsopgave van MDT met meer 
+eigenaarschap in het maatschappelijk werkveld. 
+ 
+Een nog ontbrekend onderdeel bij het impactonderzoek is inzicht in de impact van MDT op de MDT 
+organisaties/projecten die MDT uitvoeren. Onderzoeksvragen hierbij zijn onder andere: wat heeft 
+MDT de projecten/organisatie opgeleverd, hoe ziet het MDT netwerk eruit, inzicht in de 
+samenwerkingen binnen het netwerk en wat heeft de samenwerking opgeleverd.  
+Hierbij is het wenselijk meer zicht te krijgen op de rol van MDT in het maatschappelijk werkveld en 
+hoe MDT maatschappelijke organisaties mogelijk verstevigd.  
+De uitkomsten van de lopende netwerkanalyse bieden een eerste inzicht op het netwerkniveau van 
+MDT. Openstaande vragen zijn: Wat kan geleerd worden van de MDT projecten en welke besluiten 
+worden er vervolgens genomen op basis van leerpunten? Maar ook vragen als “Welke combinaties 
+van partners (school × welzijn × gemeente) leiden tot duurzame samenwerkingen na afloop?”, 
+“Wanneer wordt MDT structureel onderdeel van onderwijs of beleid, en wanneer blijft het 
+projectmatig?”, of “Welke typen maatschappelijke organisaties veranderen hun werkwijze blijvend 
+door MDT?”  
+ 
+5) In kaart brengen van de kwaliteit van MDT-projecten en MDT-trajecten en van hieruit 
+de kwaliteit versterken. Ondersteunen van de borging van de kwaliteit van 
+organisaties, projecten en trajecten vanuit landelijke kaders en kennisdeling. 
+ 
+MDT richt zich op het versterken van jongeren en daarmee op het bouwen aan een krachtigere 
+samenleving. Om dit op een zo effectief en impactvol mogelijke manier te realiseren, is het 
+essentieel dat de kwaliteit van MDT gewaarborgd blijft.  
+In de kwaliteitsvisie van MDT is opgenomen dat naast de drie pijlers MDT nog vier andere 
+kwaliteitselementen kent, die samen de basis vormen van MDT5. Deze elementen komen in elk 
+MDT-project terug. Zo wordt gewaarborgd dat de hoge kwaliteit van MDT geen toevalligheid is, 
+maar een logisch gevolg is van gezamenlijke inspanningen. 
+De MDT-werkwijze kenmerkt zich door experimenteren, reflecteren, leren en doorontwikkelen. Ook 
+hier geldt: binnen het MDT netwerk wordt continu geleerd hoe de kwaliteit van MDT verbeterd kan 
+worden. Vanuit het lerend vermogen wordt gereflecteerd op acties en ervaringen op basis waarvan  
+verbeteracties worden bepaald. Om te blijven leren, halen de MDT-organisaties voortdurend 
+feedback op van alle betrokkenen en deelnemende jongeren. Door te blijven leren en verbeteren, 
+wordt ervoor gezorgd dat MDT steeds beter blijft aansluiten op de behoeften van jongeren en de 
+samenleving. 
+Een belangrijk onderdeel in het vervolgonderzoek is in het kaart brengen van de kwaliteit van MDT 
+projecten en MDT-trajecten en van hieruit de kwaliteit versterken. 
+ 
+6) Vanuit een meer systemische blik kan de (mogelijke) rol van MDT als schakel tussen 
+meerdere maatschappelijke regimes/systemen (onderwijs, politiek/democratisch, 
+maatschappelijk/ civil society, veiligheid) onderzocht worden. 
+ 
+Een potentiële onderzoeksrichting is vanuit een meer systemische kijk op MDT, waarbij MDT wordt 
+onderzocht als een transitie-infrastructuur die nieuwe verbindingen tussen systemen met 
+verschillende logica’s mogelijk maakt (e.g. onderwijssysteem die stuurt op curricula, standaarden, 
+planning, doorstroom; maatschappelijke middenveld die stuurt op relaties, vertrouwen, betekenis; 
+politieke/ democratisch systeem die stuurt op bereik, representativiteit, beleidsimpact, 
+verantwoordingsdata). In deze benadering verschuift impactonderzoek van bewijzen van outcomes 
+naar begrijpen van configuraties en mechanismen (e.g. dus niet “wat doet MDT met jongeren?” 
+maar “hoe verandert MDT relaties, rollen en routines tussen systemen?”).  
+ 
+5 organisaties.doemeemetmdt.nl/kwaliteit 
+Een mogelijk onderzoekstraject hierbinnen is MDT als ‘boundary actor’, waarin MDT feitelijk 
+functioneert als een schakel tussen meerdere maatschappelijke regimes (onderwijs, politiek/ 
+democratisch, maatschappelijk/ civil society). MDT als programma spreekt wel al die “talen”, 
+zonder daarin de eigenheid van MDT te verliezen. 
+  
+7) Overig onderzoek 
+ 
+Dit betreft onder meer impact-analyses op de beschikbare data vanuit de jaarlijkse 
+subsidieregelingen van MDT en op verzoek van de diverse stakeholders van MDT (zowel intern als 
+extern) data- en effectanalyses op specifieke onderdelen. Tevens kan er ondersteuning gevraagd 
+worden bij het beantwoorden van ad hoc onderzoeksvragen van bewindspersonen en vanuit de 
+Tweede Kamer. 
+Overzicht aantallen MDT-projecten en trajecten 
+De onderstaande tabel geeft een overzicht (stand per 31-12-2024) van het aantal projecten per 
+subsidieronde vanaf de start van MDT (bron: blz. 24 MDT onderzoekrapportage 2024). 
+  
+
+In het onderstaande overzicht is het aantal MDT-trajecten vanuit de reguliere 
+subsidierondes opgenomen. Het gaat om beoogde, gestarte en afgeronde trajecten per 
+31-12-2024. 
+Subsidieronde Totaal beoogde 
+trajecten 
+Totaal aantal deelnemers 
+gestart 
+Totaal aantal deelnemers 
+afgerond (tot nu toe) 
+1 12.371 12.222 12.222 
+2 5.697 4.254 4.254 
+3 2.220 1.178 1.178 
+4a 19.756 22.037 18.290 
+4b 23.543 23.082 18.616 
+4c 34.844 34.808 25.556 
+5a 98.835 64.577 46.355 
+2023 104.744 27.236 14.848 
+2024 100.102   
+Totaal 402.112 189.394 141.319 
+ 
+De verwachting is dat vanuit de subsidieronde 2025 circa 80.000 trajecten worden gehonoreerd. 
+Uitgaande van gelijkblijvend jaarlijks subsidieplafond (€ 115 miljoen) is er vanaf 2026 een 
+workflow van circa 80.000 MDT-trajecten per jaar. De verwachting is dat het aantal nieuwe 
+projecten per jaar zal variëren tussen 60-80 per jaar. 
+ 
+Beschikbare data vanuit de vragenlijsten en databases. 
+ 
+Centrale deelnemersregistratie  
+De instroom en uitstroom van jongeren in projecten wordt gemonitord via een centrale 
+deelnemersregistratie. Het doel van deze registratie is tweeledig. Enerzijds bestaat deze 
+gegevensverzameling om het uitvoeren van onderzoek mogelijk te maken. Via de 
+deelnemersregistratie worden jongeren worden uitgenodigd om aan het monitoringsonderzoek deel 
+te nemen. 
+Jongerenvragenlijst  
+De ervaringen van jongeren met hun MDT-traject worden verzameld door middel van een 
+jongerenvragenlijst die bij de start (T0) en bij beëindiging (T1) van het MDT-traject wordt ingevuld. 
+Voor verkorte regeling is er alleen een T1 vragenlijst. 
+Projectleidersvragenlijst  
+Er wordt 1x per kwartaal een projectleidersvragenlijst uitgezet waarin onder andere extra gegevens 
+van groepen van jongeren bij het project worden uitgevraagd. Dit zijn gegevens die niet op 
+persoonsniveau kunnen worden gevraagd en daarom niet in de centrale deelnemersregistratie zijn 
+opgenomen.  
+Vragenlijst na verlening 
+Nadat MDT-projecten vanuit de subsidieregeling zijn gehonoreerd ontvangen deze projecten een 
+lijst met vragen over het project; onder andere over de locatie, de doelgroepen, de 
+hoofddoelstellingen en de maatschappelijke thema’s. 
+Voor alle vragenlijsten zijn mutatieprocessen ingericht. Hierin worden in samenhang met de 
+voorgenomen beleidswijzigingen mogelijke aanpassingen/ verbeteringen besproken, bekeken welke 
+vragen kunnen worden verwijderd en kunnen worden toegevoegd. Nieuwe vragen voor de 
+jongerenvragenlijst worden getest door jongeren.  
+De onderzoekpartners voor effect- en impactonderzoek worden betrokken bij de mutatieprocessen 
+De bovenstaande vragenlijsten zijn bij de achtergrondinformatie opgenomen. 
+ 
+Projecten database  
+- De databases bevatten gegevens vanuit ZonMw en DUS-I (gegevens uit het 
+honoreringsdocument en gegevens over het bestede budget), projectleidersvragenlijst, 
+vragenlijst na verlening en geaggregeerde/geanonimiseerde gegevens uit de centrale 
+registratie en jongerenvragenlijst. 
+- Elk kwartaal worden de gegevens in de databases geactualiseerd  
+- De databases zijn via beveiligde omgeving en toegangsinstructies ontsloten voor de 
+opdrachtgever en andere onderzoekpartners. 
+- Voor de individuele projecten zijn er dashboards (incl. beschrijvingen en toelichtingen) met 
+gegevens van de desbetreffende projecten.
+
+=== Document: bijlage a.4 -basisafspraken beveiliging bij effect- en impactonderzoek mdt ===
+Bijlage A.4 - Basisafspraken Informatiebeveiliging voor Effect- en impactonderzoek MDT 2 
+  
+Basisafspraken Informatiebeveiliging voor 
+Onderzoeksopdrachten 
+Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) 
+ 
+ 
+1. Inleiding 
+1.1 Dit document bevat de minimale informatiebeveiligingsvereisten die gelden voor 
+onderzoeksbureaus die in opdracht van het Ministerie van OCW werken. Op basis van een 
+risicoafweging per onderzoeksopdracht kunnen voorafgaand aan de opdrachtuitvoering 
+aanvullende beveiligingsmaatregelen worden bepaald die passend zijn bij de bijzondere 
+aard van de onderzochte informatie of de te onderzoeken doelgroep en gevoeligheid van 
+het onderzoek. 
+ 
+2. Algemene Beveiligingseisen 
+2.1 De opdrachtnemer dient te voldoen aan maatregelen uit de Baseline Informatiebeveiliging 
+Overheid (BIO) of maatregelen die hieraan gelijk zijn gesteld, en aan relevante wet- en 
+regelgeving. 
+2.2 Onderzoeksdata dient in overleg met opdrachtgever conform de BIO te worden 
+geclassificeerd en beschermd. 
+ 
+3. Technische Beveiligingsmaatregelen 
+3.1.  De opdrachtnemer dient passende technische beveiligingsmaatregelen op alle betrokken 
+devices, netwerk- en servercomponenten te implementeren, waaronder: 
+• Versleuteling van onderzoeksgegevens bij opslag en transport. 
+• Toegangsbeheer met sterke multi-factor authenticatie. 
+• Functiescheiding op basis van ‘need to know’. 
+• Logging en monitoring van toegang tot onderzoeksdata. 
+• Tijdige implementatie van beveiligingsupdates en patches. 
+ 
+4. Organisatorische Beveiligingsmaatregelen 
+4.1 Medewerkers die toegang hebben tot onderzoeksdata dienen een 
+geheimhoudingsverklaring (NDA) te ondertekenen en/of in het bezit te zijn van een recent 
+Verklaring Omtrent Gedrag (VOG). 
+4.2  Er dienen duidelijke richtlijnen en gedragsregels te zijn voor het gebruik van privé-
+apparaten (BYOD) en thuiswerken. 
+4.3 De opdrachtnemer dient een exit-strategie te hebben voor veilige overdracht of vernietiging 
+van onderzoeksdata bij beëindiging van de overeenkomst. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Bijlage A.4 - Basisafspraken Informatiebeveiliging voor Effect- en impactonderzoek MDT 2 
+5. Compliance en Verantwoording 
+5.1 De opdrachtnemer dient jaarlijks een in control verklaring (ICV) of certificering (bijv. ISO 
+27001 of een Third Party Memorandum) te overleggen over de informatiebeveiliging*. 
+5.2 Beveiligingsincidenten met mogelijke impact op onderzoeksdata dienen direct te worden 
+gemeld aan OCW en de opdrachtnemer dient medewerking te verlenen bij onderzoek naar 
+de oorzaak en gevolgen. 
+5.3 OCW behoudt het recht om audits uit te voeren op de informatiebeveiliging van de 
+opdrachtnemer en diens ketenpartners. 
+ 
+6. Aanvullende Maatregelen op Basis van Risicoanalyse 
+6.1 Opdrachten met een verhoogd risicoprofiel kunnen aanvullende beveiligingseisen met zich 
+meebrengen, zoals: 
+• Strengere toegangscontroles. 
+• Specifieke eisen ten aanzien van datalokalisatie en cloudgebruik. 
+• Extra eisen rondom beveiliging van fysieke opslagmedia. 
+• Extra eisen rondom toegang en gedrag. 
+ 
+7. Sancties en Beëindiging 
+7.1 Niet-naleving van deze afspraken kan leiden tot ingebrekestelling of verzuim en uiteindelijk 
+tot opschorting of beëindiging van de opdracht. 
+7.2 Eventuele schade als gevolg van niet-nakoming van deze eisen kan worden verhaald op de 
+opdrachtnemer. 
+ 
+8. Slotbepalingen 
+8.1 Dit document vormt de basis voor informatiebeveiliging bij de onderzoeksopdracht en 
+wordt als bijlage toegevoegd aan de dienstovereenkomst. 
+8.2 Indien wijzigingen in wet- en regelgeving dit noodzakelijk maken, kunnen de eisen in dit 
+document worden herzien. 
+ 
+ 
+* Bureaus die niet gecertificeerd zijn kunnen een In Control Verklaring (ICV) overleggen. Een 
+voorbeeld van zo’n ICV is als achtergrondinformatie toegevoegd bij de aanbestedingsdocumenten.
