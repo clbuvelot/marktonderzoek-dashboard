@@ -1,0 +1,2558 @@
+=== Document: annex 3 iob quality criteria for evaluations ===
+IOB evaluation 
+quality criteria
+
+2IOB evaluation quality criteria 
+This document presents the latest version of the evaluation 
+quality criteria IOB uses to monitor and assess the quality of 
+evaluations and their Terms of Reference (ToRs). The criteria 
+are organised around different stages of the evaluation 
+process. Each criterion is explained and briefly illustrated with 
+an example. The intended readers of this document are:
+−  Evaluators;
+−  M&E staff of partners responsible for commissioning, 
+managing and assessing the quality of external evaluations;
+−  MFA Policymakers and NL Embassy staff responsible  
+for commissioning and managing evaluations and for 
+assessing the quality of evaluation reports of projects  
+and programmes.
+In principle, these evaluation quality criteria are applicable 
+to any evaluation that is intended to assess to what extent 
+an intervention has achieved or is achieving its intended 
+objectives (ex-post evaluations and mid-term reviews).  
+The criteria are less applicable to ex-ante evaluations, scenario 
+analysis or feasibility studies. Although most examples 
+presented here come from development cooperation that 
+often uses clear theories of change (ToCs) at the start of an 
+intervention, the criteria are also applicable in other areas 
+of foreign policy, for example in diplomacy, if clear prior 
+theories are lacking and so theory must be constructed at 
+the time of evaluation.
+Introduction
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+3IOB evaluation quality criteria 
+The column on the left and the list on page 5 present  
+a brief list of the 26 evaluation criteria, grouped according 
+to the various stages of the evaluation process. Criteria can 
+be relevant in more than one stage, but for the sake of read-
+ability we have grouped them as follows:
+Criteria 1-9
+These criteria can help in formulating ToR for the evaluation. 
+They refer to the quality control of the evaluation, the
+ 
+description and background of the project or programme, 
+the evaluation’s objective and scope and the evaluation 
+questions. The evaluator should critically reflect on the ToC 
+presented in the ToR (criteria 4 and 5), and may reconstruct 
+this in the inception report. The evaluation’s ToR should 
+have a preliminary methodology, that can be assessed 
+using criteria 10-17 below. 
+Criteria 10-17 
+These criteria can be used for judging a technical proposal 
+and for reviewing and commenting on an inception report. 
+They focus 
+on the methodological quality. The commissioner 
+may request prospective evaluators to propose their metho-
+dology in their tender. The appointed evaluator is then 
+expected to develop the full methodology in the inception 
+report and, if necessary, the evaluation’s proposed metho-
+dology can then be adjusted.
+Criteria 18-24
+These criteria can be used to assess the quality of the draft 
+report under the assumption that the T
+oR and inception 
+report have already been assessed. The criteria focus on 
+the quality of the methodology used and on the conclu-
+sions. At this stage, it is often no longer possible to adjust 
+the implementation of the evaluation, but it remains possible 
+either to augment the analysis or to reformulate conclusions 
+in light of certain methodological limitations. 
+Criteria 25 and 26: these criteria can be used for assessing 
+the final evaluation report, under the assumption that the 
+draft report has already been assessed.
+Criteria 1-26 
+For assessing the overall quality of the final evaluation 
+report and the evaluation process.
+Section 4 explains each evaluation criterion and elaborates 
+on the specific conditions that should be met for the criterion
+ 
+to be scored as good, adequate or inadequate. Examples are 
+drawn from practice.
+Reading guide
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. Validation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. Validation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+4IOB evaluation quality criteria 
+Many of the criteria are interrelated and sometimes one 
+aspect of an evaluation may affect several criteria. For exam-
+ple, if the only source of information is the perception of 
+directly involved stakeholders, the scores for criteria 14  
+and 17 will be negatively affected. 
+It is important to note that the criteria have been developed 
+mainly for assessing individual project evaluations, not for 
+broader policy evaluations. 
+When assessing the overall quality of the final evalu-
+ation report and the evaluation process, IOB recom-
+mends that at least 23 of the 26 evaluation criteria are 
+scored as ‘adequate’ or ‘good’. In addition, there are 
+13 knock-out criteria. If an evaluation scores ‘inade-
+quate’ on one of these 13 criteria, the evaluation as 
+a whole should be regarded as inadequate.  
+The knock-out criteria are: 2, 4, 5, 10, 11, 13, 14, 15, 
+17, 20, 21, 22 and 23. In this document, the knock-out 
+criteria have been asterisked (*).
+Reading guide
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+The list of evaluation criteria
+5IOB evaluation quality criteria 
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+ Quality control
+ 1.  Reference group
+ 2. Independence of evaluators*
+ Description and background
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ Objective and delimitation
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ Questions
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ Methodology
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. T ransparant methodolgy*
+ 21.  Limitations*
+ Results and conclusions
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ Usefulness and readability
+ 25. Usefulness of the recommendations
+ 26. Readability
+6IOB evaluation quality criteria 
+This group generally comprises the commissioner of the evaluation, a representative from the implementing organisation 
+evaluated and members with both thematic and evaluation experience, including at least one independent member.  
+The role of the reference group is to assure evaluation quality and independence. It advises the commissioner on the ToR, 
+the selection of evaluators, the elaborated methodology (inception report) and the draft evaluation report. Comments and 
+advice from the reference group should be seriously considered by the evaluation team. 
+Good This criterion can be scored as good when:
+a. There is a reference group with at least one independent member; AND
+b. The reference group has been asked for advice during the different stages of the evaluation 
+(draft ToR, inception report, draft final report).
+Inadequate This criterion must be scored as inadequate when: 
+a. There is no reference group; OR
+b. None of the members of the reference group are independent and external; OR
+c. The reference group has not been asked for advice in the different stages (ToR, inception 
+report, draft final report).
+Quality control of the evaluation
+1. Reference group
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+Quality control of the evaluation
+7IOB evaluation quality criteria 
+The evaluators and affiliated organisations must not have been involved in the design or implementation of the intervention 
+(project, programme, policy) under evaluation and must have no interest in the evaluation’s outcome.
+Good This criterion may be scored as adequate when:
+a. None of the evaluators have been involved in the design or implementation of the inter-
+vention; AND
+b. None of the evaluators is affiliated with one of the organisations active in the consortium 
+responsible for the design or implementation of the intervention, or has been affiliated with 
+one of the organisations during the implementation of the intervention; AND
+c. None of the evaluators has in the past worked for the Ministry of Foreign Affairs and has 
+been responsible for formulating policy or setting up the programme that has led to the 
+intervention under evaluation; BUT
+d. Programme staff have facilitated contact between external facilitators and beneficiaries and 
+active stakeholders. Programme staff may accompany the external evaluators during field 
+visits. Staff can help in making the necessary introductions, but must not have been present 
+during interviews, nor should they have played an active role in sampling or case selection.
+2. Independence of evaluators*
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2.  Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+2. Independence of evaluators*
+Quality control of the evaluation
+8IOB evaluation quality criteria 
+Inadequate This criterion must be scored as inadequate when:
+a. At least one of the evaluators has been involved in the design or implementation of the 
+intervention; OR
+b. At least one of the evaluators is affiliated with one of the organisations active in the consor-
+tium responsible for the design or implementation of the intervention, or has been affiliated 
+with one of the organisations during the implementation of the intervention; OR
+c. At least one of the evaluators has in the past worked for the Ministry of Foreign Affairs and 
+has been responsible for formulating policy or setting up the programme that has led to the 
+intervention under evaluation; OR
+d. The report does not mention whether or not evaluators were independent.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2.  Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+9IOB evaluation quality criteria 
+This can include the national, sector and political context and explains the rationale of the intervention. Note that the 
+benchmark for assessing progress (i.e. baseline data) need not be quantitative; it may be qualitative.
+Good This criterion can be scored as good when:
+Detailed baseline data are presented on the project result indicators; AND there is a clear context 
+and problem analysis.
+Adequate This criterion may be scored as adequate when:
+a. Baseline data are not presented, but very detailed problem and context analysis has been 
+done, which forms the rationale for the intervention; OR
+b. In the absence of baseline data, there is an explicit strategy to measure progress and to  
+(re)construct the baseline situation.
+Inadequate This criterion must be scored as inadequate when:
+There are no baseline figures on project result indicators; AND there is no problem analysis. 
+Description and background of the intervention
+3. Context of the intervention
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3.  Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+Description and background of the intervention
+10IOB evaluation quality criteria 
+The ToR should preferably include a ToC; if not, they should include an intervention logic, policy strategy, or result chain. 
+The evaluator may need to reconstruct a ToC, using whatever is available in project documentation but he or she must criti-
+cally reflect on the ToC from the evaluator’s point of view and include both this reflection and the ToC in the methodology 
+section of the inception report. In some cases, the reconstruction of a theory is part of the evaluation itself.1
+Good This criterion can be scored as good when:
+a. The specified ToC (or reconstructed ToC), intervention logic, or result chain is meticulously 
+presented and takes account of intermediate steps between activity, output, outcome and 
+impact; AND
+b. Important external factors that can affect results at different levels in the result chain are 
+discussed; AND
+c. All assumptions about the relationships presented are mentioned, and their potential 
+effects at different levels in the result chain are described in detail.
+Adequate This criterion may be scored as adequate when:
+a. The specified ToC (or reconstructed ToC), intervention logic or result chain is presented step 
+by step and distinguishes between activities, outputs and outcomes. The result chain should 
+make sense and should not omit important steps or factors; AND
+b. The most important assumptions about the relationships presented are mentioned  
+(e.g. between output and outcome and between outcome and impact).
+Inadequate This criterion must be scored as inadequate when:
+The specified ToC (or reconstructed ToC), intervention logic or result chain is absent, or directly 
+links the implemented activities to the results at outcome or impact level without distinguishing 
+intermediate results and assumptions.
+1 T he evaluator should be careful not to use the same set of observations for both the reconstruction of a theory and for validating 
+this theory. The evaluator should separate these two phases in the evaluation or ensure there are several iterative phases.
+4. Description of the intervention*
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4.  Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+4. Description of the intervention*
+Description and background of the intervention
+11IOB evaluation quality criteria 
+Example Good: 
+(a) The Netherlands wishes to influence EU decision-making in favour of Dutch interests (impact). In order to do so, 
+the Netherlands strengthens bilateral relationships and forms coalitions with other EU Member States (outcome), 
+which requires improved policy dialogue with the government and societal actors to find common ground and 
+generate joint action directed towards EU partners (outputs). The Dutch embassies in EU Member States are 
+tasked with identifying priority themes on which the Netherlands and the relevant Member State are, or can 
+become, likeminded and could take action as coalition partners (activities). Consequently, the Dutch embassies 
+promote dialogue with the Member State’s governments and societal actors to find common ground and generate 
+joint action directed towards EU partners (activities).  
+(b) External factors include: 
+ − The openness of other Member States about their interests and concerns; 
+ − The willingness of other Member States to form a coalition with the Netherlands;
+ − The reputation of the Netherlands as perceived by EU Member States, e.g. based on earlier consideration by the 
+Netherlands of the other Member States’ interests; 
+ − The perceived likelihood that the Netherlands can support other Member States’ interests in other EU decisions.
+(c) The main assumptions about the external factors are: 
+ − Member States’ perception of the Netherlands is such that they are willing to consider engaging with the  
+Netherlands in coalitions; 
+ − Member States in a coalition with the Netherlands are unlikely to renege on their commitment to the  
+Netherlands after engaging in dialogue with other Member States that the Netherlands is not in dialogue with. 
+ The main assumptions within the result chain are:  
+ − The Netherlands has identified issues interesting to both the Netherlands and its potential coalition partners; 
+ − Policy dialogue does indeed result in coalitions; 
+ − The coalitions are strong enough to influence EU decision-making;
+ − The EU decisions do indeed impact on Dutch economic or other interests).
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4.  Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+4. Description of the intervention*
+Description and background of the intervention
+12IOB evaluation quality criteria 
+Example Adequate: 
+(a) The Netherlands wishes to influence EU decision-making in favour of Dutch interests (impact). In order to do so, 
+the Netherlands strengthens bilateral relationships and forms coalitions with other EU Member States (outcome), 
+which requires improved policy dialogue with the government and societal actors to find common ground and 
+generate joint action directed towards EU partners (outputs). The Dutch embassies in EU Member States are 
+tasked with identifying priority themes on which the Netherlands and the relevant Member State are, or can 
+become, likeminded and could become coalition partners (activities). The embassies therefore promote dialogue 
+with the Member State’s governments and societal actors to find common ground and generate joint action 
+directed towards EU partners (activities).  
+(b) The main assumptions within the result chain are: 
+ − The Netherlands has identified the right issues that are of interest to the Netherlands and to its potential  
+coalition partners; 
+ − Policy dialogue does indeed result in coalitions; 
+ − The coalitions are strong enough to influence EU decision-making.
+Example Inadequate: 
+The Netherlands wishes to influence EU decision-making in favour of Dutch interests (outcomes).  
+Therefore, the Netherlands initiates dialogue with other Member States to find common positions on EU decisions (activities).
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4.  Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+5. V alidation of assumptions*
+Description and background of the intervention
+13IOB evaluation quality criteria 
+If, prior to the evaluation, the commissioner of an evaluation reflects on the ToC (which may be a policy, or project strategy 
+or result chain) and assesses the underpinning assumptions, the commissioner could be guided to relevant evaluation 
+questions for the ToR.
+ 
+Otherwise, when performing the evaluation, the evaluator should not take the project ToC for granted, but should validate 
+the ToC assumptions; these may relate to cause–effect relationships within the result chains, to the context, or to broader 
+world views on development. The evaluator uses the evaluation results and broader literature (or literature reviews) to reflect 
+on the validity of the ToC and adjusts or reconstructs the ToC if necessary.
+Good This criterion can be scored as good when:
+a. ToC assumptions have been tested against high quality literature (preferably systematic 
+reviews) before the evaluation; AND
+b. There is a clear strategy for testing the underlying assumptions as part of the evaluation 
+methodology; AND
+c. In the final evaluation report: assumptions have been tested, using the evaluation results.
+Adequate This criterion may be scored as adequate when:
+a. There is a clear strategy for testing the underlying assumptions as part of the evaluation 
+methodology; AND
+b. In the final evaluation report: assumptions are tested, using the evaluation results and  
+a review of existing evaluations and literature.
+Inadequate This criterion must be scored as inadequate when:
+a. No assumptions are mentioned; OR
+b. No strategy for testing the assumptions has been presented; AND
+c. The project logic or ToC has not undergone critical reflection.
+5. V alidation of assumptions*
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5.  V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+14IOB evaluation quality criteria 
+What the evaluation results will be used for must be clearly stated. There may be several objectives and it helps to distinguish: 
+a. A knowledge objective (knowing whether objectives have been reached, for accountability; knowing what works, 
+knowing how it works, knowledge for learning); this can be translated into questions about knowledge, whose answers 
+will yield conclusions.
+b. An action objective (recommending what to do); this can be translated into policy questions whose answers will yield 
+recommendations. These objectives will also determine when the evaluation results are needed, e.g. for a subsequent 
+programme phase or new policy.
+Good This criterion can be scored as good when:
+The objective of the evaluation is clearly mentioned and it is clear who will use the evaluation 
+results and for what purpose.
+Adequate This criterion may be scored as adequate when: 
+The objective of the evaluation is mentioned, but it remains unclear what the results of the 
+evaluation will be used for (thus, there is no distinction between knowledge objective and 
+action objective).
+Inadequate This criterion must be scored as inadequate when:
+a. The purpose of the evaluation remains unclear; OR
+b. Only an action objective is mentioned; OR
+c. The implicit objective is only to demonstrate the effectiveness, rather than to investigate it.
+Objective and delimitation of the evaluation
+6. Evaluation’s objective
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6.  Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+6. Evaluation’s objective
+Objective and delimitation of the evaluation
+15IOB evaluation quality criteria 
+Example Good:
+ − Knowledge objective: ‘The objective of this evaluation is to determine and explain the effectiveness of programme X 
+after five years of implementation.’
+ − Action objective: ‘Insight into the effectiveness of policy programme X and the underlying reasons for this level 
+of effectiveness should enable policy makers to decide whether or not it should be continued, and if it is continued, 
+what improvements can be made.’
+Example Adequate: 
+‘The objective of this evaluation is to determine the effectiveness of policy programme X after five years of implementation.’ 
+Examples Inadequate:
+ − Unclear: ‘The goal of this evaluation is to ascertain the contributions of policy programme X in a changing 
+environ  ment.’ (Contribution to what? Which changes in environment?)
+ − Only action objective: ‘The objective of this evaluation is to gain input for deciding on the continuation of  
+policy programme X.’
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6.  Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+Objective and delimitation of the evaluation
+16IOB evaluation quality criteria 
+It must be cearly stated what part of the intervention, expenditure, period, or even what part of the ToC is of interest for 
+this evaluation.
+Good This criterion can be scored as good when:
+a. The evaluation period is clearly defined; AND
+b. The geographical focus of the evaluation is clear; AND
+c. If there are various parallel result chains and various result levels, it is clear which result 
+chains are covered in the evaluation and up to what level (e.g. outcome or impact).
+Inadequate This criterion must be scored as inadequate when:
+a. The evaluation period is not clearly defined; OR
+b. The evaluation’s geographical focus remains unclear; OR
+c. If there are various parallel result chains and various result levels, and it remains unclear which 
+result chains are covered in the evaluation and up to which level (e.g. outcome or impact).
+7. Scope of the evaluation
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7.  Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+8. Choice of OECD DAC evaluation criteria
+Evaluation questions
+17IOB evaluation quality criteria 
+It may turn out that given the evaluation objectives and limitations, not all the evaluation criteria (relevance, effectiveness, 
+efficiency, impact sustainability and coherence) are needed. This will be reflected in the evaluation questions. (See OECD 
+DAC evaluation criteria 2019). In addition to the OECD evaluation citeria, there are other cross-cutting issues that the eval-
+uation may want to evaluate: examples include gender, inclusiveness, poverty reduction and climate smartness. If these 
+are included, they should defined in the ToR and translated into appropriate evaluation questions. 
+Good This criterion can be scored as good when:
+A reasoned choice has led to the selection of OECD DAC evaluation criteria and cross-cutting 
+topics that will be used in the evaluation questions. 
+Inadequate This criterion must be scored as inadequate when:
+a. It is unclear which of the OECD DAC evaluation criteria and cross-cutting topics have been 
+used in the evaluation and why; OR 
+b. It is clear that the OECD DAC evaluation criteria have not been used when formulating the 
+evaluation questions; OR
+c. The evaluation criteria and cross-cutting topics are mentioned but this does not result in an 
+organised and structured set of evaluation questions. Often, the evaluation criteria and 
+cross-cutting topics have been mechanically translated into a set of universal evaluation 
+questions but have not been customised for the specific intervention or for the objective of 
+the evaluation.
+Evaluation questions
+8. Choice of OECD DAC evaluation criteria
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8.  OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+9. Evaluation questions
+Evaluation questions
+18IOB evaluation quality criteria 
+The evaluation questions should be clear and follow logically from the intervention under evaluation, the evaluation 
+objective and scope, and the chosen evaluation criteria. Evaluation questions should not be too general or vague,  
+nor should they be too numerous and too detailed, as then the evaluation risks losing focus. The evaluation questions 
+should be realistically ambitious and take account the evaluation’s limitations (time, travel, budget, available information).
+Good This criterion can be scored as good when:
+a. The evaluation questions have a clear focus and are organised in a set that follows logically 
+from the evaluation’s objective, scope and the chosen OECD DAC evaluation criteria; AND
+b. There is little to no overlap in the questions and there are not too many evaluation questions.
+Adequate This criterion may be scored as adequate when: 
+a. There is some focus in the evaluation questions. The questions largely follow logically from 
+the evaluation’s objective, scope and evaluation criteria; AND
+b. There is some overlap between evaluation questions; OR
+c. The evaluation questions go beyond the evaluation objective or scope.
+Inadequate This criterion must be scored as inadequate when:
+a. There is no clear focus in the evaluation questions. The questions do not logically follow 
+from the evaluation’s objective, scope and evaluation criteria; OR
+b. The combined answers of all evaluation questions do not provide sufficient information  
+to answer the main evaluation question; OR
+c. The evaluation questions are not formulated in a testable manner.
+9. Evaluation questions
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9.  Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+9. Evaluation questions
+Evaluation questions
+19IOB evaluation quality criteria 
+Example of good research questions (OECD DAC criterion relevance): 
+‘To what extent were the activities aligned with the needs of the beneficiaries during the implementation of the project? 
+Has the project been able to respond to changing needs as a result of the COVID-19 pandemic?’
+Example of a good research question (OECD DAC criterion relevance): 
+‘To what extent were the activities aligned with the needs of the beneficiaries?’
+Example of an unfocused research question (OECD DAC criterion relevance): 
+‘To what extent was the project relevant?’ 
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9.  Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+20IOB evaluation quality criteria 
+Note that the objective is to assess the evaluation methodology, i.e. the intended methodology described in the inception 
+report, and how it was carried out, as presented in the evaluation report. For example, it must be ascertained whether 
+intentions mentioned in the methodology section or in an inception report have been achieved; this should be done by 
+scrutinising the evaluation’s results and the conclusions it draws.
+10. Research design*
+The research design is clearly elaborated and shows how the research results will contribute to answering the evaluation 
+questions. The design may consist of several quantitative and / or qualitative methods. If more than one method is used, 
+the quality assessment must look at the individual methods and also the combination of methods. 
+a. Quantitative methods include three main research designs: survey, time series and experiment / quasi-experiment  
+(see explanation under criterion 11).
+b. Qualitative methods are usually mainly based on elements of the Case Study approach and the Grounded Theory approach. 
+Methods include many research designs, some of which are more suitable for evaluating effectiveness and are less 
+susceptible to bias (see further explanation under criterion 11). 
+Further explanation and elaboration of more detailed methodological choices are needed for both methods, and are 
+highlighted in the criteria 11-15.
+Evaluation methodology
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+10. Research design*
+Evaluation methodology
+21IOB evaluation quality criteria 
+Good This criterion can be scored as good when: 
+a. The research design has been clearly elaborated by showing what methodology or combi-
+nation of methodologies have been used including a clear explanation of why they have 
+been chosen; AND
+b. The chosen methodologies are appropriate for answering the research question, and it is 
+clearly explained how they do so.
+Adequate This criterion may be scored as adequate when:
+a. The research design mentions the methodologies that are used and provides an adequate 
+explanation; AND 
+b. The chosen methods are appropriate for answering the research question, even though an 
+explanation for why they do so is lacking.
+Inadequate This criterion must be scored as inadequate when:
+a. The research design is not clearly elaborated. Consider the following elements:
+−  Methodologies are mentioned but not/poorly explained;
+−  Only data-gathering techniques are mentioned (i.e. interviews, questionnaires, observations); 
+−  Only information sources are mentioned (i.e. type of respondents, documents); AND/OR 
+b. The chosen methodologies are inappropriate for answering the research question, and/or it 
+is unclear how they contribute to answering the research questions.
+For criteria 11-15, a distinction is made between qualitative and quantitative methods, acknowledging that an evaluation 
+often uses several methods.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+10. Research design*
+Evaluation methodology
+22IOB evaluation quality criteria 
+Example of a research question and appropriate proposed methodology:
+‘How effective has the microfinance programme been, and what explains the level of effectiveness?
+In order to research the effectiveness of a microfinance programme for increasing household income and identify 
+underlying reasons for this level of effectiveness, this research employs a mixed methods design. To determine the 
+influence of microfinance on household income an experimental design will be implemented. This design will consist 
+of before and after measurements in a treatment group and similar control group in order to isolate the effect of the 
+microfinance programme and look for other explanatory factors. To understand how the microfinance programme 
+works, and uncover explanatory mechanisms for the link between microfinance and household income, a case study 
+of the programme will be conducted, looking at various aspects of the programme’s ToC. Together, both methods 
+will provide a complete picture of the effectiveness and underlying reasons for this level of effectiveness.’ 
+Example of a research question and adequate proposed methodology: 
+‘How effective has the microfinance programme been, and what explains the level of effectiveness?
+In order to research the effectiveness of a microfinance programme for increasing household income and identify 
+underlying reasons for this level of effectiveness, this research employs a mixed methods design. To determine the 
+influence of microfinance on household income an experimental design will be implemented. In addition, a case 
+study on the programme will be conducted, looking at various aspects of the programme’s ToC.’
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+10. Research design*
+Evaluation methodology
+23IOB evaluation quality criteria 
+Example of a research question and inadequate methodology: 
+‘How effective has the microfinance programme been, and what explains the level of effectiveness?’
+Lacking methodological explanation:
+‘In this research we will distribute a questionnaire amongst users of the microfinance programme to determine the 
+level of effectiveness of the programme. In addition we will conduct expert interviews and focus group discussions on 
+the programme.’
+Examples of inappropriate design choices:
+ − A single measurement survey to determine effectiveness.
+ − A quantitative approach to uncover the mechanisms responsible for how the programme works.
+ − A case study to determine the level of effectiveness.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+24IOB evaluation quality criteria 
+The methods are appropriate to evaluate effectiveness in terms of attribution and / or contribution (if effectiveness is an 
+evaluation criterion/question).2 A challenge in evaluating effectiveness to establish a causal relationship between the inter-
+vention (a project) and observed changes (outcomes). There will be other factors influencing the observed changes, so what 
+part of these changes can be attributed to the intervention, or what was the contribution of the intervention to the 
+observed changes? 
+a. Qualitative methods can substantiate a claim about the effect that the project has contributed to. All qualitative evaluation 
+methods that can do so (i) formulate the cause–effect contribution question; (ii) reconstruct an intervention theory;  
+(iii) formulate an alternative theory; (iv) collect data for both the intervention theory and alternative theory; (v) validate 
+the theories step by step. 
+A good overview of qualitative evaluation methods is provided by White and Phillips (2012). They made an inventory of 
+eight evaluation methods and distinguish four that are suitable for substantiating claims of effectiveness: 
+1. Realistic Evaluation; 
+2. Contribution Analysis;
+3. Process Tracing;  
+4. General Elimination Methodology. 
+Using these four methods, White and Phillips created a general framework for qualitative evaluation. They also identified 
+four qualitative evaluation methods that are less suitable for substantiating claims of effectiveness: 
+5. Most Significant Change;
+6. Success Case Method;
+7. Outcome Mapping;
+8. Method for Impact Assessment of Programmes and Projects. 
+2 T his corresponds with internal validity: To what extent is there a causal relationship between, for example,  
+outputs and outcomes? ( Vaessen et al., 2020, pp.11-12)
+11. Methods for evaluating effectiveness*
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+25IOB evaluation quality criteria 
+More recently, Outcome Harvesting has gained popularity amongst practitioners and evaluators as a qualitative tool for 
+monitoring and evaluation. IOB explicitly advises against using Outcome Harvesting as an independent, external evalua-
+tion method, because in practice this method is not appropriate to evaluate effectiveness and cannot validly establish the 
+contribution of interventions to observed outcomes. In addition, the method is not in the spirit of several other evaluation 
+quality criteria, specifically regarding the independence of evaluators (criterion 2), sufficient independent sources (criterion 17), 
+triangulation (criterion 18) and avoidance of bias (criterion 19). 
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+26IOB evaluation quality criteria 
+Qualitative methods
+Good This criterion can be scored as good when:
+a. The evaluator has first formulated a causal chain hypothesis before collecting data; AND
+b. The evaluator identifies possible other factors affecting the results (alternative hypotheses), 
+before collecting data; AND
+c. The evaluator validates the causal chain step by step and also checks the effects of other factors.
+Adequate This criterion may be scored as adequate when:
+a. The evaluator has first formulated a causal chain (or used an existing causal chain) as a 
+hypothesis; AND
+b. To validate this causal chain the evaluator has then collected data; AND
+c. The evaluator has considered other factors (during and after the evaluator’s data collection) 
+that may have affected the results.
+Inadequate This criterion must be scored as inadequate when:
+a. The causal chain between the intervention and the results is created after the evaluator’s 
+fact-finding (no separation between hypothesis and testing); OR
+b. Other factors that might have influenced the results were not considered; OR
+c. Results at outcome level are attributed directly to activities without a step-by-step vali-
+dation along the causal chain.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+27IOB evaluation quality criteria 
+Example Good: 
+The Netherlands applies a ‘multi-bi approach’ to influence EU decision-making and promote Dutch interests (see criterion 4).
+(a) First, the evaluator formulated a hypothetical causal chain: identifying eligible priority issues by embassies and 
+investing in dialogue with other EU Member States results in more policy dialogue (output), which improves 
+mutual understanding of positions, increases like-mindedness and even increases formation of coalitions on 
+priority issues (outcome). At impact level, coalition formation results in influencing EU decision-making success -
+fully in terms of Dutch preferences. To achieve impact, new additional activites are required (negotiations with 
+non-coalition Member States, EU institutions etc.).  
+(b) In addition, before collecting data, the evaluator identified other factors to check whether: 
+ − Other Member States’ policy positions were sufficiently close to the Dutch positions or were flexible enough for 
+coalitions to be formed;
+ − Dutch positions were flexible enough to join coalitions and the Netherlands was seen as an attractive coalition 
+partner by other Member States;
+ − Embassies have sufficient personnel and expertise to engage in dialogue and in the various Member States the 
+selected priority issues are sufficiently coherent to build winning coalitions, or are too divergent;  
+(c) The evaluator then collected data and conducted a step-by-step validation, showing that embassies had selected 
+priority areas and intensified dialogue with partner governments and societal stakeholders. In a few cases, 
+Member States were or became likeminded and became coalition partners. However, it was also found that 
+positions and interests often differed too much to engage in coalition building, that Dutch positions were not 
+flexible enough to make compromises in the process of coalition formation and that the coalitions that were 
+formed were too weak to influence decision-making effectively.  
+The evaluator was thus able to draw robust conclusions about the project logic and about other factors 
+affecting the results.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+28IOB evaluation quality criteria 
+Example Adequate:
+(a) First, the evaluator formulated a hypothetical causal chain: identifying eligible priority issues by embassies and 
+investing in dialogue with other EU Member States results in more policy dialogue (output), which improves 
+mutual understanding of positions, increases like-mindedness and even results in coalitions being formed on 
+priority issues (outcome). At impact level, coalition formation results in influencing EU decision-making success -
+fully in terms of Dutch preferences. To achieve impact, new, additional activities are required (negotiations with 
+non-coalition Member States, EU institutions, etc.).  
+(b) The evaluator then followed a step-by-step validation, showing that embassies had selected priority areas and 
+intensified dialogue with partner governments and societal stakeholders. In a few cases, Member States were or 
+became likeminded and became coalition partners.  
+(c) The evaluator checked possible other factors, and found that positions and interests often differed too much to 
+engage in coalition building, and that the coalitions that were formed were too weak to influence decision-  
+making effectively.  
+The evaluator thus tested the intervention logic while keeping an eye out for possible other factors.
+Example Inadequate:
+(a) The evaluator did not base their evaluation on an intervention logic but instead asked diplomats from the 
+Netherlands and other Member States why coalitions had or had not been formed. Diplomats attributed the 
+formation of coalitions to the existence of like-mindedness. The position adopted by the Netherlands was 
+sometimes perceived to be a minority position, and sometimes it was perceived to be a majority position. 
+(b) The evaluator did not follow a project logic and did not consider factors that were not mentioned by stakeholders.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+29IOB evaluation quality criteria 
+b. Quantitative methods can robustly substantiate a claim about the effect attributable to the project. The Maryland scientific 
+methods scale distinguishes 5 levels:
+1. One observation moment, after the project: comparison with and without project.
+2. Two observation moments: comparisons before and after the project, without a control group.
+3. Two observation moments: comparing before and after AND with and without project (double difference).
+4. Two observation moments: comparing before and after AND with and without project (double difference,  
+semi-experimental design), and correcting for other, external influences.
+5. Two observation moments: comparing before and after AND with and without project (double difference);  
+the participants are randomly assigned to a project: (randomised control group, experimental design).
+Level 5 is best suited for attributing results to a project, but it is rare and not always possible to apply in evaluations. Level 4 is 
+a commonly used good quantitative method. Levels 1 and 2 are generally not the preferred methods for making effect claims, 
+and evaluators should be encouraged to aim at least for level 3 and preferably for level 4. Under certain strict conditions, 
+evaluations below level 4 can be seen as just good enough, although in practice this is rare. Whether level 1, 2 or 3 is ade -
+quate depends on the evaluation subject and context, especially on whether the following assumptions hold true: (i) that 
+without the project nothing would change over time, and (ii) that the control group is similar to the project group before 
+the start of the project.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+11. Methods for evaluating effectiveness*
+Evaluation methodology
+30IOB evaluation quality criteria 
+Quantitative methods
+Good This criterion can be scored as good when:
+a. Level 4. The design considers the change that may happen without the project and the 
+differences between participants and non-participants. 
+b. Level 5. Experimental design (randomised control group): project participants are randomly 
+assigned to a project intervention and to a control group. 
+Adequate This criterion may be scored as adequate when:
+a. Level 1 + two validated assumptions. One observation moment, comparing with and with-
+out project, assuming that the control group was similar when the project started and that 
+nothing would have changed without the project. The evaluator has convincingly validated 
+these assumptions and demonstrated the evidence; OR
+b. Level 2 + one validated assumption. The study design compares the project group before 
+and after the project, without a control group, and assumes that without the project nothing 
+would have changed. The evaluator has convincingly validated the assumption and demon-
+strated the evidence; OR
+c. Level 3 + one validated assumption. The study design compares a project group with a control 
+group before and after the project, assuming that these two groups are similar. The evaluator 
+has actively validated the assumption.
+ Introduction
+ Reading guide
+ The list of evaluation criteria
+ 1.  Reference group
+ 2. Independence of evaluators*
+ 3. Context of the intervention
+ 4. Description of the intervention*
+ 5. V alidation of assumptions*
+ 6. Evaluation’s objective
+ 7. Scope of the evaluation
+ 8. OECD DAC evaluation criteria
+ 9. Evaluation questions
+ 10.  Research design*
+ 11.  Methods for effectiveness*
+  Qualitative methods
+  Quantitative methods
+ 12.  Methods for efficiency
+ 13.  Indicators or result areas*
+ 14.  Sampling strategy*
+ 15.  Analyses*
+ 16.  Evaluation matrix
+ 17.  Independent information sources*
+ 18.  Triangulation
+ 19.  Discussion of bias
+ 20. Transparant methodolgy*
+ 21.  Limitations*
+ 22. Conclusions answer questions*
+ 23.  Conclusions based on findings*
+ 24. V alidation of conclusions
+ 25. Usefulness of the recommendations
+ 26. Readability
+
+=== Document: annex 4 program evaluations (2021 - 2023) ===
+Annex 4 Program Evaluations (2021-2023) 
+Program evaluation Program 
+cluster 
+Business 
+unit 
+Planning IDH Impact 
+Themes 
+Midterm evaluation of 'Beyond 
+Chocolate' 
+Cocoa Agri-
+commodities 
+Q4 2021 - 
+Q1 2022 
+Better 
+income; 
+better 
+environment 
+Final Evaluation of Cocoa Origins Cocoa Agri-
+commodities 
+Q1 - Q2 
+2022 
+Better 
+income; 
+better 
+environment 
+Cocoa and environment platforms 
+ex ante evaluation 
+Cocoa Agri-
+commodities 
+Q4 2022 - 
+Q1 2023 
+Better 
+environment 
+(Better 
+income/ 
+gender) 
+Cocoa soils endline Cocoa Agri-
+commodities 
+Q4 2022 No yet 
+information 
+Baseline report of Coffee Income 
+Resilience program. 
+Coffee Agri-
+commodities 
+Q3 2021 - 
+Q1 2022 
+Better 
+income; 
+better 
+environment 
+Coffee Farmer Income Resilience 
+Program midline 
+Coffee Agri-
+commodities 
+Q3 2023 – 
+Q1 2024 
+Better 
+income; 
+better 
+environment 
+Coffee Farmer Income Resilience 
+Program endline 
+Coffee Agri-
+commodities 
+Q3 2025 - 
+Q1 2026 
+(tbc) 
+Better 
+income; 
+better 
+environment 
+Colombia Living Income baseline Coffee Agri-
+commodities 
+Q4 2022 - 
+Q1 2023 
+Better income 
+Colombia Living Income endline Coffee Agri-
+commodities 
+To be 
+defined  
+Better income 
+East Africa Living Income baseline Coffee Agri-
+commodities 
+Q1 2023 Better income 
+Baseline of Agri-connect program Tea Agri-
+commodities 
+Q1 2022 Better income 
+Baseline India Living Income - STGSP 
+HUL project 
+Tea Agri-
+commodities 
+Q3 / Q4 
+2022 
+Better income 
+(Better 
+environment) 
+Women's Safety Accelerator Fund 
+(WSAF) Midline 
+Tea Agri-
+commodities 
+Q3 / Q4 
+2022, Q1 
+2023 
+Better jobs 
+Convening in the tea sector Tea Agri-
+commodities 
+Q4 2022 Better jobs 
+Agri-Entrepreneur Growth 
+Foundation (AEGF)- Impact 
+assessment 
+  Agri-
+commodities 
+Q1 2023 No yet 
+information 
+ISLA Mid-term program level 
+evaluation 
+Landscape  Landscape 2023 Better 
+Environment 
+/Better 
+income 
+Midline Kenya landscape  Landscape Landscape 2023 Better 
+environment/ 
+Better income 
+Baseline Olam project in Côte 
+d’Ivoire 
+Landscape Landscape 2023 Better 
+environment/ 
+Better income 
+Baseline AMS project in Cameroon Landscape Landscape 2023 Better 
+environment/ 
+Better income 
+Calves program in Brazil  Landscape Landscape 2023 Better 
+environment/ 
+Better income 
+Midline Aceh landscape in Indonesia Landscape Landscape 2023 Better 
+environment/ 
+Better income 
+Karnataka baseline PXD_Walmart - 
+India 
+Spices India FC&I To be 
+defined 
+No yet 
+information 
+Baseline smallholder tomato 
+farmers - India 
+Spices India FC&I Q1 2023 No yet 
+information 
+Baseline/endline impact study Living 
+Wages 
+Sector 
+Initiative 
+FC&I Q4 2022 - 
+Q1- 2023 
+Better Jobs 
+Living income benchmark 
+studies/baselines Sustainable Spices 
+Initiative (SSI) 
+Sector 
+Initiatives 
+FC&I Q1 - 2023 Better Income 
+Farmfit Africa Impact Evaluation, 
+endterm report. Consulting 2024 
+Farmfit 
+Africa 
+FC&I 2024 No yet 
+information 
+ 
+Evaluations conducted under the previous funding cycle, but programs are still being 
+implementing in this funding cycle: 
+Program evaluation Program 
+cluster 
+Business unit Planning 
+Farm and Coop Investment Program (FCIP) 2017-
+2021 (Endline) 
+Cocoa Agri-
+commodity 
+Q2 2021 
+Farmer Field Book Summary Report (2018-2021) Cocoa Agri-
+commodity 
+Q2 2021 
+Midterm evaluation of 'Beyond Chocolate Cocoa Agri-
+commodity 
+Q1 2022 
+Final Evaluation of Cocoa Origins.  Cocoa Agri-
+commodity 
+Q2 2022 
+Smallholder Livelihoods Facility NKG BLOOM 
+Baseline Impact Assessment 
+Coffee Agri-
+commodity 
+Q3 2021 
+Baseline report of Coffee Income Resilience 
+program 
+Coffee Agri-
+commodity 
+Q1 2022 
+Baseline of Agri-connect program Tea Agri-
+commodity 
+Q1 2022 
+Impact Assessment of IDH Gender Empowerment 
+Program in Kenya 
+Tea Agri-
+commodity 
+Q1 2021 
+Malawi Tea 2020 Impact Assessment Tea Agri-
+commodity 
+Q1 2021 
+Aquaculture final evaluation Aqua FC&I Q2 2021 
+Endline study of Cassava program in Nigeria. Fusion 
+Consulting 
+Cassava FC&I Q1 2022 
+Farmfit Africa Impact Evaluation, midterm report Farmfit 
+Africa 
+FC&I Q1 2022 
+Baseline report of Regenerative Production 
+Landscape Collaborative (RLC) PROGRAM. CGIAR 
+Cotton T&M Q1 2022 
+Evaluation of ISLA program (2015-2020) Landscape Landscape Q2 2021 
+NISCOPS Midterm review (2019-2023) Landscape Landscape Q1 2022 
+Baseline report of Laudes Foundation Regenerative 
+Production Landscape Collaborative (RPLC) 
+program 
+Materials T&M Q1 2022
+
+=== Document: annex 5 track record summary table ===
+Annex 5 Track record summary table  
+ 
+Please include the following table and fill it in with information on relevant work completed which is 
+of similar nature to the scope of the work requested in this TOR. 
+Name of the 
+consultancy 
+assignment 
+Client Date 
+(from/to) 
+during 
+which the 
+assignment 
+was 
+carried out 
+Value of 
+the 
+contract 
+ 
+Type of 
+consultancy 
+(ex. Baseline / 
+midline / 
+endline / 
+Program / 
+Portfolio / 
+research / 
+survey / 
+evaluation) 
+Summary of 
+activities, 
+tasks and 
+services 
+provided 
+Contact 
+details of 
+client 
+representative
+
+=== Document: annex 6 scoring template for proposals ===
+Annex 6 Scoring template for proposals 
+ 
+All proposals will be rated on each of the established sub-criteria in the rating matrix. A rating will be 
+provided on a scale from 1 to 5: 1 = very weak, 2 = weak, 3 = neutral, 4 = strong, 5 = very strong. In 
+the rating table, extra space is provided for additional narrative explanation or comments on the 
+rating, proposal, proponents, etc. The maximum scores of the two components Quality and Price are 
+subsequently 55 points for quality and 25 points for price. 
+CRITERION 1: QUALITY 
+COMPONENT 1 CRITERIA SUB-CRITERIA MAX. 
+GRADING 
+1 Consultant 
+profile and 
+team 
+composition  
+The extent to 
+which the 
+consultant(s) 
+present(s) the 
+required level 
+of expertise 
+and 
+experience to 
+fulfil the 
+objectives of 
+these TOR 
+Relevance of the expertise and the sector 
+experience of the proposed consultant(s) 
+5 
+Relevance of the regional, local, and field-level 
+experience of the proposed consultant(s) 
+5 
+Capcity to operate in and understand the 
+required language(s) 
+5 
+COMMENTS 
+Combined Score for consultant profile and team composition 
+COMPONENT 2 CRITERIA SUB-CRITERIA MAX. 
+GRADING 
+2 Overall 
+technical 
+approach 
+The extent to 
+which the 
+consultant 
+demonstrates 
+a clear 
+understanding 
+of these ToRs, 
+and the 
+soundness of 
+Clarity of the methodological approach 
+developed in the technical proposal and  
+5 
+Appropriateness of the methodological 
+approach to deliver on the objectives set out in 
+section 3 of the ToR 
+5 
+Quality of the proposed methodology, including 
+the extent to which the methodology 
+elaborates on prescriptions set out in section 5 
+of the ToR 
+5 
+the 
+methodology 
+proposed to 
+achieve the 
+objectives 
+listed out in 
+these ToRs 
+Sampling  design, method and size 5 
+Quality of the overall proposal writing, 
+argumentation, structure of the text and visuals 
+5 
+Adequateness of the workplan and timeline 5 
+Adequateness of the time allocation of the 
+consultants 
+5 
+For longer term assignments (e.g combined 
+design of baseline + midline or endline): a 
+proposed approach to ensure continuity of 
+team members 
+5 
+COMMENTS 
+Combined Score for Overall technical approach 
+COMBINED SCORE CRITERION 1 QUALITY 
+ 
+The Criterion price will be evaluated on the basis of the following:  
+1. Compliance to the tender form.  
+2. Scoring the tender form:  
+Score of Candidate X = 25 * (Cost Candidate Least Exp / Cost Candidate X )  
+The maximum score is 25 points. 
+ 
+CRITERION 2: PRICE 
+COMPONENT 1 CRITERIA SUB-CRITERIA MAX. GRADING 
+3 Price Best price for the 
+proposed level of 
+quality and depth of 
+the proposed 
+deliverables 
+Daily fee per consultant. This later 
+will be considered by assessors in 
+regard to their seniority level and 
+their place of residence (i.e. 
+international vs local) 
+5 
+Travel and transport expenses 5 
+Cost per deliverable 5 
+Contingency budget 5 
+Overall budget 5 
+COMMENTS 
+COMBINED SCORE CRITERION 2 PRICE
+
+=== Document: annex 7 idh general terms and conditions ===
+IDH General Terms and Conditions 
+ 
+Version March 2023      Page 1 of 6 
+IDH SUSTAINABLE TRADE INITIATIVE 
+GENERAL TERMS AND CONDITIONS 
+for services 
+Contents 
+I. GENERAL CONDITIONS ..............................  1 
+1. DEFINITIONS ............................................. 1 
+2. APPLICABILITY OF THE IDH GENERAL 
+TERMS AND CONDITIONS FOR SERVICES ............ 1 
+3. LIMITATION OF LIABILITY .......................... 2 
+4. INDEPENDENCE ........................................ 2 
+5. FRAUD AND CORRUPTION ........................ 2 
+6. CONFLICT OF INTEREST ........................... 2 
+7. PRIVACY ................................................... 2 
+8. PROCESSING OF PERSONAL DATA .......... 2 
+9. ICSR .......................................................... 3 
+10. COMPETITION COMPLIANCE .................... 3 
+11. SAFEGUARDING ....................................... 3 
+12. SPEAKUP .................................................. 3 
+II. PERFORMANCE OF THE SERVICES ............. 4 
+13. RESPONSIBILITIES OF THE CONTRACTING 
+PARTY  .................................................................. 4 
+14. DELAYS, UNFORSEEN CIRCUMSTANCES, 
+CHANGES TO THE SERVICES ............................... 4 
+15. COMPLIANCE WITH LOCAL LAWS ............. 4 
+16. THIRD PARTY COMPLIANCE ..................... 4 
+17. INSURANCES ............................................ 4 
+18. GOOD ADMINISTRATION ........................... 4 
+19. RIGHT TO AN ADDITIONAL AUDIT ............. 5 
+III. FINANCIAL CONDITIONS ............................  5 
+20. FUNDING BY IDH ....................................... 5 
+21. EXCHANGE RATES ................................... 5 
+22. TRANSFER OF FUNDS & PAYMENT 
+CONDITIONS ......................................................... 5 
+IV. CONFIDENTIALITY ................................ ..... 5 
+23. CONFIDENTIALITY ..................................... 5 
+V. INTELLECTUAL PROPERTY ........................  5 
+24. INTELLECTUAL PROPERTY ....................... 5 
+VI. TERM & TERMINATION ...............................  6 
+25. TERM ........................................................ 6 
+26. AMENDMENT & TERMINATION .................. 6 
+VII. APPLICABLE LAW & DISPUTE RESOLUTION 6 
+27. APPLICABLE LAW ...................................... 6 
+28. DISPUTE RESOLUTION ............................. 6 
+ 
+These General Terms & Conditions for services of IDH 
+Sustainable Trade Initiative (“IDH”) stat e the rights and 
+obligations of both the contracting party and IDH regarding 
+their cooperation in general. Specific rights and obligations 
+are agreed t o in a separate agreement between  the 
+contracting party and IDH.  
+I. GENERAL CONDITIONS 
+ 
+1. DEFINITIONS 
+1.1. In these General Terms and Conditions of IDH 
+Sustainable Trade Initiative , the following 
+definitions apply:  
+ 
+“IDH”: Stichting IDH Sustainable Trade 
+Initiative, a foundation under the la ws of  the 
+Netherlands, registered with  the Dutch 
+Chamber of Comme rce under number 
+53521129, having its registered office and its 
+place of business at Arthur van Schendelstraat 
+500 (3511 MH) Utrecht, the Netherlands. 
+ 
+“Contracting Party”: The party (or parties) that 
+has/ have been awarded an assignment by IDH 
+for providing services.  
+ 
+“Party” / “Parties”: IDH and the Contracting 
+Party individually and collectively.  
+ 
+"Affiliates": affiliates and/or subsidiaries 
+(groeps- en/of dochtervennootschappen) within 
+the de finition of section 2:24 a and b of the  
+Dutch Civil Code (Burgerlijk Wetboek); 
+ 
+“IDH General Terms and Conditions for 
+services”: The terms & conditions in this 
+document.  
+ 
+“Letter of Assignment ”: the specific 
+agreement (and all amendments thereto) 
+between IDH and the Contracting Party in 
+which IDH and the Contracting Party agree that 
+the Contracting Party will provide services for 
+IDH (under section 7:400 of the Dutch Civil 
+Code (‘overeenkomst van opdracht’). 
+ 
+“Entire Agreement”: The IDH General Terms 
+and C onditions for services  and the  Letter o f 
+Assignment together, as w ell as  any annexes 
+or other documents and terms and conditions 
+which are applicable to the relationship 
+between IDH and the Contracting Party 
+(‘Additional Conditions’) and to which the Letter 
+of Assignment expressly refers. 
+ 
+“Services”:  The services to be  performed by 
+the Contracting Party pursuant to the Letter of 
+Assignment. 
+ 
+2. APPLICABILITY OF THE IDH GENERAL 
+TERMS AND CONDITIONS FOR SERVICES  
+2.1 The IDH Ge neral Terms and Conditions  for 
+services apply to the Entire Agreement betwee n 
+the Contracting Party and  IDH. Th e applicability 
+of any of the Contracting Party’s conditions or 
+other conditions is expressly excluded. 
+ 
+2.2 IDH has the right to change or add  to th e IDH 
+General Terms and Conditions  for services. IDH 
+    IDH General Terms and Conditions 
+ 
+Version March 2023      Page 2 of 6 
+will notify  the Contrac ting Party of any changes 
+and/or additions before they take effect.  
+ 
+2.3 In case of in consistencies between the General 
+Terms & Condition s and the Letter of 
+Assignment, the Letter of Assignment will prevail 
+over the General Terms & Conditions.  
+ 
+3. LIMITATION OF LIABILITY 
+3.1 IDH cannot be he ld liable for damages , losses 
+and/or personal injury suffered by the Contracting 
+Party and/or any third party resulting from the 
+execution of the Entire Agreement, including any 
+infringement of intellectual property rights. In 
+addition, either Party's liab ility fo r consequential 
+damage, consequential loss, lost profits, lost 
+savings, loss of goodwill, damage through 
+business interruptions or damage ensuing from 
+claims by third parties - whether based on 
+contract, tort or otherwise - shall be excluded. 
+The l imitations of liability mentioned in this 
+clause, or elsewhere in the Entire Agreement, 
+shall not apply if and insofar as the damage or 
+injury is the result of the willful intent or deliberate 
+recklessness by the Parties or their executives. 
+ 
+4. INDEPENDENCE 
+4.1 The Contracting Party is not a legal signatory for 
+IDH and does therefore not have the mandate to 
+sign any contracts or other legally binding 
+documentation on behalf of IDH. 
+ 
+4.2 The Entire Agre ement does not, in any way, 
+constitute a n employment agreement be tween 
+the Contracting Party and IDH. Therefore the 
+Contracting Party shall be fully responsible for 
+the payment of all taxes, social security and other 
+costs and obligations. IDH cannot be he ld liable 
+for any financial claims in this respect. 
+ 
+5. FRAUD AND CORRUPTION 
+5.1 The Parties are aware of  the IDH Code of 
+Conduct ( which can be found here, or via the 
+‘Our policies’ tab o n the ‘ About’ webpag e: 
+https://www.idhsustainabletrade.com/policies) .   
+The IDH Code of Conduct provides the ethical 
+framework in which IDH and any party contracted 
+by IDH must o perate. It provides an overview of 
+the values, commitments, res ponsibilities and 
+integrity that IDH stands for. IDH expects its 
+business partners to apply similar standards of 
+conduct when providing services for IDH.  
+ 
+5.2 The Parties will n ot offer to third p arties or se ek 
+or accept from third parties , for themselves or for 
+any ot her party, a ny gift, remuneration, 
+compensation or benefit of any kind whatsoever, 
+which would be deemed corrupt or illegal. 
+ 
+5.3 The Parties will refrain from providing any form of 
+support to activi ties that have the goal of 
+undermining the political independ ence of a 
+state, or unlawfully overthrowing a lawful 
+government. The ‘lawfulness’ (or unlawfulness) 
+referred to in this clause is not solely de fined by 
+the opinions  or views of the go vernment in 
+question, but is also defined b y international 
+standards and/or international law.  
+ 
+5.4 IDH p artners and persons associated with IDH 
+projects who become aware or suspect the 
+existence of fraud, corruption or  bribery shall 
+bring it to the attention of IDH.   
+ 
+6. CONFLICT OF INTEREST  
+6.1 The Contracting Party and/ or a ny subcontracted 
+third party will inform IDH in writing without delay 
+in the event there are any (potential) conflicts of 
+interest relating to the activit ies under the Entire 
+Agreement. Such party shall immediately take 
+all necessary steps to resolve the ( potential) 
+conflict of interest. IDH reserves the  right to 
+verify whether the measures taken are 
+appropriate and may require additional 
+measures to be taken if necessary. 
+6.2 For the avoidance of  doubt, a (potential) conflict 
+of interest shall include all acti vities that would 
+lead to an d partial and/ or no n- objective 
+performance of the Entire Agreement.  
+ 
+7. DATA AND PRIVACY 
+7.1  The privacy statement for business partners and 
+consultants can be found here or via the  ‘Our 
+Policies’ tab on the ‘ About’ webpage:  
+https://www.idhsustainabletrade.com/policies. 
+ 
+8. PROCESSING OF PERSONAL DATA 
+8.1 With regards to the processing of personal data 
+under the Agreement, within the meaning of 
+Article 4 (2) of the General Data Protection 
+Regulation ("GDPR"), both Parties are deemed 
+to be  controller within the meaning of Article 4 
+(7) GDPR.  
+ 
+8.2 Parties shall: 
+a. process personal data in accordance with 
+applicable laws and regulations regarding 
+the processing of personal data, including 
+but not limited to the GDPR; 
+b. provide each other reasonable c ooperation 
+and assistance, for  example with respect to 
+the handling  of requests of data subjects 
+and the performance of data protection 
+impact assessments, to ensure that each 
+Party complies with applicable laws and 
+regulations. 
+ 
+8.3 The Contracting Party shall: 
+a. only process personal data of data subjects 
+in order to comply w ith its obligations under 
+    IDH General Terms and Conditions 
+ 
+Version March 2023      Page 3 of 6 
+the Agreement and not for any other 
+purposes; 
+b. limit the provision of personal data to IDH to 
+what is strictly necessary to fulfill it s 
+obligations under the Agreement; 
+c. inform the data subject w ith respect to the 
+processing of personal data by both Parties 
+in accordance with the GDPR. Upon 
+request IDH shall provide relevant 
+information for the provision of such 
+information; 
+ 
+8.4 Upon detection of a personal data breach as 
+defined under article 4 of t he GD PR ("Data 
+Breach") with respect to the Personal Data, the 
+Contracting Party  shall promptly notify ID H of 
+said Data Breach, and shall ensure that the 
+Data Breach is handled and data subjects 
+and/or supervisory authorities are notified in 
+accordance with the GDPR. 
+ 
+8.5 The Contracting Part y shall fully indemnify and 
+hold IDH harmless from and against any and a ll 
+damages, loss, costs, fines from regulatory or 
+supervisory authorities, charges, expenses, 
+legal fees and disbursements and any other 
+liabilities suffered as a result of or in connecti on 
+with the processing of personal data and any 
+breach of this Agreem ent by [Consultant/ the 
+Contracting Party] or its employees or other 
+representatives. 
+ 
+9. ICSR 
+9.1 The Contracting Party aims to cooperate in the 
+Program in a manner that is compatible with the 
+ICSR Policy of IDH, which can be found here, or 
+via the ‘ Our Poli cies’ tab on  the ‘ About’ 
+webpage: 
+https://www.idhsustainabletrade.com/policies. 
+ 
+10. COMPETITION COMPLIANCE 
+10.1 The Contracting Party specifically acknowledges 
+that IDH  works in compliance with competition 
+laws an d princip les as set out in IDH’s 
+Competition Compliance Policy, (which can  be 
+found here, or via the ‘ Our pol icies’ tab on  the 
+‘About’ webpage : 
+https://www.idhsustainabletrade.com/policies)   
+IDH and the Contracting Party , individually and 
+collectively, shal l not engage in any behavior 
+that restric ts competition. ID H and the 
+Contracting Party are free to enter into any 
+agreements with third parties. 
+ 
+11. SAFEGUARDING 
+11.1 The Parties are a ware of the IDH Safeguarding 
+Policy (which can be found here, or via the ‘Our 
+Policies’ tab on the ‘ About’ webpage: 
+https://www.idhsustainabletrade.com/policies).  
+11.2 The Parties have  a zero -tolerance approach 
+towards any fo rm of sexual exp loitation, abuse 
+and har assment. The Contra cting Party will 
+comply with IDH’s Safeguarding Policy and shall 
+take all re asonable steps to prevent the sexual 
+exploitation, abuse and harassment of any 
+person linked to the execution of the Enti re 
+Agreement by both its employees and any third 
+party subcontracted in relation to  the execution 
+of activities under the Entire Agreement. 
+11.3 The Cont racting Party shall immediately  report 
+to IDH any breach of the Saf eguarding Policy  
+and credible suspicions of, or actual incidents of 
+sexual exploitation, abuse or harassment related 
+to the Entire Agreement. The Contract ing Party 
+will assess credibility based on the source of the 
+allegation, the content, and the level of detail or 
+evidence provided. The Contracting Party  can 
+use the reporting mechanisms descri bed in 
+articles 12.1 and 12.2 below. 
+11.4 The Contracting Party sh all also rep ort any 
+credible suspicions of, or ac tual incidents that 
+are not directly  related to the Enti re Agreement 
+but could be of signifi cant i mpact to IDH’s 
+reputation or partnerships with its  donors. The 
+Contracting Pa rty can use the reporting 
+mechanisms described in articles 12.1 and 12.2 
+below. 
+11.5 The P arties will fully  co-operate wit h 
+investigations into such incidents.  
+11.6 If the Contracting Party fails to comply with the 
+IDH Safeguarding Policy or commits a breach of 
+any of the terms included  in article 11 IDH has 
+the right  to immediately terminate t he Entire 
+Agreement w ithout the risk  of incurring liability 
+for damages or compensation. 
+ 
+12. SPEAKUP 
+12.1 IDH is c ommitted t o conducting its work with 
+honesty, dignity, f airness and w ith respect  for 
+each other and the law. The Contracting Party is 
+encouraged to report to IDH any (suspected) 
+violation by the Co ntracting Part y’s staff, IDH ’s 
+staff or  third par ties of IDH’s v alues and 
+principles included in IDH’s Code of Cond uct, 
+other IDH policies or laws or regulations that has 
+occurred or may occur in relation to the Entire 
+Agreement. The Contracting Party can report 
+this directly to its contact person at IDH, to IDH’s 
+    IDH General Terms and Conditions 
+ 
+Version March 2023      Page 4 of 6 
+Executive Bo ard or  by using IDH ’s SpeakUp 
+line. 
+12.2 IDH’s S peakUp line can be  accessed online or 
+by phone. Click here for a list of free phone 
+numbers in each country or to report online. For 
+more information, please refer to the SpeakUp 
+policy (which can be found here, or via the ‘ Our 
+Policies’ tab on the ‘ About’ webpage:  
+https://www.idhsustainabletrade.com/policies).   
+12.3 The Contracting Part y shall promote the IDH 
+SpeakUp line  with its employees and any thir d 
+party related to the exec ution of activities under 
+the Entire Agreement, as well as the individuals 
+and communities directl y affected by the  
+activities under the E ntire Agreement. The 
+Contracting Party shall use the commun ications 
+materials provided by I DH (which can be found 
+here,, or via the ‘Our Policies’ tab on the ‘About’ 
+webpage: 
+https://www.idhsustainabletrade.com/policies).   
+ 
+II. PERFORMANCE OF THE SERVICES  
+ 
+13. RESPONSIBILITIES OF THE CON TRACTING 
+PARTY 
+13.1 The Contra cting Party is resp onsible for 
+execution, coordination and results of th e 
+Services, as well as reporting on the Services to 
+IDH, as agreed between the Parties in the Letter 
+of Assignment. The Contract ing Party must do 
+so with the n ecessary care and  transparency, 
+and in accordance with the terms and conditions 
+of the Entire Agreement.  
+ 
+13.2 The Parties agree to define “ satisfactory 
+completion of the Services” under the Letter of 
+Assignment as the Contracting Party  providing 
+IDH with the deliverables described in the 
+proposal attached to the Letter of A ssignment 
+and approval of these delive rables by I DH in 
+writing (e -mail included) . If satisfactory 
+completion of the Services is not (fully) achieved, 
+IDH shall have the right to adjust futur e payment, 
+terminate payment and/or demand repaymen t of 
+any paymen t, proportionate to the budget of the 
+uncompleted (part of) the assignment.  
+ 
+14. DELAYS, UNFORSEEN CIRC UMSTANCES, 
+CHANGES TO THE SERVICES  
+14.1 The Parties are obliged  to promptly inform  
+each other and consult with each oth er 
+regarding any (suspecte d) changes in 
+circumstances or irregularities that ma y 
+affect the performance of the  Services, 
+and/or affect compliance with th e Entire 
+Agreement. Such notifications should 
+include the financial interests involved (if  
+applicable) as well as mitigating meas ures 
+taken.    
+ 
+15. COMPLIANCE WITH LOCAL LAWS 
+14.1 In the performance of the Services, the 
+Contracting Party must comply with all applicable 
+laws and respe ct internationally recogniz ed 
+human rights, multilateral e nvironmental 
+agreements and internationally agreed core labor 
+standards. 
+15.2 In the event of conflict betwee n applicable laws 
+and internati onally reco gnized human rights,  
+multilateral environmental agre ements and/or 
+internationally agreed core labor standa rds, the 
+Contracting Party shall seek ways to respect the 
+principles of internationally recognized human 
+rights, multil ateral environmental  agreements 
+and/or internationa lly agreed c ore labor 
+standards to the greatest extent poss ible given 
+the circumstances.  
+15.3 In case a br each of article 15.1 occurs or such 
+actual or potenti al conflict, as referred to in 
+article 15.2, arises under the Entire A greement, 
+the Contracting Party  shall immed iately inform 
+IDH in  writing of the breach or o f the actual or 
+potential confl ict and must  request IDH’ s 
+approval prior to continuing the performance of 
+Services. 
+ 
+16. THIRD PARTY COMPLIANCE  
+16.1 The Contracting Party will not assign the Entire 
+Agreement or transfer any right or obli gation 
+thereunder to an Aff iliate or any third party 
+without the prior written consent of IDH.  
+ 
+16.2 The Contracting Party will  ensure that any and 
+all of the  terms a nd conditions in  the Entire 
+Agreement shal l be incorporated in  equivalent 
+contract terms in an y sub-contract between the 
+Contracting Party and a third party related to the 
+execution of a ctivities by the Contracting Pa rty 
+under the Entire Agreement. Any engagement of 
+the Contracting Part y with thir d parties in 
+relation to the Letter of Assignment  must be in  
+writing and will not relieve the Contracting Part y 
+of its res ponsibility f or the th ird parties’  
+performance.  
+ 
+17. INSURANCES 
+17.1 The Contracting Party is respon sible for t heir 
+own insurances , social pre miums, income tax 
+and any other levies related to th e Project 
+regarding their p erformance of the activities 
+related to the ir roles and responsibilities under 
+the Entire Agreement. 
+ 
+18. GOOD ADMINISTRATION  
+18.1 In order to provide proof that the activities under 
+the scope of the Servi ces have ind eed been 
+executed as  agreed to between IDH and the 
+Contracting Party in the Letter of Assignment, as 
+well as for  the purpose of good governance  in 
+general, the Contracting Party is r equired to 
+    IDH General Terms and Conditions 
+ 
+Version March 2023      Page 5 of 6 
+have and maintain a proper and transparent 
+(financial) administration and management.  
+ 
+19. RIGHT TO AN ADDITIONAL AUDIT  
+19.1 IDH, or any third party  nominated by IDH, shall 
+have the right to carry out audits of th e 
+Contracting Party ’s and/or subcontrac ted third 
+parties’ records to v erify compl iance with the 
+provisions of the  Entire Agreement, a s may be  
+relevant. IDH shall further be entitled to carry out 
+audits o f the Contracting Part y’s and/or 
+subcontracted third parties’ books and records 
+insofar as t hey relate to the Services under the 
+Entire Agreement and the manner in wh ich the 
+Services have been performed by the 
+Contracting Party. In this respect , IDH, or an y 
+third party nominated by IDH, shall have access 
+to all records, including systems and comp uters 
+where information is stored electronically, and to 
+all o ther materia l and records relate d to the  
+performance of the  Entire Agreement. Such 
+information will be  treated as c onfidential and 
+will be used exclusively  for auditing. Information 
+once verifie d w ill not be used for any othe r 
+purpose without the prior wri tten consent of the 
+party to whom it relates. Any extra costs related 
+to an additional aud it referred to in this cl ause 
+shall be agreed to between the Part ies in 
+writing.  
+ 
+19.2 The Contracting Party  shall main tain the 
+material an d records r eferred to in clause 17.1 
+until expiry of a period o f two (2) years from the 
+date of termination of the Entire  Agreement o r 
+for the len gth of  time required under the 
+applicable law, whichever is longer.  
+ 
+III. FINANCIAL CONDITIONS 
+ 
+20. FUNDING BY IDH 
+20.1 IDH reserves t he right to adjust a ny future 
+installments due to th e Con tracting Party, or to 
+(proportionally) reassign or re claim any am ount 
+already transferred to the Contracting Party, in  
+the event that the Contracting Party, without the 
+prior written conse nt of IDH, does not fulfil, or 
+not fulfil o n time, its obligations under the Entire 
+Agreement.  
+ 
+21. EXCHANGE RATES 
+21.2 For all payments made  by IDH to th e 
+Contracting Party under the scope of t he Letter 
+of Assignment, the exchange r ate of the day of 
+receipt by th e Contracti ng Party of the IDH’ s 
+contribution(s) is applicable.  
+ 
+22. TRANSFER OF FUNDS & PAYM ENT 
+CONDITIONS  
+22.1 Payment request s sent to ID H by the 
+Contracting Party must contain the total am ount 
+to be transferred and a reference t o t he IDH 
+contract number (in L etter of As signment) that  
+the p ayment relat es to. Payment will be ma de 
+by IDH within 45 da ys after receiving a payment 
+request, provided such is in accordance with the 
+terms and conditions in the Entire Agreement. 
+ 
+22.2 IDH is an organization that is dependent on 
+funding from multiple donors  and subject  to 
+various levels o f (government) approvals fo r 
+payments. IDH will use its best efforts to transfer 
+the payment to the Contracting Party  on time in 
+accordance with the Entire Agreem ent. 
+However, a  late payment by  IDH, 
+notwithstanding IDH’s bes t efforts, t hat is later 
+than 45  days but no more than 60 d ays later 
+than the date of the payment request, will not be 
+considered a breach of the Entire Agreement. 
+For payments received later th an 60 days , the 
+Contracting Par ty has the right to adapt the 
+planning of the Services to ensure, to the extent 
+possible, uninterrupted delivery of the 
+deliverables agreed to in the Le tter of 
+Assignment. The Contracting Party must  notify 
+IDH of the adapted planning as  soon as 
+possible.  
+ 
+IV. CONFIDENTIALITY  
+ 
+23. CONFIDENTIALITY 
+23.1 It is un derstood and agreed to th at certain 
+information may be provided to the Contracting 
+Party by IDH  and/or any other par ties, in the 
+context of t his assignment, that is and must be 
+kept con fidential. Both  during the term of this 
+Agreement and after  the termination th ereof, for 
+whatever reaso n, the Contracting Party  or its 
+substitute sha ll refrain f rom disclosing, in any 
+way whatso ever and to any o ther party, any 
+information of a confidential  nature regarding 
+IDH’s activities whic h h as come to the 
+Contracting Party’s or its substitute’s attention in 
+the course of performing the Services u nder this 
+Agreement and w hose confi dential nature is  
+clear or should reasonably be clear. This 
+obligation s hall ap ply, by way  of example  and 
+without limitation, to an y technical, financial and 
+other information, the names of  partners, 
+proposed transactions , computer s oftware, 
+computer systems and databases, patent and/or 
+trade secret laws. 
+ 
+V. INTELLECTUAL PROPERTY 
+ 
+24. INTELLECTUAL PROPERTY  
+24.1 If IDH’s dono rs, or the governments they may 
+relate to, request use of reports, documentation, 
+studies, publications, logo’ s or other m aterial 
+that is Arising  Intellectual Pro perty belo nging 
+(jointly) to IDH or free to use by IDH , IDH is free 
+to share such in formation with the d onor freely 
+and without the consent of the  Contracting 
+Party. 
+ 
+24.2 Nothing contained in this Entire Agreement shall 
+affect the absolute and unfettered rights of each 
+    IDH General Terms and Conditions 
+ 
+Version March 2023      Page 6 of 6 
+Party i n all materials, inventions, discoveri es 
+and intellectual property owned or c ontrolled by 
+that Party independently of the subject matter of 
+the Entire Agre ement (the “ Background 
+Intellectual Property”). 
+ 
+24.3 Each Par ty (the “ Indemnifying Party ”) will 
+indemnify and hold the other Party (the 
+“Indemnified P arty”) harm less from c laims of 
+third parti es as a co nsequence of infringement 
+of intellectual property rights of said third party, 
+provided th at the Indem nified Party informs th e 
+Indemnifying Party immediately in writing of the 
+existence and content  of the  alleged ri ght to 
+claim. The afo rementioned obligati on to 
+indemnify and hold harmles s lapses if and 
+insofar as the concerned infringement is r elated 
+to modifications in the intellectual property rights 
+made by t he Indemnified Parties, or by third 
+parties mandated by the Indemnified Party. 
+ 
+VI. TERM & TERMINATION  
+ 
+25. TERM 
+25.1 The Entire Agreement ta kes effect on the 
+starting date agreed to between the Part ies in 
+the Letter of Assignment. The Entire Agreement 
+ends on the end date agreed to between the 
+Parties in  the Letter of Ass ignment or if the 
+Entire Agreement is ter minated in accordance 
+with the t erms and conditions in the  Entire 
+Agreement. If the end da te agreed to  in t he 
+Letter of Assig nment is exceeded  yet the 
+obligations of the Contracting Party  have not 
+been me t, the Entire Agreemen t will rem ain in 
+effect until all obligations have been met  by the 
+Contracting Party  or the Entire Agreement is 
+terminated, whichever is earlier. 
+ 
+26. AMENDMENT & TERMINATION 
+26.1 The terms a nd conditions of the Letter of 
+Assignment can be amended only i f the Parti es 
+agree to such amendment in writing.  
+ 
+26.2 IDH is an organizatio n that is dependent on 
+funding from multiple donors.  In th e event that 
+IDHs donors terminate or materially change their 
+funding of IDH, IDH and the Contracting Party  
+individually and collectively have the  right to 
+terminate the Entire Agreement with immedi ate 
+effect and without the risk of incurring liability for 
+damages or compensation.  
+ 
+26.3 Either Party to the Agreement may terminate the 
+Agreement immediately without t he risk  of 
+incurring liability for damages or com pensation, 
+in the event that: 
+a. the other Party fails to remedy any breach of 
+its obligations under the Agreement within 30 
+days of written notification requiring it to do 
+so;  
+b. suspected fraud, or other illegitimate 
+circumstances exist to such an extent that 
+IDH considers the Contracting Party to be at 
+fault or grossly negligent and further 
+continuation of the Services is not possible 
+or of too much risk. Written notice of 
+termination shall be provided in this case, 
+stating the applicable circumstances; 
+c. the other Party files a petition for bankruptcy 
+or is declared bankrupt; or has a liquidator, 
+receiver, trustee or administrator appointed 
+to it; or becomes insolvent; or admits its 
+inability to pay its debts as they fall due. 
+ 
+26.4 A late paymen t by IDH, notwithstanding IDH’ s 
+best efforts, that is no more than 60 days later 
+than the date of the payment request, will not be 
+considered a breach of the Agreement. 
+ 
+VII. APPLICABLE L AW & DISPUTE 
+RESOLUTION 
+ 
+27. APPLICABLE LAW  
+27.1 The Entire Agreement is governe d by the laws 
+of the Netherlands.  
+ 
+28. DISPUTE RESOLUTION  
+28.1 Any dispute arising from or in  connection with 
+this Agreement which cannot  be r esolved 
+amicably shall be  submitted exclusively to t he 
+district court in Utrecht, the Neth erlands, and 
+each Party to th is Agreeme nt hereby submits 
+irrevocably to the jurisdiction of such court.
