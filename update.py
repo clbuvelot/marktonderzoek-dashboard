@@ -1,24 +1,20 @@
 """
 update.py
 ---------
-Incrementele update van de aanbestedingspipeline.
+Incrementele dagelijkse update van de aanbestedingspipeline.
 
-Controleert welke TenderNed publicaties nieuw zijn sinds de vorige run,
-verwerkt alleen die records door de pipeline, en mergt ze in de bestaande
-JSON-bestanden.
+Checkt de laatste updatedatum, haalt nieuwe publicaties op sinds dat moment,
+draait de volledige pipeline (collect → classify → opschonen) voor die records,
+en mergt ze in de bestaande dataset.
 
 Gebruik:
     python update.py
-    python update.py --dry-run          # toon wat nieuw is, sla niets op
+    python update.py --dry-run
 
-Leest:
-    data/update_staat.json              # metadata vorige run
+Leest/schrijft:
+    data/update_staat.json
     data/geclassificeerd_met_winnaar.json
-
-Schrijft:
-    data/geclassificeerd.json
-    data/geclassificeerd_met_winnaar.json
-    data/update_staat.json              # bijgewerkt na succesvolle run
+    data/documenten/{id}.txt
 """
 
 import json
@@ -28,111 +24,200 @@ import argparse
 import requests
 from datetime import datetime, timezone, timedelta
 
-from collect import normalize_tenderned, dedupliceer, RELEVANTE_CPV_CODES, TENDERNED_TNS_BASE
+from collect import (
+    normalize_tenderned,
+    haal_alle_documenten_op,
+    RELEVANTE_CPV_CODES,
+    TENDERNED_TNS_BASE,
+    _tenderned_request,
+    DOCUMENTEN_DIR,
+)
 from classify import classificeer_alle, BATCH_GROOTTE
 from opschonen import verwerk as opschoon_verwerk
 
 DATA_DIR = "data"
-STAAT_BESTAND        = os.path.join(DATA_DIR, "update_staat.json")
-GECLASSIFICEERD      = os.path.join(DATA_DIR, "geclassificeerd.json")
-MET_WINNAAR          = os.path.join(DATA_DIR, "geclassificeerd_met_winnaar.json")
+STAAT_BESTAND = os.path.join(DATA_DIR, "update_staat.json")
+DATASET = os.path.join(DATA_DIR, "geclassificeerd_met_winnaar.json")
 
 
-def laad_staat() -> dict:
+# ── Staat ─────────────────────────────────────────────────────────────────────
+
+def laad_staat():
     if os.path.exists(STAAT_BESTAND):
         with open(STAAT_BESTAND, encoding="utf-8") as f:
             return json.load(f)
-    return {"laatste_update": None, "bekende_ids": [], "totaal_records": 0}
+    return {"laatste_update": None, "totaal_records": 0}
 
 
-def sla_staat_op(staat: dict):
+def sla_staat_op(staat):
+    os.makedirs(DATA_DIR, exist_ok=True)
     with open(STAAT_BESTAND, "w", encoding="utf-8") as f:
         json.dump(staat, f, ensure_ascii=False, indent=2)
-    print(f"  → {STAAT_BESTAND}")
 
 
-def laad_bestaand(pad: str) -> list[dict]:
-    if not os.path.exists(pad):
+def laad_dataset():
+    if not os.path.exists(DATASET):
         return []
-    with open(pad, encoding="utf-8") as f:
+    with open(DATASET, encoding="utf-8") as f:
         return json.load(f)
 
 
-def sla_op(records: list[dict], pad: str):
+def sla_dataset_op(records):
     os.makedirs(DATA_DIR, exist_ok=True)
-    with open(pad, "w", encoding="utf-8") as f:
+    with open(DATASET, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
-    print(f"  → {pad} ({len(records)} records)")
 
 
-def fetch_nieuw(datum_filter: str | None, bekende_ids: set) -> list[dict]:
-    if not datum_filter:
-        datum_filter = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")
-        print(f"  Eerste run — ophalen vanaf {datum_filter}")
+# ── Ophalen nieuwe publicaties ────────────────────────────────────────────────
 
-    print(f"\n[TenderNed] Ophalen publicaties vanaf {datum_filter}")
-    resultaten = {}
+def fetch_nieuw(datum_vanaf, bekende_kenmerken):
+    """
+    Haalt nieuwe publicaties op:
+    1. AAOs (uitvragen) sinds datum_vanaf
+    2. AGOs (gunningen) sinds datum_vanaf, alleen als er een matching AAO is
+    """
+    print(f"\n[1/5] Ophalen nieuwe uitvragen (AAO) vanaf {datum_vanaf}")
+    aao_per_kenmerk = {}
 
     for cpv in RELEVANTE_CPV_CODES:
-        for pub_type in ["AGO", "AAO"]:
-            pagina = 0
-            while True:
-                params = {
-                    "cpvCodes": cpv,
-                    "publicatieDatumVanaf": datum_filter,
-                    "publicatieType": pub_type,
-                    "page": pagina,
-                    "size": 50,
-                }
-                try:
-                    r = requests.get(TENDERNED_TNS_BASE, params=params, timeout=30)
-                    r.raise_for_status()
-                    data = r.json()
-                    batch = data.get("contents", data.get("content", []))
-                    if not batch:
-                        break
-                    for item in batch:
-                        pub_id = str(item.get("publicatieId", item.get("id", "")))
-                        if pub_id and pub_id not in bekende_ids:
-                            item["_publicatie_type"] = "gegund" if pub_type == "AGO" else "lopend"
-                            resultaten[pub_id] = item
-                    if len(batch) < 50:
-                        break
-                    pagina += 1
-                    time.sleep(0.3)
-                except Exception as e:
-                    print(f"  [FOUT] CPV {cpv} {pub_type} p{pagina}: {e}")
-                    break
+        pagina = 0
+        while True:
+            params = {
+                "cpvCodes": cpv,
+                "publicatieDatumVanaf": datum_vanaf,
+                "publicatieType": "AAO",
+                "page": pagina,
+                "size": 50,
+            }
+            try:
+                batch, totaal = _tenderned_request(params, label=f"AAO {cpv} p{pagina}")
+            except Exception as e:
+                print(f"  [FOUT] {e}")
+                break
+            if not batch:
+                break
+            for item in batch:
+                pub_id = str(item.get("id", item.get("publicatieId", "")))
+                kenmerk = str(item.get("kenmerk", "") or pub_id)
+                if kenmerk not in bekende_kenmerken:
+                    item["_publicatie_type"] = "lopend"
+                    aao_per_kenmerk[kenmerk] = item
+            if len(batch) < 50:
+                break
+            pagina += 1
+            time.sleep(0.3)
 
-    records = list(resultaten.values())
-    print(f"  {len(records)} nieuwe publicaties gevonden")
+    print(f"  {len(aao_per_kenmerk)} nieuwe uitvragen gevonden")
+
+    if not aao_per_kenmerk:
+        return []
+
+    # AGOs ophalen en koppelen aan nieuwe AAOs
+    print(f"\n[2/5] Ophalen gunningen (AGO) vanaf {datum_vanaf}")
+    gekoppeld = 0
+
+    for cpv in RELEVANTE_CPV_CODES:
+        pagina = 0
+        while True:
+            params = {
+                "cpvCodes": cpv,
+                "publicatieDatumVanaf": datum_vanaf,
+                "publicatieType": "AGO",
+                "page": pagina,
+                "size": 50,
+            }
+            try:
+                batch, totaal = _tenderned_request(params, label=f"AGO {cpv} p{pagina}")
+            except Exception as e:
+                print(f"  [FOUT] {e}")
+                break
+            if not batch:
+                break
+            for item in batch:
+                kenmerk = str(item.get("kenmerk", "") or "")
+                if kenmerk and kenmerk in aao_per_kenmerk:
+                    item["_publicatie_type"] = "gegund"
+                    aao = aao_per_kenmerk[kenmerk]
+                    item["_aao_publicatiedatum"] = aao.get("publicatieDatum", "")
+                    aao_per_kenmerk[kenmerk] = item
+                    gekoppeld += 1
+            if len(batch) < 50:
+                break
+            pagina += 1
+            time.sleep(0.3)
+
+    print(f"  {gekoppeld} gunningen gekoppeld")
+
+    records = list(aao_per_kenmerk.values())
+    print(f"  Totaal nieuwe records: {len(records)}")
     return records
 
 
-def verwerk_nieuw(ruw: list[dict]) -> list[dict]:
+# ── Pipeline ──────────────────────────────────────────────────────────────────
+
+def verwerk_nieuw(ruw):
+    """Normaliseert, haalt documenten op, classificeert en schoont op."""
     genormaliseerd = [normalize_tenderned(r) for r in ruw]
-    genormaliseerd = dedupliceer(genormaliseerd)
     genormaliseerd = [r for r in genormaliseerd if r.get("titel") or r.get("omschrijving")]
+    print(f"  {len(genormaliseerd)} records na normalisatie")
+
     if not genormaliseerd:
         return []
-    print(f"\n[Classificatie] {len(genormaliseerd)} records...")
+
+    # Documenten ophalen
+    print(f"\n[3/5] Documenten ophalen voor {len(genormaliseerd)} records...")
+    os.makedirs(DOCUMENTEN_DIR, exist_ok=True)
+    for i, r in enumerate(genormaliseerd):
+        pub_id = r.get("id", "")
+        if not pub_id:
+            continue
+        pad = os.path.join(DOCUMENTEN_DIR, f"{pub_id}.txt")
+        if os.path.exists(pad):
+            r["documenten_geladen"] = True
+            continue
+        tekst = haal_alle_documenten_op(pub_id)
+        r["documenten_geladen"] = bool(tekst.strip())
+        if (i + 1) % 10 == 0:
+            print(f"  {i+1}/{len(genormaliseerd)} verwerkt...")
+        time.sleep(0.3)
+
+    # Classificeren
+    print(f"\n[4/5] Classificeren ({len(genormaliseerd)} records)...")
     geclassificeerd = classificeer_alle(genormaliseerd, BATCH_GROOTTE)
+
+    # Opschonen
+    print(f"\n[5/5] Opschonen...")
     geclassificeerd, tellers = opschoon_verwerk(geclassificeerd)
-    print(f"  Opgeschoond: {tellers}")
+    print(f"  {tellers}")
+
     return geclassificeerd
 
 
-def merge(bestaand: list[dict], nieuw: list[dict]) -> list[dict]:
-    lookup = {r.get("id"): r for r in bestaand}
-    overschreven = sum(1 for r in nieuw if r.get("id") in lookup)
+# ── Merge ─────────────────────────────────────────────────────────────────────
+
+def merge(bestaand, nieuw):
+    """Voegt nieuwe records toe. Bij kenmerk-conflict wint nieuw."""
+    lookup = {}
+    for r in bestaand:
+        key = r.get("tenderned_kenmerk") or r.get("id")
+        lookup[key] = r
+
+    bijgewerkt = 0
+    toegevoegd = 0
     for r in nieuw:
-        lookup[r.get("id")] = r
-    if overschreven:
-        print(f"  {overschreven} records bijgewerkt (bijv. AAO → AGO)")
-    resultaat = list(lookup.values())
-    resultaat.sort(key=lambda r: r.get("publicatiedatum", ""), reverse=True)
+        key = r.get("tenderned_kenmerk") or r.get("id")
+        if key in lookup:
+            bijgewerkt += 1
+        else:
+            toegevoegd += 1
+        lookup[key] = r
+
+    resultaat = sorted(lookup.values(), key=lambda r: r.get("publicatiedatum", ""), reverse=True)
+    print(f"  {toegevoegd} nieuwe, {bijgewerkt} bijgewerkt")
     return resultaat
 
+
+# ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     parser = argparse.ArgumentParser()
@@ -143,14 +228,25 @@ def main():
     nu = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     print("=== Incrementele update ===")
+
     staat = laad_staat()
-    bekende_ids = set(staat.get("bekende_ids", []))
-    datum_filter = staat["laatste_update"][:10] if staat.get("laatste_update") else None
+    laatste = staat.get("laatste_update")
 
-    print(f"Vorige update : {staat.get('laatste_update') or 'nog nooit'}")
-    print(f"Bekende IDs   : {len(bekende_ids)}")
+    if laatste:
+        datum_vanaf = laatste[:10]
+    else:
+        datum_vanaf = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")
 
-    nieuwe_ruw = fetch_nieuw(datum_filter, bekende_ids)
+    print(f"Vorige update: {laatste or 'nog nooit'}")
+    print(f"Ophalen vanaf: {datum_vanaf}")
+
+    bestaand = laad_dataset()
+    bekende_kenmerken = {
+        r.get("tenderned_kenmerk") for r in bestaand if r.get("tenderned_kenmerk")
+    }
+    print(f"Bestaande dataset: {len(bestaand)} records")
+
+    nieuwe_ruw = fetch_nieuw(datum_vanaf, bekende_kenmerken)
 
     if not nieuwe_ruw:
         print("\nGeen nieuwe publicaties. Dataset is up-to-date.")
@@ -160,33 +256,34 @@ def main():
         return
 
     if args.dry_run:
-        print(f"\n[DRY RUN] {len(nieuwe_ruw)} nieuwe publicaties gevonden, niets opgeslagen.")
-        for r in nieuwe_ruw[:10]:
-            print(f"  - {r.get('aanbestedingNaam', '?')[:80]}")
+        print(f"\n[DRY RUN] {len(nieuwe_ruw)} nieuwe publicaties, niets opgeslagen.")
         return
 
     nieuw_verwerkt = verwerk_nieuw(nieuwe_ruw)
+
     if not nieuw_verwerkt:
         print("Geen bruikbare records na verwerking.")
+        staat["laatste_update"] = nu
+        sla_staat_op(staat)
         return
 
-    print(f"\n[Merge]")
-    bestaand = laad_bestaand(MET_WINNAAR) or laad_bestaand(GECLASSIFICEERD)
+    print(f"\nMerge...")
     gemerged = merge(bestaand, nieuw_verwerkt)
 
-    print(f"\n[Opslaan]")
-    sla_op(gemerged, MET_WINNAAR)
-    sla_op(gemerged, GECLASSIFICEERD)
+    print(f"\nOpslaan...")
+    sla_dataset_op(gemerged)
+    print(f"  → {DATASET} ({len(gemerged)} records)")
 
-    staat["bekende_ids"] = list(bekende_ids | {r.get("id") for r in nieuw_verwerkt if r.get("id")})
     staat["laatste_update"] = nu
     staat["totaal_records"] = len(gemerged)
     sla_staat_op(staat)
 
-    print(f"\n=== Klaar ===")
-    print(f"Nieuw verwerkt  : {len(nieuw_verwerkt)}")
-    print(f"Totaal dataset  : {len(gemerged)}")
-    print(f"Timestamp       : {nu}")
+    print(f"""
+=== Klaar ===
+Nieuwe records  : {len(nieuw_verwerkt)}
+Totaal dataset  : {len(gemerged)}
+Timestamp       : {nu}
+""")
 
 
 if __name__ == "__main__":
