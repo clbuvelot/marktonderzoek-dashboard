@@ -1,5 +1,67 @@
 [
   {
+    "id": "423645",
+    "tenderned_kenmerk": "588299",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": false,
+    "europees": true,
+    "titel": "Monitor Bevolkingsonderzoek naar Kanker (BVOK)",
+    "omschrijving": "De opdracht betreft het uitvoeren van de jaarlijkse landelijke monitoring van de Bevolkingsonderzoek naar Kanker (BVOK) aan de hand van vastgestelde indicatoren en conform eerder uitgebrachte jaarlijkse rapportages.\n\nAls onderdeel van de regietaak is het RIVM verantwoordelijk voor monitoring en evaluatie van de bevolkingsonderzoeken. In dat kader worden jaarlijks landelijke monitors opgesteld om de kwaliteit en bereikbaarheid van deze bevolkingsonderzoeken te bewaken, knelpunten (in de zorgketen) te signaleren, bij te kunnen sturen, maar ook om te verantwoorden naar de opdrachtgever VWS en de ketenpartners. Dit is ook de doelgroep voor de monitor.\n\nDe werkzaamheden met de huidige leverancier lopen 31 december 2026 af. Een nieuwe overeenkomst voor de monitoring van de Bevolkingsonderzoeken naar Kanker (BVOK) moet door aanbestedende dienst worden aanbesteed.\n\nDe uitvoering van monitoring van de BVOK is één opdracht met als eindresultaat zes uniforme deelproducten, namelijk drie monitors.\n1. Monitor voor bevolkingsonderzoek naar borstkanker, zowel in het Nederlands als in het Engels.\n2. Monitor voor bevolkingsonderzoek naar baarmoederhalskanker, zowel in het Nederlands als in het Engels.\n3. Monitor voor bevolkingsonderzoek naar darmkanker, zowel in het Nederlands als in het Engels.\n\nHet doel van deze Europese aanbesteding is het afsluiten van een dienstverleningsovereenkomst met één opdrachtnemer voor de monitoring van de BVOK. De beoogde ingangsdatum van de af te sluiten overeenkomst is 1 januari 2027. De aanbestedende dienst wenst een overeenkomst met de opdrachtnemer te sluiten voor een initiële periode van vier (4) jaar, met aanvullend twee (2) maal een optie tot verlenging van één (1) jaar.",
+    "aanbestedende_dienst": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM)",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-05-03",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2026-08-10T10:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/423645",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/423645",
+    "documenten_geladen": false,
+    "classificatie": {
+      "teams": [
+        "Evaluaties"
+      ],
+      "thema": "Zorg & welzijn",
+      "thema_betrouwbaarheid": 0.9,
+      "subthema": "Bevolkingsonderzoek kankerscreening monitoring",
+      "methodiek": "Doeltreffendheidsevaluatie (beschrijvend)",
+      "methodiek_betrouwbaarheid": 1.0,
+      "methodiek_kwantitatief": false,
+      "skills": [
+        "Administratieve / begrotingsanalyse",
+        "Interviews / kwalitatief"
+      ],
+      "skills_betrouwbaarheid": 0.6,
+      "evaluatiefase": "Monitor / periodieke meting",
+      "evaluatiefase_betrouwbaarheid": 1.0,
+      "databronnen": [
+        "Administratieve data (niet nader gespecificeerd)"
+      ],
+      "databronnen_betrouwbaarheid": 0.7,
+      "opdrachtgrootte": "Middel",
+      "opdrachtgrootte_betrouwbaarheid": 0.6,
+      "gunningscriterium": "Onduidelijk",
+      "looptijd_maanden": null,
+      "causaliteitsvraag": false,
+      "herhalingskans": "hoog",
+      "consortiumkans": false,
+      "toelichting": "Jaarlijkse monitoring kwaliteit/bereikbaarheid bevolkingsonderzoeken kanker met drie rapportages.",
+      "betrouwbaarheid": 0.97
+    }
+  },
+  {
     "id": "423513",
     "tenderned_kenmerk": "580851",
     "bron": "tenderned",
