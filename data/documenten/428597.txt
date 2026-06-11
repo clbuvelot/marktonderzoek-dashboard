@@ -1,0 +1,2737 @@
+=== Document: bijlage 1 - programma van eisen ===
+Bijlage 1 - Programma van Eisen 
+ 
+Algemene eisen aan de opdracht 
+1.  De opgenomen eenheidsprijzen zijn onveranderlijk gedurende de looptijd. 
+2.  De aanbieding dient te geschieden in een uurtarief in euro’s, exclusief BTW, inclusief 
+reis- en verblijfskosten. Of totaalprijs waarbij u dient aan te geven hoeveel uur u gaat 
+besteden en wat het uurtarief is. De totaalprijs wordt dan gemaakte uren X uurtarief per 
+functie. 
+3.  U dient de Nederlandse taal te beheersen in woord en geschrift. 
+4.  De door Opdrachtnemer in haar Inschrijving aangeboden en omschreven kwaliteit dient 
+ook daadwerkelijk gedurende de looptijd van de Overeenkomst ten uitvoer gebracht te 
+worden. Alle aangeboden specificaties, maatregelen, voorstellen, oplossingen of 
+anderszins omschreven invulling van de Dienstverlening worden geacht in de 
+aangeboden prijzen te zijn inbegrepen. Opdrachtnemer is dus gehouden de 
+aangeboden kwaliteit ook daadwerkelijk te bieden/leveren en meerkosten komen niet 
+voor vergoeding in aanmerking. 
+5.  Opdrachtnemer dient zich bij uitvoering van de werkzaamheden te allen tijde te houden 
+aan de relevante wet- en regelgeving, protocollen en gedragscodes. 
+6.  Opdrachtnemer realiseert zich, dat Opdrachtgever ook als overheid optreedt en 
+aanvaardt deze bijzondere positie van Opdrachtgever als overheid. Opdrachtgever 
+behoudt bij nakoming van het in de Overeenkomst bepaalde haar bevoegdheden tot 
+publiekrechtelijke rechtshandelingen. 
+7.  De Aanbestedingsleidraad en alle bijbehorende documenten maken integraal onderdeel 
+uit van deze aanbesteding. Door inschrijving verklaart de Inschrijver zich volledig en 
+onvoorwaardelijk te conformeren aan de inhoud hiervan. Afwijkingen of voorbehouden 
+zijn niet toegestaan, tenzij uitdrukkelijk anders is bepaald. 
+Eisen aan medewerkers van de opdracht 
+8.  De opdrachtnemer zet minimaal in:  
+- Een projectleider/onderzoeker met aantoonbaar hbo/wo werk- en denkniveau 
+met kennis van Zeeland en de N2000-gebieden en minimaal 5 jaar ervaring met 
+het doen van ecologisch onderzoek naar de behoeften en het gedrag van hier 
+voorkomende vogelsoorten  
+- Een onderzoeker met minimaal 3 jaar ervaring op het gebied van recreatie- en 
+bezoekersmanagement en een dataspecialist met minimaal 3 jaar ervaring in 
+data-analyse/rapportage. 
+9.  De projectleider (ecologie) is gedurende de meetperiode vast aanspreekpunt; wisseling 
+is alleen toegestaan na schriftelijke instemming van opdrachtgever en met aantoonbaar 
+gelijkwaardige vervanging en overdrachtsplan. 
+Communicatie 
+10.  Binnen tien (10) werkdagen na start vindt een kick-off plaats met vaststelling van: 
+meetplan, planning, contactpersonen, escalatielijn en overlegstructuur. 
+11.  De opdrachtnemer organiseert minimaal per kwartaal voortgangsoverleg en levert 
+uiterlijk twee (2) werkdagen vooraf een korte voortgangsnotitie (status, risico’s, 
+afwijkingen, acties). 
+12.  Alle communicatie tussen Opdrachtnemer en Opdrachtgever dient plaats te vinden in 
+de Nederlandse taal. 
+ 
+ 
+Rapportage/ inhoud van de oplevering 
+13.  De opdrachtnemer levert minimaal: (a) meetplan, (b) tussentijdse 
+voortgangsrapportages, (c) eindrapportage per deelgebied en een gebiedssamenvatting 
+per Natura 2000-gebied en (d) een managementsamenvatting. 
+14.  De eindrapportage bevat per deelgebied minimaal: bezoekersaantallen (met 
+onzekerheidsmarge), tijdspatronen (dag/week/seizoen), ruimtelijke spreiding, type 
+recreatie (land/water) en toelichting methodische keuzes en beperkingen. 
+Data en dataverwerking 
+15.  De opdrachtnemer levert alle opgeleverde data, bronbestanden, GIS-bestanden en 
+visualisaties aan in machine-leesbare, open en niet-proprietaire bestandsformaten, 
+inclusief datadictionary, definities en meet-/verwerkingslog. 
+De specificaties van de datalevering, waaronder bestandsformaten, tabelstructuren, 
+definities, naamconventies en metadata, worden voorafgaand aan de meetfase 
+afgestemd met Opdrachtgever en vastgelegd in het GLO/GLP . 
+16.  De data zijn herleidbaar en reproduceerbaar: de opdrachtnemer levert een audit trail en 
+beschrijft hoe resultaten zijn berekend. 
+Onderzoeksmethodiek en meetontwerp 
+17.  De opdrachtnemer levert voor start metingen een meetontwerp waarin per deelgebied 
+is uitgewerkt: meetlocaties/meetpunten, meetfrequentie, meetmethode(n), aannames, 
+en hoe representativiteit en seizoensinvloed worden geborgd. 
+Het meetontwerp en de specificaties van de datalevering worden voorafgaand aan de 
+uitvoering afgestemd met Opdrachtgever en vastgelegd in het GLO/GLP . 
+18.  De gekozen methodiek is objectief en herhaalbaar en bevat een onderbouwing waarom 
+deze geschikt is voor zowel land- als waterrecreatie in buitendijkse gebieden, inclusief 
+omgang met piekdagen en uitzonderlijke omstandigheden. 
+Kwaliteitsborging en validatie 
+19.  De opdrachtnemer past aantoonbaar kwaliteitscontroles toe, waaronder minimaal: 
+plausibiliteitschecks, missing-data aanpak en periodieke validatie met rapportage van 
+foutmarges. 
+ 
+Onder minimale kwaliteitsnormen wordt in ieder geval verstaan: 
+• Een maximale uitval van meetdata van 30% per meetlocatie/periode;  
+• Een minimale nauwkeurigheid van 90% voor geautomatiseerde tellingen of 
+classificaties;  
+• Aantoonbare validatie van afwijkende meetwaarden;  
+• Documentatie van ontbrekende of gecorrigeerde data. 
+20.  Bij methodische wijzigingen tijdens de meetperiode levert opdrachtnemer vooraf een 
+wijzigingsvoorstel met impactanalyse op vergelijkbaarheid en trendinterpretatie. 
+Planning en mijlpalen 
+21.  De opdrachtnemer levert binnen vijftien (15) werkdagen na opdrachtverstrekking een 
+detailplanning met mijlpalen, deliverables en afhankelijkheden en actualiseert deze bij 
+afwijkingen. 
+22.  De meetperiode bestrijkt minimaal twaalf (12) aaneengesloten maanden; startdatum 
+metingen vindt plaats uiterlijk binnen 10 weken na gunning, tenzij aantoonbare externe 
+oorzaken dit verhinderen. 
+Stakeholderafstemming en terrein-toegang 
+23.  De opdrachtnemer stemt meetactiviteiten af met relevante terreinbeheerders en/of 
+vergunningverleners en legt afspraken schriftelijk vast (planning, locaties, beperkingen, 
+contactpunten). 
+24.  Meetactiviteiten mogen geen ongeautoriseerde betreding of plaatsing van middelen 
+veroorzaken; de opdrachtnemer is verantwoordelijk voor het verkrijgen en naleven van 
+benodigde toestemmingen voor uitvoering. 
+Privacy, AVG en informatiebeveiliging 
+25.  Indien tijdens de uitvoering van de Opdracht sprake blijkt te zijn van verwerking van 
+persoonsgegevens, treedt Opdrachtnemer hierover onverwijld in overleg met 
+Opdrachtgever, zodat passende afspraken kunnen worden gemaakt conform 
+toepasselijke wet- en regelgeving en de geldende provinciale voorwaarden inzake 
+privacy en informatiebeveiliging. 
+26.  De Opdrachtnemer dient gedurende de uitvoering van de Opdracht te voldoen aan de 
+door Provincie Zeeland gestelde eisen ten aanzien van informatiebeveiliging, 
+gegevensbeheer en toegang tot digitale systemen. 
+In dat kader dient Opdrachtnemer op verzoek van Opdrachtgever medewerking te 
+verlenen aan het invullen en ondertekenen van het GLO-formulier (Bijlage XX) en de 
+daarin opgenomen maatregelen en verplichtingen na te leven, voor zover deze relevant 
+zijn voor de uitvoering van de Opdracht. 
+Het GLO-formulier wordt besproken en ingevuld tijdens het GO/NO GO-moment zoals 
+bedoeld in paragraaf 3.1. Het niet kunnen voldoen aan essentiële eisen uit het GLO-
+formulier kan voor Opdrachtgever aanleiding zijn om aanvullende beheersmaatregelen 
+te verlangen of om het betreffende onderdeel van de werkzaamheden niet voort te 
+zetten. 
+Het GLO-formulier en de daarin opgenomen verplichtingen leiden niet tot een wijziging 
+van de aard, omvang of reikwijdte van de aanbesteedde Opdracht. 
+Eigendom, gebruiksrechten en overdraagbaarheid 
+27.  Alle resultaten, waaronder rapportages, datasets, kaartmateriaal, bronbestanden, 
+onderliggende databestanden, brondata, analysemethoden, scripts, GIS -bestanden, 
+dashboards, datavisualisaties en overige (digitale) onderzoeksproducten die 
+voortvloeien uit of  zijn gebruikt in het kader van de Opdracht, worden eigendom van 
+Opdrachtgever. 
+28.  De opdrachtnemer levert een overdraagbaar datapakket, zodanig dat een derde partij 
+het onderzoek kan voortzetten of verdiepen. 
+Visualisatie en toegankelijkheid van resultaten 
+29.  De opdrachtnemer levert minimaal één (1) kaartproduct per Natura 2000-gebied met 
+ruimtelijke spreiding/drukte op deelgebied niveau en minimaal één (1) 
+tijdreeksvisualisatie per deelgebied (maand/week/dag patronen). 
+30.  Rapportage en tabellen zijn leesbaar en herbruikbaar: definities van “bezoek” , 
+“bezoeker” , “kruisbezoek” , “deelgebied” en “meetdag” zijn eenduidig vastgelegd en 
+consequent toegepast. 
+Risicomanagement en escalatie 
+31.  De opdrachtnemer houdt een risicolog bij (minimaal: datakwaliteit, uitval 
+meetmiddelen, toegang, extreme weersituaties, verstoring natuur) en bespreekt deze 
+periodiek met opdrachtgever inclusief mitigerende maatregelen. 
+32.  Bij kritieke incidenten (bijv. datalek, structurele meetuitval, onjuiste datalevering) meldt  
+ 
+Onder kritieke incidenten wordt in ieder geval verstaan: 
+• Structurele meetuitval;  
+• Verlies of corruptie van data;  
+• Levering van aantoonbaar onjuiste of onvolledige data;  
+• Uitval van meer dan 30% van de meetdata binnen een relevante meetperiode;  
+• Extreme weersomstandigheden waardoor representatieve metingen niet 
+mogelijk zijn;  
+• Ongeautoriseerde toegang tot systemen of databestanden. 
+Opdrachtnemer binnen 24 uur en levert binnen vijf (5) werkdagen een herstelplan. 
+Uitvoering in Natura 2000-context (minimale verstoring) 
+33.  Meet- en veldactiviteiten worden uitgevoerd met minimale verstoring van natuur en 
+bezoekers; opdrachtnemer werkt volgens geldende gedragsregels/gebiedsregels en 
+verwerkt beperkingen (broedseizoen, rustgebieden) in planning en meetontwerp. 
+34.  Indien fysieke meetmiddelen worden geplaatst: deze zijn zo ontworpen/gepositioneerd 
+dat ze veilig zijn, niet uitnodigen tot vandalisme en geen schade aan habitat 
+veroorzaken; verwijdering/herstel na afloop is verplicht. 
+Continuïteit en beschikbaarheid tijdens de meetperiode 
+35.  De opdrachtnemer borgt continuïteit bij ziekte/uitval met een vervangingsregeling en 
+back-up capaciteit (minimaal één (1) vervanger voor projectleider en dataspecialist). 
+36.  Datalevering/rapportage blijft doorgaan conform planning; uitstel is alleen toegestaan 
+na schriftelijke akkoord opdrachtgever en met een aangepast plan. 
+Facturering 
+37.  Provincie Zeeland werkt met een digitaal inkoopsysteem. Hiermee worden alle 
+Opdrachten, voorzien van inkoopordernummer, digitaal verstrekt. Betaling van facturen 
+vindt alleen plaats wanneer deze wordt aangeleverd als E-factuur[1] via e-invoicing-
+pzld@esize.com of, als u nog geen E-facturen kunt uitgeven, in de e-mailbox 
+facturen@zeeland.nl onder vermelding van het inkoopordernummer. Indien de 
+Opdracht aan u wordt gegund dient u genoemde werkwijze te hanteren. Facturen die 
+niet volgens deze werkwijze worden aangeleverd worden niet betaald.
+
+=== Document: uea_592504_20260603151655 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 24TN-592504 - 3 jun 2026
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 592504
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: Provincie Zeeland
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Advies recreatiegebieden
+Korte beschrijving van de 
+aanbesteding:
+De aanbestedingsbehoefte van Provincie Zeeland omvat het uitvoeren van een 
+onderzoek naar de ruimte en draagkracht voor recreatie in de Natura 2000-gebieden 
+Manteling van Walcheren, Kop van Schouwen, Oosterschelde en Grevelingen. Het 
+onderzoek brengt gedurende minimaal 1 jaar de relatie in beeld tussen recreatief 
+gebruik en ecologische draagkracht, met bijzondere aandacht voor vogelsoorten, 
+verstoring, habitatgebruik en mogelijkheden voor recreatieve spreiding. De opdracht 
+resulteert in objectieve, reproduceerbare analyses, kaartmateriaal, datasets en 
+beleidsgerichte aanbevelingen ter ondersteuning van natuurbeheer en 
+beleidsvorming.
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+-
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 24TN-592504 - 3 jun 2026
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 24TN-592504 - 3 jun 2026
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 24TN-592504 - 3 jun 2026
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 24TN-592504 - 3 jun 2026
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 24TN-592504 - 3 jun 2026
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 24TN-592504 - 3 jun 2026
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 24TN-592504 - 3 jun 2026
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 24TN-592504 - 3 jun 2026
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 24TN-592504 - 3 jun 2026
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 24TN-592504 - 3 jun 2026
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 24TN-592504 - 3 jun 2026
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 24TN-592504 - 3 jun 2026
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 24TN-592504 - 3 jun 2026
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 24TN-592504 - 3 jun 2026
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 24TN-592504 - 3 jun 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 24TN-592504 - 3 jun 2026
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 24TN-592504 - 3 jun 2026
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 24TN-592504 - 3 jun 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 24TN-592504 - 3 jun 2026
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het 
+milieu-, sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 24TN-592504 - 3 jun 2026
+a.  
+b.  
+Beschrijf de genomen maatregelen:
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 24TN-592504 - 3 jun 2026
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 24TN-592504 - 3 jun 2026
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 24TN-592504 - 3 jun 2026
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: bijlage 2 - model gegevensleveringsovereenkomst (glo) ===
+Gegevensleveringsovereenkomst 
+1 
+ 
+Model Gegevensleveringsovereenkomst (GLO) 
+Provincie Zeeland 
+Versie 4 
+ 
+Onderwerp:  
+ 
+ 
+Tabel 1 Documenthistorie 
+Versie Datum Omschrijving 
+   
+   
+   
+   
+  
+  
+  Gegevensleveringsovereenkomst 
+2 
+ 
+Inhoudsopgave 
+Inleiding ................................................................................................................................................................... 3 
+Definities ................................................................................................................................................................. 4 
+1 Partijen en gegevensdefinitie ............................................................................................................................... 5 
+2 Kaders en randvoorwaarden ................................................................................................................................ 7 
+3 Inhoudelijke afspraken ......................................................................................................................................... 9 
+Ondertekening....................................................................................................................................................... 10 
+Bijlagen ................................................................................................................................................................. 11 
+ 
+ 
+  
+  Gegevensleveringsovereenkomst 
+3 
+ 
+Inleiding 
+Met dit document geeft de gegevensleverancier aan dat hij de gegevens conform de afspraken in dit document 
+aanlevert. Dit model gegevensleveringsovereenkomst (GLO) is een noodzakelijk hulpmiddel bij het maken van 
+afspraken bij langdurige, meermalige, en/of grote dataleveringen. Ook kan deze GLO wenselijk zijn voor kleinere 
+losse dataleveringen. De GLO is van toepassing voor zowel levering van derde partijen aan Provincie Zeeland 
+als andersom: een gegevenslevering van Provincie Zeeland aan derde partijen.  
+ 
+Dit GLO is bedoeld voor de functionarissen die zich met de gegevensuitwisseling bezighouden. Dit kunnen 
+bijvoorbeeld beleids-, GIS- en/of datamedewerkers zijn. Vanuit Provincie Zeeland is altijd ondersteunend een 
+data-specialist betrokken bij het opstellen van de GLO. 
+ 
+Middels de afspraken die in dit document zijn vastgelegd, kunnen gegevens op een eenduidige wijze worden 
+geleverd. Voor terug levering van gegevens in andere vorm worden hierbij afspraken voor terug-levering 
+gemaakt. 
+ 
+Dit document bevat onderstaande afspraken: 
+1. Partijen en gegevensdefinitie 
+2. Kaders en randvoorwaarden 
+3. Inhoudelijke afspraken 
+4. Ondertekening 
+ 
+Dit document heeft raakvlakken met de volgende afsprakenkaders 
+1. Algemene Rijksvoorwaarden bij IT overeenkomsten (ARBIT) (vigerend) 
+2. Addendum ARBIT-2022 Provincie Zeeland (vigerend) 
+3. Algemeen informatiebeleid Provincie Zeeland (vigerend) 
+4. Informatieveiligheidsbeleid Provincie Zeeland (vigerend) 
+5. Algemene Inkoopvoorwaarden Provincies 2022 voor leveringen en diensten   
+  Gegevensleveringsovereenkomst 
+4 
+ 
+Definities 
+ 
+• NORA begrippenkader hetzij 
+o Gegevens 
+o Informatie 
+ 
+•  Toepassing begrippen Algemene Rijksvoorwaarden bij IT overeenkomsten (vigerend) + Addendum ARBIT-
+2022 Provincie Zeeland (vigerend), hetzij: 
+o Opdrachtgever 
+o Opdrachtnemer 
+o Aflevering 
+o Inbreuk 
+ 
+• Toepassing begrippen uit het Algemeen informatiebeleid (vigerend) 
+o Kwaliteit van gegevens 
+o Beschikbaar 
+o Bruikbaar  
+o Bestendig 
+o Classificatie van gegevens 
+o Extern openbaar 
+o Intern openbaar 
+o Vertrouwelijk 
+o Geheim 
+ 
+  
+  Gegevensleveringsovereenkomst 
+5 
+ 
+1 Partijen en gegevensdefinitie 
+ 
+1.1 Partijen 
+ 
+Contactgegevens in te vullen door Ontvangende partij(en) 
+Contactpersoon  Organisatie Rol Telefoonnummer & 
+emailadres 
+    
+ 
+Te noemen “Ontvangende partij. “ 
+ 
+Contactgegevens in te vullen door Leverende partij(en) 
+Contactpersoon  Organisatie Rol Dataset Telefoonnummer 
+& emailadres 
+     
+ 
+Te noemen “Leverende partij.” 
+ 
+1.2 Gegevensgebruik 
+a. De te leveren gegevens hebben genoemd doel, grondslag en noodzaak voor Ontvangende Partij, te lezen in 
+onderstaande tabel 
+ 
+Tabel 2 Gegevensgebruik  
+Doel Grondslag Noodzaak 
+[wat is het doel - in te 
+vullen door Ontvangende 
+partij]. 
+[op basis van welke grondslag mogen de 
+gegevens worden gedeeld - in te vullen 
+door Ontvangende partij]. 
+[waarom is deze dataset hiervoor 
+nodig - in te vullen door 
+Ontvangende partij]. 
+ 
+b. Classificatie volgens het Algemeen Informatiebeleid (vigerend): geheim, vertrouwelijk, intern openbaar, 
+extern openbaar [in te vullen door Leverende partij]. 
+ 
+Binnen de provincie gebruiken we de volgende classificaties: extern openbaar, intern openbaar, vertrouwelijk en 
+geheim. Als de Gegevens als ‘extern openbaar’ (gegevens) is geclassificeerd, wordt deze automatisch ontsloten 
+op het Open Dataportaal van Provincie Zeeland. Bij vertrouwelijke of geheime gegevens dient Ontvangende 
+partij aanvullend een geheimhoudingsovereenkomst op basis van het model van Provincie Zeeland te 
+ondertekenen. Bij verwerking van persoonsgegevens dient de Ontvangende partij een verwerkersovereenkomst 
+van Provincie Zeeland te ondertekenen. 
+ 
+1.3 Gegevensdefinitie 
+Tabel 3 omschrijving dataset(s) 
+Dataset Omschrijving Afbakening  
+  Zoals toegepaste filters, afwijkingen 
+op gebruikte bron of andere scope-
+aanduiding als datum of geometrie 
+ 
+   
+   
+ 
+1.4 Gerelateerde documenten 
+Tabel 4 Gerelateerde documenten 
+Tabel 5 Gerelateerde documenten 
+Soort document Naam document Van toepassing op dataset: 
+Begrippenkader [in te vullen door Leverende partij]  
+Convenant [in te vullen door Leverende partij]  
+Opdrachtverstrekking [in te vullen door Leverende partij]  
+Overeenkomst  [in te vullen door Leverende partij]  
+DPIA [in te vullen door Leverende partij]  
+Overig [in te vullen door Leverende partij]  
+ 
+1.5 Kwaliteit van gegevens 
+1. De Leverende partij dient een omschrijving te geven van de kwaliteit van de gegevens. In de verantwoording 
+dient standaard de kwaliteit van de volgende eisen uit het Algemeen Informatiebeleid (vigerend) Provincie 
+Zeeland te worden beschreven: 
+Dataset Toelichting datakwaliteit (beschikbaarheid, bruikbaarheid bestendigheid) 
+  Gegevensleveringsovereenkomst 
+6 
+ 
+  
+  
+  
+  
+ 
+2. De leverende partij dient te omschrijven wat wordt verstaan onder kwaliteit van ‘gegevens’ en ‘informatie’ 
+met betrekking tot de context van de levering. 
+ 
+1.5 Afwijkingen en wijzigingen van overeenkomst 
+1. Iedere wijziging van deze overeenkomst, inclusief een verlenging van de termijn van de overeenkomst, is 
+alleen geldig met een schriftelijke wijziging door een gemachtigde functionaris van beide partijen.  
+2. Afwijking van deze overeenkomst, in welke vorm dan ook, dient vooraf te worden besproken tussen 
+Leverende partij en de Ontvangende partij. De afwijking dient overeengekomen, vastgelegd en ondertekend 
+te zijn als bijlage. 
+ 
+1.6 Overig 
+1 Op deze overeenkomst is het Nederlands recht van toepassing en geschillen over de uitvoering ervan zullen 
+worden voorgelegd aan de bevoegde rechtbank te Middelburg. 
+ 
+ 
+ 
+  
+  Gegevensleveringsovereenkomst 
+7 
+ 
+2 Kaders en randvoorwaarden 
+In dit hoofdstuk worden de organisatorische afspraken gemaakt met kaders en randvoorwaarden rondom 
+datalevering. 
+ 
+Tabel 6 kaders en randvoorwaarden gegevenslevering 
+Datagebruik Omschrijving Aanvullende 
+opmerking(en) 
+Eigenaar dataset(s)/service [Invulveld Leverende Partij]  
+Beheerder dataset(s)/service [Invulveld Leverende Partij]  
+Wijze verzendmethode 
+(berichtenverkeer) 
+[Invulveld verzendmethode & adres]  
+Beveiligingsmaatregelen bij 
+verzending 
+[Invulveld beveiligingsmaatregelen]  
+E-mailadres voor het doorgeven van 
+een technische wijziging van de 
+dataset(s) of service 
+[Invulveld e-mailadres]  
+Geautoriseerde personen voor 
+gegevensgebruik  
+[Invulveld geautoriseerde 
+personen/organisaties] 
+ 
+Publicatievoorwaarde(n): [Invulveld voorwaarden] 
+ 
+ 
+Garantie met betrekking tot de 
+geschiktheid van de Gegevens voor 
+het gebruiksdoel 
+[Invulveld wel/geen garantie]  
+Termijn op indien nodig kosteloze 
+correctie op onjuistheid of 
+onvolledigheid van data 
+[Invulveld termijn]  
+Bewaartermijn Ontvangende Partij 
+voor back-up van geleverde 
+gegevens 
+[Invulveld periode]  
+Afspraak afhandeling geleverde 
+gegevens na de back-up periode 
+[Invulveld: teruggegeven, vernietigen of 
+volgens instructies afgehandeld] 
+ 
+Bij gebreke van de genoemde 
+voorwaarden is Opdrachtnemer 
+genoemde boete verschuldigd. 
+Betaling van de boete laat de 
+verplichting uit dit lid en de 
+gehoudenheid van Ontvangende Partij 
+om de schade die het gevolg is van de 
+schending te vergoeden onverlet. 
+€ [invulveld bedrag] per dag, met een 
+maximum van € [invulveld bedrag] 
+ 
+ 
+ 
+Tabel 7 kaders en randvoorwaarden terug-levering 
+Datagebruik Omschrijving  Aanvullende 
+opmerking(en) 
+Dataset(s) of service [Invulveld Ontvangende Partij]  
+Eigenaar dataset(s)/service [Invulveld Ontvangende Partij]  
+Beheerder dataset(s)/service [Invulveld Ontvangende Partij]  
+Wijze verzendmethode 
+(berichtenverkeer) 
+[Invulveld verzendmethode & adres]  
+Beveiligingsmaatregelen bij 
+verzending 
+[Invulveld beveiligingsmaatregelen]  
+E-mailadres voor het 
+doorgeven van een 
+technische wijziging van de 
+dataset(s) of service 
+[Invulveld e-mailadres]  
+Geautoriseerde personen 
+voor gegevensgebruik  
+[Invulveld geautoriseerde personen/organisaties]  
+Publicatievoorwaarde(n): [Invulveld voorwaarden] 
+ 
+ 
+Garantie met betrekking tot de 
+geschiktheid van de 
+Gegevens voor het 
+gebruiksdoel 
+[Invulveld wel/geen garantie]  
+  Gegevensleveringsovereenkomst 
+8 
+ 
+Termijn op indien nodig 
+kosteloze correctie op 
+onjuistheid of onvolledigheid 
+van data 
+[Invulveld termijn]  
+Bewaartermijn Ontvangende 
+Partij voor back-up van 
+geleverde gegevens 
+[Invulveld periode]  
+Afspraak afhandeling 
+geleverde gegevens na de 
+back-up periode 
+[Invulveld: teruggegeven, vernietigen of volgens 
+instructies afgehandeld] 
+ 
+Bij gebreke van de genoemde 
+voorwaarden is 
+Opdrachtnemer genoemde 
+boete verschuldigd. Betaling 
+van de boete laat de verplichting 
+uit dit lid en de gehoudenheid 
+van Ontvangende Partij om de 
+schade die het gevolg is van de 
+schending te vergoeden 
+onverlet. 
+€ [invulveld bedrag] per dag, met een maximum van € 
+[invulveld bedrag] 
+ 
+  
+  Gegevensleveringsovereenkomst 
+9 
+ 
+3 Inhoudelijke afspraken 
+In dit hoofdstuk staat een opsomming van de bestanden met de technische ontsluiting. Dit betreft een 
+omschrijving van de volgens de in de Addendum ARBIT 2022 artikel 101.8 verplichte machine leesbare 
+componenten: 
+ 
+3.1 Aantal bestanden en levering 
+In te vullen door Leverende partij 
+Bestandsnaam/service Bestandsextensie Frequentie (Opbouw) 
+bestandsnaam 
+Start- en 
+einddatum 
+levering  
+    
+     
+ 
+3.2 Inhoudelijke velddefinities   
+In te vullen door Leverende partij 
+ 
+Attribuut Velddefinitie  
+ 
+  
+  
+ 
+3.3 Technische velddefinities 
+In te vullen door Leverende partij 
+ 
+Attribuut Datatype  Lengte  Sleutel  NULL  
+ 
+    
+     
+     
+ 
+3.4 Voorbeeld vorm en inhoud van bestand(en)/service(s) 
+Vrij tekstveld met indeling dataset met voorbeeld visualisatie 
+ 
+3.5 Aantal bestanden en levering bij terug-levering (indien van toepassing) 
+In te vullen door Ontvangende partij 
+Bestandsnaam/service Bestandsextensie Frequentie Opbouw 
+bestandsnaam 
+Start- en 
+einddatum 
+levering  
+    
+     
+ 
+3.6 Inhoudelijke velddefinities bij terug-levering (indien van toepassing) 
+In te vullen door Ontvangende partij 
+Attribuut Velddefinitie Datatype  Lengte  Sleutel  NULL  
+ 
+     
+      
+ 
+ 
+3.7 Technische velddefinities bij terug-levering (indien van toepassing) 
+In te vullen door Ontvangende partij 
+ 
+Attribuut Datatype  Lengte  Sleutel  NULL  
+     
+     
+ 
+3.8 Voorbeeld vorm en inhoud van bestand(en)/service(s) bij terug-levering (indien van toepassing) 
+Vrij tekstveld met indeling dataset met voorbeeld visualisatie 
+ 
+  Gegevensleveringsovereenkomst 
+10 
+ 
+Ondertekening  
+Deze overeenkomst zal volledig van kracht zijn vanaf de datum van ondertekening door de partijen en voor een 
+duur van de afgesproken contract- of projectperiode. Opdrachtgever kan de opdracht en de daarbij behorende 
+GLO verlengen. Indien Opdrachtnemer het wenselijk acht dat deze GLO verlengd wordt, dient Opdrachtnemer 
+daartoe een schriftelijk verzoek in bij Opdrachtgever. Opdrachtgever zal dit verzoek beoordelen en indien nodig 
+zal Opdrachtgever de GLO verlengen. Dit recht komt enkel aan Opdrachtgever toe.  
+ 
+ 
+Rol Organisatie  Naam Rol 
+verantwoordelijke  
+Handtekening  
+Opdrachtgever    
+ 
+Opdrachtnemer    
+ 
+ 
+Na ondertekening dient een kopie van de GLO te worden verstuurd naar het mailadres: data@zeeland.nl. 
+  
+  Gegevensleveringsovereenkomst 
+11 
+ 
+Bijlagen 
+Afwijkingen overeenkomst 
+ 
+(Indien van toepassing)
+
+=== Document: bijlage 4 - algemene inkoopvoorwaarden ===
+Bijlage 4 – Algemene Inkoopvoorwaarden Provincie 
+Zeeland 
+ 
+Vastgesteld door Gedeputeerde Staten van Zeeland op 28 juni 2022.  
+ 
+DEEL A   ALGEMEEN DEEL 
+De bepalingen van deel A zijn van toepassing zowel op leveringen als op diensten. 
+ 
+Artikel 1  Begripsbepalingen 
+De hierna volgende begrippen worden in deze algemene inkoopvoorwaarden in de hierna 
+vermelde betekenis gebruikt: 
+a. Provincie: provincie Zeeland; 
+b. Opdrachtnemer: iedere (rechts)persoon alsmede diens vertegenwoordiger(s), gemachtigde(n) en 
+rechtverkrijgende(n), die met de provincie een Overeenkomst sluit tot het verrichten van leveringen en/of 
+diensten waarop deze algemene inkoopvoorwaarden toepasselijk zijn, alsmede zijn werknemers en door 
+hem bij de uitvoering van de Overeenkomst ingeschakelde derden; 
+c. Partij(en): de provincie en/of de Opdrachtnemer; 
+d. Overeenkomst: de Overeenkomst van Opdracht tussen de provincie en de Opdrachtnemer op basis 
+waarvan de Opdrachtnemer leveringen en/of diensten verricht voor de provincie en de provincie een 
+tegenprestatie voldoet aan de Opdrachtnemer; 
+e. Dag: kalenderdag; 
+f. Schriftelijk: door middel van geschreven documenten, fax- of e-mailcommunicatie, alsmede andere door de 
+wet daarmee gelijk gestelde vormen van communicatie; 
+g. Prestatie: het door de Opdrachtnemer op basis van een Overeenkomst tot stand te brengen resultaat: 
+h. Zaak: roerende zaak, waaronder mede begrepen energie en water: 
+i. Resultaten: alle resultaten van een Overeenkomst waaronder begrepen doch niet uitsluitend alle adviezen, 
+ontwerpen, rapporten, rapportages, protocollen, modellen e.d. die door een Opdrachtnemer in het kader van 
+een Overeenkomst voor en in Opdracht van de provincie worden opgesteld, samengesteld of vervaardigd. 
+ 
+Artikel 2 Overeenkomst 
+1. Afwijkingen van deze algemene inkoopvoorwaarden gelden uitsluitend voor zover ze uitdrukkelijk schriftelijk 
+door de provincie zijn aanvaard en gelden slechts voor de Overeenkomst waarop ze betrekking hebben. 
+2. Een wijziging van de Overeenkomst komt uitsluitend tot stand nadat een partij een voorstel van de andere 
+partij schriftelijk heeft aanvaard. 
+3. Indien enige bepaling van deze algemene inkoopvoorwaarden en van een Overeenkomst nietig is of 
+vernietigd wordt, blijven de overige bepalingen onverkort en volledig van kracht. 
+4. In het geval als bedoeld in het derde lid van dit artikel treden partijen in overleg teneinde nieuwe 
+rechtsgeldige bepalingen ter vervanging van de nietige dan wel vernietigde bepalingen overeen te komen, 
+waarbij zoveel mogelijk het doel en de strekking van laatstbedoelde bepalingen in acht worden genomen. 
+5. In geval van strijdigheid tussen een bepaling in een Overeenkomst en een bepaling in deze algemene 
+inkoopvoorwaarden, prevaleert de bepaling uit de Overeenkomst. 
+6. Indien de provincie tekeningen, modellen, specificaties, instructies, planningen, keuringsvoorschriften en 
+dergelijke voorschrijft, maken deze deel uit van de Overeenkomst. 
+  
+Artikel 3 Meerwerk en minderwerk 
+1. Indien door aanvullende wensen en/of door gewijzigde inzichten van de provincie en/of door wijziging van 
+wettelijke voorschriften, de prestatie die de Opdrachtnemer op grond van de Overeenkomst moet verrichten, 
+aantoonbaar wordt verzwaard en/of uitgebreid, is sprake van meerwerk. 
+2. Tot meerwerk als bedoeld in het eerste lid worden niet gerekend essentiële werkzaamheden die de 
+Opdrachtnemer bij het sluiten van de Overeenkomst had kunnen en/of behoren te voorzien. 
+3. Indien de prestatie die de Opdrachtnemer op grond van de Overeenkomst moet verrichten, aantoonbaar 
+wordt verlicht en/of verminderd, is sprake van minderwerk. 
+4. Indien een partij meent dat van meer- en/of minderwerk sprake is, doet zij daarvan tijdig en schriftelijk 
+mededeling aan de andere partij onder opgave van de financiële en andere gevolgen daarvan voor de 
+uitvoering van de Overeenkomst. 
+5. De Opdrachtnemer vangt niet aan met de uitvoering van meer- en/of minderwerk dan na een schriftelijke 
+Opdracht daartoe van de provincie. 
+6. Meerwerk dat niet vooraf schriftelijk is overeengekomen, wordt niet door de provincie vergoed. 
+7. De Opdrachtnemer zendt een aparte en gespecificeerde nota voor het meer- en/of minderwerk. 
+ 
+ 
+Artikel 4 Verplichtingen Opdrachtnemer 
+1. De Opdrachtnemer besteedt de uitvoering van de Overeenkomst niet in zijn geheel uit aan een derde. 
+2. De Opdrachtnemer besteedt de uitvoering van de Overeenkomst niet gedeeltelijk uit aan een derde, tenzij 
+hiermee voorafgaand schriftelijk is ingestemd door de provincie. 
+3. Het is Opdrachtnemer niet toegestaan  de personen die zijn belast met de uitvoering van de Overeenkomst 
+en die in de Overeenkomst zijn benoemd tijdelijk dan wel  definitief te vervangen, tenzij hiermee vooraf 
+schriftelijk is ingestemd door de provincie. 
+4. De provincie onthoudt haar instemming als bedoeld in de vorige leden niet en verbindt daaraan geen 
+voorwaarden, tenzij dit in het voorkomende geval redelijk kan worden geacht. 
+5. De Opdrachtnemer levert zijn prestatie goed en zorgvuldig, naar beste weten en kunnen op een wijze die 
+aan de Overeenkomst beantwoordt en binnen de overeengekomen termijn. De Opdrachtnemer maakt 
+daarbij geen inbreuk op intellectuele of industriële eigendomsrechten van derden en leeft alle van 
+toepassing zijnde wettelijke eisen en overige overheidsvoorschriften na. 
+6.     Indien sprake is van het leveren van gegevens, informatie of dienstverlening ten behoeve van digitale 
+producten dient de Opdrachtnemer tevens te voldoen aan relevante wetgeving op gebied van digitale 
+producten, waaronder wetgeving op het gebied van digitale toegankelijkheid, digitalisering en transformatie. 
+7. De Opdrachtnemer levert analoog of digitaal diensten, (digitale) producten, gegevens of informatie die 
+aantoonbaar voldoen aan een relevante informatiebeveiligingsnorm en wet- en regelgeving op het gebied 
+van informatieveiligheid en omgang met (persoons)gegevens. De Opdrachtnemer is gehouden om mee te 
+werken aan een audit die de provincie (laat) uitvoeren, waarin getoetst wordt of Opdrachtnemer voldoet aan 
+de gevraagde informatiebeveiligingseisen. De Opdrachtnemer werkt kosteloos aan de audit mee en stelt alle 
+voor de audit redelijkerwijs relevante informatie binnen een redelijke termijn van drie weken ter beschikking, 
+tenzij een spoedeisend belang zich hiertegen verzet. 
+8. De Opdrachtnemer gebruikt de in het kader van de Overeenkomst door de provincie aan de Opdrachtnemer 
+verstrekte informatie en documentatie, waaronder tekeningen en modellen, alleen indien en voor zover dat 
+in het kader van de uitvoering van de Overeenkomst noodzakelijk is. 
+9. De informatie en documentatie als bedoeld in het achtste lid, blijft te allen tijde eigendom van de provincie. 
+10. Verplichtingen die naar hun aard zijn bestemd om ook na uitvoering van de Overeenkomst voort te duren, 
+behouden hun werking ook nadat de Overeenkomst is beëindigd. 
+11.  De Opdrachtnemer is, indien wettelijk vereist dan wel op eerste verzoek van de provincie, verplicht een G- 
+rekening als bedoeld in de Invorderingswet 1990 en de Uitvoeringsregeling inleners-, keten- en 
+Opdrachtgeversaansprakelijkheid 2004, ter beschikking te stellen, ten behoeve van de afdracht van door de 
+Opdrachtnemer verschuldigde loonbelasting en sociale premies. De provincie zal alsdan een vooraf met de 
+Opdrachtnemer afgesproken percentage van het factuurbedrag overmaken op de G-rekening. 
+  
+Artikel 5 Geheimhouding en bekendmaking 
+1. Partijen zijn verplicht alle direct of indirect van de andere partij vertrouwelijk verkregen informatie en 
+(persoons)gegevens vertrouwelijk te behandelen, ook na afloop van de Overeenkomst. 
+2. Partijen maken de informatie en (persoons)gegevens als bedoeld in het eerste lid, niet aan derden 
+openbaar, tenzij hiermee vooraf schriftelijk is ingestemd door de andere partij, of op grond van een wettelijke 
+verplichting of een rechterlijk bevel. Artikel 4, vierde lid, is van Overeenkomstige toepassing. 
+3. De Opdrachtnemer maakt in publicaties of reclame-uitingen geen melding van de Overeenkomst en de 
+resultaten hiervan en gebruikt de naam en/of het logo van de provincie niet als referentie, tenzij de provincie 
+hiermee vooraf schriftelijk heeft ingestemd. Artikel 4, vierde lid, is van Overeenkomstige toepassing. 
+4. In geval van overtreding van de voorgaande leden door de Opdrachtnemer, verbeurt de Opdrachtnemer aan 
+de provincie een onmiddellijk opeisbare boete van € 5.000, - per geval. 
+5. Voor de opeisbaarheid van deze boete(s) is geen ingebrekestelling vereist en deze geldt onverminderd enig 
+ander aan de provincie toekomend recht, waaronder het recht op volledige schadevergoeding en nakoming. 
+6. De provincie kan persberichten en andere openbare mededelingen coördineren. 
+ 
+Artikel 5a Verwerking persoonsgegevens 
+1. Opdrachtnemer handelt te allen tijde conform de Algemene verordening 
+gegevensbescherming indien er sprake is van verwerking van persoonsgegevens. 
+2. Voor zover Opdrachtnemer als (gedeelde) verwerker zoals bedoeld in de Algemene verordening 
+gegevensbescherming in het kader van de uitvoering van een Overeenkomst persoonsgegevens voor of 
+met de provincie verwerkt, garandeert Opdrachtnemer de toepassing van aantoonbare best mogelijke 
+passende technische en organisatorische maatregelen, opdat de verwerking aan de vereisten en beginselen 
+van de Algemene verordening gegevensbescherming voldoet en de bescherming -tegen verlies of tegen 
+enige vorm van onrechtmatige verwerking- van de persoonsgegevens is gewaarborgd.  
+3. Opdrachtnemer verwerkt persoonsgegevens uitsluitend in Opdracht en -indien van toepassing- op basis van 
+schriftelijke instructies van de provincie behoudens afwijkende wettelijke voorschriften.  
+4. Indien sprake is van een verwerking door Opdrachtnemer in de rol van verwerker, handelen partijen conform 
+artikel 28 Algemene verordening gegevensbescherming. Partijen kunnen de verwerking nader regelen door 
+het sluiten van een verwerkersOvereenkomst.  
+ 
+Artikel 6 Toetsing 
+1. De provincie heeft het recht de prestatie te (laten) toetsen.  
+2. De provincie kan de toetsing bedoeld in het eerste lid, zowel voor, tijdens als binnen een redelijke termijn na 
+de levering van de prestatie (laten) uitvoeren. 
+ 
+Artikel 7 Niet-tijdige nakoming 
+1. De Opdrachtnemer meldt een dreigende termijnoverschrijding zo spoedig mogelijk schriftelijk aan de 
+provincie, waarbij hij de aard van de dreigende termijnoverschrijding, de te treffen maatregelen en de 
+verwachte duur van de vertraging vermeldt. 
+2. De provincie bevestigt schriftelijk de ontvangst van de melding als bedoeld in het eerste lid en geeft daarbij 
+aan of zij instemt met de voorgestelde handelwijze. Deze instemming houdt niet in dat de provincie de 
+oorzaak van de dreigende vertraging erkent en laat alle andere rechten en/of vorderingen die de provincie 
+op grond van de Overeenkomst toekomen, onverlet. 
+ 
+Artikel 8 Tekortkoming in de nakoming 
+1. Een tekortkoming in de nakoming ten gevolge van de volgende omstandigheden is in ieder geval 
+toerekenbaar aan de tekortschietende partij: gebrek aan personeel, ziekte en/of staking van personeel, 
+verlate levering van zaken, files, liquiditeitsproblemen, toerekenbare tekortkoming in de nakoming van door 
+de Opdrachtnemer ingeschakelde derden en/of andere, voorzienbare omstandigheden waarop de 
+Opdrachtnemer had kunnen en moeten anticiperen. 
+2. De provincie heeft het recht om voor rekening van en na overleg met de Opdrachtnemer herstel en/of 
+vervanging zelf uit te voeren of door derden te laten uitvoeren, onverminderd de mogelijkheden die de wet 
+biedt en de overige rechten die haar toekomen, in de volgende gevallen: 
+a. nakoming is blijvend onmogelijk; 
+b. de in een schriftelijke ingebrekestelling gestelde termijn voor nakoming is ongebruikt verlopen; 
+c. er is sprake van zodanige spoedeisendheid dat onmiddellijke actie is geboden. 
+  
+Artikel 9 Aansprakelijkheid 
+1. Tenzij anders overeengekomen, is de partij die toerekenbaar tekortschiet in de nakoming van haar 
+verplichtingen, tegenover de andere partij aansprakelijk voor de door de andere partij geleden en/of te lijden 
+schade, met dien verstande dat de aansprakelijkheid  beperkt is tot een bedrag van: 
+– voor Opdrachten waarvan de totale waarde kleiner is dan of gelijk aan € 50.000,-: € 150.000,- per 
+gebeurtenis met een maximum aantal van 3 gebeurtenissen; 
+– voor Opdrachten waarvan de totale waarde meer is dan € 50.000,- maar kleiner dan of gelijk aan € 
+100.000,-: € 300.000,- per gebeurtenis met een maximum aantal van 3 gebeurtenissen; 
+– voor Opdrachten waarvan de totale waarde meer is dan € 100.000,– maar kleiner dan of gelijk aan € 
+150.000,-: € 500.000,- per gebeurtenis met een maximum aantal van 3 gebeurtenissen; 
+– voor Opdrachten waarvan de totale waarde meer is dan € 150.000,- maar kleiner dan of gelijk aan € 
+500.000,-: € 1.500.000,- per gebeurtenis met een maximum aantal van 3 gebeurtenissen; 
+– voor Opdrachten waarvan de totale waarde meer is dan € 500.000,-: € 3.000.000,- per gebeurtenis met 
+een maximum aantal van 3 gebeurtenissen. 
+Samenhangende gebeurtenissen worden aangemerkt als één gebeurtenis. 
+2. De beperking van de aansprakelijkheid als bedoeld in het eerste lid komt te vervallen: 
+a. in geval van aanspraken van derden op schadevergoeding voor dood- en letselschade; 
+b. indien sprake is van opzet of grove schuld aan de zijde van de tekortschietende partij; 
+c. in geval van schending van intellectuele eigendomsrechten als bedoeld in artikel 4, vijfde lid. 
+In deze gevallen zijn de bepalingen uit afdeling 6.1.10 BW onverkort van toepassing, wat betekent dat de 
+aansprakelijkheid van partijen niet door deze algemene voorwaarden wordt beperkt maar door de regeling 
+daarvan in de wet. 
+3. Onder derden als bedoeld in het tweede lid, worden mede begrepen volksvertegenwoordigers, bestuurders, 
+werknemers en andere voor de provincie werkzame personen. 
+4. Indien een derde de provincie aansprakelijk stelt voor handelen of nalaten waarvoor de Opdrachtnemer 
+aansprakelijk is op grond van het bepaalde in de wet, deze algemene voorwaarden, de Overeenkomst en 
+bijbehorende documenten, neemt de Opdrachtnemer de behandeling van deze aanspraak op eerste 
+verzoek van de provincie en voor eigen rekening en risico over en vrijwaart de provincie ter zake, met 
+inachtneming van het eerste en tweede lid van dit artikel. 
+5. Alle kosten, waaronder begrepen schadevergoeding, boetes en rente, die de provincie heeft gemaakt in 
+verband met de behandeling van een aanspraak als bedoeld in het vierde lid, komen voor rekening van de 
+Opdrachtnemer. 
+6. In het geval de belastingdienst of instanties aan wie de uitvoering van de sociale verzekeringswetgeving is 
+opgedragen de rechtsverhouding tussen partijen aanmerken als een fictieve dienstbetrekking, neemt de 
+Opdrachtnemer de behandeling van alle aanspraken, waaronder begrepen boetes, rente en kosten, op 
+eerste verzoek van de provincie en voor eigen rekening en risico over. 
+7. De Opdrachtnemer verklaart dat hij genoegzaam is verzekerd en zich genoegzaam verzekerd zal houden 
+tegen de aansprakelijkheid zoals bedoeld in deze algemene voorwaarden, de Overeenkomst en 
+bijbehorende documenten. 
+ 
+ 
+ 
+Artikel 10 Ontbinding 
+1. Partijen hebben het recht, onverminderd de mogelijkheden die de wet biedt en de overige rechten die hen 
+toekomen, de Overeenkomst tussen partijen buiten rechte te ontbinden, indien de andere partij enige 
+verplichting uit de Overeenkomst niet tijdig en/of niet behoorlijk nakomt en voor zover de tekortkoming 
+vatbaar is voor herstel, nalaat zodanige tekortkoming te herstellen binnen de in een schriftelijke 
+ingebrekestelling gestelde termijn voor nakoming. 
+2. Onverminderd de mogelijkheden die de wet biedt en de overige rechten die haar toekomen, heeft de 
+provincie het recht om de Overeenkomst tussen partijen direct en zonder ingebrekestelling buiten rechte te 
+ontbinden, indien: 
+a. de Opdrachtnemer in staat van faillissement of in surséance van betaling verkeert, of op een 
+aanmerkelijk deel van haar vermogen beslag wordt gelegd; 
+b. de Opdrachtnemer overlijdt of anderszins in de (fysieke) onmogelijkheid komt te verkeren om de 
+Overeenkomst uit te voeren; 
+c. de bedrijfsvoering van de Opdrachtnemer (deels) is stilgelegd, hij zijn activiteiten (deels) heeft gestaakt 
+of overgedragen of hij in liquidatie verkeert; 
+d. de zeggenschap over of binnen de Onderneming van de Opdrachtnemer wijzigt bijvoorbeeld door 
+wijziging van aandeelhouders of wisseling van bestuursleden; 
+e. personeelsleden van of personen die werkzaam zijn bij de provincie, een al dan niet betaalde 
+nevenfunctie bij de Opdrachtnemer vervullen of ten tijde van de onderhandelingen hebben vervuld of 
+die belangen hebben bij de Opdrachtnemer of bij diens bedrijfsvoering, zonder dat de provincie 
+daarvan voor de totstandkoming van de Overeenkomst in kennis is gesteld; 
+f. feiten of omstandigheden in relatie tot het bedrijf of de persoon van de Opdrachtnemer bekend worden, 
+die, waren deze bekend geweest vóór het tot stand komen van de Overeenkomst, aanleiding zouden 
+zijn geweest om geen Overeenkomst met deze Opdrachtnemer aan te gaan. 
+3. De Opdrachtnemer is verplicht de provincie terstond te informeren over het optreden of redelijkerwijs 
+voorzienbaar zijn van een van de omstandigheden als bedoeld in het tweede lid. 
+4. In geval van ontbinding van de Overeenkomst heeft de Opdrachtnemer geen recht op enige 
+schadevergoeding. 
+5. In geval van ontbinding heeft de provincie het recht om de reeds door de Opdrachtnemer geleverde en door 
+de provincie betaalde prestatie te blijven gebruiken. 
+6. De provincie kan afgifte vorderen van hetgeen reeds op basis van de Overeenkomst is ontwikkeld of 
+gerealiseerd en van de gegevens die nodig zijn om een en ander te kunnen voltooien en gebruiken, tegen 
+betaling van een corresponderend deel van de overeengekomen tegenprestatie. 
+7. Partijen kunnen overeenkomen dat de Opdrachtnemer de prestatie zodanig afrondt, dat deze voldoet aan 
+hetgeen is overeengekomen dan wel dat deze door een ander kan worden voltooid. 
+ 
+Artikel 11 Prijzen en tarieven 
+1. Prijzen en tarieven zijn vast voor de duur van de Overeenkomst en in euro’s en omvatten alle belastingen, 
+maar exclusief BTW en betreffen de overeengekomen prestatie, alsmede alle overige kosten, zoals die van 
+training of inwerking van personeel, reis- en verblijf- en voorrijkosten, administratiekosten en de kosten van 
+de verpakking. 
+2. De in het eerste lid bedoelde prijzen gelden ook voor meer- en minderwerk als bedoeld in artikel 3. 
+  
+Artikel 12 Betaling 
+1.  Tenzij factureringsmomenten zijn overeengekomen, zendt de Opdrachtnemer niet eerder een factuur aan de 
+provincie dan nadat de prestatie is verricht en geaccepteerd. 
+2. In een factuur is in ieder geval opgenomen: 
+a. opgave van het aantal werkelijk en noodzakelijk bestede uren, alsmede de datums waarop een en 
+ander is verricht, of 
+b. een korte omschrijving van de verrichte prestatie. 
+3. De provincie voldoet binnen dertig dagen na ontvangst en goedkeuring van de desbetreffende factuur de op 
+grond van de Overeenkomst verschuldigde bedragen, mits gefactureerd Overeenkomstig de 
+factureringsafspraken en na acceptatie van de prestatie en de bijbehorende documentatie. 
+4. In geval van te late betaling is de provincie de wettelijke rente verschuldigd. 
+5. In geval van vooruitbetaling door de provincie verstrekt de Opdrachtnemer op eerste verzoek daartoe en 
+voorafgaand aan de eerste vooruitbetaling, op zijn kosten voldoende zekerheid voor (terug)betaling, voor het 
+geval de Opdrachtnemer op enigerlei wijze tekort schiet in de nakoming van zijn verplichtingen waarop de 
+vooruitbetaling ziet. 
+6. De zekerheid wordt verstrekt door middel van een originele verklaring (bankgarantie “op afroep”) van een 
+erkende kredietinstelling ter hoogte van het door de provincie vooruit te betalen of vooruitbetaalde bedrag, 
+vermeerderd met eventuele rente en kosten, een en ander goed te keuren door de provincie. 
+7. Indien is overeengekomen dat betaling volgens nacalculatie plaatsvindt, specificeert de Opdrachtnemer de 
+factuur zoals overeengekomen. 
+8. Betaling door de provincie houdt op geen enkele wijze afstand van enig recht in. 
+9. Het is de Opdrachtnemer niet toegestaan zijn prestatie te verrekenen met een vordering op de provincie, uit 
+welken hoofde dan ook verschuldigd. 
+10. De provincie heeft het recht de voldoening van een factuur op te schorten in het geval van een dreigende 
+vertraging als bedoeld in artikel 7, eerste lid, of een toerekenbare tekortkoming als bedoeld in artikel 8, 
+eerste lid. 
+11. Overschrijding van een betalingstermijn door de provincie of niet-betaling van een factuur op grond van 
+vermoedelijke inhoudelijke onjuistheid daarvan of in geval van ondeugdelijkheid van de prestatie, geeft de 
+Opdrachtnemer niet het recht zijn werkzaamheden op te schorten dan wel te beëindigen. 
+12. De provincie kan de factuur door een door haar aan te wijzen accountant als bedoeld in artikel 393, eerste 
+lid, van Boek 2 van het Burgerlijk Wetboek op inhoudelijke juistheid laten controleren. De Opdrachtnemer 
+verleent de betrokken accountant inzage in boeken en bescheiden en verstrekt hem alle gegevens en 
+informatie die deze verlangt. 
+13. De controle als bedoeld in het twaalfde lid, is vertrouwelijk en strekt zich niet verder uit dan voor het 
+verifiëren van de facturen is vereist. 
+14. De accountant brengt zijn rapportage zo spoedig mogelijk aan partijen uit. 
+15. De kosten van het accountantsonderzoek als bedoeld in de vorige leden, komen voor rekening van de 
+provincie, tenzij uit het onderzoek van de accountant blijkt dat de factuur niet juist dan wel onvolledig is, in 
+welk geval bedoelde kosten voor rekening van de Opdrachtnemer komen. 
+  
+Artikel 13 Zaken van de provincie 
+1. In het geval de provincie aan de Opdrachtnemer zaken, zoals grondstoffen, hulpstoffen, gereedschappen, 
+tekeningen, specificaties en software, ter beschikking heeft gesteld ten behoeve van de uitvoering van de 
+Overeenkomst, blijven deze zaken eigendom van de provincie. Aan de terbeschikkingstelling kunnen 
+voorwaarden worden verbonden. 
+2. De Opdrachtnemer bewaart de ter beschikking gestelde zaken afgescheiden van soortgelijke zaken welke 
+behoren aan hemzelf of aan derden. 
+3. De Opdrachtnemer zal de ter beschikking gestelde zaken merken als eigendom van de provincie. 
+4. De Opdrachtnemer retourneert kosteloos al hetgeen hij in het kader van de uitvoering van de Overeenkomst 
+van de provincie onder zich heeft, uiterlijk binnen veertien dagen nadat de Overeenkomst is uitgevoerd, dan 
+wel uiterlijk binnen veertien dagen na een verzoek daartoe van de provincie. 
+5. Het is de Opdrachtnemer niet toegestaan een kopie van de in het eerste lid bedoelde zaken te bewaren of te 
+gebruiken, anders dan in het kader van zijn archiveringsverplichtingen. 
+ 
+Artikel 14 Arbeidsvoorwaarden en arbeidsdiscriminatie 
+1. Opdrachtnemer houdt zich bij het verrichten van de werkzaamheden aan de geldende wet- en regelgeving 
+op het gebied van arbeidsvoorwaarden en aan de CAO die op hem en zijn werknemers van toepassing is. 
+2. Opdrachtnemer legt alle arbeidsvoorwaardelijke afspraken ten behoeve van het verrichten van de 
+werkzaamheden op een inzichtelijke en toegankelijke wijze vast. 
+3. Opdrachtnemer verschaft desgevraagd en onverwijld aan bevoegde instanties toegang tot deze 
+arbeidsvoorwaardelijke afspraken en werkt mee aan controles, audits of loonvalidatie. 
+4. Opdrachtnemer verschaft desgevraagd en onverwijld aan provincie toegang tot de in lid 2 genoemde 
+arbeidsvoorwaardelijke afspraken indien provincie dit noodzakelijk acht in verband met het voorkomen van 
+of de behandeling van een loonvordering aangaande verrichte arbeid ten behoeve van de uitvoering van de 
+Overeenkomst, tenzij een wettelijke verplichting van Opdrachtnemer zich daartegen verzet. 
+5.  Opdrachtnemer legt een verplichting op aan alle partijen waarmee hij contracten aangaat ten behoeve van 
+het verrichten van werkzaamheden zich aan de voor hen geldende wet- en regelgeving op het gebied van 
+arbeidsbescherming en arbeidsvoorwaarden te houden, en bedingt tevens dat deze partijen vervolgens 
+deze verplichting opleggen aan alle partijen met wie zij op hun beurt contracten aangaan ten behoeve van 
+het verrichten van de werkzaamheden. 
+6. Ter voorkoming van het maken van ongeoorloofd onderscheid, in het bijzonder naar godsdienst, 
+levensovertuiging, politieke gezindheid, geslacht, ras, nationaliteit, seksuele geaardheid, burgerlijke staat, 
+handicap, chronische ziekte, leeftijd of welke grond dan ook, zullen alleen functierelevante eisen betreffende 
+de uitvoering van de Overeenkomst door de Opdrachtnemer aan haar personeel en/of onderaannemers 
+kunnen worden gesteld en door de provincie worden meegewogen. 
+ 
+Artikel 15 Overdracht van rechten en/of verplichtingen 
+1. Het is partijen niet toegestaan hun rechten en verplichtingen op basis van de Overeenkomst zonder 
+voorafgaande schriftelijke instemming van de andere partij(en) geheel of gedeeltelijk over te dragen aan een 
+derde. Aan dit verbod komt goederenrechtelijke werking toe in de zin van artikel 3:83, tweede lid, van het 
+Burgerlijk Wetboek. Artikel 4, vierde lid, is van Overeenkomstige toepassing. 
+2. Het eerste lid geldt niet ten aanzien van het vestigen van een pandrecht. 
+ 
+Artikel 15a Gegevens 
+1. Indien in het kader van de Overeenkomst gegevens door de provincie aan Opdrachtnemer worden verstrekt, 
+gelden de volgende voorwaarden. 
+a. Met het sluiten van de Overeenkomst worden geen rechten overgedragen door de provincie aan 
+Opdrachtnemer. 
+b. Opdrachtnemer zal de gegevens uitsluitend gebruiken voor de uitvoering van de Overeenkomst.  
+c. De gegevens mogen niet zonder schriftelijke toestemming van de provincie aan een derde ter 
+beschikking worden gesteld. 
+d. Op het moment dat de Overeenkomst eindigt of op verzoek van de provincie, zal Opdrachtnemer de 
+verkregen gegevens vernietigen of aan de provincie terug leveren conform instructie van de provincie. 
+Tenzij een wettelijke verplichting zich daartegen verzet. 
+2. Indien Opdrachtnemer gegevens creëert, verzamelt of verwerft, die onderdeel uitmaken of gaan maken van de 
+Overeenkomst, gelden de volgende voorwaarden. 
+a. Alle rechten met betrekking tot de gegevens, rusten in beginsel bij de provincie. Op schriftelijk verzoek 
+van de provincie, zal Opdrachtnemer rechten die op de gegevens rusten aan de provincie overdragen. 
+b. Tenzij partijen schriftelijk anders overeenkomen, zal Opdrachtnemer de gegevens uitsluitend gebruiken 
+voor de uitvoering van de Overeenkomst. 
+c. De gegevens mogen niet zonder schriftelijke toestemming van de provincie aan een derde ter 
+beschikking worden gesteld. 
+d. Op het moment dat de Overeenkomst eindigt of op verzoek van de provincie, zal Opdrachtnemer de 
+gegevens vernietigen of aan de provincie terug leveren conform instructie van de provincie. Tenzij een 
+wettelijke verplichting zich daartegen verzet. 
+e. Indien de door de Opdrachtnemer geleverde gegevens onjuist of onvolledig zijn, dient de 
+Opdrachtnemer, ook na beëindiging van de Overeenkomst, kosteloos medewerking te verlenen om de 
+onjuistheid of onvolledigheid te corrigeren. 
+3. Indien Opdrachtnemer in het kader van de Overeenkomst gegevens creëert, verzamelt of anderszins verwerft, 
+maar de gegevens geen onderdeel uitmaken of gaan maken van de Overeenkomst, gelden de volgende 
+voorwaarden. 
+a. Op eerste verzoek van de provincie zal Opdrachtnemer een kopie van de gegevens aan de provincie 
+verstrekken. 
+b. De provincie verkrijgt het recht om de gegevens te gebruiken, in de breedste zin van het woord.  
+c. Gedurende de looptijd van de Overeenkomst is Opdrachtnemer verplicht om de gegevens onder zich te 
+houden. 
+d. Op het moment dat de Overeenkomst eindigt, zal Opdrachtnemer op verzoek van de provincie een kopie 
+van de gegevens verstrekken.   
+4. Levering van gegevens door Opdrachtnemer aan de provincie vindt altijd plaats in een door de provincie aan te 
+wijzen bestandsformaat en door middel van een door de provincie aan te wijzen verzendmethode. Tenzij partijen 
+schriftelijk anders overeenkomen, is de provincie voor de levering van gegevens op grond van dit artikel geen 
+vergoeding verschuldigd aan Opdrachtnemer. 
+ 
+Artikel 16 Toepasselijk recht en geschillen 
+1. Op de Overeenkomst en alle Overeenkomsten die daaruit voortvloeien is uitsluitend Nederlands recht van 
+toepassing. 
+2. Partijen lossen waar mogelijk hun geschillen op door middel van goed overleg. 
+3.  Indien partijen niet tot een oplossing komen of in spoedeisende gevallen, zullen de geschillen worden 
+voorgelegd aan de bevoegde rechter in het arrondissement van de hoofdstad van de provincie. 
+ 
+DEEL B  LEVERINGEN 
+De bepalingen van deel B zijn van toepassing op de levering van zaken, naast de bepalingen van deel A. 
+ 
+Artikel 17 Specifieke garanties voor leveringen 
+1. Een geleverde zaak bezit tenminste de eigenschappen die zijn overeengekomen en welke de provincie op 
+grond van de Overeenkomst mag verwachten. 
+2. Voor een geleverde zaak geldt een garantietermijn van 24 maanden, tenzij uit wet of jurisprudentie een 
+langere termijn volgt dan wel de Opdrachtnemer of de branche van de Opdrachtnemer een langere termijn 
+hanteert, in welk geval de langste termijn geldt. 
+3. De Opdrachtnemer herstelt voor eigen rekening alle fouten en gebreken die zich binnen de garantietermijn 
+openbaren en die niet te wijten zijn aan normale slijtage of onoordeelkundig gebruik. 
+4. De Opdrachtnemer garandeert dat gedurende de gebruikelijke levensduur van de geleverde zaak nieuwe 
+onderdelen voorhanden zijn om fouten en gebreken aan deze zaak te kunnen herstellen. 
+ 
+Artikel 18 Aflevering van een zaak 
+1. Aflevering vindt plaats op de overeengekomen locatie en het overeengekomen tijdstip en geschiedt voor 
+rekening en risico, waaronder transport en verzekeringen, van de Opdrachtnemer. 
+2. De Opdrachtnemer overhandigt alle documenten die betrekking hebben op of verband houden met een te 
+leveren zaak, zoals certificaten, paklijsten, gebruiksaanwijzingen (in Nederlandse taal gesteld), uiterlijk ten 
+tijde van de aflevering aan de provincie of zendt deze, zo mogelijk, op voorhand aan de provincie. 
+3. De Opdrachtnemer voert alle gebruikte verpakkingsmaterialen voor zijn rekening en risico af en draagt zorg 
+voor een milieuvriendelijke verwerking. 
+ 
+ 
+ 
+Artikel 19 Risico- en eigendomsovergang 
+De eigendom en het risico van een zaak gaat pas over op de provincie zodra de zaak is gemonteerd en/of 
+geïnstalleerd, zich in de feitelijke macht van de provincie bevindt en na acceptatie van de levering. 
+ 
+ 
+ 
+Artikel 20 Toepasselijk recht 
+De toepasselijkheid van het Weens koopverdrag, en van eventuele andere, internationale regelingen inzake koop 
+van roerende zaken, voor zover de werking hiervan door partijen kan worden uitgesloten, is uitgesloten. 
+ 
+  
+DEEL C  DIENSTEN 
+De bepalingen van deel C zijn van toepassing op diensten, naast de bepalingen van deel A. 
+ 
+Artikel 21 Verplichtingen van de Opdrachtnemer 
+1. De Opdrachtnemer verricht de dienst met de zorgvuldigheid, deskundigheid en professionaliteit die 
+gebruikelijk is binnen de branche of beroepsgroep van de Opdrachtnemer. 
+2. De Opdrachtnemer zet uitsluitend gekwalificeerde personen in voor het uitvoeren van de Overeenkomst. 
+3. Indien nodig, zorgt de Opdrachtnemer voor adequate vervanging van de in het tweede lid bedoelde 
+personen. 
+4. De aan vervanging als bedoeld in het derde lid verbonden meerkosten zijn voor rekening van de 
+Opdrachtnemer. 
+5. De Opdrachtnemer zet uitsluitend personen in die in Nederland arbeid mogen verrichten. 
+ 
+Artikel 22 Intellectuele en industriële eigendomsrechten 
+1. Alle intellectuele en industriële eigendomsrechten en databankrechten die zullen ontstaan of kunnen worden 
+uitgeoefend ten aanzien van de resultaten van de Overeenkomst berusten in beginsel te allen tijde bij 
+de provincie. Dit uitgangspunt geldt niet: 
+- inzake rechten op eventueel ten behoeve van de Opdracht door de Opdrachtnemer ontwikkelde 
+software modellering en de daarvoor gebruikte softwareprogrammatuur, 
+- op andere door de Opdrachtnemer in het kader van de Overeenkomst ontwikkelde kennis en 
+knowhow die ten grondslag ligt aan het aan de provincie geleverde resultaat. 
+2. De Opdrachtnemer draagt alle intellectuele en industriële eigendomsrechten die mochten ontstaan ten 
+aanzien van de prestatie – voor zover mogelijk – op het moment van het ontstaan daarvan bij voorbaat en 
+om niet over aan de provincie, welke overdracht door de provincie reeds nu voor alsdan wordt aanvaard. 
+Voor zover voor de overdracht van de genoemde rechten op enig moment een nadere akte zou zijn vereist, 
+machtigt de Opdrachtnemer de provincie reeds nu voor alsdan onherroepelijk om zodanige akte op te 
+maken en mede namens de Opdrachtnemer te ondertekenen, onverminderd de verplichting van de 
+Opdrachtnemer om op eerste verzoek van de provincie aan de overdracht van deze rechten medewerking te 
+verlenen, zonder daarbij voorwaarden te kunnen stellen. 
+3. De Opdrachtnemer doet met de totstandkoming van de Overeenkomst afstand jegens de provincie van alle 
+eventueel aan hem, Opdrachtnemer, toekomende zogenoemde persoonlijkheidsrechten, in de mate als de 
+toepasselijke regelgeving zodanige afstand toelaat. De Opdrachtnemer doet, hiertoe gevolmachtigd, ook 
+namens het aan zijn zijde betrokken personeel, afstand jegens de provincie van alle eventueel aan deze 
+personeelsleden toekomende persoonlijkheidsrechten, in de mate waarin de toepasselijke regelgeving 
+zodanige afstand toelaat. 
+4. De Opdrachtnemer mag de resultaten van de Overeenkomst waarop krachtens het eerste lid een 
+eigendomsrecht ten behoeve van de provincie rust enkel voor zichzelf of ten behoeve van derden gebruiken 
+zolang de belangen van de provincie hierdoor niet worden geschaad. 
+5. Indien de intellectuele eigendomsrechten niet berusten bij de provincie zoals gesteld in lid 1, verleent 
+Opdrachtnemer de provincie door het sluiten van de Overeenkomst een eeuwigdurend gebruiksrecht ten 
+aanzien van de in het eerste lid bedoelde, uitgezonderde rechten. 
+6.     De provincie geldt als ontwerper in de zin van het  Benelux-verdrag inzake de          intellectuele eigendom 
+(merken en tekeningen of modellen) en heeft bij uitsluiting het recht om een eindproduct dat daarvoor in 
+aanmerking komt te deponeren bij het in  dat  Benelux-verdrag bedoelde bureau, al dan niet door 
+tussenkomst van een nationale dienst. 
+7. Indien een derde de provincie aansprakelijk stelt ter zake van (gestelde) inbreuk op intellectuele of 
+industriële eigendomsrechten van die derde, vergelijkbare aanspraken met betrekking tot kennis, 
+ongeoorloofde mededinging en dergelijke daaronder begrepen, waarvoor de Opdrachtnemer aansprakelijk 
+is op grond van het bepaalde in deze algemene voorwaarden, de Overeenkomst en bijbehorende 
+documenten, neemt de Opdrachtnemer de behandeling van deze aanspraak op eerste verzoek van de 
+provincie en voor eigen rekening en risico over. De Opdrachtnemer verplicht zich tot het op zijn kosten 
+treffen van alle maatregelen die kunnen bijdragen tot voorkoming van stagnatie en tot beperking van de te 
+maken extra kosten en/of te lijden schade als gevolg van bedoelde inbreuken. 
+ 
+DEEL D  SLOTBEPALINGEN 
+ 
+Artikel 23 Intrekking 
+De Algemene Inkoopvoorwaarden Provincies 2018 voor leveringen en diensten voor toepassing binnen de 
+provincie Zeeland, inwerking getreden op 19 december 2018, worden ingetrokken. 
+ 
+Artikel 24 Inwerkingtreding 
+Dit besluit treedt inwerking op 1 juli 2022. 
+ 
+Artikel 25 Citeertitel 
+Dit besluit wordt aangehaald als: “Algemene Inkoopvoorwaarden Provincies 2022 voor leveringen en diensten”.
+
+=== Document: bijlage 5 - rapport recreatieonderzoek op de plaat van oude tonge ===
+2025 
+ 
+ 
+  
+Recreatieonderzoek op de Plaat 
+van Oude Tonge  
+ 
+ 
+ 
+ 
+ 
+ 
+Juni 2025 
+Roeland Sies 
+Stageonderzoek 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ Recreatieonderzoek op de 
+Plaat van Oude Tonge  
+ 
+ 
+ 
+ 
+Stageonderzoek 
+Status: definitief 
+Foto’s: Roeland Sies 
+ 
+ 
+ 
+Roeland Sies (000025976) 
+Student: Bos- en Natuurbeheer te Velp 
+Hogeschool Van Hall Larenstein (HVHL) 
+Roeland.sies@hvhl.nl 
+ 
+Stagebegeleider: Floor Arts 
+Deltamilieu Projecten (DMP) 
+ 
+Stage-examinator: Roel Janson 
+Afdeling: Bos- en Natuurbeheer te Velp 
+Hogeschool Van Hall Larenstein (HVHL) 
+ 
+  
+
+3 
+Voorwoord 
+Dit onderzoek is uitgevoerd in opdracht van Provincie Zeeland. Het doel van dit 
+onderzoek aan de Grevelingendam is om inzicht te krijgen in gedrag van recreanten in 
+verhouding met de ingestelde zonering. Daarnaast is onderzocht welke impact de 
+recreanten hebben op de aanwezige watervogels. 
+Het onderzoek is uitgevoerd door Roeland Sies (HBO student Van Hall Larenstein te 
+Velp). Tijdens mijn opleiding heb ik de minor ruimtelijke informatietechnologie (RIT) 
+gevolgd, waarbij ik ervaring heb opgedaan om met ArcGIS Pro data te bewerken en 
+analyseren.  
+Tijdens het uitvoeren van dit onderzoek is mijn kennis van GIS verbreed, voornamelijk 
+op gebied van werken met de functie Field Maps van ArcGIS Pro. Verder heb ik veel 
+geleerd over het opzetten van een onderzoekplan, uitvoeren van veldwerk en 
+rapporteren van de resultaten. Daarbij heb ik veel kennis opgedaan over gedrag van 
+recreanten en watervogels.  
+Ik wil Floor Arts, Dirk van Straalen, Mayro Pattikawa en Wendy Janse bedanken voor het 
+begeleiden van het stageonderzoek. Verder wil ik ook Karen Krijgsveld bedanken voor 
+het helpen bij het opzetten van de onderzoeksmethode. 
+Roeland Sies, Vlissingen, 18 juni 2025 
+  
+4 
+Samenvatting 
+In dit onderzoek is in beeld gebracht wat het gedrag is van recreanten en watervogels op 
+de Plaat van Oude Tonge en wat de impact van de recreanten is op de aanwezige 
+watervogels. De bijbehorende hoofdvraag is: ‘Wat is de invloed van menselijk 
+gebiedsgebruik op de aanwezige watervogels op de Plaat van Oude Tonge?’ 
+Twee methodes zijn gebruikt om de hoofdvraag te onderzoeken.  
+1) Telling van vogels en gebiedsgebruikers: Een vier uur durende telling die twee uur 
+na hoogwater begon. Deze tellingen werden verdeeld over drie plotgebieden. 
+Tijdens een telling van een plotgebied werd elk halfuur de aantallen watervogels 
+en gebiedsgebruikers geteld.   
+2) Impact van verstoring op vogels: Bij zes soorten steltlopers werd de impact van 
+verstoringen gemeten. Hiervoor werd de verstoringsbron, de 
+verstoringsafstanden (alert & vluchten) en een bijbehorende reactiecode 
+genoteerd (geen reactie, alert, opvliegen, vluchten, etc.).  
+Alle in het veld verzamelde data zijn in GIS-lagen verzameld. 
+Badgasten, loslopende honden, pierenspitters en schelpdierrapers waren de meest 
+getelde recreanten. Alle vier de recreatietypes hadden een specifieke voorkeur voor 
+delen van het gebied. De drukste dagen waren in het paasweekend. Van alle getelde 
+recreanten was 67,2% in overtreding. 
+De bonte strandloper, rosse grutto, scholekster, tureluur, wulp en zilverplevier waren 
+de meest getelde watervogels. Waar scholekster de meest verspreide soort was, was 
+de tureluur in een relatief geconcentreerd deel van het gebied aanwezig. De bonte 
+strandloper, rosse grutto en zilverplevier ontbraken allemaal in het recreatiegebied. 
+Tijdens het paasweekend werden de minste watervogels geteld.  
+Schelpdierrapers en de loslopende honden waren tijdens het onderzoek naar de impact 
+van verstoring op vogels het vaakst de verstoringsbron. De verstoringen leidden meestal 
+tot kort opvliegen of vluchten binnen het gebied. Recreanten verstoren de watervogels 
+waardoor die minder tijd hebben om te foerageren en dat leidt tot energieverlies bij de 
+vogels.  
+Vastgesteld is dat een hoge dichtheid aan recreanten leidde tot een lagere dichtheid 
+watervogels in het gebied en sommige soorten verdwenen zelfs uit delen van het 
+gebied. De menselijke gebiedsgebruikers veroorzaakten een afname van de 
+draagkracht voor vogels op de Plaat van Oude Tonge.   
+5 
+Leeswijzer 
+In het eerste hoofdstuk, de inleiding, komt de ‘aanleiding van het onderzoek’, 
+‘beschrijving van het onderzoeksgebied’ en de ‘omschrijving van het onderzoek’ aan 
+bod. Vervolgens wordt in hoofdstuk 2, het theoretisch kader, het gedrag van de 
+verwachte recreanten beschreven en het gedrag van watervogels die bodemdieren 
+eten. Verder wordt ook ingegaan op de verstoringsgevoeligheid van steltlopers. 
+De onderzoeksmethode en werkwijze van de twee verschillende methodes die zijn 
+toegepast worden in hoofdstuk 3 besproken. In hoofdstuk 4 worden de resultaten per 
+deelvraag omschreven. Toelichtingen bij de resultaten en uitleg van de gemaakte 
+keuzes bij het uitvoeren van het onderzoek worden behandeld in hoofdstuk 5, ook 
+komen een aantal beperkingen van het onderzoek aan de orde. Tot slot wordt in 
+hoofdstuk 6, de conclusie, antwoord gegeven op de hoofd- en deelvragen. 
+  
+6 
+Inhoudsopgave 
+Voorwoord ............................................................................................................................. 3 
+Samenvatting......................................................................................................................... 4 
+Leeswijzer ............................................................................................................................. 5 
+Inleiding................................................................................................................................. 8 
+Aanleiding .......................................................................................................................... 8 
+Probleemstelling .............................................................................................................. 12 
+Doel ................................................................................................................................. 12 
+Onderzoek ....................................................................................................................... 12 
+Onderzoeksvragen ........................................................................................................ 12 
+2 Theoretisch kader .............................................................................................................. 13 
+2.1 Recreanten ................................................................................................................. 13 
+2.2 Gedrag bodemdiereters .............................................................................................. 14 
+2.3 Verstoringsgevoeligheid steltlopers ............................................................................. 14 
+3 Onderzoeksmethode ......................................................................................................... 16 
+3.1 Onderzoeklocatie ....................................................................................................... 16 
+3.2 Verzamelen gegevens ................................................................................................. 16 
+3.3 Methode en werkwijze ................................................................................................. 17 
+3.3.1 Tellingsmethode ................................................................................................... 17 
+3.3.2 Verstoringsmethode ............................................................................................. 19 
+4 Resultaten ........................................................................................................................ 21 
+4.1 Hoe gebruiken gebiedsgebruikers de Plaat van Oude Tonge? ........................................ 21 
+4.2 Hoe gebruiken watervogels de Plaat van Oude Tonge? ................................................. 26 
+4.3 Wanneer en waar in het gebied is de kans op verstoring in het gebied het grootst? ......... 31 
+4.4 Hoe groot is de impact van de verschillende verstoringsbronnen op specifieke vogel 
+soorten? .......................................................................................................................... 40 
+5 Discussie .......................................................................................................................... 47 
+6 Conclusie ......................................................................................................................... 51 
+Literatuurlijst ....................................................................................................................... 54 
+Bijlagen ............................................................................................................................... 57 
+bijlage 1 Protocol tellingsmethode en verstoringsmethode ................................................ 57 
+bijlage 2 Classificaties ...................................................................................................... 60 
+bijlage 3 Scripts ................................................................................................................ 63 
+bijlage 4 Staafdiagram recreanten per zonering ................................................................. 64 
+bijlage 5 Verspreiding recreanten op hoogtekaart per percentage vrije slik .......................... 65 
+bijlage 6 Verspreiding steltlopers op hoogtekaart per percentage vrije slik .......................... 70 
+7 
+bijlage 7 Looprichting van recreanten bij betreden van het gebied ...................................... 75 
+bijlage 8 Tabel beschrijvende statistiek verstoringen per verstroringsbron .......................... 76 
+bijlage 9 Tabel beschrijvende statistiek verstoringen per onverstoord gedrag ...................... 79 
+ 
+  
+8 
+Inleiding   
+Aanleiding  
+Het onderzoeksgebied betreft de Plaat van Oude Tonge liggend langs de zuidzijde van 
+de Grevelingendam tussen de plaatsen Oude Tonge en Bruinisse (figuur 1). Het gebied 
+is onderdeel van de Oosterschelde. 
+Vroeger was de Oosterschelde samen met de Schelde, Rijn en de Maas een estuarium. 
+De deltawerken die zijn uitgevoerd naar aanleiding van de watersnoodramp hebben 
+grote impact gehad op de Oosterschelde. Na de afronding van de Oosterscheldekering 
+in 1986 was het getijvolume van het in- en uitstromend water verminderd. Hierdoor 
+komt te weinig zand uit de Voordelta het gebied in en spoelt het zand van de 
+intergetijdengebieden in de Oosterschelde naar de geulen. Dit effect heet zandhonger. 
+De tijd dat de intergetijdengebieden, zoals de Plaat van Oude Tonge, droogvallen is 
+korter en dus hebben bodemdiereters zoals steltlopers minder tijd om te foerageren 
+(Hoekstein et al., 2024; Maldegem & Van Pagee, 2005; Van Berchum & Wattel, 1997). 
+  
+Figuur 1 Satellietbeeld van de Plaat van Oude Tonge 
+9 
+De Oosterschelde is een belangrijk rust- en foerageergebied voor vogels en is voor 
+watervogels van internationaal belang. Bij 17 soorten, waaronder negen 
+bodemdiereters, verblijft minimaal 1% van de internationale populatie een korte of 
+lange periode in de Oosterschelde. De meeste soorten overschrijden de 1%-norm 
+tijdens de winter, hiermee is de Oosterschelde een belangrijke overwinteringsplek. 
+Sinds februari 2010 is de Oosterschelde aangewezen als Natura 2000-gebied met als 
+doel behoudt of herstel van het gebied. Bij het aanwijzen als Natura 2000-gebied is voor 
+36 watervogelsoorten een instandhoudingsdoelstelling opgesteld. Het gemiddelde van 
+de seizoenen 2021/2022- 2023/24 is voor 25 soorten voldoende om het doel te behalen. 
+Bij elf soorten is het gemiddelde aantal lager dan de instandhoudingsdoelstelling. De 
+soorten bergeend, brilduiker, scholekster, strandplevier, kanoet, rosse grutto, zwarte 
+ruiter en groenpootruiter zitten ver onder de instandhoudingsdoelstelling, de 
+Oosterschelde is van mindere kwaliteit geworden voor deze bodemdiereters (Natura 
+2000 Rijkswaterstaat, z.d.; Hoekstein et al., 2025). 
+Steltlopers en voedselbehoefte 
+Voor steltlopers is het belangrijk om voldoende voedsel te verzamelen om genoeg 
+energie te hebben om in leven te blijven. Hierin is verschil tussen kleine steltlopers en 
+grote steltlopers. In verhouding moeten kleine steltlopers meer eten, bij bonte 
+strandloper is het ongeveer 85% van zijn lichaamsgewicht en bij de wulp is dat 40% van 
+zijn lichaamsgewicht. Ondanks dat kleine steltlopers relatief veel voedsel nodig hebben 
+moeten ze wel pauzes tussen het foerageren nemen vanwege een kleine maag. Een 
+soort als bonte strandloper heeft dan ook acht uur per etmaal nodig om te foerageren 
+en een wulp 5-6 uur per etmaal. Uit een onderzoek dat gedaan is in 2015 over de slikken 
+en platen in de Oosterschelde blijkt dan ook dat kleine steltlopers gebieden met minder 
+dan zes uur foerageertijd vermijden (Meininger, 2022).  
+Sommige populaties van steltlopersoorten zoals bontbekplevier, zilverplevier, kanoet, 
+bonte strandloper, tureluur en steenloper hebben hun broedgebieden in noordelijke 
+richting liggen. Soorten die in de Oosterschelde overwinterd hebben leggen een 
+vetvoorraad aan om vervolgens naar de broedgebieden te vliegen. Populaties die in 
+Afrika overwinterd hebben komen vanaf eind april aan in de Oosterschelde en moeten 
+eerst weer aansterken voordat ze doortrekken. Voor trekvogels is het van levensbelang 
+om voldoende foerageertijd te hebben (Meininger, 2022). 
+Effect verstoring op watervogels 
+Naast verandering van de beschikbare tijd van intergetijdengebieden kan ook verstoring 
+negatief effect hebben op de watervogels in de Oosterschelde. Wanneer vogels 
+verstoord worden op de intergetijdengebieden hebben ze minder lange foerageertijd en 
+zijn ze meer energie kwijt. 
+Verstoring kan direct lijden tot verandering van de fysiologie en gedrag van de vogels. De 
+fysiologische effecten zijn onzichtbaar, voorbeelden hiervan zijn verhoogde hartslag en 
+10 
+verhoogde concentratie stresshormonen. De verandering in het gedrag is wel zichtbaar, 
+vogels zijn alert en lopen onrustig, vliegen kort op of vliegen zelfs het foerageergebied 
+uit. De verstoring kan indirect negatief effect hebben op de overlevingskans en 
+reproductie. Tot gevolg dat de populatie verminderd, omdat de draagkracht van het 
+gebied achteruit is gegaan (Krijgsveld et al., 2022b). 
+Hoe vogels reageren op een verstoringsbron hangt af van hoe bedreigend een 
+verstoringsbron wordt ervaren. De voorspelbaarheid van het gedrag van een 
+verstoringsbron, het type verstoringsbron, de afstand tot een verstoringsbron, de 
+intensiteit, duur van de verstoring en frequentie van de verstoring zijn allemaal 
+elementen die invloed hebben over hoe bedreigend een verstoringsbron wordt 
+bevonden (Verbeek, 2013). 
+Het zichtbare gedrag van de vogels en het gedrag van de verstoringsbronnen zijn 
+meetbare variabele welke op afstand onderzocht kunnen worden. Door deze beide te 
+onderzoeken kan er iets gezegd worden over de relatie tussen een verstoringsbron en 
+het gedrag van de vogels, en dus over hoeveel impact een verstoringsbron kan hebben 
+op de vogelstand in een gebied. 
+Recreatie op de Grevelingendam 
+Verstoringsbronnen kunnen roofvogels zijn maar ook mensen. Mensen gaan steeds 
+meer recreëren, er is zelfs een toename van 50% geregistreerde overnachtingen in 
+Zeeland in de afgelopen tien jaar (Korteweg, 2024). Hierdoor neemt de recreatiedruk in 
+natuurgebieden ook toe. Met de toename van de recreatie steeg ook het aantal 
+onderzoeken naar het effect van recreatie (Krijgsveld et al., 2022b). In een onderzoek 
+naar foeragerende scholekster lieten de vogels gedragsverandering zien door 
+menselijke verstoring voordat ze opvlogen (Coleman et al., 2003).  
+Het onderzoeksgebied de Plaat van Oude Tonge is voor een aantal soorten steltlopers, 
+rotganzen en bergeenden een belangrijk foerageergebied tijdens laagwater. Naast 
+foerageergebied functioneert het gebied ook als broedgebied. Momenteel broeden de 
+strandplevieren en scholeksters hier. Het gebied heeft begin jaren 70 een 
+recreatiefunctie gekregen (Beijersbergen, 1975). Tot op heden is het nog een populaire 
+plek voor recreatie. De belangrijkste type recreanten zijn kitesurfers, pierenspitters, 
+schelpdierrapers en wandelaars (met hond). Een deel van de Plaat van Oude Tonge is 
+sinds het voorjaar van 2023 afgesloten (Hoekstein et al., 2025). In het westelijke 
+gedeelte van het gebied is vanaf de parkeerplaats tot rondom de westelijke strekdam 
+een spitvlak waar het met een vergunning is toegestaan om pieren te spitten (figuur 2). 
+Rondom de strekdam overlapt het gebied met een verboden toegang (Art. 461 Web. V. 
+Strafr.) die tot iets voor de oostelijke strekdam stopt. In het overlappend gedeelte 
+mogen alleen mensen met een vergunning voor het pierenspitten komen, de rest van 
+het gebied is verboden toegang voor iedereen. Tussen de oostelijke strekdam en het 
+restaurant ligt een kitesurfzone die tijdens hoogwater geschikt is om te kitesurfen. 
+Schelpdieren rapen is in het gehele gebied verboden. Deze maatregelen zijn bedoeld 
+11 
+om de daar aanwezige kwetsbare natuur te beschermen en dus ook om de vogels niet 
+te verstoren.  
+ 
+ 
+ 
+  
+Figuur 2 Zonering op de Plaat van Oude Tonge 
+Figuur 3 Zicht over de kitesurfzone 
+vanaf het restaurant 
+12 
+Probleemstelling 
+De Plaat van Oude Tonge functioneert als foerageergebied voor de bodemdiereters en 
+als recreatiegebied voor onder andere kitesurfers, pierenspitters en schelpdierrapers. 
+De ingestelde zonering op de Plaat van Oude Tonge zou ervoor moeten zorgen dat de 
+Plaat van Oude Tonge de hoge natuurwaarden behoud en dat de uitgevoerde recreatie 
+geen negatief effect heeft. Vanuit het Programma Natuur van Provincie Zeeland is er 
+behoefte om inzicht te krijgen in wat het gedrag van recreanten is in relatie met de 
+ingestelde zonering en wat de invloed daarvan is op de watervogels.   
+Doel 
+Het doel van dit onderzoek is om het gedrag van de recreanten in relatie tot de 
+ingestelde zonering op de plaat van Oude Tonge in beeld te brengen en wat hiervan de 
+invloed is op de watervogels. Hierbij ligt de focus om inzicht te krijgen op welke type 
+recreatie, de aantallen per type recreatie en waar in het gebied het type recreatie zich 
+bevinden. En per type weten wat de invloed is op de aantallen en het gedrag van 
+watervogels.  
+Onderzoek 
+Om tot het doel te komen wordt gebruik gemaakt van twee methodes. Bij één methode 
+wordt een telling uitgevoerd tijdens de foerageerperiode waarbij alle watervogels en 
+recreanten op de Plaat van Oude Tonge geteld worden. Hierdoor komt er een beeld van 
+het gedrag van de recreanten en wat de relatie is tussen de aantallen recreanten en 
+aantallen vogels. 
+Bij de andere methode wordt een verstoringsonderzoek uitgevoerd voor een aantal van 
+tevoren vastgestelde soorten steltlopers. Dit geeft inzichten in relatie tussen type 
+recreant en gedrag wat de vogels vertonen.  
+De combinatie van de twee methodes zorgen ervoor dat er een duidelijk beeld ontstaat 
+of de ingestelde zonering werkt en of dat het huidige recreatief gebruik een knelpunt is 
+voor de foeragerende watervogels op de Plaat van Oude Tonge.  
+Onderzoeksvragen  
+Hoofdvraag 
+• Wat is de invloed van menselijk gebiedsgebruik op de aanwezige watervogels op 
+de Plaat van Oude Tonge? 
+Deelvragen 
+• Hoe gebruiken gebiedsgebruikers de Plaat van Oude Tonge? 
+• Hoe gebruiken watervogels de Plaat van Oude Tonge? 
+• Wanneer en waar in het gebied is de kans op verstoring in het gebied het grootst? 
+• Hoe groot is de impact van de verschillende verstoringsbronnen op specifieke 
+vogel soorten? 
+13 
+2 Theoretisch kader 
+2.1 Recreanten 
+Kitesurfers zijn afhankelijk van de weersomstandigheden, zoals windkracht en -richting. 
+De meest ideale omstandigheden om te kitesurfen is met 4-6 beaufort. De specifieke 
+omstandigheden die op de Plaat van Oude Tonge geschikt zijn om te kitesurfen is met 
+een windrichting vanaf west tot zuid. Ook tijdens hoogwater is het ondiep in de 
+kitesurfzone, hierdoor is het een geschikt gebied voor beginnende kitesurfers. Het is 
+verboden in de Oosterschelde om buiten de toegewezen kitesurfzones te kitesurfen, 
+binnen de kitesurfzone is het gehele jaar toegestaan om te kitesurfen (Ministerie van 
+Binnenlandse Zaken, 2016; NKV, z.d.; Salt Kitesurfschool, z.d.). 
+Pierenspitters zijn opzoek naar pieren en zagers om als aas te gebruiken tijdens het 
+zeevissen. Deze zijn te vinden in de intergetijdengebieden wanneer het laagwater is. 
+Waarbij de pieren voornamelijk in het slik zitten en de zagers meestal in het zand. 
+Tijdens het zoeken naar pieren en zagers graven de spitters met een riek een geul van 
+1,5-2 meter breed en één riek diep. Het afgestoken slik wordt aan beide zijden van de 
+geul gelegd waarna de pieren en zagers met de hand verzameld kunnen worden. De 
+bodemdieren worden daarna gespoeld in een zeef en in emmers bewaard.  
+Pierenspitten mag alleen met een vergunning tussen zonsopkomst en -ondergang in de 
+vastgestelde spitvlakken op een afstand van 25 meter van bijvoorbeeld 
+schelpdierpercelen, zeeweringen en dammen (Ittmann, z.d.).  
+Schelpdierrapers komen voornamelijk uit 
+België en Duitsland, maar ook lokale 
+mensen rapen schelpdieren. Het recreatief 
+schelpdierrapen is alleen toegestaan onder 
+enkele voorwaarden (zie kader 1). Kokkels 
+en Japanse oesters zijn soorten die het 
+meest worden geraapt, alikruiken en 
+tapijtschelpen worden in lagere aantallen 
+geraapt. Kokkels worden vanaf mei tot 
+november geraapt met een piek van 
+augustus-september. Voor het rapen van 
+kokkels worden meestal plastic 
+speelgoedharkjes gebruikt, omdat een 
+metalen hark als professioneel rapen wordt 
+gezien. Oesters worden met beitels geraapt 
+om ze los te slaan. Op de plaat van Oude 
+Tonge is het gehele gebied verboden om 
+schelpdieren te rapen (Schotanus et al., 2022).  
+• Wat je bij elkaar scharrelt mag alleen voor 
+eigen gebruik zijn (met een maximum van 
+10kg per persoon per dag).  
+• Rapen mag alleen langs de dijkvoet in de 
+toegankelijke gebieden 
+• Je mag niet in de bodem roeren, 
+scheppen, schrapen of iets soortgelijks.  
+• Je mag geen vogels verstoren.  
+• Je mag het slik niet betreden, ook niet om 
+naar de oesterbanken te lopen.  
+• Beschadig geen planten en wieren tijdens 
+het rapen.  
+• Het mag niet op verhuurde 
+schelpdierpercelen (vaak afgezet met 
+staken) of bij gesloten dijktrajecten 
+Kader 1 Regels schelpdieren rapen in de Oosterschelde 
+(Nationaal Park Oosterschelde, z.d.) 
+14 
+2.2 Gedrag bodemdiereters 
+Watervogels die bodemdieren eten zijn afhankelijk van het getij en zullen met afgaand 
+water naar hun foerageergebied komen. De volgende zes steltlopers foerageren op 
+intergetijdengebieden: bonte strandloper, kanoet, zilverplevier, rosse grutto, 
+scholekster en wulp. Alle soorten foerageren zowel overdag als ’s nachts op 
+ongewervelde dieren. Maar de bonte strandloper en kanoet foerageren op kleine 
+schelpdieren terwijl de scholeksters wat grotere schelpdieren eet. Er zijn ook 
+scholeksters die gespecialiseerd zijn in wormen eten, deze vogels foerageren langer 
+overdag waarbij ze ook op hoger gelegen wadplaten en soms op hoogwatervluchtplaats 
+foerageren (CHIRP, 2019). De zilverplevier foerageert op wadwormen, wadslakjes en 
+kreeftachtigen. De rosse grutto foerageert op zeepieren, zeeduizendpoot en 
+schelpdiertjes (Krijgsveld et al., 2022a). 
+Kleine steltlopers zijn gebonden aan de neer- en opgaande waterlijn in verband met de 
+bodemdieren die daar hoger in de bodem zitten en daardoor makkelijker bereikbaar zijn 
+voor kleine snavels. Steltlopers met langere snavels zoals wulp en scholekster zijn 
+minder gebonden aan de waterlijn (Meininger, 2022). 
+Wanneer het hoogwater is gaan de vogels naar de hoogwatervluchtplaatsen om te 
+rusten. Scholeksters maken ook gebruik van dijktaluds om te rusten. Rosse grutto, 
+kanoet en wulp overtijen alleen op grote hoogwatervluchtplaatsen (Krijgsveld et al., 
+2022a).  
+ 
+2.3 Verstoringsgevoeligheid steltlopers 
+Hoe gevoelig een vogel is voor verstoring verschilt per soort. Bij het berekenen van de 
+verstoringsgevoeligheid in Krijgsveld et al. (2022b) is gekeken naar de grootte van een 
+foerageergroep, grootte/gewicht, dieet, openheid biotoop, broedvogel en 
+schuwheid/tamheid. Bij bespreken van de soorten in dit hoofdstuk gaat het over niet-
+broedvogels die met name schelpdieren en wormen eten in zeer open gebied. 
+Hoe vaak een verstoring en hoelang de verstoring duurt heeft invloed op de foerageertijd 
+van steltlopers. Wanneer eenzelfde gebied regelmatig verstoord wordt zal een gebied 
+minder waarden hebben voor foeragerende vogels. In Krijgsveld et al. (2022b) staat 
+onder andere; de ‘invloed soorteigenschappen’, ‘terugkeertijd na verstoring’ en ‘invloed 
+verstoring totaal’. In Krijgsveld et al. (2022a) staat de gemiddelde bufferzone om 
+verstoring te voorkomen per familie verdeeld over verstoringsbron vanaf land, water en 
+lucht. De bufferzones staan ook vermeld in bijlage 2 classificatie 6. 
+Verspreid foeragerende individuele bonte strandlopers vliegen veel minder snel op door 
+een verstoringsbron dan de grote groepen bonte strandlopers. Een groep keert redelijk 
+snel terug, maar ze vliegen ook vaak weg van de opjaaglocatie. De totale 
+verstoringsgevoeligheid is middelgroot. De gemiddelde bufferzones zijn 150 meter 
+(land), 400 meter (lucht) en 700 meter voor verstoringsbron in de lucht.   
+15 
+Kanoeten vliegen doorgaans ver van de opjaag locatie weg, de grote groepen keren 
+traag terug. Bij een verstoring op hoogwatervluchtplaats hebben ze weinig andere 
+mogelijkheden, omdat ze alleen grote hoogwatervluchtplaatsen gebruiken. Het kan een 
+gehele getijdencyclus duren voordat vogels terug keren naar de hoogwatervluchtplaats. 
+De totale verstoringsgevoeligheid is groot. De bufferzones zijn 150 meter (land), 400 
+meter (lucht) en 700 meter voor verstoringsbron in de lucht.   
+Grote groepen van zilverplevieren keren redelijk traag terug na de verstoring en vliegen 
+meestal ver weg van de opjaaglocatie. Bij verstoring op de hoogwatervluchtplaats kan 
+een hele getijdencyclus overheen gaan voor dat ze terugkeren. De 
+verstoringsgevoeligheid is groot. De bufferzone bij zilverplevieren is bij land 100 meter 
+en bij water 200 meter.  
+Bij de rosse grutto duurt het lang voor dat grote groepen terugkeren na de verstoring. 
+Omdat ze maar gebruik maak van enkele grote hoogwatervluchtplaatsen hebben ze 
+weinig uitwijkmogelijkheden. Bij een zware verstoring kan de rosse grutto wel een 
+gehele getijden cyclus wegblijven. De totale verstoringsgevoeligheid is groot. De 
+bufferzone van rosse grutto valt onder strandlopers met een bufferzone van 150 meter 
+voor recreatie op land, 400 meter voor water en 700 meter voor lucht.   
+Scholekster is van de steltlopers de soort die minder snel opvliegt, kleine groepen keren 
+snel terug en grote groepen redelijk snel. Als de hoogwatervluchtplaats verstoord wordt 
+kan het wel een gehele getijdecyclus duren voordat de hoogwatervluchtplaats weer 
+wordt gebruikt. Scholeksters vliegen niet vaak ver weg van de opjaaglocatie. De totale 
+verstoringsgevoeligheid is buiten broedtijd groot. De bufferzone is voor verstoringsbron 
+op land 150 meter, voor water 200 meter en voor lucht 950 meter. 
+De wulp is juist veel onrustiger dan andere steltlopers. Grote groepen keren traag terug 
+naar de opjaag locatie. Meestal vliegen ze lang rondjes en landen ver van de opjaag 
+locatie. Vanwege gebruik van enkele grote hoogwatervluchtplaatsen, zijn er weinig 
+andere locaties. Het kan wel gehele getijdencyclus duren voordat de wulpen 
+terugkeren. De totale verstoringsgevoeligheid is zeer groot. De bufferzones zijn 150 
+meter (land), 400 meter (lucht) en 700 meter voor verstoringsbron in de lucht. 
+ 
+  
+16 
+3 Onderzoeksmethode   
+3.1 Onderzoeklocatie 
+Het onderzoek wordt uitgevoerd op de Plaat van Oude Tonge, liggend langs de 
+Grevelingendam. Het gebied ligt in de Oosterschelde en loopt met hoogwater onder 
+water. De Plaat van Oude Tonge is verdeeld in een kitesurfzone, spitlocatie en 
+verbodengebied Art. 461. Voor de tellingsmethode is het gebied verdeeld over drie 
+verschillende plotten (figuur 4). Bij de verstoringsmethode wordt het hele gebied in één 
+keer onderzocht. 
+3.2 Verzamelen gegevens 
+De gegevens van het onderzoek worden verzameld tussen 22 maart en 11 mei. Bij 
+plannen van de veldwerkdagen wordt rekening gehouden met dagen dat veel recreatie 
+verwacht wordt. Hierbij is gekeken naar vrije dagen, weersomstandigheden en getij. 
+Voor de vrije dagen zijn de officiële feestdagen en schoolvakanties in Nederland, België 
+en Duitsland opgenomen in de planning (Hoofdstuk 5).  
+Figuur 4 Onderzoeksgebied 
+17 
+3.3 Methode en werkwijze 
+De tellingsmethode en de verstoringsmethode zijn aparte onderzoeksmethodes. Bij de 
+tellingsmethode zijn alle vogels en recreanten geteld in het gebied. Bij de 
+verstoringsmethode is onderzocht wat het effect van verstoringsbronnen is op zes 
+geselecteerde steltlopers. In beide methodes wordt de data verzameld in GIS met 
+behulp van Field Maps. Voor het veldwerk wordt met de Field Maps Designer web app 
+een formulier opgesteld die gekoppeld is aan een punten-layer. Op een IOS of Android 
+apparaat kan tijdens het veldwerk met de app Field Maps een punt ingetekend worden 
+op een kaart en daarbij het opgestelde formulier worden ingevuld (ESRI, z.d.). 
+3.3.1 Tellingsmethode 
+Drie tot vijf keer in de week zal de telling uitgevoerd worden telkens in een vier uur 
+durende telling met daglicht. Binnen die vier uur zal alleen geteld worden binnen één 
+van de drie plotten. De plotten zijn in het veld te herkennen aan de fysieke 
+terreinkenmerken: plot 1 is vanaf de westelijke parkeerplaats tot de westelijke 
+strekdam, plot twee ligt tussen de westelijke en de oostelijke strekdam, plot 3 ligt 
+tussen de oostelijke strekdam en het restaurant (figuur 4). De plotten worden in de 
+planning om de beurt geteld, maar de weersomstandigheden kan de volgorde 
+veranderen i.v.m. verwachte kitesurfers. De telling begint twee uur na hoogwater en 
+wordt afgerond tijdens laagwater, in die periode zijn de vogels aan het foerageren op het 
+slik. Hiervoor wordt de getijdentabel van Krammersluizen west gebruikt. Binnen de vier 
+uur wordt elke 30 minuten de aantallen watervogels geteld, dit leidt tot acht tellingen 
+per telling. Elke telling is een momentopname. 
+Naast het tellen van de watervogels zullen ook verstoringsbronnen zoals roofvogels en 
+recreanten geteld worden. De recreanten worden aan het begin van een telsessie 
+geteld, maar ook nieuwe recreanten of verstoringsbronnen die het plot binnenkomen 
+tijdens de telling worden geteld.  
+Bij een halfuurtelling wordt per aanwezige soort in het traject een ‘pin’ in Field Maps 
+gezet op de locatie waar een groep van desbetreffende soort zit. Bij een punt wordt 
+bijbehorende gegevens ingevuld zoals kopgegevens, aantal van 
+vogelsoort/verstoringstypes, opmerkingen (bijlage 1). De telling wordt vanaf de dam, de 
+westelijke parkeerplaats of het restaurant gedaan met behulp van een verrekijker en 
+telescoop. Om verstoring van broedende plevieren te voorkomen wordt in het veld 
+gebruik gemaakt van Nestkaart.nl. Nestkaart.nl is een webapp waar broedgegevens 
+worden vastgesteld van bijvoorbeeld de strandplevieren. Per gebiedsdeel is er een 
+werkgroep aangemaakt, leden van een werkgroep voeren per nest de locatie, foto’s en 
+nestbezoeken in. Hierdoor kan het broedsucces per nest bepaald worden (Janse et al., 
+2024). Vanaf de bekende locatie van de nesten wordt waar mogelijk op 50 meter 
+afstand van een nest geteld. Als dat niet mogelijk is zal buitenzicht boven aan de dam 
+geteld worden. In het veld worden de plevieren goed in de gaten gehouden, mochten de 
+plevieren alsnog verstoord worden wordt hierop geanticipeerd. 
+18 
+Werkwijze in het veld: 
+1. Locatie vanwaar de telling wordt uitgevoerd wordt gekozen op basis van nesten, 
+stand van de zon en overzicht over het plot. 
+2. Met de verrekijker wordt eerst het plot gescand om te zien welke en waar de 
+soorten/verstoringtypes in het gebied zijn. Als er een verdeling is van groepen 
+van dezelfde soort/verstoringtype in een plot, dan worden ze apart geteld.  
+3. Met behulp van de telescoop wordt langs de waterlijn geteld, groepen die verder 
+van de waterlijn foerageren of rusten worden vanaf links naar rechts geteld.  
+4. Hierbij worden telkens per vier vogelsoorten geteld met behulp van een 
+handteller. De soorten worden met vaste volgorde geteld met voor elke soort een 
+vaste plek op de teller:  
+a. Recreanten 
+b. Scholekster, wulp, tureluur, rosse grutto 
+c. Bonte strandloper, zilverplevier, kanoet, steenloper 
+d. Rotgans, bergeend, kokmeeuw, zilvermeeuw 
+e. Overige soorten 
+5. Wanneer van een vogelsoort grote aantallen aanwezig zijn in een plot worden ze 
+per vijf of tien geteld. Vogels buiten beeld worden niet geteld, ondanks de 
+waarschijnlijkheid van aanwezigheid.  
+6. Per vier soorten die op de handteller geteld zijn wordt in Field Maps de pin gezet 
+op de locatie waar de groep van een soort zich bevindt. Dan kan de handteller 
+weer op nul gezet worden en beginnen aan de volgende vier soorten. 
+7. Bij de pin wordt genoteerd welke vogelsoort/type verstoringsbron en de 
+aantallen. Mocht het nodig zijn 
+worden ook nog opmerkingen 
+genoteerd. Bij de eerste soort in 
+een telsessie worden de 
+kopgegevens genoteerd (bijlage 
+1), bij de soorten erna wordt de 
+kopgegevens automatisch 
+ingevuld (bijlage 3). 
+8. Wanneer een telling niet 
+afgemaakt kan worden, wordt 
+dit aangegeven door 
+onvolledige telling aan te 
+vinken. 
+  
+Figuur 5 Tellocatie voor plot 2 
+19 
+3.3.2 Verstoringsmethode 
+De verstoringsmethode wordt uitgevoerd buiten de tellingsmethode om. Dit kan tijdens 
+laagwater wanneer geen volledige telling uitgevoerd kan worden (vanwege beschikbare 
+tijd met daglicht) of tijdens hoogwater. De verstoringsmethode zal uitgevoerd worden 
+wanneer veel recreatie verwacht wordt. De verstoringsmethode wordt uitsluitend 
+uitgevoerd vanaf de dam vanwege inschatten afstand, hierbij zal wederom rekening 
+gehouden worden met de broedende plevieren. 
+De verstoringsmethode wordt uitsluitend uitgevoerd bij de bonte strandloper, kanoet, 
+zilverplevier, rosse grutto, scholekster en wulp.  
+Aan het begin van de verstoringsmethode wordt met verrekijker en telescoop een groep 
+van één van de soorten gezocht die onverstoord gedrag laat zien, foerageren of rusten. 
+Wanneer een groep gevonden is wordt alleen op de gekozen groep gefocust. Hiervoor 
+moet voldoende gevarieerd worden tussen de soorten om voldoende informatie te 
+verzamelen per soort. Dit wordt telkens verspreid over het gehele gebied gedaan zodat 
+voldoende informatie verzameld wordt van de verschillende verstoringstypes. 
+Bij de eerst gekozen groep tijdens uitvoeren van verstoringsmethode wordt de 
+kopgegevens genoteerd die zijn opgesteld in het protocol (bijlage 1). Per onafhankelijke 
+verstoring wordt de locatie van de groep opgeslagen en bijbehorende informatie over 
+verstoring zoals: Verstoringsbron, effect verstoring en aanvullende informatie (bijlage 
+1).  
+Voor een onafhankelijke verstoring moet aan drie eisen worden voldaan: 
+1. Er zijn meer dan 30 minuten verstreken sinds de laatste verstoring 
+2. De vogels zijn > 100 meter verplaatst 
+3. Herstel van natuurlijk gedrag, de vogels zijn weer aan het foerageren of rusten 
+Als een groep opnieuw wordt gemonitord wordt aangegeven dat het om een herhaalde 
+verstoring gaat.  
+  
+Figuur 6 Loslopende 
+hond jaagt op 
+scholekster 
+20 
+Werkwijze in het veld: 
+1. Op het moment van aankomst in het werkgebied wordt het gehele 
+onderzoeksgebied gescand met verrekijker en telescoop naar een groep bonte 
+strandloper, kanoet, zilverplevier, rosse grutto, scholekster of wulp die aan het 
+foerageren of aan het rusten zijn die geschikt is om te monitoren.  
+2. In Field Maps wordt met behulp van een pin een punt gezet op de groep die 
+gemonitord zal worden en wordt de soort, aantal en onverstoord gedrag 
+(foerageren/ rusten) ingevoerd.  
+3. Nadat een groep verstoord is, wordt informatie over de verstoringsbron en het 
+effect genoteerd. 
+4. Over de verstoringsbron wordt genoteerd welke type de verstoring veroorzaakt 
+en aantal van desbetreffende verstoringsbron. 
+5. Als een andere verstoringstype aanwezig is binnen de gemiddelde bufferzone 
+van de soort wordt het type en aantal ook genoteerd.  
+6. Over het effect wordt genoteerd wat de verstoringsafstanden zijn: vanaf welke 
+afstand de vogel stopt met foerageren/rusten (Alarmeringsafstand) en vanaf 
+welke afstand de vogels opvliegen/wegvliegen (Vluchtafstand).  
+7. Bij het effect wordt ook de reactiecode (bijlage 2 classificatie 5) vermeld van het 
+gedrag die de groep laat zien met de hoogste impact. Daarbij wordt ook het 
+percentage van de groep genoteerd met desbetreffende gedrag.  
+8. Aanvullend wordt aangegeven of het om een herhaalde verstoring gaat en 
+eventuele opmerkingen.  
+ 
+  
+Figuur 7 Watervogels in plot 2 (2,5 uur na hoogwater) 
+21 
+4 Resultaten  
+4.1 Hoe gebruiken gebiedsgebruikers de Plaat van Oude Tonge? 
+Tijdens de veldwerkperiode van 22-03-2025 tot 11-5-2025 zijn twintig verschillende type 
+gebiedsgebruikers gezien binnen het onderzoeksgebied (tabel 1). Zestien hiervan waren 
+tijdens de tellingsmethode waargenomen, de vier dikgedrukte gebiedsgebruikers in 
+tabel 1 zijn buiten deze tellingen om vastgesteld. Na de veldwerkperiode zijn ook 
+zeegroentesnijders vastgesteld. 
+Voorbeelden van opvallende verstoringen waren een scooter die door het ‘Verboden 
+toegang’ zone reed en een mountainbiker die het gehele talud in de ‘Verboden toegang’ 
+zone heeft afgefietst (figuur 8 & 9). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1. Aangelijnde hond 
+2. Badgast 
+3. Bestuurbare auto 
+4. Drone 
+5. Fotograaf 
+6. Hardloper 
+7. Kitesurfer 
+8. Loslopende hond 
+9. Metaaldetector 
+10. Mountainbike 
+11. Pierenspitter 
+12. Ruiter 
+13. Schelpdierraper 
+14. Scooter 
+15. Suppen 
+16. Uitlaten kat 
+17. Vissersboot 
+18. Vlieger 
+19. Wandelaar 
+20. Zwemmer 
+Tabel 1 Vastgestelde gebiedsgebruikers in het 
+onderzoeksgebied tijdens de veldwerkperiode 
+ 
+Figuur 8 Scooterrijder over de plaat in het verboden 
+gebied 
+Figuur 9 Mountainbiker over het talud in het verboden gebied 
+22 
+De opsommingen van alle getelde 
+recreanten in de telsessies is totaal 
+1038. Hiervan is 17% in plot 1, 16% in 
+plot 2 en 67% in plot 3 geteld (figuur 10).  
+In tabel 2 zijn de aantallen verdeeld over 
+recreatietype per zonering (zie ook 
+bijlage 4). Hierbij is de ‘Verboden 
+toegang art461/Spitvlak’ het 
+overlappende gedeelte van het 
+verboden toegangsgebied en het 
+spitvlak. “Buiten zonering’ betreft 
+recreanten die zich binnen het 
+onderzoeksgebied bevinden, maar niet binnen één van de zoneringsvlakken. De vier 
+meest waargenomen recreatietypes zijn badgast, loslopende hond, pierenspitter en 
+schelpdierrapers. 
+ 
+In tabel 3 is aangegeven hoeveel van de recreanten in overtreding waren wanneer ze 
+zich in het gebied begeven. Hierbij is rekening gehouden of de recreant zich in de 
+zonering bevindt die is toegestaan bij de manier van gebiedsgebruik. Sommige 
+gebiedsgebruiken zijn in het gehele gebied verboden. Van de vier meest uitgevoerde 
+typen recreatie zijn bij drie meer dan 90% in overtreding (Loslopende hond, 
+Pierenspitter en Schelpdierraper). Voor badgasten zijn minder dan 5% in overtreding. 
+Van de 1038 recreanten die in de telsessies waren vastgesteld was 67,2% in 
+overtreding. 
+  
+Tabel 2 Aantal Recreanten per type gebiedsgebruikers verdeeld over de zonering 
+Recreant Kitesurfzone Spitvlak Verboden 
+toegang 
+art461 
+Verboden 
+toegang 
+art461/Spitvlak 
+Buiten 
+zonering 
+Totaal 
+Aangelijnde honden 22 4 2 7 8 43 
+Badgasten 132 1 7 
+ 
+55 195 
+Fotograaf 
+    
+1 1 
+Kitesurfers 9 
+    
+9 
+Loslopende honden 85 3 18 4 15 125 
+Overige 4 
+ 
+2 2 12 20 
+Pierenspitters 
+ 
+5 
+ 
+2 66 73 
+Schelpdierrapers 292 29 66 31 61 479 
+Vliegers 1 
+    
+1 
+Wandelaars 44 7 7 
+ 
+31 89 
+Zwemmers 2 
+ 
+1 
+  
+3 
+Totaal 591 49 103 46 249 1038 
+Figuur 10 Percentage recreanten per plot 
+23 
+ 
+In bijlage 5 is de verspreiding van alle recreanten te zien per vastgestelde groep of 
+individu. Hierbij is te zien wat de verspreiding van groepen over het gebied was per 
+percentage slik dat vrij ligt. Bij het 0-25% vrij gekomen slik waren de meeste groepen 
+vastgesteld op het hoge gedeelte in Noordwestelijke deel, verder een aangelijnde hond 
+op de westelijke strekdam, 2 schelpdierrapers langs een geul en waren er nog 2 overige 
+recreanten aanwezig. Wanneer 25-50% slik vrij lag kwamen de meeste recreanten in 
+het oosten van het onderzoeksgebied, dit betrof voornamelijk schelpdierrapers en 
+badgasten. Bij het 50-75% vrijgekomen slik was de verspreiding nagenoeg gelijk aan 25-
+50%. Opvallend is de verspreiding van de pierenspitters in het westelijke deel van het 
+onderzoeksgebied en de loslopende honden in het laaggelegen gedeelte in het 
+middelste gedeelte van het onderzoeksgebied. Op het moment dat 75-100% slik vrij 
+was gekomen waren meer groepen/individuen recreanten in het onderzoeksgebied. In 
+het westen waren de pierenspitters verspreid langs de westelijke waterlijn aanwezig. In 
+het midden valt het aantal recreanten in het laaggelegen deel op, voornamelijk 
+schelpdierrapers en loslopende honden. Ten oosten van de oostelijke strekdam waren 
+bijna overal groepen. De dichtheid van de aantal groepen badgasten en 
+schelpdierrapers waren geconcentreerd op specifieke delen, badgasten op het 
+noordoostelijke deel en schelpdierrapers op het zuidelijke deel. De loslopende honden 
+liepen verspreid door dit deel van het gebied. 
+Recreant Aantal Aantal in overtreding % in overtreding 
+Aangelijnde hond 43 9 20,9 
+Badgasten 195 7 3,6 
+Fotograaf 1 0 0 
+Kitesurfers 9 0 0 
+Loslopende hond 125 125 100 
+Overig 20 4 20 
+Pierenspitter 73 66 90,4 
+Schelpdierrapers 479 479 100 
+Vlieger 1 0 0 
+Wandelaar 89 7 7,9 
+Zwemmer 3 1 33,3 
+Totaal 1038 698 67,2 
+Tabel 3 Percentage in overtreding op basis van zonering en gebiedsgebruik 
+24 
+Van de vier talrijkste type 
+recreanten, die van alle 
+telsessies opgeteld de 
+hoogste aantallen hadden, 
+zijn heatmaps gemaakt.    
+In figuur 11 is de 
+verspreiding te zien van de 
+badgasten in het 
+onderzoeksgebied. Te zien 
+is dat badgasten geen 
+brede verspreiding heeft. 
+De hoogste dichtheid ligt in 
+het noordoostelijk deel van 
+het gebied. 
+ 
+De verspreiding van wandelaars met loslopende honden is weergegeven in figuur 12, de 
+figuur is gebaseerd op het aantal honden. De hoogste dichtheid lag in de kitesurfzone 
+en bedekt bijna de gehele zone. Verder waren verspreide aantallen in het 
+noordwestelijke deel, langs de westelijke strekdam, langs de waterlijn van het verboden 
+toegangsgebied en tot slot bij het noordoostelijke deel van het verboden 
+toegangsgebied.  
+ 
+  
+Figuur 12 Heatmap wandelaars met loslopende honden (gebaseerd op aantal loslopende honden), 
+totaal van alle tellingen. 
+Figuur 11 Heatmap badgasten, totaal van alle tellingen. 
+25 
+In figuur 13 is de verspreiding 
+van de schelpdierrapers 
+weergegeven. 
+Schelpdierrapers waren 
+redelijk verspreid door het 
+gehele gebied, maar het 
+hoogste aantal lag in het 
+zuidelijke gedeelte van de 
+kitesurfzone. Verder zijn 
+opvallende locaties het 
+zuidoostelijke deel van het 
+verboden toegangsgebied en 
+rondom de westelijke 
+strekdam. 
+ 
+De verspreiding van de pierenspitters is voornamelijk verspreid aan de westelijke kant 
+van het pierenspitvlak (figuur 14). De hoogste dichtheden van die verspreiding liggen 
+dan voornamelijk in het noorden, relatief dicht bij de dam.     
+Figuur 14 Heatmap pierenspitters, totaal van alle tellingen. 
+Figuur 13 Heatmap schelpdierrapers, totaal van alle tellingen 
+26 
+4.2 Hoe gebruiken watervogels de Plaat van Oude Tonge? 
+In de tabel 4 hieronder zijn de aantallen te 
+zien van alle waargenomen watervogels 
+tijdens de tellingen verdeeld over de plots. 
+In de vierentwintig telsessies samen zijn 
+opgeteld 71322 watervogels geteld. De helft 
+van de getelde watervogels zijn in plot 1 
+geteld, 46% in plot 2 en 4% in plot 3 (figuur 
+15). In alle tellingen samen zijn in totaal 28 
+soorten waargenomen, waarvan 24 soorten 
+werden vastgesteld in plot 1, 23 soorten in 
+plot 2 en 16 soorten in plot 3. 
+ 
+Tabel 4 Som van aantal waargenomen watervogels van de telsessies per telplot 
+Soort Plot 1 Plot 2 Plot 3 Totaal 
+Aalscholver 8 6 28 42 
+Bergeend 272 95 27 394 
+Blauwe reiger 1 
+  
+1 
+Bontbekplevier 64 7 75 146 
+Bonte strandloper 16387 13057 
+ 
+29444 
+Dwergstern   4 
+ 
+4 
+Groenpootruiter 4 67 
+ 
+71 
+Kleine mantelmeeuw   5 
+ 
+5 
+Kokmeeuw 1525 780 101 2406 
+Lepelaar 32 14 2 48 
+Middelste zaagbek 7 2 
+ 
+9 
+Oeverloper 1 
+  
+1 
+Pijlstaart   
+ 
+13 13 
+Regenwulp 10 5 5 20 
+Rosse grutto 1168 497 1 1666 
+Rotgans 1265 223 784 2272 
+Scholekster 5138 11708 1242 18088 
+Steenloper 12 1 19 32 
+Stormmeeuw 19 34 
+ 
+53 
+Strandplevier 40 64 20 124 
+Tureluur 1059 37 38 1134 
+Visdief 3 18 
+ 
+21 
+Wilde Eend 8 1 4 13 
+Wulp 2089 1896 332 4317 
+Zilvermeeuw 948 199 108 1255 
+Zilverplevier 5531 4210 
+ 
+9741 
+Zwartkopmeeuw 2 
+  
+2 
+Totaal 35593 32930 2799 71322 
+50%
+46%
+4%
+Percentage waargenomen 
+watervogels per plot
+Plot 1
+Plot 2
+Plot 3
+Figuur 15 Percentage watervogels per plot 
+27 
+De bonte strandloper, rosse grutto, scholekster, tureluur, wulp en zilverplevier waren 
+de steltlopers met de hoogste aantallen in het gebied (tabel 4). Bij vijf van deze soorten 
+lag het hoogste aantal in plot 1, alleen bij de scholekster was het hoogste aantal in plot 
+2 (11708 van de totaal 18088). Opvallend is dat bonte strandloper en zilverplevier 
+ontbraken in plot 3 en de rosse grutto maar één keer was waargenomen. Verder was het 
+aantal tureluurs in plot 1 ook veel hoger met 1059 van de 1134 totaal. Van de overige 
+watervogels waren de aantallen het hoogst van de bergeend, kokmeeuw, rotgans en 
+zilvermeeuw (tabel 4). Waarbij alle soorten meer dan de helft in plot 1 is geteld.  
+In bijlage 6 is de verspreiding van de bonte strandloper, rosse grutto, scholekster, 
+tureluur, wulp en zilverplevier te zien per vastgestelde groep of individu. Hierbij is te zien 
+wat de verspreiding van groepen over het gebied was per percentage slik dat vrij ligt.  
+Wanneer nog maar 0-25% slik vrij was zitten alle soorten op de hoge gelegen delen op 
+de plaat (bijlage 6). Op de strekdammen zaten alleen de scholeksters en wulpen. 
+Verder zaten op het talud aan de westelijke kant van het onderzoeksgebied alleen 
+tureluurs en scholeksters.  
+Bij 25-50% vrije slik waren de steltlopers weg van het talud en de westelijke strekdam, 
+op de oostelijke strekdam zaten nog wel scholeksters en wulpen. Daarnaast waren de 
+groepen stelten op de plaat meer richting de lage delen verplaatst en was de 
+concentratie van groepen meer verspreid dan bij 0-25 % slik vrij. 
+Op het moment dat 50-75% slik vrij was waren ook de meeste scholeksters en wulpen 
+weg van de oostelijke strekdam. De concentratie van de punten waren vergelijkbaar 
+met 25-50%, maar de groepen waren al meer verplaatst richting de laagstgelegen 
+delen. 
+In de laatste periode van 75-100% slik vrij, waren veel groepen naar de laagste 
+gedeeltes van de plaat verplaatst. Maar ook op de hoger gelegen delen van de plaat 
+kwamen groepen terug.  
+Van de zes steltlopers met de hoogste aantallen is per soort een heatmap gemaakt met 
+de verspreiding van de vogels over de het gebied. 
+28 
+De bonte strandloper 
+(figuur 16) was afwezig 
+aan het oostelijke deel 
+van het gebied, aan de 
+basis van de westelijke 
+strekdam en bij de 
+parkeerplaats in het 
+westen. De hoogste 
+aantallen lagen in een 
+lijn in zuidwestelijke 
+richting.  
+ 
+ 
+Ook de rosse grutto (figuur 17) ontbrak aan de oostelijke deel van de strekdam. De 
+hoogste dichtheid van groepen was in het westelijke deel van het gebied waar ook de 
+hoogste aantallen waren. In het gebied tussen de twee strekdammen waren de groepen 
+meer verspreid uit elkaar.   
+ 
+ 
+  
+Figuur 16 Heatmap bonte 
+strandloper, totaal van alle 
+tellingen. 
+Figuur 17 Heatmap rosse grutto, totaal van alle tellingen. 
+29 
+De scholekster had een 
+brede verspreiding over het 
+gehele gebied (figuur 18). In 
+het westelijke gedeelte lag 
+het hoogste aantal dicht bij 
+de strekdam. Tussen de 
+strekdammen in waren de 
+hoogste aantallen in het 
+oostelijke gedeelte. In het 
+meest oostelijke gedeelte 
+was een concentratie 
+rondom de strekdam en bij 
+de waterlijn.  
+ 
+ 
+De tureluur was voornamelijk aanwezig op een klein deel van het gebied (figuur 19). Het 
+hoogste aantal lag in het noordwestelijke deel van het onderzoeksgebied met lichte 
+verspreiding daaromheen. Verder waren nog enkele groepen in het oosten van het 
+onderzoeksgebied aanwezig.  
+Figuur 18 Heatmap scholekster, totaal van alle tellingen. 
+Figuur 19 Heatmap tureluur, totaal van alle tellingen. 
+30 
+De meeste groepen van de 
+wulp waren verspreid over 
+het westelijke deel en 
+tussen de strekdammen 
+(figuur 20). De wulp 
+ontbrak in het oostelijke 
+deel en stukken langs de 
+weg aan de noordelijke 
+kant van het gebied. De 
+hoogste aantallen lagen op 
+de oostelijke strekdam 
+(hoogwatervluchtplaats) 
+en ten westen van de 
+westelijke strekdam.   
+ 
+De zilverplevier was verspreid in het zuidwestelijke deel tussen de twee strekdammen 
+en in het westelijke deel van het onderzoeksgebied (figuur 21). Het hoogste aantal lag 
+dicht bij de weg in het westelijke deel. Opvallend is de lijnvormige verspreiding in het 
+westelijke gedeelte. Verder valt op dat de zilverplevier ontbrak in het oostelijke deel van 
+het gebied. 
+  
+Figuur 20 Heatmap wulp, totaal van alle tellingen. 
+Figuur 21 Heatmap zilverplevier, totaal van alle tellingen.
