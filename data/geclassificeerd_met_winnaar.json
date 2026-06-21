@@ -1,5 +1,68 @@
 [
   {
+    "id": "429827",
+    "tenderned_kenmerk": "589611",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": true,
+    "europees": true,
+    "titel": "Kwantitatieve effecten van stikstof verwijderende maatregelen",
+    "omschrijving": "Dit onderzoek richt zich specifiek op de invloed van maatregelen op de stikstofkringloop en de doorwerking daarvan op ecologisch herstel van natte, laagproductieve, basenminnende habitats met korte vegetatie.\n\nDe resultaten van het onderzoek moeten leiden tot:\n- Kennisoverzicht over de kwantitatieve effecten van stikstofverwijderende maatregelen in de onderzochte habitats\n- Het aanscherpen van de richtlijnen voor het toepassen van deze maatregelen in de herstelstrategieën voor stikstofgevoelige habitattypen\n- Aanbevelingen voor onderzoek om kennislacunes in te vullen\n- Aanbevelingen voor beleid hoe effectief stikstofgevoelige habitats kunnen worden hersteld\n- Het onderzoek sluit af met een rapport met bovengenoemde onderdelen",
+    "aanbestedende_dienst": "Vereniging van Bos- en natuurterreineigenaren (VBNE)",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-06-20",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2026-09-15T10:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/429827",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/429827",
+    "documenten_geladen": true,
+    "classificatie": {
+      "teams": [
+        "Evaluaties",
+        "Sustainable Transitions"
+      ],
+      "thema": "Energie & klimaat",
+      "thema_betrouwbaarheid": 0.9,
+      "subthema": "Stikstofverwijdering habitatherstel ecosysteem",
+      "methodiek": "Systeemevaluatie / beleidsdoorlichting",
+      "methodiek_betrouwbaarheid": 0.7,
+      "methodiek_kwantitatief": false,
+      "skills": [
+        "Literatuuronderzoek / meta-analyse",
+        "Interviews / kwalitatief"
+      ],
+      "skills_betrouwbaarheid": 0.6,
+      "evaluatiefase": "Ex-ante",
+      "evaluatiefase_betrouwbaarheid": 0.7,
+      "databronnen": [
+        "Literatuur / bestaande studies"
+      ],
+      "databronnen_betrouwbaarheid": 0.7,
+      "opdrachtgrootte": "Middel",
+      "opdrachtgrootte_betrouwbaarheid": 0.6,
+      "gunningscriterium": "Onduidelijk",
+      "looptijd_maanden": null,
+      "causaliteitsvraag": false,
+      "herhalingskans": "laag",
+      "consortiumkans": false,
+      "toelichting": "Onderzoek naar effecten stikstofmaatregelen natuurherstel. Kennisoverzicht en aanbevelingen.",
+      "betrouwbaarheid": 0.77
+    }
+  },
+  {
     "id": "429226",
     "tenderned_kenmerk": "595189",
     "bron": "tenderned",
