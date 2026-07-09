@@ -1,5 +1,67 @@
 [
   {
+    "id": "432342",
+    "tenderned_kenmerk": "600491",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": false,
+    "europees": true,
+    "titel": "Monitor Nationaal Programma Grieppreventie (NPG) en Nationaal Programma Pneumokokkenvaccinatie Volwassenen (NPPV)",
+    "omschrijving": "Als onderdeel van de regietaak is de aanbestedende dienst verantwoordelijk voor monitoring en evaluatie van de NPG en NPPV. In dat kader worden jaarlijks landelijke monitors opgesteld om de kwaliteit en bereikbaarheid van deze vaccinatieprogramma’s te bewaken, bij te kunnen sturen, maar ook om te verantwoorden naar de opdrachtgever VWS. De landelijke monitoring bestaat uit de volgende (deel)producten, namelijk de monitor voor het NPG (Nederlandstalig en een verkorte Engelstalige versie) en de monitor voor het NPPV (Nederlandstalig en een verkorte Engelstalige versie).\n\nDe werkzaamheden met de huidige leverancier lopen op 31 december 2026 af. Een nieuwe overeenkomst voor de monitoring van het NPG en NPPV moet door aanbestedende dienst worden aanbesteed.\n\nHet doel van deze Europese aanbesteding is het afsluiten van een dienstverleningsovereenkomst met één opdrachtnemer voor de monitoring van de NPG en NPPV. De aanbestedende dienst wenst een overeenkomst met de opdrachtnemer te sluiten voor een initiële periode van één (1) jaar en tien (10) maanden, met aanvullend drie (3) maal een optie tot verlenging van één (1) jaar. Dit resulteert in een maximale looptijd van de overeenkomst van vier (4) jaar en tien (10) maanden. De beoogde ingangsdatum van de af te sluiten overeenkomst is 1 januari 2027 en loopt tot en met 30 oktober 2028.",
+    "aanbestedende_dienst": "Rijksinstituut voor Volksgezondheid en Milieu (RIVM)",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-07-09",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2026-10-06T10:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/432342",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/432342",
+    "documenten_geladen": false,
+    "classificatie": {
+      "teams": [
+        "Evaluaties"
+      ],
+      "thema": "Zorg & welzijn",
+      "thema_betrouwbaarheid": 0.95,
+      "subthema": "Vaccinatieprogramma's monitoring",
+      "methodiek": "Doeltreffendheidsevaluatie (beschrijvend)",
+      "methodiek_betrouwbaarheid": 1.0,
+      "methodiek_kwantitatief": false,
+      "skills": [
+        "Administratieve / begrotingsanalyse",
+        "Survey / enquête"
+      ],
+      "skills_betrouwbaarheid": 0.6,
+      "evaluatiefase": "Monitor / periodieke meting",
+      "evaluatiefase_betrouwbaarheid": 1.0,
+      "databronnen": [
+        "Administratieve data (niet nader gespecificeerd)"
+      ],
+      "databronnen_betrouwbaarheid": 0.7,
+      "opdrachtgrootte": "Middel (€50k - €200k)",
+      "opdrachtgrootte_betrouwbaarheid": 0.6,
+      "gunningscriterium": "Onduidelijk",
+      "looptijd_maanden": 58,
+      "causaliteitsvraag": false,
+      "herhalingskans": "hoog",
+      "consortiumkans": false,
+      "toelichting": "Jaarlijkse monitoring NPG en NPPV vaccinatieprogramma's voor kwaliteit en bereik.",
+      "betrouwbaarheid": 0.98
+    }
+  },
+  {
     "id": "432217",
     "tenderned_kenmerk": "600330",
     "bron": "tenderned",
