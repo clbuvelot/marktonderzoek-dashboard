@@ -1,0 +1,1161 @@
+=== Document: appendix 12 _cbi policy for ai use + template to fill out (1) ===
+APPENDIX  1 2   –   Use  Policy  of AI in CBI  Market Research  Studies  + Template to fill out 1. Statement  of CBI  on the Use of AI  in studies The use of Artificial Intelligence (AI) tools is permitted only for supportive tasks such as:  Inspiring or structuring  the  writing  of studies Grammar and spelling checks  Language refinement  Summarisation assistance  Brainstorming or ideation support  AI-generated content may  not  be submitted as original work of the researcher.  Researchers remain fully responsible for:  The accuracy of the study  Fact-checking all content  Original analysis and conclusions  Compliance with CBI quality standards  2. Mandatory Disclosure in the Study If AI tools were used during the preparation of the study, the following disclosure must be included at the end of the report: “This study has been written by [Name of Researcher/Company] in cooperation with [Name(s)], and used GenAI for [describe purpose, e.g. grammar review, structure suggestions, language editing].” Example: “This study has been written by ABC Research in cooperation with John Doe, and used GenAI for grammar correction and drafting support.” 3. Documentation Requirements All use of AI during the research and writing process must be documented.  Th e   template  added below in section 7   will have to be completed to describe  AI usage  and will  be submitted to CBI together with the  batch of  stud ies .  The documentation should follow:  CBI  statement  content policy rules  Applicable requirements of the EU Artificial Intelligence Act   4 . Compliance and Responsibility Market  Researchers are responsible for ensuring:  Human Oversight & Accountability   Researchers remain fully responsible for all content produced, including AI-assisted outputs.  AI tools may support tasks, but final decisions, analysis, and conclusions must be human-authored and validated.  Transparency & Disclosure   Any use of AI/GenAI must be explicitly acknowledged in the report.  Example phrasing:  “This study has been written by [Researcher] in cooperation with [Partner], and used GenAI for [specific purpose].”   Prohibition of Passing Off AI Work as Own   AI-generated content cannot be submitted as original human-authored work without proper disclosure.  Copyright & Intellectual Property   Ensure that all AI-assisted outputs respect copyright law.  AI-generated text, images, or data drawn from third-party sources must not infringe IP rights.  Data Privacy & Protection   Do not input personal, confidential, or sensitive data into AI tools without proper consent.  Follow GDPR principles for handling EU data.  Quality, Accuracy & Reliability   All AI outputs must be critically reviewed and verified  by the Market Researcher .  Researchers must ensure results are correct, evidence-based, and fit for purpose.  Use of Trusted Sources     AI can help draft or summarize, but researchers must rely on credible, verifiable data sources.  Ethical Considerations & Bias   Avoid outputs that could be misleading, discriminatory, or biased.  Researchers should identify and correct potential AI biases in findings.  Compliance with EU AI Act & Codes of Practice   Researchers should s tay informed on   evolving EU regulations and guidance.  5 . Questions and Further Guidance For any questions related to the use of AI in CBI studies, researchers should contact their assigned CBI Programme Manager.  Researchers  agree to  remain informed about ongoing developments regarding the  EU Artificial Intelligence Act and related guidance  and possible Dutch  RVO  AI  guidelines. 6 . Minimum  i nformation to  i nclude  by Market Researcher  as a description of  AI Use  Template to fill out and return to CBI Programme Manager Frequency: Once per Batch Researchers should document at least the following information: Was AI-generated output used in one or several studies of th is batch?  (yes or no): …. Name of AI tool(s) used  :  …… Purpose of use  ( analysis /  statistics /  visuals /  tables… etc ) :  …… …… ……. Sections supported by AI  in the study (name the study and the chapter):  …… …… …… …… ……   Confirmation that no AI-generated output was submitted without  the application of a validation process, human  review and adaptation   (yes or no): … . This template was filled out by (Name of the Market Researcher or Project Leader/Team coordinator): ……
+
+=== Document: appendix 11c rvo style guide english 2020 ===
+Style Guide 
+ 
+Netherlands Enterprise Agency English 
+ 
+ 
+Version: 27 October 2020 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 2 
+Introduction 
+ 
+The Style Guide Netherlands Enterprise Agency English helps you write 
+and edit texts for British English B1 readers. For example: english.rvo.nl, 
+CBI.eu, DGGF website and offline texts.  
+ 
+Our goal is to give English speaking readers correct and clear information.  
+In this Style Guide you will find rules, tips and examples that are in 
+compliance with Dutch government policies, our corporate communication 
+vision guidelines and the British language. Furthermore, it helps the team 
+to be consistent and use Netherlands Enterprise Agency’s tone of voice. 
+ 
+Netherlands Enterprise Agency English uses British English grammar and 
+spelling. Our readers come from various cultural backgrounds and speak 
+English at varying levels of fluency. English might be their second, third or 
+even fourth language. We strive to create content that is clear, concise 
+and easily understood by all English readers. Therefore, we use English at 
+B1 level.   
+  
+Do you have questions or feedback about the Style Guide? Please contact 
+content@rvo.nl.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+Table of Contents 
+ 
+1 Language ______________________________________________________________ 5 
+1.1 British English versus American English ___________________________________________ 5 
+1.1 B1 level - Taalniveau __________________________________________________________ 5 
+1.2 Tools – Hulpprogramma’s (Grammarly, woordenboek) ______________________________ 6 
+1.3 Frequently used words and names ______________________________________________ 6 
+TIP! __________________________________________________________________________ 7 
+For the translation of other Ministries check this website. ______________________________ 7 
+1.4 Standard phrases ____________________________________________________________ 7 
+1.5 Tone of voice ________________________________________________________________ 8 
+1.6 Contractions - Samentrekkingen ________________________________________________ 8 
+2. Content lay-out, structure and format _______________________________________ 9 
+2.1 Translation process ___________________________________________________________ 9 
+2.2 Content type and formats _____________________________________________________ 9 
+2.3 Writing for online platforms ___________________________________________________ 9 
+2.3.1 Title ____________________________________________________________________________ 10 
+2.3.2 Paragraph ________________________________________________________________________ 10 
+2.3.3 Sentences ________________________________________________________________________ 10 
+2.3.4 Different list styles _________________________________________________________________ 11 
+2.3.5 Links ____________________________________________________________________________ 12 
+2.3.6 Naming downloads ________________________________________________________________ 13 
+2.4 Writing for offline documents _________________________________________________ 13 
+3. Style ___________________________________________________________________ 14 
+3.1 Capitals ___________________________________________________________________ 14 
+3.2 Quotes ____________________________________________________________________ 14 
+3.2.1 Quotation marks __________________________________________________________________ 15 
+3.2.2 (Official) job titles (in quotes) ________________________________________________________ 15 
+3.3 Countries and cities _________________________________________________________ 15 
+3.4 Abbreviations and acronyms – afkortingen en acroniemen __________________________ 16 
+3.5 Foreign or non-English words __________________________________________________ 16 
+3.6 Hyphen – liggend streepje ____________________________________________________ 17 
+3.7 Synonyms, the first meaning of a word __________________________________________ 17 
+3.8 Keep it positive _____________________________________________________________ 18 
+4. Spelling & Grammar ______________________________________________________ 19 
+4.1 Singular and plural __________________________________________________________ 19 
+ 4 
+4.2 B1 words versus B1+ words ___________________________________________________ 19 
+4.3 False friends _______________________________________________________________ 20 
+4.4 Date, time, numbers, measurements, currencies __________________________________ 20 
+4.4.1 Date ____________________________________________________________________________ 20 
+4.4.2 Time ____________________________________________________________________________ 20 
+4.4.3 Measurements ____________________________________________________________________ 21 
+4.4.4 Numbers ________________________________________________________________________ 21 
+4.4.5 Currencies _______________________________________________________________________ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+1 Language 
+ 
+The English name of RVO is Netherlands Enterprise Agency. We do not use 
+the abbreviation RVO on english.rvo.nl. After the first introduction of the 
+Netherlands Enterprise Agency, ‘we/us’ can be used instead. 
+ 
+1.1 British English versus American English  
+ 
+We use British English grammar and spelling at B1 level.  
+ 
+TIP! 
+How to recognise British English versus American English? 
+ 
+British English American English 
+  
+Organisation Organization 
+Labour Labor 
+Travelling Traveling 
+Defence Defense 
+Licence License 
+Combatting Combating 
+ 
+Easy trick to remember. British English is often the longer and more 
+formal version. Pay attention when your word can be written in both 
+ways:  
+ 
+• OU instead of O. 
+• Double LL instead of L.  
+• Double TT instead of T.  
+• S instead of Z.  
+• C instead of S.  
+ 
+TIP! 
+Make sure to set your Office Word spell check to British English. 
+ 
+1.1 B1 level - Taalniveau 
+ 
+Write in plain English or B1. B1 is a level of writing that most readers 
+understand easily. It is based on 8th or 9th-grade school level. People 
+with a university education also prefer a text that is easy to read and 
+understand. 
+ 
+ 6 
+1.2 Tools – Hulpprogramma’s (Grammarly, woordenboek) 
+ 
+We recommend the following tools: 
+ 
+Dictionaries 
+Collins Advanced Learners Dictionary     (website) 
+Merriam-Webster Dictionary       (website) 
+ 
+Translate and synonyms  
+Linguee          (website) 
+Reverso Context         (website) 
+Collins Advanced Learners Dictionary     (website) 
+ 
+Spell check 
+Grammarly – ask English editor in chief for account  (website) 
+ 
+B1 check 
+Hemingway App        (website) 
+Web FX readability test tool       (website) 
+Duolingo         (website) 
+ 
+1.3 Frequently used words and names 
+ 
+A short cheat sheet for frequently used words and names.  
+ 
+Dutch English 
+  
+eLoket eLoket 
+eHerkenning eHerkenning 
+eHerkenningsmiddel eHerkenningsmiddel 
+E-mail Email 
+Staatscourant Government Gazette 
+Zzp’er  Self-employed professional 
+Belastingdienst Dutch Tax and Customs 
+Administration 
+KvK Chamber of Commerce 
+Rijksdienst voor Ondernemend 
+Nederland 
+Netherlands Enterprise Agency 
+Rijksoverheid Government of the Netherlands 
+Ministerie van Economische Zaken 
+en Klimaat 
+Ministry of Economic Affairs and 
+Climate Policy  
+Ministerie van Buitenlandse Zaken Ministry of Foreign Affairs 
+ 7 
+TIP! 
+For the translation of other Ministries check this website.  
+ 
+1.4 Standard phrases  
+ 
+English 
+A short cheat sheet for standard phrases used regularly on subsidy and 
+information pages. Blue = example text.  
+ 
+Open You can apply for this programme from 2 June until 
+1 July. 
+You can apply for this subsidy from 2 January 2020 
+until 30 December 2021. 
+Closed for now This programme is closed for now. 
+You cannot apply for this subsidy at this time. 
+Closed This subsidy is closed. 
+You can no longer apply for this programme. 
+Apply via eLoket You can apply for this programme via eLoket. 
+You can apply for this subsidy via eLoket. 
+ 
+We will accept applications between 15 January and 
+15 March 2020. 
+ 
+To apply for this programme, you need eHerkenning 
+(level 2). 
+Apply via 
+mijn.rvo.nl 
+You can apply for this programme via mijn.rvo.nl. 
+ 
+We will accept applications between 15 January and 
+15 March 2020. 
+ 
+To apply for this programme, you need eHerkenning 
+(level 2). 
+Annexes You must attach several documents to your 
+application. 
+For more information on which documents to attach, 
+go to the application page. 
+Apply Start your application now. 
+Complete your application now. 
+Application with 
+concept note 
+You can apply for SDGP at eLoket. 
+To submit an application, you must complete 2 
+steps: 
+Following your 
+application 
+We will only process applications with all required 
+documents received during the application period. 
+ 
+ 8 
+You will hear whether your application has been 
+approved of within 22 weeks. 
+Progress report 
+or process via 
+eLoket 
+You can submit a progress report or project change 
+via eLoket [of] mijn.rvo.nl. You can also apply for an 
+advance or a calculation of the subsidy amount here. 
+Documents You must attach the following documents: 
+ My application for DHI demonstration projects. 
+ You will receive a subsidy decision within 13 weeks 
+of submitting your application. 
+ Have you applied for DHI? If so, you can ask us to 
+calculate the subsidy amount and notify us of 
+progress or any changes via this page. 
+ 
+1.5 Tone of voice 
+ 
+Netherlands Enterprise Agency English uses a neutral tone of voice.  
+ 
+TIP! 
+ 
+Do Please do not 
+  
+Active sentences  Too formal 
+Use simpler words Official language/jargon 
+Be polite Too chatty 
+Keep it simple Address readers directly 
+Keep it short & sweet Use of !! 
+ 
+ 
+1.6 Contractions - Samentrekkingen 
+ 
+To keep the text at B1 level, avoid contractions in text and quotes. 
+ 
+TIP! 
+ 
+Do  Please do not 
+  
+You will You’ll 
+Is not Isn’t 
+Cannot Can’t 
+Do not Don’t 
+They are They’re 
+ 
+ 
+ 9 
+2. Content lay-out, structure and format 
+ 
+ 
+2.1 Translation process  
+ 
+The process of the creation of English texts is as follows: 
+ 
+1. Receive Dutch input 
+2. Re-write input and make it content 
+3. Send NL content to translator (over 300 words) 
+4. Receive ENG content 
+5. Native check 
+6. B1 check 
+7. Create content in CMS 
+8. (Near) native editor in chief 
+9. Feedback and publish 
+ 
+2.2 Content type and formats 
+ 
+English.rvo.nl has several content types. For example: 
+ 
+• Subsidy page 
+• News article 
+• Dossierblokken page 
+• Event page 
+ 
+All content types require specific content formats. These can be found on 
+the intranet. Use the formats and content type guides to create new pages 
+in the CMS.  
+ 
+2.3 Writing for online platforms 
+ 
+Writing online content is different from offline content. Think of the reader 
+being in a hurry. Therefore, the content should be: 
+ 
+• shorter than offline content, and 
+• scannable. 
+ 
+In the following paragraphs you can find more tips & tricks.  
+ 
+ 
+ 
+ 
+ 10 
+2.3.1 Title 
+ 
+A title is a promise. It sets the reader’s expectation and tells them how 
+they can benefit from the information. A title captures the context of the 
+information that follows and is specific enough to highlight its value.  
+ 
+TIP! 
+Keep titles short and readable, about 5 to 8 words.  
+ 
+TIP!  
+Avoid stacking words in titles.  
+ 
+Do Do not 
+  
+Background to SDGP programme Background programme SDGP 
+ 
+ 
+2.3.2 Paragraph 
+ 
+The first paragraph, the introduction or lead in bold, contains the most 
+important information and answers the following questions: 
+ 
+• Who 
+• When 
+• What 
+• Where 
+• Why  
+• How 
+ 
+The following paragraph does not get a subheading. All other paragraphs 
+do. 
+ 
+TIP! 
+Texts should be fold proof. Meaning: you could cut the last paragraph(s) 
+and still keep the most important message.  
+ 
+2.3.3 Sentences  
+ 
+Write in active voice (vermijd lijdende vorm) 
+Keep sentences short, 10-15 words 
+Avoid proverbs and expressions (gezegdes en uitdrukkingen) 
+Avoid nominalisations/gerunds (naamwoordstijl) 
+Avoid second or third meanings of words 
+ 11 
+ 
+Use ‘please note’ only if there is really something noteworthy. Begin a 
+sentence with Please note (bold) and the sentence that follows with a 
+capital letter. Example: 
+ 
+Please note: This manual will be updated on 31 March 2020.  
+ 
+2.3.4 Different list styles 
+ 
+Use lists if you want to draw the reader’s attention. Lists are also helpful 
+to keep sentences short, keep the text scannable and highlight examples 
+or elements.  
+ 
+2.3.4.1 Regular list style 
+ 
+Most text will have lists using the following style.  
+ 
+For the subsidy you will need:  
+ 
+• All required documents; 
+• A declaration of independence from your local government; 
+• Completed Quick Scan. 
+ 
+2.3.4.2 Continuous sentence 
+ 
+With a list that is part of a continuous sentence, put semicolons (;) after 
+each point and start each bullet point with a lower-case letter. 
+ 
+If you can prove that: 
+ 
+• you were somewhere else at the time; 
+• you were not related to Mary; and 
+• you are over 21; 
+ 
+you should be all right. 
+ 
+2.3.4.3 Short points 
+ 
+For a list of short points, you have 2 options: 
+ 
+Option 1) Kevin needed to take: 
+• A penknife 
+• Some string 
+ 12 
+• A pad of paper 
+• A pen. 
+ 
+Option 2) Kevin needed to take: 
+• a penknife 
+• some string 
+• a pad of paper; and 
+• a pen. 
+ 
+2.3.5 Links  
+ 
+TIP! 
+To keep your text scannable and readable, use the following rule of 
+thumb: 
+• Maximum of 5 internal links 
+• Maximum of 3 external links 
+ 
+2.3.5.1 Internal links 
+ 
+Internal links should open in the same window. The title of an internal link 
+should be clear and match the source page as close as possible.  
+ 
+TIP! 
+Avoid links as:  
+- Click here 
+- Read more 
+ 
+2.3.5.2 External links 
+ 
+External links should open in a new window. The title of an external link 
+should be clear and match the source page as close as possible. 
+ 
+Link to English-language pages or information only. If this is not available, 
+there are 3 options: 
+ 
+2.3.5.3 Link to documents 
+ 
+If the link goes to a pdf/Word/Excel/Form free file, write (file type) in 
+brackets behind the link. Examples:  
+ 
+Download the WBSO Quick Scan (pdf) 
+Download the SDGP declaration (form free) 
+Download the SDG7 budget tool (excel) 
+ 13 
+ 
+2.3.6 Naming downloads 
+ 
+Attachments on information pages need to be named consistently. Name 
+files in English as follows:  
+ 
+Project name – date – type of data 
+ 
+Example: WBSO June 2017 Info sheet 
+Example: WBSO March 2017 Manual  
+ 
+2.4 Writing for offline documents 
+ 
+TIP! 
+Are you writing a letter on behalf of the Netherlands Enterprise Agency 
+and you are not sure whether to use "we" or "I"? We asked a Netherlands 
+Enterprise Agency lawyer!  
+ 
+“The decision is made by an administrative body, who is always a person. 
+Not from an organisation. A ministry has no powers, the minister does. 
+The use of "we" in a decision is therefore incorrect under administrative 
+law.”  
+ 
+Bottom line: use I in letters.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+3. Style  
+ 
+We use the same style throughout our content. This makes it easier to 
+check during edit rounds and keeps the website consistent.  
+ 
+3.1 Capitals 
+ 
+Use capital letter Example 
+  
+Professional and personal titles His Majesty King Willem-Alexander 
+The official name of embassies and 
+missions 
+The Embassy of the Kingdom of 
+the Netherlands 
+The official name of ministries The Ministry of Foreign Affairs 
+Laws Privacy Law 
+Titles of acts and decrees The General Administrative Law 
+Act 
+Names of official documents WBSO Quick Scan 
+Abbreviations for Dutch educations MBO 
+  
+Do not use capital letter Example 
+  
+General names for ministries, 
+embassies, missions and such.  
+In Dublin, the Dutch ministry was 
+closed.  
+Job titles Jan Jansen, police officer 
+  
+ 
+ 
+3.2 Quotes  
+ 
+Quotes have a special function. They are personal, can represent what has 
+been said and show emotion. Try to not change quotes too much. You 
+can: 
+ 
+• Add punctuation 
+• Quotes have double quotation marks “…”  
+• Quotation marks follow after the full stop “The cat is gone.” 
+• Make two sentences out of one 
+• Improve spelling 
+• Re-write contractions 
+ 
+ 
+ 15 
+3.2.1 Quotation marks 
+ 
+Use single quotation marks for the titles of ‘publications’ and such.  
+Use double quotation marks for “quotes”. 
+ 
+3.2.2 (Official) job titles (in quotes) 
+ 
+In quotes, running texts, documents or articles we often refer to people. 
+Make sure to use the right format.  
+ 
+Important:  
+ 
+You cannot refer to people with only their last name without a title. Except 
+in the case of criminals. When using direct speech, use a verb and comma 
+instead of a colon. Example:  
+ 
+DO NOT: Jansen: 'Thanks to the coaching process,… 
+DO: Mr Jansen continues, 'Thanks to the coaching process,…. 
+ 
+ 
+When Format Example 
+   
+Introduction of person 
+with official job title 
+[job title], [first name] 
+[last name]  
+Minister of Economic 
+Affairs, Jan Jansen 
+Introduction of person 
+with regular job title 
+[first name] [last 
+name], [job title]  
+Pietje Puk, school 
+teacher 
+   
+Second, third.. 
+mention of person with 
+official job title 
+[official job title] [last 
+name] [verb], 
+ 
+Minister of Economic 
+Affairs Jansen 
+continues, "….” 
+Second, third.. 
+mention of person with 
+regular job title 
+[name] [verb], 
+ 
+Mr Puk continues, “….”  
+ 
+ 
+TIP! 
+ 
+Mr, Mrs, Ms do not have a full stop. It is: 
+ 
+Mr Smith and Ms Andrews. 
+ 
+3.3 Countries and cities 
+ 
+ 16 
+When in doubt, please check the website of Ministry of Foreign Affairs 
+(BZ) for official spelling of countries, cities and regions.  
+ 
+TIP! 
+ 
+The Netherlands starts with a capital ‘T’ only at the beginning of a 
+sentence. Otherwise, write the Netherlands. This rule does not apply to 
+The Hague. 
+ 
+ 
+3.4 Abbreviations and acronyms – afkortingen en acroniemen 
+ 
+Write the names of organisations, laws, decisions and taxes in full the first 
+time, followed by the short capitalised version in brackets. 
+ 
+Example: 
+European Union (EU) 
+You do not have to share full names of acronyms when the acronym is 
+more known than the full name. Think of organisations such as: 
+ 
+HEMA, NS and NASA.  
+ 
+TIP! 
+ 
+Frequently used abbreviations: 
+NGO 
+SMEs 
+AOW 
+Ministry of Foreign Affairs (BZ) 
+UNESCO 
+the UK  
+ 
+TIP! 
+ 
+Keep in mind that abbreviations of subsidies do not need ‘the’.  
+ 
+You can apply for WBSO (not: You can apply for the WBSO) 
+ 
+3.5 Foreign or non-English words 
+ 
+Write non-English (foreign) non-translatable words in italic. Use a short 
+explanation of the term in English for the foreign word.  
+ 
+ 17 
+Example:  
+You can apply via the online platform eLoket from 31 March 2020 to 12 
+April 2020.  
+ 
+With laws, names and subsidies use the Dutch term in brackets after the 
+term in English:  
+ 
+Example:  
+Environmental Management Activities Decree (Activiteitenbesluit 
+Milieubeheer) 
+ 
+3.6 Hyphen – liggend streepje 
+ 
+Rule of thumb: hyphenate two or more words only when used as an 
+adjective.  
+ 
+Hyphenate 
+3-year old 
+High-quality products 
+ 
+But do not hyphenate 
+ 
+I work at a startup  
+This product has high quality 
+ 
+ 
+3.7 Synonyms, the first meaning of a word 
+ 
+Synonyms can be used for readability, but when used incorrectly or too 
+often texts will confuse readers. Keep using the same term for important 
+words: sustainable. Not: sustainable, green and eco-friendly.  
+ 
+Different words can mean the same thing. But, all words have their first, 
+second and third meaning that can confuse readers. To keep the text at 
+B1 level use whenever possible the first meaning of a word.  
+ 
+For example:  
+Want to say Use Do not use (1st meaning) 
+   
+Maximale hoogte subsdie Limit Ceiling (plafond) 
+Uitvoeren/doen To do Execute (liquideren) 
+ 18 
+Niet aanwijsbare regio Place Space (de ruimte) 
+ 
+3.8 Keep it positive 
+ 
+Choose positive words over negative. And avoid double negatives.  
+Example:  
+Focus on positive word: He is not successful 
+Focus on negative word: He is unsuccessful  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+4. Spelling & Grammar 
+ 
+ 
+4.1 Singular and plural  
+ 
+Even though a country sounds plural, it is treated as singular. For 
+example:  
+ 
+The Netherlands, but “the Netherlands is a small country”. 
+ 
+Referring to a specific decade is done as follows: 
+In the 1970s we had a blast.  
+The 1990s were fabulous.  
+ 
+TIP! 
+There is no ’s plural in English, so write photos, euros, NGOs, SMEs. 
+ 
+4.2 B1 words versus B1+ words 
+ 
+Many English words are familiar to us. But not to B1 readers. Use the 
+most common and simple form.  
+ 
+B1 level B1+ level 
+  
+About Regarding 
+Before Prior to 
+Buy Purchase 
+Complete Fill in (samenvoeging) 
+End Terminate 
+Extra Additional 
+If In the event of 
+More than In excess of 
+Send Forward 
+So Consequently 
+Start Commence 
+Tell Advise 
+Under In accordance with 
+You Applicant 
+ 
+ 
+ 
+ 
+ 20 
+4.3 False friends  
+ 
+The following words in English and Dutch look similar but have different 
+meanings: 
+ 
+Dutch Correct False friend 
+   
+actueel  current  actual  
+declarative  return  declaration  
+dispensatie  exemption  dispensation  
+eventueel  possible  eventual  
+format  form  format  
+realiseren handle realise 
+structureel  regular  structural  
+training  workshop/course training  
+voordeel benefit profit 
+ 
+ 
+4.4 Date, time, numbers, measurements, currencies 
+ 
+The correct use of date, time, numbers, measurements, currencies is 
+important for our readers. They do not want to miss a deadline, submit 
+the wrong details or expect a different amount. Use the following rules:  
+ 
+4.4.1 Date 
+ 
+[day] [month] [year] and when relevant add the day of the week + 
+comma 
+ 
+Examples: 
+You can apply from 31 March 2020 on.  
+The event takes place on Friday, 13 April 2020.  
+ 
+4.4.2 Time  
+ 
+We use the 24-hour clock. The Netherlands has summer and winter time. 
+Therefore we use both Central European Time (CET) and Central European 
+Summer Time (CEST). Use the following rules: 
+ 
+31 July 2020 09:00 CEST 
+21 January 2020 17:00 CET 
+You can apply from 1 March 09:00 CET to 1 April 17:00 CEST 2020.  
+ 
+ 21 
+4.4.3 Measurements 
+ 
+Since our readers come from all over the world we need to be clear about 
+measurements. In the Netherlands and in British English we use the 
+metric system as a standard. Even though we have this standard, do not 
+forget to add the measurement to the number.  
+ 
+Examples: 
+41,450 km2  
+16,038 square miles (wijkt af, dus volledig) 
+50 m2 
+25% 
+90° C 
+70° Fahrenheit (wijkt af, dus volledig) 
+ 
+4.4.4 Numbers 
+ 
+Write numbers as figures. Try to avoid a number at the beginning of a 
+sentence. When using a number at the beginning of a sentence, the 
+following word is not capitalised.  
+ 
+In English we use commas instead of full stops to separate thousands: 
+1,000 or 33,647 
+ 
+In English we use full stops instead of commas to specify decimals: 
+1,000.99 or 33,647.00 
+ 
+To shorten a large number, write:  
+3.5 million, not 3½ million or 3.5M 
+ 
+TIP! 
+ 
+Write ordinal numbers (1st and so on) without superscript. To make sure 
+digital devices read the number out loud correctly. Even better: write out 
+the full word. Such as first, second up until 20.  
+ 
+4.4.5 Currencies 
+ 
+The euro is our standard currency. To avoid confusion always mention the 
+currency. Use the following rules: 
+ 
+• There should be no space between the currency sign and the 
+number: €10,000 or US$9.99 
+ 22 
+• The word euro (plural: euros) is written with a lower case letter 
+• Specify US dollars (US$) to distinguish from Australian/Canadian 
+dollars 
+• When the options above are not suitable and you want to name the 
+currency, use the ISO standard abbreviations (EUR, USD, GBP) 
+ 
+Examples: 
+The costs are €1,000 for the car.  
+The return was 2.7 million euros.  
+Our company needs 8.6 billion GBP.
+
+=== Document: appendix 11d style-guide-rvo-photography ===
+1 
+ 
+Style-guide RVO-photography 
+The requirements mentioned below are meant for photographers who are on 
+assignment for RVO abroad and for RVO photography in general.  
+Photography guidelines 
+Images from the Rijksoverheid have to be powerful, clear, credible and 
+Dutch. 
+The images must be in full colour, high in contrast and should not have 
+much details. The colours are bright, and the subject should be in focus. 
+Additionally, photos have to be shot from a natural perspective, with 
+‘real’ people and not clearly staged. Regarding people, this should display 
+the multicultural Dutch community. 
+In short: 
+ Powerful and colourful 
+ Good composition  
+ Clear look and feel  
+ High resolution 
+ 
+ Powerful 
+Clearly show what you want to tell. The image should enhance 
+the accompanies message. Also, the image should be able to 
+communicate the message on its own. Do not focus on the 
+image alone, but the complete message. 
+ Clear 
+One image tells a clear story. Therefore, refrain from using 
+unnecessary elements. If you are not able to capture the 
+message in one image, then use multiple images to create an 
+effective message. 
+ Credible 
+Images are realistic and therefore not clearly staged. Portait 
+people as they are. Use a normal perspective. Images should be 
+in colour. 
+ The Netherlands and the Netherlands abroad 
+If the message portraits the Netherlands or is staged in the 
+Netherlands, use typical Dutch images. Also consider the 
+diversity of the people within the Netherlands. In case of 
+subjects regarding foreign territories or situated abroad, 
+consider showing the Dutch efforts in that particular country. 
+2 
+ 
+Points of concern and practical guidelines:  
+ Always consider the guidelines that are applicable to Dutch 
+entrepreneurship – for instance regarding corporate-social 
+responsible. Consider for example: 
+o Safety rules on the floor 
+o Protective clothing  
+o Animal welfare 
+ Pay attention to sensitive information 
+ No visible company names, license plates etc. in the 
+shot.  
+ Portrait right: Always ask the person(s) in the shot for 
+permission. 
+ If necessary, have the people or companies involved sign 
+a quit-claim agreement. 
+ Do not manipulate photos 
+ Always hand over the original images (300dpi), in hi-res (300dpi) 
+and .jpg- format. 
+ Colour correction can be desirable. 
+ Horizontal images are preferable, as the photos will be used in a 
+digital environment, on websites as well as newsletters and 
+social media. 
+ RVO.nl website headers and social media images use specific 
+landscape dimensions. The sizes will be specified in the briefing.  
+ Note that RVO needs to crop the image for the various 
+communication platforms if necessary. For instance, shoot next 
+to a close up also a wide angled photo. This way the subject will 
+remain in focus after cropping the image.   
+ Sizes for website headers and social media will be mentioned in 
+the briefing. However, always send the original uncropped 
+images too.  
+ Always send an image preview to the internal client and to RVO’s 
+Beeldteam via beeld@rvo.nl. A selection of the images will be 
+uploaded to the Mediatheek after consulting the Beeldteam.  
+ Images that meet the guidelines and are suitable for multi-usage 
+will be added to the Mediatheek by RVO. 
+ 
+ 
+   
+  
+3 
+ 
+Visual recognisability: What message does RVO want 
+to dissipate? 
+RVO has multiple target audiences, the common factor are the people. 
+RVO wants to humanise the subject. For instance, by visualising a Dutch 
+entrepreneur abroad, collaborating with a foreign entrepreneur or 
+employee. 
+ 
+Translating RVO through images 
+ 
+Besides the general photography guidelines, it is possible to add RVO-
+specific accents so the image visualises the RVO message. Use of the 
+following keywords: 
+ Transparant  
+(show what is going on, a view behind the scenes) 
+ People  
+(think of knowledge sharing through experience (= emotion) – Show 
+interaction) 
+ Connect  
+(Visualise the people and their surroundings, human perspective) 
+ Engaged  
+(we collaborate with others) 
+ Be creative and be bold  
+(avoid cliché images)  
+What is visual storytelling? 
+Always connect the image with the subject matter – the underlying 
+message. Images are a visual expression of the underlying message. 
+The message will be presented in the briefing.    
+ 
+Backdrop 
+ Choose a backdrop that enhances the image and tells more about the 
+subject.  
+Creative thinking: do not always use the meeting room or the office. 
+ Set the backdrop, because it tells a story too. 
+ Show human interaction. 
+ Prompt for positive images, visualise. 
+ Use authentic images, do not post-process them. 
+ Shoot your image from a human perspective. Vary in focus and 
+unfocused.   
+ 
+ 
+  
+4 
+ 
+People 
+ 
+In general 
+ Functional, no stock images 
+ Consider that photographing a subject from beneath can create a 
+distored view of the human dimensions.  
+ Alternate close-ups of people  
+ Create a realistic view of the situation 
+ Pay attention to privacy and portrait rights!  
+ 
+Show the RVO-context 
+People involved  
+ Photograph the people involved in the projects – the stakeholder – in 
+the relevant environment (perception) 
+Knowledge experts  
+ Show RVO’s expertise in relation to the project 
+Connectors 
+ Think of the target audience, but also the stake holders. Visualise for 
+and with whom RVO carries out the projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ Photos on location, at a project, along side other persons (stake holders, people 
+involved with the project) 
+5 
+ 
+RVO-projects visualised: 
+ Placing people in a setting: 
+o Realistic images  
+o positive  
+o sharp/depth  
+o alternate between close-up and wide angle  
+] 
+ 
+ 
+ 
+  
+ Placing people in a natural setting 
+6 
+ 
+Example images: Dos and don’ts  
+ 
+ 
+Creative point of view 
+Creative point of view 
+Female entrepreneur 
+Conversation and communication 
+7 
+ 
+   
+ Good vibrant image, but no people and no interaction 
+Use innovative technics rather than tradtional images 
+ Traditional and staged photos are not prefered by RVO 
+Colourful, people in a work environment 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  No group photos: snap-shot, staged and no visual story 
+   No touristic images
+
+=== Document: appendix 11a clear and understandable english ===
+CLEAR & UNDERSTANDABLE ENGLISH
+Use active sentences
+Use short sentences
+Use B1 words
+Do not use expressions
+About                                  Regarding
+Before                                 Prior to                             
+Complete                            Fill in
+Extra                                    Additional
+End                                      Terminate  
+More and more often        Increasingly
+Would you like more information about specific countries or
+sectors? Need advice on doing business abroad? Contact us.
+Contact us for more country and sector-specific information, or
+if you want business advice about international business in a
+changing world.
+As a governmental organisation, we need to make sure
+everyone understands our texts - even if English is a
+third or fourth language. This means writing at B1 level. 
+So, how can you make your text B1?
+The Netherlands Enterprise Agency carries out this programme.This programme is carried out by the Netherlands Enterprise Agency.
+DUOLINGO
+To check the level of singular words.
+HEMINGWAY
+To check the level and pinpointdifficult sentences, passive tense andso on.
+GRAMMARLY
+Checks grammar, level of text, clarityamong other things. 
+Tools
+Need help, advice ora native check?
+content@rvo.nl 
+The business was successful.
+The business made a killing.
+STYLE GUIDE
+To check anything to do with how wewrite, and see examples.
+
+=== Document: appendix 10 - writing assignment export potential - hm ===
+Appendix 10.  Writing Assignment – CBI Market Studies 202 6 In  this assignment,  t enderers are required to complete the writing assignment for the lot(s) for which they are submitting a proposal. One assignment must be submitted for each lot. All calculations and analyses presented in the assignment must use the listed countries  in   textbox 1  as the source markets and the European  Union   (EU 27)  as the export destination  (see textbox 2) .  The latest avai lable data  and sources  must be used.  The tenderer shall produce a statistical analysis assessing the export potential of the products/services listed in  t able 1, for the sector(s) covered by the lot(s) applied for. The analysis must address the following questions: 1.   What makes Europe an interesting market for  <product/service>?   Based on your statistical analysis, p rovide reasoning and insights to justify why this product/service has potential, based on factors such as market demand  in the European Union , trade data, and growth trends.  Include content on sustainability .  Provide analysis  highlighting the main opportunities  (and/or th reats)  for SME exporters . Which European   countries  offer most opportunities for  <product/service >? Identify  the  5  leading European importing countries for the selected product/service from  t able 1.   Include a chart or map illustrating the top 5 markets for the selected product/service . Select  2  of the most promising markets for exporters from  ODA countries ( textbox 1) .  Justify your choice by discussing factors such as market size, demand trends, and the presence of trade barriers.  Provide  key strategic insights derived from the statistical analysis and explain how exporters can use these insights to strengthen their market position. Depending on the sector, this may include opportunities related to partnerships, manufacturing, distribution, or market entry strategies. End with  p ractical  t ips   Based on analysis /secondary research , provide  3  practical recommendations /tips  for SMEs from  low-and middle-income  countries to successfully export t he selected  product/service to  the European Union. The assignment will also be assessed on the quality of written English and visual presentation. Tenderers must: Include a title and an introduction of no more than  5  sentences.  Include  a minimum of  1 graph and another form of visuals. Write  specifically for the CBI target group (see textbox 3) .  Use clear and easy-to-understand English .     M aximum  1,000 words . This goes for your total response,  including   headers,  sub   headers , images, graphs , tables, etc . I nclude a list of sources  ( the source list  is  excluded   from the maximum number of words) .   Use clear headings and subheadings. This assignment should be conducted and  submitted  per lot.  Table 1:  List of products / services Sector HS Code Product description Apparel 6108 31 610832 610839 6208 21 620822 620829 Women’s  or  girls'   nightdresses or  pyjamas ,  of cotton, mad-made  fibres  or other textile materials  -  Knit/Crochet Women’s or  girls'  nightdresses or  pyjamas , of cotton, mad-made  fibres  or other textile materials  -  woven  Cocoa and Coffee 1801 Specialty cocoa *Cocoa and Coffee are considered as one lot. Thus, only specialty cocoa is  required   for the writing assignment Fresh  Fruits  and   Vegetables 080 540 Fresh  or dried grapefruits and pomelo s Grains, Pulses and Oilseeds 071 33400 Dried, shelled  Bambara beans , whether or not skinned or split . Home Decoration Home Textiles 62114210 62114310 Kitchen or cooking aprons Aprons, overalls, smock-overalls and other industrial and occupational clothing (whether or not also suitable for domestic use)  -  made  of cotton Aprons, overalls, smock- overalls  and other industrial and occupational clothing ( whether or not  also suitable for domestic use) -  made  of  man-made   fibres IT  Outsourcing n.a. Platform and Low-Code Application Development Processed  Fruits  and   Vegetables 071220 Dried onion , whole, cut, sliced, broken or in powder, but not further prepared Tourism n.a. Coffee Tourism Spices and Herbs 090810 090811 090812 Nutmeg,  whole Nutmeg, neither crushed nor ground Nutmeg, crushed or ground Natural Ingredients  (for Health, Cosmetics & Food additives) 293890 130219 Citrus  Bio flavonoids ( s ectors of application: Liquid supplements, nutricosmetics and heart-health nutraceuticals) Textbox 1 :  The current DAC List of ODA Recipients (used for reporting 2025 flows and continuing into 2026 pending the postponed DAC review)  contains  129 countries and territories * Least Developed Countries (LDC)  and Low-income countries Lower Middle-Income Countries and Territories (non-LDCs) Upper Middle-Income Countries and Territories (non-LDCs) Afghanistan, Angola, Bangladesh, Benin, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Lao People's Democratic Republic, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Myanmar, Nepal, Niger, Rwanda, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Yemen, Zambia , Democratic People's Republic of Korea, Syrian Arab Republic (Syria) Algeria, Bhutan, Bolivia, Cabo Verde, Cameroon, Congo, Côte d'Ivoire, Egypt, Eswatini, Ghana, Honduras, India, Iran, Jordan, Kenya, Kyrgyzstan, Lebanon, Micronesia, Mongolia, Morocco, Nicaragua, Nigeria, Pakistan, Papua New Guinea, Philippines, Samoa, Sri Lanka, Tajikistan, Tokelau, Tunisia, Ukraine, Uzbekistan, Vanuatu, Viet Nam, Zimbabwe. Albania, Argentina, Armenia, Azerbaijan, , Belize, Bosnia and Herzegovina, Botswana, Brazil, , Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Equatorial Guinea, Fiji, Gabon, Georgia, Grenada, Guatemala, Guyana, Indonesia, Iraq, Jamaica, Kazakhstan, Kosovo, Libya, Malaysia, Maldives, Marshall Islands, Mauritius, Mexico, Moldova, Montenegro, Montserrat, Namibia, Nauru, Niue, North Macedonia, Palau, Panama, Paraguay, Peru, Saint Helena, Saint Lucia, Saint Vincent and the Grenadines, Serbia, South Africa, Suriname, Thailand, Tonga, Türkiye, Turkmenistan, Venezuela, Wallis and Futuna, West Bank and Gaza Strip. *  F or CBI purpose ,   China and Belarus are  excluded  from the list . Textbox 2:   Target market of CBI The European  Union , in short Europe is defined   as  = EU27  Textbox 3:   Target audience (“the reader”) The target  audience of CBI’s market studies is defined as follows: SME exporters :   SMEs from  low- and middle-income  countries which sell or aspire to sell their products on the European market. In our definition, SMEs are companies with 25 up to 500 employees. Depending on the sector or product, these SMEs can be exporting producers (e.g. farmers, cooperatives), exporting processors, traders (those that are not involved in production or processing, but do cover sales to foreign markets) or providers which sell their services to the European market (e.g. tour operators from  low middle income  countries).  For a large part of this group, English  is not their native language.  For this writing assignment, we ask you to write specifically for this target group.  The  assessment  team will  evaluat e  to  what extent   the text is written  in clear and understandable English and to what extent  the content is specifically  interesting for this target group (Think of content on market barriers,  opportunities, EU legislation, etc.) .
