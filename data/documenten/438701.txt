@@ -1,0 +1,2578 @@
+=== Document: bijlage 1 - programma van eisen (incl technische specificaties) v1.0 ===
+BD-EA-KV-IUCN26040160 Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+ 
+ 
+Bijlage 1 Programma van Eisen (incl. Technische specificaties) 
+ 
+ 
+Dit document geeft aan waar de dienstverlening aan moet voldoen. Dit zijn minimale eisen.  
+Het moment waarop u aan al deze eisen dient te voldoen is bij de start van de uitvoering. Direct 
+vóór de start van de uitvoering wordt een Acceptatietest uitgevoerd. Tijdens deze test worden de 
+eisen gecontroleerd. 
+ 
+Als u tijdens de Acceptatietest niet voldoet aan deze eisen (en aan de gestelde kwaliteitsnorm) dan 
+gaat de werkwijze van paragraaf 2.7 lid 3 uit het Beschrijvend document in werking. 
+ 
+Eis 1 
+Van deze regelingen moet de informatie opgenomen worden in de API: 
+• Financieringsinstrumenten van Europese, nationale, provinciale en andere regionale 
+overheden; 
+• Instrumenten uit innovatie- en scholingsfondsen; 
+• Regelingen en vergoedingen uit CAO, A&O en O&O fondsen; 
+• Belastingmaatregelen en premies; 
+• Gemeentelijke regelingen. 
+ 
+Eis 2 
+De minimaal gevraagde info per regeling is: 
+1.   De naam van het middel (STAP budget, Innovatiefonds Twente, etc.)  
+2.   Een korte omschrijving van het middel (op B1 taalniveau, zie 
+https://www.communicatierijk.nl/vakkennis/rijkswebsites/aanbevolen-
+richtlijnen/taalniveau-b1)  
+3.   De naam van de aanbieder (Ministerie van OCW, Sociaal Fonds Podiumkunsten, etc.)  
+4.   Een link naar meer informatie (doorgaans op de website van de aanbieder)  
+5.   Aanmeldinformatie: informatie over het aanmeldproces, zoals restricties vanuit de 
+financiering of vermeldingen zoals in welke periode aanvragen ingediend kunnen worden. 
+6.   Indien van toepassing de regio waarvoor het middel geldt (heel Nederland, regio Parkstad, 
+provincie Noord-Brabant, etc.) 
+7.   Indien van toepassing de arbeidsmarktsector waarop het financieringsinstrument van 
+toepassing is 
+8.   Nadere, in overleg, te bepalen kenmerken die laagdrempelig meegenomen kunnen worden.  
+Aan al deze informatie-onderdelen moet voldaan worden. 
+ 
+Eis 3 
+De Technische specificatie waaraan de financieringsdata moeten voldoen:  
+Omschrijving type  
+ Str100 specificeert een string met maximaal 100 karakters.  
+ List100 specificeert een lijst van maximaal 100 elementen.  
+ Enum specificeert een lijst met vaste waarden.  
+ Int specificeert een integer.  
+ 
+NummeringVelden   Type   Omschrijving   
+1 Naam  str128  Naam of titel van een financiering  
+2 Scope  enum  Zie tabel verplichte waarden “scope”   
+3 Status  enum  Zie tabel verplichte waarden “statu s”  
+4 Korte beschrijving  Str600  Korte beschrijving (1-3 zinnen) in B1  
+5 Lange 
+beschrijving  
+Str2400  Lange beschrijving in B1  
+6 Organisatie 
+naam(en)  
+List100[str255]  Naam betrokken organisatie(s) 
+verstrekkende/behandelende  
+BD-EA-KV-IUCN26040160 Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+7 Locatie  List100[str255]  Provincie of gemeente waarvoor de financiering 
+geldt  
+8 Type aanvrager  List100[str255]  Wie kan de financiering aanvragen, gebruik 
+“Natuurlijk persoon” als een individu deze aan 
+kan vragen, of een andere term als het door een 
+onderneming aangevraagd moet worden. 
+Meerdere waarden naast “Natuurlijk persoon” 
+mogelijk (door persoon EN onderneming aan te 
+vragen).   
+9 Sector  List100[str512]  SBI-codes met parent/child relatie, zie Standaard 
+Bedrijfsindeling 2008 update 2019   
+10 Doel  List100[str255]  Doel(en) van de subsidie (bv scholing of 
+integratie werknemers)   
+11 Type  List100[str128]  Zie tabel verplichte waarden “type”  
+12 Link  List10[string]  Bevat URL (str2048) en een  titel (str128)  
+13 Status gebruiker   List6[string]  Zie tabel verplichte waarden “status _gebruiker”  
+14 Opleidingsniveau 
+gebruiker  
+List3[string]  Zie tabel verplichte waarden 
+“opleidingsniveau_gebruiker”   
+15 Minimum leeftijd 
+gebruiker  
+int  Minimale leeftijd gebruiker of 0 als subsidie voor 
+“jongeren” is bedoeld   
+16 Maximum leeftijd 
+gebruiker  
+int  Maximale leeftijd gebruiker of 999 als subsidi e 
+voor “ouderen” is bedoeld  
+17 Aanmeldinformatie str128  Informatie over het proces van aanmelden 
+  
+Eis 4  
+De minimale set van verwachte waarden 
+In aanvulling op de enum en/of verplichte waarden uit de tabel van Eis 3:  
+Onderstaande waarden zijn een minimale set van verwachte waarden.  
+(Hiervan kan alleen na schriftelijke toestemming van opdrachtgever afgeweken worden.) 
+ 
+Nummering volgens 
+bovenstaande tabel 
+Veld Waarden 
+2 scope "Onbekend", 
+"Europees", 
+"Nationaal", 
+"Provinciaal", 
+"Regionaal", 
+"Lokaal" 
+3 status "Open",  
+"Gesloten", 
+"Gestopt", 
+"Toekomstig" 
+11 type “Beurs” 
+“Subsidie” 
+“Lening” 
+“Fonds” 
+13 status_gebruiker "Werknemer in loondienst", 
+"Zelfstandige", 
+"Werkzoekend", 
+"Afstand tot de arbeidsmarkt", 
+"Student", 
+"Ontvangt uitkering”, 
+"Uitzendkracht” 
+14 opleidingsniveau_gebruiker “Hoog”, 
+“Middel”, 
+“Laag” 
+BD-EA-KV-IUCN26040160 Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+ 
+ 
+ 
+ 
+Eis 5 
+De Minimale eisen aan tekstvelden zijn: 
+• Data voldoet aan UTF-8 encoding.  
+• Tekstvelden bestaan uit leesbaar tekst en bevatten geen HTML/XML tags.  
+ 
+Eis 6 
+Inhoudelijke onzekerheid 
+Financieringsmogelijkheden waarvan niet met zekerheid is te zeggen of die aan de gestelde criteria  
+voldoet, moeten wel door de opdrachtnemer in het aanleverbestand worden opgenomen, maar dan 
+met het kenmerk isictu=false, waardoor de financieringsmogelijkheid niet op Leeroverzicht wordt 
+getoond. De opdrachtnemer dient hiervoor afstemming te zoeken met de opdrachtgever om te 
+bepalen hoe met deze financieringsmogelijkheid om te gaan. 
+ 
+Eis 7 
+Eisen aan de Technische interface 
+Data wordt aangeboden middels een HTTPS REST API, ten minste beveiligd middels username en 
+wachtwoord/secret.  
+De payload is JSON format.  
+De Interface moet minimaal beschikbaar zijn tussen 00:00 en 06:00.  
+Bij downtime van de API moet dit gemeld worden ook buiten de genoemde tijden.
+
+=== Document: beschrijvend document financieringsmogelijkheden leeroverzicht.nl v1.0 ===
+Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+ten behoeve van 
+ 
+de Staat der Nederlanden 
+ 
+Uitgevoerd door Inkoopuitvoeringscentrum Noord 
+ 
+ 
+ 
+Contactpersoon Kees Valkenburg  
+Datum 3-9-2026  
+Kenmerk BD -EA -KV -IUCN26040160 Financieringsmogelijkheden 
+Leeroverzicht.nl 
+Versie 1.0  
+Status Definitief  
+
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  2 van 30 
+Inhoudsopgave 
+ 
+1. Inleiding ............................................................................................................... 4 
+1.1.  Opdrachtgever ................................................................................................. 4 
+1.2.  Inkoopbegeleiding............................................................................................. 4 
+2. Wat willen we inkopen? ........................................................................................ 5 
+2.1.  Omschrijving van de Opdracht ............................................................................ 5 
+2.2.  Kwaliteitscontrole bij aanvang van de uitvoering van de Opdracht........................... 7 
+2.3.  Kwaliteitscontrole gedurende de Opdracht ........................................................... 7 
+2.4.  Samenvoeging van Opdrachten en opdeling in Percelen ......................................... 7 
+2.5.  Overeenkomst en duur van de Opdracht .............................................................. 7 
+2.6.  Omvang van de Opdracht .................................................................................. 7 
+2.7.  Wachtkamerconstructie ..................................................................................... 7 
+3. Welke eisen stellen we aan de Opdracht? ............................................................. 8 
+3.1.  Programma van eisen ........................................................................................ 8 
+3.2.  E-factureren ..................................................................................................... 8 
+4. Waar moet u aan voldoen? .................................................................................... 9 
+4.1.  Inleiding .......................................................................................................... 9 
+4.2.  UEA-wizard in TenderNed .................................................................................. 9 
+4.3.  Uitsluitingsgronden .......................................................................................... 10  
+4.4.  Geschiktheidseisen........................................................................................... 11  
+4.5.  Russische betrokkenheid................................................................................... 12  
+5. Hoe kunt u zich onderscheiden en hoe beoordelen wij? ...................................... 13  
+5.1.  Gunningscriterium en methodiek ....................................................................... 13  
+5.2.  Subgunningscriteria ......................................................................................... 13  
+5.3.  Kwaliteit ......................................................................................................... 13  
+5.4.  Beoordeling kwaliteit ........................................................................................ 15  
+5.5.  Prijs ............................................................................................................... 17  
+5.6.  Beoordeling op prijs ......................................................................................... 17  
+5.7.  Beoordeling op de beste prijs-kwaliteitverhouding ................................................ 18  
+6. Hoe verloopt de procedure? ................................................................................ 19  
+6.1.  De openbare Europese aanbesteding .................................................................. 19  
+6.2.  Voorbehouden Aanbestedende dienst ................................................................. 19 
+6.3.  Communicatie ................................................................................................. 19  
+6.4.  De planning van de aanbesteding ...................................................................... 20  
+6.5.  Vragen en tekstvoorstellen ................................................................................ 20  
+6.6.  Tegenstrijdigheden of onduidelijkheden .............................................................. 21  
+6.7.  Indienen inschrijving ........................................................................................ 21  
+6.8.  Beoordeling van uw inschrijving ......................................................................... 21  
+6.9.  Verificatie gegevens UEA .................................................................................. 22  
+6.10.  Mededeling gunningsbeslissing .......................................................................... 22  
+6.11.  Ondertekenen overeenkomst ............................................................................. 23  
+7. Hoe schrijft u in? ................................................................................................. 24  
+7.1.  Formele eisen aan de inschrijving ...................................................................... 24  
+7.2.  Rechtsgeldige ondertekening ............................................................................. 24  
+7.3.  Inschrijven met het inschrijfbiljet ....................................................................... 25  
+7.4.  Inschrijven als samenwerkingsverband ............................................................... 25  
+7.5.  Inschrijven als u beroep doet op anderen ........................................................... 26  
+7.6.  Inschrijven als dochteronderneming of werkmaatschappij ..................................... 27  
+8. Overeenkomst en contractvoorwaarden .............................................................. 27  
+8.1.  Overeenkomst en ARVODI 2025 ........................................................................ 27  
+8.2.  Indexatie ........................................................................................................ 28  
+8.3.  Facturatie ....................................................................................................... 28  
+9. Klachtenregeling ................................................................................................. 29  
+10. Bijlagen ............................................................................................................... 30  
+ 
+  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  3 van 30 
+Bijlagen en checklist 
+ 
+ 
+ 
+Overzicht bijbehorende documenten  
+ 
+Bijlage 1  Programma van Eisen  
+bijlage 2  Concept Overeenkomst  
+bijlage 3  Inkoopvoorwaarden ARVODI -2025  
+Bijlage 4  Verklaring Russische betrokkenheid  
+Bijlage 5  Bijsluiter e -facturering -2023  
+Bijlage 6  Acceptatietest opzet  
+Bijlage 7  Overzicht Financieringsmogelijkheden op 20 juli 2026  
+Bijlage 8  Concept Wachtkamerovereenkomst  
+ 
+ 
+Elektronisch  invullen en  indienen  bij inschrijving  
+ 
+Verplicht 
+indienen bij 
+inschrijving? 
+Invulformulier I  Inschrijfbiljet  
+ 
+Ja  
+Invulformulier II  Referentieverklaring  
+ 
+Ja  
+Invulformulier III  Prijsblad  
+ 
+Ja  
+Invulformulier IV  Machtigingsformulier rechtsgeldige vertegenwoordiging bij 
+ondertekening Invulformulier I -Inschrijfbiljet 
+Indien van 
+toepassing 
+Invulformulier V Verklaring inzet andere entiteit om te voldoen aan een 
+geschiktheidseis 
+Indien van 
+toepassing 
+Invulformulier VI  Holdingverklaring ( Verklaring financiële en technische 
+garantstelling concern) 
+Indien van 
+toepassing 
+Invulformulier VII  
+ 
+Antwoord op de subgunningscriteria (bestand in PDF) 
+ 
+Ja  
+Overige documenten  
+ 
+ 
+Bewijsstuk 1  Uittreksel uit het register van de Kamer van Koophandel, 
+niet ouder dan 6 maanden. 
+Ja  
+Bijlage UEA  Uniform Europees Aanbestedingsdocument (UEA) via de 
+UEA-wizard in TenderNed in PDF-format voor 
+inschrijver/penvoerder 
+Ja  
+Bijlage UEA  Uniform Europees Aanbestedingsdocument (UEA) in PDF-
+format voor leden samenwerkingsverband en entiteiten 
+waarop een beroep wordt gedaan om te voldoen aan de 
+geschiktheidseisen. 
+Indien van 
+toepassing 
+Bewijsstuk 2  
+ 
+Gedragsverklaring aanbesteden  Nee *  
+Bewijsstuk 3  
+ 
+Verklaring van de Belastingdienst  Nee *  
+ 
+* Deze bewijsstukken worden opgevraagd bij de winnende partij en dienen binnen 14 dagen 
+ingestuurd te worden. U mag ze ook al eerder aanleveren. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  4 van 30 
+1. Inleiding 
+ 
+De Staat der Nederlanden nodigt u uit om in te schrijven voor de aanbesteding 
+Financieringsmogelijkheden Leeroverzicht.nl. Deze aanbesteding heeft als doel om voor de 
+volgende operationele eenheid van de Staat der Nederlanden, namelijk het Ministerie van 
+Onderwijs, Cultuur en Wetenschap diensten voor de website Leeroverzicht.nl in te kopen. 
+ 
+ 
+De aankondiging van deze Opdracht is gepubliceerd op www.tenderned.nl en in het Publicatieblad 
+van de Europese Unie. De procedure loopt via het aanbestedingsplatform TenderNed onder 
+Tendernummer 610191 
+ 
+In dit beschrijvend document leest u alle informatie die u nodig heeft om in te kunnen schrijven.  
+We gebruiken zoveel als mogelijk de begrippen van de Aanbestedingswet 2012.  
+ 
+Alle ondernemers die aan de minimumeisen voldoen, kunnen op basis van dit beschrijvend 
+document een inschrijving in dienen. Dit kan zelfstandig, in een samenwerkingsverband of door 
+een beroep te doen op andere entiteiten. 
+1.1.  Opdrachtgever 
+Het ministerie van Onderwijs, Cultuur en Wetenschap (OCW) bestaat uit een 
+bestuursdepartement (BD) en tien buiten het BD gepositioneerde dienstonderdelen, te 
+weten twee agentschappen, een Rijksdienst, vijf adviesraden en twee inspecties. Het BD, 
+gevestigd in Den Haag, heeft als kerntaken het ontwikkelen van beleid op de terreinen 
+Onderwijs, Cultuur en Wetenschap, evenals het coördineren van en toezien op de 
+uitvoering van dat beleid. 
+ 
+OCW werkt aan een slim, vaardig en creatief Nederland. Dat is onze missie. Daarbij 
+streeft OCW de volgende doelen na: 
+- Iedereen volgt goed onderwijs; 
+- Iedereen bereidt zich voor op zelfstandigheid en verantwoordelijkheid; 
+- Iedereen kan cultuur beleven; 
+- Leraren, kunstenaars en wetenschappers kunnen hun werk doen. 
+1.2.  Inkoopbegeleiding 
+Inkoopuitvoeringscentrum Noord van het ministerie van Onderwijs, Cultuur en Wetenschap (IUC-
+Noord) voert deze aanbestedingsprocedure uit en treedt daarbij op als procesbegeleider. IUC-
+Noord is één van de negentien landelijke inkoopuitvoeringscentra (IUC’s) die inkoopdiensten 
+leveren aan diverse overheidsinstanties, departementen en ministeries binnen de Rijksoverheid. 
+Meer informatie over IUC-Noord vindt u op onze website: www.iuc-noord.nl.  
+ 
+ 
+ 
+  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  5 van 30 
+2. Wat willen we inkopen? 
+ 
+Hieronder leest u een omschrijving van de Overheidsopdracht (hierna: Opdracht). Let op: de 
+gegevens die de omvang van de Opdracht aangeven, zijn een indicatie op grond van eerder 
+gebruik of inkooporders.   
+2.1.  Omschrijving van de Opdracht 
+ 
+Binnen het overheidsbeleid rondom “Leven Lang Ontwikkelen” is het scholings- en 
+vergelijkingsplatform Leeroverzicht.nl gerealiseerd. Leeroverzicht.nl moet het voor burgers 
+eenvoudiger maken om zich verder te ontwikkelen en daarmee hun positie op de arbeidsmarkt 
+kunnen verbeteren. Het bestaat uit drie pijlers. Het bevat een overzicht van publieke en private 
+opleidingen (inclusief cursussen en trainingen), dit is pijler 1. Pijler 2 is een overzicht van 
+mogelijkheden waarmee mensen scholing mogelijk kunnen financieren. Binnen de derde pijler 
+wordt er informatie gegeven over arbeidsmarktontwikkelingen en verwezen naar 
+loopbaanprofessionals die mensen kunnen helpen bij loopbaanvraagstukken. Door op één plek 
+betrouwbare en actuele informatie aan te bieden over opleidingen, mogelijke financiering en 
+doorverwijzingen voor loopbaanadvies verlaagt Leeroverzicht de drempel om passende scholing te 
+vinden en te volgen. Het Leeroverzicht is daarnaast waardevol voor loopbaanadviseurs bij de 
+ondersteuning van hun cliënten of voor HR-functionarissen bij werkgevers. 
+ 
+Het ministerie van Onderwijs, Cultuur en Wetenschap (OCW) heeft de afgelopen anderhalf jaar als 
+opdrachtgever en eigenaar samen met Stichting ICTU als beheerder en ontwikkelaar gewerkt aan 
+de realisatie en ontwikkeling van Leeroverzicht.nl. De eerste publieke versie van het Leeroverzicht 
+is live gegaan op 10 oktober 2022. 
+ 
+Het ministerie van OCW zoekt een partij die voor de periode van minimaal vier jaar op een 
+gestructureerde wijze actuele informatie over financieringsmogelijkheden of -instrumenten voor 
+scholing (pijler 2) verzamelt en levert. Hierbij moet aangesloten worden op de huidige werkwijze 
+en structuur voor het leveren van deze informatie aan de beheerder van de website 
+Leeroverzicht.nl. Op deze manier wordt actuele en volledige informatie op het tabblad ‘Geld’ van de 
+website Leeroverzicht.nl getoond en is de informatieverstrekking door Leeroverzicht voor de 
+komende jaren geborgd.  
+ 
+Er zijn verschillende soorten financieringsmogelijkheden en -instrumenten waarmee een burger of 
+organisatie een (financiële) tegemoetkoming kan krijgen voor het volgen van scholing. Hieronder 
+vallen subsidies, maar bijvoorbeeld ook regelingen die bestaan uit een lening en soms wordt de 
+financiering in natura uitgekeerd (zoals een scholingsvoucher).   
+ 
+Alle financieringsinstrumenten die direct bijdragen aan iemands professionele ontwikkeling moeten 
+worden getoond. Hieronder vallen in ieder geval financieringsmogelijkheden voor scholing, stages, 
+leerwerkplekken, loopbaanbegeleiding, jobcoaching, (re-)integratie op de arbeidsmarkt en 
+loondispensatie. 
+ 
+Zowel publieke als private financieringsmogelijkheden zijn relevant voor Leeroverzicht. Ze kunnen 
+worden aangevraagd door zowel de burger (werkend of werkzoekend) als een werkgever en 
+kunnen worden uitgekeerd aan een opleider, werkgever of andere betrokkene. Denk bijvoorbeeld 
+aan landelijke regelingen, CAO-regelingen, O&O-fondsen en belastingmaatregelen. Ook 
+aangekondigde financieringsmogelijkheden die nog niet aangevraagd kunnen worden zijn relevant.  
+Uitzondering hierop zijn de volgende landelijke regelingen die in Leeroverzicht direct aan de 
+betreffende scholing worden gekoppeld: het gaat om Studiefinanciering, SLIM-scholingssubsidie en 
+het Leven Lang Leren Krediet. 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  6 van 30 
+De Financiële regelingen die verplicht onder deze de Opdracht vallen zijn: 
+• Financieringsinstrumenten van Europese, nationale, provinciale en andere regionale 
+overheden; 
+• Instrumenten uit innovatie- en scholingsfondsen; 
+• Regelingen en vergoedingen uit CAO, A&O en O&O fondsen; 
+• Belastingmaatregelen en premies; 
+• Gemeentelijke regelingen. 
+Van al deze regelingen moet de informatie gevonden en opgenomen worden. 
+ 
+De werkzaamheden omvatten de volgende aspecten:  
+1.  Het identificeren van financieringsmogelijkheden voor scholing en ontwikkeling, 
+inclusief het bijhouden van nieuwe mogelijkheden of veranderingen binnen bestaande 
+financieringsmogelijkheden. Dit kan onder andere door het bijhouden van nieuws van 
+onder andere overheidspublicaties, O&O-fondsen en arbeidsmarktregio’s;  
+2.  De gewenste informatie over de financieringsmogelijkheden abstraheren uit de 
+bronnen; 
+3.  De actuele informatie in een afgesproken formaat geautomatiseerd aan Leeroverzicht 
+leveren middels een API. 
+ 
+Indien door de opdrachtnemer niet met zekerheid is vast te stellen of een financieringsinstrument 
+aan de gestelde criteria voldoet, dient dit met Leeroverzicht te worden afgestemd. Dit gebeurt in 
+eerste instantie via de mail en, afhankelijk van de complexiteit van het onderwerp, wordt het in de 
+best passende vorm verder besproken (telefonisch, videovergaderen of fysiek).  
+Ter indicatie: in de huidige situatie wordt er ca. 1 keer per 2 maanden over een specifiek vraagstuk 
+overlegd. 
+ 
+Het kan zijn dat opdrachtgever vragen heeft over specifieke financieringsmogelijkheden die op  
+Leeroverzicht.nl worden getoond. Het is van belang dat de opdrachtnemer hierop anticipeert en zo 
+nodig aanvullende informatie verstrekt om zo tot een gewenste oplossing te komen. 
+Leeroverzicht krijgt momenteel over zo’n 300 financieringsmogelijkheden de gewenste, actuele 
+informatie aangeleverd. De informatie wordt door de huidige opdrachtnemer geabstraheerd uit de 
+teksten van de regelingen uit diverse openbare bronnen. Deze informatie moet actueel en volledig 
+worden aangeleverd. De informatie die OCW voor elke financieringsmogelijkheid wil ontvangen is 
+beschreven in de technische specificaties. Zie bijlage 1 Programma van Eisen. Deze gegevens 
+moeten zo nodig dagelijks geactualiseerd worden, zodat de bezoeker van Leeroverzicht.nl actuele 
+en juiste informatie getoond krijgt. Ter informatie is een lijst van de huidige 
+financieringsmogelijkheden die worden getoond op Leeroverzicht bijgevoegd, zie bijlage 4. 
+ 
+Het uitgangspunt van opdrachtgever is om een kwaliteitsniveau van 99% juiste informatie te 
+bereiken. Dat wil zeggen: ten minste 99% van de bekende financieringsmogelijkheden staat op 
+Leeroverzicht.nl en deze informatie is op een willekeurige dag voor 99% actueel. 
+ 
+Voor de informatie die niet binnen het programma van eisen valt, zullen gebruikers van het 
+platform Leeroverzicht.nl doorverwezen worden naar de website van de betreffende aanbieder. De 
+bezoeker kan daar dan ook de eventuele aanvraag doen. 
+ 
+Leeroverzicht.nl wordt continue doorontwikkeld om zo te blijven voorzien in de behoeftes van 
+bezoekers. Dit kan resulteren in de wens dat aanvullende kenmerken of metadateringen door 
+opdrachtnemer toegevoegd worden aan de levering van de data over financieringsmogelijkheden 
+en -instrumenten. Daarom wil opdrachtgever de optie hebben om op projectmatige wijze nieuwe 
+metadateringen te laten toevoegen aan het databestand. Deze aanpassingen zijn een standaard 
+onderdeel van de opdracht. In het Prijsblad (Invulformulier III) dient u hiervoor uw prijs op te 
+geven voor drie aanpassingen die projectmatig tegelijkertijd per jaar worden uitgevoerd. 
+Ter illustratie, afgelopen jaar is er informatie over de arbeidsmarktsector (zorg, ict, onderwijs, etc)  
+toegevoegd. Aanpassingen in de aan te leveren informatie zullen altijd in overleg plaats vinden. 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  7 van 30 
+Op te leveren resultaat: 
+Het aanleveren en up-to-date houden van alle financieringsmogelijkheden die als doel hebben om 
+het opleiden en ontwikkelen van werkenden en werkzoekenden te stimuleren. Voor elke subsidie 
+wordt de benodigde informatie dagelijks actueel aangeleverd (zie bijlage 1 PvE). Daarnaast worden 
+er jaarlijks ca. 3 aanvullende kenmerken en/of metadateringen toegevoegd.  
+2.2.  Kwaliteitscontrole bij aanvang van de uitvoering van de Opdracht 
+ 
+Direct vóór de start van de uitvoering vind een acceptatietest plaats waarbij gecontroleerd wordt of 
+de eerste uitvoering voldoet aan het Programma van Eisen en of de resultaten overeenkomen met 
+de informatie over de financieringsmogelijkheden die op dat moment op Leeroverzicht.nl 
+gepubliceerd worden. Mocht hier uit blijken dat er omissies zitten, dan wordt een maand hersteltijd 
+gegeven om tot de 99% kwaliteitsnorm te komen. Na een herhaalde kwaliteitscontrole wordt, bij 
+onvoldoende resultaat, nogmaals één maand hersteltijd geboden. Wordt dit niet ook niet gehaald, 
+dan wordt het contract ontbonden. Zie hiervoor ook paragraaf 2.7 Wachtkamerconstructie. 
+2.3.  Kwaliteitscontrole gedurende de Opdracht 
+Of de door Opdrachtnemer aangeleverde informatie voldoen aan de kwaliteitsnorm van ten minste 
+99% kan op ieder moment gedurende de contractperiode met een (statistisch verantwoorde) 
+steekproef gecheckt worden. Deze controle kan zowel door Opdrachtgever zelf, als ook door een 
+externe partij, uitgevoerd worden. Als de kwaliteitsnorm niet gehaald wordt, dan krijgt de 
+Opdrachtnemer een maand de tijd om verbeteringen door te voeren zodat de norm wel gehaald 
+wordt. Als na deze maand de norm alsnog niet gehaald wordt, dan kan een in gebreke stelling 
+volgen. 
+2.4.  Samenvoeging van Opdrachten en opdeling in Percelen 
+Er is geen sprake van samenvoeging van Opdrachten of van opdeling in percelen. Het betreft één 
+ondeelbare Opdracht met een relatief bescheiden schaalgrootte. 
+2.5.  Overeenkomst en duur van de Opdracht 
+Er is sprake van een dienstverleningsovereenkomst volgens de ARVODI (Algemene 
+Rijksvoorwaarden voor het Verstrekken van Opdrachten tot het verrichten van DIensten). In 
+bijlage 2 vindt u de concept overeenkomst. 
+De overeenkomst wordt gesloten met één opdrachtnemer. 
+ 
+De streefdatum voor de start van de overeenkomst is 1 maart 2027. 
+De looptijd is vier jaren met daarbovenop twee optiejaren (4+2). 
+ 
+Meer hierover leest u in hoofdstuk 8 Overeenkomst en contractvoorwaarden. 
+2.6.  Omvang van de Opdracht 
+De raming van deze opdracht is 125.000 euro excl. BTW op jaarbasis. De raming over de totale 
+looptijd is daarmee maximaal 750.000 euro excl. BTW. 
+ 
+Let op: deze gegevens zijn een indicatie op basis van historische gegevens. U kunt dan ook 
+uitdrukkelijk geen rechten ontlenen aan de genoemde omvang.  
+2.7.  Wachtkamerconstructie 
+Voor deze opdracht geldt een wachtkamerconstructie. Dat betekent dat de Opdrachtgever de 
+opdracht kan gunnen aan de inschrijver die op de tweede plaats is geëindigd, als de winnende 
+inschrijver de opdracht niet volgens de gestelde kwaliteit kan uitvoeren. 
+ 
+Wachtkamerprocedure: 
+ 
+1.  Alle Inschrijvers conformeren zich door indiening van hun Inschrijving aan deze 
+Wachtkamerconstructie.  
+2.  De Opdrachtgever sluit de Overeenkomst met de winnende Inschrijver.  
+3.  Opdrachtgever sluit de Wachtkamerovereenkomst (bijlage 8) met de inschrijver die als 
+tweede is geëindigd. 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  8 van 30 
+4.  Opdrachtgever voert een Acceptatietest (zie bijlage 6) uit op de diensten van 
+Opdrachtnemer, direct na de oplevering bij de start van de overeenkomst (= 1 maart). 
+Deze Acceptatietest is direct aan de start van de dienstverlening en kijkt zowel naar het 
+voldoen aan het PvE als ook aan het halen van de kwaliteitsnorm op de resultaten. Als er 
+verbeterpunten zijn die tijdens deze acceptatietest worden geconstateerd, dan moeten 
+deze binnen één maand door Opdrachtnemer opgelost worden. Vervolgens doet 
+Opdrachtgever een nieuwe controle van de resultaten en is er opnieuw één maand voor het 
+oplossen van de geconstateerde gebreken. Als Opdrachtnemer na 2 maanden nog niet 
+voldoet aan het PvE of de juiste kwaliteitsnorm heeft bereikt dan wordt de Overeenkomst 
+ontbonden. 
+5.  De Inschrijver die als tweede is geëindigd, en waarmee de Wachtkamerovereenkomst is 
+gesloten, krijgt nu de Opdracht gegund. Opdrachtgever zal deze Overeenkomst sluiten 
+onder de voorwaarden en condities van de oorspronkelijke inschrijving van de als tweede 
+geëindigde partij. 
+6.  Activering van de wachtkamer: De Opdrachtgever is gerechtigd – doch niet verplicht – om 
+de Wachtkamerconstructie te activeren en de resterende Opdracht over te dragen aan de 
+Wachtkamerondernemer indien de Overeenkomst met de nummer 1 binnen de hierboven 
+genoemde termijn voortijdig wordt beëindigd. Dit recht geldt uitsluitend als de 
+Overeenkomst wegens wanprestatie of toerekenbare tekortkoming na de eerste drie 
+maanden wordt ontbonden. 
+7.  Voorwaarden bij overdracht: Indien de Wachtkamerconstructie wordt geactiveerd, zal de 
+Wachtkamerondernemer de resterende werkzaamheden uitvoeren conform de bepalingen 
+uit de oorspronkelijke Aanbestedingsstukken en zijn eigen Inschrijving. Er vindt geen 
+vergoeding plaats voor de periode waarin de Inschrijver in de wachtkamer heeft 
+plaatsgenomen.  
+ 
+Gezien de relatief beperkte termijn waarop vast te stellen is of de winnende inschrijver de opdracht 
+wel of niet aan kan achten wij deze wachtkamerconstructie zonder vergoeding proportioneel. Vanaf 
+de start van de opdracht is de termijn waarop nummer twee weet of ze de opdracht gaan 
+overnemen ca. drie maanden. Vanaf de definitieve gunningsdatum is deze periode ca. vijf 
+maanden.  
+3. Welke eisen stellen we aan de Opdracht? 
+ 
+In dit hoofdstuk leest u welke eisen en voorwaarden wij stellen aan de Opdracht. 
+3.1.  Programma van eisen 
+In het programma van eisen (bijlage 1 Programma van eisen) staan de eisen die wij stellen aan de 
+uitvoering van de Opdracht. De datum waarop u aan deze eisen moet voldoen is bij de start van de 
+uitvoering van de Opdracht.  
+3.2.  E-factureren  
+Als overheid zijn wij verplicht uw elektronische facturen te accepteren en te verwerken. 
+Wij zijn als overheid vanaf november 2018 verplicht om e-factureren te implementeren. Dit is 
+vastgelegd in de EU-Richtlijn Elektronische facturering bij overheidsopdrachten (2014/55/EU).  
+ 
+U mag zelf weten via welk kanaal u uw e-facturen inlevert. 
+In bijlage 5 bijsluiter e-factureren aan de Rijksoverheid leest u de diverse mogelijkheden tot e-
+factureren. Deze mogelijkheden bieden leveranciers ruime keuze om een e-factuur te versturen 
+aan de Rijksoverheid. 
+ 
+  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  9 van 30 
+ 
+4. Waar moet u aan voldoen? 
+ 
+In dit hoofdstuk leest u welke uitsluitingsgronden en geschiktheidseisen wij hanteren om te 
+bepalen of een inschrijver geschikt is om de Opdracht uit te voeren.  
+ 
+4.1.  Inleiding 
+Uitsluitingsgronden hebben tot doel te waarborgen dat alleen met integere ondernemingen zaken 
+wordt gedaan. Wij hanteren in deze aanbesteding verplichte uitsluitingsgronden en facultatieve 
+uitsluitingsgronden.  
+ 
+Om de geschiktheid te kunnen bepalen hebben we een aantal eisen vastgesteld die betrekking 
+hebben op de financiële en economische draagkracht, technische bekwaamheid, 
+beroepsbekwaamheid en beroepsbevoegdheid. 
+ 
+4.2.  UEA-wizard in TenderNed 
+Via het Uniform Europees Aanbestedingsdocument (UEA) geeft u aan of de uitsluitingsgronden wel 
+of niet op u van toepassing zijn en of u voldoet aan de geschiktheidseisen. Meer informatie over 
+het UEA vindt u op Pianoo 1. 
+ 
+Als inschrijver vult u het UEA digitaal in via de UEA-Wizard in TenderNed en voegt u dit toe aan uw 
+inschrijving via TenderNed. Meer informatie over hoe u dit via de UEA-Wizard invult lees u op 
+TenderNed 2. U hoeft het UEA niet te ondertekenen. Wel dient u invulformulier I - Inschrijfbiljet 
+rechtsgeldig te ondertekenen en bij inschrijving in te dienen.  
+ 
+Schrijft u in als samenwerkingsverband of doet u een beroep op een andere entiteit voor 
+de geschiktheidseisen? 
+Dan dienen alle leden aan het samenwerkingsverband en de entiteiten waarop u een beroep doet 
+voor de geschiktheidseisen het UEA (invulformulier VII – Uniform Europees 
+Aanbestedingsdocument) in te vullen en bij inschrijving in te dienen. Meer hierover leest u in 
+paragraaf 7.4 Inschrijven als samenwerkingsverband en paragraaf 7.5 Inschrijven als u een beroep 
+doet op anderen voor de geschiktheidseisen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 https://www.pianoo.nl/nl/regelgeving/uniform-europees-aanbestedingsdocument-uea 
+2 https://www.tenderned.nl/cms/nl/vraag/uea-invullen 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  10 van 30 
+4.3.  Uitsluitingsgronden 
+Voor deze aanbesteding gelden de in deel III A en B van het UEA opgenomen dwingende 
+uitsluitingsgronden. Deze uitsluitingsgronden ziet u in onderstaand overzicht ook terug. In het 
+overzicht ziet u voor zover van toepassing ook welke nationale bewijsmiddelen u dient te 
+overleggen bij de uitsluitingsgronden.  
+ 
+Facultatieve uitsluitingsgronden passen we bij deze aanbesteding niet toe. 
+ 
+Overzicht uitsluitingsgronden en nationale bewijsmiddelen    
+Dwingende uitsluitingsgronden  Nationale bewijsstukken  
+• Deelneming aan een criminele organisatie 
+• Corruptie 
+• Fraude 
+• Terroristische misdrijven of strafbare feiten in 
+verband met terroristische activiteiten 
+• Witwassen van geld of financiering van terrorisme 
+• Kinderarbeid en andere vorm van mensenhandel 
+ 
+Bewijsstuk 2: Gedragsverklaring 
+Aanbesteden (GVA) 
+• Betaling van belastingen of sociale premies 
+Bewijsstuk 3: Verklaring van de 
+belastingdienst  
+Facultatieve uitsluitingsgronden  Nationale bewijsstukken  
+n.v.t.  n.v.t.  
+ 
+Schrijft u in als samenwerkingsverband of doet u een beroep op een andere entiteit voor 
+de geschiktheidseisen? 
+Dan worden de uitsluitingsgronden toegepast op ieder lid van het samenwerkingsverband of iedere 
+entiteit waarop u een beroep doet om te voldoen aan de geschiktheidseisen.  
+ 
+Uw inschrijving is ongeldig als één van de uitsluitingsgronden van toepassing is op u, een ander lid 
+van het samenwerkingsverband of op een entiteit waarop u een beroep doet om te voldoen aan de 
+geschiktheidseisen. Wij sluiten u dan uit van verdere deelname aan de aanbesteding. Meer 
+hierover lees u in paragraaf 6.8 Beoordeling van de inschrijving. 
+4.3.1.  Nationale bewijsmiddelen bij verificatie  
+Om aan te tonen dat er geen uitsluitingsgronden op u van toepassing zijn, overlegt u op verzoek 
+van ons de volgende bewijsmiddelen. U mag deze bewijsstukken ook bij inschrijving al indienen. 
+Dit is echter niet verplicht. Meer hierover leest u in paragraaf 6.9 Verificatie gegevens UEA.  
+ 
+Bewijsstuk 2: Gedragsverklaring aanbesteden   
+Een gedragsverklaring aanbesteden (GVA) die op het tijdstip van inschrijving niet ouder is dan 
+twee jaar. Een GVA is een verklaring dat uit een onderzoek is gebleken dat er geen bezwaren zijn 
+dat een natuurlijk persoon of rechtspersoon inschrijft op een overheidsopdracht, speciale-
+sectoropdracht, concessieovereenkomst voor openbare werken of prijsvraag. Justis 3 raadpleegt 
+daartoe het Justitieel Documentatie Systeem en gaat na of sprake is van relevante beschikkingen 
+van de Autoriteit Consument en Markt of de Europese Commissie.  
+ 
+Bewijsstuk 3: Verklaring van de Belastingdienst 
+Een Verklaring betalingsgedrag nakoming fiscale verplichtingen (verklaring van de 
+Belastingdienst) 4 die op het tijdstip van inschrijving niet ouder is dan zes maanden. Met deze 
+Verklaring van de Belastingdienst toont u aan dat u uw verplichte belastingen en sociale 
+zekerheidspremies heeft betaald.  
+ 
+Let op : Vraag de GVA en Verklaring van de Belastingdienst tijdig  aan in verband met de 
+verwerking- en beslistermijn. U kunt niet volstaan met het overleggen van een bewijs dat de GVA 
+en Verklaring van de Belastingdienst is aangevraagd en nog in behandeling is. 
+ 
+3www.justis.nl/producten/gva/  
+4https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/verklaring_betalingsged 
+rag_nakoming_fiscale_verplichtingen  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  11 van 30 
+ 
+4.3.2.  E-certis voor inschrijvers buiten Nederland 
+Met e-Certis 5 krijgt u inzicht in welke certificaten en verklaringen er ten aanzien van de 
+uitsluitingsgronden en geschiktheidseisen het meest worden gevraagd in het kader van 
+aanbestedingsprocedures van verschillende lidstaten. Het is een informatie-instrument en het 
+garandeert dus niet dat de informatie die uit een zoekopdracht voortvloeit, door ons als geldig 
+wordt erkend.  
+4.4.  Geschiktheidseisen 
+U leest hieronder welke geschiktheidseisen gelden voor deze aanbesteding. Dit zijn minimumeisen.  
+Uw inschrijving is ongeldig als u niet aan de geschiktheidseisen voldoet.  Wij sluiten de inschrijving 
+dan uit van verdere deelname aan de aanbesteding. Tenzij anders vermeld, geldt voor een 
+samenwerkingsverband dat die als geheel moet voldoen aan de geschiktheidseisen. 
+ 
+Samenwerkingsverband of beroep op een andere entiteit voor de geschiktheidseisen  
+Voldoet u niet zelfstandig aan één of meerdere geschiktheidseisen, dan kunt u overwegen om als 
+samenwerkingsverband in te schrijven of een beroep te doen op de technische bekwaamheid en 
+beroepsbekwaamheid van een andere entiteit. Deze entiteit kan een andere ondernemer, een 
+moeder- of zusteronderneming, maar ook een lid van het samenwerkingsverband zijn. 
+ 
+Voldoet de entiteit waarop u een beroep doet niet aan de betreffende geschiktheidseis(en), dan 
+voldoet u ook niet aan de geschiktheidseis(en) en is uw inschrijving ongeldig. Wij sluiten de 
+inschrijving dan uit van verdere deelname aan de aanbesteding. 
+ 
+4.4.1.  Financiële en economische draagkracht  
+Wij stellen geen geschiktheidseisen met betrekking tot de financiële en economische draagkracht.  
+4.4.1.1.  Bedrijfsaansprakelijkheidsverzekering  
+U bent passend verzekerd tegen bedrijfsrisico’s. volgens een in de branche gangbare vorm. U hoeft 
+hiervan geen bewijsstuk aan te leveren maar verklaart met deze inschrijving dat u hier aan 
+voldoet. 
+4.4.2.  Technische bekwaamheid en beroepsbekwaamheid 
+Voor deze opdracht zijn als geschiktheidseis twee kerncompetenties opgenomen. Deze 
+kerncompetenties zijn minimaal nodig om te kunnen voldoen aan de opdracht.  
+4.4.2.1.  Kerncompetenties 
+ 
+De onderstaande twee kerncompetenties zijn minimaal nodig om de gevraagde gegevens volledig 
+en actueel te kunnen leveren en daarbij te voldoen aan het Programma van Eisen. 
+ 
+De twee benodigde kerncompetenties: 
+ 
+1 Ervaring met het (geautomatiseerd) vinden, verwer ken en valideren van gegevens.  
+Merk op dat het hierbij niet uitsluitend gaat om het vinden van data, maar ook om 
+het verwerken en valideren ervan. Het gaat om een proces dat start met het vinden 
+van data en het vervolgens vertalen daarvan naar informatie volgens gemaakte 
+afspraken. 
+ 
+2 Ervaring met het geautomatiseerd delen van inform atie via een API (Application 
+Programming Interface). 
+ 
+U dient bij inschrijving aan te tonen dat u beschikt over de kerncompetenties die essentieel zijn 
+voor het uitvoeren van de Opdracht. Door middel van referenties kunt u aantonen over deze 
+kerncompetenties te beschikken. Dit doet u door invulformulier II - Referentieverklaring in te 
+vullen en in te dienen bij uw inschrijving. 
+ 
+5 https://ec.europa.eu/tools/ecertis/#/search 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  12 van 30 
+ 
+Voorwaarden referenties: 
+• per kerncompetentie mag maximaal één referentie worden verstrekt. Het is echter 
+toegestaan om met één referentie aan meer kerncompetenties te voldoen, mits hieruit 
+helder en ondubbelzinnig de door ons gevraagde ervaring blijkt. 
+• de einddatum van de referentieopdracht is maximaal 3 jaar geleden, gerekend van de 
+uiterste inschrijfdatum. Een referentieopdracht mag wel langer dan 3 jaar geleden gestart 
+zijn. 
+• alleen behaalde resultaten tellen mee. Stuurt u een referentieopdracht in die nog loopt? 
+Dan kijken we alleen naar resultaten die u al behaald heeft. Dat houdt in dat de resultaten 
+die u al behaald heeft moeten voldoen aan de gestelde kerncompetenties. 
+• wij mogen zonder uw tussenkomst contact opnemen met de referenten om méér informatie 
+te vragen ter verificatie.  
+ 
+4.4.3.  Beroepsbevoegdheid  
+U bent – volgens de voorschriften van de lidstaat waarin uw onderneming gevestigd is – in het 
+beroeps- of handelsregister ingeschreven voor de voor de Opdracht benodigde bedrijfsactiviteiten.  
+ 
+Nationaal bewijsmiddel bij inschrijving 
+Bewijsstuk 1: Uittreksel handelsregister  
+U kunt uw beroepsbevoegdheid aantonen door bij inschrijving een recent uittreksel van inschrijving 
+in het beroeps- of handelsregister te overleggen, waaruit blijkt dat uw onderneming, volgens de 
+voorschriften van de lidstaat waarin uw onderneming gevestigd is, dat op het tijdstip van het 
+indienen van de inschrijving niet ouder is dan zes maanden. Binnen Nederland voldoet een 
+uittreksel van inschrijving in het register van de Kamer van Koophandel.  
+ 
+Met dit uittreksel toont u ook aan dat het inschrijfbiljet rechtsgeldig (door de juiste persoon) is 
+ondertekend. M.a.w.: de ondertekening dient te gebeuren door de persoon die volgens het 
+uittreksel voldoende mandaat heeft. 
+4.5.  Russische betrokkenheid  
+De Europese Unie heeft op 8 april 2022 nieuwe sancties ingesteld tegen Rusland. Dit heeft tot 
+gevolg dat wij geen overheidsopdrachten meer mogen gunnen aan Russische partijen. Dit geldt 
+ook voor overheidsopdrachten waar een Russische partij voor meer dan 10% deelneemt in de 
+overeenkomst als onderaannemer of leverancier. 
+ 
+Welke Russische partijen worden bedoeld? 
+Het verbod ziet op gunning aan en lopende overeenkomsten met: 
+- personen met een Russische nationaliteit en personen of rechtspersonen (bedrijven, 
+entiteiten of organen) die gevestigd zijn in Rusland; 
+- rechtspersonen die voor meer dan 50% eigendom zijn van een Russische partij zoals 
+genoemd hierboven; en 
+- personen of rechtspersonen die handelen in belang van of op aanwijzing van een 
+bovengenoemde Russische partij. 
+ 
+Bewijsmiddelen 
+Met de ondertekening van invulformulier I - Inschrijfbiljet die u bij inschrijving indient, verklaart u 
+dat u niet onder het sanctiepakket valt, meer in het bijzonder verklaart u hetgeen dat in bijlage 4 – 
+Russische betrokkenheid is opgenomen.   
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  13 van 30 
+ 
+5. Hoe kunt u zich onderscheiden en hoe beoordelen wij? 
+In dit hoofdstuk leest u welk gunningscriterium wordt gehanteerd en de wijze waarop de 
+inschrijvingen inhoudelijk worden beoordeeld. 
+ 
+5.1.  Gunningscriterium en methodiek 
+Deze aanbesteding wordt gegund op basis van beste prijs-kwaliteitverhouding (BPKV) 
+ 
+Dit houdt in dat zowel de kwaliteit als de prijs beoordeeld worden. Dit wordt verder uitgewerkt in 
+de volgende paragraaf over de subgunningscriteria. 
+ 
+5.2.  Subgunningscriteria 
+Het gunningscriterium is uitgewerkt in subgunningscriteria. In het overzicht hieronder ziet u de 
+subgunningscriteria die bij deze aanbesteding gelden. Per subgunningscriterium ziet u ook het 
+aantal punten dat u maximaal kunt scoren. De subgunningscriteria worden in de volgende 
+paragrafen verder toegelicht. 
+ 
+Gunningscriterium ‘Beste prijs-kwaliteitverhouding’ 
+ 
+  
+Subgunningscriteria 
+ 
+Te behalen punten 
+Kwaliteit 
+ 
+Plan van aanpak   
+ A Vinden van data 
+ 
+40  
+ B Valideren van data 
+ 
+40  
+ Totaal Kwaliteit 
+ 
+ 80 
+Prijs 
+ 
+A Totaalprijs per jaar voor de 
+volledige standaard dienstverlening 
+B Kosten voor het eenmalig 
+toevoegen van drie nieuwe 
+metadateringen 
+De totale prijs (optelsom van A+B) 
+wordt beoordeeld.  
+20  
+ Totaal Prijs  20 
+ 
+Totaal 
+Kwaliteit 
+en Prijs 
+   
+100 
+ 
+ 
+ 
+5.3.  Kwaliteit 
+Algemene vormvereisten beantwoording 
+Voor alle antwoorden op de subgunningscriteria gelden de volgende vereisten: 
+• u levert voor de subgunningscriteria een document met uw voorstel in PDF formaat aan bij 
+uw inschrijving; u nummert de subgunningscriteria in dit document. 
+• u beschrijft uw voorstel onder het betreffende subgunningscriterium. Iedere uitwerking van 
+een subgunningscriterium moet zelfstandig leesbaar zijn. Snelkoppelingen of verwijzingen 
+naar andere antwoorden of naar extra informatie worden niet meegenomen in de 
+beoordeling. 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  14 van 30 
+• Voor beide subgunningscriteria samen is het maximale aantal pagina’s vijf. Een pagina is 
+A4 formaat (inclusief afbeeldingen, tabellen etc.). Alle pagina’s na het bereiken van het 
+maximum aantal pagina’s worden niet meegenomen in de beoordeling. 
+• Voor de subgunningscriteria gelden geen specifieke vormvereisten, zolang uw uitwerking 
+past binnen het maximaal aantal pagina’s mag u zelf bepalen welke opmaak, kleurstelling, 
+lettertype, etc. u hanteert. De door u gekozen puntgrootte van de letters is groot genoeg 
+zodat de tekst voor beoordelaars (evt. na uitprinten) goed leesbaar blijft. 
+ 
+5.3.1.  Subgunningscriterium A - Vinden van data 
+In onderdeel A Vinden van data beschrijft u wat uw organisatie gaat doen om ervoor te zorgen dat 
+u de informatie met betrekking tot financiering van scholing vindt, actualiseert en hoe u wijzigingen 
+in die informatie identificeert en verwerkt. Geef hierbij concreet aan waarom uw methode zal leiden 
+tot een zeer hoog dekkingspercentage (doel is 99%) van de gevonden informatie. De beoordelaars 
+moeten hierbij begrijpen wat u gaat doen om te kunnen beoordelen of uw methode realistisch is.  
+ 
+Dit subgunningscriterium wordt beoordeeld op basis van de mate waarin op overtuigende wijze 
+beschreven wordt welke methodiek wordt gehanteerd om de informatie volledig en actueel te 
+houden, waarom dit de beste keuze is gegeven het PvE en in welke mate en hoe hier gebruik is 
+gemaakt van nieuwe methoden en technieken zoals het werken met LLM of scraping. U dient 
+hierbij aan te geven welke expertise u hiervoor inzet en hoe u borgt dat deze expertise gedurende 
+de looptijd van het contract beschikbaar blijft. 
+ 
+Ook wordt hierbij gekeken naar een onderbouwing van de afweging tussen kosten-efficiëntie en 
+betrouwbaarheid  van de gevonden informatie. Hierbij dient u te beschrijven hoe u aantoont dat de 
+gevonden informatie een dekkingspercentage heeft van 99% van de gevonden informatie, welke 
+aannames u hierin doet, hoe u dit monitort en op welke wijze hierover periodiek gerapporteerd 
+wordt aan de opdrachtgever. In het eerste half jaar vanaf de start van de overeenkomst 
+verwachten we minimaal een keer per maand een rapportage hierover te ontvangen. 
+ 
+Hiernaast beschrijft u hoe de reguliere afstemming organiseert met de opdrachtgever, op zo’n 
+manier dat het contact direct en laagdrempelig vorm kan krijgen. Ook beschrijft u hierin welk 
+proces wordt ingericht om op basis van signalen via de opdrachtgever over 
+financieringsmogelijkheden adequaat te kunnen inspelen met aandacht voor de beoordeling en 
+interpretatie van het signaal, de eventuele verwerking hiervan inclusief het doorvoeren van 
+wijzigingen. 
+ 
+5.3.2.  Subgunningscriterium B - Valideren van data 
+Voordat de gevonden informatie bij onderdeel A geautomatiseerd kan worden geleverd middels een 
+API is een validatieslag nodig. Beschrijf concreet welke stappen u zet om de gevonden data te 
+verwerken en te valideren zodat aangetoond kan worden dat de informatie overeen komt met de 
+informatie uit de bronnen. Welke rol spelen technische oplossingen en menselijke inschatting 
+hierbij? Hoe wordt gecontroleerd of de informatie die geleverd wordt aan Leeroverzicht 
+overeenkomst met de informatie zoals die uit de openbare bronnen is opgehaald en daarmee 
+informatie geeft over een financieringsinstrument voor scholing? 
+ 
+Onderdeel B wordt beoordeeld op basis van de mate waarin u op logische en heldere wijze 
+beschrijft hoe de gevonden informatie gevalideerd wordt. Beschrijf hoe u controleert dat de 
+informatie zoals geleverd aan Leeroverzicht overeen komt met de bron-informatie en op welke 
+wijze inhoudelijk beoordeeld wordt dat de gevonden informatie van toepassing is op 
+financieringsmogelijkheden van scholing. Geef daarbij aan in hoeverre er een menselijke toets 
+wordt uitgevoerd en onderbouw hierin de nut en noodzaak. Geef hierbij ook aan welke expertise 
+hiervoor wordt ingezet, naast de (automatisch) gegenereerde informatie zoals deze bijvoorbeeld 
+via een LLM wordt opgehaald zoals beschreven bij onderdeel A. 
+ 
+Wat betreft privacy wordt beoordeeld in welke mate u borgt dat er eventuele persoonlijke 
+gegevens onbedoeld worden doorgeleverd. De informatie over de financieringsmogelijkheden wordt  
+opgehaald uit openbare bronnen; beschrijf hoe u ervoor zorgt dat u geen persoonsgegevens 
+opneemt in de informatie in de API. 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  15 van 30 
+ 
+5.4.  Beoordeling kwaliteit 
+Beoordelingscommissie 
+De inhoudelijke beoordeling van uw inschrijving wordt gedaan door een beoordelingscommissie. In 
+de beoordelingscommissie zitten minimaal drie personen. Deze personen hebben de deskundigheid 
+die nodig is om uw inschrijving inhoudelijk te beoordelen.  
+ 
+De beoordelaars weten bij het beoordelen nog niet welke prijs bij een inschrijving hoort. Zo zorgen 
+we ervoor dat de beoordelaars uitsluitend de kwaliteit van uw inschrijving beoordelen. 
+ 
+Beoordelingswijze 
+Ieder lid van de beoordelingscommissie bepaalt individueel welke beoordeling en score hij geeft 
+voor elke inschrijving. Dit gebeurt per subgunningscriterium aan de hand van de bijbehorende 
+beoordelingstabel. Elk subgunningscriterium krijgt een score. 
+ 
+Daarna komt de beoordelingscommissie bij elkaar om de inschrijvingen te bespreken. Tijdens deze 
+plenaire sessie komen de beoordelaars tot een consensus voor een score op elk (onderdeel van 
+een) subgunningscriterium. 
+ 
+Beoordelingstabel voor Kwaliteit 
+Wij hanteren onderstaande tabel voor de beoordeling van de inschrijving op alle 
+subgunningscriteria voor kwaliteit  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  16 van 30 
+Score: Motivatie: Punten 
+score 
+Uitstekend  
+100% 
+Naar de mening van het beoordelingsteam geeft Inschrijver 
+een inhoudelijk relevant, toepasselijk en uitstekend antwoord 
+dat volledig voldoet aan de wensen en doelstellingen van 
+Opdrachtgever.  
+De beoordelaars zijn er van overtuigd dat de beschreven 
+werkwijze de kwaliteitsnorm zal halen.  
+De uitwerking is compleet. 
+De uitwerking van Inschrijver bevat meerdere sterke en 
+onvoorziene punten die meerwaarde bieden.  
+Het antwoord is volledig SMART uitgewerkt. 
+40  punten  
+Goed  
+80% 
+Naar de mening van het beoordelingsteam geeft Inschrijver 
+een inhoudelijk relevant, toepasselijk en goed antwoord dat 
+volledig voldoet aan de wensen en doelstellingen van 
+Opdrachtgever. 
+De beoordelaars zijn van er van overtuigd dat de beschreven 
+werkwijze de kwaliteitsnorm zal halen. 
+De uitwerking is compleet. 
+De uitwerking van Inschrijver bevat sterke punten die 
+meerwaarde bieden.  
+Het antwoord is daarnaast volledig SMART uitgewerkt. 
+32  punten  
+Ruim 
+voldoende 
+60% 
+Naar de mening van het beoordelingsteam geeft Inschrijver 
+een inhoudelijk relevant, toepasselijk en ruim voldoende 
+antwoord dat grotendeels voldoet aan de wensen van 
+Opdrachtgever.  
+De beoordelaars denken dat de beschreven werkwijze de 
+kwaliteitsnorm zal halen. 
+De uitwerking van Inschrijver bevat sterke punten die 
+meerwaarde bieden, maar ook punten die ontbreken en/of 
+onvoldoende concreet zijn uitgewerkt.  
+Het antwoord is daarnaast niet volledig SMART uitgewerkt.  
+24  punten  
+Voldoende  
+40% 
+Naar de mening van het beoordelingsteam geeft Inschrijver 
+een inhoudelijk relevant, toepasselijk en voldoende antwoord 
+dat (grotendeels) voldoet aan de wensen van Opdrachtgever.  
+De beoordelaars zijn echter niet volledig overtuigd van het feit 
+dat de beschreven werkwijze de kwaliteitsnorm zal halen. 
+De uitwerking van Inschrijver bevat sterke punten maar ook 
+punten die ontbreken en/of onvoldoende concreet zijn 
+uitgewerkt. Het antwoord is niet volledig en niet volledig 
+SMART uitgewerkt.  
+ 16 punten  
+Matig  
+20% 
+Naar de mening van het beoordelingsteam geeft Inschrijver 
+een inhoudelijk deels relevant, deels toepasselijk antwoord dat 
+(enigszins) voldoet aan de wensen van Opdrachtgever.  
+De beoordelaars zijn echter niet overtuigd van het feit dat de 
+beschreven werkwijze de kwaliteitsnorm zal halen. 
+De uitwerking van Inschrijver bevat goede punten maar ook 
+punten die ontbreken en/of onvoldoende concreet zijn 
+uitgewerkt.  
+8 punten  
+Onvoldoende  
+0% 
+Antwoord ontbreekt of is niet relevant  0 punten  
+ 
+ 
+Van een Inschrijver wordt verwacht dat hij in eigen bewoordingen aangeeft op welke 
+wijze hij de verlangde kwaliteit gaat leveren. Daarmee wordt hij in de gelegenheid 
+gesteld zich te onderscheiden van de andere Inschrijvers en aldus zijn meerwaarde aan 
+te tonen. Wanneer Aanbestedende dienst nader zou aangeven wat nodig is om een 
+bepaalde score op een (sub)criterium te behalen, zou iedere innovatie, creativiteit of 
+ieder zelfstandig denkproces bij de Inschrijvers worden weggenomen. Aan een 
+gunningssystematiek zoals in onderhavige aanbesteding aan de orde, is derhalve 
+inherent dat u als inschrijvende partij de ruimte wordt geboden om op eigen wijze aan te 
+geven hoe u de gewenste kwaliteit invult.  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  17 van 30 
+ 
+5.5.  Prijs 
+5.5.1.  subgunningscriterium prijs 
+ 
+De prijs is de vaste all-in totaalprijs voor de gehele opdracht. 
+Dit betekent dat de prijs voldoet aan alle eisen uit het beschrijvend document en de bijlagen. En 
+dat de prijs inclusief alle garanties, kosten en kortingen is. Alle opgegeven prijzen zijn in euro’s en 
+exclusief btw. 
+ 
+Alle genoemde tarieven zijn all-in tarieven 
+Dat wil zeggen dat hierin dus ook de volgende kosten zijn inbegrepen:  
+• salariskosten; 
+• overheadkosten; 
+• kosten voor ondersteunend werk; 
+• kosten voor het gebruik van apparatuur; 
+• normale binnenlandse reis- en verblijfkosten; 
+• reiskosten woon- en werkverkeer; 
+• parkeerkosten; 
+• opleidingskosten; 
+• wervings- en selectiekosten; 
+• vervanging; 
+• verzekeringspremie; 
+• winst en  
+• alle eventuele verdere bijkomende kosten, zoals de kosten voor voorbereiding op de 
+uitvoering. 
+ 
+Gebruik invulformulier III - Prijsblad om uw prijs op te geven en voeg die als Excel toe 
+aan uw inschrijving. 
+We gaan er van uit dat de prijs die u opgeeft voldoet aan alle eisen die u in het beschrijvend 
+document en de bijlagen daarbij terugvindt. 
+  
+Geeft u prijzen, kortingen, voorwaarden of andere informatie op waar niet om is gevraagd?  
+Dan geldt dat als inschrijven onder voorwaarden en is uw inschrijving ongeldig. 
+ 
+5.6.  Beoordeling op prijs 
+ 
+Alle bedragen in deze aanbesteding zijn excl. BTW. 
+ 
+De prijs van uw inschrijving wordt beoordeeld met een puntenaantal tussen 0 en 20. Voor het 
+beoordelen van de prijs gebruiken we het totaalbedrag uit Invulformulier III Prijsblad.  
+ 
+U krijgt een score (puntenaantal) voor de prijs van uw Inschrijving. Deze score is een getal dat 
+wordt bepaald op basis van het totaalbedrag in het blauwe veld in het Prijsblad. Op dit 
+totaalbedrag worden eerst een onder- en bovengrens toegepast. 
+ 
+Boven- en ondergrens 
+Onze raming voor deze opdracht is € 125.000,- op jaarbasis. De ondergrens voor in te leveren 
+jaarbedragen is € 100.000,- en de bovengrens is € 150.000,-. Als de berekening in het blauwe veld 
+in het Prijzenblad onder de € 100.000,- of boven de € 150.000,- zit dan is uw inschrijving ongeldig 
+en beoordelen we uw inschrijving niet verder.   
+ 
+Bij totaalbedragen tussen de € 100.000,- en € 150.000,- passen we de volgende stappen toe: 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  18 van 30 
+1 Uitgangspunt 
+Een ingeleverde totaalprijs van € 125.000,- geven we 10 punten. Deze 10 punten zijn het 
+uitgangspunt van de beoordeling op prijs. Met een lagere prijs kunt u extra punten verdienen en 
+met een hogere prijs krijgt u puntenaftrek. 
+ 
+2 Totaalprijzen die lager zijn dan 125k 
+Voor elke € 2.500,- die de totaalprijs lager is dan de raming: 1 punt extra tot een maximum van 
+10 punten. 
+Een totaalprijs van € 100.000,- levert dus 10 punten extra op zodat de totaalscore voor het 
+onderdeel Prijs op 20 punten komt (10+10). 
+ 
+Formule: (125.000 - ingeleverde prijs) gedeeld door 2.500 = aantal punten extra. 
+Het aantal punten wordt rekenkundig afgerond op hele punten. 
+ 
+Rekenvoorbeeld 
+Een totaalprijs van 104.500,- levert op:  
+(125.000 – 104.500): 2500 = 8,2 punten.  
+De afronding is rekenkundig op hele getallen, dus 8 punten. 
+De score op onderdeel Prijs is 10 + 8 = 18 punten 
+ 
+3 Totaalprijzen die hoger zijn dan 125k 
+Voor elke € 2.500,- dat de totaalprijs hoger is dan de raming trekken we 1 punt van de 10 punten 
+af. 
+Een totaalprijs van € 150.000,- levert dus 10 punten minder op zodat de totaalscore voor het 
+onderdeel Prijs op 0 punten komt (10-10). 
+ 
+Formule: (ingeleverde prijs – 125.000) gedeeld door 2.500 = aantal punten minder. 
+Het aantal punten wordt rekenkundig afgerond op hele punten. 
+ 
+Rekenvoorbeeld 
+Een totaalprijs van 131.624,- levert op:  
+(131.624,- - 125.000): 2500 = 2,6496 punten.  
+De afronding is rekenkundig op hele getallen, dus 3 punten. 
+De score op onderdeel prijs is 10 - 3 = 7 punten 
+ 
+Alle bedragen in deze aanbesteding zijn in euro’s en exclusief BTW.  
+5.7.  Beoordeling op de beste prijs-kwaliteitverhouding 
+U krijgt een totaalscore voor uw inschrijving. 
+De uiteindelijke totaalscore van uw inschrijving is de optelsom van alle scores op de 
+subgunningscriteria voor kwaliteit en prijs. Bij het berekenen van de totaalscore ronden we de 
+scores per subgunningscriterium niet af. 
+ 
+U komt in aanmerking voor gunning van de Opdracht indien: 
+• u een geldige inschrijving heeft gedaan en 
+• u de hoogste totaalscore heeft van alle inschrijvers. 
+ 
+Bij gelijke scores gunnen wij aan de inschrijver met de beste score voor kwaliteit. 
+Hierbij kijken we naar het totaal van de scores voor kwaliteit. Is de totale score voor kwaliteit ook 
+gelijk tussen meerdere inschrijvers met gelijke totaalscores? Dan gunnen wij aan de inschrijver 
+met de hoogste score op het subgunningscriterium één, daarna op twee en vervolgens op drie. Als 
+alle beoordelingen gelijk zijn dan vindt loting plaats.  
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  19 van 30 
+  
+6. Hoe verloopt de procedure? 
+ 
+In dit hoofdstuk leest u alles over de aanbestedingsprocedure. U krijgt een overzicht van de 
+planning. Elke stap lichten we vervolgens kort toe. U leest in dit hoofdstuk ook wie uw 
+contactpersoon is en hoe u vragen kunt stellen. 
+ 
+6.1.  De openbare Europese aanbesteding 
+Iedere ondernemer mag inschrijven op deze aanbesteding. 
+We hebben gekozen voor een openbare procedure. Dit geeft alle potentiële inschrijvers voldoende 
+tijd en mogelijkheid om een kwalitatief goede inschrijving in te dienen en zorgt ervoor dat de hele 
+markt de kans krijgt in te schrijven. De totale waarde van de opdracht ligt ver boven de 
+drempelwaarde van een Europese aanbesteding. Tijdens de marktconsultatie via TenderNed 
+hebben we de indruk gekregen dat er geen grote aantallen inschrijvers (meer dan 5) te verwachten 
+zijn zodat een niet-Europese aanbesteding dan ook niet voor de hand ligt. Kijk voor meer 
+informatie over Europees aanbesteden op www.rijksoverheid.nl/onderwerpen/aanbesteden. 
+ 
+Bij deze aanbesteding gaat het om diensten met deze CPV-codes:  
+ 
+Hoofd CPV:   73210000-7 Advies inzake onderzoek 
+ 
+Aanvullende CPV’s:  79315000-5 Sociaal-economisch o nderzoek 
+72316000-3 Gegevensanalyse 
+72300000-8 Gegevensdiensten 
+ 
+6.2.  Voorbehouden Aanbestedende dienst 
+Wij mogen deze aanbesteding stoppen. 
+Wij kunnen besluiten de Opdracht niet te gunnen. Of om de aanbesteding helemaal of voor een 
+perceel stop te zetten. Als we dit besluiten, krijgt u hierover bericht via TenderNed.  
+ 
+Wij vergoeden in beginsel geen kosten.  
+Alle kosten die te maken hebben met deze aanbesteding, zijn voor uw eigen rekening. Ook de 
+schade die kan ontstaan doordat u de Opdracht niet gegund krijgt of de aanbesteding wordt 
+stopgezet, is voor uw eigen risico. 
+ 
+In geval we de aanbesteding stop zetten, gaan we in beginsel niet over tot vergoeding van 
+aanbestedingskosten. Dit kan anders zijn indien wij van oordeel zijn dat de omstandigheden van 
+dien aard zijn dat een tegemoetkoming op zijn plaats is. 
+ 
+6.3.  Communicatie  
+Voordat u een digitale inschrijving via TenderNed kunt indienen, dient uw onderneming 
+geregistreerd te zijn voor het platform TenderNed.  
+Ons advies is om het registratieproces in TenderNed niet uit te stellen tot (vlak voor) de uiterste 
+datum voor indiening van de inschrijving, maar om dit direct te doen.  
+ 
+Uitsluitend digitale inschrijvingen die voor de uiterste datum voor indiening van de inschrijvingen 
+zijn ingediend via TenderNed, worden door ons verder in behandeling genomen. Op andere wijze 
+ingediende inschrijvingen worden terzijde gelegd en niet beoordeeld.  
+ 
+NB: de module waarmee de inschrijving dient te worden aangeboden is volledig geïntegreerd in 
+TenderNed. Voor verdere uitleg over het gebruik van deze module verwijzen we naar de instructies 
+op www.tenderned.nl. Als u vragen heeft over het gebruik van TenderNed, kunt u gebruik maken 
+van de helpdesk van TenderNed. 
+ 
+Uw contactpersoon is Kees Valkenburg 
+U communiceert alleen met de contactpersoon over deze aanbesteding. De communicatie verloopt 
+via TenderNed. Communiceert u over deze aanbesteding met andere medewerkers van de 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  20 van 30 
+procesbegeleider of deelnemers of via andere kanalen, bijvoorbeeld om hen te beïnvloeden? Dan 
+kan dat voor ons reden zijn om u uit te sluiten van deelname. 
+ 
+6.4.  De planning van de aanbesteding 
+Hieronder ziet u de planning van de rest van de procedure. In de volgende paragrafen leest u bij 
+elk onderdeel een korte toelichting. 
+ 
+Bij eventuele afwijkingen tussen onderstaande planning en de planning in TenderNed is de planning 
+in TenderNed leidend. 
+ 
+Activiteit Uiterste datum  
+ 
+Publicatie aankondiging opdracht   
+ 
+Vrijdag 4 september 2026  
+Indienen vragen  en melden tegenstrijdigheden of 
+bezwaren. Eventueel tekstsuggesties voor 
+contractvoorwaarden indienen. (Bij voorkeur zo snel 
+mogelijk). 
+Vanaf maandag 7  september  
+tot uiterlijk  
+vrijdag 25 september 23.00 uur 
+ 
+Publiceren Nota van Inlichtingen  
+ 
+Tot uiterlijk vrijdag 2 oktober  
+Indienen inschrijving   
+ 
+Maan dag 1 9 oktober vóór 13.00 uur  
+Bekendmaking voornemen tot gunning  
+ 
+Vrijdag 13 november voor 15:00 uur  
+Standstill termijn  Van zaterdag 14 november tot maandag 
+7 december 10:00 uur  
+Sluiting overeenkomst  
+ 
+Vrijdag 11 december 2026  
+Verwachte ingangsdatum overeenkomst  
+ 
+1 maart 2027  
+ 
+6.5.  Vragen en tekstvoorstellen 
+Heeft u vragen over de inhoud of de procedure van deze aanbesteding? Stel die dan via 
+TenderNed. Vragen die u via de telefoon stelt, beantwoorden wij niet. U kunt ook vragen stellen of 
+voorstellen doen bij de contractvoorwaarden. Realiseert u zich wel dat deze contractvoorwaarden 
+landelijk centraal zijn opgesteld met bewuste redenen daarvoor. Als u echter denkt dat deze 
+specifieke opdracht niet past bij een specifieke voorwaarde dan kunt u dit aangeven.  
+ 
+Wij maken in deze aanbesteding gebruik van een doorlopende Nota van Inlichtingen. Dat 
+betekent dat u de hele periode tot aan de uiterste datum vragen kunt indienen en dat wij deze zo 
+snel mogelijk beantwoorden. Met andere woorden: de vragen worden niet opgespaard maar direct 
+beantwoord. Deze methode geeft de mogelijkheid om in een relatief korte periode toch meerder 
+vragen over een onderwerp te kunnen stellen. Omdat deze aanbesteding een vrij unieke inhoud 
+heeft verwachten we dat we op deze manier meer mogelijkheden hebben om eventuele 
+onduidelijkheden op te lossen. 
+ 
+Dien al uw vragen en voorstellen in voor  de in de planning opgenomen datum en tijdstip. 
+Zo zorgt u ervoor dat u antwoord krijgt op uw vraag. Dient u uw vraag of voorstel te laat in? Dan 
+beantwoorden we uw vraag alleen als wij vinden dat het belangrijke informatie is voor alle 
+inschrijvers. De inschrijftermijn verandert dan niet, ook als wij de antwoorden minder dan tien 
+dagen voor de sluitingsdatum publiceren. 
+ 
+Zorg dat uw vragen en voorstellen anoniem zijn. 
+Gebruik daarom in uw vraag geen: 
+- bedrijfsnamen; 
+- productnamen; 
+- andere namen die aan uw organisatie gerelateerd zijn. 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  21 van 30 
+Wij publiceren alle vragen en antwoorden via TenderNed. 
+U leest alle vragen en antwoorden in de nota van inlichting(en). Alle inschrijvers krijgen op die 
+manier evenveel informatie. U ontvangt een e-mail op het moment dat wij de vragen en 
+antwoorden publiceren. We publiceren de nota van inlichting(en) uiterlijk op de in de planning 
+opgenomen datum. Wij gaan ervan uit dat hierna de aanbesteding duidelijk is voor alle 
+inschrijvers. Einde optie 
+ 
+U kunt ook vertrouwelijk vragen stellen. 
+Het antwoord is dan alleen voor u bestemd. Niet voor de andere inschrijvers. Deze publiceren wij 
+dus niet op TenderNed. Wilt u een vertrouwelijk antwoord op uw vraag? Geef dan in een duidelijke 
+motivatie aan waarom u van mening bent dat openbaarmaking van deze informatie schade zou 
+toebrengen aan de gerechtvaardigde economische belangen van uw onderneming. 
+ 
+Als wij van mening zijn dat de motivatie geen rechtvaardiging oplevert voor het vertrouwelijk 
+behandelen van uw vraag, dan krijgt u de mogelijkheid om de vraag in te trekken. Wij zullen in dat 
+geval geen inlichtingen verstrekken naar aanleiding van de ingetrokken vraag, tenzij de vraag 
+betrekking had op een fout in de aanbestedingsstukken waarover wij de overige inschrijvers 
+moeten informeren. Indien u de betreffende vraag niet intrekt, dan wordt deze door ons in 
+behandeling genomen en (met het bijbehorende antwoord) geanonimiseerd gepubliceerd op 
+TenderNed. 
+ 
+Wij geven u alleen informatie via TenderNed. 
+Krijgt u informatie op een andere manier? Dan kunt u daaraan geen rechten ontlenen. Ook niet als 
+u de informatie krijgt van een van onze medewerkers of vertegenwoordigers.  
+6.6.  Tegenstrijdigheden of onduidelijkheden 
+Ontdekt u tegenstrijdigheden of onduidelijkheden in dit document, wees proactief en meld dit dan 
+zo snel mogelijk, maar in elk geval voor de datum waarop de vragen ingediend moeten zijn. U kunt 
+dit melden bij de contactpersoon via TenderNed.  
+ 
+De nota van inlichtingen gaat altijd voor 
+Spreken de nota van inlichtingen en het beschrijvend document elkaar tegen? Dan gaan we uit van 
+wat in de nota van inlichtingen staat. Zijn er meerdere nota’s van inlichtingen en spreken die 
+elkaar tegen? Dan geldt wat in de laatst gepubliceerde nota van inlichtingen staat. 
+ 
+6.7.  Indienen inschrijving  
+Dien uw inschrijving uiterlijk in op de in de planning aangegeven uiterste datum en 
+tijdstip. 
+U kunt alleen inschrijven via TenderNed. Bent u te laat of schrijft u niet in via TenderNed? Dan is 
+uw inschrijving ongeldig. Meer over hoe u een inschrijving indient, leest u in hoofdstuk 7. 
+ 
+6.8.  Beoordeling van uw inschrijving 
+Formele eisen 
+Na ontvangst van de inschrijving(en) wordt door ons eerst getoetst of uw inschrijving voldoet aan 
+de formele eisen die wij hebben opgenomen in paragraaf 7.1. Voldoet u niet aan deze eisen? Dan is 
+uw inschrijving ongeldig en wordt deze terzijde gelegd, tenzij het ontbreken van bepaalde 
+informatie door ons als een kennelijke omissie wordt aangemerkt en zich leent voor eenvoudige 
+precisering of herstel (met inachtneming van de aanbestedingsrechtelijke beginselen). 
+ 
+Uitsluitingsgronden en geschiktheidseisen 
+Vervolgens controleren wij of er geen uitsluitingsgronden van toepassing zijn en toetsen we de 
+geschiktheid. Indien een uitsluitingsgrond van toepassing is op u, een ander lid van het 
+samenwerkingsverband of op een entiteit waarop u een beroep doet om te voldoen aan de 
+geschiktheidseisen, dan wordt u uitgesloten van verdere deelname aan de aanbesteding. 
+ 
+ 
+ 
+ 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  22 van 30 
+Wij kunnen conform artikel 2.86a, 2.87a en 2.88 Aw 2012 afzien van de toepassing van de 
+uitsluitingsgronden:  
+- als de uitsluiting kennelijk onredelijk zou zijn; 
+- als u voldoende maatregelen heeft genomen om uw betrouwbaarheid aan te tonen; 
+- om dwingende redenen van algemeen belang; 
+- indien naar ons oordeel uitsluiting niet proportioneel is met het oog op de tijd die is 
+verstreken sinds de veroordeling en gelet op het voorwerp van de Opdracht. 
+ 
+Voldoet u of een entiteit waarop u een beroep doet om te voldoen aan de geschiktheidseisen niet 
+aan de geschiktheidseisen? Dan is uw inschrijving ongeldig. Wij sluiten de inschrijving dan uit van 
+verdere deelname aan de aanbesteding. 
+ 
+Programma van eisen 
+Wij toetsen op het moment van de inschrijving niet of u voldoet aan het programma van eisen. U 
+dient hier pas aan te voldoen op het moment dat de dienstverlening in gaat.   
+ 
+Overige voorschriften 
+Voor de overige voorschriften in de aanbestedingsstukken die zich richten tot u als inschrijver, 
+geldt, tenzij anders aangegeven, dat het niet voldoen hieraan leidt tot uitsluiting van (verdere) 
+deelname aan deze aanbesteding, tenzij die uitsluiting niet proportioneel is. 
+ 
+Voldoet uw inschrijving?  
+Dan beoordelen we de inschrijving inhoudelijk op de subgunningscriteria en kennen daar een score 
+aan toe.  Hoe de beoordeling op de subgunningscriteria verloopt, leest u terug in hoofdstuk 5 Hoe 
+kunt u zich onderscheiden en hoe beoordelen wij. 
+ 
+6.9.  Verificatie gegevens UEA 
+Bij de bekendmaking van de gunningsbeslissing vragen we bewijsstukken op ter controle van de 
+gegevens in het UEA van de inschrijver(s) aan wie we voornemens zijn te gunnen. U kunt in 
+hoofdstuk 4 teruglezen om welke bewijsstukken het gaat. U dient deze bewijsstukken binnen zeven 
+kalenderdagen na ons verzoek aan te leveren via TenderNed.  
+ 
+Let op : levert u de bewijsstukken niet in of kloppen de gegevens niet, dan leidt dat tot uitsluiting, 
+tenzij het ontbreken van bepaalde informatie door ons als een kennelijke omissie wordt 
+aangemerkt en zich leent voor eenvoudige precisering of herstel (met inachtneming van de 
+aanbestedingsrechtelijke beginselen).  
+ 
+Vraag de Gedragsverklaring aanbesteden (GVA) en Verklaring van de Belastingdienst  tijdig  aan in 
+verband met de verwerking- en beslistermijn. U kunt niet volstaan met het overleggen van een 
+bewijs dat de GVA en Verklaring van de Belastingdienst is aangevraagd en nog in behandeling is. 
+ 
+Gaat het om een samenwerkingsverband die de Opdracht gegund krijgt?  
+Dan moet elk lid van het samenwerkingsverband deze bewijsstukken aanleveren.   
+ 
+Wordt er een beroep gedaan op een andere entiteit om te voldoen aan de gestelde 
+geschiktheidseisen?   
+Dan levert u van elke entiteit waarop een beroep doet om te voldoen aan de geschiktgheisen de 
+bewijsstukken voor de uitsluitingsgronden en de betreffende geschiktheidseis(en) aan. 
+ 
+6.10.  Mededeling gunningsbeslissing 
+Op de in de planning opgenomen datum maken wij bekend aan welke inschrijver(s) we 
+de Opdracht voornemens zijn te gunnen. 
+U ontvangt een bericht via TenderNed met het voornemen tot gunnen. In dit voornemen leest u: 
+• aan wie we de Opdracht voornemens zijn te gunnen; 
+• de relevante redenen, zijnde de kenmerken en relatieve voordelen van de uitgekozen 
+inschrijving(en), waarom wij de Opdracht aan deze inschrijver(s) willen gaan gunnen; 
+• de onderbouwing van de aan uw inschrijving toegekende scores; 
+ 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  23 van 30 
+• in geval van het gunningscriterium beste prijs-kwaliteitverhouding vermelden we de scores van 
+de subgunningscriteria op het gebied van de kwaliteit en de totaalscore op prijs van de 
+winnende inschrijver(s). Voor de leesbaarheid vermelden we de scores tot op twee cijfers achter 
+de komma; 
+• een omschrijving van de opschortende termijn. Dat is de termijn waarin u een onmiddellijke 
+voorziening bij voorraad (kort geding) kunt verzoeken met betrekking tot het voornemen tot 
+gunnen. 
+ 
+Soms maken wij bepaalde gegevens niet bekend in het voornemen tot gunnen.  
+We maken gegevens niet bekend, als het bekend maken van die gegevens: 
+- in strijd zou zijn met enig wettelijk voorschrift; 
+- in strijd zou zijn met het openbaar belang; 
+- de rechtmatige commerciële belangen van ondernemers zou kunnen schaden, of 
+- afbreuk zou kunnen doen aan de eerlijke mededinging tussen ondernemers. 
+ 
+Let op: u kunt geen rechten ontlenen aan het voornemen tot gunning. 
+Is het voornemen tot gunnen positief voor u? Dan betekent dat u in principe de Opdracht krijgt. 
+Maar op dit moment in de aanbesteding kunnen wij nog steeds beslissen de Opdracht aan iemand 
+anders te gunnen of niet tot gunning over te gaan. De mededeling van het voornemen tot gunnen 
+is dan ook geen aanvaarding van uw aanbod. U kunt aan dit voornemen geen rechten ontlenen en 
+u heeft op grond van dit voornemen ook geen recht op een schadevergoeding. 
+ 
+Pas nadat de overeenkomst door opdrachtgever en u is ondertekend, komt de overeenkomst tot 
+stand, en dient u uitvoering te geven aan de Opdracht. 
+ 
+Opschortende termijn 
+De dag na bekendmaking van de gunningsbeslissing op TenderNed, gaat de opschortende termijn 
+in. Deze termijn staat ook bekend als de Alcatel-termijn of standstill termijn. De opschortende 
+termijn duurt 20 kalenderdagen. In deze termijn heeft u de mogelijkheid om rechtsmaatregelen te 
+treffen tegen de gunningsbeslissing. De opschortende termijn geldt als een fatale termijn. Na de 
+opschortende termijn zijn uw rechten vervallen om tegen de gunningsbeslissing in rechte op te 
+komen. Wij zijn dan vrij een overeenkomst te sluiten. U leest meer over de opschortende termijn in 
+artikel 2.127 van de Aanbestedingswet 2012. 
+ 
+In het belang van een voorspoedige voortgang van de aanbestedingsprocedure verzoeken wij u, 
+indien u een kort geding aanhangig maakt, ons zo spoedig mogelijk te informeren door het 
+toezenden van de kopie dagvaarding naar de contactpersoon. 
+ 
+Klacht 
+Tijdens de aanbestedingsprocedure is het mogelijk een klacht in te dienen in het geval dat u het 
+niet eens bent met de gang van zaken bij deze aanbesteding of een onderdeel daarvan, of wanneer 
+u bijvoorbeeld meent dat een bepaald handelen of nalaten van de aanbestedende dienst in strijd is 
+met wettelijke bepalingen of met andere voorschriften die voor de desbetreffende aanbesteding 
+gelden. 
+ 
+U dient uw klacht in een zo vroeg mogelijk stadium van de aanbestedingsprocedure in bij het 
+klachtenmeldpunt. U leest in hoofdstuk 9 meer over de klachtenprocedure.  
+ 
+6.11.  Ondertekenen overeenkomst 
+Wij willen de overeenkomst op of rond de in de planning opgenomen datum 
+ondertekenen. 
+U leest in hoofdstuk 8 meer over de overeenkomst. 
+ 
+  
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  24 van 30 
+7. Hoe schrijft u in? 
+7.1.  Formele eisen aan de inschrijving 
+Door in te schrijven op deze aanbesteding gaat u volledig en onvoorwaardelijk akkoord met alles 
+wat in dit beschrijvend document, inclusief de bijlagen, staat vermeld.  
+ 
+Elke inschrijving moet voldoen aan de volgende formele eisen:  
+• u schrijft op tijd in; 
+• u levert alle gevraagde informatie in. In hoofdstuk 10 Bijlagen vindt u in de eerste tabel alle 
+onderdelen die de inschrijving moet bevatten; 
+• u gebruikt de formats die u vindt in dit beschrijvend document en de bijlagen. U past de vaste 
+tekst van die formats niet aan; 
+• u verbindt geen voorwaarden aan uw inschrijving; 
+• u schrijft in zonder voorbehouden; 
+• u zorgt dat het inschrijfbiljet en de overige invulformulieren die ondertekend moeten worden 
+rechtsgeldig ondertekend worden; 
+• u garandeert dat u kunt starten met het uitvoeren van de Opdracht op grond van de informatie 
+in uw inschrijving in de 90 dagen na de uiterste inschrijfdatum. Dit is de 
+gestanddoeningstermijn. Bij een kort geding aangespannen door inschrijver(s) verlengen we de 
+gestanddoeningstermijn tot 35 dagen na uitspraak van de voorzieningenrechter;  
+• u zorgt dat alle communicatie rondom en over de inschrijving in het Nederlands is. Ook tijdens 
+de looptijd van de overeenkomst communiceert u steeds in het Nederlands. 
+ 
+ 
+Wij gaan vertrouwelijk om met uw gegevens. 
+Wij geven uw gegevens niet aan anderen. Ook niet als we de Opdracht niet aan u gunnen. Wij 
+maken bepaalde gegevens betreffende de gunning van een overheidsopdracht niet bekend, indien 
+openbaarmaking van die gegevens: 
+- in strijd zou zijn met enig wettelijk voorschrift; 
+- in strijd zou zijn met het openbaar belang; 
+- de rechtmatige commerciële belangen van ondernemers zou kunnen schaden; 
+- afbreuk zou kunnen doen aan de eerlijke mededinging tussen ondernemers. 
+ 
+7.2.  Rechtsgeldige ondertekening 
+U zorgt dat het inschrijfbiljet en de overige invulformulieren die ondertekend moeten worden, 
+rechtsgeldig ondertekend worden. Dat wil zeggen door iemand die daartoe voldoende bevoegdheid 
+heeft. 
+ 
+Controle uittreksel beroeps- of handelsregister 
+Als bewijs levert u bij inschrijving een uittreksel van het beroeps- of handelsregister aan. Binnen 
+Nederland kunt u volstaan met een uittreksel van de Kamer van Koophandel (KvK). Dit uittreksel 
+dient op het tijdstip van het indienen van de inschrijving niet ouder dan zes maanden te zijn. Met 
+dit document controleren we of de ondertekenaar daadwerkelijk bevoegd is om namens de 
+organisatie te ondertekenen én of u voldoet aan de gestelde uitsluitingsgronden en 
+geschiktheidseisen. 
+ 
+Schrijft u in als samenwerkingsverband?   
+Dan levert ieder lid van het samenwerkingsverband bij inschrijving een uittreksel van het beroep- 
+of handelsregister aan.  
+ 
+Doet u een beroep op een andere entiteit om te voldoen aan de geschiktheidseisen?   
+Dan levert u bij inschrijving ook een uittreksel van het beroep- of handelsregister aan van de 
+entiteit waarop u een beroep doet. 
+ 
+Zorg ervoor dat de naam van de ondertekenaar altijd te vinden is.  
+Indien een andere rechtspersoon bevoegd is om namens uw organisatie te ondertekenen 
+(bijvoorbeeld een moederonderneming), dan overlegt u ook het uittreksel van deze rechtspersoon.  
+ 
+Als de naam van de ondertekenaar niet eenduidig uit het uittreksel beroeps- of handelsregister 
+blijkt, verzoeken wij u een organogram en/of toelichting bij te sluiten. Geef hierin aan op welke 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  25 van 30 
+wijze de aangeleverde uittreksels beroep- of handelsregister samenhangen, en hoe wij op basis 
+hiervan kunnen vaststellen dat de ondertekenaar voldoende bevoegd is.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wat als de ondertekenaar van niet zelfstandig vertegenwoordigingsbevoegd is? 
+In dat geval dient u het inschrijfbiljet of overige invulformulier te laten ondertekenen door alle 
+bevoegde ondertekenaars die zijn vermeld in het uittreksel handelsregister. 
+ 
+Wat als de ondertekenaar niet wordt genoemd in het uittreksel handelsregister? 
+In dat geval sluit u een volmacht bij waaruit blijkt dat de ondertekenaar 
+vertegenwoordigingsbevoegd is. Zorgt dat u ook deel IIB van het UEA volledig invult. U kunt in dit 
+geval gebruik maken van invulformulier IV Machtiging rechtsgeldige vertegenwoordiger. 
+ 
+7.3.  Inschrijven met het inschrijfbiljet 
+U dient invulformulier I - Inschrijfbiljet in te vullen en rechtsgeldig te ondertekenen en mee te 
+sturen met uw inschrijving. 
+ 
+Met het ondertekenen van het inschrijfbiljet verklaart u: 
+ dat alle vereiste onderdelen voor deze aanbesteding naar waarheid zijn ingevuld, en 
+ dat de door u verstrekte informatie accuraat en correct is, waaronder in ieder geval 
+begrepen het Uniform Europees Aanbestedingsdocument (UEA), en  
+ dat er geen sprake is van Russische betrokkenheid z oals is beschreven in ‘bijlage 2 – 
+Verklaring Russische betrokkenheid', en 
+ dat u akkoord gaat met alles wat in het beschrijvend document, inclusief bijlagen staat 
+vermeld.  
+ 
+De ondertekening van dit inschrijfbiljet geldt ook als ondertekening door inschrijver van het UEA, 
+en invulformulier III - Prijsblad. 
+   
+7.4.  Inschrijven als samenwerkingsverband  
+Als u inschrijft als samenwerkingsverband gelden de volgende regels: 
+ 
+Geef aan uit welke ondernemingen het samenwerkingsverband bestaat en wat de 
+rolverdeling is. 
+In Deel II, onderdeel A van het UEA vinkt u ’ja’ aan bij de vraag “Neemt de ondernemer samen 
+met anderen deel aan de aanbestedingsprocedure?” U vermeldt ook de namen en de rol van ieder 
+lid van het samenwerkingsverband. Bij de rol geeft u ten minste ook aan welk lid van het 
+samenwerkingsverband de penvoerder is. Dit is de inschrijver die namens het 
+samenwerkingsverband met ons communiceert over de aanbesteding.  
+ 
+  
+Check voor inschrijver : is de naam van de 
+ondertekenaar van het inschrijfbiljet vermeld als 
+bevoegd ondertekenaar in het uittreksel 
+handelsregister? 
+ 
+Beschrijvend document Financieringsmogelijkheden Leeroverzicht.nl - Ministerie OCW 
+Kenmerk IUC-Noord: BD-EA-KV-IUCN26040160  Kenmerk TenderNed:610191
+  26 van 30 
+Tenzij bij een geschiktheidseis anders is aangegeven, geldt voor een 
+samenwerkingsverband dat die als geheel moet voldoen aan de geschiktheidseisen. 
+De penvoeder levert bij inschrijving van ieder lid van het samenwerkingsverband een eigen 
+ingevuld UEA in. De penvoerder dient dit via de UEA-wizard van TenderNed te doen. De overige 
+leden dienen gebruik te maken van een download van het UEA van TenderNed.  
+ 
+De penvoeder levert bij inschrijving ook van ieder lid een eigen invulformulier I Inschrijfbiljet in die 
+rechtsgeldig is ondertekend. Lees meer over de rechtsgeldige ondertekening in paragraaf 7.2. 
+ 
+In aanvulling op hetgeen de leden van het samenwerkingsverband verklaren door 
+ondertekening van het inschrijfbiljet, verklaren zij daarmee ook: 
+ dat de penvoerder namens ieder lid van het samenwerkingsverband bevoegd contactpersoon 
+is; en 
+ dat u samen, volledig en hoofdelijk instaat voor de juiste en tijdige nakoming van alle plichten 
+die voortkomen uit en samenhangen met de overeenkomst. 
+ 
+Een lid van een samenwerkingsverband mag niet ook op een andere manier inschrijven.  
+U mag dus niet én als lid van een samenwerkingsverband én zelfstandig inschrijven op de 
+aanbesteding. Ook mag u geen lid zijn van meerdere samenwerkingsverbanden die zich voor deze 
+aanbesteding inschrijven. U mag ook niet als entiteit waarop een beroep wordt gedaan om te 
+voldoen aan de geschiktheidseisen bij een inschrijving betrokken zijn én lid zijn van een 
+samenwerkingsverband. 
+ 
+De samenstelling van het samenwerkingsverband verandert niet meer na uw 
+inschrijv
+
+=== Document: uea_610191_20260903154723 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 23TN-610191 - 3 sep 2026
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 610191
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: IUC-Noord
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Financieringsmogelijkheden Leeroverzicht.nl
+Korte beschrijving van de 
+aanbesteding:
+De dienstverlening is het aanleveren van de informatie die op het tabblad 'Geld' van 
+de website Leeroverzicht.nl getoond wordt. De werkzaamheden bestaan uit: 1. Het 
+identiﬁceren van ﬁnancieringsmogelijkheden voor scholing en ontwikkeling, inclusief 
+het bijhouden van nieuwe mogelijkheden of veranderingen binnen bestaande 
+ﬁnancieringsmogelijkheden. Dit kan onder andere door het bijhouden van nieuws 
+van onder andere overheidspublicaties, O&O-fondsen en arbeidsmarktregio’s; 2. De 
+gewenste informatie over de ﬁnancieringsmogelijkheden abstraheren uit de bronnen; 
+3. De actuele informatie in een afgesproken formaat geautomatiseerd aan 
+Leeroverzicht leveren middels een API.
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+BD-EA-KV-IUCN26040160
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 23TN-610191 - 3 sep 2026
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 23TN-610191 - 3 sep 2026
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 23TN-610191 - 3 sep 2026
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 23TN-610191 - 3 sep 2026
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 23TN-610191 - 3 sep 2026
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 23TN-610191 - 3 sep 2026
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 23TN-610191 - 3 sep 2026
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 23TN-610191 - 3 sep 2026
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 23TN-610191 - 3 sep 2026
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 23TN-610191 - 3 sep 2026
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 23TN-610191 - 3 sep 2026
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 23TN-610191 - 3 sep 2026
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 23TN-610191 - 3 sep 2026
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 23TN-610191 - 3 sep 2026
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 23TN-610191 - 3 sep 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 23TN-610191 - 3 sep 2026
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 23TN-610191 - 3 sep 2026
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 23TN-610191 - 3 sep 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 23TN-610191 - 3 sep 2026
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 23TN-610191 - 3 sep 2026
+a.  
+b.  
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 23TN-610191 - 3 sep 2026
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 23TN-610191 - 3 sep 2026
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: bijlage 8 - concept wachtkamerovereenkomst ===
+Wachtkamerovereenkomst 
+ 
+inzake Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+ 
+ 
+tussen 
+ 
+ 
+de Staat der Nederlanden ,  
+namens het Ministerie van Onderwijs Cultuur en Wetenschap,  
+ 
+ 
+en 
+ 
+ 
+[naam Wachtkamerpartijj 
+ 
+ 
+ 
+Horende bij de aanbesteding:  
+[IUC-nummer]  
+ 
+ 
+De ondergetekenden:  
+ 
+1. De Staat der Nederlanden, waarvan de zetel is gevestigd te Den Haag, te dezen 
+vertegenwoordigd door de [minister van …], namens deze, [functienaam en naam ondertekenaar] 
+hierna te noemen: Opdrachtgever, 
+ 
+en  
+ 
+2. [volledige naam en rechtsvorm contractant], (statutair) gevestigd te [plaats], te dezen 
+vertegenwoordigd door [functie en naam ondertekenaar] 
+hierna te noemen: Wachtkamerpartij,  
+ 
+hierna gezamenlijk te noemen: ‘Partijen’ 
+ 
+OVERWEGENDE DAT: 
+1.  Opdrachtgever een Europese aanbesteding met de naam “Financieringsmogelijkheden 
+Leeroverzicht.n”l met kenmerk BD-EA-KV-IUCN26040160 heeft uitgevoerd; 
+2.  Gunning van de Opdracht heeft plaatsgevonden op basis van het Beschrijvend document 
+onder toepassing van de Aanbestedingswet 2012; 
+3.  Opdrachtgever de inschrijving van [naam winnende inschrijver] (hierna te noemen: 
+Gegunde partij) heeft beoordeeld als economisch meest voordelige inschrijving op basis 
+van het gunningscriterium beste prijs-kwaliteitverhouding; 
+4.  Opdrachtgever met de Wachtkamerpartij een Wachtkamerovereenkomst wil sluiten om bij 
+voortijdige (gedeeltelijke) beëindiging van de Overeenkomst met de Gegunde partij, over 
+de mogelijkheid te beschikken om de Opdracht voort te zetten door een Opvolgende 
+Overeenkomst met de Wachtkamerpartij aan te gaan; 
+5.  Partijen de daaruit voortvloeiende rechtsverhouding schriftelijk willen vastleggen in deze 
+Wachtkamerovereenkomst. 
+ 
+ 
+PARTIJEN KOMEN OVEREEN :  
+In deze Wachtkamerovereenkomst wordt een aantal begrippen met een beginhoofdletter gebruikt. 
+Aan deze begrippen komt de betekenis toe die hieraan wordt gegeven in artikel 1 van de Algemene 
+Rijksvoorwaarden voor het verstrekken van opdrachten tot het verrichten van Diensten 2025 
+(ARVODI-2025) en de begrippenlijst van het Beschrijvend document. In aanvulling daarop wordt 
+onder de volgende begrippen in deze Wachtkamerovereenkomst verstaan: 
+ 
+Gegunde partij: de Inschrijver die als nummer één in de rangorde is geëindigd in de 
+aanbestedingsprocedure op basis waarvan met hem de Overeenkomst wordt gesloten. 
+ 
+Opvolgende Overeenkomst: de overeenkomst kan worden afgesloten met de Inschrijver die als 
+nummer twee in de rangorde is geëindigd in de aanbestedingsprocedure.  
+ 
+Wachtkamerovereenkomst: de onderhavige overeenkomst tussen Opdrachtgever en de 
+Wachtkamerpartij. 
+ 
+Wachtkamerpartij: de Inschrijver die als nummer twee in rangorde is geëindigd in de 
+aanbestedingsprocedure op basis waarvan met hem de Wachtkamerovereenkomst wordt gesloten. 
+ 
+ 
+Artikel 1.  Voorwerp van de Wachtkamerovereenkomst 
+  
+1.1  Indien de Overeenkomst met de Gegunde partij vroegtijdig wordt beëindigd, heeft 
+Opdrachtgever het eenzijdig recht te beslissen of hij wel of niet gebruik maakt van deze 
+Wachtkamerovereenkomst. 
+ 
+1.2  Wachtkamerpartij is gedurende de looptijd van de Wachtkamerovereenkomst verplicht om de 
+Opvolgende Overeenkomst met Opdrachtgever te sluiten, indien Opdrachtgever gebruik 
+maakt van haar recht zoals beschreven in artikel 1.1. 
+ 
+1.3  Opdrachtgever stelt de Wachtkamerpartij schriftelijk binnen een termijn van 1 week in kennis 
+van zijn besluit om al dan niet gebruik te maken van deze Wachtkamerovereenkomst. 
+ 
+1.4  Indien en voor zover de Overeenkomst met de Gegunde partij geheel of gedeeltelijk is 
+ontbonden gedurende de eerste drie maanden van de looptijd van de Overeenkomst, zal de 
+Wachtkamerpartij op eerste verzoek van Opdrachtgever de Opvolgende Overeenkomst met 
+de Opdrachtgever sluiten conform het format Overeenkomst (bijlage 2) die bij het 
+Beschrijvend document is toegevoegd. 
+ 
+1.5  Indien Opdrachtgever in voorkomend geval als bedoeld is in artikel 1.1 besluit geen gebruik 
+te maken van deze Wachtkamerovereenkomst, dan zal deze Wachtkamerovereenkomst 
+onmiddellijk worden beëindigd en kunnen aan deze Wachtkamerovereenkomst geen rechten 
+meer worden ontleend. 
+ 
+1.6  Opdrachtgever is niet gehouden tot het vergoeden van enigerlei schade van 
+Wachtkamerpartij uit welke hoofde ook in verband met deze Wachtkamerovereenkomst. 
+ 
+1.7  De Wachtkamerpartij mag de rechten en verplich tingen uit deze Wachtkamerovereenkomst 
+niet in zijn geheel of gedeeltelijk aan derden overdragen of door derden over laten nemen 
+zonder voorafgaande schriftelijke goedkeuring van de Opdrachtgever. 
+ 
+ 
+Artikel 2.  Inwerkingtreding van de wachtkamerovere enkomst 
+ 
+2.1  Na ontvangst van een schriftelijke mededeling van de Opdrachtgever dat een beroep wordt 
+gedaan op de Wachtkamerpartij, verleent de Wachtkamerpartij medewerking aan de 
+feitelijke totstandkoming en uitvoering van de Opvolgende Overeenkomst conform haar 
+Inschrijving met kenmerk [kenmerk] en voor de resterende looptijd van de Overeenkomst 
+zoals beschreven in het Beschrijvend document. De maximale looptijd van de Opvolgende 
+Overeenkomst zal daardoor niet langer zijn dan tot uiterlijk 1 maart 2033.  
+ 
+2.2  Indien Opdrachtgever en Wachtkamerpartij de Op volgende Raamovereenkomst aangaan, dan 
+is de Wachtkamerpartij met ondertekening van deze Wachtkamerovereenkomst gebonden 
+aan diens Inschrijving in het kader van de Europese aanbesteding 
+“Financieringsmogelijkheden Leeroverzicht.nl” met kenmerk BD-EA-KV-IUCN26040160. In 
+afwijking van het bepaalde in het Beschrijvend document ter zake van de 
+gestanddoeningstermijn, doet de Wachtkamerpartij zijn Inschrijving gedurende de looptijd 
+van deze Wachtkamerovereenkomst gestand. 
+ 
+2.3 Onmiddellijk na ondertekening van de Opvolgende  Overeenkomst zal de Wachtkamerpartij 
+binnen twee maanden overgaan tot de implementatie om zo snel als mogelijk over te gaan 
+tot volledige uitvoering van de Opdracht. 
+ 
+ 
+2.4 Zodra tussen de Opdrachtgever en de Wachtkamerp artij een Opvolgende Overeenkomst is 
+gesloten, eindigt de Wachtkamerovereenkomst van rechtswege op het moment van 
+ondertekening van de Opvolgende Overeenkomst. 
+ 
+ 
+Artikel 3. Toepasselijk recht en geschillen 
+ 
+3.1    Op deze Wachtkamerovereenkomst is Nederlands recht van toepassing.  
+ 
+3.2 Ieder geschil tussen Partijen ter zake van de O vereenkomst wordt bij uitsluiting voorgelegd 
+aan de daartoe bevoegde rechter in het arrondissement Den Haag, tenzij Partijen alsnog een 
+andere vorm van geschillenbeslechting zullen overeenkomen. 
+ 
+ 
+ 
+Aldus overeengekomen en in tweevoud ondertekend, 
+ 
+Den Haag, [datum]                       [Plaats], [ datum] 
+ 
+MINISTER/STAATSSECRETARIS …..       [naam Wachtkame rpartij]  
+    
+namens deze,          namens deze, 
+[functienaam ondertekenaar]        [functienaam ond ertekenaar] 
+ 
+ 
+ 
+ 
+ 
+[naam ondertekenaar]     [naam ondertekenaar]
+
+=== Document: bijlage 6 - opzet acceptatietest ===
+BD-EA-KV-IUCN26040160 Financieringsmogelijkheden Leeroverzicht.nl 
+ 
+Bijlage 6 – Omschrijving opzet acceptatietest 
+ 
+De acceptatietest kijkt zowel naar het voldoen aan het PvE als ook aan het halen van de 
+kwaliteitsnorm op de resultaten.  
+ 
+Voldoen aan het PvE 
+Op basis van de het Programma van eisen wordt bezien of alle benodigde velden, via het juiste 
+format op de beschreven wijze aangeleverd worden. Op het moment dat hier in de acceptatietest 
+fouten worden geconstateerd, volgt hieruit een signaal. 
+ 
+Kwaliteitsnorm 
+Bij de acceptatietest wordt bezien of een kwaliteitsniveau van 99% wordt bereikt op de juiste 
+informatie. Dat wil zeggen: ten minste 99% van de bekende financieringsmogelijkheden staat op 
+Leeroverzicht.nl en deze informatie is op een willekeurige dag voor 99% actueel. 
+ 
+Voor het bepalen van de volledigheid van de financieringsmogelijkheden wordt gebruik gemaakt 
+van de tot het moment van de start van de uitvoering bekende informatie zoals deze op dit 
+moment wordt aangeleverd aan Leeroverzicht.nl. 
+De basis hiervoor vormt de lijst met financieringsmogelijkheden zoals weergegeven in bijlage 7. 
+Hiernaast wordt gekeken of de aangeleverde informatie inhoudelijk overeenkomt met de tot dan 
+toe bekende informatie op Leeroverzicht.nl 
+Voor de informatie die bestaat uit beschrijvingen zal hiervoor steekproefsgewijs een controle 
+worden uitgevoerd. Voor de informatie over afgebakende categorieën met een beperkt aantal 
+waarden zoals weergegeven onder eis 4 van het PvE wordt er een geautomatiseerde controle 
+uitgevoerd. 
+ 
+Om de actualiteit van de gegevens te controleren wordt, op basis van een steekproef, bezien of de 
+informatie overeenkomt met de bronnen waarnaar verwezen wordt (zoals weergegeven in het veld 
+met de url van de financieringsmogelijkheid).

@@ -1,0 +1,2990 @@
+=== Document: bijlage 3 - programma van eisen v1.0 ===
+RVICTO 2026 RVICTO-PT Pagina 1 van 50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Programma van Eisen  
+Resultaatverplichte ICT/IV-Opdrachten  
+Informatiebeveiligingsonderzoeken 
+(RVICTO-PT) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+TenderNed -kenmerk  : 609833 
+IUC-registratienummer  : 202510196  
+Versie  : D1.0 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 2 van 50 
+ 
+Inhoudsopgave 
+Hoofdstuk 1 - Algemene eisen .................................................................................................................. 3 
+Vertrouwelijkheid en integriteit .............................................................................................................. 3 
+Taal....................................................................................................................................................... 3 
+ICT/IV-kaders........................................................................................................................................ 3 
+Veiligheid .............................................................................................................................................. 4 
+Hoofdstuk 2 – Specifieke eisen ................................................................................................................. 6 
+Algemeen .............................................................................................................................................. 6 
+Interacties voor betrokkenheid .............................................................................................................. 8 
+Executie van een onderzoek ................................................................................................................ 11 
+Standaardrapport ................................................................................................................................ 13 
+Artificiële Intelligentie (AI) ................................................................................................................... 18 
+Post Quantum Cryptografie .................................................................................................................. 18 
+Hoofdstuk 3 - Eisen aan het aanvraagproces ........................................................................................... 20 
+Hoofdstuk 4 - Eisen aan prijs en facturering ............................................................................................ 25 
+Hoofdstuk 5 - Eisen aan organisatie en beheer........................................................................................ 27 
+Centraal en decentraal contractmanagement ....................................................................................... 27 
+Klantoverleg ........................................................................................................................................ 27 
+Hoofdstuk 6 - Eisen aan rapportages (ROK niveau) ................................................................................. 28 
+Hoofdstuk 7 - Eisen met betrekking tot prestatiemanagement (ROK niveau) ........................................... 30 
+KPI-1 Kwaliteit van de dienstverlening NOK ......................................................................................... 30 
+KPI-2 Rapportages .............................................................................................................................. 31 
+PI-1 Percentage gegunde Opdrachten .................................................................................................. 32 
+M-1 Aanbiedingspercentage Offertes .................................................................................................... 32 
+Sturingsmechanisme 1 sanctiemogelijkheden KPI-1 en KPI-2 ............................................................... 33 
+Sturingsmechanisme 2 rouleren RVICTO-PT-veld en RVICTO-PT-bank .................................................. 33 
+Van RVICTO-PT-veld naar RVICTO-PT-bank, primair rouleren op basis van KPI-1 ................................. 34 
+Van RVICTO-PT-veld naar RVICTO-PT-bank, secundair rouleren op basis van PI-1................................ 34 
+Van RVICTO-PT-veld naar RVICTO-PT-bank, rouleren door loting IUC-EZK/LVVN .................................. 35 
+Rouleren van RVICTO-PT-bank naar RVICTO-PT-veld ........................................................................... 35 
+Achterwege blijven sanctie/gele kaart sturingsmechanisme 1 en/of rouleren van MDA -veld naar MDA-
+bank sturingsmechanisme 2 ................................................................................................................ 36 
+Hoofdstuk 8 - Eisen aan Maatschappelijk Verantwoord Ondernemen........................................................ 37 
+Specifieke voorschriften met betrekking tot social return (SR).............................................................. 37 
+Specifieke voorschriften met betrekking tot diversiteit en inclusie ........................................................ 43 
+Bijlage 1 - Classificatiematrix.................................................................................................................. 45 
+Bijlage 2 – Model standaardrapport......................................................................................................... 48 
+ 
+ 
+  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 3 van 50 
+ 
+Hoofdstuk 1 - Algemene eisen 
+ 
+Vertrouwelijkheid en integriteit  
+A.1 Opdrachtnemer heeft zich voorafgaand aan de uitvoering van de Raamovereenkomst dan wel de 
+Nadere overeenkomst ervan vergewist en garandeert dat door hem in te zetten Personeel geen 
+integriteitsrisico’s met zich meebrengen.  
+ 
+• Opdrachtnemer en diens Personeel zullen bij de uitvoering voor zover daarvoor aan de orde, 
+de Gedragscode Integriteit Rijk (GIR) in acht nemen  Gedragscode Integriteit Rijk | O&P Rijk 
+P-Direkt, dan wel de gedragscode voor integriteit van Deelnemer daar waar deze stringenter 
+is dan de GIR. Deelnemer behoudt zich het recht voor om ondertekening te verlangen van 
+een verklaring omtrent de naleving van de bedoelde gedragscode/verklaring.   
+ 
+• Opdrachtnemer en diens Personeel zullen, indien zij gebruik maakt van de digitale faciliteiten 
+van het Rijk, de (Rijksbrede) Gedragsregeling voor de digitale werkomgeving  
+Gedragsregeling voor de digitale werkomgeving | O&P Rijk P -Direkt in acht nemen en/of, 
+indien van toepassing, een specifieke regeling van Deelnemer.  
+ 
+• Deelnemer kan van het door Opdrachtnemer ingezet Personeel een verklaring omtrent 
+gedrag (VOG NP) verlangen of (doen) aanvragen of een vergelijkbare verklaring uit het land 
+van herkomst voor personeel met buitenlandse nationaliteit en geeft dit aan in de A anvraag. 
+De VOG wordt bekostigd door Opdrachtnemer.   
+ 
+• Deelnemer kan van het in te zetten Personeel een Verklaring van Geen Bezwaar (VGB) 
+verlangen. In voorkomend geval wordt dit in de Aanvraag aangegeven. De VGB wordt 
+bekostigd door de Deelnemer.   
+ 
+• Specifiek voor AFM is voorafgaand aan de inzet van Personeel bij AFM een 
+screeningsprocedure van toepassing. Hieronder valt onder andere een 
+antecedentenonderzoek, ondertekening van een geheimhoudingsverklaring, ondertekening en 
+akkoord op de Compliance Regeling die bij AFM geldt, evenals het doorgeven van eventuele 
+nevenwerkzaamheden.  
+ 
+Taal  
+A.2 Documenten worden opgeleverd in de Nederlandse taal, tenzij expliciet anders aangegeven in de 
+Aanvraag of op voorhand een Opdracht of schriftelijke toestemming door de Deelnemer is 
+verstrekt.  Zie specifiek voor het standaardrapport van een beveiligingsonderzoek ook eis P.34. 
+ 
+A.3 Het door Opdrachtnemer in te zetten Personeel beheerst de Nederlandse taal, tenzij expliciet 
+anders aangegeven in de Aanvraag.  
+ 
+ICT/IV-kaders  
+A.4 Deelnemers hanteren een aantal ICT -/IV-kaders waaraan de Opdrachtnemers zich bij Nadere 
+overeenkomsten dienen te conformeren. Opdrachtnemer is bereid om voor uitvoering van 
+Opdrachten af te stemmen over de (referentie)architecturen, technologie standaarden , principes 
+en bouwstenen binnen het ICT -/IV-domein van de Deelnemer(s), alsmede over mogelijke 
+wijzigingen daarin, om de informatiebehoeftes van de klant voor de betreffende Nadere 
+overeenkomst(en) goed in te kunnen passen binnen de ICT -/IV-kaders. Waar relevant zal 
+Deelnemer dit al in de Aanvraag specificeren.  
+ 
+De belangrijkste (bronnen van en hun opvolgers) standaarden (niet limitatief) worden hieronder 
+opgesomd:  
+a. Informatiebeveiliging: het Besluit voorschrift informatiebeveiliging rijksdienst (VIR) 2007, 
+het Besluit voorschrift informatiebeveiliging rijksoverheid – bijzondere informatie (VIRBI) 
+2025, de Baseline Informatiebeveiliging Overheid (BIO2) , zie ook eis A.10 
+b. Pentest execution standard, zie eis P.6 
+c. Standaarden zoals genoemd in eis P.28  
+  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 4 van 50 
+ 
+A.5 In het geval van een vermoedelijk of geconstateerd incident, waarin bij de uitvoering van een 
+Nadere overeenkomst niet voldaan wordt aan de daarvoor geldende ICT/IV-kaders, wetgeving  of 
+de beveiligingsnormen zoals genoemd in A.10, dient Opdrachtnemer dit onverwijld te melden 
+aan de Deelnemer. Opdrachtnemer meldt ook ieder incident dat de beschikbaarheid, integriteit 
+of vertrouwelijkheid van bij de Opdracht verwerkte/te verwerken gegevens raakt binnen 24 uur 
+na ontdekking aan Deelnemer, i nclusief aard, omvang en getroffen maatregelen.  
+ 
+A.6 
+ 
+Opdrachtnemer zorgt voor actuele kennis van ontwikkelingen in het vakgebied en opkomende 
+technieken (emerging technologies) die relevant zijn binnen het domein van Nadere 
+overeenkomst(en) die Opdrachtnemer uitvoert voor de Deelnemer(s). Deze kennis is aanwezig 
+binnen de organisatie van Opdrachtnemer . 
+ 
+A.7 
+ 
+Alle voor de Prestatie(s) van de Nadere overeenkomsten benodigde data die door of namens 
+Deelnemer wordt verwerkt buiten de omgevingen van Deelnemer(s), vinden plaats binnen de 
+Europese Economische Ruimte (EER) en dienstverlening en dataverwerkingen vallen  uitsluitend 
+binnen Europese jurisdictie of nationale jurisdictie van lidstaten van de Europese Unie. 
+Deelnemers kunnen per Opdracht verlangen dat de Nederlandse jurisdictie van toepassing is. Dit 
+geldt standaard voor verwerkingen van gegevens die door Dee lnemer als staatsgeheim zijn 
+gerubriceerd. Opdrachtnemer garandeert voor elke Opdracht dat gegevens buiten de 
+omgevingen van Deelnemer(s) niet worden overgedragen aan partijen buiten deze jurisdictie 
+zonder schriftelijke toestemming van de Deelnemer.  
+  
+A.8 Opdrachtnemer zal als onderdeel van de Prestatie die activiteiten verrichten die beschreven zijn 
+in de Nadere overeenkomst (dus inclusief de Aanvraag, Nota’s van Inlichtingen, prijsopgaven et 
+cetera). Dit omvat ook activiteiten en voorzieningen die daaruit volgen of noodzakelijk zijn om 
+de Prestatie conform de Nadere overeenkomst te verrichten, ook als die activiteiten of 
+voorzieningen niet expliciet zijn beschreven. 
+ 
+Veiligheid 
+ 
+A.9 Certificeringen die nodig zijn voor het uitvoeren van de Nadere overeenkomst (w.o. kwalificaties 
+van het Personeel die de Opdrachten uitvoeren) dienen tijdens de uitvoering actueel te zijn .  
+ 
+A.10 Opdrachtnemer dient alle gegevens die hij verwerkt bij het onderzoek aantoonbaar adequaat te 
+beveiligen, conform de relevante maatregelen uit de meest actuele versie van de BIO, ISO 
+27001/2 of gelijkwaardig. Onder de verwerkte informatie vallen o.a. de geg evens van gevonden 
+kwetsbaarheden, gebruikte aanvalsmethoden die succesvol zijn geweest en de daarbij vergaarde 
+gegevens.  
+Indien Opdrachtnemer bij het onderzoek in aanraking kan komen met bijzondere (gerubriceerde) 
+informatie die valt onder het Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere 
+Informatie (VIRBI) 2025 of gevoelige informatie die volgens Deelnemer een vergelijkbaar n iveau 
+van veiligheidsclassificatie krijgen, houdt hij zich aan de VIRBI 2025 en toepasselijke 
+(aanvullende) bindende voorschriften/voorwaarden die Deelnemer of een door Deelnemer 
+aangewezen beveiligingsautoriteit hieraan stelt . 
+Voor de maatregelen van veilige verwerking (w.o. opslag, inzage en uitwisseling) van 
+gerubriceerde of gevoelige informatie zullen Deelnemer en Opdrachtnemer nadere (bindende) 
+voorwaarden overeenkomen. Als Opdrachtnemer (deels) niet kan of wil voldoen aan d e VIRBI 
+2025 en eventuele aanvullende bindende voorschriften/voorwaarden, proberen Deelnemer en 
+Opdrachtnemer tot een oplossing te komen waarin het onderzoek wel volgens de noodzakelijke 
+veiligheidsvoorschriften kan worden uitgevoerd. Gedacht kan worden aa n het onder voorwaarden 
+gebruikmaken van bestaande voorzieningen van Deelnemer, het door Deelnemer zorgdragen en 
+faciliteren van nieuwe voorzieningen die Opdrachtnemer hiervoor moet gebruiken, dan wel het 
+op andere wijze mitigeren van veiligheidsrisico's.   
+ 
+A.11 De Opdrachtnemer hanteert regels voor medewerkers en andere verwerkers, die buiten 
+Nederland persoonsgegevens of authenticatiemiddelen (voor de toegang tot persoonsgegevens 
+vanuit het buitenland) met zich meedragen of in hun bezit hebben, ongeacht of deze informatie 
+versleuteld is , waarbij deze regels schriftelijk zijn vastgelegd en aantoonbaar aan medewerkers 
+zijn gecommuniceerd . 
+ 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 5 van 50 
+ 
+A.12 De verwerking door Opdrachtnemer wordt op verwerkers/persoonsniveau gelogd, zodat direct of 
+periodiek kan worden beoordeeld welke persoonsgegevens de medewerker heeft opgevraagd, 
+ingezien en aangepast.  Logging wordt beveiligd opgeslagen, is uitsluitend toegankelijk voor 
+geautoriseerde personen en wordt bewaard conform de relevante BIO ‑maatregelen voor 
+monitoring en logging.  
+ 
+ 
+  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 6 van 50 
+ 
+Hoofdstuk 2 – Specifieke eisen  
+ 
+ 
+ 
+ 
+    Algemeen  
+P.1 Deelnemers kunnen aan Opdrachtnemer een Opdracht verstrekken tot het uitvoeren 
+van een informatiebeveiligingsonderzoek. Deelnemer en Opdrachtnemer bereiken 
+dan overeenstemming over de scope, uitvoering en op te leveren eindresultaat van 
+en eventueel te verlenen nazorg bij dit onderzoek. Het eindr esultaat is in beginsel 
+een standaardrapport , al dan niet voorzien van aanvullende documenten en/of 
+toelichting. Het eindresultaat is betrouwbaar, reproduceerbaar en kan (optioneel) 
+door Deelnemer of een derde partij (zoals een auditor) gevalideerd worden. De 
+validatie kan uitgevoerd worden om extra  zekerheid te verkrijgen over de kwaliteit 
+van uitvoering en resultaten. Ingeval Opdrachtnemer een onderaannemer/derde wil 
+inzetten voor het uitvoeren van een deel van het onderzoek, blijft Opdrachtnemer 
+eindverantwoordelijk en gelden voor deze onderaannem er/derde dezelfde eisen aan 
+de dienstverlening.  Opdrachtnemer ziet erop toe dat deze eisen door de 
+onderaannemer/derde worden nageleefd.  
+P.2 Opdrachtnemer zal binnen de Opdracht een (mondelinge) toelichting geven op het 
+uitgevoerde onderzoek en hetgeen hij aan Deelnemer (in de vorm van een 
+rapportage of anderszins) heeft opgeleverd, inclusief zijn bevindingen en adviezen. 
+In zijn adviezen doet Opdrachtnemer suggesties voor mogeli jke opvolging en 
+verantwoordelijken  voor de opvolging van gegeven adviezen . Opdrachtnemer staat 
+hierbij open voor interactie met door Deelnemer aan te wijzen contactpersonen, die 
+belang hebben bij de uitkomsten en eventuele opvolging van het onderzoek.  
+ Het standaardrapport wordt digitaal verstrekt  
+P.3 Het standaardrapport  wordt digitaal verstrekt. Opdrachtnemer hanteert hiervoor het 
+format in Bijlage 2 PvE – Model standaardrapport . Deelnemer en Opdrachtnemer 
+kunnen na aanvang van de Opdracht nadere afspraken maken over zowel opzet van 
+het rapport, aanvullend te verstrekken documenten als wijze van verstrekking, mits 
+deze rapportagevereisten niet strijdig zijn met dit Programma van Eisen.  
+ Aanwijzing en beschrijving rapporteur, opsteller of hoofdonderzoeker 
+P.4 In het op te leveren rapport is de naam van een persoon (of meerdere personen) 
+genoemd, die de professionele eindverantwoordelijkheid draagt (of dragen) voor de 
+uitvoering van het informatiebeveiligingsonderzoek en het betreffende rapport. Deze 
+persoon (of personen) is (of zijn) in het rapport  als rapporteur(s) aangemerkt.   
+ Beschrijving van de verplichte certificering, waarover de rapporteur beschikt 
+P.5 Het onderzoeksteam, bestaande uit de rapporteur(s) en de overige voor uitvoering 
+van het informatiebeveiligingsonderzoek in te zetten professionals, beschikt als 
+geheel over de voor het onderzoek relevante geldige certificering(en). Het is 
+toegestaan dat e en of meerdere leden van het onderzoeksteam niet aantoonbaar 
+beschikken over relevante geldige certificering, mits andere leden hier gezamenlijk 
+wel aantoonbaar over beschikken. Bovendien moeten de niet -gecert ificeerde leden 
+van het team onder inhoudelijke supervisie werken van een of meerdere leden met 
+relevante geldige certificering(en), waarbij een gecertificeerd lid maximaal twee niet -
+gecertificeerde leden onder zijn/haar inhoudelijke supervisie mag hebben. De 
+rapporteur is hiervan uitgezonderd, maar is (eind)verantwoordelijk voor het borgen 
+van voldoende inzet van gecertificeerde leden van het onderzoeksteam en de 
+kwaliteit van het onderzoek. De hoeveelheid inzet van gecertificeerde leden van het 
+onderzoekst eam is ten minste de helft van de totale inzet van het onderzoeksteam 
+voor het onderzoek.  
+Een relevante geldige certificering genoemd in de meest recente versie van de lijst 
+kwalificaties voor pentesters, als appendix van het CCV-keurmerk Pentesten, voldoet 
+hier in elk geval aan. Zie deze hyperlink voor de meest recente versie: 
+https://hetccv.n l/keurmerken/cybersecurity/pentest/documenten/.  
+Ook certificeringen die niet genoemd zijn in de lijst kwalificaties voor pentesters, als 
+appendix van het CCV -keurmerk Pentesten, kunnen als geldig en gelijkwaardig 
+worden gezien. De eisen die het CCV stelt aan trainingen en examens om erkend te 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 7 van 50 
+ 
+worden als (gelijkwaardige en) geldige certificering en passende kwalificatie voor 
+pentesters, gelden dan ook hier:  
+1. Het certificaat geeft een goede indicatie dat de kandidaat beschikt over 
+uitgebreide kennis en vaardigheden op het gebied van penetratietesten. 
+Instapcertificaten kunnen niet aan deze criteria voldoen.  
+2. Om het certificaat te behalen, ondergaat de kandidaat een examen waarbij hij/zij 
+minimaal 23 uur zelfstandig hackt in een labomgeving.  
+3. Na afloop van het examen stelt de kandidaat een rapport op dat daadwerkelijk 
+wordt beoordeeld door een examinator.  
+4. Er zijn adequate maatregelen genomen om fraude tijdens het examen te 
+voorkomen.  
+5. Er is minimaal 2 jaar een examen voor persoonscertificering voor pentesters 
+beschikbaar om in aanmerking te komen voor deze lijst (voldoende trackrecord 
+om aan de overige criteria te voldoen).  
+Als het CCV gedurende de looptijd van de Raamovereenkomst nieuwe eisen hieraan 
+stelt (via een nieuwe versie van het appendix van het CCV -keurmerk Pentesten, zie 
+eerdere hyperlink), kunnen Deelnemer en Opdrachtnemer zich ook hierop beroepen 
+om te bepalen of certificaten als geldig en gelijkwaardig kunnen worden gezien. Bij 
+eventuele tegenstrijdigheid tussen versies prevaleert de lagere vereiste of uitleg in 
+het voordeel van de Opdrachtnemer.   
+ Pentest Execution Standard  
+P.6 Het onderzoek wordt in beginsel uitgevoerd volgens de zeven fasen van de Pentest 
+Execution Standard (PTES) (http://www.pentest -standard.org/index.php/Main_Page) 
+of, na voorstel door Opdrachtnemer en na acceptatie door Deelnemer, volgens fasen 
+van een ander e vergelijkbare erkende industriestandaard voor het uitvoeren van 
+informatiebeveiligingsonderzoeken. De zeven fasen van PTES zijn:  
+1. Interacties vóór de betrokkenheid (Pre -engagement Interactions);  
+2. Informatie verzamelen (Intelligence Gathering);  
+3. Modellering van bedreigingen (Threat Modeling);  
+4. Kwetsbaarheidsanalyse (Vulnerability Analysis);  
+5. Exploitatie (Exploitation);  
+6. Post-exploitatie (Post Exploitation);  
+7. Rapportage (Reporting).  
+In het Plan van Aanpak kunnen Deelnemer en Opdrachtnemer een afwijkende 
+fasering van het onderzoek overeenkomen of een of meer fasen van de toe te 
+passen standaard voor het onderzoek buiten toepassing verklaren (met name bij 
+kleinere onderzoeken). De voor de fasering toe te pas sen standaard kan 
+gecombineerd worden met andere voor de uitvoering van het onderzoek te 
+gebruiken standaarden en methodieken.   
+P.7 Deelnemer kan, nadat Opdrachtnemer het ( initiële) onderzoek heeft uitgevoerd en 
+de rapportage heeft opgeleverd, de aanbevelingen opvolgen en maatregelen treffen 
+om de in de rapportage geconstateerde risico’s te minimaliseren. Hierna kan 
+Deelnemer aan Opdrachtnemer vragen een herhalingsopdracht (ook: hertest) uit te 
+voeren. De herhalingsopdracht ziet in beginsel uitsluitend op eerder gevonden 
+kwetsbaarheden of bevindingen. Hiermee beoogt Deelnemer uitsluitsel te krijgen of 
+de maatregelen doeltreffend zijn doorg evoerd en de risico's tot een volgens 
+Deelnemer acceptabel niveau zijn verminderd. Een herhalingsopdracht doorloopt 
+dezelfde fasering. Een herhalingsopdracht wordt in beginsel als optie bij een initieel 
+onderzoek overeengekomen, eventueel met een maximale termijn na oplevering van 
+het initiële onderzoeksrapport, maar kan ook op basis van een nieuwe Offerte van 
+Opdrachtnemer aan hem worden verstrekt.  
+P.8 Als de Opdracht een optie bevat tot het uitvoeren van een herhalingsopdracht en 
+Deelnemer wil daarvan gebruikmaken, dan kan Deelnemer zonder minicompetitie of  
+toerbeurt schema  aan Opdrachtnemer een timeboxed herhalingsopdracht 
+verstrekken. De toepasselijke uurtarieven van Opdrachtnemer op grond van de 
+originele Opdracht zijn hierop ook van toepassing, waarbij Deelnemer een maximum 
+aantal te vergoeden uren en zodoende een vaste prijs voor uitvoering van de 
+herhalingsopdracht voorschrijft.  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 8 van 50 
+ 
+Opdrachtnemer mag de uitvoering van deze herhalingsopdracht weigeren. Na 
+weigering  zal Deelnemer de Aanvraag voor het uitvoeren van een herhalingsopdracht 
+in minicompetitie  of toerbeurt schema  uitzetten met het verzoek hiervoor een 
+(nieuwe) Offerte uit te brengen.  
+    Interacties voor betrokkenheid   
+P.20 Opdrachtnemer garandeert dat hij uitsluitend werkzaamheden uitvoert die binnen de 
+reikwijdte van de opdracht omschrijving/scope van de Aanvraag vallen. De intake die 
+na start van de Nadere overeenkomst plaatsvindt is niet bedoeld om de scope van de 
+Opdracht en de voorwaarden hieraan wezenlijk te wijzigen. In de intake kunnen 
+Deelnemer en Opdrachtnemer nadere werkafspraken maken over de onderwerpen 
+die al in de Aanvraag, de Offerte of Nadere overeenkomst zijn beschreven, dan wel 
+hier nog niet zijn beschreven maar verdere afstemming/detaillering behoeven en in 
+het Plan van Aanpak vastgesteld worden.   
+ Beschrijving intakegesprek 
+P.21 Het intakegesprek is onderdeel van de Opdracht en wordt binnen 10 werkdagen na 
+start van de Opdracht uitgevoerd, tenzij Deelnemer en Opdrachtnemer akkoord gaan 
+met een andere termijn of moment voor het intakegesprek. Deze termijn start op de 
+eerste werkdag na start/ondertekening van de Nadere overeenkomst of afroep 
+binnen een Nadere overeenkomst. Het intakegesprek vindt plaats voordat enige 
+testactiviteiten worden gestart.  
+P.22 Opdrachtnemer maakt een verslag van het intakegesprek. Dit verslag bevat de 
+besproken onderwerpen die nodig zijn om een Plan van Aanpak te maken voor 
+uitvoering van het onderzoek (zie eis P.24), de datum van het intakegesprek, de 
+deelnemers aan het intakegesprek en welke informatie er nog verstrekt moet worden 
+voor het informatiebeveiligingsonderzoek.   
+P.23 Voorafgaand aan het onderzoek, bijvoorbeeld in het intakegesprek, benoemen 
+Deelnemer en Opdrachtnemer elkaars contactpersonen die met elkaar tijdens de 
+uitvoering van de Opdracht kunnen afstemmen, waarover en (indien van toepassing) 
+onder welke voorwaarden. Indien van toepassing benoemt Deelnemer ook 
+contactpersonen van rechthebbende derde partijen die voor het onderzoek relevant 
+zijn.  
+Opdrachtnemer en Deelnemer bespreken voorafgaand aan het onderzoek eventuele 
+door hen geziene risico's met betrekking tot de beschikbaarheid en/of deskundigheid 
+en/of bevoegdheid van alle door partijen voorgestelde contactpersonen en kunnen 
+waar gewenst mi tigerende maatregelen nemen om beschikbaarheid en/of 
+deskundigheid en/of bevoegdheid beter te borgen.   
+ Plan van Aanpak 
+P.24 Na het intakegesprek levert Opdrachtnemer  een definitief voorstel Plan van Aanpak 
+op voor het uitvoeren van de gevraagde Opdracht. Het definitieve Plan van Aanpak 
+omvat ten minste:  
+- een omschrijving van de scope, doelstelling(en) van de Opdracht, te 
+onderzoeken objecten, eigenaarschap en fysieke locaties (land) van objecten 
+inclusief gevolgen voor naleving relevante wet - en regelgeving  
+- optioneel (indien verzocht door Deelnemer): de locatie(s) van uitvoering van het 
+onderzoek  
+- te gebruiken methodiek(en), standaarden, aanvalsperspectief 
+(black/grey/whitebox, evt. toepassing van het "assume breach" principe), 
+aanvalsscenario's (op grond van eventuele applicatie - of klantspecifieke 
+(dreigings)scenario’s), toe te passen hulpmiddelen  (tools) 
+- een planning (w.o. datums/tijden/attack window van onderzoek), verwachte 
+inzet en afspraken hierover  
+- voorwaarden en garanties van Opdrachtnemer en/of deelnemer t.a.v. de 
+planning  
+- afspraken over hoe om te gaan met eventuele risico's en incidenten die zich 
+tijdens de uitvoering kunnen voordoen  
+- indien testen in productie plaatsvindt, worden vooraf expliciete risico’s, 
+randvoorwaarden en eventuele beperkingen schriftelijk overeengekomen.  
+- overige voorwaarden voor uitvoering onderzoek  
+- namen van de rapporteur(s) en overige in te zetten professionals, inclusief de 
+relevante en geldige individuele certificeringen  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 9 van 50 
+ 
+- afspraken over communicatie en contactpersonen tussen Opdrachtnemer , 
+Deelnemer en eventuele derden  
+- afspraken over de distributiekring van het onderzoeksrapport of informatie over 
+het onderzoek, inclusief mogelijke vertrouwelijkheid van informatie  
+- afspraken over het al dan niet versleutelen en het hashen van 
+documenten/bestanden  
+- afspraken over het al dan niet opleveren van (ruwe) scanresultaten, 
+bewijsmiddelen, checklists, lijsten met gedeelde bestanden en documenten  
+- als bijlage het verslag van het intakegesprek  
+ 
+Het definitieve Plan van Aanpak dient door Deelnemer schriftelijk te worden 
+goedgekeurd. Het Plan van Aanpak benoemt de uitgangspunten voor uitvoering van 
+het onderzoek.  Opdrachtnemer start het onderzoek pas nadat het Plan van Aanpak 
+door Deelnemer is goedgekeurd.  
+Deelnemer en Opdrachtnemer kunnen voorafgaande aan het onderzoek 
+overeenkomen hoe Opdrachtnemer tijdens het uitvoeren van het onderzoek dient om 
+te gaan met risico’s, mogelijke incidenten en bevindingen die boven een nader te 
+bepalen risiconiveau komen (wie dient waarover geïnformeerd te worden, wordt het 
+onderzoek vervolgd of gestaakt). Dit wordt besproken in het intakegesprek en 
+vastgelegd in het Plan van Aanpak. Opdrachtnemer adviseert Deelnemer hierbij 
+desgewenst al direct (voorafgaand aan de rapportage) over effectieve maatregelen 
+om de risico’s (al dan niet tijdelijk) te mitigeren. Ook benoemt Opdrachtnemer welke 
+risico’s niet tijdelijk gemitigeerd kunnen wor den. 
+ 
+ Scope 
+P.25 Er is een beschrijving van de scope van het onderzoek. Deze bevat de relevante 
+selectie van onderdelen en objecten (volgens sub 2.2.1 t/m 2.2.8 hieronder). 
+Opdrachtnemer verifieert in het intakegesprek of de scopebeschrijving overeenkomt 
+met de behoeftes u it het intakegesprek en past binnen de afgesproken tijdspanne. 
+Opdrachtnemer verwerkt nieuwe inzichten over de scope in het Plan van Aanpak, 
+mits deze niet leiden tot een wezenlijke wijziging.   
+ Scope - Aanvalsperspectieven 
+P.26 In de scopebeschrijving is opgenomen welk aanvalsperspectief is afgesproken, wat 
+gevalideerd wordt door de Deelnemer en Opdrachtnemer. Opdrachtnemer voert op 
+verzoek van Deelnemer een onderzoek uit op basis van blackbox, greybox of 
+whitebox:  
+1. Black box: er worden vooraf geen gegevens beschikbaar gesteld over of 
+toegang tot het te onderzoeken object. De test wordt uitgevoerd vanuit een 
+ongeautoriseerd perspectief en benadert de realiteit van cyber criminelen het 
+meest.  
+2. Grey box: er worden beperkte gegevens over de applicatie(s) en infrastructuur 
+beschikbaar gesteld. Ook kunnen er (test) login credentials beschikbaar worden 
+gesteld. De penetratietest wordt uitgevoerd vanuit het perspectief van iemand 
+die normale toegang heeft (bemachtigd), waarbij geprobeerd kan worden buiten 
+de gestelde kaders van dat account te treden.  
+3. White box: de onderzoekers krijgen voor het onderzoek volledige (expliciete en 
+substantiële ) kennis van de interne werking van de applicatie(s) en 
+infrastructuur, inclusief de broncode, implementatiedetails, configuraties en 
+architectuurdocumentatie. Additionele gegevens over de applicatie(s), 
+netwerkdiagrammen en infrastructuur worden beschikba ar gesteld. Ook kunnen 
+er (test) login credentials beschikbaar worden gesteld.  
+In het intakegesprek kunnen nadere afspraken gemaakt worden over het niveau van 
+voorkennis.   
+ Scope - Objecten 
+P.27 De objecten die onderzocht worden, zijn onderdeel van de scope. Indien e r sprake is 
+van een scope object met een specifiek versienummer dient deze te worden 
+vastgelegd als onderdeel van het object. Per scope object wordt aangegeven 
+conform welke bijbehorende kaders/standaarden onderzoek wordt gedaan . Alle 
+kaders/standaarden die van toepassing kunnen zijn op het betrokken object, zijn in 
+de scopebeschrijving opgenomen.   
+ Standaarden 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 10 van 50 
+ 
+P.28 Opdrachtnemer voert zijn Opdrachten uit conform de meest recentelijk 
+gepubliceerde en erkende industriestandaards , gerelateerd aan de objecten in de 
+scope. De belangrijkste zijn:  
+- bij webapplicaties: OWASP Web Security Testing Guide (WSTG);  
+- bij Internet of Things (IoT) apparaten: OWASP IoT Security Testing Guide 
+(ISTG); 
+- bij API: conform de standaard WSTG hoofdstuk 12 API Testing;  
+- bij firmware: OWASP Firmware Security Testing Methodology (FSTM);  
+- bij mobiele applicaties: OWASP Mobile Application Security Testing Guide 
+(MASTG); 
+- bij operationele technologie / industriële automatiserings - en 
+besturingssystemen: ISA/IEC 62443 . 
+ 
+In het intakegesprek kunnen Deelnemer en Opdrachtnemer nadere afspraken maken 
+over het gebruik van overige standaarden, normenkaders, richtlijnen of 
+referentiebronnen, zoals de Google Hacking Database (GHDB), Open Source Security 
+Testing Methodology Manual  (OSSTMM), National Institute of Standards and 
+Technology (NIST), Information System Security Assessment Framework (ISSAF), 
+MITRE ATT&CK, de CWE top 25, CIS -controls (Center for Internet Security), SOC2, 
+de ICT-beveiligingsrichtlijnen voor webapplicaties ( van NCSC), overige beveiligings - 
+of beheersingsrichtlijnen van het NCSC.  
+Hiernaast conformeert Opdrachtnemer zich aan de fasering van de Penetration 
+Testing Execution Standard (PTES), tenzij anders overeengekomen.  
+ 
+Deelnemer en Opdrachtnemer leggen alle afspraken over de in het onderzoek toe te 
+passen standaarden en eventuele afwijkingen hierop vast in het Plan van Aanpak.  
+  
+ Vaststelling scope en objecten 
+P.29 Alle binnen de scope vastgestelde objecten worden getest.  
+Voorafgaand aan het onderzoek verifieert Opdrachtnemer bij Deelnemer of de 
+objecten in een acceptatie -omgeving moeten worden getest en moeten worden 
+gevalideerd in de productie -omgeving of dat direct in de productie -omgeving moet 
+worden getest. De afsprake n hierover worden vastgelegd in het Plan van Aanpak.  
+ Eigenaarschap scope 
+P.30 Voorafgaand aan de start van het onderzoek (bijvoorbeeld bij het intakegesprek) 
+heeft Opdrachtnemer  geverifieerd dat de lijst aan objecten toebehoort aan de 
+Deelnemer  of toestemming is gegeven door de rechthebbende derde partij voor het 
+uitvoeren van het onderzoek.  
+Het proces en de verantwoordelijkheid om tijdig tot toestemming van de 
+rechthebbende derde partij te komen, stemmen Opdrachtnemer, Deelnemer en 
+eventueel deze derde partij indien nodig nader af, voorafgaan aan de uitvoering van 
+het onderzoek. Indien deze rechthebbende derde partij nadere voorwaarden stelt, 
+die noodzakelijk zijn om het onderzoek te kunnen uitvoeren, stemmen Deelnemer, 
+Opdrachtnemer  en deze derde partij af of en in hoeverre hieraan voldaan kan 
+worden bij de uitvoering van het onderzoek. De afspraken hierover worden 
+opgenomen in het Plan van Aanpak en de rapportage. Indien Opdrachtnemer  en/of 
+Deelnemer besluiten zich niet aan deze nadere voorwaarden van de rechthebbende 
+derde partij te kunnen of willen committeren, geeft dit het recht aan Deelnemer en 
+Opdrachtnemer om de betreffende Opdracht eenzijdig te beëindigen.   
+ Jurisdictie scope-objecten 
+P.31 Voorafgaand aan start van het onderzoek (bijvoorbeeld bij het intakegesprek) stelt 
+Opdrachtnemer  vast wat de fysieke locaties zijn van de te onderzoeken objecten en 
+welke relevante wet - en regelgeving hier van toepassing is. De Deelnemer levert 
+waar nodig de informatie aan over de fysieke locatie van een object, laat deze door 
+de eigenaar(s) van het object aanleveren of bevestigt deze. Het 
+beveiligingsonderzoek  wordt uitgevoerd onder  Nederlandse jurisdictie.  Indien 
+objecten zich buiten Nederland bevinden, wordt vooraf schriftelijk vastgelegd welke 
+aanvullende juridische of technische maatregelen noodzakelijk zijn.  
+P.32 Opdrachtnemer voert op verzoek van Deelnemer het onderzoek uit vanaf een nader 
+te benoemen externe en/of interne locatie (een door Deelnemer gebruikte locatie of 
+vanaf een locatie van een rechthebbende derde partij).  Indien remote testen 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 11 van 50 
+ 
+plaatsvindt, worden beveiligingsmaatregelen voor de verbinding vooraf 
+overeengekomen.  
+ Accordering scope 
+P.33 Er is schriftelijke overeenstemming tussen een bevoegde functionaris van de 
+Deelnemer  en Opdrachtnemer over het Plan van Aanpak, waaronder de uit te voeren 
+scope van onderzoek.   
+ Taal rapport 
+P.34 Voorafgaand aan start van het onderzoek (bijvoorbeeld bij het intakegesprek) heeft 
+Opdrachtnemer  geverifieerd wat de taal van het standaardrapport moet zijn. De 
+standaard is Nederlands, maar Deelnemer kan op voorhand een opdracht of 
+schriftelijke toestemming geven om delen van het standaardrapport (exclusief de 
+managementsamenvatting) in het Engels te laten opstellen. Het rapport  bevat altijd 
+een Nederlandstalige managementsamenvatting.   
+ Vrijwaringsverklaring 
+P.35 Opdrachtnemer, Deelnemer en eventueel nog derden (voor zover te onderzoeken 
+objecten niet in eigendom van Deelnemer zijn) komen per Nadere overeenkomst een 
+vrijwaringsverklaring overeen voor het uitvoeren van het 
+informatiebevei ligingsonderzoek. Partijen kunnen hierbij gebruikmaken van het 
+model in NOK bijlage 3 – Model vrijwaringsverklaring. In de vrijwaringsverklaring 
+worden de risico’s beschreven die het uitvoeren van het onderzoek met zich 
+meebrengt, wordt toestemming gegeven voor aanval op / toegang tot bepaalde 
+objecten en wordt vrijwaring van aansprakelijkheid met betrekking tot de uit voering 
+van het onderzoek nader geregeld. Deelnemer draagt zorg voor afstemming met 
+eventuele derden en ondertekening en retournering van de vrijwaringsverklaring aan 
+Opdrachtnemer  voordat het onderzoek start. Een door bevoegde functionaris(sen) 
+ondertekende vrijwaringsverklaring wordt dan onderdeel van de betreffende Nadere 
+overeenkomst.  
+Opdrachtnemer vangt niet aan met uitvoering van het onderzoek zonder schriftelijke 
+goedkeuring door Deelnemer van genoemde documenten dan wel een afwijking 
+hierop. 
+P.36 In de Aanvraag kan Deelnemer eisen dat een door betrokken partijen getekende 
+Verwerkersovereenkomst een noodzakelijke voorwaarde is voor het starten van de 
+Opdracht. Dat zal geëist worden als Opdrachtnemer bij de uitvoering van het 
+onderzoek toegang kan krijgen tot persoonsgegevens, als hij voor dit onderzoek 
+verwerker is en er een juridische noodzaak is afspraken over de verwerking van de 
+(persoons)gegevens vast te leggen.  
+Opdrachtnemer vangt dan niet aan met uitvoering van het onderzoek zonder een 
+door betrokken partijen getekende Verwerkersovereenkomst.   
+    Executie van een onderzoek 
+ 
+P.40 Opdrachtnemer voert het onderzoek uit conform het definitieve Plan van Aanpak, 
+waarbij een wederzijds overeengekomen latere versie bij tegenstrijdigheid prevaleert 
+boven een eerdere versie. Deelnemer en Opdrachtnemer kunnen tijdens de 
+uitvoering van het onderzoek aanpassingen op het Plan van Aanpak overeenkomen, 
+mits deze ook expliciet worden vastgelegd en beargumenteerd in het 
+standaardrapport . De aanpassingen mogen geen wezenlijke wijzigingen zijn.   
+P.41 Voor zover dit in het Plan van Aanpak is overeengekomen, informeert 
+Opdrachtnemer vlak voordat het attack window van het onderzoek begint de 
+hiervoor aangewezen contactpersoon/contactpersonen van Deelnemer.   
+ Assume breach 
+P.42 De standaard bij een onderzoek (behalve bij black box) is dat er getest wordt op 
+basis van het "assume breach" principe, waarbij ervan uit wordt gegaan dat een 
+aanvaller/uitvoerder reeds toegang heeft tot de netwerkomgeving/objecten. Hierdoor 
+kan de robuus theid/kwetsbaarheid van het object 'as is' beter worden getest, zonder 
+invloed van andere mitigerende maatregelen (zoals firewalls etc.). Partijen stemmen 
+dan af welke maatregelen nodig zijn om dat mogelijk te maken.  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 12 van 50 
+ 
+Deelnemer en Opdrachtnemer kunnen ook nader overeenkomen dat/wanneer er niet 
+wordt getest op basis van het "assume breach" principe.   
+ CVSS-scores 
+P.43 Aan iedere bevinding wordt een score toegekend volgens de standaard van het 
+Common Vulnerability Scoring System (CVSS). De CVSS -scores dienen te worden 
+berekend op basis van de relevante metriekgroepen: Base Metrics, aangevuld met 
+de Supplemental Metrics, Environmental (Modified Base Metrics - Vulnerable System 
+Impact Metrics, Subsequent System Impact Metrics) en Threat Metrics.   
+ Bewijslast 
+P.44 Opdrachtnemer dient de rapportage versleuteld op te slaan. Indien dat in het Plan 
+van Aanpak is overeengekomen, dient Opdrachtnemer ook de scanresultaten, 
+producties en andere resultaten versleuteld op te slaan en op eerste verzoek van 
+Deelnemer ter beschikking te stellen.  
+De integriteit van alle scanresultaten, producties en overige resultaten is 
+gewaarborgd. Indien dat in het Plan van Aanpak is overeengekomen, heeft 
+Opdrachtnemer alle resultaten gehasht, zodat de inhoud en integriteit van de 
+bestanden geverifieerd kan worden.  
+Er geldt een minimale bewaartermijn van 3 maanden, berekend vanaf datum van het 
+definitieve standaardrapport. Voor (gerubriceerde) informatie die te beschermen 
+belangen (TBB's) raakt met een rubricering TBB1, 2 of 3 (staatsgeheim) geldt een 
+minimale bewaartermijn van 6 maanden. Partijen maken afspraken over eventueel 
+langere bewaartermijnen.  Na afloop van de bewaartermijn verwijdert Opdrachtnemer 
+de gegevens aantoonbaar en op veilige wijze  en maakt hier schriftelijk melding van 
+aan Deelnemer . 
+ Validatie scanresultaten 
+P.45 Opdrachtnemer levert voor zover redelijkerwijs mogelijk en vast te stellen, op eerste 
+verzoek van Deelnemer, bewijs aan waaruit blijkt dat de scans/testen zijn uitgevoerd 
+op de scope objecten en niet tegen andere beschermende maatregelen (zoals 
+firewalls), die buiten werking gesteld hadden moeten worden om een verstorende 
+werking op de scanresultaten te voorkomen. Opdrachtnemer levert dan ook , voor 
+zover redelijkerwijs mogelijk , bewijs aan dat met andere parameters (bijvoorbeeld 
+IP-adres of intensiteit van scanning) is gevalideerd dat extra beschermende 
+maatregelen voor het onderzoek niet functioneerden tijdens het onderzoek.  
+ Documenteren toegangswegen  
+P.46 Opdrachtnemer dient op eerste verzoek van Deelnemer bewijs te kunnen leveren 
+van de gedetecteerde en geïdentificeerde toegangswegen waarmee verbonden kan 
+worden met een onderzocht scope object, ook indien deze niet direct tot een 
+kwetsbaarheid hebben geleid.   
+P.47 De rapporteur(s) en overige bij het onderzoek in te zetten professionals van 
+Opdrachtnemer  handelen tijdens het onderzoek integer en zoals van een bekwaam 
+beroepsbeoefenaar verwacht mag worden. Als dat niet het geval is, heeft Deelnemer 
+het recht verdere inzet van deze de persoon te weigeren en vervanging te verlangen, 
+zonder dat de Opdrachtnemer  aanspraak kan maken op enigerlei schadevergoeding 
+in de breedste zin des woords. De rapporteurs en overige in te zetten professionals 
+proberen onderbrekingen of verstoringen die het gevolg zijn van hun handelen, met 
+ongewenst gevolgen voor de Deelnemer, z oveel als mogelijk te voorkomen.  
+P.48 Wanneer Opdrachtnemer  tijdens het onderzoek een onvoorziene onderbreking of 
+verstoring veroorzaakt op een scope -object als gevolg van zijn handelen, met 
+ongewenste gevolgen voor de productie -omgeving, staakt hij het onderzoek en 
+maakt hij hiervan direct melding bij de voor dit  onderzoek aangewezen 
+contactpersoon van Deelnemer onder vermelding van alle relevante informatie. De 
+contactpersoon van Deelnemer verzorgt de interne communicatie, Opdrachtnemer 
+herstelt de situatie zo spoedig mogelijk. Opdrachtnemer stemt met Deelnemer af of 
+en onder welke voorwaarden het onderzoek kan worden vervolgd.   
+P.49 Het is Opdrachtnemer  bij een onderzoek niet toegestaan om wijzigingen aan te 
+brengen in de scope -objecten, productiegegevens of systeemconfiguraties die hij 
+aantreft en/of deze te verwijderen, op een manier die de operationele integriteit kan 
+aantasten, tenzij Deelnemer hierv oor expliciete schriftelijke toestemming heeft 
+verleend.  Het volgens een tussen Deelnemer en Opdrachtnemer overeengekomen 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 13 van 50 
+ 
+Plan van Aanpak uitvoeren van het onderzoek en daarmee wijzigen van bijvoorbeeld 
+een logbestand als gevolg van automatische registratie van inlogpoging, het wijzigen 
+van sessietokens of uploaden van webshells moet wel mogelijk zijn.   
+P.50 Opdrachtnemer laat ten minste de belangrijkste bevindingen die uit 
+geautomatiseerde tests volgen nog handmatig verifiëren of reviewen door de 
+rapporteur(s), door overige bij het onderzoek in te zetten professionals dan wel door 
+ter zake deskundige en gecertificeerde externe reviewer(s). De rapporteur(s) en 
+overige professionals bepalen de eventuele keuze (welke bevindingen w el/niet 
+belangrijk en handmatig verifiëren) op basis van hun expert oordeel over het risico 
+en de impact van de kwetsbaarheid en/of de betrouwbaarheid van de gemelde 
+bevindingen of anders een representatieve steekproef.   
+P.51 Opdrachtnemer stemt met Deelnemer  af of en welke bevindingen van 
+kwetsbaarheden gemeld worden als CVE -aanvraag (Common Vulnerabilities and 
+Exposures aanvraag) via een Coordinated Vulnerability Disclosure (CVD) 
+formulier/procedure bij een geautoriseerde instantie die als CVE Numbering 
+Authority (CNA) fungeert, zoals het NCSC in Nederland. Opdrachtnemer ondersteunt 
+Deelnemer op verzoek bij deze CVD -melding/CVE -aanvraag. Als de kwetsbaarheid 
+gevonden is in een systeem of product dat niet van Deelnemer maar een 
+rechthebbende derde is, dan stemt O pdrachtnemer met Deelnemer af en 
+ondersteunt hij op verzoek van Deelnemer bij het melden van deze kwetsbaarheid 
+bij deze derde.   
+    Standaardrapport 
+ 
+ Rapporteur, opsteller of hoofdonderzoeker 
+P.60 In het op te leveren standaardrapport  is de naam van een persoon (of meerdere 
+personen) genoemd, die de professionele eindverantwoordelijkheid draagt (of 
+dragen) voor de uitvoering van het informatiebeveiligingsonderzoek en de 
+betreffende rapportage. Deze persoon (of personen) is (of zijn) in  het 
+standaardrapport  als rapporteur(s) aangemerkt.  
+Hiernaast vermeldt het standaardrapport  de namen van de overige personen die 
+betrokken zijn (geweest) bij de uitvoering van het onderzoek. Indien het 
+standaardrapport  kan of zal worden verspreid naar derden (niet zijnde een auditor), 
+mag Opdrachtnemer  hiernaast een inhoudelijk gelijkwaardige 'publieke versie' van 
+het standaardrapport  opleveren, waarin hij de namen van deze overige betrokken 
+personen heeft weggelakt of gepseudonimiseerd/geanonimiseerd. Deze publieke 
+versie zal dan voor bredere distributiedoeleinde worden gebruikt. De distributiekring 
+en mate van vertrouwelijkheid van i nformatie in het standaardrapport  hebben 
+Deelnemer en Opdrachtnemer al eerder in het Plan van Aanpak afgesproken. Het 
+toepasselijke rubriceringsniveau wordt in het standaardrapport  vermeld.   
+P.61 In het standaardrapport  wordt bij de rapporteur(s) en de overige professionals die 
+betrokken zijn bij de uitvoering van het onderzoek benoemd over welke relevante en 
+geldige individuele certificeringen zij beschikken.  
+Opdrachtnemer mag deze informatie uitsluitend in het standaardrapport  achterwege 
+laten indien deze al in het Plan van Aanpak is benoemd, de samenstelling van het 
+onderzoeksteam (rapporteur(s) en overige professionals) sindsdien niet veranderd is 
+en Deelnemer goedkeuring heeft gegeven voor het niet laten vermelden van deze 
+informatie in het standaardrapport . In het standaardrapport  wordt dan vermeld dat 
+informatie over de individuele certificeringen bij Deelnemer bekend is en in het Plan 
+van Aanpak is opgenomen (of soortgelijke bewoording).  
+P.62 Op verzoek van Deelnemer vermeldt Opdrachtnemer in het standaardrapport  hoe 
+Deelnemer de aanwezigheid van geclaimde geldige certificering middels inzage in 
+bewijsstukken kan vaststellen. Dat kan bijvoorbeeld door vermelding van (1) een 
+digitale vindplaats met link naar een platform/portaal of bestand of (2) 
+contactgegevens va n een persoon die op fysieke of digitale wijze inzage kan geven. 
+Opdrachtnemer mag hierbij kiezen voor het vermelden van een vindplaats met 
+besloten en beveiligde toegang, voor in elk geval de Deelnemer en eventueel een 
+auditor. Opdrachtnemer werkt op eers te verzoek van Deelnemer mee aan het geven 
+van inzage in bewijsstukken. Indien Opdrachtnemer in bezit is van een geldig CCV -
+keurmerk, kan dit als geldige vervanging van voorgaande bewijsstukken worden 
+gezien.  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 14 van 50 
+ 
+ Versie  
+P.63 Het standaardrapport  beschikt over een versienummer.  
+ Handtekening 
+P.64 Het standaardrapport  wordt voorzien van een tekst, waaruit blijkt dat:  
+1. de rapportage accuraat en naar waarheid is opgesteld;  
+2. er een review op deze versie van het document heeft plaatsgevonden en welke ter 
+zake deskundige personen (welke onderdelen) hebben gereviewd. Niet -gerubriceerde 
+(niet gevoelige) informatie kan door niet bij het onderzoek betrokken personen 
+worden gerevi ewd, bij gerubriceerde informatie moet betrokkenheid van externe 
+reviewers door Deelnemer vooraf worden goedgekeurd en kunnen extra maatregelen 
+nodig zijn om vertrouwelijkheid te borgen.  
+Deze tekst is voorzien van een handtekening van de rapporteur (niet per se ook de 
+reviewers). Deze handtekening kan een fysiek gezette handtekening zijn of een 
+digitale handtekening. Deelnemer kan ook een geavanceerde of gekwalificeerde 
+digitale handtekening verlangen (AES - of QES-authenticatieniveau).   
+ Vertrouwelijkheid 
+P.65 Opdrachtnemer legt in beginsel aan het op te leveren standaardrapport  en 
+onderliggende documenten geen belemmeringen aan Deelnemer op met betrekking 
+tot het beschikbaar stellen, verspreiden, opslaan en distribueren. Bijvoorbeeld aan 
+rechthebbende derde partijen die eigenaar zijn van onderzochte systemen of 
+applicaties of do or Deelnemer ingeschakelde auditors. Deelnemer draagt in zo'n 
+geval de verantwoordelijkheid voor het verder verspreiden van deze informatie en de 
+vertrouwelijkheid hiervan. Eventuele door Deelnemer en Opdrachtnemer gemaakte 
+afspraken over vertrouwelijkheid  worden in de rapportage benoemd en 
+gerespecteerd, bijvoorbeeld over het niet verspreiden van financiële informatie over 
+de Opdracht. Opdrachtnemer deelt het standaardrapport  niet zonder expliciete 
+toestemming van de contactpersoon van Deelnemer met anderen.   
+P.66 Indien van toepassing, vernietigt Opdrachtnemer de gegevens van het 
+standaardrapport  en/of onderliggende bestanden na een bepaalde bewaartermijn, 
+volgens de specifieke afspraken die Deelnemer en Opdrachtnemer daarover hebben 
+gemaakt. Anders gelden hiervoor de wettelijke bewaartermijnen.  Vernietiging vindt 
+aantoonbaar en op veilige wijze plaats.  
+ Review 
+P.67 Deelnemer kan verlangen dat Opdrachtnemer  het standaardrapport  in (laatste) 
+conceptvorm aan een of meerdere contactpersonen van Deelnemer ter review 
+aanbiedt, om vast te stellen of het standaardrapport  voldoet aan 
+rapportagevereisten en de afspraken in het Plan van Aanpak. Deelnemer onthoudt 
+zich van commentaar waarmee de onafhankelijkheid en integriteit van het 
+standaardrapport  kan worden aangetast. Zolang het commentaar niet ziet op het 
+nakomen van eerder overeengekomen rapportagevereisten of afspraken in het Plan 
+van Aanpak, is (zijn) de rapporteur(s) eindverantwoordelijk voor de keuze welk 
+commentaar wel of niet overgenomen wordt in het standaardrapport . Na review en 
+verwerking van aanpassingen kan het standaardrapport  worden opgeleverd als 
+definitief.  
+ Hoofdstukindeling 
+P.70 Inhoudsopgave  - Opdrachtnemer levert op basis van het uitgevoerde onderzoek het 
+standaardrapport op, conform het door Opdrachtgever vastgestelde model  in bijlage 
+2 PvE – Model standaardrapport  met standaard hoofd - en paragraafindeling. Dit 
+model moet zorgen voor uniformiteit, transparantie, compleetheid van het 
+standaardrapport  en reproduceerbaarheid van het onderzoek. De Opdrachtgever kan 
+nieuwe versies van dit model vaststellen, die Opdrachtnemer  daarna dient toe te 
+passen. Opdrachtnemer heeft de mogelijkheid suggesties aan Opdrachtgever te 
+geven voor verbetering van het model.  
+Afwijking van dit model is alleen toegestaan na schriftelijke goedkeuring van 
+Deelnemer, overeen te komen in het Plan van Aanpak.  
+P.71 Methodologie  – Het standaardrapport  bevat een hoofdstuk methodiek waarin 
+beschreven wordt langs welke fasen en lijnen het onderzoek uitgevoerd is. De 
+fasering van de Pentest Execution Standard (PTES) wordt hierbij als standaard 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 15 van 50 
+ 
+gebruikt, tenzij Deelnemer en Opdrachtnemer expliciet in het Plan van Aanpak een 
+andere, vergelijkbare erkende industriestandaard zijn overeengekomen, welke in de 
+methodiek beschreven is.     
+P.72 CVSS - Het standaardrapport  bevat een subhoofdstuk binnen het hoofdstuk 
+methodiek - waarin beschreven wordt dat de bevindingen welke door onderzoekers 
+gedaan worden, geclassificeerd worden middels het Common Vulnerability Scoring 
+System en worden voorzien van een zogenoemde CVSS-vector string teneinde terug 
+te kunnen leiden hoe de calculatie van de score tot stand gekomen is.  De gebruikte 
+CVSS-versie wordt expliciet vermeld.  
+P.73 Documentbeheer  - Het standaardrapport  bevat een (sub)hoofdstuk over het 
+document (documentbeheer) - in dit hoofdstuk wordt tenminste gedefinieerd : 
+Deelnemer , projectnummer/naam, start - en einddatum van project, rapporteurs, 
+reviewers, document classificatie, rubricering, versie-nummer van het document en 
+de handtekening van de verantwoordelijke rapporteur . 
+P.74 Versiebeheer  - Het standaardrapport  bevat een (sub)hoofdstuk over versie -beheer , 
+in dit hoofdstuk wordt tenminste gedefinieerd (per versie): versie, datum, auteur en 
+versie -omschrijving .  
+P.75 Distributielijst  - Het standaardrapport  bevat een (sub)hoofdstuk inzake de 
+distributielijst - in dit hoofdstuk wordt tenminste gedefinieerd: versie, datum, naam, 
+organisatie en verspreidingsmethode . Indien een publieke versie wordt opgesteld, 
+wordt dit expliciet vermeld.  
+P.76 Aanleiding - Het standaardrapport  bevat een (sub)hoofdstuk waarin de aanleiding 
+van het onderzoek beschreven is, hierbij wordt minimaal beschreven: of er sprake is 
+van een timeboxed test en indien dit het geval is, wat de maximering van de uren 
+betreft, welke onderdelen niet (volledig) ko nden worden getest en waarom niet, een 
+algemene beschrijving van de te testen omgevingen van Deelnemer.   
+P.77 Doelstelling  - Het standaardrapport  bevat de doelstelling(en) die overeenkomt 
+(overeenkomen) met wat tijdens de intake is besproken en is opgenomen in het 
+definitieve Plan van Aanpak. 
+P.78 Bevindingenlijst  en bevindingen - Het standaardrapport  bevat een genummerde lijst 
+van bevindingen en verwijst naar de individuele bevindingen . Zie ook de eisen P.90 
+tot en met P.97.  
+P.79 Managementsamenvatting  - Het standaardrapport  bevat een 
+managementsamenvatting . Deze is als volgt opgebouwd:  
+• Start/einddatum - De managementsamenvatting bevat een start - en 
+einddatum van het onderzoek.  
+• Gebruikte standaarden - De managementsamenvatting bevat een overzicht 
+van de gebruikte standaarden tijdens het onderzoek.  
+• CIA-scores - Op verzoek van Deelnemer bevat de managementsamenvatting 
+een overzicht van de CIA -scores per scope -object.  
+• RCA - De managementsamenvatting bevat - indien zinvol en met voldoende 
+context beschikbaar - een root -cause analyse op basis van de informatie 
+verkregen uit het onderzoek en de bevindingen.  
+• Overige bevindingen - De managementsamenvatting bevat een overzicht van 
+de door rapporteur aangetroffen kwetsbaarheden (aantal bevindingen per 
+risico-categorie) - op basis van het Common Vulnerability Scoring System - 
+CVSS - waarbij de volgende categorieën  worden gehanteerd: Kritiek, Hoog, 
+Gemiddeld, Laag en Informatief (zoals gedefinieerd door FIRST).  
+• Opdrachtnemer geeft een samenvatting van de belangrijkste bevindingen en 
+zijn aanbevelingen aan Deelnemer voor verbetering . 
+P.85 Scope  – Het standaardrapport  bevat: 
+• Een overzicht van de scope -objecten, waarbij per scope -object aangegeven 
+wordt of deze getest is en indien er afwijkingen zijn wordt er per scope -
+object beschreven wat deze afwijkingen behel zen.  
+De scope die is besproken in het intakegesprek en is vastgelegd in het 
+definitieve Plan van Aanpak.  
+P.87 Assume  breach - Het standaardrapport  bevat een (sub)hoofdstuk waarin beschreven 
+is of er middels het assume breach principe getest wordt en hoe de validatie van het 
+toepassen van het principe vastgesteld is door Opdrachtnemer .  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 16 van 50 
+ 
+P.88 Locaties  - Het standaardrapport  bevat de fysieke locaties (land) van de onderzochte 
+objecten, de fysieke locaties van uitvoering van het onderzoek en vaststelling dat het 
+onderzoek volgens de aldaar van toepassing zijnde wet - en regelgeving is 
+uitgevoerd.   
+P.89 Tijdlijn - Het standaardrapport  bevat een tijdlijn waarin aangegeven wordt welke 
+acties er op welk moment in de tijd (tijdens de testperiode) uitgevoerd zijn, zodat op 
+een later moment de acties en impact daarvan geverifieerd en kan worden, 
+bijvoorbeeld voor een audit of forensisch onde rzoek. Deelnemer en Opdrachtnemer 
+stemmen af welke detailniveau hierbij wenselijk is. Kritieke acties worden in beginsel 
+op de tijdlijn vermeld.   
+ Hoofdstuk - Bevindingen 
+P.90 Het standaardrapport  bevat een hoofdstuk waarin de bevindingen van het onderzoek 
+zijn beschreven.  
+P.91 In het standaardrapport  dient er per opgenomen bevinding een scope -object te 
+worden gedefinieerd  - dit scope -object dient direct herleidbaar te zijn naar het 
+systeem, de omgeving of applicatie (of directe URL) waarbinnen de kwetsbaarheid 
+zich bevindt.   
+P.92 In het standaardrapport  dient er per opgenomen bevinding een CVSS -score te 
+worden gedefinieerd , tezamen met een CVSS -classificatie, bij voorkeur volgens de 
+meest recente standaard (https://www.first.org/cvss/v4.0/specification -document - 
+6. Qualitative Severity Rating Scale).  
+P.93 In het standaardrapport  dient er per opgenomen bevinding een CVSS -vector string 
+te worden verstrekt, bij voorkeur volgens de meest recente standaard 
+(https://www.first.org/cvss/v4.0/specification -document - 7 Vector String).  
+P.94 In het standaardrapport  dient er per opgenomen bevinding een beschrijving van de 
+kwetsbaarheid te worden opgenomen, waarbij indien beschikbaar gerefereerd wordt 
+naar externe bronnen (zoals bijvoorbeeld CVE -nummers, public advisories).  
+In het standaardrapport  worden indien van toepassing ook AI -gegenereerde 
+kwetsbaarheden gesignaleerd.   
+P.95 In het standaardrapport  dient er per opgenomen bevinding een bevestiging van de 
+kwetsbaarheid te worden opgenomen, waarbij expliciet opgenomen staat hoe de 
+kwetsbaarheid kan worden gereproduceerd, of er gebruik gemaakt is van een 
+publieke exploit, of er door middel van misbruik van de kwetsbaarheid toegang is 
+verkregen tot het systeem en/of beschikbare informatie.   
+P.96 In het standaardrapport  dient er per opgenomen bevinding een mogelijke impact te 
+worden beschreven, inclusief mogelijke uitbuiting van de kwetsbaarheid 
+(exploitability). Daarbij dient ook rekening te worden gehouden met de impact op 
+omliggende omgevingen/systemen en ketens welke  een relatie hebben tot het 
+scope -object.   
+P.97 In het standaardrapport  dient er per opgenomen bevinding een aanbeveling te 
+worden geschreven inzake hoe een kwetsbaarheid kan worden opgelost. Daarbij 
+dient er (indien deze van toepassing is) een klikbare (link) te worden opgenomen 
+naar een individuele toevoeging in de Common W eakness Enumaration (CWE) 
+database welke bij de kwetsbaarheid hoort.   
+ Bijlagen 
+P.100 Het standaardrapport  bevat een hoofdstuk waarin bijlages opgenomen worden . 
+P.101 Woordenlijst - Het standaardrapport  bevat, bij voorkeur in de bijlagen , een 
+verklarende woordenlijst.  
+P.102 Hulpmiddelen - Het standaardrapport  bevat, bij voorkeur in de bijlagen , een 
+opsomming van gebruikte hulpmiddelen (tooling) tijdens het onderzoek.  
+P.103 Beschrijving - Per gebruikt hulpmiddel wordt een beschrijving opgenomen. De 
+beschrijving blijft beperkt tot functionaliteit en toepassingsdoel, niet tot technische 
+werking. 
+P.104 Versienummer - Per gebruikt hulpmiddel wordt een specifiek versienummer 
+opgenomen welke overeenkomt met de versie van het ingezette hulpmiddel . 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 17 van 50 
+ 
+P.105 Publieke referentie - Per gebruikt hulpmiddel wordt een publieke referentie (URL) 
+opgenomen waar het specifieke hulpmiddel kan worden verkregen 
+(download/informatie website) .  
+ Ontvangen documenten  
+P.110 Op verzoek van Deelnemer bevat het standaardrapport , bij voorkeur in de bijlagen , 
+een lijst met ALLE door Opdrachtnemer  ontvangen documenten , inclusief 
+bestandsnaam . 
+P.111 Op verzoek van Deelnemer wordt per ontvangen document een beschrijving 
+opgenomen van het specifieke document.   
+P.112 Op verzoek van Deelnemer wordt per ontvangen document een cryptografische hash 
+(zoals SHA2, SHA3) berekend en opgenomen om de integriteit en authenticiteit te 
+kunnen controleren , als en voor zover Opdrachtnemer en Deelnemer dat in het Plan 
+van Aanpak zijn overeengekomen.  
+ Ontvangen bestanden  
+P.120 Op verzoek van Deelnemer bevat het standaardrapport , bij voorkeur in de bijlagen , 
+een lijst met ALLE door Opdrachtnemer ontvangen bestanden , inclusief 
+bestandsnaam.  
+P.121 Op verzoek van Deelnemer wordt per ontvangen bestand een beschrijving 
+opgenomen van het specifieke bestand .  
+P.122 Op verzoek van Deelnemer wordt per ontvangen bestand een cryptografische hash 
+(zoals SHA2, SHA3) berekend en opgenomen om de integriteit en authenticiteit te 
+kunnen controleren , als en voor zover Opdrachtnemer en Deelnemer dat in het Plan 
+van Aanpak zijn overeengekomen . 
+ Gebruikte accounts 
+P.130 Het standaardrapport  bevat, bij voorkeur in de bijlagen , een lijst met de door 
+Deelnemer  verstrekte accounts .  
+P.131 Per opgenomen account wordt het bijbehorende scope -object beschreven . 
+P.132 Per opgenomen account wordt een beschrijving en rol/een korte beschrijving van 
+permissies opgenomen .  
+ Uitgevoerde scans 
+P.140 Op verzoek van Deelnemer bevat het standaardrapport , bij voorkeur in de bijlagen , 
+de scanresultaten (scan  output ) van de uitgevoerde scans.  Indien scanresultaten 
+zeer omvangrijk zijn, kan een representatieve selectie worden opgenomen mits 
+overeengekomen.  
+P.141 Op verzoek van Deelnemer wordt per scan -resultaat het scope -object gedefinieerd  
+P.142 Op verzoek van Deelnemer wordt per scan -resultaat de ruwe scan -output 
+opgenomen, inclusief versie van de gevonden componenten (software, libraries etc.).  
+ Bewijsmateriaal 
+P.150 Op verzoek van Deelnemer bevat het standaardrapport, bij voorkeur in de bijlagen , 
+een lijst met alle door Opdrachtnemer  gecreëerde /gegenereerde informatie, welke 
+dient als bewijsmateriaal. Voorbeelden hiervan zijn state -files (Burp), Nessus scans, 
+nmap scans, testssl.sh scans en elke andere output behorende tot het onderzoek.  
+P.151 Op verzoek van Deelnemer wordt per bestand dat behoort tot het bewijsmateriaal 
+een cryptografische hash (zoals SHA2, SHA3) berekend en opgenomen om de 
+integriteit en authenticiteit te kunnen controleren , als en voor zover Opdrachtnemer 
+en Deelnemer dat in het Plan van Aanpak waren overeengekomen . 
+ Checklists 
+P.160 Op verzoek van Deelnemer bevat het standaardrapport , bij voorkeur in de bijlagen , 
+de checklists voor de standaarden die van toepassing zijn op het onderzoek .  
+P.161 Binnen deze checklist dient dan elke test te worden afgevinkt, waarbij er drie 
+verschillende statussen mogelijk zijn:  
+1. Getest.  
+2. Niet getest.  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 18 van 50 
+ 
+3. Valt niet te testen (functionaliteit afwezig).  
+Indien er een bevinding is, dient deze bij de individuele check te worden opgenomen 
+als afwijking.  
+Indien een check niet getest is, dient dit te worden gemarkeerd (b.v. rode kleur) en 
+dient toelichting te worden gegeven waarom een test niet uitgevoerd is.   
+ Onbenaderbare/onbereikbare scope-objecten 
+P.170 In het standaardrapport, bij voorkeur in de bijlagen , wordt beschreven of er scope -
+objecten ten tijde van het onderzoek technisch niet bereik baar waren. Daarbij wordt 
+beschreven welke scope -objecten dit betroffen en hoe is vastgesteld dat deze 
+objecten technisch niet benaderbaar/bereikbaar waren.  Indien relevant wordt 
+vermeld welke impact dit had op de volledigheid van het onderzoek.  
+ 
+ 
+ Artificiële Intelligentie (AI)  
+ 
+AI.1 
+ 
+ 
+ 
+ 
+ 
+AI.2 
+ 
+ 
+ 
+ 
+ 
+AI.2 
+ 
+ 
+ 
+AI.3 
+ 
+ 
+ 
+AI.4 
+ 
+ 
+ 
+AI.5 
+In iedere Offerte voor een Nadere overeenkomst maakt Opdrachtnemer, gevraagd of 
+ongevraagd, transparant hoe hij omgaat met de inzet of het gebruik van AI ‑functionaliteit 
+binnen de Opdracht, in lijn met de AI ‑verordening *: 
+https://www.digitaleoverheid.nl/overzicht -van-alle-onderwerpen/artificiele -intelligentie -
+ai/ai-verordening/  
+ 
+Opdrachtnemer geeft aan of AI ‑functionaliteit wordt ingezet of gebruikt en, indien van 
+toepassing, waar deze inzet een rol speelt:  
+ 
+• in het eigen voortbrengingsproces, en/of  
+• in het aan Deelnemer  te leveren resultaat (dienstverlening en/of product).  
+ 
+Opdrachtnemer maakt inzichtelijk welke verantwoordelijkheden van Deelnemer  uit hoofde 
+van wet ‑ en regelgeving, in het bijzonder de AI ‑verordening, aan de orde zijn en in de 
+Opdracht of uitvoering moeten worden geadresseerd.  
+ 
+Opdrachtnemer beschrijft hoe hij zijn eigen verantwoordelijkheden rond de inzet of het 
+gebruik van AI beheerst en risico’s mitigeert, mede afgezet tegen relevante normen zoals 
+ISO 42001:2023.   
+ 
+Opdrachtnemer maakt inzichtelijk hoe de inzet of het gebruik van AI ‑functionaliteit 
+Deelnemer  in staat stelt aan zijn wettelijke en organisatorische verantwoordelijkheden te 
+voldoen, waaronder begrip van werking, output en beperkingen.  
+ 
+Opdrachtnemer benoemt eventuele aandachtspunten voor Deelnemer  met betrekking tot 
+diens AI ‑verantwoordelijkheden bij het gebruik van het op te leveren resultaat 
+(dienstverlening en/of product).   
+  
+ Post Quantum Cryptografie 
+ 
+PQC.1 Opdrachtnemer is actief gericht op mogelijke quantumtechnologie (QT) risico’s in hun producten 
+en/of diensten en het ondersteunen van Opdrachtgever in de beweging richting ‘crypto agility’ en 
+quantumveilige cryptografie, conform richtlijnen van de AIVD en het NCSC en anticiperend op in 
+ontwikkeling zijnde wet - en regelgeving (o.a. de implementatie van de NIS2 richtlijn met de 
+Cyberbeveiligingswet).  
+ 
+‘Actief gericht zijn’ zoals hierboven gesteld betekent dat Opdrachtnemer Quantum -risico’s kenbaar 
+en aantoonbaar in zijn bedrijfsvoering, kwaliteitssysteem, productontwikkeling, dienstverlening 
+heeft geïncorporeerd.  
+ 
+Onder Opdrachtnemers wordt in het kader van PQC ook begrepen : iedere betrokken derde in de 
+gehele keten van door Opdrachtgever gecontracteerde of te contracteren diensten.  
+Opdrachtnemer draagt de ketenverantwoordelijkheid en staat ervoor in dat iedere voor een 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 19 van 50 
+ 
+Nadere overeenkomst  in de keten ingeschakelde derde geheel voldoet -en gedurende de looptijd 
+van de Nadere overeenkomst  blijft voldoen - aan de op Opdrachtnemer rustende verplichtingen . 
+PQC‑eisen zijn alleen van toepassing indien cryptografie onderdeel is van de scope van het 
+Informatiebeveiligingsonderzoek . 
+ 
+PQC.2 Opdrachtnemer heeft concreet toetsbare in zijn organisatie geborgde relevante activiteiten rond 
+quantumveiligheid, die minimaal adresseren:  
+1. De concrete maatregelen op korte (maximaal 6 maanden) en middellange termijn (maximaal 1 
+jaar) die Opdrachtnemer neemt om in Opdrachten waarin cryptografie aan de orde is, de 
+quantumveiligheid te kunnen bedienen.  
+2. Risicomanagement  
+3. Maatregelen/voorzieningen met betrekking tot compliance.  
+4. Anticiperen op juridische implicaties.  
+5. Overige relevante ontwikkelingen ten aanzien van quantumveiligheid en cryptografie.  
+ 
+Indien cryptografie geen onderdeel is van de Opdracht, volstaat een verklaring van 
+niet ‑toepasselijkheid.  
+ 
+PQC.3 Uitwerkingen van de activiteiten als bedoeld in PQC.2 zijn gebaseerd op en in lijn met de actuele 
+versie van: 
+• NIST PQC project:  https://csrc.nist.gov/projects/post -quantum -cryptography  
+• PQC migratie handboek van de AIVD: 
+https://www.aivd.nl/onderwerpen/informatiebeveiliging/documenten/publicaties/2024/12/3/het
+-pqc-migratie -handboek  
+• NCSC TLS richtlijnen: https://www.ncsc.nl/wat -kun-je-zelf-
+doen/documenten/publicaties/2025/juni/01/ict -beveiligingsrichtlijnen -voor-transport -layer-
+security -2025-05 
+Vigerende wet - en regelgeving rondom Quantumveiligheid en cryptografie (zoals de 
+Cyberbeveiligingswet)  en het Rijksbrede beleidskader cryptografie: 
+https://www.digitaleoverheid.nl/document/rijksbreed -beleidskader -cryptografie/ . Opdrachtnemer 
+past deze bronnen alleen toe voor zover relevant voor de aard van het 
+Informatiebeveiligingsonderzoek . 
+ 
+PQC.4 Opdrachtnemer levert halfjaarlijks een geactualiseerd overzicht van de activiteiten rond relevante 
+quantumveiligheid op aan Opdrachtgever.  Indien PQC niet relevant is voor het 
+Informatiebeveiligingsonderzoek , volstaat een jaarlijkse verklaring van ongewijzigde status.  
+ 
+ 
+ 
+ 
+  
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 20 van 50 
+ 
+Hoofdstuk 3 - Eisen aan het aanvraagproces 
+AP.01 Deelnemer classificeert de betreffende (verzameling van) informatiebeveiligingsonderzoek (en) 
+volgens de classificatiematrix in Bijlage 1 van dit Programma van Eisen . De door Deelnemer 
+bepaalde  classificatie geldt als begrenzing van de scope of omvang van de betreffende  
+Aanvraag voor een (verzameling van) informatiebeveiligingsonderzoek (en).  
+AP.02 In het geval sprake is van een Aanvraag voor een verzameling van 
+informatiebeveiligingsonderzoeken , dan is het proces van classificatie eender en wordt de 
+scope en de totale omvang bepaald en altijd uitgedrukt met de (verzameling van) 
+classificatie(s), met dit verschil dat de totale omvang van deze Opdracht een maximum is en 
+niet wordt overschreden. Afwijkingen van de aard in de afroep en uitvoering van een 
+informatiebeveiligingsonderzoek  binnen een dergelijke Opdracht zijn afhankelijk van de 
+proportionaliteit en omstandigheden van het geval.  
+AP.1.1 Deelnemer kan Opdrachtnemer in RVICTO-PT-veld gedurende  de looptijd van deze 
+Raamovereenkomst steeds opnieuw oproepen via minicompetitie  tot het uitbrengen van een 
+Offerte op basis van  een Aanvraag: 
+• Voor Opdrachten met een classificatie “Groot” en /of “Speciaal”; 
+• Voor een verzameling van Opdrachten ongeacht de classificatie met een gezamenlijke 
+opdracht waarde van > €25.000 excl. btw.  
+AP.1.2 Deelnemer kan Opdrachtnemer in RVICTO-PT-veld en Opdrachtnemer in RVICTO -PT-bank 
+gedurende  de looptijd van deze Raamovereenkomst steeds opnieuw oproepen tot het 
+uitbrengen van een Offerte op basis van  een Aanvraag volgens het toerbeurt schema : 
+• Voor Opdrachten met een classificatie “Klein” en /of “ Normaal”;  
+• Voor een verzameling van Opdrachten ongeacht de classificatie met een gezamenlijke 
+opdrachtwaarde van ≤  €25.000 excl. btw.  
+ 
+Hierbij geldt het volgende:  
+1. De inkoopafdeling die namens een Deelnemer of meerdere Deelnemers Aanvragen 
+uitzet, stelt het toerbeurt schema op  en bepaalt voor welke Deelnemer(s) dit schema 
+van toepassing  is en houdt dit actueel bij ; 
+2. In dit schema worden alle Opdrachtnemers RVICTO -PT-veld en RVICTO-PT-bank 
+opgenomen en wordt per Aanvraag geregistreerd welke Opdrachtnemer aan de beurt is 
+om de Aanvraag te ontvangen. De volgorde van Opdrachtnemers in het 
+toerbeurtschema wordt vastgesteld op basis van de definitieve rangorde bij de gunning 
+van de Raamovereenkomst, waarbij de hoogst gerangschikte Opdrachtnemer als eerste 
+aan de beurt is. Voor iedere opvolgende Aanvraag die volgens het to erbeurtschema  
+moet worden uitgezet, wordt de eerstvolgende Opdrachtnemer in de vastgestelde 
+volgorde uitgenodigd. Nadat alle Opdrachtnemers aan de beurt zijn geweest, begint de 
+tourbeurtcyclus opnieuw bij de eerst gerangschikte Opdrachtnemer. Afwijking van deze 
+volgorde is uitsluitend toegestaan in de gevallen zoals bepaald in dit Programma van 
+Eisen  bij AP1.2 punt 5 en AP.4 en AP.11. 
+3. In dit schema staan ten minste de volgende gegevens geregistreerd:  
+volgorde van Opdrachtnemers, datum en kenmerk Aanvraag, de Opdrachtnemer die 
+Aanvraag heeft ontvangen, informatie de gunning, bijzonderheden ; 
+4. Indien Opdrachtnemer geen Offerte wenst uit te brengen, niet tijdig reageert of een 
+ongeldige Offerte indient, wordt de betreffende Aanvraag aangeboden aan de 
+eerstvolgende Opdrachtnemer in het to erbeurtschema ; 
+5. Indien Deelnemer een Aanvraag aanvankelijk aan Opdrachtnemer toekent, maar voor 
+gunning intrekt en daarom geen Nadere overeenkomst  wordt gegund, behoudt de 
+Opdrachtnemer die op basis van het to erbeurtschema was uitgenodigd zijn positie als 
+eerstvolgende in de volgorde . 
+ 
+Het toerbeurt schema is transparant en wordt door de inkoopafdeling van Deelnemer op 
+verzoek van Opdrachtnemer ter inzage verstrekt binnen vijf (5) werkdagen na ontvangst van 
+dit verzoek. 
+ 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 21 van 50 
+ 
+Deelnemer is verantwoordelijk voor het correct toepassen en bijhouden van het 
+toerbeurt schema.  
+AP.2 Opdrachtnemer stelt één (1) e -mailadres of contactpunt ( in geval van gebruik van digitaal 
+systeem) beschikbaar waarnaar alle Aanvragen gezonden kunnen worden  door Deelnemer . De 
+goede werking daarvan is de verantwoordelijkheid van Opdrachtnemer.   
+AP.3 Een Aanvraag voor een Nadere overeenkomst  op basis van een resultaatverplichting bevat ten 
+minste:  
+  
+1. Aanvraag kenmerk  
+2. Ministerie  
+3. Deelnemer  
+4. Organisatieonderdeel  
+5. Contactgegevens aanvrager  
+6. Classificatie van de Opdracht conform de classificatiematrix  en de 
+opdrachtomschrijving  
+7. Aanvullende eisen t.a.v. de Offerte en/of uitvoering van de Nadere overeenkomst  
+8. Beoogde t estperiode  
+9. Prijs 
+10. Beoordelingsmethodiek inclusief gunningscriteri um en subgunningscriteria  
+11. Termijn voor het indienen van een Offerte  
+ 
+In een Aanvraag voor een Nadere overeenkomst  op basis van een resultaatverplichting kan 
+optioneel nog het volgende worden opgenomen:  
+ 
+12. Datum informatiesessie/intakegesprek/pré -bid meeting  
+13. Of voor het in te zetten Personeel van Opdrachtnemer een geheimhoudings -
+/integriteitsverklaring, VOG en eventueel nog een Verklaring van Geen Bezwaar (VGB) 
+overgelegd moet worden  
+14. De locatie van uitvoering voor de Opdracht (intern bij Deelnemer of extern bij 
+Opdrachtnemer)  
+15. Mogelijkheid van een herhalings opdracht /hertest  
+16. Of de Algemene Beveiligingseisen voor Rijksoverheids opdracht en (ABRO) van 
+toepassing is op de Opdracht en zo ja, welke hoofdstukken, welk (rubricerings - of TBB-
+niveau en eventueel op welk gedeelte van de Opdracht dit ziet.  
+17. Eisen ten aanzien van inzet onderaannemers/derden   
+18. AI-aspecten  en/of PQC aspecten  
+19. Of cyberbeveiligingsafspraken van toepassing zijn op de Opdracht (zie NOK)  
+20. Of de maximumtarieven voor deze Opdracht buiten werking worden gesteld, e.e.a. 
+conform eis T.3  
+AP.4 Indien zich een situatie voordoet waarbij Deelnemer in het kader van de Aanvraag passende 
+maatregelen moet treffen in het kader van de nationale veiligheid, heeft Deelnemer het recht 
+om van  de eisen AP1.1 en AP1.2  af te wijken en een Aanvraag op alternatieve en passende 
+wijze uit te zetten onder één of meerdere Opdrachtnemers waarmee deze Raamovereenkomst 
+is gesloten. Voorts kan de nationale veiligheid er tevens toe leiden dat een Opdracht buiten 
+scope van deze Raamovereenkomst wordt gek walificeerd door Deelnemer .  
+AP.5.1 Voorafgaand aan een Aanvraag kan Deelnemer een informatiesessie of een pre-bid meeting 
+organiseren  met alle Opdrachtnemers en een toelichting geven op de voorgenomen Aanvraag 
+en de procedure. 
+Deelnemer geeft daarbij een toelichting op de context/achtergrond van de Opdracht. Vragen 
+stelt Opdrachtnemer tijdens de vragenronde(n).  
+AP.5.2 Opdrachtnemer valideert de classificatie bij ontvangst van de Aanvraag. Indien Opdrachtnemer 
+meent dat de classificatie niet overeenkomt met de aard en omvang van de Opdracht meldt hij 
+dit bij Deelnemer:  
+• Uiterlijk 2 werkdagen na datum Aanvraag voor een Opdracht met classificatie “Klein” 
+en/of “Normaal” 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 22 van 50 
+ 
+• Uiterlijk 5 werkdagen na datum Aanvraag voor een Opdracht met classificatie “Groot” 
+en/of “Complex”  
+• Indien Opdrachtnemer niet tijdig reageert, wordt de classificatie geacht te zijn 
+geaccepteerd. 
+AP.5.3 Deelnemer herijkt hierop de classificatie en past ofwel de scope aan, dan wel de classificatie, 
+dan wel motiveert waarom de gegeven classificatie in ogen van de Deelnemer juist is. In alle 
+gevallen zendt Deelnemer dit bericht aan alle Opdrachtnemers in de minicompetitie of aan de 
+Opdrachtnemer die op basis van het toerbeurt schema  de Aanvraag heeft ontvangen.  
+Deelnemer past indien nodig ook de termijn voor het indienen van Offertes aan.  
+AP.5.4 Bij aanpassing van de scope of classificatie trekt Deelnemer de Aanvraag in en zet de 
+Deelnemer de Aanvraag opnieuw in minicompetitie uit of herstart de Aanvraag via het  
+toerbeurt schema. Het bericht zoals genoemd in AP.5.3 kan tegelijkertijd worden gezonden met 
+de herstart van de minicompetitie of de Aanvraag via het toerbeurt schema . 
+AP.6 Deelnemer is gerechtigd een Aanvraag gemotiveerd in te trekken zonder tot gunning over te 
+gaan. Deelnemer hoeft Opdrachtnemer hiervoor niet schadeloos te stellen of te compenseren, 
+in welke vorm dan ook.  
+AP.7 Gunning van een Nadere overeenkomst  vindt altijd plaats op basis van de beste 
+prijs/kwaliteitsverhouding. De gunningscriteria prijs en kwaliteit worden op basis van 
+onderstaande subgunningscriteria (al dan niet aangevuld met de optionele sub -
+gunningscriteria) door Deelnemer gehanteerd:  
+ 
+ 
+Prijs: 
+FINANCIEEL 
+Vaste totaalprijs  excl. btw. 
+(onderbouwing van de prijs kan onderdeel zijn van de beoordeling van de kwaliteit van de 
+prijs. E.e.a. per Aanvraag te bepalen)  
+Kwaliteit: 
+ORGANISATIE 
+Plan van Aanpak o.a. conform P.24 . 
+PERSONEEL 
+Deskundigheid, samenstelling/skills van in te zetten personen inclusief onderbouwing 
+waarom deze personen worden ingezet.  
+NB: bij een Aanvraag voor meerdere informatiebeveiligingsonderzoeken kan worden 
+volstaan met anonieme profielen voor zover concrete personen niet kunnen worden 
+opgegeven e.e.a. naar de omstandigheden van het geval en de Aanvraag.  
+ 
+  
+Deelnemer zal de onderlinge weging per Aanvraag aangeven.  De totale weging is 100%. 
+  
+AP.8 Opdrachtnemer brengt binnen het in de Aanvraag gestelde aantal dagen een Offerte uit aan 
+Deelnemer conform de in de Aanvraag afgesproken procedure. De in de Aanvraag gestelde 
+termijn is een Fatale termijn.   
+De richtlijn voor de termijnen die Deelnemer hanteert voor het indienen van Offertes 
+(elektronisch aangeleverd) zijn:  
+- 5 werkdagen voor Opdrachten met de classificatie “Klein” en/of “ Normaal”. 
+- 10 werkdagen voor Opdrachten met de classificatie “Groot”.  
+- NTB in de Aanvraag voor Opdrachten met de classificatie “Complex”.    
+AP.9 Opdrachtnemer is verplicht om formeel schriftelijk op de Aanvraag te reageren:  
+- door het indienen van een Offerte  
+of 
+ 
+Programma van Eisen RVICTO -PT versie D1.0
+ 
+ Pagina 23 van 50 
+ 
+- door een mededeling dat Opdrachtnemer geen Offerte uitbrengt  voorzien van een 
+deugdelijke motivering  
+ 
+AP.10 Indien de formeel schriftelijke reactie zoals bedoeld in AP.9 niet binnen de in eis AP.8 gestelde 
+termijn door Deelnemer is ontvangen of deze niet voldoet aan de daaraan gestelde eisen dan 
+wordt Opdrachtnemer geacht geen Offerte te hebben gedaan.  
+AP.11 Opdrachtnemer voorkomt te allen tijde dat er sprake is van (kans op) belangenverstrengeling 
+bij een Aanvraag of de uitvoering van een Nadere overeenkomst.  
+In geval van (mogelijke/vermoedelijke) belangenverstrengeling:  
+• vraagt de Opdrachtnemer de Deelnemer direct na ontvangst van de Aanvraag om een 
+gemotiveerd verzoek tot vrijstelling van deelname aan de minicompetitie  of Aanvraag 
+op basis van het toerbeurt schema . De Deelnemer kan dit verzoek goedkeuren  of het 
+verzoek afwijzen.  
+• kan een Deelnemer besluiten om een Opdrachtnemer niet voor een minicompetitie of 
+Aanvraag op basis van het toerbeurt schema uit te nodigen, waarvan hij de betreffende 
+Opdrachtnemer(s) daarvan vooraf verzending van de Aanvraag gemotiveerd bericht zal 
+geven  
+• meldt Opdrachtnemer tijdens uitvoering van de Opdracht mogelijke 
+belangenverstrengeling zodra deze bekend wordt.  
+AP.12 De Offerte omvat ten minste:  
+• De vaste totaalprijs van de Opdracht;  
+• Het Plan van Aanpak e.e.a. conform de informatie in de Aanvraag;  
+• Opbouw onderzoeksteam en in te zetten personen;  
+• De bij de Opdracht in te zetten onderaannemers/derden (toeleveranciers) en hun 
+beoogde bijdrage aan de uitvoering van de Opdracht (indien geen onderaannemers 
+worden ingezet, vermeldt Opdrachtnemer dit expliciet  in de offerte) .  
+AP.13 Deelnemer beoordeelt de Offerte op basis van de in de Aanvraag vastgestelde criteria en 
+informeert Opdrachtnemer over de uitkomst daarvan.  Offertes die niet aan de  gestelde eisen  
+voldoen , worden niet beoordeeld en uitgesloten . Deelnemer kan , in ge
+
+=== Document: bijlage 20 - verslag marktraadpleging tn 534872 ===
+Pagina 1 van 68 
+ 
+ 
+ 
+ 
+ 
+ 
+V E R S L A G 
+ 
+ 
+RVICTO 26 
+Informatiebeveiligingsdiensten 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marktraadpleging  
+ 
+Inzake de aanbesteding Resultaatverplichte ICT-
+opdrachten 2026 (RVICTO 26) op het gebied van 
+Informatiebeveiliging ten behoeve van diverse 
+Ministeries en hun onderdelen, alsmede enkele ZBO’s. 
+ 
+ 
+ 
+ 
+TenderNed-kenmerk      : TN 534872 
+IUC-registratienummer  : 202409001 
+Datum   : 30 september 2025 
+  
+ 
+ 
+ 
+ 
+ 
+  
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 2 van 68 
+ 
+ 
+1 Inleiding 
+Voor u ligt het verslag van de marktraadpleging in het kader van Resultaatverplichte ICT-
+opdrachten 2026 (RVICTO) voor Informatiebeveiligingsdiensten, uitgevraagd door 
+inkoopcategorie ICT-professionals Rijk, uitgevoegd door het Inkoop Uitvoering Centrum van het 
+ministerie van Economische Zaken (IUC-EZ). 
+ 
+De aanleiding en achtergronden zijn beschreven in het Marktconsultatiedocument van 25 juli 
+2025, zoals gepubliceerd via TenderNed op 30 juni 2025, als ook in tweede versie op 10 juli 
+2025.  
+ 
+Wij zijn verheugd met de zeer waardevolle 24 ontvangen reacties (23 van potentiële inschrijvers 
+en 1 van het Centrum voor Criminaliteitspreventie en Veiligheid-CCV). Grote dank gaat uit naar 
+de partijen die hun tijd en moeite hebben gestopt in het geven van hun feedback. Onder de 
+experts is de algemene indruk er één van een mooie opbrengst! 
+ 
+BELANGRIJK: dit verslag is een samenvatting van de strekking van de ontvangen reacties per 
+gestelde vraag. In dit verslag zijn geen conclusies, reacties of overwegingen dezerzijds of 
+andere gevolgtrekkingen voor het hierop volgende proces van aanbesteden. De opbrengst van 
+deze marktconsultatie en de beelden daarop van de experts worden eerst met de deelnemers 
+afgestemd en een en ander zal zijn uiting vinden in de aanbestedingsstukken. Er komt derhalve 
+geen separaat document als reactie op de ontvangen reacties. Dit nu voorliggende verslag is het 
+publieke sluitstuk van deze marktconsultatie. 
+2 Procedure 
+ 
+ Op 30 juni 2025 is het Marktconsultatiedocument met als bijlage bijlagen gepubliceerd. 
+ Hierop zijn 51 vragen binnengekomen, die op 17 juli 2025 met publicatie op TenderNed 
+geanonimiseerd zijn beantwoord. 
+ Op 25 augustus 2025 hebben in totaal 23 marktpartijen hun reacties c.a. antwoorden op 
+onze vragen aangeleverd. 
+ Op 30 september 2025 is het verslag van de marktraadpleging gedeeld met de 
+respondenten. 
+ Op 7 oktober 2025 is het verslag zonder bezwaren vanuit respondenten op TenderNed 
+gepubliceerd. 
+ 
+In totaal hebben 45 ondernemingen zich als “geïnteresseerd” aangemeld via TenderNed, als ook 
+1 partij na de sluitingsdatum. 
+3 Vragen marktraadpleging 
+  
+Nummering 
+De nummering van de vragen is onveranderd die als in het Marktconsultatiedocument en de 
+ontvangen reacties. 
+ 
+Percentages 
+Bij de nummering zie u een percentage staan. Dit percentage geeft en indicatie (want sterk 
+afgerond) van het aantal ontvangen antwoorden, waarbij 100% = zonder partijen die op 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 3 van 68 
+ 
+ 
+onderdelen hebben aangegeven en/of laten zien dat een bepaald onderdeel niet van hun gading 
+is. Het deel ‘Algemeen’ is door 23 partijen ingevuld: 100% = 23; Het deel ‘Pentesten’ is door 20 
+partijen ingevuld: 100% = 20; Het deel ‘Red Teaming’ is door 18 partijen ingevuld: 100% = 18; 
+Het deel ‘SOC-diensten’ is door 16 partijen ingevuld: 100% = 16; Het deel “Overige IB-
+diensten’ is in wisselend aantal per subonderdeel ingevuld, zodat 100% = 11 tot 22. 
+Met de percentages zelf wordt verder niets gedaan. Het geeft enkel wat beeld representativiteit 
+van het aantal ontvangen antwoorden.  
+ 
+ 
+  
+ALGEMEEN 
+ 
+A1 – [100%] Wat vindt u van de voorgenomen verdeling in onderwerpen en de daarin 
+omschreven scope?  
+ 
+Over het algemeen vinden respondenten de onderverdeling van de scope logisch en 
+herkenbaar is. De huidige segmentatie sluit aan bij hoe markten zijn ingericht op basis van 
+expertise. Het deel ”Overige IB-diensten” heeft niettemin nadere uitwerking nodig. Dit deel 
+bundelt uiteenlopende diensten die elk hun eigen randvoorwaarden, kwaliteitscriteria als 
+contractvorm kennen. Advies: verdere en duidelijke opsplitsing.  
+ 
+Ter overweging: 
+ Expliciet borgen van de samenhang tussen detectie, respons en herstel.  
+ Aanvullende diensten: 
+o Centraal log- en data lake-beheer voor opslag, retentie, toegangsbeheer en 
+normalisatie van securitydata. 
+o Cloudbeheer- en integratiediensten, waaronder API-koppelingen en 
+licentieconfiguratie, die essentieel zijn voor snelle implementatie en operationele 
+effectiviteit. 
+o Koppeling van SOC/VOC-resultaten aan GRC-processen en risicoregisters zodat 
+technische bevindingen direct doorwerken in strategische besluitvorming. 
+ Bij pentesten ontbreekt broncodeonderzoek gericht op security. 
+ Er is dienstverlening gerelateerd aan Identity & Access-management gevraagd. De 
+ervaring leert dat daadwerkelijke implementatie veelal in een zelfstandige 
+aanbestedingen in de markt gezet worden. Voorbereidende werkzaamheden 
+(onderzoeken Programma van Eisen, definitie scenario’s e.d.) zijn nu niet benoemd in de 
+definities van de percelen. Deze past het beste bij Overige IB-diensten. Idem voor 
+security architectuur. 
+ Cloud security-gerelateerde dienstverlening, voor zover het gaat over het reviewen van 
+de inrichting van een Cloud op het gebied van security, is specifieke dienstverlening vaak 
+onder Pentestdienstverlening wordt geplaatst. 
+ Governance, Risk en Compliance-adviesdiensten niet scharen onder “Overige IB-
+diensten”, maar als zelfstandig deel contracteren. 
+ SOC-dienstverlening voor IT-SOC en OT-SOC apart van elkaar uitvragen. 
+ 
+A2 – [100%] Ontbreken er naar uw beeld nog diensten in de genoemde onderwerpen? Zo ja, 
+welke? 
+ 
+De meeste respondenten vinden dat de huidige onderwerpen goed aansluiten bij de 
+gevraagde dienstverlening, maar signaleren een aantal hiaten en hebben behoefte aan 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 4 van 68 
+ 
+ 
+verduidelijking. Er wordt gepleit voor een bredere en explicietere dekking van het 
+strategische domein en opkomende technologieën, met name AI. 
+ 
+Aanvullingen: 
+ Governance, Risk en Compliance (GRC) en beleidsadvisering 
+o Information Security Management Systeem (ISMS) 
+o Beleidsontwikkeling en strategievorming 
+o Compliance assessments  
+o Assurance-gerelateerde opdrachten zoals ISAE 3000/3402, SOC2 en DigiD ICT-
+beveiligingsaudits 
+ Ondersteuning bij Identity & Access Management (IAM) 
+ AI en innovatiegerichte beveiligingsdiensten 
+ Cloud security en cloud configuratie-audits 
+ Security by Design / DevSecOps-ondersteuning / Secure Development 
+o Secure code reviews 
+o CI/CD pipeline-beveiliging 
+o Integratie van security in ontwikkelcycli 
+ Privacyadvies zoals DPIA’s, BIO-assessments, NIS2-audits en maturity scans 
+ Supply chain security: Risicobeoordeling in de keten & vendor risk management 
+ OT-dienstverlening 
+ Business Continuity & Crisisvoorbereiding 
+ Securityarchitectuur en ontwerpbeoordelingen 
+ 
+Aandachtpunten: 
+ Het deel “Overige IB-diensten” is nu te breed en ongedifferentieerd. Hierdoor is het voor 
+gespecialiseerde partijen lastiger om aan te bieden. 
+ De huidige scope is sterk operationeel ingevuld, terwijl strategisch advies en de 
+samenhang tussen beleid, governance en technologie, cruciaal is voor succesvolle 
+invulling. 
+ De dienstverlening zou ook kennisoverdracht en versterking van de interne capaciteit 
+moeten omvatten. 
+ Innovatie speelt momenteel nauwelijks een rol. Een aantal partijen zijn niettemin van 
+mening dat innovatie een gunningscriterium moet zijn, omdat het essentieel is voor de 
+toekomstbestendigheid van dienstverlening. 
+ Hoewel er veel aanvullingen zijn voorgesteld, zijn er ook enkele respondenten die 
+aangeven dat de gegeven scope wel volledig is. 
+ 
+A3 – [100%] Wat is naar uw mening een gebalanceerd aantal partijen bij een 
+raamovereenkomst voor een onderwerp en hoe komt dat aantal tegemoet aan de gezochte 
+waarden voor opdrachtgever en de te bieden waarden door de opdrachtnemer?  
+Zekerheidshalve: er wordt uiteraard niet gevraagd om een antwoord voor onderwerpen die 
+niet van uw gading zijn. Ook: als bij een onderwerp deze vraag ook specifiek wordt gesteld, 
+kunt u uw reactie daar geven en hier weglaten. 
+ 
+Het merendeel van de respondenten noemt aantallen met een bandbreedte 3 - 5. Met een 
+dergelijke spreiding is er voldoende balans tussen: 
+ Concurrentie & innovatie 
+ Leveringszekerheid 
+ Kwaliteitsborging 
+ Praktische uitvoerbaarheid 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 5 van 68 
+ 
+ 
+Een aantal respondenten stelt aantallen afhankelijk van het betreffende deel. Met name bij  
+”Overige IB-diensten” is meer diversiteit in aantallen, dan wel vindt men het lastig een aantal 
+te geven voor de veelsoortige dienstverlening in dit deel. 
+ 
+A4 – [100%] In de raamovereenkomsten zullen diverse deelnemers afnemen. Hoe is het 
+risico te mitigeren dat de vraag voor u te groot wordt om te kunnen leveren? Waar moeten 
+wij rekening mee houden? Welke voorwaarden zijn voor onze deelnemers relevant? 
+Zekerheidshalve: er wordt uiteraard niet gevraagd om een antwoord voor onderwerpen die 
+niet van uw gading zijn. 
+ 
+Over het algemeen wordt het risico onderkent dat de vraag vanuit meerdere deelnemers op 
+piekmomenten groter kan zijn dan verwacht of de levercapaciteit toelaat. Als antwoord wordt 
+gegeven dat marktpartijen over schaalbare modellen, brede expertise en ruimte 
+(internationale) capaciteit beschikken. Daarmee denkt men dat het risico, binnen 
+randvoorwaarden, beheersbaar is. De belangrijkste maatregelen om dit risico te beheersen: 
+ Capaciteitsplanning, voorspelbaarheid en gecommitteerde afname 
+ Heldere scope en realistische opdrachten 
+ Evenwichtige verdeling van opdrachten 
+ Schaalbare en redundante leveringsmodellen 
+ Samenwerking, afstemming en [centrale] coördinatie 
+ Hanteren van een fair use policy / afnamegarantie / recht om opdrachten te weigeren bij 
+capaciteitsdruk 
+Aandachtspunten: 
+ Werklast en inefficiënte van regelmatige minicompetities. Alternatief: vooraf 
+gedefinieerde verdeling of automatische rotatie 
+ Overvragen en achterblijvende vragen brengen het risico dat een opdrachtnemer 
+investeringen niet rendabel krijgt. Voorstel: gegarandeerde volumes of 
+afnameverplichtingen, vooral voor grotere opdrachten. 
+ Schaalbaarheid, automatiseringsgraad en bewezen leveringscapaciteit zou onderdeel van 
+de selectie moeten zijn. 
+ Denk aan standaardiseren, zodat een detectie bij één deelnemer direct vergeleken kan 
+worden of in de monitoring van andere deelnemers opgenomen kan worden. 
+ Overweeg fase- of prioriteitslevering mogelijk te maken wanneer nodig in scenario’s met 
+hoge vraag 
+ Zorg voor minimale doorlooptijden en duidelijke beschrijving van projectresultaten bij 
+NOK en afroeping zodat de opdrachtnemer middelen effectief kan inzetten. 
+ 
+A5 – [100%] Bent u geïnteresseerd om in te schrijven op een of meer onderwerpen van de 
+voorgenomen aanbesteding? Zo ja, welke onderwerpen? 
+ 
+Respondenten geven overwegend aan geïnteresseerd te zijn om in te schrijven op (enkele 
+van) de voorgenomen aanbesteding(en). Men kan een brede scope van 
+informatiebeveiligingsdiensten leveren. De onderwerpen in volgorde van interesse om in te 
+schrijven onder respondenten. 
+1) Penetratietesten [>80%] 
+2) Red Teaming 
+3) SOC-diensten 
+4) Incident Response 
+5) Thread Intelligence 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 6 van 68 
+ 
+ 
+6) Awareness-diensten 
+7) Forensisch onderzoek 
+8) Overige IB-diensten / IB-Consultancy [>60%] 
+Enkelen geven aan eerst bij de precieze perceelindeling en voorwaarden hun definitieve keuze 
+kunnen maken. Voor Penetratietesten en Red Teaming geldt dat men overwegend in beide 
+delen geïnteresseerd zijn. 
+ 
+We zien een dat een aantal partijen op alle onderwerpen willen inschrijven en andere partijen 
+bewust kiezen voor een selectie van onderwerpen waar ze bewezen ervaring of schaalbare 
+capaciteit hebben. Het aantal onderwerpen waarop een marktpartij wil inschrijven is een 
+indicatie over de mate waarin een marktpartij een meer of minder gespecialiseerd aanbod 
+levert. De opsomming hieronder is een weergave van aantal respondenten per aantal 
+onderwerpen volgens opsomming hierover. 
+ 8 respondenten zijn geïnteresseerd in 8 onderwerpen 
+ 2 respondenten zijn geïnteresseerd in 7 onderwerpen 
+ 3 respondenten zijn geïnteresseerd in 6 onderwerpen 
+ 2 respondenten zijn geïnteresseerd in 5 onderwerpen 
+ 4 respondenten zijn geïnteresseerd in 4 onderwerpen 
+ 2 respondenten zijn geïnteresseerd in 2 onderwerpen. 
+ 2 respondenten zijn geïnteresseerd in 1 onderwerp. 
+De meest gespecialiseerde partijen richten zich op SOC-diensten, eventueel aangevuld met 
+penetratietesten. 
+ 
+Aandachtpunten: 
+ Perceelindeling en clustering is doorslaggevend voor het daadwerkelijke besluit wel/niet in 
+te schrijven. 
+ Enkele partijen vragen expliciet aandacht voor de gevolgen van ABRO en het verkrijgen 
+van een ABRO-verklaring. Tevens wordt aan opdrachtgever meegegeven om per nadere 
+overeenkomst te bepalen of ABRO van toepassing moet zijn om zo onnodige vertraging 
+en kosten te voorkomen. 
+ De inzet van internationale resources is afhankelijk van de regelgeving en eisen in de 
+aanbesteding (EER-landen; gegevenssoevereiniteit) 
+A6 – [100%] In hoeverre ziet u het effect van de ontwikkeling in de EU rond digitale 
+autonomie/soevereiniteit in de komende tijd op uw producten en dienstverlening in relatie tot 
+de onderhavig voorgenomen aanbestedingen? 
+ 
+Zorgen over afhankelijkheid van niet-Europese technologie worden herkent en erkent. De 
+toenemende relevantie in beleid en praktijk en het belang worden breed onderschreven. De 
+antwoorden lopen uiteen van partijen die stellen dat dit een grote uitdaging is tot partijen die 
+stellen dat ze er klaar voor zijn en weinig problemen voorzien. Hierbij aangetekend dat men 
+“autonomie/soevereiniteit” vanuit verschillende perspectieven benadert. Men kijkt naar de 
+locatie waar dataverwerking plaatsvindt, of gaat uit van EU-jurisdictie, dan weer zien het 
+breder zien als “in control zijn” over data en processen. Hoewel iedereen de ontwikkelingen 
+rond soevereiniteit, is niet iedereen concreet over het effect op producten en dienstverlening. 
+Het wordt gezien als een zeer complex vraagstuk. 
+Momenteel wordt door marktpartijen veel gebruik gemaakt van technologie vanuit de VS en 
+Israël, met name op het gebied van SOC, ECR/XDR en Cloud. Echte Europese alternatieven 
+acht men nog schaars en technisch/functioneel onvoldoende volwassen. 100% Europese 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 7 van 68 
+ 
+ 
+oplossingen is niet realistisch zonder in te boeten op kwaliteit, gebruikersgemak of 
+interoperabiliteit, waarschijnlijk (voorlopig) wel duurder. Diverse aanbieders hebben hun 
+infrastructuur, opslag en dienstverlening al wel ingericht binnen de EU/EER. Ook is er sprake 
+van pro-actief hostingbeleid, open source oriëntatie en gebruik van leveranciers met 
+Europese eigendomsstructuren.  
+Met name voor SOC-diensten wordt de impact van soevereiniteit als zeer groot en complex 
+gezien. Voor andere diensten zoals pentesten, Incident Response, IB-consultancy en 
+awareness-diensten is de impact minder tot beperkt: deze kunnen relatief eenvoudig binnen 
+de EUR-kaders worden geleverd.  
+Er is overheidsbeleid dat digitale soevereiniteit nastreeft en gelijktijdig is de overheid op veel 
+plaatsen zelf afhankelijk van niet-Europese diensten (Azure, AWS, etc.). Houdt daarom 
+rekening met proportionele en wederkerige eisen en wees alert op schijnzekerheid en ongelijk 
+speelveld. Soevereiniteit is immers niet gelijk aan veiligheid of kwaliteit: eisen rond 
+soevereiniteit zijn soms symbolisch of politiek gedreven en leiden niet altijd tot meer 
+veiligheid of leveringszekerheid 
+ 
+Opvallend: 
+ Enkele respondenten schrijven dat ze nauwelijks tot geen impact verwachten van de 
+ontwikkelingen rond digitale autonomie/soevereiniteit. In de meeste gevallen wordt 
+autonomie/soevereiniteit gekoppeld aan organisaties die in Europese handen zijn en 
+dataverwerkingen die binnen de EER plaatsvinden. 
+ Er is een partij die stelt dat zij 100% gebruik maken van Europese technologie en/of open 
+source. 
+ 
+Aanbevelingen: 
+ Maak eisen rond digitale autonomie expliciet, onderbouwd, meetbaar en realiseerbaar 
+zijn. Benoem concreet waar ze betrekking op hebben: dataopslag; eigendom, locatie van 
+personeel, juridische jurisdictie, technologiepartners, etc. 
+ Verschillende partijen pleiten voor realisme en consistentie. Als afnemers zelf afhankelijk 
+zijn van een niet-EU dienst/Cloud/infra, moet dit worden meegewogen bij het stellen van 
+eisen aan leveranciers.  
+ Gezien de huidige stand van zaken kan het verstandig zijn om eisen gefaseerd op te 
+bouwen. Bijvoorbeeld: per direct: minimale eisen rond dataopslag (EER) en transparantie 
+over de keten; later: voorkeur voor EU-gebouwde technologie of open source tooling; en 
+in de toekomst: EU-only leveringsmodel en naleving van EUCS of nationale certificering. 
+ 
+A7 – [100%] Bij deelnemers is Nederlands, zowel schriftelijk als mondeling, de voertaal. In 
+hoeverre verwacht u dat het eisen van de Nederlandse taal als voertaal een beperking is voor 
+de gevraagde dienstverlening en mogelijk marktpartijen weerhoudt om in te schrijven? 
+ 
+Uit de reacties blijkt een genuanceerd beeld over het hanteren van Nederlands als voertaal 
+binnen informatiebeveiligingsdiensten. De meerderheid van de marktpartijen kan in de 
+huidige situatie hieraan voldoen, maar een goot deel benoemt ook potentiële beperkingen of 
+risico’s wanneer deze eis strikt en zonder uitzonderingen wordt gehanteerd. Nadelige 
+gevolgen op prijs, beschikbaarheid en inzet van expertise. Er zijn ook partijen voor een 
+dergelijke taal-eis het inschrijven op de aanbesteding in de weg staat. 
+Over het algemeen onderschrijft men het belang van begrijpelijke communicatie, juridische 
+borging, en aansluiting op de context van Nederlandse overheden. Tegelijkertijd klinkt de 
+waarschuwing voor de beperkende werking van een strikte taal-eis, met name voor 
+specialistische of internationaal georiënteerde diensten zoals: SOC/SIEM, Red Teaming, 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 8 van 68 
+ 
+ 
+Threat Intelligence en Incident Response. Cybersecurity expertise is schaars, vooral 
+Nederlandstalige experts in nichegebieden. Engels is nu eenmaal de standaardtaal in de 
+internationale IT- en securitywereld en internationale of Engelstalige specialisten zijn vaak 
+nodig zijn om hoogwaardige diensten te kunnen leveren. Een strikte taal-eis leidt mogelijk tot 
+hogere kosten, verminderde kwaliteit of beperkte beschikbaarheid. 
+Een genuanceerde toepassing van de taal-eis zou werkbaar kunnen zijn, zoals het 
+contractueel en klantgericht contact in het Nederlands, met technische uitvoering deels in het 
+Engels;  Generieke kwalificatie van rollen/functies (bv. alleen klantgerichte rollen vereisen 
+Nederlands); Bepaalde rapportage verplicht in het Nederlands, uitvoering flexibel; eventueel 
+werken met taalniveaus (bijv. C1/C2-niveau Nederlands als eis). Het taalvereiste kan ook per 
+opdracht of dienst worden afgewogen (flexibele toepassing binnen een overkoepelend 
+contract). 
+Terzijde: er wordt in vergelijkbare zin erop gewezen dat ook de VOG/integriteitsverklaringen 
+kunnen zorgen voor een geografische kader/begrenzing. 
+ 
+ 
+ 
+3.1 Penetratietesten 
+ 
+Op het onderwerp Penetratietesten zijn in de marktraadpleging 15 vragen gesteld (P1 t/m P15). 
+19 Respondenten (bedrijven) hebben hierop hun antwoorden gegeven. Hiernaast heeft het 
+Centrum voor Criminaliteitspreventie en Veiligheid (CCV) een reactie gegeven op een deel van 
+de vragen. Hieronder treft u na elke vraag een samenvatting van de ontvangen reacties aan. 
+ 
+P1 – [100%] Wat is uw bespiegeling rond het indelen van Penetratietesten en Red Teaming 
+in afzonderlijke raamovereenkomsten en het beoogde effect daarmee op de markt en 
+opdrachtgevers? 
+ 
+Over het algemeen acht men het splitsen van Pentesten en Red Teaming logisch en 
+waardevol. Beiden kennen fundamentele verschillen in doel, aanpak, looptijd, expertise en 
+risicoprofiel. Separatie draagt bij aan marktwerking omdat nichepartijen op hun specialisme 
+kunnen inschrijven, stimuleert innovatie en meer evenwichtige concurrentie c.q. breder 
+gebruik van het marktpotentieel. Tevens biedt het de situatie dat een Red-Team ‘aan te 
+vallen’ omgevingen benaderen zonder voorkennis via andere opdrachten, zoals pentesten. 
+Anderzijds is opgemerkt dat men wel de mogelijkheid wil hebben om op beide percelen in te 
+kunnen schrijven. Eén respondent vindt samenvoegen van Pentesten en Red Teaming 
+praktischer: het voorkomt bureaucratie en geeft vollediger beeld. Het zijn vooral de grotere 
+partijen die beide type diensten in hun portfolio hebben en de wat kleinere partijen die zich 
+onderscheiden op één domein. Meerdere respondenten pleiten bij separate 
+raamovereenkomsten voor coördinatie tussen beide om overlap of hiaten te voorkomen. 
+ 
+P2 – [100%] Is binnen het domein van pentesten een binnen de markt algemeen houvast 
+van termen en typen van testen, waarmee de te leveren diensten houvast geboden kan 
+worden, zodanig dat producten concreet in concurrentie kunnen worden uitgevraagd? 
+ 
+Er is brede consensus over het bestaan van algemeen erkende termen en kaders, zoals 
+bijvoorbeeld: black box, grey box, white box en objecttypen zoals webapplicaties, 
+infrastructuur, mobiele apps, API, cloud, IoT/OT. Qua referentiekaders kan houvast worden 
+gevonden in breed gebruikte internationale standaarden, zoals: OWASP, PTES, NIST, 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 9 van 68 
+ 
+ 
+OSSTMM, CREST.Breed in de markt gebruikte referentiekaders dragen bij aandve 
+vergelijkbaarheid, eenduidigheid en concurrentie op kwaliteit. Dit laat onverlet dat termen 
+niet altijd uniform worden gebruikt met het risico op misinterpretatie en concurrentie bij time-
+boxed pentests kunnen leiden tot kwaliteitsverlies of onvergelijkbare voorstellen. Het advies 
+is om eenduidige definities op te nemen in aanbestedingsdocumenten/intakeformulieren en/of 
+te verwijzen naar bestaande bronnen (e.g. Cyberveilig Nederland, Rijksoverheids-keuzekaart 
+securitytesten). Ook is geopperd de pentests via extra classificaties van elkaar te 
+onderscheiden, zoals handmatig/geautomatiseerd, small/medium/large/special etc., zodat 
+marktpartijen beter de verwachtingen van de opdrachtgevers kunnen inschatten. 
+ 
+P3 – [100%] Beoogd is te vereisen dat de pentesten worden uitgevoerd volgens de fasering 
+van de Pentest Execution Standard (PTES) (http://www.pentest-
+standard.org/index.php/Main_Page) of, na acceptatie door de opdrachtgever, volgens de 
+fasen van een vergelijkbare erkende industriestandaard. De belangrijkste overweging hierbij 
+is de uniformiteit, volledigheid en passendheid van de PTES. Er geldt dus een uitgangspunt 
+van PTES, tenzij... Hiernaast zijn combinaties met andere meer inhoudelijke standaarden 
+toegestaan (o.a. OWASP, NIST e.a.). De vraag is of het standaard eisen van de fasering van 
+PTES bezwaarlijk kan zijn en waarom c.q in welke gevallen? Zo ja, welke alternatieve 
+standaard(en) voor de fasering van de pentest stelt u voor, in plaats van of naast de PTES? 
+ 
+PTES biedt zeker structuur, uniformiteit en transparantie, maart is ook deels verouderd 
+(laatste update meer dan 10 jaar geleden) en kan te rigide zijn voor kleine/spoedopdrachten. 
+Overwegend is met het eens dat de globale fasering in PTES gebruikt kan worden, maar er 
+vooral risico’s zijn bij toepassing van meer inhoudelijke zaken in de PTES. Er klinkt ook de 
+waarschuwing dat een te rigide gebruik van de fasering van de PTES onwenselijk is en 
+kostenverhogend kan werken. De aanbeveling is om, indien men dat wenst, PTES als basis te 
+gebruiken en te combineren met andere actuele standaarden met de mogelijkheid tot 
+afwijken waar dat passend is: flexibiliteit per opdracht wordt belangrijk geacht. Aanvullingen 
+(c.q. alternatieven) voor het combineren met PTES zijn onder andere: OWASP, NIST, 
+OSSTMM, CREST, MITRE ATT&CK, ISSAF, CIS-benchmarks. 
+ 
+P4 – [95%] Hoe kan worden ingespeeld op de verwachting van de opdrachtgever rond de in 
+te zetten capaciteit voor een concrete opdracht in relatie tot wat de leveranciers bij 
+inschrijving voor de ROK in het vooruitzicht hebben gesteld? 
+ 
+Een goed verwachtingsmanagement is essentieel, als ook een capaciteitsplanning, duidelijke 
+intake per opdracht en realistische inschatting van volume/type opdrachten. Aanbevelingen in 
+dat kader: bandbreedtes voor responstijden, (plannings)dashboards voor transparantie over 
+de te verwachten vraag, vooraf vastgelegde randvoorwaarden in ROK om extra eisen in NOK 
+te voorkomen, toepassing van sjablonen voor minicompetities. Eventuele capaciteitsgaranties 
+door een opdrachtnemer zijn afhankelijk van duidelijkheid en voorspelbaarheid van 
+opdrachtgevers over de opdrachten: het kan immers niet de bedoeling zijn dat leveranciers 
+capaciteit vrijhouden zonder dat opdrachten volgen. Er zijn abonnementsvormen toe te 
+passen met een vaste/minimale inzet per periode of om bij capaciteitspieken ruimte te 
+krijgen om opdrachten te herverdelen over andere opdrachtnemers. Wel aandacht voor 
+proportionaliteit: eisen moeten passen bij de omvang van de opdracht. 
+ 
+P5 – [95%] Wat is uw beeld bij het aantal partijen bij een raamovereenkomst? Relevante 
+elementen zijn onder andere hoeveel pentesten u zou kunnen uitvoeren, naast wat u nu al 
+doet (dus: wat u beschikbaar zou hebben voor deze ROK), dan wel het maximaal aantal 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 10 van 68 
+ 
+ 
+deelnemers dat u (gelijktijdig) kunt bedienen. Het is essentieel dat we beeld hebben van het 
+absorptievermogen in de markt is en hoe daarop evenwichtig kan worden ingespeeld. 
+ 
+Overwegend acht men een bandbreedte van 3 tot 5 partijen als realistisch en werkbaar. 
+Enkelen noemen een maximum variërend van 6 tot 11 partijen. Men ziet in de genoemde 
+maxima voldoende keuze voor opdrachtgever, een beheersbaar contract, een eerlijke 
+verdeling van het werk en het voorkomen van overbelasting van individuele leveranciers 
+gezien de potentieel grote capaciteitsvraag. Wel wordt gewaarschuwd voor te veel partijen in 
+een raamovereenkomst, wat versnippering, prijzenslag, gebrek aan voorspelbaarheid in de 
+hand kan werken. Een evenwichtige marktabsorptie kan bij een (soms hoge/piek) 
+capaciteitsvraag baat hebben bij een transparant verdeelmechanisme (e.g. roulatie of 
+proportioneel naar scope, als alternatief op de standaard minicompetitie). Ook is de 
+mogelijkheid geopperd om een beroep te kunnen doen op extra beschikbare capaciteit in het 
+buitenland, dus niet te strikt vasthouden aan voertaal Nederlands. Ook is een schaalbaar 
+model geopperd met twee lagen, waarbij de tweede laag (reserve)opdrachtnemers pas mag 
+aanbieden zodra de eerste laag niet aan de vraag kan voldoen. 
+ 
+P6 – [100%] Wanneer is een offertetraject voor u zinvol om in een mini-competitie een 
+aanbieding te doen?  
+Denk hierbij aan overwegingen als: 
+- Inkoop-inspanning vs. resultaat/rendement opdracht? 
+- (Wanneer) past een afroepcontract onder de ROK?  
+- Binnen welke kaders? 
+- Hoe past een opdracht bij het aanbod?  
+- Kans op de opdracht en het aantal opdrachtnemers in de ROK. 
+ 
+Er is consensus dat mini-competities alleen zinvol zijn bij grote of complexe opdrachten, niet 
+voor een kleine/losse pentest. De gevraagde inspanning voor het uitbrengen van een offerte 
+(meedoen aan mini-competities) moet in verhouding staan tot de opdrachtwaarde en 
+terugverdienkans. Sommige respondenten noemen een concrete minimale waarde per 
+opdracht, variërend van 15 tot 30 duizend euro. Een enkele respondent is in zijn geheel tegen 
+mini-competities. Voor standaardopdrachten: is een brede voorkeur voor afroepconstructies 
+met vaste prijzen/pakketten en/of een roulatiesysteem bij het verstrekken van opdrachten. 
+Dit geeft minder administratie, betere voorspelbaarheid, en daarmee een betere 
+capaciteitsplanning. Een verdeelsysteem van nadere opdrachten moet voldoende win-kans 
+geven, beheerlasten beperken met uniforme/gestandaardiseerde aanvraagprocessen, 
+duidelijke scope en tijdlijnen in aanvragen eisen, liefst meerdere testen bundelen in een 
+opdracht, transparant zijn in de wijze van gunning en kwaliteit belangrijker stellen dan prijs. 
+ 
+P7 – [95%] Wat is uw beeld bij prijsmodaliteiten voor pentesten qua eenheid en 
+voorspelbaarheid van totale kosten?  We gaan uit van algemeen in markt gebruikelijke 
+prijsmodaliteiten met daarin diverse vaste en verrekenbare elementen. Graag vernemen wij 
+wat daarin voor-/nadelen kunnen zijn, met name ten aanzien van vaste en verrekenbare 
+delen.  
+ 
+Vrijwel alle respondenten pleiten voor een hybride prijsmodel (vaste elementen + 
+verrekenbare delen). Vaste prijzen zijn geschikt voor standaardopdrachten (b.v. black box 
+webapplicatie, afgebakend op grootte of time boxed). Verrekenbare elementen kunnen 
+worden toegepast bij maatwerk (b.v. uitvoering buiten kantooruren, gespecialiseerde 
+testscenario’s, PoC’s, ketenanalyses), grotere scope, extra diepgang of hertesten. Met 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 11 van 68 
+ 
+ 
+betrekking tot de hertest: de definitie van een hertest moet duidelijk moet zijn, zodat het 
+helder kan worden gescheiden als standaard onderdeel van een opdracht dan wel als extra te 
+benoemen werk (alleen op eerder geconstateerde kwetsbaarheden, of wederom de gehele 
+applicatie). Enkele respondenten adviseren een dagtarief of time box als uitgangspunt, 
+gecombineerd met vaste prijsafspraken na intake. Hierbij de waarschuwing dat prijsdruk door 
+mini-competities en (uitsluitend) vaste-prijs-afspraken de kwaliteit kan ondermijnen. Wellicht 
+kan een tweeledig model baten: een vast tariefkader in de ROK en bandbreedtes per 
+opdracht in de NOK.  
+ 
+P8 – [100%] Welke informatie (inzicht) heeft u nodig van deelnemers om voor de 
+aanbesteding van de raamovereenkomst een passende inschrijving te kunnen doen? Houdt er 
+rekening mee dat er binnen de raamovereenkomst nog minicompetities uitgevoerd moeten 
+worden om de concrete opdrachten te kunnen verstrekken. In deze minicompetities kan/moet 
+meer gedetailleerde achtergrondinformatie verstrekt worden. 
+ 
+Hoe concreter en vollediger de scope en randvoorwaarden worden beschreven, hoe beter 
+leveranciers hun aanbod/capaciteit en prijs kunnen afstemmen. Idem voor het verwachte 
+aantal opdrachten per tijdsperiode of jaar (evt. verdeeld over type pentests en deelnemers, 
+abonnementsvormen), type systemen (web, infra, API, Cloud, mobiel, OT), omvang (bijv. 
+aantal IP’s), verwachte doorlooptijd en specifieke doelstellingen of compliance-eisen (bijv. 
+BIO, NIS2, bepaalde standaarden). Aanvullend is ook relevant: veiligheids(screenings)- of 
+VGB-eisen, mate van onsite-werk (op locatie), voorbeeldcasussen, duidelijk omschreven 
+deliverables en randvoorwaarden (eisen aan rapportages, toe te passen standaarden, 
+personeel). 
+ 
+P9 – [100%] Welke ervaring heeft uw organisatie met vrijwaringsverklaringen die nodig zijn 
+bij de start van een pentest, maar door betrokkenen niet tijdig genoeg ondertekend worden 
+en de start van een pentest ophouden? Welke aandachtspunten en/of tips kunt u meegeven? 
+ 
+Veel respondenten herkennen dat vrijwaringsverklaringen vaak vertraging bij opdrachtgevers 
+veroorzaken door late juridische afstemming of onduidelijkheid over tekenbevoegdheid. Bij 
+testen in systemen van derden kan dat bijzonder lastig zijn. Enkelen achten het dan ook reëel 
+dat kosten van vertraging door opdrachtgever mogen worden doorbelast. Veel kan worden 
+voorkomen met standaardisatie (standaardverklaring op ROK-niveau) en duidelijke afspraken 
+vooraf over verantwoordelijkheidsverdeling (eventueel richting een doorlopende 
+vrijwaringsverklaring op ROK-niveau met automatische werking of aanvulling op NOK-niveau) 
+en eenduidige escalatielijnen. Daarnaast het bewustzijn creëren bij opdrachtgevers om bij 
+een eventuele derde partij tijdig aandacht te vragen voor de vrijwaringsverklaringen 
+(minimaal 2-4 weken voor start/intake pentest initiëren). Liefst wordt de opdracht ingepland 
+na het doorlopen van het vrijwaringsproces en ontvangst van de vrijwaring. 
+ 
+P10 – [95%]Zijn er pentesters/dienstverleners die al rekening houden met AI en Quantum 
+cryptografie componenten bij pentesten? Hoe zou u deze elementen in een marktbenadering 
+(aanbesteding) zinvol ingebed zien? 
+ 
+De meeste partijen houden rekening met AI (phishing, exploitatie) en quantum 
+(cryptografie), al ziet men dit nu nog niet als standaard c.q. dagelijkse praktijk, maar wel 
+relevant als optioneel (risicoanalyses en advisering) toekomstgericht thema, zowel als 
+onderdeel van de testmethodologie als testobject. Het advies is het opnemen als 
+differentiator of optioneel specialisme in de aanbesteding (minicompetities) of 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 12 van 68 
+ 
+ 
+innovatietrajecten, zodat de ROK toekomstgericht blijft zonder drempels onnodig te 
+verhogen. Als concrete suggesties wordt gegeven: cryptoregistratie als voorbereiding op 
+post-quantum cryptografie en integratie van AI-kwetsbaarheden in rapportages. 
+ 
+P11 – [100%] Is het vereiste van een CCV-keurmerk of gelijkwaardig nuttig als 
+geschiktheidseis (knock out)? Zo ja waarom, zo nee waarom niet? 
+ 
+Men is verdeeld over het gebruik van CCV-keurmerk Pentesten. Het keurmerk of een  
+vergelijkbare accreditatie kan dienen als kwaliteitsfilter, maar ook onnodig (grotere, 
+internationale) partijen mogelijk uitsluiten en kostenverhogend werken.  
+Circa 16% van de respondenten vindt het CCV-keurmerk nuttig (kwaliteit waarborg, uniform 
+kader) en benoemen geen nadelen. 
+Circa 42% van de respondenten raadt het eisen van een CCV-keurmerk (of gelijkwaardig) af: 
+ze vinden het te beperkend en geen nuttig vereiste, het sluit (onnodig) goede en grotere, 
+internationale partijen uit. De kwaliteit van pentesten zit vooral in mensen/methodiek en 
+rapportagekwaliteit; minder in een keurmerk dat dan een schijnzekerheid geeft over de 
+kwaliteit. Ook zijn vereisten van CCV-keurmerk soms conflicterend met klantvereisten (met 
+name rond geheimhouding) en/of ze vinden het keurmerk onnodig kostenverhogend. Zij 
+pleiten vooral voor het stellen van inhoudelijke eisen en wensen, zonder keurmerk of 
+accreditatie. 
+De overige 42% aan respondenten benoemen zowel voor- als nadelen van het CCV-
+keurmerkvereiste. Men waarschuwt voor te strikte toepassing van het CCV-keurmerkvereiste 
+en benadrukken het nut/ de noodzaak om ruimte te houden voor alternatieven (‘CCV of 
+gelijkwaardig’), met soms alternatieve certificeringen als voorbeelden (CREST, ISO 17025, 
+ISO 9001/27001 + specifieke aanvullingen voor pentesten, OSCP, CHECK (Brits), ANSSI 
+(Frans) of ENS (Spaans)) of anders (indien de lat lager gelegd wordt) het keurmerk als 
+zwaarwegend subgunningscriterium te gebruiken. 
+ 
+P12 – [90%] Welke subgunningscriteria kunnen naar uw beeld het beste worden ingezet in 
+de keuze van opdrachtnemers voor de raamovereenkomst? En welke subgunningscriteria stelt 
+u dan voor mededinging (minicompetities) bij de verstrekking van nadere overeenkomsten 
+voor?  
+ 
+In de ROK (raamovereenkomst) is het zinvol de nadruk te leggen op kwaliteit methodiek 
+(PTES, OWASP) en afstemming hierover, ervaring/referenties, aantoonbare expertise en 
+(toekomstgerichte) ontwikkeling/borging van expertise, security maturity en 
+beveiligingsmaatregelen, certificering, continuïteit en flexibiliteit/schaalbaarheid en soms 
+innovatie (AI, automatisering). In de NOK (nadere overeenkomsten) kan de nadruk liggen op 
+een concreet plan van aanpak, beschikbaarheid en doorlooptijd, passende expertise in team, 
+prijs/prestatie en aansluiting op specifieke scope, risico’s en context. Ook specifieke 
+toegevoegde waarde (tooling, rapportage, ondersteuning), afstemming op volwassenheid 
+opdrachtgever en innovatie is genoemd. Men geeft ook mee de prijs beperkt te wegen ten 
+opzichte van de kwaliteit. Er worden suggesties gedaan voor proeven van bekwaamheid 
+(praktijktest), casusopdrachten en voorbeeldrapportages. Ook toepassing van meer 
+interactieve vormen zijn genoemd (discussies, uitwisseling van ideeën, workshops, 
+bevindingen meeting etc.). Een paar respondenten adviseren in het geheel geen 
+minicompetities te houden, maar bijvoorbeeld een roulatiesysteem toe te passen. 
+ 
+P13 – [100%] In bijlage 2 bij dit document treft u een conceptversie van het programma van 
+eisen aan. Bij de totstandkoming van deze versie van het programma van eisen is gebruik 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 13 van 68 
+ 
+ 
+gemaakt van de Methodiek voor Informatiebeveiligingsonderzoek met Audit Waarde 
+(MIAUW), waarin suggesties voor inkoopeisen voor pentesten zijn opgenomen, maar zijn ook 
+aanvullingen en aanpassingen op MIAUW gemaakt om beter tegemoet te komen aan de 
+diversiteit van behoeftes van betrokken Deelnemers. 
+Wat vindt u van de voorliggende conceptversie van het programma van eisen? Bij uw 
+beantwoording gaat u bij voorkeur in op de volgende subvragen: 
+a. Welke eisen moeten naar uw mening vervallen of afgezwakt worden om te voorkomen 
+dat u en/of andere potentiële inschrijvers hier niet aan kunnen/willen voldoen (verlagen 
+instapniveau)? Motiveer uw antwoord. 
+b. Welke eisen moeten naar uw mening nog toegevoegd of strikter gesteld worden om 
+risico’s voor Deelnemers te beperken/minimaliseren (verhogen instapniveau)? Motiveer 
+uw antwoord. 
+c. Welke andere suggesties wilt u doorgeven? 
+ 
+Het concept Programma van Eisen (PvE) is een goede basis, maar veel respondenten vinden 
+het zwaar in detail en met veel administratieve (rapportage)eisen. Dit wordt regelmatig als 
+nadeel van MIAUW genoemd. Respondenten vragen om verlichting van overbodige of 
+verouderde eisen, versterking van kwaliteit en opvolging, en een pragmatische, proportionele 
+aanpak die bruikbaarheid vooropstelt. Te verlagen of schrappen eisen: 
+ De verplichting om zeer uitgebreide detailplannen (zoals testcases of alle technische 
+stappen) vooraf op te leveren is soms disproportioneel, zeker bij kleine opdrachten of 
+spoedtrajecten. Dit leidt tot bureaucratie, vertraging en beperkt de flexibiliteit die vaak 
+juist nodig is bij pentesten. Ook is suggestie gedaan meer ruimte te zoeken om de 
+vergaande afstemming voor start pentest te verplaatsen na aanvaarding scope (plan van 
+aanpak). Probeer administratieve lasten te beperken, o.a. door bondiger plan van 
+aanpak.  
+ Sommige eisen schrijven dwingend voor dat rapportages exact een bepaalde indeling 
+moeten volgen, wat de creatieve en inhoudelijke vrijheid van testers beperkt. 
+Leveranciers willen hun rapportage kunnen afstemmen op specifieke klantbehoeften.  
+ De handtekening rapporteur zou volgens enkele respondenten niet nodig zijn, de 
+rapportage is bedrijfsverantwoordelijkheid. Een ander vindt de versiebeheertabel een 
+voldoende vervanging van de handtekening. Een respondent vindt het belangrijk om geen 
+namen van de overige personen die betrokken zijn bij het onderzoek te benoemen in een 
+rapport dat openbaar kan komen, om hen hiermee te beschermen.  
+Handtekening van externe peer reviewer is m.n. bij gerubriceerde informatie 
+problematisch. 
+ Standaarden en methodieken: Maak duidelijk maken dat er ruimte is voor gelijkwaardige 
+methodieken naast de reeds genoemde, eventueel onderbouwd, maar schrijf de 
+methodieken niet normatief en limitatief voor. Een respondent waarschuwt voor het 
+stapelen van allerlei normenkaders en adviseert een leidende te kiezen.   
+ Certificeringen personen: geef meer ruimte en sta gelijkwaardige alternatieven toe, 
+inclusief aantoonbaar gelijkwaardige ervaring. Overweeg verwijzing naar (standaard) de 
+laatste versie van het kwalificatieschema van CCV (keurmerk pentesten).  
+Certificeringsvereisten van de eindverantwoordelijke rapporteur(s) loslaten, maar aan de 
+uitvoerende testers koppelen. Sommige vinden het goed dat bewijsmiddelen gevraagd 
+worden, een enkele vindt dat dit niet per opdracht maar centraal geregeld moet worden. 
+ Sta voor technische inhoud ook Engels toe (niet alleen NL). 
+ Assume breach past slecht bij blackbox pentesten. Zet deze selectief in bij grey- en 
+whitebox. 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 14 van 68 
+ 
+ 
+ Eisen die nog SHA-1 hashes of classificaties voorschrijven worden als verouderd 
+beschouwd en voegen weinig waarde toe. SHA-2/3 of moderne hash-methoden zijn de 
+huidige standaard. Overweeg selectievere toepassing, b.v. alleen waar onweerlegbaarheid 
+van informatie essentieel is voor de uitkomsten.  
+ De CIA-classificatie per bevinding is vaak te gedetailleerd, tijdrovend en niet altijd 
+relevant; opdrachtnemers geven de voorkeur aan flexibeler risicoclassificatie (bijv. 
+CVSS). Naast CVSS-score ook kans x impact? Overzicht door opdrachtgever aangeleverde 
+CIA-scores in managementsamenvatting lijkt wat te theoretisch. 
+ Verplichte bijlagen/bestanden: De (ruwe) scanoutput wordt vaak gezien als overbodig en 
+belastend. Het voegt vaak geen meerwaarde toe voor de opdrachtgever en leidt tot dikke 
+rapporten met beperkte bruikbaarheid. Beschrijving alle ontvangen bestanden en 
+documenten (inclusief hashes) ook daarom alleen op verzoek opdrachtgever. Een 
+respondent vindt de checklist per standaard onnodig kostenverhogend. 
+ Tijdlijn: niet altijd nodig, overweeg alleen kritieke acties, alleen testperiode of volledig 
+weg te laten. Minder gebruikelijk. Maakt evt. detailniveau van tijdslijn helder.  
+ Bewijslast: niet altijd mogelijk, kijk naar inspanningsverplichting. 
+ Een Root-cause-analyse is niet altijd zinvol en reëel (bij te weinig diepgang en context). 
+ Documenteren toegangswegen: geen aanpassing testobject, scope en data, is b.v. alleen 
+al door wijziging logbestand of sessietoken niet mogelijk, ook alle (soms duizenden) 
+kwetsbaarheden uit automatische test handmatig verifiëren is te strikt.  
+Verplichte vulnerability disclosure via NCSC verruimen, om uitsluiting van internationaal 
+erkende disclosure processen te voorkomen. Sluit aan bij CVE-standaard. 
+ Delen rapport met derden kan niet zonder afspraak met opdrachtnemer.  
+ Verwerkersovereenkomst alleen opstellen/voorschrijven als die juridisch noodzakelijk is. 
+ Intake hoeft niet per se binnen 5 werkdagen. Geef meer ruimte. Maak ook duidelijker 
+wanneer de termijn start. 
+Strikter te stellen eisen of toe te voegen eisen: 
+1. Een pentest levert pas waarde als bevindingen ook leiden tot verbeteringen. Daarom 
+moet opvolging en advisering nadrukkelijk onderdeel zijn van de opdracht, bijvoorbeeld 
+verplichte hertesten of validatie van mitigaties.  
+Opdrachtnemers kunnen (optioneel) ook adviseren met leerrapporten of thema’s met 
+onderliggende oorzaken. 
+2. Enkele respondenten vinden dat eisen moeten worden aangescherpt om nieuwe 
+dreigingsvormen (AI-gegenereerde aanvallen, deepfakes, geautomatiseerde exploit 
+generatie) te kunnen adresseren. 
+3. Voor een deugdelijke risico-inschatting is het zaak toelichting verlangen bij elke 
+bevinding. 
+4. Vraag om meer transparantie van opdrachtnemers over te gebruiken tools 
+5. Stel strengere eisen aan de vaardigheden van testers (bijvoorbeeld OSCP, OSEP of 
+vergelijkbare certificaten) om kwaliteit en betrouwbaarheid te waarborgen.  
+Een respondent adviseert duidelijkere eisen te stellen aan het door opdrachtnemers 
+verder mogen uitbesteden (aan onderaannemers), om het risico op onvoldoende 
+kwaliteitstoezicht te beperken. 
+6. Scope-onderdeel: OT als afzonderlijk toepassingsgebied opnemen. 
+7. De eisen voor veiligheidsscreening (VGB) en omgang met gerubriceerde informatie 
+moeten duidelijker en uniformer worden vastgelegd, zodat leveranciers vooraf weten 
+waaraan ze moeten voldoen. Opdrachtgever zou veiligheidsscreening moeten faciliteren 
+en betalen.  
+Een respondent adviseert om screening en vrijwaring op ROK-niveau vast te leggen. 
+Overweeg voor gevoelige omgevingen specifiekere afspraken over gegevensverwerking 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 15 van 68 
+ 
+ 
+(o.a. versleuteling, bewaartermijn en bewijs van veilige verwijdering) en om opslag en 
+verwerking van hoger gerubriceerde gegevens vanuit opdrachtgever te faciliteren. Let ook 
+op toepassing Nederlandse jurisdictie in plaats van die van het land van de fysieke locatie 
+van de test. 
+Overige suggesties: 
+ Eisen moeten uitvoerbaar en kostenefficiënt zijn, en niet leiden tot onnodige 
+administratieve lasten. Kleine opdrachten moeten eenvoudiger kunnen worden ingericht.  
+ De nadruk moet liggen op duidelijke, praktisch toepasbare rapportages met bruikbare 
+resultaten en aanbevelingen in plaats van juridisch-formele eisen die weinig toevoegen. 
+Overweeg hiernaast een eis van kwaliteitscontrole voor oplevering rapportage. 
+ Voor opdrachten die staatsgeheime informatie raken, moet de opdrachtgever de speciale 
+infrastructuur en juridische borging faciliteren. Leveranciers beschikken daar meestal niet 
+over.  
+ Leveranciers zien graag een gemeenschappelijk kader, maar met de mogelijkheid om aan 
+te sluiten bij specifieke klantbehoeften en sectorspecifieke eisen (bijvoorbeeld in zorg of 
+financiële sector). Een respondent vindt vooral gemeenschappelijke consistentie van 
+belang (geen afwijkingen tussen opdrachtnemers toestaan), waarbij wellicht na een pilot-
+fase bekeken kan worden welke rapportage-eisen aanpassing behoeven.  
+Verduidelijk terminologie, m.n. rol intake en start test. 
+ Stimuleer samenwerking tussen lokale en wereldwijde expertise. 
+ Specificeer een indicatief tijdbudget per testtype. Dit ondersteunt uniform beoordelen en 
+voorkomt te lage biedingen met weinig diepgang. 
+ 
+P14 – [100%] Als bijlage 2 bij dit document treft u een conceptversie van het programma 
+van eisen aan. Bij dit programma van eisen is een modelrapportage gevoegd. Deze 
+modelrapportage kent een standaard opzet/indeling, gebaseerd op de diverse eisen. Bij 
+toekomstige verstrekking van een opdracht (pentest) wordt verwacht dat een opdrachtnemer 
+op basis van de uitgevoerde pentest een rapportage oplevert, conform de vastgestelde 
+modelrapportage, met standaard hoofd- en paragraafindeling. Dit model moet zorgen voor 
+uniformiteit, transparantie, compleetheid van de rapportage en reproduceerbaarheid van het 
+onderzoek.  
+Opdrachtgever kan nieuwe versies van dit model vaststellen, die opdrachtnemer daarna dient 
+toe te passen. Opdrachtnemer heeft tijdens de looptijd van de raamovereenkomst de 
+mogelijkheid suggesties aan opdrachtgever te geven voor verbetering van het model. 
+Afwijking van dit model is alleen toegestaan na schriftelijke goedkeuring van Deelnemer, 
+overeen te komen in het plan van aanpak (pre-engagement) van een pentest. 
+a. Wat vindt u van de opzet (indeling) van de huidige versie van de modelrapportage?  
+b. Welke wijzigingen moeten naar uw mening in de modelrapportage doorgevoerd 
+worden (toevoegingen, wijzigingen, verwijderingen)? 
+ 
+Een modelrapportage wordt nuttig geacht voor uniformiteit, vergelijkbaarheid, auditwaarde 
+en transparantie, reproduceerbaarheid, bruikbaarheid voor technische en niet-technische 
+stakeholders. Opdrachtgevers kunnen dan ook eenvoudiger benchmarken en trends 
+analyseren. Een eenduidige structuur helpt ook toezichthouders en audits. Er is niettemin een 
+minderheid die voorstelt geen modelrapportage te gebruiken en eventueel alleen de te 
+adresseren onderwerpen in de rapportage voor te schrijven. 
+Belangrijkste verbeterpunten: 
+ Toevoegen: duidelijke managementsamenvatting met kernbevindingen en 
+risicogroepering, sectie met strategische aanbevelingen, een trendanalyse (bijvoorbeeld 
+herhaalde kwetsbaarheden of structurele problemen), mogelijk ook met sectie over 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 16 van 68 
+ 
+ 
+detectie- en responscapaciteit (hoe goed is een organisatie erin geslaagd aanvallen te 
+signaleren of te stoppen).  
+ Aanpassen: meer flexibiliteit om rapportages op klantsituatie af te stemmen, niet een 
+verplicht format hanteren. Na sluiten raamovereenkomst met opdrachtnemers een 
+gedragen rapportageformat bepalen. Aparte sectie opnemen voor verantwoording over 
+hulpmiddelen en detectiemethodiek, expliciete verwijzing naar gebruikte 
+standaarden/methodieken per fase. 
+ Verwijderen/verlichten: Reacties komen overeen met die op de vorige vraag (P13). 
+Verplichte (ruwe) scanoutput, te gedetailleerde bijlagen, leiden tot overmatig lange 
+rapportages. Dit leidt soms tot onnodig dikke rapporten (hogere kosten), details worden 
+vaak niet gelezen, zorg dat de informatie beter aansluit bij de doelgroep. Meer optioneel. 
+Beheer van testresultaten, w.o. afspraken over versleutelde opslag en bewaartermijnen, 
+niet in rapportage. Idem voor checklists per standaard en beschrijving van hulpmiddelen, 
+inclusief URL’s. Namen en certificeringen van uitvoerende testers ter bescherming van 
+hun privacy niet verplicht opnemen. Tijdslijn met uitgevoerde acties optioneel. Apart 
+hoofdstuk conclusies kan evt. vervallen, want generieke conclusies over de veiligheid 
+kunnen vaak niet getrokken worden op basis van een pentest, bovendien kunnen 
+aanbevelingen in samenvatting. 
+ Taalgebruik: rapportage in Engels toestaan met Nederlandse samenvatting, om 
+internationale partijen niet uit te sluiten. 
+Een modelrapportage is overwegend gewenst en nuttig, mits flexibel, beknopter en 
+bruikbaarder gemaakt voor verschillende doelgroepen. Kernbevindingen en bruikbare 
+aanbevelingen moeten centraal staan, terwijl overbodige of te gedetailleerde onderdelen 
+optioneel/facultatief moeten worden. 
+ 
+P15 – [50%] Hieronder is ruimte voor uw eventuele aanvullende reactie. 
+Enkele partijen voegen extra aandachtspunten toe die buiten eerdere vragen vallen: 
+ Integratie met bredere securityprocessen: koppeling met (security) monitoring (NDR), 
+assetmanagement/CMDB en centrale security dashboards. 
+ Her-testen/remediatie validatie: standaardoptie voor borging mitigatie (sluiten 
+kwetsbaarheden). 
+ Veilige overdracht van testresultaten: via documentbeheersystemen. 
+Sommige partijen herhalen eerdere punten, w.o. de gewenste splitsing pentesten/red 
+teaming; PTES bruikbaar mits flexibel; afraden van minicompetities; beperken van bewijs- en 
+rapportagelast (nadeel MIAUW). 
+Verdere aanvullingen gaan vooral over borging, opvolging en integratie in bredere security. 
+ 
+ 
+3.2 Red Teaming  
+ 
+In totaal hebben 18 partijen op het deel Red teaming gereageerd, waarvan 11 vaak uitgebreid 
+antwoord of toelichting geven. 
+ 
+R1 – [100%] Hoe kunnen we inspelen op verwachting rond in te zetten capaciteit in de 
+uitvoering en dat wat als verwachting door de leverancier is opgegeven voor de ROK, 
+gegeven de schaarste aan ART/TIBER ervaring in de markt en de grote vraag bij organisaties 
+(met name financiële instellingen vanuit DORA-regelgeving)? 
+ 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 17 van 68 
+ 
+ 
+Een meerderheid onderschrijft de schaarste in beschikbare capaciteit in de markt voor Red 
+Teaming, mede door DORA/TLPT . Coördinatie van (voorgenomen/in het vooruitzicht 
+gestelde) Red Teaming tests binnen de overheid in combinatie met een (binnen grenzen) 
+concrete planning (o.a. ruim vooraf) kunnen helpen de opdrachten in de markt te absorberen. 
+Ook wordt in overweging gegeven om de schaarste te beperken door toegangsdrempels iets 
+te verlagen.   
+ 
+R2 – [100%] Wat is uw beeld bij het aantal Red Teaming-partijen bij een 
+raamovereenkomst? Relevante elementen zijn onder andere hoeveel ART/TIBER testen u zou 
+kunnen uitvoeren, naast wat u nu al doet (dus: wat u beschikbaar zou hebben voor deze 
+ROK), dan wel het maximaal aantal deelnemers dat u (gelijktijdig) kunt bedienen. Het is 
+essentieel dat we een beeld hebben van het absorptievermogen in de markt is en hoe daarop 
+evenwichtig kan worden ingespeeld. 
+ 
+Een aantal van circa 6 partijen wordt genoemd. Grotere aantallen lijken de voorkeur te zijn 
+van mogelijk nieuwe toetreders. Ook nu wordt het belang van planning benoemd. 
+ 
+R3 – [95%] Heeft u suggesties op welke wijze de beoogde aanbesteding voor een 
+raamovereenkomst naar uw inzicht kan bijdragen aan het vergroten van het speelveld van 
+marktpartijen die ervaring hebben met het ART/TIBER, voor partijen die dat bij inschrijving 
+op de aanbesteding niet hebben? Wat zijn dan de essentiële kwaliteitsaspecten van een 
+inschrijver zonder ART/TIBER ervaring, die  bij eventuele gunning van de raamovereenkomst 
+wel opdrachten van deelnemers voor Red Teaming testen conform ART of TIBER op 
+kwalitatief beoogde wijze moeten kunnen uitvoeren? 
+ 
+Er is draagvlak voor het meenemen van Red Teaming-ervaring anders dan TIBER/ART in de 
+gunningcriteria. Daarnaast is het advies te werken met een groeimodel. 
+ 
+R4 – [100%] In bijlage 3 bij dit document treft u een conceptversie van het programma van 
+eisen aan op basis van ART/TIBER. 
+Wat vindt u van de voorliggende conceptversie van het programma van eisen? Bij uw 
+beantwoording gaat u bij voorkeur in op de volgende subvragen: 
+a. Welke eisen moeten naar uw mening vervallen of afgezwakt worden om te 
+voorkomen dat u en/of andere potentiële inschrijvers hier niet aan kunnen/willen 
+voldoen (verlagen instapniveau)? Motiveer uw antwoord. 
+b. Welke eisen moeten naar uw mening nog toegevoegd of strikter gesteld worden om 
+risico’s voor Deelnemers te beperken/minimaliseren (verhogen instapniveau)? 
+Motiveer uw antwoord. 
+Welke andere suggesties wilt u doorgeven? 
+ 
+Hier wordt gepleit voor een aantal versoepelingen, zoals de NL taal-eis, rapportage, 
+VOG/VGB, te gebruiken templates et cetera. 
+ 
+R5 – [90%] Welke subgunningscriteria dragen volgens u het beste bij aan de keuze van een 
+ROK-partner en welke voor de NOK? 
+ 
+Genoemde voorstellen voor subgunningscriteria richten zich op de individuele expertise, de 
+(gezamenlijke) kwaliteit van teams en relevante ervaring.  
+ 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 18 van 68 
+ 
+ 
+R6 – [90%] Welke subgunningscriteria dragen volgens u het beste bij aan de keuze voor een 
+Threat Intelligence Provider? 
+ 
+Diverse suggesties gedaan die nogal uiteenlopen. Deze zijn waardevol om nader te bekijken 
+voor de rol van de Threat Intelligence-provider als deze onderdeel uitmaakt van een Red 
+Teaming-opdracht.  
+ 
+R7 – [65%] Hieronder is ruimte voor uw eventuele aanvullende reactie. 
+ 
+Een divers beeld, waarbij partijen soms voorstellen de (toetredings-)drempels van de TIBER-
+standaard te verlagen. Verder wordt afstemming met andere sectoren (e.g. de financiële 
+sector) benoemd om capaciteit in de markt over Red teaming opdrachten te verdelen. 
+ 
+ 
+3.3 SOC-diensten 
+ 
+S1 – [95%] Is de duiding van type M&D/KS&R-diensten herkenbaar en sluit deze aan op door 
+u te leveren producten? Zijn er ontbrekende diensten? 
+ 
+De huidige duiding van M&D en KS&R diensten wordt breed herkend en vormt een solide 
+basis. Tegelijkertijd adviseren meerdere marktpartijen om actuele ontwikkelingen en 
+moderne SOC-functionaliteiten explicieter in de scope mee te nemen. Dit draagt bij aan 
+toekomstbestendige, geïntegreerde en effectieve dienstverlening. 
+De modulaire opbouw wordt overwegend als positief ervaren — marktpartijen herkennen en 
+waarderen de opzet van de markconsultatie die uitgaat van een ‘startpakket’ en ‘aanvullende 
+diensten’. Er is nog wel behoefte aan verduidelijking rond het startpakket versus aanvullende 
+diensten, vooral m.b.t. SIEM en logmanagement. Een aantal partijen vraagt brede aandacht 
+voor aanvullende beveiligingslagen (e-mail, identiteit, web, remote access), wat de 
+traditionele M&D/KS&R scope verbreedt. 
+ Veel partijen herkennen de basisdiensten terug in hun portfolio, zoals 24/7 monitoring, 
+incident response, vulnerability management, threat intelligence, en integratie met 
+diverse IT-omgevingen (on-prem, cloud, endpoints). 
+ De beschrijvingen van M&D en KS&R sluiten aan bij moderne SOC-aanpakken, vaak 
+gebaseerd op frameworks als NIST-CSF. 
+ Diverse aanbieders bieden modulaire en schaalbare diensten aan, afgestemd op 
+klantbehoefte en maturity. 
+ Er is herkenning van onderscheid tussen detectie/rapportage (MSSP) en beheer/mitigatie 
+(MSP), wat cruciaal is voor duidelijke rolverdeling. 
+ Verschil en samenhang tussen startpakket en aanvullende diensten: meerdere 
+marktpartijen vragen verduidelijking over het onderscheid tussen bijvoorbeeld SIEM in 
+het startpakket versus Security Log Management als aanvullende dienst. 
+ Incident Response en Threat Intelligence worden soms als zelfstandige IB-diensten 
+geplaatst. Men hecht eraan het belang van integratie van deze componenten in SOC-
+diensten te benadrukken. 
+ 
+Breed geadviseerde aanvullende of meer actuele dienstcomponenten: 
+ Continue risicobeoordeling en integratie van CTI (Cyber Threat Intelligence) - Monitoring 
+van dreigingsinformatie en het vertalen daarvan naar detectie- en responsacties 
+(Continuous Threat Exposure Management, CTEM). 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 19 van 68 
+ 
+ 
+ Exposure Management en Attack Surface Management (ASM/CAASM) - Proactief inzicht 
+en beheer van de aanvalsvlakken (exposure) en kwetsbare assets. 
+ Automatisering van respons (SOAR) - Geautomatiseerde responsprocessen en playbook-
+gedreven workflows binnen afgesproken service windows. 
+ Beheer en optimalisatie van SOC- en SIEM-platformen - Engineering, tuning en 
+doorontwikkeling van detectieregels en platformen als aparte dienstcomponenten. 
+ Threat Hunting en Behavioral Analytics - Proactieve detectie van onbekende of 
+geavanceerde dreigingen door analyse van gedrag en anomalieën. 
+ Bescherming en monitoring van aanvullende aanvalsvectoren - Specifiek genoemd: e-
+mailbeveiliging en monitoring, identiteitsmonitoring (o.a. lekken van credentials), 
+webverkeer en remote access monitoring. Ook OT/IoT-monitoring wordt door enkele 
+partijen als belangrijk en toekomstgericht genoemd. 
+ Breach and Attack Simulation (BAS) - Tools en diensten voor het continu testen van 
+effectiviteit van controls en detectiemaatregelen. 
+ 
+Specifieke aanvullingen: 
+ Onderscheid tussen detectietechnieken (NDR, EDR, SIEM) en let ook op technieken die nu 
+lijken te ontbreken, zoals honeypots en applicatiebewaking. 
+ Belang van SIEM-integratie en extra diensten zoals malware-analyse en 
+gebruikersgedreven threat reporting. 
+ 
+S2 – [95%] Kunt u dienstverlening bieden volgens de opzet van M&D-diensten met daarin 
+een Startpakket en aanvullende diensten en ziet u dit ook als handzame opzet voor 
+organisaties om snel met een SOC te kunnen beginnen met mogelijkheden tot groei? Dit ook 
+ten aanzien van het eenmalig in minicompetitie komen in de context van een 
+raamovereenkomst. 
+ 
+De overgrote meerderheid van de respondenten geeft aan dienstverlening te kunnen bieden 
+conform de voorgestelde opzet van een startpakket met aanvullende diensten. Deze 
+modulaire werkwijze wordt breed herkend als werkbaar en praktisch, met name in combinatie 
+met een raamovereenkomst waarin via een eenmalige minicompetitie gunning plaatsvindt. 
+De modulaire opzet goed aansluit bij de marktvraag: organisaties kunnen snel starten met 
+basisfunctionaliteit, laagdrempelig instappen (variërend van instapniveau tot high-end SOC-
+functionaliteit, inclusief use case-uitbreiding, CTEM, SOAR, etc.), en de dienstverlening 
+vervolgens gefaseerd uitbreiden/groeien. Het biedt voorts flexibiliteit en aanpasbaarheid aan 
+klantspecifieke infrastructuur, maturity en dreigingsbeeld. Deze aanpak sluit goed aan op bij 
+diverse partijen bestaande onboarding- en groeimodellen, wat implementatie vereenvoudigt.  
+Verschillende marktpartijen hebben het startpakket al geïntegreerd in hun bestaande SOC-
+dienstverlening, inclusief onderdelen als SIEM, CTI, basale use cases en identity monitoring. 
+De voorgestelde structuur van een startpakket met uitbreidbare modules wordt breed gezien 
+als werkbaar, schaalbaar en toekomstgericht, mits: 
+ het startpakket functioneel voldoende dekking biedt en toekomstbestendig is; 
+ de afbakening tussen startpakket en aanvullende diensten helder en eenduidig is (o.a. 
+overlap tussen startpakket en aanvullende diensten, zoals SIEM en Security Log 
+Management, wat voor verwarring kan zorgen); 
+ de inrichting van de minicompetitie zorgvuldig gebeurt, zodat prijsduiking en ongewenste 
+risicoverplaatsing worden voorkomen. 
+ 
+Waarschuwing I: een te beperkt startpakket kan leiden tot suboptimale keuzes: 
+1. Puntoplossingen die later lastig integreerbaar zijn, 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 20 van 68 
+ 
+ 
+2. Onvoldoende beveiligingsniveau bij aanvang, 
+3. Verlies van efficiëntie en toekomstbestendigheid. 
+4. Één van deze partijen pleit ervoor om elementen zoals logmanagement en Network 
+Detection & Response (NDR) altijd in het startpakket op te nemen, ook als dat betekent 
+dat minder partijen kunnen inschrijven. 
+ 
+Waarschuwing II: eenmalige minicompetitie kan het risico brengen dat aanbieders 
+onrealistisch lage prijzen voor het startpakket aanbieden in de hoop winst te maken op de 
+later af te nemen aanvullende diensten, met mogelijk daaruit voortvloeiende onderdekking en 
+een onhoudbaar businessmodel. Ook wordt opgemerkt dat het effectiever is om direct een 
+volwassen dienst te leveren i.p.v. gefaseerd. 
+ 
+S3 – [95%] Wat zijn de meest belangrijke KPI’s waarmee de prestaties van M&D en KS&R 
+dienstverlening zijn te meten en aan te tonen? 
+ 
+Er is brede consensus over belang van het meten van prestaties met goed gedefinieerde KPI’s 
+voor zowel Monitoring & Detectie (M&D) als Kwetsbaarheid Scanning & Rapportage (KS&R).  
+De genoemde KPI’s zijn in vier hoofdgroepen onder te brengen: 
+ 
+1. Operationeel (voornamelijk M&D) - snelheid, nauwkeurigheid en beschikbaarheid van 
+detectie- en responsprocessen:  
+a) Mean Time to Detect/Respond – eerste detectie van een incident/start van opvolging 
+of mitigatie;  
+b) Time to Escalate/Act  – nadere onderverdelingen van reactietijden. 
+c) False/True Positive Rate – kwaliteit van detectie en efficiëntie van triage. 
+d) Beschikbaarheid SOC / SIEM tooling – uptime van monitoringsystemen. 
+e) Aantal incidenten, meldingen of alerts per maand (inclusief afhandelingsstatus). 
+f) SLA-naleving per incidenttype en prioriteit - tijdigheid van dienstverlening. 
+De KPI onder a) & b) worden breed gezien als dé centrale KPI’s voor M&D. Ook asset 
+coverage is bij vrijwel iedereen een kernindicator. 
+ 
+2) KS&R-specifiek - volledigheid, relevantie en opvolging: 
+a) Aantal en ernst van gedetecteerde kwetsbaarheden - vaak gerelateerd aan CVSS-
+scores. 
+b) Time-to-remediation / herstelsnelheid - tijd tot mitigatie of oplossing. 
+c) Slaagpercentage van scanning runs - technische kwaliteit van de scanuitvoering. 
+d) Scanfrequentie & dekking van assets - volledigheid van de scope. 
+e) Aantal retained kwetsbaarheden of terugkerende issues - effectiviteit van opvolging. 
+f) Er is een relatieve onderbelichting van KS&R in sommige antwoorden.  
+De uitwerking van deze KPI’s is minder concreet en soms beperkt tot scanfrequentie en 
+rapportagetijd. Ook lopen benaderingen meer uiteen:  van ‘KPI’s bij KS&R minder 
+geschikt’ tot ‘veel KPI’s gebruiken’ (zoals dekking, risicoscores, herstelsnelheid). 
+ 
+3) Kwaliteits- en effectiviteit - Deze KPI’s meten hoe goed de dienstverlening daadwerkelijk 
+bijdraagt aan veiligheid: 
+a) Coverage van MITRE ATT&CK (TTP's en detectieregels) – inzicht in scope en diepgang 
+van detectie. 
+b) Effectiviteit van detectieregels (bijvoorbeeld via Use Case testing). 
+c) Threat hunting resultaten / sightings op CTI feeds – actieve dreigingsopsporing. 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 21 van 68 
+ 
+ 
+d) Outcome-driven metrics / Return on Security Investment (ROSI) – meetbare 
+risicoreductie. 
+e) Aantal herhaalincidenten en opvolging RCA-aanbevelingen. 
+ 
+4) Governance, rapportage en klantgerichtheid - transparantie en samenwerking: 
+a) Tijdigheid en volledigheid van rapportages (maandelijks, realtime dashboards). 
+b) Klanttevredenheid (CSAT scores). 
+c) SLA-compliance over dienstverleningselementen heen. 
+d) Effectiviteit van kennisoverdracht bij hybride modellen. 
+e) Aantal en impact van beveiligingsvergaderingen (feedbackloops). 
+ 
+Aanvullend: 
+ Business Use Cases het uitgangspunt vormen bij het inrichten van SOC-dienstverlening. 
+KPI’s worden dan daarop afgestemd. 
+ Meerdere respondenten benadrukken dat KPI’s afgestemd moeten zijn op de 
+volwassenheid van de klant, het dreigingsbeeld, de impact op kritieke bedrijfsprocessen 
+(business-driven security) en op risico’s die de bedrijfscontinuïteit, reputatie of 
+compliance direct raken. 
+ Visualisatie via dashboards en integraties (bijv. XSOAR, ServiceNow, Sentinel) om KPI’s 
+toegankelijk te maken voor verschillende doelgroepen binnen de klantorganisatie. 
+ Gebruik van het MITRE ATT&CK-framework als referentie voor detectiecapaciteit.  
+ Threat hunting en zicht op actuele dreigingen (bijvoorbeeld statelijke actoren) worden in 
+toenemende mate als kwaliteitsmaatstaf ingezet. 
+ 
+S4 – [100%] Kunt u zich met betrekking tot de gevraagde M&D en KS&R dienstverlening 
+onderscheiden van andere marktpartijen. Zo ja, op welke punten onderscheidt u zich en hoe 
+zijn deze punten meetbaar of aantoonbaar? 
+ 
+1) Schaalbaarheid en operationele capaciteit 
+ 24/7 monitoring via internationale SOC's met "follow-the-sun"-modellen 
+ Volledig Nederlands SOC of EU-georiënteerde levering, inclusief lokale taal en 
+compliance  
+ Snelle onboarding en deployment, in sommige gevallen binnen 2 weken  
+Meetbaar via: aantal SOC’s, aantal analisten, onboardingtijd, beschikbaarheid, SLA's. 
+ 
+2) Geavanceerde technologie en integraties 
+ Eigen security-platformen (proprietary SIEM, XDR of SOAR), inclusief agentic AI en 
+automatisering 
+ Gedragsgebaseerde detectie (UEBA) i.p.v. IOC’s 
+ Externe platformintegraties (bijv. Tenable, Qualys, Fortinet, Exabeam, Microsoft 
+Defender). 
+Meetbaar via: aantal logbronnen, MTTR/MTTD, false positive ratio’s, 
+integratieoverzichten. 
+ 
+3) Kwaliteit van detectie en dreigingsinformatie 
+ Eigen dreigingsinformatie via grote telemetrie-netwerken of red teams 
+ Sectorspecifieke use cases (bijv. Rijksoverheid, onderwijs, zorg) en mapping op 
+MITRE ATT&CK 
+ Threat-led of contextuele detectie op basis van organisatie- of persona-profielen 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 22 van 68 
+ 
+ 
+Meetbaar via: use case-bibliotheken, MITRE-mapping, incidenten per sector, KPI-
+rapportages. 
+ 
+4) Security governance en dienstverlening op maat 
+ Security-as-a-service governance modellen met SDM/TAM, strategische reviews, 
+escalatieprocessen. 
+ Inzage in performance en radicale transparantie richting klanten. 
+ Modulair opgebouwde dienstverlening met groeipad en schaalbare architectuur. 
+Meetbaar via: SLA’s, klanttevredenheid, governance-documentatie, aantal 
+maatwerkanalyses. 
+ 
+5) Compliance, certificeringen en wet- en regelgeving 
+ ISO 27001, SOC 2, NIST, BIO, PCI-DSS, TIBER-EU. 
+ Lokale dataopslag en EU-soevereiniteit, inclusief bescherming tegen de US Cloud Act. 
+Aantoonbaar via: certificaten, auditlogs, compliance-routes, referentiecases. 
+ 
+6) Kwetsbaarhedenscanning (KS&R) 
+ Continue of gestructureerde scanning, gekoppeld aan risicobeoordeling. 
+ Integratie met scanplatformen zoals Qualys, Tenable, SonarQube. 
+ Rapportage gericht op risico en mitigatieadvies. 
+Meetbaar via: aantal kwetsbaarheden per scan, mitigatiepercentage, rapportkwaliteit. 
+ 
+7)  AI, automatisering en innovatie 
+ Gebruik van AI en ML voor triage, weak signal detection en automatisering. 
+ SOAR-playbooks en geautomatiseerde respons zijn veelgenoemd, vaak met meetbare 
+MTTR-resultaten. 
+Meetbaar via: aantal playbooks, MTTR/MTTD, aantal geautomatiseerde incidenten. 
+ 
+Ook in dit kader genoemd: onafhankelijkheid van Big Tech; snelle MTTR’s met concrete 
+benchmarks; integrale securityvisie en samenwerking binnen het ecosysteem. 
+ 
+S5 – [95%] Met betrekking tot het aanvraagproces en het aansluiten van ICT-assets:  
+- Hoe snel en eenvoudig is het aanvragen en aansluiten van het Startpakket voor M&D-
+diensten?  
+- Welk type informatie heeft u daarvoor nodig van een deelnemer?  
+- Welke inspanningen moet een deelnemer zelf uitvoeren? 
+- Wat zijn overige randvoorwaarden? 
+ 
+Snelheid en eenvoud: 
+Connectiviteit is een sterk bepalende factor voor de doorlooptijd. Één partij geeft aan vaak in 
+één dag aan te kunnen sluiten, mits een standaardconfiguratie. Anderen stellen binnen 2 
+weken te operationaliseren voor zover het een standaardomgeving (startpakket & 
+Microsoftproducten) betreft. De meeste respondenten bewegen tussen 2 tot 12 weken, 
+afhankelijk van complexiteit. Bij veel maatwerk kan het tot 6 maanden kan duren. Factoren 
+die invloed hebben op snelheid: beschikbaarheid van Microsoft E5/Sentinel | volwassenheid 
+IT-omgeving (standaardisatie vs. maatwerk) | bestaande logging / infrastructuur | interne 
+capaciteit bij deelnemer (technisch personeel, projectleiding). 
+ 
+Benodigde informatie om M&D-dienstverlening te operationaliseren: 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 23 van 68 
+ 
+ 
+Inventaris van ICT-assets (servers, werkstations, netwerk, OT/IoT) | Netwerkdiagrammen/ -
+schema’s | Logbronnen (firewalls, AD, endpoints, cloud, etc.) | Kroonjuwelen/kritieke 
+processen | Securitybeleid, risk profile, use cases | Authenticatie gegevens/accounts/AD/ 
+licenties | contactpersonen en escalatieprocessen. 
+ 
+Inspanningen deelnemer: 
+Aanleveren van technische informatie/documentatie | Configureren van logbronnen | 
+Installeren van agents / sensoren | Meewerken aan sessies/intake/use cases | Faciliteren van 
+toegang/credentials/VPN | Aanpassen van firewallregels/netwerk | Contact-/aanspreekpunt | 
+Monitoring van logvolumes. 
+ 
+Overige randvoorwaarden: 
+Bereikbaarheid systemen / netwerktoegang | Standaardprotocollen of tooling (Syslog, API, 
+MS-stack) | Microsoft-licenties en Azure tenant (min. E3, bijv. E5 voor Sentinel)| 
+Governance en samenwerking |Technische compatibiliteit/security policies | 
+Beschikbaarheid testomgeving / infrastructuur | Deelname aan business use case-sesssie | 
+Juridische borging (NDA, dataverwerking, vrijwaring) | Monitoring/rapportage/audit-
+ondersteuning. 
+ 
+Overige bevindingen: 
+ Microsoft-gebaseerde omgevingen (E5, Sentinel) maken snelle aansluiting makkelijker. 
+ Breed draagvlak voor een gefaseerde onboarding-aanpak, vaak startend met kritieke 
+logbronnen en use cases. 
+ Standaardproces met ruimte voor maatwerk. 
+ Relatie tussen implementatiesnelheid en kwaliteit van de detectiedienst (bijvoorbeeld 
+minder false positives bij zorgvuldige onboarding). 
+ 
+S6 – [95%] Wat is naar uw inzicht een reëel te verwachten en voor u  acceptabele periode 
+van af-/aansluiten waarop een deelnemer kan beslissen tot afname, dan wel van een 
+opdrachtnemer afscheid te nemen? Welke randvoorwaarden zijn hier aan de orde? 
+ 
+Aan- en afsluitperiode: circa 4 tot 12 weken. Gemiddeld is 5 tot 8 weken een werkbare 
+termijn. Dit omvat de technische implementatie, organisatorische besluitvorming en het 
+operationeel gereed te maken van de dienstverlening, inclusief technische configuratie, 
+inrichting van rapportages en het afstemmen van prioriteiten. De periode is afhankelijk van 
+de complexiteit van de omgeving en de benodigde voorbereidingen en mate van onboarding. 
+Na het aansluiten volgt een opstartperiode van circa 6 maanden om de dienstverlening te 
+implementeren en optimaliseren. Hierna zijn meer flexibele, maandelijkse contracten 
+mogelijk. Voor het beëindigen van de samenwerking wordt doorgaans een opzegtermijn van 
+1 tot 3 maanden gehanteerd. Deze termijn biedt voldoende ruimte voor een zorgvuldige 
+overgang, waarbij afspraken over dataoverdracht, continuïteit van monitoring en kennisdeling 
+worden gewaarborgd. Ook hier: een optimale duur hangt af van contractuele voorwaarden en 
+de complexiteit van de overdracht. 
+ 
+Randvoorwaarden: 
+ Beschikbaarheid van benodigde informatie en contactpersonen bij de deelnemer 
+ Realistische planning afgestemd op capaciteit van beide partijen 
+ Duidelijke afspraken over overdracht van data, logbestanden en configuraties 
+ Exit-strategie en zorgvuldige transitie, inclusief knowledge transfer 
+ Waarborging van continuïteit van monitoring tijdens transitie 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 24 van 68 
+ 
+ 
+ Compliance met wettelijke en contractuele vereisten 
+ Flexibiliteit om hybride modellen en veranderende omstandigheden te accommoderen 
+ Eigenaarschap van data blijft bij de deelnemer, inclusief volledige export en verwijdering 
+na beëindiging 
+ De periode voor een soepele overgang en afronding ligt vaak tussen 4 weken en 3 
+maanden, waarbij er nadruk ligt op een warme overdracht en het voorkomen van 
+serviceonderbrekingen. 
+ 
+Overige bevindingen: 
+- Koppeling implementatietijd aan het aantal FTE van de te monitoren organisatie 
+(vuistregel: 1 week per 1.000 FTE). 
+- Langere opstartperiode (tot 6 maanden) voor het goed landen van de dienst versus 
+kortere technische implementatietermijnen (1-2 weken tot 8 weken) afhankelijk van de 
+complexiteit van de omgeving. 
+- Minimale contractduur van 3 jaar. 
+- Heldere afspraken over overdracht van data en configuraties, inclusief het eigenaarschap 
+en het verwijderen van data na beëindiging. 
+- Mate van flexibiliteit en de mogelijkheid tot maandelijkse opzegbaarheid na een initiële 
+periode (wenselijk, maar niet altijd standaard aangeboden). 
+- Belang van samenwerking en actieve betrokkenheid voor change management en 
+beschikbaarheid van technische resources. 
+- Duidelijke exit-strategie, inclusief het vastleggen van afspraken over 
+verantwoordelijkheden en compliance, om risico’s bij beëindiging te beperken. 
+ 
+S7 – [95%] In geval van opvolging van een voorgaande SOC-dienstverlener: maakt dit uw 
+antwoord op S6 anders? Zo ja, hoe? 
+ 
+De meeste marktpartijen geven aan dat een opvolging van een voorgaande SOC-
+dienstverlener niet per se leidt tot een fundamentele wijziging in de aanpak of de looptijd van 
+het onboardingproces. Wel zijn er nuances in hoe deze overgang wordt ingevuld: 
+• Nieuwe implementatie: overstap is een nieuwe implementatie, waarbij altijd een eigen 
+analyse, inrichting en onboarding plaatsvindt, in nauwe afstemming en een formeel 
+overdrachtsmoment met de vertrekkende partij om continuïteit te waarborgen. 
+• Fase-in periode: 1 tot 3 maanden voor kennisoverdracht, SIEM-tuning, validatie van use 
+cases, data migratie en hertraining van SOC-analisten. Dit is belangrijk voor het 
+waarborgen van kwaliteit en het vermijden van hiaten in monitoring. 
+• Versnelde onboarding door bestaande infrastructuur: mogelijke versnelling als een deel 
+van de infrastructuur en processen al aanwezig is. De mogelijkheid om bestaande 
+logbronnen en use cases te importeren kan de overgang verkorten. Tegelijkertijd is er 
+tijd nodig voor een grondige kennisoverdracht en integratie om risico’s te beperken. 
+• Ongewijzigde looptijd, gewijzigde handelingen: in de eerste weken ligt de focus op het 
+veilig uitfaseren van de oude dienst en het gefaseerd opbouwen van de nieuwe SOC-
+dienst met basis visibiliteit en afgestemde rapportages. 
+• Complexiteit en langere doorlooptijd bij transities: opvolging leidt vaak tot langere 
+onboarding periodes door complexiteit in data-migratie, systeemcompatibiliteit, 
+regelmapping en kennisoverdracht. Dit kan de doorlooptijd verlengen van standaard 2-4 
+weken naar 4-6 weken en in complexe legacy-omgevingen zelfs tot 8-16 weken. Ook: 
+extra kosten en de noodzaak van parallelle operationele periodes om monitoring-gaps te 
+voorkomen. 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 25 van 68 
+ 
+ 
+• Essentie van duidelijke afspraken en samenwerking: goede afstemming met de 
+vertrekkende SOC, heldere afspraken over data-export, en een zorgvuldig 
+overdrachtsproces cruciaal zijn om continuïteit, kwaliteit en beheersbare kosten te 
+garanderen. 
+ 
+S8 – [95%] Welke (minimale) looptijd van nadere overeenkomsten adviseert u? U kunt 
+hierbij desgewenst onderscheid maken tussen de verschillende diensten die afgenomen 
+kunnen worden binnen de raamovereenkomst. Houd rekening met verschillende 
+implementatietijden, terugverdientijden, exit-/retransitietijden etc. 
+ 
+• Minimale looptijd van 24 tot 36 maanden voor kern SOC/MDR-diensten. 
+• Looptijden korter dan 2 jaar worden over het algemeen als onvoldoende gezien om zowel 
+technische als organisatorische optimalisaties en een stabiele dienstverlening te 
+waarborgen. 
+• Voor specifieke, aanvullende diensten of modules zoals Threat Intelligence (TI), Forensics, 
+Vulnerability Management (VOC), of ad-hoc opdrachten wordt vaak een kortere looptijd 
+(12 tot 24 maanden) genoemd, mits deze losstaan van de kern-MDR-dienst. 
+ 
+Diensttype Advies minimale 
+looptijd Motivatie / toelichting 
+Monitoring & Detectie 
+(M&D) 
+24–36 maanden Implementatie, tuning, contextvalidatie, opbouw 
+van detectiecapaciteit, volwassenwording SOC. 
+Sommige partijen adviseren zelfs 3-5 jaar 
+(Marktpartij-8, 14). 
+Kennisdeling, Signalering 
+& Respons (KS&R) 
+12–24 maanden Afhankelijk van intensiteit en integratie met 
+deelnemer; lagere initiële kosten en kortere 
+terugverdientijd. 
+Vulnerability Onderzoek/-
+Beheer (VOC) 
+Minimaal 2 jaar, bij 
+voorkeur 3 jaar 
+Meerdere scan-fixcycli nodig, trendanalyse, 
+contextopbouw. 
+Specifieke modules (TI, 
+Forensics, …) 
+12-24 maanden Lagere implementatie-investering, kortere 
+terugverdientijd. 
+ 
+Motivatie langere looptijd (24–36 maanden of langer): 
+• Implementatie en afstemming: onboarding, tuning van detectieregels, integratie met 
+processen en tooling, kennisoverdracht. 
+• Terugverdientijd: investeringen in tooling, procesinrichting en kennisopbouw moeten zich 
+kunnen terugbetalen. 
+• Stabiliteit en volwassenheid: tijd nodig om SOC-dienst te laten groeien van basisoperatie 
+naar volwassen, geoptimaliseerde service. 
+• Exit en retransitie: voldoende ruimte voor soepele overgang en dataoverdracht bij 
+beëindiging (meestal 1–3 maanden). 
+• Kostenbeheersing: langere contracten spreiden initiële investeringen en zorgen voor 
+lagere jaarlijkse kosten. 
+• Continuïteit en innovatie: langere looptijden stimuleren continue verbetering, innovatie en 
+schaalvoordelen. 
+ 
+Overige bevindingen: 
+RVICTO 2026 – MARKTRAADPLEGING - VERSLAG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Pagina 26 van 68 
+ 
+ 
+• Initiële looptijd van 36 maanden met verlengingsopties. 
+• Langere looptijden tot 4-5 jaar of zelfs 8 jaar om strategische samenwerking en optimale 
+benutting van investeringen mogelijk te maken. 
+• Bij tijdelijke of kleinere opdrachten kunnen kortere looptijden van 12 tot 24 maanden 
+passend zijn, maar vaak tegen hogere kosten. 
+• Bij hybride of complexe omgevingen een langere initiële looptijd vanwege extra 
+afstemming en risico’s. 
+• Vooraf contractueel vast te leggen van verlengingsmogelijkheden en exit-regelingen ten 
+behoeve van de flexibiliteit en continuïteit. 
+ 
+S9 – [100%] Zijn er mogelijkheden – en zo ja welke – om naast de eerstelijns ondersteuning 
+van opdrachtgever en eventuele specialisten ook één of enkele medewerkers van deelnemer 
+in deze rollen te laten meewerken en zo een hybride situatie in te richten? 
+ 
+Vrijwel alle marktpartijen ondersteunen een hybride situatie of staan daar positief tegenover, 
+mits er duidelijke afspraken zijn over rollen, toegang, mandaten en communicatie. Hybride 
+samenwerking wordt gezien als bevorderlijk voor kennisdeling, eigenaarschap, betere 
+afstemming op de organisatiecontext en continuïteit. De vormen van de beschreven hybride 
+situaties lope
+
+=== Document: bijlage 17 klachtenprocedure ===
+EA Resultaatverplichte ICT-/ IV-opdrachten Maatwerk Diensten Applicaties (RVICTO-MDA) 2026 Pagina 1 van 3 
+TenderNed -kenmerk: 572361  
+ 
+Bijlage 17 Klachtenprocedure 
+ 
+ 
+Klacht 
+Een klacht is een schriftelijke melding aan een aanbestedende dienst afkomstig van een 
+onderneming die een belanghebbende is bij de aanbesteding 1, waarin de ondernemer gemotiveerd 
+aangeeft op welke punten hij het niet eens is met de aanbesteding of een onderdeel daarvan.  
+ 
+De inhoud van de klacht moet minimaal bevatten:  
+• De dagtekening.  
+• De naam en het adres van de ondernemer . 
+• De naam en adresgegevens (waaronder e -mail) van contactpersoon bij klager . 
+• De naam en adresgegevens (waaronder e -mail) van contactpersoon bij aanbestedende dienst 
+voor de aanbesteding waarop de klacht betrekking heeft . 
+• De aanduiding van de aanbesteding.  
+• De inhoud van de klacht waarbij de klacht duidelijk als zodanig wordt benoemd.  
+• Hoe volgens de ondernemer de klacht verholpen zou kunnen worden.  
+ 
+Niet elke vraag van een ondernemer in een aanbestedingsprocedure hoeft een klacht op te leveren 
+en niet elke klacht hoeft tot het doorlopen van de klachtenprocedure te leiden. Hierbij geldt het 
+principe: “eerst vragen, dan klagen”. Vragen en verzoeken die gericht zijn op verduidelijking van 
+aspecten van de aanbestedingsprocedure moet de ondernemer tijdig bij de aanbestedende dienst 
+inbrengen, conform het gestelde in het aanbestedingsdocument. Dit geldt ook voor een verzoek tot 
+het do orvoeren van een niet -wezenlijke wijziging in de aanbeste -dingsdocumenten.  
+Wanneer de ondernemer het oneens blijft met de reactie van de aanbestedende dienst, of een 
+reactie uitblijft, kan hij bij de aanbestedende dienst een klacht indienen. Ook kan een ondernemer 
+een klacht indienen  als er ingevolge het aanbestedingsdocument geen gelegenheid (meer) 
+openstaat om vragen te stellen .  
+ 
+Waarover kan een klacht gaan? 
+Klachten hebben betrekking op één of meer aspecten van een aanbesteding die binnen de werking 
+van de Aanbestedingswet 2012 vallen. Klachten kunnen niet gaan over het aanbestedingsbeleid in 
+het algemeen van de aanbestedende dienst.  
+De ondernemer kan een klacht indienen over alle soorten aanbestedingsprocedures (ongeacht de 
+drempelwaarde) inzake:  
+• de fase vóór de uiterste datum van aanmelding/inschrijving van een lopende aanbesteding;  
+• de selectie - of gunningsbeslissing van een lopende aanbesteding;  
+• de situatie waarin een aanbestedende dienst niet heeft aanbesteed terwijl dit volgens de 
+ondernemer wel had gemoeten.  
+ 
+Wie kan een klacht indienen?  
+Een klacht kan worden ingediend door partijen die belang hebben bij de verwerving van een 
+specifieke aanbesteding. Daaronder vallen:  
+ 
+1 Onder aanbesteding wordt ook offertetraject verstaan.  
+EA Resultaatverplichte ICT-/ IV-opdrachten Maatwerk Diensten Applicaties (RVICTO-MDA) 2026 Pagina 2 van 3 
+TenderNed -kenmerk: 572361  
+ 
+- geïnteresseerde ondernemers ; 
+- (potentiële) inschrijvers en gegadigden ; 
+- brancheorganisaties en branchegerelateerde adviescentra van ondernemers.  
+Er mag niet anoniem worden geklaagd. Wel kan een brancheorganisatie op eigen titel bezwaren 
+met betrekking tot een specifieke aanbesteding, die bij een of meer ondernemers van de branche 
+leven, als klacht indienen.  
+ 
+ 
+Tot wanneer kan een klacht worden ingediend?  
+De ondernemer doet er verstandig aan zijn klacht in een zo vroeg mogelijk stadium in te dienen. 
+Als de klacht erg laat of te laat wordt ingediend, kan dit ertoe leiden dat de aanbestedende dienst 
+de klacht sowieso niet meer in de lopende procedure kan verh elpen. 
+ 
+Het indienen van een klacht zet een aanbestedingsprocedure niet stil. De aanbestedende dienst is 
+vrij om al dan niet te besluiten tot opschorting van de procedure.  
+ 
+Waar moet een klacht worden ingediend?  
+Een klacht dient schriftelijk te worden gericht aan het:  
+KlachtenmeldpuntAanbesteden@minez k.nl. 
+ 
+De behandeling  van de klacht geschiedt door éé n of meer personen die niet direct betrokken zijn 
+geweest bij de aanbesteding waar de klacht betrekking op heeft.  
+ 
+De klachtenafhandeling 
+a. Klachten die bij het klachtenmeldpunt worden ingediend, worden afgehandeld op basis van 
+deze klachtenprocedure en niet op basis van de Awb.  
+b. Na ontvangst van de klacht conform de hierboven beschreven wijze, bevestigt het 
+klachtenmeldpunt per omgaande de ontvangst van de klacht.  
+c. Vervolgens onderzoekt het klachtenmeldpunt, eventueel aan de hand van de door de 
+ondernemer en de aanbestedende dienst aanvullend verstrekte gegevens, of de klacht gegrond 
+is. Het klachtenmeldpunt begint zo spoedig mogelijk met dit onderzoek, zet dit voortvarend 
+voort en houdt daarbij rekening met de planning van de aanbestedingsprocedure.  In het geval 
+dat de klager voordat het klachtenmeldpunt de gelegenheid heeft gehad over de ingediende 
+klacht te beslissen, de klacht voorlegt aan de daartoe aangewezen rechter verklaart het 
+klachtenmeldpunt de klager (alsnog) niet -ontvankelijk. 
+d. Het klachtenmeldpunt brengt advies uit aan de aanbestedende dienst. In het advies wordt 
+gemotiveerd aangegeven of het klachtenmeldpunt de klacht gegrond, gedeeltelijk gegrond of 
+ongegrond acht. Het is vervolgens aan de aanbestedende dienst om  - met inachtneming van 
+het advies van het klachtenmeldpunt  - over de klacht te beslissen.  
+e. Wanneer de aanbestedende dienst na het onderzoek door het klachtenmeldpunt tot de 
+conclusie komt dat de klacht (deels) terecht is en de aanbestedende dienst corrigerende en/of 
+preventieve maatregelen treft, deelt de aanbestedende dienst dit zo spoedig moge lijk 
+schriftelijk mee aan de ondernemer. Ook de andere (potentiële) inschrijvers/gegadigden 
+worden op de hoogte gesteld. Afhankelijk van de fase in de aanbestedingsprocedure kan het 
+voorkomen dat de maatregelen door de contactpersoon van de aanbesteding bi j de 
+aanbestedende dienst aan de betrokkenen in de aanbesteding worden gecommuniceerd op 
+EA Resultaatverplichte ICT-/ IV-opdrachten Maatwerk Diensten Applicaties (RVICTO-MDA) 2026 Pagina 3 van 3 
+TenderNed -kenmerk: 572361  
+ 
+hetzelfde moment als de indiener van de klacht het bericht krijgt. Dit om bevoordeling van 
+partijen te voorkomen.  
+f. Wanneer de aanbestedende dienst na het onderzoek tot de conclusie komt dat de klacht niet 
+terecht is, dan wijst hij de klacht gemotiveerd af en bericht hij de ondernemer.  
+g. Als de aanbestedende dienst aan de ondernemer heeft laten weten hoe hij de klacht 
+adresseert, of als de aanbestedende dienst nalaat om binnen een redelijke termijn op de klacht 
+te reageren, kan de klager de klacht aan de Commissie van Aanbestedingsexperts  (behalve 
+voor zover de klacht ziet op een selectie - of gunningsbeslissing)  of de daartoe bevoegde 
+voorzieningenrechter voorleggen.
+
+=== Document: bijlage 16 verklaring sancties rusland ===
+Bijlage   1 6 V erklaring  inzake sancties    Rusland       Status: Versie  1.0 Inzake de  Europese aanbesteding volgens de openbare procedure voor    uitbesteding van  Informatiebeveiligings - onderzoeken  (RVICTO-PT) 2026 TenderNed-kenmerk: 609833 Referentie:  IUC- EZK LVN 202510196 Uitleg Verklaring te ondertekenen door degene(n) die bevoegd zijn de onderneming te vertegenwoordigen in deze aanbesteding. Indien deze bevoegdheid volgens de statuten alleen in gezamenlijkheid kan worden uitgeoefend, moet ieder van de tekenbevoegde bestuurders deze verklaring mede ondertekenen.  Verklaring Door in te schrijven op deze aanbesteding verklaart Inschrijver naar eer en geweten ,  dat er geen sprake is van Russische betrokkenheid bij de uitvoering van deze  Raamo vereenkomst ,  die de drempels van artikel 5  duodecies  van EU Verordening (EU) 833/2014 van 31 juli 2014 betreffende de betreffende beperkende maatregelen naar aanleiding van de acties van Rusland die de situatie in Oekraïne destabiliseren, zoals gewijzigd bij Verordening 2022/578 van 8 april 2022, overschrijdt. Inschrijver verklaart in het bijzonder dat: Inschrijver (en, indien van toepassing, de bedrijven die een onderdeel zijn van het inschrijvend consortium) geen (rechts) perso (o)n(en) is/zijn met een Russische nationaliteit en deze (rechts-)  perso (o)n(en) (natuurlijke personen, bedrijven, entiteiten of organen) niet gevestigd is/zijn in Rusland; Inschrijver) (en, indien van toepassing, de bedrijven die een onderdeel zijn van het inschrijvend consortium) geen  rechtsperso (o)n(en) is/zijn (gevestigd in Rusland of een ander land) die voor meer dan 50% eigendom is/zijn van een Russische partij zoals hierboven onder a) genoemd;  noch Inschrijver, noch de onderneming die Inschrijver vertegenwoordigt een (rechts)persoon gevestigd in Rusland of een ander land is, die handelt in belang van of op aanwijzing van een Russische partij, zoals bedoeld onder a) en b); er geen onderaannemers, leveranciers of ondernemingen deelnemen wier capaciteit wordt ingeroepen door de Inschrijver én die een aandeel hebben van meer dan 10% van de contractwaarde waarbij een situatie als onder a) t/m c) zich voordoet. Tenslotte verklaart Inschrijver formeel dat deze informatie accuraat en naar waarheid is verstrekt en dat Inschrijver zich volledig bewust is van de gevolgen van het afleggen van een valse verklaring. Tevens verklaart Inschrijver hierbij desgevraagd en onverwijld alle benodigde bewijsstukken te kunnen overleggen. Ondertekening Naam organisatie           Naam  ondertekening s bevoegd  persoon           Datum           Handtekening
+
+=== Document: bijlage 13.2 - model herstelplan rvicto  v1.0 ===
+Model   h erstelplan  v1.0 Raamovereenkomst  << vul in >> tussen  Opdrachtgever  en   << O pdrachtnemer >> Datum :  << datum >> Versie :  << versienummer >> Versiebeheer Versienummer Omschrijving Aangeboden aan Datum O orzaak  van het herstelplan  betreft: Meetperiode  <<vul in>> Omschrijving KPI-n ummer V aststelling onderschrijding norm Kwaliteit van de dienstverlening  KPI-1 <<rapportage met kenmerk>> Inhoud 1. Achtergrond 4 2. Probleembeschrijving 5 2.1 Manifestatie onderprestatie 5 2.2 Oorzaak onderprestatie 5 2.2.1 Uw analyse van de onderprestatie 5 2.2.2 Faalfactoren inzake voorgestelde maatregelen en organisatie 5 2.2.3 Overige faalfactoren 5 3. Actieplan 6 3.1 Uitgangspunten voor herstel 6 3.2 Resultaatbeschrijving 6 3.3 Activiteitenplan 6 3.3.1 Opdrachtnemer 6 3.3.2 Bijdrage Deelnemer 7 3.3.3 Organisatie en communicatie 7 Achtergrond In de uitvoering van de met u als  O pdrachtnemer   gesloten  Raamovereenkomst   << Naam ROK>>  met het  TenderNed - kenmerk   <<nummer>>   is over de afgelopen meetperiode   geconstateerd dat  u  ten opzichte van de in  of bij de  Raamovereenkomst   benoemde prestatie-indicator(en) een  onder prestatie  heeft geleverd , e.e.a. zoals weergegeven in de tabel op pagina 2 van dit herstelplan .  D e grondslag van uw verplichting  is vastgelegd  in de  Raamovereenkomst , artikel   << 13.3 >>  en in sectie K van het Programma van Eisen. Opdrachtnemer heeft zelfstandig de verplichting om na constatering van de  onder prestatie  (tekortkoming) te herstellen tot ten minste het niveau waarbij  O pdrachtnemer alsnog voldoet aan de contractuele KPI - no r m(en). Met dit herstelplan beoogt de  O pdrachtgever inzicht te krijgen in de oorzaken van de  onderprestatie  en acties  die  de  O pdrachtnemer  neemt  als gevolg daarvan neemt . Afstemming tussen  O pdrachtnemer en  O pdrachtgever kan mede zorgen voor een effectiever herstel van de  onderprestatie  (tekortkoming). Dit herstelplan laat  onverlet dat  O pdrachtnemer de  norm waarden zoals   omschreven in sectie K  van het programma van Eisen  m o et halen ,  ongeacht de probleemomschrijving en  de voorgenomen acties  in dit herstelplan. Probleembeschrijving 2.1 Manifestatie  onderprestatie << B eschrijf de feitelijke constatering zoals blijkt uit  eigen  r apportage  aangevuld met de verwerking van rapportagegevens door Opdrachtgever . >> << D oe verslag van  eventueel  verkregen informatie van de  centrale contractmanager  en/of  decentrale  contractmanager . Uitsluitend schriftelijk verkregen informatie in de vorm van rapportage, gespreksverslag of anderszins kan hier worden aangewend. >> 2.2 Oorzaak  onderprestatie 2.2.1 Uw analyse van de  onderprestatie <<  G eef een beschrijving, hoe, waarom, en op grond van welke factoren de  onderprestatie  ontstaan is . >> 2.2.2 Faalfact oren inzake  voorgestelde maatregelen en organisatie   <<Geef een analyse van de effectiviteit van de door u  bij Inschrijving  beschreven maatregelen, processen en overige door u te initiëren activiteiten  en leg de relatie met de niet behaalde KPI( ‘ s).  Doe dit met gebruikmaking van onderstaand format. Met ‘faalfactor’ wordt bedoeld het falen van de door u , in uw  I nschrijving,  beschreven maatregelen, processen en overige door u te initiëren activiteiten.>>  Faalfactor: <<omschrijving>> <<geef een  feitelijke beschrijving van de faalfactor>> Faalfactor aanwezig <<Ja/Nee>> <<zo nee, motiveer>> <<zo ja, stel vast en geef de reden(en) waarom>> Faalfactor: <<omschrijving>> <<geef een feitelijke beschrijving van de faalfactor>> Faalfactor aanwezig <<Ja/Nee>> <<zo nee, motiveer>> <<zo ja, stel vast en geef de reden(en) waarom>> 2.2.3 Overige faalfactoren   <<Beschrijf, indien van toepassing, overige faalfactoren inzake het onderpresteren op de KPI waar dit herstelplan betrekking op heeft. Doe dit met gebruikmaking van onderstaand format waarbij u voor elke faalfactor een apart blok  in kopieert . >>  Faalfactor: <<omschrijving>> <<geef een feitelijke beschrijving van de faalfactor>> Faalfactor: <<omschrijving>> <<geef een feitelijke beschrijving van de faalfactor>> 3. Actieplan 3 .1 Uitgangspunten voor herstel << B eschrijf uitgangspunten die voldoen aan drie voorwaarden: de uitgangspunten zijn gericht op structureel herstel van de dienstverlening; de uitgangspunten zijn te relateren aan de door u aangegeven faalfactoren; de uitgangspunten zijn te relateren aan het door u te beschrijven actieplan in  dit  hoofdstuk  3  van  het  herstelplan.>> 3 . 2 Resultaatbeschrijving << G eef een beschrijving van  de  benodigde deelresultaten  die u zult realiseren  om te komen tot de contractueel overeengekomen  KPI- norm (en)  waar dit herstelplan betrekking op heeft.   Doe dit met gebruikmaking van onderstaand format . >> Resultatenlijst Nummer Beschrijving Datum gereed 1 2 3 4 5 3 .3 Activiteitenplan << B eschrijf   uw aanpak om te komen tot herstel van het geconstateerde tekort in uw dienstverlening . >> 3 .3.1 Opdrachtnemer << G eef een beschrijving van benodigde  activiteiten voor het behalen van de resultaten zoals beschreven in paragraaf  3 . 2 .   Doe dit met gebruikmaking van onderstaand format . >> Activiteitenlijst Beschrijving Datum gereed Draagt bij aan resultaat   nr . <<nummer>> <<nummer>> <<nummer>> <<nummer>> <<nummer>> 3 .3.2 Bijdrage  Deelnemer << G eef een beschrijving van  de door u van  Deelnemer   benodigde activiteiten voor het behalen van de resultaten zoals beschreven in paragraaf  3 . 2 . Doe dit met gebruikmaking van onderstaand format . U kunt hier geen rechten aan ontlenen.>> Activiteitenlijst Beschrijving Datum gereed Draagt bij aan resultaat <<nummer>> <<nummer>> <<nummer>> <<nummer>> <<nummer>> <<nummer>> 3 .3. 3 Organisatie en  c ommunicatie << B eschrijf kort de wijze waarop  u  de activiteiten  zoals beschreven in paragraaf  3 .3. 2.  organiseert . >> << B eschrijf kort  welke contactmomenten u met  CCM en/ of  D C M  voor welk doel  noodzakelijk acht. Gebruik daartoe onderstaand format . >> Contactmomenten Agendapunt Beoogd resultaat Met  <CCM/ D CM>
