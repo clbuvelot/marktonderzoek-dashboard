@@ -1,0 +1,3397 @@
+=== Document: bijlage 1 - programma van eisen opstellen smp - gemeente hulst ===
+1/8 Waar het land ademt en de stad leeft 
+Bijlage 1 - Programma van Eisen 
+Europese aanbesteding Opstellen Soortenmanagementplan (SMP) 
+– Gemeente Hulst 
+TenderNed Dossier 
+600026 703708 
+Door in te schrijven verklaart Inschrijver onvoorwaardelijk akkoord te gaan met de eisen in dit 
+document. Alle genummerde eisen zijn minimumeisen. Het niet voldoen aan een eis kan leiden tot 
+uitsluiting of, na gunning, tot het niet accepteren van een product. 
+Omschrijving van de opdracht 
+De gemeente Hulst wil voor de komgrenzen (bijlage 10) binnen de gemeente een juridisch 
+houdbaar, vergunningwaardig en praktisch toepasbaar Soortenmanagementplan laten opstellen. 
+Het SMP moet de gemeente in staat stellen een gebiedsgerichte omgevingsvergunning voor flora- 
+en fauna-activiteiten aan te vragen en moet bruikbaar zijn voor natuurvriendelijk isoleren, 
+verduurzaming, onderhoud, renovatie en andere gebouwgebonden activiteiten binnen de reikwijdte 
+van de vergunning. 
+ 
+De opdracht omvat in hoofdzaak: 
+• een gebiedsdekkende quickscan, uitgebreid veldonderzoek, gegevensinventarisatie en 
+bureauonderzoek; 
+• een onderbouwde onderzoeksstrategie en soortgericht ecologisch onderzoek; 
+• het opstellen van een concept en definitief SMP, inclusief effectbepaling en mitigatie- en 
+compensatieplan; 
+• het opstellen van een implementatieplan, een proces-, administratie- en managementplan en een 
+monitorings- en evaluatieplan; 
+• het opleveren van overdraagbare GIS-data, kaartlagen, metadata, een datadictionary en 
+bronbestanden; 
+• projectmanagement, afstemming met Gemeente Hulst en Provincie Zeeland, 
+communicatieondersteuning en kennisoverdracht. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+2/8 
+Uitgangspunten van de opdracht 
+ 
+Onderwerp Uitgangspunt 
+Onderzoeksgebied De gepubliceerde kaart "Komgrenzen gemeente Hulst" is de geografische 
+prijsbasis. Bebouwing binnen de komgrenzen behoort tot de vaste scope. Het 
+buitengebied behoort niet tot de primaire scope. 
+Bijzondere objecten Kerken, kapellen, monumenten, molens, torens, hoogbouw en gemeentelijk 
+of maatschappelijk vastgoed binnen of direct grenzend aan de komgrenzen 
+worden expliciet beschouwd. Niet ieder object is automatisch volledig 
+onderzoeksplichtig. 
+Looptijd De vaste looptijd bedraagt 18 maanden. Eventuele verlening is bespreekbaar 
+met een maximale uitloop van 6 maanden. 
+Doelsoorten Minimaal gebouwbewonende vleermuizen, gierzwaluw, huismus en 
+huiszwaluw. Andere soorten worden betrokken wanneer de quickscan of het 
+bevoegd gezag daartoe aanleiding geeft. 
+Gebruikers Het SMP wordt ingericht voor particulieren, VvE's, woningcorporaties, 
+gemeentelijk vastgoed, MKB, projectontwikkelaars en isolatiebedrijven, voor 
+zover de vergunning en wetgeving dit toelaten. 
+Vergunningaanvraag Gemeente Hulst dient de aanvraag formeel in via het DSO.  
+Monitoring Het opstellen en overdraagbaar opleveren van het monitorings- en 
+evaluatieplan behoort tot de vaste scope. De uitvoering van de langjarige 
+monitoring in de gebruiksfase behoort niet tot deze opdracht. 
+Telemetrie Telemetrieonderzoek behoort uitsluitend als afzonderlijke optie tot de 
+overeenkomst en wordt alleen na een schriftelijke opdracht uitgevoerd. 
+Vaste prijs en 
+meerwerk 
+De vaste prijs omvat alles wat redelijkerwijs nodig is voor de vaste scope. 
+Werkzaamheden buiten de vaste scope worden alleen na een voorafgaande 
+schriftelijke opdracht uitgevoerd. 
+ 
+A. Vereisten Soortenmanagementplan (SMP) 
+Nr. Eis 
+1 Het SMP en de onderliggende producten worden opgesteld conform de op het moment van 
+uitvoering geldende wet- en regelgeving, beleidsregels, kennisdocumenten en 
+onderzoeksprotocollen. Minimaal wordt aangesloten bij: 
+a. de Omgevingswet en de onderliggende regelgeving voor flora- en fauna-activiteiten; 
+b. de Beleidsregels Natuurbescherming Zeeland 2022 en daaropvolgende wijzigingen, 
+waaronder de wijzigingen van 5 december 2023 en 30 september 2025; 
+c. de actuele uitgangspunten van Provincie Zeeland voor SMP's en gebiedsgerichte 
+vergunningverlening; 
+d. de meest recente relevante kennisdocumenten van BIJ12 en landelijke of provinciale 
+ 
+ 
+ 
+ 
+ 
+3/8 
+onderzoeksprotocollen; 
+e. de methodiek Natuurvriendelijk Isoleren en de pre-SMP-systematiek, voor zover van 
+toepassing op Hulst. 
+2 De werkzaamheden worden uitgevoerd en inhoudelijk beoordeeld door deskundigen met 
+aantoonbare ervaring met de betreffende soorten en met gebiedsgericht ecologisch 
+onderzoek. De projectorganisatie beschikt gedurende de opdracht minimaal over een 
+senior ecologisch projectleider, uitvoerende ecologen en een GIS-specialist. Belangrijke 
+producten worden vóór indiening intern gereviewd. 
+3 Opdrachtnemer start met een gegevensinventarisatie en beoordeelt de bruikbaarheid,  
+actualiteit, volledigheid en beperkingen van de beschikbare gegevens. Gemeente Hulst 
+stelt, voor zover beschikbaar, noodzakelijk en rechtmatig deelbaar, onder meer 
+beschikbaar: 
+a. de kaart met komgrenzen en beschikbare geografische bestanden; 
+b. adresgegevens van gebouwen en objecten, zonder namen van eigenaren, huurders of 
+gebruikers; 
+c. gegevens over woningcorporatiebezit, zonder persoonsgegevens van huurders; 
+d. gegevens over bomen, groenstructuren en groenbeheer; 
+e. informatie over relevante gemeentelijke projecten waarover het college heeft besloten 
+en die mag worden gedeeld; 
+f. beschikbare ecologische onderzoeken nadat persoonsgegevens zijn verwijderd of 
+geanonimiseerd. 
+De onderzoeksaanpak mag niet afhankelijk zijn van persoonsgegevens die de gemeente 
+niet kan verstrekken. 
+4 Het basisonderzoek bestaat minimaal uit: 
+a. literatuur- en bronnenonderzoek; 
+b. een gebiedsdekkende quickscan naar potentiële aanwezigheid van beschermde soorten; 
+c. identificatie van kansrijke structuren en objecten, hotspots, functioneel leefgebied, 
+foerageergebieden, vliegroutes, kraam- en massawinterverblijfplaatsen en bijzondere 
+locaties; 
+d. verkennende veldbezoeken; 
+e. een overzicht van kennishiaten en een onderbouwd voorstel voor het soortgerichte 
+onderzoek; 
+f. een heldere rapportage met kaarten, tabellen, conclusies, onzekerheden en gebruikte 
+bronnen. 
+5 Opdrachtnemer stelt op basis van de quickscan een onderzoeksstrategie op met een 
+logische deelgebiedsindeling, onderzoeksrondes, seizoensvensters, personele inzet, 
+apparatuur, kwaliteitscontroles, gegevensverwerking en een planning met voldoende 
+buffers. De strategie maakt inzichtelijk hoe het gehele onderzoeksgebied, inclusief 
+ecologisch relevante bijzondere objecten en functionele structuren, voldoende wordt 
+onderzocht. 
+6 Het soortgerichte onderzoek richt zich minimaal op: 
+a. gebouwbewonende vleermuizen: verblijfplaatsen, functies, netwerken, vliegroutes en 
+foerageergebieden; 
+b. gierzwaluw: nestlocaties, kolonies of bolwerken, nestindicerend gedrag en relevante 
+gebouwstructuren; 
+ 
+ 
+ 
+ 
+ 
+4/8 
+c. huismus: nestlocaties, bolwerken, functioneel leefgebied, foerageergebied en 
+schuilplaatsen; 
+d. huiszwaluw: nestlocaties, kolonies, foerageergebied en relevante structuren; 
+ 
+Opdrachtnemer onderbouwt welke aanvullende beschermde soorten wel of niet worden 
+meegenomen. Onverwachte soorten of functies worden direct gemeld. Aanvullend 
+onderzoek buiten de vaste scope wordt alleen na een schriftelijk besluit van 
+Opdrachtgever uitgevoerd. 
+7 Er wordt gebruikgemaakt van de meest recente, vastgestelde soortspecifieke protocollen 
+en richtlijnen. Afwijkingen worden vooraf deugdelijk, transparant en toetsbaar 
+gemotiveerd en met Opdrachtgever en Provincie Zeeland afgestemd. Nestplaatsen en 
+belangrijke of kwetsbare verblijfplaatsen worden minimaal op adres- of objectniveau 
+vastgelegd, met inachtneming van privacy en bescherming van gevoelige soortgegevens. 
+8 Als uitgangspunt voor het veldonderzoek hanteert Opdrachtnemer de Handreiking SMP-
+Methodiek Utrecht van Bureau Viridis. Deze methodiek geldt als voorkeursmethodiek voor 
+de onderzoeksopzet. Indien de kenmerken van het onderzoeksgebied, de te onderzoeken 
+soorten of eisen van het bevoegd gezag daartoe aanleiding geven, kan aanvullend of 
+afwijkend onderzoek noodzakelijk zijn. Opdrachtnemer motiveert dit vooraf en stemt dit af 
+met Opdrachtgever. De onderzoeksopzet dient in alle gevallen toereikend te zijn voor de 
+ecologische onderbouwing van de beoogde gebiedsgerichte omgevingsvergunning. 
+9 Telemetrieonderzoek maakt geen onderdeel uit van de vaste scope. Wanneer telemetrie 
+ecologisch of vergunningtechnisch noodzakelijk of wenselijk blijkt, beschrijft 
+Opdrachtnemer vooraf de aanleiding, onderzoeksvraag, methode, benodigde 
+toestemmingen, planning en kosten. Uitvoering vindt uitsluitend plaats na schriftelijke 
+opdracht van Gemeente Hulst. 
+10 De effectbepaling bevat minimaal: 
+a. een overzicht van kwetsbare gebieden, essentiële functies en relevante netwerken in en 
+rond het SMP-gebied; 
+b. een beschrijving van de activiteiten die onder het SMP en de beoogde vergunning 
+moeten vallen, inclusief aard, omvang, spreiding en planning; 
+c. een analyse van negatieve effecten op soorten, functies, netwerken en functioneel 
+leefgebied; 
+d. een onderbouwde conclusie over de gevolgen voor het lokale voorkomen en de staat 
+van instandhouding van iedere relevante soort; 
+e. een beschrijving van onzekerheden, cumulatieve effecten en uitgangspunten voor 
+adaptief beheer. 
+11 Het mitigatie- en compensatieplan bevat minimaal: 
+a. maatregelen om schade te voorkomen of te beperken en populaties duurzaam in stand 
+te houden; 
+b. behoud en waar nodig herstel of reconstructie van oorspronkelijke verblijfplaatsen en 
+nestlocaties; 
+c. alternatieve voorzieningen, met onderscheid tussen tijdelijk, permanent, experimenteel 
+en bewezen effectief; 
+d. onderbouwing van aantallen, variatie, locatiekeuze, timing, beheer, onderhoud en 
+kwaliteitscontrole; 
+e. de relatie met eventuele pre-SMP-compensatie en een tweede fase compensatieplan; 
+ 
+ 
+ 
+ 
+ 
+5/8 
+f. de wijze waarop maatregelen op basis van monitoring en evaluatie kunnen worden 
+aangepast. 
+ 
+Het mitigatie- en compensatieplan wordt in overleg met gemeente Hulst en Provincie 
+Zeeland opgesteld. 
+12 Opdrachtnemer stelt in overleg met gemeente Hulst en Provincie Zeeland een uitvoerbaar 
+monitorings- en evaluatieplan op. Het plan beschrijft ten minste doelen, nulwaarden, 
+indicatoren, beoordelings- en drempelwaarden, te monitoren activiteiten en maatregelen, 
+populatieontwikkeling en essentiële functies, meetmethoden, frequenties, 
+kwaliteitscontroles, verantwoordelijkheden, gegevensbeheer, rapportages en bijsturing. De 
+feitelijke langjarige uitvoering van dit plan in de gebruiksfase valt buiten deze opdracht. 
+13 Opdrachtnemer levert een gecombineerd implementatieplan en proces-, administratie- en 
+managementplan op. Dit is een praktisch werkdocument voor de gebruiksfase en bevat 
+minimaal: 
+a. gemeentelijke rollen, verantwoordelijkheden, mandaten en escalatielijnen, inclusief de 
+rol van een SMP-coördinator; 
+b. intake, toetsing en besluitvorming voor projecten en gebruikers; 
+c. meldings-, werk-, controle-, afwijkings- en calamiteitenprocessen; 
+d. natuurboekhouding, dossieropbouw, archivering en rapportage aan het bevoegd gezag; 
+e. beheer en actualisatie van GIS, gegevens en werkprotocollen; 
+f. een gebruikers- en activiteitenmatrix voor particulieren, VvE's, woningcorporaties, 
+gemeentelijk vastgoed, MKB, projectontwikkelaars en isolatiebedrijven; 
+g. kennisoverdracht, instructie van medewerkers, benodigde capaciteit en een 
+beheeradvies voor de gebruiksfase. 
+14 Alle onderzoeksdata, analyses, maatregelen en beslisinformatie worden digitaal, 
+gestructureerd en overdraagbaar vastgelegd. De GIS-levering bevat minimaal de 
+onderzoeksgrenzen en deelgebieden, waarnemingen en onderzoeksrondes, verblijfplaatsen 
+en nestlocaties, functioneel leefgebied, vliegroutes en foerageergebieden, maatregelen, 
+geplande monitoringlocaties en onzekerheden. 
+Ruimtelijke gegevens worden bij voorkeur geleverd via een duurzame WFS-service of als 
+GeoPackage; indien dat niet passend is als volledige Shapefile-set en pas als laatste 
+alternatief als CSV/XLS met coördinaten. Iedere levering bevat unieke identificatoren, 
+geldige geometrie, overeengekomen coördinatenstelsel, bronvermelding, 
+actualiteitsdatum, kwaliteitskenmerken, toegangsrechten, publicatiebeperkingen, 
+metadata en een datadictionary. 
+Exacte locaties van kwetsbare verblijfplaatsen en andere gevoelige soortgegevens worden 
+in een besloten kaartlaag en beveiligde omgeving beheerd. Een eventuele publiekskaart 
+bevat uitsluitend geaggregeerde of gegeneraliseerde informatie. De gemeente en een 
+opvolgende beheerder moeten zonder leveranciersafhankelijkheid met de gegevens 
+kunnen werken. 
+15 Het definitieve SMP vormt één samenhangend en zelfstandig toetsbaar document. Het 
+bevat minimaal algemene gebiedsinformatie, de beoogde activiteiten, aanwezige soorten 
+en functies, ambitie en meerwaarde, relevante verbodsbepalingen, wettelijk belang, 
+alternatievenafweging, effecten op de staat van instandhouding, onderzoeksresultaten, 
+maatregelen, monitoring, implementatie en beheer. Losse onderzoeksrapportages zonder 
+samenhangend en toepasbaar SMP gelden niet als volledige oplevering. 
+ 
+ 
+ 
+ 
+ 
+6/8 
+ 
+ 
+B. Vereisten toepassing van het SMP 
+Nr. Eis 
+1 Opdrachtnemer plant en voert de werkzaamheden zo uit dat binnen de looptijd van 18 
+maanden een definitief SMP beschikbaar is. De planning houdt rekening met de 
+noodzakelijke onderzoeksseizoenen, gemeentelijke besluitvorming, interne reviews en 
+afstemming met Provincie Zeeland. 
+2 Gemeente Hulst is de formele aanvrager en dient de vergunningaanvraag via het DSO in. 
+Opdrachtnemer: 
+a. stemt tijdig af met Gemeente Hulst, Provincie Zeeland en eventuele 
+uitvoeringsdiensten; 
+b. stelt alle ecologische, juridisch-technische en ruimtelijke onderbouwingen op; 
+3 Opdrachtnemer beantwoordt en verwerkt binnen de contractduur vragen en 
+aanvullingsverzoeken van het bevoegd gezag die rechtstreeks verband houden met de 
+kwaliteit of volledigheid van de geleverde stukken en binnen de oorspronkelijke scope 
+vallen. Een verzoek dat leidt tot een nieuwe onderzoekscampagne, een wezenlijke 
+gebiedsuitbreiding, toevoeging van niet voorziene soorten of een andere wezenlijke 
+scopewijziging wordt vooraf als wijziging beoordeeld en alleen na schriftelijke opdracht 
+uitgevoerd. 
+4 Opdrachtnemer is verantwoordelijk voor een zorgvuldig, compleet, intern samenhangend 
+dossier. Het definitieve vergunningbesluit valt buiten de resultaatsverplichting. 
+5 Het SMP, het implementatieplan en de gebruikers- en activiteitenmatrix beschrijven per 
+relevante actor en activiteit de toegestane handelingen en grenzen, de vereiste intake of 
+ecologische toets, eventuele aansluiting of machtiging, melding en registratie, 
+maatregelen en werkprotocollen, toezicht en controle, dossieropbouw, eventuele kosten of 
+leges en de situaties waarin een afzonderlijke beoordeling of vergunning nodig blijft. 
+Opdrachtnemer doet uitvoerbare voorstellen; definitieve bestuurlijke en juridische keuzes 
+worden door Gemeente Hulst vastgesteld. 
+ 
+C. Projectmanagement, samenwerking en communicatie 
+Nr. Eis 
+1 Binnen vier weken na opdrachtverlening levert Opdrachtnemer een projectplan ter 
+goedkeuring op. Het projectplan bevat minimaal de uitvoeringsaanpak, detailplanning, 
+onderzoeksvensters, projectorganisatie, kwaliteitsborging, gegevensaanpak, 
+communicatieaanpak, risico- en besluitenregister en de overlegstructuur. 
+2 Minimaal eenmaal per maand vindt voortgangsoverleg plaats tussen Opdrachtnemer en 
+Opdrachtgever. In ieder geval worden voortgang, planning, capaciteit, 
+onderzoeksvensters, kwaliteit, risico's, financiën en GIS besproken. Opdrachtnemer levert 
+uiterlijk tien werkdagen na het overleg een besluiten- en actielijst aan. 
+3 Minimaal eenmaal per kwartaal en bij kritieke inhoudelijke mijlpalen vindt afstemming 
+ 
+ 
+ 
+ 
+ 
+7/8 
+plaats met Provincie Zeeland. Opdrachtnemer neemt in overleg met Opdrachtgever het 
+initiatief, bereidt de inhoud voor en legt afspraken en consequenties vast. 
+4 Opdrachtnemer houdt gedurende de opdracht een actueel risico- en besluitenregister bij 
+en rapporteert periodiek over voortgang en kwaliteit. Kritieke risico's, onvoldoende 
+capaciteit of dreigende overschrijding van mijlpalen worden onmiddellijk gemeld, met een 
+concreet herstelvoorstel en de gevolgen voor planning en resultaten. 
+5 Opdrachtnemer levert tijdig inhoudelijke input voor communicatie over het veldonderzoek, 
+natuurvriendelijk isoleren en de toekomstige gebruiksfase. De communicatieaanpak 
+besteedt minimaal aandacht aan avond- en nachtwerk, herkenbaarheid van onderzoekers, 
+privacy, toegang, mogelijke hinder, incidenten, kernboodschappen en veelgestelde vragen. 
+Gemeente Hulst blijft verantwoordelijk voor bestuurlijke en externe communicatie, tenzij 
+schriftelijk anders overeengekomen. 
+6 Opdrachtnemer wijst één vast aanspreekpunt aan en zorgt voor een gelijkwaardige vaste 
+vervanger. Sleutelpersonen zijn gedurende de opdracht beschikbaar. Vervanging is alleen 
+toegestaan na voorafgaande schriftelijke toestemming van Opdrachtgever en door een 
+minimaal gelijkwaardige persoon. 
+7 Opdrachtnemer verwerkt gemeentelijke en ecologische gegevens uitsluitend voor de 
+uitvoering van de opdracht en treft passende technische en organisatorische 
+beveiligingsmaatregelen. Exacte soortlocaties en andere gevoelige gegevens worden niet 
+via onbeveiligde kanalen gedeeld. Beveiligingsincidenten, gegevensverlies en datalekken 
+worden onverwijld gemeld. 
+ 
+D. Opleverproducten en acceptatie 
+Mijlpaal Product Status 
+M1 Projectplan, gegevensinventarisatie, communicatieaanpak, 
+kwaliteitsaanpak en risico- en besluitenregister 
+Concept en 
+definitief 
+M2 Gebiedsdekkende quickscan, onderzoeksstrategie, scope- en 
+objectmatrix en deelgebiedsindeling 
+Concept en 
+definitief 
+M3 Gevalideerde onderzoeksresultaten, nulmeting, onderzoeksrapportages 
+en bijbehorende GIS-data 
+Concept en 
+definitief 
+M4 Concept-SMP, effectbepaling, mitigatie- en compensatieplan, 
+implementatieplan en monitorings- en evaluatieplan 
+Concept 
+M5 Definitief SMP en complete GIS-dataset met metadata, datadictionary en 
+bronbestanden 
+Definitief 
+M6 Gebruikers- en activiteitenmatrix, gemeentelijke werkprocessen, beheer- 
+en actualisatieadvies en kennisoverdracht 
+Definitief 
+M7 Eindrapportage en volledig overdrachtsdossier Definitief 
+binnen 18 
+maanden 
+ 
+ 
+ 
+ 
+ 
+ 
+8/8 
+Acceptatie 
+• Opdrachtgever beoordeelt de conceptproducten. Opdrachtnemer verwerkt alle redelijkerwijs 
+gegronde opmerkingen en toont aan hoe deze zijn verwerkt. 
+• Een definitief product wordt geaccepteerd wanneer het volledig, juist, navolgbaar, onderling 
+consistent, praktisch bruikbaar en in de afgesproken formaten is opgeleverd, inclusief 
+onderliggende data, bronbestanden en metadata. 
+• De opdracht is niet volledig afgerond bij uitsluitend losse onderzoeksrapportages, een niet-
+vergunningwaardig dossier, niet-overdraagbare GIS-data, onvoldoende bescherming van gevoelige 
+gegevens of wanneer de gemeente de resultaten niet zelfstandig kan toepassen en beheren.
+
+=== Document: uea_600026_20260706122318 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 30TN-600026 - 6 jul 2026
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 600026
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: gemeente Hulst
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Opstellen Soortenmanagementplan (SMP) Gemeente Hulst
+Korte beschrijving van de 
+aanbesteding:
+Het onderzoeksgebied bestaat in beginsel uit bebouwing binnen de komgrenzen van 
+de gemeente Hulst. Naast reguliere woonbebouwing dienen bijzondere objecten 
+binnen of direct grenzend aan deze komgrenzen expliciet te worden beschouwd, 
+waarbij onderbouwd wordt welke objecten ecologisch relevant zijn en welke 
+onderzoeksinspanning passend is. De opdracht omvat naar verwachting onder meer: 
+• bureauonderzoek en gegevensinventarisatie; • gebiedsdekkende quickscan; • 
+soortgericht ecologisch onderzoek en nulmeting; • analyse van beschermde 
+gebouwbewonende soorten; • eﬀectbepaling; • opstellen van een concept en 
+deﬁnitief SMP; • mitigatie- en compensatiestrategie; • monitorings- en evaluatieplan; • 
+proces-, administratie- en managementplan; • GIS-dataset, kaartlagen, metadata en 
+dataoverdracht; • afstemming met overheden De opdrachtnemer is verantwoordelijk 
+voor de samenhang tussen onderzoek, analyse, eﬀectbepaling, planvorming, 
+vergunningaanvraag, GIS-data, monitoring en overdracht
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+703708
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 30TN-600026 - 6 jul 2026
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 30TN-600026 - 6 jul 2026
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 30TN-600026 - 6 jul 2026
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 30TN-600026 - 6 jul 2026
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 30TN-600026 - 6 jul 2026
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 30TN-600026 - 6 jul 2026
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 30TN-600026 - 6 jul 2026
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 30TN-600026 - 6 jul 2026
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 30TN-600026 - 6 jul 2026
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 30TN-600026 - 6 jul 2026
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 30TN-600026 - 6 jul 2026
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 30TN-600026 - 6 jul 2026
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 30TN-600026 - 6 jul 2026
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 30TN-600026 - 6 jul 2026
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 30TN-600026 - 6 jul 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 30TN-600026 - 6 jul 2026
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 30TN-600026 - 6 jul 2026
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 30TN-600026 - 6 jul 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 30TN-600026 - 6 jul 2026
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het 
+milieu-, sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 30TN-600026 - 6 jul 2026
+Beschrijf de genomen maatregelen:
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers 
+getroﬀen, of hij verkeert in een andere, vergelijkbare toestand ingevolge een 
+soortgelijke procedure uit hoofde van nationale wet- of regelgeving, of zijn activa 
+worden beheerd door een curator of door de rechtbank, of zijn bedrijfsactiviteiten 
+zijn gestaakt?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 30TN-600026 - 6 jul 2026
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Ernstige beroepsfout
+Wetsverwijzing(en): Artikel 2.87, lid 1c Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer zich schuldig gemaakt aan ernstige beroepsfouten?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 30TN-600026 - 6 jul 2026
+Beschrijf de genomen maatregelen:
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht 
+zijn op vervalsing van de mededinging?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 30TN-600026 - 6 jul 2026
+Beschrijf de genomen maatregelen:
+Belangenconﬂict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconﬂict als gevolg van zijn 
+deelneming aan de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 30TN-600026 - 6 jul 2026
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of 
+een met hem verbonden onderneming anderszins betrokken geweest bij de 
+voorbereiding van de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Prestaties uit het verleden
+Wetsverwijzing(en): Artikel 2.87, lid 1g Aanbestedingswet 2012
+Juridische beschrijving: Is het de ondernemer overkomen dat een eerdere overheidsopdracht, een eerdere 
+opdracht van een aanbestedende entiteit of een eerdere concessieovereenkomst 
+heeft geleid tot vroegtijdige beëindiging, tot schadevergoeding of tot andere 
+vergelijkbare sancties?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 30TN-600026 - 6 jul 2026
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft 
+gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is om 
+te controleren of er geen gronden voor uitsluiting zijn dan wel of aan de 
+selectiecriteria wordt voldaan, hij dergelijke informatie niet heeft achtergehouden, hij 
+de door de aanbestedende dienst of aanbestedende entiteit gevraagde 
+ondersteunende documenten onverwijld heeft kunnen overleggen.
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 30TN-600026 - 6 jul 2026
+a.  
+b.  
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces 
+van de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,
+om vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, 
+selectie of gunning?
+Bevestigen:  Ja
+ Nee
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 30TN-600026 - 6 jul 2026
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 29 van 30TN-600026 - 6 jul 2026
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 30 van 30TN-600026 - 6 jul 2026
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: aanbestedingsleidraad opstellen smp - gemeente hulst ===
+1/40 Waar het land ademt en de stad leeft 
+ 
+GEMEENTE HULST 
+AANBESTEDINGSLEIDRAAD 
+Europese openbare aanbesteding 
+Opstellen Soortenmanagementplan (SMP) 
+Gemeente Hulst 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Onderdeel Invulling 
+Document Aanbestedingsleidraad 
+Opdracht Opstellen Soortenmanagementplan (SMP) - 
+Gemeente Hulst 
+Procedure Europese openbare aanbesteding 
+Opdrachtgever Gemeente Hulst 
+Opgesteld door Gemeente Hulst 
+Datum 15 september 2026 
+TenderNed-kenmerk 600026 
+Dossiernummer 703708 
+Status Definitief 
+ 
+ 
+ 
+ 
+ 
+2/40 
+Inleiding 
+Aanleiding 
+De gemeente Hulst onderschrijft de landelijke en provinciale ambities op het gebied van 
+verduurzaming van de gebouwde omgeving en bescherming van beschermde soorten. De 
+gemeente wenst uitvoering te geven aan de uitgangspunten van de landelijke aanpak 
+Natuurvriendelijk Isoleren. 
+Werkzaamheden zoals isoleren, renoveren, verduurzamen en onderhouden van gebouwen kunnen 
+gevolgen hebben voor beschermde gebouwbewonende soorten. Om deze opgave structureel en 
+gebiedsgericht aan te pakken wenst de gemeente Hulst een Soortenmanagementplan (SMP) voor 
+de komgrenzen (zie bijlage 10) binnen de gemeente Hulst op te laten stellen. 
+Een SMP biedt de mogelijkheid om verduurzamingsmaatregelen op grotere schaal mogelijk te 
+maken, terwijl tegelijkertijd invulling wordt gegeven aan de wettelijke verplichtingen ten aanzien 
+van soortenbescherming. 
+Leeswijzer 
+Deze aanbestedingsleidraad beschrijft het aanbestedingskader, de procedurele keuzes, de 
+voorwaarden voor deelname, de eisen aan de inschrijver en de inschrijving, het gunningscriterium, 
+de beoordelingsmethodiek en de contractuele uitgangspunten voor de aanbesteding van het 
+Soortenmanagementplan voor de gemeente Hulst. De inhoudelijke eisen aan de uitvoering zijn 
+opgenomen in het Programma van Eisen (Bijlage 1). 
+De aanbestedingsdocumenten moeten in samenhang worden gelezen. Inschrijvers worden geacht 
+alle documenten zorgvuldig te bestuderen en onduidelijkheden, tegenstrijdigheden, fouten of 
+omissies tijdig via TenderNed te melden. 
+Kern van de aanbesteding 
+Onderstaande tabel geeft de belangrijkste procedurele keuzes en uitgangspunten in één overzicht. 
+De uitwerking in de betreffende hoofdstukken en de overige aanbestedingsdocumenten is leidend. 
+Onderwerp Uitgangspunt Gemeente Hulst 
+Procedure Europese openbare aanbestedingsprocedure, volledig digitaal via 
+TenderNed. 
+Typering opdracht 
+Integrale dienstenopdracht voor onderzoek, opstellen SMP, een 
+implementatieplan, een monitorings- en evaluatieplan, GIS en 
+kennisoverdracht. 
+Percelen Eén perceel; deelinschrijvingen zijn niet toegestaan. 
+Varianten Varianten en alternatieve inschrijvingen zijn niet toegestaan. 
+Gunning Laagste geldige beoordelingsprijs (100% prijs), na toetsing aan 
+uitsluitingsgronden, geschiktheidseisen en minimumvereisten. 
+Raming € 500.000 exclusief btw; indicatieve raming en geen plafondprijs. 
+Looptijd Vaste looptijd van 18 maanden. Eventuele verlening is bespreekbaar met 
+een maximale uitloop van 6 maanden. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+3/40 
+Inhoudsopgave 
+ 
+Inleiding ................................................................................................................................................... 2 
+Aanleiding ............................................................................................................................................ 2 
+Leeswijzer ............................................................................................................................................ 2 
+Kern van de aanbesteding ................................................................................................................... 2 
+Inhoudsopgave ........................................................................................................................................ 3 
+1. Aanbestedingskader ............................................................................................................................ 6 
+1.1 Aanbestedende dienst ................................................................................................................... 6 
+1.2 Doelstelling van de opdracht ......................................................................................................... 6 
+1.3 Resultaat ........................................................................................................................................ 7 
+1.4 Juridisch en beleidsmatig kader .................................................................................................... 7 
+2. De opdracht | Omschrijving, scope en uitgangspunten ....................................................................... 8 
+2.1 Algemeen ....................................................................................................................................... 8 
+2.2 Onderzoeksgebied en prijsbasis .................................................................................................... 8 
+2.3 Gebruikers en actoren ................................................................................................................... 8 
+2.4 Minimale doelsoorten en aanvullende bevindingen ....................................................................... 8 
+2.5 Vaststaande keuzes en begeleidingsopgave ................................................................................ 9 
+2.6 Beschikbare gegevens bij start opdracht ....................................................................................... 9 
+2.7 Integrale verantwoordelijkheid ..................................................................................................... 10 
+2.8 Vaste scope, opties en meerwerk ................................................................................................ 10 
+2.9 Werkzaamheden en resultaten .................................................................................................... 10 
+2.10 Implementatieplan en monitoringsplan ...................................................................................... 11 
+2.11 GIS, datakwaliteit en aanleverformaten ..................................................................................... 11 
+3. Aanbestedingsprocedure en uitgangspunten .................................................................................... 13 
+3.1 Procedure en juridisch kader ....................................................................................................... 13 
+3.2 Inkoop- en aanbestedingsbeleid .................................................................................................. 13 
+3.3 Digitale aanbesteding .................................................................................................................. 13 
+3.4 Taal .............................................................................................................................................. 13 
+3.5 Kosten .......................................................................................................................................... 13 
+3.6 Voorbehoud ................................................................................................................................. 13 
+3.7 Klachtenregeling .......................................................................................................................... 13 
+3.8 Social Return ............................................................................................................................... 15 
+3.9 Clusteren en percelen .................................................................................................................. 15 
+ 
+ 
+ 
+ 
+ 
+4/40 
+3.10 Varianten .................................................................................................................................... 16 
+3.11 Voorwaarden voor deelname en vertrouwelijkheid .................................................................... 16 
+3.12 Planning en inlichtingen ............................................................................................................. 16 
+3.13 Nota van Inlichtingen ................................................................................................................. 17 
+3.14 Uitsluitingsgronden en geschiktheid .......................................................................................... 18 
+3.15 Uitsluiting Russische partijen ..................................................................................................... 19 
+3.16 Wet Bibob .................................................................................................................................. 20 
+4. Geschiktheidseisen ........................................................................................................................... 21 
+4.1 Economische en financiële draagkracht ...................................................................................... 21 
+4.2 Technische- en beroepsbekwaamheid ........................................................................................ 21 
+4.3 Referentieperiode ........................................................................................................................ 22 
+4.4 Sleutelpersonen ........................................................................................................................... 22 
+4.5 Eisen aan de CV’s ....................................................................................................................... 22 
+4.6 Beschikbaarheid en vervanging ................................................................................................... 23 
+4.7 Capaciteitsverklaring.................................................................................................................... 23 
+4.8 Inschrijvingsvormen ..................................................................................................................... 23 
+4.9 Uniform Europees Aanbestedingsdocument (UEA) .................................................................... 24 
+4.10 Eisen aan de inschrijving ........................................................................................................... 26 
+5. Plan van Aanpak ............................................................................................................................... 27 
+5.1 Doel en status .............................................................................................................................. 27 
+5.2 Algemene uitgangspunten ........................................................................................................... 28 
+5.3 Verplichte onderdelen .................................................................................................................. 28 
+5.4 Niet gewenste inhoud .................................................................................................................. 29 
+6. Gunningscriterium: prijs en beoordeling ............................................................................................ 30 
+6.1  Gunningsmethodiek .................................................................................................................... 30 
+6.2 Geraamde waarde ....................................................................................................................... 30 
+6.3 Beoordelingsprijs ......................................................................................................................... 30 
+6.4 Prijscontrole en rangschikking ..................................................................................................... 30 
+6.5 Abnormaal lage of niet-realistische prijs ...................................................................................... 31 
+6.6 Gelijke laagste prijs ...................................................................................................................... 31 
+6.7 Opties en aanvullende werkzaamheden...................................................................................... 31 
+6.8 Prijsopbouw en open begroting ................................................................................................... 31 
+6.9 Beoordelingsmethodiek ............................................................................................................... 32 
+6.10 Verificatie en gunning ................................................................................................................ 33 
+ 
+ 
+ 
+ 
+ 
+5/40 
+6.11 Gunning ..................................................................................................................................... 34 
+7. Contractuele voorwaarden | Overeenkomst en financiële bepalingen .............................................. 35 
+7.1 Contractdocumenten en algemene voorwaarden ........................................................................ 35 
+7.2 Looptijd en afronding ................................................................................................................... 35 
+7.3 Projectorganisatie ........................................................................................................................ 35 
+7.4 Rapportage, overleg en risicosturing ........................................................................................... 35 
+7.5 Opties, wijzigingen en meerwerk ................................................................................................. 35 
+7.6 Vergunningdossier en bevoegd gezag ........................................................................................ 36 
+7.7 Aansprakelijkheid, verzekering, vrijwaring en boetes .................................................................. 36 
+7.8 Kritieke mijlpalen .......................................................................................................................... 36 
+7.9 Herzieningsclausule en wijzigingen ............................................................................................. 36 
+7.10 Financiële bepalingen ................................................................................................................ 37 
+7.11 Intellectueel eigendom en data .................................................................................................. 37 
+7.12 AVG en vertrouwelijkheid .......................................................................................................... 38 
+7.13 Kwaliteit en succesvol SMP ....................................................................................................... 39 
+8. Bijlagen .............................................................................................................................................. 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+6/40 
+1. Aanbestedingskader 
+1.1 Aanbestedende dienst 
+De aanbestedende dienst is de gemeente Hulst, hierna te noemen: Opdrachtgever. De gemeente 
+Hulst treedt op als opdrachtgever voor deze Europese aanbestedingsprocedure en is 
+verantwoordelijk voor alle besluiten die voortvloeien uit deze procedure. 
+Gegeven Invulling 
+Aanbestedende dienst Gemeente Hulst 
+Officiële contactpersoon TenderNed Nienke Dekkers-Bijlsma 
+E-mail info@gemeentehulst.nl 
+Telefoon 140114 
+Internetadres www.gemeentehulst.nl 
+TenderNed-kenmerk 600026 
+Zaak-/dossiernummer 703708 
+Rechtsvorm koper Regionale overheid 
+Activiteit aanbestedende dienst Algemene overheidsdiensten 
+NUTS-code NL341 - Zeeuwsch-Vlaanderen 
+Financiering uit EU-fondsen Nee 
+GPA van toepassing Ja 
+Belangrijkste CPV-code 90721700 - Diensten voor bescherming van bedreigde 
+planten- en diersoorten 
+Aanvullende CPV-code 73100000 - Onderzoek en experimentele ontwikkeling 
+Aanvullende CPV-code 73200000 - Advies inzake onderzoek en ontwikkeling 
+Aanvullende CPV-code 73300000 - Planning en uitvoering van onderzoek en 
+ontwikkeling 
+De CPV-codes en de contractduur zijn overgenomen uit de officiële TenderNed-vooraankondiging 
+TN-600026 en de nadere besluitvorming van Gemeente Hulst. Alle formele communicatie over deze 
+aanbestedingsprocedure verloopt via TenderNed. 
+ 
+1.2 Doelstelling van de opdracht 
+De gemeente Hulst streeft naar een Soortenmanagementplan (SMP) voor de komgrenzen van 
+gemeente Hulst (zie bijlage 10) dat juridisch houdbaar, praktisch toepasbaar en uitvoerbaar is 
+binnen de gemeentelijke organisatie, breed inzetbaar is voor de activiteiten die binnen de 
+reikwijdte van het SMP en de gebiedsgerichte vergunning vallen, en na oplevering zelfstandig door 
+de gemeente kan worden beheerd en geactualiseerd. 
+Op basis van uitgebreid ecologisch onderzoek moet het SMP de gemeente in staat stellen om bij de 
+Provincie Zeeland een gebiedsgerichte omgevingsvergunning voor flora- en fauna-activiteiten aan 
+te vragen met een looptijd van tien jaar. Binnen de voorwaarden van deze vergunning kunnen 
+woningeigenaren werkzaamheden aan gebouwen uitvoeren, zoals verduurzaming, onderhoud, 
+renovatie, sloop en nieuwbouw, zonder daarvoor telkens afzonderlijk ecologisch onderzoek te laten 
+uitvoeren. Voor kritieke situaties kunnen uitzonderingen gelden, bijvoorbeeld bij mogelijke 
+massawinterverblijven of kraamverblijven van zeldzame vleermuissoorten. 
+De gemeente zoekt daarom geen partij die uitsluitend ecologisch onderzoek uitvoert, maar een 
+opdrachtnemer die integraal verantwoordelijk is voor de onderzoeksstrategie, de ecologische 
+onderzoeken en soortenanalyse, de mitigatie- en compensatiemaatregelen, de implementatie- en 
+monitoringsplannen, de vergunningwaardige onderbouwing, een overdraagbare GIS-dataset waarin 
+de tijdens het SMP-onderzoek verzamelde gegevens over de SMP-soorten en hun relevante functies 
+ruimtelijk zijn vastgelegd; en de kennisoverdracht. De opdrachtnemer denkt gedurende de gehele 
+opdracht actief mee over risico’s, kansen, uitvoerbaarheid en vergunningwaardigheid. De 
+gemeente Hulst verzorgt uiteindelijk de formele indiening van de vergunningaanvraag via het DSO. 
+ 
+ 
+ 
+ 
+ 
+7/40 
+Het eindresultaat moet daarmee meer zijn dan een verzameling onderzoeksrapporten: het moet 
+een werkbaar instrument vormen voor soortenbescherming, vergunningverlening, verduurzaming 
+en beheer. 
+ 
+1.3 Resultaat 
+De opdracht wordt als succesvol beschouwd indien binnen 18 maanden minimaal wordt beschikt 
+over een vastgesteld Soortenmanagementplan, een vergunningwaardige onderbouwing, een 
+overdraagbare GIS-omgeving, een implementatieplan, een monitoringsplan en een 
+kennisoverdrachtsdossier. Het definitieve vergunningbesluit is niet een door opdrachtnemer te 
+garanderen resultaat. 
+1.4 Juridisch en beleidsmatig kader 
+De aanbesteding wordt uitgevoerd met inachtneming van de Aanbestedingswet 2012, het 
+Aanbestedingsbesluit, de Gids Proportionaliteit en het Inkoop- en aanbestedingsbeleid 2020 
+(Zeeuws-Vlaanderen). De gemeente hanteert de beginselen van transparantie, gelijke behandeling, 
+non-discriminatie en proportionaliteit. Door een inschrijving in te dienen, verklaart de inschrijver 
+zich te conformeren aan de aanbestedingsdocumenten en de toepasselijke wet- en regelgeving. Op 
+de te sluiten overeenkomst zijn de door Gemeente Hulst aangewezen VNG-model Algemene 
+Inkoopvoorwaarden voor leveringen en diensten van toepassing. 
+ 
+Inkoop- en aanbestedingsbeleid 2020 (Zeeuws-Vlaanderen): 
+https://lokaleregelgeving.overheid.nl/CVDR636449#hoofdstuk_5 
+ 
+VNG-model Algemene Inkoopvoorwaarden voor leveringen en diensten, versie 1, geldend vanaf 1 
+juni 2025: https://lokaleregelgeving.overheid.nl/CVDR739811/1 
+  
+ 
+ 
+ 
+ 
+ 
+8/40 
+2. De opdracht | Omschrijving, scope en uitgangspunten 
+2.1 Algemeen 
+De opdracht betreft alle werkzaamheden die noodzakelijk zijn voor het opstellen en overdraagbaar 
+opleveren van een gemeentebreed Soortenmanagementplan voor de komgrenzen (zie bijlage 10) 
+binnen de gemeente Hulst. De opdracht wordt als een integrale opdracht en als een perceel 
+aanbesteed. Onderzoek, analyse, planvorming, het opstellen van het implementatieplan en het 
+monitorings- en evaluatieplan, GIS, kennisoverdracht en de inhoudelijke voorbereiding van de 
+vergunningaanvraag vormen een samenhangend geheel. 
+De geraamde waarde van de opdracht bedraagt € 500.000 exclusief btw. Dit bedrag is een 
+indicatieve raming en geen plafondprijs. Een inschrijving wordt daarom niet uitsluitend vanwege 
+overschrijding van deze raming ongeldig verklaard. 
+ 
+2.2 Onderzoeksgebied en prijsbasis 
+Voor de prijsvorming geldt de bij publicatie van de aanbesteding gepubliceerde kaart "Komgrenzen 
+gemeente Hulst" als geografische basis. De vaste prijs omvat de objecten en objectcategorieën 
+binnen deze begrenzing voor zover zij in het Programma van Eisen (bijlage 1) tot de vaste scope 
+zijn gerekend. Het buitengebied behoort niet tot de primaire scope. 
+Een wijziging van de begrenzing of objectcategorieën voor de uiterste inschrijfdatum wordt 
+uitsluitend via TenderNed en, indien van toepassing, een Nota van Inlichtingen bekendgemaakt. 
+Een uitbreiding na contractering geldt alleen als onderdeel van de opdracht na een voorafgaande 
+schriftelijke scopewijziging. Opdrachtnemer brengt dan eerst de ecologische noodzaak, planning, 
+capaciteit en financiële gevolgen in beeld. 
+Aanvullend onderzoek buiten de gepubliceerde begrenzing wordt alleen uitgevoerd indien dit in de 
+aanbestedingsstukken uitdrukkelijk tot de vaste scope behoort of wanneer Opdrachtgever dit na 
+een schriftelijk gemotiveerd voorstel opdraagt. Bijzondere objecten binnen of direct grenzend aan 
+de komgrenzen worden overeenkomstig het Programma van Eisen expliciet beschouwd. 
+ 
+2.3 Gebruikers en actoren 
+Het SMP is bedoeld voor toepassing door of ten behoeve van particulieren, Verenigingen van 
+Eigenaren (VvE's), woningcorporaties, gemeentelijke gebouwen binnen de woonkernen, midden- 
+en kleinbedrijven, projectontwikkelaars en isolatiebedrijven. De feitelijke gebruiksmogelijkheden 
+per actor moeten passen binnen de reikwijdte en voorwaarden van het SMP, de gebiedsgerichte 
+vergunning en de toepasselijke wet- en regelgeving. 
+ 
+2.4 Minimale doelsoorten en aanvullende bevindingen 
+Het onderzoek en het SMP hebben in ieder geval betrekking op: 
+• gebouwbewonende vleermuissoorten; 
+• gierzwaluw; 
+• huismus; 
+• huiszwaluw; 
+Indien de quickscan of het veldonderzoek aanwijzingen oplevert voor een andere beschermde 
+vogelsoort, een andere ecologisch relevante soort of een niet voorziene soort-functiecombinatie, 
+meldt opdrachtnemer dit onverwijld. Opdrachtnemer levert een korte ecologische onderbouwing en 
+een voorstel voor eventuele aanvullende onderzoeksinspanning, inclusief gevolgen voor planning 
+en kosten. Opdrachtgever en opdrachtnemer besluiten vervolgens gezamenlijk of aanvullend 
+onderzoek wordt uitgevoerd. Indien noodzakelijk wordt dit schriftelijk bevestigd. Aanvullend 
+onderzoek start niet zonder voorafgaande schriftelijke opdracht, behoudens onmiddellijk 
+noodzakelijke maatregelen uit de wettelijke zorgplicht. 
+ 
+ 
+ 
+ 
+ 
+9/40 
+2.5 Vaststaande keuzes en begeleidingsopgave 
+Onderwerp Vaststaand uitgangspunt gemeente 
+Hulst 
+Te begeleiden of uit te 
+werken door 
+opdrachtnemer 
+Opdrachtstructuur Een integrale opdracht en een perceel. 
+Vertalen naar een 
+samenhangende project-, 
+onderzoeks- en 
+opleverstrategie. 
+Gunning en budget Gunning voor 100% op prijs; € 500.000 
+is een raming en geen plafond. 
+Een realistische vaste prijs en 
+transparante prijsopbouw 
+indienen. 
+Looptijd 
+Vaste looptijd van 18 maanden. 
+Eventuele verlening is bespreekbaar 
+met een maximale uitloop van 6 
+maanden. 
+Een uitvoerbare planning met 
+buffers, onderzoeksvensters 
+en kritieke paden opstellen. 
+Eindgebruikers 
+Particulieren, VvE's, woningcorporaties, 
+gemeentelijke gebouwen, MKB, 
+projectontwikkelaars en 
+isolatiebedrijven. 
+Werkprocessen en 
+gebruiksvoorwaarden 
+praktisch uitwerken binnen 
+de vergunning. 
+Soorten 
+Minimaal gebouwbewonenden 
+vleermuissoorten, gierzwaluw, huismus 
+en huiszwaluw. 
+Op basis van quickscan 
+adviseren over niet voorziene 
+soorten; besluitvorming blijft 
+bij Opdrachtgever. 
+Onderzoeksmethodiek 
+veldonderzoek 
+Als uitgangspunt voor het 
+veldonderzoek hanteert Opdrachtnemer 
+de Handreiking SMP-Methodiek Utrecht 
+van Bureau Viridis. Deze methodiek 
+geldt als voorkeursmethodiek voor de 
+onderzoeksopzet. 
+Eventuele keuze voor andere 
+onderzoeksmethodiek dient 
+gemotiveerd te worden door 
+opdrachtnemer.  
+Vergunningsaanvraag Gemeente Hulst dient de aanvraag 
+formeel in via het DSO. 
+Vergunninswaardige 
+onderbouweing. 
+Implementatie en 
+beheer 
+Het SMP moet overdraagbaar en 
+praktisch toepasbaar zijn, zowel intern 
+als extern. 
+Langetermijnvisie, rol SMP-
+coördinator, werkafspraken, 
+administratie, 
+natuurboekhouding, GIS-
+beheer en monitoring 
+concreet uitwerken. 
+ 
+Het begeleiden of uitwerken van een keuze draagt geen bestuurlijke of juridische 
+beslissingsbevoegdheid over aan opdrachtnemer. Definitieve keuzes worden door Opdrachtgever 
+vastgesteld en schriftelijk vastgelegd. 
+ 
+2.6 Beschikbare gegevens bij start opdracht 
+De gemeente Hulst stelt na opdrachtverlening, voor zover beschikbaar en noodzakelijk voor de 
+uitvoering van de opdracht, relevante gemeentelijke gegevens aan de opdrachtnemer beschikbaar. 
+Het betreft in ieder geval: 
+• adresgegevens van gebouwen en objecten binnen het onderzoeksgebied;  
+• gegevens over woningcorporatiebezit, voor zover hierin geen huurders of andere 
+natuurlijke personen worden genoemd;  
+• beschikbare gegevens over bomen, groenstructuren en groenbeheer;  
+• informatie over gemeentelijke projecten waarover het college een besluit heeft genomen 
+en die voor de uitvoering van het SMP relevant zijn;   
+• beschikbare ecologische onderzoeken en rapportages, voor zover deze voorafgaand aan 
+verstrekking zijn geanonimiseerd.  
+ 
+ 
+ 
+ 
+ 
+10/40 
+De beschikbaarheid, actualiteit, volledigheid en het bestandsformaat van de gegevens kunnen per 
+gegevensbron verschillen. De opdrachtnemer beoordeelt bij aanvang van de opdracht welke 
+aanvullende gegevens noodzakelijk zijn en bespreekt eventuele ontbrekende informatie tijdig met 
+de opdrachtgever. 
+ 
+2.7 Integrale verantwoordelijkheid 
+Opdrachtnemer blijft verantwoordelijk voor de samenhang tussen onderzoek, analyse, 
+planvorming, vergunningwaardige onderbouwing, het implementatieplan, het monitorings- en 
+evaluatieplan, GIS-beheer en overdracht. 
+ 
+2.8 Vaste scope, opties en meerwerk 
+De vaste prijs omvat alle werkzaamheden, inzet, reis- en verblijfskosten, projectleiding, 
+kwaliteitsborging, dataverwerking, rapportage, overleg en overdracht die noodzakelijk zijn om de 
+vaste scope volledig uit te voeren. Optionele werkzaamheden zijn uitsluitend de posten die in het 
+prijsformulier en de overige aanbestedingsstukken uitdrukkelijk als optie zijn aangeduid. 
+Opties en werkzaamheden op basis van uurtarieven worden alleen uitgevoerd na voorafgaande 
+schriftelijke opdracht. Voor meerwerk verstrekt opdrachtnemer vooraf een gespecificeerde 
+kostenbegroting op basis van de in de inschrijving opgenomen tarieven. Mondelinge afspraken, 
+reeds gemaakte kosten of een eigen keuze van opdrachtnemer geven geen recht op vergoeding. 
+ 
+Optioneel telemetrieonderzoek 
+Telemetrieonderzoek maakt geen onderdeel uit van de vaste scope van de opdracht. De gemeente 
+Hulst wenst deze onderzoeksmethode wel als afzonderlijke optie binnen de overeenkomst 
+beschikbaar te hebben. 
+De optie kan worden ingezet indien uit de gebiedsdekkende quickscan, het reguliere 
+vleermuisonderzoek, de analyse van de onderzoeksresultaten of bij de afstemming met het 
+bevoegd gezag blijkt dat telemetrie noodzakelijk of wenselijk is om verblijfplaatsen, essentiële 
+functies of het gebruik van het onderzoeksgebied voldoende in beeld te brengen. 
+Onder telemetrieonderzoek wordt in ieder geval verstaan het, voor zover van toepassing: 
+• voorbereiden van het onderzoek en opstellen van een onderzoeksprotocol;  
+• verzorgen van benodigde toestemmingen, machtigingen of ontheffingen;  
+• vangen en zenderen van vleermuizen;  
+• volgen en lokaliseren van gezenderde dieren;  
+• verwerken en analyseren van de onderzoeksgegevens;  
+• rapporteren van de resultaten en verwerken daarvan in het SMP en de 
+vergunningonderbouwing.  
+ 
+De optie wordt uitsluitend uitgevoerd na een voorafgaande schriftelijke opdracht van de gemeente 
+Hulst. De gemeente is niet verplicht de optie af te nemen. De opdrachtnemer kan aan het opnemen 
+van de optie in de aanbestedingsstukken geen recht op afname of vergoeding ontlenen. 
+ 
+2.9 Werkzaamheden en resultaten 
+ 
+De opdracht omvat minimaal de volgende werkzaamheden. 
+Onderzoeks- en voorbereidingsfase 
+• bureauonderzoek en gegevensinventarisatie; 
+• gebiedsdekkende quickscan; 
+• onderzoeksstrategie en deelgebiedsindeling; 
+ 
+ 
+ 
+ 
+ 
+11/40 
+• toetsing van beschikbare gegevens en vastlegging van kennishiaten; 
+• inrichting van dataverwerking en GIS-omgeving. 
+Inventarisatiefase 
+• onderzoek naar gebouwbewonende vleermuissoorten; 
+• onderzoek naar gierzwaluw; 
+• onderzoek naar huismus; 
+• onderzoek naar huiszwaluw; 
+• eventueel aanvullend onderzoek na de schriftelijke besluitvorming uit paragraaf 2.4. 
+Analyse- en planvormingsfase 
+• verspreidings-, functie- en effectanalyse; 
+• analyse van onzekerheden en risico's; 
+• concept en definitief SMP; 
+• mitigatie- en compensatiestrategie; 
+• implementatieplan; 
+• monitorings- en evaluatieplan; 
+• proces-, administratie- en managementplan; 
+Overdrachtsfase 
+• GIS-overdracht met metadata en datadictionary; 
+• beheer- en actualisatieadvies; 
+• kennisoverdracht en instructie aan de gemeentelijke organisatie; 
+• eindrapportage en volledig overdrachtsdossier. 
+2.10 Implementatieplan en monitoringsplan 
+Het implementatieplan is een concreet werkdocument voor de gebruiksfase van het SMP. Het 
+beschrijft ten minste de gemeentelijke rollen en verantwoordelijkheden, de rol van een SMP-
+coördinator, intake en toetsing van projecten en gebruikers, meldings- en werkprocessen, 
+natuurboekhouding, interne besluitvorming, beheer van GIS en dossierstukken, actualisatie, 
+communicatie met gebruikers, rapportage aan het bevoegd gezag en overdracht van kennis. 
+Het monitorings- en evaluatieplan beschrijft ten minste doelen en indicatoren, nulwaarden, 
+meetfrequenties, protocollen, gegevensbronnen, kwaliteitscontroles, verantwoordelijkheden, 
+rapportagemomenten, drempelwaarden voor bijsturing en de wijze waarop maatregelen worden 
+aangepast wanneer resultaten daartoe aanleiding geven. Tot de vaste scope van deze opdracht 
+behoort uitsluitend het opstellen en overdraagbaar opleveren van het monitorings- en 
+evaluatieplan. De daadwerkelijke uitvoering van de monitoring gedurende de gebruiksfase van het 
+SMP en na afloop van deze overeenkomst maakt geen onderdeel uit van deze opdracht.  
+ 
+2.11 GIS, datakwaliteit en aanleverformaten 
+Opdrachtnemer richt de GIS-omgeving zodanig in dat toekomstige actualisatie, beheer en 
+uitbreiding mogelijk blijven. GIS-data wordt logisch gestructureerd, voorzien van metadata, 
+bronvermelding, actualiteitsdatum, kwaliteitskenmerken en een datadictionary en overdraagbaar 
+opgeleverd aan de gemeente of een opvolgende beheerder. 
+Voor de gegevenslevering geldt de volgende voorkeursvolgorde: 
+• een WFS-service, zodat de gemeente een directe verbinding kan leggen met een actuele 
+gegevensbron; 
+ 
+ 
+ 
+ 
+ 
+12/40 
+• een GeoPackage indien een WFS-service niet beschikbaar is; 
+• een ESRI Shapefile indien een GeoPackage niet mogelijk is; 
+• een XLS- of XLSX-bestand uitsluitend als laatste alternatief, voorzien van bruikbare X- en Y-
+coördinaten of een andere eenduidige locatieaanduiding. 
+Exacte locaties van kwetsbare verblijfplaatsen en overige gevoelige soortgegevens worden in een 
+besloten kaartlaag opgenomen. Een eventuele publiekskaart bevat uitsluitend geaggregeerde of 
+gegeneraliseerde informatie waarmee kwetsbare locaties niet herleidbaar zijn. Alle leveringen 
+vermelden het gebruikte coördinatenstelsel, toegangsrechten en eventuele publicatiebeperkingen. 
+  
+ 
+ 
+ 
+ 
+ 
+13/40 
+3. Aanbestedingsprocedure en uitgangspunten 
+3.1 Procedure en juridisch kader 
+Deze opdracht wordt aanbesteed volgens een Europese openbare procedure overeenkomstig de 
+Aanbestedingswet 2012, het Aanbestedingsbesluit, de Gids Proportionaliteit en de overige 
+toepasselijke wet- en regelgeving. Iedere geïnteresseerde ondernemer kan een inschrijving 
+indienen, mits wordt voldaan aan de eisen uit de aanbestedingsstukken. 
+ 
+3.2 Inkoop- en aanbestedingsbeleid 
+Op deze aanbesteding is het "Inkoop- en aanbestedingsbeleid 2020 (Zeeuws Vlaanderen)" van 
+toepassing, zoals gepubliceerd onder CVDR636449 en geldend voor de gemeente Hulst. 
+Permanente bron: https://lokaleregelgeving.overheid.nl/CVDR636449#hoofdstuk_5. Dit beleid 
+vormt het gemeentelijke beleidskader en is geen afzonderlijke contractvoorwaarde. 
+ 
+3.3 Digitale aanbesteding 
+De aanbestedingsprocedure wordt volledig digitaal uitgevoerd via TenderNed. Alle formele 
+communicatie, vragen en mededelingen verlopen via TenderNed. Communicatie buiten TenderNed 
+wordt niet beschouwd als formele communicatie binnen deze aanbestedingsprocedure. Het 
+benaderen van andere medewerkers, bestuurders of adviseurs van de gemeente over deze 
+aanbesteding is niet toegestaan, met uitzondering van de bekendgemaakte klachtenprocedure. Een 
+overtreding kan, afhankelijk van aard en gevolgen, leiden tot passende maatregelen binnen het 
+aanbestedingsrecht. 
+De inschrijver vermeldt in het UEA een vaste contactpersoon die bevoegd is namens de inschrijver 
+op te treden en die gedurende de aanbestedingsprocedure bereikbaar is. 
+ 
+3.4 Taal 
+Alle communicatie, documenten en inschrijvingen worden opgesteld in de Nederlandse taal. Indien 
+inschrijver bijlagen in een andere taal toevoegt, dient een Nederlandse samenvatting te worden 
+bijgevoegd, tenzij opdrachtgever anders bepaalt. 
+ 
+3.5 Kosten 
+Kosten die worden gemaakt voor deelname aan deze aanbesteding komen volledig voor rekening 
+van inschrijver. Opdrachtgever verstrekt geen vergoeding voor het opstellen of indienen van een 
+inschrijving. 
+ 
+3.6 Voorbehoud 
+De gemeente Hulst behoudt zich het recht voor de aanbesteding te wijzigen, op te schorten, te 
+beëindigen of niet tot gunning over te gaan. Inschrijvers kunnen hieraan geen recht op 
+schadevergoeding ontlenen, behoudens voor zover dwingend recht anders bepaalt. 
+ 
+3.7 Klachtenregeling 
+Klachten over deze Europese aanbestedingsprocedure kunnen uitsluitend digitaal worden ingediend 
+bij het College van Burgemeester en Wethouders van de gemeente Hulst via 
+info@gemeentehulst.nl. 
+ 
+Indienen van een klacht 
+De Ondernemer vermeldt bij het indienen van een Klacht minimaal: 
+• de naam en contactgegevens van de onderneming, waaronder het adres, telefoonnummer 
+en e-mailadres;  
+ 
+ 
+ 
+ 
+ 
+14/40 
+• de naam en contactgegevens van de persoon die namens de Ondernemer de Klacht 
+indient;  
+• de naam en het kenmerk of referentienummer van de aanbesteding;  
+• een duidelijke omschrijving en motivering van de Klacht;  
+• indien van toepassing: het nummer van de vraag uit de Nota van Inlichtingen waarin het 
+onderwerp eerder aan de orde is gesteld;  
+• een voorstel voor een mogelijke oplossing;  
+• alle documenten die relevant kunnen zijn voor de inhoudelijke beoordeling van de Klacht, 
+waaronder in ieder geval de relevante aanbestedingsdocumenten en de toepasselijke Nota 
+van Inlichtingen.  
+Ontvankelijkheid 
+Een Klacht wordt alleen inhoudelijk in behandeling genomen indien: 
+• de Klacht voldoet aan de hiervoor genoemde indieningsvereisten;  
+• de Klacht betrekking heeft op een specifieke aanbestedingsprocedure;  
+• het onderwerp van de Klacht binnen de reikwijdte van de Aanbestedingswet 2012 valt;  
+• de Klacht betrekking heeft op een handelen of nalaten van de Aanbestedende dienst dat 
+mogelijk in strijd is met de Aanbestedingswet 2012, de beginselen van transparantie, non-
+discriminatie, gelijke behandeling of proportionaliteit, dan wel met een ander voorschrift 
+dat op de aanbestedingsprocedure van toepassing is;  
+• de Klacht geen betrekking heeft op het algemene aanbestedingsbeleid van de 
+Aanbestedende dienst;  
+• een onderaannemer niet klaagt over de onderlinge verhouding tussen de hoofdaannemer of 
+inschrijver en de onderaannemer;  
+• de Ondernemer, indien het onderwerp eerder via de Nota van Inlichtingen of op een andere 
+wijze aan de orde is gesteld, gemotiveerd toelicht waarom de reactie van de 
+Aanbestedende dienst niet tot het gewenste resultaat heeft geleid.  
+Wanneer een Klacht niet aan deze voorwaarden voldoet, kan de gemeente besluiten de Klacht niet 
+inhoudelijk te behandelen. De Ondernemer wordt hierover geïnformeerd. 
+ 
+Behandeling van de klacht 
+Voor de behandeling van een Klacht geldt de volgende procedure: 
+1. De Ondernemer dient de Klacht schriftelijk en gemotiveerd in.  
+2. De gemeente bevestigt de ontvangst zo spoedig mogelijk en uiterlijk binnen twee 
+werkdagen.  
+3. De Klacht wordt beoordeeld door een medewerker die niet betrokken is geweest bij de 
+voorbereiding of uitvoering van de betreffende aanbestedingsprocedure. Indien nodig wordt 
+een juridisch adviseur bij de beoordeling betrokken.  
+4. De gemeente kan de Ondernemer of andere betrokkenen verzoeken aanvullende informatie 
+te verstrekken wanneer dit voor een zorgvuldige beoordeling noodzakelijk is.  
+5. De gemeente streeft ernaar de Klacht binnen dertig werkdagen na ontvangst af te 
+handelen. Indien meer tijd nodig is, wordt de Ondernemer hierover geïnformeerd. Daarbij 
+wordt aangegeven binnen welke termijn naar verwachting een beslissing wordt genomen.  
+6. De gemeente neemt een gemotiveerde beslissing op de Klacht en deelt deze schriftelijk 
+mee aan de Ondernemer.  
+Indien de Ondernemer zich niet kan vinden in de beslissing, of indien niet binnen de meegedeelde 
+termijn op de Klacht wordt beslist, kan de Ondernemer de Klacht voorleggen aan de Commissie 
+ 
+ 
+ 
+ 
+ 
+15/40 
+van Aanbestedingsexperts of een kort geding aanhangig maken bij de bevoegde 
+voorzieningenrechter. 
+Het indienen van een Klacht schort de aanbestedingsprocedure of de daarin opgenomen termijnen 
+niet automatisch op. De Aanbestedende dienst kan besluiten de procedure of een termijn tijdelijk 
+op te schorten indien de aard en inhoud van de Klacht daartoe aanleiding geven. 
+ 
+3.8 Social Return 
+De gemeente Hulst heeft bij de voorbereiding van deze aanbesteding de toepassing van Social 
+Return meegewogen. Social Return is geen gunningscriteria maar een uitvoeringsvoorwaarde. 
+Daarbij is gekeken naar de aard en omvang van de opdracht, de haalbaarheid van de uitvoering en 
+de proportionaliteit van een eventuele verplichting. 
+De opdracht vraagt voor een belangrijk deel om specialistische ecologische expertise, kennis van 
+wet- en regelgeving en ervaring met ecologisch veldonderzoek. De toepassing van Social Return 
+mag daarom geen afbreuk doen aan de kwaliteit, continuïteit, zorgvuldigheid en 
+vergunningwaardigheid van de werkzaamheden. Om die reden wordt geen zware of vooraf volledig 
+uitgewerkte Social Return-verplichting aan alle inschrijvers opgelegd. 
+Binnen de opdracht kunnen mogelijk passende mogelijkheden voor Social Return worden 
+gecreëerd, bijvoorbeeld door: 
+• het aanbieden van leerwerkplekken;  
+• het aanbieden van stageplaatsen;  
+• de inzet of begeleiding van mensen met een afstand tot de arbeidsmarkt bij daarvoor 
+geschikte ondersteunende werkzaamheden, zoals ondersteuning bij veldwerk, 
+gegevensverwerking of projectondersteuning.  
+Inschrijvers hoeven bij hun inschrijving nog geen volledig Social Return-uitvoeringsplan in te 
+dienen. De Aanbestedende dienst kan de beoogde winnaar vóór de definitieve gunning verzoeken 
+een Social Return-uitvoeringsplan aan te leveren. In dit plan beschrijft de beoogde winnaar: 
+• welke mogelijkheden voor Social Return binnen de opdracht aanwezig zijn;  
+• op welke wijze hieraan uitvoering kan worden gegeven;  
+• waarom de voorgestelde invulling haalbaar en proportioneel is;  
+• hoe wordt geborgd dat de invulling geen afbreuk doet aan de vereiste deskundigheid en 
+kwaliteit;  
+• op welke wijze de voortgang en resultaten worden bijgehouden.  
+Indien de beoogde winnaar van oordeel is dat binnen de opdracht geen of slechts beperkte 
+mogelijkheden voor Social Return bestaan, dient dit in het uitvoeringsplan gemotiveerd te worden 
+onderbouwd. 
+Het Social Return-uitvoeringsplan wordt in overleg met de gemeente Hulst definitief vastgesteld en 
+maakt na goedkeuring onderdeel uit van de afspraken over de uitvoering van de overeenkomst. 
+ 
+3.9 Clusteren en percelen 
+De opdracht wordt als één samenhangend geheel en als één perceel aanbesteed. Het ecologisch 
+onderzoek, de analyse, het SMP, het vergunningwaardige aanvraagdossier, het implementatieplan, 
+het monitorings- en evaluatieplan, het GIS en de kennisoverdracht zijn inhoudelijk en 
+organisatorisch sterk met elkaar verbonden. Opsplitsing in afzonderlijke opdrachten of percelen zou 
+leiden tot extra overdrachtsmomenten, risico op inconsistente gegevens en uitgangspunten, hogere 
+coördinatiekosten en een grotere belasting voor zowel gemeente als marktpartijen. 
+De toegang van het midden- en kleinbedrijf blijft geborgd doordat inschrijving in 
+combinatieverband, onderaanneming en - onder de gestelde voorwaarden - een beroep op de 
+draagkracht van derden zijn toegestaan. De gemeente is voornemens met één opdrachtnemer één 
+ 
+ 
+ 
+ 
+ 
+16/40 
+overeenkomst te sluiten. De inschrijving moet betrekking hebben op de volledige opdracht; een 
+deelinschrijving is niet toegestaan. 
+ 
+3.10 Varianten 
+Varianten, alternatieve aanbiedingen en voorwaardelijke inschrijvingen zijn niet toegestaan, tenzij 
+de aanbestedingsdocumenten een specifieke variant uitdrukkelijk toestaan. Een inschrijving die 
+afwijkt van de voorgeschreven scope, eisen, contractvoorwaarden of prijsstructuur kan ongeldig 
+worden verklaard. 
+ 
+3.11 Voorwaarden voor deelname en vertrouwelijkheid 
+Door het indienen van een inschrijving verklaart de inschrijver zich zonder voorbehoud akkoord 
+met de aanbestedingsdocumenten, inclusief de Nota('s) van Inlichtingen. Aan het indienen van een 
+inschrijving of deelname aan de procedure kunnen geen rechten op gunning of vergoeding worden 
+ontleend. 
+Niet-openbare informatie die in het kader van de aanbestedingsprocedure wordt verstrekt, wordt 
+vertrouwelijk behandeld en uitsluitend gebruikt voor het opstellen van de inschrijving. Indien 
+informatie noodzakelijkerwijs met een adviseur, combinant, onderaannemer of derde wordt 
+gedeeld, waarborgt de inschrijver dat deze partij aan een gelijkwaardige 
+geheimhoudingsverplichting is gebonden. 
+ 
+3.12 Planning en inlichtingen 
+De gemeente Hulst streeft naar een voorspelbare en transparante aanbestedingsprocedure. De 
+planning is indicatief, met uitzondering van de in TenderNed als uiterste termijn gepubliceerde data 
+en tijdstippen. Wijzigingen worden via TenderNed bekendgemaakt. 
+ 
+Aanbestedingsplanning 
+Onderdeel Datum / periode 
+Publicatie aankondiging opdracht 15 september 2026 
+Vragenronde 15 september tot en met 28 september 2026 
+Uiterste datum indienen vragen 28 september 2026  
+Publicatie Nota van Inlichtingen 6 oktober 2026 
+Uiterste datum indienen inschrijving 27 oktober 2026  
+Beoordeling en verificatie Na sluiting van de inschrijving en vóór 24 
+november 2026 
+Voorgenomen gunningsbeslissing 24 november 2026 
+Definitieve gunning 15 december 2026 
+Gestanddoening inschrijving Tot en met 31 december 2026 
+Publicatie aankondiging gegunde 
+opdracht 15 januari 2027 
+Start opdracht 1 februari 2027 
+ 
+Gestanddoening inschrijving 
+De inschrijving blijft geldig tot en met 31 december 2026. Dit sluit aan op een 
+gestanddoeningstermijn van 65 dagen gerekend vanaf de uiterste datum voor ontvangst van de 
+inschrijvingen. Opdrachtgever kan inschrijvers verzoeken de gestanddoeningstermijn te verlengen. 
+ 
+Wijzigingen aanbestedingsplanning 
+Opdrachtgever behoudt zich het recht voor de aanbestedingsplanning te wijzigen. Wijzigingen 
+worden via TenderNed bekendgemaakt en maken onderdeel uit van de aanbestedingsprocedure. 
+ 
+ 
+ 
+ 
+ 
+17/40 
+Onderzoeksvensters en uitvoeringsplanning 
+Opdrachtnemer houdt rekening met alle seizoensgebonden onderzoeksvensters die voortvloeien uit 
+de geldende protocollen voor gebouwbewonende vleermuizen, gierzwaluw, huismus en huiszwaluw. 
+De uitvoeringsplanning bevat voldoende capaciteit, buffers en beheersmaatregelen voor 
+weersomstandigheden, uitval van personeel, beperkte toegankelijkheid, aanvullende eisen van het 
+bevoegd gezag en andere voorzienbare risico’s. Vertraging als gevolg van een onvoldoende 
+doordachte planning komt voor rekening en risico van opdrachtnemer, voor zover deze vertraging 
+aan opdrachtnemer kan worden toegerekend. 
+ 
+Contractuele doorlooptijd 
+De overeenkomst heeft een vaste looptijd van 18 maanden, gerekend vanaf de in de overeenkomst 
+vastgelegde ingangsdatum. Eventuele verlenging van maximaal 6 maanden is bespreekbaar. 
+Binnen 18 maanden worden in ieder geval het definitieve SMP, de GIS- en dataoverdracht, het 
+implementatieplan, het monitoringsplan en de overige overeengekomen opleverproducten 
+afgerond. Het definitieve besluit van het bevoegd gezag op de vergunningaanvraag valt niet onder 
+deze afrondingsverplichting. 
+Niet-toerekenbare belemmeringen en onverwachte ecologische bevindingen worden onverwijld 
+gemeld en volgens de overeenkomst en het toepasselijke recht behandeld. Aan deze bepaling kan 
+geen voorafgaand recht op contractverlenging worden ontleend. 
+ 
+3.13 Nota van Inlichtingen 
+Inschrijvers kunnen vragen stellen over de aanbestedingsdocumenten via TenderNed. Vragen die 
+op andere wijze worden gesteld worden niet in behandeling genomen. 
+Indiening vragen 
+Vragen dienen uiterlijk op de in TenderNed vermelde datum en tijd te zijn ingediend. Na het 
+verstrijken van deze termijn behoudt opdrachtgever zich het recht voor vragen niet meer te 
+beantwoorden. 
+Beantwoording vragen 
+Alle tijdig ingediende vragen worden geanonimiseerd beantwoord in één of meerdere Nota’s van 
+Inlichtingen. De gemeente kan ontvangen vragen, naar eigen oordeel, tussentijds via TenderNed 
+beantwoorden. De formele Nota('s) van Inlichtingen wordt of worden via TenderNed gepubliceerd 
+en maken integraal onderdeel uit van de aanbestedingsdocumenten. 
+Juridische status 
+De Nota van Inlichtingen maakt integraal onderdeel uit van de aanbestedingsdocumenten. Indien 
+bepalingen uit de Nota van Inlichtingen afwijken van eerdere aanbestedingsdocumenten, 
+prevaleert de Nota van Inlichtingen. 
+Rangorde documenten 
+Rangorde Aanbestedingsdocument 
+1 Nota('s) van Inlichtingen 
+2 Aanbestedingsleidraad  
+3 Programma van Eisen  
+4 Prijsformulier  
+5 VNG model Algemene Inkoopvoorwaarden voor leveringen en diensten 
+6 Overige aanbestedingsdocumenten en bijlagen 
+ 
+ 
+ 
+ 
+ 
+ 
+18/40 
+Strategische vragen en meldplicht 
+De gemeente Hulst waardeert het wanneer inschrijvers tijdig wijzen op tegenstrijdigheden, 
+juridische risico’s, uitvoeringsrisico’s, onduidelijkheden of disproportionele eisen. Inschrijvers 
+dienen dergelijke punten zo spoedig mogelijk via TenderNed kenbaar te maken. 
+Rechtsverwerking 
+Indien een inschrijver nalaat tijdig vragen te stellen over een vermeende onduidelijkheid, kan 
+opdrachtgever zich op het standpunt stellen dat de betreffende inschrijver zijn recht heeft verwerkt 
+om hier na inschrijving nog een beroep op te doen. 
+Vertrouwelijke vragen en bewerkbare bijlagen 
+Indien een vraag naar het oordeel van de inschrijver bedrijfsvertrouwelijke of anderszins gevoelige 
+informatie bevat, kan de inschrijver in TenderNed verzoeken de vraag individueel te behandelen. 
+Dit verzoek wordt concreet gemotiveerd. De gemeente bepaalt of de vraag en het antwoord 
+vertrouwelijk blijven, geanonimiseerd of aangepast openbaar worden gemaakt, dan wel niet als 
+vertrouwelijk kunnen worden behandeld. De inschrijver blijft verantwoordelijk voor de informatie 
+die hij in de vragenmodule verstrekt. 
+Invulbijlagen worden, voor zover technisch mogelijk en passend, tevens in een bewerkbaar 
+formaat beschikbaar gesteld. Bij verschil tussen een bewerkbare versie en de officieel 
+gepubliceerde PDF-versie prevaleert de PDF-versie, tenzij in TenderNed uitdrukkelijk anders is 
+vermeld. 
+ 
+3.14 Uitsluitingsgronden en geschiktheid 
+De aanbestedende dienst verklaart de volgende uitsluitingsgronden van toepassing: 
+Uitsluitingsgronden Omschrijving  Bewijsmiddelen 
+Deel III A UEA Gronden die verband houden met 
+strafrechtelijke veroordeling, te 
+weten: 
+- Deelneming aan een 
+criminele organisatie; 
+- Corruptie; 
+- Fraude; 
+- Terroristische misdrijven of 
+strafbare feiten in verband 
+met terroristische 
+activiteiten; 
+- Witwassen van geld of 
+financiering va terrorisme; 
+-  Kinderarbeid en andere 
+vormen van mensenhandel. 
+Bewijsmiddel indienen bij inschrijving: 
+Door middel van het invullen en 
+indienen van deel III A van het UEA 
+verklaart inschrijver dat op zijn 
+onderneming de gestelde 
+uitsluitingsgronden niet van 
+toepassing zijn. 
+ 
+Bewijsmiddel indienen na 
+gunningsbeslissing op eerste verzoek 
+van aanbestedende dienst: 
+Gedragsverklaring aanbesteden, die 
+op het tijdstip van het indienen van de 
+inschrijving niet ouder is dan 2 jaar. 
+Deel III B UEA Gronden die verband houden met 
+de betaling van belastingen of 
+sociale premies 
+Bewijsmiddel indienen bij inschrijving: 
+Door middel van het invullen en 
+indienen van deel III B van het UEA 
+verklaart inschrijver dat op zijn 
+onderneming de gestelde 
+uitsluitingsgrond niet van toepassing 
+is. 
+ 
+Bewijsmiddel indienen na 
+gunningsbeslissing op eerste verzoek 
+van aanbestedende dienst: 
+Verklaring belastingdienst nakoming 
+fiscale verplichtingen, die op het 
+ 
+ 
+ 
+ 
+ 
+19/40 
+tijdstip van indiening van de 
+inschrijving niet ouder is dan zes (6) 
+maanden. 
+Deel III C UEA Gronden met betrekking tot 
+insolventie, belangenconflicten of 
+beroepsfouten, te weten: 
+- Schending verplichtingen 
+o.b.v. milieu- sociaal- of 
+arbeidsrecht; 
+- Faillissement, insolventie of 
+gelijksoortig; 
+- Valse verklaring.  
+Bewijsmiddel indienen bij inschrijving: 
+Door middel van het invullen en 
+indienen van deel III C van het UEA 
+verklaart inschrijver dat op zijn 
+onderneming de gestelde 
+uitsluitingsgronden niet van 
+toepassing zijn. 
+ 
+Bewijsmiddel indienen na 
+gunningsbeslissing op eerste verzoek 
+van aanbestedende dienst: 
+Faillissement, insolventie of 
+gelijksoortig: 
+Uittreksel van het betreffende 
+beroeps- en/ of handelsregister, die 
+op het tijdstip van indienen van de 
+inschrijving niet ouder is dan zes (6) 
+maanden. 
+ 
+Valse verklaring: Gedragsverklaring 
+aanbesteden, die op het tijdstip van 
+het indienen van de inschrijving niet 
+ouder is dan 2 jaar. 
+ 
+Inschrijvers op wie één of meer van de uitsluitingsgronden zoals omschreven in het UEA van 
+toepassing zijn, kunnen worden uitgesloten van verdere deelname aan deze 
+aanbestedingsprocedure. Voordat de aanbestedende dienst hiertoe besluit, zal aan de inschrijver 
+de mogelijkheid worden geboden om zijn betrouwbaarheid aan te tonen middels een toelichting op 
+de herstelmaatregelen die hij heeft genomen. Inschrijver dient deze herstelmaatregelen reeds te 
+benoemen in het in te dienen UEA. Aanbestedende dienst zal deze maatregelen beoordelen op 
+basis van het bepaalde in artikel 2.87a Aw. 
+ 
+Blijkt naar het oordeel van de aanbestedende dienst dat onvoldoende herstelmaatregelen zijn 
+genomen om de betrouwbaarheid van inschrijver aan te tonen, dan gaat aanbestedende dienst 
+over tot uitsluiting van verdere deelname aan de aanbestedingsprocedure. 
+De uitsluitingsgronden zijn van toepassing op iedere deelnemer in een combinatie.  
+Indien op één van de deelnemers in de combinatie één of meer uitsluitingsgronden van toepassing 
+zijn, en deze deelnemer kan onvoldoende aantonen dat hij herstelmaatregelen heeft getroffen om 
+zijn betrouwbaarheid te kunnen aantonen, zal de combinatie worden uitgesloten van verdere 
+deelname aan de aanbestedingsprocedure. 
+ 
+3.15 Uitsluiting Russische partijen 
+De Europese Unie heeft op 8 april 2022 sancties ingesteld tegen Rusland. Met dit vijfde 
+sanctiepakket heeft de Europese Unie een verbod ingesteld op het (direct of indirect) gunnen en 
+voortzetten van overheidsopdrachten aan een Russische partij. 
+Onder Russische partijen wordt verstaan: 
+• personen met een Russische nationaliteit, personen die in Rusland verblijven en 
+rechtspersonen (bedrijven, entiteiten of organen) die gevestigd zijn in Rusland; 
+ 
+ 
+ 
+ 
+ 
+20/40 
+• rechtspersonen (ook wanneer in Nederland of een ander land dan Rusland gevestigd) die 
+voor meer dan 50% (direct dan wel indirect) eigendom zijn van een persoon of 
+rechtspersoon zoals hierboven genoemd; 
+• personen of rechtspersonen (gevestigd in Rusland of een ander land) die handelen in 
+belang van of op aanwijzing van een (rechts)persoon zoals hierboven genoemd; 
+• niet-Russische entiteiten, waarbij meer dan 10% van de contractwaarde geleverd wordt 
+door onderaannemers, leveranciers of entiteiten die als Russische entiteit kunnen worden 
+aangemerkt op basis van het bovenstaande. 
+Indien een inschrijver het vermoeden heeft van deelname aan deze aanbestedingsprocedure door 
+een Russische partij, dan dient zij dit direct aan de aanbestedende dienst kenbaar te maken. De 
+officiële of gepubliceerde EU-regelgeving is bindend als de bovenstaande weergave onvolledig of 
+niet conform regelgeving is. 
+In verband met mogelijke deelname van Russische partijen verzoekt de aanbestedende dienst u 
+om Bijlage 8 volledig in te vullen en rechtsgeldig te ondertekenen. 
+Een ondernemer die in combinatie met (een) andere ondernemer(s) - waaronder tijdelijke 
+samenwerkingsverbanden - deelneemt aan een aanbestedingsprocedure, moet zowel zijn eigen 
+Eigen Verklaring, alsook de afzonderlijke Eigen Verklaring van de combinant indienen. Als er 
+meerdere combinanten zijn, moet voor elke combinant een afzonderlijke Eigen Verklaring te 
+worden ingediend. 
+ 
+3.16 Wet Bibob 
+De gemeente behoudt zich het recht voor om, indien de wettelijke voorwaarden daarvoor zijn 
+vervuld, een onderzoek uit te voeren op grond van de Wet bevordering integriteitsbeoordelingen 
+door het openbaar bestuur (Wet Bibob). Het onderzoek kan betrekking hebben op de inschrijver, 
+combinanten, derden en onderaannemers en kan zowel tijdens de aanbestedingsprocedure als 
+gedurende de overeenkomst plaatsvinden. De betrokken partij wordt hierover geïnformeerd en 
+verleent de wettelijk vereiste medewerking. De uitkomst kan binnen de toepasselijke wettelijke en 
+contractuele kaders leiden tot uitsluiting, intrekking van een gunningsvoornemen, weigering van 
+contractering of beëindiging van de overeenkomst. 
+  
+ 
+ 
+ 
+ 
+ 
+21/40 
+4. Geschiktheidseisen 
+Inschrijvers dienen aan te tonen dat zij beschikken over voldoende economische en financiële 
+draagkracht, technische en beroepsbekwaamheid en organisatorische capaciteit om de opdracht 
+succesvol uit te voeren. Indien niet aan een expliciete geschiktheidseis wordt voldaan, kan de 
+inschrijving worden uitgesloten. 
+De inschrijver staat op de uiterste datum voor inschrijving ingeschreven in het voor hem relevante 
+beroeps- of handelsregister. Op eerste verzoek verstrekt de inschrijver een actueel uittreksel 
+waaruit tevens de vertegenwoordigingsbevoegdheid kan worden afgeleid. 
+ 
+4.1 Economische en financiële draagkracht 
+De beoogd opdrachtnemer dient op verzoek van Opdrachtgever en uiterlijk vóór ondertekening van 
+de overeenkomst aan te tonen dat hij adequaat verzekerd is voor de beroeps- en 
+bedrijfsaansprakelijkheidsrisico’s die verband houden met de uitvoering van de opdracht. 
+De verzekering of combinatie van verzekeringen dient ten minste dekking te bieden voor: 
+a. beroepsfouten en beroepsmatige tekortkomingen bij onderzoek, advisering, rapportage, GIS- 
+en dataverwerking en het opstellen van de vergunningwaardige aanvraagstukken, waaronder 
+daaruit voortvloeiende vermogensschade; en 
+b. zaakschade en personenschade die bij de uitvoering van de werkzaamheden kan ontstaan. 
+De dekking bedraagt ten minste € 1.500.000 per aanspraak of gebeurtenis en € 3.000.000 per 
+verzekeringsjaar. 
+ 
+De beoogd opdrachtnemer toont de dekking aan door middel van een recente verklaring van de 
+verzekeraar of assurantietussenpersoon en het relevante polisblad. Uit deze stukken blijken ten 
+minste de verzekerde risico’s, de verzekerde bedragen, de geldigheidsduur en het toepasselijke 
+eigen risico. 
+ 
+Opdrachtnemer houdt de verzekering gedurende de volledige looptijd van de overeenkomst in 
+stand en wijzigt de verzekerde bedragen of de relevante dekking niet ten nadele van 
+Opdrachtgever zonder voorafgaande schriftelijke toestemming van Opdrachtgever. 
+ 
+Voor werkzaamheden die door onderaannemers of andere ingeschakelde derden worden 
+uitgevoerd, geldt dat deze werkzaamheden onder de verzekering van opdrachtnemer vallen of dat 
+de betreffende derde over een gelijkwaardige verzekering beschikt. Opdrachtnemer blijft tegenover 
+Opdrachtgever volledig verantwoordelijk en aansprakelijk voor de werkzaamheden van deze 
+derden. 
+ 
+Een eigen risico komt volledig voor rekening van opdrachtnemer. De verzekeringsplicht en de 
+verzekerde bedragen vormen geen beperking van de aansprakelijkheid van opdrachtnemer op 
+grond van de overeenkomst en de toepasselijke VNG Algemene Inkoopvoorwaarden. 
+ 
+4.2 Technische- en beroepsbekwaamheid 
+Inschrijver toont relevante ervaring aan met minimaal twee vergelijkbare opdrachten die in de 
+afgelopen vijf jaar zijn uitgevoerd. De opdrachten hebben betrekking op een SMP, pre-SMP, 
+soortbescherming of een vergelijkbare ecologische beheeropgave. De referenties bevatten ten 
+minste de opdrachtgever, uitvoeringsperiode, omschrijving van de werkzaamheden, omvang van 
+de opdracht en een contactpersoon voor verificatie. 
+De referenties mogen gezamenlijk aantonen dat de inschrijver beschikt over ervaring met 
+gebiedsgerichte ecologische onderzoeken, beschermde gebouwbewonende soorten, planvorming, 
+monitoring en overdraagbare gegevensverwerking. 
+ 
+ 
+ 
+ 
+ 
+22/40 
+ 
+4.3 Referentieperiode 
+Een referentieopdracht mag nog in uitvoering zijn, mits de relevante werkzaamheden waarop de 
+referentie ziet aantoonbaar zijn afgerond. Opdrachtgever kan de opgegeven contactpersonen 
+benaderen voor verificatie. 
+ 
+4.4 Sleutelpersonen 
+Inschrijver stelt minimaal de volgende sleutelpersonen beschikbaar en voegt hun CV’s bij de 
+inschrijving. 
+ 
+Senior ecologisch begeleider / projectleider SMP 
+• minimaal een afgeronde hbo- of wo-opleiding in ecologie, biologie, natuurbeheer, 
+landschapsecologie of een vergelijkbare richting; 
+• minimaal drie jaar aantoonbare werkervaring als ecologisch adviseur, projectleider of in 
+een vergelijkbare functie; 
+• aantoonbare ervaring met beschermde soorten en werkzaamheden in de gebouwde 
+omgeving, zoals renovatie, verduurzaming, onderhoud of gebiedsontwikkeling; 
+• aantoonbare ervaring met minimaal twee Soortenmanagementplannen of vergelijkbare 
+soortgerichte projecten; 
+• ervaring met het begeleiden van SMP-processen, afstemming met gemeenten, 
+omgevingsdiensten en/of provincies, het vertalen van onderzoek naar maatregelen en 
+monitoring en evaluatie; 
+• in staat ecologische vraagstukken zelfstandig te beoordelen, werkzaamheden te 
+coördineren, risico’s tijdig te signaleren en helder met opdrachtgever en stakeholders te 
+communiceren. 
+ 
+Medior/senior ecoloog uitvoering 
+• minimaal hbo-werk- en denkniveau op ecologisch gebied; 
+• minimaal drie jaar relevante werkervaring; 
+• ervaring met inventarisaties van beschermde soorten; 
+• ervaring met mitigatie- en compensatiemaatregelen; 
+• kennis van relevante natuurwet- en regelgeving; 
+• ervaring met veldwerk, rapportage en monitoring. 
+ 
+GIS-specialist 
+• aantoonbare ervaring met GIS-systemen en ecologische datasets; 
+• ervaring met datamodellen, metadata, ruimtelijke analyses en overdraagbare 
+gegevenslevering; 
+• verantwoordelijk voor GIS-kwaliteit, herbruikbaarheid en overdracht aan de gemeente. 
+ 
+4.5 Eisen aan de CV’s 
+Voor iedere aangeboden sleutelfunctionaris wordt een afzonderlijk CV bij de inschrijving gevoegd. 
+De inschrijver mag hiervoor een eigen format gebruiken. 
+ 
+Uit ieder CV moet duidelijk en controleerbaar blijken: 
+• de naam van de sleutelfunctionaris;  
+• de huidige werkgever of samenwerkingsrelatie met inschrijver;  
+• de rol binnen het uitvoeren van desbetreffende opdracht;  
+ 
+ 
+ 
+ 
+ 
+23/40 
+• de relevante opleiding(en);  
+• het aantal jaren relevante werkervaring;  
+• de relevante kennis en ervaring in relatie tot de eisen voor de betreffende sleutelrol;  
+• minimaal de relevante projecten, met vermelding van opdrachtgever, uitvoeringsperiode, 
+functie en uitgevoerde werkzaamheden;  
+• de beschikbaarheid gedurende de beoogde looptijd van de opdracht.  
+ 
+Een CV omvat maximaal twee pagina’s A4. Algemene projectbeschrijvingen waaruit de persoonlijke 
+rol en werkzaamheden van de sleutelfunctionaris niet blijken, gelden niet als voldoende 
+onderbouwing. 
+Eén persoon mag meerdere sleutelrollen vervullen, mits uit het CV blijkt dat deze persoon aan alle 
+eisen voor de betreffende rollen voldoet en inschrijver aannemelijk maakt dat de combinatie van 
+rollen uitvoerbaar is en de continuïteit van de opdracht niet belemmert. 
+ 
+4.6 Beschikbaarheid en vervanging 
+Sleutelpersonen dienen gedurende de opdracht daadwerkelijk beschikbaar te zijn. Wijzigingen zijn 
+uitsluitend toegestaan na voorafgaande schriftelijke toestemming van opdrachtgever. Vervangende 
+personen dienen minimaal gelijkwaardig te zijn. 
+ 
+4.7 Capaciteitsverklaring 
+Inschrijver verklaart over voldoende capaciteit te beschikken om de opdracht gedurende de gehele 
+looptijd uit te voeren. Opdrachtgever kan dit tijdens de verificatiefase controleren. 
+ 
+4.8 Inschrijvingsvormen 
+ 
+Combinaties 
+Inschrijving in combinatieverband is toegestaan. De combinatie wijst één penvoerder aan die 
+gedurende de aanbesteding en uitvoering aanspreekpunt is voor opdrachtgever. 
+Hoofdelijke aansprakelijkheid 
+De deelnemers aan een combinatie zijn hoofdelijk aansprakelijk voor de volledige uitvoering van de 
+opdracht. 
+Onderaanneming 
+Onderaanneming is toegestaan voor zover dit in de inschrijving is aangegeven. De inschrijver blijft 
+volledig verantwoordelijk en aansprakelijk voor kwaliteit, planning, communicatie en resultaat van 
+werkzaamheden die door onderaannemers worden uitgevoerd. De afspraken met onderaannemers 
+worden schriftelijk vastgelegd. Inzet van een niet in de inschrijving genoemde nieuwe 
+onderaannemer tijdens de overeenkomst is uitsluitend toegestaan na voorafgaande schriftelijke 
+goedkeuring van Opdrachtgever; deze goedkeuring wordt niet op onredelijke gronden onthouden. 
+Opgave onderaannemers 
+Inschrijver vermeldt in de inschrijving welke onderaannemers worden ingezet, welke 
+werkzaamheden zij uitvoeren en welke rol zij vervullen binnen het project. 
+Kritische werkzaamheden 
+De volgende werkzaamheden worden beschouwd als kernactiviteiten: projectleiding en ecologische 
+analyse. Uitbesteding van deze werkzaamheden is uitsluitend toegestaan indien dit duidelijk in de 
+inschrijving is aangegeven en opdrachtgever daarmee instemt. 
+ 
+ 
+ 
+ 
+ 
+24/40 
+Beroep op de draagkracht of bekwaamheid van derden 
+Indien een inschrijver zich voor een geschiktheidseis beroept op de draagkracht of bekwaamheid 
+van een derde, wordt dit volledig vermeld in het UEA. De inschrijver toont op eerste verzoek aan 
+dat hij gedurende de uitvoering daadwerkelijk en onherroepelijk kan beschikken over de 
+noodzakelijke middelen van deze derde, bijvoorbeeld met een gedateerde en rechtsgeldig 
+ondertekende terbeschikkingstellingsverklaring of overeenkomst. 
+Voor zover het beroep betrekking heeft op technische of beroepsbekwaamheid, wordt de derde 
+daadwerkelijk ingezet voor de werkzaamheden waarop die bekwaamheid ziet. Vervanging is 
+uitsluitend toegestaan na voorafgaande schriftelijke toestemming van Opdrachtgever en nadat is 
+aangetoond dat de vervangende derde aan ten minste gelijkwaardige eisen voldoet en geen 
+uitsluitingsgrond op hem van toepassing is. 
+ 
+Onafhankelijkheid van de inschrijving 
+Iedere inschrijving komt zelfstandig en onafhankelijk van andere inschrijvingen tot stand. Een 
+onderneming kan niet gelijktijdig zelfstandig en als combinant een inschrijving indienen. 
+Betrokkenheid van dezelfde partij bij meerdere inschrijvingen is alleen toegestaan voor zover de 
+onafhankelijkheid, vertrouwelijkheid en mededinging aantoonbaar niet worden aangetast. 
+Verbonden ondernemingen kunnen afzonderlijk inschrijven indien zij hun inschrijvingen volledig 
+autonoom hebben opgesteld. Zij melden de relevante onderlinge banden bij inschrijving en tonen 
+op eerste verzoek aan dat geen informatie-uitwisseling of afstemming heeft plaatsgevonden die de 
+mededinging kan vervalsen. 
+ 
+4.9 Uniform Europees Aanbestedingsdocument (UEA) 
+Bij deze aanbestedingsprocedure wordt gebruikgemaakt van het Uniform Europees 
+Aanbestedingsdocument, hierna: UEA. Het door de Aanbestedende dienst voor deze aanbesteding 
+beschikbaar gestelde UEA moet worden gebruikt. 
+Het UEA is een eigen verklaring van de inschrijver over onder meer de uitsluitingsgronden, de 
+geschiktheid van de onderneming en de wijze waarop aan de aanbestedingsprocedure wordt 
+deelgenomen. Het UEA vervangt in eerste instantie de onderliggende bewijsstukken. De 
+Aanbestedende dienst kan deze bewijsstukken overeenkomstig deze aanbestedingsleidraad op een 
+later moment opvragen. 
+De inschrijver: 
+• vult het UEA volledig, juist en naar waarheid in;  
+• beantwoordt alle voor deze aanbesteding geactiveerde en relevante vragen;  
+• wijzigt de door de Aanbestedende dienst ingevulde proceduregegevens niet;  
+• laat het UEA rechtsgeldig ondertekenen door een vertegenwoordigingsbevoegde persoon; 
+en  
+• dient het volledig ingevulde en rechtsgeldig ondertekende UEA tijdig via TenderNed in.  
+De inschrijver blijft zelf verantwoordelijk voor een juiste en volledige invulling van het UEA. 
+ 
+Invulling van de onderdelen 
+Bij het invullen van het UEA gelden de volgende aandachtspunten: 
+• Deel II – Gegevens van de ondernemer: dit onderdeel wordt volledig ingevuld. 
+Hieronder vallen onder meer de gegevens van de onderneming, de vertegenwoordiger, de 
+wijze van deelneming, een eventueel beroep op de draagkracht of bekwaamheid van 
+andere entiteiten en de inzet van onderaannemers.  
+• Deel III A – Strafrechtelijke veroordelingen: de inschrijver beantwoordt alle door de 
+Aanbestedende dienst van toepassing verklaarde verplichte uitsluitingsgronden.  
+ 
+ 
+ 
+ 
+ 
+25/40 
+• Deel III B – Belastingen en sociale premies: de inschrijver beantwoordt de vragen 
+over de betaling van belastingen en sociale premies.  
+• Deel III C – Insolventie, belangenconflicten en beroepsfouten: de inschrijver 
+beantwoordt alle door de Aanbestedende dienst van toepassing verklaarde facultatieve 
+uitsluitingsgronden.  
+• Deel IV – Selectiecriteria: de inschrijver verklaart of hij voldoet aan de in  opgenomen 
+geschiktheidseisen. De geschiktheidseisen worden in het UEA aangeduid als selectiecriteria.  
+• Deel V – Beperking van het aantal gekwalificeerde gegadigden: dit onderdeel is bij 
+deze openbare procedure niet van toepassing.  
+• Deel VI – Slotverklaringen: dit onderdeel wordt volledig ingevuld, gedateerd en 
+rechtsgeldig ondertekend. 
+ 
+De uitsluitingsgronden en geschiktheidseisen worden inhoudelijk bepaald door paragraaf 3.3 van 
+deze aanbestedingsleidraad en het bij deze aanbesteding gepubliceerde UEA. 
+ 
+Zelfstandige inschrijving, combinatie en beroep op derden 
+Bij een zelfstandige inschrijving dient de inschrijver één volledig ingevuld en rechtsgeldig 
+ondertekend UEA in. 
+Bij een inschrijving door een combinatie geldt het volgende: 
+• iedere combinant dient een afzonderlijk, volledig ingevuld en rechtsgeldig ondertekend UEA 
+in;  
+• in deel II van ieder UEA wordt vermeld dat gezamenlijk met andere ondernemingen wordt 
+ingeschreven;  
+• de rol van iedere combinant en de identiteit van de overige combinanten worden vermeld;  
+• de penvoerder van de combinatie wordt vermeld; en  
+• de uitsluitingsgronden zijn op iedere combinant afzonderlijk van toepassing.  
+ 
+Indien de inschrijver zich voor een geschiktheidseis beroept op de draagkracht of bekwaamheid 
+van een andere entiteit, dient deze entiteit eveneens een afzonderlijk, volledig ingevuld en 
+rechtsgeldig ondertekend UEA in. Uit de UEA’s en de overige inschrijvingsdocumenten moet 
+duidelijk blijken: 
+• op welke geschiktheidseis het beroep betrekking heeft;  
+• welke middelen, deskundigheid of capaciteit door de betreffende entiteit beschikbaar 
+worden gesteld; en  
+• welke werkzaamheden de betreffende entiteit bij de uitvoering van de opdracht zal 
+verrichten.  
+ 
+De voorwaarden voor een beroep op de draagkracht of bekwaamheid van derden zijn verder 
+opgenomen in paragraaf 4.8. 
+Een onderaannemer waarop de inschrijver geen beroep doet om aan een geschiktheidseis te 
+voldoen, wordt opgegeven in deel II D van het UEA en in de overige daarvoor bestemde 
+inschrijvingsdocumenten. Voor een dergelijke onderaannemer hoeft niet standaard een afzonderlijk 
+UEA te worden ingediend, tenzij dit in het gepubliceerde UEA, TenderNed of de 
+aanbestedingsdocumenten uitdrukkelijk wordt verlangd. 
+ 
+ 
+ 
+Herstel en verificatie 
+ 
+ 
+ 
+ 
+ 
+26/40 
+Het ontbreken van een verplicht UEA, het niet rechtsgeldig ondertekenen daarvan of het niet 
+beantwoorden van verplichte onderdelen kan leiden tot uitsluiting of het terzijde leggen van de 
+inschrijving. 
+De Aanbestedende dienst beoordeelt per geval of een onvolledigheid of kennelijke administratieve 
+omissie binnen de grenzen van het aanbestedingsrecht mag worden hersteld. De inschrijver kan 
+aan deze bepaling geen recht op herstel ontlenen. 
+De bewijsstukken ter onderbouwing van de verklaringen in het UEA hoeven niet bij de inschrijving 
+te worden ingediend, tenzij dit elders in de aanbestedingsdocumenten uitdrukkelijk is bepaald. De 
+Aanbestedende dienst kan de bewijsstukken opvragen overeenkomstig de paragrafen over 
+bewijsstukken en verificatie. 
+Indien blijkt dat informatie uit het UEA onjuist, onvolledig of misleidend is, kan dit leiden tot 
+uitsluiting, intrekking van een gunningsvoornemen of andere passende maatregelen. 
+ 
+4.10 Eisen aan de inschrijving 
+De inschrijving dient aan alle onderstaande procedurele voorwaarden te voldoen: 
+• De inschrijving dient tijdig via de digitale kluis in TenderNed te worden geüpload en ingediend;  
+• Aan de inschrijving zijn geen voorwaarden verbonden; 
+• De inschrijving dient in de Nederlandse taal te zijn opgesteld. 
+Indien niet wordt voldaan aan één of meer van de bovenstaande voorwaarden wordt de 
+inschrijving uitgesloten van verdere deelname aan de aanbestedingsprocedure 
+ 
+Volledigheid 
+Een onvolledige inschrijving kan terzijde worden gelegd. Opdrachtgever kan in geval van een 
+kennelijke administratieve omissie herstel toestaan, voor zover dit binnen het aanbestedingsrecht 
+is toegestaan en niet leidt tot wijziging of verbetering van de inschrijving. 
+ 
+Verplicht bij de inschrijving 
+Nr. Document 
+1 Uniform Europees Aanbestedingsdocument (UEA) (bijlage 2) 
+2 Plan van Aanpak  
+3 Een volledig ingevuld rechtsgeldig ondertekend Prijsformulier (Bijlage 3) 
+ Een afzonderlijke open begroting die voldoet aan de eisen uit paragraaf 6.8 en 
+volledig aansluit op de bedragen uit Bijlage 3 - Prijsformulier  
+4 Referentieformulieren (bijlage 9) 
+5 CV’s van de sleutelpersonen 
+6 Verklaring inzake combinatievorming, onderaanneming of beroep op derden, indien 
+van toepassing 
+7 Ingevuld en rechtsgeldig ondertekende Eigen verklaring sanctiepakket Rusland 
+(bijlage 8) 
+ 
+Op verzoek of bij de beoogd winnaar 
+Opdrachtgever kan de volgende bewijsstukken opvragen bij de beoogd winnaar of eerder indien 
+dat voor de procedure noodzakelijk is: 
+• een actueel uittreksel uit het handelsregister van de Kamer van Koophandel;  
+• bewijs van de vereiste beroeps- en bedrijfsaansprakelijkheidsverzekering; 
+• een geldige belastingverklaring; 
+• een geldige Gedragsverklaring Aanbesteden; 
+• nadere bewijsstukken ter verificatie van referenties, sleutelpersonen en capaciteit;  
+ 
+ 
+ 
+ 
+ 
+27/40 
+• een Social Return-uitvoeringsplan. 
+Gestanddoening 
+De inschrijving blijft geldig tot en met 31 december 2026. 
+ 
+Plan van Aanpak 
+Het Plan van Aanpak heeft een maximale omvang van twintig pagina’s A4 exclusief referenties, 
+CV’s, planning en verplichte bijlagen. Pagina’s boven het maximum worden niet beoordeeld bij de 
+controle op naleving van de minimumvereisten. 
+ 
+Opmaakvereisten 
+• lettertype minimaal Arial 10 of vergelijkbaar; 
+• regelafstand minimaal enkel; 
+• marges minimaal 2 cm; 
+• documenten worden in PDF aangeleverd, tenzij een ander formaat is voorgeschreven. 
+ 
+Vertrouwelijkheid 
+Indien onderdelen van de inschrijving vertrouwelijk zijn, dient dit expliciet en gemotiveerd te 
+worden aangegeven. Opdrachtgever beoordeelt dergelijke aanduidingen met inachtneming van de 
+toepasselijke wet- en regelgeving. 
+ 
+Geen interviews of presentaties 
+De beoordeling vindt uitsluitend plaats op basis van de schriftelijke inschrijving. Er worden geen 
+interviews of presentaties georganiseerd. Een eventueel verificatiegesprek heeft uitsluitend tot doel 
+ingediende informatie te verifiëren of te verduidelijken en mag niet leiden tot wijziging van de 
+inschrijving. 
+ 
+Indiening via TenderNed 
+De inschrijving kan uitsluitend via de digitale kluis van TenderNed worden ingediend vóór de daar 
+vermelde uiterste datum en tijd. Na dit tijdstip wordt de kluis gesloten en worden te laat 
+ontvangen inschrijvingen niet in behandeling genomen. De inschrijver is zelf verantwoordelijk voor 
+een tijdige, juiste en volledige upload en wordt geadviseerd de indiening ruim vóór het 
+sluitingsmoment af te ronden. 
+Technische problemen aan de zijde van de inschrijver, waaronder internet-, software- of 
+gebruikersproblemen, komen in beginsel voor risico van de inschrijver. Een storing wordt direct bij 
+TenderNed en via het bekendgemaakte contactkanaal gemeld. De gemeente bepaalt, met 
+inachtneming van gelijke behandeling en de aard van de storing, of maatregelen noodzakelijk en 
+rechtmatig zijn. 
+ 
+Opening van de inschrijvingen 
+De opening van de digitale kluis en de inschrijvingen is niet openbaar. TenderNed registreert het 
+moment van ontvangst en opening. 
+ 
+ 
+5. Plan van Aanpak 
+5.1 Doel en status 
+ 
+ 
+ 
+ 
+ 
+28/40 
+Het Plan van Aanpak is een verplicht onderdeel van de inschrijving en beschrijft hoe inschrijver de 
+opdracht binnen 18 maanden uitvoert. Het Plan van Aanpak wordt niet vergelijkend op kwaliteit 
+beoordeeld en levert geen punten op. Opdrachtgever controleert uitsluitend of het plan volledig is 
+en voldoet aan de expliciet gestelde minimumvereisten. Na gunning wordt het Plan van Aanpak 
+nog wel besproken met Gemeente Hulst en Provincie Zeeland en moet aanpassing mogelijk zijn. 
+Het Plan van Aanpak is onderdeel van de pre-SMP vergunning en moet voldoend aan de 
+vergunningseisen.  
+ 
+5.2 Algemene uitgangspunten 
+Het Plan van Aanpak dient concreet, projectspecifiek, uitvoerbaar en aantoonbaar onderbouwd te 
+zijn. Het plan is consistent met het Programma van Eisen, het prijsformulier, de personele inzet en 
+de overige onderdelen van de inschrijving. Algemene bedrijfsinformatie vervangt de gevraagde 
+projectspecifieke uitwerking niet. 
+De inschrijver houdt er bij het opstellen van de inschrijving rekening mee dat de gemeente geen 
+persoonsgegevens van eigenaren, huurders of andere gebruikers van gebouwen beschikbaar stelt, 
+behoudens situaties waarin hiervoor afzonderlijk toestemming is verkregen. De onderzoeksaanpak 
+mag daarom niet afhankelijk zijn van de beschikbaarheid van dergelijke persoonsgegevens. 
+De opdrachtnemer gebruikt de door de gemeente verstrekte gegevens uitsluitend voor de 
+uitvoering van deze opdracht en behandelt deze gegevens vertrouwelijk. 
+ 
+5.3 Verplichte onderdelen 
+ 
+Onderzoeksaanpak 
+• onderzoeksstrategie, quickscan en deelgebiedsindeling; 
+• onderzoeksmethodiek voor de minimale doelsoorten; 
+• toepasselijke protocollen en kwaliteitsborging; 
+• werkwijze bij een niet voorziene soort of soort-functiecombinatie; 
+• omgang met kennishiaten en beschikbare gemeentelijke data. 
+Projectorganisatie 
+• projectteam, rollen, verantwoordelijkheden en beschikbaarheid; 
+• continuïteit en vervanging van sleutelpersonen; 
+• overlegstructuur, besluitvorming en escalatie. 
+Kwaliteitsborging 
+• reviewproces, validatie en interne controles; 
+• borging van veldwerk, analyse, rapportage en GIS; 
+• wijze waarop afwijkingen en fouten worden hersteld. 
+Implementatie en beheer 
+• rollen en verantwoordelijkheden in de gebruiksfase, inclusief de rol van een SMP -
+coördinator; 
+• intake, toetsing en registratie van projecten en gebruikers; 
+• meldingsprocessen, natuurboekhouding en interne werkafspraken; 
+• beheer, actualisatie en versiebeheer van SMP, GIS en dossiers; 
+• communicatie met inwoners, corporaties, bedrijven en andere gebruikers; 
+ 
+ 
+ 
+ 
+ 
+29/40 
+• kennisoverdracht en borging in de gemeentelijke organisatie. 
+Communicatie en omgevingsmanagement 
+• communicatie met inwoners voorafgaand aan en tijdens het veldonderzoek, met 
+bijzondere aandacht voor avond- en nachtwerk, herkenbaarheid van onderzoekers, 
+privacy, toegang en eventuele hinder; 
+• afstemming met de gemeentelijke communicatieadviseur en met relevante eigenaren, 
+woningcorporaties, beheerders en andere stakeholders; 
+• een praktische set kernboodschappen, veelgestelde vragen en inzetbare 
+communicatiemiddelen voor de onderzoeks- en implementatiefase; 
+• werkwijze voor meldingen, vragen, weerstand, incidenten en escalatie tijdens de 
+uitvoering. 
+Monitoring en evaluatie 
+• doelen, indicatoren, nulwaarden en meetfrequenties; 
+• protocollen, gegevensbronnen en kwaliteitscontroles; 
+• rapportage, verantwoordelijkheden en drempelwaarden voor bijsturing; 
+• wijze waarop monitoring leidt tot actualisatie van maatregelen en beheer.  
+GIS en datamanagement 
+• GIS-aanpak, datamodel, metadata en datadictionary; 
+• aanleverformaten en overdracht zonder leveranciersafhankelijkheid; 
+• scheiding tussen besloten soortdata en geaggregeerde publieksinformatie; 
+• toegangsbeheer, beveiliging en actualisatie. 
+Vaste scope, opties en meerwerk 
+• afbakening van werkzaamheden binnen de vaste prijs; 
+• werkwijze voor opties en onverwachte aanvullende werkzaamheden; 
+• kostenbegroting en schriftelijke besluitvorming voorafgaand aan meerwerk.  
+Risicobeheersing en planning 
+• projectrisico's en beheersmaatregelen; 
+• fasering, mijlpalen, onderzoeksvensters en kritieke paden; 
+• buffers en capaciteitsmaatregelen waarmee afronding binnen 18 maanden wordt 
+geborgd; 
+• risico's van aanvullende eisen van het bevoegd gezag en niet-toerekenbare 
+omstandigheden. 
+5.4 Niet gewenste inhoud 
+Marketingteksten, standaard bedrijfsprofielen, herhaling van eisen uit het Programma van Eisen en 
+algemene beschrijvingen zonder project specifieke toepassing tellen mee voor het paginamaximum 
+en kunnen de gevraagde inhoud niet vervangen. 
+ 
+ 
+ 
+ 
+ 
+ 
+30/40 
+6. Gunningscriterium: prijs en beoordeling 
+6.1  Gunningsmethodiek 
+De opdracht wordt gegund aan de inschrijver met de laagste geldige beoordelingsprijs, nadat is 
+vastgesteld dat de inschrijver aan de uitsluitingsgronden, geschiktheidseisen en overige 
+minimumvereisten voldoet. Het gunningscriterium is voor 100% prijs. Er worden geen 
+kwaliteitspunten toegekend. 
+ 
+6.2 Geraamde waarde 
+De geraamde waarde bedraagt € 500.000 exclusief btw. Deze waarde is uitsluitend een raming en 
+geen plafondprijs. 
+ 
+6.3 Beoordelingsprijs 
+De beoordelingsprijs is gelijk aan de totale vaste inschrijfprijs zoals opgenomen in Bijlage 3 - 
+Prijsformulier. 
+De vaste inschrijfprijs omvat alle werkzaamheden die behoren tot de vooraf omschreven vaste 
+scope van de opdracht, waaronder in ieder geval: 
+• voorbereiding, gegevensinventarisatie en de gebied dekkende quickscan;  
+• het ecologisch veldonderzoek en de verwerking van de onderzoeksgegevens binnen de 
+vastgestelde basisopdracht;  
+• het opstellen van het Soortenmanagementplan, inclusief effectbepaling
+
+=== Document: bijlage 3 - prijsformulier opstellen smp - gemeente hulst ===
+Bijlage 3 -  Prijsformulier Europese aanbesteding Opstellen Soortenmanagementplan (SMP)  – Gemeente Hulst TenderNed Dossier 600026 703708 1. Instructie Inschrijver vult dit formulier volledig en ongewijzigd in en dient daarnaast een afzonderlijke open begroting in. Alle bedragen worden opgegeven in euro exclusief btw en met twee decimalen. De vaste inschrijfprijs is een all-in prijs voor de volledige vaste scope zoals omschreven in de aanbestedingsstukken. Alle kosten die daarvoor redelijkerwijs noodzakelijk zijn, zijn in de prijs inbegrepen. 2. Verplichte open begroting Naast dit prijsformulier dient inschrijver als afzonderlijke bijlage een open begroting in een gangbaar, digitaal leesbaar formaat in. De open begroting mag in een eigen format worden opgesteld, maar bevat minimaal de onderstaande informatie. De bedragen en subtotalen sluiten volledig aan op dit prijsformulier. Onderdeel Minimaal inzichtelijk maken Onderzoeksopzet en veldwerk Aantal deelgebieden, doelsoort, het aantal onderzoeksrondes, de duur per ronde en de geraamde velduren. Personele inzet Inzet in uren per functie voor voorbereiding en quickscan, veldonderzoek en dataverwerking, het SMP, opstellen vergunningwaardige documenten en GIS/overdracht. Tarieven en overige kosten Gehanteerde uurtarieven en overige kostencomponenten, waaronder apparatuur, materialen, reis en verblijf, software/licenties en eventuele externe expertise. Vermeld of deze kosten in de tarieven zijn verwerkt. Optie telemetrieonderzoek De uren, tarieven, apparatuur, materialen, zenders en overige uitgangspunten waarop de afzonderlijke optieprijs is gebaseerd. Aansluiting totalen De subtotalen per hoofdonderdeel sluiten exact aan op de bedragen in dit prijsformulier. De open begroting wordt niet afzonderlijk gewaardeerd en geeft geen recht op nacalculatie of vergoeding boven de vaste inschrijfprijs. Bij een verschil of onduidelijkheid kan de Aanbestedende dienst om een toelichting verzoeken. Een toelichting mag niet leiden tot wijziging van de aangeboden prijzen of inhoudelijke verbetering van de inschrijving. 3. Vaste inschrijfprijs De optelsom van de onderstaande onderdelen is gelijk aan de totale vaste inschrijfprijs. Onderdeel Bedrag excl. btw Voorbereiding, gegevensanalyse en gebiedsdekkende quickscan EUR ............... Ecologisch veldonderzoek en dataverwerking EUR ............... Opstellen SMP, inclusief effectbepaling, mitigatie, compensatie, implementatie en monitoring EUR ............... GIS, kennisoverdracht en eindoplevering EUR ............... Totale vaste inschrijfprijs EUR ............... 4. Optie telemetrieonderzoek De prijs voor telemetrieonderzoek wordt uitsluitend als optie opgegeven. Deze optieprijs telt niet mee in de beoordelingsprijs en leidt niet tot een afnameverplichting voor de gemeente Hulst.  Uitvoering vindt alleen plaats na een afzonderlijke schriftelijke opdracht.  Kosten van telemetrieonderzoek is afhankelijk van de omvang van het onderzoeksgebied. Onderstaande variabelen geven inzicht in te verwachte kosten.  Fictieve rekenopdracht:  Voor de prijsberekening gaat inschrijver uit van telemetrieonderzoek naar de  laatvlieger  binnen één onderzoeksdeelgebied in de gemeente Hulst, met een zoekgebied tot maximaal 5 kilometer vanaf de vanglocaties. De opdracht omvat maximaal  twee vanglocaties ,  drie vangnachten  en het zenderen van maximaal  vier geschikte volwassen dieren . De gezenderde dieren worden gedurende maximaal  zeven opeenvolgende dagen  gevolgd. Daarbij wordt dagelijks gericht gezocht naar de verblijfplaatsen en worden in totaal  vier avond- of nachtelijke volgrondes  uitgevoerd voor het in beeld brengen van vliegroutes en foerageergebied. De all-inprijs omvat alle benodigde voorbereiding, toestemmingen, personeel, vangmiddelen, zenders, apparatuur, reis- en verblijfskosten, veldwerk, dataverwerking, GIS-bestanden, rapportage en verwerking van de resultaten in het SMP en de vergunningonderbouwing. Het vangen en zenderen van vier dieren betreft een inspanningsverplichting. Aanvullende vang- of volgrondes vallen niet onder deze fictieve rekenprijs en worden uitsluitend uitgevoerd na schriftelijke opdracht van de gemeente Hulst. Optie All-in prijs excl. btw Telemetrieonderzoek conform de fictieve rekenopdracht EUR ............... Aanvullende inzet Eenheidsprijs  excl. btw Eén extra vangnacht van maximaal zes uur   EUR………… Eén extra zender, inclusief aanbrengen en gegevensverwerking EUR………… Eén extra etmaal volgen van de gezenderde dieren EUR………… Eén extra avond- of nachtelijke volgronde EUR………… 5. Uurtarieven voor aanvullende werkzaamheden Deze uurtarieven gelden uitsluitend voor aanvullende werkzaamheden die vooraf schriftelijk door de gemeente Hulst zijn opgedragen. De tarieven maken geen onderdeel uit van de beoordelingsprijs, tenzij in de aanbestedingsleidraad uitdrukkelijk anders is bepaald. Functie Uurtarief excl. btw Projectleider / senior adviseur EUR ............... per uur Senior ecoloog / veldonderzoeker EUR ............... per uur GIS- en dataspecialist EUR ............... per uur 6. Beoordelingsprijs De beoordelingsprijs is gelijk aan de totale vaste inschrijfprijs voor de basisopdracht: Totale vaste inschrijfprijs: € …………… exclusief btw De optieprijs voor telemetrieonderzoek, de uurtarieven en eventuele andere opties of aanvullende werkzaamheden maken geen onderdeel uit van de beoordelingsprijs. 7. Verklaring en ondertekening Door ondertekening verklaart de inschrijver dat: de prijsopgave volledig en naar waarheid is ingevuld; de totale vaste inschrijfprijs alle kosten voor de vaste scope omvat; de afzonderlijke open begroting is toegevoegd en volledig aansluit op de bedragen in dit prijsformulier; de optieprijzen en uurtarieven gedurende de gestanddoeningstermijn geldig zijn; aan de prijsopgave geen voorbehouden of eigen voorwaarden zijn verbonden; de inschrijving voldoet aan de aanbestedingsleidraad, het Programma van Eis en de Nota(s) van Inlichtingen. Naam inschrijver en KvK-nummer Naam vertegenwoordiger en functie Plaats en datum Handtekening
+
+=== Document: bijlage 4 - vng model algemene inkoopvoorwaarden voor leveringen en diensten, versie geldend va ===
+VNG model Algemene Inkoopvoorwaarden voor leveringen en
+diensten
+Geldend van 01-06-2025 t/m heden
+VNG model Algemene Inkoopvoorwaarden voor leveringen en diensten
+Intitulé
+Deze inkoopvoorwaarden zijn gebaseerd op het VNG Model Algemene Inkoopvoorwaarden voor leveringen en
+diensten.
+Besluit
+Akkoord conform voorstel.
+1. De ‘VNG model Algemene Inkoopvoorwaarden voor leveringen en diensten’ vast te stellen en met ingang
+van 1 juni 2025 van toepassing te verklaren op alle inkoopopdrachten, tenzij branche specifieke
+voorwaarden passender worden geacht (conform het inkoopbeleid);
+2. De VNG model ‘Gemeentelijke inkoopvoorwaarden bij IT Toolbox’ vast te stellen en met ingang van 1 juni
+2025 van toepassing te verklaren op de inkoop van IT-diensten en producten;
+3. De ‘Algemene Inkoopvoorwaarden gemeente Meppel’, vastgesteld door het college van Burgemeester en
+Wethouders d.d. 28 maart 2017, in te trekken
+I ALGEMEEN
+Artikel 1 Definities
+: het verschaffen van het bezit van de Goederen aan de GemeenteAflevering
+: de in de Overeenkomst genoemde wederpartij van de GemeenteContractant
+: digitale weergaves van handelingen, feiten of informatie en/of compilaties van dergelijke handelingen,
+feiten of informatie, ook in de vorm van geluids-, visuele of audiovisuele opnames
+Data
+: de door de Contractant op basis van de Overeenkomst te verrichten werkzaamheden voor
+een specifieke behoefte van de Gemeente, niet zijnde werken of leveringen
+Diensten (Dienst)
+: het recht op grond waarvan de Gemeente bevoegd is om de Resultaten in overeenstemming
+met de Overeenkomst te gebruiken en de toestemming van de Contractant om de Resultaten onbeperkt te
+verveelvoudigen, te wijzigen, openbaar te maken, toe te passen en te bewerken, in iedere vorm, nu bestaand
+of in de toekomst
+Gebruiksrecht
+: de gemeente Meppel, zetelend te Meppel, Grote Oever 4Gemeente
+: alle zaken en alle vermogensrechten in de zin van artikel 3:1 Burgerlijk WetboekGoederen (Goed)
+: alle (aanspraken op) intellectuele eigendomsrechten, waaronder maar niet beperkt tot,
+auteursrechten, databankenrechten en goodwill
+IE-rechten
+: de door de Contractant op basis van de Overeenkomst ten behoeve van de Gemeente
+te leveren Goederen en Diensten
+Leveringen (Levering)
+Lokale wet- en regelgeving
+: de door de Contractant op basis van de Overeenkomst specifiek voor de Gemeente tot stand
+gebrachte, verrichte en/of ontwikkelde Prestaties en Goederen
+Maatwerk
+: een aanbod in de zin van het Burgerlijk WetboekOfferte
+: een enkelvoudige of meervoudige aanvraag van de Gemeente voor te verrichten Prestaties
+of een (Europese) aanbesteding conform de Aanbestedingswet en de Europese aanbestedingsrichtlijnen
+Offerteaanvraag
+: al hetgeen tussen de Gemeente en de Contractant is overeengekomen, inclusief daarbij
+behorende bijlagen
+Overeenkomst
+: de bij de Overeenkomst gevoegde
+overeenkomst voor gezamenlijke verwerkingsverantwoordelijken, of bij gebreke daarvan, de door VNG
+opgestelde Modelovereenkomst Gezamenlijke Verwerkingsverantwoordelijken
+Overeenkomst voor Gezamenlijke Verwerkingsverantwoordelijken
+: de Gemeente en/of de ContractantPartijen/Partij
+: de door de Contractant voor de uitvoering van de Overeenkomst in te schakelen
+personeelsleden of andere hulppersonen die met de Contractant een overeenkomst van opdracht hebben
+gesloten
+Personeel van Contractant
+: te verrichten Leveringen en/of DienstenPrestaties (Prestatie)
+: al hetgeen in het kader van de Overeenkomst tot stand wordt gebracht, anders dan
+Maatwerk en ongeacht of de Contractant daarbij gebruikmaakt van enige bijdrage van de Gemeente en/of
+derden
+Resultaten (Resultaat)
+: correspondentie per post of langs elektronisch weg waarbij: de kennisgeving raadpleegbaar is
+door de geadresseerde, de authenticiteit van de kennisgeving in voldoende mate is gewaarborgd, en de
+identiteit van de kennisgever met voldoende zekerheid kan worden vastgesteld
+Schriftelijk
+: de bij de Overeenkomst gevoegde verwerkersovereenkomst of, bij gebreke
+daarvan, de ten tijde van het sluiten van de Overeenkomst door de VNG tot standaard verklaarde Standaard
+Verwerkersovereenkomst
+Verwerkersovereenkomst
+: kalenderdagen behoudens weekenden, algemeen erkende feestdagen in de zin van artikel 3 lid 1
+Algemene termijnenwet, plaatselijke feestdagen en door de Gemeente aangewezen brugdagen
+Werkdag
+Artikel 2 Toepasselijkheid
+Deze algemene inkoopvoorwaarden zijn van toepassing op de Offerteaanvraag, Offerte(n), nadere
+overeenkomsten en Overeenkomsten met betrekking tot Leveringen en Diensten.
+1.
+Van deze algemene inkoopvoorwaarden kan slechts worden afgeweken, indien Partijen dit uitdrukkelijk
+Schriftelijk met elkaar zijn overeengekomen.
+2.
+Indien een bepaling van deze algemene inkoopvoorwaarden nietig is of vernietigd wordt, blijven de
+overige bepalingen van kracht. Partijen treden in overleg teneinde een nieuwe bepaling (of bepalingen)
+ter vervanging van de nietige of vernietigde bepaling(en) overeen te komen, waarbij zoveel mogelijk het
+doel en de strekking van de nietige of vernietigde bepaling(en) in acht worden genomen.
+3.
+Door het indienen van de Offerte aanvaardt de Contractant onverkort deze algemene inkoopvoorwaarden
+en wijst de Contractant uitdrukkelijk de toepasselijkheid van zijn algemene voorwaarden en markt- of
+branche specifieke voorwaarden af.
+4.
+Artikel 3 Totstandkoming Overeenkomst
+De Gemeente kan een Offerteaanvraag intrekken of wijzigen voor zover dit mogelijk is binnen de
+geldende Nederlandse en Europese jurisprudentie en wet- en regelgeving. De Gemeente vergoedt geen
+kosten of schade die hiermee samenhangen, tenzij Schriftelijk anders is overeengekomen of wet- of
+regelgeving daartoe dwingen.
+1.
+De Offerte van de Contractant heeft een gestanddoeningstermijn van negentig dagen of zoveel langer of
+korter als in de Offerteaanvraag is vermeld. De gestanddoeningstermijn vangt aan op de dag waarop de
+inschrijvingstermijn sluit of op de dag die wordt vermeld in de Offerteaanvraag.
+2.
+Een Overeenkomst komt tot stand nadat de Gemeente een expliciete Schriftelijke aanvaarding van de
+Offerte van de Contractant heeft verzonden aan de Contractant. De Schriftelijke aanvaarding geldt enkel
+als aanvaarding, indien daaraan een besluit ten grondslag ligt als bedoeld in artikel 160 lid 1 aanhef en
+onder d van de Gemeentewet dat is genomen door of namens het college van burgemeester en
+wethouders en de aanvaarding ondertekend is door de burgemeester of een ander waaraan op grond van
+het bepaalde in artikel 171 lid 2 van de Gemeentewet de vertegenwoordiging van de Gemeente is
+opgedragen.
+3.
+Een voornemen tot gunning houdt geen aanvaarding in zoals bedoeld in het voorgaande lid of in de zin
+van artikel 6:217 lid 1 Burgerlijk Wetboek.
+4.
+Alle handelingen die de Contractant verricht voorafgaand aan de totstandkoming van de Overeenkomst
+zijn voor rekening en risico van de Contractant.
+5.
+II UITVOERING OVEREENKOMST
+Artikel 4 Algemene verplichtingen Contractant
+De Contractant zal zijn verplichtingen voortvloeiend uit de Overeenkomst in goede samenwerking met de
+Gemeente nakomen, onverminderd de eigen verantwoordelijkheid van de Contractant.
+1.
+De Contractant zal de Gemeente op de hoogte houden van de uitvoering van de Overeenkomst en
+desgevraagd inlichtingen geven. De Contractant is onder meer, maar niet uitsluitend, verplicht om de
+Gemeente direct Schriftelijk in te lichten over feiten en omstandigheden die kunnen leiden tot vertraging
+in de nakoming of waarmee in de Overeenkomst geen rekening is gehouden.
+2.
+Slechts met voorafgaande Schriftelijke goedkeuring van de Gemeente, kan de Contractant de uitvoering
+van de Overeenkomst geheel of gedeeltelijk laten uitvoeren door derden of uit de Overeenkomst
+voortvloeiende rechten en/of plichten overdragen aan derden. Dit geldt niet voor het vestigen van
+beperkte rechten, zoals een pandrecht. De Gemeente is te allen tijde bevoegd om deze goedkeuring in te
+trekken, indien blijkt dat deze derden niet in staat zijn om (hun deel van) de Overeenkomst uit te voeren.
+3.
+De Contractant garandeert over de (totstandkoming van de) Overeenkomst dat de Contractant of
+Personeel van Contractant of een met de Contractant verbonden rechtspersoon en de onder hen
+werkzame personen niet betrokken zijn of zijn geweest bij overleg of afspraken met andere
+ondernemingen op een wijze die strijdig zou kunnen zijn met bepalingen van de Mededingingswet of
+artikelen 101 en 102 Verdrag betreffende de werking van de Europese Unie, waaronder: (1) prijsvorming,
+(2) het afstemmen van Offerten, en/of (3) verdeling van werkzaamheden.
+4.
+De Contractant vrijwaart de Gemeente voor strafrechtelijke boetes en bestuurlijke sancties (als bedoeld in
+artikel 5:2 lid 1 aanhef en onder a van de Algemene wet bestuursrecht, het eventuele kostenverhaal
+daaronder begrepen) die verband houden met de Overeenkomst en die de Contractant of de Gemeente
+krijgt opgelegd.
+5.
+De Contractant zal bij de uitvoering van de Overeenkomst alle van toepassing zijnde voorschriften bij of
+krachtens de wet gesteld naleven en de overeenkomsten die de Gemeente met derden heeft gesloten,
+voor zover deze overeenkomsten bekend zijn bij de Contractant, in acht nemen. Indien de Contractant
+genoodzaakt is om contact op te nemen met deze derden, zal de Contractant dit eerst voorleggen aan de
+Gemeente.
+6.
+De Contractant draagt zelf de verantwoordelijkheid om de door de Contractant ingeschakelde derden te
+informeren over de afspraken die gelden tussen de Contractant en de Gemeente bij de uitvoering van de
+Overeenkomst.
+7.
+Slechts voor zover de Contractant expliciet en Schriftelijk is gemachtigd door de Gemeente zal de
+Contractant optreden als gemachtigde van de Gemeente. Eventuele gevolgen die door het in strijd
+handelen met het bepaalde in de voorgaande zin zijn ontstaan, komen voor rekening en risico van de
+Contractant.
+8.
+Artikel 5 Algemene verplichtingen Gemeente
+De Gemeente zal op verzoek van de Contractant alle inlichtingen en gegevens verstrekken voor zover die
+nodig zijn om de Overeenkomst naar behoren uit te voeren.
+1.
+De Gemeente zal zich inspannen zoals een goed opdrachtgever betaamt en zal zich indien nodig
+inspannen om haar medewerking, waaronder publiekrechtelijke medewerking, te verlenen die nodig zou
+kunnen zijn voor de uitvoering van de Overeenkomst.
+2.
+Artikel 6 Kwaliteit en controle
+De Contractant garandeert dat de geleverde Prestaties voldoen aan de Overeenkomst, aan de algemeen
+geldende normen, aan gemeentelijke kwaliteitsnormen en aan de voorschriften die bij of krachtens wet of
+verdrag gelden met betrekking tot, maar niet uitsluitend, veiligheid, toegankelijkheid, gezondheid, milieu,
+Data en informatieveiligheid.
+1.
+De Gemeente is gerechtigd om de Prestaties te keuren en de Contractant verleent waar nodig zijn
+medewerking. Indien de Gemeente bepaalde Prestaties Schriftelijk heeft goedgekeurd, vervalt het recht
+zoals genoemd in de voorgaande zin ten aanzien van die Prestaties.
+2.
+De Gemeente is gerechtigd om een integriteitsscreening uit te voeren, eventueel met behulp van een
+advies als bedoeld in de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Wet
+Bibob). Indien het screeningsresultaat daar aanleiding toe geeft, kunnen in de Overeenkomst aanvullende
+maatregelen worden opgenomen.
+3.
+De Gemeente heeft het recht om eventueel met behulp van ingeschakelde derden een controle te (laten)
+doen van de naleving door de Contractant van de Overeenkomst. De Contractant is verplicht om hieraan
+zijn medewerking te verlenen. De kosten voor deze controle komen voor rekening van de Gemeente,
+tenzij uit de controle blijkt dat de Contractant één of meer wezenlijke verplichtingen niet heeft nageleefd
+en/of het kosten zijn aan de zijde van de Contractant.
+4.
+Artikel 7 Geheimhouding
+Partijen verplichten zich om al wat bij de uitvoering van de Overeenkomst ter kennis komt en waarvan het
+vertrouwelijke karakter bekend is of redelijkerwijs kan worden vermoed, op generlei wijze bekend te
+maken of voor eigen doeleinden te gebruiken, behalve voor zover enig wettelijk voorschrift of rechterlijke
+uitspraak tot bekendmaking noopt.
+1.
+Partijen zullen de onder hen werkzame personen of door hen ingeschakelde derden verplichten deze
+geheimhoudingsplicht na te leven.
+2.
+Partijen hebben het recht om in geval van overtreding van de voorgaande leden door de andere Partij
+en/of de voor die Partij werkzame personen en/of door die Partij ingeschakelde derden de Overeenkomst
+per direct op te schorten dan wel zonder rechterlijke tussenkomst en zonder ingebrekestelling met
+onmiddellijke ingang te ontbinden. Elke opschorting dan wel ontbinding geschiedt door middel van een
+aangetekend schrijven.
+3.
+De Contractant is verplicht om op eerste verzoek van de Gemeente Personeel van Contractant een
+geheimhoudingsverklaring te laten ondertekenen.
+4.
+De Contractant is verplicht om Schriftelijke goedkeuring te vragen aan de Gemeente voor eventuele
+persberichten, reclame-uitingen of openbare mededelingen – inclusief mededelingen via kanalen van
+sociale media – met betrekking tot het (mogelijk) aangaan en de uitvoering van de Overeenkomst, tenzij
+Schriftelijk anders is overeengekomen.
+5.
+Artikel 8 Intellectueel eigendom
+Over alle IE-rechten op de Resultaten (niet zijnde Maatwerk) verkrijgt de Gemeente een onbeperkt,
+eeuwigdurend, onvoorwaardelijk en onherroepelijk Gebruiksrecht, tenzij Schriftelijk anders is
+overeengekomen. De Gemeente aanvaardt dit Gebruiksrecht. De Contractant werkt op eerste verzoek
+kosteloos mee aan het bewerkstelligen en nader formaliseren van dit Gebruiksrecht. De eenmalige
+vergoeding voor dit Gebruiksrecht ligt besloten in de overeengekomen prijs.
+1.
+Alle IE-rechten op Maatwerk berusten bij de Gemeente, tenzij Schriftelijk anders is overeengekomen. De
+Contractant draagt hierbij alle IE-rechten die ten grondslag liggen aan het Maatwerk over aan de
+2.
+Gemeente. De Gemeente aanvaardt deze overdracht hierbij. De overdracht ziet op alle huidige en
+toekomstige rechten en omvat alle denkbare vormen van gebruik, openbaarmaking en/of
+verveelvoudiging, inclusief iedere vorm van bewerking, nu bestaand of in de toekomst. De Contractant zal
+op eerste verzoek kosteloos meewerken aan het bewerkstelligen en nader formaliseren van de
+overdracht. De eenmalige koopprijs voor deze overdracht ligt besloten in de overeengekomen prijs.
+De Contractant behoudt of verkrijgt geen gebruiksrecht met betrekking tot het Maatwerk, tenzij Schriftelijk
+anders is overeengekomen.
+3.
+De Gemeente blijft rechthebbende van alle IE-rechten op door de Gemeente geleverde bijdragen op
+grond van de Overeenkomst en alle daaruit voortvloeiende Resultaten en/ of Maatwerk. De Gemeente
+behoudt zich uitdrukkelijk het auteursrecht voor met betrekking tot ieder in het kader van de
+Overeenkomst aan de Contractant openbaar gemaakt werk. De Contractant erkent dit voorbehoud. Ten
+aanzien van alle auteursrechtelijk beschermde werken die toekomen aan de Gemeente geldt:
+“Auteursrecht ten aanzien van tekst- en datamining en machine learning nadrukkelijk voorbehouden”.
+4.
+Voor zover de wet dat toestaat doet de Contractant afstand van alle eventuele persoonlijkheidsrechten op
+in het kader van de Overeenkomst tot stand gebrachte auteursrechtelijk beschermde werken.
+5.
+De Contractant garandeert dat de Prestaties, de Goederen, het Maatwerk, de Resultaten en al hetgeen
+daarmee gepaard gaat of daaruit resulteert vrij zijn van alle bijzondere lasten en beperkingen die aan het
+vrije gebruik daarvan door de Gemeente in de weg zouden kunnen staan. De Contractant vrijwaart de
+Gemeente tegen alle aanspraken van derden dienaangaande.
+6.
+In het geval van aanspraken van derden zal de Contractant alles in het werk stellen om in overleg met de
+Gemeente te bewerkstelligen dat de Gemeente het ongestoorde gebruik van het geleverde zal kunnen
+voortzetten.
+7.
+In het geval van aanspraken van derden waarvoor de in lid 6 genoemde vrijwaringverplichting geldt, zal
+de Contractant alle schade van de Gemeente vergoeden inclusief proceskosten, waaronder tevens
+begrepen redelijke advocaatkosten.
+8.
+Artikel 9 Verwerking persoonsgegevens
+De Contractant verwerkt persoonsgegevens, als gedefinieerd in artikel 4 van de Algemene Verordening
+Gegevensbescherming, in overeenstemming met de toepasselijke wet- en regelgeving.
+1.
+Voor zover de Contractant in het kader van de uitvoering van de Overeenkomst persoonsgegevens voor
+de Gemeente in de hoedanigheid van verwerker in de zin van de Algemene Verordening
+Gegevensbescherming verwerkt, is op die verwerking de Verwerkersovereenkomst van toepassing.
+2.
+Voor zover tussen de Contractant en de Gemeente in het kader van de uitvoering van de Overeenkomst
+voor een of meer verwerkingen van persoonsgegevens sprake is van gezamenlijke
+verwerkingsverantwoordelijkheid in de zin van artikel 26 van de Algemene Verordening
+Gegevensbescherming, is op die verwerking de Overeenkomst voor Gezamenlijke
+Verwerkingsverantwoordelijken van toepassing.
+3.
+Artikel 10 Data
+Indien de te leveren Goederen in staat zijn om Data te genereren, te verzamelen of anderszins te
+verwerven, en/of er bij de te verrichten Diensten Data worden gegenereerd, verzameld, of anderszins
+worden verworven, zal de Contractant de Gemeente daarvan op de hoogte stellen.
+1.
+De Contractant stelt de Gemeente kosteloos technisch in staat om de Data in te zien, en voor eigen
+gebruik te kunnen opslaan. De Contractant kan aan deze verplichting onder meer voldoen door:
+2.
+• de Data aan de Gemeente te verstrekken;
+• de Gemeente in staat te stellen om de Data in realtime in te zien en een kopie daarvan te
+downloaden;
+• de Data gedurende de looptijd van de Overeenkomst onder zich te houden, en de Gemeente op
+eerste verzoek een kopie van de Data te verstrekken;
+• documentatie aan de Gemeente te verstrekken om de Gemeente in staat te stellen de Data zelf uit
+het Goed te ontsluiten; of
+• aan de Gemeente koppelingen ter beschikking te stellen, teneinde de Gemeente in staat te stellen
+de Data zelf op te vragen via deze koppelingen.
+De ter beschikking gestelde of beschikbaar gemaakte Data zal:3.
+• in een algemeen leesbaar elektronisch bestandsformaat worden verstrekt;
+• vergezeld gaan van documentatie met een juiste, volledige en gedetailleerde beschrijving van de
+aan de Data ten grondslag liggende datamodellen; en
+• voldoen aan de voorschriften die aan Data worden gesteld in de Wet open overheid, de Wet
+hergebruik van overheidsinformatie en andere wet- en regelgeving die op de Gemeente van
+toepassing is.
+De Contractant bevestigt dat de Gemeente het recht heeft om de Data voor eigen gebruik op te slaan en
+verder te gebruiken, waaronder begrepen het recht van de Gemeente om de Data openbaar inzichtelijk te
+maken en ter beschikking te stellen aan derden. Voor zover op de Data die ontstaan bij gebruik door de
+Gemeente of die specifiek zien op het gebruik door de Gemeente, hoe ook genaamd, IE-rechten (komen
+te) rusten, is wat in artikel 8 is bepaald over Resultaten van overeenkomstige toepassing.
+4.
+Indien de door de Contractant geleverde Data onjuist en/of onvolledig blijken te zijn, zal de Contractant,
+ook na beëindiging van de Overeenkomst, kosteloos zijn medewerking verlenen om deze onjuistheid
+en/of onvolledigheid te corrigeren.
+5.
+Indien de Contractant zelf (mede) toegang heeft tot de Data, gelden de volgende bepalingen:6.
+• de Contractant zal de Data uitsluitend gebruiken voor de uitvoering van de Overeenkomst en de
+nakoming van op de Contractant rustende wettelijke verplichtingen;
+• de Contractant zal op eerste verzoek van de Gemeente overgaan tot vernietiging van de Data;
+• de Contractant zal gedurende de looptijd van de Overeenkomst niet overgaan tot vernietiging van
+de Data zonder een verzoek daartoe; en
+• de Contractant zal de Data na het einde van de Overeenkomst vernietigen, maar niet voordat hij de
+Gemeente expliciet een redelijke laatste kans heeft geboden om de Data te downloaden of
+anderszins te verkrijgen.
+De Contractant zal, onverminderd de verplichting tot het verstrekken van deugdelijke documentatie, op
+eerste verzoek alles doen wat redelijkerwijs van hem gevergd kan worden om de Gemeente te helpen bij
+het duiden en interpreteren van de Data. De Contractant zal kosteloos voldoen aan deze verplichting,
+tenzij Schriftelijk anders is overeengekomen.
+7.
+Hetgeen is bepaald in de leden 2 tot en met 7 geldt niet indien en voor zover:8.
+• het nakomen van de verplichtingen technisch onmogelijk is;
+• het nakomen van de verplichtingen in strijd komt met andere wettelijke verplichtingen;
+• de Data bedrijfsgeheimen van de Contractant betreffen; of
+• de Gemeente expliciet en ondubbelzinnig bij de Contractant heeft aangegeven de Data niet te willen
+ontvangen of anderszins in te willen zien.
+Artikel 11 Wijziging Overeenkomst
+De Gemeente is bevoegd om de Overeenkomst Schriftelijk te wijzigen en/ of aan te vullen, na overleg met
+en instemming van de Contractant over de gevolgen van de wijziging of aanvulling.
+1.
+In dit kader blijven Partijen binnen de grenzen van de redelijkheid en billijkheid.2.
+Artikel 12 Uitrusting en materialen
+De Contractant zal voor eigen rekening en risico zorgdragen voor alle bij de uitvoering van de
+Overeenkomst te gebruiken – niet van de Gemeente afkomstige – materialen en uitrusting (waaronder
+gereedschappen), tenzij Schriftelijk anders is overeengekomen.
+1.
+De Contractant is verantwoordelijk en aansprakelijk voor de deugdelijkheid van de gebruikte Goederen,
+materialen en uitrusting en dient deze voor eigen rekening en risico te verzekeren, tenzij Schriftelijk
+anders is overeengekomen.
+2.
+De Contractant kan voor eigen rekening en risico bij de uitvoering van de Overeenkomst gebruik maken
+van zaken die eigendom zijn van de Gemeente, en die voor dat doel aan de Contractant in bruikleen zijn
+gegeven. Aan deze bruikleen kan de Gemeente voorwaarden verbinden.
+3.
+Artikel 13 Tijdstip van nakoming
+De Contractant is van rechtswege in verzuim nadat de fatale termijn(en) voor de uitvoering van de
+Prestaties, zoals vermeld in de Overeenkomst, is/zijn verstreken en die Prestatie(s) niet of niet volledig
+is/zijn uitgevoerd.
+1.
+De Contractant stelt de Gemeente Schriftelijk tijdig en met opgaaf van redenen in kennis van een
+eventuele vertraging en de maatregelen die de Contractant zal treffen om de vertraging zoveel mogelijk te
+beperken.
+2.
+Artikel 14 Toerekenbare tekortkoming
+Indien één van de Partijen toerekenbaar tekortschiet in de nakoming van de Overeenkomst en/of deze
+algemene inkoopvoorwaarden, zal de andere Partij een aangetekend schrijven verzenden aan de
+tekortkomende Partij, alvorens gebruik te maken van de aan de Partij toekomende wettelijke rechten,
+behoudens de gevallen waarin ingebrekestelling ingevolge het Burgerlijk Wetboek achterwege kan
+blijven, in welke gevallen de nalatige Partij direct in verzuim verkeert.
+1.
+Ieder van de Partijen is gerechtigd de Overeenkomst zonder rechterlijke tussenkomst en zonder
+ingebrekestelling met onmiddellijke ingang te ontbinden, indien de andere Partij in verzuim is geraakt,
+behoudens voor zover ontbinding – gelet op de omstandigheden van het geval, waaronder de ernst van
+het verzuim – in strijd zou zijn met de redelijkheid en billijkheid. Elke ontbinding geschiedt door middel
+van een aangetekend schrijven.
+2.
+Er is geen sprake van enige toerekenbare tekortkoming van de Gemeente indien en voor zover de
+publiekrechtelijke verantwoordelijkheid noopt tot het niet verstrekken van inlichtingen en gegevens
+respectievelijk tot het niet verlenen van de publiekrechtelijke medewerking die nodig zou kunnen zijn voor
+de uitvoering van de Overeenkomst.
+3.
+Artikel 15 Niet-toerekenbare tekortkoming
+De Contractant kan zich jegens de Gemeente enkel op een niet-toerekenbare tekortkoming, als bedoeld
+in artikel 6:75 Burgerlijk Wetboek, beroepen, indien de Contractant de Gemeente zo spoedig mogelijk,
+onder overlegging van de bewijsstukken, Schriftelijk hiervan in kennis stelt.
+1.
+Onder een niet-toerekenbare tekortkoming aan de zijde van de Contractant wordt in ieder geval niet
+verstaan:
+2.
+• ziekte van Personeel van Contractant (behoudens bijvoorbeeld een pandemie);
+• gebrek aan Personeel van Contractant;
+• stakingen;
+• grondstoffentekort;
+• transportproblemen;
+• tekortkoming of niet-nakoming van de verplichtingen van toeleveranciers;
+• storingen in de productie van de Contractant; of
+• liquiditeits- en/of solvabiliteitsproblemen aan de zijde van de Contractant.
+Artikel 16 Aansprakelijkheid en verzekering
+Tenzij Schriftelijk anders overeengekomen, is de Partij die toerekenbaar tekortschiet in de nakoming van
+haar verplichtingen tegenover de andere Partij aansprakelijk voor de door de andere Partij geleden dan
+wel te lijden schade, met dien verstande dat de aansprakelijkheid als volgt beperkt is tot:
+1.
+1.
+voor opdrachten waarvan de totale
+waarde kleiner is dan of gelijk aan
+€ 50.000,-:
+2.
+€150.000,- per gebeurtenis en
+€ 300.000,- per contractjaar (of gedeelte
+van een jaar) dat de Overeenkomst van
+kracht is;
+3.
+voor opdrachten waarvan de totale
+waarde meer is dan € 50.000,- maar
+kleiner dan of gelijk aan € 100.000,-:
+4.
+€ 300.000,- per gebeurtenis en
+€ 500.000,- per contractjaar of gedeelte
+van een jaar dat de Overeenkomst van
+kracht is;
+5.
+voor opdrachten waarvan de totale
+waarde meer is dan € 100.000,- maar
+kleiner dan of gelijk aan € 150.000,-:
+6.
+€ 500.000,- per gebeurtenis en
+€ 1.000.000,- per contractjaar of
+gedeelte van een jaar dat de
+Overeenkomst van kracht is;
+7.
+voor opdrachten waarvan de totale
+waarde meer is dan € 150.000,- maar
+kleiner dan of gelijk aan € 500.000,-:
+8.
+€ 1.500.000,- per gebeurtenis en
+€ 3.000.000,- per contractjaar of
+gedeelte van een jaar dat de
+Overeenkomst van kracht is;
+9.
+voor opdrachten waarvan de totale
+waarde meer is dan € 500.000,-:
+10.
+€ 3.000.000,- per gebeurtenis en
+€ 5.000.000,- per contractjaar of
+gedeelte van een jaar dat de
+Overeenkomst van kracht is.
+Samenhangende gebeurtenissen worden daarbij aangemerkt als één gebeurtenis.
+De in het vorige lid bedoelde beperking van aansprakelijkheid komt te vervallen:2.
+• in geval van aanspraken op schadevergoeding ten gevolge van dood of letsel; en/of
+• indien sprake is van opzet of grove schuld van de Partij die toerekenbaar tekortschiet of diens
+personeel; en/of
+• in geval van schending van artikel 8; en/of
+• in geval van schending van artikel 9, waaronder de Verwerkersovereenkomst en de Overeenkomst
+voor Gezamenlijke Verwerkingsverantwoordelijken; en/of
+• in geval van vrijwaringen die Partijen aan elkaar hebben verleend in deze inkoopvoorwaarden en/of
+de Overeenkomst.
+De Contractant zal vanaf het aangaan van de Overeenkomst adequaat verzekerd zijn voor het uitvoeren
+van de Overeenkomst en zal zich adequaat verzekerd houden gedurende de uitvoering van de
+Overeenkomst.
+3.
+De Contractant zal het verzekerd bedrag en de polisvoorwaarden gedurende de uitvoering van de
+Overeenkomst niet ten nadele van de Gemeente wijzigen, tenzij de Gemeente hiervoor haar expliciete en
+Schriftelijke toestemming heeft gegeven.
+4.
+Eventuele verzekeringen die noodzakelijk zijn in het kader van de uitvoering van de Overeenkomst en
+waarover de Contractant nog niet beschikt, zal de Contractant afsluiten voor tenminste de periode van de
+uitvoering van de Overeenkomst.
+5.
+Artikel 17 Boete
+Indien een boetebepaling is overeengekomen, is deze boete zonder rechterlijke tussenkomst,
+ingebrekestelling of aanmaning direct opeisbaar.
+1.
+De boete laat onverlet alle andere rechten of vorderingen, waaronder, doch niet uitsluitend, de vordering
+van de Gemeente tot nakoming en het recht op schadevergoeding.
+2.
+Artikel 18 Toepasselijk recht en geschillen
+Op deze algemene inkoopvoorwaarden en de Overeenkomsten, alsmede op de totstandkoming en de
+interpretatie, is Nederlands recht van toepassing.
+1.
+De toepasselijkheid van het Weens Koopverdrag (United Nations Convention on Contracts for the
+International Sale of Goods) wordt uitdrukkelijk uitgesloten.
+2.
+Geschillen tussen Partijen, daaronder begrepen, die slechts door één Partij als zodanig wordt
+beschouwd, zullen zoveel mogelijk door middel van goed overleg tot een oplossing worden gebracht.
+3.
+Als er een geschil ontstaat met betrekking tot de Offerteaanvraag, de procedure zoals beschreven in de
+Offerteaanvraag, de totstandkoming van de Overeenkomst of de uitvoering van de Overeenkomst, dan is
+elk van de Partijen gerechtigd om het geschil voor te leggen aan de bevoegde rechter in het
+arrondissement waar de Gemeente is gevestigd.
+4.
+III Financiële bepalingen
+Artikel 19 Prijzen, meerwerk en minderwerk
+De Contractant zal de Overeenkomst uitvoeren tegen de in zijn Offerte genoemde prijzen in euro’s.1.
+Niet redelijkerwijs in de Overeenkomst inbegrepen extra Prestaties, zijn slechts meerwerk voor zover dit
+uitsluitend aan de Gemeente is toe te rekenen. Als de in de Overeenkomst inbegrepen Prestaties
+redelijkerwijs worden verlicht en/of verminderd, is sprake van minderwerk.
+2.
+Meerwerk zal door de Contractant slechts in behandeling worden genomen nadat de inhoud en de prijzen
+Schriftelijk zijn overeengekomen met de Gemeente.
+3.
+Afrekening van meerwerk of verrekening van minderwerk vindt plaats tegen maximaal de prijzen zoals
+opgenomen in de Offerte, tenzij Schriftelijk anders is overeengekomen.
+4.
+Voor zover de prijzen van meerwerk of minderwerk niet in de Offerte zijn opgenomen, verplicht de
+Contractant zich ertoe voor meerwerk en minderwerk uitsluitend marktconforme prijzen aan te bieden.
+5.
+Artikel 20 Facturering en betaling
+De Gemeente ontvangt elektronische facturen die voldoen aan de door de Gemeente te stellen
+aanvullende eisen voor elektronische verwerking. Indien Partijen dit Schriftelijk zijn overeengekomen,
+kunnen facturen als pdf-bestand per e-mail worden verzonden naar het door de Gemeente opgegeven e-
+mailadres.
+1.
+Op de factuur vermeldt de Contractant:2.
+• de wettelijke vereisten waaraan de factuur moet voldoen: naam, adres, postcode, woonplaats,
+bank/gironummer en de benodigde IBAN- en BIC-gegevens, BTW-nummer, KvK-nummer;
+• het factuuradres van de Contractant; het totale factuurbedrag inclusief en exclusief BTW;
+• factuurdatum;
+• uniek factuurnummer van de Contractant;
+• korte omschrijving van de Levering en/of Dienst; en
+• eventuele nadere eisen in overleg met de Gemeente. Eventuele nadere eisen worden opgenomen
+in de Overeenkomst dan wel de Offerteaanvraag.
+De Contractant hanteert een betalingstermijn van dertig dagen na de ontvangst van de factuur of zoveel
+langer of korter als overeengekomen tussen Partijen in de Overeenkomst. De Gemeente zal binnen de
+gehanteerde betalingstermijn de factuur van de Contractant betalen. Indien de factuur niet voldoet aan de
+gestelde eisen, dan zal de betalingstermijn niet aanvangen.
+3.
+Indien de Goederen of Diensten niet beantwoorden aan de Overeenkomst is de Gemeente bevoegd om
+de betaling naar rato van de tekortkoming geheel of gedeeltelijk op te schorten.
+4.
+IV Bepalingen betreffende de Leveringen van Goederen
+Artikel 21 Leveringen
+Aflevering vindt plaats op de overeengekomen locatie en het overeengekomen tijdstip en geschiedt voor
+rekening en risico, waaronder transport en verzekeringen, van de Contractant.
+1.
+Tenzij Schriftelijk een andere tijd of plaats is overeengekomen, geschiedt de Aflevering uitsluitend op
+Werkdagen tijdens de openingsuren van het gemeentehuis. De Contractant dient zijn vervoerder hiervan
+op de hoogte te stellen.
+2.
+Indien de Gemeente de Goederen gemotiveerd afkeurt, zal de Contractant op zijn eigen kosten de
+Goederen ophalen.
+3.
+De Goederen worden geacht te zijn goedgekeurd vanaf het moment van volledige operationele
+ingebruikname door de Gemeente, tenzij Schriftelijk anders is overeengekomen of bepaalde
+omstandigheden nopen tot Schriftelijke goedkeuring van de Gemeente.
+4.
+De Contractant verleent ten minste een garantie voor de Goederen van twaalf maanden vanaf het
+moment dat de Gemeente de Goederen heeft goedgekeurd, tenzij Schriftelijk anders is overeengekomen.
+Deze garantie laat de aansprakelijkheid van de Contractant onverlet.
+5.
+De Contractant garandeert dat onderdelen van de Goederen kunnen worden geleverd voor een periode
+van tenminste vijf jaar na Aflevering van de Goederen of voor een periode die Schriftelijk is
+overeengekomen.
+6.
+De Contractant is gehouden om alle bij de Goederen behorende gebruiksaanwijzingen en
+productinformatie, alsmede eventuele kwaliteitskeurmerken- of certificaten, opgesteld zoveel mogelijk in
+de Nederlandse taal, zonder extra kosten, aan de Gemeente ter beschikking te stellen.
+7.
+De Contractant zal voor zijn rekening en risico alle voorkomende gebreken aan de geleverde Goederen
+na Aflevering of voltooiing binnen de door de Gemeente bij eerste aanzegging gestelde redelijke termijn
+wegnemen door herstel of vervanging.
+8.
+Artikel 22 Verpakking en transport
+De Contractant draagt zorg voor een deugdelijke en duurzame verpakking, alsmede voor een zodanige
+beveiliging en vervoer van de Goederen, dat deze in een goede staat en op duurzame wijze de plaats
+van Aflevering bereiken en het lossen daar veilig kan plaatsvinden. De Contractant is verantwoordelijk
+voor het naleven van de Nederlandse, Europese en internationale voorschriften met betrekking tot
+verpakkingen.
+1.
+De Contractant neemt alle verpakkingen kosteloos terug, tenzij Schriftelijk anders is overeengekomen, en
+draagt zorg voor een milieuvriendelijke verwerking.
+2.
+Artikel 23 Overdracht van eigendom en risico
+De eigendom van de geleverde Goederen gaat over op het moment van Aflevering, waar nodig na
+eventuele installatiewerkzaamheden die daarmee gepaard gaan. Het risico gaat over op de Gemeente na
+acceptatie van de Goederen door de Gemeente.
+1.
+De acceptatie van de Goederen zal geschieden door middel van een Schriftelijke verklaring van de
+Gemeente, na Aflevering en eventuele installatie van de Goederen. Indien de Gemeente de Goederen
+niet accepteert, geeft zij gemotiveerd aan waarom de acceptatie onthouden wordt.
+2.
+V Bepalingen betreffende het verrichten van Diensten
+Artikel 24 Diensten
+De Contractant zal de Diensten uitvoeren binnen de termijn en op de plaats zoals deze zijn opgenomen in
+de Overeenkomst.
+1.
+De Contractant draagt de volledige verantwoordelijkheid voor zowel zijn eigen Prestaties, Prestaties van
+Personeel van Contractant alsmede Prestaties van de door de Contractant ingeschakelde derden.
+2.
+Feitelijke uitvoering van de Diensten door de Contractant of daarmee gepaard gaande handelingen houdt
+niet in dat de Gemeente de Diensten zonder meer goedkeurt. De Gemeente behoudt zich het recht voor
+om eventuele verrichte Diensten te keuren, controleren of niet goed te keuren.
+3.
+De goedkeuring van de Diensten zal geschieden door middel van een Schriftelijke verklaring van de
+Gemeente. Indien de Gemeente de Diensten niet goedkeurt, geeft zij gemotiveerd aan waarom de
+goedkeuring onthouden wordt.
+4.
+Artikel 25 Personeel van Contractant
+Voor zover Diensten worden verricht ten kantore en/of in de openbare ruimte van de Gemeente, zijn de
+Contractant, Personeel van Contractant en de door de Contractant ingeschakelde derden gehouden de
+vastgestelde huisregels voor dat kantoor/gebouw en/of die openbare ruimte na te leven.
+1.
+Indien gedurende de uitvoering van de Overeenkomst blijkt dat Personeel van Contractant niet
+functioneert in het belang van de goede uitvoering van de Overeenkomst en/of wegens omstandigheden
+zijn werkzaamheden niet kan voortzetten, dan heeft de Gemeente het recht de desbetreffende persoon
+door de Contractant per direct te laten vervangen.
+2.
+Voor de vervanging van Personeel van Contractant door de Contractant is voorafgaande Schriftelijke
+toestemming vereist van de Gemeente, tenzij directe vervanging noodzakelijk is. In dat laatste geval kan
+worden volstaan met mondelinge toestemming van de Gemeente. Uitgangspunt daarbij is dat personen
+beschikbaar worden gesteld die een vergelijkbare deskundigheid, opleiding en ervaring hebben conform
+het vereiste in de Offerteaanvraag.
+3.
+In vervanging van Personeel van Contractant wordt op een korte termijn – doch uiterlijk binnen twee
+weken of zoveel korter als noodzakelijk – door de Contractant voorzien. Eventuele kosten die gepaard
+gaan met vervanging komen voor rekening van de Contractant.
+4.
+De Contractant staat ervoor in dat Personeel van Contractant gerechtigd is om in Nederland arbeid te
+verrichten dan wel Diensten te verrichten.
+5.
+De Contractant is verantwoordelijk voor en aansprakelijk voor de nakoming van de uit de Overeenkomst
+voortvloeiende verplichtingen uit de belastingwetgeving en de socialezekerheidswetgeving, waaronder
+begrepen verplichtingen die verband houden met het Uitvoeringsinstituut Werknemersverzekeringen
+(UWV). De Contractant vrijwaart de Gemeente tegen alle aanspraken ter zake. De Contractant zal –
+indien wettelijk vereist dan wel door de Gemeente wordt vereist – met een G-rekening werken. Indien de
+Gemeente geconfronteerd wordt met een naheffing, worden deze kosten een-op-een verhaald op de
+Contractant.
+6.
+Artikel 26 Arbeidsvoorwaarden
+De Contractant is bij de uitvoering van de Overeenkomst verantwoordelijk en aansprakelijk voor de
+nakoming van de geldende wet- en regelgeving op het gebied van arbeidsvoorwaarden en de CAO die
+voor het Personeel van Contractant van toepassing is. De Contractant zal de Gemeente verzoeken de
+daarvoor noodzakelijke informatie Schriftelijk te verstrekken, aan welk verzoek de Gemeente zal voldoen.
+1.
+De Contractant legt alle arbeidsvoorwaardelijke afspraken ten behoeve van het verrichten van de
+Diensten op een inzichtelijke en toegankelijke wijze vast. De Contractant verschaft op verzoek aan de
+Gemeente toegang tot arbeidsvoorwaardelijke afspraken, indien de Gemeente dit noodzakelijk acht in
+verband met het voorkomen van of de behandeling van een loonvordering.
+2.
+De Contractant verschaft op verzoek aan bevoegde instanties toegang tot deze arbeidsvoorwaardelijke
+afspraken en werkt mee aan controles, audits of loonvalidatie.
+3.
+De Contractant legt de verplichtingen voortvloeiend uit de vorige leden onverkort op aan alle partijen
+waarmee hij overeenkomsten aangaat ten behoeve van het verrichten van Diensten en bedingt tevens
+dat deze partijen vervolgens bedoelde verplichtingen onverkort opleggen aan alle partijen met wie zij op
+hun beurt contracten aangaan ten behoeve van het verrichten van de Diensten.
+4.
+VI Einde Overeenkomst
+Artikel 27 Opzegging
+De Gemeente is gerechtigd de Overeenkomst op te zeggen met inachtneming van een opzegtermijn zoals
+bepaald in de Overeenkomst. Indien geen opzegtermijn in de Overeenkomst is opgenomen, kan de Gemeente
+de Overeenkomst opzeggen met inachtneming van een redelijke opzegtermijn, mede gelet op de duur van de
+Overeenkomst.
+Artikel 28 Ontbinding
+Ieder van de Partijen heeft het recht de Overeenkomst zonder rechterlijke tussenkomst en zonder
+ingebrekestelling met onmiddellijke ingang te ontbinden, indien:
+1.
+• het bepaalde in de artikelen 4.4, 8 en/of 9.1 wordt geschonden; de andere Partij een besluit tot
+ontbinding van de rechtspersoon of onderneming heeft genomen;
+• de zeggenschap van de andere Partij bij een ander komt te rusten dan ten tijde van het sluiten van
+deze Overeenkomst;
+• ten aanzien van de andere Partij faillissement is aangevraagd dan wel uitgesproken of, al dan niet
+voorlopig, surséance van betaling is aangevraagd of verleend;
+• de andere Partij fuseert, splitst of op enigerlei wijze (een deel van) zijn bedrijf overdraagt; of
+• de andere Partij in een situatie van niet-toerekenbare tekortkoming, als bedoeld in artikel 6:75
+Burgerlijk Wetboek, verkeert gedurende meer dan tien dagen.
+De Gemeente heeft het recht de Overeenkomst zonder rechterlijke tussenkomst en zonder
+ingebrekestelling met onmiddellijke ingang te ontbinden, indien:
+2.
+• de Contractant zich schuldig heeft gemaakt aan een integriteitsschending die blijkt uit het
+screeningsresultaat zoals bedoeld in artikel 6.3 of zich ten aanzien van de Contractant een
+uitsluitingsgrond voordoet die is vermeld in de Offerteaanvraag; of
+• de Gemeente op goede gronden aanneemt dat de rechter de Overeenkomst zal aantasten doordat
+de Overeenkomst is gesloten in strijd met geldende wet- en regelgeving, zoals het staatssteunrecht
+en/ of (Europese) aanbestedingsrecht.
+Elke ontbinding als bedoeld in de leden 1 en 2 dient door middel van een aangetekend schrijven te
+geschieden.
+3.
+Ingeval van ontbinding door de Gemeente als bedoeld in de leden 1 en 2 is de Gemeente geen
+vergoeding verschuldigd aan de Contractant voor de Prestaties die niet door de Contractant zijn verricht.
+Eventuele aan de Contractant verrichte onverschuldigde betalingen, betaalt de Contractant terug aan de
+Gemeente, vermeerderd met wettelijke rente vanaf de dag waarop dit is betaald.
+4.
+Artikel 29 Vernietiging
+Indien één van de Partijen zich beroept op vernietiging door middel van een buitengerechtelijke verklaring,
+dient dit te geschieden met een aangetekend schrijven.
+Ondertekening
+Ziet u een fout in deze regeling?
+Bent u van mening dat de inhoud niet juist is? Neem dan contact op met de organisatie die de regelgeving heeft
+gepubliceerd. Deze organisatie is namelijk zelf verantwoordelijk voor de inhoud van de regelgeving. De naam van de
+organisatie ziet u bovenaan de regelgeving. De contactgegevens van de organisatie kunt u hier opzoeken:
+.organisaties.overheid.nl
+Werkt de website of een link niet goed? Stuur dan een e-mail naar regelgeving@overheid.nl
