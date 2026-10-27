@@ -1,7 +1,7 @@
 """
 classify.py
 -----------
-Classificeert aanbestedingen naar meerdere dimensies via de Anthropic API.
+Classificeert aanbestedingen naar meerdere dimensies via Claude op Azure AI Foundry.
 Per dimensie wordt een aparte betrouwbaarheidsscore opgeslagen.
 
 Gebruik:
@@ -30,7 +30,9 @@ INPUT_BESTANDEN = [
 ]
 OUTPUT_DIR = "data"
 DOCUMENTEN_DIR = "data/documenten"
-MODEL = "claude-haiku-4-5-20251001"
+# Azure AI Foundry: alleen claude-sonnet-5-5 is op deze resource uitgerold.
+FOUNDRY_RESOURCE = os.environ.get("AZURE_FOUNDRY_RESOURCE", "nl-ai-fndry")
+MODEL = "claude-sonnet-5-5"
 TWIJFEL_DREMPEL = 0.6
 BATCH_GROOTTE = 10  # kleiner vanwege grotere input met documenten
 
@@ -255,17 +257,21 @@ Regels:
 
 # ── Classificatie uitvoeren ───────────────────────────────────────────────────
 
-def classificeer_batch(client: anthropic.Anthropic, records: list[dict], batch_nr: int) -> list[dict]:
+def classificeer_batch(client: anthropic.AnthropicFoundry, records: list[dict], batch_nr: int) -> list[dict]:
     prompt = bouw_classificatieprompt(records)
 
     try:
         response = client.messages.create(
             model=MODEL,
             max_tokens=12000,
+            # Sonnet 5.5 denkt standaard adaptief mee; lage effort houdt de
+            # classificatie betaalbaar en laat ruimte binnen max_tokens.
+            output_config={"effort": "low"},
             system=SYSTEEM_PROMPT,
             messages=[{"role": "user", "content": prompt}],
         )
-        ruwe_output = response.content[0].text.strip()
+        # content[0] kan een thinking-blok zijn — pak expliciet het tekstblok.
+        ruwe_output = next((b.text for b in response.content if b.type == "text"), "").strip()
 
         if ruwe_output.startswith("```"):
             ruwe_output = ruwe_output.split("```")[1]
@@ -325,7 +331,10 @@ def gemiddelde_betrouwbaarheid(cl: dict) -> float:
 
 
 def classificeer_alle(records: list[dict], batch_grootte: int) -> list[dict]:
-    client = anthropic.Anthropic()
+    client = anthropic.AnthropicFoundry(
+        resource=FOUNDRY_RESOURCE,
+        api_key=os.environ["AZURE_FOUNDRY_API_KEY"],
+    )
     verwerkt = []
     totaal_batches = (len(records) + batch_grootte - 1) // batch_grootte
 

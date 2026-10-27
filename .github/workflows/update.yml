@@ -1,16 +1,15 @@
 name: Update TenderNed Dataset
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:        # handmatig triggeren via dashboard of GitHub UI
   schedule:
-    - cron: '0 6 * * *'    # elke dag om 06:00 UTC
+    - cron: '0 6 * * 1'    # elke maandag om 06:00 UTC (automatisch)
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    timeout-minutes: 60
+      contents: write       # voor git push
 
     steps:
       - name: Checkout repo
@@ -29,23 +28,23 @@ jobs:
 
       - name: Pipeline uitvoeren
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AZURE_FOUNDRY_API_KEY: ${{ secrets.AZURE_FOUNDRY_API_KEY }}
         run: python update.py
 
       - name: Controleer op wijzigingen
         id: check
         run: |
-          git add data/
-          git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --quiet data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit en push
+      - name: Commit en push bijgewerkte data
         if: steps.check.outputs.changed == 'true'
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "data: dagelijkse update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git add data/
+          git commit -m "data: incrementele update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
       - name: Geen wijzigingen
         if: steps.check.outputs.changed == 'false'
-        run: echo "Geen nieuwe publicaties, niets gecommit."
+        run: echo "Geen nieuwe publicaties gevonden, niets gecommit."

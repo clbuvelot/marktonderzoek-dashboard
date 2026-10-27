@@ -1130,11 +1130,15 @@ function toggleDetail(rid) {
 
 // ── Document chat ─────────────────────────────────────────────────────────────
 
+// Azure AI Foundry — Claude via de Anthropic-compatibele endpoint
+const AZURE_ENDPOINT = "https://nl-ai-fndry.services.ai.azure.com/anthropic/v1/messages";
+const AZURE_MODEL = "claude-sonnet-5-5";
+
 // Versleutelde API key — gegenereerd door versleutel_key.py
 // !! Vervang deze waarde met de output van: python versleutel_key.py !!
-const ENCRYPTED_KEY = "olkYN2AG2WzSyCEHQU/cWCOs2s++hwSnuZykOKHuy4jpnfykmShEc55mQkW78hj4wHVjNhz6RI3SOq6MzWO/0oNXZ/pNF8vzbZAH7rcfXJhYFEp7N0BhL52VVFHDiDMnJ7mJQS+Ti7l07lINoOCkorqtN6kFEEDrwQ888JafSsap/XHqVpbqCm4TdNVnY3P4y5FeGbN99jo=";
+const ENCRYPTED_KEY = "FhrwByflNjKjZ29YYOUkLMGgwYeOud9q/EdRQV6LLcDsUpDnHQQ7ePpRgq+TEE3dWiNR9fLwZRtC70vfMYmA7qLjJ/HG9Jq4VvFaqslMk5cQMbsCsIs6R9eZTERwUfjnbANsjdPHK9SXVm3t3bHJg45eUfWfCBPiEVS2+Nbwnzw=";
 
-let ANTHROPIC_API_KEY = sessionStorage.getItem("anthropic_key") || "";
+let AZURE_API_KEY = sessionStorage.getItem("azure_key") || "";
 
 function toonLogin() {
   document.getElementById("login-overlay").classList.add("open");
@@ -1175,20 +1179,22 @@ async function submitLogin() {
     return;
   }
   document.getElementById("login-error").textContent = "Ontsleutelen...";
+  // AES-GCM verifieert zelf de auth-tag: bij een fout wachtwoord faalt het
+  // ontsleutelen en komt er null terug.
   const key = await ontsleutelKey(wachtwoord);
-  if (!key || !key.startsWith("sk-ant-")) {
+  if (!key) {
     document.getElementById("login-error").textContent = "Onjuist wachtwoord";
     return;
   }
-  ANTHROPIC_API_KEY = key;
-  sessionStorage.setItem("anthropic_key", key);
+  AZURE_API_KEY = key;
+  sessionStorage.setItem("azure_key", key);
   document.getElementById("login-overlay").classList.remove("open");
   document.getElementById("login-error").textContent = "";
   loadData();
 }
 
 // Toon login bij pagina laden als er geen key is
-if (!ANTHROPIC_API_KEY) {
+if (!AZURE_API_KEY) {
   window.addEventListener("DOMContentLoaded", toonLogin);
 } else {
   loadData();
@@ -1288,24 +1294,27 @@ async function vraagClaude(systeem, geschiedenis) {
   // Korte pauze om rate limit te vermijden
   await new Promise(r => setTimeout(r, 1500));
   try {
-    const resp = await fetch("https://api.anthropic.com/v1/messages", {
+    const resp = await fetch(AZURE_ENDPOINT, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "x-api-key": ANTHROPIC_API_KEY,
+        "x-api-key": AZURE_API_KEY,
         "anthropic-version": "2023-06-01",
-        "anthropic-dangerous-direct-browser-access": "true",
       },
       body: JSON.stringify({
-        model: "claude-haiku-4-5-20251001",
-        max_tokens: 1024,
+        model: AZURE_MODEL,
+        max_tokens: 2048,
+        // Sonnet 5.5 denkt standaard adaptief mee; lage effort houdt de chat
+        // snel en goedkoop zonder het denken helemaal uit te zetten.
+        output_config: { effort: "low" },
         system: systeem,
         messages: geschiedenis,
       }),
     });
     const data = await resp.json();
     if (data.error) return `Fout: ${data.error.message}`;
-    return data.content?.[0]?.text || "Geen antwoord ontvangen.";
+    // Bij adaptief denken kan content[0] een thinking-blok zijn — pak het tekstblok.
+    return data.content?.find(b => b.type === "text")?.text || "Geen antwoord ontvangen.";
   } catch(e) {
     return `Fout: ${e.message}`;
   }
