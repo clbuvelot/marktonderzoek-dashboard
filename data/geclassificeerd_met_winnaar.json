@@ -1378,7 +1378,7 @@
     "id": "438619",
     "tenderned_kenmerk": "609833",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -1396,7 +1396,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-09-05",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-10-21",
     "sluitingsdatum": "2026-11-30T14:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -1427,7 +1427,8 @@
       "consortiumkans": false,
       "toelichting": "Classificatie mislukt door API-fout",
       "betrouwbaarheid": 0.0
-    }
+    },
+    "gunning_publicatie_id": "445680"
   },
   {
     "id": "438398",
@@ -2423,7 +2424,7 @@
     "id": "434936",
     "tenderned_kenmerk": "604201",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EFE3",
@@ -2441,7 +2442,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-07-28",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-08-05",
     "sluitingsdatum": "2026-09-17T09:45:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -2472,7 +2473,8 @@
       "consortiumkans": false,
       "toelichting": "Classificatie mislukt door API-fout",
       "betrouwbaarheid": 0.0
-    }
+    },
+    "gunning_publicatie_id": "435609"
   },
   {
     "id": "434443",
@@ -2588,7 +2590,7 @@
     "id": "433834",
     "tenderned_kenmerk": "601357",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF23",
@@ -2606,10 +2608,10 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-07-17",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-09-30",
     "sluitingsdatum": "2026-08-17T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 94626.0,
+    "winnaar": "Hoogvliet Jongerius",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/433834",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/433834",
@@ -2637,7 +2639,10 @@
       "consortiumkans": false,
       "toelichting": "Classificatie mislukt door API-fout",
       "betrouwbaarheid": 0.0
-    }
+    },
+    "gunning_publicatie_id": "442290",
+    "waarde_definitief": 94626.0,
+    "datum_gunning": "2026-09-30"
   },
   {
     "id": "433018",
@@ -3005,7 +3010,7 @@
     "id": "431787",
     "tenderned_kenmerk": "594322",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -3023,7 +3028,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-07-05",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-10-25",
     "sluitingsdatum": "2026-09-17T13:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -3061,7 +3066,8 @@
       "consortiumkans": true,
       "toelichting": "Raamovereenkomst economische adviesdiensten gemeente; methodiek onhelder",
       "betrouwbaarheid": 0.4
-    }
+    },
+    "gunning_publicatie_id": "445986"
   },
   {
     "id": "431245",
@@ -4044,7 +4050,7 @@
     "id": "427526",
     "tenderned_kenmerk": "591346",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -4062,7 +4068,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-06-04",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-10-09",
     "sluitingsdatum": "2026-07-20T08:30:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -4101,7 +4107,8 @@
       "consortiumkans": false,
       "toelichting": "Compensatieplan SMP warmtetransitie gebouwbewonende soorten bescherming",
       "betrouwbaarheid": 0.47
-    }
+    },
+    "gunning_publicatie_id": "443517"
   },
   {
     "id": "427460",
@@ -4348,7 +4355,7 @@
     "id": "426087",
     "tenderned_kenmerk": "591608",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -4366,10 +4373,10 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-05-23",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-09-26",
     "sluitingsdatum": "2026-07-06T13:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "AFRY Netherlands B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/426087",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/426087",
@@ -4406,7 +4413,10 @@
       "consortiumkans": false,
       "toelichting": "Cost-effectiveness en business case analyses voor offshore windenergy sites; ex-ante MKBA met financiële en technische analyses.",
       "betrouwbaarheid": 0.85
-    }
+    },
+    "gunning_publicatie_id": "441533",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-09-08"
   },
   {
     "id": "425444",
@@ -4831,7 +4841,7 @@
     "id": "423513",
     "tenderned_kenmerk": "580851",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -4849,10 +4859,10 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-05-02",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-09-25",
     "sluitingsdatum": "2026-06-30T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 429918.75,
+    "winnaar": "Twynstra Gudde Holding B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/423513",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/423513",
@@ -4889,7 +4899,10 @@
       "consortiumkans": false,
       "toelichting": "Lerende monitoring Extra Rijksinzet gebieden natuur klimaat stikstof",
       "betrouwbaarheid": 0.83
-    }
+    },
+    "gunning_publicatie_id": "441358",
+    "waarde_definitief": 429918.75,
+    "datum_gunning": "2026-09-14"
   },
   {
     "id": "423367",
@@ -5042,7 +5055,7 @@
     "publicatiedatum": "2026-04-23",
     "sluitingsdatum": "2026-02-23T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "ATKB B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/422285",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/422285",
@@ -5078,7 +5091,12 @@
       "toelichting": "Jaarlijkse monitoring visstand rivierkreeften waterkwaliteit",
       "betrouwbaarheid": 0.9
     },
-    "gunningsdatum": "2026-04-23"
+    "gunningsdatum": "2026-04-23",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-04-03",
+    "extra_winnaars": [
+      "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)"
+    ]
   },
   {
     "id": "422246",
@@ -5104,7 +5122,7 @@
     "publicatiedatum": "2026-04-22",
     "sluitingsdatum": "2026-02-09T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Desan Marktonderzoek B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/422246",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/422246",
@@ -5140,7 +5158,13 @@
       "toelichting": "Raamovereenkomst periodieke gezondheidsmonitor",
       "betrouwbaarheid": 0.88
     },
-    "gunningsdatum": "2026-04-22"
+    "gunningsdatum": "2026-04-22",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-04-01",
+    "extra_winnaars": [
+      "I&O Research B.V.",
+      "Research 2Evolve B.V. (Helder Onderzoek)"
+    ]
   },
   {
     "id": "421852",
@@ -5495,7 +5519,7 @@
     "id": "418739",
     "tenderned_kenmerk": "580104",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -5552,7 +5576,8 @@
       "toelichting": "Raamovereenkomst extern klantonderzoek UWV",
       "betrouwbaarheid": 0.8
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-02",
+    "gunning_publicatie_id": "431581"
   },
   {
     "id": "418736",
@@ -5684,7 +5709,7 @@
     "id": "418211",
     "tenderned_kenmerk": "576085",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -5703,8 +5728,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-04-02",
     "sluitingsdatum": "2026-05-27T17:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 433000.0,
+    "winnaar": "Behavior Change Group - Consultancy & Research B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/418211",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/418211",
@@ -5742,7 +5767,10 @@
       "toelichting": "Rasch-analyse doelgroepensegmentatie natuurbeleidsvorming",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-01",
+    "gunning_publicatie_id": "435246",
+    "waarde_definitief": 433000.0,
+    "datum_gunning": "2026-07-30"
   },
   {
     "id": "418106",
@@ -5767,8 +5795,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-04-01",
     "sluitingsdatum": "2026-01-29T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 275840.0,
+    "winnaar": "Ecogroen B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/418106",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/418106",
@@ -5802,7 +5830,9 @@
       "toelichting": "SMP integrale aanpak met onderzoeken en data-analyse",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": "2026-04-01"
+    "gunningsdatum": "2026-04-01",
+    "waarde_definitief": 275840.0,
+    "datum_gunning": "2026-03-25"
   },
   {
     "id": "418400",
@@ -5827,8 +5857,8 @@
     "procedure_code": "NOP",
     "publicatiedatum": "2026-04-01",
     "sluitingsdatum": "2025-02-24T11:59:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 200000.0,
+    "winnaar": "CCassured",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/418400",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/418400",
@@ -5861,13 +5891,21 @@
       "toelichting": "PCP innovatiechallenge onderzoeksfase",
       "betrouwbaarheid": 0.43
     },
-    "gunningsdatum": "2026-04-01"
+    "gunningsdatum": "2026-04-01",
+    "waarde_definitief": 200000.0,
+    "datum_gunning": "2025-06-01",
+    "extra_winnaars": [
+      "NOSTICS B.V.",
+      "QVQ Holding B.V.",
+      "Rapidemic B.V.",
+      "Vysens B.V."
+    ]
   },
   {
     "id": "417731",
     "tenderned_kenmerk": "579560",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -5886,8 +5924,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-29",
     "sluitingsdatum": "2026-06-08T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 880000.0,
+    "winnaar": "Witteveen+Bos Raadgevende ingenieurs B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417731",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417731",
@@ -5921,13 +5959,16 @@
       "toelichting": "Adviesopdracht opstellen omgevingsplan Sittard-Geleen",
       "betrouwbaarheid": 0.67
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-28",
+    "gunning_publicatie_id": "430905",
+    "waarde_definitief": 880000.0,
+    "datum_gunning": "2026-06-26"
   },
   {
     "id": "417575",
     "tenderned_kenmerk": "577081",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -5946,8 +5987,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-27",
     "sluitingsdatum": "2026-05-21T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 227322.0,
+    "winnaar": "De Vlinderstichting",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417575",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417575",
@@ -5982,7 +6023,10 @@
       "toelichting": "Kennisbundeling ecologische behoeften bestuivers",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-04",
+    "gunning_publicatie_id": "435377",
+    "waarde_definitief": 227322.0,
+    "datum_gunning": "2026-08-01"
   },
   {
     "id": "417374",
@@ -6008,7 +6052,7 @@
     "publicatiedatum": "2026-03-26",
     "sluitingsdatum": "2025-11-04T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Revnext B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417374",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417374",
@@ -6045,13 +6089,22 @@
       "toelichting": "Beheer, onderhoud en toepassing verkeersmodellen PBL/RWS",
       "betrouwbaarheid": 0.67
     },
-    "gunningsdatum": "2026-03-26"
+    "gunningsdatum": "2026-03-26",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-01-01",
+    "extra_winnaars": [
+      "Significance B.V.",
+      "4cast B.V.",
+      "Goudappel B.V.",
+      "Haskoning Nederland B.V.",
+      "VORtech B.V."
+    ]
   },
   {
     "id": "417185",
     "tenderned_kenmerk": "578872",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -6070,8 +6123,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-25",
     "sluitingsdatum": "2026-05-21T11:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 340000.0,
+    "winnaar": "Ecoresult B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417185",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417185",
@@ -6102,13 +6155,16 @@
       "toelichting": "Ecologisch onderzoek voor omgevingsvergunning",
       "betrouwbaarheid": 0.53
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-25",
+    "gunning_publicatie_id": "437083",
+    "waarde_definitief": 340000.0,
+    "datum_gunning": "2026-07-16"
   },
   {
     "id": "416938",
     "tenderned_kenmerk": "577074",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -6127,8 +6183,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-24",
     "sluitingsdatum": "2026-05-18T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 399617.0,
+    "winnaar": "Stichting Bargerveen",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/416938",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/416938",
@@ -6165,7 +6221,10 @@
       "toelichting": "Veldonderzoek naar effectiviteit van fosfaattoevoeging op heidevegetatie.",
       "betrouwbaarheid": 0.73
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-04",
+    "gunning_publicatie_id": "435360",
+    "waarde_definitief": 399617.0,
+    "datum_gunning": "2026-08-01"
   },
   {
     "id": "416848",
@@ -6307,7 +6366,7 @@
     "publicatiedatum": "2026-03-18",
     "sluitingsdatum": "2025-12-08T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "HetEnergieBureau B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/416172",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/416172",
@@ -6343,13 +6402,22 @@
       "toelichting": "Raamovereenkomst adviesdiensten energietransitie",
       "betrouwbaarheid": 0.6
     },
-    "gunningsdatum": "2026-03-18"
+    "gunningsdatum": "2026-03-18",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-02-18",
+    "extra_winnaars": [
+      "W/E adviseurs duurzaam bouwen",
+      "DWA B.V.",
+      "Movares Nederland B.V.",
+      "Ede-Wageningen Engineering B.V.",
+      "If Technology B.V."
+    ]
   },
   {
     "id": "415638",
     "tenderned_kenmerk": "575918",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -6368,8 +6436,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-13",
     "sluitingsdatum": "2026-05-11T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 956945.85,
+    "winnaar": "Republiq NL bv",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/415638",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/415638",
@@ -6408,7 +6476,10 @@
       "toelichting": "Herijking Leefbaarometer 4.0 met jaarlijkse monitoring van leefbaarheid.",
       "betrouwbaarheid": 0.95
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-09-08",
+    "gunning_publicatie_id": "438836",
+    "waarde_definitief": 956945.85,
+    "datum_gunning": "2026-09-01"
   },
   {
     "id": "415641",
@@ -6433,8 +6504,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-13",
     "sluitingsdatum": "2025-08-21T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 0.01,
+    "winnaar": "Moventem B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/415641",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/415641",
@@ -6472,7 +6543,9 @@
       "toelichting": "Raamovereenkomst enquêtes en kwalitatief onderzoek gemeente.",
       "betrouwbaarheid": 0.8
     },
-    "gunningsdatum": "2026-03-13"
+    "gunningsdatum": "2026-03-13",
+    "waarde_definitief": 0.01,
+    "datum_gunning": "2025-12-01"
   },
   {
     "id": "415454",
@@ -6598,7 +6671,7 @@
     "id": "415176",
     "tenderned_kenmerk": "575882",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -6618,7 +6691,7 @@
     "publicatiedatum": "2026-03-11",
     "sluitingsdatum": "2026-04-24T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Publistat B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/415176",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/415176",
@@ -6649,7 +6722,10 @@
       "toelichting": "Inhuurcontract media-analyse voor omgevingsmonitoring SZW-thema's.",
       "betrouwbaarheid": 0.57
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-02",
+    "gunning_publicatie_id": "431280",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-06-18"
   },
   {
     "id": "415082",
@@ -6802,8 +6878,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-06",
     "sluitingsdatum": "2025-12-16T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 524503.0,
+    "winnaar": "Sweco Nederland B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/414575",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/414575",
@@ -6840,7 +6916,9 @@
       "toelichting": "Capaciteitsberekeningen NDW-data camera-inzet",
       "betrouwbaarheid": 0.73
     },
-    "gunningsdatum": "2026-03-06"
+    "gunningsdatum": "2026-03-06",
+    "waarde_definitief": 524503.0,
+    "datum_gunning": "2026-03-04"
   },
   {
     "id": "414427",
@@ -6903,7 +6981,7 @@
     "id": "414408",
     "tenderned_kenmerk": "574384",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -6922,8 +7000,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-05",
     "sluitingsdatum": "2026-04-15T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1.0,
+    "winnaar": "Kieskompas B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/414408",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/414408",
@@ -6954,7 +7032,10 @@
       "toelichting": "Digitale tool voor kiezersoriëntatie waterschapsverkiezingen maart 2027.",
       "betrouwbaarheid": 0.5
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-10",
+    "gunning_publicatie_id": "432696",
+    "waarde_definitief": 1.0,
+    "datum_gunning": "2026-07-01"
   },
   {
     "id": "414413",
@@ -6980,7 +7061,7 @@
     "publicatiedatum": "2026-03-05",
     "sluitingsdatum": "2025-12-15T09:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "GL Ecologie B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/414413",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/414413",
@@ -7014,7 +7095,9 @@
       "toelichting": "Puur ecologisch veldwerk, geen onderzoeksopdracht",
       "betrouwbaarheid": 0.57
     },
-    "gunningsdatum": "2026-03-05"
+    "gunningsdatum": "2026-03-05",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-03-01"
   },
   {
     "id": "414246",
@@ -7084,7 +7167,7 @@
     "id": "414144",
     "tenderned_kenmerk": "574283",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7103,8 +7186,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-03",
     "sluitingsdatum": "2026-05-06T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 415584.0,
+    "winnaar": "Effectory B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/414144",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/414144",
@@ -7137,7 +7220,10 @@
       "toelichting": "Jaarlijks medewerkerstevredenheidsonderzoek met dashboard en rapportage.",
       "betrouwbaarheid": 0.85
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-28",
+    "gunning_publicatie_id": "437612",
+    "waarde_definitief": 415584.0,
+    "datum_gunning": "2026-08-27"
   },
   {
     "id": "413865",
@@ -7162,8 +7248,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-03-01",
     "sluitingsdatum": "2025-10-27T15:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1115285.0,
+    "winnaar": "Raadgevend Ingenieursbureau Wiertsema & Partners B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/413865",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/413865",
@@ -7197,7 +7283,9 @@
       "toelichting": "Laboratoriumwerk bodemmonsters zonder beleidsevaluatiecomponent.",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": "2026-03-01"
+    "gunningsdatum": "2026-03-01",
+    "waarde_definitief": 1115285.0,
+    "datum_gunning": "2026-02-23"
   },
   {
     "id": "413832",
@@ -7262,7 +7350,7 @@
     "id": "413730",
     "tenderned_kenmerk": "573895",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7281,8 +7369,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-27",
     "sluitingsdatum": "2026-04-13T15:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 282680.0,
+    "winnaar": "Witteveen+Bos Raadgevende ingenieurs B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/413730",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/413730",
@@ -7319,7 +7407,10 @@
       "toelichting": "Jaarlijkse afvalbenchmark monitoring meerjarig contract",
       "betrouwbaarheid": 0.85
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-30",
+    "gunning_publicatie_id": "431040",
+    "waarde_definitief": 282680.0,
+    "datum_gunning": "2026-06-23"
   },
   {
     "id": "413576",
@@ -7465,8 +7556,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-24",
     "sluitingsdatum": "2025-11-03T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1040935.0,
+    "winnaar": "Onderzoeksbureau Labyrinth B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/413156",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/413156",
@@ -7503,7 +7594,9 @@
       "toelichting": "Dataverzameling samenleven Nederland herkomstgroepen 2026",
       "betrouwbaarheid": 0.82
     },
-    "gunningsdatum": "2026-02-24"
+    "gunningsdatum": "2026-02-24",
+    "waarde_definitief": 1040935.0,
+    "datum_gunning": "2026-01-21"
   },
   {
     "id": "412825",
@@ -7528,8 +7621,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-20",
     "sluitingsdatum": "2025-11-21T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 682600.0,
+    "winnaar": "I&O Research B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/412825",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/412825",
@@ -7567,13 +7660,15 @@
       "toelichting": "Bi-jaarlijks kwantitatief onderzoek gedragseffecten",
       "betrouwbaarheid": 0.82
     },
-    "gunningsdatum": "2026-02-20"
+    "gunningsdatum": "2026-02-20",
+    "waarde_definitief": 682600.0,
+    "datum_gunning": "2026-02-09"
   },
   {
     "id": "412484",
     "tenderned_kenmerk": "572264",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7592,8 +7687,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-18",
     "sluitingsdatum": "2026-04-02T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 210250.0,
+    "winnaar": "Panteia B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/412484",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/412484",
@@ -7629,13 +7724,16 @@
       "toelichting": "Meerjarige jaarlijkse statistiekproductie Wsw monitoring",
       "betrouwbaarheid": 0.93
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-01",
+    "gunning_publicatie_id": "431224",
+    "waarde_definitief": 210250.0,
+    "datum_gunning": "2026-06-04"
   },
   {
     "id": "412167",
     "tenderned_kenmerk": "562514",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF20",
@@ -7654,8 +7752,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-15",
     "sluitingsdatum": "2026-03-31T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 942875.0,
+    "winnaar": "Oxford Wave Research Ltd",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/412167",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/412167",
@@ -7686,13 +7784,16 @@
       "toelichting": "ICT-softwareontwikkeling, geen onderzoeks-/evaluatie-component",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-12",
+    "gunning_publicatie_id": "428806",
+    "waarde_definitief": 942875.0,
+    "datum_gunning": "2026-06-10"
   },
   {
     "id": "411875",
     "tenderned_kenmerk": "568862",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7712,7 +7813,7 @@
     "publicatiedatum": "2026-02-13",
     "sluitingsdatum": "2026-03-30T13:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Witteveen+Bos Raadgevende ingenieurs B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/411875",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/411875",
@@ -7749,7 +7850,10 @@
       "toelichting": "Plan-mer beoordeling warmtetransitie meerdere gemeenten",
       "betrouwbaarheid": 0.9
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-10",
+    "gunning_publicatie_id": "428370",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-05-07"
   },
   {
     "id": "411615",
@@ -7774,8 +7878,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-02-10",
     "sluitingsdatum": "2026-01-12T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 205000.0,
+    "winnaar": "wiebenga consultants b.v.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/411615",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/411615",
@@ -7808,13 +7912,15 @@
       "toelichting": "Procesbegeleiding gebiedsontwikkeling, geen onderzoek/evaluatie",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": "2026-02-10"
+    "gunningsdatum": "2026-02-10",
+    "waarde_definitief": 205000.0,
+    "datum_gunning": "2026-02-10"
   },
   {
     "id": "410894",
     "tenderned_kenmerk": "568181",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7833,8 +7939,8 @@
     "procedure_code": "INP",
     "publicatiedatum": "2026-02-05",
     "sluitingsdatum": "2026-03-18T15:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 700000.0,
+    "winnaar": "Valcon B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/410894",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/410894",
@@ -7865,7 +7971,10 @@
       "toelichting": "Innovatiepartnerschap technische ontwikkeling geen beleidsevaluatie",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-09-29",
+    "gunning_publicatie_id": "441860",
+    "waarde_definitief": 700000.0,
+    "datum_gunning": "2026-09-08"
   },
   {
     "id": "410328",
@@ -7928,7 +8037,7 @@
     "id": "410252",
     "tenderned_kenmerk": "567959",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7947,8 +8056,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-30",
     "sluitingsdatum": "2026-03-16T13:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 181319.0,
+    "winnaar": "Gaia Ecologie B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/410252",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/410252",
@@ -7981,13 +8090,19 @@
       "toelichting": "Ecologisch veldwerk soorten, geen evaluatie/onderzoekscomponent",
       "betrouwbaarheid": 0.4
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-10",
+    "gunning_publicatie_id": "428366",
+    "waarde_definitief": 181319.0,
+    "datum_gunning": "2026-05-18",
+    "extra_winnaars": [
+      "Smit Groenadvies B.V."
+    ]
   },
   {
     "id": "410178",
     "tenderned_kenmerk": "566359",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8007,7 +8122,7 @@
     "publicatiedatum": "2026-01-30",
     "sluitingsdatum": "2026-03-12T15:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Witteveen+Bos Raadgevende ingenieurs B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/410178",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/410178",
@@ -8040,7 +8155,10 @@
       "toelichting": "Pilotuitvoering veldwerk, geen onderzoeks-/evaluatiecomponent",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-05-13",
+    "gunning_publicatie_id": "424637",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-05-11"
   },
   {
     "id": "410008",
@@ -8166,7 +8284,7 @@
     "id": "409939",
     "tenderned_kenmerk": "568718",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EFE3",
@@ -8223,13 +8341,14 @@
       "toelichting": "Preadvies effecten inundatie, literatuuronderzoek, kennismontage",
       "betrouwbaarheid": 0.73
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-10-05",
+    "gunning_publicatie_id": "442940"
   },
   {
     "id": "409586",
     "tenderned_kenmerk": "568133",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8248,8 +8367,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-25",
     "sluitingsdatum": "2026-03-25T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 200000.0,
+    "winnaar": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/409586",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/409586",
@@ -8287,7 +8406,10 @@
       "toelichting": "Antisemitisme-prevalentie-onderzoek met oorzaken",
       "betrouwbaarheid": 0.67
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-28",
+    "gunning_publicatie_id": "434794",
+    "waarde_definitief": 200000.0,
+    "datum_gunning": "2026-06-22"
   },
   {
     "id": "409228",
@@ -8313,7 +8435,7 @@
     "publicatiedatum": "2026-01-23",
     "sluitingsdatum": "2023-12-21T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "DaeD Ingenieurs",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/409228",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/409228",
@@ -8346,13 +8468,22 @@
       "toelichting": "Acht percelen raamovereenkomst strategische adviseurs RVO",
       "betrouwbaarheid": 0.37
     },
-    "gunningsdatum": "2026-01-23"
+    "gunningsdatum": "2026-01-23",
+    "waarde_definitief": null,
+    "datum_gunning": "2024-03-25",
+    "extra_winnaars": [
+      "Witteveen+Bos Raadgevende ingenieurs B.V.",
+      "Jongejan Risk Management Consulting B.V.",
+      "P.C. van Staalduinen Advies",
+      "Arcadis Nederland B.V.",
+      "Cohere Consultants"
+    ]
   },
   {
     "id": "409004",
     "tenderned_kenmerk": "567591",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8371,8 +8502,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-22",
     "sluitingsdatum": "2026-03-17T14:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 243785.0,
+    "winnaar": "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/409004",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/409004",
@@ -8409,13 +8540,16 @@
       "toelichting": "Veldonderzoek beekmondingherstel Maas Rijn",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-09-16",
+    "gunning_publicatie_id": "440065",
+    "waarde_definitief": 243785.0,
+    "datum_gunning": "2026-09-10"
   },
   {
     "id": "408914",
     "tenderned_kenmerk": "565646",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8434,8 +8568,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-21",
     "sluitingsdatum": "2026-03-17T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 450000.0,
+    "winnaar": "Dialogic Innovatie & Interactie",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/408914",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/408914",
@@ -8472,7 +8606,10 @@
       "toelichting": "Jaarlijkse monitor vragenlijst gemeenten personeelsgegevens",
       "betrouwbaarheid": 0.88
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-04-30",
+    "gunning_publicatie_id": "423294",
+    "waarde_definitief": 450000.0,
+    "datum_gunning": "2026-04-07"
   },
   {
     "id": "408855",
@@ -8600,7 +8737,7 @@
     "id": "408448",
     "tenderned_kenmerk": "566059",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8619,8 +8756,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-17",
     "sluitingsdatum": "2026-03-02T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 80000.0,
+    "winnaar": "Haskoning Nederland B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/408448",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/408448",
@@ -8653,7 +8790,10 @@
       "toelichting": "Technisch onderzoek monitoring cavernes na abandonnering",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-04-24",
+    "gunning_publicatie_id": "422560",
+    "waarde_definitief": 80000.0,
+    "datum_gunning": "2026-04-13"
   },
   {
     "id": "408269",
@@ -8735,8 +8875,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-14",
     "sluitingsdatum": "2025-10-03T15:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 506178.0,
+    "winnaar": "Berenschot",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/407996",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/407996",
@@ -8775,7 +8915,9 @@
       "toelichting": "Studieonderzoek impact kosten zoetwatertekorten.",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": "2026-01-14"
+    "gunningsdatum": "2026-01-14",
+    "waarde_definitief": 506178.0,
+    "datum_gunning": "2025-12-05"
   },
   {
     "id": "406978",
@@ -8800,8 +8942,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-06",
     "sluitingsdatum": "2025-10-28T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1.0,
+    "winnaar": "GL Ecologie B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/406978",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/406978",
@@ -8837,7 +8979,9 @@
       "toelichting": "Ecologisch onderzoek soortenmanagementplan Edam-Volendam",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": "2026-01-06"
+    "gunningsdatum": "2026-01-06",
+    "waarde_definitief": 1.0,
+    "datum_gunning": "2026-01-01"
   },
   {
     "id": "407019",
@@ -8862,8 +9006,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2026-01-06",
     "sluitingsdatum": "2025-10-06T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1790800.0,
+    "winnaar": "KplusV B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/407019",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/407019",
@@ -8900,7 +9044,9 @@
       "toelichting": "Integrale staat beleid aardgaswinning gevolgen en maatregelen.",
       "betrouwbaarheid": 0.8
     },
-    "gunningsdatum": "2026-01-06"
+    "gunningsdatum": "2026-01-06",
+    "waarde_definitief": 1790800.0,
+    "datum_gunning": "2025-11-24"
   },
   {
     "id": "406672",
@@ -8972,7 +9118,7 @@
     "id": "406398",
     "tenderned_kenmerk": "564073",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -8991,8 +9137,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-12-23",
     "sluitingsdatum": "2026-02-23T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 2120000.0,
+    "winnaar": "Stichting SEO Economisch Onderzoek",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/406398",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/406398",
@@ -9028,7 +9174,10 @@
       "toelichting": "Jaarlijkse monitor JOB LAKS schoolbeleving scholieren",
       "betrouwbaarheid": 0.85
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-17",
+    "gunning_publicatie_id": "429244",
+    "waarde_definitief": 2120000.0,
+    "datum_gunning": "2026-06-01"
   },
   {
     "id": "406236",
@@ -9251,7 +9400,7 @@
     "id": "405447",
     "tenderned_kenmerk": "559560",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF17",
@@ -9307,7 +9456,8 @@
       "toelichting": "Raamovereenkomst ecologische onderzoeken plan-vergunning-uitvoering",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-10-21",
+    "gunning_publicatie_id": "445290"
   },
   {
     "id": "405459",
@@ -9619,7 +9769,7 @@
     "id": "403528",
     "tenderned_kenmerk": "560065",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -9639,7 +9789,7 @@
     "publicatiedatum": "2025-12-04",
     "sluitingsdatum": "2026-03-11T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Ruigrok NetPanel",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/403528",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/403528",
@@ -9676,13 +9826,19 @@
       "toelichting": "Kwalitatief kwantitatief onderzoek dienstverlening Dienst Toeslagen",
       "betrouwbaarheid": 0.8
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-02",
+    "gunning_publicatie_id": "431356",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-06-23",
+    "extra_winnaars": [
+      "Desan Marktonderzoek B.V."
+    ]
   },
   {
     "id": "403335",
     "tenderned_kenmerk": "559528",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -9701,8 +9857,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-12-03",
     "sluitingsdatum": "2026-02-05T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1549897.96,
+    "winnaar": "ABF Research B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/403335",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/403335",
@@ -9739,7 +9895,10 @@
       "toelichting": "Dementie in Kaart monitoring nationale dementiestrategie",
       "betrouwbaarheid": 0.87
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-05",
+    "gunning_publicatie_id": "427858",
+    "waarde_definitief": 1549897.96,
+    "datum_gunning": "2026-05-20"
   },
   {
     "id": "402966",
@@ -9802,7 +9961,7 @@
     "id": "402534",
     "tenderned_kenmerk": "556406",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -9822,7 +9981,7 @@
     "publicatiedatum": "2025-11-26",
     "sluitingsdatum": "2026-01-26T13:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "I&O Research B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/402534",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/402534",
@@ -9857,13 +10016,16 @@
       "toelichting": "Raamovereenkomst kwantitatief testen communicatiemiddelen",
       "betrouwbaarheid": 0.73
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-16",
+    "gunning_publicatie_id": "433430",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-05-27"
   },
   {
     "id": "402527",
     "tenderned_kenmerk": "556988",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EFE3",
@@ -9883,7 +10045,7 @@
     "publicatiedatum": "2025-11-25",
     "sluitingsdatum": "2026-02-24T13:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "Schadenberg Dakwerken B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/402527",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/402527",
@@ -9914,7 +10076,10 @@
       "toelichting": "Technisch diensten contract onderhoud en inspectie",
       "betrouwbaarheid": 0.27
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-16",
+    "gunning_publicatie_id": "429359",
+    "waarde_definitief": null,
+    "datum_gunning": "2026-05-26"
   },
   {
     "id": "402501",
@@ -10431,8 +10596,8 @@
     "procedure_code": "NOP",
     "publicatiedatum": "2025-11-05",
     "sluitingsdatum": "2025-12-09T11:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 274655.0,
+    "winnaar": "Sweco Nederland B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/421861",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/421861",
@@ -10469,13 +10634,15 @@
       "toelichting": "Warmtetransitie beleidsondersteuning participatie gemeente",
       "betrouwbaarheid": 0.83
     },
-    "gunningsdatum": "2026-04-19"
+    "gunningsdatum": "2026-04-19",
+    "waarde_definitief": 274655.0,
+    "datum_gunning": "2026-04-15"
   },
   {
     "id": "399267",
     "tenderned_kenmerk": "551461",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -10494,8 +10661,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-11-02",
     "sluitingsdatum": "2026-01-14T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1.0,
+    "winnaar": "Sensar B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/399267",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/399267",
@@ -10531,7 +10698,13 @@
       "toelichting": "InSAR-analyse twee percelen objectmonitoringmethoden",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-05-12",
+    "gunning_publicatie_id": "424589",
+    "waarde_definitief": 1.0,
+    "datum_gunning": "2026-03-10",
+    "extra_winnaars": [
+      "SkyGeo Netherlands B.V."
+    ]
   },
   {
     "id": "399210",
@@ -10680,8 +10853,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-10-22",
     "sluitingsdatum": "2025-12-01T11:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1471483.0,
+    "winnaar": "Ecosprong B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417889",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417889",
@@ -10714,7 +10887,9 @@
       "toelichting": "Puur ecologisch veldwerk en monitoring, geen onderzoeksopdracht",
       "betrouwbaarheid": 0.53
     },
-    "gunningsdatum": "2026-03-31"
+    "gunningsdatum": "2026-03-31",
+    "waarde_definitief": 1471483.0,
+    "datum_gunning": "2026-03-17"
   },
   {
     "id": "397667",
@@ -11033,8 +11208,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-10-09",
     "sluitingsdatum": "2025-11-19T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 547600.0,
+    "winnaar": "Haskoning Nederland B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/411821",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/411821",
@@ -11071,7 +11246,9 @@
       "toelichting": "Regionaal verkeersmodel ontwikkeling Amersfoort",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": "2026-02-12"
+    "gunningsdatum": "2026-02-12",
+    "waarde_definitief": 547600.0,
+    "datum_gunning": "2026-02-05"
   },
   {
     "id": "422157",
@@ -11096,8 +11273,8 @@
     "procedure_code": "NOP",
     "publicatiedatum": "2025-10-08",
     "sluitingsdatum": "2025-11-11T09:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 275000.0,
+    "winnaar": "Iv-Infra B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/422157",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/422157",
@@ -11134,7 +11311,9 @@
       "toelichting": "LBO-2 beoordeling primaire waterkeringen",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": "2026-04-22"
+    "gunningsdatum": "2026-04-22",
+    "waarde_definitief": 275000.0,
+    "datum_gunning": "2026-03-05"
   },
   {
     "id": "395828",
@@ -11501,7 +11680,7 @@
     "id": "393574",
     "tenderned_kenmerk": "547043",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -11520,8 +11699,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-09-21",
     "sluitingsdatum": "2025-11-17T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 139344.0,
+    "winnaar": "De Vlinderstichting",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/393574",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/393574",
@@ -11557,7 +11736,10 @@
       "toelichting": "Effecten klimaatscenario's Natura 2000-doelen",
       "betrouwbaarheid": 0.63
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-23",
+    "gunning_publicatie_id": "434402",
+    "waarde_definitief": 139344.0,
+    "datum_gunning": "2026-01-01"
   },
   {
     "id": "393572",
@@ -11688,7 +11870,7 @@
     "id": "393570",
     "tenderned_kenmerk": "547050",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -11707,8 +11889,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-09-21",
     "sluitingsdatum": "2025-11-17T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 82629.64,
+    "winnaar": "RAVON",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/393570",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/393570",
@@ -11744,7 +11926,10 @@
       "toelichting": "Bufferherstel stikstofmineralisatie",
       "betrouwbaarheid": 0.6
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-23",
+    "gunning_publicatie_id": "434401",
+    "waarde_definitief": 82629.64,
+    "datum_gunning": "2026-01-01"
   },
   {
     "id": "393571",
@@ -11813,7 +11998,7 @@
     "id": "393573",
     "tenderned_kenmerk": "547023",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -11832,8 +12017,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-09-21",
     "sluitingsdatum": "2025-11-17T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 72190.0,
+    "winnaar": "Stichting Bargerveen",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/393573",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/393573",
@@ -11868,7 +12053,10 @@
       "toelichting": "Kennismontage bekalking-alternatieven voor verzuring",
       "betrouwbaarheid": 0.53
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-07-23",
+    "gunning_publicatie_id": "434400",
+    "waarde_definitief": 72190.0,
+    "datum_gunning": "2026-01-01"
   },
   {
     "id": "411427",
@@ -11893,8 +12081,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-09-21",
     "sluitingsdatum": "2025-11-17T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 278833.74,
+    "winnaar": "AEQUATOR Groen & Ruimte B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/411427",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/411427",
@@ -11929,7 +12117,9 @@
       "toelichting": "Braakland natuurinclusieve akkerbouw overgangsgebieden",
       "betrouwbaarheid": 0.67
     },
-    "gunningsdatum": "2026-02-10"
+    "gunningsdatum": "2026-02-10",
+    "waarde_definitief": 278833.74,
+    "datum_gunning": "2026-02-08"
   },
   {
     "id": "393156",
@@ -12309,8 +12499,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-09-10",
     "sluitingsdatum": "2025-10-30T13:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 106975.0,
+    "winnaar": "Buildsight b.v.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/406875",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/406875",
@@ -12344,7 +12534,9 @@
       "toelichting": "Jaarlijkse dataverzameling isolatiematerialen",
       "betrouwbaarheid": 0.7
     },
-    "gunningsdatum": "2026-01-01"
+    "gunningsdatum": "2026-01-01",
+    "waarde_definitief": 106975.0,
+    "datum_gunning": "2025-12-03"
   },
   {
     "id": "391814",
@@ -12735,8 +12927,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-08-07",
     "sluitingsdatum": "2025-10-10T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 900000.0,
+    "winnaar": "Maritime & Transport Business Solutions",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/417560",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/417560",
@@ -12773,7 +12965,9 @@
       "toelichting": "Feasibility en ESIA milieuvriendelijk bootbusvervoer Abidjan.",
       "betrouwbaarheid": 0.83
     },
-    "gunningsdatum": "2026-03-27"
+    "gunningsdatum": "2026-03-27",
+    "waarde_definitief": 900000.0,
+    "datum_gunning": "2025-10-27"
   },
   {
     "id": "388579",
@@ -13327,7 +13521,7 @@
     "id": "386079",
     "tenderned_kenmerk": "535983",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -13346,8 +13540,8 @@
     "procedure_code": "OMB",
     "publicatiedatum": "2025-07-13",
     "sluitingsdatum": "2025-08-11T09:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 264260.0,
+    "winnaar": "Embridge",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/386079",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/386079",
@@ -13383,7 +13577,10 @@
       "toelichting": "Ecologisch veldwerk soortenmanagementplan, geen onderzoeksopdracht",
       "betrouwbaarheid": 0.7
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-17",
+    "gunning_publicatie_id": "429221",
+    "waarde_definitief": 264260.0,
+    "datum_gunning": "2026-05-11"
   },
   {
     "id": "386018",
@@ -13780,8 +13977,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-06-29",
     "sluitingsdatum": "2025-09-08T15:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 449600.0,
+    "winnaar": "Arcadis Nederland B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/411049",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/411049",
@@ -13812,7 +14009,9 @@
       "toelichting": "Landelijk contract organisatie realistische oefeningen wegtunnels.",
       "betrouwbaarheid": 0.4
     },
-    "gunningsdatum": "2026-02-06"
+    "gunningsdatum": "2026-02-06",
+    "waarde_definitief": 449600.0,
+    "datum_gunning": "2026-02-04"
   },
   {
     "id": "384026",
@@ -14087,7 +14286,7 @@
     "publicatiedatum": "2025-06-21",
     "sluitingsdatum": "2025-09-24T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "",
+    "winnaar": "TAUW bv",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/412842",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/412842",
@@ -14126,7 +14325,9 @@
       "toelichting": "Raamovereenkomst stikstofanalyses scenario's modeling.",
       "betrouwbaarheid": 0.87
     },
-    "gunningsdatum": "2026-02-20"
+    "gunningsdatum": "2026-02-20",
+    "waarde_definitief": null,
+    "datum_gunning": "2025-11-01"
   },
   {
     "id": "382854",
@@ -14443,7 +14644,7 @@
     "id": "382365",
     "tenderned_kenmerk": "532051",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -14462,8 +14663,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-06-14",
     "sluitingsdatum": "2025-10-06T12:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 674000.0,
+    "winnaar": "Kubiek Ruimtelijke Plannen",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/382365",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/382365",
@@ -14497,7 +14698,10 @@
       "toelichting": "Adviesdiensten juridische regelkader.",
       "betrouwbaarheid": 0.38
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-04-25",
+    "gunning_publicatie_id": "422792",
+    "waarde_definitief": 674000.0,
+    "datum_gunning": "2025-12-15"
   },
   {
     "id": "382341",
@@ -16075,8 +16279,8 @@
     "procedure_code": "OPE",
     "publicatiedatum": "2025-04-04",
     "sluitingsdatum": "2025-05-15T10:00:00",
-    "gunningswaarde": null,
-    "winnaar": "",
+    "gunningswaarde": 1500000.0,
+    "winnaar": "Blom Ecologie B.V.",
     "cpv_codes": [],
     "url": "https://www.tenderned.nl/aankondigingen/overzicht/408975",
     "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/408975",
@@ -16111,7 +16315,9 @@
       "toelichting": "Soortenmanagementplan nulmeting monitoring gemeente",
       "betrouwbaarheid": 0.67
     },
-    "gunningsdatum": "2026-01-21"
+    "gunningsdatum": "2026-01-21",
+    "waarde_definitief": 1500000.0,
+    "datum_gunning": "2026-01-16"
   },
   {
     "id": "372758",
@@ -19309,7 +19515,7 @@
     "id": "358443",
     "tenderned_kenmerk": "498455",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -19364,7 +19570,8 @@
       "toelichting": "SMP Gilze Rijen Alphen-Chaam ecologie",
       "betrouwbaarheid": 0.73
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-10",
+    "gunning_publicatie_id": "435915"
   },
   {
     "id": "358223",
@@ -42318,7 +42525,7 @@
     "id": "267081",
     "tenderned_kenmerk": "368077",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "SF02",
@@ -42372,7 +42579,8 @@
       "toelichting": "Bouwteam multifunctioneel gebouw. Inhuurcontract technische expertise.",
       "betrouwbaarheid": 0.33
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-08-04",
+    "gunning_publicatie_id": "435559"
   },
   {
     "id": "266995",
@@ -55558,7 +55766,7 @@
     "id": "200836",
     "tenderned_kenmerk": "273157",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "SF02",
@@ -55611,7 +55819,8 @@
       "toelichting": "SBIR monitoring bruggen fase 1-2",
       "betrouwbaarheid": 0.77
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-06-30",
+    "gunning_publicatie_id": "431183"
   },
   {
     "id": "214669",
