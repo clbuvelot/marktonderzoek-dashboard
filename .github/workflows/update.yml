@@ -1,15 +1,21 @@
 name: Update TenderNed Dataset
 
 on:
-  workflow_dispatch:        # handmatig triggeren via dashboard of GitHub UI
+  workflow_dispatch:
+    inputs:
+      gunningen_vanaf:
+        description: 'Inhaalslag gunningen vanaf (JJJJ-MM-DD). Leeg = standaard 30 dagen terug.'
+        required: false
+        default: ''
   schedule:
-    - cron: '0 6 * * 1'    # elke maandag om 06:00 UTC (automatisch)
+    - cron: '0 6 * * *'    # elke dag om 06:00 UTC
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # voor git push
+      contents: write
+    timeout-minutes: 90
 
     steps:
       - name: Checkout repo
@@ -29,22 +35,38 @@ jobs:
       - name: Pipeline uitvoeren
         env:
           AZURE_FOUNDRY_API_KEY: ${{ secrets.AZURE_FOUNDRY_API_KEY }}
-        run: python update.py
+          GUNNINGEN_VANAF: ${{ inputs.gunningen_vanaf }}
+        run: |
+          if [ -n "$GUNNINGEN_VANAF" ]; then
+            python update.py --gunningen-vanaf "$GUNNINGEN_VANAF"
+          else
+            python update.py
+          fi
+
+      - name: Winnaars aanvullen uit bulk Excel
+        run: |
+          # De winnaarsnaam staat niet in de TNS API, alleen in de bulk Excel.
+          # Die is ~90 MB en wordt maar periodiek ververst, dus wekelijks volstaat.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date -u +%u)" = "1" ]; then
+            python vul_winnaars_aan.py
+          else
+            echo "Niet maandag en geen handmatige run — winnaars overslaan."
+          fi
 
       - name: Controleer op wijzigingen
         id: check
         run: |
-          git diff --quiet data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+          git add data/
+          git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit en push bijgewerkte data
+      - name: Commit en push
         if: steps.check.outputs.changed == 'true'
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m "data: incrementele update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "data: dagelijkse update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
       - name: Geen wijzigingen
         if: steps.check.outputs.changed == 'false'
-        run: echo "Geen nieuwe publicaties gevonden, niets gecommit."
+        run: echo "Geen nieuwe publicaties, niets gecommit."
