@@ -1,5 +1,62 @@
 [
   {
+    "id": "446499",
+    "tenderned_kenmerk": "621170",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": false,
+    "europees": true,
+    "titel": "ROK Expertpool Flexibel Vermogen Netcongestie",
+    "omschrijving": "De provincie heeft de intentie om één adviesbureau (of een samenwerking van meerdere bureaus) door middel van een raamovereenkomst te contracteren die de ondersteuningsvragen van gemeenten kan invullen. Door het leveren van capaciteit, kennis en expertise voor onder meer vergunningverlening en juridische ondersteuning bij projecten rond flexibel vermogen wordt een bijdrage geleverd aan het voorkomen van dan wel snel herstellen na een aansluitstop. Deze inzet loopt van 1-1-2027 t/m 31-12-2030.",
+    "aanbestedende_dienst": "Provincie Gelderland",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-10-29",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2026-12-07T12:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/446499",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/446499",
+    "documenten_geladen": false,
+    "classificatie": {
+      "teams": [],
+      "thema": "Energie & klimaat",
+      "thema_betrouwbaarheid": 0.8,
+      "subthema": "Netcongestie flexibel vermogen expertpool",
+      "methodiek": "Onduidelijk / niet gespecificeerd",
+      "methodiek_betrouwbaarheid": 0.8,
+      "methodiek_kwantitatief": false,
+      "skills": [],
+      "skills_betrouwbaarheid": 0.5,
+      "evaluatiefase": "Onduidelijk",
+      "evaluatiefase_betrouwbaarheid": 0.7,
+      "databronnen": [
+        "Geen specifieke databron vermeld"
+      ],
+      "databronnen_betrouwbaarheid": 0.8,
+      "opdrachtgrootte": "Groot",
+      "opdrachtgrootte_betrouwbaarheid": 0.5,
+      "gunningscriterium": "Onduidelijk",
+      "looptijd_maanden": 48,
+      "causaliteitsvraag": false,
+      "herhalingskans": "onduidelijk",
+      "consortiumkans": false,
+      "toelichting": "Raamovereenkomst voor capaciteit, vergunning- en juridische ondersteuning aan gemeenten; geen onderzoeks- of evaluatieopdracht, dus geen relevant team.",
+      "betrouwbaarheid": 0.77
+    }
+  },
+  {
     "id": "446314",
     "tenderned_kenmerk": "616050",
     "bron": "tenderned",
@@ -4046,7 +4103,7 @@
     "id": "427507",
     "tenderned_kenmerk": "593638",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF17",
@@ -4064,7 +4121,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-06-04",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-10-29",
     "sluitingsdatum": "2026-07-22T12:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -4103,7 +4160,8 @@
       "consortiumkans": true,
       "toelichting": "Concept selectie Nederlands waterstoftransportnetwerk haalbaarheidsstudie",
       "betrouwbaarheid": 0.8
-    }
+    },
+    "gunning_publicatie_id": "446629"
   },
   {
     "id": "427526",
@@ -4967,7 +5025,7 @@
     "id": "423367",
     "tenderned_kenmerk": "587505",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -4985,7 +5043,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-05-02",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-10-29",
     "sluitingsdatum": "2026-06-22T12:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -5024,7 +5082,8 @@
       "consortiumkans": true,
       "toelichting": "Impact assessments kinderrechten risico's online diensten privacy",
       "betrouwbaarheid": 0.77
-    }
+    },
+    "gunning_publicatie_id": "446535"
   },
   {
     "id": "423072",
@@ -9313,7 +9372,7 @@
     "id": "405515",
     "tenderned_kenmerk": "563036",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF17",
@@ -9366,7 +9425,8 @@
       "toelichting": "Raamovereenkomst voor jaarlijkse medewerkersonderzoeken, geen evaluatie",
       "betrouwbaarheid": 0.6
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-10-29",
+    "gunning_publicatie_id": "446627"
   },
   {
     "id": "405539",
