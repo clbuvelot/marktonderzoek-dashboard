@@ -1,0 +1,1651 @@
+=== Document: offerteaanvraag fieldlabs autonoom vervoer fase 2 ===
+Offerteaanvraag diensten m.b.t. Fieldlabs 
+Autonoom Vervoer Fase 2 
+ 
+ 
+Europese aanbesteding volgens de openbare procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Datum:   2 november 2026 
+Versie:   1.0 
+Status:   Definitief 
+ 
+Zaaknummer:  757 Fase 2 
+TenderNed kenmerk: TN 621013 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 2 van 16 
+Inhoudsopgave 
+DE AANBESTEDING IN HET KORT ................................................................................................................ 3 
+1.1 ACHTERGROND ...................................................................................................................................... 3 
+1.2 BESCHRIJVING VAN DE OPDRACHT ............................................................................................................. 3 
+1.2.1 Diensten op het gebied van autonoom vervoer ........................................................................ 3 
+1.3 DOEL VAN DE OPDRACHT ......................................................................................................................... 5 
+1.4 LOOPTIJD VAN DE OVEREENKOMST ............................................................................................................ 5 
+1.5 AANBESTEDENDE DIENST ......................................................................................................................... 5 
+1.6 PLANNING ............................................................................................................................................ 5 
+1.7 CHECKLIST T.B.V. DE INSCHRIJVING ............................................................................................................ 5 
+2. UITSLUITINGSGRONDEN, GESCHIKTHEIDSEISEN EN INSCHRIJVINGSVEREISTEN  .............................. 7 
+2.1 UNIFORM EUROPEES AANBESTEDINGSDOCUMENT (UEA).............................................................................. 7 
+2.2 UITSLUITINGSGRONDEN .......................................................................................................................... 7 
+2.3 GESCHIKTHEIDSEISEN .............................................................................................................................. 7 
+2.4 MINIMUMEISEN .................................................................................................................................... 9 
+2.5 AANSPRAKELIJKHEID ............................................................................................................................... 9 
+3. GUNNINGSCRITERIA ..................................................................................................................... 11 
+3.1 PRIJS ................................................................................................................................................. 11 
+3.2 KWALITEIT .......................................................................................................................................... 11 
+3.2.1 Beoordeling kwalitatieve gunningscriteria ............................................................................. 11 
+3.2.2 Gunningscriterium G2.1: Prototype DATA LOOP ..................................................................... 12 
+3.2.3 Gunningscriterium G2.2: Certificering RDW en EU AI Act ....................................................... 12 
+3.2.4 Gunningscriterium G2.3: Experimenten Qbuzz en shadow driving ......................................... 13 
+3.2.5 Gunningscriterium G2.4: Open source, rechten en ondersteuning ......................................... 13 
+4. BESCHRIJVING VAN DE PROCEDURE ............................................................................................. 14 
+4.1 TYPE PROCEDURE ................................................................................................................................. 14 
+4.2 GESTANDDOENINGSTERMIJN .................................................................................................................. 14 
+4.3 INLICHTINGEN ..................................................................................................................................... 14 
+4.4 KOSTENVERGOEDING ............................................................................................................................ 14 
+4.5 VOORBEHOUDEN ................................................................................................................................. 14 
+4.6 KLACHTEN .......................................................................................................................................... 15 
+4.7 ONDUIDELIJKHEDEN ............................................................................................................................. 15 
+4.8 RECHTSGELDIGHEID .............................................................................................................................. 15 
+4.9 GUNNINGSBESLISSING ........................................................................................................................... 15 
+4.10 EÉNMAAL INSCHRIJVEN ..................................................................................................................... 15 
+4.11 BEROEP OP EEN DERDE ..................................................................................................................... 15 
+4.12 INSCHRIJVEN CONFORM HET PLATFORM, BIJLAGEN EN STANDAARDFORMULIEREN ......................................... 15 
+ 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 3 van 16 
+De aanbesteding in het kort 
+ 
+1.1 Achtergrond 
+Provincie Groningen heeft besloten robotTUNER een incidentele subsidie te verlenen voor de 
+uitvoering van het project ‘Plan van Aanpak NPG Fieldlabs Autonoom Vervoer Fase 2’. Aan deze 
+subsidie is de verplichting verbonden dat robotTUNER Europees aanbesteed t. 
+ 
+NB: robotTUNER maakt alleen gebruik van TenderNed als medium om te voldoen aan de 
+aanbestedingseis. robotTUNER volgt niet de Aanbestedingswet 2012 en/of enige regelgeving met 
+betrekking tot aanbestedingen; inschrijvers kunnen derhalve geen rechten ontlenen aan deze 
+aanbesteding. 
+ 
+Het project Fieldlabs Autonoom Vervoer is een vervolg op projecten die door robotTUNER in 
+opdracht van de provincie Groningen zijn uitgevoerd. Fase 1 is in 2025 Europees aanbesteed 
+(TenderNed-kenmerk TN 511608) en is in 2026 afgerond. In Fase 1 is o.a. de overstap gemaakt 
+naar het opensource platform Autoware voor de besturing van een retrofit 12-meter bus. 
+Daarnaast zijn een Multi Purpose Vehicle, een rijsimulator en een remote control systeem 
+opgeleverd. 
+ 
+Tijdens Fase 1 werd duidelijk dat het gebruik van de retrofitbus met autopilottechnologie op eigen 
+terrein, zoals het depot van Qbuzz, niet te verzekeren is zonder goedkeuring van de RDW. In 
+Fase 2 staat daarom de keuring van de autopilottechnologie centraal. De projecten Fase 1 en 2 
+maken deel uit van het nationale project COLUMBUSS (www.columbuss.eu).  
+ 
+1.2 Beschrijving van de opdracht 
+De opdracht omvat het leveren van diensten met betrekking tot autonoom busvervoer. Voor de 
+diensten wordt een overeenkomst gesloten met één (1) inschrijver. 
+ 
+1.2.1 Diensten op het gebied van autonoom vervoer 
+De volgende diensten maken in ieder geval onderdeel uit van de overeenkomst:  
+ 
+A. Open source autopilot technologie en DATA LOOP 
+robotTUNER is verantwoordelijk voor het demonstreren en beschikbaar stellen van open source 
+autopilot technologie die commercieel openbaar vervoer mogelijk maakt. Hiervoor wordt Autoware 
+gebruikt, een internationaal gedragen open source autopilotplatform op basis van ROS2 
+(www.autoware.org). In Fase 2 wordt een prototype van de DATA LOOP gerealiseerd: Autoware 
+wordt gekoppeld aan een bus-rijsimulator (Unity game engine) waarin camera-, radar-, lidar-, 
+positie- en oriëntatiedata worden gesimuleerd en naar Autoware worden gestuurd. Er wordt een 
+rijprocedure-module ontwikkeld die met de rijsimulator en Autoware communiceert en op basis van 
+Nederlandse rijprocedures voor bussen het rijgedrag van buschauffeurs en van de Autoware-
+autopilot beoordeelt. De routeplanner van Autoware wordt gedocumenteerd, voorzien van 
+rijprocedures en waar nodig aangevuld met ontbrekende functionaliteit, zodat de autopilot goed 
+omgaat met een 12-meter bus. 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 4 van 16 
+Alleen de activiteiten die nodig zijn voor de realisatie van de eerste versie (het prototype) van de 
+DATA LOOP maken deel uit van deze opdracht. 
+ 
+Alle rechten, waaronder het auteursrecht, van de geleverde diensten worden eigendom van 
+robotTUNER. robotTUNER draagt alle rechten over aan Stichting DATA. Stichting DATA heeft als 
+doel IP en broncode te bewaren en te beschermen voor de Nederlandse samenle ving. De 
+resultaten worden gratis beschikbaar gesteld aan alle ondernemingen die in de betrokken sector 
+of subsector actief zijn, ook aan buitenlandse ondernemingen. 
+ 
+B. Certificering en EU AI Act 
+Om de autopilottechnologie commercieel in te mogen zetten is certificering van hardware en 
+software door de RDW noodzakelijk. De eerste stap is de certificering van de fysieke aanpassing 
+van de bus (Wet Aanpassing Motorrijtuigen), zodat een verzekering kan worden afgegeven voor 
+autonoom rijden op lage snelheid op eigen terrein, onder direct toezicht van een buschauffeur. 
+Later volgt de certificering van de autopilothardware en -software (Prototyperegeling). Voor 
+certificering moet de veiligheid (safety case) worden aangetoond en moet de autopilot transparant 
+zijn conform de EU AI Act (logregistratie, documentatie en menselijk toezicht). De inschrijver 
+ondersteunt robotTUNER bij het opstellen van de safety cases en de aanvragen bij de RDW. 
+ 
+C. Shadow driving en referentiemodel 
+Om een veilige rijstijl tijdens de dienstuitvoering aan te tonen, wordt het concept ‘shadow driving’ 
+uitgewerkt. Tijdens de dienstuitvoering wordt sensordata verzameld; de rit wordt gereconstrueerd 
+in rijsimulatiesoftware en virtueel aangeboden aan Autoware. Op basis van prestatiedata van 
+buschauffeurs (human peer group) wordt een referentiemodel ontwikkeld waarmee wordt bepaald 
+of Autoware minimaal zo veilig rijdt als een gemiddelde buschauffeur. Tevens wordt onderzocht of 
+rijondersteuning door de autopilot de schadelast kan verminderen. 
+ 
+D. Experimenten Qbuzz 
+Het doel is om in Fase 2 minimaal 200 chauffeurs als safety driver te laten meerijden op het depot 
+en op de busbaan. De ervaringen van de chauffeurs worden bevraagd en geanalyseerd en dienen 
+als onderbouwing van de safety cases. De inschrijver stelt hiervoor een retrofit 12-meter OV-bus 
+met autopilottechnologie beschikbaar voor de periode van 1 maart 2027 tot en met 31 december 
+2027 (zie minimumeis 9). 
+ 
+E. AI Innovatielab en COLUMBUSS learning community 
+De inschrijver ondersteunt robotTUNER bij demonstraties van autonome voertuigen in het AI 
+Innovatielab van het Hive Mobility Center en bij het versterken van de (inter)nationale 
+COLUMBUSS learning community, waaronder de samenwerking met de Autoware commun ity. 
+ 
+F. Rapportage en projectmanagement 
+De inschrijver rapporteert halfjaarlijks over voortgang, resultaten en bestede uren, levert input voor 
+de jaarlijkse voortgangsrapportage en het eindverslag aan provincie Groningen, en verleent 
+medewerking aan audits. 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 5 van 16 
+Deze diensten zijn nauw met elkaar verbonden, waardoor het inefficiënt zou zijn om deze onder te 
+brengen bij meerdere inschrijvers. Om deze reden is ervoor gekozen deze diensten samen te 
+voegen tot één perceel. 
+ 
+1.3 Doel van de opdracht 
+Het doel van deze aanbesteding is om diensten te leveren op het gebied van autonoom vervoer 
+waarmee de autopilottechnologie gecertificeerd, getest, verbeterd en gedemonstreerd kan 
+worden. Met dit project wil robotTUNER commercieel autonoom openbaar vervoer  in de 
+noordelijke provincies, en daarbuiten, versnellen, mede ter voorbereiding op de concessie 
+Groningen-Drenthe vanaf 2030. 
+ 
+1.4 Looptijd van de overeenkomst 
+De overeenkomst gaat in zo spoedig mogelijk na definitieve gunning (verwacht 4 februari 2027) en 
+eindigt op 31 januari 2028, overeenkomstig de looptijd van de subsidieverlening. Indien provincie 
+Groningen de looptijd van het project verlengt, heeft opdrachtgever de mogelijkheid de 
+overeenkomst éénmaal met maximaal twaalf (12) maanden te verlengen, binnen het maximale 
+budget. Indien opdrachtgever hier geen gebruik van wenst te maken, laat zij dit uiterlijk 1 maand 
+voor het einde van de looptijd weten. Na afloop van de looptijd en een eventuele verlenging eindigt 
+de overeenkomst van rechtswege. 
+ 
+1.5 Aanbestedende dienst 
+robotTUNER is in deze aanbesteding de aanbestedende dienst en wordt in dit document nader 
+aangeduid als 'aanbestedende dienst' of als 'opdrachtgever'. 
+ 
+1.6 Planning 
+In de navolgende tabel is de planning van de aanbestedingsprocedure weergegeven. De 
+opdrachtgever behoudt zich het recht voor om de planning aan te passen, hieraan kunnen 
+derhalve geen rechten ontleend worden door inschrijvers. 
+ 
+Omschrijving Datum en tijdstip 
+Publicatie aanbestedingsdocumenten 2 november 2026 
+Deadline voor het stellen van vragen 1 december 2026, 15:30 uur 
+Streefdatum publicatie nota van inlichtingen 3 december 2026 
+Sluitingsdatum voor het indienen van inschrijvingen 14 december 2026, 15:30 uur 
+Mededeling van de gunningsbeslissing 14 januari 2027 
+Definitieve gunning 4 februari 2027 
+Ingangsdatum overeenkomst Z.s.m. na definitieve gunning 
+ 
+1.7 Checklist t.b.v. de inschrijving 
+Inschrijvers dienen bij het doen van een inschrijving de volgende documenten via TenderNed in te 
+dienen: 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 6 van 16 
+Nr. Onderdeel van de inschrijving Ingediend? 
+1. Aanbiedingsbrief met uitwerking van de kwaliteitscriteria G2.1 t/m G2.4   
+2. Ingevuld en ondertekend UEA  
+3. Verklaringen kerncompetenties (bijlage 1) voor kerncompetentie 1, 2 en 3, 
+inclusief link naar video (KC2) en GitHub-repository (KC3) 
+ 
+4. Verklaring rechten (kerncompetentie 4)  
+5. Ingevuld prijzenblad (bijlage 2) en totaalbedrag in TenderNed  
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 7 van 16 
+2. Uitsluitingsgronden, geschiktheidseisen en inschrijvingsvereisten 
+ 
+2.1 Uniform Europees Aanbestedingsdocument (UEA) 
+De inschrijver dient middels het Uniform Europees Aanbestedingsdocument (UEA) zijn 
+bedrijfsgegevens aan te leveren. 
+ 
+De verklaring dient rechtsgeldig te zijn ondertekend door de inschrijver. Een machtiging wordt niet 
+geaccepteerd. 
+ 
+2.2 Uitsluitingsgronden 
+Op het moment van inschrijving kan de inschrijver volstaan met het ondertekenen van het UEA in 
+TenderNed. Door het ondertekenen van het UEA geeft inschrijver aan dat de omstandigheden 
+zoals benoemd in deze eigen verklaring niet op zijn onderneming van toepassing zijn en dat 
+inschrijver de eventueel verlangde bewijsstukken/verklaringen, zoals bedoeld in artikel 2.89 van de 
+Aanbestedingswet, op het eerste verzoek van de opdrachtgever binnen 7 kalenderdagen kan 
+verstrekken. 
+ 
+De verplichte uitsluitingsgronden (zie deel III.A en III.B van het UEA) zijn: 
+• deelneming aan een criminele organisatie; 
+• omkoping; 
+• fraude; 
+• witwassen van geld; 
+• terroristische misdrijven of strafbare feiten; 
+• kinderarbeid en andere vormen van mensenhandel; 
+• betaling van belastingen of sociale premies. 
+ 
+De van toepassing zijnde facultatieve uitsluitingsgronden (zie deel III.C van het UEA) zijn:  
+• schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht; 
+• faillissement, insolventie of gelijksoortig; 
+• ernstige beroepsfout; 
+• vervalsing van de mededinging; 
+• belangenconflict; 
+• valse verklaring; 
+• onrechtmatige beïnvloeding. 
+ 
+2.3 Geschiktheidseisen 
+ 
+Door de opdrachtgever zijn de volgende kerncompetenties vastgesteld, benodigd voor het toetsen 
+van de technische bekwaamheid en/of beroepsbekwaamheid, overeenstemmend met essentiële 
+punten van de opdracht: 
+ 
+Kerncompetentie 1 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 8 van 16 
+De inschrijver heeft aantoonbare ervaring met de inzet van rijsimulatie en rijsimulatoren voor 
+hardware-, software- en human-in-the-loop-testen bij de ontwikkeling van safety cases voor de 
+certificering en/of verzekering van autonoom vervoer. 
+ 
+Kerncompetentie 2 
+De inschrijver heeft aantoonbare ervaring met het retrofitten van een lijnbus met off -the-shelf 
+autopilottechnologie.  
+ 
+Kerncompetentie 3 
+De inschrijver heeft aantoonbare ervaring met het ontwikkelen en integreren van autopilot software 
+op basis van Autoware (ROS2, C++) in voertuigen, waaronder 12-meter OV-bussen. 
+ 
+Kerncompetentie 4 
+Inschrijver beschikt over de rechten, waaronder de intellectuele, verkoop - en gebruiksrechten, op 
+de in te brengen technologie en de projectresultaten, zodat deze conform minimumeis 7 kunnen 
+worden overgedragen. 
+ 
+Als bewijsstukken voor de kerncompetenties 1, 2 en 3 dient de inschrijver een referentieproject in 
+te dienen via de Verklaring kerncompetenties (bijlage 1), met vermelding van de opdrachtgever en 
+de contactpersoon, evenals aanvullende informatie. Voor kerncompetentie 2 een link naar een 
+video met een demonstratie van autonoom rijden. Voor kerncompetentie 3 een link naar een 
+GitHub-repository. Voor kerncompetentie 4 dient de inschrijver een eigen verklaring (vrij format) in 
+te dienen. De links voor kerncompetentie 2 en 3 neemt de inschrijver op in bijlage 1.  
+ 
+Aandachtspunten 
+• De referenties moeten zijn uitgevoerd binnen drie jaar vóór de inschrijvingssluiting.  
+• Het is toegestaan dat de inschrijver één referentie gebruikt om meerdere competenties 
+aan te tonen. 
+• De opdrachtgever behoudt zich het recht voor om de juistheid van de referenties te 
+controleren. Indien bij een competentie meer dan 1 referentie wordt ingediend, wordt 
+alleen de eerste referentie beoordeeld. 
+ 
+Beroep op een derde 
+Inschrijver kan zich niet beroepen op de draagkracht van derden om aan de minimumeisen op het 
+gebied van de competenties te voldoen. 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 9 van 16 
+ 
+2.4 Minimumeisen 
+ 
+In onderstaande tabel zijn de minimumeisen beschreven waaraan het aanbod in ieder geval moet 
+voldoen. Opdrachtgever behoudt zich het recht voor om bewijsmiddelen te verlangen of een 
+proefopstelling te laten plaatsvinden om te verifiëren dat het aangebodene daadwerkelijk voldoet. 
+ 
+Nr. Omschrijving 
+1 Het realiseren en opleveren van een werkend prototype van de DATA LOOP waarin 
+Autoware is gekoppeld aan een bus-rijsimulator (Unity) met gesimuleerde camera-, 
+radar-, lidar-, positie- en oriëntatiedata. 
+2 Het ontwikkelen van een rijproceduremodule die, op basis van Nederlandse 
+rijprocedures voor bussen, het rijgedrag van buschauffeurs en de Autoware-autopilot 
+beoordeelt, vergelijkt met een human peer-referentiemodel en de data opslaat voor 
+evaluatie en validatie. 
+3 Het documenteren en verbeteren van de routeplanner van Autoware, zodat deze 
+volgens de rijprocedures voor bussen werkt en geschikt is voor een 12-meter bus. 
+4 Het uitwerken en demonstreren van shadow driving: verzamelen van sensordata tijdens 
+de dienstuitvoering, reconstructie van de rit in rijsimulatie en virtuele beoordeling van 
+Autoware, met inachtneming van de AVG. 
+5 Het ondersteunen van de opdrachtgever bij het opstellen van de safety cases en de 
+aanvragen bij de RDW, inclusief logregistratie, technische documentatie en menselijk 
+toezicht conform de EU AI Act. 
+6 Het ondersteunen van de experimenten van Qbuzz, waarbij minimaal 200 chauffeurs 
+als safety driver ervaring opdoen op het depot en de busbaan, zodra een verzekering is 
+afgegeven. 
+7 Het leveren van alle software als open source op basis van Autoware (ROS2, C++), 
+beheerd in een GitHub-repository, en het kunnen overdragen van alle rechten, 
+waaronder auteursrechten, op de te leveren diensten. 
+8 Het halfjaarlijks rapporteren over voortgang, resultaten en bestede uren en het leveren 
+van input voor de voortgangsrapportages en het eindverslag aan provincie Groningen, 
+inclusief medewerking aan audits. 
+9 Het beschikbaar stellen van een retrofit 12-meter OV-bus (lijnbus) met 
+autopilottechnologie voor de periode 1 maart 2027 tot en met 31 december 2027.  
+ 
+Op het moment van inschrijving kan de inschrijver volstaan met het ondertekenen van het UEA. 
+Door het ondertekenen van deze eigen verklaring geeft inschrijver aan dat hij voldoet aan al het 
+gestelde ten aanzien van de minimumeisen en dat inschrijver de eventueel verlangde 
+bewijsstukken/verklaringen op het eerste verzoek van opdrachtgever binnen 7 kalenderdagen kan 
+verstrekken.   
+2.5 Aansprakelijkheid 
+Inschrijver dient voor minimaal € 1.250.000,- per gebeurtenis per jaar verzekerd te zijn tegen 
+bedrijfsaansprakelijkheid. Inschrijver dient op eerste verzoek van de opdrachtgever binnen 7 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 10 van 16 
+kalenderdagen een bewijs hiervan over te leggen, waaruit de actualiteit van de looptijd van de 
+verzekering kan worden afgeleid. 
+ 
+Testen met de autopilottechnologie in een voertuig op het depot, de busbaan of de openbare weg 
+vindt uitsluitend plaats wanneer een geldige verzekering voor (autonoom) rijden met dat voertuig is 
+afgegeven. De voertuigverzekering is de verantwoordelijkheid van de eigenaar van het voertuig. 
+Voor de bus uit minimumeis 9 draagt de inschrijver zorg voor deze verzekering.  
+ 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 11 van 16 
+3. Gunningscriteria 
+ 
+Het gunningscriterium in deze aanbesteding is de beste prijs-kwaliteitverhouding. De uitwerking 
+van dit gunningscriterium en de wijze van beoordeling vindt u in de volgende paragrafen. In 
+onderstaande tabel zijn de te behalen punten voor de onderscheiden criteria voor gunning van de 
+opdracht opgenomen. Het criterium Kwaliteit (G2) bestaat uit vier subcriteria, G2.1 t/m G2.4, van 
+elk maximaal 12,5 punten. 
+ 
+Nr. Criteria Te behalen punten 
+G1 Prijs 50 
+G2 Kwaliteit 50 
+ Totaal 100 
+ 
+3.1 Prijs 
+U dient in TenderNed een totaalbedrag exclusief btw aan te leveren en het prijzenblad (bijlage 2) 
+te uploaden met een specificatie van de geboden diensten en het gehanteerde all-in uurtarief. In 
+het uurtarief moeten reis- en verblijfskosten worden meegerekend. Het maximale all-in uurtarief 
+bedraagt € 175,- exclusief btw; inschrijvingen met een hoger uurtarief worden niet geaccepteerd.  
+ 
+De score op het criterium prijs wordt berekend met de volgende formule: 
+ 
+Score = (laagste prijs / ingediende prijs) * maximale score 
+ 
+Het prijzenblad wordt bij ontvangst gescheiden van de rest van de offerte en wordt na de 
+kwalitatieve beoordeling weer toegevoegd om tot de uiteindelijke beoordeling van de offerte te 
+komen. 
+ 
+3.2 Kwaliteit 
+3.2.1 Beoordeling kwalitatieve gunningscriteria 
+Voor elk sub(sub)criterium geldt dat de beschrijving SMART moet zijn. Met SMART wordt bedoeld:  
+• Specifiek: de beschrijving dient eenduidig en duidelijk te zijn. 
+• Meetbaar: geef bij elke beschrijving duidelijk aan hoe wordt aangetoond dat aan het 
+gestelde is voldaan. 
+• Acceptabel: de aanpak dient acceptabel te zijn voor alle stakeholders. 
+• Realistisch: werk de beschrijving zo uit dat het voor het beoordelingsteam duidelijk is dat 
+het haalbaar is. 
+• Tijdsgebonden: geef aan wanneer (gedurende de looptijd van de overeenkomst) een 
+bewering of doelstelling kan worden gerealiseerd. 
+ 
+De uitwerking van de kwalitatieve gunningscriteria wordt, per subonderdeel, aan de hand van de 
+volgende tabel beoordeeld: 
+ 
+Cijfer/beoordeling Uitleg  
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 12 van 16 
+10/Zeer goed  Onderdeel getuigt integraal van optimale kennis en kunde, is zeer helder en 
+waar mogelijk SMART beschreven/weergegeven en roept daarmee geen 
+vragen op. Onderdeel biedt daarbij extra’s ten opzichte van de uitvraag die 
+getuigen van relevante kennis ter zake. 
+8/Goed Onderdeel wordt helder, waar mogelijk SMART en overtuigend omschreven 
+en biedt volledig comfort, waarbij de invulling is geborgd. De uitwerking 
+roept weinig vragen op over de invulling. 
+6/Voldoende Onderdeel biedt voldoende aanknopingspunten om vertrouwen te wekken 
+dat dit beheerst wordt of zal worden. De uitwerking is waar mogelijk 
+voldoende SMART, maar roept wel vragen op en wekt op sommige 
+onderdelen twijfels.  
+4/Matig Dit onderdeel biedt onvoldoende vertrouwen en roept vragen op over de 
+mate waarin dit wordt beheerst. De meerwaarde van de inschrijver is niet 
+zichtbaar.  
+2/Slecht Onderdeel mist iedere aansluiting bij de verwachtingen in deze materie. 
+Onderdeel biedt geen enkel vertrouwen en roept over de hele linie vragen 
+op over de mate waarin dit wordt beheerst.  
+0/Zeer slecht Niet of nauwelijks te beoordelen. Geen noemenswaardige inspanningen 
+verricht om ter zake duidelijk te maken waar men voor staat.  
+ 
+De score op het betreffende gunningscriterium wordt berekend middels de volgende formule:  
+Score = (behaalde cijfer / 10) * maximale score 
+ 
+Voorbeeld: 
+Behaalde cijfer: 8/Goed 
+Maximale score: 12,5 
+Formule: (8 / 10) * 12,5 = 10 
+ 
+3.2.2 Gunningscriterium G2.1: Prototype DATA LOOP 
+In maximaal 2 x A4 dient u onderstaande punten uit te werken. U dient hierbij de kaders uit par. 
+3.2.1 in acht te nemen. 
+ 
+Hoe realiseert u vóór het einde van de looptijd een werkend prototype van de DATA LOOP, waarin 
+Autoware en een bus-rijsimulator zijn gekoppeld en het rijgedrag van buschauffeurs en de 
+Autoware autopilot op basis van Nederlandse rijprocedures voor bussen wordt beoordeeld en 
+vergeleken? Benoem daarbij de mijlpalen, de wijze van testen en valideren.  
+ 
+3.2.3 Gunningscriterium G2.2: Certificering RDW en EU AI Act 
+In maximaal 2 x A4 dient u onderstaande punten uit te werken. U dient hierbij de kaders uit par. 
+3.2.1 in acht te nemen. 
+ 
+Hoe ondersteunt u opdrachtgever bij het opstellen van de safety cases en het indienen van de 
+aanvragen bij de RDW (Wet Aanpassing Motorrijtuigen en Prototyperegeling), en hoe borgt u de 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 13 van 16 
+traceerbaarheid van de autopilot (logregistratie, documentatie en menselijk toezicht) conform de 
+EU AI Act? Geef aan op welke termijn een aanvraag bij de RDW kan worden ingediend.  
+ 
+3.2.4 Gunningscriterium G2.3: Experimenten Qbuzz en shadow driving 
+In maximaal 2 x A4 dient u onderstaande punten uit te werken. U dient hierbij de kaders uit par. 
+3.2.1 in acht te nemen. 
+ 
+Hoe ondersteunt u Qbuzz zodat minimaal 200 chauffeurs als safety driver ervaring opdoen op het 
+depot en de busbaan zodra een verzekering is afgegeven, en hoe realiseert u shadow driving 
+tijdens dienstuitvoering, inclusief reconstructie in rijsimulatie, het referentiemodel van 
+buschauffeurs en de bescherming van persoonsgegevens? 
+ 
+3.2.5 Gunningscriterium G2.4: Open source, rechten en ondersteuning 
+In maximaal 2 x A4 dient u onderstaande punten uit te werken. U dient hierbij de kaders uit par. 
+3.2.1 in acht te nemen. 
+ 
+Hoe gaat u ons voorzien van open-source diensten vrij van rechten, hoe draagt u de rechten over 
+zodat de resultaten via Stichting DATA gratis beschikbaar komen voor alle ondernemingen in de 
+sector, en hoe ondersteunt u ons bij projectmanagement, rapportage, audits en demonstraties in 
+het AI Innovatielab en de COLUMBUSS learning community? 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 14 van 16 
+4. Beschrijving van de procedure 
+ 
+4.1 Type procedure 
+Het gaat hier om een Europese aanbesteding volgens de openbare procedure.  
+ 
+4.2 Gestanddoeningstermijn 
+Inschrijving dient tot 3 maanden na sluitingsdatum van de offertetermijn gestand te worden 
+gedaan, ook wanneer er tot definitieve gunning is overgegaan. Dit geldt ook voor inschrijvers aan 
+wie niet is gegund.  
+ 
+4.3 Inlichtingen 
+Opdrachtgever wijst iedere aansprakelijkheid voor schade als gevolg van onjuistheden of 
+onvolledigheden in de informatie zoals opgenomen in deze offerteaanvraag af. Inschrijvers worden 
+geacht zelf onderzoek te doen naar alle relevante omstandigheden betref fende de opdracht (onder 
+meer door het stellen van vragen in de ronde van de Nota van Inlichtingen).  
+ 
+4.4 Kostenvergoeding 
+Inschrijvers hebben geen recht op vergoeding van schade en/of kosten in verband met deze 
+aanbesteding. De door de inschrijver gemaakte kosten met betrekking tot deze procedure komen 
+geheel voor eigen rekening van de inschrijver.  
+ 
+4.5 Voorbehouden 
+Aanbestedende dienst behoudt zich het recht voor om het aanbestedingstraject tijdelijk of definitief 
+te stoppen of niet over te gaan tot opdrachtverlening. 
+ 
+Een voornemen tot gunning houdt geen aanvaarding in. Deze mededeling van de 
+gunningsbeslissing is onder nadrukkelijk voorbehoud van bestuurlijke goedkeuring. Een 
+voornemen tot gunning staat niet gelijk aan aanvaarding zoals bedoeld in artikel 6:217 lid 1 v an 
+het Burgerlijk Wetboek.  
+ 
+Aanbestedende dienst behoudt zich het recht voor om de inhoud van deze aanbesteding, inclusief 
+de planning, tot 10 dagen voor de datum bij ' Sluitingsdatum voor het indienen van inschrijvingen ', 
+aan te vullen en/of te wijzigen. 
+ 
+Aanbestedende dienst behoudt zich het recht voor om alle verstrekte gegevens op juistheid te 
+controleren. Mocht blijken dat er informatie ontbreekt, dan kan de aanbestedende dienst besluiten 
+dit alsnog op te vragen. Tevens is het recht om aanvullingen, verduidelijkingen of bewijsstukken bij 
+een inschrijving te vragen voorbehouden. Beantwoording hiervan dient binnen gestelde termijn te 
+gebeuren. Indien beantwoording te laat of onvolledig is, kan inschrijver worden uitgeslote n van 
+verdere deelname aan de procedure. Onjuiste informatie bij inschrijven kan ook uitsluiting tot 
+gevolg hebben. 
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 15 van 16 
+4.6 Klachten 
+(Potentiële) inschrijvers met een klacht of klachten betreffende (onderdelen van) de 
+aanbestedingsprocedure, kunnen een klacht indienen per e-mail naar info@robotTUNER.com. 
+Vermeld hierbij de volgende zaken: 
+• Naam en adresgegevens inschrijver of ingeschakelde brancheorganisatie;  
+• Aanduiding van de aanbesteding; 
+• Beschrijving en nadere onderbouwing van de klacht; 
+• Beschrijving van de wijze waarop het knelpunt volgens de inschrijver kan worden 
+opgelost. 
+Het klachtenmeldpunt neemt de klacht zo spoedig mogelijk in behandeling.  
+ 
+4.7 Onduidelijkheden 
+De aanbestedingsstukken en bijbehorende bijlagen zijn zorgvuldig opgesteld. Desondanks kunnen 
+er toch onduidelijkheden of onvolkomenheden in voorkomen. Van inschrijver wordt een proactieve 
+houding verwacht. Mocht inschrijver iets opmerken, dan wordt verwacht dat dit zo snel mogelijk 
+schriftelijk aan de aanbestedende dienst wordt gemeld, zodat deze onduidelijkheden nog kunnen 
+worden opgelost. Dit kan uiterlijk 1 kalenderdag vóór de Nota van Inlichtingen worden verzonden.  
+ 
+Na het verstrijken van de uiterste termijn waarbinnen de inschrijvingen moeten zijn ingediend, kan 
+de inschrijver geen bezwaar meer maken tegen onduidelijkheden. De aanbestedende dienst is op 
+geen enkele wijze aansprakelijk voor de gevolgen van eventuele onduidelijkheden of 
+onvolkomenheden in de aanbestedingsstukken; deze zijn voor risico van de inschrijver.  
+ 
+4.8 Rechtsgeldigheid 
+Alle door de inschrijver ingediende bijlagen en verklaringen zijn volledig ingevuld.  
+ 
+4.9 Gunningsbeslissing 
+Iedere inschrijver zal geïnformeerd worden over de redenen/motivering van de afwijzing.  
+ 
+4.10 Eénmaal inschrijven  
+Iedere onderneming mag maximaal één keer deelnemen aan de aanbestedingsprocedure. 
+Inschrijven als samenwerkingsverband is niet mogelijk. Onder onderneming wordt alleen verstaan 
+de inschrijvende rechtspersoon. 
+ 
+4.11 Beroep op een Derde 
+Een inschrijver kan zich niet beroepen op (een) derde(n) om aan de minimumeisen op het gebied 
+van de technische en/of beroepsbekwaamheid te voldoen. 
+ 
+4.12 Inschrijven conform het platform, bijlagen en standaardformulieren 
+Het aanbrengen van wijzigingen, dan wel aanvullingen, in de in uw account opgenomen en in te 
+leveren formats, tabellen en vragenlijsten, behalve de beantwoording van de vragen en de 
+formalisering van documenten, is niet toegestaan en kan leiden tot uitsluiting van verdere 
+deelname aan de aanbestedingsprocedure.  
+ 
+ 
+Offerteaanvraag Fieldlabs Autonoom Vervoer Fase 2 versie 1.0 16 van 16 
+Inschrijvingen waaraan één of meer voorwaarden zijn verbonden, kunnen als ongeldig worden 
+terzijde gelegd.
+
+=== Document: uea_621013_20261027143853 ===
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 1 van 30TN-621013 - 27 okt 2026
+Relevante aankondiging
+Nummer aankondiging in PB EU S 
+(alleen indien u beschikt over dit 
+nummer):
+-
+Vermeld, wanneer bekendmaking van 
+een aankondiging in het 
+Publicatieblad van de Europese Unie 
+niet is vereist, andere gegevens op 
+basis waarvan ondubbelzinnig kan 
+worden vastgesteld om welke 
+aanbestedingsprocedure het gaat 
+(bijvoorbeeld verwijzing naar een 
+bekendmaking op nationaal niveau):
+TenderNed-kenmerk: 621013
+Procedure
+Deze aanbesteding betreft een 
+procedure:
+Boven de Europese aanbestedingsdrempel
+Deel I: Gegevens over aanbestedingsprocedure en de 
+aanbestedende dienst of aanbestedende entiteit 
+(inclusief speciale-sectorbedrijven)
+Gegevens
+Identiteit van de aanbesteder: robotTUNER BV
+Om welke aanbesteding gaat het? 
+Wat is de titel van de aanbesteding?
+Fieldlabs Autonoom Vervoer Fase 2
+Korte beschrijving van de 
+aanbesteding:
+-
+Referentienummer van het dossier bij 
+de aanbestedende dienst of 
+aanbestedende entiteit (indien van 
+toepassing):
+757
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 2 van 30TN-621013 - 27 okt 2026
+Deel II: Gegevens met betrekking tot de ondernemer
+Deel II A: Gegevens van de ondernemer
+Identiﬁcatie
+Naam ondernemer:
+Btw-nummer:
+KVK-nummer:
+Vermeld indien er geen btw-nummer 
+of KVK-nummer van toepassing is, 
+een ander nationaal 
+identiﬁcatienummer, indien vereist en 
+toepasselijk:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Internetadres:
+Contactpersoon of -personen:
+Algemene informatie
+Is de ondernemer een micro-, kleine 
+ of middelgrote onderneming: [1]
+ Ja
+ Nee
+Wijze van deelneming
+Neemt de ondernemer samen met 
+anderen deel aan de 
+ aanbestedingsprocedure? [3]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u onderstaande velden verplicht invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 3 van 30TN-621013 - 27 okt 2026
+⚠ Zo ja, zorg ervoor dat de overige betrokkenen een afzonderlijk UEA-formulier indienen.
+a) Vermeld de rol van de ondernemer 
+binnen de combinatie (leider, 
+verantwoordelijk voor speciﬁeke 
+taken, enz.):
+b) Vermeld de identiteit van de 
+andere ondernemers die gezamenlijk 
+aan de aanbestedingsprocedure 
+deelnemen:
+c) Indien van toepassing, de naam 
+van de deelnemende combinatie:
+Percelen
+Vermeld het perceel/de percelen 
+waarop de ondernemer wil 
+inschrijven:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 4 van 30TN-621013 - 27 okt 2026
+Deel II B: Informatie over de vertegenwoordigers van de ondernemer
+Vermeld, indien van toepassing, naam/namen en adres/adressen van de persoon/personen die gemachtigd is/zijn om de 
+ondernemer bij deze aanbestedingsprocedure te vertegenwoordigen. [4]
+Vertegenwoordiger 1
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 5 van 30TN-621013 - 27 okt 2026
+Vertegenwoordiger 2
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 6 van 30TN-621013 - 27 okt 2026
+Vertegenwoordiger 3
+Volledige naam:
+Geboortedatum:
+Functie/optredend als:
+Adres:
+Adres (vervolg):
+Postcode / Plaats:
+Land:
+Telefoonnummer:
+E-mailadres:
+Vermeld zo nodig gedetailleerde 
+informatie over de 
+vertegenwoordiging (vorm, reikwijdte, 
+doel, enz.):
+Deel II C: Informatie over beroep op draagkracht van andere entiteiten
+Draagkracht kan betrekking hebben op ﬁnanciële en economische draagkracht, maar ook op bijvoorbeeld technische 
+bekwaamheid, beroepsbevoegdheid of het bezit van certiﬁcaten.
+Doet de ondernemer beroep op de 
+draagkracht van andere entiteiten 
+om te voldoen aan de selectiecriteria 
+en de (eventuele) criteria en regels?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 7 van 30TN-621013 - 27 okt 2026
+⚠ Zo ja, verstrek voor  van de betrokken entiteiten een afzonderlijk UEA-formulier met de informatie die wordt gevraagd elk
+in de . Dit formulier moet door de betrokken entiteiten naar behoren worden afdelingen A en B van dit deel en deel III
+ingevuld en ondertekend.
+Er zij op gewezen dat het daarbij ook gaat om niet rechtstreeks tot de onderneming van de ondernemer behorende 
+technici of technische organen, in het bijzonder die welke belast zijn met de kwaliteitscontrole en, in het geval van 
+overheidsopdrachten voor werken, de technici of technische organen die de ondernemer ter beschikking zullen staan om 
+de werkzaamheden uit te voeren. 
+Vermeld, voor zover dit relevant is voor de speciﬁeke draagkracht waarop de ondernemer steunt, voor elk van de 
+betrokken entiteiten de informatie.
+Vermeld de speciﬁeke draagkracht 
+waarop de ondernemer steunt voor 
+elk van de betrokken entiteiten:
+Deel II D: Informatie betreﬀende onderaannemers op wier draagkracht de 
+ondernemer geen beroep doet
+⚠ Gedeelte dat alleen moet worden ingevuld wanneer de aanbestedende dienst of aanbestedende entiteit  om deze expliciet
+gegevens vraagt.
+Is de ondernemer van plan een 
+gedeelte van de opdracht in 
+onderaanneming aan derden te 
+geven?
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, vul dan onderstaande veld in
+⚠ Vermeld de informatie die wordt gevraagd in de afdelingen A en B van dit deel en deel III voor elk van de (categorieën van) 
+betrokken onderaannemers indien de aanbestedende dienst of aanbestedende entiteit  om deze informatie expliciet
+vraagt naast de informatie in dit deel.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 8 van 30TN-621013 - 27 okt 2026
+Noem, voor zover bekend, de 
+onderaannemers die worden 
+voorgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 9 van 30TN-621013 - 27 okt 2026
+Deel III: Uitsluitingsgronden
+Deel III A: Gronden die verband houden met strafrechtelijke veroordelingen
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:  [5] [6]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Deelneming aan een criminele organisatie
+ 2. Omkoping
+ 3. Fraude
+ 4. Witwassen van geld of ﬁnanciering van terrorisme
+ 5. Terroristische misdrijven of strafbare feiten in verband met terroristische 
+activiteiten
+ 6. Kinderarbeid en andere vormen van mensenhandel
+Deelneming aan criminele organisatie
+Wetsverwijzing(en): Artikel 2.86, lid 2a Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om deelneming aan een criminele 
+organisatie veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 10 van 30TN-621013 - 27 okt 2026
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Omkoping
+Wetsverwijzing(en): Artikel 2.86, lid 2b Aanbestedingswet 2012
+Juridische beschrijving: Omkoping in de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie 
+waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de 
+Europese Unie betrokken zijn (PbEU 1997, C 195) en van artikel 2, eerste lid, van 
+Kaderbesluit 2003/568/JBZ van de Raad van 22 juli 2003.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 11 van 30TN-621013 - 27 okt 2026
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 12 van 30TN-621013 - 27 okt 2026
+Fraude
+Wetsverwijzing(en): Artikel 2.86, lid 2c Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om fraude veroordeeld bij onherroepelijk 
+vonnis, welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 13 van 30TN-621013 - 27 okt 2026
+Beschrijf de genomen maatregelen:
+Witwassen van geld of ﬁnanciering van terrorisme
+Wetsverwijzing(en): Artikel 2.86, lid 2d Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om witwassen van geld of ﬁnanciering van 
+terrorisme veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf jaar 
+geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds van 
+toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 14 van 30TN-621013 - 27 okt 2026
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+Wetsverwijzing(en): Artikel 2.86, lid 2e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om terroristische misdrijven of strafbare 
+feiten in verband met terroristische activiteiten veroordeeld bij onherroepelijk vonnis, 
+welk vonnis niet later dan vijf jaar geleden is gewezen of dat expliciet een 
+uitsluitingsperiode bevat die nog steeds van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 15 van 30TN-621013 - 27 okt 2026
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Kinderarbeid en andere vormen van mensenhandel
+Wetsverwijzing(en): Artikel 2.86, lid 2f Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zelf of iemand die lid is van het bestuurs-, leidinggevend of 
+toezichthoudend orgaan van de ondernemer of daarin vertegenwoordigings-, 
+beslissings- of controlebevoegdheid heeft, om kinderarbeid en andere vormen van 
+mensenhandel veroordeeld bij onherroepelijk vonnis, welk vonnis niet later dan vijf 
+jaar geleden is gewezen of dat expliciet een uitsluitingsperiode bevat die nog steeds 
+van toepassing is?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 16 van 30TN-621013 - 27 okt 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Vermeld datum vonnis, om welke 
+van de punten 1 tot en met 6 het gaat 
+en wat de grond(en) voor de 
+veroordeling is/zijn:
+Grond(en):
+b) Geef de identiteit van degene die is 
+veroordeeld:
+c) Voor zover expliciet in het vonnis 
+vastgesteld, duur van de 
+uitsluitingsperiode:
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Wanneer er sprake van 
+veroordelingen is, heeft de 
+ondernemer maatregelen genomen 
+om aan te tonen dat hij ondanks de 
+toepasselijke uitsluitingsgrond 
+betrouwbaar is (“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 17 van 30TN-621013 - 27 okt 2026
+Deel III B: Gronden met betrekking tot betalingen van belastingen en sociale 
+premies
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing:
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit indien 
+het een procedure onder de Europese 
+aanbestedingsdrempel of een 
+procedure van een speciale-
+sectorbedrijf betreft.
+ Geen
+ 1. Betaling van belastingen
+ 2. Betalingen van sociale premies
+Betaling van belastingen
+Wetsverwijzing(en): Artikel 2.86, lid 4 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 18 van 30TN-621013 - 27 okt 2026
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Betaling van sociale premies
+Wetsverwijzing(en): Artikel 2.86, lid 4 en 5 Aanbestedingswet 2012
+Artikel 2.87, lid 1 sub j Aanbestedingswet 2012
+Juridische beschrijving: De ondernemer heeft voldaan aan al zijn verplichtingen met betrekking tot de 
+betaling van belastingen of sociale premies, zowel in het land waar hij is gevestigd als 
+in de lidstaat van de aanbestedende dienst of aanbestedende entiteit indien dit een 
+ander land is dan het land van vestiging.
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 19 van 30TN-621013 - 27 okt 2026
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u onderstaande velden verplicht 
+invullen.
+a) Betrokken land of lidstaat:
+b) Om welk bedrag gaat het?
+c) Hoe is vastgesteld dat deze 
+verplichtingen niet zijn nagekomen:
+1. Door middel van een rechterlijke of 
+administratieve beslissing
+ Ja
+ Nee
+- Is deze beslissing onherroepelijk en 
+bindend?
+ Ja
+ Nee
+- Vermeld de datum van het vonnis of 
+de beslissing:
+- In geval van een vonnis: vermeld de 
+duur van de uitsluiting voor zover die 
+daarin expliciet is vastgesteld:
+ Met andere middelen? Vermeld:2.
+d) Is de ondernemer zijn 
+verplichtingen nagekomen door de 
+verschuldigde belastingen, met 
+inbegrip van lopende rente of boetes 
+indien toepasselijk, te betalen of een 
+bindende regeling tot betaling 
+daarvan aan te gaan?
+ Ja
+ Nee
+Beschrijf wijze nakoming of bindende 
+regeling:
+Internetadres:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 20 van 30TN-621013 - 27 okt 2026
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Deel III C: Gronden met betrekking tot insolventie, belangenconﬂicten of 
+beroepsfouten
+Bij deze aanbestedingsprocedure zijn de volgende uitsluitingsgronden van toepassing: [8]
+Aan te kruisen door aanbestedende 
+dienst, aanbestedende entiteit. Deze 
+gronden zijn facultatief zowel boven 
+als onder de Europese 
+aanbestedingsdrempel.
+ Geen
+ 1. Schending verplichtingen o.b.v. milieu-, sociaal- of arbeidsrecht
+ 2. Faillissement, insolventie of gelijksoortig
+ 3. Ernstige beroepsfout
+ 4. Vervalsing van de mededinging
+ 5. Belangenconﬂict
+ 6. Betrokken bij de voorbereiding
+ 7. Prestaties uit het verleden
+ 8. Valse verklaring
+ 9. Onrechtmatige beïnvloeding
+Schending verplichtingen o.b.v. milieu-, sociaal of arbeidsrecht
+Wetsverwijzing(en): Artikel 2.87, lid 1a Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer, voor zover hij weet, zijn verplichtingen op het gebied van het 
+milieu-, sociaal of arbeidsrecht geschonden?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 21 van 30TN-621013 - 27 okt 2026
+Beschrijf de genomen maatregelen:
+Faillissement, insolventie of gelijksoortig
+Wetsverwijzing(en): Artikel 2.87, lid 1b Aanbestedingswet 2012
+Juridische beschrijving: Is op de ondernemer een van de volgende situaties van toepassing: hij is failliet, of hij 
+verkeert in insolventie of liquidatie, of hij heeft een regeling met schuldeisers 
+getroﬀen, of hij verkeert in een andere, vergelijkbare toestand ingevolge een 
+soortgelijke procedure uit hoofde van nationale wet- of regelgeving, of zijn activa 
+worden beheerd door een curator of door de rechtbank, of zijn bedrijfsactiviteiten 
+zijn gestaakt?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 22 van 30TN-621013 - 27 okt 2026
+⚠ Vermeld, indien de relevante stukken elektronisch beschikbaar zijn:
+Internetadres:
+Afgevende entiteit:
+Precieze referentienummers van de 
+stukken:
+Ernstige beroepsfout
+Wetsverwijzing(en): Artikel 2.87, lid 1c Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer zich schuldig gemaakt aan ernstige beroepsfouten?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 23 van 30TN-621013 - 27 okt 2026
+Beschrijf de genomen maatregelen:
+Vervalsing van de mededinging
+Wetsverwijzing(en): Artikel 2.87, lid 1d Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer met andere ondernemers overeenkomsten gesloten die gericht 
+zijn op vervalsing van de mededinging?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 24 van 30TN-621013 - 27 okt 2026
+Beschrijf de genomen maatregelen:
+Belangenconﬂict
+Wetsverwijzing(en): Artikel 2.87, lid 1e Aanbestedingswet 2012
+Juridische beschrijving: Is de ondernemer zich bewust van enig belangenconﬂict als gevolg van zijn 
+deelneming aan de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 25 van 30TN-621013 - 27 okt 2026
+Betrokken bij de voorbereiding
+Wetsverwijzing(en): Artikel 2.87, lid 1f Aanbestedingswet 2012
+Juridische beschrijving: Heeft de ondernemer of een met de ondernemer verbonden onderneming de 
+aanbestedende dienst of aanbestedende entiteit geadviseerd of is de ondernemer of 
+een met hem verbonden onderneming anderszins betrokken geweest bij de 
+voorbereiding van de aanbestedingsprocedure?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Prestaties uit het verleden
+Wetsverwijzing(en): Artikel 2.87, lid 1g Aanbestedingswet 2012
+Juridische beschrijving: Is het de ondernemer overkomen dat een eerdere overheidsopdracht, een eerdere 
+opdracht van een aanbestedende entiteit of een eerdere concessieovereenkomst 
+heeft geleid tot vroegtijdige beëindiging, tot schadevergoeding of tot andere 
+vergelijkbare sancties?
+Kunt u bevestigen dat de uitsluitingsgrond niet op u van toepassing is?
+Bevestigen:  Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Nee' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 26 van 30TN-621013 - 27 okt 2026
+⚠ Deze informatie hoeft niet te worden verstrekt indien de uitsluiting van ondernemers in een van de in de juridische 
+beschrijving genoemde gevallen krachtens het toepasselijke nationale recht verplicht is zonder enige mogelijkheid tot 
+afwijking wanneer de ondernemer desondanks in staat is de opdracht uit te voeren.
+Omschrijf dit nader:
+Heeft de ondernemer maatregelen 
+genomen om aan te tonen dat hij 
+ondanks de toepasselijkheid van deze 
+uitsluitingsgrond betrouwbaar is 
+(“Self-Cleaning”)? [7]
+ Ja
+ Nee
+⚠ Indien u de vorige vraag met 'Ja' hebt beantwoord, dan moet u het onderstaande veld verplicht 
+invullen.
+Beschrijf de genomen maatregelen:
+Valse verklaring
+Wetsverwijzing(en): Artikel 2.87, lid 1h Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij zich niet in ernstige mate schuldig heeft 
+gemaakt aan valse verklaringen bij het verstrekken van de informatie die nodig is om 
+te controleren of er geen gronden voor uitsluiting zijn dan wel of aan de 
+selectiecriteria wordt voldaan, hij dergelijke informatie niet heeft achtergehouden, hij 
+de door de aanbestedende dienst of aanbestedende entiteit gevraagde 
+ondersteunende documenten onverwijld heeft kunnen overleggen.
+Bevestigen:  Ja
+ Nee
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 27 van 30TN-621013 - 27 okt 2026
+a.  
+b.  
+Onrechtmatige beïnvloeding
+Wetsverwijzing(en): Artikel 2.87, lid 1i Aanbestedingswet 2012
+Juridische beschrijving: Kan de ondernemer bevestigen dat: hij niet heeft getracht het besluitvormingsproces 
+van de aanbestedende dienst of aanbestedende entiteit onrechtmatig te beïnvloeden,
+om vertrouwelijke informatie te verkrijgen die hem onrechtmatige voordelen in de 
+aanbestedingsprocedure kan bezorgen, of om verwijtbaar misleidende informatie te 
+verstrekken die een belangrijke invloed kan hebben op besluiten inzake uitsluiting, 
+selectie of gunning?
+Bevestigen:  Ja
+ Nee
+Deel IV: Selectiecriteria
+Algemene aanwijzing voor alle selectiecriteria
+Bedoeld worden geschiktheidseisen zoals vermeld in de Aanbestedingswet 2012.
+⚠ De ondernemer hoeft uitsluitend informatie te verstrekken wanneer de betreﬀende selectiecriteria door de aanbestedende 
+dienst of aanbestedende entiteit in de betreﬀende aankondiging of in de in die aankondiging bedoelde 
+aanbestedingsstukken zijn voorgeschreven.
+De ondernemer verklaart met 
+betrekking tot de selectiecriteria dat, 
+hij voldoet aan de voorgeschreven 
+selectiecriteria.
+ Ja
+ Nee
+Deel VI: Slotopmerkingen
+Ondergetekende(n) verklaart/verklaren formeel dat de door hem/haar/hen hiervoor in de delen II–V verstrekte informatie 
+accuraat en correct is en dat hij/zij zich volledig bewust is/zijn van de consequenties van het aﬂeggen van een valse 
+verklaring.
+Ondergetekende(n) verklaart/verklaren formeel desgevraagd en onverwijld de hiervoor bedoelde certiﬁcaten en andere 
+vormen van bewijsstukken te kunnen overleggen, tenzij:
+de aanbestedende dienst of instantie de betrokken ondersteunende documenten rechtstreeks kan verkrijgen door 
+raadpleging in een lidstaat van een gratis toegankelijke nationale databank of [9]
+de aanbestedende dienst of instantie met ingang van uiterlijk 18 oktober 2018 reeds over de betrokken informatie 
+beschikt. [10]
+Ondergetekende(n) stemt/stemmen er formeel mee in dat de aanbestedende dienst of aanbestedende entiteit bedoeld in 
+deel I, afdeling A toegang krijgt tot stukken tot staving van de informatie die is verstrekt in dit Uniform Europees 
+Aanbestedingsdocument met het oog op de onderhavige aanbestedingsprocedure.
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 28 van 30TN-621013 - 27 okt 2026
+⚠ Datum, plaats en, indien vereist of noodzakelijk, handtekening(en):
+Ondergetekende 1
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Ondergetekende 2
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 29 van 30TN-621013 - 27 okt 2026
+Ondergetekende 3
+Naam:
+Functie:
+Plaats:
+Datum:
+Handtekening:
+Uniform Europees Aanbestedingsdocument (UEA)
+Pagina 30 van 30TN-621013 - 27 okt 2026
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+Toelichtingen:
+[1] In de zin van de aanbeveling van de Commissie van 6 mei 2003 betreﬀende de deﬁnitie van micro-, kleine en 
+middelgrote ondernemingen (PB L 124 van 20.5.2003, blz. 36). Deze informatie is uitsluitend vereist voor statistische 
+doeleinden. Micro-ondernemingen: een onderneming met minder dan 10 werknemers en met een jaaromzet en/of 
+jaarlijks balanstotaal van niet meer dan 2 miljoen euro. Kleine ondernemingen: een onderneming met minder dan 50 
+werknemers en met een jaaromzet en/of jaarlijks balanstotaal van niet meer dan 10 miljoen euro; middelgrote 
+ondernemingen, ondernemingen die micro noch klein zijn en met minder dan 250 personen werknemers en een 
+jaaromzet van niet meer dan 50 miljoen euro en/of een jaarlijks balanstotaal van niet meer dan 43 miljoen euro.
+[2] Zoals bedoeld in artikel 2.82 Aanbestedingswet 2012.
+[3] Met name als deel van een combinatie, consortium, joint venture, enz.
+[4] Alleen nodig indien afgeweken wordt van de vertegenwoordigingsbevoegdheid zoals opgenomen in het KVK 
+Handelsregister.
+[5] Gronden in verband met strafrechtelijke veroordelingen krachtens nationale bepalingen waarbij de in artikel 57, lid 1, 
+van de richtlijn vermelde gronden worden omgezet.
+[6] Artikel 57, lid 1, van Richtlijn 2014/24/EU vermeldt de volgende uitsluitingsgronden:
+Deelneming aan een criminele organisatie
+In de zin van artikel 2 van Kaderbesluit 2008/841/JBZ van de Raad van 24 oktober 2008 ter bestrijding van 
+georganiseerde criminaliteit (PB L 300 van 11.11.2008, blz. 42).
+Omkoping
+In de zin van artikel 3 van de Overeenkomst ter bestrijding van corruptie waarbij ambtenaren van de Europese 
+Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn (PB C 195 van 25.6.1997, blz. 1) en 
+artikel 2, lid 1, van Kaderbesluit 2003/568/JBZ van 22 juli 2003 inzake de bestrijding van corruptie in de 
+privésector (PB L 192 van 31.7.2003, blz. 54). Deze uitsluitingsgrond omvat ook corruptie in de zin van de 
+nationale wetgeving van de aanbestedende dienst (aanbestedende entiteit) of de ondernemer.
+Fraude
+In de zin van artikel 1 van de Overeenkomst aangaande de bescherming van de ﬁnanciële belangen van de 
+Europese Gemeenschappen (PB C 316 van 27.11.1995, blz. 48).
+Witwassen van geld of ﬁnanciering van terrorisme
+In de zin van artikel 1 van Richtlijn 2005/60/EG van het Europees Parlement en de Raad van 26 oktober 2005 
+tot voorkoming van het gebruik van het ﬁnanciële stelsel voor het witwassen van geld en de ﬁnanciering van 
+terrorisme (PB L 309 van 25.11.2005, blz. 15).
+Terroristische misdrijven of strafbare feiten in verband met terroristische activiteiten
+In de zin van de artikelen 1 en 3 van Kaderbesluit 2002/475/JBZ van de Raad van 13 juni 2002 inzake 
+terrorismebestrijding (PB L 164 van 22.6.2002, blz. 3). Deze uitsluitingsgrond omvat ook uitlokking van, 
+medeplichtigheid aan of poging tot het plegen van een strafbaar feit als bedoeld in artikel 4 van genoemd 
+kaderbesluit.
+Kinderarbeid en andere vormen van mensenhandel
+In de zin van artikel 2 van Richtlijn 2011/36/EU van het Europees Parlement en de Raad van 5 april 2011 inzake de 
+voorkoming en bestrijding van mensenhandel en de bescherming van slachtoﬀers daarvan, en ter vervanging van 
+Kaderbesluit 2002/629/JBZ van de Raad (PB L 101 van 15.4.2011, blz. 1).
+[7] Overeenkomstig nationale bepalingen ter omzetting van artikel 57, lid 6, van Richtlijn 2014/24/EU.
+[8] Er zij op gewezen dat in het kader van deze aanbesteding sommige van de volgende uitsluitingsgronden preciezer 
+omschreven kunnen zijn in de nationale wetgeving, de betreﬀende aankondiging of de aanbestedingsstukken. De 
+nationale wetgeving kan bijvoorbeeld bepalen dat het begrip “ernstige beroepsfout” verschillende gedragingen kan 
+omvatten.
+[9] Op voorwaarde dat de ondernemer de noodzakelijke informatie heeft verstrekt (internetadres, afgevende entiteit, 
+precieze referentienummers van de stukken) waardoor de aanbestedende dienst of aanbestedende instantie daartoe 
+in staat wordt gesteld. Indien voorgeschreven, moet dit vergezeld gaan van de betreﬀende instemming met een 
+dergelijke raadpleging.
+[10] Afhankelijk van de nationale uitvoering van artikel 59, lid 5, tweede alinea van Richtlijn 2014/24/EU.
+
+=== Document: bijlage 1 - verklaring kerncompetenties fase 2 ===
+Bijlage  1: Verklaring kerncompetenties – Fieldlabs Autonoom Vervoer  Fase 2 Kerncompetentie U dient gebruik te maken van onderstaand model voor referenties (per referentie 1 model). Gegevens opdrachtgever 1. Naam opdrachtgever Adres Postcode en plaatsnaam 2. Naam contactpersoon opdrachtgever Functie Telefoonnummer Projectgegevens 3. Projectduur Datum start project Datum eind project Reden beëindiging 4. Omschrijving referentieproject en relatie met de kerncompetentie Link naar video (kerncompetentie 2) of GitHub-repository (kerncompetentie 3)
+
+=== Document: tn621013 - ef16 aankondiging van een opdracht - algemene richtlijn, standaardregeling 20261102143903 ===
+Publicatie
+Pagina 1 van 5TN-621013 - 2 nov 2026
+1. Koper
+1.1 Koper
+Oﬃciële naam:  robotTUNER BV
+Rechtsvorm van de koper
+:  Organisatie die een door een aanbestedende dienst gesubsidieerde opdracht gunt
+Activiteit van de 
+aanbestedende dienst:  Algemene overheidsdiensten
+2. Procedure
+2.1 Procedure
+Titel:  Fieldlabs Autonoom Vervoer Fase 2
+Beschrijving: 
+De opdracht omvat het leveren van diensten met betrekking tot autonoom busvervoer. 1) 
+Realisatie van een prototype DATA LOOP. 2) Experimenteren met autonoom rijden op het depot 
+en busbaan van 1 maart 2027 tot 31 december 2027. 3) Certiﬁcering en verzekering voor testen 
+op het depot van Qbuzz en de busbaan.
+Identiﬁcatiecode van de 
+procedure:  328f0e54-1b25-48ec-a3fd-d322374b442c
+Interne identiﬁcatiecode:  757-2
+Type procedure:  Openbaar
+De procedure wordt 
+versneld:  neen
+2.1.1 Doel
+Aard van het contract:  Diensten
+Belangrijkste classiﬁcatie 
+(cpv):  73300000 Planning en uitvoering van onderzoek en ontwikkeling
+2.1.2 Plaats van uitvoering
+Land:  Nederland
+Overal in het desbetreﬀende land
+Aanvullende informatie:  Groningen
+2.1.4 Algemene informatie
+Rechtsgrondslag:
+Richtlijn 2014/24/EU
+2.1.6 Gronden voor uitsluiting
+Bronnen voor 
+uitsluitingsgronden:  Uniform Europees Aanbestedingsdocument (UEA)
+5. Perceel
+5.1 Technische ID van het kavel: LOT-0000
+Titel:  Fieldlab Fase 2
+Beschrijving: 
+De opdracht omvat het leveren van diensten met betrekking tot autonoom busvervoer. 1) 
+Realisatie van een prototype DATA LOOP. 2) Experimenteren met autonoom rijden op het depot 
+en busbaan van 1 maart 2027 tot 31 december 2027. 3) Certiﬁcering en verzekering voor testen 
+op het depot van Qbuzz en de busbaan. De opdracht is beschreven in het document 
+Oﬀerteaanvraag Fieldlabs Autonoom Vervoer Fase 2.
+Interne identiﬁcatiecode:  1
+5.1.1 Doel
+Aard van het contract:  Diensten
+Belangrijkste classiﬁcatie 
+(cpv):  73300000 Planning en uitvoering van onderzoek en ontwikkeling
+5.1.2 Plaats van uitvoering
+Publicatie
+Pagina 2 van 5TN-621013 - 2 nov 2026
+Land:  Nederland
+Overal in het desbetreﬀende land
+Aanvullende informatie:  Groningen
+5.1.3 Geraamde duur
+Begindatum:  04/02/2027
+Einddatum van de duur:  31/01/2028
+5.1.6 Algemene informatie
+Voorbehouden deelname
+:  Deelname is niet voorbehouden.
+De namen en 
+beroepskwaliﬁcaties van 
+het voor de uitvoering 
+van de opdracht 
+ingezette personeel 
+moeten worden vermeld
+: 
+Niet vereist
+Aanbestedingsproject dat niet uit EU-fondsen wordt geﬁnancierd
+De aanbesteding valt 
+onder de Overeenkomst 
+inzake 
+overheidsopdrachten 
+(GPA): 
+neen
+5.1.7 Strategische aanbestedingen
+Doel van strategische 
+aanbestedingen:  Geen strategische aanbesteding
+5.1.9 Selectiecriteria
+Bronnen van 
+selectiecriteria:  Uniform Europees Aanbestedingsdocument (UEA)
+5.1.10 Gunningscriteria
+Criterium:
+Type:  Prijs
+Naam:  Prijs
+Beschrijving:  Voor de uitvoering van de gevraagde diensten vraagt robotTUNER BV prijsopgave.
+Categorie van het 
+gunningscriterium 
+drempel: 
+Gewicht (punten, exact)
+Gunningscriterium 
+numerieke waarde:  50
+Criterium:
+Type:  Kwaliteit
+Naam:  Kwaliteit
+Beschrijving: 
+Voor elk (sub)criterium geldt dat de beschrijving SMART uitgewerkt dient te zijn. Met SMART 
+wordt bedoeld: • Speciﬁek: beschrijving dient eenduidig en duidelijk te zijn. • Meetbaar: geef bij 
+elke beschrijving duidelijk aan hoe wordt aangetoond dat is voldaan aan het gestelde. • 
+Acceptabel: de aanpak dient acceptabel te zijn voor alle stakeholders. • Realistisch: werk de 
+beschrijving zo uit dat het voor het beoordelingsteam helder is dat het haalbaar is. • 
+Tijdsgebonden: geef aan wanneer (gedurende de looptijd van de overeenkomst) een bewering
+/doelstelling gerealiseerd kan zijn.
+Categorie van het 
+gunningscriterium Gewicht (punten, exact)
+Publicatie
+Pagina 3 van 5TN-621013 - 2 nov 2026
+drempel: 
+Gunningscriterium 
+numerieke waarde:  50
+5.1.11 Aanbestedingsstukken
+Termijn voor verzoeken 
+om aanvullende 
+informatie: 
+01/12/2026 15:30 +01:00
+Adres van de 
+aanbestedingsstukken:  https://www.tenderned.nl/aankondigingen/overzicht/447433
+5.1.12 Voorwaarden van de aanbesteding
+Voorwaarden voor indiening:
+Elektronische indiening:  Vereist
+Adres voor indiening:  https://www.tenderned.nl/aankondigingen/overzicht/447433
+Talen waarin 
+inschrijvingen of 
+verzoeken tot deelname 
+kunnen worden 
+ingediend: 
+Nederlands
+Elektronische catalogus:  Niet toegestaan
+Varianten:  Niet toegestaan
+Beschrijving van de 
+ﬁnanciële garantie:  Overdracht rechten-Retroﬁt bus
+Uiterste datum voor de 
+ontvangst van 
+inschrijvingen: 
+14/12/2026 15:30 +01:00
+Uiterste datum tot 
+wanneer de inschrijving 
+geldig moet blijven: 
+3 Maand
+Informatie over de openbare opening:
+Openingsdatum:  14/12/2026 15:30 +01:00
+Voorwaarden van het contract:
+De uitvoering van de 
+opdracht moet 
+plaatsvinden binnen het 
+kader van programma’s 
+voor maatwerkbedrijven
+: 
+Neen
+Elektronische facturering
+:  Toegestaan
+Er zal worden 
+gebruikgemaakt van 
+elektronische 
+orderplaatsing: 
+neen
+Er zal worden 
+gebruikgemaakt van 
+elektronische betaling: 
+neen
+5.1.15 Technieken
+Raamovereenkomst:
+Geen raamovereenkomst
+Informatie over het dynamische aankoopsysteem:
+Geen dynamisch aankoopsysteem
+Publicatie
+Pagina 4 van 5TN-621013 - 2 nov 2026
+5.1.16 Nadere inlichtingen, bemiddeling en evaluatie
+Organisatie voor 
+beroepsprocedures:  robotTUNER BV - J.R. Kuipers
+Organisatie die nadere 
+inlichtingen over de 
+aanbestedingsprocedure 
+verstrekt: 
+robotTUNER BV
+Organisatie die meer 
+informatie geeft over 
+beroepsprocedures: 
+robotTUNER BV
+Organisatie die 
+verzoeken tot deelname 
+ontvangt: 
+robotTUNER BV
+8. Organisaties
+8.1 ORG-0001
+Oﬃciële naam:  robotTUNER BV
+Registratienummer:  712195442
+Postadres:  Anna van Hoëvellstraat 12  
+Stad:  WAGENINGEN
+Postcode:  6707 DD
+Onderverdeling land 
+(NUTS):  Veluwe (NL221)
+Land:  Nederland
+Contactpunt:  Jorrit Kuipers
+E-mail:  info@robottuner.com
+Telefoon:  +31 653946943
+Internetadres:  https://www.robottuner.com/
+Kopersproﬁel:  https://www.robottuner.com/
+Andere contactpunten:
+Oﬃciële naam:  J.R. Kuipers
+Postadres:  Anna van Hoëvellstraat 12  
+Stad:  WAGENINGEN
+Postcode:  6702 DD
+Onderverdeling land 
+(NUTS):  Veluwe (NL221)
+Land:  Nederland
+E-mail:  info@robottuner.com
+Telefoon:  +31 653946943
+Internetadres:  http://www.robottuner.com
+Rollen van deze organisatie:
+Koper
+Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt
+Organisatie die verzoeken tot deelname ontvangt
+Organisatie voor beroepsprocedures
+Organisatie die meer informatie geeft over beroepsprocedures
+Informatie over een aankondiging
+Identiﬁcatiecode/versie 
+van de aankondiging:  01e54235-0a5f-4f3e-9e92-b671949d6f68 - 01
+Publicatie
+Pagina 5 van 5TN-621013 - 2 nov 2026
+Type formulier:  Mededinging
+Type aankondiging:  Aankondiging van een opdracht of concessie – standaardregeling
+Verzenddatum van de 
+aankondiging:  02/11/2026 14:39 +01:00
+Talen waarin deze 
+aankondiging oﬃcieel 
+beschikbaar is: 
+Nederlands
