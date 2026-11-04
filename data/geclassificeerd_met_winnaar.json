@@ -1,5 +1,64 @@
 [
   {
+    "id": "447521",
+    "tenderned_kenmerk": "621954",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": true,
+    "europees": true,
+    "titel": "Trainingsprogramma 'Digitalisation of governments'",
+    "omschrijving": "Het Shiraka programma bestaat onder andere uit een trainingscomponent, het Shiraka Training Programma (STP). Nederland heeft het doel om ambtenaren en werknemers van semipublieke organisaties uit de MENA regio (in ieder geval: Algerije, Egypte, Irak, Jemen, Jordanië, Libanon, Libië, Marokko, Oman, Palestijnse Gebieden, Syrië en Tunesië) uit te nodigen om een training te volgen. Door de keuze van de onderwerpen voor de training draagt deze bij aan een samenleving die culturele en religieuze verschillen accepteert, rechtsstaatontwikkeling en de opbouw van een economische infrastructuur in deze landen. Een ander belangrijk doel is het creëren van netwerken door de deelnemers in Nederland en de regio samen te brengen. Het programma beoogt tevens de bilaterale betrekkingen tussen Nederlandse vakdepartementen en hun collega's in hun respectievelijke landen te versterken en te verbeteren.",
+    "aanbestedende_dienst": "Ministerie van Economische Zaken",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-11-04",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2026-12-14T11:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/447521",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/447521",
+    "documenten_geladen": true,
+    "classificatie": {
+      "teams": [],
+      "thema": "Internationaal & EU-fondsen",
+      "thema_betrouwbaarheid": 0.7,
+      "subthema": "Training overheidsdigitalisering MENA-regio",
+      "methodiek": "Onduidelijk / niet gespecificeerd",
+      "methodiek_betrouwbaarheid": 0.8,
+      "methodiek_kwantitatief": false,
+      "skills": [
+        "Interviews / kwalitatief"
+      ],
+      "skills_betrouwbaarheid": 0.4,
+      "evaluatiefase": "Onduidelijk",
+      "evaluatiefase_betrouwbaarheid": 0.8,
+      "databronnen": [
+        "Geen specifieke databron vermeld"
+      ],
+      "databronnen_betrouwbaarheid": 0.7,
+      "opdrachtgrootte": "Groot",
+      "opdrachtgrootte_betrouwbaarheid": 0.5,
+      "gunningscriterium": "Beste prijs-kwaliteitverhouding (BPKV)",
+      "looptijd_maanden": null,
+      "causaliteitsvraag": false,
+      "herhalingskans": "laag",
+      "consortiumkans": false,
+      "toelichting": "Uitvoeringsopdracht voor trainingsprogramma (raamovereenkomst), geen onderzoek of evaluatie. Gunning op kwaliteit en prijs (wensen met punten).",
+      "betrouwbaarheid": 0.77
+    }
+  },
+  {
     "id": "447433",
     "tenderned_kenmerk": "621013",
     "bron": "tenderned",
@@ -3056,7 +3115,7 @@
     "id": "433018",
     "tenderned_kenmerk": "601386",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -3074,7 +3133,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-07-14",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-11-04",
     "sluitingsdatum": "2026-09-03T13:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -3109,7 +3168,8 @@
       "consortiumkans": false,
       "toelichting": "Bestektekst sociale verplichting omgevingsplanwijziging; monitoring SR-doelgroepplaatsing werkmaatschappijen",
       "betrouwbaarheid": 0.4
-    }
+    },
+    "gunning_publicatie_id": "447456"
   },
   {
     "id": "432808",
@@ -7513,7 +7573,7 @@
     "id": "414246",
     "tenderned_kenmerk": "574584",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -7571,7 +7631,8 @@
       "toelichting": "Strategisch mobiliteitsadvies en verkeersonderzoek voor gemeente Land Cuijk.",
       "betrouwbaarheid": 0.65
     },
-    "gunningsdatum": ""
+    "gunningsdatum": "2026-11-04",
+    "gunning_publicatie_id": "447612"
   },
   {
     "id": "414144",
