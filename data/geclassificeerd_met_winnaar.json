@@ -1,5 +1,67 @@
 [
   {
+    "id": "447877",
+    "tenderned_kenmerk": "622503",
+    "bron": "tenderned",
+    "publicatie_type": "lopend",
+    "type_publicatie_code": "AAO",
+    "type_publicatie_omschrijving": "Aankondiging opdracht",
+    "publicatiecode_code": "EF16",
+    "publicatiecode_omschrijving": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+    "publicatiestatus": "PUB",
+    "is_vroegtijdige_beeindiging": false,
+    "is_eforms_wijziging": false,
+    "digitaal": true,
+    "europees": true,
+    "titel": "Peil.Rekenen-Wiskunde v(s)o 2028-2029",
+    "omschrijving": "In deze aanbesteding kunnen inschrijvers een inschrijving indienen voor het uitvoeren van het peilingsonderzoek Peil.Rekenen-Wiskunde v(s)o 2028-2029. Deze aanbesteding heeft als doel om op stelselniveau een betrouwbaar en valide beeld te geven van de studentprestaties op het leergebied van rekenen-wiskunde in het voortgezet (speciaal) onderwijs. NWO zoekt één partij die het meest geschikt is om de opdracht te voeren. Zie voor meer informatie het Beschrijvend document en de bijlagen behorende bij deze aanbesteding.",
+    "aanbestedende_dienst": "NWO",
+    "type_opdracht_code": "D",
+    "type_opdracht_omschrijving": "Diensten",
+    "procedure_type": "Openbaar",
+    "procedure_code": "OPE",
+    "publicatiedatum": "2026-11-05",
+    "gunningsdatum": "",
+    "sluitingsdatum": "2027-01-27T11:00:00",
+    "gunningswaarde": null,
+    "winnaar": "",
+    "cpv_codes": [],
+    "url": "https://www.tenderned.nl/aankondigingen/overzicht/447877",
+    "tsender_link": "https://www.tenderned.nl/aankondigingen/overzicht/447877",
+    "documenten_geladen": true,
+    "classificatie": {
+      "teams": [
+        "Evaluaties"
+      ],
+      "thema": "Onderwijs & talentontwikkeling",
+      "thema_betrouwbaarheid": 0.95,
+      "subthema": "Peilingsonderzoek rekenen-wiskunde voortgezet onderwijs",
+      "methodiek": "Statistisch / econometrisch",
+      "methodiek_betrouwbaarheid": 0.5,
+      "methodiek_kwantitatief": true,
+      "skills": [
+        "Survey / enquête",
+        "Econometrie"
+      ],
+      "skills_betrouwbaarheid": 0.5,
+      "evaluatiefase": "Monitor / periodieke meting",
+      "evaluatiefase_betrouwbaarheid": 0.8,
+      "databronnen": [
+        "Eigen survey / enquête"
+      ],
+      "databronnen_betrouwbaarheid": 0.6,
+      "opdrachtgrootte": "Groot (> €200k)",
+      "opdrachtgrootte_betrouwbaarheid": 0.5,
+      "gunningscriterium": "Beste prijs-kwaliteitverhouding (BPKV)",
+      "looptijd_maanden": null,
+      "causaliteitsvraag": false,
+      "herhalingskans": "hoog",
+      "consortiumkans": true,
+      "toelichting": "Peilingsonderzoek op stelselniveau naar studentprestaties rekenen-wiskunde; periodieke meting met toetsafname, waarschijnlijk groot en meerjarig, Europese aanbesteding door NWO.",
+      "betrouwbaarheid": 0.75
+    }
+  },
+  {
     "id": "447521",
     "tenderned_kenmerk": "621954",
     "bron": "tenderned",
