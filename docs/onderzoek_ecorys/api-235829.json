@@ -1,0 +1,91 @@
+{
+  "publicatieId": 235829,
+  "kenmerk": 306345,
+  "aanbestedingNaam": "BZ-ET Prospects consultancy",
+  "opdrachtgeverNaam": "Ministerie van Buitenlandse Zaken",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "In 2019, the Dutch Ministry of the Foreign Affairs has launched PROSPECTS, a multiannual hybrid project/partnership between five multilateral organisations, with the institutional goal of furthering the transformation of the ongoing responses to protracted forced displacement in some of the most affected countries in the world. PROSPECTS brings together organisations working across the humanitarian-development spectrum: United Nations High Commissioner for Refugees (UNHCR), United Nations Children’s Fund (UNICEF), International Labour Organisation (ILO), International Finance Corporation (IFC), and the World Bank (WB). The Government of the Netherlands has committed to allocate USD 558 million in total for this partnership over the course of 5 years. PROSPECTS is operational in 8 countries of the Middle East and the Horn of Africa. The Partnership is currently entering the third year of its existence with (at least) another two years planned.",
+  "publicatieDatum": "2021-08-13T16:28:43.119524",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "73110000-6",
+      "omschrijving": "Uitvoeren van onderzoek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "79315000-5",
+      "omschrijving": "Sociaal onderzoek"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "79419000-4",
+      "omschrijving": "Evaluatie-adviesdiensten"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "http://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=295681&B=CTMSOLUTION",
+  "urlTsenderNaam": "CTM Solution",
+  "isVroegtijdigBeeindigd": false,
+  "publicatieIDLaatsteRectificatie": 223966,
+  "publicatiePdfId": 10630272,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "pbNummerTed": "2021/S 157-416734",
+  "trefwoord1": "consultancy",
+  "trefwoord2": "displacement crises",
+  "trefwoord3": "humanitarian-development cooperation",
+  "referentieNummer": "201865003.001.048",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/235829/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/235829?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/235829?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/235829",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

@@ -21,12 +21,16 @@ import os
 import time
 import argparse
 import anthropic
+from opslag import schrijf_json
+from documentfragmenten import selecteer_document
+from teamclassificatie import (beschrijvingen, TEAM_REGELS, TEAM_SCHEMA,
+                               valideer_teams, versie, opdrachttekst, pas_bronreview_toe,
+                               verwerk_teamafwegingen)
 
 # ── Configuratie ──────────────────────────────────────────────────────────────
 
 INPUT_BESTANDEN = [
     "data/raw_tenderned.json",
-    "data/raw_kamerstukken.json",
 ]
 OUTPUT_DIR = "data"
 DOCUMENTEN_DIR = "data/documenten"
@@ -37,8 +41,8 @@ TWIJFEL_DREMPEL = 0.6
 BATCH_GROOTTE = 10  # kleiner vanwege grotere input met documenten
 
 
-def laad_document_tekst(pub_id: str, max_tekens: int = 6000) -> str:
-    """Laadt eerste max_tekens tekens van het aanbestedingsdocument."""
+def laad_document_tekst(pub_id: str, max_tekens: int = 16000, vraag: str = '') -> str:
+    """Selecteer relevante fragmenten uit alle opgeslagen aanbestedingsdocumenten."""
     if not pub_id:
         return ""
     pad = os.path.join(DOCUMENTEN_DIR, f"{pub_id}.txt")
@@ -46,7 +50,7 @@ def laad_document_tekst(pub_id: str, max_tekens: int = 6000) -> str:
         return ""
     try:
         with open(pad, encoding="utf-8") as f:
-            return f.read()[:max_tekens]
+            return selecteer_document(f.read(), vraag, max_tekens)
     except Exception:
         return ""
 
@@ -126,30 +130,6 @@ SYSTEEM_PROMPT = """Je bent een expert in Nederlandse beleidsevaluatie en aanbes
 Je classificeert aanbestedingsteksten naar meerdere dimensies tegelijk.
 Antwoord UITSLUITEND met geldig JSON. Geen uitleg, geen markdown, geen inleiding."""
 
-TEAM_BESCHRIJVINGEN = """
-ECORYS TEAMS — gebruik deze beschrijvingen om te bepalen welke teams relevant zijn:
-
-1. Evaluaties
-   Beleidsevaluaties, effectmetingen, beleidsdoorlichtingen, syntheseonderzoek,
-   monitoring & evaluatie, RCT, quasi-experimenteel onderzoek, doeltreffendheids-
-   en doelmatigheidsonderzoeken voor ministeries en uitvoeringsorganisaties.
-
-2. TIM (Transport, Infrastructuur & Mobiliteit)
-   Strategiestudies, beleidsstudies, evaluaties en MKBA op het gebied van:
-   duurzaam transport, weginfrastructuur, openbaar vervoer, stedelijke mobiliteit,
-   parkeren, havens, corridors, logistiek, luchtvaart en luchthavens.
-
-3. Brede Welvaart
-   MKBA, brede welvaartsanalyse, regionale economische ontwikkeling, leefbaarheid,
-   woonwensen, arbeidsmarkt & regio, monitoren van brede welvaartsindicatoren,
-   economische visies voor gemeenten/regio's, sociale cohesie, welzijn.
-
-4. Sustainable Transitions
-   Energietransitie, klimaatadaptatie, circulaire economie, verduurzaming,
-   EU Green Deal, just transition, natuurinclusief beleid, duurzame landbouw,
-   milieu-effecten, emissiereductie, warmtetransitie, biodiversiteit."""
-
-
 # ── Classificatieprompt ───────────────────────────────────────────────────────
 
 def bouw_classificatieprompt(records: list[dict]) -> str:
@@ -163,18 +143,15 @@ def bouw_classificatieprompt(records: list[dict]) -> str:
 
     records_tekst = ""
     for i, r in enumerate(records):
-        basis = (r.get("titel", "") + "\n" + r.get("omschrijving", "")).strip()
-        basis = basis[:1500]
-        doc_tekst = laad_document_tekst(r.get("id", ""))
-        if doc_tekst:
-            records_tekst += f'\nRECORD {i}:\n"""\n{basis}\n\n--- AANBESTEDINGSDOCUMENT ---\n{doc_tekst}\n"""\n'
-        else:
-            records_tekst += f'\nRECORD {i}:\n"""\n{basis}\n"""\n'
+        bron = opdrachttekst(r, laad_document_tekst(r.get("id", ""), vraag=r.get('titel', '') + ' ' + (r.get('omschrijving') or '')))
+        records_tekst += f'\nRECORD {i}:\n"""\n{bron}\n"""\n'
 
     return f"""Classificeer de onderstaande aanbestedingsteksten naar alle opgegeven dimensies.
 Sommige records bevatten het volledige aanbestedingsdocument — gebruik die voor nauwkeurigere classificatie.
 
-{TEAM_BESCHRIJVINGEN}
+{beschrijvingen()}
+
+{TEAM_REGELS}
 
 TAXONOMIE:
 
@@ -207,7 +184,7 @@ Retourneer een JSON-array. Elk object heeft deze structuur:
   {{
     "index": 0,
 
-    "teams": ["<één of meer van: Evaluaties, TIM, Brede Welvaart, Sustainable Transitions>"],
+    {TEAM_SCHEMA},
 
     "thema": "<kies uit lijst>",
     "thema_betrouwbaarheid": 0.0-1.0,
@@ -242,9 +219,6 @@ Retourneer een JSON-array. Elk object heeft deze structuur:
 ]
 
 Regels:
-- teams: lege lijst [] als de opdracht voor GEEN van de vier teams relevant is. Dit geldt ALTIJD voor: inhuurcontracten, detachering, tijdelijke personeelsinzet, adviseur/projectleider/regisseur functies, en puur ecologisch veldwerk, ICT-ontwikkeling of technisch ingenieurswerk
-- Een opdracht is alleen relevant voor een team als het gaat om een onderzoeks-, evaluatie-, advies- of beleidsstudieopdracht — geen personeelsinzet
-- Voor echte onderzoeks- en adviesopdrachten mag teams meerdere waarden bevatten als de opdracht meerdere teams raakt (bijv. een MKBA voor een mobiliteitsmaatregel is zowel TIM als Evaluaties; een warmtetransitiestudie is zowel Sustainable Transitions als Brede Welvaart)
 - methodiek_kwantitatief is true voor: Quasi-experimenteel, RCT, Statistisch/econometrisch, MKBA
 - causaliteitsvraag is true als de tekst expliciet vraagt om een causaal effect aan te tonen
 - herhalingskans is hoog als het een monitor, panel of periodieke meting betreft
@@ -263,10 +237,8 @@ def classificeer_batch(client: anthropic.AnthropicFoundry, records: list[dict], 
     try:
         response = client.messages.create(
             model=MODEL,
-            max_tokens=12000,
-            # Sonnet 5.5 denkt standaard adaptief mee; lage effort houdt de
-            # classificatie betaalbaar en laat ruimte binnen max_tokens.
-            output_config={"effort": "low"},
+            max_tokens=30000,
+            output_config={"effort": "medium"},
             system=SYSTEEM_PROMPT,
             messages=[{"role": "user", "content": prompt}],
         )
@@ -278,46 +250,44 @@ def classificeer_batch(client: anthropic.AnthropicFoundry, records: list[dict], 
             if ruwe_output.startswith("json"):
                 ruwe_output = ruwe_output[4:]
 
-        classificaties = json.loads(ruwe_output)
+        antwoorden = json.loads(ruwe_output)
+        if not isinstance(antwoorden, list):
+            raise ValueError('De classificatie moet een lijst zijn.')
+        if response.stop_reason != 'end_turn':
+            raise ValueError('Onvolledige classificatie ontvangen.')
+        classificaties = valideer_classificaties([{**verwerk_teamafwegingen(c), 'teams_versie': versie()} for c in antwoorden], len(records))
+        for cl in classificaties:
+            r = records[cl['index']]
+            valideer_teams(cl, opdrachttekst(r, laad_document_tekst(r.get('id', ''), vraag=r.get('titel', '') + ' ' + (r.get('omschrijving') or ''))))
+            cl['teams_versie'] = versie()
+            cl.update(pas_bronreview_toe(r, cl, laad_document_tekst(r.get('id', ''), vraag=r.get('titel', '') + ' ' + (r.get('omschrijving') or ''))))
         print(f"  Batch {batch_nr}: {len(classificaties)} classificaties ontvangen")
         return classificaties
 
     except json.JSONDecodeError as e:
-        print(f"  [FOUT] Batch {batch_nr}: ongeldige JSON — {e}")
-        return _lege_classificaties(len(records))
+        raise RuntimeError(f"Batch {batch_nr}: ongeldige classificatie-JSON") from e
     except anthropic.APIError as e:
-        print(f"  [FOUT] Batch {batch_nr}: API-fout — {e}")
-        return _lege_classificaties(len(records))
+        raise RuntimeError(f"Batch {batch_nr}: classificatie-API mislukt") from e
 
 
-def _lege_classificaties(n: int) -> list[dict]:
-    return [
-        {
-            "index": i,
-            "teams": [],
-            "thema": "Overig / onduidelijk",
-            "thema_betrouwbaarheid": 0.0,
-            "subthema": "",
-            "methodiek": "Onduidelijk / niet gespecificeerd",
-            "methodiek_betrouwbaarheid": 0.0,
-            "methodiek_kwantitatief": False,
-            "skills": [],
-            "skills_betrouwbaarheid": 0.0,
-            "evaluatiefase": "Onduidelijk",
-            "evaluatiefase_betrouwbaarheid": 0.0,
-            "databronnen": [],
-            "databronnen_betrouwbaarheid": 0.0,
-            "opdrachtgrootte": "Onduidelijk",
-            "opdrachtgrootte_betrouwbaarheid": 0.0,
-            "gunningscriterium": "Onduidelijk",
-            "looptijd_maanden": None,
-            "causaliteitsvraag": False,
-            "herhalingskans": "onduidelijk",
-            "consortiumkans": False,
-            "toelichting": "Classificatie mislukt door API-fout",
-        }
-        for i in range(n)
-    ]
+def valideer_classificaties(classificaties, aantal):
+    """Voorkom dat ontbrekende of dubbele antwoorden records verliezen."""
+    if not isinstance(classificaties, list) or len(classificaties) != aantal:
+        raise ValueError("De classificatie moet één antwoord per opdracht bevatten.")
+    indices = [c.get("index") for c in classificaties if isinstance(c, dict)]
+    if (len(indices) != aantal or any(type(i) is not int for i in indices)
+            or sorted(indices) != list(range(aantal))):
+        raise ValueError("De classificatie bevat ontbrekende of ongeldige indices.")
+    for c in classificaties:
+        if (not isinstance(c.get("thema"), str)
+                or not isinstance(c.get("methodiek"), str)
+                or not isinstance(c.get("teams"), list)
+                or type(c.get("methodiek_kwantitatief")) is not bool):
+            raise ValueError("De classificatie mist verplichte velden.")
+        valideer_teams(c)
+    return classificaties
+
+
 
 
 def gemiddelde_betrouwbaarheid(cl: dict) -> float:
@@ -365,8 +335,7 @@ def classificeer_alle(records: list[dict], batch_grootte: int) -> list[dict]:
 
 def sla_op_json(records: list[dict], bestandsnaam: str):
     pad = os.path.join(OUTPUT_DIR, bestandsnaam)
-    with open(pad, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
+    schrijf_json(pad, records)
     print(f"  -> {pad} ({len(records)} records)")
 
 
@@ -375,8 +344,10 @@ def sla_op_csv(records: list[dict], bestandsnaam: str):
     velden = [
         "id", "tenderned_kenmerk", "publicatie_type", "bron",
         "titel", "aanbestedende_dienst", "publicatiedatum", "sluitingsdatum",
-        "gunningswaarde", "winnaar", "procedure_type", "europees", "url",
-        "teams",
+        "gunningsdatum", "datum_gunning", "gunning_publicatie_id",
+        "gunningswaarde", "winnaar", "extra_winnaars", "winnaars", "gunning_publicatie_ids", "procedure_type", "europees", "url",
+        "teams", "teams_status", "teams_toelichting", "teams_versie",
+        "units", "units_status", "opdrachtvraag", "opdrachtobject", "opdrachtproducten",
         "thema", "thema_betrouwbaarheid", "subthema",
         "methodiek", "methodiek_betrouwbaarheid", "methodiek_kwantitatief",
         "skills", "skills_betrouwbaarheid",
@@ -395,7 +366,18 @@ def sla_op_csv(records: list[dict], bestandsnaam: str):
             cl = r.get("classificatie") or {}
             rij = {k: r.get(k, "") for k in velden}
             rij.update({
+                "extra_winnaars": " | ".join(r.get("extra_winnaars", [])),
+                "winnaars": " | ".join(r.get("winnaars", [])),
+                "gunning_publicatie_ids": " | ".join(r.get("gunning_publicatie_ids", [])),
+                "units": " | ".join(cl.get("units", [])),
+                "units_status": cl.get("units_status", ""),
+                "opdrachtvraag": cl.get("opdrachtprofiel", {}).get("vraag", ""),
+                "opdrachtobject": cl.get("opdrachtprofiel", {}).get("object", ""),
+                "opdrachtproducten": " | ".join(cl.get("opdrachtprofiel", {}).get("producten", [])),
                 "teams": " | ".join(cl.get("teams", [])),
+                "teams_status": cl.get("teams_status", ""),
+                "teams_toelichting": cl.get("teams_toelichting", ""),
+                "teams_versie": cl.get("teams_versie", ""),
                 "thema": cl.get("thema", ""),
                 "thema_betrouwbaarheid": cl.get("thema_betrouwbaarheid", ""),
                 "subthema": cl.get("subthema", ""),
@@ -483,7 +465,8 @@ def main():
         if (r.get("classificatie") or {}).get("methodiek_kwantitatief", False)
     )
     per_team = {}
-    for team in ["Evaluaties", "TIM", "Brede Welvaart", "Sustainable Transitions"]:
+    from teamclassificatie import teamnamen, unitnamen
+    for team in teamnamen():
         per_team[team] = sum(
             1 for r in geclassificeerd
             if team in ((r.get("classificatie") or {}).get("teams", []))
@@ -497,12 +480,15 @@ Twijfelgevallen         : {len(twijfelgevallen)}
 
 Relevant per team:
   Evaluaties            : {per_team['Evaluaties']}
-  TIM                   : {per_team['TIM']}
+  Visitaties            : {per_team['Visitaties']}
   Brede Welvaart        : {per_team['Brede Welvaart']}
   Sustainable Transitions: {per_team['Sustainable Transitions']}
 
-Volgende stap: python koppel_winnaar.py
+Voor het dagelijkse dashboardbeheer: python update.py
 """)
+    print('Relevant per unit:')
+    for unit in unitnamen():
+        print(f"  {unit}: {sum(unit in (r.get('classificatie') or {}).get('units', []) for r in geclassificeerd)}")
 
 
 if __name__ == "__main__":

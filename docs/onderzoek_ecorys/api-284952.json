@@ -1,0 +1,85 @@
+{
+  "publicatieId": 284952,
+  "kenmerk": 394272,
+  "aanbestedingNaam": "VWS EA  Onderzoek medicatieveiligheid en medicatieoverdracht",
+  "opdrachtgeverNaam": "Ministerie van Volksgezondheid, Welzijn en Sport",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "In de periode van februari 2022 tot en met april 2022 is een Europese aanbesteding (openbare procedure) uitgevoerd voor uitvoering van een ‘Onderzoek Medicatieveiligheid’ t.b.v. het ministerie van Volksgezondheid, Welzijn en Sport (PBS nummer: 2022/S 042-109150). Deze aanbesteding bestond uit twee (2) percelen. Voor beide percelen zijn geen inschrijvingen ingediend. Perceel 2 hebben wij vervolgens door middel van een onderhandelingsprocedure zonder voorafgaande bekendmaking aan een partij gegund (Aanbestedingswet 2012, artikel 2.32, lid 1, sub a.). De opdracht voor perceel 1 is wezenlijk gewijzigd. De aanbestedende dienst is voornemens deze gewijzigde opdracht door middel van een onderhandelingsprocedure zonder voorafgaande bekendmaking te gunnen aan één van de volgende twee partijen:\n• ECORYS Nederland BV;\n• Stichting NIVEL.",
+  "publicatieDatum": "2023-01-12T10:34:42.716428",
+  "typePublicatie": "Aankondiging in het geval van vrijwillige transparantie vooraf",
+  "publicatieCode": "SF15",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OZB",
+    "omschrijving": "Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "73000000-2",
+      "omschrijving": "Onderzoek en ontwikkeling, en aanverwante adviezen"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "73210000-7",
+      "omschrijving": "Advies inzake onderzoek"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "http://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=349346&B=CTMSOLUTION",
+  "urlTsenderNaam": "CTM Solution",
+  "isVroegtijdigBeeindigd": false,
+  "publicatieIDLaatsteRectificatie": 285326,
+  "publicatiePdfId": 10558914,
+  "onlyGunningProcedure": true,
+  "isGegund": false,
+  "pbNummerTed": "2023/S 010-023811",
+  "trefwoord1": "medicatieveiligheid",
+  "trefwoord2": "medicatieoverdracht",
+  "referentieNummer": "201865006.028.111",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "dir-awa-pre",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/284952/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/284952?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/284952?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/284952",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

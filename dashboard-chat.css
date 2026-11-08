@@ -1,0 +1,46 @@
+/* Dezelfde Ecorys-typografie en vlakverdeling voor login en documentvragen. */
+.login-overlay, .modal-overlay { display: none; position: fixed; inset: 0; align-items: center; justify-content: center; padding: 24px; }
+.login-overlay { z-index: 2000; background: #eef2f5; background-image: linear-gradient(112deg, transparent 66%, #dbe8f0 66%, #e5eef4 80%, transparent 80%); }
+.login-overlay.open, .modal-overlay.open { display: flex; }
+.login-box { position: relative; width: 456px; max-width: 100%; overflow: hidden; padding: 38px 40px 42px; background: white; border: 1px solid var(--border); border-top: 4px solid var(--ecorys-blue); border-radius: 3px; box-shadow: 0 20px 70px #00213710; text-align: left; }
+.login-box::after { content: ''; position: absolute; right: 0; bottom: 0; width: 54px; height: 32px; background: var(--ecorys-blue); clip-path: polygon(34% 0, 100% 0, 100% 100%, 0 100%); }
+.login-logo { display: block; width: 155px; height: 56px; margin: 0 0 29px; }
+.login-box h2 { color: var(--ecorys-dark-blue); font-size: 25px; line-height: 1.35; letter-spacing: -.5px; margin-bottom: 14px; }
+.login-box > p { color: var(--text2); font-size: 12px; line-height: 1.85; margin-bottom: 23px; }
+.login-box > .eyebrow { color: var(--ecorys-blue); font-size: 10px; margin-bottom: 10px; }
+.login-input { display: block; width: 100%; padding: 13px 14px; color: var(--text); background: #fbfcfd; border: 1px solid #9fb7c7; border-radius: 2px; font-size: 13px; }
+.login-error { color: #a32a1a; font-size: 11px; min-height: 25px; margin: 7px 0 10px; }
+.login-btn { width: 100%; padding: 12px 16px; border: 1px solid var(--ecorys-blue); border-radius: 2px; color: white; background: var(--ecorys-blue); font-size: 13px; font-weight: 600; }
+.login-btn:hover { background: #005ba8; }
+.modal-overlay { z-index: 1000; background: #002137aa; }
+.modal { width: 780px; max-width: 100%; max-height: 90vh; display: flex; flex-direction: column; background: white; border-top: 4px solid var(--ecorys-blue); border-radius: 3px; box-shadow: 0 20px 70px #00213740; }
+.modal-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 20px; padding: 22px 25px; border-bottom: 1px solid var(--border); }
+.modal-header h3 { color: var(--ecorys-dark-blue); font-size: 17px; font-weight: 600; line-height: 1.6; }
+.modal-close { padding: 5px 9px; border: 1px solid var(--border); border-radius: 2px; background: white; color: var(--text2); font-size: 16px; line-height: 1; flex-shrink: 0; }
+.modal-close:hover { color: var(--ecorys-blue); background: var(--blue-bg); }
+.modal-synthese { max-height: 225px; overflow-y: auto; padding: 22px 25px; background: #f1f6f9; border-bottom: 1px solid var(--border); color: var(--text2); font-size: 12px; line-height: 1.9; }
+.modal-chat { flex: 1; min-height: 140px; overflow-y: auto; display: flex; flex-direction: column; gap: 16px; padding: 22px 25px; }
+.chat-msg { display: flex; align-items: flex-start; gap: 10px; }
+.chat-msg.user { flex-direction: row-reverse; }
+.chat-avatar { display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; flex-shrink: 0; background: var(--ai-bg); color: var(--ai-color); font-size: 10px; font-weight: 600; border-radius: 2px; }
+.chat-msg.user .chat-avatar { background: var(--ecorys-dark-blue); color: white; }
+.chat-bubble { max-width: 86%; padding: 12px 15px; font-size: 12px; line-height: 1.85; border: 1px solid var(--border); background: #f7f9fa; border-radius: 2px; overflow-wrap: anywhere; }
+.chat-msg.user .chat-bubble { border-color: var(--ecorys-blue); background: var(--ecorys-blue); color: white; }
+.modal-input-row { display: flex; gap: 10px; padding: 18px 25px; border-top: 1px solid var(--border); }
+.modal-input-row textarea { flex: 1; min-width: 0; min-height: 46px; max-height: 120px; resize: vertical; border: 1px solid #a9bdc9; border-radius: 2px; padding: 12px; font-size: 12px; }
+.modal-send { padding: 10px 18px; background: var(--ecorys-blue); color: white; border: 1px solid var(--ecorys-blue); border-radius: 2px; font-size: 12px; font-weight: 600; }
+.modal-send:hover { background: #005ba8; }
+.chat-typing { color: var(--text3); font-size: 11px; padding: 5px 0; }
+@media (max-width: 540px) {
+  .login-overlay, .modal-overlay { padding: 16px; }
+  .login-box { padding: 30px 24px 34px; }
+  .login-logo { margin-bottom: 24px; width: 140px; height: auto; }
+  .login-box h2 { font-size: 23px; }
+  .modal { max-height: 93vh; }
+  .modal-header, .modal-synthese, .modal-chat { padding: 17px; }
+  .modal-header h3 { font-size: 15px; }
+  .modal-input-row { padding: 13px; gap: 7px; }
+  .modal-input-row textarea { padding: 10px; font-size: 11px; }
+  .modal-send { padding: 10px; font-size: 11px; }
+  .chat-bubble { padding: 10px; font-size: 11px; }
+}

@@ -1,0 +1,87 @@
+{
+  "publicatieId": 335914,
+  "kenmerk": 466907,
+  "aanbestedingNaam": "BZ ROVK Evaluations",
+  "opdrachtgeverNaam": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "The Ministry of Foreign Affairs invites you to submit a Tender for EU award procedure ‘Evaluations’. The purpose of the Tendering Process is to conclude an Agreement with a maximum of twenty-eight (28) Contractors for evaluation services in two lots: \n• Lot 1: a maximum of twenty-five (25) Contractors to carry out a variety of evaluation services; • Lot 2: a maximum of three (3) Contractors to carry out a variety of evidence synthesis services.",
+  "publicatieDatum": "2024-05-10T17:19:43.327658",
+  "sluitingsDatum": "2024-06-28T12:00:00",
+  "typePublicatie": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+  "publicatieCode": "EF16",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "73110000-6",
+      "omschrijving": "Uitvoeren van onderzoek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "79313000-1",
+      "omschrijving": "Controle van prestaties"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "79419000-4",
+      "omschrijving": "Evaluatie-adviesdiensten"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "https://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=403116&B=",
+  "urlTsenderNaam": "Mercell",
+  "isVroegtijdigBeeindigd": false,
+  "onlyGunningProcedure": false,
+  "isGegund": false,
+  "pbNummerTed": "277788-2024",
+  "referentieNummer": "201865003.001.106",
+  "aankondigingCode": {
+    "code": "AAO",
+    "omschrijving": "Aankondiging opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "RAA",
+    "omschrijving": "Raamovereenkomst"
+  },
+  "formType": "competition",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/335914/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/335914?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/335914?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/335914",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

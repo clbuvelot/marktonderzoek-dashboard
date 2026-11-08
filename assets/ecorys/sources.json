@@ -1,0 +1,21 @@
+[
+  {
+    "file": "ecorys-logo.svg",
+    "source": "https://www.ecorys.com/nl/",
+    "note": "Originele paden en kleuren uit het SVG-logo in de officiële header."
+  },
+  {
+    "file": "montserrat-v25-latin-regular.woff2",
+    "source": "https://www.ecorys.com/app/themes/pulsar/assets/fonts/montserrat-v25-latin-regular.woff2",
+    "sha256": "ddc148b8a0a27b1449fda6033f4a0defac9bd43210117b50d5d7ad1eda09f394"
+  },
+  {
+    "file": "montserrat-v25-latin-600.woff2",
+    "source": "https://www.ecorys.com/app/themes/pulsar/assets/fonts/montserrat-v25-latin-600.woff2",
+    "sha256": "98be19bc78b5bc5d419e4fa6ea055ebd4671a963e2cc644aeed4362f15d14c31"
+  },
+  {
+    "file": "OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/montserrat/OFL.txt"
+  }
+]

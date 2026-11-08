@@ -4,7 +4,7 @@ update.py
 Incrementele dagelijkse update van de aanbestedingspipeline.
 
 Checkt de laatste updatedatum, haalt nieuwe publicaties op sinds dat moment,
-draait de volledige pipeline (collect → classify → opschonen) voor die records,
+draait de volledige pipeline (collect -> classify -> opschonen) voor die records,
 en mergt ze in de bestaande dataset.
 
 Haalt daarnaast los van de nieuwe uitvragen de gunningen van de afgelopen
@@ -26,7 +26,6 @@ import json
 import os
 import time
 import argparse
-import requests
 from datetime import datetime, timezone, timedelta
 
 from collect import (
@@ -39,6 +38,9 @@ from collect import (
 )
 from classify import classificeer_alle, BATCH_GROOTTE
 from opschonen import verwerk as opschoon_verwerk
+from opslag import schrijf_json
+from analyse import vernieuw_exports
+from publicatie_koppeling import verrijk_records, werk_gunningen_bij
 
 DATA_DIR = "data"
 STAAT_BESTAND = os.path.join(DATA_DIR, "update_staat.json")
@@ -59,9 +61,7 @@ def laad_staat():
 
 
 def sla_staat_op(staat):
-    os.makedirs(DATA_DIR, exist_ok=True)
-    with open(STAAT_BESTAND, "w", encoding="utf-8") as f:
-        json.dump(staat, f, ensure_ascii=False, indent=2)
+    schrijf_json(STAAT_BESTAND, staat)
 
 
 def laad_dataset():
@@ -72,9 +72,7 @@ def laad_dataset():
 
 
 def sla_dataset_op(records):
-    os.makedirs(DATA_DIR, exist_ok=True)
-    with open(DATASET, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
+    schrijf_json(DATASET, records)
 
 
 # ── Ophalen nieuwe publicaties ────────────────────────────────────────────────
@@ -92,11 +90,7 @@ def _haal_publicaties(datum_vanaf, publicatie_type, label):
                 "page": pagina,
                 "size": 50,
             }
-            try:
-                batch, totaal = _tenderned_request(params, label=f"{label} {cpv} p{pagina}")
-            except Exception as e:
-                print(f"  [FOUT] {e}")
-                break
+            batch, totaal = _tenderned_request(params, label=f"{label} {cpv} p{pagina}")
             if not batch:
                 break
             for item in batch:
@@ -138,28 +132,6 @@ def fetch_gunningen(datum_vanaf):
     return gunningen
 
 
-def werk_gunningen_bij(bestaand, gunningen):
-    """
-    Markeert bestaande records als gegund zodra er een AGO voor is.
-
-    Laat id en publicatiedatum met rust: id verwijst naar het opgeslagen
-    document en publicatiedatum is altijd de datum van de oorspronkelijke
-    uitvraag. De classificatie blijft ook staan — die verandert niet door een
-    gunning, en opnieuw classificeren zou alleen geld kosten.
-    """
-    bijgewerkt = 0
-    for r in bestaand:
-        kenmerk = str(r.get("tenderned_kenmerk") or "")
-        ago = gunningen.get(kenmerk)
-        if not kenmerk or not ago:
-            continue
-        if r.get("publicatie_type") == "gegund" and r.get("gunningsdatum"):
-            continue
-        r["publicatie_type"] = "gegund"
-        r["gunningsdatum"] = ago.get("publicatieDatum", "")
-        r["gunning_publicatie_id"] = str(ago.get("publicatieId", "") or "")
-        bijgewerkt += 1
-    return bijgewerkt
 
 
 # ── Pipeline ──────────────────────────────────────────────────────────────────
@@ -168,6 +140,7 @@ def verwerk_nieuw(ruw):
     """Normaliseert, haalt documenten op, classificeert en schoont op."""
     genormaliseerd = [normalize_tenderned(r) for r in ruw]
     genormaliseerd = [r for r in genormaliseerd if r.get("titel") or r.get("omschrijving")]
+    verrijk_records(genormaliseerd)
     print(f"  {len(genormaliseerd)} records na normalisatie")
 
     if not genormaliseerd:
@@ -231,6 +204,7 @@ def merge(bestaand, nieuw):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--vanaf", help="Uitvragen vanaf JJJJ-MM-DD; zonder bestaande staat vanaf 2019-01-01.")
     parser.add_argument(
         "--gunningen-vanaf",
         metavar="JJJJ-MM-DD",
@@ -238,6 +212,12 @@ def main():
              f"standaard {GUNNING_TERUGBLIK_DAGEN} dagen. Voor een inhaalslag.",
     )
     args = parser.parse_args()
+    for datum in (args.vanaf, args.gunningen_vanaf):
+        if datum:
+            try:
+                datetime.strptime(datum, "%Y-%m-%d")
+            except ValueError:
+                parser.error("Gebruik een geldige datum in formaat JJJJ-MM-DD.")
 
     os.makedirs(DATA_DIR, exist_ok=True)
     nu = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -247,17 +227,20 @@ def main():
     staat = laad_staat()
     laatste = staat.get("laatste_update")
 
-    if laatste:
+    if args.vanaf:
+        datum_vanaf = args.vanaf
+    elif laatste:
         datum_vanaf = laatste[:10]
     else:
-        datum_vanaf = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")
+        datum_vanaf = "2019-01-01"
 
     # Gunningen kijken standaard verder terug dan de uitvragen. Een gunning kan
     # dagen na de aankondiging in de API verschijnen, en een mislukte run mag
     # geen gunningen definitief laten wegvallen.
-    gunningen_vanaf = args.gunningen_vanaf or (
+    terugblik = (
         datetime.now(timezone.utc) - timedelta(days=GUNNING_TERUGBLIK_DAGEN)
     ).strftime("%Y-%m-%d")
+    gunningen_vanaf = args.gunningen_vanaf or min(datum_vanaf, terugblik)
 
     print(f"Vorige update: {laatste or 'nog nooit'}")
     print(f"Uitvragen vanaf: {datum_vanaf}")
@@ -272,20 +255,8 @@ def main():
     nieuwe_aao = fetch_nieuwe_uitvragen(datum_vanaf, bekende_kenmerken)
     gunningen = fetch_gunningen(gunningen_vanaf)
 
-    # Nieuwe uitvraag die al in dezelfde periode gegund is: dan is het
-    # gunningsrecord het volledigere record en gaat dat de pipeline in.
-    direct_gegund = 0
-    for kenmerk, ago in gunningen.items():
-        if kenmerk in nieuwe_aao:
-            ago["_publicatie_type"] = "gegund"
-            ago["_aao_publicatiedatum"] = nieuwe_aao[kenmerk].get("publicatieDatum", "")
-            nieuwe_aao[kenmerk] = ago
-            direct_gegund += 1
-    if direct_gegund:
-        print(f"  {direct_gegund} nieuwe uitvragen waren al gegund")
-
     # Bestaande records die inmiddels gegund zijn.
-    bijgewerkt_gegund = werk_gunningen_bij(bestaand, gunningen)
+    bijgewerkt_gegund = werk_gunningen_bij(bestaand, gunningen, metadata_ophalen=True)
     print(f"  {bijgewerkt_gegund} bestaande records op gegund gezet")
 
     nieuwe_ruw = list(nieuwe_aao.values())
@@ -297,20 +268,28 @@ def main():
 
     if not nieuwe_ruw and not bijgewerkt_gegund:
         print("\nGeen nieuwe publicaties of gunningen. Dataset is up-to-date.")
+        sla_dataset_op(bestaand)
+        vernieuw_exports(bestaand)
         staat["laatste_update"] = nu
+        staat["totaal_records"] = len(bestaand)
+        staat.pop("bekende_ids", None)
         sla_staat_op(staat)
         return
 
     nieuw_verwerkt = verwerk_nieuw(nieuwe_ruw) if nieuwe_ruw else []
+    if nieuw_verwerkt:
+        bijgewerkt_gegund += werk_gunningen_bij(nieuw_verwerkt, gunningen, metadata_ophalen=True)
 
     print(f"\n[6/6] Merge en opslaan...")
     gemerged = merge(bestaand, nieuw_verwerkt) if nieuw_verwerkt else bestaand
 
     sla_dataset_op(gemerged)
-    print(f"  → {DATASET} ({len(gemerged)} records)")
+    vernieuw_exports(gemerged)
+    print(f"  -> {DATASET} ({len(gemerged)} records)")
 
     staat["laatste_update"] = nu
     staat["totaal_records"] = len(gemerged)
+    staat.pop("bekende_ids", None)
     sla_staat_op(staat)
 
     print(f"""

@@ -1,0 +1,97 @@
+{
+  "publicatieId": 280463,
+  "kenmerk": 348387,
+  "aanbestedingNaam": "AI 2022-0027 - Parkeerdata ten behoeve van parkeeronderzoeken",
+  "opdrachtgeverNaam": "Gemeente Amsterdam, Ingenieursbureau",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "Parkeerdata ten behoeve van parkeeronderzoeken",
+  "publicatieDatum": "2022-11-25T12:15:37.09236",
+  "sluitingsDatum": "2022-04-14T14:00:00",
+  "aanvangOpdrachtDatum": "2022-06-06",
+  "voltooiingOpdrachtDatum": "2024-06-05",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "34926000-4",
+      "omschrijving": "Parkeerregulatieapparatuur"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "34996300-8",
+      "omschrijving": "Besturings-, beveiligings- of signalisatie-uitrusting voor parkeergelegenheid"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "51214000-5",
+      "omschrijving": "Installatiediensten voor parkeermeterapparatuur"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "98351000-8",
+      "omschrijving": "Beheersdiensten van parkeerruimte"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL32B",
+      "omschrijving": "Groot-Amsterdam"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 8504332,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "TEN",
+    "omschrijving": "TenderNed"
+  },
+  "pbNummerTed": "2022/S 229-660847",
+  "referentieNummer": "AI 2022-0027",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "RAA",
+    "omschrijving": "Raamovereenkomst"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/280463/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/280463?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/280463?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/280463",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

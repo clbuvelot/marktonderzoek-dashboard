@@ -1,0 +1,82 @@
+{
+  "publicatieId": 263226,
+  "kenmerk": 363903,
+  "aanbestedingNaam": "Inhuur Procesmanager Waterkwaliteit Glastuinbouw",
+  "opdrachtgeverNaam": "Hoogheemraadschap van Delfland",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "Inhuur Procesmanager Waterkwaliteit Glastuinbouw. Looptijd overeenkomst: acht (8) maanden, 16 mei 2021 tot 16 januari 2023",
+  "publicatieDatum": "2022-06-03T16:10:52.015417",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "NOP",
+    "omschrijving": "Niet-openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "79620000-6",
+      "omschrijving": "Diensten voor de terbeschikkingstelling van personeel, met inbegrip van tijdelijk personeel"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "79620000-6",
+      "omschrijving": "Diensten voor de terbeschikkingstelling van personeel, met inbegrip van tijdelijk personeel"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "https://platform.negometrix.com/PublishedTenders.aspx?tenderId=198827",
+  "urlTsenderNaam": "Negometrix3",
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 10567494,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "pbNummerTed": "2022/S 108-305813",
+  "referentieNummer": "198827",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "IDY",
+    "omschrijving": "Instellen van dynamisch aankoopsysteem"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/263226/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/263226?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/263226?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/263226",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

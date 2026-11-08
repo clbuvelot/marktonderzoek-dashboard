@@ -1,17 +1,15 @@
 """
 collect.py
 ----------
-Haalt aanbestedingsdata op uit TenderNed en geplande evaluaties uit de
-Kamerstukken API (officielebekendmakingen.nl). Slaat ruwe output op als JSON.
+Haalt onderzoeks- en adviesaanbestedingen en documenten op uit TenderNed.
+Voor dagelijks dashboardbeheer gebruik je update.py. Dit script bewaart
+een ruwe selectie voor afzonderlijke inspectie en classificatie.
 
 Gebruik:
     python collect.py --bron tenderned --jaar-vanaf 2019
-    python collect.py --bron kamerstukken
-    python collect.py --bron beide --jaar-vanaf 2019
 
 Output:
     data/raw_tenderned.json
-    data/raw_kamerstukken.json
 """
 
 import requests
@@ -46,25 +44,6 @@ RELEVANTE_CPV_CODES = [
     "79419000-4",  # Adviesdiensten voor evaluatie
 ]
 
-# Publicatietypen om op te halen
-# AGO = Aankondiging Gegunde Opdracht (historisch, met winnaar)
-# AOO = Aankondiging van een Opdracht (lopend, zonder winnaar)
-PUBLICATIE_TYPEN = {
-    "AGO": "gegund",
-    "AOO": "lopend",
-}
-
-# Zoektermen voor Kamerstukken (geplande evaluaties)
-ZOEKTERMEN_KAMERSTUKKEN = [
-    "beleidsdoorlichting", "evaluatie", "doeltreffendheid",
-    "periodieke rapportage", "syntheseonderzoek",
-]
-
-KAMERSTUKKEN_DOCUMENT_TYPES = [
-    "Kamerstuk",       # begrotingen, kamerbrieven
-    "Staatsblad",
-]
-
 
 # ── TenderNed ────────────────────────────────────────────────────────────────
 
@@ -75,8 +54,8 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
     """
     Haalt aanbestedingen op uit TenderNed:
     1. Eerst alle AAO's (uitvragen) ophalen — dit zijn de basis
-    2. Dan AGO's (gunningen) ophalen — alleen voor uitvragen die als AAO zijn gevonden
-    3. Merge: AGO vervangt AAO als gunning beschikbaar is
+    2. Gunningen ophalen en koppelen met de gedeelde identiteitscontrole
+    3. Genormaliseerde uitvragen teruggeven met behoud van uitvraag-id en datum
     """
     datum_vanaf = f"{jaar_vanaf}-01-01"
 
@@ -111,11 +90,11 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
             pagina += 1
             time.sleep(0.3)
 
-    print(f"  → {len(aao_per_kenmerk)} unieke uitvragen gevonden")
+    print(f"  -> {len(aao_per_kenmerk)} unieke uitvragen gevonden")
 
     # ── Stap 2: AGO's ophalen en koppelen ───────────────────────────────────
     print(f"\n[TenderNed] Ophalen gunningen (AGO) vanaf {datum_vanaf}")
-    gekoppeld = 0
+    gunningen = {}
     for cpv in RELEVANTE_CPV_CODES:
         pagina = 0
         while True:
@@ -131,12 +110,8 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
                 break
             for item in batch:
                 kenmerk = str(item.get("kenmerk", "") or "")
-                if kenmerk and kenmerk in aao_per_kenmerk:
-                    # Bewaar de originele AAO publicatiedatum
-                    item["_aao_publicatiedatum"] = aao_per_kenmerk[kenmerk].get("publicatieDatum", "")
-                    item["_publicatie_type"] = "gegund"
-                    aao_per_kenmerk[kenmerk] = item
-                    gekoppeld += 1
+                if kenmerk:
+                    gunningen.setdefault(kenmerk, item)
             if pagina == 0 and totaal:
                 print(f"    Totaal beschikbaar: {totaal}")
             if len(batch) < 50:
@@ -144,11 +119,12 @@ def fetch_tenderned(jaar_vanaf: int) -> list[dict]:
             pagina += 1
             time.sleep(0.3)
 
-    print(f"  → {gekoppeld} gunningen gekoppeld aan uitvragen")
-
-    records = list(aao_per_kenmerk.values())
-    gegund = sum(1 for r in records if r.get("_publicatie_type") == "gegund")
-    lopend = sum(1 for r in records if r.get("_publicatie_type") == "lopend")
+    from publicatie_koppeling import werk_gunningen_bij
+    records = [normalize_tenderned(r) for r in aao_per_kenmerk.values()]
+    gekoppeld = werk_gunningen_bij(records, gunningen, metadata_ophalen=True)
+    print(f"  -> {gekoppeld} opdrachten aan gunningen gekoppeld")
+    gegund = sum(1 for r in records if r.get("publicatie_type") == "gegund")
+    lopend = sum(1 for r in records if r.get("publicatie_type") == "lopend")
     print(f"\n[TenderNed] Totaal: {len(records)} ({gegund} gegund, {lopend} lopend)")
     return records
 
@@ -163,12 +139,8 @@ def _tenderned_request(params: dict, label: str) -> tuple[list[dict], int]:
         totaal = data.get("totalElements", 0)
         print(f"  {label}: {len(items)} resultaten")
         return items, totaal
-    except requests.exceptions.HTTPError as e:
-        print(f"  [FOUT] {label}: HTTP {e.response.status_code} — {e.response.text[:200]}")
-        return [], 0
-    except Exception as e:
-        print(f"  [FOUT] {label}: {e}")
-        return [], 0
+    except (requests.RequestException, ValueError) as e:
+        raise RuntimeError(f"TenderNed ophalen mislukt ({label})") from e
 
 
 def normalize_tenderned(record: dict) -> dict:
@@ -260,100 +232,10 @@ def _extract_cpv(record: dict) -> list[str]:
 KAMERSTUKKEN_BASE = "https://zoek.officielebekendmakingen.nl"
 
 
-def fetch_kamerstukken() -> list[dict]:
-    """
-    Zoekt in officielebekendmakingen.nl naar documenten die betrekking hebben
-    op geplande of uitgevoerde beleidsevaluaties. Gebruikt SRU-zoekprotocol.
-    """
-    resultaten = {}
-    print("\n[Kamerstukken] Ophalen beleidsevaluatiedocumenten")
-
-    for term in ZOEKTERMEN_KAMERSTUKKEN:
-        start = 0
-        while True:
-            params = {
-                "operation": "searchRetrieve",
-                "version": "1.2",
-                "query": f'tekst="{term}" AND (documenttype=Kamerstuk)',
-                "startRecord": start,
-                "maximumRecords": 100,
-                "recordSchema": "oaf",
-                "x-connection": "officielepublicaties",
-            }
-            batch = _kamerstukken_request(params, label=f'term "{term}", start {start}')
-            if not batch:
-                break
-            for item in batch:
-                resultaten[item["id"]] = item
-            if len(batch) < 100:
-                break
-            start += 100
-            time.sleep(0.5)
-
-    records = list(resultaten.values())
-    print(f"[Kamerstukken] Totaal unieke documenten: {len(records)}")
-    return records
 
 
-def _kamerstukken_request(params: dict, label: str) -> list[dict]:
-    """Voert één SRU-zoekopdracht uit op officielebekendmakingen.nl."""
-    url = f"{KAMERSTUKKEN_BASE}/SRU/Search"
-    try:
-        response = requests.get(url, params=params, timeout=30)
-        response.raise_for_status()
-
-        # SRU retourneert XML; parse met minimale afhankelijkheden
-        from xml.etree import ElementTree as ET
-        root = ET.fromstring(response.text)
-        ns = {
-            "srw": "http://www.loc.gov/zing/srw/",
-            "oaf": "http://standaarden.overheid.nl/oaf/1.0/",
-        }
-        records = []
-        for rec in root.findall(".//srw:record", ns):
-            item = _parse_kamerstuk_record(rec, ns)
-            if item:
-                records.append(item)
-
-        print(f"  {label}: {len(records)} resultaten")
-        return records
-
-    except Exception as e:
-        print(f"  [FOUT] {label}: {e}")
-        return []
 
 
-def _parse_kamerstuk_record(record, ns: dict) -> dict | None:
-    """Extraheert relevante velden uit een SRU XML-record."""
-    try:
-        data = record.find(".//oaf:meta", ns)
-        if data is None:
-            return None
-
-        def get(tag):
-            el = data.find(f"oaf:{tag}", ns)
-            return el.text.strip() if el is not None and el.text else ""
-
-        doc_id = get("identifier") or get("dcidentifier")
-        if not doc_id:
-            return None
-
-        return {
-            "id": doc_id,
-            "bron": "kamerstukken",
-            "titel": get("title") or get("dctitle"),
-            "omschrijving": get("description") or get("dcdescription"),
-            "aanbestedende_dienst": get("creator") or get("dccreator"),
-            "publicatiedatum": get("date") or get("dcdate"),
-            "gunningswaarde": None,
-            "winnaar": "",
-            "cpv_codes": [],
-            "procedure_type": get("type") or get("dctype"),
-            "url": f"https://zoek.officielebekendmakingen.nl/{doc_id}",
-            "classificatie": None,
-        }
-    except Exception:
-        return None
 
 
 # ── Documenten ophalen ────────────────────────────────────────────────────────
@@ -519,21 +401,20 @@ def sla_op(records: list[dict], bestandsnaam: str):
     pad = os.path.join(OUTPUT_DIR, bestandsnaam)
     with open(pad, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
-    print(f"\n[Opgeslagen] {len(records)} records → {pad}")
+    print(f"\n[Opgeslagen] {len(records)} records -> {pad}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
     parser = argparse.ArgumentParser(description="Verzamel aanbestedingsdata voor marktonderzoek")
-    parser.add_argument("--bron", choices=["tenderned", "kamerstukken", "beide"], default="beide")
+    parser.add_argument("--bron", choices=["tenderned"], default="tenderned")
     parser.add_argument("--jaar-vanaf", type=int, default=2019, help="Startjaar voor TenderNed (default: 2019)")
     args = parser.parse_args()
 
-    if args.bron in ("tenderned", "beide"):
+    if args.bron == "tenderned":
         records = fetch_tenderned(args.jaar_vanaf)
-        genormaliseerd = [normalize_tenderned(r) for r in records]
-        genormaliseerd = dedupliceer(genormaliseerd)
+        genormaliseerd = dedupliceer(records)
 
         # Documenten ophalen
         print(f"\n[Documenten] Ophalen voor {len(genormaliseerd)} publicaties...")
@@ -553,10 +434,6 @@ def main():
             time.sleep(0.3)
 
         sla_op(genormaliseerd, "raw_tenderned.json")
-
-    if args.bron in ("kamerstukken", "beide"):
-        records = fetch_kamerstukken()
-        sla_op(records, "raw_kamerstukken.json")
 
     print("\nKlaar. Volgende stap: python classify.py")
 

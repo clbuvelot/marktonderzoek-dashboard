@@ -1,0 +1,80 @@
+{
+  "publicatieId": 303148,
+  "kenmerk": 420024,
+  "aanbestedingNaam": "inhuur Projectadviseur MIRT/ Noord-Zuidlijn",
+  "opdrachtgeverNaam": "Gemeente Haarlemmermeer",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "Het gaat om de tijdelijke inhuur van een Projectadviseur MIRT Noord/Zuidlijn.  In dit project wordt een aantal projectalternatieven met elkaar vergeleken. Het doel is te komen tot een voorkeursvariant.",
+  "publicatieDatum": "2023-07-07T12:35:38.734405",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OZB",
+    "omschrijving": "Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "71000000-8",
+      "omschrijving": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 9740757,
+  "onlyGunningProcedure": true,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "GND",
+    "omschrijving": "Geen"
+  },
+  "pbNummerTed": "2023/S 130-414953",
+  "trefwoord1": "inhuur",
+  "referentieNummer": "Proj das 6210335502",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/303148/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/303148?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/303148?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/303148",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

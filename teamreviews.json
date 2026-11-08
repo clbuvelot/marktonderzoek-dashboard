@@ -1,0 +1,376 @@
+{
+  "341763": {
+    "bronhash": "08080cb5035c1b039a8a414de4fa7f384ad68c5170b23d95f642897184ed5140",
+    "teamversie": "teams-v2-6dd9ea81627f",
+    "datum": "2026-11-08",
+    "reden": "Direct passende warmte-expertise werd ten onrechte exclusief aan de grootste afdeling toegeschreven. Beide afdelingen hebben inhoudelijke aansluiting.",
+    "classificatie": {
+      "teams": [
+        "Regions & cities",
+        "Natural Resources"
+      ],
+      "teams_status": "passend",
+      "teams_toelichting": "Analyses voor de inrichting van publieke warmtenetten, inclusief financiële en technische afwegingen. Zowel regionale warmtetransitie als de onderbouwde warmte-expertise van Natural Resources sluit aan.",
+      "teams_matches": [
+        {
+          "team": "Regions & cities",
+          "reden": "Warmtetransitie, lokale gebiedsaanpak en financiële besluitvorming over warmtenetten.",
+          "bewijs": "Om zorgvuldige besluiten te nemen, zijn technische, financiële, juridische en organisatorische analyses nodig"
+        },
+        {
+          "team": "Natural Resources",
+          "reden": "Onderzoek naar collectieve warmtevoorziening, kosten en risico’s is aantoonbaar in de referenties; die inhoudelijke aansluiting vervalt niet door overlap met een andere afdeling.",
+          "bewijs": "Om zorgvuldige besluiten te nemen, zijn technische, financiële, juridische en organisatorische analyses nodig"
+        }
+      ]
+    }
+  },
+  "337554": {
+    "bronhash": "fd4856d6821de79758717ff170eb175c5cded717b8e725d5e79ac24686222501",
+    "teamversie": "teams-v2-6dd9ea81627f",
+    "datum": "2026-11-08",
+    "reden": "Direct passende warmte-expertise werd ten onrechte exclusief aan de grootste afdeling toegeschreven. Beide afdelingen hebben inhoudelijke aansluiting.",
+    "classificatie": {
+      "teams": [
+        "Regions & cities",
+        "Natural Resources"
+      ],
+      "teams_status": "passend",
+      "teams_toelichting": "Haalbaarheid en scenariokeuze van een lokaal warmtenet met financiële, technische en ruimtelijke bouwstenen. De warmte- en kostenanalyse sluit aan bij beide afdelingen.",
+      "teams_matches": [
+        {
+          "team": "Regions & cities",
+          "reden": "Warmtetransitie, lokale gebiedsaanpak en financiële besluitvorming over warmtenetten.",
+          "bewijs": "Opdrachtgever heeft tot doel om tot een onderbouwd besluit te komen over de haalbaarheid van dit warmtenet."
+        },
+        {
+          "team": "Natural Resources",
+          "reden": "Onderzoek naar collectieve warmtevoorziening, kosten en risico’s is aantoonbaar in de referenties; die inhoudelijke aansluiting vervalt niet door overlap met een andere afdeling.",
+          "bewijs": "Opdrachtgever heeft tot doel om tot een onderbouwd besluit te komen over de haalbaarheid van dit warmtenet."
+        }
+      ]
+    }
+  },
+  "225195": {
+    "bronhash": "d8d363eae8b9c9c4f9e8ebe0adbdced40430e5a3df20824b54afcde0c960d146",
+    "teamversie": "teams-v4-189b9e99ce73",
+    "datum": "2026-11-08",
+    "reden": "Positieve aansluiting aan de bron getoetst; het modelcitaat is vervangen door een letterlijk, ononderbroken bronfragment.",
+    "classificatie": {
+      "opdrachtprofiel": {
+        "vraag": "Raamovereenkomsten voor technische en maatschappelijke onderzoeken naar digitale infrastructuur (fysieke infrastructuren, continuïteit en weerbaarheid, maatschappelijk verkennend), in percelen.",
+        "object": "Digitale infrastructuur, telecommunicatie, AI, IoT, cybersecurity en maatschappelijke effecten daarvan voor Agentschap Telecom",
+        "producten": [
+          "onderzoeksrapporten",
+          "adviezen",
+          "data- en statistische analyses"
+        ]
+      },
+      "units_afwegingen": [
+        {
+          "unit": "Resilient Economies",
+          "oordeel": "passend",
+          "reden": "Digitale transitie met maatschappelijke effecten, economische, juridische en maatschappelijke invalshoek en doorontwikkeling van Europese wetgeving.",
+          "bewijs": "kunnen ook onderzoeken zijn vanuit een economische, juridische en/of maatschappelijke \ninvalshoek."
+        },
+        {
+          "unit": "Social and Health",
+          "oordeel": "niet_passend",
+          "reden": "Geen zorg-, sociaal-domein-, arbeidsmarkt- of onderwijsvraag; gedragswetenschappelijke component is bijzaak.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Natural Resources",
+          "oordeel": "niet_passend",
+          "reden": "Geen warmte-, circulair- of elektriciteitsvoorzieningsvraagstuk.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Regions & cities",
+          "oordeel": "onduidelijk",
+          "reden": "Digitale infrastructuur raakt digitale overheid, maar de opdracht is vooral telecom en techniek; aansluiting beperkt.",
+          "bewijs": ""
+        },
+        {
+          "unit": "TIM",
+          "oordeel": "niet_passend",
+          "reden": "Telecomnetwerken en radiospectrum zijn geen transport, mobiliteit of vervoersenergie.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Security & Justice",
+          "oordeel": "niet_passend",
+          "reden": "Cybersecurity is technisch en valt buiten beleidsonderzoek over migratie, politie of toegang tot recht.",
+          "bewijs": ""
+        }
+      ],
+      "teams_afwegingen": [
+        {
+          "team": "Evaluaties",
+          "oordeel": "niet_passend",
+          "reden": "Geen evaluatie van beleid, programma of organisatie gevraagd.",
+          "bewijs": ""
+        },
+        {
+          "team": "Brede Welvaart",
+          "oordeel": "onduidelijk",
+          "reden": "Maatschappelijk verkennende onderzoeken kunnen impactanalyses bevatten, maar dit is niet concreet beschreven.",
+          "bewijs": ""
+        },
+        {
+          "team": "Sustainable Transitions",
+          "oordeel": "niet_passend",
+          "reden": "Geen energie-, klimaat- of circulaire vraag.",
+          "bewijs": ""
+        },
+        {
+          "team": "Visitaties",
+          "oordeel": "niet_passend",
+          "reden": "Geen woningcorporatie of visitatie.",
+          "bewijs": ""
+        }
+      ],
+      "teams_toelichting": "Geen duidelijke teamaansluiting; mogelijk beperkt bij Brede Welvaart via maatschappelijke impactonderzoeken, maar onderwerp is vooral telecom en techniek.",
+      "teams": [],
+      "teams_matches": [],
+      "teams_status": "onduidelijk",
+      "units": [
+        "Resilient Economies"
+      ],
+      "units_matches": [
+        {
+          "unit": "Resilient Economies",
+          "reden": "Digitale transitie met maatschappelijke effecten, economische, juridische en maatschappelijke invalshoek en doorontwikkeling van Europese wetgeving.",
+          "bewijs": "kunnen ook onderzoeken zijn vanuit een economische, juridische en/of maatschappelijke \ninvalshoek."
+        }
+      ],
+      "units_status": "passend",
+      "teams_versie": "teams-v4-189b9e99ce73"
+    }
+  },
+  "245084": {
+    "bronhash": "ace8c8587e8e5c6b20a5630f05a4d0b09b408d8d134f5ba545b956a43ecde43a",
+    "teamversie": "teams-v4-189b9e99ce73",
+    "datum": "2026-11-08",
+    "reden": "Positieve aansluiting aan de bron getoetst; het modelcitaat is vervangen door een letterlijk, ononderbroken bronfragment.",
+    "classificatie": {
+      "opdrachtprofiel": {
+        "vraag": "Jaarlijkse enquête- en monitoronderzoeken naar toegepaste energiebesparende maatregelen in woning- en utiliteitsbouw en naar verkoopvolumes van isolatiemateriaal en HR-ketels.",
+        "object": "Energiebesparing in de gebouwde omgeving voor RVO, als input voor Klimaat- en Energieverkenning (PBL)",
+        "producten": [
+          "databestand (SPSS/csv)",
+          "onderzoeksrapportage",
+          "tabellen",
+          "verantwoording representativiteit",
+          "vragenlijst"
+        ]
+      },
+      "units_afwegingen": [
+        {
+          "unit": "Resilient Economies",
+          "oordeel": "passend",
+          "reden": "Energiebesparing en marktonderzoek naar productvolumes in de bouwketen passen bij energiebeleid en industrie.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        },
+        {
+          "unit": "Social and Health",
+          "oordeel": "onduidelijk",
+          "reden": "Gebruikers- en surveyonderzoek onder bewoners, maar het onderwerp is energie, niet sociaal domein.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Natural Resources",
+          "oordeel": "niet_passend",
+          "reden": "Geen warmtevarianten, circulaire modellering of waardering van leveringszekerheid; enquête-monitoring valt buiten dat aanbod.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Regions & cities",
+          "oordeel": "passend",
+          "reden": "Energiebesparing in de gebouwde omgeving, bewonersenquêtes en monitoring voor klimaatbeleid.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        },
+        {
+          "unit": "TIM",
+          "oordeel": "niet_passend",
+          "reden": "Geen vervoer of mobiliteit.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Security & Justice",
+          "oordeel": "niet_passend",
+          "reden": "Geen veiligheids-, migratie- of justitieonderwerp.",
+          "bewijs": ""
+        }
+      ],
+      "teams_afwegingen": [
+        {
+          "team": "Evaluaties",
+          "oordeel": "niet_passend",
+          "reden": "Jaarlijkse survey en monitor, geen evaluatie van werking of effect van beleid.",
+          "bewijs": ""
+        },
+        {
+          "team": "Brede Welvaart",
+          "oordeel": "niet_passend",
+          "reden": "Geen maatschappelijke afweging, MKBA of visie; datamonitoring van maatregelen.",
+          "bewijs": ""
+        },
+        {
+          "team": "Sustainable Transitions",
+          "oordeel": "passend",
+          "reden": "Monitoring van energiebesparing en houding ten aanzien van aardgasvrij, input voor CO2-reductieberekening.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        },
+        {
+          "team": "Visitaties",
+          "oordeel": "niet_passend",
+          "reden": "Geen woningcorporatievisitatie.",
+          "bewijs": ""
+        }
+      ],
+      "teams_toelichting": "Sustainable Transitions sluit aan via monitoring van energiebesparing en aardgasvrij in de gebouwde omgeving. Evaluaties en Brede Welvaart passen niet: het is dataverzameling, geen evaluatie of afweging.",
+      "teams": [
+        "Sustainable Transitions"
+      ],
+      "teams_matches": [
+        {
+          "team": "Sustainable Transitions",
+          "reden": "Monitoring van energiebesparing en houding ten aanzien van aardgasvrij, input voor CO2-reductieberekening.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        }
+      ],
+      "teams_status": "passend",
+      "units": [
+        "Resilient Economies",
+        "Regions & cities"
+      ],
+      "units_matches": [
+        {
+          "unit": "Resilient Economies",
+          "reden": "Energiebesparing en marktonderzoek naar productvolumes in de bouwketen passen bij energiebeleid en industrie.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        },
+        {
+          "unit": "Regions & cities",
+          "reden": "Energiebesparing in de gebouwde omgeving, bewonersenquêtes en monitoring voor klimaatbeleid.",
+          "bewijs": "onderzoeken uit naar de getroffen energetische maatregelen in de Nederlandse woningbouw en de utiliteitsbouw"
+        }
+      ],
+      "units_status": "passend",
+      "teams_versie": "teams-v4-189b9e99ce73"
+    }
+  },
+  "238711": {
+    "bronhash": "3fa7dba2917b05d1fbaa30084db2b7a367139a43b8de2c376bdabc76caa726e2",
+    "teamversie": "teams-v4-189b9e99ce73",
+    "datum": "2026-11-08",
+    "reden": "De herbeoordeling gebruikt nu de inhoudelijke opdrachtbeschrijving. Inhoudelijke training over energiebeleid past bij Sustainable Transitions; broncitaten zijn letterlijk gecontroleerd.",
+    "classificatie": {
+      "opdrachtprofiel": {
+        "vraag": "Ontwikkelen en organiseren van jaarlijkse trainingen (op afroep en op maat) over energietransitie voor beleidsmakers, energiebedrijven en netbeheerders in de MENA-regio, via raamovereenkomst van vijf jaar.",
+        "object": "Trainingsprogramma Energie Transitie van het Shiraka Programma (RVO), multidisciplinair: techniek, economie, beleid, regelgeving",
+        "producten": [
+          "trainingsprogramma",
+          "trainingen op afroep",
+          "training op maat",
+          "studiebezoeken en afsluitend evenement"
+        ]
+      },
+      "units_afwegingen": [
+        {
+          "unit": "Resilient Economies",
+          "oordeel": "passend",
+          "reden": "Training over energiebeleid, markten, regelgeving en economische afwegingen voor de energietransitie.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        },
+        {
+          "unit": "Social and Health",
+          "oordeel": "niet_passend",
+          "reden": "Geen zorg-, sociaal- of arbeidsmarktonderwerp.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Natural Resources",
+          "oordeel": "onduidelijk",
+          "reden": "Energietransitie raakt het aanbod, maar het gaat om een algemene training, niet om warmte of circulair modelleren.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Regions & cities",
+          "oordeel": "passend",
+          "reden": "Inhoudelijke training energie en klimaat: netproblematiek, energieopslag en beleid voor lokale beleidsmakers.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        },
+        {
+          "unit": "TIM",
+          "oordeel": "niet_passend",
+          "reden": "Geen vervoersenergie; waterstof wordt alleen algemeen genoemd.",
+          "bewijs": ""
+        },
+        {
+          "unit": "Security & Justice",
+          "oordeel": "niet_passend",
+          "reden": "Geen veiligheids- of justitieonderwerp.",
+          "bewijs": ""
+        }
+      ],
+      "teams_afwegingen": [
+        {
+          "team": "Evaluaties",
+          "oordeel": "niet_passend",
+          "reden": "Trainingsevaluatie is slechts een onderdeel; geen beleidsevaluatie.",
+          "bewijs": ""
+        },
+        {
+          "team": "Brede Welvaart",
+          "oordeel": "niet_passend",
+          "reden": "Geen MKBA, visie of maatschappelijke afweging als eindproduct.",
+          "bewijs": ""
+        },
+        {
+          "team": "Sustainable Transitions",
+          "oordeel": "passend",
+          "reden": "Inhoudelijke training over energietransitie, beleid, regelgevend kader en governance; inhoud is bepalend.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        },
+        {
+          "team": "Visitaties",
+          "oordeel": "niet_passend",
+          "reden": "Geen woningcorporatie of visitatie.",
+          "bewijs": ""
+        }
+      ],
+      "teams_toelichting": "Sustainable Transitions sluit aan via inhoudelijke training over energietransitie, energiebeleid en netproblematiek. Evaluaties, Brede Welvaart en Visitaties passen niet bij een trainingsprogramma.",
+      "teams": [
+        "Sustainable Transitions"
+      ],
+      "teams_matches": [
+        {
+          "team": "Sustainable Transitions",
+          "reden": "Inhoudelijke training over energietransitie, beleid, regelgevend kader en governance; inhoud is bepalend.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        }
+      ],
+      "teams_status": "passend",
+      "units": [
+        "Resilient Economies",
+        "Regions & cities"
+      ],
+      "units_matches": [
+        {
+          "unit": "Resilient Economies",
+          "reden": "Training over energiebeleid, markten, regelgeving en economische afwegingen voor de energietransitie.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        },
+        {
+          "unit": "Regions & cities",
+          "reden": "Inhoudelijke training energie en klimaat: netproblematiek, energieopslag en beleid voor lokale beleidsmakers.",
+          "bewijs": "Deze training \nheeft als doel om inzicht te geven in de succesfactoren en valkuilen voor de duurzame \nenergietransitie in de MENA-regio, door technische kennis te combineren met sociale \nwetenschappen en economisch inzicht."
+        }
+      ],
+      "units_status": "passend",
+      "teams_versie": "teams-v4-189b9e99ce73"
+    }
+  }
+}

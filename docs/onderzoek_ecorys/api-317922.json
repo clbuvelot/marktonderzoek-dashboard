@@ -1,0 +1,136 @@
+{
+  "publicatieId": 317922,
+  "kenmerk": 410928,
+  "aanbestedingNaam": "Consultancy for Infrastructure Project Preparation",
+  "opdrachtgeverNaam": "Invest International Public Programmes B.V.",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "The Contracting Authority is publishing this Framework Agreement for Consulting Services for Public Infrastructure and for Healthcare Infrastructure to empanelled a range of qualified consulting firms or Consortia. The Framework Agreement focuses on studies and services in the core sectors of Invest International. The Framework Agreement covers project preparation services (Technical Studies, Financial & Economic Studies, Impact and Environmental & Social Studies and, Procurement expertise) which have the wider scope in the Framework Agreement and may be deployed at any stage of the DRIVE application and implementation process and appraisal and review services, mainly contracted in relation to the contracting authority’s internal DRIVE appraisal process for submission to the Investment Committee for approval to enter into a Grant Agreement with Beneficiary governments.",
+  "publicatieDatum": "2023-11-28T09:07:46.89634",
+  "sluitingsDatum": "2023-09-13T12:00:00",
+  "typePublicatie": "Aankondiging gegunde opdracht - algemene richtlijn, standaardregeling",
+  "publicatieCode": "EF29",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "NOP",
+    "omschrijving": "Niet-openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "71311000-1",
+      "omschrijving": "Adviezen inzake bouwkunde"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "71311300-4",
+      "omschrijving": "Adviezen inzake infrastructuur"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71312000-8",
+      "omschrijving": "Bouwkundig advies"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71313000-5",
+      "omschrijving": "Advies inzake milieutechniek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71314000-2",
+      "omschrijving": "Energie en aanverwante diensten"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71317210-8",
+      "omschrijving": "Advies inzake gezondheid en veiligheid"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71318000-0",
+      "omschrijving": "Technische advies- en raadgevingsdiensten"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71350000-6",
+      "omschrijving": "Dienstverlening inzake wetenschappen en techniek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71500000-3",
+      "omschrijving": "Diensten in verband met de bouw"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "71800000-6",
+      "omschrijving": "Adviesdiensten voor watervoorziening en afval"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "90713100-9",
+      "omschrijving": "Adviesdiensten inzake watervoorziening en afvalwater, anders dan voor de bouw"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatieIDLaatsteRectificatie": 306898,
+  "publicatiePdfId": 10199290,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "TEN",
+    "omschrijving": "TenderNed"
+  },
+  "pbNummerTed": "722668-2023",
+  "trefwoord1": "\"Public Infrastructure\"",
+  "trefwoord2": "\"Healthcare Infrastructure\"",
+  "trefwoord3": "\"Water, Transport and Utilities\"",
+  "trefwoord4": "\"Agri-food and Agriculture\"",
+  "trefwoord5": "\"Renewable Energy\"",
+  "referentieNummer": "A01.004.2023",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "RAA",
+    "omschrijving": "Raamovereenkomst"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/317922/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/317922?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/317922?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/317922",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

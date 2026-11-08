@@ -1,5 +1,9 @@
 name: Update TenderNed Dataset
 
+concurrency:
+  group: tenderned-dataset
+  cancel-in-progress: false
+
 on:
   workflow_dispatch:
     inputs:
@@ -32,6 +36,17 @@ jobs:
       - name: Dependencies installeren
         run: pip install -r requirements.txt
 
+      - name: Pipeline testen
+        run: python -m unittest discover -s tests -v
+
+      - name: Node instellen voor dashboardtests
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Dashboardselecties testen
+        run: node --test tests/dashboard_core.test.cjs
+
       - name: Pipeline uitvoeren
         env:
           AZURE_FOUNDRY_API_KEY: ${{ secrets.AZURE_FOUNDRY_API_KEY }}
@@ -46,12 +61,17 @@ jobs:
       - name: Winnaars aanvullen uit bulk Excel
         run: |
           # De winnaarsnaam staat niet in de TNS API, alleen in de bulk Excel.
-          # Die is ~90 MB en wordt maar periodiek ververst, dus wekelijks volstaat.
+          # De bulk wordt periodiek ververst; wekelijks controleren volstaat.
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date -u +%u)" = "1" ]; then
             python vul_winnaars_aan.py
           else
-            echo "Niet maandag en geen handmatige run — winnaars overslaan."
+            echo "Winnaars worden op maandag en bij handmatige runs aangevuld."
           fi
+
+      - name: Rapporten vernieuwen en dataset controleren
+        run: |
+          python analyse.py
+          python controleer.py
 
       - name: Controleer op wijzigingen
         id: check

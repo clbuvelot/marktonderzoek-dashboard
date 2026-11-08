@@ -1,0 +1,86 @@
+{
+  "publicatieId": 278183,
+  "kenmerk": 327816,
+  "aanbestedingNaam": "BZ EA Baseline, Monitoring and Mid-Term Evaluation Strengthening Civil Society",
+  "opdrachtgeverNaam": "Ministerie van Buitenlandse Zaken",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "This assignment focuses on the baseline, monitoring and mid-term evaluation of the “Policy Framework for Strengthening Civil Society” . Under this grant instrument, funding has been availed for civil society organisations until December 2025. The grant instrument is subdivided into 6 grant instruments all focusing on strengthening civil society and lobby & advocacy. 42 partnerships started their 5-year programmes in January 2021, in 65 countries.\nThe baseline, TPM & DQA and midterm review will be performed in Burkina Faso, Lebanon, Occupied Palestinian Territories (OPT), South Sudan and Uganda. On top of the country level studies, which are divided in three research lots, a fourth research lot will focus on the global component of the various programs. All partnerships active in the selected country/international component will be included in the evaluation.",
+  "publicatieDatum": "2022-11-05T16:35:04.354942",
+  "sluitingsDatum": "2021-10-19T13:00:00",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "73110000-6",
+      "omschrijving": "Uitvoeren van onderzoek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "79315000-5",
+      "omschrijving": "Sociaal onderzoek"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "http://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=310265&B=CTMSOLUTION",
+  "urlTsenderNaam": "CTM Solution",
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 10561287,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "pbNummerTed": "2022/S 215-618325",
+  "trefwoord1": "Gegunde opdracht",
+  "trefwoord2": "Afkondiging",
+  "trefwoord3": "Civil Society",
+  "referentieNummer": "201865003.001.040",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/278183/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/278183?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/278183?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/278183",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

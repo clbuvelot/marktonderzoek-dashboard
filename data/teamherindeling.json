@@ -1,0 +1,44 @@
+{
+  "opdrachten": 929,
+  "teamversie": "teams-v4-189b9e99ce73",
+  "versies": {
+    "teams-v4-189b9e99ce73": 929
+  },
+  "ongewijzigd_overgenomen": 0,
+  "status": {
+    "onduidelijk": 207,
+    "buiten_scope": 572,
+    "passend": 150
+  },
+  "teams": {
+    "Evaluaties": 71,
+    "Sustainable Transitions": 46,
+    "Brede Welvaart": 46
+  },
+  "units": {
+    "Social and Health": 181,
+    "Regions & cities": 182,
+    "TIM": 55,
+    "Resilient Economies": 37,
+    "Security & Justice": 15,
+    "Natural Resources": 4
+  },
+  "unitstatus": {
+    "onduidelijk": 194,
+    "passend": 353,
+    "buiten_scope": 382
+  },
+  "meerdere_units": 109,
+  "voorheen_zonder_aansluiting_nu_met": 63,
+  "voorheen_met_aansluiting_nu_zonder": 23,
+  "voorheen_zonder_nu_met_team": 29,
+  "voorheen_met_nu_zonder_team": 192,
+  "meerdere_teams": 13,
+  "aantal_teams_per_uitvraag": {
+    "0": 779,
+    "1": 137,
+    "2": 13
+  },
+  "niet_teamvelden_ongewijzigd": true,
+  "alle_teamcitaten_in_oorspronkelijke_bron": true
+}

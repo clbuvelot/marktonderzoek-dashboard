@@ -18,6 +18,7 @@ import json
 import re
 import os
 from collections import defaultdict
+from opslag import schrijf_json
 
 INPUT = "data/geclassificeerd_met_winnaar.json"
 RAPPORT = "data/opschonen_rapport.txt"
@@ -179,7 +180,7 @@ def controleer_resterende_problemen(records):
 
 def main():
     if not os.path.exists(INPUT):
-        print(f"[FOUT] {INPUT} niet gevonden. Draai eerst koppel_winnaar.py.")
+        print(f"[FOUT] {INPUT} niet gevonden. Draai eerst update.py.")
         return
 
     print(f"[1/3] Laden {INPUT}...")
@@ -191,8 +192,9 @@ def main():
     records, tellers = verwerk(records)
 
     print("[3/3] Opslaan...")
-    with open(INPUT, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
+    schrijf_json(INPUT, records)
+    from analyse import vernieuw_exports
+    vernieuw_exports(records)
     print(f"  -> {INPUT} overschreven")
 
     schrijf_rapport(tellers, RAPPORT)

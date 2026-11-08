@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+api.txt
+token.txt
+.onderhoud/
+.onderhoud-backup.json
+data/.cache/
+data/.*.tmp
+data/raw_*.json
+data/geclassificeerd.json
+data/geclassificeerd.csv
+data/opschonen_rapport.txt
+Dataset_*.xlsx
+*.exe

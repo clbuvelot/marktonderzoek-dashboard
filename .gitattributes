@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+# De classificatieversie gebruikt de exacte bytes van deze catalogus.
+teamprofielen.json -text -whitespace
+
+# Bewaar bronextracties en gegenereerde CSV's bytegetrouw.
+data/documenten/*.txt -text -whitespace
+docs/onderzoek_ecorys/publicatie-*.txt -text -whitespace
+assets/ecorys/OFL.txt -text -whitespace
+*.csv -text -whitespace
+*.woff2 binary
+*.png binary

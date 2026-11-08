@@ -1,0 +1,92 @@
+{
+  "publicatieId": 346270,
+  "kenmerk": 445813,
+  "aanbestedingNaam": "31193207 Alliantie GoederenVervoerModellen",
+  "opdrachtgeverNaam": "Rijkswaterstaat Water, Verkeer en Leefomgeving",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "In deze opdracht willen we een nieuwe langjarige samenwerkingsovereenkomst Alliantie Goederenvervoermodellen (hierna: Alliantie GVM) vormgeven met een tiental marktpartijen. \nDe Alliantie GVM beoogt een nauwe samenwerking met en tussen marktpartijen, die noodzakelijk is voor het ontwikkelen van kwalitatief hoogstaande strategische goederenvervoersmodellen, zoals die beheerd worden door Rijkswaterstaat. \n\nDe vorming van Alliantie GVM heeft concreet de volgende doelstellingen: \n- Werken aan een groot doel: het best mogelijke model voor goederenvervoer in Nederland bouwen om daarmee referentieprognoses op te stellen. \n- Kennisopbouw en kennisdeling rond goederenvervoersprognoses, goederenvervoermodellen, beheer en onderhoud van het model BasGoed. \n- Innovatie stimuleren door een open en transparante samenwerking. \n- Flexibel kunnen ingaan op beleidsvragen, nieuwe inzichten en nodige verbeteringen.",
+  "publicatieDatum": "2024-08-21T08:46:58.38124",
+  "sluitingsDatum": "2024-02-28T14:00:00",
+  "aanvangOpdrachtDatum": "2024-05-01",
+  "voltooiingOpdrachtDatum": "2027-04-30",
+  "typePublicatie": "Aankondiging gegunde opdracht - algemene richtlijn, standaardregeling",
+  "publicatieCode": "EF29",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "72000000-5",
+      "omschrijving": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "79000000-4",
+      "omschrijving": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 11215203,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "TEN",
+    "omschrijving": "TenderNed"
+  },
+  "pbNummerTed": "501491-2024",
+  "trefwoord1": "\"goederenvervoer\"",
+  "trefwoord2": "\"modellen\"",
+  "trefwoord3": "\"data-analyses\"",
+  "trefwoord4": "\"onderzoek en advies\"",
+  "trefwoord5": "\"projectmanagement\"",
+  "referentieNummer": "31193207",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/346270/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/346270?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/346270?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/346270",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

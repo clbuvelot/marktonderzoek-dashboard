@@ -1,0 +1,6353 @@
+{
+  "opdrachten": 929,
+  "bronpublicaties_onderzocht": 1157,
+  "gekoppelde_gunningspublicaties": 545,
+  "opdrachten_met_bronkoppeling": 544,
+  "opdrachten_met_ander_gunningskenmerk": 104,
+  "voor_met_winnaar": 440,
+  "na_met_winnaar": 544,
+  "gewijzigde_opdrachten": 123,
+  "wijzigingen": [
+    {
+      "record_id": "422285",
+      "titel": "Visstand- en rivierkreeftenmonitoring",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "ATKB B.V.",
+        "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)"
+      ],
+      "nieuwe_winnaars": [
+        "ATKB B.V.",
+        "Bureau Waardenburg B.V."
+      ],
+      "toegevoegd": [
+        "Bureau Waardenburg B.V."
+      ],
+      "verwijderd": [
+        "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "422285",
+          "gunning_kenmerk": "560628",
+          "methoden": [
+            "publicatie_id",
+            "procedure_uuid",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "72a7d66c-4094-4cc5-9466-2d05b0c43ad1",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "422285",
+          "publicatiedatum": "2026-04-23",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "409004",
+      "titel": "Beekmondingen langs Maas en Rijn: hoe herstellen we ze optimaal in de praktijk?",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)"
+      ],
+      "nieuwe_winnaars": [
+        "Bureau Waardenburg B.V."
+      ],
+      "toegevoegd": [
+        "Bureau Waardenburg B.V."
+      ],
+      "verwijderd": [
+        "Bureau Waardenburg B.V. (h.o.d.n. Waardenburg Ecology)"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "440065",
+          "gunning_kenmerk": "567591",
+          "methoden": [
+            "publicatie_id",
+            "procedure_uuid",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "c8d7a521-777f-4d79-b560-298b4bc6c0fe",
+          "referentie_nummer": "OBN-2026-155-RI-BE",
+          "project_sleutel": "",
+          "record_id": "409004",
+          "publicatiedatum": "2026-09-16",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "408855",
+      "titel": "Rivierkreeftenmonitoring",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "ATKB B.V."
+      ],
+      "toegevoegd": [
+        "ATKB B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "426765",
+          "gunning_kenmerk": "592663",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "19f06bba-b2ae-461b-bc08-d6ca1e6796f3",
+          "referentie_nummer": "eeb8ca23-b49e-467d-8d51-706996acc989",
+          "project_sleutel": "",
+          "record_id": "408855",
+          "publicatiedatum": "2026-05-29",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "408484",
+      "titel": "Kennispartner voor het Kennisportaal Migratie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Nederlands Instituut voor Internationale Betrekkingen 'Clingendael'"
+      ],
+      "toegevoegd": [
+        "Nederlands Instituut voor Internationale Betrekkingen 'Clingendael'"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "425369",
+          "gunning_kenmerk": "590759",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "8cb2b5d0-086d-4add-99d1-0ef9ddd9e8c9",
+          "referentie_nummer": "6807820",
+          "project_sleutel": "eu-supply:pid:448693",
+          "record_id": "408484",
+          "publicatiedatum": "2026-05-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "408269",
+      "titel": "Laboratoriumdiensten – Chemische en biologische analyses en fysische metingen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Eurofins Omegam B.V."
+      ],
+      "toegevoegd": [
+        "Eurofins Omegam B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "430672",
+          "gunning_kenmerk": "598157",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "53c27c1d-706c-4142-8b6d-faeafa655e0e",
+          "referentie_nummer": "f8e71c29-ee49-45dc-960e-903a11f2d574",
+          "project_sleutel": "",
+          "record_id": "408269",
+          "publicatiedatum": "2026-06-27",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "405539",
+      "titel": "Raamovereenkomst beleidsgericht onderzoek onderwijs 2026 (ROK BGOO 2026)",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "CINOP B.V.",
+        "KBA Nijmegen",
+        "Oberon B.V.",
+        "Regioplan Beleidsonderzoek B.V.",
+        "Sira Consulting B.V.",
+        "Stichting Centerdata",
+        "Stichting SEO Economisch Onderzoek",
+        "Andersson Elffers Felix",
+        "Berenschot B.V.",
+        "Dialogic Innovatie & Interactie",
+        "Technopolis B.V."
+      ],
+      "nieuwe_winnaars": [
+        "CINOP B.V.",
+        "KBA Nijmegen",
+        "Oberon B.V.",
+        "Regioplan Beleidsonderzoek B.V.",
+        "Sira Consulting B.V.",
+        "Stichting Centerdata",
+        "Stichting SEO Economisch Onderzoek",
+        "Andersson Elffers Felix (AEF)",
+        "Berenschot B.V.",
+        "Dialogic Innovatie & Interactie",
+        "Technopolis B.V."
+      ],
+      "toegevoegd": [
+        "Andersson Elffers Felix (AEF)"
+      ],
+      "verwijderd": [
+        "Andersson Elffers Felix"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "405539",
+          "gunning_kenmerk": "509789",
+          "methoden": [
+            "publicatie_id",
+            "procedure_uuid",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "91617615-866e-42a3-a916-9c3bf7637769",
+          "referentie_nummer": "BD-EURAAN-RD-IUCN2502xxxx",
+          "project_sleutel": "",
+          "record_id": "405539",
+          "publicatiedatum": "2025-12-18",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "404018",
+      "titel": "Soorten Management Plan Duiven en Westervoort",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "GRAS Advies B.V."
+      ],
+      "toegevoegd": [
+        "GRAS Advies B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "419065",
+          "gunning_kenmerk": "581402",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "86367c14-9d34-4346-898c-085d4600b4d7",
+          "referentie_nummer": "0481b19e-995d-48df-9ab0-319f53a199a0",
+          "project_sleutel": "",
+          "record_id": "404018",
+          "publicatiedatum": "2026-04-09",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "403901",
+      "titel": "Projectteam vervanging openbare verlichting gemeente Maastricht",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Haskoning Nederland B.V."
+      ],
+      "toegevoegd": [
+        "Haskoning Nederland B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "431972",
+          "gunning_kenmerk": "599936",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "b2e2835d-0f9f-4f44-b64f-0943604ed928",
+          "referentie_nummer": "9bd53f5f-b02e-40c6-9ee0-a57fe2d63e29",
+          "project_sleutel": "",
+          "record_id": "403901",
+          "publicatiedatum": "2026-07-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "397387",
+      "titel": "Af-, om en opbouw van gesloten jeugdhulp locaties",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "PricewaterhouseCoopers B.V."
+      ],
+      "toegevoegd": [
+        "PricewaterhouseCoopers B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "434419",
+          "gunning_kenmerk": "603398",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "1c00158b-88b0-4a1e-a678-ae3719f38179",
+          "referentie_nummer": "ecd0c770-bd60-41cc-b955-3b28ca783447",
+          "project_sleutel": "",
+          "record_id": "397387",
+          "publicatiedatum": "2026-07-23",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "396211",
+      "titel": "Europese niet-openbare aanbesteding voor Kwantitatief vragenlijstonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ipsos B.V."
+      ],
+      "toegevoegd": [
+        "Ipsos B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "427200",
+          "gunning_kenmerk": "593241",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "23032f76-5003-4c08-9cc8-b09d01eaef42",
+          "referentie_nummer": "82d6a480-4190-4974-860e-17b5077487d5",
+          "project_sleutel": "",
+          "record_id": "396211",
+          "publicatiedatum": "2026-06-02",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "394304",
+      "titel": "Raamovereenkomst ingenieursdiensten Sportvoorzieningen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "HB Advies",
+        "Technisch Bureau Zuidema B.V.",
+        "Viridas B.V."
+      ],
+      "toegevoegd": [
+        "HB Advies",
+        "Technisch Bureau Zuidema B.V.",
+        "Viridas B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "410545",
+          "gunning_kenmerk": "569603",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "db63a5b2-fa52-496e-a2c9-fcea2303d13b",
+          "referentie_nummer": "ad3ad777-844f-40b9-9129-0d3bfd7f6e72",
+          "project_sleutel": "",
+          "record_id": "394304",
+          "publicatiedatum": "2026-02-03",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "391229",
+      "titel": "Herijkingsonderzoek studentenreisproduct",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Panteia B.V."
+      ],
+      "toegevoegd": [
+        "Panteia B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "430159",
+          "gunning_kenmerk": "597408",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "737e85c3-8911-40f3-a0a2-9d5202f7e585",
+          "referentie_nummer": "BD-EA-HB-IUCN25060046",
+          "project_sleutel": "eu-supply:pid:439586",
+          "record_id": "391229",
+          "publicatiedatum": "2026-06-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "390742",
+      "titel": "Levensvatbaarheidsonderzoeken",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "FBA Adviesgroep B.V.",
+        "Gripvol",
+        "IMK Levensvatbaar B.V.",
+        "Dinela",
+        "IMK Sherpa B.V.",
+        "Solvid Ondernemen"
+      ],
+      "toegevoegd": [
+        "FBA Adviesgroep B.V.",
+        "Gripvol",
+        "IMK Levensvatbaar B.V.",
+        "Dinela",
+        "IMK Sherpa B.V.",
+        "Solvid Ondernemen"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "412590",
+          "gunning_kenmerk": "572637",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "a10ee297-b106-42d9-b943-72b39c793bf6",
+          "referentie_nummer": "c318f6fd-23be-4b59-ab42-f4667084405f",
+          "project_sleutel": "",
+          "record_id": "390742",
+          "publicatiedatum": "2026-02-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "388131",
+      "titel": "Renovatieadviezen gemeente Amsterdam (Nieuw-West en Noord)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Energiepaleis B.V.",
+        "Regionaal Energieloket Projecten B.V."
+      ],
+      "toegevoegd": [
+        "Energiepaleis B.V.",
+        "Regionaal Energieloket Projecten B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "400115",
+          "gunning_kenmerk": "555880",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "99b19a89-16ca-463e-81ea-0fd2772d3f82",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "388131",
+          "publicatiedatum": "2025-11-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "386199",
+      "titel": "Raamovereenkomst ErfgoedLAB 2025-2028",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Antea Nederland B.V."
+      ],
+      "toegevoegd": [
+        "Antea Nederland B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "407194",
+          "gunning_kenmerk": "565264",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "1d894429-4b40-4af7-83fb-3a90bf4f5041",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "386199",
+          "publicatiedatum": "2026-01-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "386018",
+      "titel": "9-D-0007058-25 Dataverzameling voor onderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Right Marktonderzoek en Advies B.V.",
+        "Desan Marktonderzoek B.V.",
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "Right Marktonderzoek en Advies B.V.",
+        "Desan Marktonderzoek B.V.",
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "404090",
+          "gunning_kenmerk": "561209",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "40893e18-1cdd-4b1c-9dcc-f80dfacc853a",
+          "referentie_nummer": "9-D-0007058-25 Dataverzameling voor onderzoek",
+          "project_sleutel": "",
+          "record_id": "386018",
+          "publicatiedatum": "2025-12-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "385204",
+      "titel": "SZW EA - Kwaliteitsmeting kinderopvang",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Universiteit Utrecht"
+      ],
+      "toegevoegd": [
+        "Universiteit Utrecht"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "411961",
+          "gunning_kenmerk": "571722",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "a6d075e6-24ba-41a7-a0e2-5f52f7b3e8a2",
+          "referentie_nummer": "201865005.011.083",
+          "project_sleutel": "eu-supply:pid:436705",
+          "record_id": "385204",
+          "publicatiedatum": "2026-02-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "384026",
+      "titel": "Extern meld- en steunpunt voor de medewerkers van de Gemeente Amsterdam",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "SIBW B.V."
+      ],
+      "toegevoegd": [
+        "SIBW B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "436811",
+          "gunning_kenmerk": "607413",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "08ac611e-d638-451d-859a-be2c56c122b2",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "384026",
+          "publicatiedatum": "2026-08-21",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "382854",
+      "titel": "Ecologisch onderzoek t.b.v. soortenmanagementplan",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "NatuurInclusief B.V."
+      ],
+      "toegevoegd": [
+        "NatuurInclusief B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "405740",
+          "gunning_kenmerk": "563359",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "5ec1c2b9-0f29-44b5-a1eb-a4a7c4c6da1d",
+          "referentie_nummer": "7617844",
+          "project_sleutel": "",
+          "record_id": "382854",
+          "publicatiedatum": "2025-12-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "381272",
+      "titel": "Monitoring regionaal openbaar vervoer in OV-Oost",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Traffic consultancy BV"
+      ],
+      "toegevoegd": [
+        "Traffic consultancy BV"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "418998",
+          "gunning_kenmerk": "581335",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "121a9e37-5365-4713-9216-c480b31a3bff",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "381272",
+          "publicatiedatum": "2026-04-08",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "380887",
+      "titel": "SZW-EA Heraanbesteding Evaluatie Hervorming Arbeidsmarktinfrastructuur",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "De Beleidsonderzoekers"
+      ],
+      "toegevoegd": [
+        "De Beleidsonderzoekers"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "399418",
+          "gunning_kenmerk": "554858",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "50664516-7897-4ae8-aac7-5bd030a14319",
+          "referentie_nummer": "201865005.011.082",
+          "project_sleutel": "eu-supply:pid:432985",
+          "record_id": "380887",
+          "publicatiedatum": "2025-11-02",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "379263",
+      "titel": "Soortenmanagementplan",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ecochore Natuurtechniek B.V."
+      ],
+      "toegevoegd": [
+        "Ecochore Natuurtechniek B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "389556",
+          "gunning_kenmerk": "542026",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "565199fc-5603-4c47-815c-2a4f9ea9bee5",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "379263",
+          "publicatiedatum": "2025-08-20",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "377075",
+      "titel": "Kiesraad - EA Evaluatieonderzoeken Verkiezingen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting Centerdata",
+        "Kwink Groep BV",
+        "Ongehinderd B.V."
+      ],
+      "toegevoegd": [
+        "Stichting Centerdata",
+        "Kwink Groep BV",
+        "Ongehinderd B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "393971",
+          "gunning_kenmerk": "548097",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "40828c55-34cb-47c2-96cf-ca2b1e3cf904",
+          "referentie_nummer": "201865002.114.005",
+          "project_sleutel": "eu-supply:pid:430329",
+          "record_id": "377075",
+          "publicatiedatum": "2025-09-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "377004",
+      "titel": "Global Statistical Services",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "ECA International",
+        "AIRINC Europe"
+      ],
+      "toegevoegd": [
+        "ECA International",
+        "AIRINC Europe"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "403311",
+          "gunning_kenmerk": "560201",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "fe10ed04-b856-4027-8aa0-fff581a6301e",
+          "referentie_nummer": "201865003.001.124",
+          "project_sleutel": "eu-supply:pid:429835",
+          "record_id": "377004",
+          "publicatiedatum": "2025-12-03",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "376799",
+      "titel": "SZW-EA Monitor Arbeidsmarktpakket",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "toegevoegd": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "396786",
+          "gunning_kenmerk": "551551",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "1046f998-0c36-453f-a8bc-f8714533ca03",
+          "referentie_nummer": "201865005.011.084",
+          "project_sleutel": "eu-supply:pid:429923",
+          "record_id": "376799",
+          "publicatiedatum": "2025-10-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "375087",
+      "titel": "Pilot Gebedshuizenvisie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Arcadis Nederland B.V."
+      ],
+      "toegevoegd": [
+        "Arcadis Nederland B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "391829",
+          "gunning_kenmerk": "545293",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "1f4f57c5-b833-4f30-aab8-8d33f9fc7432",
+          "referentie_nummer": "TI-2025-0999",
+          "project_sleutel": "",
+          "record_id": "375087",
+          "publicatiedatum": "2025-09-10",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "374868",
+      "titel": "ROVK FIN EA - Advies Deelnemingen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "ABN AMRO",
+        "Aperghis & CO B.V.",
+        "Axeco Corporate Finance B.V.",
+        "Coöperatieve Rabobank U.A.",
+        "EY Adviseurs b.v.",
+        "N M Rothschild & Sons",
+        "PricewaterhouseCoopers Advisory N.V. (PwC)",
+        "DNV Netherlands B.V.",
+        "Mott MacDonald BV",
+        "PA Consulting Services B.V.",
+        "BCG consulting",
+        "McKinsey & Company"
+      ],
+      "toegevoegd": [
+        "ABN AMRO",
+        "Aperghis & CO B.V.",
+        "Axeco Corporate Finance B.V.",
+        "Coöperatieve Rabobank U.A.",
+        "EY Adviseurs b.v.",
+        "N M Rothschild & Sons",
+        "PricewaterhouseCoopers Advisory N.V. (PwC)",
+        "DNV Netherlands B.V.",
+        "Mott MacDonald BV",
+        "PA Consulting Services B.V.",
+        "BCG consulting",
+        "McKinsey & Company"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "400111",
+          "gunning_kenmerk": "555872",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "615112a8-117d-4aa5-a6a9-d37a7dfe6f89",
+          "referentie_nummer": "201865004.015.060",
+          "project_sleutel": "eu-supply:pid:429210",
+          "record_id": "374868",
+          "publicatiedatum": "2025-11-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "371082",
+      "titel": "Consultancy & Business Development INNOVATIE",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Erasmus Centre for Urban, Port and Transport Economics",
+        "Haskoning Nederland B.V.",
+        "Signpost Six B.V.",
+        "DronePort Rotterdam B.V."
+      ],
+      "toegevoegd": [
+        "Erasmus Centre for Urban, Port and Transport Economics",
+        "Haskoning Nederland B.V.",
+        "Signpost Six B.V.",
+        "DronePort Rotterdam B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "402949",
+          "gunning_kenmerk": "559721",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "66d6bc85-8c02-4dbe-a552-0510cc31bde4",
+          "referentie_nummer": "geen",
+          "project_sleutel": "",
+          "record_id": "371082",
+          "publicatiedatum": "2025-11-29",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "369893",
+      "titel": "SZW EA Kwaliteits- en belevingsmetingen schoonmaakonderhoud",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Social Facility"
+      ],
+      "toegevoegd": [
+        "Social Facility"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "387985",
+          "gunning_kenmerk": "539705",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "f9273bec-8ef7-41f6-8a0b-73edcfb47c5c",
+          "referentie_nummer": "201800303.041",
+          "project_sleutel": "eu-supply:pid:413819",
+          "record_id": "369893",
+          "publicatiedatum": "2025-07-31",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "369320",
+      "titel": "Soortenmanagementplan Gemeenten Ermelo, Harderwijk en Putten",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ecogroen B.V."
+      ],
+      "toegevoegd": [
+        "Ecogroen B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "386842",
+          "gunning_kenmerk": "538204",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "70beb3c8-2169-4bd3-83d5-e6a9eea23cb5",
+          "referentie_nummer": "T125",
+          "project_sleutel": "",
+          "record_id": "369320",
+          "publicatiedatum": "2025-07-18",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "368549",
+      "titel": "EUROPESE OPENBARE AANBESTEDING - Transitiemonitoring Npuls - SURF BV",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Risbo"
+      ],
+      "toegevoegd": [
+        "Risbo"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "426449",
+          "gunning_kenmerk": "592244",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "0e16eee5-92ed-4740-8388-573d69d8e631",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "368549",
+          "publicatiedatum": "2026-05-28",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "368012",
+      "titel": "Plan-MER stroomgebiedsaanpak Geul WRL",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Arcadis Nederland B.V."
+      ],
+      "toegevoegd": [
+        "Arcadis Nederland B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "387991",
+          "gunning_kenmerk": "539717",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "5bf4f3b8-ccc7-4de1-807d-fb0fcb956d6a",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "368012",
+          "publicatiedatum": "2025-07-31",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "367343",
+      "titel": "Kwaliteitsmetingen schoonmaakdienstverlening",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "CONTRAST B.V."
+      ],
+      "toegevoegd": [
+        "CONTRAST B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "384087",
+          "gunning_kenmerk": "534545",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "b3d9fc6a-f9c7-4253-a50b-e5a269f86971",
+          "referentie_nummer": "0002709",
+          "project_sleutel": "",
+          "record_id": "367343",
+          "publicatiedatum": "2025-06-27",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "366545",
+      "titel": "Soortenmanagementplan",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "NatuurInclusief B.V."
+      ],
+      "toegevoegd": [
+        "NatuurInclusief B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "392126",
+          "gunning_kenmerk": "545689",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "e30106be-8051-4f04-87c9-9f012b6dffb6",
+          "referentie_nummer": "T106821",
+          "project_sleutel": "",
+          "record_id": "366545",
+          "publicatiedatum": "2025-09-11",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "366294",
+      "titel": "Sociaalperspectiefstudie over Dronten op weg naar 2050",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      ],
+      "toegevoegd": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "383657",
+          "gunning_kenmerk": "533936",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "d756ca9d-63d8-4875-af1f-702e4ef7ab7a",
+          "referentie_nummer": "725689",
+          "project_sleutel": "",
+          "record_id": "366294",
+          "publicatiedatum": "2025-06-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "365852",
+      "titel": "Expertpool vergunningentraject Regionale Energiestrategie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Bosch & Van Rijn B.V."
+      ],
+      "toegevoegd": [
+        "Bosch & Van Rijn B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "400721",
+          "gunning_kenmerk": "556693",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "da190e82-3af7-4e54-a53b-5ecff4ee2895",
+          "referentie_nummer": "2025-001180",
+          "project_sleutel": "",
+          "record_id": "365852",
+          "publicatiedatum": "2025-11-12",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "365442",
+      "titel": "Inzicht in Burgerperspectief",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Zeewaardig BV",
+        "Behavior Change Group - Consulting & Research",
+        "Stichting Movisie"
+      ],
+      "toegevoegd": [
+        "Zeewaardig BV",
+        "Behavior Change Group - Consulting & Research",
+        "Stichting Movisie"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "392404",
+          "gunning_kenmerk": "546048",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "57d2896e-2a4c-4f18-999a-12a5bf92857d",
+          "referentie_nummer": "201865004.015.056",
+          "project_sleutel": "eu-supply:pid:422333",
+          "record_id": "365442",
+          "publicatiedatum": "2025-09-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "363091",
+      "titel": "Archeologisch boor- en proefsleuvenonderzoek & OOO detectie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "BAAC"
+      ],
+      "toegevoegd": [
+        "BAAC"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "373225",
+          "gunning_kenmerk": "519719",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "aeca6b44-303b-4942-9b14-7de8f0998df8",
+          "referentie_nummer": "T128450",
+          "project_sleutel": "",
+          "record_id": "363091",
+          "publicatiedatum": "2025-04-03",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "362222",
+      "titel": "Uitvoering sorteeranalyses",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Eureco"
+      ],
+      "nieuwe_winnaars": [
+        "Eureco B.V."
+      ],
+      "toegevoegd": [
+        "Eureco B.V."
+      ],
+      "verwijderd": [
+        "Eureco"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "362222",
+          "gunning_kenmerk": "486315",
+          "methoden": [
+            "publicatie_id",
+            "procedure_uuid",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "c3d08eca-105c-4301-8717-787a6edbc185",
+          "referentie_nummer": "INK/RS",
+          "project_sleutel": "",
+          "record_id": "362222",
+          "publicatiedatum": "2024-12-22",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "360516",
+      "titel": "EA Periodieke rapportage beschikbaarheid medische producten",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Gupta Strategists"
+      ],
+      "toegevoegd": [
+        "Gupta Strategists"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "375928",
+          "gunning_kenmerk": "523344",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "1752d6a4-d1cd-4402-a1fe-0ddd2747eac6",
+          "referentie_nummer": "201865006.028.148",
+          "project_sleutel": "eu-supply:pid:419150",
+          "record_id": "360516",
+          "publicatiedatum": "2025-04-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "359825",
+      "titel": "Unmanned Ground Sensors",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Bertin Exensor AB"
+      ],
+      "toegevoegd": [
+        "Bertin Exensor AB"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "393851",
+          "gunning_kenmerk": "547929",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "52cfc3cc-b56f-4d38-a800-8b62858b0894",
+          "referentie_nummer": "20906424",
+          "project_sleutel": "",
+          "record_id": "359825",
+          "publicatiedatum": "2025-09-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "359323",
+      "titel": "Soortenmanagementplan",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "bouAd adviesgroep B.V.",
+        "Stichting Natuur- en Vogelwacht Biesbosch"
+      ],
+      "toegevoegd": [
+        "bouAd adviesgroep B.V.",
+        "Stichting Natuur- en Vogelwacht Biesbosch"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "390828",
+          "gunning_kenmerk": "543907",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "60cc277a-fa01-43fa-92b9-ba0ae6300145",
+          "referentie_nummer": "dCI-000453",
+          "project_sleutel": "",
+          "record_id": "359323",
+          "publicatiedatum": "2025-09-02",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "357088",
+      "titel": "SZW EA M&E subsidieregeling financiële educatie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "toegevoegd": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "379691",
+          "gunning_kenmerk": "528423",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "c3bea121-b1bc-48c5-ac89-6f51ea39afb7",
+          "referentie_nummer": "201865005.011.078",
+          "project_sleutel": "eu-supply:pid:416611",
+          "record_id": "357088",
+          "publicatiedatum": "2025-05-22",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "355441",
+      "titel": "Ondersteuning Uitvoeringsplan Duurzaamheid 2025-2027",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Firm of the Future B.V."
+      ],
+      "toegevoegd": [
+        "Firm of the Future B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "368362",
+          "gunning_kenmerk": "512761",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "291cd4f7-a6a8-4d1b-81aa-2237e73c7425",
+          "referentie_nummer": "T108042",
+          "project_sleutel": "",
+          "record_id": "355441",
+          "publicatiedatum": "2025-02-21",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "355380",
+      "titel": "SZW EA Meerjarige monitor programma Simpel Switchen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "KWIZ BV"
+      ],
+      "toegevoegd": [
+        "KWIZ BV"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "368359",
+          "gunning_kenmerk": "512756",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "240db7ed-0a5a-4544-b27a-c5ba686be3fb",
+          "referentie_nummer": "201865005.011.080",
+          "project_sleutel": "eu-supply:pid:416247",
+          "record_id": "355380",
+          "publicatiedatum": "2025-02-21",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "355214",
+      "titel": "Quadruped Robot Systems",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Boston Dynamics, Inc."
+      ],
+      "toegevoegd": [
+        "Boston Dynamics, Inc."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "387987",
+          "gunning_kenmerk": "539709",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "06858eb3-ed29-43b9-bdbf-94d916279ba9",
+          "referentie_nummer": "116134",
+          "project_sleutel": "",
+          "record_id": "355214",
+          "publicatiedatum": "2025-07-31",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "355154",
+      "titel": "EA - Ondersteuning programma Verbeteren en Verbreden van de Toets op het Basispakket (VVTB)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "IQVIA Solutions B.V."
+      ],
+      "toegevoegd": [
+        "IQVIA Solutions B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "396787",
+          "gunning_kenmerk": "551553",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "47619e19-ff71-42a4-a932-36efe150eb7e",
+          "referentie_nummer": "201865006.028.147",
+          "project_sleutel": "eu-supply:pid:416142",
+          "record_id": "355154",
+          "publicatiedatum": "2025-10-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "353377",
+      "titel": "3 x jaarlijkse Update Multi-Modaal Verkeersmodel Groene Metropoolregio Arnhem-Nijmegen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Goudappel B.V."
+      ],
+      "toegevoegd": [
+        "Goudappel B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "362426",
+          "gunning_kenmerk": "504027",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "72cb4f57-91f4-4945-b822-6ef6096fce1d",
+          "referentie_nummer": "2024-009985",
+          "project_sleutel": "",
+          "record_id": "353377",
+          "publicatiedatum": "2024-12-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "351834",
+      "titel": "SZW-NLA-EA  Enquête-afnames Toezicht Wet structuur uitvoeringsorganisatie werk en Inkomen (SUWI)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "369843",
+          "gunning_kenmerk": "514940",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "3cbc4792-2411-4672-9b39-01db304c63ec",
+          "referentie_nummer": "201865005.011.076",
+          "project_sleutel": "eu-supply:pid:413821",
+          "record_id": "351834",
+          "publicatiedatum": "2025-03-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "351496",
+      "titel": "FIN EA - Onderzoek Hersteloperatie Toeslagen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Panteia B.V."
+      ],
+      "toegevoegd": [
+        "Panteia B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "377836",
+          "gunning_kenmerk": "525969",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "fa2087e2-2e74-419c-8755-8a6e4fe27c9f",
+          "referentie_nummer": "201865004.015.045",
+          "project_sleutel": "eu-supply:pid:412734",
+          "record_id": "351496",
+          "publicatiedatum": "2025-05-09",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "351356",
+      "titel": "2024078 Soortenmanagementplan (SMP)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Smit Groenadvies B.V."
+      ],
+      "toegevoegd": [
+        "Smit Groenadvies B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "366293",
+          "gunning_kenmerk": "509695",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "bed65920-7123-4e95-b4c0-4c3ceb599a05",
+          "referentie_nummer": "2024078",
+          "project_sleutel": "",
+          "record_id": "351356",
+          "publicatiedatum": "2025-02-05",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "351226",
+      "titel": "Tussenevaluatie Wi2021",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Regioplan Beleidsonderzoek B.V."
+      ],
+      "toegevoegd": [
+        "Regioplan Beleidsonderzoek B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "372353",
+          "gunning_kenmerk": "518506",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "00c13f90-ccd9-4414-8509-caf6f0429feb",
+          "referentie_nummer": "201865005011077",
+          "project_sleutel": "eu-supply:pid:413775",
+          "record_id": "351226",
+          "publicatiedatum": "2025-03-27",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "348087",
+      "titel": "Coördinatie herintroductie en bijplaatsen planten droge heischrale omstandigheden Veluwe",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Coöperatie Bosgroep Midden Nederland U.A."
+      ],
+      "toegevoegd": [
+        "Coöperatie Bosgroep Midden Nederland U.A."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "361237",
+          "gunning_kenmerk": "502508",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "b6e9a1a5-12e1-41d8-9e85-34f5a12ac210",
+          "referentie_nummer": "2024-007259",
+          "project_sleutel": "",
+          "record_id": "348087",
+          "publicatiedatum": "2024-12-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "348008",
+      "titel": "VWS EA - Evaluatie Transparantieregister Zorg",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting Instituut voor Verantwoord Medicijngebruik"
+      ],
+      "toegevoegd": [
+        "Stichting Instituut voor Verantwoord Medicijngebruik"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "362096",
+          "gunning_kenmerk": "503635",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "701a23e1-4069-45d7-b28e-333ed8498d3e",
+          "referentie_nummer": "201865006.028.145",
+          "project_sleutel": "eu-supply:pid:411727",
+          "record_id": "348008",
+          "publicatiedatum": "2024-12-21",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "348000",
+      "titel": "VWS EA Landelijk ondersteuningsprogramma laagdrempelige steunpunten IZA (2)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Significant Groep bv"
+      ],
+      "toegevoegd": [
+        "Significant Groep bv"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "366412",
+          "gunning_kenmerk": "509883",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "7de2db78-e2bb-4901-b142-0153ef3b2efe",
+          "referentie_nummer": "201865006.028.146",
+          "project_sleutel": "eu-supply:pid:411803",
+          "record_id": "348000",
+          "publicatiedatum": "2025-02-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "346854",
+      "titel": "Doorlopend medewerkers- en dienstverlatersonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "MWM2 B.V."
+      ],
+      "toegevoegd": [
+        "MWM2 B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "414641",
+          "gunning_kenmerk": "575472",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "cabb6aa5-41f4-4e0b-ae2e-1e6fa293e67b",
+          "referentie_nummer": "21413025",
+          "project_sleutel": "",
+          "record_id": "346854",
+          "publicatiedatum": "2026-03-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "344965",
+      "titel": "Raamovereenkomst levering CO2-incubatoren UMCG en UAMC",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "PHC Europe B.V."
+      ],
+      "toegevoegd": [
+        "PHC Europe B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "365017",
+          "gunning_kenmerk": "507925",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "87c90c91-077d-4395-a8ad-116008f70f6b",
+          "referentie_nummer": "102943",
+          "project_sleutel": "",
+          "record_id": "344965",
+          "publicatiedatum": "2025-01-26",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "344558",
+      "titel": "SZW EA Inzichten- en evaluatieonderzoek proeven Startbanen 2023 -2024",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "De Beleidsonderzoekers"
+      ],
+      "toegevoegd": [
+        "De Beleidsonderzoekers"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "369096",
+          "gunning_kenmerk": "513881",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "bfd28580-ea1f-40fb-acdf-277be2298a1f",
+          "referentie_nummer": "201865005.011.075",
+          "project_sleutel": "eu-supply:pid:409495",
+          "record_id": "344558",
+          "publicatiedatum": "2025-02-28",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "343256",
+      "titel": "Hoofdonderzoek onderzoeks- en verbetercultuurtrajecten in Ontwikkelkracht",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Oberon B.V."
+      ],
+      "toegevoegd": [
+        "Oberon B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "364221",
+          "gunning_kenmerk": "506820",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "c176e806-06e1-4174-a542-332481f98e7d",
+          "referentie_nummer": "2024104",
+          "project_sleutel": "",
+          "record_id": "343256",
+          "publicatiedatum": "2025-01-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "342842",
+      "titel": "VWS EA - Overall Toets en normbedragen 2026-2029",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Gupta Strategists"
+      ],
+      "toegevoegd": [
+        "Gupta Strategists"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "361907",
+          "gunning_kenmerk": "503382",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "c211f6d8-0744-49c5-9f47-1cf6e2e7db92",
+          "referentie_nummer": "201865006.028.143",
+          "project_sleutel": "eu-supply:pid:408347",
+          "record_id": "342842",
+          "publicatiedatum": "2024-12-20",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "341763",
+      "titel": "Adviesdiensten opzetten publieke warmtenetten",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Berenschot B.V.",
+        "Fakton Energy B.V."
+      ],
+      "toegevoegd": [
+        "Berenschot B.V.",
+        "Fakton Energy B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "355989",
+          "gunning_kenmerk": "495073",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "1d05d1cf-05b5-4e3d-811e-f134dc346f9a",
+          "referentie_nummer": "DSO-24.127",
+          "project_sleutel": "",
+          "record_id": "341763",
+          "publicatiedatum": "2024-11-05",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "341189",
+      "titel": "Europese openbare aanbesteding voor een Raamovereenkomst Ecologische adviesbureaus",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Antea Nederland B.V.",
+        "ATKB B.V.",
+        "Bureau Biota",
+        "DilleropNatuurAdvies",
+        "Eco Reest B.V.",
+        "Faunatech",
+        "JM Ecologie b.v.",
+        "Mateboer Milieu Techniek B.V.",
+        "Witteveen Groenprojecten & Advies B.V."
+      ],
+      "toegevoegd": [
+        "Antea Nederland B.V.",
+        "ATKB B.V.",
+        "Bureau Biota",
+        "DilleropNatuurAdvies",
+        "Eco Reest B.V.",
+        "Faunatech",
+        "JM Ecologie b.v.",
+        "Mateboer Milieu Techniek B.V.",
+        "Witteveen Groenprojecten & Advies B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "362687",
+          "gunning_kenmerk": "504426",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "cc5a66ce-8053-4c97-919b-e99b35dc1ba5",
+          "referentie_nummer": "NCG/EUA/ROK-EA/SP/20240701",
+          "project_sleutel": "",
+          "record_id": "341189",
+          "publicatiedatum": "2024-12-31",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "340784",
+      "titel": "EA - Omgevingsplan 2024 e.v. - Gemeente Hellendoorn",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "B�gelHajema Adviseurs B.V."
+      ],
+      "toegevoegd": [
+        "B�gelHajema Adviseurs B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "358271",
+          "gunning_kenmerk": "498243",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "35c0bc58-11c9-487b-a1fc-c9e128447e51",
+          "referentie_nummer": "T92699",
+          "project_sleutel": "",
+          "record_id": "340784",
+          "publicatiedatum": "2024-11-22",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "338918",
+      "titel": "Uitvoering enquêtes Veiligheidsmonitor",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "352281",
+          "gunning_kenmerk": "490117",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "9efd5cd1-0811-4c0d-b85b-df5841cfc594",
+          "referentie_nummer": "5222342",
+          "project_sleutel": "eu-supply:pid:405509",
+          "record_id": "338918",
+          "publicatiedatum": "2024-10-08",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "338715",
+      "titel": "BZ EA - PROGRESS 3.0",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Nederlands Instituut voor Internationale Betrekkingen 'Clingendael'"
+      ],
+      "toegevoegd": [
+        "Nederlands Instituut voor Internationale Betrekkingen 'Clingendael'"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "353543",
+          "gunning_kenmerk": "491787",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "57fdc284-34df-4d5f-a7aa-296f83a12597",
+          "referentie_nummer": "201865003.001.118",
+          "project_sleutel": "eu-supply:pid:404718",
+          "record_id": "338715",
+          "publicatiedatum": "2024-10-17",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "337896",
+      "titel": "AZ - EA Campagne-effectonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Mantle Netherlands B.V."
+      ],
+      "toegevoegd": [
+        "Mantle Netherlands B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "373690",
+          "gunning_kenmerk": "520327",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "5f217785-c1aa-4252-984b-e9cce43f2f8a",
+          "referentie_nummer": "201865001.001.007",
+          "project_sleutel": "eu-supply:pid:400786",
+          "record_id": "337896",
+          "publicatiedatum": "2025-04-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        },
+        {
+          "gunning_publicatie_id": "374618",
+          "gunning_kenmerk": "521613",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "5f217785-c1aa-4252-984b-e9cce43f2f8a",
+          "referentie_nummer": "201865001.001.007",
+          "project_sleutel": "eu-supply:pid:400786",
+          "record_id": "337896",
+          "publicatiedatum": "2025-04-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "337932",
+      "titel": "Nationaal Openbare Aanbesteding gebruikersonderzoeken websites",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Conclusion Experience BV",
+        "Hike One"
+      ],
+      "toegevoegd": [
+        "Conclusion Experience BV",
+        "Hike One"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "346920",
+          "gunning_kenmerk": "482857",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "196f2de3-f1bb-4d06-8693-ea2019f78145",
+          "referentie_nummer": "2024010578",
+          "project_sleutel": "",
+          "record_id": "337932",
+          "publicatiedatum": "2024-08-27",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "337163",
+      "titel": "Team Stadadviseurs",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Kickstad B.V.",
+        "MIXST urbanisme"
+      ],
+      "toegevoegd": [
+        "Kickstad B.V.",
+        "MIXST urbanisme"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "363832",
+          "gunning_kenmerk": "506291",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "ffb93a55-0cfa-4a26-bfcb-3e73b2e1c0f0",
+          "referentie_nummer": "DSO-24.066",
+          "project_sleutel": "",
+          "record_id": "337163",
+          "publicatiedatum": "2025-01-16",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "336905",
+      "titel": "AZ - EA Research Communities",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Blauw Research B.V."
+      ],
+      "toegevoegd": [
+        "Blauw Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "372875",
+          "gunning_kenmerk": "519194",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "078d6d74-b813-4f90-be6d-ac4f56ae84b1",
+          "referentie_nummer": "201865001.001.008",
+          "project_sleutel": "eu-supply:pid:403852",
+          "record_id": "336905",
+          "publicatiedatum": "2025-04-01",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "346644",
+      "titel": "Ontwerpend onderzoek en gebiedsperspectief A(mersfoort) tot Z(eist)",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "PosadMaxwan"
+      ],
+      "nieuwe_winnaars": [
+        "PosadMaxwan V.O.F."
+      ],
+      "toegevoegd": [
+        "PosadMaxwan V.O.F."
+      ],
+      "verwijderd": [
+        "PosadMaxwan"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "346644",
+          "gunning_kenmerk": "468089",
+          "methoden": [
+            "publicatie_id",
+            "procedure_uuid",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "a6e25b10-bbaf-44a7-98c4-1ab1c049fdf7",
+          "referentie_nummer": "21705",
+          "project_sleutel": "",
+          "record_id": "346644",
+          "publicatiedatum": "2024-08-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "336390",
+      "titel": "Ecologisch onderzoek Soorten Management Plan (SMP) tbv Gemeenten Bergeijk, Best, Boekel, Oirschot en Someren.",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Orbis BV",
+        "Bureau van Nierop BV",
+        "Eco Consult"
+      ],
+      "toegevoegd": [
+        "Orbis BV",
+        "Bureau van Nierop BV",
+        "Eco Consult"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "386574",
+          "gunning_kenmerk": "537830",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "f573c8e6-9477-45e0-8f98-53bcc5794f35",
+          "referentie_nummer": "BIZOB-2024-GEZ-JBE-00224",
+          "project_sleutel": "",
+          "record_id": "336390",
+          "publicatiedatum": "2025-07-17",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "335914",
+      "titel": "BZ ROVK Evaluations",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "ADE",
+        "BKP Economic Advisors GmbH",
+        "CEval GmbH",
+        "Dialogic Innovatie & Interactie",
+        "Ecorys Nederland B.V.",
+        "ERBS BV",
+        "Institute of Development Studies",
+        "I&O Research B.V.",
+        "Itad Ltd",
+        "KIT Royal Tropical Institute",
+        "Laterite BV",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH (operating in the English language under the name \"Center for Evaluation and Development (C4ED)\")",
+        "MDF Training & Consultancy",
+        "Particip GmbH",
+        "PEMconsult A/S",
+        "PricewaterhouseCoopers Advisory N.V. (PwC)",
+        "Radboud Universiteit",
+        "RAND Europe Community Interest Company",
+        "Stichting Wageningen Research / Centre for Development Innovation",
+        "International Initiative for Impact Evaluation"
+      ],
+      "toegevoegd": [
+        "ADE",
+        "BKP Economic Advisors GmbH",
+        "CEval GmbH",
+        "Dialogic Innovatie & Interactie",
+        "Ecorys Nederland B.V.",
+        "ERBS BV",
+        "Institute of Development Studies",
+        "I&O Research B.V.",
+        "Itad Ltd",
+        "KIT Royal Tropical Institute",
+        "Laterite BV",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH (operating in the English language under the name \"Center for Evaluation and Development (C4ED)\")",
+        "MDF Training & Consultancy",
+        "Particip GmbH",
+        "PEMconsult A/S",
+        "PricewaterhouseCoopers Advisory N.V. (PwC)",
+        "Radboud Universiteit",
+        "RAND Europe Community Interest Company",
+        "Stichting Wageningen Research / Centre for Development Innovation",
+        "International Initiative for Impact Evaluation"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "365375",
+          "gunning_kenmerk": "508395",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "a9389d65-d380-45f9-9eae-9d8a1569d209",
+          "referentie_nummer": "201865003.001.106",
+          "project_sleutel": "eu-supply:pid:403116",
+          "record_id": "335914",
+          "publicatiedatum": "2025-01-29",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "334911",
+      "titel": "Ontwikkeling Gebiedsprocessen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Arcadis Nederland B.V.",
+        "Sweco Nederland B.V.",
+        "Twynstra Gudde Holding B.V."
+      ],
+      "toegevoegd": [
+        "Arcadis Nederland B.V.",
+        "Sweco Nederland B.V.",
+        "Twynstra Gudde Holding B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "348943",
+          "gunning_kenmerk": "485722",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "c2d13434-39e4-455c-b8cc-7a66c0e668da",
+          "referentie_nummer": "T69570",
+          "project_sleutel": "",
+          "record_id": "334911",
+          "publicatiedatum": "2024-09-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "334873",
+      "titel": "SZW EA - Onderzoek detachering Europees wegvervoer",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Panteia B.V."
+      ],
+      "toegevoegd": [
+        "Panteia B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "373255",
+          "gunning_kenmerk": "519758",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "5c3d472e-2d27-4d5b-b4a9-e2cede362f15",
+          "referentie_nummer": "201865005.011.069",
+          "project_sleutel": "eu-supply:pid:402306",
+          "record_id": "334873",
+          "publicatiedatum": "2025-04-03",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "334912",
+      "titel": "VWS EA - Evaluatie beschikbaarheidbijdrage art. 56a Wet marktordening gezondheidszorg",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "SiRM"
+      ],
+      "toegevoegd": [
+        "SiRM"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "346506",
+          "gunning_kenmerk": "482249",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "0de89435-af84-4e20-9c6e-8cf2d3c950cd",
+          "referentie_nummer": "202865006.028.140",
+          "project_sleutel": "eu-supply:pid:402186",
+          "record_id": "334912",
+          "publicatiedatum": "2024-08-23",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "334665",
+      "titel": "AZ - Algemeen Kwantitatief Communicatieonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V.",
+        "Mantle Netherlands B.V.",
+        "Motivaction"
+      ],
+      "toegevoegd": [
+        "I&O Research B.V.",
+        "Mantle Netherlands B.V.",
+        "Motivaction"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "355655",
+          "gunning_kenmerk": "494542",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "dc8c3180-8a06-4d62-b0af-54ae302b1e30",
+          "referentie_nummer": "201865001.001.010",
+          "project_sleutel": "eu-supply:pid:400788",
+          "record_id": "334665",
+          "publicatiedatum": "2024-11-02",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "334043",
+      "titel": "SoortenManagementPlan (SMP)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ecochore Natuurtechniek B.V."
+      ],
+      "toegevoegd": [
+        "Ecochore Natuurtechniek B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "352957",
+          "gunning_kenmerk": "490984",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "6cefe7c3-ded5-4a46-b08c-2aeabe2912a4",
+          "referentie_nummer": "T72491",
+          "project_sleutel": "",
+          "record_id": "334043",
+          "publicatiedatum": "2024-10-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "333776",
+      "titel": "VoedselConsumptiePeiling",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "357774",
+          "gunning_kenmerk": "497539",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "900e33fe-b8ec-4377-a9d9-de6ac2660921",
+          "referentie_nummer": "T83945/RIVM/LP",
+          "project_sleutel": "",
+          "record_id": "333776",
+          "publicatiedatum": "2024-11-20",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "333456",
+      "titel": "Kwalitatief communicatieonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ferro Explore B.V.",
+        "Mare Holland B.V.",
+        "Motivaction"
+      ],
+      "toegevoegd": [
+        "Ferro Explore B.V.",
+        "Mare Holland B.V.",
+        "Motivaction"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "358839",
+          "gunning_kenmerk": "499049",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "5205030e-fbc3-4f7b-9563-a458d3a0031c",
+          "referentie_nummer": "201865001.001.009",
+          "project_sleutel": "eu-supply:pid:400785",
+          "record_id": "333456",
+          "publicatiedatum": "2024-11-27",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "333053",
+      "titel": "Certificering, toezicht en ondersteuning MLA",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "ADSE Consulting and Engineering B.V."
+      ],
+      "toegevoegd": [
+        "ADSE Consulting and Engineering B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "360172",
+          "gunning_kenmerk": "500986",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "fc92f011-1245-4721-af3a-7c1092e68a9e",
+          "referentie_nummer": "21722893",
+          "project_sleutel": "",
+          "record_id": "333053",
+          "publicatiedatum": "2024-12-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "333085",
+      "titel": "EA LEADERcoordinator Zuid West Twente",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Marb Consultancy B.V."
+      ],
+      "toegevoegd": [
+        "Marb Consultancy B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "354232",
+          "gunning_kenmerk": "492654",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "bfe7b6ca-42a1-459d-863b-aa3367588630",
+          "referentie_nummer": "T76236",
+          "project_sleutel": "",
+          "record_id": "333085",
+          "publicatiedatum": "2024-10-23",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "333106",
+      "titel": "VWS EA - Landelijke oefening Pandemische Paraatheid",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Deloitte Risk Advisory B.V."
+      ],
+      "toegevoegd": [
+        "Deloitte Risk Advisory B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "349701",
+          "gunning_kenmerk": "486702",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "19d4715a-c868-4097-b8ce-a6d64dad554d",
+          "referentie_nummer": "201865006.028.133",
+          "project_sleutel": "eu-supply:pid:401278",
+          "record_id": "333106",
+          "publicatiedatum": "2024-09-20",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "330706",
+      "titel": "SZW EA - Onderzoek en Advies Professionals voor Maatwerk Multiproblematiek (PMM)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Pluut & Partners"
+      ],
+      "toegevoegd": [
+        "Pluut & Partners"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "352775",
+          "gunning_kenmerk": "490771",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "74ff3bd7-0d34-4e68-b556-81b00ac6460a",
+          "referentie_nummer": "201865005.011.073",
+          "project_sleutel": "eu-supply:pid:397834",
+          "record_id": "330706",
+          "publicatiedatum": "2024-10-11",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "330424",
+      "titel": "EA Klantonderzoek - 2024",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Goudappel B.V.",
+        "Motivaction",
+        "MWM2 B.V.",
+        "Neurensics B.V.",
+        "Blauw Research B.V.",
+        "Mantle Netherlands B.V."
+      ],
+      "toegevoegd": [
+        "Goudappel B.V.",
+        "Motivaction",
+        "MWM2 B.V.",
+        "Neurensics B.V.",
+        "Blauw Research B.V.",
+        "Mantle Netherlands B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "441309",
+          "gunning_kenmerk": "614231",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "a7b9442b-cf69-409c-87a8-3571ec295d63",
+          "referentie_nummer": "T79488-65f96e783d11234be0d93c58",
+          "project_sleutel": "",
+          "record_id": "330424",
+          "publicatiedatum": "2026-09-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "329927",
+      "titel": "EU - Soortenmanagementplan (SMP)- gemeente Hellendoorn",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "NatuurInclusief B.V."
+      ],
+      "toegevoegd": [
+        "NatuurInclusief B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "340604",
+          "gunning_kenmerk": "473600",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "0f2b0aef-6381-4e73-87e9-af375d54d908",
+          "referentie_nummer": "T73170",
+          "project_sleutel": "",
+          "record_id": "329927",
+          "publicatiedatum": "2024-06-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "328587",
+      "titel": "Experiment Team",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Forty B.V.",
+        "Koos B.V.",
+        "The Talent Institute B.V."
+      ],
+      "toegevoegd": [
+        "Forty B.V.",
+        "Koos B.V.",
+        "The Talent Institute B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "336082",
+          "gunning_kenmerk": "467166",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "518acd79-08af-4cb8-836e-773590e99800",
+          "referentie_nummer": "T70145",
+          "project_sleutel": "",
+          "record_id": "328587",
+          "publicatiedatum": "2024-05-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "328490",
+      "titel": "Systematische reviews",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht"
+      ],
+      "toegevoegd": [
+        "Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "346850",
+          "gunning_kenmerk": "482738",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "0cbd1f94-daa0-4f0e-b8ff-e5d61e0dada8",
+          "referentie_nummer": "2024000946",
+          "project_sleutel": "",
+          "record_id": "328490",
+          "publicatiedatum": "2024-08-28",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "328125",
+      "titel": "Soortenmanagementplan (2025-2026)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "v.d. Goes en Groot Ecol.Onderz.en Adv. Bureau"
+      ],
+      "toegevoegd": [
+        "v.d. Goes en Groot Ecol.Onderz.en Adv. Bureau"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "338282",
+          "gunning_kenmerk": "470236",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "f16261aa-4dda-468c-8509-aba3c2ae0307",
+          "referentie_nummer": "A43322",
+          "project_sleutel": "",
+          "record_id": "328125",
+          "publicatiedatum": "2024-06-04",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "326840",
+      "titel": "VWS EA Landelijke Rapportage cliëntervaringsonderzoeken Wmo",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "346740",
+          "gunning_kenmerk": "482558",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "888a51ef-3480-4534-bc53-0e8d090199db",
+          "referentie_nummer": "201865006.028.136",
+          "project_sleutel": "eu-supply:pid:394451",
+          "record_id": "326840",
+          "publicatiedatum": "2024-08-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "326020",
+      "titel": "Soortenmanagementplan gemeente Losser",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Eelerwoude B.V."
+      ],
+      "toegevoegd": [
+        "Eelerwoude B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "350413",
+          "gunning_kenmerk": "487752",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "f49b50fa-5157-438e-ac39-36d3dab0b36a",
+          "referentie_nummer": "T64954 Soortenmanagementplan gemeente Losser",
+          "project_sleutel": "",
+          "record_id": "326020",
+          "publicatiedatum": "2024-09-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "325878",
+      "titel": "BZK EA - Financiële verkenningen woningcorporaties",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ortec Finance B.V."
+      ],
+      "toegevoegd": [
+        "Ortec Finance B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "344596",
+          "gunning_kenmerk": "479329",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "7e025101-b5a6-4163-a2e9-5dbc0d53bfbc",
+          "referentie_nummer": "201865002.001.104",
+          "project_sleutel": "eu-supply:pid:393828",
+          "record_id": "325878",
+          "publicatiedatum": "2024-07-26",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "324682",
+      "titel": "Ecologisch onderzoek SoortenManagementPlan (SMP)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Staro Bos- en Natuurbeheer B.V."
+      ],
+      "toegevoegd": [
+        "Staro Bos- en Natuurbeheer B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "339403",
+          "gunning_kenmerk": "471940",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "f7f49d47-c93a-4342-b5e4-bf9d468e2e46",
+          "referentie_nummer": "Bizob-2024-BER-JBE-00011",
+          "project_sleutel": "",
+          "record_id": "324682",
+          "publicatiedatum": "2024-06-14",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "324068",
+      "titel": "Raamovereenkomst Ruimtelijk ontwerp",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Flux Landscape Architecture B.V.",
+        "PosadMaxwan V.O.F.",
+        "Strootman Landschapsarchitecten",
+        "Studio Marco Vermeulen BV",
+        "Wing Process Consultancy B.V.",
+        "H+N+S B.V.",
+        "One Architecture BV",
+        "BURA urbanism B.V.",
+        "BVR adviseurs ruimtelijke ontwikkeling",
+        "Studio Bereikbaar",
+        "Urhahn Urban Design",
+        "VenhoevenCS architecture+urbanism"
+      ],
+      "toegevoegd": [
+        "Flux Landscape Architecture B.V.",
+        "PosadMaxwan V.O.F.",
+        "Strootman Landschapsarchitecten",
+        "Studio Marco Vermeulen BV",
+        "Wing Process Consultancy B.V.",
+        "H+N+S B.V.",
+        "One Architecture BV",
+        "BURA urbanism B.V.",
+        "BVR adviseurs ruimtelijke ontwikkeling",
+        "Studio Bereikbaar",
+        "Urhahn Urban Design",
+        "VenhoevenCS architecture+urbanism"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "345085",
+          "gunning_kenmerk": "480108",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "9a61ee97-605e-42f2-be3f-1f56429c44f0",
+          "referentie_nummer": "201865002.001.103",
+          "project_sleutel": "eu-supply:pid:392098",
+          "record_id": "324068",
+          "publicatiedatum": "2024-08-02",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "323831",
+      "titel": "SZW EA Kostprijsonderzoek kinderopvang",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "toegevoegd": [
+        "Stichting SEO Economisch Onderzoek"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "338967",
+          "gunning_kenmerk": "471269",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "5e28032f-8cd8-4d2a-bd84-c912362a6ddf",
+          "referentie_nummer": "201865005.011.072",
+          "project_sleutel": "eu-supply:pid:391966",
+          "record_id": "323831",
+          "publicatiedatum": "2024-06-09",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "322538",
+      "titel": "BZK-EA Uitvoeren lastendrukmetingen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Ecorys Nederland B.V."
+      ],
+      "toegevoegd": [
+        "Ecorys Nederland B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "361925",
+          "gunning_kenmerk": "503410",
+          "methoden": [
+            "procedure_uuid",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "290115c6-f318-4bf4-b23e-f3b6cc461a3c",
+          "referentie_nummer": "201865002.001.095",
+          "project_sleutel": "eu-supply:pid:391171",
+          "record_id": "322538",
+          "publicatiedatum": "2024-12-20",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "320562",
+      "titel": "SZW EA Nationaal onderzoek Moslimdiscriminatie",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Regioplan Beleidsonderzoek B.V.",
+        "Universiteit Utrecht, Faculteit Sociale Wetenschappen (ERCOMER)"
+      ],
+      "nieuwe_winnaars": [
+        "Regioplan Beleidsonderzoek B.V.",
+        "Universiteit Utrecht"
+      ],
+      "toegevoegd": [
+        "Universiteit Utrecht"
+      ],
+      "verwijderd": [
+        "Universiteit Utrecht, Faculteit Sociale Wetenschappen (ERCOMER)"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "320562",
+          "gunning_kenmerk": "420814",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "201865005.011.059",
+          "project_sleutel": "eu-supply:pid:373983",
+          "record_id": "320562",
+          "publicatiedatum": "2023-12-21",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "320470",
+      "titel": "Ecologisch onderzoek SoortenManagementPlan (SMP)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Pius Floris Onderzoek & Advies"
+      ],
+      "toegevoegd": [
+        "Pius Floris Onderzoek & Advies"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "333903",
+          "gunning_kenmerk": "463937",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "c58a1c2d-94b7-4ee7-b528-190440aa9c46",
+          "referentie_nummer": "BIZOB-2023-GEZ-NOP-00666",
+          "project_sleutel": "",
+          "record_id": "320470",
+          "publicatiedatum": "2024-04-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "319716",
+      "titel": "Klantonderzoek",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "MarketResponse Nederland B.V.",
+        "Blauw Research B.V.",
+        "Miles Research"
+      ],
+      "toegevoegd": [
+        "MarketResponse Nederland B.V.",
+        "Blauw Research B.V.",
+        "Miles Research"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "335684",
+          "gunning_kenmerk": "466590",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "0612df03-fc1e-408d-800a-fdc64516fa28",
+          "referentie_nummer": "2023-6420",
+          "project_sleutel": "",
+          "record_id": "319716",
+          "publicatiedatum": "2024-05-09",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "319383",
+      "titel": "BZ-EA  Learning Partner to the Grant Programme ‘Contributing to Peaceful and Safe Societies 2024-2031",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Itad Ltd"
+      ],
+      "toegevoegd": [
+        "Itad Ltd"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "345301",
+          "gunning_kenmerk": "480411",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "23771c73-4d55-4b9d-b413-41364a1e866a",
+          "referentie_nummer": "201865003.001.107",
+          "project_sleutel": "eu-supply:pid:388835",
+          "record_id": "319383",
+          "publicatiedatum": "2024-08-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "318397",
+      "titel": "SZW EA Evaluatie ESF+ 2021-2027 (arbeidsmarkttoeleiding en actieve inclusie)",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Panteia B.V."
+      ],
+      "toegevoegd": [
+        "Panteia B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "335810",
+          "gunning_kenmerk": "466780",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "ca6ff483-3a6e-4a5a-9507-4fc57aa32451",
+          "referentie_nummer": "201865005.011.067",
+          "project_sleutel": "eu-supply:pid:387944",
+          "record_id": "318397",
+          "publicatiedatum": "2024-05-10",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "316976",
+      "titel": "BZK ROVK Arbeidsmarktcommunicatie",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Motivaction",
+        "0to9",
+        "MMS Communications Netherlands B.V.",
+        "Steam Advertising B.V."
+      ],
+      "toegevoegd": [
+        "Motivaction",
+        "0to9",
+        "MMS Communications Netherlands B.V.",
+        "Steam Advertising B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "342761",
+          "gunning_kenmerk": "476773",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "b727a6de-40d4-4f34-959d-264e2edee073",
+          "referentie_nummer": "201865001.001.004",
+          "project_sleutel": "eu-supply:pid:385067",
+          "record_id": "316976",
+          "publicatiedatum": "2024-07-11",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "316834",
+      "titel": "VWS EA Arbeidsaanbodpanel 2024-2029",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "I&O Research B.V."
+      ],
+      "toegevoegd": [
+        "I&O Research B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "337066",
+          "gunning_kenmerk": "468526",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "b3c87013-1c3d-4c09-95e4-f80ac73c1737",
+          "referentie_nummer": "201865006.029.010",
+          "project_sleutel": "eu-supply:pid:385783",
+          "record_id": "316834",
+          "publicatiedatum": "2024-05-24",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "316736",
+      "titel": "SZW-EA Monitor kwaliteitseisen kinderopvang",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Berenschot B.V."
+      ],
+      "toegevoegd": [
+        "Berenschot B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "336388",
+          "gunning_kenmerk": "467586",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "5bcb3457-40b5-4325-a1cd-7c1fb74d9ee0",
+          "referentie_nummer": "201865005.011.064",
+          "project_sleutel": "eu-supply:pid:385639",
+          "record_id": "316736",
+          "publicatiedatum": "2024-05-16",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "315358",
+      "titel": "Monitoring- en evaluatieonderzoek Jeugd- en Gezinshulp",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      ],
+      "toegevoegd": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "348286",
+          "gunning_kenmerk": "484829",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "60ed327a-8df2-4b43-910f-689de3cd1c72",
+          "referentie_nummer": "OCW-23-207",
+          "project_sleutel": "",
+          "record_id": "315358",
+          "publicatiedatum": "2024-09-08",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "315298",
+      "titel": "Adviseren, lerend beheren gebiedsontwikkeling Buytenland van Rhoon",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "CLM Onderzoek en Advies BV",
+        "Vereniging Nederlands Cultuurlandschap"
+      ],
+      "toegevoegd": [
+        "CLM Onderzoek en Advies BV",
+        "Vereniging Nederlands Cultuurlandschap"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "328544",
+          "gunning_kenmerk": "455956",
+          "methoden": [
+            "procedure_uuid"
+          ],
+          "procedure_uuid": "5b096ed4-90fe-4955-9d57-8f2f0ed4029b",
+          "referentie_nummer": "BvR-EA-2023-001",
+          "project_sleutel": "",
+          "record_id": "315298",
+          "publicatiedatum": "2024-03-09",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "314369",
+      "titel": "SZW EA Onderzoek (In)zicht op arbeidsmigranten",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Risbo Contractresearch B.V."
+      ],
+      "toegevoegd": [
+        "Risbo Contractresearch B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "332842",
+          "gunning_kenmerk": "462225",
+          "methoden": [
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "c1f44532-c7bc-4971-9eaa-fc56b336d4fb",
+          "referentie_nummer": "201865005.011.063",
+          "project_sleutel": "eu-supply:pid:382844",
+          "record_id": "314369",
+          "publicatiedatum": "2024-04-17",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "313559",
+      "titel": "Onderzoek naar het effect van het bestuursgericht Toezicht",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Oberon"
+      ],
+      "toegevoegd": [
+        "Oberon"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "325854",
+          "gunning_kenmerk": "452084",
+          "methoden": [
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "2c4dc7b3-90ca-404a-add3-c3bf6d48c4d6",
+          "referentie_nummer": "IVHO-KV-EAS-IUCN23070009",
+          "project_sleutel": "eu-supply:pid:378912",
+          "record_id": "313559",
+          "publicatiedatum": "2024-02-13",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "312732",
+      "titel": "VWS EA Prevalentie onderzoek discriminatie, dtv RIS",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Mantle Netherlands B.V."
+      ],
+      "toegevoegd": [
+        "Mantle Netherlands B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "331208",
+          "gunning_kenmerk": "459777",
+          "methoden": [
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "07de53f2-a78d-4b0f-9cde-7b273f5ad18d",
+          "referentie_nummer": "201865006.028.124",
+          "project_sleutel": "eu-supply:pid:378851",
+          "record_id": "312732",
+          "publicatiedatum": "2024-04-03",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "311966",
+      "titel": "SZW-Cat EA Kwaliteitsmetingen schoonmaakonderhoud en dieptereiniging horecaruimten Defensie dtv RIS",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "Inkada B.V."
+      ],
+      "toegevoegd": [
+        "Inkada B.V."
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "336206",
+          "gunning_kenmerk": "467318",
+          "methoden": [
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "b074ad5e-e1e3-4c3e-864d-3fcc0c813cfc",
+          "referentie_nummer": "201800303.039",
+          "project_sleutel": "eu-supply:pid:380029",
+          "record_id": "311966",
+          "publicatiedatum": "2024-05-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "310763",
+      "titel": "SZW EA Monitor transitie Wet toekomst pensioenen",
+      "oude_status": "lopend",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [],
+      "nieuwe_winnaars": [
+        "EY Advisory Netherlands LLP"
+      ],
+      "toegevoegd": [
+        "EY Advisory Netherlands LLP"
+      ],
+      "verwijderd": [],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "326304",
+          "gunning_kenmerk": "452736",
+          "methoden": [
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "c3090270-a02b-49cc-b553-a95b2ae8d498",
+          "referentie_nummer": "201865005.011.055",
+          "project_sleutel": "eu-supply:pid:379918",
+          "record_id": "310763",
+          "publicatiedatum": "2024-02-16",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "309142",
+      "titel": "Onderzoeksdiensten RDW",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Stichting Centerdata",
+        "KCM Survey B.V.",
+        "I&O Research B.V.",
+        "Mantle Netherlands B.V. h.o.d.n. Kantar Public",
+        "Panteia B.V."
+      ],
+      "nieuwe_winnaars": [
+        "KCM Survey B.V.",
+        "I&O Research B.V.",
+        "Mantle Netherlands B.V.",
+        "Panteia B.V.",
+        "Stichting Centerdata"
+      ],
+      "toegevoegd": [
+        "Mantle Netherlands B.V."
+      ],
+      "verwijderd": [
+        "Mantle Netherlands B.V. h.o.d.n. Kantar Public"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "309142",
+          "gunning_kenmerk": "411441",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "1981",
+          "project_sleutel": "negometrix:tender:218788",
+          "record_id": "309142",
+          "publicatiedatum": "2023-09-08",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "308902",
+      "titel": "BD-EURAAN-RD-IUCN23040182 EA LLO Collectief",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "ITTA UvA bv",
+        "Stichting Lezen en Schrijven"
+      ],
+      "nieuwe_winnaars": [
+        "ITTA UvA",
+        "Stichting Lezen en Schrijven"
+      ],
+      "toegevoegd": [
+        "ITTA UvA"
+      ],
+      "verwijderd": [
+        "ITTA UvA bv"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "308902",
+          "gunning_kenmerk": "409715",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "BD-EURAAN-RD-IUCN23040182",
+          "project_sleutel": "eu-supply:pid:362186",
+          "record_id": "308902",
+          "publicatiedatum": "2023-09-06",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "294038",
+      "titel": "Publicatie gegunde opdracht Inzet ABF research voor actualisatie SEG.",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "ABF Research"
+      ],
+      "nieuwe_winnaars": [
+        "ABF Research B.V."
+      ],
+      "toegevoegd": [
+        "ABF Research B.V."
+      ],
+      "verwijderd": [
+        "ABF Research"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "294038",
+          "gunning_kenmerk": "406167",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "31183225",
+          "project_sleutel": "",
+          "record_id": "294038",
+          "publicatiedatum": "2023-04-07",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "282576",
+      "titel": "Dashboard onderwijsarbeidsmarkt",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "ABF Research"
+      ],
+      "nieuwe_winnaars": [
+        "ABF Research B.V."
+      ],
+      "toegevoegd": [
+        "ABF Research B.V."
+      ],
+      "verwijderd": [
+        "ABF Research"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "282576",
+          "gunning_kenmerk": "364525",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "BD-EURAAN-JS-IUCN22010042",
+          "project_sleutel": "eu-supply:pid:331670",
+          "record_id": "282576",
+          "publicatiedatum": "2022-12-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "280895",
+      "titel": "Raamovereenkomst beleidsgericht onderzoek onderwijs (BGGO)",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut",
+        "Andersson Elffers Felix (AEF)",
+        "KBA Nijmegen",
+        "ResearchNed",
+        "Kohnstamm Instituut UvA B.V.",
+        "Researchned B.V.",
+        "Rijksuniversiteit Groningen",
+        "Stichting SEO Economisch Onderzoek",
+        "Stichting Sardes",
+        "Berenschot Groep B.V.",
+        "Expertisecentrum Nederlands",
+        "ResearchNed B.V.",
+        "Oberon",
+        "Kohnstamm Instituut",
+        "Universiteit Twente",
+        "CINOP B.V.",
+        "Maastricht University",
+        "Regioplan Beleidsonderzoek B.V.",
+        "CentERdata",
+        "MOOZ Maatschap voor Onderwijs OnderZoek (MOOZ)",
+        "Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel (CAOP)",
+        "Dialogic Innovatie & Interactie",
+        "Oberon B.V.",
+        "Dialogic Innovatie & Interactie VOF"
+      ],
+      "nieuwe_winnaars": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "Andersson Elffers Felix (AEF)",
+        "KBA Nijmegen",
+        "ResearchNed",
+        "Expertisecentrum Nederlands BV",
+        "ResearchNed B.V.",
+        "Kohnstamm Instituut UvA B.V.",
+        "Oberon",
+        "Universiteit Twente",
+        "CINOP B.V.",
+        "Maastricht University",
+        "Regioplan Beleidsonderzoek B.V.",
+        "Stichting Centerdata",
+        "MOOZ Maatschap voor Onderwijs OnderZoek (MOOZ)",
+        "Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel (CAOP)",
+        "Rijksuniversiteit Groningen",
+        "Stichting SEO Economisch Onderzoek",
+        "Stichting Sardes",
+        "Berenschot B.V.",
+        "Dialogic Innovatie & Interactie",
+        "Oberon B.V."
+      ],
+      "toegevoegd": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "Expertisecentrum Nederlands BV",
+        "Stichting Centerdata",
+        "Berenschot B.V."
+      ],
+      "verwijderd": [
+        "Stichting dr. Hilda Verwey-Jonker Instituut",
+        "Berenschot Groep B.V.",
+        "Expertisecentrum Nederlands",
+        "Kohnstamm Instituut",
+        "CentERdata",
+        "Dialogic Innovatie & Interactie VOF"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "280895",
+          "gunning_kenmerk": "358664",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "BD-EURAAN-RD-IUCN22010112",
+          "project_sleutel": "eu-supply:pid:324482",
+          "record_id": "280895",
+          "publicatiedatum": "2022-11-30",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "265327",
+      "titel": "SZW EA Monitor van (randvoorwaarden voor) gelijke kansen en evenredige posities op de arbeidsmarkt, ongeacht migratieachtergrond: “outcome” metingen 2022-2025 en dashboard",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Significant Public B.V."
+      ],
+      "nieuwe_winnaars": [
+        "Significant Groep bv"
+      ],
+      "toegevoegd": [
+        "Significant Groep bv"
+      ],
+      "verwijderd": [
+        "Significant Public B.V."
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "265327",
+          "gunning_kenmerk": "349672",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "201865005.011.039",
+          "project_sleutel": "eu-supply:pid:324840",
+          "record_id": "265327",
+          "publicatiedatum": "2022-06-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "264502",
+      "titel": "Meerjarige tekorten en overschotten",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Andersson Elffers Felix (AEF) Organisatie en Informatica Adviseurs B.V.",
+        "De Beleidsonderzoekers"
+      ],
+      "nieuwe_winnaars": [
+        "Andersson Elffers Felix (AEF)",
+        "De Beleidsonderzoekers"
+      ],
+      "toegevoegd": [
+        "Andersson Elffers Felix (AEF)"
+      ],
+      "verwijderd": [
+        "Andersson Elffers Felix (AEF) Organisatie en Informatica Adviseurs B.V."
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "264502",
+          "gunning_kenmerk": "345914",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "201865005.011.033",
+          "project_sleutel": "eu-supply:pid:322158",
+          "record_id": "264502",
+          "publicatiedatum": "2022-06-17",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "268777",
+      "titel": "Effectonderzoek kansrijke interventies in het po en vo",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Expertisecentrum Nederlands BV",
+        "KBA Nijmegen",
+        "ITTA UvA",
+        "Universiteit van Amsterdam",
+        "Praktikon BV",
+        "Freihov B.V.",
+        "Erasmus Universiteit Rotterdam",
+        "Stichting Radboud Universiteit Nijmegen",
+        "Universiteit Utrecht",
+        "Stichting Vrije Universiteit",
+        "Kohnstamm Instituut UvA B.V.",
+        "Nederlandse Organisatie voor Toegepast-Natuurwetenschappelijk Onderzoek (TNO)",
+        "Kohnstamm instituut UvA BV",
+        "Oberon B.V.",
+        "Universiteit Twente"
+      ],
+      "nieuwe_winnaars": [
+        "ITTA UvA",
+        "Universiteit van Amsterdam",
+        "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+        "Expertisecentrum Nederlands BV",
+        "Freihov B.V.",
+        "Stichting Radboud Universiteit Nijmegen",
+        "Universiteit Utrecht",
+        "KBA Nijmegen",
+        "Praktikon BV",
+        "Stichting Vrije Universiteit",
+        "Kohnstamm Instituut UvA B.V.",
+        "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO",
+        "Oberon B.V.",
+        "Universiteit Twente"
+      ],
+      "toegevoegd": [
+        "Erasmus Universiteit Rotterdam (EUR) - ESHPM"
+      ],
+      "verwijderd": [
+        "Erasmus Universiteit Rotterdam"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "268777",
+          "gunning_kenmerk": "353786",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk",
+            "referentie_en_project"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "202122",
+          "project_sleutel": "negometrix:tender:196599",
+          "record_id": "268777",
+          "publicatiedatum": "2022-07-31",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "225195",
+      "titel": "Onderzoeks- en adviesdiensten voor digitale infrastructuur op het gebied van techniek en maatschappij",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Bluemark Innovations B.V.",
+        "Dialogic Innovatie & Interactie",
+        "Stratix B.V.",
+        "Strict bv",
+        "Universiteit Antwerpen",
+        "Technische Universiteit Eindhoven"
+      ],
+      "nieuwe_winnaars": [
+        "Bluemark Innovations B.V.",
+        "Dialogic Innovatie & Interactie",
+        "Stratix B.V.",
+        "Strict Consultancy B.V.",
+        "Universiteit Antwerpen",
+        "Technische Universiteit Eindhoven"
+      ],
+      "toegevoegd": [
+        "Strict Consultancy B.V."
+      ],
+      "verwijderd": [
+        "Strict bv"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "225195",
+          "gunning_kenmerk": "287211",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "225195",
+          "publicatiedatum": "2021-04-15",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "220097",
+      "titel": "BZ EA ROVK Evaluations",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Particip GmbH",
+        "BKP Economic Advisors GmbH",
+        "RAND Europe Community Interest Company",
+        "Transition International",
+        "Vivid Economics",
+        "Itad Ltd",
+        "MDF Training & Consultancy BV",
+        "Erasmus Universiteit Rotterdam Holding BV",
+        "PricewaterhouseCoopers Advisory N.V.",
+        "Stichting SEO Economisch Onderzoek",
+        "Dialogic Innovatie & Interactie",
+        "Ecorys Nederland B.V.",
+        "Panteia B.V.",
+        "KIT Royal Tropical Institute",
+        "IOD PARC",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gemeinnützige GmbH",
+        "ACE Europe"
+      ],
+      "nieuwe_winnaars": [
+        "Particip GmbH",
+        "RAND Europe Community Interest Company",
+        "Itad Ltd",
+        "PricewaterhouseCoopers Advisory N.V.",
+        "Ecorys Nederland B.V.",
+        "KIT Royal Tropical Institute",
+        "BKP Economic Advisors GmbH",
+        "Transition International",
+        "Vivid Economics",
+        "MDF Training & Consultancy",
+        "Erasmus Universiteit Rotterdam Holding BV",
+        "Stichting SEO Economisch Onderzoek",
+        "Dialogic Innovatie & Interactie",
+        "Panteia B.V.",
+        "IOD PARC",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gemeinnützige GmbH",
+        "ACE Europe"
+      ],
+      "toegevoegd": [
+        "MDF Training & Consultancy"
+      ],
+      "verwijderd": [
+        "MDF Training & Consultancy BV"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "220097",
+          "gunning_kenmerk": "252744",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "220097",
+          "publicatiedatum": "2021-02-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "217695",
+      "titel": "Monitoring regionaal openbaar vervoer in Oost-Nederland 2021-2025 (Monitoring OV-Oost)",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "Moventem"
+      ],
+      "nieuwe_winnaars": [
+        "Moventem B.V."
+      ],
+      "toegevoegd": [
+        "Moventem B.V."
+      ],
+      "verwijderd": [
+        "Moventem"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "217695",
+          "gunning_kenmerk": "280874",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "217695",
+          "publicatiedatum": "2021-01-25",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    },
+    {
+      "record_id": "213991",
+      "titel": "Kwantitatief communicatieonderzoek (Ea0083)",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "CHOICE insights + strategy",
+        "I&O Research B.V.",
+        "MarketResponse",
+        "Motivaction",
+        "Blauw Research B.V."
+      ],
+      "nieuwe_winnaars": [
+        "CHOICE insights + strategy",
+        "I&O Research B.V.",
+        "MarketResponse Nederland B.V.",
+        "Motivaction",
+        "Blauw Research B.V."
+      ],
+      "toegevoegd": [
+        "MarketResponse Nederland B.V."
+      ],
+      "verwijderd": [
+        "MarketResponse"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "213991",
+          "gunning_kenmerk": "259098",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "",
+          "project_sleutel": "",
+          "record_id": "213991",
+          "publicatiedatum": "2020-12-10",
+          "bronbestand": "Dataset_Tenderned-2016-01-01 tm 2025-12-31_Leeswijzer.xlsx",
+          "bron_sha256": "0a59bc593838aad8f2ba67ebaae4a05548720116960e6cb8c519b1fbfcc192ca"
+        }
+      ]
+    },
+    {
+      "record_id": "238698",
+      "titel": "Evaluations of international programs RVO",
+      "oude_status": "gegund",
+      "nieuwe_status": "gegund",
+      "oude_winnaars": [
+        "ADE s.a.",
+        "Erasmus Universiteit Rotterdam",
+        "Itad Ltd",
+        "KIT Royal Tropical Institute",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",
+        "Particip GmbH",
+        "PricewaterhouseCoopers Advisory N.V.",
+        "University of Greenwich Natural Resources Institute",
+        "Dialogic Innovatie & Interactie",
+        "Edburgh Consultants B.V.",
+        "MDF Training & Consultancy",
+        "Sayara International",
+        "Technopolis B.V.",
+        "Transition International B.V."
+      ],
+      "nieuwe_winnaars": [
+        "ADE s.a.",
+        "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+        "Itad Ltd",
+        "KIT Royal Tropical Institute",
+        "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",
+        "Particip GmbH",
+        "PricewaterhouseCoopers Advisory N.V.",
+        "University of Greenwich Natural Resources Institute",
+        "Dialogic Innovatie & Interactie",
+        "Edburgh Consultants B.V.",
+        "MDF Training & Consultancy",
+        "Sayara International",
+        "Technopolis B.V.",
+        "Transition International B.V."
+      ],
+      "toegevoegd": [
+        "Erasmus Universiteit Rotterdam (EUR) - ESHPM"
+      ],
+      "verwijderd": [
+        "Erasmus Universiteit Rotterdam"
+      ],
+      "koppelingen": [
+        {
+          "gunning_publicatie_id": "238698",
+          "gunning_kenmerk": "261605",
+          "methoden": [
+            "publicatie_id",
+            "bronverwijzing",
+            "tenderned_kenmerk"
+          ],
+          "procedure_uuid": "",
+          "referentie_nummer": "202002031",
+          "project_sleutel": "",
+          "record_id": "238698",
+          "publicatiedatum": "2021-09-19",
+          "bronbestand": "tenderned-dcf16f1e52e35736.xlsx",
+          "bron_sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+        }
+      ]
+    }
+  ],
+  "controlelijst": [
+    {
+      "gunning_publicatie_id": "223461",
+      "gunning_kenmerk": "306792",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "213251"
+      ],
+      "titel": "Ambtelijke werkzaamheden en (startende) zelfstandigen",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "232891",
+      "gunning_kenmerk": "321095",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "219265"
+      ],
+      "titel": "Gemeente Veendam & Pekela - Europese aanbesteding Ambtelijke werkzaamheden en (startende) zelfstandigen",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "245346",
+      "gunning_kenmerk": "338604",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "227882"
+      ],
+      "titel": "Marktonderzoek",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "246639",
+      "gunning_kenmerk": "318759",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "48-1281",
+      "project_sleutel": "negometrix:tender:178806",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "253685",
+      "gunning_kenmerk": "323230",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "SZE020.27.07.2021",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "221908"
+      ],
+      "titel": "Pre-employment screening",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "261976",
+      "gunning_kenmerk": "362223",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "Z/21/061293",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "249339"
+      ],
+      "titel": "Projectleiding en diverse ingenieursdiensten voor gebiedsontwikkeling gemeente Voorschoten",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "263291",
+      "gunning_kenmerk": "363996",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "264900",
+      "gunning_kenmerk": "366353",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "T10754",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "248557"
+      ],
+      "titel": "Matrix opgaven energie infrastructuur Limburg",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "265919",
+      "gunning_kenmerk": "367819",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "240280"
+      ],
+      "titel": "Strategisch advies veiligheidsvraagstukken",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "277263",
+      "gunning_kenmerk": "361603",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "282936",
+      "gunning_kenmerk": "391382",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "10361-01/NB",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "260440"
+      ],
+      "titel": "Communicatieonderzoek",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "289938",
+      "gunning_kenmerk": "400787",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "283746"
+      ],
+      "titel": "Gemeente Oldambt - Europese openbare aanbesteding advisering binnenstedelijk vastgoed en retail",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "297073",
+      "gunning_kenmerk": "395917",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "2022-75",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "301015",
+      "gunning_kenmerk": "400450",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "227882"
+      ],
+      "titel": "Marktonderzoek",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "302174",
+      "gunning_kenmerk": "418534",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "22.578-DBV",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "308025",
+      "gunning_kenmerk": "400973",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "316837",
+      "gunning_kenmerk": "439136",
+      "methoden": [],
+      "procedure_uuid": "",
+      "referentie_nummer": "T41127",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "300993"
+      ],
+      "titel": "Onderzoeksdiensten tbv Kennisnet",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "322296",
+      "gunning_kenmerk": "447038",
+      "methoden": [],
+      "procedure_uuid": "d4d044fb-60c0-4cb9-aa8a-034e094eaae1",
+      "referentie_nummer": "2023-010124",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "311070"
+      ],
+      "titel": "Broedvogelmonitoring recreatiezonering Veluwe 2024-2028",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "323519",
+      "gunning_kenmerk": "448680",
+      "methoden": [],
+      "procedure_uuid": "76fdcbf0-0989-4b77-ba62-cc4e59a569e0",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "312421"
+      ],
+      "titel": "Muziekonderzoek",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "323650",
+      "gunning_kenmerk": "448878",
+      "methoden": [],
+      "procedure_uuid": "86f969bd-9dbe-4da0-ad80-1dbdabd96860",
+      "referentie_nummer": "T36936/2023-10-BD",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "326043",
+      "gunning_kenmerk": "432081",
+      "methoden": [],
+      "procedure_uuid": "24616d79-1a8c-4576-a4dd-16d351951d9f",
+      "referentie_nummer": "VRFGV2023-EA05",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "330281",
+      "gunning_kenmerk": "458445",
+      "methoden": [],
+      "procedure_uuid": "cc10aa62-8193-411c-9b2c-e29313a59785",
+      "referentie_nummer": "VITENS_2023_0040",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "307025"
+      ],
+      "titel": "Lab van de Toekomst Vitens N.V.",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "335310",
+      "gunning_kenmerk": "466061",
+      "methoden": [],
+      "procedure_uuid": "c4d74ae9-c348-4f2b-b89c-00fab45adaa0",
+      "referentie_nummer": "AI 2022-0132",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "267081"
+      ],
+      "titel": "AI 2022-0132 Smart Mobility Hub",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "336021",
+      "gunning_kenmerk": "448861",
+      "methoden": [],
+      "procedure_uuid": "1057925c-f4fb-4145-a18e-35da60b9c5fb",
+      "referentie_nummer": "AD24003",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "345167",
+      "gunning_kenmerk": "480219",
+      "methoden": [],
+      "procedure_uuid": "72822a67-06be-4325-9aa6-dbc466592359",
+      "referentie_nummer": "ITR1000682",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "300184"
+      ],
+      "titel": "Design contest - Power cable bending solution",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "363008",
+      "gunning_kenmerk": "486826",
+      "methoden": [],
+      "procedure_uuid": "e5a3b5dd-65b0-4a80-9255-fe3b51123ed1",
+      "referentie_nummer": "DZ19092024",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "365675",
+      "gunning_kenmerk": "490837",
+      "methoden": [
+        "publicatie_id",
+        "procedure_uuid",
+        "bronverwijzing",
+        "tenderned_kenmerk"
+      ],
+      "procedure_uuid": "7a931cbf-cd41-49bf-ae2e-2c9a6ec2829d",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "record_id": "365675",
+      "reden": "geen_bevestigde_winnaar",
+      "titel": "Opstellen soortenmanagementplan",
+      "bronnamen": []
+    },
+    {
+      "gunning_publicatie_id": "366508",
+      "gunning_kenmerk": "493885",
+      "methoden": [],
+      "procedure_uuid": "2a726ab3-79c3-4828-9dcc-36eaa098a91f",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "368724",
+      "gunning_kenmerk": "513264",
+      "methoden": [],
+      "procedure_uuid": "94b0f248-8d7b-4dac-b7c2-4028b8156e53",
+      "referentie_nummer": "Communicatieonderzoeken",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "338036"
+      ],
+      "titel": "Communicatieonderzoeken",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "369106",
+      "gunning_kenmerk": "499196",
+      "methoden": [],
+      "procedure_uuid": "d6fd1195-882d-4411-9b57-7b485ee8bac2",
+      "referentie_nummer": "Z.495366",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "381792",
+      "gunning_kenmerk": "531343",
+      "methoden": [],
+      "procedure_uuid": "437d2ae8-0624-4c1e-8274-1ecd5baa4d15",
+      "referentie_nummer": "Z/24/112396",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soorten Managementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "390596",
+      "gunning_kenmerk": "543585",
+      "methoden": [],
+      "procedure_uuid": "12d8719d-e7b7-4c75-b8ef-454246c05805",
+      "referentie_nummer": "T137297",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "370072"
+      ],
+      "titel": "Ecologisch onderzoek en advies",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "393970",
+      "gunning_kenmerk": "548039",
+      "methoden": [],
+      "procedure_uuid": "f0c33553-ec0b-4ced-82d7-60372c0a296b",
+      "referentie_nummer": "867741",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soorten Management Plan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "394654",
+      "gunning_kenmerk": "524968",
+      "methoden": [],
+      "procedure_uuid": "977da38e-12f2-4af6-a8ca-23370997933e",
+      "referentie_nummer": "CDR-1052769",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "397435",
+      "gunning_kenmerk": "548039",
+      "methoden": [],
+      "procedure_uuid": "f0c33553-ec0b-4ced-82d7-60372c0a296b",
+      "referentie_nummer": "867741",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soorten Management Plan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "398843",
+      "gunning_kenmerk": "554156",
+      "methoden": [],
+      "procedure_uuid": "db29e262-a74f-4f9e-9130-f19f954c6b27",
+      "referentie_nummer": "2025-10/PM-smp/SB-28",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "405139",
+      "gunning_kenmerk": "469716",
+      "methoden": [],
+      "procedure_uuid": "b60b15a5-ebbe-472e-9d03-dbdec1d9e1df",
+      "referentie_nummer": "Z.460733",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "410636",
+      "gunning_kenmerk": "569745",
+      "methoden": [],
+      "procedure_uuid": "0003cf56-83dc-472e-a9dc-e3207c464070",
+      "referentie_nummer": "b1a08957-fe6d-4621-aa12-3a0ab58f8b4e",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "397439"
+      ],
+      "titel": "Grootschalige inwonerconsultatie",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "411204",
+      "gunning_kenmerk": "547032",
+      "methoden": [
+        "publicatie_id",
+        "procedure_uuid",
+        "bronverwijzing",
+        "tenderned_kenmerk"
+      ],
+      "procedure_uuid": "c9ae63fc-94b2-43f8-beff-cc0507b82c00",
+      "referentie_nummer": "UPN-2025-017-HE",
+      "project_sleutel": "",
+      "record_id": "411204",
+      "reden": "geen_bevestigde_winnaar",
+      "titel": "Omgang met effecten van klimaatverandering op hellingschraalgraslanden",
+      "bronnamen": []
+    },
+    {
+      "gunning_publicatie_id": "412874",
+      "gunning_kenmerk": "554156",
+      "methoden": [],
+      "procedure_uuid": "db29e262-a74f-4f9e-9130-f19f954c6b27",
+      "referentie_nummer": "2025-10/PM-smp/SB-28",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "413145",
+      "gunning_kenmerk": "573387",
+      "methoden": [],
+      "procedure_uuid": "93134470-0f2a-47e5-9317-9884f43ca8b5",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "416866",
+      "gunning_kenmerk": "578303",
+      "methoden": [],
+      "procedure_uuid": "d54fa84e-ed74-41de-8da8-1e050a47e93d",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "417427",
+      "gunning_kenmerk": "554285",
+      "methoden": [],
+      "procedure_uuid": "0140e2f8-538f-420a-b3e6-b950d4b79f12",
+      "referentie_nummer": "25-72796",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "229346"
+      ],
+      "titel": "Assessments",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "425368",
+      "gunning_kenmerk": "578303",
+      "methoden": [],
+      "procedure_uuid": "d54fa84e-ed74-41de-8da8-1e050a47e93d",
+      "referentie_nummer": "",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "436091",
+      "gunning_kenmerk": "562715",
+      "methoden": [],
+      "procedure_uuid": "6d4247dc-1010-45b9-bb97-f42a4b1a1d1e",
+      "referentie_nummer": "EU/2025.036",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soorten managementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    },
+    {
+      "gunning_publicatie_id": "436382",
+      "gunning_kenmerk": "560881",
+      "methoden": [],
+      "procedure_uuid": "1cc594f8-9af0-4ee4-93e8-c7a075db1126",
+      "referentie_nummer": "202501 PRJ-2500005",
+      "project_sleutel": "",
+      "reden": "geen_identiteitsmatch",
+      "kandidaten": [
+        "302073"
+      ],
+      "titel": "Soortenmanagementplan",
+      "bron": "tenderned-dcf16f1e52e35736.xlsx"
+    }
+  ],
+  "afgewezen_titelkandidaten": [
+    {
+      "record_id": "260440",
+      "gunning_publicatie_id": "156534",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "424295",
+      "gunning_publicatie_id": "160106",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "229346",
+      "gunning_publicatie_id": "164615",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "261705",
+      "gunning_publicatie_id": "169309",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "188806",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "229346",
+      "gunning_publicatie_id": "195454",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "229346",
+      "gunning_publicatie_id": "205719",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "229346",
+      "gunning_publicatie_id": "211279",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "424295",
+      "gunning_publicatie_id": "222819",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382341",
+      "gunning_publicatie_id": "245346",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "275829",
+      "gunning_publicatie_id": "269913",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "285491",
+      "gunning_publicatie_id": "270963",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "282317",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "448266",
+      "gunning_publicatie_id": "283475",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "284131",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "293566",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382341",
+      "gunning_publicatie_id": "301015",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "332078",
+      "gunning_publicatie_id": "307804",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "314379",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "315525",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "323650",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "322113",
+      "gunning_publicatie_id": "333615",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "336021",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "340243",
+      "gunning_publicatie_id": "348356",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "389634",
+      "gunning_publicatie_id": "359232",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "365675",
+      "gunning_publicatie_id": "359232",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "389634",
+      "gunning_publicatie_id": "360102",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "365675",
+      "gunning_publicatie_id": "360102",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "361272",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "363008",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "363008",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "349655",
+      "gunning_publicatie_id": "363080",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "389634",
+      "gunning_publicatie_id": "364555",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "365675",
+      "gunning_publicatie_id": "364555",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "370809",
+      "gunning_publicatie_id": "374438",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348315",
+      "gunning_publicatie_id": "374438",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380959",
+      "gunning_publicatie_id": "380969",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "381792",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "381792",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "381792",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "389634",
+      "gunning_publicatie_id": "384759",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "365675",
+      "gunning_publicatie_id": "384759",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "392976",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "389634",
+      "gunning_publicatie_id": "393016",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "365675",
+      "gunning_publicatie_id": "393016",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "393970",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "393970",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "397435",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "397435",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "398843",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "398843",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "340243",
+      "gunning_publicatie_id": "399953",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "340243",
+      "gunning_publicatie_id": "402712",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "400928",
+      "gunning_publicatie_id": "404072",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "404698",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "404698",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "404698",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "404698",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "404698",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "404698",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "404698",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "405139",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "405139",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "405206",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "405206",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "405206",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "405206",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "405206",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "405206",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "405206",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "407120",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "407120",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "407120",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "407120",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "407120",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "407120",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "407120",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "340243",
+      "gunning_publicatie_id": "411012",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "411204",
+      "gunning_publicatie_id": "411212",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "411761",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "411761",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "411761",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "411761",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "411761",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "411761",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "411761",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "412874",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "413145",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "416866",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "417346",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "417346",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "417346",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "417346",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "417346",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "417346",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "417346",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "418502",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "418502",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "418502",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "418502",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "418502",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "418502",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "418502",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370809",
+      "gunning_publicatie_id": "425029",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348315",
+      "gunning_publicatie_id": "425029",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "425368",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "404804",
+      "gunning_publicatie_id": "427114",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348868",
+      "gunning_publicatie_id": "429334",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370809",
+      "gunning_publicatie_id": "432504",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348315",
+      "gunning_publicatie_id": "432504",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "444001",
+      "gunning_publicatie_id": "432505",
+      "reden": "gunning_voor_uitvraag"
+    },
+    {
+      "record_id": "427622",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "417185",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "395195",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "360297",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "385248",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "334043",
+      "gunning_publicatie_id": "432505",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370809",
+      "gunning_publicatie_id": "435013",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "348315",
+      "gunning_publicatie_id": "435013",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "436091",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "406978",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "382130",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379263",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "370601",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "368486",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "366545",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "362823",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "379656",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "359323",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "380967",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "354679",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    },
+    {
+      "record_id": "345783",
+      "gunning_publicatie_id": "436382",
+      "reden": "andere_procedure_uuid"
+    }
+  ],
+  "identiteitsconflicten": {
+    "01170369": [
+      "De Boer Onderzoek & Projectmanagement",
+      "Marktonderzoekbureau Molgo"
+    ],
+    "09098104": [
+      "Stichting Wageningen Marine Research",
+      "Stichting Wageningen Research",
+      "Stichting Wageningen Research / Centre for Development Innovation"
+    ],
+    "41055629": [
+      "RadboudUMC",
+      "SKU dba RadboudUMC",
+      "Stichting Radboud Universiteit Nijmegen"
+    ],
+    "41197444": [
+      "Stichting SEO Economisch Onderzoek",
+      "The Boston Consulting Group"
+    ],
+    "41181331": [
+      "NIVEL",
+      "Stichting NIVEL",
+      "Stichting Nederlands Instituut voor Onderzoek van de Gezondheidszorg"
+    ],
+    "56515154": [
+      "Haskoning Nederland B.V.",
+      "HaskoningDHV Nederland B.V."
+    ],
+    "41158878": [
+      "Stichting CAOP",
+      "Stichting Centrum voor Arbeidsverhoudingen Overheidspersoneel (CAOP)"
+    ],
+    "09159322": [
+      "Maastricht University",
+      "ResearchNed",
+      "ResearchNed B.V.",
+      "Researchned B.V."
+    ],
+    "34180287": [
+      "PricewaterhoudseCooper Advisory N.V. (PwC)",
+      "PricewaterhouseCoopers Advisory N.V.",
+      "PricewaterhouseCoopers Advisory N.V. (PwC)"
+    ],
+    "71033092": [
+      "Significant Groep B.V.",
+      "Significant Public B.V."
+    ],
+    "24257136": [
+      "Erasmus Universiteit Rotterdam Holding BV",
+      "Risbo Contractresearch B.V."
+    ],
+    "31480287": [
+      "PricewaterhouseCoopers Pensions, Actuarial & Insurance Services B.V.",
+      "PwC"
+    ],
+    "24275633": [
+      "SEOR BV",
+      "Sociaal Economisch OndeRzoek Rotterdam B.V."
+    ],
+    "17136441": [
+      "Freihov B.V.",
+      "KBA Nijmegen"
+    ],
+    "50536338": [
+      "Behavior Change Group - Consultancy & Research B.V.",
+      "Behavior Change Group - Consulting & Research",
+      "Dijksterhuis & van Baaren"
+    ],
+    "34246424": [
+      "KDC",
+      "Stichting Knowledge and Development Centre Mainport Schiphol"
+    ],
+    "34116505": [
+      "Pius Floris Boomverzorging Amsterdam",
+      "Pius Floris Onderzoek & Advies"
+    ],
+    "78391385": [
+      "Ecologisch Adviesbureau Habitus B.V.",
+      "Ecologischs adviesbureau habitus"
+    ],
+    "27178617": [
+      "Van der Goes en Groot Ecologisch Onderzoeks- en Adviesbureau B.V.",
+      "v.d. Goes en Groot Ecol.Onderz.en Adv. Bureau"
+    ],
+    "04030709": [
+      "BügelHajema Adviseurs B.V.",
+      "B�gelHajema Adviseurs B.V."
+    ],
+    "16077486": [
+      "Aelmans Milieu Oss B.V.",
+      "NIPA milieutechniek bv"
+    ],
+    "41077572": [
+      "RAVON",
+      "Stichting Natuur Onderzoek Nederland"
+    ]
+  },
+  "zonder_koppeling": 610,
+  "toelichting_zonder_koppeling": "Bronpublicaties kunnen buiten de dataset vallen; titels zijn geen bewijs.",
+  "gecontroleerd_op": "2026-11-08T16:23:27.787712+00:00",
+  "bronbestanden": [
+    "Dataset_Tenderned-2016-01-01 tm 2025-12-31_Leeswijzer.xlsx",
+    "Dataset_Tenderned-compleet-2021-01-01-2026-10-01.xlsx"
+  ]
+}

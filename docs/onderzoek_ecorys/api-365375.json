@@ -1,0 +1,86 @@
+{
+  "publicatieId": 365375,
+  "kenmerk": 508395,
+  "aanbestedingNaam": "BZ ROVK Evaluations",
+  "opdrachtgeverNaam": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "The Ministry of Foreign Affairs has concluded an agreement with multiple contractors for evaluation services in two lots: \n• Lot 1: a maximum of twenty-five (25) Contractors to carry out a variety of evaluation services; • Lot 2: a maximum of three (3) Contractors to carry out a variety of evidence synthesis services.",
+  "publicatieDatum": "2025-01-29T08:51:09.063023",
+  "typePublicatie": "Aankondiging gegunde opdracht - algemene richtlijn, standaardregeling",
+  "publicatieCode": "EF29",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "73110000-6",
+      "omschrijving": "Uitvoeren van onderzoek"
+    },
+    {
+      "isHoofdOpdracht": false,
+      "code": "79313000-1",
+      "omschrijving": "Controle van prestaties"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "79419000-4",
+      "omschrijving": "Evaluatie-adviesdiensten"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "https://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=403116&B=",
+  "urlTsenderNaam": "Mercell",
+  "isVroegtijdigBeeindigd": false,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "pbNummerTed": "63493-2025",
+  "referentieNummer": "201865003.001.106",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "RAA",
+    "omschrijving": "Raamovereenkomst"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/365375/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/365375?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/365375?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/365375",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

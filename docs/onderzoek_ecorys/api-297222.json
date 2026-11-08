@@ -1,0 +1,87 @@
+{
+  "publicatieId": 297222,
+  "kenmerk": 398302,
+  "aanbestedingNaam": "A03.002.2023 Evaluation turn-key re-construction of 12 bridges on the NR20 Laos DRI17LA01",
+  "opdrachtgeverNaam": "Invest International Public Programmes B.V.",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "The anticipated impact of this project is improved connectivity by replacing 12 bridges in the provinces of Champasak & Salavan to ensure that the local population along the National Road 20 (NR20) will have reliable all-season access to other villages as well as regional hubs (i.e., Pakse and Salavan). The project consists of the construction of 12 bridges, associated street furniture, and temporary bridges. In addition, there have been several Technical Assistance (TA) assignments (supervision services, procurement support, and root cause analysis of proposed bridges). The evaluation of this project will be split into phases. \n\nMore information on the project itself can be found in the ToR (Appendix 6).\n\nThe Appendices belonging to the ToR can be requested separately through the TenderNed platform. The request needs to be accompanied by a signed NDA (Folder 'Tender Documents'). After receiving the request and checking the NDA, the Appendices will be sent.",
+  "publicatieDatum": "2023-05-11T10:52:55.908938",
+  "sluitingsDatum": "2023-03-27T08:00:00",
+  "aanvangOpdrachtDatum": "2023-06-01",
+  "voltooiingOpdrachtDatum": "2027-09-01",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "79900000-3",
+      "omschrijving": "Diverse zakelijke en andere diensten"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatieIDLaatsteRectificatie": 291502,
+  "publicatiePdfId": 9538819,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "TEN",
+    "omschrijving": "TenderNed"
+  },
+  "pbNummerTed": "2023/S 092-284889",
+  "trefwoord1": "\"Evaluations\"",
+  "trefwoord2": "\"Infrastructure\"",
+  "trefwoord3": "\"DRIVE Project\"",
+  "trefwoord4": "\"Measurement methodology\"",
+  "referentieNummer": "A03.002.2023",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/297222/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/297222?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/297222?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/297222",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

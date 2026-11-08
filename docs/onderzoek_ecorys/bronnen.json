@@ -1,0 +1,21 @@
+{
+  "geraadpleegd_op": "2026-11-08T15:57:52.295888+00:00",
+  "actuele_download_url": "https://www.tenderned.nl/cms/sites/default/files/2026-10/Dataset_Tenderned-compleet-2021-01-01-2026-10-01.xlsx",
+  "bestanden": [
+    {
+      "bestand": "Dataset_Tenderned-2016-01-01 tm 2025-12-31_Leeswijzer.xlsx",
+      "bytes": 132936464,
+      "sha256": "0a59bc593838aad8f2ba67ebaae4a05548720116960e6cb8c519b1fbfcc192ca"
+    },
+    {
+      "bestand": "data/.cache/tenderned-dcf16f1e52e35736.xlsx",
+      "bytes": 92983787,
+      "sha256": "f834554fafccd2042717c32431a4fab77e186c231d07c5e32f60163ff8f49a8f"
+    },
+    {
+      "bestand": "data/geclassificeerd_met_winnaar.json",
+      "bytes": 2695818,
+      "sha256": "48b6edf97095c5d8763629a268e1206ea5f5649abdf3167238fd473894498f1f"
+    }
+  ]
+}

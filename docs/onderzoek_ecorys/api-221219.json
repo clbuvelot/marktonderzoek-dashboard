@@ -1,0 +1,83 @@
+{
+  "publicatieId": 221219,
+  "kenmerk": 275901,
+  "aanbestedingNaam": "Raamovereenkomst Ingenieursdiensten",
+  "opdrachtgeverNaam": "Provincie Noord-Brabant",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "De provincie Noord-Brabant is voornemens om voor de veelvoorkomende ingenieursdiensten op het gebied van infrastructuur, mobiliteit, Natuurontwikkeling en Milieu (bodem) met meerdere adviesbureaus een raamovereenkomst te sluiten, met als resultaat dat deze ingenieursdiensten op een efficiëntere en effectieve wijze ingekocht kunnen worden.",
+  "publicatieDatum": "2021-03-04T09:14:01.757",
+  "sluitingsDatum": "2020-11-02T10:00:00",
+  "aanvangOpdrachtDatum": "2021-01-09",
+  "voltooiingOpdrachtDatum": "2024-12-31",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": true,
+      "code": "71000000-8",
+      "omschrijving": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL41",
+      "omschrijving": "Noord-Brabant"
+    }
+  ],
+  "afgerondeAanbesteding": true,
+  "isGeimporteerd": false,
+  "isVroegtijdigBeeindigd": false,
+  "publicatiePdfId": 6396631,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "digitaalInschrijvenCode": {
+    "code": "TEN",
+    "omschrijving": "TenderNed"
+  },
+  "pbNummerTed": "2021/S 047-118768",
+  "trefwoord1": "Ingenieursdiensten",
+  "referentieNummer": "C2267344",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/221219/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/221219?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/221219?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/221219",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "publicatieId": 322538,
+  "kenmerk": 447347,
+  "aanbestedingNaam": "BZK-EA Uitvoeren lastendrukmetingen",
+  "opdrachtgeverNaam": "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+  "numberOfDaysBeforeAanmeldenInschrijven": -1,
+  "opdrachtBeschrijving": "Wij zoeken een dienstverlener voor het periodiek uitvoeren van lastendrukmetingen Het gaat hierbij om twee metingen: - dPi de prospectieve informatie, waarin corporaties aangeven wat hun investeringsvoornemens voor de komende vijf jaar zijn en wat de effecten daarvan op de financiële positie zijn; - dVi de verantwoordingsinformatie, waarin corporaties de volkshuisvestelijke en financiële cijfers over het afgelopen jaar verantwoorden, inclusief (indien daar substantiële wijzigingen in worden doorgevoerd) het accountantsprotocol.",
+  "publicatieDatum": "2024-01-13T17:07:43.947396",
+  "sluitingsDatum": "2024-02-26T11:00:00",
+  "typePublicatie": "Aankondiging van een opdracht - algemene richtlijn, standaardregeling",
+  "publicatieCode": "EF16",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "79300000-7",
+      "omschrijving": "Markt- en economieonderzoek; enquêtes en statistieken"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "79311400-1",
+      "omschrijving": "Economisch onderzoek"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "https://eu.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=391171&B=",
+  "urlTsenderNaam": "Mercell",
+  "isVroegtijdigBeeindigd": false,
+  "onlyGunningProcedure": false,
+  "isGegund": false,
+  "pbNummerTed": "26434-2024",
+  "trefwoord1": "periodiek uitvoeren lastendrukmetingen",
+  "trefwoord2": "dPi, prospectieve informatie corporaties over investeringsvoornemens",
+  "trefwoord3": "dVi, verantwoordingsinformatie, waarin corporaties de volkshuisvestelijke en financiële cijfers over het afgelopen jaar verantwoorden",
+  "trefwoord4": "dVi en dPi gegevensmodellen",
+  "referentieNummer": "201865002.001.095",
+  "aankondigingCode": {
+    "code": "AAO",
+    "omschrijving": "Aankondiging opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "competition",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/322538/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/322538?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/322538?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/322538",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

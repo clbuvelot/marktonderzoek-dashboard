@@ -1,0 +1,82 @@
+{
+  "publicatieId": 253789,
+  "kenmerk": 320267,
+  "aanbestedingNaam": "1-D-23403-20: Verkeerstellingen en verkeersonderzoeken",
+  "opdrachtgeverNaam": "Gemeente Rotterdam",
+  "numberOfDaysBeforeAanmeldenInschrijven": 0,
+  "opdrachtBeschrijving": "Raamovereenkomst voor het op afroep uitvoeren van Verkeerstellingen en het geven van daarmee gerelateerde Verkeersadviezen.",
+  "publicatieDatum": "2022-03-02T15:28:27.344287",
+  "typePublicatie": "Aankondiging van een gegunde opdracht",
+  "publicatieCode": "SF03",
+  "juridischKaderCode": {
+    "code": "NAW",
+    "omschrijving": "Aanbestedingswet 2012"
+  },
+  "nationaalOfEuropeesCode": {
+    "code": "EU",
+    "omschrijving": "Europees"
+  },
+  "typeOpdrachtCode": {
+    "code": "D",
+    "omschrijving": "Diensten"
+  },
+  "procedureCode": {
+    "code": "OPE",
+    "omschrijving": "Openbaar"
+  },
+  "cpvCodes": [
+    {
+      "isHoofdOpdracht": false,
+      "code": "73000000-2",
+      "omschrijving": "Onderzoek en ontwikkeling, en aanverwante adviezen"
+    },
+    {
+      "isHoofdOpdracht": true,
+      "code": "73000000-2",
+      "omschrijving": "Onderzoek en ontwikkeling, en aanverwante adviezen"
+    }
+  ],
+  "nutsCodes": [
+    {
+      "code": "NL",
+      "omschrijving": "NEDERLAND"
+    }
+  ],
+  "afgerondeAanbesteding": false,
+  "isGeimporteerd": true,
+  "urlTsenderWebsite": "https://platform.negometrix.com/PublishedTenders.aspx?tenderId=168475",
+  "urlTsenderNaam": "Negometrix3",
+  "isVroegtijdigBeeindigd": false,
+  "publicatieIDLaatsteRectificatie": 237798,
+  "publicatiePdfId": 10574495,
+  "onlyGunningProcedure": false,
+  "isGegund": true,
+  "pbNummerTed": "2022/S 045-116803",
+  "aankondigingCode": {
+    "code": "AGO",
+    "omschrijving": "Aankondiging gegunde opdracht"
+  },
+  "opdrachtAardCode": {
+    "code": "OOP",
+    "omschrijving": "Overheidsopdracht"
+  },
+  "formType": "result",
+  "links": {
+    "pdf": {
+      "href": "/papi/tenderned-rs-tns/v2/publicaties/253789/pdf",
+      "title": "pdf"
+    },
+    "keepInformed": {
+      "href": "https://www.tenderned.nl/aanbestedende-dienst/aankondigingen/253789?keepInformed=true",
+      "title": "keepInformed"
+    },
+    "addToTenders": {
+      "href": "https://www.tenderned.nl/ondernemersplatform/aankondigingen/253789?addToTenders=true",
+      "title": "addToTenders"
+    },
+    "shareOnLinkedIn": {
+      "href": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tenderned.nl/aankondigingen/overzicht/253789",
+      "title": "shareOnLinkedIn"
+    }
+  }
+}

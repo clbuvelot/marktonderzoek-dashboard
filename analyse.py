@@ -12,9 +12,11 @@ Output:
     data/analyse_themas.csv         marktaandeel per thema
     data/analyse_methodieken.csv    verdeling evaluatiemethodieken
     data/analyse_opdrachtgevers.csv top opdrachtgevers
-    data/analyse_concurrenten.csv   wie wint wat
+    data/concurrentiekaart.csv      wie wint wat
     data/analyse_trend.csv          ontwikkeling per jaar
     data/marktrapport.md            samenvattend tekstrapport
+    data/geclassificeerd_met_winnaar.csv  actuele platte dataset
+    data/twijfelgevallen.json       actuele records met lage betrouwbaarheid
 """
 
 import json
@@ -23,6 +25,9 @@ import os
 import argparse
 from collections import defaultdict, Counter
 from datetime import datetime
+from pathlib import Path
+from opslag import schrijf_json
+from winnaars import namen as winnaar_namen
 
 INPUT_BESTAND = "data/geclassificeerd_met_winnaar.json"
 OUTPUT_DIR = "data"
@@ -79,18 +84,15 @@ def analyse_methodieken(records: list[dict]) -> list[dict]:
             "methodiek": m,
             "aantal": n,
             "aandeel_pct": round(100 * n / totaal, 1),
-            "kwantitatief": cl_is_kwantitatief(m),
+            "waarvan_kwantitatief": sum(
+                1 for r in records if cl(r).get("methodiek", "Onbekend") == m
+                and cl(r).get("methodiek_kwantitatief")
+            ),
         }
         for m, n in teller.most_common()
     ]
 
 
-def cl_is_kwantitatief(methodiek: str) -> bool:
-    kwantitatief = {
-        "Quasi-experimenteel", "RCT / experiment",
-        "Statistisch / econometrisch", "MKBA",
-    }
-    return methodiek in kwantitatief
 
 
 def analyse_opdrachtgevers(records: list[dict]) -> list[dict]:
@@ -128,13 +130,17 @@ def analyse_opdrachtgevers(records: list[dict]) -> list[dict]:
 
 def analyse_concurrenten(records: list[dict]) -> list[dict]:
     per_bureau: dict[str, dict] = defaultdict(lambda: {
-        "aantal": 0, "kwantitatief": 0, "themas": Counter(), "methodieken": Counter()
+        "aantal": 0, "kwantitatief": 0, "waarde": 0.0, "themas": Counter(), "methodieken": Counter()
     })
-    for r in records:
-        bureau = r.get("winnaar", "") or ""
+    for r, bureau in ((r, n) for r in records for n in winnaar_namen(r)):
         if not bureau or bureau.lower() in ("", "onbekend", "unknown"):
             continue
         per_bureau[bureau]["aantal"] += 1
+        try:
+            if len(winnaar_namen(r)) == 1:
+                per_bureau[bureau]["waarde"] += float(r.get("gunningswaarde") or r.get("waarde_definitief") or 0)
+        except (ValueError, TypeError):
+            pass
         if cl(r).get("methodiek_kwantitatief"):
             per_bureau[bureau]["kwantitatief"] += 1
         thema = cl(r).get("thema", "")
@@ -155,11 +161,12 @@ def analyse_concurrenten(records: list[dict]) -> list[dict]:
             "kwantitatief_pct": round(
                 100 * data["kwantitatief"] / data["aantal"], 1
             ) if data["aantal"] else 0,
+            "bekende_waarde_als_enige_winnaar_euro": round(data["waarde"]),
             "sterkste_thema": top_thema[0][0] if top_thema else "",
             "sterkste_methodiek": top_methodiek[0][0] if top_methodiek else "",
         })
 
-    return sorted(resultaat, key=lambda x: x["aantal_gewonnen"], reverse=True)[:20]
+    return sorted(resultaat, key=lambda x: x["aantal_gewonnen"], reverse=True)
 
 
 def analyse_trend(records: list[dict]) -> list[dict]:
@@ -206,18 +213,30 @@ def schrijf_rapport(
 ) -> str:
     totaal = len(records)
     kwantitatief = sum(1 for r in records if cl(r).get("methodiek_kwantitatief", False))
-    top3_themas = themas[:3]
-    top5_bureaus = concurrenten[:5]
+    datums = sorted(r["publicatiedatum"][:10] for r in records if r.get("publicatiedatum"))
+    periode = f"{datums[0]} t/m {datums[-1]}" if datums else "geen publicatiedatums"
+    met_winnaar = sum(bool(winnaar_namen(r)) for r in records)
+    nationaal = sum(r.get("europees") is False for r in records)
+    europees = sum(r.get("europees") is True for r in records)
 
     rapport = f"""# Marktrapport: Kwantitatieve beleidsevaluatie Nederland
 *Gegenereerd op {datetime.now().strftime("%d-%m-%Y")} op basis van {totaal} geclassificeerde aanbestedingen*
 
 ---
 
-## 1. Marktomvang
+## 1. Omvang van de geselecteerde markt
 
 Totaal geanalyseerde aanbestedingen: **{totaal}**
-Waarvan kwantitatief van aard: **{kwantitatief}** ({round(100*kwantitatief/totaal)}%)
+Waarvan door AI als kwantitatief ingedeeld: **{kwantitatief}** ({round(100*kwantitatief/max(totaal, 1))}%)
+
+Publicatiedatums: **{periode}**. Dit is de dekking van de records, niet de datum van de laatste broncontrole.
+Europees: **{europees}**; nationaal: **{nationaal}**; onbekend: **{totaal-europees-nationaal}**.
+Met bekende (mede)winnaars: **{met_winnaar}** van **{totaal}**.
+
+De selectie is gebaseerd op onderzoek- en adviescodes in TenderNed. Niet alle opdrachten zijn beleidsevaluaties.
+Onderhandse opdrachten en nadere opdrachten onder raamovereenkomsten zijn niet volledig zichtbaar.
+AI-classificaties zijn inschattingen; betrouwbaarheidsscores zijn geen gekalibreerde kansen.
+Het laatste jaar is onvolledig. Vergelijk jaartotalen daarom voorzichtig.
 
 ### Trend
 """
@@ -233,8 +252,8 @@ Waarvan kwantitatief van aard: **{kwantitatief}** ({round(100*kwantitatief/totaa
 
     rapport += "\n## 3. Verdeling naar methodiek\n\n"
     for rij in methodieken:
-        kwant_label = " *(kwantitatief)*" if rij["kwantitatief"] else ""
-        rapport += f"- **{rij['methodiek']}**{kwant_label}: {rij['aantal']} ({rij['aandeel_pct']}%)\n"
+        rapport += (f"- **{rij['methodiek']}**: {rij['aantal']} ({rij['aandeel_pct']}%), "
+                    f"waarvan {rij['waarvan_kwantitatief']} als kwantitatief ingedeeld\n")
 
     rapport += "\n## 4. Top opdrachtgevers\n\n"
     for rij in opdrachtgevers[:10]:
@@ -263,16 +282,17 @@ Waarvan kwantitatief van aard: **{kwantitatief}** ({round(100*kwantitatief/totaa
         rapport += f"{ecorys['kwantitatief_pct']}% kwantitatief, "
         rapport += f"sterkste thema: {ecorys['sterkste_thema']}\n"
     else:
-        rapport += "\n*Ecorys niet zichtbaar in top 20 winnende bureaus binnen deze dataset.*\n"
+        rapport += "\n*Geen winnaar met Ecorys in de naam aangetroffen in deze dataset.*\n"
 
     rapport += "\n> **Let op scope:** winnaarsinformatie is alleen beschikbaar voor aanbestedingen "
     rapport += "die succesvol gekoppeld zijn aan de TenderNed bulk Excel. "
-    rapport += "Onderhandse opdrachten en raamcontracten ontbreken.\n"
+    rapport += "De kaart telt iedere bekende (mede)winnaar eenmaal per opdracht. "
+    rapport += "Dit is geen volledig overzicht van de markt of van marktaandelen.\n"
 
     rapport += """
 ## 6. Kansen voor Ecorys
 
-*Op basis van bovenstaande data zijn de volgende segmenten kansrijk:*
+*Vragen voor verdere commerciële analyse; de dataset bewijst deze kansen niet zelfstandig:*
 
 - Thema's met hoog kwantitatief aandeel maar beperkte concurrentie
 - Opdrachtgevers die regelmatig aanbesteden maar nog niet structureel bediend worden
@@ -287,13 +307,44 @@ Waarvan kwantitatief van aard: **{kwantitatief}** ({round(100*kwantitatief/totaa
 
 def schrijf_csv(data: list[dict], bestandsnaam: str):
     if not data:
+        # Verwijder oude resultaten als de nieuwe selectie leeg is.
+        Path(OUTPUT_DIR, bestandsnaam).write_text("", encoding="utf-8")
         return
     pad = os.path.join(OUTPUT_DIR, bestandsnaam)
     with open(pad, "w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=data[0].keys())
         writer.writeheader()
         writer.writerows(data)
-    print(f"  → {pad}")
+    print(f"  -> {pad}")
+
+
+# ── Afgeleide bestanden ───────────────────────────────────────────────────────
+
+
+def vernieuw_exports(records):
+    """Bouw alle afgeleide bestanden uit dezelfde actuele dashboarddataset."""
+    from classify import sla_op_csv, TWIJFEL_DREMPEL
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    themas = analyse_themas(records)
+    methodieken = analyse_methodieken(records)
+    opdrachtgevers = analyse_opdrachtgevers(records)
+    concurrenten = analyse_concurrenten(records)
+    trend = analyse_trend(records)
+    for naam, inhoud in (
+        ("analyse_themas.csv", themas), ("analyse_methodieken.csv", methodieken),
+        ("analyse_opdrachtgevers.csv", opdrachtgevers), ("concurrentiekaart.csv", concurrenten),
+        ("analyse_trend.csv", trend),
+    ):
+        schrijf_csv(inhoud, naam)
+    sla_op_csv(records, "geclassificeerd_met_winnaar.csv")
+    schrijf_json(Path(OUTPUT_DIR) / "twijfelgevallen.json", [
+        r for r in records if cl(r).get("betrouwbaarheid", 0) < TWIJFEL_DREMPEL
+    ])
+    Path(OUTPUT_DIR, "marktrapport.md").write_text(
+        schrijf_rapport(records, themas, methodieken, opdrachtgevers, concurrenten, trend),
+        encoding="utf-8",
+    )
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -313,25 +364,8 @@ def main():
     records = laad(args.invoer)
     print(f"  {len(records)} records geladen")
 
-    print("\n[2/3] Analyses uitvoeren...")
-    themas = analyse_themas(records)
-    methodieken = analyse_methodieken(records)
-    opdrachtgevers = analyse_opdrachtgevers(records)
-    concurrenten = analyse_concurrenten(records)
-    trend = analyse_trend(records)
-
-    print("\n[3/3] Opslaan...")
-    schrijf_csv(themas, "analyse_themas.csv")
-    schrijf_csv(methodieken, "analyse_methodieken.csv")
-    schrijf_csv(opdrachtgevers, "analyse_opdrachtgevers.csv")
-    schrijf_csv(concurrenten, "analyse_concurrenten.csv")
-    schrijf_csv(trend, "analyse_trend.csv")
-
-    rapport = schrijf_rapport(records, themas, methodieken, opdrachtgevers, concurrenten, trend)
-    rapport_pad = os.path.join(OUTPUT_DIR, "marktrapport.md")
-    with open(rapport_pad, "w", encoding="utf-8") as f:
-        f.write(rapport)
-    print(f"  → {rapport_pad}")
+    print("\n[2/3] Analyses en exports vernieuwen...")
+    vernieuw_exports(records)
 
     print(f"""
 === Klaar ===

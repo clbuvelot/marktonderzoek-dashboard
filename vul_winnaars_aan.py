@@ -8,10 +8,9 @@ lijst-respons en niet op het detail-endpoint — daar staat alleen isGegund.
 De naam van de gegunde onderneming staat uitsluitend in de bulk Excel die
 TenderNed periodiek publiceert.
 
-Verschil met koppel_winnaar.py: dat script bouwt geclassificeerd_met_winnaar
-opnieuw op vanuit geclassificeerd.json en gooit daarmee alles weg wat update.py
-sindsdien heeft toegevoegd. Dit script werkt de bestaande dataset bij en laat
-records die het niet kent met rust.
+Controleert de bestaande dataset met publicatie-id's, procedure-id's,
+bronverwijzingen en projectreferenties. Alle bevestigde winnaars worden vernieuwd.
+Onzekere koppelingen worden vastgelegd voor controle.
 
 Gebruik:
     python vul_winnaars_aan.py
@@ -27,25 +26,20 @@ import argparse
 import json
 import os
 import re
-import tempfile
 import urllib.request
+import hashlib
+from pathlib import Path
+from urllib.parse import urljoin
 
-import openpyxl
-
-from koppel_winnaar import bouw_concurrentiekaart, sla_op_csv
+from analyse import vernieuw_exports
+from opslag import schrijf_json
+from tenderned_bulk import lees_bulk
+from herstel_gunningen import herstel
+from datetime import datetime, timezone
 
 DATASET = "data/geclassificeerd_met_winnaar.json"
 OUTPUT_DIR = "data"
 DATASETS_PAGINA = "https://www.tenderned.nl/cms/aanbesteden-in-cijfers/datasets-aanbestedingen"
-SHEET = "OpenData sheet"
-
-KOLOMMEN = {
-    "id": "ID publicatie",
-    "kenmerk": "Tenderned kenmerk",
-    "winnaar": "Naam gegunde onderneming",
-    "datum": "Datum gunning",
-    "waarde": "Definitieve waarde - bedrag",
-}
 
 
 # ── Excel vinden en ophalen ───────────────────────────────────────────────────
@@ -70,162 +64,55 @@ def zoek_nieuwste_excel_url() -> str:
         raise RuntimeError("Geen .xlsx-bestanden gevonden op de datasetpagina")
 
     einddatum, url = max(kandidaten)
-    if not url.startswith("http"):
-        url = "https://www.tenderned.nl" + url
+    url = urljoin(DATASETS_PAGINA, url)
     print(f"  gevonden, loopt tot {einddatum}")
     return url
 
 
 def download_excel(url: str) -> str:
-    doel = os.path.join(tempfile.gettempdir(), "tenderned_bulk.xlsx")
-    if os.path.exists(doel):
+    # Een nieuwe URL moet een nieuwe download opleveren, niet een oude cache.
+    cache = Path(OUTPUT_DIR) / ".cache"
+    cache.mkdir(parents=True, exist_ok=True)
+    sleutel = hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
+    doel = str(cache / f"tenderned-{sleutel}.xlsx")
+    if os.path.exists(doel) and datetime.now(timezone.utc).timestamp() - os.path.getmtime(doel) < 7 * 86400:
         print(f"[2/5] Excel al gedownload: {doel}")
         return doel
     print(f"[2/5] Downloaden (ongeveer 90 MB, dit duurt even)...")
-    urllib.request.urlretrieve(url, doel)
+    gedeeltelijk = doel + ".part"
+    urllib.request.urlretrieve(url, gedeeltelijk)
+    os.replace(gedeeltelijk, doel)
     print(f"  {round(os.path.getsize(doel) / 1e6, 1)} MB opgeslagen")
     return doel
 
 
-# ── Winnaars uitlezen ─────────────────────────────────────────────────────────
-
-def bouw_lookup(pad: str) -> tuple[dict, dict]:
-    """
-    Leest de Excel streamend uit en bouwt twee opzoektabellen: op kenmerk en op
-    publicatie-id. Kenmerk is de betere sleutel — die overleeft het feit dat een
-    uitvraag en de bijbehorende gunning verschillende publicatie-id's hebben.
-    """
-    print("[3/5] Winnaars uitlezen uit de Excel...")
-    wb = openpyxl.load_workbook(pad, read_only=True)
-    if SHEET not in wb.sheetnames:
-        raise RuntimeError(f"Sheet {SHEET!r} ontbreekt; gevonden: {wb.sheetnames}")
-
-    rijen = wb[SHEET].iter_rows(values_only=True)
-    kop = list(next(rijen))
-    ontbreekt = [k for k in KOLOMMEN.values() if k not in kop]
-    if ontbreekt:
-        raise RuntimeError(f"Kolommen ontbreken in de Excel: {ontbreekt}")
-    ix = {naam: kop.index(kolom) for naam, kolom in KOLOMMEN.items()}
-
-    op_kenmerk, op_id = {}, {}
-    gelezen = 0
-    for rij in rijen:
-        gelezen += 1
-        winnaar = rij[ix["winnaar"]]
-        if not winnaar or not str(winnaar).strip():
-            continue
-        waarde = rij[ix["waarde"]]
-        try:
-            waarde = float(waarde) if waarde is not None else None
-        except (TypeError, ValueError):
-            waarde = None
-        info = {
-            "winnaar": str(winnaar).strip(),
-            "waarde_definitief": waarde,
-            "datum_gunning": str(rij[ix["datum"]] or "").strip(),
-        }
-        kenmerk = str(rij[ix["kenmerk"]] or "").strip()
-        pub_id = str(rij[ix["id"]] or "").strip()
-
-        # Percelen: meerdere winnaars onder hetzelfde kenmerk.
-        for tabel, sleutel in ((op_kenmerk, kenmerk), (op_id, pub_id)):
-            if not sleutel:
-                continue
-            if sleutel not in tabel:
-                tabel[sleutel] = {**info, "extra_winnaars": []}
-            elif info["winnaar"] != tabel[sleutel]["winnaar"]:
-                if info["winnaar"] not in tabel[sleutel]["extra_winnaars"]:
-                    tabel[sleutel]["extra_winnaars"].append(info["winnaar"])
-
-    wb.close()
-    print(f"  {gelezen} rijen gelezen, {len(op_kenmerk)} kenmerken met winnaar")
-    return op_kenmerk, op_id
-
-
-# ── Koppelen ──────────────────────────────────────────────────────────────────
-
-def vul_aan(records: list[dict], op_kenmerk: dict, op_id: dict) -> dict:
-    """Vult winnaarsvelden aan. Bestaande winnaars blijven staan."""
-    tellers = {"nieuw": 0, "al_bekend": 0, "geen_match": 0}
-
-    for r in records:
-        if (r.get("winnaar") or "").strip():
-            tellers["al_bekend"] += 1
-            continue
-
-        kenmerk = str(r.get("tenderned_kenmerk") or "").strip()
-        info = op_kenmerk.get(kenmerk)
-        if not info:
-            for sleutel in (r.get("gunning_publicatie_id"), r.get("id")):
-                info = op_id.get(str(sleutel or "").strip())
-                if info:
-                    break
-        if not info:
-            tellers["geen_match"] += 1
-            continue
-
-        r["winnaar"] = info["winnaar"]
-        r["waarde_definitief"] = info["waarde_definitief"]
-        # Het dashboard leest gunningswaarde, koppel_winnaar.py waarde_definitief.
-        r["gunningswaarde"] = info["waarde_definitief"]
-        r["datum_gunning"] = info["datum_gunning"]
-        if info["extra_winnaars"]:
-            r["extra_winnaars"] = info["extra_winnaars"]
-        if r.get("publicatie_type") != "gegund":
-            r["publicatie_type"] = "gegund"
-        tellers["nieuw"] += 1
-
-    return tellers
-
-
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--excel", help="Pad naar een al gedownloade bulk Excel")
-    parser.add_argument("--dry-run", action="store_true")
+    parser = argparse.ArgumentParser(description="Gunningen koppelen en alle winnaars vernieuwen")
+    parser.add_argument("--excel", nargs="+", help="Bulkbestanden van oud naar nieuw; standaard nieuwste download")
+    parser.add_argument("--dry-run", action="store_true", help="Schrijf alleen een controlerapport; dataset blijft gelijk")
     args = parser.parse_args()
-
-    if not os.path.exists(DATASET):
-        print(f"[FOUT] {DATASET} niet gevonden.")
-        return
-
-    pad = args.excel or download_excel(zoek_nieuwste_excel_url())
-    op_kenmerk, op_id = bouw_lookup(pad)
-
-    print("[4/5] Dataset bijwerken...")
-    with open(DATASET, encoding="utf-8") as f:
-        records = json.load(f)
-    print(f"  {len(records)} records geladen")
-
-    tellers = vul_aan(records, op_kenmerk, op_id)
-    print(f"  {tellers['nieuw']} nieuwe winnaars, "
-          f"{tellers['al_bekend']} al bekend, "
-          f"{tellers['geen_match']} zonder match")
-
+    records = json.loads(Path(DATASET).read_text(encoding="utf-8"))
+    bestanden = args.excel or [download_excel(zoek_nieuwste_excel_url())]
+    publicaties = {}
+    for bestand in bestanden:
+        for p in lees_bulk(bestand):
+            publicaties[p["id"]] = p
+    print(f"Gunningen vergelijken met {len(records)} opdrachten...", flush=True)
+    rapport = herstel(records, list(publicaties.values()))
+    rapport["gecontroleerd_op"] = datetime.now(timezone.utc).isoformat()
+    rapport["bronbestanden"] = [Path(p).name for p in bestanden]
     if args.dry_run:
-        print("\n[DRY RUN] Niets opgeslagen.")
-        return
-
-    if not tellers["nieuw"]:
-        print("\nGeen nieuwe winnaars. Niets gewijzigd.")
-        return
-
-    print("[5/5] Opslaan...")
-    with open(DATASET, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=2)
-    print(f"  → {DATASET}")
-
-    kaart = bouw_concurrentiekaart(records)
-    sla_op_csv(
-        kaart,
-        f"{OUTPUT_DIR}/concurrentiekaart.csv",
-        ["bureau", "aantal_gewonnen", "waarvan_kwantitatief", "kwantitatief_pct",
-         "totaalwaarde_euro", "sterkste_thema", "sterkste_methodiek"],
-    )
-
-    met_winnaar = sum(1 for r in records if (r.get("winnaar") or "").strip())
-    print(f"\n=== Klaar ===")
-    print(f"Records met winnaar : {met_winnaar} van {len(records)}")
-    print(f"Bureaus in kaart    : {len(kaart)}")
+        schrijf_json("data/.cache/koppelrapport-proef.json", rapport)
+        print("Proefcontrole opgeslagen; dashboarddataset niet gewijzigd.")
+    else:
+        backup = Path("data/.cache/herstel") / (datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ") + "-voor-herstel.json")
+        schrijf_json(backup, json.loads(Path(DATASET).read_text(encoding="utf-8")))
+        schrijf_json(DATASET, records)
+        schrijf_json("data/koppelrapport.json", rapport)
+        vernieuw_exports(records)
+    print(json.dumps({k: v for k, v in rapport.items() if k not in
+                      ("wijzigingen", "controlelijst", "afgewezen_titelkandidaten", "identiteitsconflicten")},
+                     ensure_ascii=True, indent=2))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,110 @@
+{
+  "status": "Onderbouwd onderzoeksvoorstel; niet aangesloten op de actieve classifier",
+  "datum": "2026-11-08",
+  "unit": "Regions & cities",
+  "unitcode_in_bronprofielen": "NL5300",
+  "organisatieniveau": "teams binnen de unit zoals benoemd door de gebruiker; TIM is een andere unit",
+  "betekenis": "Inhoudelijke aansluiting op vraag en gevraagd product, niet bewezen historisch projecteigenaarschap",
+  "onderzoeksbasis": {"profielen_unit": 188, "bruikbare_profielen_unit": 185},
+  "algemene_regels": [
+    "Bepaal de inhoudelijke vraag, het object en het gevraagde eindproduct. Gebruik niet alleen onderwerp of methode.",
+    "Beoordeel elk team onafhankelijk. Neem alle onderbouwde matches op; teams mogen bij hetzelfde onderdeel passen.",
+    "Maak van een unitcode geen teamlabel. Bewaar unit en team op verschillende niveaus.",
+    "Een methode zoals interviews, enquête of MKBA is een signaal, geen volledige teambeoordeling.",
+    "Een concreet evaluatiedoel is relevant voor Evaluaties; niet iedere onderzoeksopdracht is daarom een evaluatie.",
+    "Maatschappelijke waarde, economische/ruimtelijke afwegingen en verdelingseffecten onderbouwen Brede Welvaart. Maak dit niet tot een restcategorie voor alle publieke opdrachten.",
+    "Inhoudelijk advies, workshops, procesbegeleiding, datamodellen en dashboards kunnen bij het aanbod passen. Maak onderscheid met generieke opleiding, personeelsinhuur en technische realisatie.",
+    "Een sector of opdrachtgever bepaalt niet automatisch het team. Corporatieonderzoek is niet automatisch een visitatie.",
+    "Standaardonderwerpen binnen een visitatiemethodiek zijn geen automatische reden om elk ander team toe te voegen.",
+    "Bij onvoldoende informatie: onzeker laten. Niet geforceerd één of alle teams kiezen. Geen match met deze vier teams betekent niet dat de opdracht voor heel Ecorys ongeschikt is."
+  ],
+  "teams": [
+    {
+      "id": "evaluaties",
+      "naam": "Evaluaties",
+      "kernvraag": "Werkt het beleid, instrument, programma of de publieke organisatie zoals bedoeld, waarom, en hoe kan het beter?",
+      "vraagtypen": [
+        "Doeltreffendheid, doelmatigheid, additionaliteit en effecten van beleid, regelingen en fondsen.",
+        "Werking van uitvoering, governance, samenwerking en publieke organisaties; knelpunten en verbeteropties.",
+        "Ex-post en tussentijdse evaluatie, lerende evaluatie, beleidsdoorlichting en onderbouwde ex-ante beoordeling van beleidsopties.",
+        "Ontwerp van beleidstheorie, indicatoren, monitorings- en evaluatieplannen voor leren, sturen en verantwoorden."
+      ],
+      "producten": ["evaluatierapport", "beleidsdoorlichting", "evaluatieontwerp", "beleidstheorie", "monitorings- en evaluatieplan"],
+      "afbakening": [
+        "Geen automatische match op alleen onderzoek, enquête, monitoring of kosten-batenanalyse.",
+        "Een vooronderzoek naar warmtevarianten zonder evaluatiedoel hoeft geen Evaluaties-label te krijgen.",
+        "Generiek klanttevredenheidsonderzoek kan pas aansluiten als een concrete vraag naar publieke uitvoering, werking of verbetering is beschreven."
+      ],
+      "bronprofielen": ["1006438", "1002957", "1006605", "1003725"],
+      "publieke_bronnen": ["https://www.ecorys.com/brede-welvaart/", "https://www.ecorys.com/energie-en-klimaat/"]
+    },
+    {
+      "id": "brede_welvaart",
+      "naam": "Brede Welvaart",
+      "kernvraag": "Welke ontwikkeling of beleidskeuze levert maatschappelijke waarde op, voor wie, waar en wanneer, en welke afwegingen horen daarbij?",
+      "vraagtypen": [
+        "MKBA, bredewelvaartsanalyse, economische en maatschappelijke impact, verdeling van kosten en baten en afweging tussen alternatieven.",
+        "Regionale economie, woon- en werklocaties, behoefte- en marktanalyses, leefbaarheid en sociaaleconomische ontwikkeling als basis voor keuzes en programmering.",
+        "Economische, woon-, bedrijventerreinen-, stads-, dorps- en regiovisies en strategieën.",
+        "Bredewelvaartsindicatoren en monitors, regionale samenwerking/governance en evaluatie van bredewelvaartsbeleid.",
+        "Implementeren van brede welvaart in beleid, inclusief inhoudelijke workshops en advies."
+      ],
+      "producten": ["MKBA/BWA", "maatschappelijk afwegingskader", "impactanalyse", "behoefteraming", "visie en strategie", "bredewelvaartsmonitor"],
+      "afbakening": [
+        "Een puur technische haalbaarheidsvraag of enkel financieel rendement is onvoldoende voor een bredewelvaartsmatch.",
+        "Grondprijsadvies, financiële controle en vastgoedtaxaties vragen nadere inhoudelijke afbakening; de unitcode Regions & cities bewijst niet dat ze bij dit team horen.",
+        "Een woningcorporatie als opdrachtgever maakt een opdracht niet automatisch tot Visitaties."
+      ],
+      "bronprofielen": ["1001051", "1001219", "1004855", "1008138"],
+      "publieke_bronnen": ["https://www.ecorys.com/brede-welvaart/", "https://www.ecorys.com/case-studies/spatial-impact-of-the-circular-economy-in-the-north-sea-canal-area/"]
+    },
+    {
+      "id": "sustainable_transitions",
+      "naam": "Sustainable Transitions",
+      "kernvraag": "Hoe kunnen we verduurzamen, welke maatregelen, systemen en beleidsinstrumenten werken, en wat zijn de kosten, effecten en uitvoeringsvoorwaarden?",
+      "vraagtypen": [
+        "Warmtetransitie, energie-infrastructuur en netcongestie: scenario's, systeemkeuzes, haalbaarheid, kosten en maatschappelijke effecten.",
+        "Circulaire economie, grondstoffenketens, plasticnormen en heffingen: beleidsopties, prikkels, uitvoerbaarheid en effecten.",
+        "Klimaat- en energiebeleid: strategievorming, beleids- en programma-evaluatie, transitiepaden en monitoring.",
+        "Energie- en scenariomodellen, Vesta-MAIS, GIS, techno-economische analyses en inhoudelijke dashboards.",
+        "Begeleiding van transities, samenwerking, participatie en implementatie van inhoudelijke beleidskeuzes."
+      ],
+      "producten": ["scenariostudie", "energietransitieadvies", "beleidsopties en instrumentanalyse", "energiemodel", "haalbaarheids-/kostenanalyse", "transitiemonitor"],
+      "afbakening": [
+        "Geen automatische match op duurzaam, natuur of klimaat zonder inhoudelijke transitie- of beleidsvraag.",
+        "Zuiver ecologische inventarisatie, laboratoriumonderzoek, aanleg/installatie en technisch detailontwerp zijn iets anders dan transitieonderzoek en -advies.",
+        "Techno-economische modellen en scenarioanalyses juist niet uitsluiten omdat ze technisch zijn."
+      ],
+      "naamtoelichting": "Interne teamnaam volgens gebruiker; publiek wordt onder meer Energie & Klimaat en circulaire economie beschreven. Die openbare labels bewijzen geen één-op-één organisatierelatie.",
+      "bronprofielen": ["1006930", "1006599", "1007206", "1008138", "1002957"],
+      "publieke_bronnen": ["https://www.ecorys.com/energie-en-klimaat/", "https://www.ecorys.com/case-studies/how-is-the-netherlands-taking-the-lead-in-the-circular-economy/", "https://www.ecorys.com/case-studies/circular-economy-and-the-climate-challenge/"]
+    },
+    {
+      "id": "visitaties",
+      "naam": "Visitaties",
+      "kernvraag": "Hoe presteert een woningcorporatie maatschappelijk, hoe is zij lokaal verankerd en bestuurd, en wat kan zij daarvan leren?",
+      "vraagtypen": [
+        "Maatschappelijke visitaties van woningcorporaties volgens de toepasselijke SVWN-methodiek.",
+        "Beoordeling van maatschappelijke waarde, verankering, besturing en maatschappelijke capaciteit.",
+        "Perspectieven van huurders, gemeenten en lokale partners, samenwerking en onderbouwing van gemaakte keuzes.",
+        "Verantwoorden en leren over de beoordeelde periode, met rapportage, terugkoppeling en verbeterinzichten."
+      ],
+      "producten": ["maatschappelijk visitatierapport", "onderbouwde prestatiebeoordeling", "stakeholdergesprekken", "terugkoppeling en leer-/verbeterinzichten"],
+      "afbakening": [
+        "Visitaties en accreditaties in onderwijs of zorg niet op het woord visitatie aan dit corporatieaanbod koppelen.",
+        "Een woonvisie, woningmarktstudie of onderzoek voor een corporatie is geen maatschappelijke visitatie zonder het betreffende beoordelingsdoel.",
+        "Betaalbaarheid en duurzaamheid zijn ook standaard visitatieonderwerpen; aanvullende teams vergen inhoudelijke aansluiting op de daadwerkelijk gevraagde analyse."
+      ],
+      "bronprofielen": ["1004877"],
+      "publieke_bronnen": ["https://www.ecorys.com/maatschappelijke-visitaties/"]
+    }
+  ],
+  "overlapvoorbeelden": [
+    {"vraag": "Evaluatie van de werking en doeltreffendheid van energiebeleid", "teams": ["Evaluaties", "Sustainable Transitions"]},
+    {"vraag": "Maatschappelijke kosten-batenanalyse van warmtevarianten", "teams": ["Brede Welvaart", "Sustainable Transitions"]},
+    {"vraag": "Evaluatie van een regionale regeling met expliciete analyse van maatschappelijke en verdelingseffecten", "teams": ["Evaluaties", "Brede Welvaart"]},
+    {"vraag": "Evaluatie van een klimaatregeling, inclusief maatschappelijke kosten-baten en verdelingseffecten", "teams": ["Evaluaties", "Brede Welvaart", "Sustainable Transitions"]},
+    {"vraag": "Maatschappelijke visitatie van een woningcorporatie volgens SVWN", "teams": ["Visitaties"]},
+    {"vraag": "MKBA en bredewelvaartsanalyse van OV en woningbouw", "teams": ["Brede Welvaart"], "ook_unit": "TIM", "toelichting": "TIM is een andere unit; voeg TIM niet toe als R&C-team."}
+  ]
+}
