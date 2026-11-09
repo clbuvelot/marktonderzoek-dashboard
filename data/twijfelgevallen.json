@@ -40072,7 +40072,8 @@
         ],
         "bron_publicatie_ids": [
           "366412"
-        ]
+        ],
+        "kvk_bronconflict": true
       }
     ],
     "winnaars": [
@@ -47532,7 +47533,7 @@
     "publicatiedatum": "2024-04-21",
     "sluitingsdatum": "2024-06-06T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "Ferro Explore B.V.",
+    "winnaar": "Ferro Explore BV",
     "cpv_codes": [
       "73000000-2",
       "79341000-6",
@@ -47683,7 +47684,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Ferro Explore B.V.",
+        "naam": "Ferro Explore BV",
         "kvk": "33125884",
         "bronnamen": [
           "Ferro Explore BV"
@@ -47696,7 +47697,7 @@
         ]
       },
       {
-        "naam": "Mare Holland B.V.",
+        "naam": "MARE Holland B.V.",
         "kvk": "33213137",
         "bronnamen": [
           "MARE Holland B.V."
@@ -47723,12 +47724,12 @@
       }
     ],
     "winnaars": [
-      "Ferro Explore B.V.",
-      "Mare Holland B.V.",
+      "Ferro Explore BV",
+      "MARE Holland B.V.",
       "Motivaction"
     ],
     "extra_winnaars": [
-      "Mare Holland B.V.",
+      "MARE Holland B.V.",
       "Motivaction"
     ],
     "gunning_bronnen": [
@@ -64952,8 +64953,7 @@
         ],
         "bron_publicatie_ids": [
           "290557"
-        ],
-        "kvk_bronconflict": true
+        ]
       },
       {
         "naam": "Autentika Global",
@@ -67934,7 +67934,7 @@
     "publicatiedatum": "2022-02-10",
     "sluitingsdatum": "2022-03-31T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "Deloitte Consulting BV",
+    "winnaar": "Deloitte Consulting B.V.",
     "cpv_codes": [
       "72000000-5",
       "73000000-2",
@@ -68076,7 +68076,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Deloitte Consulting BV",
+        "naam": "Deloitte Consulting B.V.",
         "kvk": "33259541",
         "bronnamen": [
           "Deloitte Consulting B.V."
@@ -68088,7 +68088,7 @@
       }
     ],
     "winnaars": [
-      "Deloitte Consulting BV"
+      "Deloitte Consulting B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -75163,7 +75163,7 @@
     "extra_winnaars": [
       "Dialogic Innovatie & Interactie",
       "Stratix B.V.",
-      "Strict Consultancy B.V.",
+      "Strict bv",
       "Universiteit Antwerpen",
       "Technische Universiteit Eindhoven"
     ],
@@ -75219,7 +75219,7 @@
         ]
       },
       {
-        "naam": "Strict Consultancy B.V.",
+        "naam": "Strict bv",
         "kvk": "30205458",
         "bronnamen": [
           "Strict bv"
@@ -75263,7 +75263,7 @@
       "Bluemark Innovations B.V.",
       "Dialogic Innovatie & Interactie",
       "Stratix B.V.",
-      "Strict Consultancy B.V.",
+      "Strict bv",
       "Universiteit Antwerpen",
       "Technische Universiteit Eindhoven"
     ],
@@ -77068,7 +77068,7 @@
     "publicatiedatum": "2021-03-05",
     "sluitingsdatum": "2021-04-19T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "LTP Advies BV",
+    "winnaar": "LTP Advies B.V.",
     "cpv_codes": [
       "73430000-5",
       "75130000-6"
@@ -77207,7 +77207,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "LTP Advies BV",
+        "naam": "LTP Advies B.V.",
         "kvk": "34139534",
         "bronnamen": [
           "LTP Advies B.V."
@@ -77219,7 +77219,7 @@
       }
     ],
     "winnaars": [
-      "LTP Advies BV"
+      "LTP Advies B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -81919,7 +81919,7 @@
     "waarde_definitief": null,
     "datum_gunning": "2020-09-14",
     "extra_winnaars": [
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Itad Ltd",
       "KIT Royal Tropical Institute",
       "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",
@@ -81967,7 +81967,7 @@
         ]
       },
       {
-        "naam": "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+        "naam": "Erasmus Universiteit Rotterdam",
         "kvk": "24495550",
         "bronnamen": [
           "Erasmus Universiteit Rotterdam"
@@ -82142,7 +82142,7 @@
     ],
     "winnaars": [
       "ADE s.a.",
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Itad Ltd",
       "KIT Royal Tropical Institute",
       "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",

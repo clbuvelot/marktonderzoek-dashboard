@@ -28746,7 +28746,7 @@
     "publicatiedatum": "2026-01-25",
     "sluitingsdatum": "2026-03-25T10:00:00",
     "gunningswaarde": 200000.0,
-    "winnaar": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+    "winnaar": "Dr. Hilda Verwey-Jonker Instituut",
     "cpv_codes": [
       "79315000-5",
       "79330000-6"
@@ -28899,7 +28899,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "naam": "Dr. Hilda Verwey-Jonker Instituut",
         "kvk": "41185848",
         "bronnamen": [
           "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
@@ -28913,7 +28913,7 @@
       }
     ],
     "winnaars": [
-      "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      "Dr. Hilda Verwey-Jonker Instituut"
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -63767,7 +63767,7 @@
     "publicatiedatum": "2025-02-05",
     "sluitingsdatum": "2025-03-17T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+    "winnaar": "Dr. Hilda Verwey-Jonker Instituut",
     "cpv_codes": [
       "79315000-5"
     ],
@@ -63926,7 +63926,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "naam": "Dr. Hilda Verwey-Jonker Instituut",
         "kvk": "41185848",
         "bronnamen": [
           "Dr. Hilda Verwey-Jonker Instituut"
@@ -63940,7 +63940,7 @@
       }
     ],
     "winnaars": [
-      "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      "Dr. Hilda Verwey-Jonker Instituut"
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -80103,7 +80103,8 @@
         ],
         "bron_publicatie_ids": [
           "366412"
-        ]
+        ],
+        "kvk_bronconflict": true
       }
     ],
     "winnaars": [
@@ -98114,7 +98115,7 @@
     "publicatiedatum": "2024-04-21",
     "sluitingsdatum": "2024-06-06T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "Ferro Explore B.V.",
+    "winnaar": "Ferro Explore BV",
     "cpv_codes": [
       "73000000-2",
       "79341000-6",
@@ -98265,7 +98266,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Ferro Explore B.V.",
+        "naam": "Ferro Explore BV",
         "kvk": "33125884",
         "bronnamen": [
           "Ferro Explore BV"
@@ -98278,7 +98279,7 @@
         ]
       },
       {
-        "naam": "Mare Holland B.V.",
+        "naam": "MARE Holland B.V.",
         "kvk": "33213137",
         "bronnamen": [
           "MARE Holland B.V."
@@ -98305,12 +98306,12 @@
       }
     ],
     "winnaars": [
-      "Ferro Explore B.V.",
-      "Mare Holland B.V.",
+      "Ferro Explore BV",
+      "MARE Holland B.V.",
       "Motivaction"
     ],
     "extra_winnaars": [
-      "Mare Holland B.V.",
+      "MARE Holland B.V.",
       "Motivaction"
     ],
     "gunning_bronnen": [
@@ -104432,7 +104433,7 @@
     "publicatiedatum": "2024-03-08",
     "sluitingsdatum": "2024-04-10T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht",
+    "winnaar": "Universitair Medisch Centrum Utrecht",
     "cpv_codes": [
       "73000000-2",
       "85150000-5"
@@ -104577,7 +104578,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht",
+        "naam": "Universitair Medisch Centrum Utrecht",
         "kvk": "30244197",
         "bronnamen": [
           "Universitair Medisch Centrum Utrecht"
@@ -104591,7 +104592,7 @@
       }
     ],
     "winnaars": [
-      "Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht"
+      "Universitair Medisch Centrum Utrecht"
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -115262,7 +115263,7 @@
     "publicatiedatum": "2023-12-14",
     "sluitingsdatum": "2024-02-26T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "MarketResponse Nederland B.V.",
+    "winnaar": "Marketresponse Nederland B.V.",
     "cpv_codes": [
       "73000000-2",
       "79342310-9"
@@ -115409,7 +115410,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "MarketResponse Nederland B.V.",
+        "naam": "Marketresponse Nederland B.V.",
         "kvk": "31030821",
         "bronnamen": [
           "Marketresponse Nederland B.V."
@@ -115449,7 +115450,7 @@
       }
     ],
     "winnaars": [
-      "MarketResponse Nederland B.V.",
+      "Marketresponse Nederland B.V.",
       "Blauw Research B.V.",
       "Miles Research"
     ],
@@ -119122,7 +119123,7 @@
     "publicatiedatum": "2023-11-03",
     "sluitingsdatum": "2023-12-19T11:00:00",
     "gunningswaarde": null,
-    "winnaar": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+    "winnaar": "Dr. Hilda Verwey-Jonker Instituut",
     "cpv_codes": [
       "73110000-6",
       "79419000-4"
@@ -119285,7 +119286,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "naam": "Dr. Hilda Verwey-Jonker Instituut",
         "kvk": "41185848",
         "bronnamen": [
           "Dr. Hilda Verwey-Jonker Instituut"
@@ -119299,7 +119300,7 @@
       }
     ],
     "winnaars": [
-      "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken"
+      "Dr. Hilda Verwey-Jonker Instituut"
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -122041,7 +122042,7 @@
     "publicatiedatum": "2023-10-19",
     "sluitingsdatum": "2022-08-29T13:00:00",
     "gunningswaarde": null,
-    "winnaar": "Deloitte Consulting BV",
+    "winnaar": "Deloitte Consulting B.V.",
     "cpv_codes": [
       "73210000-7"
     ],
@@ -122196,7 +122197,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Deloitte Consulting BV",
+        "naam": "Deloitte Consulting B.V.",
         "kvk": "33259541",
         "bronnamen": [
           "Deloitte Consulting BV"
@@ -122208,7 +122209,7 @@
       }
     ],
     "winnaars": [
-      "Deloitte Consulting BV"
+      "Deloitte Consulting B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -146052,7 +146053,7 @@
     "publicatiedatum": "2022-11-30",
     "sluitingsdatum": "2022-06-27T10:00:00",
     "gunningswaarde": null,
-    "winnaar": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+    "winnaar": "Dr. Hilda Verwey-Jonker Instituut",
     "cpv_codes": [
       "73110000-6"
     ],
@@ -146221,7 +146222,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+        "naam": "Dr. Hilda Verwey-Jonker Instituut",
         "kvk": "41185848",
         "bronnamen": [
           "Stichting dr. Hilda Verwey-Jonker Instituut"
@@ -146433,8 +146434,7 @@
         ],
         "bron_publicatie_ids": [
           "280895"
-        ],
-        "kvk_bronconflict": true
+        ]
       },
       {
         "naam": "Rijksuniversiteit Groningen",
@@ -146532,7 +146532,7 @@
       }
     ],
     "winnaars": [
-      "Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",
+      "Dr. Hilda Verwey-Jonker Instituut",
       "Andersson Elffers Felix (AEF)",
       "KBA Nijmegen",
       "ResearchNed",
@@ -155023,8 +155023,7 @@
         ],
         "bron_publicatie_ids": [
           "290557"
-        ],
-        "kvk_bronconflict": true
+        ]
       },
       {
         "naam": "Autentika Global",
@@ -157004,7 +157003,8 @@
         "percelen": [],
         "bron_publicatie_ids": [
           "266138"
-        ]
+        ],
+        "kvk_bronconflict": true
       }
     ],
     "winnaars": [
@@ -158194,7 +158194,7 @@
     "publicatiedatum": "2022-06-25",
     "sluitingsdatum": "2022-04-12T15:00:00",
     "gunningswaarde": null,
-    "winnaar": "Significant Groep bv",
+    "winnaar": "Significant Public B.V.",
     "cpv_codes": [
       "73110000-6",
       "79720000-7"
@@ -158342,7 +158342,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Significant Groep bv",
+        "naam": "Significant Public B.V.",
         "kvk": "39081506",
         "bronnamen": [
           "Significant Public B.V."
@@ -158350,11 +158350,12 @@
         "percelen": [],
         "bron_publicatie_ids": [
           "265327"
-        ]
+        ],
+        "kvk_bronconflict": true
       }
     ],
     "winnaars": [
-      "Significant Groep bv"
+      "Significant Public B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -166944,7 +166945,7 @@
     "datum_gunning": "2022-07-29",
     "extra_winnaars": [
       "Universiteit van Amsterdam",
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Expertisecentrum Nederlands BV",
       "Freihov B.V.",
       "Stichting Radboud Universiteit Nijmegen",
@@ -167007,7 +167008,7 @@
         ]
       },
       {
-        "naam": "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+        "naam": "Erasmus Universiteit Rotterdam",
         "kvk": "24495550",
         "bronnamen": [
           "Erasmus Universiteit Rotterdam"
@@ -167062,8 +167063,7 @@
         ],
         "bron_publicatie_ids": [
           "268777"
-        ],
-        "kvk_bronconflict": true
+        ]
       },
       {
         "naam": "Universiteit Utrecht",
@@ -167179,7 +167179,7 @@
     "winnaars": [
       "ITTA UvA",
       "Universiteit van Amsterdam",
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Expertisecentrum Nederlands BV",
       "Freihov B.V.",
       "Stichting Radboud Universiteit Nijmegen",
@@ -169300,7 +169300,7 @@
     "publicatiedatum": "2022-02-10",
     "sluitingsdatum": "2022-03-31T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "Deloitte Consulting BV",
+    "winnaar": "Deloitte Consulting B.V.",
     "cpv_codes": [
       "72000000-5",
       "73000000-2",
@@ -169442,7 +169442,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "Deloitte Consulting BV",
+        "naam": "Deloitte Consulting B.V.",
         "kvk": "33259541",
         "bronnamen": [
           "Deloitte Consulting B.V."
@@ -169454,7 +169454,7 @@
       }
     ],
     "winnaars": [
-      "Deloitte Consulting BV"
+      "Deloitte Consulting B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -189658,7 +189658,7 @@
     "extra_winnaars": [
       "Dialogic Innovatie & Interactie",
       "Stratix B.V.",
-      "Strict Consultancy B.V.",
+      "Strict bv",
       "Universiteit Antwerpen",
       "Technische Universiteit Eindhoven"
     ],
@@ -189714,7 +189714,7 @@
         ]
       },
       {
-        "naam": "Strict Consultancy B.V.",
+        "naam": "Strict bv",
         "kvk": "30205458",
         "bronnamen": [
           "Strict bv"
@@ -189758,7 +189758,7 @@
       "Bluemark Innovations B.V.",
       "Dialogic Innovatie & Interactie",
       "Stratix B.V.",
-      "Strict Consultancy B.V.",
+      "Strict bv",
       "Universiteit Antwerpen",
       "Technische Universiteit Eindhoven"
     ],
@@ -193462,7 +193462,7 @@
     "publicatiedatum": "2021-03-05",
     "sluitingsdatum": "2021-04-19T12:00:00",
     "gunningswaarde": null,
-    "winnaar": "LTP Advies BV",
+    "winnaar": "LTP Advies B.V.",
     "cpv_codes": [
       "73430000-5",
       "75130000-6"
@@ -193601,7 +193601,7 @@
     },
     "winnende_organisaties": [
       {
-        "naam": "LTP Advies BV",
+        "naam": "LTP Advies B.V.",
         "kvk": "34139534",
         "bronnamen": [
           "LTP Advies B.V."
@@ -193613,7 +193613,7 @@
       }
     ],
     "winnaars": [
-      "LTP Advies BV"
+      "LTP Advies B.V."
     ],
     "extra_winnaars": [],
     "gunning_bronnen": [
@@ -197849,7 +197849,7 @@
     "winnende_organisaties": [
       {
         "naam": "Over Morgen B.V.",
-        "kvk": "27243218",
+        "kvk": "",
         "bronnamen": [
           "Over Morgen B.V."
         ],
@@ -207487,7 +207487,7 @@
     "waarde_definitief": null,
     "datum_gunning": "2020-09-14",
     "extra_winnaars": [
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Itad Ltd",
       "KIT Royal Tropical Institute",
       "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",
@@ -207535,7 +207535,7 @@
         ]
       },
       {
-        "naam": "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+        "naam": "Erasmus Universiteit Rotterdam",
         "kvk": "24495550",
         "bronnamen": [
           "Erasmus Universiteit Rotterdam"
@@ -207710,7 +207710,7 @@
     ],
     "winnaars": [
       "ADE s.a.",
-      "Erasmus Universiteit Rotterdam (EUR) - ESHPM",
+      "Erasmus Universiteit Rotterdam",
       "Itad Ltd",
       "KIT Royal Tropical Institute",
       "Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH",

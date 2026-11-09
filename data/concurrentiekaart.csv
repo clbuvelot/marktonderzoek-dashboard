@@ -33,7 +33,7 @@ Mantle Netherlands B.V.,5,4,80.0,0,Bestuur & uitvoering,Mixed methods
 Itad Ltd,5,3,60.0,0,Internationaal & EU-fondsen,Mixed methods
 Twynstra Gudde Holding B.V.,4,0,0.0,649919,Wonen & ruimte,Doeltreffendheidsevaluatie (beschrijvend)
 4cast B.V.,4,1,25.0,0,Economie & innovatie,Systeemevaluatie / beleidsdoorlichting
-"Stichting dr. Hilda Verwey-Jonker Instituut, Instituut voor Onderzoek van Maatschappelijke Vraagstukken",4,3,75.0,200000,Veiligheid & justitie,Mixed methods
+Dr. Hilda Verwey-Jonker Instituut,4,3,75.0,200000,Veiligheid & justitie,Mixed methods
 KplusV B.V.,4,2,50.0,1990565,Economie & innovatie,Systeemevaluatie / beleidsdoorlichting
 KBA Nijmegen,4,4,100.0,0,Onderwijs & talentontwikkeling,Mixed methods
 Stichting Centerdata,4,4,100.0,0,Onderwijs & talentontwikkeling,Mixed methods
@@ -57,17 +57,14 @@ Universiteit Utrecht,3,2,66.7,0,Onderwijs & talentontwikkeling,Mixed methods
 Eco Consult,3,1,33.3,1112142,Energie & klimaat,Onduidelijk / niet gespecificeerd
 DNV Netherlands B.V.,3,1,33.3,0,Economie & innovatie,Onduidelijk / niet gespecificeerd
 RPS advies- en ingenieursbureau B.V.,3,0,0.0,4000000,Economie & innovatie,Onduidelijk / niet gespecificeerd
-Significant Groep bv,3,1,33.3,959960,Arbeidsmarkt & sociale zekerheid,Onduidelijk / niet gespecificeerd
 KIT Royal Tropical Institute,3,2,66.7,0,Internationaal & EU-fondsen,Mixed methods
 MDF Training & Consultancy,3,2,66.7,0,Internationaal & EU-fondsen,Mixed methods
 Particip GmbH,3,2,66.7,0,Internationaal & EU-fondsen,Mixed methods
-MarketResponse Nederland B.V.,3,2,66.7,0,Bestuur & uitvoering,Mixed methods
 Universiteit Twente,3,3,100.0,0,Onderwijs & talentontwikkeling,Statistisch / econometrisch
 Expertisecentrum Nederlands BV,3,3,100.0,2017621,Onderwijs & talentontwikkeling,Systeemevaluatie / beleidsdoorlichting
 Kohnstamm Instituut UvA B.V.,3,2,66.7,0,Onderwijs & talentontwikkeling,Systeemevaluatie / beleidsdoorlichting
 Universiteit van Amsterdam,3,2,66.7,0,Onderwijs & talentontwikkeling,Survey / enquête
 Sovon Vogelonderzoek Nederland,3,1,33.3,247442,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
-Erasmus Universiteit Rotterdam (EUR) - ESHPM,3,2,66.7,1,Onderwijs & talentontwikkeling,Mixed methods
 De Vlinderstichting,2,0,0.0,366666,Energie & klimaat,Literatuuronderzoek / meta-analyse
 Revnext B.V.,2,0,0.0,0,Economie & innovatie,Systeemevaluatie / beleidsdoorlichting
 VORtech B.V.,2,0,0.0,0,Economie & innovatie,Systeemevaluatie / beleidsdoorlichting
@@ -102,6 +99,7 @@ AT Osborne B.V.,2,0,0.0,369345,Bestuur & uitvoering,Onduidelijk / niet gespecifi
 Eureco B.V.,2,2,100.0,1,Bestuur & uitvoering,Statistisch / econometrisch
 Gupta Strategists,2,2,100.0,0,Zorg & welzijn,Doeltreffendheidsevaluatie (beschrijvend)
 Stichting Instituut voor Verantwoord Medicijngebruik,2,0,0.0,209395,Zorg & welzijn,Onduidelijk / niet gespecificeerd
+Significant Groep bv,2,0,0.0,500000,Zorg & welzijn,Onduidelijk / niet gespecificeerd
 SAB,2,0,0.0,330200,Wonen & ruimte,Onduidelijk / niet gespecificeerd
 Aveco de Bondt B.V.,2,1,50.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 ERAC (European and Regional Affairs Consultants),2,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
@@ -110,12 +108,10 @@ PosadMaxwan V.O.F.,2,0,0.0,1,Wonen & ruimte,Mixed methods
 BKP Economic Advisors GmbH,2,2,100.0,0,Internationaal & EU-fondsen,Mixed methods
 RAND Europe Community Interest Company,2,2,100.0,0,Internationaal & EU-fondsen,Mixed methods
 SiRM,2,0,0.0,597377,Zorg & welzijn,Systeemevaluatie / beleidsdoorlichting
-Ferro Explore B.V.,2,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
-Mare Holland B.V.,2,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 BKB,2,0,0.0,287000,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
 HydroLogic BV,2,1,50.0,678800,Energie & klimaat,Systeemevaluatie / beleidsdoorlichting
 Risbo Contractresearch B.V.,2,2,100.0,230000,Arbeidsmarkt & sociale zekerheid,Mixed methods
-Deloitte Consulting BV,2,0,0.0,24000000,Wonen & ruimte,Systeemevaluatie / beleidsdoorlichting
+Deloitte Consulting B.V.,2,0,0.0,24000000,Wonen & ruimte,Systeemevaluatie / beleidsdoorlichting
 Oberon,2,1,50.0,0,Onderwijs & talentontwikkeling,Systeemevaluatie / beleidsdoorlichting
 Inkada B.V.,2,0,0.0,105000,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 EY Advisory Netherlands LLP,2,0,0.0,0,Arbeidsmarkt & sociale zekerheid,Doeltreffendheidsevaluatie (beschrijvend)
@@ -128,9 +124,12 @@ SEOR BV,2,1,50.0,299810,Arbeidsmarkt & sociale zekerheid,Mixed methods
 Dijksterhuis & van Baaren,2,0,0.0,0,Bestuur & uitvoering,Mixed methods
 ResearchNed B.V.,2,2,100.0,0,Onderwijs & talentontwikkeling,Systeemevaluatie / beleidsdoorlichting
 Stichting Center For International Legal Cooperation,2,0,0.0,0,Internationaal & EU-fondsen,Procesevaluatie
+Significant Public B.V.,2,1,50.0,459960,Arbeidsmarkt & sociale zekerheid,Statistisch / econometrisch
 Kantar Public - Verian (voorheen Kantar/TNS Nipo),2,1,50.0,250000,Zorg & welzijn,Doeltreffendheidsevaluatie (beschrijvend)
+Erasmus Universiteit Rotterdam,2,1,50.0,0,Onderwijs & talentontwikkeling,Mixed methods
 KPMG Advisory N.V.,2,1,50.0,500000,Zorg & welzijn,Doeltreffendheidsevaluatie (beschrijvend)
 Guidehouse Netherlands B.V.,2,1,50.0,182509,Economie & innovatie,Onduidelijk / niet gespecificeerd
+MarketResponse Nederland B.V.,2,2,100.0,0,Bestuur & uitvoering,Statistisch / econometrisch
 Hoogvliet Jongerius,1,0,0.0,94626,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
 AFRY Netherlands B.V.,1,1,100.0,0,Energie & klimaat,MKBA
 Research 2Evolve B.V. (Helder Onderzoek),1,1,100.0,0,Zorg & welzijn,Doeltreffendheidsevaluatie (beschrijvend)
@@ -289,6 +288,8 @@ Stichting Wageningen Research / Centre for Development Innovation,1,1,100.0,0,In
 International Initiative for Impact Evaluation,1,1,100.0,0,Internationaal & EU-fondsen,Mixed methods
 Aktis Hydraulics B.V.,1,0,0.0,1225350,Economie & innovatie,Onduidelijk / niet gespecificeerd
 DNV Renewables Certification GmbH,1,0,0.0,306702,Energie & klimaat,Onduidelijk / niet gespecificeerd
+Ferro Explore BV,1,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
+MARE Holland B.V.,1,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 ADSE Consulting and Engineering B.V.,1,0,0.0,0,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 Marb Consultancy B.V.,1,0,0.0,0,Wonen & ruimte,Onduidelijk / niet gespecificeerd
 Deloitte Risk Advisory B.V.,1,0,0.0,0,Zorg & welzijn,Onduidelijk / niet gespecificeerd
@@ -301,7 +302,7 @@ Leam Advies,1,0,0.0,204400,Bestuur & uitvoering,Systeemevaluatie / beleidsdoorli
 Forty B.V.,1,0,0.0,0,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
 Koos B.V.,1,0,0.0,0,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
 The Talent Institute B.V.,1,0,0.0,0,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
-Dutch Cochrane Centre / Universitair Medisch Centrum Utrecht,1,0,0.0,0,Zorg & welzijn,Literatuuronderzoek / meta-analyse
+Universitair Medisch Centrum Utrecht,1,0,0.0,0,Zorg & welzijn,Literatuuronderzoek / meta-analyse
 v.d. Goes en Groot Ecol.Onderz.en Adv. Bureau,1,0,0.0,0,Energie & klimaat,Onduidelijk / niet gespecificeerd
 "Bax Innovation Consulting, SL",1,0,0.0,185000,Energie & klimaat,Mixed methods
 Conclusion B.V.,1,1,100.0,0,Bestuur & uitvoering,Mixed methods
@@ -331,6 +332,7 @@ Houthuijzen en partners B.V.,1,0,0.0,0,Economie & innovatie,Onduidelijk / niet g
 InfraDEM,1,0,0.0,582400,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 De Vis Advies B.V.,1,0,0.0,590000,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 Pius Floris Onderzoek & Advies,1,0,0.0,0,Wonen & ruimte,Onduidelijk / niet gespecificeerd
+Marketresponse Nederland B.V.,1,0,0.0,0,Economie & innovatie,Mixed methods
 Miles Research,1,0,0.0,0,Economie & innovatie,Mixed methods
 0to9,1,0,0.0,0,Arbeidsmarkt & sociale zekerheid,Onduidelijk / niet gespecificeerd
 MMS Communications Netherlands B.V.,1,0,0.0,0,Arbeidsmarkt & sociale zekerheid,Onduidelijk / niet gespecificeerd
@@ -515,7 +517,7 @@ Hiemstra & De Vries,1,0,0.0,0,Bestuur & uitvoering,Procesevaluatie
 Mobilee Consultancy BV,1,0,0.0,0,Bestuur & uitvoering,Procesevaluatie
 Rebel Strong Society BV,1,0,0.0,152000,Veiligheid & justitie,Systeemevaluatie / beleidsdoorlichting
 Bluemark Innovations B.V.,1,0,0.0,0,Economie & innovatie,Mixed methods
-Strict Consultancy B.V.,1,0,0.0,0,Economie & innovatie,Mixed methods
+Strict bv,1,0,0.0,0,Economie & innovatie,Mixed methods
 Universiteit Antwerpen,1,0,0.0,0,Economie & innovatie,Mixed methods
 Technische Universiteit Eindhoven,1,0,0.0,0,Economie & innovatie,Mixed methods
 C-Job & Partners B.V./ Stichting Maritiem Research Instituut Nederland,1,0,0.0,0,Energie & klimaat,Onduidelijk / niet gespecificeerd
@@ -525,7 +527,7 @@ Orange Dragonfly Consultancy,1,0,0.0,97875,Zorg & welzijn,Onduidelijk / niet ges
 Gros Food,1,0,0.0,0,Economie & innovatie,Mixed methods
 Biodiversity in business,1,0,0.0,0,Economie & innovatie,Mixed methods
 Stichting ehvLINC,1,0,0.0,0,Economie & innovatie,Mixed methods
-LTP Advies BV,1,0,0.0,400000,Onderwijs & talentontwikkeling,Onduidelijk / niet gespecificeerd
+LTP Advies B.V.,1,0,0.0,400000,Onderwijs & talentontwikkeling,Onduidelijk / niet gespecificeerd
 Goudappel Coffeng B.V.,1,0,0.0,0,Wonen & ruimte,Mixed methods
 Transition International,1,1,100.0,0,Internationaal & EU-fondsen,Mixed methods
 Vivid Economics,1,1,100.0,0,Internationaal & EU-fondsen,Mixed methods
@@ -539,10 +541,11 @@ Genomescan,1,0,0.0,0,Zorg & welzijn,Onduidelijk / niet gespecificeerd
 Radboud,1,0,0.0,0,Zorg & welzijn,Onduidelijk / niet gespecificeerd
 UMCU,1,0,0.0,0,Zorg & welzijn,Onduidelijk / niet gespecificeerd
 PricewaterhoudseCooper Advisory N.V. (PwC),1,0,0.0,0,Zorg & welzijn,Systeemevaluatie / beleidsdoorlichting
-Significant Public B.V.,1,0,0.0,0,Zorg & welzijn,Systeemevaluatie / beleidsdoorlichting
 Over Morgen B.V.,1,0,0.0,0,Wonen & ruimte,Systeemevaluatie / beleidsdoorlichting
 Klimaatroute,1,0,0.0,175000,Energie & klimaat,Advies / beleidsstudie
 Stichting Liber,1,1,100.0,163245,Arbeidsmarkt & sociale zekerheid,Doeltreffendheidsevaluatie (beschrijvend)
+Ferro Explore B.V.,1,0,0.0,0,Bestuur & uitvoering,Mixed methods
+Mare Holland B.V.,1,0,0.0,0,Bestuur & uitvoering,Mixed methods
 CHOICE insights + strategy,1,1,100.0,0,Bestuur & uitvoering,Statistisch / econometrisch
 Amfius Challenge,1,0,0.0,0,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
 Birds.ai,1,0,0.0,0,Overig / onduidelijk,Onduidelijk / niet gespecificeerd
@@ -572,6 +575,7 @@ Atlas voor gemeenten,1,1,100.0,933527,Wonen & ruimte,Doeltreffendheidsevaluatie 
 Kantar Nederland BV,1,0,0.0,0,Economie & innovatie,Mixed methods
 2. Traffic Consultancy BV,1,0,0.0,2880000,Bestuur & uitvoering,Onduidelijk / niet gespecificeerd
 Aircraft Development and Systems Engineering (Adse),1,0,0.0,4000000,Veiligheid & justitie,Onduidelijk / niet gespecificeerd
+Erasmus Universiteit Rotterdam (EUR) - ESHPM,1,1,100.0,1,Zorg & welzijn,Statistisch / econometrisch
 ADE s.a.,1,0,0.0,0,Internationaal & EU-fondsen,Onduidelijk / niet gespecificeerd
 Mannheimer Zentrum für Evaluation und Entwicklungsforschung gGmbH,1,0,0.0,0,Internationaal & EU-fondsen,Onduidelijk / niet gespecificeerd
 University of Greenwich Natural Resources Institute,1,0,0.0,0,Internationaal & EU-fondsen,Onduidelijk / niet gespecificeerd
