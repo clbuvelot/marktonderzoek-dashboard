@@ -13323,7 +13323,7 @@
     "id": "427647",
     "tenderned_kenmerk": "593819",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -13341,7 +13341,7 @@
     "procedure_type": "Openbaar",
     "procedure_code": "OPE",
     "publicatiedatum": "2026-06-04",
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-11-11",
     "sluitingsdatum": "2026-09-01T10:00:00",
     "gunningswaarde": null,
     "winnaar": "",
@@ -13498,7 +13498,29 @@
     },
     "winnende_organisaties": [],
     "winnaars": [],
-    "extra_winnaars": []
+    "extra_winnaars": [],
+    "gunning_publicatie_ids": [
+      "448687"
+    ],
+    "gekoppelde_kenmerken": [
+      "624120"
+    ],
+    "gunning_koppelingen": [
+      {
+        "gunning_publicatie_id": "448687",
+        "gunning_kenmerk": "624120",
+        "methoden": [
+          "procedure_uuid"
+        ],
+        "procedure_uuid": "3ec03550-9093-46ac-8814-281db8d425a0",
+        "referentie_nummer": "86525856-8407-4107-87ec-5d0628034c51",
+        "project_sleutel": "",
+        "record_id": "427647",
+        "publicatiedatum": "2026-11-11",
+        "bron": "TenderNed API"
+      }
+    ],
+    "gunning_publicatie_id": "448687"
   },
   {
     "id": "427622",
@@ -41388,7 +41410,7 @@
     "id": "393572",
     "tenderned_kenmerk": "547042",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -41525,7 +41547,7 @@
       "units_status": "buiten_scope",
       "teams_versie": "teams-v4-189b9e99ce73"
     },
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-11-10",
     "koppeling_metadata": {
       "publicatie_id": "393572",
       "http_status": 200,
@@ -41547,7 +41569,30 @@
     },
     "winnende_organisaties": [],
     "winnaars": [],
-    "extra_winnaars": []
+    "extra_winnaars": [],
+    "gunning_publicatie_ids": [
+      "448482"
+    ],
+    "gekoppelde_kenmerken": [
+      "547042"
+    ],
+    "gunning_koppelingen": [
+      {
+        "gunning_publicatie_id": "448482",
+        "gunning_kenmerk": "547042",
+        "methoden": [
+          "procedure_uuid",
+          "tenderned_kenmerk"
+        ],
+        "procedure_uuid": "d9d554de-98c8-4f9a-989e-fdbe1fa16cea",
+        "referentie_nummer": "UPN-2025-148-DZ",
+        "project_sleutel": "",
+        "record_id": "393572",
+        "publicatiedatum": "2026-11-10",
+        "bron": "TenderNed API"
+      }
+    ],
+    "gunning_publicatie_id": "448482"
   },
   {
     "id": "393568",
@@ -143377,7 +143422,7 @@
     "koppeling_metadata": {
       "publicatie_id": "284996",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:45.750665+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:23.173388+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -187353,7 +187398,7 @@
     "koppeling_metadata": {
       "publicatie_id": "227229",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.854874+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:23.112348+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -188053,7 +188098,7 @@
     "koppeling_metadata": {
       "publicatie_id": "226690",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.852762+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:23.062079+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -188203,7 +188248,7 @@
     "koppeling_metadata": {
       "publicatie_id": "226492",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.855772+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.749224+00:00"
     },
     "winnende_organisaties": [
       {
@@ -188421,7 +188466,7 @@
     "koppeling_metadata": {
       "publicatie_id": "226186",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.186828+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.761573+00:00"
     },
     "winnende_organisaties": [
       {
@@ -188941,7 +188986,7 @@
     "koppeling_metadata": {
       "publicatie_id": "226103",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.183188+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.693659+00:00"
     },
     "winnende_organisaties": [
       {
@@ -189186,7 +189231,7 @@
     "koppeling_metadata": {
       "publicatie_id": "225590",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.173988+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.633172+00:00"
     },
     "winnende_organisaties": [
       {
@@ -189666,7 +189711,7 @@
     "koppeling_metadata": {
       "publicatie_id": "225195",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:14.512698+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.256932+00:00"
     },
     "winnende_organisaties": [
       {
@@ -190062,7 +190107,7 @@
     "koppeling_metadata": {
       "publicatie_id": "225037",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:14.515077+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.263265+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -190222,7 +190267,7 @@
     "koppeling_metadata": {
       "publicatie_id": "224512",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:14.493806+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.868651+00:00"
     },
     "winnende_organisaties": [
       {
@@ -190629,7 +190674,7 @@
     "koppeling_metadata": {
       "publicatie_id": "224354",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:13.797751+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.824663+00:00"
     },
     "winnende_organisaties": [
       {
@@ -191611,7 +191656,7 @@
     "koppeling_metadata": {
       "publicatie_id": "223973",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:13.778281+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.825946+00:00"
     },
     "winnende_organisaties": [
       {
@@ -191826,7 +191871,7 @@
     "koppeling_metadata": {
       "publicatie_id": "223586",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:13.796235+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.789656+00:00"
     },
     "winnende_organisaties": [
       {
@@ -192288,7 +192333,7 @@
     "koppeling_metadata": {
       "publicatie_id": "222846",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:13.128353+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.420735+00:00"
     },
     "winnende_organisaties": [
       {
@@ -192869,7 +192914,7 @@
     "koppeling_metadata": {
       "publicatie_id": "221903",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:12.463247+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.403392+00:00"
     },
     "winnende_organisaties": [
       {
@@ -193134,7 +193179,7 @@
     "koppeling_metadata": {
       "publicatie_id": "221780",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:12.452709+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.996939+00:00"
     },
     "winnende_organisaties": [
       {
@@ -193362,7 +193407,7 @@
     "koppeling_metadata": {
       "publicatie_id": "221796",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:12.453706+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.347047+00:00"
     },
     "winnende_organisaties": [
       {
@@ -193829,7 +193874,7 @@
     "koppeling_metadata": {
       "publicatie_id": "221237",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.803647+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.969509+00:00"
     },
     "winnende_organisaties": [
       {
@@ -194379,7 +194424,7 @@
     "koppeling_metadata": {
       "publicatie_id": "220097",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.837839+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.928459+00:00"
     },
     "winnende_organisaties": [
       {
@@ -195055,7 +195100,7 @@
     "koppeling_metadata": {
       "publicatie_id": "220067",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.804675+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.567584+00:00"
     },
     "winnende_organisaties": [
       {
@@ -195315,7 +195360,7 @@
     "koppeling_metadata": {
       "publicatie_id": "219922",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.815240+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.554107+00:00"
     },
     "winnende_organisaties": [
       {
@@ -195729,7 +195774,7 @@
     "koppeling_metadata": {
       "publicatie_id": "218200",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.672099+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.688708+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -195877,7 +195922,7 @@
     "koppeling_metadata": {
       "publicatie_id": "219265",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.257823+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.499305+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -196038,7 +196083,7 @@
     "koppeling_metadata": {
       "publicatie_id": "218622",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.734948+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.101584+00:00"
     },
     "winnende_organisaties": [
       {
@@ -196301,7 +196346,7 @@
     "koppeling_metadata": {
       "publicatie_id": "218329",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.743472+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.062393+00:00"
     },
     "winnende_organisaties": [
       {
@@ -196521,7 +196566,7 @@
     "koppeling_metadata": {
       "publicatie_id": "218328",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.723553+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.067480+00:00"
     },
     "winnende_organisaties": [
       {
@@ -196747,7 +196792,7 @@
     "koppeling_metadata": {
       "publicatie_id": "217695",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.108568+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.652107+00:00"
     },
     "winnende_organisaties": [
       {
@@ -196966,7 +197011,7 @@
     "koppeling_metadata": {
       "publicatie_id": "217453",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.129106+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.679901+00:00"
     },
     "winnende_organisaties": [
       {
@@ -197469,7 +197514,7 @@
     "koppeling_metadata": {
       "publicatie_id": "225203",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:15.172990+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.301891+00:00"
     },
     "winnende_organisaties": [
       {
@@ -197679,7 +197724,7 @@
     "koppeling_metadata": {
       "publicatie_id": "216940",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:09.560234+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.265093+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -197844,7 +197889,7 @@
     "koppeling_metadata": {
       "publicatie_id": "216473",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:09.540358+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.210816+00:00"
     },
     "winnende_organisaties": [
       {
@@ -198061,7 +198106,7 @@
     "koppeling_metadata": {
       "publicatie_id": "215936",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:09.555306+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.219399+00:00"
     },
     "winnende_organisaties": [
       {
@@ -198296,7 +198341,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214619",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.222905+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.422595+00:00"
     },
     "winnende_organisaties": [
       {
@@ -198522,7 +198567,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214675",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.919281+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.805734+00:00"
     },
     "winnende_organisaties": [
       {
@@ -198739,7 +198784,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214541",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.209107+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.385122+00:00"
     },
     "winnende_organisaties": [
       {
@@ -198964,7 +199009,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214394",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.218901+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.398205+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -199116,7 +199161,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213993",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:07.553376+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.987637+00:00"
     },
     "winnende_organisaties": [
       {
@@ -199342,7 +199387,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213995",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.198637+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.378569+00:00"
     },
     "winnende_organisaties": [
       {
@@ -199609,7 +199654,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213991",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:07.539186+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.996958+00:00"
     },
     "winnende_organisaties": [
       {
@@ -200076,7 +200121,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213527",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:07.563938+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.963565+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -200223,7 +200268,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213251",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.885003+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.970727+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -200771,7 +200816,7 @@
     "koppeling_metadata": {
       "publicatie_id": "213056",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.886003+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.570106+00:00"
     },
     "winnende_organisaties": [
       {
@@ -201010,7 +201055,7 @@
     "koppeling_metadata": {
       "publicatie_id": "212964",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.871404+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.549562+00:00"
     },
     "winnende_organisaties": [
       {
@@ -201236,7 +201281,7 @@
     "koppeling_metadata": {
       "publicatie_id": "212675",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.238153+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.571174+00:00"
     },
     "winnende_organisaties": [
       {
@@ -201591,7 +201636,7 @@
     "koppeling_metadata": {
       "publicatie_id": "212360",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.229901+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.566274+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -201739,7 +201784,7 @@
     "koppeling_metadata": {
       "publicatie_id": "212117",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.224208+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.151982+00:00"
     },
     "winnende_organisaties": [
       {
@@ -202112,7 +202157,7 @@
     "koppeling_metadata": {
       "publicatie_id": "210784",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:05.560937+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.130948+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -202278,7 +202323,7 @@
     "koppeling_metadata": {
       "publicatie_id": "221297",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:12.465237+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.991213+00:00"
     },
     "winnende_organisaties": [
       {
@@ -202781,7 +202826,7 @@
     "koppeling_metadata": {
       "publicatie_id": "210128",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:04.883110+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:16.721620+00:00"
     },
     "winnende_organisaties": [
       {
@@ -203027,7 +203072,7 @@
     "koppeling_metadata": {
       "publicatie_id": "209860",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:04.901739+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:16.712613+00:00"
     },
     "winnende_organisaties": [
       {
@@ -203664,7 +203709,7 @@
     "koppeling_metadata": {
       "publicatie_id": "224566",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:14.498155+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:22.207244+00:00"
     },
     "winnende_organisaties": [
       {
@@ -204544,7 +204589,7 @@
     "koppeling_metadata": {
       "publicatie_id": "219028",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.243199+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.077849+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -205431,7 +205476,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214669",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.917080+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.797219+00:00"
     },
     "winnende_organisaties": [
       {
@@ -205979,7 +206024,7 @@
     "koppeling_metadata": {
       "publicatie_id": "219673",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:11.280219+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:20.517859+00:00"
     },
     "winnende_organisaties": [
       {
@@ -206202,7 +206247,7 @@
     "koppeling_metadata": {
       "publicatie_id": "217125",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:10.099844+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.632373+00:00"
     },
     "winnende_organisaties": [
       {
@@ -206582,7 +206627,7 @@
     "koppeling_metadata": {
       "publicatie_id": "216660",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:09.558204+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:19.243739+00:00"
     },
     "winnende_organisaties": [
       {
@@ -206799,7 +206844,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214691",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.917080+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.828080+00:00"
     },
     "winnende_organisaties": [
       {
@@ -207018,7 +207063,7 @@
     "koppeling_metadata": {
       "publicatie_id": "210554",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:05.557925+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:16.707518+00:00"
     },
     "winnende_organisaties": [
       {
@@ -207257,7 +207302,7 @@
     "koppeling_metadata": {
       "publicatie_id": "212132",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:06.230844+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.134042+00:00"
     },
     "winnende_organisaties": [
       {
@@ -208078,7 +208123,7 @@
     "koppeling_metadata": {
       "publicatie_id": "195524",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:03.061841+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:16.706671+00:00"
     },
     "winnende_organisaties": [
       {
@@ -208809,7 +208854,7 @@
     "koppeling_metadata": {
       "publicatie_id": "223365",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:13.143315+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:21.426906+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
@@ -209854,7 +209899,7 @@
     "koppeling_metadata": {
       "publicatie_id": "211965",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:05.554388+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:17.140674+00:00"
     },
     "winnende_organisaties": [
       {
@@ -210419,7 +210464,7 @@
     "koppeling_metadata": {
       "publicatie_id": "214717",
       "http_status": 404,
-      "geraadpleegd_op": "2026-11-08T16:04:08.916079+00:00"
+      "geraadpleegd_op": "2026-11-11T13:30:18.841673+00:00"
     },
     "winnende_organisaties": [],
     "winnaars": [],
