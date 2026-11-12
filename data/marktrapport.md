@@ -1,5 +1,5 @@
 # Marktrapport: Kwantitatieve beleidsevaluatie Nederland
-*Gegenereerd op 11-11-2026 op basis van 929 geclassificeerde aanbestedingen*
+*Gegenereerd op 12-11-2026 op basis van 929 geclassificeerde aanbestedingen*
 
 ---
 
