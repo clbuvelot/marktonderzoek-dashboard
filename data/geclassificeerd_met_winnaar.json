@@ -18632,7 +18632,7 @@
     "id": "418736",
     "tenderned_kenmerk": "577352",
     "bron": "tenderned",
-    "publicatie_type": "lopend",
+    "publicatie_type": "gegund",
     "type_publicatie_code": "AAO",
     "type_publicatie_omschrijving": "Aankondiging opdracht",
     "publicatiecode_code": "EF16",
@@ -18778,7 +18778,7 @@
       "units_status": "passend",
       "teams_versie": "teams-v4-189b9e99ce73"
     },
-    "gunningsdatum": "",
+    "gunningsdatum": "2026-11-13",
     "koppeling_metadata": {
       "publicatie_id": "418736",
       "http_status": 200,
@@ -18800,7 +18800,30 @@
     },
     "winnende_organisaties": [],
     "winnaars": [],
-    "extra_winnaars": []
+    "extra_winnaars": [],
+    "gunning_publicatie_ids": [
+      "449188"
+    ],
+    "gekoppelde_kenmerken": [
+      "577352"
+    ],
+    "gunning_koppelingen": [
+      {
+        "gunning_publicatie_id": "449188",
+        "gunning_kenmerk": "577352",
+        "methoden": [
+          "procedure_uuid",
+          "tenderned_kenmerk"
+        ],
+        "procedure_uuid": "7d9d19e0-c256-4126-9059-412708ca09b4",
+        "referentie_nummer": "802",
+        "project_sleutel": "",
+        "record_id": "418736",
+        "publicatiedatum": "2026-11-13",
+        "bron": "TenderNed API"
+      }
+    ],
+    "gunning_publicatie_id": "449188"
   },
   {
     "id": "418178",
